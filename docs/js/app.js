@@ -2866,16 +2866,15 @@ function downloadQuickReport() {
     periodLabel = `${year}년`;
   } else if (mode === 'monthly') {
     // 월별: 선택된 년-월
+    // 주의: monthSel.value는 0-indexed (0=1월, 1=2월, ...)
     const selectors = document.querySelectorAll('#summary-period-selectors select');
-    console.log('Monthly selectors:', selectors.length, selectors[0]?.value, selectors[1]?.value);
     const year = selectors[0]?.value || today.getFullYear();
-    const monthRaw = selectors[1]?.value || String(today.getMonth() + 1);
-    const month = String(monthRaw).padStart(2, '0');
-    const lastDay = new Date(parseInt(year), parseInt(month), 0).getDate();
+    const monthIndex = parseInt(selectors[1]?.value ?? today.getMonth(), 10); // 0-indexed
+    const month = String(monthIndex + 1).padStart(2, '0'); // 1-indexed로 변환
+    const lastDay = new Date(parseInt(year), monthIndex + 1, 0).getDate();
     startDate = `${year}-${month}-01`;
     endDate = `${year}-${month}-${String(lastDay).padStart(2, '0')}`;
-    periodLabel = `${year}년 ${parseInt(month)}월`;
-    console.log('Monthly period:', startDate, '~', endDate);
+    periodLabel = `${year}년 ${monthIndex + 1}월`;
   } else if (mode === 'weekly') {
     // 주별: 선택된 주
     const weekSelect = document.querySelector('#summary-period-selectors select');
