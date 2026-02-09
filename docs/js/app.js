@@ -2,6 +2,7 @@
 
 // ── Utilities ──
 const fmt = n => n == null ? '-' : n.toLocaleString('ko-KR');
+const fmtNum = fmt; // 숫자 포맷 별칭
 const fmtSafe = n => n == null ? '<span class="no-data" title="데이터 없음">-</span>' : n.toLocaleString('ko-KR');
 const fmtCompact = n => {
   if (n == null) return '-';
