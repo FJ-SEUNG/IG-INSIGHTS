@@ -3026,41 +3026,52 @@ function generateReportHTML(startDate, endDate) {
     </div>
 
     <!-- Section 3: 콘텐츠 유형별 성과 분석 -->
-    <div class="report-section">
+    <div class="report-section page-break-before">
       <h2>🎯 Section 3. 콘텐츠 유형별 성과 분석</h2>
 
-      <table class="report-table">
-        <tr>
-          <th>분류</th>
-          <th>해당 콘텐츠</th>
-          <th>성과 및 분석</th>
-          <th>전략</th>
-        </tr>
-        <tr>
-          <td><strong>High Reach</strong><br>(도달형)</td>
-          <td contenteditable="true">${topReach.map(p => p.title || '제목 없음').join(', ')}</td>
-          <td contenteditable="true">대중적 브랜드 + 강력한 혜택 후킹으로 비팔로워 유입 극대화</td>
-          <td contenteditable="true">강화: 주 1회 이상 대형 브랜드 테마 기획</td>
-        </tr>
-        <tr>
-          <td><strong>High Share</strong><br>(확산형)</td>
-          <td contenteditable="true">${topShares.map(p => p.title || '제목 없음').join(', ')}</td>
-          <td contenteditable="true">"나만 알기 아까운 정보" 혹은 "친구에게 알려줘야 할 주의사항"</td>
-          <td contenteditable="true">유지: '에티켓', '규제' 시리즈로 바이럴 유도</td>
-        </tr>
-        <tr>
-          <td><strong>High Save</strong><br>(저장형)</td>
-          <td contenteditable="true">${topSaves.map(p => p.title || '제목 없음').join(', ')}</td>
-          <td contenteditable="true">나중에 일본 여행 시 현장에서 꺼내 볼 실무 정보</td>
-          <td contenteditable="true">개선: 마지막 장 '요약 카드' 강화로 저장율 상향</td>
-        </tr>
-        <tr>
-          <td><strong>Low Perf.</strong><br>(개선 필요)</td>
-          <td contenteditable="true">${lowPerf.map(p => p.title || '제목 없음').join(', ')}</td>
-          <td contenteditable="true">정보는 유익하나 '이득/손해' 프레임이 부족해 클릭률 저조</td>
-          <td contenteditable="true">보완: 제목에 "모르면 손해" 등의 후킹 카피 적용</td>
-        </tr>
+      <table class="report-table report-table-resizable">
+        <colgroup>
+          <col style="width:12%">
+          <col style="width:30%">
+          <col style="width:30%">
+          <col style="width:28%">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>분류</th>
+            <th>해당 콘텐츠</th>
+            <th>성과 및 분석</th>
+            <th>전략</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="avoid-break">
+            <td><strong>High Reach</strong><br>(도달형)</td>
+            <td contenteditable="true">${topReach.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">대중적 브랜드 + 강력한 혜택 후킹으로 비팔로워 유입 극대화</td>
+            <td contenteditable="true">강화: 주 1회 이상 대형 브랜드 테마 기획</td>
+          </tr>
+          <tr class="avoid-break">
+            <td><strong>High Share</strong><br>(확산형)</td>
+            <td contenteditable="true">${topShares.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">"나만 알기 아까운 정보" 혹은 "친구에게 알려줘야 할 주의사항"</td>
+            <td contenteditable="true">유지: '에티켓', '규제' 시리즈로 바이럴 유도</td>
+          </tr>
+          <tr class="avoid-break">
+            <td><strong>High Save</strong><br>(저장형)</td>
+            <td contenteditable="true">${topSaves.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">나중에 일본 여행 시 현장에서 꺼내 볼 실무 정보</td>
+            <td contenteditable="true">개선: 마지막 장 '요약 카드' 강화로 저장율 상향</td>
+          </tr>
+          <tr class="avoid-break">
+            <td><strong>Low Perf.</strong><br>(개선 필요)</td>
+            <td contenteditable="true">${lowPerf.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">정보는 유익하나 '이득/손해' 프레임이 부족해 클릭률 저조</td>
+            <td contenteditable="true">보완: 제목에 "모르면 손해" 등의 후킹 카피 적용</td>
+          </tr>
+        </tbody>
       </table>
+      <p class="table-resize-hint">💡 표 칸 너비를 조절하려면 헤더 경계선을 드래그하세요</p>
     </div>
 
     <!-- Section 4: 개선 사항 및 강화 전략 -->
@@ -3118,12 +3129,19 @@ function downloadReportPDF() {
   const endDate = document.getElementById('report-end-date').value;
 
   const opt = {
-    margin: [10, 10, 10, 10],
+    margin: [15, 15, 15, 15],
     filename: `IG_성과리포트_${startDate.replace(/-/g, '')}_${endDate.replace(/-/g, '')}.pdf`,
-    image: { type: 'jpeg', quality: 0.98 },
-    html2canvas: { scale: 2, useCORS: true },
+    image: { type: 'jpeg', quality: 0.95 },
+    html2canvas: {
+      scale: 2,
+      useCORS: true,
+      logging: false,
+      letterRendering: true,
+      scrollY: 0,
+      windowWidth: preview.scrollWidth
+    },
     jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
-    pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
+    pagebreak: { mode: ['css', 'legacy'], before: '.page-break-before', after: '.page-break-after', avoid: '.avoid-break' }
   };
 
   // 다운로드 버튼 비활성화
@@ -3132,9 +3150,17 @@ function downloadReportPDF() {
   btn.disabled = true;
   btn.textContent = '생성 중...';
 
+  // 미리보기 스크롤을 맨 위로
+  preview.scrollTop = 0;
+
   html2pdf().set(opt).from(preview).save().then(() => {
     btn.disabled = false;
     btn.textContent = originalText;
+  }).catch(err => {
+    console.error('PDF 생성 오류:', err);
+    btn.disabled = false;
+    btn.textContent = originalText;
+    alert('PDF 생성 중 오류가 발생했습니다. 다시 시도해주세요.');
   });
 }
 
