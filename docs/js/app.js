@@ -3241,25 +3241,25 @@ function downloadReportPDF() {
     }
   `;
 
-  printWindow.document.write(\`<!DOCTYPE html>
+  printWindow.document.write(`<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>IG 성과리포트 \${startDate} ~ \${endDate}</title>
+  <title>IG 성과리포트 ${startDate} ~ ${endDate}</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
-  <style>\${printStyles}</style>
+  <style>${printStyles}</style>
 </head>
 <body>
-  \${preview.innerHTML}
+  ${preview.innerHTML}
   <script>
     window.onload = function() {
       setTimeout(function() {
         window.print();
       }, 500);
     };
-  <\\/script>
+  </` + `script>
 </body>
-</html>\`);
+</html>`);
 
   printWindow.document.close();
 }
