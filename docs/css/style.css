@@ -784,19 +784,49 @@ body {
   color: var(--fj-primary);
   font-weight: 600;
 }
-/* 종합 TOP 콘텐츠 추천 박스 */
+/* 종합 TOP 콘텐츠 추천 - 드롭다운 토글 */
+.recommendation-toggle {
+  margin-top: 8px;
+  cursor: pointer;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 8px;
+}
+.recommendation-toggle .toggle-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: #f57c00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+.recommendation-toggle .toggle-arrow {
+  font-size: 9px;
+  transition: transform 0.2s;
+}
+.recommendation-toggle.open .toggle-arrow {
+  transform: rotate(180deg);
+}
+.recommendation-toggle .recommendation-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+.recommendation-toggle.open .recommendation-content {
+  max-height: 200px;
+}
 .recommendation-box {
-  margin-top: 12px;
-  padding: 12px;
-  background: rgba(255,255,255,0.7);
-  border-radius: 10px;
+  margin-top: 8px;
+  padding: 10px;
+  background: rgba(255,255,255,0.9);
+  border-radius: 8px;
   border: 1px solid #ffe082;
 }
 .recommendation-title {
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 700;
   color: #f57c00;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 .recommendation-list {
   list-style: none;
@@ -804,9 +834,9 @@ body {
   margin: 0;
 }
 .recommendation-list li {
-  font-size: 11px;
+  font-size: 10px;
   color: #555;
-  padding: 3px 0;
+  padding: 2px 0;
   line-height: 1.4;
 }
 .recommendation-list li::before {

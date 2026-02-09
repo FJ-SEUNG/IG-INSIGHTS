@@ -2940,7 +2940,11 @@ function renderMetricChampions(posts, periodLabel = '전체') {
     if (winMetrics) {
       champHtml += `<div class="overall-wins" style="font-size:11px;color:#666;margin-top:8px;padding-top:8px;border-top:1px solid #e0e0e0;">🥇 ${winMetrics} 1위</div>`;
     }
-    champHtml += recommendation;
+    // 드롭다운 토글 형식 콘텐츠 추천
+    champHtml += `<div class="recommendation-toggle" onclick="this.classList.toggle('open')">`;
+    champHtml += `<span class="toggle-label">💡 추천 <span class="toggle-arrow">▼</span></span>`;
+    champHtml += `<div class="recommendation-content">${recommendation}</div>`;
+    champHtml += `</div>`;
     champHtml += `</div>`;
   }
 
