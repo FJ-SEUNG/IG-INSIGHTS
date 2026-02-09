@@ -1924,6 +1924,44 @@ body {
   background: #f8fafc;
 }
 
+/* 수정 가능 필드 + 연필 아이콘 */
+.editable-field {
+  position: relative;
+  display: block;
+}
+.editable-field .edit-icon {
+  cursor: pointer;
+  font-size: 14px;
+  opacity: 0.5;
+  margin-right: 6px;
+  transition: opacity 0.2s;
+  vertical-align: middle;
+}
+.editable-field:hover .edit-icon {
+  opacity: 1;
+}
+.editable-field .editable-content {
+  display: inline;
+}
+.editable-field .editable-content:focus {
+  outline: 2px solid var(--fj-primary);
+  outline-offset: 2px;
+  background: #fffef0;
+  border-radius: 4px;
+}
+.report-table .editable-field {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+}
+.report-table .editable-field .edit-icon {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.report-table .editable-field .editable-content {
+  flex: 1;
+}
+
 /* 보고서 스타일 */
 .report-header {
   text-align: center;
