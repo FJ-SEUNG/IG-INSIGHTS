@@ -721,7 +721,7 @@ body {
 /* ── Metric Champions ── */
 .metric-champions {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
   margin-bottom: 20px;
 }
@@ -1580,7 +1580,7 @@ body {
   .insight-item { font-size: 12px; line-height: 1.6; }
 
   /* 챔피언 카드 */
-  .metric-champions { gap: 10px; }
+  .metric-champions { gap: 10px; grid-template-columns: repeat(2, 1fr); }
   .champion-card { padding: 12px 14px; }
   .champion-card h4 { font-size: 11px; margin-bottom: 8px; }
   .champion-value { font-size: 20px; }
