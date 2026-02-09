@@ -3131,36 +3131,49 @@ function downloadReportPDF() {
   const startDate = document.getElementById('report-start-date').value;
   const endDate = document.getElementById('report-end-date').value;
 
-  const opt = {
-    margin: [15, 15, 15, 15],
-    filename: `IG_성과리포트_${startDate.replace(/-/g, '')}_${endDate.replace(/-/g, '')}.pdf`,
-    image: { type: 'jpeg', quality: 0.95 },
-    html2canvas: {
-      scale: 2,
-      useCORS: true,
-      logging: false,
-      letterRendering: true,
-      scrollY: 0,
-      windowWidth: preview.scrollWidth
-    },
-    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
-    pagebreak: { mode: ['css', 'legacy'], before: '.page-break-before', after: '.page-break-after', avoid: '.avoid-break' }
-  };
-
   // 다운로드 버튼 비활성화
   const btn = document.getElementById('report-download-btn');
   const originalText = btn.textContent;
   btn.disabled = true;
   btn.textContent = '생성 중...';
 
-  // 미리보기 스크롤을 맨 위로
+  // PDF 생성을 위해 스크롤 제한 임시 해제
+  const originalMaxHeight = preview.style.maxHeight;
+  const originalOverflow = preview.style.overflow;
+  preview.style.maxHeight = 'none';
+  preview.style.overflow = 'visible';
   preview.scrollTop = 0;
 
+  const opt = {
+    margin: [10, 10, 10, 10],
+    filename: `IG_성과리포트_${startDate.replace(/-/g, '')}_${endDate.replace(/-/g, '')}.pdf`,
+    image: { type: 'jpeg', quality: 0.98 },
+    html2canvas: {
+      scale: 2,
+      useCORS: true,
+      logging: false,
+      letterRendering: true,
+      scrollY: 0,
+      scrollX: 0,
+      windowWidth: preview.scrollWidth,
+      height: preview.scrollHeight,
+      windowHeight: preview.scrollHeight
+    },
+    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+    pagebreak: { mode: ['css', 'legacy'], before: '.page-break-before', avoid: '.avoid-break' }
+  };
+
   html2pdf().set(opt).from(preview).save().then(() => {
+    // 원래 스타일 복원
+    preview.style.maxHeight = originalMaxHeight || '';
+    preview.style.overflow = originalOverflow || '';
     btn.disabled = false;
     btn.textContent = originalText;
   }).catch(err => {
     console.error('PDF 생성 오류:', err);
+    // 원래 스타일 복원
+    preview.style.maxHeight = originalMaxHeight || '';
+    preview.style.overflow = originalOverflow || '';
     btn.disabled = false;
     btn.textContent = originalText;
     alert('PDF 생성 중 오류가 발생했습니다. 다시 시도해주세요.');
