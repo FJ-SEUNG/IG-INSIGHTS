@@ -2546,15 +2546,21 @@ function renderSummary(period, year, month, weekStart, weekEnd, dateStr) {
   const container = document.getElementById('summary-content');
   if (!posts.length) { container.innerHTML = '<p style="color:var(--text2)">해당 기간의 데이터가 없습니다.</p>'; return; }
 
+  // 툴팁 + 벤치마크 바 생성 헬퍼
+  function summaryTooltip(label, tooltip, benchmark, value) {
+    const scaleHtml = benchmarkScaleHtml(benchmark, value);
+    return `<div class="summary-stat-label">${label} <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">${tooltip}${scaleHtml}</span></span></div>`;
+  }
+
   let html = '';
   // Overview stats
   html += `<div class="summary-overview">`;
   html += `<div class="summary-stat"><div class="summary-stat-label">기간</div><div class="summary-stat-value">${periodLabel}</div></div>`;
   html += `<div class="summary-stat"><div class="summary-stat-label">게시물</div><div class="summary-stat-value">${stats.count}</div></div>`;
   html += `<div class="summary-stat"><div class="summary-stat-label">평균 도달</div><div class="summary-stat-value">${fmt(stats.avgReach)}</div></div>`;
-  html += `<div class="summary-stat"><div class="summary-stat-label">참여율</div><div class="summary-stat-value">${fmtPct(stats.avgEngRate)}${gradeBadgeHtml(getGrade(statBenchmarks.engagement_rate, stats.avgEngRate))}</div></div>`;
-  html += `<div class="summary-stat"><div class="summary-stat-label">저장율</div><div class="summary-stat-value">${fmtPct(stats.avgSaveRate)}${gradeBadgeHtml(getGrade(statBenchmarks.save_rate, stats.avgSaveRate))}</div></div>`;
-  html += `<div class="summary-stat"><div class="summary-stat-label">공유율</div><div class="summary-stat-value">${fmtPct(stats.avgShareRate)}${gradeBadgeHtml(getGrade(statBenchmarks.share_rate, stats.avgShareRate))}</div></div>`;
+  html += `<div class="summary-stat">${summaryTooltip('참여율', '(좋아요+댓글+저장+공유) / 도달 × 100<br>콘텐츠에 반응한 비율', statBenchmarks.engagement_rate, stats.avgEngRate)}<div class="summary-stat-value">${fmtPct(stats.avgEngRate)}${gradeBadgeHtml(getGrade(statBenchmarks.engagement_rate, stats.avgEngRate))}</div></div>`;
+  html += `<div class="summary-stat">${summaryTooltip('저장율', '저장 / 도달 × 100<br>콘텐츠를 저장할 만큼 가치를 느낀 비율', statBenchmarks.save_rate, stats.avgSaveRate)}<div class="summary-stat-value">${fmtPct(stats.avgSaveRate)}${gradeBadgeHtml(getGrade(statBenchmarks.save_rate, stats.avgSaveRate))}</div></div>`;
+  html += `<div class="summary-stat">${summaryTooltip('공유율', '공유 / 도달 × 100<br>DM·스토리로 공유한 비율 (바이럴 지표)', statBenchmarks.share_rate, stats.avgShareRate)}<div class="summary-stat-value">${fmtPct(stats.avgShareRate)}${gradeBadgeHtml(getGrade(statBenchmarks.share_rate, stats.avgShareRate))}</div></div>`;
   html += `</div>`;
 
   // ── 지표 기반 강점/개선점 ──
