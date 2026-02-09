@@ -414,7 +414,7 @@ function renderAll() {
   renderPostTable();
   renderFollowers();
   renderCategory();
-  renderContentWithPosts(filterByMilestone(DATA.posts), '전체');
+  renderContent();
   renderFollowerBanner();
   // 전일 비교 데이터 안내
   const noticeEl = document.getElementById('no-yesterday-notice');
@@ -1380,7 +1380,7 @@ document.getElementById('compact-toggle-btn')?.addEventListener('click', () => {
   if (mode === 'total' || mode === 'avg') renderKpiStats(mode, posts);
   // 카테고리 & 콘텐츠 탭 테이블 갱신
   renderCategory();
-  renderContentWithPosts(filterByMilestone(DATA.posts), '전체');
+  renderContent();
 });
 // 버튼 초기 상태 반영 (localStorage에서 복원된 경우)
 (() => {
@@ -2628,9 +2628,6 @@ function renderSummary(period, year, month, weekStart, weekEnd, dateStr) {
   }
 
   container.innerHTML = html;
-
-  // 콘텐츠 분석 섹션도 같은 기간 필터 적용
-  renderContentWithPosts(posts, periodLabel);
 }
 
 function initSummaryControls() {
@@ -2839,12 +2836,8 @@ function exportReport() {
 // ══════════════════════════════════════════════════
 // TAB 5: Content Analysis
 // ══════════════════════════════════════════════════
-function renderContentWithPosts(posts, periodLabel = '전체') {
-  if (!posts || !posts.length) {
-    document.getElementById('content-insights').innerHTML = '<p style="color:var(--text2)">해당 기간의 데이터가 없습니다.</p>';
-    document.getElementById('metric-champions').innerHTML = '';
-    return;
-  }
+function renderContent() {
+  const posts = filterByMilestone(DATA.posts);
   const typeMap = {};
   posts.forEach(p => {
     const t = p.media_type || 'OTHER';
@@ -2903,7 +2896,7 @@ function renderContentWithPosts(posts, periodLabel = '전체') {
     { key: 'engagement_rate', label: '참여율', icon: '🔥', fmt: v => fmtPct(v) },
   ];
   const typeIcon = t => ({ 'CAROUSEL_ALBUM': '🎠', 'VIDEO': '🎬', 'IMAGE': '📸' }[t] || '📄');
-  let champHtml = `<div class="champion-period-label" style="font-size:12px;color:var(--text2);margin-bottom:12px;font-weight:500;">📊 기간: ${periodLabel}</div>`;
+  let champHtml = '';
   metrics.forEach(m => {
     const sorted = [...posts].filter(p => p[m.key] != null).sort((a, b) => b[m.key] - a[m.key]);
     const top3 = sorted.slice(0, 3);
