@@ -2954,13 +2954,22 @@ function filterPostsByDateRange(startDate, endDate) {
 }
 
 function generateReportHTML(startDate, endDate) {
+  // ── 기준점 변수화 ──
+  const START_DATE = '2025-12-26';
+
   const posts = filterPostsByDateRange(startDate, endDate);
   const allPosts = DATA.posts;
 
-  // 담당 이전 데이터 (비교용)
+  // 담당 이전 데이터 (Before: date < START_DATE)
   const beforePosts = allPosts.filter(p => {
     const d = parseUploadDate(p.upload_date);
-    return d && d < new Date('2025-12-26');
+    return d && d < new Date(START_DATE);
+  });
+
+  // 담당 이후 데이터 (After: date >= START_DATE)
+  const afterPosts = allPosts.filter(p => {
+    const d = parseUploadDate(p.upload_date);
+    return d && d >= new Date(START_DATE);
   });
 
   // 기간 포맷
@@ -2969,8 +2978,12 @@ function generateReportHTML(startDate, endDate) {
     return `${y.slice(2)}.${m}.${day}`;
   };
   const periodStr = `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
+  const startDateFormatted = formatDate(START_DATE);
 
-  // 통계 계산
+  // 운영 기간 계산 (일수)
+  const daysDiff = Math.ceil((new Date(endDate) - new Date(startDate)) / (1000 * 60 * 60 * 24)) + 1;
+
+  // 통계 계산 (선택 기간)
   const stats = {
     count: posts.length,
     totalReach: sum(posts.map(p => p.reach || 0)),
@@ -2983,8 +2996,9 @@ function generateReportHTML(startDate, endDate) {
     avgShareRate: avg(posts.map(p => p.share_rate).filter(v => v != null)),
   };
 
-  // 전체 대비 기여도
+  // 전체 누적 통계
   const allStats = {
+    count: allPosts.length,
     totalReach: sum(allPosts.map(p => p.reach || 0)),
     totalLikes: sum(allPosts.map(p => p.likes || 0)),
     totalSaves: sum(allPosts.map(p => p.saves || 0)),
@@ -2992,192 +3006,347 @@ function generateReportHTML(startDate, endDate) {
     totalComments: sum(allPosts.map(p => p.comments || 0)),
   };
 
+  // 기여도 계산 (선택 기간 / 전체 누적)
   const contribution = {
     reach: allStats.totalReach ? ((stats.totalReach / allStats.totalReach) * 100).toFixed(1) : 0,
+    likes: allStats.totalLikes ? ((stats.totalLikes / allStats.totalLikes) * 100).toFixed(1) : 0,
+    saves: allStats.totalSaves ? ((stats.totalSaves / allStats.totalSaves) * 100).toFixed(1) : 0,
     shares: allStats.totalShares ? ((stats.totalShares / allStats.totalShares) * 100).toFixed(1) : 0,
     comments: allStats.totalComments ? ((stats.totalComments / allStats.totalComments) * 100).toFixed(1) : 0,
   };
 
-  // Before 평균 (비교용)
+  // Before 통계 (담당 이전)
   const beforeStats = {
+    count: beforePosts.length,
+    totalReach: sum(beforePosts.map(p => p.reach || 0)),
+    totalComments: sum(beforePosts.map(p => p.comments || 0)),
     avgEngRate: beforePosts.length ? avg(beforePosts.map(p => p.engagement_rate).filter(v => v != null)) : 0,
     avgSaveRate: beforePosts.length ? avg(beforePosts.map(p => p.save_rate).filter(v => v != null)) : 0,
     avgShareRate: beforePosts.length ? avg(beforePosts.map(p => p.share_rate).filter(v => v != null)) : 0,
   };
 
+  // 효율 배수 계산 (1,000 도달당 반응)
+  const calcEfficiency = (metric, reach) => reach > 0 ? (metric / reach * 1000) : 0;
+
+  const beforeEfficiency = {
+    comments: calcEfficiency(beforeStats.totalComments, beforeStats.totalReach),
+    saves: calcEfficiency(sum(beforePosts.map(p => p.saves || 0)), beforeStats.totalReach),
+    shares: calcEfficiency(sum(beforePosts.map(p => p.shares || 0)), beforeStats.totalReach),
+  };
+
+  const afterEfficiency = {
+    comments: calcEfficiency(stats.totalComments, stats.totalReach),
+    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
+    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+  };
+
+  const efficiencyMultiplier = {
+    comments: beforeEfficiency.comments > 0 ? (afterEfficiency.comments / beforeEfficiency.comments).toFixed(1) : '-',
+    saves: beforeEfficiency.saves > 0 ? (afterEfficiency.saves / beforeEfficiency.saves).toFixed(1) : '-',
+    shares: beforeEfficiency.shares > 0 ? (afterEfficiency.shares / beforeEfficiency.shares).toFixed(1) : '-',
+  };
+
+  // 팔로워 증가 계산
+  const followerGrowth = DATA.followers && DATA.followers.length >= 2
+    ? DATA.followers[DATA.followers.length - 1].followers - DATA.followers[0].followers
+    : 0;
+
+  // 팔로우 전환율 계산
+  const followConversionRate = stats.totalReach > 0 ? (followerGrowth / stats.totalReach * 100).toFixed(2) : 0;
+
   // TOP 콘텐츠 분석
   const topReach = [...posts].sort((a, b) => (b.reach || 0) - (a.reach || 0)).slice(0, 3);
   const topShares = [...posts].sort((a, b) => (b.shares || 0) - (a.shares || 0)).slice(0, 3);
   const topSaves = [...posts].sort((a, b) => (b.saves || 0) - (a.saves || 0)).slice(0, 3);
-  const lowPerf = [...posts].sort((a, b) => (a.engagement_rate || 0) - (b.engagement_rate || 0)).slice(0, 2);
+  const topComments = [...posts].sort((a, b) => (b.comments || 0) - (a.comments || 0)).slice(0, 3);
+  const lowPerf = [...posts].sort((a, b) => (a.reach || 0) - (b.reach || 0)).slice(0, 2);
+
+  // 킬러 콘텐츠 (도달 1위)
+  const killerContent = topReach[0];
+  const killerNonFollowerRate = killerContent ? ((killerContent.reach - (killerContent.follower_reach || 0)) / killerContent.reach * 100).toFixed(1) : 0;
 
   // HTML 생성
   return `
     <div class="report-header">
-      <h1>📑 IG 운영 성과 분석 리포트</h1>
-      <div class="report-period" contenteditable="true">운영 기간: ${periodStr}</div>
+      <h1>IG CONTENTS REPORT</h1>
+      <div class="report-period">${periodStr}</div>
       <div class="report-brand">FLYING JAPAN</div>
     </div>
 
-    <!-- Section 1: 총평 -->
-    <div class="report-section">
-      <h2>📌 Section 1. 총평 (Executive Summary)</h2>
-
-      <div class="report-stats-grid">
-        <div class="report-stat-card">
-          <div class="stat-label">누적 도달</div>
-          <div class="stat-value">${fmtCompact(stats.totalReach)}</div>
-          <div class="stat-sub">전체 대비 ${contribution.reach}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">평균 참여율</div>
-          <div class="stat-value">${stats.avgEngRate.toFixed(2)}%</div>
-          <div class="stat-sub">Before ${beforeStats.avgEngRate.toFixed(2)}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">평균 공유율</div>
-          <div class="stat-value">${stats.avgShareRate.toFixed(2)}%</div>
-          <div class="stat-sub">Before ${beforeStats.avgShareRate.toFixed(2)}%</div>
-        </div>
-      </div>
-
-      <div class="report-highlight">
-        <p contenteditable="true">
-          <strong>핵심 성과:</strong><br>
-          • 해당 기간 누적 도달 <strong>${fmtCompact(stats.totalReach)}회</strong> 달성<br>
-          • 전체 계정 역사상 공유의 <strong>${contribution.shares}%</strong>, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간에 생성<br>
-          • 참여율 ${stats.avgEngRate.toFixed(2)}%, 공유율 ${stats.avgShareRate.toFixed(2)}% 기록
-        </p>
-      </div>
-
-      <div class="report-conclusion">
-        <h3>💡 한 줄 결론</h3>
-        <p contenteditable="true">"단순 노출 중심에서 유저가 참여하고 확산하는 '고관여 커뮤니티형' 계정으로의 체질 개선 성공."</p>
-      </div>
+    <!-- Dynamic Summary (총평) -->
+    <div class="report-section report-summary-section">
+      <p class="report-dynamic-summary" contenteditable="true">
+        지난 운영 기간(${daysDiff}일) 동안 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하며,
+        정보 전달을 넘어 유저가 능동적으로 참여하고 공유하는 <strong>참여형 커뮤니티 계정</strong>으로 나아가고 있습니다.
+        특히 전체 계정 수치 중, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간 내 기록하고 있어
+        유저 소통·참여 측면에서 긍정적인 수치로 보고 있습니다.
+      </p>
     </div>
 
-    <!-- Section 2: 정량적 성과 분석 -->
+    <!-- Section 1: 주요 지표별 성과 데이터 -->
     <div class="report-section">
-      <h2>📊 Section 2. 정량적 성과 분석</h2>
+      <h2>1. 주요 지표별 성과 데이터</h2>
 
-      <h3>Before vs After 비교</h3>
+      <p class="report-intro">
+        현재까지 총 <strong>${stats.count} / ${allStats.count}개</strong>의 콘텐츠를 발행하였으며,<br>
+        ${formatDate(endDate)} 기준 주요 누적 및 평균 수치는 다음과 같습니다.<br>
+        <span class="report-follower-note">(팔로워 총 ${fmtNum(followerGrowth)}명 증가)</span>
+      </p>
+
       <table class="report-table">
-        <tr>
-          <th>지표</th>
-          <th>Before (담당 이전)</th>
-          <th>After (해당 기간)</th>
-          <th>변화</th>
-        </tr>
-        <tr>
-          <td>평균 참여율</td>
-          <td>${beforeStats.avgEngRate.toFixed(2)}%</td>
-          <td>${stats.avgEngRate.toFixed(2)}%</td>
-          <td style="color:${stats.avgEngRate > beforeStats.avgEngRate ? '#10b981' : '#ef4444'}">${stats.avgEngRate > beforeStats.avgEngRate ? '↑' : '↓'} ${Math.abs(stats.avgEngRate - beforeStats.avgEngRate).toFixed(2)}%p</td>
-        </tr>
-        <tr>
-          <td>평균 저장율</td>
-          <td>${beforeStats.avgSaveRate.toFixed(2)}%</td>
-          <td>${stats.avgSaveRate.toFixed(2)}%</td>
-          <td style="color:${stats.avgSaveRate > beforeStats.avgSaveRate ? '#10b981' : '#ef4444'}">${stats.avgSaveRate > beforeStats.avgSaveRate ? '↑' : '↓'} ${Math.abs(stats.avgSaveRate - beforeStats.avgSaveRate).toFixed(2)}%p</td>
-        </tr>
-        <tr>
-          <td>평균 공유율</td>
-          <td>${beforeStats.avgShareRate.toFixed(2)}%</td>
-          <td>${stats.avgShareRate.toFixed(2)}%</td>
-          <td style="color:${stats.avgShareRate > beforeStats.avgShareRate ? '#10b981' : '#ef4444'}">${stats.avgShareRate > beforeStats.avgShareRate ? '↑' : '↓'} ${Math.abs(stats.avgShareRate - beforeStats.avgShareRate).toFixed(2)}%p</td>
-        </tr>
-      </table>
-
-      <h3>기여도 분석 (전체 누적 대비)</h3>
-      <div class="report-stats-grid">
-        <div class="report-stat-card">
-          <div class="stat-label">도달 기여도</div>
-          <div class="stat-value">${contribution.reach}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">공유 기여도</div>
-          <div class="stat-value">${contribution.shares}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">댓글 기여도</div>
-          <div class="stat-value">${contribution.comments}%</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Section 3: 콘텐츠 유형별 성과 분석 -->
-    <div class="report-section page-break-before">
-      <h2>🎯 Section 3. 콘텐츠 유형별 성과 분석</h2>
-
-      <table class="report-table report-table-resizable">
-        <colgroup>
-          <col style="width:12%">
-          <col style="width:30%">
-          <col style="width:30%">
-          <col style="width:28%">
-        </colgroup>
         <thead>
           <tr>
-            <th>분류</th>
-            <th>해당 콘텐츠</th>
-            <th>성과 및 분석</th>
-            <th>전략</th>
+            <th>지표 항목</th>
+            <th>수치 (Total)</th>
+            <th>계정 내 점유율 (기여도)</th>
           </tr>
         </thead>
         <tbody>
-          <tr class="avoid-break">
+          <tr>
+            <td>총 도달 (Reach)</td>
+            <td>${fmtNum(stats.totalReach)}회</td>
+            <td>전체 누적의 약 <strong>${contribution.reach}%</strong></td>
+          </tr>
+          <tr>
+            <td>총 공유</td>
+            <td>${fmtNum(stats.totalShares)}회</td>
+            <td>전체 누적의 약 <strong>${contribution.shares}%</strong></td>
+          </tr>
+          <tr>
+            <td>총 저장</td>
+            <td>${fmtNum(stats.totalSaves)}</td>
+            <td>전체 누적의 약 <strong>${contribution.saves}%</strong></td>
+          </tr>
+          <tr>
+            <td>총 댓글</td>
+            <td>${fmtNum(stats.totalComments)}</td>
+            <td>전체 누적의 약 <strong>${contribution.comments}%</strong></td>
+          </tr>
+          <tr>
+            <td>총 좋아요</td>
+            <td>${fmtNum(stats.totalLikes)}</td>
+            <td>전체 누적의 약 <strong>${contribution.likes}%</strong></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- 개선 항목 표 -->
+      <h3 class="report-subsection-title">📋 개선 항목 분석</h3>
+      <table class="report-table report-improvement-table">
+        <thead>
+          <tr>
+            <th style="width:15%">개선 항목</th>
+            <th style="width:12%">현재 상태</th>
+            <th style="width:35%">문제점 및 분석</th>
+            <th style="width:38%">개선 목표 및 전략</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>저장률 상향</strong></td>
+            <td>${stats.avgSaveRate.toFixed(2)}%</td>
+            <td contenteditable="true">공유율(${stats.avgShareRate.toFixed(1)}%) 대비 낮음.<br>유저가 '소장'할 정보성 부족.</td>
+            <td contenteditable="true">- 마지막 장에 '한 장 요약표', '맛집 지도' 등 고정 배치<br>- 저장 포인트 순서 변경 고려</td>
+          </tr>
+          <tr>
+            <td><strong>팔로우 전환</strong></td>
+            <td>${followConversionRate}%</td>
+            <td contenteditable="true">프로필 방문 이후, 이탈 발생</td>
+            <td contenteditable="true">- 프로필 방문 시 팔로우 유도(CTA) 문구 강화</td>
+          </tr>
+          <tr>
+            <td><strong>정보성 테마 도달</strong></td>
+            <td contenteditable="true">1,000~2,000회</td>
+            <td contenteditable="true">'에티켓', '문화' 등 일반 정보 테마의 대중적 관심 저조</td>
+            <td contenteditable="true">- 타이틀에 '이득/손해' 등 후킹성 멘트 적극 활용</td>
+          </tr>
+          <tr>
+            <td><strong>주제 편차 개선</strong></td>
+            <td contenteditable="true">심한 편</td>
+            <td contenteditable="true">특정 브랜드에만 성과가 쏠려 있음</td>
+            <td contenteditable="true">- 일반 정보를 브랜드 리뷰처럼 화법 변경 고려</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Section 2: 성과 및 개선 필요점 -->
+    <div class="report-section">
+      <h2>2. 성과 및 개선 필요점</h2>
+
+      <div class="report-two-column">
+        <!-- 성과 -->
+        <div class="report-column report-success">
+          <h3>🔺 성과</h3>
+
+          <div class="report-item">
+            <h4>킬러 콘텐츠의 알고리즘 노출 최적화</h4>
+            <p contenteditable="true">
+              '${killerContent ? (killerContent.title || '제목 없음') : '-'}'(비팔로워 도달 ${killerNonFollowerRate}%),
+              '${topShares[0] ? (topShares[0].title || '제목 없음') : '-'}'(공유 ${topShares[0] ? fmtNum(topShares[0].shares) : 0}회) 등 콘텐츠<br>
+              → 신규 유저 유입 역할 수행
+            </p>
+          </div>
+
+          <div class="report-item">
+            <h4>소통·참여형 계정화 (가장 긍정적 포인트)</h4>
+            <p contenteditable="true">
+              전체 도달 비중(${contribution.reach}%) 대비 댓글 비중(${contribution.comments}%)이 약 <strong>${(contribution.comments / contribution.reach).toFixed(1)}배</strong> 이상 높게 나타나며,
+              유저들이 단순히 보기만 하는 것이 아니라 콘텐츠 내 적극적으로 참여하는 비율 증가<br><br>
+              <em>* 적은 비용(도달)으로 최대 효율(댓글) 취득</em>
+            </p>
+          </div>
+        </div>
+
+        <!-- 개선 필요 -->
+        <div class="report-column report-improve">
+          <h3>🔻 개선 필요</h3>
+
+          <div class="report-item">
+            <h4>저장률 개선 필요</h4>
+            <p contenteditable="true">
+              현재 공유율 대비 저장률이 상대적으로 낮아,
+              유저가 나중에 다시 꺼내볼 '실용적' 요소(ex. 요약표 등)를 강화해야 할 것으로 보임
+            </p>
+          </div>
+
+          <div class="report-item">
+            <h4>팔로우 전환율 정체</h4>
+            <p contenteditable="true">
+              도달에 비해 팔로우 전환률이 낮은 상태,
+              프로필 유입 유저를 팔로워로 전환할 수 있는 장치 보완 필요
+            </p>
+          </div>
+
+          <div class="report-item">
+            <h4>콘텐츠별 수치 양극화</h4>
+            <p contenteditable="true">
+              전체적으로 콘텐츠 인사이트 수치 등락이 일정치 않고 변화가 심함.
+              사전 콘텐츠가 도달수가 높았을 때는 연쇄로 다음 콘텐츠까지 이점이 있으나,
+              그렇지 않을 경우 1,000~2,000대에서 머무는 경우 존재.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 3: 과거 대비 효율성 -->
+    <div class="report-section">
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과)</h2>
+
+      <table class="report-table">
+        <thead>
+          <tr>
+            <th>지표</th>
+            <th>과거 (Before)</th>
+            <th>현재 (After)</th>
+            <th>효율 배수</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1,000 도달당 댓글</td>
+            <td>${beforeEfficiency.comments.toFixed(1)}개</td>
+            <td>${afterEfficiency.comments.toFixed(1)}개</td>
+            <td class="${efficiencyMultiplier.comments > 1 ? 'positive' : 'negative'}">
+              ${efficiencyMultiplier.comments !== '-' ? efficiencyMultiplier.comments + '배' : '-'}
+              ${efficiencyMultiplier.comments > 1 ? '↑' : efficiencyMultiplier.comments < 1 ? '↓' : ''}
+            </td>
+          </tr>
+          <tr>
+            <td>1,000 도달당 저장</td>
+            <td>${beforeEfficiency.saves.toFixed(1)}개</td>
+            <td>${afterEfficiency.saves.toFixed(1)}개</td>
+            <td class="${efficiencyMultiplier.saves > 1 ? 'positive' : 'negative'}">
+              ${efficiencyMultiplier.saves !== '-' ? efficiencyMultiplier.saves + '배' : '-'}
+              ${efficiencyMultiplier.saves > 1 ? '↑' : efficiencyMultiplier.saves < 1 ? '↓' : ''}
+            </td>
+          </tr>
+          <tr>
+            <td>1,000 도달당 공유</td>
+            <td>${beforeEfficiency.shares.toFixed(1)}개</td>
+            <td>${afterEfficiency.shares.toFixed(1)}개</td>
+            <td class="${efficiencyMultiplier.shares > 1 ? 'positive' : 'negative'}">
+              ${efficiencyMultiplier.shares !== '-' ? efficiencyMultiplier.shares + '배' : '-'}
+              ${efficiencyMultiplier.shares > 1 ? '↑' : efficiencyMultiplier.shares < 1 ? '↓' : ''}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p class="report-efficiency-note">
+        💡 도달수가 늘어나도 '질적 성과'를 비교할 수 있는 지표입니다.
+      </p>
+    </div>
+
+    <!-- Section 4: 콘텐츠 유형별 성과 분석 -->
+    <div class="report-section">
+      <h2>4. 콘텐츠 유형별 성과 분석</h2>
+
+      <table class="report-table">
+        <thead>
+          <tr>
+            <th style="width:15%">분류</th>
+            <th style="width:30%">해당 콘텐츠</th>
+            <th style="width:30%">성과 및 분석</th>
+            <th style="width:25%">전략</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
             <td><strong>High Reach</strong><br>(도달형)</td>
-            <td contenteditable="true">${topReach.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">${topReach.map(p => '• ' + (p.title || '제목 없음') + ' (' + fmtNum(p.reach) + ')').join('<br>')}</td>
             <td contenteditable="true">대중적 브랜드 + 강력한 혜택 후킹으로 비팔로워 유입 극대화</td>
             <td contenteditable="true">강화: 주 1회 이상 대형 브랜드 테마 기획</td>
           </tr>
-          <tr class="avoid-break">
+          <tr>
             <td><strong>High Share</strong><br>(확산형)</td>
-            <td contenteditable="true">${topShares.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">${topShares.map(p => '• ' + (p.title || '제목 없음') + ' (' + fmtNum(p.shares) + ')').join('<br>')}</td>
             <td contenteditable="true">"나만 알기 아까운 정보" 혹은 "친구에게 알려줘야 할 주의사항"</td>
             <td contenteditable="true">유지: '에티켓', '규제' 시리즈로 바이럴 유도</td>
           </tr>
-          <tr class="avoid-break">
+          <tr>
             <td><strong>High Save</strong><br>(저장형)</td>
-            <td contenteditable="true">${topSaves.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">${topSaves.map(p => '• ' + (p.title || '제목 없음') + ' (' + fmtNum(p.saves) + ')').join('<br>')}</td>
             <td contenteditable="true">나중에 일본 여행 시 현장에서 꺼내 볼 실무 정보</td>
             <td contenteditable="true">개선: 마지막 장 '요약 카드' 강화로 저장율 상향</td>
           </tr>
-          <tr class="avoid-break">
+          <tr>
+            <td><strong>High Comment</strong><br>(소통형)</td>
+            <td contenteditable="true">${topComments.map(p => '• ' + (p.title || '제목 없음') + ' (' + fmtNum(p.comments) + ')').join('<br>')}</td>
+            <td contenteditable="true">유저 참여 유도 성공, 커뮤니티 활성화에 기여</td>
+            <td contenteditable="true">강화: 댓글 이벤트 상설화</td>
+          </tr>
+          <tr>
             <td><strong>Low Perf.</strong><br>(개선 필요)</td>
-            <td contenteditable="true">${lowPerf.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</td>
+            <td contenteditable="true">${lowPerf.map(p => '• ' + (p.title || '제목 없음') + ' (' + fmtNum(p.reach) + ')').join('<br>')}</td>
             <td contenteditable="true">정보는 유익하나 '이득/손해' 프레임이 부족해 클릭률 저조</td>
             <td contenteditable="true">보완: 제목에 "모르면 손해" 등의 후킹 카피 적용</td>
           </tr>
         </tbody>
       </table>
-      <p class="table-resize-hint">💡 표 칸 너비를 조절하려면 헤더 경계선을 드래그하세요</p>
     </div>
 
-    <!-- Section 4: 개선 사항 및 강화 전략 -->
-    <div class="report-section">
-      <h2>🚀 Section 4. 개선 사항 및 강화 전략</h2>
-
-      <h3>1) 개선점 (Weakness → Strength)</h3>
-      <ul>
-        <li contenteditable="true"><strong>저장율 보완:</strong> 현재 저장율 ${stats.avgSaveRate.toFixed(2)}% → 목표 2.0%. 모든 콘텐츠 마지막 장에 '체크리스트'나 '지도 캡처본' 삽입.</li>
-        <li contenteditable="true"><strong>팔로우 전환율 제고:</strong> 도달 대비 팔로워 증가 속도를 높이기 위해 본문 하단 CTA(팔로우 유도) 문구 개인화.</li>
-      </ul>
-
-      <h3>2) 강화점 (Strength → Edge)</h3>
-      <ul>
-        <li contenteditable="true"><strong>댓글 이벤트 활성화:</strong> 댓글 기여도가 높은 점을 활용, "맛집지도" 배포와 같은 댓글 유도형 기획 상설화.</li>
-        <li contenteditable="true"><strong>공유 콘텐츠 시리즈화:</strong> 공유율이 높은 '에티켓/규제' 콘텐츠를 정기 시리즈로 발전.</li>
-      </ul>
-
-      <div class="report-conclusion">
-        <h3>📈 Next Action</h3>
-        <p contenteditable="true">
-          1. 저장율 향상을 위한 '요약 카드' 템플릿 제작<br>
-          2. 주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획<br>
-          3. 댓글 유도형 이벤트 월 2회 진행
-        </p>
+    <!-- Section 5: Next Action -->
+    <div class="report-section report-next-action">
+      <h2>5. Next Action</h2>
+      <div class="report-action-list" contenteditable="true">
+        <p>1. 저장율 향상을 위한 '요약 카드' 템플릿 제작</p>
+        <p>2. 주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획</p>
+        <p>3. 댓글 유도형 이벤트 월 2회 진행</p>
+        <p>4. 프로필 CTA 문구 A/B 테스트</p>
       </div>
+    </div>
+
+    <!-- 핵심 인사이트 요약 -->
+    <div class="report-section report-key-insights">
+      <h3>📌 핵심 인사이트</h3>
+      <ul contenteditable="true">
+        <li>도달 점유율 ${contribution.reach}%, 공유 점유율 ${contribution.shares}%로 높은 편</li>
+        <li>댓글의 경우 ${daysDiff}일 기간 내 전체의 ${contribution.comments}% 확보</li>
+        <li>썸네일 중요도 - 일본 감성이나 느낌이 느껴지는 이미지</li>
+        <li>메뉴 후기 / 추천 - 맛집, 여행지 행사 정보 등 실용 콘텐츠 강화</li>
+      </ul>
     </div>
   `;
 }
@@ -3222,18 +3391,36 @@ function downloadReportPDF() {
     }
     .report-header {
       text-align: center;
-      margin-bottom: 32px;
-      padding-bottom: 24px;
+      margin-bottom: 28px;
+      padding-bottom: 20px;
       border-bottom: 3px solid #2E4A9E;
     }
     .report-header h1 {
-      font-size: 24px;
+      font-size: 26px;
       font-weight: 800;
       color: #2E4A9E;
       margin-bottom: 8px;
+      letter-spacing: 2px;
     }
-    .report-period { font-size: 14px; color: #666; }
-    .report-brand { font-size: 12px; color: #999; margin-top: 4px; }
+    .report-period { font-size: 15px; color: #666; font-weight: 500; }
+    .report-brand { font-size: 12px; color: #999; margin-top: 6px; }
+
+    /* Dynamic Summary */
+    .report-summary-section {
+      background: linear-gradient(135deg, #f0f4ff 0%, #faf5ff 100%);
+      padding: 20px 24px;
+      border-radius: 12px;
+      border-left: 5px solid #2E4A9E;
+      margin-bottom: 28px;
+    }
+    .report-dynamic-summary {
+      font-size: 14px;
+      line-height: 1.9;
+      color: #333;
+      margin: 0;
+    }
+    .report-dynamic-summary strong { color: #2E4A9E; }
+
     .report-section {
       margin-bottom: 28px;
       page-break-inside: avoid;
@@ -3246,11 +3433,11 @@ function downloadReportPDF() {
       padding-bottom: 8px;
       border-bottom: 2px solid #4A7FD4;
     }
-    .report-section h3 {
+    .report-section h3, .report-subsection-title {
       font-size: 14px;
       font-weight: 600;
       color: #333;
-      margin: 16px 0 8px;
+      margin: 20px 0 10px;
     }
     .report-section p, .report-section li {
       font-size: 13px;
@@ -3259,30 +3446,19 @@ function downloadReportPDF() {
     }
     .report-section ul { padding-left: 20px; }
     .report-section li { margin-bottom: 6px; }
-    .report-highlight {
-      background: linear-gradient(135deg, #e8f0fe 0%, #f3e8ff 100%);
-      padding: 16px 20px;
-      border-radius: 10px;
-      margin: 12px 0;
-      border-left: 4px solid #2E4A9E;
+
+    .report-intro {
+      font-size: 13px;
+      color: #555;
+      margin-bottom: 16px;
+      line-height: 1.8;
     }
-    .report-highlight p { margin: 0; font-weight: 500; }
-    .report-stats-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-      margin: 16px 0;
+    .report-follower-note {
+      color: #10b981;
+      font-weight: 600;
     }
-    .report-stat-card {
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      border-radius: 10px;
-      padding: 16px;
-      text-align: center;
-    }
-    .report-stat-card .stat-label { font-size: 11px; color: #666; margin-bottom: 4px; }
-    .report-stat-card .stat-value { font-size: 22px; font-weight: 700; color: #2E4A9E; }
-    .report-stat-card .stat-sub { font-size: 10px; color: #999; margin-top: 2px; }
+
+    /* Tables */
     .report-table {
       width: 100%;
       border-collapse: collapse;
@@ -3302,19 +3478,120 @@ function downloadReportPDF() {
     }
     .report-table tbody tr:nth-child(even) { background: #f8fafc; }
     .report-table tbody tr:nth-child(odd) { background: #fff; }
-    .report-conclusion {
-      background: #fff9e6;
-      border: 2px solid #ffc107;
-      border-radius: 10px;
-      padding: 20px;
-      margin-top: 24px;
+    .report-table td strong { color: #2E4A9E; }
+
+    .report-improvement-table td:first-child { font-weight: 600; color: #444; }
+
+    /* Two Column Layout */
+    .report-two-column {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 16px 0;
     }
-    .report-conclusion h3 { color: #f57c00; margin-top: 0; }
+    .report-column {
+      padding: 16px;
+      border-radius: 10px;
+    }
+    .report-column h3 {
+      margin-top: 0;
+      font-size: 15px;
+      margin-bottom: 12px;
+    }
+    .report-success {
+      background: #f0fdf4;
+      border: 1px solid #86efac;
+    }
+    .report-success h3 { color: #16a34a; }
+    .report-improve {
+      background: #fef2f2;
+      border: 1px solid #fca5a5;
+    }
+    .report-improve h3 { color: #dc2626; }
+
+    .report-item {
+      margin-bottom: 14px;
+    }
+    .report-item h4 {
+      font-size: 12px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 6px;
+    }
+    .report-item p {
+      font-size: 11px;
+      color: #555;
+      margin: 0;
+      line-height: 1.6;
+    }
+    .report-item em {
+      color: #2E4A9E;
+      font-style: normal;
+      font-weight: 600;
+    }
+
+    /* Efficiency Table */
+    .positive { color: #16a34a; font-weight: 700; }
+    .negative { color: #dc2626; font-weight: 700; }
+    .report-efficiency-note {
+      font-size: 11px;
+      color: #888;
+      text-align: center;
+      margin-top: 8px;
+    }
+
+    /* Next Action */
+    .report-next-action {
+      background: #fffbeb;
+      border: 2px solid #fbbf24;
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .report-next-action h2 {
+      border-bottom: none;
+      color: #d97706;
+    }
+    .report-action-list p {
+      margin: 8px 0;
+      padding-left: 8px;
+      border-left: 3px solid #fbbf24;
+    }
+
+    /* Key Insights */
+    .report-key-insights {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-top: 20px;
+    }
+    .report-key-insights h3 {
+      color: #2E4A9E;
+      margin-top: 0;
+      margin-bottom: 12px;
+    }
+    .report-key-insights ul {
+      list-style: none;
+      padding: 0;
+    }
+    .report-key-insights li {
+      padding: 6px 0 6px 20px;
+      position: relative;
+    }
+    .report-key-insights li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #10b981;
+      font-weight: bold;
+    }
+
     .table-resize-hint { display: none; }
+
     @media print {
       body { padding: 20px; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
       .report-section { page-break-inside: avoid; }
-      .page-break-before { page-break-before: always; }
+      .report-two-column { page-break-inside: avoid; }
     }
   `;
 
