@@ -2916,10 +2916,10 @@ function renderMetricChampions(posts, periodLabel = '전체') {
     recommendation += `</div>`;
   }
 
-  // 종합 TOP 카드 HTML
-  let champHtml = `<div class="champion-period-label" style="font-size:12px;color:var(--text2);margin-bottom:12px;font-weight:500;">📊 기간: ${periodLabel}</div>`;
+  // 종합 TOP 카드 HTML - 기간 라벨
+  let champHtml = `<div class="champion-period-label" style="grid-column:1/-1;font-size:12px;color:var(--text2);margin-bottom:8px;font-weight:500;">📊 기간: ${periodLabel}</div>`;
 
-  // 종합 TOP 카드 (맨 앞)
+  // 🏆 종합 TOP 카드 (맨 앞)
   if (overallTop) {
     const titleLink = (p, maxLen = 28) => {
       const t = (p.title || '제목 없음').length > maxLen ? p.title.slice(0, maxLen) + '…' : (p.title || '제목 없음');
@@ -2948,7 +2948,7 @@ function renderMetricChampions(posts, periodLabel = '전체') {
     champHtml += `</div>`;
   }
 
-  // 기존 지표별 TOP 카드들
+  // 지표별 TOP 카드들 (7개)
   metrics.forEach(m => {
     const sorted = [...posts].filter(p => p[m.key] != null).sort((a, b) => b[m.key] - a[m.key]);
     const top3 = sorted.slice(0, 3);
