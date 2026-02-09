@@ -2628,6 +2628,9 @@ function renderSummary(period, year, month, weekStart, weekEnd, dateStr) {
   }
 
   container.innerHTML = html;
+
+  // 지표별 TOP 카드도 같은 기간 필터 적용
+  renderMetricChampions(posts, periodLabel);
 }
 
 function initSummaryControls() {
@@ -2836,6 +2839,57 @@ function exportReport() {
 // ══════════════════════════════════════════════════
 // TAB 5: Content Analysis
 // ══════════════════════════════════════════════════
+
+// 지표별 TOP 3 챔피언 카드 (별도 함수로 분리하여 기간 필터 연동)
+function renderMetricChampions(posts, periodLabel = '전체') {
+  const container = document.getElementById('metric-champions');
+  if (!container) return;
+  if (!posts || !posts.length) {
+    container.innerHTML = '<p style="color:var(--text2);padding:20px;">해당 기간의 데이터가 없습니다.</p>';
+    return;
+  }
+
+  const metrics = [
+    { key: 'reach', label: '도달', icon: '📡', fmt: v => fmt(v) },
+    { key: 'views', label: '조회수', icon: '👁', fmt: v => fmt(v) },
+    { key: 'likes', label: '좋아요', icon: '❤️', fmt: v => fmt(v) },
+    { key: 'saves', label: '저장', icon: '🔖', fmt: v => fmt(v) },
+    { key: 'shares', label: '공유', icon: '🔗', fmt: v => fmt(v) },
+    { key: 'comments', label: '댓글', icon: '💬', fmt: v => fmt(v) },
+    { key: 'engagement_rate', label: '참여율', icon: '🔥', fmt: v => fmtPct(v) },
+  ];
+  const typeIcon = t => ({ 'CAROUSEL_ALBUM': '🎠', 'VIDEO': '🎬', 'IMAGE': '📸' }[t] || '📄');
+
+  let champHtml = `<div class="champion-period-label" style="font-size:12px;color:var(--text2);margin-bottom:12px;font-weight:500;">📊 기간: ${periodLabel}</div>`;
+  metrics.forEach(m => {
+    const sorted = [...posts].filter(p => p[m.key] != null).sort((a, b) => b[m.key] - a[m.key]);
+    const top3 = sorted.slice(0, 3);
+    if (!top3.length) return;
+    const first = top3[0];
+    const titleLink = (p, maxLen = 28) => {
+      const t = (p.title || '제목 없음').length > maxLen ? p.title.slice(0, maxLen) + '…' : (p.title || '제목 없음');
+      return p.url ? `<a href="${p.url}" target="_blank" rel="noopener">${t}</a>` : t;
+    };
+    champHtml += `<div class="champion-card">`;
+    champHtml += `<h4>${m.icon} ${m.label} TOP</h4>`;
+    champHtml += `<div class="champion-first">`;
+    champHtml += `<span class="type-icon">${typeIcon(first.media_type)}</span>`;
+    champHtml += `<div class="champion-title">${titleLink(first, 40)}</div>`;
+    champHtml += `<div class="champion-value">${m.fmt(first[m.key])}</div>`;
+    if (first.category) champHtml += `<span class="champion-category">${first.category}</span>`;
+    champHtml += `</div>`;
+    top3.slice(1).forEach((p, i) => {
+      champHtml += `<div class="champion-runner">`;
+      champHtml += `<span class="runner-rank">${i + 2}</span>`;
+      champHtml += `<span class="runner-title">${titleLink(p, 22)}</span>`;
+      champHtml += `<span class="runner-value">${m.fmt(p[m.key])}</span>`;
+      champHtml += `</div>`;
+    });
+    champHtml += `</div>`;
+  });
+  container.innerHTML = champHtml;
+}
+
 function renderContent() {
   const posts = filterByMilestone(DATA.posts);
   const typeMap = {};
@@ -2885,46 +2939,8 @@ function renderContent() {
   insightHtml += `</div>`;
   document.getElementById('content-insights').innerHTML = insightHtml;
 
-  // ── 지표별 TOP 3 챔피언 카드 ──
-  const metrics = [
-    { key: 'reach', label: '도달', icon: '📡', fmt: v => fmt(v) },
-    { key: 'views', label: '조회수', icon: '👁', fmt: v => fmt(v) },
-    { key: 'likes', label: '좋아요', icon: '❤️', fmt: v => fmt(v) },
-    { key: 'saves', label: '저장', icon: '🔖', fmt: v => fmt(v) },
-    { key: 'shares', label: '공유', icon: '🔗', fmt: v => fmt(v) },
-    { key: 'comments', label: '댓글', icon: '💬', fmt: v => fmt(v) },
-    { key: 'engagement_rate', label: '참여율', icon: '🔥', fmt: v => fmtPct(v) },
-  ];
-  const typeIcon = t => ({ 'CAROUSEL_ALBUM': '🎠', 'VIDEO': '🎬', 'IMAGE': '📸' }[t] || '📄');
-  let champHtml = '';
-  metrics.forEach(m => {
-    const sorted = [...posts].filter(p => p[m.key] != null).sort((a, b) => b[m.key] - a[m.key]);
-    const top3 = sorted.slice(0, 3);
-    if (!top3.length) return;
-    const first = top3[0];
-    const titleLink = (p, maxLen = 28) => {
-      const t = (p.title || '제목 없음').length > maxLen ? p.title.slice(0, maxLen) + '…' : (p.title || '제목 없음');
-      return p.url ? `<a href="${p.url}" target="_blank" rel="noopener">${t}</a>` : t;
-    };
-    champHtml += `<div class="champion-card">`;
-    champHtml += `<h4>${m.icon} ${m.label} TOP</h4>`;
-    champHtml += `<div class="champion-first">`;
-    champHtml += `<span class="type-icon">${typeIcon(first.media_type)}</span>`;
-    champHtml += `<div class="champion-title">${titleLink(first, 40)}</div>`;
-    champHtml += `<div class="champion-value">${m.fmt(first[m.key])}</div>`;
-    if (first.category) champHtml += `<span class="champion-category">${first.category}</span>`;
-    champHtml += `</div>`;
-    // 2·3위
-    top3.slice(1).forEach((p, i) => {
-      champHtml += `<div class="champion-runner">`;
-      champHtml += `<span class="runner-rank">${i + 2}</span>`;
-      champHtml += `<span class="runner-title">${titleLink(p, 22)}</span>`;
-      champHtml += `<span class="runner-value">${m.fmt(p[m.key])}</span>`;
-      champHtml += `</div>`;
-    });
-    champHtml += `</div>`;
-  });
-  document.getElementById('metric-champions').innerHTML = champHtml;
+  // 지표별 TOP 카드 렌더링 (전체 데이터)
+  renderMetricChampions(posts, '전체');
 
   // Content type comparison grouped bar
   document.getElementById('chart-content-compare').innerHTML = '';
