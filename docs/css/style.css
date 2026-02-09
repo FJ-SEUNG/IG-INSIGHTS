@@ -507,8 +507,10 @@ body {
 .benchmark-seg.good { background: rgba(68, 138, 255, 0.5); }
 .benchmark-seg.excellent { background: rgba(0, 200, 83, 0.5); }
 .seg-label {
-  font-size: 0;
-  visibility: hidden;
+  font-size: 9px;
+  font-weight: 600;
+  color: #333;
+  visibility: visible;
 }
 .benchmark-labels {
   display: flex;
