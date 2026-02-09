@@ -3417,6 +3417,22 @@ function updateContentAnalysis(posts, periodLabel = '전체') {
         }
       }
     }
+
+    // Amplification Ratio (공유÷좋아요 비율) - 바이럴 잠재력 지표
+    const totalShares = sum(posts.map(p => p.shares || 0));
+    const totalLikes = sum(posts.map(p => p.likes || 0));
+    if (totalLikes > 0) {
+      const ampRatio = (totalShares / totalLikes).toFixed(2);
+      const industryAvg = 0.4; // 업계 평균 0.3~0.5
+      const comparison = (ampRatio / industryAvg).toFixed(1);
+      insightHtml += `<br><br>📢 <strong>증폭 비율(Amplification Ratio):</strong> ${ampRatio} (공유÷좋아요)`;
+      if (ampRatio > industryAvg) {
+        insightHtml += `<br>→ 업계 평균 0.3~0.5 대비 <strong style="color:var(--green)">${comparison}배 높은 바이럴력</strong>`;
+      } else {
+        insightHtml += `<br>→ 업계 평균 수준의 바이럴력`;
+      }
+    }
+
     insightHtml += `</div>`;
     document.getElementById('content-insights').innerHTML = insightHtml;
   }
