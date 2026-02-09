@@ -349,16 +349,36 @@ async function init() {
 }
 
 // ── Tab Navigation ──
+function switchToTab(tabName) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  const btn = document.querySelector(`.tab-btn[data-tab="${tabName}"]`);
+  const tab = document.getElementById('tab-' + tabName);
+  if (btn && tab) {
+    btn.classList.add('active');
+    tab.classList.add('active');
+    window.location.hash = tabName;
+    window.dispatchEvent(new Event('resize'));
+  }
+}
+
 function setupTabs() {
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
-      btn.classList.add('active');
-      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
-      // Resize charts on tab switch
-      window.dispatchEvent(new Event('resize'));
+      switchToTab(btn.dataset.tab);
     });
+  });
+
+  // 페이지 로드 시 URL 해시에서 탭 복원
+  const hash = window.location.hash.slice(1);
+  if (hash) {
+    switchToTab(hash);
+  }
+
+  // 브라우저 뒤로가기/앞으로가기 지원
+  window.addEventListener('hashchange', () => {
+    const newHash = window.location.hash.slice(1);
+    if (newHash) switchToTab(newHash);
   });
 }
 
@@ -3130,10 +3150,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Header title click - go to overview tab
   document.getElementById('header-title')?.addEventListener('click', () => {
-    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-    document.querySelector('.tab-btn[data-tab="overview"]')?.classList.add('active');
-    document.getElementById('overview')?.classList.add('active');
+    switchToTab('overview');
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 

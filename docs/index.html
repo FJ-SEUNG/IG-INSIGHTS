@@ -6,7 +6,7 @@
   <title>IG INSIGHT</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link href="https://unpkg.com/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=20250209a">
+  <link rel="stylesheet" href="css/style.css?v=20250209b">
 </head>
 <body>
   <!-- Header -->
@@ -136,16 +136,16 @@
       </div>
       <div class="chart-grid">
         <div class="chart-box">
-          <h3>팔로워 추이</h3>
+          <h3>팔로워 추이 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">날짜별 팔로워 수 변화<br>그래프가 우상향하면 꾸준히 성장 중</span></span></h3>
           <div id="chart-follower-trend"></div>
         </div>
         <div class="chart-box">
-          <h3>콘텐츠 유형 분포</h3>
+          <h3>콘텐츠 유형 분포 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text"><strong>릴스:</strong> 짧은 동영상 (최대 90초)<br><strong>캐러셀:</strong> 여러 장의 이미지/영상 슬라이드<br><strong>이미지:</strong> 단일 사진</span></span></h3>
           <div id="chart-type-dist"></div>
         </div>
         <div class="chart-box full-width">
           <div class="chart-header">
-            <h3>요일별 도달 & 참여</h3>
+            <h3>요일별 도달 & 참여 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text"><strong>도달:</strong> 콘텐츠를 본 고유 계정 수<br><strong>참여율:</strong> (좋아요+댓글+저장+공유) / 도달 × 100<br><br>막대를 클릭하면 해당 요일의 콘텐츠 상세를 볼 수 있습니다</span></span></h3>
             <div class="dow-controls">
               <div class="toggle-group" id="dow-toggle">
                 <button class="toggle-btn active" data-mode="all">전체</button>
@@ -257,7 +257,7 @@
       </div>
       <div class="chart-box">
         <div class="chart-header">
-          <h3>팔로워 추이 (전체)</h3>
+          <h3>팔로워 추이 (전체) <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">날짜별 총 팔로워 수 변화<br>월별로 필터링하여 상세 추이 확인 가능</span></span></h3>
           <div class="follower-month-controls">
             <select id="follower-year-select" class="follower-period-select"></select>
             <select id="follower-month-select" class="follower-period-select"></select>
@@ -267,7 +267,7 @@
         <div id="chart-follower-full"></div>
       </div>
       <div class="chart-box">
-        <h3>일별 팔로워 변화</h3>
+        <h3>일별 팔로워 변화 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">전일 대비 팔로워 증감<br>양수(+): 팔로워 증가<br>음수(-): 팔로워 감소</span></span></h3>
         <div id="chart-follower-change"></div>
       </div>
     </section>
@@ -277,16 +277,16 @@
       <div class="insight-box" id="category-insights"></div>
       <div class="chart-grid">
         <div class="chart-box">
-          <h3>카테고리별 평균 참여율</h3>
+          <h3>카테고리별 평균 참여율 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">(좋아요+댓글+저장+공유) / 도달 × 100<br>콘텐츠에 반응한 비율<div class="kpi-benchmark-scale"><div class="benchmark-title">여행 업종 기준 (2025)</div><div class="benchmark-bar"><div class="benchmark-seg low" style="width:25%"><span class="seg-label">미흡</span></div><div class="benchmark-seg normal" style="width:25%"><span class="seg-label">보통</span></div><div class="benchmark-seg good" style="width:25%"><span class="seg-label">양호</span></div><div class="benchmark-seg excellent" style="width:25%"><span class="seg-label">우수</span></div></div><div class="benchmark-labels"><span class="benchmark-val" style="width:25%">0%</span><span class="benchmark-val" style="width:25%">0.5%</span><span class="benchmark-val" style="width:25%">1.2%</span><span class="benchmark-val" style="width:25%">3%</span></div></div></span></span></h3>
           <div id="chart-cat-engagement"></div>
         </div>
         <div class="chart-box">
-          <h3>카테고리별 평균 도달</h3>
+          <h3>카테고리별 평균 도달 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">콘텐츠를 본 고유 계정 수<br>팔로워 + 비팔로워 포함</span></span></h3>
           <div id="chart-cat-reach"></div>
         </div>
       </div>
       <div class="chart-box">
-        <h3>카테고리별 평균 저장/공유</h3>
+        <h3>카테고리별 평균 저장/공유 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text"><strong>저장:</strong> 나중에 다시 보기 위해 저장한 횟수<br><strong>공유:</strong> DM·스토리로 공유한 횟수</span></span></h3>
         <div id="chart-cat-save-share"></div>
       </div>
       <div class="table-box">
@@ -319,16 +319,16 @@
       <div id="metric-champions" class="metric-champions"></div>
       <div class="chart-grid">
         <div class="chart-box">
-          <h3>콘텐츠 유형별 성과 비교</h3>
+          <h3>콘텐츠 유형별 성과 비교 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">릴스/캐러셀/이미지별 평균 성과 비교<br><strong>참여율:</strong> 반응한 비율<br><strong>저장율:</strong> 저장한 비율<br><strong>공유율:</strong> 공유한 비율</span></span></h3>
           <div id="chart-content-compare"></div>
         </div>
         <div class="chart-box">
-          <h3>도달 vs 참여율</h3>
+          <h3>도달 vs 참여율 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">각 게시물의 도달(X축)과 참여율(Y축) 분포<br>우상단: 도달 높고 참여율 높음 (최고 성과)<br>좌상단: 도달 낮지만 참여율 높음 (충성 팬)</span></span></h3>
           <div id="chart-scatter"></div>
         </div>
       </div>
       <div class="table-box">
-        <h3>TOP 10 게시물</h3>
+        <h3>TOP 10 게시물 <span class="kpi-tooltip-wrap"><span class="kpi-tooltip-icon">ⓘ</span><span class="kpi-tooltip-text">종합점수 기준 상위 10개 게시물<br>도달·참여·저장·공유를 종합 평가</span></span></h3>
         <div id="top10-table"></div>
       </div>
     </section>
