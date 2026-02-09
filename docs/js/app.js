@@ -2910,15 +2910,42 @@ function downloadQuickReport() {
   }
 
   // 임시로 report-start-date, report-end-date 설정
-  document.getElementById('report-start-date').value = startDate;
-  document.getElementById('report-end-date').value = endDate;
+  const startInput = document.getElementById('report-start-date');
+  const endInput = document.getElementById('report-end-date');
 
-  // 보고서 HTML 생성
-  const reportHTML = generateReportHTML(startDate, endDate);
-  document.getElementById('report-preview').innerHTML = reportHTML;
+  if (!startInput || !endInput) {
+    console.error('report date inputs not found');
+    // 모달이 없을 수 있으니 직접 생성
+  }
 
-  // 바로 PDF 다운로드 실행
-  downloadReportPDF();
+  if (startInput) startInput.value = startDate;
+  if (endInput) endInput.value = endDate;
+
+  console.log('Quick Report - startDate:', startDate, 'endDate:', endDate);
+
+  try {
+    // 해당 기간 데이터 확인
+    const posts = filterPostsByDateRange(startDate, endDate);
+    console.log('Filtered posts count:', posts?.length);
+
+    if (!posts || posts.length === 0) {
+      alert(`선택한 기간(${startDate} ~ ${endDate})에 데이터가 없습니다.\n다른 기간을 선택해주세요.`);
+      return;
+    }
+
+    // 보고서 HTML 생성
+    const reportHTML = generateReportHTML(startDate, endDate);
+    const previewEl = document.getElementById('report-preview');
+    if (previewEl) {
+      previewEl.innerHTML = reportHTML;
+    }
+
+    // 바로 PDF 다운로드 실행
+    downloadReportPDFDirect(startDate, endDate, reportHTML);
+  } catch (error) {
+    console.error('보고서 생성 오류:', error);
+    alert('보고서 생성 중 오류가 발생했습니다:\n' + error.message);
+  }
 }
 
 function openReportModal() {
@@ -3605,6 +3632,235 @@ function downloadReportPDF() {
 </head>
 <body>
   ${preview.innerHTML}
+  <script>
+    window.onload = function() {
+      setTimeout(function() {
+        window.print();
+      }, 500);
+    };
+  </` + `script>
+</body>
+</html>`);
+
+  printWindow.document.close();
+}
+
+// 모달 없이 직접 PDF 다운로드 (Quick Report용)
+function downloadReportPDFDirect(startDate, endDate, reportHTML) {
+  const printWindow = window.open('', '_blank');
+
+  if (!printWindow) {
+    alert('팝업이 차단되었습니다. 팝업 허용 후 다시 시도해주세요.');
+    return;
+  }
+
+  const printStyles = `
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Noto Sans KR', -apple-system, sans-serif;
+      color: #1a1a1a;
+      line-height: 1.7;
+      padding: 40px;
+      background: #fff;
+    }
+    .report-header {
+      text-align: center;
+      margin-bottom: 28px;
+      padding-bottom: 20px;
+      border-bottom: 3px solid #2E4A9E;
+    }
+    .report-header h1 {
+      font-size: 26px;
+      font-weight: 800;
+      color: #2E4A9E;
+      margin-bottom: 8px;
+      letter-spacing: 2px;
+    }
+    .report-period { font-size: 15px; color: #666; font-weight: 500; }
+    .report-brand { font-size: 12px; color: #999; margin-top: 6px; }
+    .report-summary-section {
+      background: linear-gradient(135deg, #f0f4ff 0%, #faf5ff 100%);
+      padding: 20px 24px;
+      border-radius: 12px;
+      border-left: 5px solid #2E4A9E;
+      margin-bottom: 28px;
+    }
+    .report-dynamic-summary {
+      font-size: 14px;
+      line-height: 1.9;
+      color: #333;
+      margin: 0;
+    }
+    .report-dynamic-summary strong { color: #2E4A9E; }
+    .report-section {
+      margin-bottom: 28px;
+      page-break-inside: avoid;
+    }
+    .report-section h2 {
+      font-size: 16px;
+      font-weight: 700;
+      color: #2E4A9E;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #4A7FD4;
+    }
+    .report-section h3, .report-subsection-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: #333;
+      margin: 20px 0 10px;
+    }
+    .report-section p, .report-section li {
+      font-size: 13px;
+      color: #444;
+      margin-bottom: 8px;
+    }
+    .report-section ul { padding-left: 20px; }
+    .report-section li { margin-bottom: 6px; }
+    .report-intro {
+      font-size: 13px;
+      color: #555;
+      margin-bottom: 16px;
+      line-height: 1.8;
+    }
+    .report-follower-note {
+      color: #10b981;
+      font-weight: 600;
+    }
+    .report-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 11px;
+    }
+    .report-table th, .report-table td {
+      padding: 10px 12px;
+      text-align: left;
+      border: 1px solid #e2e8f0;
+      vertical-align: top;
+    }
+    .report-table th {
+      background: #2E4A9E;
+      color: #fff;
+      font-weight: 600;
+    }
+    .report-table tbody tr:nth-child(even) { background: #f8fafc; }
+    .report-table tbody tr:nth-child(odd) { background: #fff; }
+    .report-table td strong { color: #2E4A9E; }
+    .report-improvement-table td:first-child { font-weight: 600; color: #444; }
+    .report-two-column {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 16px 0;
+    }
+    .report-column {
+      padding: 16px;
+      border-radius: 10px;
+    }
+    .report-column h3 {
+      margin-top: 0;
+      font-size: 15px;
+      margin-bottom: 12px;
+    }
+    .report-success {
+      background: #f0fdf4;
+      border: 1px solid #86efac;
+    }
+    .report-success h3 { color: #16a34a; }
+    .report-improve {
+      background: #fef2f2;
+      border: 1px solid #fca5a5;
+    }
+    .report-improve h3 { color: #dc2626; }
+    .report-item {
+      margin-bottom: 14px;
+    }
+    .report-item h4 {
+      font-size: 12px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 6px;
+    }
+    .report-item p {
+      font-size: 11px;
+      color: #555;
+      margin: 0;
+      line-height: 1.6;
+    }
+    .report-item em {
+      color: #2E4A9E;
+      font-style: normal;
+      font-weight: 600;
+    }
+    .positive { color: #16a34a; font-weight: 700; }
+    .negative { color: #dc2626; font-weight: 700; }
+    .report-efficiency-note {
+      font-size: 11px;
+      color: #888;
+      text-align: center;
+      margin-top: 8px;
+    }
+    .report-next-action {
+      background: #fffbeb;
+      border: 2px solid #fbbf24;
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .report-next-action h2 {
+      border-bottom: none;
+      color: #d97706;
+    }
+    .report-action-list p {
+      margin: 8px 0;
+      padding-left: 8px;
+      border-left: 3px solid #fbbf24;
+    }
+    .report-key-insights {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-top: 20px;
+    }
+    .report-key-insights h3 {
+      color: #2E4A9E;
+      margin-top: 0;
+      margin-bottom: 12px;
+    }
+    .report-key-insights ul {
+      list-style: none;
+      padding: 0;
+    }
+    .report-key-insights li {
+      padding: 6px 0 6px 20px;
+      position: relative;
+    }
+    .report-key-insights li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #10b981;
+      font-weight: bold;
+    }
+    .table-resize-hint { display: none; }
+    @media print {
+      body { padding: 20px; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .report-section { page-break-inside: avoid; }
+      .report-two-column { page-break-inside: avoid; }
+    }
+  `;
+
+  printWindow.document.write(`<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>IG 성과리포트 ${startDate} ~ ${endDate}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <style>${printStyles}</style>
+</head>
+<body>
+  ${reportHTML}
   <script>
     window.onload = function() {
       setTimeout(function() {
