@@ -784,6 +784,35 @@ body {
   color: var(--fj-primary);
   font-weight: 600;
 }
+/* 종합 TOP 콘텐츠 추천 박스 */
+.recommendation-box {
+  margin-top: 12px;
+  padding: 12px;
+  background: rgba(255,255,255,0.7);
+  border-radius: 10px;
+  border: 1px solid #ffe082;
+}
+.recommendation-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #f57c00;
+  margin-bottom: 8px;
+}
+.recommendation-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.recommendation-list li {
+  font-size: 11px;
+  color: #555;
+  padding: 3px 0;
+  line-height: 1.4;
+}
+.recommendation-list li::before {
+  content: '→ ';
+  color: #f57c00;
+}
 .champion-runner {
   display: flex;
   align-items: center;

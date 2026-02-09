@@ -2859,8 +2859,92 @@ function renderMetricChampions(posts, periodLabel = '전체') {
     { key: 'engagement_rate', label: '참여율', icon: '🔥', fmt: v => fmtPct(v) },
   ];
   const typeIcon = t => ({ 'CAROUSEL_ALBUM': '🎠', 'VIDEO': '🎬', 'IMAGE': '📸' }[t] || '📄');
+  const typeLabel2 = t => ({ 'CAROUSEL_ALBUM': '캐러셀', 'VIDEO': '릴스', 'IMAGE': '이미지' }[t] || '기타');
 
+  // ── 종합 TOP 분석 ──
+  // 각 지표별 1위 게시물 찾기
+  const topPosts = {};
+  metrics.forEach(m => {
+    const sorted = [...posts].filter(p => p[m.key] != null).sort((a, b) => b[m.key] - a[m.key]);
+    if (sorted.length) topPosts[m.key] = sorted[0];
+  });
+
+  // 가장 많이 1위한 게시물 찾기
+  const winCount = {};
+  Object.values(topPosts).forEach(p => {
+    if (!p) return;
+    const id = p.url || p.id || p.title;
+    if (!winCount[id]) winCount[id] = { post: p, count: 0, metrics: [] };
+    winCount[id].count++;
+  });
+  metrics.forEach(m => {
+    const top = topPosts[m.key];
+    if (!top) return;
+    const id = top.url || top.id || top.title;
+    if (winCount[id]) winCount[id].metrics.push(m.label);
+  });
+
+  // 종합점수 기준 1위 게시물
+  const sortedByScore = [...posts].filter(p => p.composite_score != null).sort((a, b) => b.composite_score - a.composite_score);
+  const overallTop = sortedByScore[0];
+
+  // 콘텐츠 추천 인사이트 생성
+  let recommendation = '';
+  if (overallTop) {
+    const topType = typeLabel2(overallTop.media_type);
+    const topCategory = overallTop.category || '미분류';
+
+    // 카테고리별 평균 성과
+    const catPosts = posts.filter(p => p.category === topCategory);
+    const catAvgEng = catPosts.length ? avg(catPosts.map(p => p.engagement_rate).filter(v => v != null)) : 0;
+
+    // 콘텐츠 유형별 평균 성과
+    const typePosts = posts.filter(p => p.media_type === overallTop.media_type);
+    const typeAvgReach = typePosts.length ? avg(typePosts.map(p => p.reach).filter(v => v != null)) : 0;
+
+    recommendation = `<div class="recommendation-box">`;
+    recommendation += `<div class="recommendation-title">💡 콘텐츠 추천</div>`;
+    recommendation += `<ul class="recommendation-list">`;
+    recommendation += `<li><strong>${topType}</strong> 형식으로 제작 시 평균 도달 ${fmt(Math.round(typeAvgReach))}</li>`;
+    recommendation += `<li><strong>${topCategory}</strong> 주제의 참여율 ${catAvgEng.toFixed(1)}%</li>`;
+    if (overallTop.media_type === 'CAROUSEL_ALBUM') {
+      recommendation += `<li>정보성 콘텐츠 → 저장율 ↑</li>`;
+    } else if (overallTop.media_type === 'VIDEO') {
+      recommendation += `<li>초반 3초 훅 중요 → 도달 ↑</li>`;
+    }
+    recommendation += `</ul>`;
+    recommendation += `</div>`;
+  }
+
+  // 종합 TOP 카드 HTML
   let champHtml = `<div class="champion-period-label" style="font-size:12px;color:var(--text2);margin-bottom:12px;font-weight:500;">📊 기간: ${periodLabel}</div>`;
+
+  // 종합 TOP 카드 (맨 앞)
+  if (overallTop) {
+    const titleLink = (p, maxLen = 28) => {
+      const t = (p.title || '제목 없음').length > maxLen ? p.title.slice(0, maxLen) + '…' : (p.title || '제목 없음');
+      return p.url ? `<a href="${p.url}" target="_blank" rel="noopener">${t}</a>` : t;
+    };
+    const topId = overallTop.url || overallTop.id || overallTop.title;
+    const wins = winCount[topId];
+    const winMetrics = wins ? wins.metrics.join(' · ') : '';
+
+    champHtml += `<div class="champion-card champion-overall" style="background:linear-gradient(135deg,#fff9e6 0%,#fff3cd 100%);border:2px solid #ffc107;">`;
+    champHtml += `<h4>🏆 종합 TOP</h4>`;
+    champHtml += `<div class="champion-first">`;
+    champHtml += `<span class="type-icon">${typeIcon(overallTop.media_type)}</span>`;
+    champHtml += `<div class="champion-title">${titleLink(overallTop, 40)}</div>`;
+    champHtml += `<div class="champion-value" style="font-size:18px;">${overallTop.composite_score?.toFixed(1) || '-'}점</div>`;
+    if (overallTop.category) champHtml += `<span class="champion-category">${overallTop.category}</span>`;
+    champHtml += `</div>`;
+    if (winMetrics) {
+      champHtml += `<div class="overall-wins" style="font-size:11px;color:#666;margin-top:8px;padding-top:8px;border-top:1px solid #e0e0e0;">🥇 ${winMetrics} 1위</div>`;
+    }
+    champHtml += recommendation;
+    champHtml += `</div>`;
+  }
+
+  // 기존 지표별 TOP 카드들
   metrics.forEach(m => {
     const sorted = [...posts].filter(p => p[m.key] != null).sort((a, b) => b[m.key] - a[m.key]);
     const top3 = sorted.slice(0, 3);
