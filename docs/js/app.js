@@ -3049,12 +3049,46 @@ function generateReportHTML(startDate, endDate) {
     comments: allStats.totalComments ? ((stats.totalComments / allStats.totalComments) * 100).toFixed(1) : 0,
   };
 
-  // Before 평균 (비교용)
+  // Before 통계 (담당 이전)
   const beforeStats = {
+    count: beforePosts.length,
+    totalReach: sum(beforePosts.map(p => p.reach || 0)),
+    totalComments: sum(beforePosts.map(p => p.comments || 0)),
+    totalSaves: sum(beforePosts.map(p => p.saves || 0)),
+    totalShares: sum(beforePosts.map(p => p.shares || 0)),
     avgEngRate: beforePosts.length ? avg(beforePosts.map(p => p.engagement_rate).filter(v => v != null)) : 0,
     avgSaveRate: beforePosts.length ? avg(beforePosts.map(p => p.save_rate).filter(v => v != null)) : 0,
     avgShareRate: beforePosts.length ? avg(beforePosts.map(p => p.share_rate).filter(v => v != null)) : 0,
   };
+
+  // 효율 배수 계산 (1,000 도달당 반응)
+  const calcEfficiency = (metric, reach) => reach > 0 ? (metric / reach * 1000) : 0;
+
+  const beforeEfficiency = {
+    comments: calcEfficiency(beforeStats.totalComments, beforeStats.totalReach),
+    saves: calcEfficiency(beforeStats.totalSaves, beforeStats.totalReach),
+    shares: calcEfficiency(beforeStats.totalShares, beforeStats.totalReach),
+  };
+
+  const afterEfficiency = {
+    comments: calcEfficiency(stats.totalComments, stats.totalReach),
+    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
+    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+  };
+
+  const efficiencyMultiplier = {
+    comments: beforeEfficiency.comments > 0 ? (afterEfficiency.comments / beforeEfficiency.comments).toFixed(1) : '-',
+    saves: beforeEfficiency.saves > 0 ? (afterEfficiency.saves / beforeEfficiency.saves).toFixed(1) : '-',
+    shares: beforeEfficiency.shares > 0 ? (afterEfficiency.shares / beforeEfficiency.shares).toFixed(1) : '-',
+  };
+
+  // 팔로워 증가 계산
+  const followerGrowth = DATA.followers && DATA.followers.length >= 2
+    ? DATA.followers[DATA.followers.length - 1].followers - DATA.followers[0].followers
+    : 0;
+
+  // 운영 기간 계산 (일수)
+  const daysDiff = Math.ceil((new Date(endDate) - new Date(startDate)) / (1000 * 60 * 60 * 24)) + 1;
 
   // TOP 콘텐츠 분석
   const topReach = [...posts].sort((a, b) => (b.reach || 0) - (a.reach || 0)).slice(0, 3);
@@ -3062,174 +3096,172 @@ function generateReportHTML(startDate, endDate) {
   const topSaves = [...posts].sort((a, b) => (b.saves || 0) - (a.saves || 0)).slice(0, 3);
   const lowPerf = [...posts].sort((a, b) => (a.engagement_rate || 0) - (b.engagement_rate || 0)).slice(0, 2);
 
-  // 연필 아이콘 + 수정 가능 영역 래퍼
-  const editable = (text, className = '') =>
-    `<span class="editable-wrap ${className}"><span class="editable-text">${text}</span><button class="edit-btn" onclick="this.previousElementSibling.focus()" title="수정">✏️</button></span>`;
+  // 킬러 콘텐츠 (도달 1위)
+  const killerContent = topReach[0];
+  const killerNonFollowerRate = killerContent ? ((killerContent.reach - (killerContent.follower_reach || 0)) / killerContent.reach * 100).toFixed(1) : 0;
 
-  // HTML 생성 (이전 버전 - Section 1~4)
+  // HTML 생성 (새 양식)
   return `
     <div class="report-header">
-      <h1>📑 IG 운영 성과 분석 리포트</h1>
-      <div class="report-period">운영 기간: ${periodStr}</div>
+      <h1>IG CONTENTS REPORT</h1>
+      <div class="report-period">${periodStr}</div>
       <div class="report-brand">FLYING JAPAN</div>
     </div>
 
-    <!-- Section 1: 총평 -->
-    <div class="report-section">
-      <h2>📌 Section 1. 총평 (Executive Summary)</h2>
-
-      <div class="report-stats-grid">
-        <div class="report-stat-card">
-          <div class="stat-label">누적 도달</div>
-          <div class="stat-value">${fmtCompact(stats.totalReach)}</div>
-          <div class="stat-sub">전체 대비 ${contribution.reach}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">평균 참여율</div>
-          <div class="stat-value">${stats.avgEngRate.toFixed(2)}%</div>
-          <div class="stat-sub">Before ${beforeStats.avgEngRate.toFixed(2)}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">평균 공유율</div>
-          <div class="stat-value">${stats.avgShareRate.toFixed(2)}%</div>
-          <div class="stat-sub">Before ${beforeStats.avgShareRate.toFixed(2)}%</div>
-        </div>
-      </div>
-
-      <div class="report-highlight">
-        <p class="editable-field" data-field="summary">
-          <span class="edit-icon" onclick="this.parentElement.querySelector('.editable-content').focus()">✏️</span>
-          <span class="editable-content" contenteditable="true"><strong>핵심 성과:</strong><br>
-          • 해당 기간 누적 도달 <strong>${fmtCompact(stats.totalReach)}회</strong> 달성<br>
-          • 전체 계정 역사상 공유의 <strong>${contribution.shares}%</strong>, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간에 생성<br>
-          • 참여율 ${stats.avgEngRate.toFixed(2)}%, 공유율 ${stats.avgShareRate.toFixed(2)}% 기록</span>
-        </p>
-      </div>
-
-      <div class="report-conclusion">
-        <h3>💡 한 줄 결론</h3>
-        <p class="editable-field">
-          <span class="edit-icon" onclick="this.parentElement.querySelector('.editable-content').focus()">✏️</span>
-          <span class="editable-content" contenteditable="true">"단순 노출 중심에서 유저가 참여하고 확산하는 '고관여 커뮤니티형' 계정으로의 체질 개선 성공."</span>
-        </p>
-      </div>
+    <!-- Dynamic Summary (총평) -->
+    <div class="report-section report-summary-section">
+      <p class="editable-field report-dynamic-summary">
+        <span class="edit-icon">✏️</span>
+        <span class="editable-content" contenteditable="true">지난 운영 기간(${daysDiff}일) 동안 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하며,
+        정보 전달을 넘어 유저가 능동적으로 참여하고 공유하는 <strong>참여형 커뮤니티 계정</strong>으로 나아가고 있습니다.
+        특히 전체 계정 수치 중, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간 내 기록하고 있어
+        유저 소통·참여 측면에서 긍정적인 수치로 보고 있습니다.</span>
+      </p>
     </div>
 
-    <!-- Section 2: 정량적 성과 분석 -->
+    <!-- 1. 주요 지표별 성과 데이터 -->
     <div class="report-section">
-      <h2>📊 Section 2. 정량적 성과 분석</h2>
+      <h2>1. 주요 지표별 성과 데이터</h2>
 
-      <h3>Before vs After 비교</h3>
-      <table class="report-table">
-        <tr>
-          <th>지표</th>
-          <th>Before (담당 이전)</th>
-          <th>After (해당 기간)</th>
-          <th>변화</th>
-        </tr>
-        <tr>
-          <td>평균 참여율</td>
-          <td>${beforeStats.avgEngRate.toFixed(2)}%</td>
-          <td>${stats.avgEngRate.toFixed(2)}%</td>
-          <td style="color:${stats.avgEngRate > beforeStats.avgEngRate ? '#10b981' : '#ef4444'}">${stats.avgEngRate > beforeStats.avgEngRate ? '↑' : '↓'} ${Math.abs(stats.avgEngRate - beforeStats.avgEngRate).toFixed(2)}%p</td>
-        </tr>
-        <tr>
-          <td>평균 저장율</td>
-          <td>${beforeStats.avgSaveRate.toFixed(2)}%</td>
-          <td>${stats.avgSaveRate.toFixed(2)}%</td>
-          <td style="color:${stats.avgSaveRate > beforeStats.avgSaveRate ? '#10b981' : '#ef4444'}">${stats.avgSaveRate > beforeStats.avgSaveRate ? '↑' : '↓'} ${Math.abs(stats.avgSaveRate - beforeStats.avgSaveRate).toFixed(2)}%p</td>
-        </tr>
-        <tr>
-          <td>평균 공유율</td>
-          <td>${beforeStats.avgShareRate.toFixed(2)}%</td>
-          <td>${stats.avgShareRate.toFixed(2)}%</td>
-          <td style="color:${stats.avgShareRate > beforeStats.avgShareRate ? '#10b981' : '#ef4444'}">${stats.avgShareRate > beforeStats.avgShareRate ? '↑' : '↓'} ${Math.abs(stats.avgShareRate - beforeStats.avgShareRate).toFixed(2)}%p</td>
-        </tr>
-      </table>
-
-      <h3>기여도 분석 (전체 누적 대비)</h3>
-      <div class="report-stats-grid">
-        <div class="report-stat-card">
-          <div class="stat-label">도달 기여도</div>
-          <div class="stat-value">${contribution.reach}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">공유 기여도</div>
-          <div class="stat-value">${contribution.shares}%</div>
-        </div>
-        <div class="report-stat-card">
-          <div class="stat-label">댓글 기여도</div>
-          <div class="stat-value">${contribution.comments}%</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Section 3: 콘텐츠 유형별 성과 분석 -->
-    <div class="report-section page-break-before">
-      <h2>🎯 Section 3. 콘텐츠 유형별 성과 분석</h2>
+      <p class="report-intro">
+        현재까지 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하였으며,<br>
+        ${formatDate(endDate)} 기준 주요 누적 수치는 다음과 같습니다.
+        <span class="report-follower-note">(팔로워 총 ${fmtNum(followerGrowth)}명 증가)</span>
+      </p>
 
       <table class="report-table">
         <thead>
           <tr>
-            <th>분류</th>
-            <th>해당 콘텐츠</th>
-            <th>성과 및 분석</th>
-            <th>전략</th>
+            <th>지표 항목</th>
+            <th>수치 (Total)</th>
+            <th>계정 내 점유율 (기여도)</th>
           </tr>
+        </thead>
+        <tbody>
+          <tr><td>총 도달 (Reach)</td><td>${fmtNum(stats.totalReach)}회</td><td>전체 누적의 약 <strong>${contribution.reach}%</strong></td></tr>
+          <tr><td>총 공유</td><td>${fmtNum(stats.totalShares)}회</td><td>전체 누적의 약 <strong>${contribution.shares}%</strong></td></tr>
+          <tr><td>총 저장</td><td>${fmtNum(stats.totalSaves)}</td><td>전체 누적의 약 <strong>${((stats.totalSaves / allStats.totalSaves) * 100).toFixed(1)}%</strong></td></tr>
+          <tr><td>총 댓글</td><td>${fmtNum(stats.totalComments)}</td><td>전체 누적의 약 <strong>${contribution.comments}%</strong></td></tr>
+          <tr><td>총 좋아요</td><td>${fmtNum(stats.totalLikes)}</td><td>전체 누적의 약 <strong>${((stats.totalLikes / allStats.totalLikes) * 100).toFixed(1)}%</strong></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 2. 성과 및 개선 필요점 -->
+    <div class="report-section">
+      <h2>2. 성과 및 개선 필요점</h2>
+
+      <div class="report-two-column">
+        <div class="report-column report-success">
+          <h3>🔺 성과</h3>
+          <div class="report-item">
+            <h4>킬러 콘텐츠의 알고리즘 노출 최적화</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">'${killerContent ? (killerContent.title || '제목 없음') : '-'}'(비팔로워 도달 ${killerNonFollowerRate}%), '${topShares[0] ? (topShares[0].title || '제목 없음') : '-'}'(공유 ${topShares[0] ? fmtNum(topShares[0].shares) : 0}회) 등 콘텐츠 → 신규 유저 유입 역할 수행</span></p>
+          </div>
+          <div class="report-item">
+            <h4>소통·참여형 계정화 (가장 긍정적 포인트)</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">전체 도달 비중(${contribution.reach}%) 대비 댓글 비중(${contribution.comments}%)이 높게 나타나며, 유저들이 콘텐츠 내 적극적으로 참여하는 비율 증가<br><em>* 적은 비용(도달)으로 최대 효율(댓글) 취득</em></span></p>
+          </div>
+        </div>
+
+        <div class="report-column report-improve">
+          <h3>🔻 개선 필요</h3>
+          <div class="report-item">
+            <h4>저장률 개선 필요</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">현재 공유율 대비 저장률이 상대적으로 낮아, 유저가 나중에 다시 꺼내볼 '실용적' 요소(ex. 요약표 등)를 강화해야 할 것으로 보임</span></p>
+          </div>
+          <div class="report-item">
+            <h4>팔로우 전환율 정체</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">도달에 비해 팔로우 전환률이 낮은 상태, 프로필 유입 유저를 팔로워로 전환할 수 있는 장치 보완 필요</span></p>
+          </div>
+          <div class="report-item">
+            <h4>콘텐츠별 수치 양극화</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">콘텐츠 인사이트 수치 등락이 일정치 않고 변화가 심함. 평균적인 도달수를 높이는 방안 고민 필요</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. 과거 대비 효율성 -->
+    <div class="report-section">
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과)</h2>
+
+      <table class="report-table">
+        <thead>
+          <tr><th>지표</th><th>과거 (Before)</th><th>현재 (After)</th><th>효율 배수</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1,000 도달당 댓글</td>
+            <td>${beforeEfficiency.comments.toFixed(1)}개</td>
+            <td>${afterEfficiency.comments.toFixed(1)}개</td>
+            <td class="${parseFloat(efficiencyMultiplier.comments) > 1 ? 'positive' : 'negative'}">${efficiencyMultiplier.comments !== '-' ? efficiencyMultiplier.comments + '배' : '-'} ${parseFloat(efficiencyMultiplier.comments) > 1 ? '↑' : parseFloat(efficiencyMultiplier.comments) < 1 ? '↓' : ''}</td>
+          </tr>
+          <tr>
+            <td>1,000 도달당 저장</td>
+            <td>${beforeEfficiency.saves.toFixed(1)}개</td>
+            <td>${afterEfficiency.saves.toFixed(1)}개</td>
+            <td class="${parseFloat(efficiencyMultiplier.saves) > 1 ? 'positive' : 'negative'}">${efficiencyMultiplier.saves !== '-' ? efficiencyMultiplier.saves + '배' : '-'} ${parseFloat(efficiencyMultiplier.saves) > 1 ? '↑' : parseFloat(efficiencyMultiplier.saves) < 1 ? '↓' : ''}</td>
+          </tr>
+          <tr>
+            <td>1,000 도달당 공유</td>
+            <td>${beforeEfficiency.shares.toFixed(1)}개</td>
+            <td>${afterEfficiency.shares.toFixed(1)}개</td>
+            <td class="${parseFloat(efficiencyMultiplier.shares) > 1 ? 'positive' : 'negative'}">${efficiencyMultiplier.shares !== '-' ? efficiencyMultiplier.shares + '배' : '-'} ${parseFloat(efficiencyMultiplier.shares) > 1 ? '↑' : parseFloat(efficiencyMultiplier.shares) < 1 ? '↓' : ''}</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="report-efficiency-note">💡 도달수가 늘어나도 '질적 성과'를 비교할 수 있는 지표입니다.</p>
+    </div>
+
+    <!-- 4. 콘텐츠 유형별 성과 분석 -->
+    <div class="report-section">
+      <h2>4. 콘텐츠 유형별 성과 분석</h2>
+
+      <table class="report-table report-content-table">
+        <thead>
+          <tr><th style="width:18%">분류</th><th style="width:27%">해당 콘텐츠</th><th style="width:27%">성과 및 분석</th><th style="width:28%">전략</th></tr>
         </thead>
         <tbody>
           <tr>
             <td><strong>High Reach</strong><br>(도달형)</td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">${topReach.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">대중적 브랜드 + 강력한 혜택 후킹으로 비팔로워 유입 극대화</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">강화: 주 1회 이상 대형 브랜드 테마 기획</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${topReach.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">대중적 브랜드 + 강력한 혜택 후킹으로 비팔로워 유입 극대화</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">강화: 주 1회 이상 대형 브랜드 테마 기획</span></td>
           </tr>
           <tr>
             <td><strong>High Share</strong><br>(확산형)</td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">${topShares.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">"나만 알기 아까운 정보" 혹은 "친구에게 알려줘야 할 주의사항"</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">유지: '에티켓', '규제' 시리즈로 바이럴 유도</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${topShares.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">"나만 알기 아까운 정보" 혹은 "친구에게 알려줘야 할 주의사항"</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">유지: '에티켓', '규제' 시리즈로 바이럴 유도</span></td>
           </tr>
           <tr>
             <td><strong>High Save</strong><br>(저장형)</td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">${topSaves.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">나중에 일본 여행 시 현장에서 꺼내 볼 실무 정보</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">개선: 마지막 장 '요약 카드' 강화로 저장율 상향</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${topSaves.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">나중에 일본 여행 시 현장에서 꺼내 볼 실무 정보</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">개선: 마지막 장 '요약 카드' 강화로 저장율 상향</span></td>
           </tr>
           <tr>
             <td><strong>Low Perf.</strong><br>(개선 필요)</td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">${lowPerf.map(p => '- ' + (p.title || '제목 없음')).join('<br>')}</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">정보는 유익하나 '이득/손해' 프레임이 부족해 클릭률 저조</span></td>
-            <td class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true">보완: 제목에 "모르면 손해" 등의 후킹 카피 적용</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${lowPerf.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">정보는 유익하나 '이득/손해' 프레임이 부족해 클릭률 저조</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">보완: 제목에 "모르면 손해" 등의 후킹 카피 적용</span></td>
           </tr>
         </tbody>
       </table>
     </div>
 
-    <!-- Section 4: 개선 사항 및 강화 전략 -->
-    <div class="report-section">
-      <h2>🚀 Section 4. 개선 사항 및 강화 전략</h2>
-
-      <h3>1) 개선점 (Weakness → Strength)</h3>
-      <ul>
-        <li class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true"><strong>저장율 보완:</strong> 현재 저장율 ${stats.avgSaveRate.toFixed(2)}% → 목표 2.0%. 모든 콘텐츠 마지막 장에 '체크리스트'나 '지도 캡처본' 삽입.</span></li>
-        <li class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true"><strong>팔로우 전환율 제고:</strong> 도달 대비 팔로워 증가 속도를 높이기 위해 본문 하단 CTA(팔로우 유도) 문구 개인화.</span></li>
-      </ul>
-
-      <h3>2) 강화점 (Strength → Edge)</h3>
-      <ul>
-        <li class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true"><strong>댓글 이벤트 활성화:</strong> 댓글 기여도가 높은 점을 활용, "맛집지도" 배포와 같은 댓글 유도형 기획 상설화.</span></li>
-        <li class="editable-field"><span class="edit-icon" onclick="this.nextElementSibling.focus()">✏️</span><span class="editable-content" contenteditable="true"><strong>공유 콘텐츠 시리즈화:</strong> 공유율이 높은 '에티켓/규제' 콘텐츠를 정기 시리즈로 발전.</span></li>
-      </ul>
-
-      <div class="report-conclusion">
-        <h3>📈 Next Action</h3>
-        <p class="editable-field">
-          <span class="edit-icon" onclick="this.parentElement.querySelector('.editable-content').focus()">✏️</span>
-          <span class="editable-content" contenteditable="true">1. 저장율 향상을 위한 '요약 카드' 템플릿 제작<br>
-          2. 주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획<br>
-          3. 댓글 유도형 이벤트 월 2회 진행</span>
-        </p>
+    <!-- 5. Next Action -->
+    <div class="report-section report-next-action">
+      <h2>5. Next Action</h2>
+      <div class="editable-field report-action-list">
+        <span class="edit-icon">✏️</span>
+        <span class="editable-content" contenteditable="true">
+          <p>1. 저장율 향상을 위한 '요약 카드' 템플릿 제작</p>
+          <p>2. 주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획</p>
+          <p>3. 댓글 유도형 이벤트 월 2회 진행</p>
+          <p>4. 프로필 CTA 문구 A/B 테스트</p>
+        </span>
       </div>
     </div>
   `;
