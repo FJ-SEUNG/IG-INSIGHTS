@@ -6,7 +6,7 @@
   <title>IG INSIGHT</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link href="https://unpkg.com/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=20250209n">
+  <link rel="stylesheet" href="css/style.css?v=20250209o">
 </head>
 <body>
   <!-- Header -->
@@ -404,13 +404,22 @@
           <button class="preset-btn" data-preset="lastmonth">지난 달</button>
         </div>
         <button class="btn-primary report-next-btn" id="report-generate-btn">보고서 생성</button>
+
+        <!-- 저장된 보고서 목록 -->
+        <div id="saved-reports-section" class="saved-reports-section" style="display:none">
+          <h4>📁 저장된 보고서</h4>
+          <div id="saved-reports-list" class="saved-reports-list"></div>
+        </div>
       </div>
 
       <!-- Step 2: 미리보기 & 편집 -->
       <div id="report-step2" class="report-step" style="display:none">
         <div class="report-toolbar">
           <button class="btn-secondary" id="report-back-btn">← 기간 다시 선택</button>
-          <button class="btn-primary" id="report-download-btn">📥 PDF 다운로드</button>
+          <div class="report-toolbar-right">
+            <button class="btn-secondary" id="report-save-btn">💾 저장</button>
+            <button class="btn-primary" id="report-download-btn">📥 PDF 다운로드</button>
+          </div>
         </div>
         <p class="report-edit-hint">💡 아래 텍스트를 직접 클릭하여 수정할 수 있습니다.</p>
 
@@ -425,6 +434,6 @@
   <script src="https://unpkg.com/tabulator-tables@6.3.0/dist/js/tabulator.min.js"></script>
   <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-  <script src="js/app.js?v=20250209n"></script>
+  <script src="js/app.js?v=20250209o"></script>
 </body>
 </html>

@@ -3180,6 +3180,110 @@ function downloadReportPDF() {
   });
 }
 
+// ── 보고서 저장/불러오기 ──
+const SAVED_REPORTS_KEY = 'ig_saved_reports';
+
+function getSavedReports() {
+  try {
+    return JSON.parse(localStorage.getItem(SAVED_REPORTS_KEY) || '[]');
+  } catch { return []; }
+}
+
+function saveReport() {
+  const preview = document.getElementById('report-preview');
+  const startDate = document.getElementById('report-start-date').value;
+  const endDate = document.getElementById('report-end-date').value;
+
+  const reports = getSavedReports();
+  const id = Date.now().toString();
+  const title = prompt('보고서 제목을 입력하세요:', `${startDate} ~ ${endDate} 리포트`);
+
+  if (!title) return;
+
+  reports.unshift({
+    id,
+    title,
+    startDate,
+    endDate,
+    html: preview.innerHTML,
+    savedAt: new Date().toISOString()
+  });
+
+  // 최대 10개까지만 저장
+  if (reports.length > 10) reports.pop();
+
+  localStorage.setItem(SAVED_REPORTS_KEY, JSON.stringify(reports));
+  alert('보고서가 저장되었습니다!');
+  renderSavedReportsList();
+}
+
+function renderSavedReportsList() {
+  const reports = getSavedReports();
+  const section = document.getElementById('saved-reports-section');
+  const list = document.getElementById('saved-reports-list');
+
+  if (!reports.length) {
+    section.style.display = 'none';
+    return;
+  }
+
+  section.style.display = 'block';
+  list.innerHTML = reports.map(r => {
+    const savedDate = new Date(r.savedAt).toLocaleDateString('ko-KR');
+    return `
+      <div class="saved-report-item" data-id="${r.id}">
+        <div class="saved-report-info">
+          <div class="saved-report-title">${r.title}</div>
+          <div class="saved-report-date">${r.startDate} ~ ${r.endDate} · 저장: ${savedDate}</div>
+        </div>
+        <div class="saved-report-actions">
+          <button class="btn-view" onclick="loadSavedReport('${r.id}')">보기</button>
+          <button class="btn-pdf" onclick="downloadSavedReportPDF('${r.id}')">PDF</button>
+          <button class="btn-delete" onclick="deleteSavedReport('${r.id}')">삭제</button>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function loadSavedReport(id) {
+  const reports = getSavedReports();
+  const report = reports.find(r => r.id === id);
+  if (!report) return;
+
+  document.getElementById('report-start-date').value = report.startDate;
+  document.getElementById('report-end-date').value = report.endDate;
+  document.getElementById('report-preview').innerHTML = report.html;
+
+  document.getElementById('report-step1').style.display = 'none';
+  document.getElementById('report-step2').style.display = 'block';
+}
+
+function downloadSavedReportPDF(id) {
+  const reports = getSavedReports();
+  const report = reports.find(r => r.id === id);
+  if (!report) return;
+
+  // 미리보기에 로드 후 PDF 다운로드
+  document.getElementById('report-start-date').value = report.startDate;
+  document.getElementById('report-end-date').value = report.endDate;
+  document.getElementById('report-preview').innerHTML = report.html;
+
+  document.getElementById('report-step1').style.display = 'none';
+  document.getElementById('report-step2').style.display = 'block';
+
+  // 약간의 딜레이 후 PDF 다운로드
+  setTimeout(() => downloadReportPDF(), 100);
+}
+
+function deleteSavedReport(id) {
+  if (!confirm('이 보고서를 삭제하시겠습니까?')) return;
+
+  const reports = getSavedReports().filter(r => r.id !== id);
+  localStorage.setItem(SAVED_REPORTS_KEY, JSON.stringify(reports));
+  renderSavedReportsList();
+}
+
 // 보고서 모달 이벤트 초기화
 function initReportModal() {
   // 모달 열기 (기존 엑셀 버튼 대신 사용)
@@ -3228,8 +3332,14 @@ function initReportModal() {
     document.getElementById('report-step2').style.display = 'none';
   });
 
+  // 저장 버튼
+  document.getElementById('report-save-btn')?.addEventListener('click', saveReport);
+
   // PDF 다운로드 버튼
   document.getElementById('report-download-btn')?.addEventListener('click', downloadReportPDF);
+
+  // 저장된 보고서 목록 렌더링
+  renderSavedReportsList();
 }
 
 // ══════════════════════════════════════════════════
