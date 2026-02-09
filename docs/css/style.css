@@ -1618,6 +1618,307 @@ body {
   .champion-category { font-size: 9px; padding: 2px 6px; }
 }
 
+/* ══════════════════════════════════════════════════════════════
+   Report Modal - PDF 보고서 생성
+   ══════════════════════════════════════════════════════════════ */
+.report-modal-content {
+  background: #fff;
+  width: 90%;
+  max-width: 900px;
+  max-height: 90vh;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.report-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 24px;
+  background: var(--fj-primary);
+  color: #fff;
+}
+.report-modal-header h2 {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+}
+.report-modal-header .modal-close {
+  background: rgba(255,255,255,0.2);
+  border: none;
+  color: #fff;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+}
+.report-step {
+  padding: 24px;
+  overflow-y: auto;
+  flex: 1;
+}
+.report-step h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 20px;
+  text-align: center;
+}
+/* 기간 선택 */
+.report-date-picker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+.date-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.date-input-group label {
+  font-size: 12px;
+  color: var(--text2);
+  font-weight: 600;
+}
+.date-input-group input {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: inherit;
+}
+.date-separator {
+  font-size: 20px;
+  color: var(--text2);
+  margin-top: 20px;
+}
+.report-date-presets {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+.preset-btn {
+  padding: 8px 14px;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 12px;
+  color: var(--text2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.preset-btn:hover {
+  background: var(--fj-primary);
+  color: #fff;
+  border-color: var(--fj-primary);
+}
+.report-next-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 12px 40px;
+  font-size: 15px;
+}
+.btn-primary {
+  background: var(--fj-primary);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.btn-primary:hover { opacity: 0.9; }
+.btn-secondary {
+  background: var(--bg3);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.btn-secondary:hover { background: var(--border); }
+
+/* 보고서 툴바 */
+.report-toolbar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.report-edit-hint {
+  text-align: center;
+  font-size: 12px;
+  color: var(--text2);
+  margin-bottom: 16px;
+  background: #fff9e6;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ffe082;
+}
+
+/* 보고서 미리보기 */
+.report-preview {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 40px;
+  max-height: 60vh;
+  overflow-y: auto;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: #1a1a1a;
+  line-height: 1.7;
+}
+.report-preview [contenteditable="true"]:hover {
+  outline: 2px dashed var(--fj-secondary);
+  outline-offset: 2px;
+}
+.report-preview [contenteditable="true"]:focus {
+  outline: 2px solid var(--fj-primary);
+  outline-offset: 2px;
+  background: #f8fafc;
+}
+
+/* 보고서 스타일 */
+.report-header {
+  text-align: center;
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 3px solid var(--fj-primary);
+}
+.report-header h1 {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--fj-primary);
+  margin-bottom: 8px;
+}
+.report-header .report-period {
+  font-size: 14px;
+  color: #666;
+}
+.report-header .report-brand {
+  font-size: 12px;
+  color: #999;
+  margin-top: 4px;
+}
+.report-section {
+  margin-bottom: 32px;
+}
+.report-section h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--fj-primary);
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--fj-secondary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.report-section h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+  margin: 16px 0 8px;
+}
+.report-section p, .report-section li {
+  font-size: 13px;
+  color: #444;
+  margin-bottom: 8px;
+}
+.report-section ul {
+  padding-left: 20px;
+}
+.report-section li {
+  margin-bottom: 6px;
+}
+.report-highlight {
+  background: linear-gradient(135deg, #e8f0fe 0%, #f3e8ff 100%);
+  padding: 16px 20px;
+  border-radius: 10px;
+  margin: 12px 0;
+  border-left: 4px solid var(--fj-primary);
+}
+.report-highlight p {
+  margin: 0;
+  font-weight: 500;
+}
+.report-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 16px 0;
+}
+.report-stat-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+}
+.report-stat-card .stat-label {
+  font-size: 11px;
+  color: #666;
+  margin-bottom: 4px;
+}
+.report-stat-card .stat-value {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--fj-primary);
+}
+.report-stat-card .stat-sub {
+  font-size: 10px;
+  color: #999;
+  margin-top: 2px;
+}
+.report-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 12px;
+}
+.report-table th, .report-table td {
+  padding: 10px 12px;
+  text-align: left;
+  border: 1px solid #e2e8f0;
+}
+.report-table th {
+  background: var(--fj-primary);
+  color: #fff;
+  font-weight: 600;
+}
+.report-table tr:nth-child(even) {
+  background: #f8fafc;
+}
+.report-conclusion {
+  background: #fff9e6;
+  border: 2px solid #ffc107;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 24px;
+}
+.report-conclusion h3 {
+  color: #f57c00;
+  margin-top: 0;
+}
+
+/* PDF 출력용 스타일 */
+@media print {
+  .report-preview {
+    max-height: none;
+    border: none;
+    padding: 0;
+  }
+}
+
 /* ── 소형 모바일 (480px 이하) ── */
 @media (max-width: 480px) {
   /* KPI 카드: 2열로 변경 */

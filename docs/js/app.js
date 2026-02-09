@@ -342,6 +342,7 @@ async function init() {
     setupTabs();
     setupMilestoneFilter();
     setupManualInputModal();
+    initReportModal();
     renderAll();
   } catch (e) {
     document.getElementById('loading').innerHTML = '<p>데이터 로딩 실패: ' + e.message + '</p>';
@@ -2837,6 +2838,359 @@ function exportReport() {
 }
 
 // ══════════════════════════════════════════════════
+// PDF 성과 분석 리포트
+// ══════════════════════════════════════════════════
+
+function openReportModal() {
+  const modal = document.getElementById('report-modal');
+  const step1 = document.getElementById('report-step1');
+  const step2 = document.getElementById('report-step2');
+
+  // 기본 날짜 설정 (담당 이후 ~ 오늘)
+  const startInput = document.getElementById('report-start-date');
+  const endInput = document.getElementById('report-end-date');
+
+  startInput.value = '2025-12-26'; // 담당 시작일
+  endInput.value = new Date().toISOString().slice(0, 10); // 오늘
+
+  step1.style.display = 'block';
+  step2.style.display = 'none';
+  modal.style.display = 'flex';
+}
+
+function closeReportModal() {
+  document.getElementById('report-modal').style.display = 'none';
+}
+
+function filterPostsByDateRange(startDate, endDate) {
+  const start = new Date(startDate);
+  const end = new Date(endDate);
+  end.setHours(23, 59, 59, 999);
+
+  return DATA.posts.filter(p => {
+    const d = parseUploadDate(p.upload_date);
+    return d && d >= start && d <= end;
+  });
+}
+
+function generateReportHTML(startDate, endDate) {
+  const posts = filterPostsByDateRange(startDate, endDate);
+  const allPosts = DATA.posts;
+
+  // 담당 이전 데이터 (비교용)
+  const beforePosts = allPosts.filter(p => {
+    const d = parseUploadDate(p.upload_date);
+    return d && d < new Date('2025-12-26');
+  });
+
+  // 기간 포맷
+  const formatDate = d => {
+    const [y, m, day] = d.split('-');
+    return `${y.slice(2)}.${m}.${day}`;
+  };
+  const periodStr = `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
+
+  // 통계 계산
+  const stats = {
+    count: posts.length,
+    totalReach: sum(posts.map(p => p.reach || 0)),
+    totalLikes: sum(posts.map(p => p.likes || 0)),
+    totalSaves: sum(posts.map(p => p.saves || 0)),
+    totalShares: sum(posts.map(p => p.shares || 0)),
+    totalComments: sum(posts.map(p => p.comments || 0)),
+    avgEngRate: avg(posts.map(p => p.engagement_rate).filter(v => v != null)),
+    avgSaveRate: avg(posts.map(p => p.save_rate).filter(v => v != null)),
+    avgShareRate: avg(posts.map(p => p.share_rate).filter(v => v != null)),
+  };
+
+  // 전체 대비 기여도
+  const allStats = {
+    totalReach: sum(allPosts.map(p => p.reach || 0)),
+    totalLikes: sum(allPosts.map(p => p.likes || 0)),
+    totalSaves: sum(allPosts.map(p => p.saves || 0)),
+    totalShares: sum(allPosts.map(p => p.shares || 0)),
+    totalComments: sum(allPosts.map(p => p.comments || 0)),
+  };
+
+  const contribution = {
+    reach: allStats.totalReach ? ((stats.totalReach / allStats.totalReach) * 100).toFixed(1) : 0,
+    shares: allStats.totalShares ? ((stats.totalShares / allStats.totalShares) * 100).toFixed(1) : 0,
+    comments: allStats.totalComments ? ((stats.totalComments / allStats.totalComments) * 100).toFixed(1) : 0,
+  };
+
+  // Before 평균 (비교용)
+  const beforeStats = {
+    avgEngRate: beforePosts.length ? avg(beforePosts.map(p => p.engagement_rate).filter(v => v != null)) : 0,
+    avgSaveRate: beforePosts.length ? avg(beforePosts.map(p => p.save_rate).filter(v => v != null)) : 0,
+    avgShareRate: beforePosts.length ? avg(beforePosts.map(p => p.share_rate).filter(v => v != null)) : 0,
+  };
+
+  // TOP 콘텐츠 분석
+  const topReach = [...posts].sort((a, b) => (b.reach || 0) - (a.reach || 0)).slice(0, 3);
+  const topShares = [...posts].sort((a, b) => (b.shares || 0) - (a.shares || 0)).slice(0, 3);
+  const topSaves = [...posts].sort((a, b) => (b.saves || 0) - (a.saves || 0)).slice(0, 3);
+  const lowPerf = [...posts].sort((a, b) => (a.engagement_rate || 0) - (b.engagement_rate || 0)).slice(0, 2);
+
+  // HTML 생성
+  return `
+    <div class="report-header">
+      <h1>📑 IG 운영 성과 분석 리포트</h1>
+      <div class="report-period" contenteditable="true">운영 기간: ${periodStr}</div>
+      <div class="report-brand">FLYING JAPAN</div>
+    </div>
+
+    <!-- Section 1: 총평 -->
+    <div class="report-section">
+      <h2>📌 Section 1. 총평 (Executive Summary)</h2>
+
+      <div class="report-stats-grid">
+        <div class="report-stat-card">
+          <div class="stat-label">누적 도달</div>
+          <div class="stat-value">${fmtCompact(stats.totalReach)}</div>
+          <div class="stat-sub">전체 대비 ${contribution.reach}%</div>
+        </div>
+        <div class="report-stat-card">
+          <div class="stat-label">평균 참여율</div>
+          <div class="stat-value">${stats.avgEngRate.toFixed(2)}%</div>
+          <div class="stat-sub">Before ${beforeStats.avgEngRate.toFixed(2)}%</div>
+        </div>
+        <div class="report-stat-card">
+          <div class="stat-label">평균 공유율</div>
+          <div class="stat-value">${stats.avgShareRate.toFixed(2)}%</div>
+          <div class="stat-sub">Before ${beforeStats.avgShareRate.toFixed(2)}%</div>
+        </div>
+      </div>
+
+      <div class="report-highlight">
+        <p contenteditable="true">
+          <strong>핵심 성과:</strong><br>
+          • 해당 기간 누적 도달 <strong>${fmtCompact(stats.totalReach)}회</strong> 달성<br>
+          • 전체 계정 역사상 공유의 <strong>${contribution.shares}%</strong>, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간에 생성<br>
+          • 참여율 ${stats.avgEngRate.toFixed(2)}%, 공유율 ${stats.avgShareRate.toFixed(2)}% 기록
+        </p>
+      </div>
+
+      <div class="report-conclusion">
+        <h3>💡 한 줄 결론</h3>
+        <p contenteditable="true">"단순 노출 중심에서 유저가 참여하고 확산하는 '고관여 커뮤니티형' 계정으로의 체질 개선 성공."</p>
+      </div>
+    </div>
+
+    <!-- Section 2: 정량적 성과 분석 -->
+    <div class="report-section">
+      <h2>📊 Section 2. 정량적 성과 분석</h2>
+
+      <h3>Before vs After 비교</h3>
+      <table class="report-table">
+        <tr>
+          <th>지표</th>
+          <th>Before (담당 이전)</th>
+          <th>After (해당 기간)</th>
+          <th>변화</th>
+        </tr>
+        <tr>
+          <td>평균 참여율</td>
+          <td>${beforeStats.avgEngRate.toFixed(2)}%</td>
+          <td>${stats.avgEngRate.toFixed(2)}%</td>
+          <td style="color:${stats.avgEngRate > beforeStats.avgEngRate ? '#10b981' : '#ef4444'}">${stats.avgEngRate > beforeStats.avgEngRate ? '↑' : '↓'} ${Math.abs(stats.avgEngRate - beforeStats.avgEngRate).toFixed(2)}%p</td>
+        </tr>
+        <tr>
+          <td>평균 저장율</td>
+          <td>${beforeStats.avgSaveRate.toFixed(2)}%</td>
+          <td>${stats.avgSaveRate.toFixed(2)}%</td>
+          <td style="color:${stats.avgSaveRate > beforeStats.avgSaveRate ? '#10b981' : '#ef4444'}">${stats.avgSaveRate > beforeStats.avgSaveRate ? '↑' : '↓'} ${Math.abs(stats.avgSaveRate - beforeStats.avgSaveRate).toFixed(2)}%p</td>
+        </tr>
+        <tr>
+          <td>평균 공유율</td>
+          <td>${beforeStats.avgShareRate.toFixed(2)}%</td>
+          <td>${stats.avgShareRate.toFixed(2)}%</td>
+          <td style="color:${stats.avgShareRate > beforeStats.avgShareRate ? '#10b981' : '#ef4444'}">${stats.avgShareRate > beforeStats.avgShareRate ? '↑' : '↓'} ${Math.abs(stats.avgShareRate - beforeStats.avgShareRate).toFixed(2)}%p</td>
+        </tr>
+      </table>
+
+      <h3>기여도 분석 (전체 누적 대비)</h3>
+      <div class="report-stats-grid">
+        <div class="report-stat-card">
+          <div class="stat-label">도달 기여도</div>
+          <div class="stat-value">${contribution.reach}%</div>
+        </div>
+        <div class="report-stat-card">
+          <div class="stat-label">공유 기여도</div>
+          <div class="stat-value">${contribution.shares}%</div>
+        </div>
+        <div class="report-stat-card">
+          <div class="stat-label">댓글 기여도</div>
+          <div class="stat-value">${contribution.comments}%</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 3: 콘텐츠 유형별 성과 분석 -->
+    <div class="report-section">
+      <h2>🎯 Section 3. 콘텐츠 유형별 성과 분석</h2>
+
+      <table class="report-table">
+        <tr>
+          <th>분류</th>
+          <th>해당 콘텐츠</th>
+          <th>성과 및 분석</th>
+          <th>전략</th>
+        </tr>
+        <tr>
+          <td><strong>High Reach</strong><br>(도달형)</td>
+          <td contenteditable="true">${topReach.map(p => p.title || '제목 없음').join(', ')}</td>
+          <td contenteditable="true">대중적 브랜드 + 강력한 혜택 후킹으로 비팔로워 유입 극대화</td>
+          <td contenteditable="true">강화: 주 1회 이상 대형 브랜드 테마 기획</td>
+        </tr>
+        <tr>
+          <td><strong>High Share</strong><br>(확산형)</td>
+          <td contenteditable="true">${topShares.map(p => p.title || '제목 없음').join(', ')}</td>
+          <td contenteditable="true">"나만 알기 아까운 정보" 혹은 "친구에게 알려줘야 할 주의사항"</td>
+          <td contenteditable="true">유지: '에티켓', '규제' 시리즈로 바이럴 유도</td>
+        </tr>
+        <tr>
+          <td><strong>High Save</strong><br>(저장형)</td>
+          <td contenteditable="true">${topSaves.map(p => p.title || '제목 없음').join(', ')}</td>
+          <td contenteditable="true">나중에 일본 여행 시 현장에서 꺼내 볼 실무 정보</td>
+          <td contenteditable="true">개선: 마지막 장 '요약 카드' 강화로 저장율 상향</td>
+        </tr>
+        <tr>
+          <td><strong>Low Perf.</strong><br>(개선 필요)</td>
+          <td contenteditable="true">${lowPerf.map(p => p.title || '제목 없음').join(', ')}</td>
+          <td contenteditable="true">정보는 유익하나 '이득/손해' 프레임이 부족해 클릭률 저조</td>
+          <td contenteditable="true">보완: 제목에 "모르면 손해" 등의 후킹 카피 적용</td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Section 4: 개선 사항 및 강화 전략 -->
+    <div class="report-section">
+      <h2>🚀 Section 4. 개선 사항 및 강화 전략</h2>
+
+      <h3>1) 개선점 (Weakness → Strength)</h3>
+      <ul>
+        <li contenteditable="true"><strong>저장율 보완:</strong> 현재 저장율 ${stats.avgSaveRate.toFixed(2)}% → 목표 2.0%. 모든 콘텐츠 마지막 장에 '체크리스트'나 '지도 캡처본' 삽입.</li>
+        <li contenteditable="true"><strong>팔로우 전환율 제고:</strong> 도달 대비 팔로워 증가 속도를 높이기 위해 본문 하단 CTA(팔로우 유도) 문구 개인화.</li>
+      </ul>
+
+      <h3>2) 강화점 (Strength → Edge)</h3>
+      <ul>
+        <li contenteditable="true"><strong>댓글 이벤트 활성화:</strong> 댓글 기여도가 높은 점을 활용, "맛집지도" 배포와 같은 댓글 유도형 기획 상설화.</li>
+        <li contenteditable="true"><strong>공유 콘텐츠 시리즈화:</strong> 공유율이 높은 '에티켓/규제' 콘텐츠를 정기 시리즈로 발전.</li>
+      </ul>
+
+      <div class="report-conclusion">
+        <h3>📈 Next Action</h3>
+        <p contenteditable="true">
+          1. 저장율 향상을 위한 '요약 카드' 템플릿 제작<br>
+          2. 주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획<br>
+          3. 댓글 유도형 이벤트 월 2회 진행
+        </p>
+      </div>
+    </div>
+  `;
+}
+
+function generateReport() {
+  const startDate = document.getElementById('report-start-date').value;
+  const endDate = document.getElementById('report-end-date').value;
+
+  if (!startDate || !endDate) {
+    alert('시작일과 종료일을 모두 선택해주세요.');
+    return;
+  }
+
+  if (new Date(startDate) > new Date(endDate)) {
+    alert('시작일이 종료일보다 늦을 수 없습니다.');
+    return;
+  }
+
+  const preview = document.getElementById('report-preview');
+  preview.innerHTML = generateReportHTML(startDate, endDate);
+
+  document.getElementById('report-step1').style.display = 'none';
+  document.getElementById('report-step2').style.display = 'block';
+}
+
+function downloadReportPDF() {
+  const preview = document.getElementById('report-preview');
+  const startDate = document.getElementById('report-start-date').value;
+  const endDate = document.getElementById('report-end-date').value;
+
+  const opt = {
+    margin: [10, 10, 10, 10],
+    filename: `IG_성과리포트_${startDate.replace(/-/g, '')}_${endDate.replace(/-/g, '')}.pdf`,
+    image: { type: 'jpeg', quality: 0.98 },
+    html2canvas: { scale: 2, useCORS: true },
+    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+    pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
+  };
+
+  // 다운로드 버튼 비활성화
+  const btn = document.getElementById('report-download-btn');
+  const originalText = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = '생성 중...';
+
+  html2pdf().set(opt).from(preview).save().then(() => {
+    btn.disabled = false;
+    btn.textContent = originalText;
+  });
+}
+
+// 보고서 모달 이벤트 초기화
+function initReportModal() {
+  // 모달 열기 (기존 엑셀 버튼 대신 사용)
+  document.getElementById('export-report-btn')?.addEventListener('click', openReportModal);
+
+  // 모달 닫기
+  document.getElementById('report-modal-close')?.addEventListener('click', closeReportModal);
+  document.getElementById('report-modal')?.addEventListener('click', e => {
+    if (e.target.id === 'report-modal') closeReportModal();
+  });
+
+  // 기간 프리셋 버튼
+  document.querySelectorAll('.preset-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const preset = btn.dataset.preset;
+      const startInput = document.getElementById('report-start-date');
+      const endInput = document.getElementById('report-end-date');
+      const today = new Date();
+
+      if (preset === '1month') {
+        const monthAgo = new Date(today);
+        monthAgo.setMonth(monthAgo.getMonth() - 1);
+        startInput.value = monthAgo.toISOString().slice(0, 10);
+        endInput.value = today.toISOString().slice(0, 10);
+      } else if (preset === 'after') {
+        startInput.value = '2025-12-26';
+        endInput.value = today.toISOString().slice(0, 10);
+      } else if (preset === 'thismonth') {
+        startInput.value = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-01`;
+        endInput.value = today.toISOString().slice(0, 10);
+      } else if (preset === 'lastmonth') {
+        const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, 1);
+        const lastMonthEnd = new Date(today.getFullYear(), today.getMonth(), 0);
+        startInput.value = lastMonth.toISOString().slice(0, 10);
+        endInput.value = lastMonthEnd.toISOString().slice(0, 10);
+      }
+    });
+  });
+
+  // 보고서 생성 버튼
+  document.getElementById('report-generate-btn')?.addEventListener('click', generateReport);
+
+  // 뒤로가기 버튼
+  document.getElementById('report-back-btn')?.addEventListener('click', () => {
+    document.getElementById('report-step1').style.display = 'block';
+    document.getElementById('report-step2').style.display = 'none';
+  });
+
+  // PDF 다운로드 버튼
+  document.getElementById('report-download-btn')?.addEventListener('click', downloadReportPDF);
+}
+
+// ══════════════════════════════════════════════════
 // TAB 5: Content Analysis
 // ══════════════════════════════════════════════════
 
@@ -3258,8 +3612,7 @@ document.addEventListener('DOMContentLoaded', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  // Export report button
-  document.getElementById('export-report-btn')?.addEventListener('click', exportReport);
+  // Export report button - PDF 모달로 연결됨 (initReportModal에서 처리)
 
   const btn = document.getElementById('manual-update-btn');
   if (!btn) return;
