@@ -2632,6 +2632,9 @@ function renderSummary(period, year, month, weekStart, weekEnd, dateStr) {
 
   // 지표별 TOP 카드도 같은 기간 필터 적용
   renderMetricChampions(posts, periodLabel);
+
+  // 콘텐츠 분석 탭 전체 업데이트 (인사이트, 차트, TOP 10 테이블)
+  updateContentAnalysis(posts, periodLabel);
 }
 
 function initSummaryControls() {
@@ -3358,8 +3361,16 @@ function renderMetricChampions(posts, periodLabel = '전체') {
   container.innerHTML = champHtml;
 }
 
-function renderContent() {
-  const posts = filterByMilestone(DATA.posts);
+// 콘텐츠 분석 탭: 인사이트, 차트, TOP 10 테이블 업데이트
+function updateContentAnalysis(posts, periodLabel = '전체') {
+  if (!posts || !posts.length) {
+    document.getElementById('content-insights').innerHTML = '<div class="insight-item" style="color:var(--text2)">해당 기간의 데이터가 없습니다.</div>';
+    document.getElementById('chart-content-compare').innerHTML = '<p style="color:var(--text2);text-align:center;padding:40px;">데이터 없음</p>';
+    document.getElementById('chart-scatter').innerHTML = '<p style="color:var(--text2);text-align:center;padding:40px;">데이터 없음</p>';
+    document.getElementById('top10-table').innerHTML = '<p style="color:var(--text2);padding:20px;">해당 기간의 데이터가 없습니다.</p>';
+    return;
+  }
+
   const typeMap = {};
   posts.forEach(p => {
     const t = p.media_type || 'OTHER';
@@ -3380,35 +3391,35 @@ function renderContent() {
   }));
 
   // Insights
-  const bestReach = [...typeStats].sort((a, b) => b.avgReach - a.avgReach)[0];
-  const bestSaveRate = [...typeStats].sort((a, b) => b.avgSaveRate - a.avgSaveRate)[0];
-  const bestShareRate = [...typeStats].sort((a, b) => b.avgShareRate - a.avgShareRate)[0];
+  if (typeStats.length > 0) {
+    const bestReach = [...typeStats].sort((a, b) => b.avgReach - a.avgReach)[0];
+    const bestSaveRate = [...typeStats].sort((a, b) => b.avgSaveRate - a.avgSaveRate)[0];
+    const bestShareRate = [...typeStats].sort((a, b) => b.avgShareRate - a.avgShareRate)[0];
 
-  let insightHtml = `<div class="insight-item">`;
-  insightHtml += `<strong>${bestReach.label}</strong>의 평균 도달이 ${fmt(Math.round(bestReach.avgReach))}으로 가장 높습니다.<br>`;
-  insightHtml += `<strong>${bestSaveRate.label}</strong>의 평균 저장율이 ${bestSaveRate.avgSaveRate.toFixed(1)}%로 가장 높습니다. (가치있는 콘텐츠 지표)<br>`;
-  insightHtml += `<strong>${bestShareRate.label}</strong>의 평균 공유율이 ${bestShareRate.avgShareRate.toFixed(1)}%로 가장 높습니다. (바이럴 잠재력 지표)`;
+    let insightHtml = `<div class="insight-item">`;
+    insightHtml += `<span style="font-size:11px;color:var(--text2);background:var(--bg3);padding:2px 8px;border-radius:10px;margin-right:8px;">📊 ${periodLabel}</span><br><br>`;
+    insightHtml += `<strong>${bestReach.label}</strong>의 평균 도달이 ${fmt(Math.round(bestReach.avgReach))}으로 가장 높습니다.<br>`;
+    insightHtml += `<strong>${bestSaveRate.label}</strong>의 평균 저장율이 ${bestSaveRate.avgSaveRate.toFixed(1)}%로 가장 높습니다. (가치있는 콘텐츠 지표)<br>`;
+    insightHtml += `<strong>${bestShareRate.label}</strong>의 평균 공유율이 ${bestShareRate.avgShareRate.toFixed(1)}%로 가장 높습니다. (바이럴 잠재력 지표)`;
 
-  // Compare types
-  if (typeStats.length >= 2) {
-    const carousel = typeStats.find(t => t.type === 'CAROUSEL_ALBUM');
-    const video = typeStats.find(t => t.type === 'VIDEO');
-    if (carousel && video) {
-      if (carousel.avgSaveRate > video.avgSaveRate) {
-        const ratio = (carousel.avgSaveRate / video.avgSaveRate).toFixed(1);
-        insightHtml += `<br><strong>캐러셀</strong>이 릴스보다 저장율이 ${ratio}배 높습니다.`;
-      }
-      if (video.avgReach > carousel.avgReach) {
-        const ratio = (video.avgReach / carousel.avgReach).toFixed(1);
-        insightHtml += `<br><strong>릴스</strong>가 캐러셀보다 도달이 ${ratio}배 넓습니다.`;
+    // Compare types
+    if (typeStats.length >= 2) {
+      const carousel = typeStats.find(t => t.type === 'CAROUSEL_ALBUM');
+      const video = typeStats.find(t => t.type === 'VIDEO');
+      if (carousel && video) {
+        if (carousel.avgSaveRate > video.avgSaveRate && video.avgSaveRate > 0) {
+          const ratio = (carousel.avgSaveRate / video.avgSaveRate).toFixed(1);
+          insightHtml += `<br><strong>캐러셀</strong>이 릴스보다 저장율이 ${ratio}배 높습니다.`;
+        }
+        if (video.avgReach > carousel.avgReach && carousel.avgReach > 0) {
+          const ratio = (video.avgReach / carousel.avgReach).toFixed(1);
+          insightHtml += `<br><strong>릴스</strong>가 캐러셀보다 도달이 ${ratio}배 넓습니다.`;
+        }
       }
     }
+    insightHtml += `</div>`;
+    document.getElementById('content-insights').innerHTML = insightHtml;
   }
-  insightHtml += `</div>`;
-  document.getElementById('content-insights').innerHTML = insightHtml;
-
-  // 지표별 TOP 카드 렌더링 (전체 데이터)
-  renderMetricChampions(posts, '전체');
 
   // Content type comparison grouped bar
   document.getElementById('chart-content-compare').innerHTML = '';
@@ -3454,8 +3465,8 @@ function renderContent() {
     },
   })).render();
 
-  // Top 10 table
-  const top10 = [...posts].sort((a, b) => (a.rank || 999) - (b.rank || 999)).slice(0, 10);
+  // Top 10 table - 해당 기간 내에서 종합점수 기준 정렬
+  const top10 = [...posts].sort((a, b) => (b.composite_score || 0) - (a.composite_score || 0)).slice(0, 10);
   document.getElementById('top10-table').innerHTML = '';
   new Tabulator('#top10-table', {
     data: top10,
@@ -3463,7 +3474,9 @@ function renderContent() {
     movableColumns: true,
     columnDefaults: { headerSortClickElement: 'icon' },
     columns: [
-      { title: '순위', field: 'rank', width: 55, hozAlign: 'center', sorter: 'number' },
+      { title: '#', field: 'rank', width: 45, hozAlign: 'center', formatter: (cell, formatterParams, onRendered) => {
+        return cell.getRow().getPosition(true);
+      }},
       { title: '유형', field: 'media_type', width: 70, hozAlign: 'center', formatter: cell => typeLabel(cell.getValue()) },
       { title: '카테고리', field: 'category', width: 80 },
       { title: '제목', field: 'title', minWidth: 200,
@@ -3478,8 +3491,16 @@ function renderContent() {
       { title: '점수', field: 'composite_score', width: 60, hozAlign: 'right', formatter: cell => cell.getValue()?.toFixed(1) || '-' },
     ],
   });
+}
 
-  // Initialize summary section
+function renderContent() {
+  const posts = filterByMilestone(DATA.posts);
+
+  // 초기 렌더링 (전체 데이터)
+  renderMetricChampions(posts, '전체');
+  updateContentAnalysis(posts, '전체');
+
+  // Initialize summary section (필터 컨트롤)
   initSummaryControls();
 }
 
