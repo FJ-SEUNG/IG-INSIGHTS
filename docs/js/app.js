@@ -2844,6 +2844,83 @@ function exportReport() {
 // PDF 성과 분석 리포트
 // ══════════════════════════════════════════════════
 
+// 현재 필터 기준으로 바로 PDF 다운로드
+function downloadQuickReport() {
+  const periodSelect = document.getElementById('summary-period-select');
+  const mode = periodSelect?.value || 'all';
+
+  let startDate, endDate, periodLabel;
+  const today = new Date();
+
+  if (mode === 'all') {
+    // 전체 평균: 담당 이후 ~ 오늘
+    startDate = '2025-12-26';
+    endDate = today.toISOString().slice(0, 10);
+    periodLabel = '전체 평균 (담당 이후)';
+  } else if (mode === 'yearly') {
+    // 년도별: 선택된 년도
+    const yearSelect = document.querySelector('#summary-period-selectors select');
+    const year = yearSelect?.value || today.getFullYear();
+    startDate = `${year}-01-01`;
+    endDate = `${year}-12-31`;
+    periodLabel = `${year}년`;
+  } else if (mode === 'monthly') {
+    // 월별: 선택된 년-월
+    const selectors = document.querySelectorAll('#summary-period-selectors select');
+    const year = selectors[0]?.value || today.getFullYear();
+    const month = selectors[1]?.value || String(today.getMonth() + 1).padStart(2, '0');
+    const lastDay = new Date(year, parseInt(month), 0).getDate();
+    startDate = `${year}-${month}-01`;
+    endDate = `${year}-${month}-${lastDay}`;
+    periodLabel = `${year}년 ${parseInt(month)}월`;
+  } else if (mode === 'weekly') {
+    // 주별: 선택된 주
+    const weekSelect = document.querySelector('#summary-period-selectors select');
+    const weekValue = weekSelect?.value;
+    if (weekValue) {
+      const [year, week] = weekValue.split('-W');
+      const jan1 = new Date(year, 0, 1);
+      const days = (parseInt(week) - 1) * 7;
+      const weekStart = new Date(jan1.getTime() + days * 86400000);
+      // 월요일로 조정
+      const dayOfWeek = weekStart.getDay();
+      const diff = dayOfWeek === 0 ? -6 : 1 - dayOfWeek;
+      weekStart.setDate(weekStart.getDate() + diff);
+      const weekEnd = new Date(weekStart);
+      weekEnd.setDate(weekEnd.getDate() + 6);
+      startDate = weekStart.toISOString().slice(0, 10);
+      endDate = weekEnd.toISOString().slice(0, 10);
+      periodLabel = `${year}년 ${week}주차`;
+    } else {
+      startDate = today.toISOString().slice(0, 10);
+      endDate = today.toISOString().slice(0, 10);
+      periodLabel = '이번 주';
+    }
+  } else if (mode === 'daily') {
+    // 일별: 선택된 날짜
+    const dateInput = document.querySelector('#summary-period-selectors input[type="date"]');
+    const selectedDate = dateInput?.value || today.toISOString().slice(0, 10);
+    startDate = selectedDate;
+    endDate = selectedDate;
+    periodLabel = selectedDate;
+  } else {
+    startDate = '2025-12-26';
+    endDate = today.toISOString().slice(0, 10);
+    periodLabel = '전체';
+  }
+
+  // 임시로 report-start-date, report-end-date 설정
+  document.getElementById('report-start-date').value = startDate;
+  document.getElementById('report-end-date').value = endDate;
+
+  // 보고서 HTML 생성
+  const reportHTML = generateReportHTML(startDate, endDate);
+  document.getElementById('report-preview').innerHTML = reportHTML;
+
+  // 바로 PDF 다운로드 실행
+  downloadReportPDF();
+}
+
 function openReportModal() {
   const modal = document.getElementById('report-modal');
   const step1 = document.getElementById('report-step1');
@@ -3370,8 +3447,11 @@ function deleteSavedReport(id) {
 
 // 보고서 모달 이벤트 초기화
 function initReportModal() {
-  // 모달 열기 (기존 엑셀 버튼 대신 사용)
-  document.getElementById('export-report-btn')?.addEventListener('click', openReportModal);
+  // 바로 다운로드 버튼 (현재 필터 기준)
+  document.getElementById('export-report-btn')?.addEventListener('click', downloadQuickReport);
+
+  // 기간 설정 모달 열기
+  document.getElementById('custom-report-btn')?.addEventListener('click', openReportModal);
 
   // 모달 닫기
   document.getElementById('report-modal-close')?.addEventListener('click', closeReportModal);
