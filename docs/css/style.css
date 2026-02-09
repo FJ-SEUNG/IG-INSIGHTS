@@ -1927,15 +1927,14 @@ body {
 /* 수정 가능 필드 + 연필 아이콘 */
 .editable-field {
   position: relative;
-  display: block;
 }
 .editable-field .edit-icon {
   cursor: pointer;
-  font-size: 14px;
-  opacity: 0.5;
-  margin-right: 6px;
+  font-size: 12px;
+  opacity: 0.4;
+  margin-right: 4px;
   transition: opacity 0.2s;
-  vertical-align: middle;
+  vertical-align: top;
 }
 .editable-field:hover .edit-icon {
   opacity: 1;
@@ -1949,17 +1948,17 @@ body {
   background: #fffef0;
   border-radius: 4px;
 }
-.report-table .editable-field {
-  display: flex;
-  align-items: flex-start;
-  gap: 4px;
+/* 테이블 내 editable-field - td에 직접 클래스 적용 시 */
+td.editable-field {
+  display: table-cell !important;
 }
-.report-table .editable-field .edit-icon {
-  flex-shrink: 0;
+td.editable-field .edit-icon {
+  display: inline-block;
+  vertical-align: top;
   margin-top: 2px;
 }
-.report-table .editable-field .editable-content {
-  flex: 1;
+td.editable-field .editable-content {
+  display: inline;
 }
 
 /* 보고서 스타일 */
