@@ -3284,7 +3284,7 @@ function renderMetricChampions(posts, periodLabel = '전체') {
     const winMetrics = wins ? wins.metrics.join(' · ') : '';
 
     champHtml += `<div class="champion-card champion-overall" style="background:linear-gradient(135deg,#fff9e6 0%,#fff3cd 100%);border:2px solid #ffc107;">`;
-    champHtml += `<h4>🏆 종합 TOP</h4>`;
+    champHtml += `<h4>🏆 종합 TOP <span class="info-tooltip" title="종합점수 산출 기준:\n\n공유 30% + 저장 25% + 도달 25% + 참여율 20%\n\n각 지표를 정규화하여 가중 평균 계산\n(팔로워 성장 최적화 기준)">ⓘ</span></h4>`;
     champHtml += `<div class="champion-first">`;
     champHtml += `<span class="type-icon">${typeIcon(overallTop.media_type)}</span>`;
     champHtml += `<div class="champion-title">${titleLink(overallTop, 40)}</div>`;

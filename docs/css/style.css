@@ -843,6 +843,49 @@ body {
   content: '→ ';
   color: #f57c00;
 }
+
+/* 종합 TOP 점수 툴팁 */
+.champion-card h4 .info-tooltip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  font-size: 10px;
+  font-style: normal;
+  background: rgba(0,0,0,0.1);
+  border-radius: 50%;
+  cursor: help;
+  margin-left: 4px;
+  vertical-align: middle;
+  position: relative;
+}
+.champion-card h4 .info-tooltip:hover {
+  background: var(--fj-primary);
+  color: #fff;
+}
+.champion-card h4 .info-tooltip:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 8px;
+  padding: 10px 14px;
+  background: #333;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.5;
+  white-space: pre-line;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  z-index: 100;
+  width: max-content;
+  max-width: 220px;
+  text-align: left;
+}
+
 .champion-runner {
   display: flex;
   align-items: center;
