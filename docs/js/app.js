@@ -2927,6 +2927,7 @@ function downloadQuickReport() {
 
   try {
     // 해당 기간 데이터 확인
+    console.log('Quick Report - Filtering posts for:', startDate, '~', endDate);
     const posts = filterPostsByDateRange(startDate, endDate);
     console.log('Filtered posts count:', posts?.length);
 
@@ -2936,17 +2937,28 @@ function downloadQuickReport() {
     }
 
     // 보고서 HTML 생성
-    const reportHTML = generateReportHTML(startDate, endDate);
+    console.log('Generating report HTML...');
+    let reportHTML;
+    try {
+      reportHTML = generateReportHTML(startDate, endDate);
+      console.log('Report HTML generated, length:', reportHTML?.length);
+    } catch (genError) {
+      console.error('generateReportHTML error:', genError);
+      alert('보고서 HTML 생성 오류:\n' + genError.message + '\n\n' + genError.stack);
+      return;
+    }
+
     const previewEl = document.getElementById('report-preview');
     if (previewEl) {
       previewEl.innerHTML = reportHTML;
     }
 
     // 바로 PDF 다운로드 실행
+    console.log('Starting PDF download...');
     downloadReportPDFDirect(startDate, endDate, reportHTML);
   } catch (error) {
     console.error('보고서 생성 오류:', error);
-    alert('보고서 생성 중 오류가 발생했습니다:\n' + error.message);
+    alert('보고서 생성 중 오류가 발생했습니다:\n' + error.message + '\n\n' + error.stack);
   }
 }
 
