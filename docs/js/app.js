@@ -5,13 +5,13 @@ const GEMINI_API_KEY = 'AIzaSyAL6kD1f-77thu--7FPBY-dMCa_I2F7i00';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent';
 
 async function analyzeWithGemini(reportData) {
-  const prompt = `당신은 인스타그램 마케팅 전문가입니다. 아래 데이터를 분석하고 한국어로 인사이트를 제공해주세요.
+  const prompt = `당신은 인스타그램 마케팅 전문가입니다. 아래 데이터를 분석하고 보고서 양식에 맞게 JSON으로 응답해주세요.
 
-## 분석 대상 기간
-${reportData.period}
+## 분석 대상 기간: ${reportData.period}
+## 운영 일수: ${reportData.daysDiff}일
+## 콘텐츠 수: ${reportData.stats.count}개
 
 ## 주요 지표
-- 콘텐츠 발행 수: ${reportData.stats.count}개
 - 총 도달: ${reportData.stats.totalReach.toLocaleString()}회
 - 총 좋아요: ${reportData.stats.totalLikes.toLocaleString()}개
 - 총 댓글: ${reportData.stats.totalComments.toLocaleString()}개
@@ -20,39 +20,42 @@ ${reportData.period}
 - 평균 참여율: ${reportData.stats.avgEngRate.toFixed(2)}%
 
 ## 전체 계정 대비 기여도
-- 도달 기여도: ${reportData.contribution.reach}%
-- 댓글 기여도: ${reportData.contribution.comments}%
-- 공유 기여도: ${reportData.contribution.shares}%
+- 도달: ${reportData.contribution.reach}%
+- 댓글: ${reportData.contribution.comments}%
+- 공유: ${reportData.contribution.shares}%
 
-## 효율성 (1,000 도달당 성과, 과거 vs 현재)
-- 댓글: ${reportData.beforeEfficiency.comments.toFixed(1)}개 → ${reportData.afterEfficiency.comments.toFixed(1)}개 (${reportData.efficiencyMultiplier.comments}배)
-- 저장: ${reportData.beforeEfficiency.saves.toFixed(1)}개 → ${reportData.afterEfficiency.saves.toFixed(1)}개 (${reportData.efficiencyMultiplier.saves}배)
-- 공유: ${reportData.beforeEfficiency.shares.toFixed(1)}개 → ${reportData.afterEfficiency.shares.toFixed(1)}개 (${reportData.efficiencyMultiplier.shares}배)
+## 효율성 (1,000 도달당, 과거→현재)
+- 댓글: ${reportData.beforeEfficiency.comments.toFixed(1)} → ${reportData.afterEfficiency.comments.toFixed(1)}개 (${reportData.efficiencyMultiplier.comments}배)
+- 저장: ${reportData.beforeEfficiency.saves.toFixed(1)} → ${reportData.afterEfficiency.saves.toFixed(1)}개 (${reportData.efficiencyMultiplier.saves}배)
+- 공유: ${reportData.beforeEfficiency.shares.toFixed(1)} → ${reportData.afterEfficiency.shares.toFixed(1)}개 (${reportData.efficiencyMultiplier.shares}배)
 
 ## TOP 콘텐츠
-도달 TOP 3:
-${reportData.topReach.map((p, i) => `${i+1}. "${p.title || '제목없음'}" - 도달 ${(p.reach || 0).toLocaleString()}, 공유 ${p.shares || 0}, 저장 ${p.saves || 0}`).join('\n')}
-
-공유 TOP 3:
-${reportData.topShares.map((p, i) => `${i+1}. "${p.title || '제목없음'}" - 공유 ${p.shares || 0}회`).join('\n')}
+도달 TOP: ${reportData.topReach.map(p => p.title || '제목없음').join(', ')}
+공유 TOP: ${reportData.topShares.map(p => p.title || '제목없음').join(', ')}
+저장 TOP: ${reportData.topSaves.map(p => p.title || '제목없음').join(', ')}
+저성과: ${reportData.lowPerf.map(p => p.title || '제목없음').join(', ')}
 
 ---
+반드시 아래 JSON 형식으로만 응답하세요. 다른 텍스트 없이 JSON만 출력하세요:
 
-위 데이터를 바탕으로 다음 형식으로 분석해주세요:
-
-### 📊 종합 분석
-(이 기간의 전반적인 성과를 2-3문장으로 요약)
-
-### ✅ 잘한 점 (2-3개)
-- 구체적인 수치와 함께 성과 포인트 설명
-
-### ⚠️ 개선이 필요한 점 (2-3개)
-- 구체적인 문제점과 원인 분석
-
-### 💡 다음 기간 추천 액션 (3-4개)
-- 실행 가능한 구체적인 제안
-
-응답은 마크다운 형식으로, 간결하고 실용적으로 작성해주세요.`;
+{
+  "summary": "지난 운영 기간(N일) 동안 총 N개의 콘텐츠를 발행하며... (2-3문장 총평)",
+  "performances": [
+    {"title": "성과 제목1", "desc": "구체적 설명 (수치 포함)"},
+    {"title": "성과 제목2", "desc": "구체적 설명"}
+  ],
+  "improvements": [
+    {"title": "개선점 제목1", "desc": "구체적 설명"},
+    {"title": "개선점 제목2", "desc": "구체적 설명"}
+  ],
+  "contentAnalysis": {
+    "highReach": {"analysis": "도달형 콘텐츠 분석", "strategy": "전략 제안"},
+    "highShare": {"analysis": "확산형 콘텐츠 분석", "strategy": "전략 제안"},
+    "highSave": {"analysis": "저장형 콘텐츠 분석", "strategy": "전략 제안"},
+    "lowPerf": {"analysis": "저성과 콘텐츠 분석", "strategy": "개선 전략"}
+  },
+  "nextActions": ["액션1", "액션2", "액션3", "액션4"]
+}`;
 
   try {
     const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
@@ -62,7 +65,7 @@ ${reportData.topShares.map((p, i) => `${i+1}. "${p.title || '제목없음'}" - �
         contents: [{ parts: [{ text: prompt }] }],
         generationConfig: {
           temperature: 0.7,
-          maxOutputTokens: 1500,
+          maxOutputTokens: 2000,
         }
       })
     });
@@ -72,7 +75,20 @@ ${reportData.topShares.map((p, i) => `${i+1}. "${p.title || '제목없음'}" - �
     }
 
     const data = await response.json();
-    return data.candidates?.[0]?.content?.parts?.[0]?.text || '분석 결과를 가져올 수 없습니다.';
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+
+    // JSON 파싱 시도
+    try {
+      // JSON 부분만 추출 (```json ... ``` 또는 { ... } 형태)
+      const jsonMatch = text.match(/\{[\s\S]*\}/);
+      if (jsonMatch) {
+        return JSON.parse(jsonMatch[0]);
+      }
+      throw new Error('JSON 형식을 찾을 수 없습니다.');
+    } catch (parseError) {
+      console.error('JSON 파싱 오류:', parseError, text);
+      throw new Error('AI 응답 파싱 실패');
+    }
   } catch (error) {
     console.error('Gemini API 오류:', error);
     throw error;
@@ -3080,6 +3096,341 @@ function filterPostsByDateRange(startDate, endDate) {
   });
 }
 
+// AI 분석을 위한 데이터 준비
+function prepareReportData(startDate, endDate) {
+  const START_DATE = '2025-12-26';
+  const posts = filterPostsByDateRange(startDate, endDate);
+  const allPosts = DATA.posts;
+
+  const beforePosts = allPosts.filter(p => {
+    const d = parseUploadDate(p.upload_date);
+    return d && d < new Date(START_DATE);
+  });
+
+  const formatDate = d => {
+    const [y, m, day] = d.split('-');
+    return `${y.slice(2)}.${m}.${day}`;
+  };
+  const periodStr = `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
+  const daysDiff = Math.ceil((new Date(endDate) - new Date(startDate)) / (1000 * 60 * 60 * 24)) + 1;
+
+  const stats = {
+    count: posts.length,
+    totalReach: sum(posts.map(p => p.reach || 0)),
+    totalLikes: sum(posts.map(p => p.likes || 0)),
+    totalSaves: sum(posts.map(p => p.saves || 0)),
+    totalShares: sum(posts.map(p => p.shares || 0)),
+    totalComments: sum(posts.map(p => p.comments || 0)),
+    avgEngRate: avg(posts.map(p => p.engagement_rate).filter(v => v != null)),
+  };
+
+  const allStats = {
+    totalReach: sum(allPosts.map(p => p.reach || 0)),
+    totalLikes: sum(allPosts.map(p => p.likes || 0)),
+    totalSaves: sum(allPosts.map(p => p.saves || 0)),
+    totalShares: sum(allPosts.map(p => p.shares || 0)),
+    totalComments: sum(allPosts.map(p => p.comments || 0)),
+  };
+
+  const contribution = {
+    reach: allStats.totalReach ? ((stats.totalReach / allStats.totalReach) * 100).toFixed(1) : 0,
+    shares: allStats.totalShares ? ((stats.totalShares / allStats.totalShares) * 100).toFixed(1) : 0,
+    comments: allStats.totalComments ? ((stats.totalComments / allStats.totalComments) * 100).toFixed(1) : 0,
+  };
+
+  const beforeStats = {
+    totalReach: sum(beforePosts.map(p => p.reach || 0)),
+    totalComments: sum(beforePosts.map(p => p.comments || 0)),
+    totalSaves: sum(beforePosts.map(p => p.saves || 0)),
+    totalShares: sum(beforePosts.map(p => p.shares || 0)),
+  };
+
+  const calcEfficiency = (metric, reach) => reach > 0 ? (metric / reach * 1000) : 0;
+
+  const beforeEfficiency = {
+    comments: calcEfficiency(beforeStats.totalComments, beforeStats.totalReach),
+    saves: calcEfficiency(beforeStats.totalSaves, beforeStats.totalReach),
+    shares: calcEfficiency(beforeStats.totalShares, beforeStats.totalReach),
+  };
+
+  const afterEfficiency = {
+    comments: calcEfficiency(stats.totalComments, stats.totalReach),
+    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
+    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+  };
+
+  const efficiencyMultiplier = {
+    comments: beforeEfficiency.comments > 0 ? (afterEfficiency.comments / beforeEfficiency.comments).toFixed(1) : '-',
+    saves: beforeEfficiency.saves > 0 ? (afterEfficiency.saves / beforeEfficiency.saves).toFixed(1) : '-',
+    shares: beforeEfficiency.shares > 0 ? (afterEfficiency.shares / beforeEfficiency.shares).toFixed(1) : '-',
+  };
+
+  const topReach = [...posts].sort((a, b) => (b.reach || 0) - (a.reach || 0)).slice(0, 3);
+  const topShares = [...posts].sort((a, b) => (b.shares || 0) - (a.shares || 0)).slice(0, 3);
+  const topSaves = [...posts].sort((a, b) => (b.saves || 0) - (a.saves || 0)).slice(0, 3);
+  const lowPerf = [...posts].sort((a, b) => (a.engagement_rate || 0) - (b.engagement_rate || 0)).slice(0, 2);
+
+  return {
+    period: periodStr,
+    daysDiff,
+    stats,
+    allStats,
+    contribution,
+    beforeEfficiency,
+    afterEfficiency,
+    efficiencyMultiplier,
+    topReach,
+    topShares,
+    topSaves,
+    lowPerf
+  };
+}
+
+// AI 분석 결과를 포함한 보고서 HTML 생성
+function generateReportHTMLWithAI(startDate, endDate, aiData) {
+  const START_DATE = '2025-12-26';
+  const posts = filterPostsByDateRange(startDate, endDate);
+  const allPosts = DATA.posts;
+
+  const beforePosts = allPosts.filter(p => {
+    const d = parseUploadDate(p.upload_date);
+    return d && d < new Date(START_DATE);
+  });
+
+  const formatDate = d => {
+    const [y, m, day] = d.split('-');
+    return `${y.slice(2)}.${m}.${day}`;
+  };
+  const periodStr = `${formatDate(startDate)} ~ ${formatDate(endDate)}`;
+
+  const stats = {
+    count: posts.length,
+    totalReach: sum(posts.map(p => p.reach || 0)),
+    totalLikes: sum(posts.map(p => p.likes || 0)),
+    totalSaves: sum(posts.map(p => p.saves || 0)),
+    totalShares: sum(posts.map(p => p.shares || 0)),
+    totalComments: sum(posts.map(p => p.comments || 0)),
+    avgEngRate: avg(posts.map(p => p.engagement_rate).filter(v => v != null)),
+  };
+
+  const allStats = {
+    totalReach: sum(allPosts.map(p => p.reach || 0)),
+    totalLikes: sum(allPosts.map(p => p.likes || 0)),
+    totalSaves: sum(allPosts.map(p => p.saves || 0)),
+    totalShares: sum(allPosts.map(p => p.shares || 0)),
+    totalComments: sum(allPosts.map(p => p.comments || 0)),
+  };
+
+  const contribution = {
+    reach: allStats.totalReach ? ((stats.totalReach / allStats.totalReach) * 100).toFixed(1) : 0,
+    shares: allStats.totalShares ? ((stats.totalShares / allStats.totalShares) * 100).toFixed(1) : 0,
+    comments: allStats.totalComments ? ((stats.totalComments / allStats.totalComments) * 100).toFixed(1) : 0,
+    saves: allStats.totalSaves ? ((stats.totalSaves / allStats.totalSaves) * 100).toFixed(1) : 0,
+    likes: allStats.totalLikes ? ((stats.totalLikes / allStats.totalLikes) * 100).toFixed(1) : 0,
+  };
+
+  const beforeStats = {
+    totalReach: sum(beforePosts.map(p => p.reach || 0)),
+    totalComments: sum(beforePosts.map(p => p.comments || 0)),
+    totalSaves: sum(beforePosts.map(p => p.saves || 0)),
+    totalShares: sum(beforePosts.map(p => p.shares || 0)),
+  };
+
+  const calcEfficiency = (metric, reach) => reach > 0 ? (metric / reach * 1000) : 0;
+
+  const beforeEfficiency = {
+    comments: calcEfficiency(beforeStats.totalComments, beforeStats.totalReach),
+    saves: calcEfficiency(beforeStats.totalSaves, beforeStats.totalReach),
+    shares: calcEfficiency(beforeStats.totalShares, beforeStats.totalReach),
+  };
+
+  const afterEfficiency = {
+    comments: calcEfficiency(stats.totalComments, stats.totalReach),
+    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
+    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+  };
+
+  const efficiencyMultiplier = {
+    comments: beforeEfficiency.comments > 0 ? (afterEfficiency.comments / beforeEfficiency.comments).toFixed(1) : '-',
+    saves: beforeEfficiency.saves > 0 ? (afterEfficiency.saves / beforeEfficiency.saves).toFixed(1) : '-',
+    shares: beforeEfficiency.shares > 0 ? (afterEfficiency.shares / beforeEfficiency.shares).toFixed(1) : '-',
+  };
+
+  const followerGrowth = DATA.followers && DATA.followers.length >= 2
+    ? DATA.followers[DATA.followers.length - 1].followers - DATA.followers[0].followers
+    : 0;
+
+  const topReach = [...posts].sort((a, b) => (b.reach || 0) - (a.reach || 0)).slice(0, 3);
+  const topShares = [...posts].sort((a, b) => (b.shares || 0) - (a.shares || 0)).slice(0, 3);
+  const topSaves = [...posts].sort((a, b) => (b.saves || 0) - (a.saves || 0)).slice(0, 3);
+  const lowPerf = [...posts].sort((a, b) => (a.engagement_rate || 0) - (b.engagement_rate || 0)).slice(0, 2);
+
+  // AI 데이터 기본값 설정
+  const ai = {
+    summary: aiData?.summary || '데이터를 분석 중입니다.',
+    performances: aiData?.performances || [{ title: '분석 중', desc: '...' }],
+    improvements: aiData?.improvements || [{ title: '분석 중', desc: '...' }],
+    contentAnalysis: aiData?.contentAnalysis || {
+      highReach: { analysis: '-', strategy: '-' },
+      highShare: { analysis: '-', strategy: '-' },
+      highSave: { analysis: '-', strategy: '-' },
+      lowPerf: { analysis: '-', strategy: '-' }
+    },
+    nextActions: aiData?.nextActions || ['분석 중...']
+  };
+
+  return `
+    <div class="report-header">
+      <h1>IG CONTENTS REPORT</h1>
+      <div class="report-period">${periodStr}</div>
+      <div class="report-brand">FLYING JAPAN</div>
+    </div>
+
+    <!-- Dynamic Summary (총평) - AI 작성 -->
+    <div class="report-section report-summary-section">
+      <p class="editable-field report-dynamic-summary">
+        <span class="edit-icon">✏️</span>
+        <span class="editable-content" contenteditable="true">${ai.summary}</span>
+      </p>
+    </div>
+
+    <!-- 1. 주요 지표별 성과 데이터 -->
+    <div class="report-section">
+      <h2>1. 주요 지표별 성과 데이터</h2>
+
+      <p class="report-intro">
+        현재까지 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하였으며,<br>
+        ${formatDate(endDate)} 기준 주요 누적 수치는 다음과 같습니다.
+        <span class="report-follower-note">(팔로워 총 ${fmtNum(followerGrowth)}명 증가)</span>
+      </p>
+
+      <table class="report-table">
+        <thead>
+          <tr>
+            <th>지표 항목</th>
+            <th>수치 (Total)</th>
+            <th>계정 내 점유율 (기여도)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>총 도달 (Reach)</td><td>${fmtNum(stats.totalReach)}회</td><td>전체 누적의 약 <strong>${contribution.reach}%</strong></td></tr>
+          <tr><td>총 공유</td><td>${fmtNum(stats.totalShares)}회</td><td>전체 누적의 약 <strong>${contribution.shares}%</strong></td></tr>
+          <tr><td>총 저장</td><td>${fmtNum(stats.totalSaves)}</td><td>전체 누적의 약 <strong>${contribution.saves}%</strong></td></tr>
+          <tr><td>총 댓글</td><td>${fmtNum(stats.totalComments)}</td><td>전체 누적의 약 <strong>${contribution.comments}%</strong></td></tr>
+          <tr><td>총 좋아요</td><td>${fmtNum(stats.totalLikes)}</td><td>전체 누적의 약 <strong>${contribution.likes}%</strong></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 2. 성과 및 개선 필요점 - AI 작성 -->
+    <div class="report-section">
+      <h2>2. 성과 및 개선 필요점</h2>
+
+      <div class="report-two-column">
+        <div class="report-column report-success">
+          <h3>🔺 성과</h3>
+          ${ai.performances.map(p => `
+          <div class="report-item">
+            <h4>${p.title}</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${p.desc}</span></p>
+          </div>
+          `).join('')}
+        </div>
+
+        <div class="report-column report-improve">
+          <h3>🔻 개선 필요</h3>
+          ${ai.improvements.map(i => `
+          <div class="report-item">
+            <h4>${i.title}</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${i.desc}</span></p>
+          </div>
+          `).join('')}
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. 과거 대비 효율성 -->
+    <div class="report-section">
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과)</h2>
+
+      <table class="report-table">
+        <thead>
+          <tr><th>지표</th><th>과거 (Before)</th><th>현재 (After)</th><th>효율 배수</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1,000 도달당 댓글</td>
+            <td>${beforeEfficiency.comments.toFixed(1)}개</td>
+            <td>${afterEfficiency.comments.toFixed(1)}개</td>
+            <td class="${parseFloat(efficiencyMultiplier.comments) > 1 ? 'positive' : 'negative'}">${efficiencyMultiplier.comments !== '-' ? efficiencyMultiplier.comments + '배' : '-'} ${parseFloat(efficiencyMultiplier.comments) > 1 ? '↑' : parseFloat(efficiencyMultiplier.comments) < 1 ? '↓' : ''}</td>
+          </tr>
+          <tr>
+            <td>1,000 도달당 저장</td>
+            <td>${beforeEfficiency.saves.toFixed(1)}개</td>
+            <td>${afterEfficiency.saves.toFixed(1)}개</td>
+            <td class="${parseFloat(efficiencyMultiplier.saves) > 1 ? 'positive' : 'negative'}">${efficiencyMultiplier.saves !== '-' ? efficiencyMultiplier.saves + '배' : '-'} ${parseFloat(efficiencyMultiplier.saves) > 1 ? '↑' : parseFloat(efficiencyMultiplier.saves) < 1 ? '↓' : ''}</td>
+          </tr>
+          <tr>
+            <td>1,000 도달당 공유</td>
+            <td>${beforeEfficiency.shares.toFixed(1)}개</td>
+            <td>${afterEfficiency.shares.toFixed(1)}개</td>
+            <td class="${parseFloat(efficiencyMultiplier.shares) > 1 ? 'positive' : 'negative'}">${efficiencyMultiplier.shares !== '-' ? efficiencyMultiplier.shares + '배' : '-'} ${parseFloat(efficiencyMultiplier.shares) > 1 ? '↑' : parseFloat(efficiencyMultiplier.shares) < 1 ? '↓' : ''}</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="report-efficiency-note">💡 도달수가 늘어나도 '질적 성과'를 비교할 수 있는 지표입니다.</p>
+    </div>
+
+    <!-- 4. 콘텐츠 유형별 성과 분석 - AI 작성 -->
+    <div class="report-section">
+      <h2>4. 콘텐츠 유형별 성과 분석</h2>
+
+      <table class="report-table report-content-table">
+        <thead>
+          <tr><th style="width:18%">분류</th><th style="width:27%">해당 콘텐츠</th><th style="width:27%">성과 및 분석</th><th style="width:28%">전략</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>High Reach</strong><br>(도달형)</td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${topReach.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.highReach.analysis}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.highReach.strategy}</span></td>
+          </tr>
+          <tr>
+            <td><strong>High Share</strong><br>(확산형)</td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${topShares.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.highShare.analysis}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.highShare.strategy}</span></td>
+          </tr>
+          <tr>
+            <td><strong>High Save</strong><br>(저장형)</td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${topSaves.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.highSave.analysis}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.highSave.strategy}</span></td>
+          </tr>
+          <tr>
+            <td><strong>Low Perf.</strong><br>(개선 필요)</td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${lowPerf.map(p => '• ' + (p.title || '제목 없음')).join('<br>')}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.lowPerf.analysis}</span></td>
+            <td class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${ai.contentAnalysis.lowPerf.strategy}</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 5. Next Action - AI 작성 -->
+    <div class="report-section report-next-action">
+      <h2>5. Next Action</h2>
+      <div class="editable-field report-action-list">
+        <span class="edit-icon">✏️</span>
+        <span class="editable-content" contenteditable="true">
+          ${ai.nextActions.map((action, idx) => `<p>${idx + 1}. ${action}</p>`).join('\n          ')}
+        </span>
+      </div>
+    </div>
+  `;
+}
+
 function generateReportHTML(startDate, endDate) {
   // ── 기준점 변수화 ──
   const START_DATE = '2025-12-26';
@@ -3495,70 +3846,10 @@ function generateReportHTML(startDate, endDate) {
         </span>
       </div>
     </div>
-
-    <!-- 6. AI 분석 -->
-    <div class="report-section report-ai-section">
-      <h2>6. AI 인사이트 분석</h2>
-      <div class="ai-analysis-container">
-        <button id="ai-analyze-btn" class="ai-analyze-btn" onclick="requestAIAnalysis()">
-          🤖 AI 분석 요청하기
-        </button>
-        <div id="ai-analysis-result" class="ai-analysis-result" style="display: none;">
-          <div class="ai-analysis-content"></div>
-        </div>
-        <div id="ai-analysis-loading" class="ai-analysis-loading" style="display: none;">
-          <div class="loading-spinner"></div>
-          <span>AI가 데이터를 분석하고 있습니다...</span>
-        </div>
-      </div>
-    </div>
   `;
 }
 
-// AI 분석 요청 함수
-async function requestAIAnalysis() {
-  const btn = document.getElementById('ai-analyze-btn');
-  const loading = document.getElementById('ai-analysis-loading');
-  const result = document.getElementById('ai-analysis-result');
-
-  if (!window.currentReportData) {
-    alert('보고서 데이터가 없습니다.');
-    return;
-  }
-
-  // UI 상태 변경
-  btn.style.display = 'none';
-  loading.style.display = 'flex';
-  result.style.display = 'none';
-
-  try {
-    const analysisText = await analyzeWithGemini(window.currentReportData);
-
-    // 마크다운을 HTML로 변환 (간단한 변환)
-    const htmlContent = analysisText
-      .replace(/### (.*)/g, '<h4>$1</h4>')
-      .replace(/## (.*)/g, '<h3>$1</h3>')
-      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-      .replace(/- (.*)/g, '<li>$1</li>')
-      .replace(/\n\n/g, '</p><p>')
-      .replace(/\n/g, '<br>');
-
-    result.querySelector('.ai-analysis-content').innerHTML = `<p>${htmlContent}</p>`;
-    result.style.display = 'block';
-    loading.style.display = 'none';
-
-    // 다시 분석 버튼 표시
-    btn.textContent = '🔄 다시 분석하기';
-    btn.style.display = 'inline-flex';
-
-  } catch (error) {
-    loading.style.display = 'none';
-    btn.style.display = 'inline-flex';
-    alert('AI 분석 중 오류가 발생했습니다: ' + error.message);
-  }
-}
-
-function generateReport() {
+async function generateReport() {
   const startDate = document.getElementById('report-start-date').value;
   const endDate = document.getElementById('report-end-date').value;
 
@@ -3573,10 +3864,35 @@ function generateReport() {
   }
 
   const preview = document.getElementById('report-preview');
-  preview.innerHTML = generateReportHTML(startDate, endDate);
+  const generateBtn = document.querySelector('.report-actions .btn-primary');
 
+  // 로딩 상태 표시
+  preview.innerHTML = `
+    <div class="ai-loading-container">
+      <div class="loading-spinner"></div>
+      <p>AI가 데이터를 분석하고 보고서를 작성하고 있습니다...</p>
+      <p class="loading-sub">약 5~10초 소요됩니다</p>
+    </div>
+  `;
   document.getElementById('report-step1').style.display = 'none';
   document.getElementById('report-step2').style.display = 'block';
+  if (generateBtn) generateBtn.disabled = true;
+
+  try {
+    // AI 분석 데이터 준비 및 호출
+    const reportData = prepareReportData(startDate, endDate);
+    const aiAnalysis = await analyzeWithGemini(reportData);
+
+    // AI 분석 결과로 보고서 생성
+    preview.innerHTML = generateReportHTMLWithAI(startDate, endDate, aiAnalysis);
+  } catch (error) {
+    console.error('보고서 생성 오류:', error);
+    // 오류 시 기본 보고서 생성 (AI 없이)
+    preview.innerHTML = generateReportHTML(startDate, endDate);
+    alert('AI 분석에 실패하여 기본 보고서를 생성했습니다.');
+  } finally {
+    if (generateBtn) generateBtn.disabled = false;
+  }
 }
 
 function downloadReportPDF() {

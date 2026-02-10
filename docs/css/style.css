@@ -2195,6 +2195,30 @@ td.editable-field .editable-content {
   .modal-stats { grid-template-columns: repeat(2, 1fr); }
 }
 
+/* ── AI 로딩 컨테이너 ── */
+.ai-loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.ai-loading-container p {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.ai-loading-container .loading-sub {
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--text2);
+}
+
 /* ── AI 분석 섹션 ── */
 .report-ai-section {
   margin-top: 32px;
