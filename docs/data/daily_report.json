@@ -131,9 +131,9 @@
     "total_shares": 164327,
     "total_comments": 6291,
     "total_engagement": 384164,
-    "avg_engagement_rate": 5.8,
-    "avg_save_rate": 1.7,
-    "avg_share_rate": 1.1
+    "avg_engagement_rate": 0.058,
+    "avg_save_rate": 0.017,
+    "avg_share_rate": 0.011
   },
   {
     "date": "26.02.08(일)",
@@ -148,9 +148,9 @@
     "total_shares": 164542,
     "total_comments": 6340,
     "total_engagement": 384559,
-    "avg_engagement_rate": 5.8,
-    "avg_save_rate": 1.6,
-    "avg_share_rate": 1.1
+    "avg_engagement_rate": 0.058,
+    "avg_save_rate": 0.016,
+    "avg_share_rate": 0.011
   },
   {
     "date": "26.02.09(월)",
@@ -158,13 +158,30 @@
     "follower_change": 24,
     "following": 760,
     "post_count": 315,
-    "total_reach": 9955974,
-    "total_views": 20800785,
-    "total_likes": 132020,
-    "total_saves": 81815,
-    "total_shares": 164798,
+    "total_reach": 9956211,
+    "total_views": 20800965,
+    "total_likes": 132019,
+    "total_saves": 81816,
+    "total_shares": 164802,
     "total_comments": 6395,
-    "total_engagement": 385028,
+    "total_engagement": 385032,
+    "avg_engagement_rate": 0.057,
+    "avg_save_rate": 0.016,
+    "avg_share_rate": 0.011
+  },
+  {
+    "date": "26.02.10(화)",
+    "followers": 6599,
+    "follower_change": 13,
+    "following": 760,
+    "post_count": 315,
+    "total_reach": 9963197,
+    "total_views": 20807052,
+    "total_likes": 132077,
+    "total_saves": 81969,
+    "total_shares": 165120,
+    "total_comments": 6460,
+    "total_engagement": 385626,
     "avg_engagement_rate": 5.7,
     "avg_save_rate": 1.6,
     "avg_share_rate": 1.1
