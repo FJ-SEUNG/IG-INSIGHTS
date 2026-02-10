@@ -3286,6 +3286,16 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
       <div class="report-brand">FLYING JAPAN</div>
     </div>
 
+    <!-- 보고서 생성 안내 -->
+    <div class="report-notice">
+      <div class="notice-icon">ℹ️</div>
+      <div class="notice-content">
+        <p class="notice-title">AI 자동 분석 보고서</p>
+        <p class="notice-desc">본 보고서는 <strong>Instagram Graph API</strong> 데이터를 기반으로 <strong>Google Gemma AI</strong>가 자동 분석하여 작성되었습니다.</p>
+        <p class="notice-warning">⚠️ 각 항목의 ✏️ 아이콘을 클릭하여 내용을 수정할 수 있습니다. <strong>최종 검토 및 수정 후 PDF를 추출</strong>해주세요.</p>
+      </div>
+    </div>
+
     <!-- Dynamic Summary (총평) - AI 작성 -->
     <div class="report-section report-summary-section">
       <p class="editable-field report-dynamic-summary">
@@ -3427,6 +3437,11 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
           ${ai.nextActions.map((action, idx) => `<p>${idx + 1}. ${action}</p>`).join('\n          ')}
         </span>
       </div>
+    </div>
+
+    <!-- 하단 안내 -->
+    <div class="report-footer-notice">
+      <p>📌 위 내용은 AI가 자동 생성한 초안입니다. 각 항목을 검토하고 필요시 수정한 후 PDF를 추출해주세요.</p>
     </div>
   `;
 }
