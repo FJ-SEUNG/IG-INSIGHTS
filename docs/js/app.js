@@ -2954,22 +2954,35 @@ function downloadQuickReport() {
     endDate = today.toISOString().slice(0, 10);
     periodLabel = '전체 평균 (담당 이후)';
   } else if (mode === 'yearly') {
-    // 년도별: 선택된 년도
+    // 년도별: 선택된 년도 1.1 ~ 오늘(해당 년도면) 또는 12.31(과거 년도면)
     const yearSelect = document.querySelector('#summary-period-selectors select');
-    const year = yearSelect?.value || today.getFullYear();
+    const year = parseInt(yearSelect?.value || today.getFullYear(), 10);
+    const currentYear = today.getFullYear();
     startDate = `${year}-01-01`;
-    endDate = `${year}-12-31`;
+    // 현재 년도면 오늘까지, 과거 년도면 12.31까지
+    if (year === currentYear) {
+      endDate = today.toISOString().slice(0, 10);
+    } else {
+      endDate = `${year}-12-31`;
+    }
     periodLabel = `${year}년`;
   } else if (mode === 'monthly') {
-    // 월별: 선택된 년-월
+    // 월별: 선택된 년-월 (현재 월이면 오늘까지)
     // 주의: monthSel.value는 0-indexed (0=1월, 1=2월, ...)
     const selectors = document.querySelectorAll('#summary-period-selectors select');
-    const year = selectors[0]?.value || today.getFullYear();
+    const year = parseInt(selectors[0]?.value || today.getFullYear(), 10);
     const monthIndex = parseInt(selectors[1]?.value ?? today.getMonth(), 10); // 0-indexed
     const month = String(monthIndex + 1).padStart(2, '0'); // 1-indexed로 변환
-    const lastDay = new Date(parseInt(year), monthIndex + 1, 0).getDate();
+    const lastDay = new Date(year, monthIndex + 1, 0).getDate();
     startDate = `${year}-${month}-01`;
-    endDate = `${year}-${month}-${String(lastDay).padStart(2, '0')}`;
+    // 현재 년-월이면 오늘까지, 아니면 말일까지
+    const currentYear = today.getFullYear();
+    const currentMonth = today.getMonth(); // 0-indexed
+    if (year === currentYear && monthIndex === currentMonth) {
+      endDate = today.toISOString().slice(0, 10);
+    } else {
+      endDate = `${year}-${month}-${String(lastDay).padStart(2, '0')}`;
+    }
     periodLabel = `${year}년 ${monthIndex + 1}월`;
   } else if (mode === 'weekly') {
     // 주별: 선택된 주
