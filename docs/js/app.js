@@ -2941,7 +2941,7 @@ function exportReport() {
 // ══════════════════════════════════════════════════
 
 // 현재 필터 기준으로 바로 PDF 다운로드
-function downloadQuickReport() {
+async function downloadQuickReport() {
   const periodSelect = document.getElementById('summary-period-select');
   const mode = periodSelect?.value || 'all';
 
@@ -3034,46 +3034,46 @@ function downloadQuickReport() {
 
   console.log('Quick Report - startDate:', startDate, 'endDate:', endDate);
 
-  try {
-    // 해당 기간 데이터 확인
-    console.log('Quick Report - Filtering posts for:', startDate, '~', endDate);
-    const posts = filterPostsByDateRange(startDate, endDate);
-    console.log('Filtered posts count:', posts?.length);
+  // 해당 기간 데이터 확인
+  const posts = filterPostsByDateRange(startDate, endDate);
+  if (!posts || posts.length === 0) {
+    alert(`선택한 기간(${startDate} ~ ${endDate})에 데이터가 없습니다.\n다른 기간을 선택해주세요.`);
+    return;
+  }
 
-    if (!posts || posts.length === 0) {
-      alert(`선택한 기간(${startDate} ~ ${endDate})에 데이터가 없습니다.\n다른 기간을 선택해주세요.`);
-      return;
-    }
+  // 모달 열고 로딩 표시
+  const modal = document.getElementById('report-modal');
+  const step1 = document.getElementById('report-step1');
+  const step2 = document.getElementById('report-step2');
+  const previewEl = document.getElementById('report-preview');
 
-    // 보고서 HTML 생성
-    console.log('Generating report HTML...');
-    let reportHTML;
+  if (modal && step1 && step2 && previewEl) {
+    step1.style.display = 'none';
+    step2.style.display = 'block';
+    modal.style.display = 'flex';
+
+    // 로딩 표시
+    previewEl.innerHTML = `
+      <div class="ai-loading-container">
+        <div class="loading-spinner"></div>
+        <p>AI가 데이터를 분석하고 보고서를 작성하고 있습니다...</p>
+        <p class="loading-sub">약 5~10초 소요됩니다</p>
+      </div>
+    `;
+
     try {
-      reportHTML = generateReportHTML(startDate, endDate);
-      console.log('Report HTML generated, length:', reportHTML?.length);
-    } catch (genError) {
-      console.error('generateReportHTML error:', genError);
-      alert('보고서 HTML 생성 오류:\n' + genError.message + '\n\n' + genError.stack);
-      return;
-    }
+      // AI 분석 데이터 준비 및 호출
+      const reportData = prepareReportData(startDate, endDate);
+      const aiAnalysis = await analyzeWithGemini(reportData);
 
-    const previewEl = document.getElementById('report-preview');
-    if (previewEl) {
-      previewEl.innerHTML = reportHTML;
+      // AI 분석 결과로 보고서 생성
+      previewEl.innerHTML = generateReportHTMLWithAI(startDate, endDate, aiAnalysis);
+    } catch (error) {
+      console.error('AI 분석 오류:', error);
+      // 오류 시 기본 보고서 생성 (AI 없이)
+      previewEl.innerHTML = generateReportHTML(startDate, endDate);
+      console.log('기본 보고서로 대체됨');
     }
-
-    // 미리보기 모달 열기 (수정 후 완료 버튼으로 PDF 출력)
-    const modal = document.getElementById('report-modal');
-    const step1 = document.getElementById('report-step1');
-    const step2 = document.getElementById('report-step2');
-    if (modal && step1 && step2) {
-      step1.style.display = 'none';
-      step2.style.display = 'block';
-      modal.style.display = 'flex';
-    }
-  } catch (error) {
-    console.error('보고서 생성 오류:', error);
-    alert('보고서 생성 중 오류가 발생했습니다:\n' + error.message + '\n\n' + error.stack);
   }
 }
 
@@ -3311,6 +3311,9 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- Dynamic Summary (총평) - AI 작성 -->
     <div class="report-section report-summary-section">
+      <div class="section-header">
+        <span class="info-tooltip" title="AI가 해당 기간의 전체 성과 데이터를 분석하여 작성한 총평입니다. 콘텐츠 수, 도달, 참여율 등을 종합적으로 평가합니다.">ℹ️</span>
+      </div>
       <p class="editable-field report-dynamic-summary">
         <span class="edit-icon">✏️</span>
         <span class="editable-content" contenteditable="true">${ai.summary}</span>
@@ -3319,7 +3322,7 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- 1. 주요 지표별 성과 데이터 -->
     <div class="report-section">
-      <h2>1. 주요 지표별 성과 데이터</h2>
+      <h2>1. 주요 지표별 성과 데이터 <span class="info-tooltip" title="선택한 기간 내 발행된 콘텐츠의 도달, 좋아요, 댓글, 저장, 공유 누적 수치입니다. 기여도는 전체 계정 누적 대비 해당 기간의 비율입니다.">ℹ️</span></h2>
 
       <p class="report-intro">
         현재까지 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하였으며,<br>
@@ -3347,7 +3350,7 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- 2. 성과 및 개선 필요점 - AI 작성 -->
     <div class="report-section">
-      <h2>2. 성과 및 개선 필요점</h2>
+      <h2>2. 성과 및 개선 필요점 <span class="info-tooltip" title="AI가 효율성 지표(1,000 도달당 댓글/저장/공유), 기여도 비율, TOP 콘텐츠 성과를 분석하여 도출한 성과와 개선점입니다.">ℹ️</span></h2>
 
       <div class="report-two-column">
         <div class="report-column report-success">
@@ -3374,7 +3377,7 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- 3. 과거 대비 효율성 -->
     <div class="report-section">
-      <h2>3. 과거 대비 효율성 (1,000 도달당 성과)</h2>
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과) <span class="info-tooltip" title="담당 이전(2025.12.26 전)과 선택 기간의 효율성을 비교합니다. 1,000회 도달당 반응 수로, 도달 규모와 관계없이 콘텐츠 질을 평가합니다.">ℹ️</span></h2>
 
       <table class="report-table">
         <thead>
@@ -3406,7 +3409,7 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- 4. 콘텐츠 유형별 성과 분석 - AI 작성 -->
     <div class="report-section">
-      <h2>4. 콘텐츠 유형별 성과 분석</h2>
+      <h2>4. 콘텐츠 유형별 성과 분석 <span class="info-tooltip" title="도달/공유/저장 TOP 3 콘텐츠와 저성과 콘텐츠를 분류하고, AI가 각 유형의 성과 원인과 전략을 분석합니다.">ℹ️</span></h2>
 
       <table class="report-table report-content-table">
         <thead>
@@ -3443,7 +3446,7 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- 5. Next Action - AI 작성 -->
     <div class="report-section report-next-action">
-      <h2>5. Next Action</h2>
+      <h2>5. Next Action <span class="info-tooltip" title="AI가 현재 데이터의 성과/개선점을 바탕으로 다음 기간에 실행할 구체적인 액션 아이템을 제안합니다.">ℹ️</span></h2>
       <div class="editable-field report-action-list">
         <span class="edit-icon">✏️</span>
         <span class="editable-content" contenteditable="true">
@@ -3797,7 +3800,7 @@ function generateReportHTML(startDate, endDate) {
 
     <!-- 3. 과거 대비 효율성 -->
     <div class="report-section">
-      <h2>3. 과거 대비 효율성 (1,000 도달당 성과)</h2>
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과) <span class="info-tooltip" title="담당 이전(2025.12.26 전)과 선택 기간의 효율성을 비교합니다. 1,000회 도달당 반응 수로, 도달 규모와 관계없이 콘텐츠 질을 평가합니다.">ℹ️</span></h2>
 
       <table class="report-table">
         <thead>
@@ -3829,7 +3832,7 @@ function generateReportHTML(startDate, endDate) {
 
     <!-- 4. 콘텐츠 유형별 성과 분석 -->
     <div class="report-section">
-      <h2>4. 콘텐츠 유형별 성과 분석</h2>
+      <h2>4. 콘텐츠 유형별 성과 분석 <span class="info-tooltip" title="도달/공유/저장 TOP 3 콘텐츠와 저성과 콘텐츠를 분류하고, AI가 각 유형의 성과 원인과 전략을 분석합니다.">ℹ️</span></h2>
 
       <table class="report-table report-content-table">
         <thead>
@@ -3866,7 +3869,7 @@ function generateReportHTML(startDate, endDate) {
 
     <!-- 5. Next Action -->
     <div class="report-section report-next-action">
-      <h2>5. Next Action</h2>
+      <h2>5. Next Action <span class="info-tooltip" title="AI가 현재 데이터의 성과/개선점을 바탕으로 다음 기간에 실행할 구체적인 액션 아이템을 제안합니다.">ℹ️</span></h2>
       <div class="editable-field report-action-list">
         <span class="edit-icon">✏️</span>
         <span class="editable-content" contenteditable="true">

@@ -2195,6 +2195,64 @@ td.editable-field .editable-content {
   .modal-stats { grid-template-columns: repeat(2, 1fr); }
 }
 
+/* ── 정보 툴팁 (ℹ️) ── */
+.info-tooltip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  cursor: help;
+  position: relative;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+.info-tooltip:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1a1a1a;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.5;
+  white-space: normal;
+  width: 280px;
+  max-width: 90vw;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.info-tooltip:hover::before {
+  content: '';
+  position: absolute;
+  bottom: 115%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1a1a1a;
+  z-index: 1001;
+}
+
+.section-header {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: -10px;
+}
+
+/* 인쇄 시 툴팁 숨김 */
+@media print {
+  .info-tooltip {
+    display: none !important;
+  }
+}
+
 /* ── 보고서 주의사항 안내 ── */
 .report-notice {
   display: flex;
