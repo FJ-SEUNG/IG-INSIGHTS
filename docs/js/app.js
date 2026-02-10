@@ -1,5 +1,84 @@
 /* ── IG 인사이트 대시보드 ── */
 
+// ── Gemini AI API ──
+const GEMINI_API_KEY = 'AIzaSyBswkmVD07oCH7py3EBiI1jqLrwMIVQiN4';
+const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+
+async function analyzeWithGemini(reportData) {
+  const prompt = `당신은 인스타그램 마케팅 전문가입니다. 아래 데이터를 분석하고 한국어로 인사이트를 제공해주세요.
+
+## 분석 대상 기간
+${reportData.period}
+
+## 주요 지표
+- 콘텐츠 발행 수: ${reportData.stats.count}개
+- 총 도달: ${reportData.stats.totalReach.toLocaleString()}회
+- 총 좋아요: ${reportData.stats.totalLikes.toLocaleString()}개
+- 총 댓글: ${reportData.stats.totalComments.toLocaleString()}개
+- 총 저장: ${reportData.stats.totalSaves.toLocaleString()}개
+- 총 공유: ${reportData.stats.totalShares.toLocaleString()}회
+- 평균 참여율: ${reportData.stats.avgEngRate.toFixed(2)}%
+
+## 전체 계정 대비 기여도
+- 도달 기여도: ${reportData.contribution.reach}%
+- 댓글 기여도: ${reportData.contribution.comments}%
+- 공유 기여도: ${reportData.contribution.shares}%
+
+## 효율성 (1,000 도달당 성과, 과거 vs 현재)
+- 댓글: ${reportData.beforeEfficiency.comments.toFixed(1)}개 → ${reportData.afterEfficiency.comments.toFixed(1)}개 (${reportData.efficiencyMultiplier.comments}배)
+- 저장: ${reportData.beforeEfficiency.saves.toFixed(1)}개 → ${reportData.afterEfficiency.saves.toFixed(1)}개 (${reportData.efficiencyMultiplier.saves}배)
+- 공유: ${reportData.beforeEfficiency.shares.toFixed(1)}개 → ${reportData.afterEfficiency.shares.toFixed(1)}개 (${reportData.efficiencyMultiplier.shares}배)
+
+## TOP 콘텐츠
+도달 TOP 3:
+${reportData.topReach.map((p, i) => `${i+1}. "${p.title || '제목없음'}" - 도달 ${(p.reach || 0).toLocaleString()}, 공유 ${p.shares || 0}, 저장 ${p.saves || 0}`).join('\n')}
+
+공유 TOP 3:
+${reportData.topShares.map((p, i) => `${i+1}. "${p.title || '제목없음'}" - 공유 ${p.shares || 0}회`).join('\n')}
+
+---
+
+위 데이터를 바탕으로 다음 형식으로 분석해주세요:
+
+### 📊 종합 분석
+(이 기간의 전반적인 성과를 2-3문장으로 요약)
+
+### ✅ 잘한 점 (2-3개)
+- 구체적인 수치와 함께 성과 포인트 설명
+
+### ⚠️ 개선이 필요한 점 (2-3개)
+- 구체적인 문제점과 원인 분석
+
+### 💡 다음 기간 추천 액션 (3-4개)
+- 실행 가능한 구체적인 제안
+
+응답은 마크다운 형식으로, 간결하고 실용적으로 작성해주세요.`;
+
+  try {
+    const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.7,
+          maxOutputTokens: 1500,
+        }
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`API 오류: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.candidates?.[0]?.content?.parts?.[0]?.text || '분석 결과를 가져올 수 없습니다.';
+  } catch (error) {
+    console.error('Gemini API 오류:', error);
+    throw error;
+  }
+}
+
 // ── Utilities ──
 const fmt = n => n == null ? '-' : n.toLocaleString('ko-KR');
 const fmtNum = fmt; // 숫자 포맷 별칭
@@ -3250,6 +3329,22 @@ function generateReportHTML(startDate, endDate) {
   const { performances, improvements } = generatePerformanceAnalysis();
   const nextActions = generateNextActions();
 
+  // AI 분석용 데이터 저장 (전역)
+  window.currentReportData = {
+    period: periodStr,
+    stats,
+    contribution,
+    beforeEfficiency,
+    afterEfficiency,
+    efficiencyMultiplier,
+    topReach,
+    topShares,
+    topSaves,
+    lowPerf,
+    killerContent,
+    killerNonFollowerRate
+  };
+
   // HTML 생성 (새 양식)
   return `
     <div class="report-header">
@@ -3400,7 +3495,67 @@ function generateReportHTML(startDate, endDate) {
         </span>
       </div>
     </div>
+
+    <!-- 6. AI 분석 -->
+    <div class="report-section report-ai-section">
+      <h2>6. AI 인사이트 분석</h2>
+      <div class="ai-analysis-container">
+        <button id="ai-analyze-btn" class="ai-analyze-btn" onclick="requestAIAnalysis()">
+          🤖 AI 분석 요청하기
+        </button>
+        <div id="ai-analysis-result" class="ai-analysis-result" style="display: none;">
+          <div class="ai-analysis-content"></div>
+        </div>
+        <div id="ai-analysis-loading" class="ai-analysis-loading" style="display: none;">
+          <div class="loading-spinner"></div>
+          <span>AI가 데이터를 분석하고 있습니다...</span>
+        </div>
+      </div>
+    </div>
   `;
+}
+
+// AI 분석 요청 함수
+async function requestAIAnalysis() {
+  const btn = document.getElementById('ai-analyze-btn');
+  const loading = document.getElementById('ai-analysis-loading');
+  const result = document.getElementById('ai-analysis-result');
+
+  if (!window.currentReportData) {
+    alert('보고서 데이터가 없습니다.');
+    return;
+  }
+
+  // UI 상태 변경
+  btn.style.display = 'none';
+  loading.style.display = 'flex';
+  result.style.display = 'none';
+
+  try {
+    const analysisText = await analyzeWithGemini(window.currentReportData);
+
+    // 마크다운을 HTML로 변환 (간단한 변환)
+    const htmlContent = analysisText
+      .replace(/### (.*)/g, '<h4>$1</h4>')
+      .replace(/## (.*)/g, '<h3>$1</h3>')
+      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+      .replace(/- (.*)/g, '<li>$1</li>')
+      .replace(/\n\n/g, '</p><p>')
+      .replace(/\n/g, '<br>');
+
+    result.querySelector('.ai-analysis-content').innerHTML = `<p>${htmlContent}</p>`;
+    result.style.display = 'block';
+    loading.style.display = 'none';
+
+    // 다시 분석 버튼 표시
+    btn.textContent = '🔄 다시 분석하기';
+    btn.style.display = 'inline-flex';
+
+  } catch (error) {
+    loading.style.display = 'none';
+    btn.style.display = 'inline-flex';
+    alert('AI 분석 중 오류가 발생했습니다: ' + error.message);
+  }
 }
 
 function generateReport() {
