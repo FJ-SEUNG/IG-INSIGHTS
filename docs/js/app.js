@@ -1,8 +1,8 @@
 /* ── IG 인사이트 대시보드 ── */
 
-// ── Gemini AI API ──
-const GEMINI_API_KEY = 'AIzaSyBswkmVD07oCH7py3EBiI1jqLrwMIVQiN4';
-const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+// ── Gemini AI API (Gemma 모델 - 무료) ──
+const GEMINI_API_KEY = 'AIzaSyAL6kD1f-77thu--7FPBY-dMCa_I2F7i00';
+const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent';
 
 async function analyzeWithGemini(reportData) {
   const prompt = `당신은 인스타그램 마케팅 전문가입니다. 아래 데이터를 분석하고 한국어로 인사이트를 제공해주세요.
