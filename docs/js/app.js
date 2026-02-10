@@ -3100,6 +3100,156 @@ function generateReportHTML(startDate, endDate) {
   const killerContent = topReach[0];
   const killerNonFollowerRate = killerContent ? ((killerContent.reach - (killerContent.follower_reach || 0)) / killerContent.reach * 100).toFixed(1) : 0;
 
+  // ── 동적 텍스트 생성 로직 ──
+
+  // 1. 총평 자동 생성
+  const generateDynamicSummary = () => {
+    const commentsRatio = parseFloat(contribution.comments);
+    const sharesRatio = parseFloat(contribution.shares);
+    const reachRatio = parseFloat(contribution.reach);
+
+    let summaryType = '';
+    let highlight = '';
+
+    // 댓글 기여도가 도달 기여도보다 높으면 -> 참여형 계정
+    if (commentsRatio > reachRatio) {
+      summaryType = '참여형 커뮤니티 계정';
+      highlight = `특히 전체 계정 수치 중, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간 내 기록하고 있어 유저 소통·참여 측면에서 긍정적인 수치로 보고 있습니다.`;
+    }
+    // 공유 기여도가 도달 기여도보다 높으면 -> 확산형 계정
+    else if (sharesRatio > reachRatio) {
+      summaryType = '확산형 바이럴 계정';
+      highlight = `특히 전체 계정 수치 중, 공유의 <strong>${contribution.shares}%</strong>를 해당 기간 내 기록하며 콘텐츠 확산력이 뛰어난 양상을 보이고 있습니다.`;
+    }
+    // 도달이 높으면 -> 노출형 계정
+    else if (reachRatio > 30) {
+      summaryType = '노출 최적화 계정';
+      highlight = `전체 계정 도달의 <strong>${contribution.reach}%</strong>를 해당 기간 내 달성하며 인스타그램 알고리즘 노출에 최적화된 모습을 보이고 있습니다.`;
+    }
+    // 기본값
+    else {
+      summaryType = '성장 중인 계정';
+      highlight = `콘텐츠 발행을 통해 꾸준히 인사이트 수치를 축적해 나가고 있습니다.`;
+    }
+
+    return `지난 운영 기간(${daysDiff}일) 동안 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하며, 정보 전달을 넘어 유저가 능동적으로 참여하고 공유하는 <strong>${summaryType}</strong>으로 나아가고 있습니다. ${highlight}`;
+  };
+
+  // 2. 성과/개선 필요점 자동 생성
+  const generatePerformanceAnalysis = () => {
+    const performances = [];
+    const improvements = [];
+
+    const commentsMulti = parseFloat(efficiencyMultiplier.comments) || 0;
+    const savesMulti = parseFloat(efficiencyMultiplier.saves) || 0;
+    const sharesMulti = parseFloat(efficiencyMultiplier.shares) || 0;
+
+    // 성과 분석
+    if (commentsMulti > 1) {
+      performances.push({
+        title: '댓글 효율 향상',
+        desc: `1,000 도달당 댓글 수가 과거 대비 <strong>${efficiencyMultiplier.comments}배</strong> 증가하여, 유저 참여도가 크게 개선되었습니다.`
+      });
+    }
+    if (savesMulti > 1) {
+      performances.push({
+        title: '저장 효율 향상',
+        desc: `1,000 도달당 저장 수가 과거 대비 <strong>${efficiencyMultiplier.saves}배</strong> 증가하여, 콘텐츠의 실용성이 인정받고 있습니다.`
+      });
+    }
+    if (sharesMulti > 1) {
+      performances.push({
+        title: '공유 효율 향상',
+        desc: `1,000 도달당 공유 수가 과거 대비 <strong>${efficiencyMultiplier.shares}배</strong> 증가하여, 바이럴 효과가 강화되고 있습니다.`
+      });
+    }
+    if (parseFloat(killerNonFollowerRate) > 50) {
+      performances.push({
+        title: '킬러 콘텐츠의 알고리즘 노출 최적화',
+        desc: `'${killerContent ? (killerContent.title || '제목 없음') : '-'}'(비팔로워 도달 ${killerNonFollowerRate}%)이 신규 유저 유입에 크게 기여하고 있습니다.`
+      });
+    }
+    if (parseFloat(contribution.comments) > parseFloat(contribution.reach)) {
+      performances.push({
+        title: '소통·참여형 계정화',
+        desc: `전체 도달 비중(${contribution.reach}%) 대비 댓글 비중(${contribution.comments}%)이 높게 나타나며, 적은 비용(도달)으로 최대 효율(댓글)을 취득하고 있습니다.`
+      });
+    }
+
+    // 개선 필요점 분석
+    if (savesMulti < 1 || savesMulti === 0) {
+      improvements.push({
+        title: '저장률 개선 필요',
+        desc: `현재 저장 효율이 과거 대비 낮아, 유저가 나중에 다시 꺼내볼 '실용적' 요소(ex. 요약표 등)를 강화해야 할 것으로 보입니다.`
+      });
+    }
+    if (sharesMulti < 1) {
+      improvements.push({
+        title: '공유율 개선 필요',
+        desc: `공유 효율이 과거 대비 저조하여, "나만 알기 아까운" 정보 콘텐츠 비중을 높일 필요가 있습니다.`
+      });
+    }
+    if (commentsMulti < 1) {
+      improvements.push({
+        title: '댓글 참여율 개선 필요',
+        desc: `댓글 효율이 과거 대비 감소하여, 댓글 유도형 이벤트나 질문형 콘텐츠를 강화할 필요가 있습니다.`
+      });
+    }
+    if (stats.avgEngRate < beforeStats.avgEngRate) {
+      improvements.push({
+        title: '참여율 하락',
+        desc: `평균 참여율이 과거 대비 하락하였습니다. 콘텐츠 소재 다양화 및 후킹 강화가 필요합니다.`
+      });
+    }
+
+    // 최소 항목 보장
+    if (performances.length === 0) {
+      performances.push({
+        title: '콘텐츠 발행 지속',
+        desc: `${stats.count}개의 콘텐츠를 꾸준히 발행하며 계정 활성화를 유지하고 있습니다.`
+      });
+    }
+    if (improvements.length === 0) {
+      improvements.push({
+        title: '지속적인 모니터링 필요',
+        desc: `현재 수치를 유지하면서 추가적인 성장 포인트를 발굴해야 합니다.`
+      });
+    }
+
+    return { performances: performances.slice(0, 3), improvements: improvements.slice(0, 3) };
+  };
+
+  // 3. Next Action 자동 생성
+  const generateNextActions = () => {
+    const actions = [];
+    const savesMulti = parseFloat(efficiencyMultiplier.saves) || 0;
+    const sharesMulti = parseFloat(efficiencyMultiplier.shares) || 0;
+    const commentsMulti = parseFloat(efficiencyMultiplier.comments) || 0;
+
+    if (savesMulti < 1.5) {
+      actions.push("저장율 향상을 위한 '요약 카드' 템플릿 제작");
+    }
+    if (killerContent && parseFloat(killerNonFollowerRate) > 50) {
+      actions.push("주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획 (비팔로워 도달 강화)");
+    }
+    if (commentsMulti > 1) {
+      actions.push("댓글 유도형 이벤트 월 2회 진행 (참여율 유지)");
+    } else {
+      actions.push("댓글 유도형 이벤트 월 2회 진행 (참여율 개선)");
+    }
+    if (sharesMulti < 1.5) {
+      actions.push("'에티켓', '규제' 시리즈로 바이럴 유도");
+    }
+    actions.push("프로필 CTA 문구 A/B 테스트");
+    actions.push("저성과 콘텐츠 제목 후킹 카피 적용");
+
+    return actions.slice(0, 5);
+  };
+
+  const dynamicSummary = generateDynamicSummary();
+  const { performances, improvements } = generatePerformanceAnalysis();
+  const nextActions = generateNextActions();
+
   // HTML 생성 (새 양식)
   return `
     <div class="report-header">
@@ -3112,10 +3262,7 @@ function generateReportHTML(startDate, endDate) {
     <div class="report-section report-summary-section">
       <p class="editable-field report-dynamic-summary">
         <span class="edit-icon">✏️</span>
-        <span class="editable-content" contenteditable="true">지난 운영 기간(${daysDiff}일) 동안 총 <strong>${stats.count}개</strong>의 콘텐츠를 발행하며,
-        정보 전달을 넘어 유저가 능동적으로 참여하고 공유하는 <strong>참여형 커뮤니티 계정</strong>으로 나아가고 있습니다.
-        특히 전체 계정 수치 중, 댓글의 <strong>${contribution.comments}%</strong>를 해당 기간 내 기록하고 있어
-        유저 소통·참여 측면에서 긍정적인 수치로 보고 있습니다.</span>
+        <span class="editable-content" contenteditable="true">${dynamicSummary}</span>
       </p>
     </div>
 
@@ -3154,30 +3301,22 @@ function generateReportHTML(startDate, endDate) {
       <div class="report-two-column">
         <div class="report-column report-success">
           <h3>🔺 성과</h3>
+          ${performances.map(p => `
           <div class="report-item">
-            <h4>킬러 콘텐츠의 알고리즘 노출 최적화</h4>
-            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">'${killerContent ? (killerContent.title || '제목 없음') : '-'}'(비팔로워 도달 ${killerNonFollowerRate}%), '${topShares[0] ? (topShares[0].title || '제목 없음') : '-'}'(공유 ${topShares[0] ? fmtNum(topShares[0].shares) : 0}회) 등 콘텐츠 → 신규 유저 유입 역할 수행</span></p>
+            <h4>${p.title}</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${p.desc}</span></p>
           </div>
-          <div class="report-item">
-            <h4>소통·참여형 계정화 (가장 긍정적 포인트)</h4>
-            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">전체 도달 비중(${contribution.reach}%) 대비 댓글 비중(${contribution.comments}%)이 높게 나타나며, 유저들이 콘텐츠 내 적극적으로 참여하는 비율 증가<br><em>* 적은 비용(도달)으로 최대 효율(댓글) 취득</em></span></p>
-          </div>
+          `).join('')}
         </div>
 
         <div class="report-column report-improve">
           <h3>🔻 개선 필요</h3>
+          ${improvements.map(i => `
           <div class="report-item">
-            <h4>저장률 개선 필요</h4>
-            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">현재 공유율 대비 저장률이 상대적으로 낮아, 유저가 나중에 다시 꺼내볼 '실용적' 요소(ex. 요약표 등)를 강화해야 할 것으로 보임</span></p>
+            <h4>${i.title}</h4>
+            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">${i.desc}</span></p>
           </div>
-          <div class="report-item">
-            <h4>팔로우 전환율 정체</h4>
-            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">도달에 비해 팔로우 전환률이 낮은 상태, 프로필 유입 유저를 팔로워로 전환할 수 있는 장치 보완 필요</span></p>
-          </div>
-          <div class="report-item">
-            <h4>콘텐츠별 수치 양극화</h4>
-            <p class="editable-field"><span class="edit-icon">✏️</span><span class="editable-content" contenteditable="true">콘텐츠 인사이트 수치 등락이 일정치 않고 변화가 심함. 평균적인 도달수를 높이는 방안 고민 필요</span></p>
-          </div>
+          `).join('')}
         </div>
       </div>
     </div>
@@ -3257,10 +3396,7 @@ function generateReportHTML(startDate, endDate) {
       <div class="editable-field report-action-list">
         <span class="edit-icon">✏️</span>
         <span class="editable-content" contenteditable="true">
-          <p>1. 저장율 향상을 위한 '요약 카드' 템플릿 제작</p>
-          <p>2. 주 1회 '대형 브랜드 × 혜택' 콘텐츠 기획</p>
-          <p>3. 댓글 유도형 이벤트 월 2회 진행</p>
-          <p>4. 프로필 CTA 문구 A/B 테스트</p>
+          ${nextActions.map((action, idx) => `<p>${idx + 1}. ${action}</p>`).join('\n          ')}
         </span>
       </div>
     </div>
@@ -3875,11 +4011,8 @@ function initReportModal() {
   // 기간 설정 모달 열기
   document.getElementById('custom-report-btn')?.addEventListener('click', openReportModal);
 
-  // 모달 닫기
+  // 모달 닫기 (X 버튼만으로 닫기 - 외부 클릭으로 닫히지 않음)
   document.getElementById('report-modal-close')?.addEventListener('click', closeReportModal);
-  document.getElementById('report-modal')?.addEventListener('click', e => {
-    if (e.target.id === 'report-modal') closeReportModal();
-  });
 
   // 기간 프리셋 버튼
   document.querySelectorAll('.preset-btn').forEach(btn => {
