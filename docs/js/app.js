@@ -3065,16 +3065,16 @@ async function downloadQuickReport() {
     `;
 
     try {
-      // AI 분석 데이터 준비 및 호출
-      const reportData = prepareReportData(startDate, endDate);
+      // AI 분석 데이터 준비 및 호출 (mode 전달)
+      const reportData = prepareReportData(startDate, endDate, mode);
       const aiAnalysis = await analyzeWithGemini(reportData);
 
-      // AI 분석 결과로 보고서 생성
-      previewEl.innerHTML = generateReportHTMLWithAI(startDate, endDate, aiAnalysis);
+      // AI 분석 결과로 보고서 생성 (comparison 정보 전달)
+      previewEl.innerHTML = generateReportHTMLWithAI(startDate, endDate, aiAnalysis, reportData.comparison);
     } catch (error) {
       console.error('AI 분석 오류:', error);
       // 오류 시 기본 보고서 생성 (AI 없이)
-      previewEl.innerHTML = generateReportHTML(startDate, endDate);
+      previewEl.innerHTML = generateReportHTML(startDate, endDate, mode);
       console.log('기본 보고서로 대체됨');
     }
   }
@@ -3112,16 +3112,100 @@ function filterPostsByDateRange(startDate, endDate) {
   });
 }
 
+// 비교 기간 계산 함수
+function getComparisonPeriod(startDate, endDate, mode) {
+  const start = new Date(startDate);
+  const end = new Date(endDate);
+  const TAKEOVER_DATE = '2025-12-26'; // 담당 시작일
+
+  let beforeStart, beforeEnd, beforeLabel, afterLabel;
+
+  // 전체평균 모드: 담당 이전 vs 담당 이후
+  if (mode === 'all') {
+    const allDates = DATA.posts.map(p => parseUploadDate(p.upload_date)).filter(d => d);
+    const oldestDate = allDates.length > 0 ? new Date(Math.min(...allDates)) : new Date('2023-01-01');
+    beforeStart = oldestDate.toISOString().slice(0, 10);
+    beforeEnd = '2025-12-25';
+    beforeLabel = `담당 이전 (${beforeStart.slice(2,4)}.${beforeStart.slice(5,7)}.${beforeStart.slice(8,10)} ~ 25.12.25)`;
+    afterLabel = `담당 이후 (25.12.26 ~ 현재)`;
+    return { beforeStart, beforeEnd, beforeLabel, afterLabel, afterStart: TAKEOVER_DATE, afterEnd: endDate };
+  }
+
+  // 년도별: 전년도 vs 선택 년도
+  if (mode === 'yearly') {
+    const year = start.getFullYear();
+    beforeStart = `${year - 1}-01-01`;
+    beforeEnd = `${year - 1}-12-31`;
+    beforeLabel = `${year - 1}년`;
+    afterLabel = `${year}년`;
+    return { beforeStart, beforeEnd, beforeLabel, afterLabel, afterStart: startDate, afterEnd: endDate };
+  }
+
+  // 월별: 전월 vs 선택 월
+  if (mode === 'monthly') {
+    const year = start.getFullYear();
+    const month = start.getMonth(); // 0-indexed
+    const prevMonth = month === 0 ? 11 : month - 1;
+    const prevYear = month === 0 ? year - 1 : year;
+    const prevLastDay = new Date(prevYear, prevMonth + 1, 0).getDate();
+    beforeStart = `${prevYear}-${String(prevMonth + 1).padStart(2, '0')}-01`;
+    beforeEnd = `${prevYear}-${String(prevMonth + 1).padStart(2, '0')}-${String(prevLastDay).padStart(2, '0')}`;
+    beforeLabel = `${prevYear}년 ${prevMonth + 1}월`;
+    afterLabel = `${year}년 ${month + 1}월`;
+    return { beforeStart, beforeEnd, beforeLabel, afterLabel, afterStart: startDate, afterEnd: endDate };
+  }
+
+  // 주별: 전주 vs 선택 주
+  if (mode === 'weekly') {
+    const prevWeekStart = new Date(start);
+    prevWeekStart.setDate(prevWeekStart.getDate() - 7);
+    const prevWeekEnd = new Date(prevWeekStart);
+    prevWeekEnd.setDate(prevWeekEnd.getDate() + 6);
+    beforeStart = prevWeekStart.toISOString().slice(0, 10);
+    beforeEnd = prevWeekEnd.toISOString().slice(0, 10);
+    beforeLabel = `전주 (${beforeStart.slice(5,7)}.${beforeStart.slice(8,10)} ~ ${beforeEnd.slice(5,7)}.${beforeEnd.slice(8,10)})`;
+    afterLabel = `선택주 (${startDate.slice(5,7)}.${startDate.slice(8,10)} ~ ${endDate.slice(5,7)}.${endDate.slice(8,10)})`;
+    return { beforeStart, beforeEnd, beforeLabel, afterLabel, afterStart: startDate, afterEnd: endDate };
+  }
+
+  // 일별: 전일 vs 선택일
+  if (mode === 'daily') {
+    const prevDay = new Date(start);
+    prevDay.setDate(prevDay.getDate() - 1);
+    beforeStart = prevDay.toISOString().slice(0, 10);
+    beforeEnd = beforeStart;
+    beforeLabel = `전일 (${beforeStart.slice(5,7)}.${beforeStart.slice(8,10)})`;
+    afterLabel = `선택일 (${startDate.slice(5,7)}.${startDate.slice(8,10)})`;
+    return { beforeStart, beforeEnd, beforeLabel, afterLabel, afterStart: startDate, afterEnd: endDate };
+  }
+
+  // 기간 설정 (custom): 직전 동일 기간 vs 선택 기간
+  const daysDiff = Math.ceil((end - start) / (1000 * 60 * 60 * 24)) + 1;
+  const prevEnd = new Date(start);
+  prevEnd.setDate(prevEnd.getDate() - 1);
+  const prevStart = new Date(prevEnd);
+  prevStart.setDate(prevStart.getDate() - daysDiff + 1);
+  beforeStart = prevStart.toISOString().slice(0, 10);
+  beforeEnd = prevEnd.toISOString().slice(0, 10);
+  beforeLabel = `직전 ${daysDiff}일 (${beforeStart.slice(5,7)}.${beforeStart.slice(8,10)} ~ ${beforeEnd.slice(5,7)}.${beforeEnd.slice(8,10)})`;
+  afterLabel = `선택 기간 (${startDate.slice(5,7)}.${startDate.slice(8,10)} ~ ${endDate.slice(5,7)}.${endDate.slice(8,10)})`;
+  return { beforeStart, beforeEnd, beforeLabel, afterLabel, afterStart: startDate, afterEnd: endDate };
+}
+
 // AI 분석을 위한 데이터 준비
-function prepareReportData(startDate, endDate) {
-  const START_DATE = '2025-12-26';
+function prepareReportData(startDate, endDate, mode = 'custom') {
   const posts = filterPostsByDateRange(startDate, endDate);
   const allPosts = DATA.posts;
 
-  const beforePosts = allPosts.filter(p => {
-    const d = parseUploadDate(p.upload_date);
-    return d && d < new Date(START_DATE);
-  });
+  // 비교 기간 계산
+  const comparison = getComparisonPeriod(startDate, endDate, mode);
+
+  // 과거 기간 데이터
+  const beforePosts = filterPostsByDateRange(comparison.beforeStart, comparison.beforeEnd);
+  // 현재 기간 데이터 (전체평균일 때는 담당 이후만)
+  const afterPosts = mode === 'all'
+    ? filterPostsByDateRange(comparison.afterStart, comparison.afterEnd)
+    : posts;
 
   const formatDate = d => {
     const [y, m, day] = d.split('-');
@@ -3169,10 +3253,18 @@ function prepareReportData(startDate, endDate) {
     shares: calcEfficiency(beforeStats.totalShares, beforeStats.totalReach),
   };
 
+  // 현재(After) 효율성 - afterPosts 기준
+  const afterStats = {
+    totalReach: sum(afterPosts.map(p => p.reach || 0)),
+    totalComments: sum(afterPosts.map(p => p.comments || 0)),
+    totalSaves: sum(afterPosts.map(p => p.saves || 0)),
+    totalShares: sum(afterPosts.map(p => p.shares || 0)),
+  };
+
   const afterEfficiency = {
-    comments: calcEfficiency(stats.totalComments, stats.totalReach),
-    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
-    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+    comments: calcEfficiency(afterStats.totalComments, afterStats.totalReach),
+    saves: calcEfficiency(afterStats.totalSaves, afterStats.totalReach),
+    shares: calcEfficiency(afterStats.totalShares, afterStats.totalReach),
   };
 
   const efficiencyMultiplier = {
@@ -3195,6 +3287,7 @@ function prepareReportData(startDate, endDate) {
     beforeEfficiency,
     afterEfficiency,
     efficiencyMultiplier,
+    comparison, // 비교 기간 정보 추가
     topReach,
     topShares,
     topSaves,
@@ -3203,15 +3296,13 @@ function prepareReportData(startDate, endDate) {
 }
 
 // AI 분석 결과를 포함한 보고서 HTML 생성
-function generateReportHTMLWithAI(startDate, endDate, aiData) {
-  const START_DATE = '2025-12-26';
+function generateReportHTMLWithAI(startDate, endDate, aiData, comparison) {
   const posts = filterPostsByDateRange(startDate, endDate);
   const allPosts = DATA.posts;
 
-  const beforePosts = allPosts.filter(p => {
-    const d = parseUploadDate(p.upload_date);
-    return d && d < new Date(START_DATE);
-  });
+  // 비교 기간 데이터
+  const beforePosts = comparison ? filterPostsByDateRange(comparison.beforeStart, comparison.beforeEnd) : [];
+  const afterPosts = comparison ? filterPostsByDateRange(comparison.afterStart, comparison.afterEnd) : posts;
 
   const formatDate = d => {
     const [y, m, day] = d.split('-');
@@ -3252,6 +3343,14 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
     totalShares: sum(beforePosts.map(p => p.shares || 0)),
   };
 
+  // afterPosts 기반 통계 (비교용)
+  const afterStats = {
+    totalReach: sum(afterPosts.map(p => p.reach || 0)),
+    totalComments: sum(afterPosts.map(p => p.comments || 0)),
+    totalSaves: sum(afterPosts.map(p => p.saves || 0)),
+    totalShares: sum(afterPosts.map(p => p.shares || 0)),
+  };
+
   const calcEfficiency = (metric, reach) => reach > 0 ? (metric / reach * 1000) : 0;
 
   const beforeEfficiency = {
@@ -3261,9 +3360,9 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
   };
 
   const afterEfficiency = {
-    comments: calcEfficiency(stats.totalComments, stats.totalReach),
-    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
-    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+    comments: calcEfficiency(afterStats.totalComments, afterStats.totalReach),
+    saves: calcEfficiency(afterStats.totalSaves, afterStats.totalReach),
+    shares: calcEfficiency(afterStats.totalShares, afterStats.totalReach),
   };
 
   const efficiencyMultiplier = {
@@ -3380,11 +3479,11 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
 
     <!-- 3. 과거 대비 효율성 -->
     <div class="report-section">
-      <h2>3. 과거 대비 효율성 (1,000 도달당 성과) <span class="info-tooltip" title="담당 이전(2025.12.26 전)과 선택 기간의 효율성을 비교합니다. 1,000회 도달당 반응 수로, 도달 규모와 관계없이 콘텐츠 질을 평가합니다.">ℹ️</span></h2>
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과) <span class="info-tooltip" title="${comparison ? `비교 기준: ${comparison.beforeLabel} vs ${comparison.afterLabel}. ` : ''}1,000회 도달당 반응 수로 콘텐츠 질을 평가합니다. [모드별 비교] 전체평균: 담당이전 vs 담당이후 / 년도별: 전년도 vs 선택년도 / 월별: 전월 vs 선택월 / 주별: 전주 vs 선택주 / 일별: 전일 vs 선택일 / 기간설정: 직전 동일기간 vs 선택기간">ℹ️</span></h2>
 
       <table class="report-table">
         <thead>
-          <tr><th>지표</th><th>과거 (Before)</th><th>현재 (After)</th><th>효율 배수</th></tr>
+          <tr><th>지표</th><th>${comparison ? comparison.beforeLabel : '과거'}</th><th>${comparison ? comparison.afterLabel : '현재'}</th><th>효율 배수</th></tr>
         </thead>
         <tbody>
           <tr>
@@ -3465,18 +3564,16 @@ function generateReportHTMLWithAI(startDate, endDate, aiData) {
   `;
 }
 
-function generateReportHTML(startDate, endDate) {
-  // ── 기준점 변수화 ──
-  const START_DATE = '2025-12-26';
+function generateReportHTML(startDate, endDate, mode = 'custom') {
+  // ── 비교 기간 계산 ──
+  const comparison = getComparisonPeriod(startDate, endDate, mode);
 
   const posts = filterPostsByDateRange(startDate, endDate);
   const allPosts = DATA.posts;
 
-  // 담당 이전 데이터 (Before: date < START_DATE)
-  const beforePosts = allPosts.filter(p => {
-    const d = parseUploadDate(p.upload_date);
-    return d && d < new Date(START_DATE);
-  });
+  // 비교 기간 데이터
+  const beforePosts = filterPostsByDateRange(comparison.beforeStart, comparison.beforeEnd);
+  const afterPosts = filterPostsByDateRange(comparison.afterStart, comparison.afterEnd);
 
   // 기간 포맷
   const formatDate = d => {
@@ -3525,6 +3622,14 @@ function generateReportHTML(startDate, endDate) {
     avgShareRate: beforePosts.length ? avg(beforePosts.map(p => p.share_rate).filter(v => v != null)) : 0,
   };
 
+  // afterPosts 기반 통계 (비교용)
+  const afterStats = {
+    totalReach: sum(afterPosts.map(p => p.reach || 0)),
+    totalComments: sum(afterPosts.map(p => p.comments || 0)),
+    totalSaves: sum(afterPosts.map(p => p.saves || 0)),
+    totalShares: sum(afterPosts.map(p => p.shares || 0)),
+  };
+
   // 효율 배수 계산 (1,000 도달당 반응)
   const calcEfficiency = (metric, reach) => reach > 0 ? (metric / reach * 1000) : 0;
 
@@ -3535,9 +3640,9 @@ function generateReportHTML(startDate, endDate) {
   };
 
   const afterEfficiency = {
-    comments: calcEfficiency(stats.totalComments, stats.totalReach),
-    saves: calcEfficiency(stats.totalSaves, stats.totalReach),
-    shares: calcEfficiency(stats.totalShares, stats.totalReach),
+    comments: calcEfficiency(afterStats.totalComments, afterStats.totalReach),
+    saves: calcEfficiency(afterStats.totalSaves, afterStats.totalReach),
+    shares: calcEfficiency(afterStats.totalShares, afterStats.totalReach),
   };
 
   const efficiencyMultiplier = {
@@ -3803,11 +3908,11 @@ function generateReportHTML(startDate, endDate) {
 
     <!-- 3. 과거 대비 효율성 -->
     <div class="report-section">
-      <h2>3. 과거 대비 효율성 (1,000 도달당 성과) <span class="info-tooltip" title="담당 이전(2025.12.26 전)과 선택 기간의 효율성을 비교합니다. 1,000회 도달당 반응 수로, 도달 규모와 관계없이 콘텐츠 질을 평가합니다.">ℹ️</span></h2>
+      <h2>3. 과거 대비 효율성 (1,000 도달당 성과) <span class="info-tooltip" title="${comparison ? `비교 기준: ${comparison.beforeLabel} vs ${comparison.afterLabel}. ` : ''}1,000회 도달당 반응 수로 콘텐츠 질을 평가합니다. [모드별 비교] 전체평균: 담당이전 vs 담당이후 / 년도별: 전년도 vs 선택년도 / 월별: 전월 vs 선택월 / 주별: 전주 vs 선택주 / 일별: 전일 vs 선택일 / 기간설정: 직전 동일기간 vs 선택기간">ℹ️</span></h2>
 
       <table class="report-table">
         <thead>
-          <tr><th>지표</th><th>과거 (Before)</th><th>현재 (After)</th><th>효율 배수</th></tr>
+          <tr><th>지표</th><th>${comparison ? comparison.beforeLabel : '과거'}</th><th>${comparison ? comparison.afterLabel : '현재'}</th><th>효율 배수</th></tr>
         </thead>
         <tbody>
           <tr>
