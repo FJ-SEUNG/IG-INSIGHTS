@@ -2949,10 +2949,13 @@ async function downloadQuickReport() {
   const today = new Date();
 
   if (mode === 'all') {
-    // 전체 평균: 담당 이후 ~ 오늘
-    startDate = '2025-12-26';
+    // 전체 평균: 첫 게시물 ~ 오늘 (전체 데이터)
+    // DATA.posts에서 가장 오래된 날짜 찾기
+    const allDates = DATA.posts.map(p => parseUploadDate(p.upload_date)).filter(d => d);
+    const oldestDate = allDates.length > 0 ? new Date(Math.min(...allDates)) : new Date('2023-01-01');
+    startDate = oldestDate.toISOString().slice(0, 10);
     endDate = today.toISOString().slice(0, 10);
-    periodLabel = '전체 평균 (담당 이후)';
+    periodLabel = '전체 평균';
   } else if (mode === 'yearly') {
     // 년도별: 선택된 년도 1.1 ~ 오늘(해당 년도면) 또는 12.31(과거 년도면)
     const yearSelect = document.querySelector('#summary-period-selectors select');
