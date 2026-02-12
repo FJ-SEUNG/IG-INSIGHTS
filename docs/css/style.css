@@ -2240,7 +2240,8 @@ td.editable-field .editable-content {
   z-index: 1001;
 }
 
-.section-header {
+/* 보고서 내 섹션 헤더 (ℹ️ 아이콘 우측 정렬용) */
+.report-summary-section .section-header {
   display: flex;
   justify-content: flex-end;
   margin-bottom: -10px;
