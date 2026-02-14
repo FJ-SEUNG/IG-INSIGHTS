@@ -236,5 +236,22 @@
     "avg_engagement_rate": 5.7,
     "avg_save_rate": 1.6,
     "avg_share_rate": 1.1
+  },
+  {
+    "date": "26.02.14(토)",
+    "followers": 6600,
+    "follower_change": -2,
+    "following": 760,
+    "post_count": 317,
+    "total_reach": 9976459,
+    "total_views": 20823756,
+    "total_likes": 132186,
+    "total_saves": 82176,
+    "total_shares": 165492,
+    "total_comments": 6558,
+    "total_engagement": 386412,
+    "avg_engagement_rate": 5.7,
+    "avg_save_rate": 1.6,
+    "avg_share_rate": 1.1
   }
 ]
