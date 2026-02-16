@@ -146,26 +146,40 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
         print("⚠️ GEMINI_API_KEY not set, skipping AI generation")
         return None
 
-    prompt = f"""당신은 일본 여행 인스타그램 계정 'Flying Japan'의 콘텐츠 기획자입니다.
-다음 일본 뉴스를 바탕으로 한국인 여행자를 위한 인스타그램 콘텐츠를 기획해주세요.
+    prompt = f"""당신은 일본 여행 인스타그램 계정 'Flying Japan (@flyingjapan)'의 콘텐츠 기획자입니다.
+다음 일본 뉴스를 바탕으로 한국인 여행자를 위한 인스타그램 카드뉴스 콘텐츠를 기획해주세요.
 
 [뉴스 정보]
 제목: {news['title']}
 내용: {news['summary']}
 출처: {news['source']}
 
-[요구사항]
-1. 한국인 일본 여행자 관점에서 유용한 정보로 재구성
-2. 인스타그램에 적합한 짧고 임팩트 있는 문체
-3. 이모지를 적절히 활용
-4. 실제 여행 시 도움되는 실용적 정보 포함
+[카드뉴스 구성 - 총 5장]
+1장: 썸네일 + 메인 타이틀 (16자 이내, 임팩트 있게)
+2장: 카드1 - 제목(12자내) + 내용(50자내)
+3장: 카드2 - 제목(12자내) + 내용(50자내)
+4장: 카드3 - 제목(12자내) + 내용(50자내)
+5장: 카드4 - 제목(12자내) + 내용(50자내)
+
+[본문 구성 요구사항]
+- 첫 줄: 메인 제목 + 이모지
+- 서브타이틀 (한 줄 요약)
+- 본문 내용 (핵심 정보, 가격, 일정 등)
+- 여행자 팁/꿀팁
+- CTA (저장/공유 유도)
+- 팔로우 유도 문구 포함
 
 [응답 형식 - 반드시 JSON으로]
 {{
-  "title": "인스타그램 게시물 제목 (이모지 포함, 30자 이내)",
-  "hook": "관심을 끄는 한 줄 문구 (20자 이내)",
-  "body": "본문 내용 (줄바꿈 포함, 200-300자)",
-  "hashtags": ["#해시태그1", "#해시태그2", ... 8개],
+  "thumbnail_title": "메인 타이틀 (16자 이내, 이모지 포함)",
+  "cards": [
+    {{"title": "카드1 제목 (12자내)", "content": "카드1 내용 (50자내)"}},
+    {{"title": "카드2 제목 (12자내)", "content": "카드2 내용 (50자내)"}},
+    {{"title": "카드3 제목 (12자내)", "content": "카드3 내용 (50자내)"}},
+    {{"title": "카드4 제목 (12자내)", "content": "카드4 내용 (50자내)"}}
+  ],
+  "caption": "인스타그램 본문 전체 (위 구성 요구사항 참고, 줄바꿈 포함, 400-600자)",
+  "hashtags": ["#일본여행", "#플라잉재팬", ... 총 15개],
   "image_keyword": "이미지 검색용 영어 키워드 (예: tokyo station, osaka castle)"
 }}
 
@@ -179,7 +193,7 @@ JSON만 출력하세요. 다른 설명 없이 JSON 객체만 반환하세요."""
                 'contents': [{'parts': [{'text': prompt}]}],
                 'generationConfig': {
                     'temperature': 0.7,
-                    'maxOutputTokens': 1024,
+                    'maxOutputTokens': 2048,
                 }
             },
             timeout=30
@@ -210,10 +224,15 @@ def create_plan_from_news(news: Dict, content: Optional[Dict]) -> Dict:
     # AI 콘텐츠가 없으면 기본 템플릿 사용
     if not content:
         content = {
-            'title': f"📰 {news['title'][:30]}...",
-            'hook': '자세한 내용은 본문에서!',
-            'body': f"[뉴스 요약]\n{news['summary'][:200]}...\n\n✈️ 일본 여행 시 참고하세요!",
-            'hashtags': ['#일본여행', '#일본뉴스', '#플라잉재팬', '#여행정보', '#일본'],
+            'thumbnail_title': f"📰 {news['title'][:14]}",
+            'cards': [
+                {'title': '뉴스 요약', 'content': news['summary'][:50] if news['summary'] else '자세한 내용은 본문에서 확인하세요.'},
+                {'title': '여행자 참고', 'content': '일본 여행 시 참고하시면 좋은 정보입니다.'},
+                {'title': '추가 정보', 'content': '원문 링크에서 더 자세한 내용을 확인하세요.'},
+                {'title': '저장 필수!', 'content': '유용했다면 저장하고 친구에게 공유해주세요!'}
+            ],
+            'caption': f"📰 {news['title'][:14]}\n\n{news['summary'][:150]}...\n\n✈️ 일본 여행 시 참고하세요!\n\n📌 지금 미리 저장해두고 친구한테도 공유해 주세요!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!",
+            'hashtags': ['#일본여행', '#일본뉴스', '#플라잉재팬', '#여행정보', '#일본', '#일본여행꿀팁', '#일본현지정보', '#도쿄여행', '#오사카여행', '#후쿠오카여행', '#교토여행', '#일본맛집', '#일본카페', '#일본쇼핑', '#일본교통'],
             'image_keyword': 'japan travel'
         }
 
@@ -231,9 +250,9 @@ def create_plan_from_news(news: Dict, content: Optional[Dict]) -> Dict:
             'date': news.get('published', datetime.now().strftime('%Y-%m-%d'))
         },
         'content': {
-            'title': content.get('title', ''),
-            'hook': content.get('hook', ''),
-            'body': content.get('body', ''),
+            'thumbnail_title': content.get('thumbnail_title', ''),
+            'cards': content.get('cards', []),
+            'caption': content.get('caption', ''),
             'hashtags': content.get('hashtags', [])
         },
         'image': {

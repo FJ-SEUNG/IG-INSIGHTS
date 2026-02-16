@@ -5237,8 +5237,13 @@ function renderPlannerCard(plan) {
   const categoryLabel = categoryLabels[plan.category] || plan.category;
   const date = new Date(plan.created_at).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
 
+  // 새 형식 (카드뉴스) 또는 구 형식 지원
+  const thumbnailTitle = plan.content.thumbnail_title || plan.content.title || '';
+  const cards = plan.content.cards || [];
+  const caption = plan.content.caption || plan.content.body || '';
+
   // 본문 미리보기 (첫 100자)
-  const preview = (plan.content.body || '').substring(0, 100) + '...';
+  const preview = caption.substring(0, 100) + '...';
 
   // 해시태그 (최대 5개)
   const hashtags = (plan.content.hashtags || []).slice(0, 5);
@@ -5246,7 +5251,10 @@ function renderPlannerCard(plan) {
   const savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
   const isSaved = savedPlans.includes(plan.id);
 
-  const sourceDate = plan.source.date ? new Date(plan.source.date).toLocaleDateString('ko-KR', { year: 'numeric', month: 'short', day: 'numeric' }) : '-';
+  // 카드 미리보기 (첫 2개만)
+  const cardPreview = cards.slice(0, 2).map(card =>
+    `<div class="planner-mini-card"><strong>${card.title}</strong></div>`
+  ).join('');
 
   return `
     <div class="planner-card" data-plan-id="${plan.id}">
@@ -5258,8 +5266,8 @@ function renderPlannerCard(plan) {
         </div>
       </div>
       <div class="planner-card-body">
-        <h3 class="planner-card-title">${plan.content.title}</h3>
-        <div class="planner-card-hook">${plan.content.hook || ''}</div>
+        <h3 class="planner-card-title">${thumbnailTitle.replace(/\n/g, ' ')}</h3>
+        ${cards.length > 0 ? `<div class="planner-cards-preview">${cardPreview}<span class="more-cards">+${Math.max(0, cards.length - 2)}장</span></div>` : ''}
         <div class="planner-card-preview">${preview}</div>
         <div class="planner-card-hashtags">
           ${hashtags.map(tag => `<span>${tag}</span>`).join('')}
@@ -5392,13 +5400,20 @@ function handlePlannerAction(e) {
 }
 
 function copyPlannerContent(plan) {
-  const content = `${plan.content.title}
+  // 새 형식 (카드뉴스) 또는 구 형식 지원
+  const thumbnailTitle = plan.content.thumbnail_title || plan.content.title || '';
+  const cards = plan.content.cards || [];
+  const caption = plan.content.caption || plan.content.body || '';
+  const hashtags = plan.content.hashtags || [];
 
-${plan.content.hook}
+  // 카드뉴스 텍스트 생성
+  const cardsText = cards.length > 0
+    ? `[썸네일]\n${thumbnailTitle}\n\n` + cards.map((card, i) => `[카드${i + 1}]\n${card.title}\n${card.content}`).join('\n\n')
+    : '';
 
-${plan.content.body}
-
-${plan.content.hashtags.join(' ')}`;
+  const content = cardsText
+    ? `${cardsText}\n\n${'─'.repeat(20)}\n\n[본문]\n${caption}\n\n${hashtags.join(' ')}`
+    : `${thumbnailTitle}\n\n${caption}\n\n${hashtags.join(' ')}`;
 
   navigator.clipboard.writeText(content).then(() => {
     showToast('📋 콘텐츠가 클립보드에 복사되었습니다!');
@@ -5453,6 +5468,36 @@ function openPlannerDetail(planId) {
     event: '🎉 이벤트'
   };
 
+  // 새 형식 (카드뉴스) 또는 구 형식 지원
+  const thumbnailTitle = plan.content.thumbnail_title || plan.content.title || '';
+  const cards = plan.content.cards || [];
+  const caption = plan.content.caption || plan.content.body || '';
+
+  // 카드뉴스 HTML 생성
+  const cardsHtml = cards.length > 0 ? `
+    <div class="planner-detail-cards">
+      <h4>📑 카드뉴스 구성 (${cards.length + 1}장)</h4>
+      <div class="card-slides">
+        <div class="card-slide thumbnail">
+          <div class="card-slide-number">1</div>
+          <div class="card-slide-content">
+            <strong>썸네일</strong>
+            <p>${thumbnailTitle.replace(/\n/g, '<br>')}</p>
+          </div>
+        </div>
+        ${cards.map((card, i) => `
+          <div class="card-slide">
+            <div class="card-slide-number">${i + 2}</div>
+            <div class="card-slide-content">
+              <strong>${card.title}</strong>
+              <p>${(card.content || '').replace(/\n/g, '<br>')}</p>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  ` : '';
+
   const modal = document.createElement('div');
   modal.id = 'planner-detail-modal';
   modal.className = 'modal-overlay';
@@ -5464,11 +5509,17 @@ function openPlannerDetail(planId) {
         <button class="modal-close" id="planner-detail-close">&times;</button>
       </div>
       <div class="planner-detail-body">
-        <h2 class="planner-detail-title">${plan.content.title}</h2>
-        <p class="planner-detail-hook">${plan.content.hook || ''}</p>
-        <div class="planner-detail-content">${(plan.content.body || '').replace(/\n/g, '<br>')}</div>
-        <div class="planner-detail-hashtags">
-          ${(plan.content.hashtags || []).map(tag => `<span>${tag}</span>`).join('')}
+        <h2 class="planner-detail-title">${thumbnailTitle.replace(/\n/g, ' ')}</h2>
+        ${cardsHtml}
+        <div class="planner-detail-section">
+          <h4>📝 인스타그램 본문</h4>
+          <div class="planner-detail-caption">${caption.replace(/\n/g, '<br>')}</div>
+        </div>
+        <div class="planner-detail-section">
+          <h4>🏷️ 해시태그 (${(plan.content.hashtags || []).length}개)</h4>
+          <div class="planner-detail-hashtags">
+            ${(plan.content.hashtags || []).map(tag => `<span>${tag}</span>`).join('')}
+          </div>
         </div>
         <div class="planner-detail-images">
           <h4>🖼️ 무료 이미지 검색</h4>
@@ -5479,6 +5530,8 @@ function openPlannerDetail(planId) {
         </div>
       </div>
       <div class="planner-detail-footer">
+        <button class="btn-secondary" id="planner-copy-cards">📑 카드 텍스트 복사</button>
+        <button class="btn-secondary" id="planner-copy-caption">📝 본문만 복사</button>
         <button class="btn-primary" id="planner-detail-copy">📋 전체 복사</button>
       </div>
     </div>
@@ -5495,6 +5548,24 @@ function openPlannerDetail(planId) {
   // 복사 이벤트
   document.getElementById('planner-detail-copy').addEventListener('click', () => {
     copyPlannerContent(plan);
+  });
+
+  // 카드 텍스트만 복사
+  document.getElementById('planner-copy-cards')?.addEventListener('click', () => {
+    const cardsText = cards.length > 0
+      ? `[썸네일]\n${thumbnailTitle}\n\n` + cards.map((card, i) => `[카드${i + 1}]\n${card.title}\n${card.content}`).join('\n\n')
+      : thumbnailTitle;
+    navigator.clipboard.writeText(cardsText).then(() => {
+      showToast('📑 카드 텍스트가 복사되었습니다!');
+    });
+  });
+
+  // 본문만 복사
+  document.getElementById('planner-copy-caption')?.addEventListener('click', () => {
+    const captionText = caption + '\n\n' + (plan.content.hashtags || []).join(' ');
+    navigator.clipboard.writeText(captionText).then(() => {
+      showToast('📝 본문이 복사되었습니다!');
+    });
   });
 }
 
