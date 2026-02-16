@@ -6,7 +6,7 @@
   <title>IG INSIGHT</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link href="https://unpkg.com/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=20250212b">
+  <link rel="stylesheet" href="css/style.css?v=20250215a">
 </head>
 <body>
   <!-- Header -->
@@ -45,6 +45,7 @@
     <button class="tab-btn" data-tab="followers">팔로워</button>
     <button class="tab-btn" data-tab="category">카테고리 분석</button>
     <button class="tab-btn" data-tab="content">콘텐츠 분석</button>
+    <button class="tab-btn" data-tab="planner">콘텐츠 기획</button>
   </nav>
 
   <!-- Loading -->
@@ -334,6 +335,68 @@
       </div>
     </section>
 
+    <!-- 6. Content Planner Tab -->
+    <section id="tab-planner" class="tab-content">
+      <div class="planner-header">
+        <div class="planner-title-row">
+          <h2>📝 AI 콘텐츠 기획</h2>
+          <span class="planner-subtitle">일본 현지 이슈 기반 자동 콘텐츠 제안</span>
+        </div>
+        <div class="planner-controls">
+          <select id="planner-category-filter" class="planner-filter">
+            <option value="all">전체 카테고리</option>
+            <option value="breaking">🚨 속보/긴급</option>
+            <option value="transport">🚄 교통/규제</option>
+            <option value="season">🌸 시즌/날씨</option>
+            <option value="hotplace">📍 핫플/신규</option>
+            <option value="tips">💡 팁/에티켓</option>
+            <option value="event">🎉 이벤트/축제</option>
+          </select>
+          <select id="planner-status-filter" class="planner-filter">
+            <option value="all">전체 상태</option>
+            <option value="new">🆕 신규</option>
+            <option value="used">✅ 사용됨</option>
+            <option value="saved">⭐ 저장됨</option>
+          </select>
+          <button class="btn-refresh" id="planner-refresh-btn" title="새로운 콘텐츠 기획 생성">🔄 새로고침</button>
+        </div>
+      </div>
+
+      <div class="planner-stats">
+        <div class="planner-stat-item">
+          <span class="stat-number" id="planner-total-count">0</span>
+          <span class="stat-label">전체 기획</span>
+        </div>
+        <div class="planner-stat-item">
+          <span class="stat-number" id="planner-new-count">0</span>
+          <span class="stat-label">신규</span>
+        </div>
+        <div class="planner-stat-item">
+          <span class="stat-number" id="planner-week-count">0</span>
+          <span class="stat-label">이번 주</span>
+        </div>
+        <div class="planner-stat-item">
+          <span class="stat-number" id="planner-update-time">-</span>
+          <span class="stat-label">마지막 업데이트</span>
+        </div>
+      </div>
+
+      <div class="planner-grid" id="planner-grid">
+        <!-- 콘텐츠 카드들이 여기에 동적으로 생성됨 -->
+        <div class="planner-loading">
+          <div class="spinner"></div>
+          <p>콘텐츠 기획 데이터를 불러오는 중...</p>
+        </div>
+      </div>
+
+      <div class="planner-empty" id="planner-empty" style="display:none">
+        <div class="empty-icon">📭</div>
+        <h3>아직 콘텐츠 기획이 없습니다</h3>
+        <p>GitHub Actions가 매일 자동으로 일본 현지 이슈를 수집하고<br>AI가 콘텐츠를 기획합니다.</p>
+        <button class="btn-primary" id="planner-manual-generate">수동 생성 테스트</button>
+      </div>
+    </section>
+
   </main>
 
   <!-- Post Diagnosis Modal -->
@@ -435,6 +498,6 @@
   <script src="https://unpkg.com/tabulator-tables@6.3.0/dist/js/tabulator.min.js"></script>
   <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-  <script src="js/app.js?v=20250210k"></script>
+  <script src="js/app.js?v=20250215a"></script>
 </body>
 </html>

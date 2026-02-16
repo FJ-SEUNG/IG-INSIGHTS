@@ -5168,3 +5168,324 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
+
+// ══════════════════════════════════════════════════════════════
+// 콘텐츠 기획 탭 (Content Planner)
+// ══════════════════════════════════════════════════════════════
+
+let PLANNER_DATA = { plans: [] };
+
+async function loadPlannerData() {
+  try {
+    const response = await fetch('data/content_plans.json?t=' + Date.now());
+    if (response.ok) {
+      PLANNER_DATA = await response.json();
+      return true;
+    }
+  } catch (e) {
+    console.error('콘텐츠 기획 데이터 로드 실패:', e);
+  }
+  return false;
+}
+
+function renderPlannerTab() {
+  const grid = document.getElementById('planner-grid');
+  const emptyEl = document.getElementById('planner-empty');
+
+  if (!grid) return;
+
+  const categoryFilter = document.getElementById('planner-category-filter')?.value || 'all';
+  const statusFilter = document.getElementById('planner-status-filter')?.value || 'all';
+
+  // 필터링
+  let plans = PLANNER_DATA.plans || [];
+  if (categoryFilter !== 'all') {
+    plans = plans.filter(p => p.category === categoryFilter);
+  }
+  if (statusFilter !== 'all') {
+    plans = plans.filter(p => p.status === statusFilter);
+  }
+
+  // 통계 업데이트
+  updatePlannerStats();
+
+  if (plans.length === 0) {
+    grid.innerHTML = '';
+    if (emptyEl) emptyEl.style.display = 'flex';
+    return;
+  }
+
+  if (emptyEl) emptyEl.style.display = 'none';
+
+  // 카드 렌더링
+  grid.innerHTML = plans.map(plan => renderPlannerCard(plan)).join('');
+
+  // 이벤트 바인딩
+  bindPlannerCardEvents();
+}
+
+function renderPlannerCard(plan) {
+  const categoryLabels = {
+    breaking: '🚨 속보',
+    transport: '🚄 교통',
+    season: '🌸 시즌',
+    hotplace: '📍 핫플',
+    tips: '💡 팁',
+    event: '🎉 이벤트'
+  };
+
+  const categoryLabel = categoryLabels[plan.category] || plan.category;
+  const date = new Date(plan.created_at).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
+
+  // 본문 미리보기 (첫 100자)
+  const preview = (plan.content.body || '').substring(0, 100) + '...';
+
+  // 해시태그 (최대 5개)
+  const hashtags = (plan.content.hashtags || []).slice(0, 5);
+
+  const savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
+  const isSaved = savedPlans.includes(plan.id);
+
+  return `
+    <div class="planner-card" data-plan-id="${plan.id}">
+      <div class="planner-card-header">
+        <span class="planner-card-category ${plan.category}">${categoryLabel}</span>
+        <span class="planner-card-date">${date}</span>
+      </div>
+      <div class="planner-card-body">
+        <h3 class="planner-card-title">${plan.content.title}</h3>
+        <div class="planner-card-hook">${plan.content.hook || ''}</div>
+        <div class="planner-card-preview">${preview}</div>
+        <div class="planner-card-hashtags">
+          ${hashtags.map(tag => `<span>${tag}</span>`).join('')}
+        </div>
+      </div>
+      <div class="planner-card-footer">
+        <div class="planner-card-source">
+          <a href="${plan.source.url}" target="_blank" rel="noopener">📰 ${plan.source.title.substring(0, 20)}...</a>
+        </div>
+        <div class="planner-card-actions">
+          <button class="planner-action-btn save ${isSaved ? 'saved' : ''}" data-action="save" data-plan-id="${plan.id}">
+            ${isSaved ? '⭐ 저장됨' : '☆ 저장'}
+          </button>
+          <button class="planner-action-btn image" data-action="image" data-plan-id="${plan.id}">🖼️ 이미지</button>
+          <button class="planner-action-btn copy" data-action="copy" data-plan-id="${plan.id}">📋 복사</button>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function updatePlannerStats() {
+  const plans = PLANNER_DATA.plans || [];
+  const now = new Date();
+  const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+
+  const totalCount = plans.length;
+  const newCount = plans.filter(p => p.status === 'new').length;
+  const weekCount = plans.filter(p => new Date(p.created_at) > weekAgo).length;
+
+  const lastUpdated = PLANNER_DATA.last_updated
+    ? new Date(PLANNER_DATA.last_updated).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+    : '-';
+
+  const el = (id, val) => {
+    const e = document.getElementById(id);
+    if (e) e.textContent = val;
+  };
+
+  el('planner-total-count', totalCount);
+  el('planner-new-count', newCount);
+  el('planner-week-count', weekCount);
+  el('planner-update-time', lastUpdated);
+}
+
+function bindPlannerCardEvents() {
+  document.querySelectorAll('.planner-action-btn').forEach(btn => {
+    btn.addEventListener('click', handlePlannerAction);
+  });
+
+  document.querySelectorAll('.planner-card').forEach(card => {
+    card.addEventListener('click', (e) => {
+      if (!e.target.closest('.planner-action-btn') && !e.target.closest('a')) {
+        const planId = card.dataset.planId;
+        openPlannerDetail(planId);
+      }
+    });
+  });
+}
+
+function handlePlannerAction(e) {
+  e.stopPropagation();
+  const action = e.target.dataset.action;
+  const planId = e.target.dataset.planId;
+  const plan = PLANNER_DATA.plans.find(p => p.id === planId);
+
+  if (!plan) return;
+
+  switch(action) {
+    case 'copy':
+      copyPlannerContent(plan);
+      break;
+    case 'image':
+      openImageLinks(plan);
+      break;
+    case 'save':
+      toggleSavePlan(planId, e.target);
+      break;
+  }
+}
+
+function copyPlannerContent(plan) {
+  const content = `${plan.content.title}
+
+${plan.content.hook}
+
+${plan.content.body}
+
+${plan.content.hashtags.join(' ')}`;
+
+  navigator.clipboard.writeText(content).then(() => {
+    showToast('📋 콘텐츠가 클립보드에 복사되었습니다!');
+  }).catch(() => {
+    showToast('복사 실패 - 수동으로 복사해주세요', 'error');
+  });
+}
+
+function openImageLinks(plan) {
+  const unsplash = plan.image?.unsplash_url;
+  const pexels = plan.image?.pexels_url;
+
+  if (unsplash) {
+    window.open(unsplash, '_blank');
+  }
+  if (pexels) {
+    setTimeout(() => window.open(pexels, '_blank'), 300);
+  }
+}
+
+function toggleSavePlan(planId, btn) {
+  let savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
+
+  if (savedPlans.includes(planId)) {
+    savedPlans = savedPlans.filter(id => id !== planId);
+    btn.classList.remove('saved');
+    btn.textContent = '☆ 저장';
+    showToast('저장 목록에서 제거되었습니다');
+  } else {
+    savedPlans.push(planId);
+    btn.classList.add('saved');
+    btn.textContent = '⭐ 저장됨';
+    showToast('⭐ 저장되었습니다!');
+  }
+
+  localStorage.setItem('savedPlannerPlans', JSON.stringify(savedPlans));
+}
+
+function openPlannerDetail(planId) {
+  const plan = PLANNER_DATA.plans.find(p => p.id === planId);
+  if (!plan) return;
+
+  // 간단한 모달 대신 alert으로 전체 내용 표시 (추후 모달로 개선 가능)
+  const fullContent = `📝 ${plan.content.title}
+
+💬 ${plan.content.hook}
+
+${plan.content.body}
+
+🏷️ ${plan.content.hashtags.join(' ')}
+
+🖼️ 이미지 검색:
+- Unsplash: ${plan.image?.unsplash_url || '-'}
+- Pexels: ${plan.image?.pexels_url || '-'}
+
+📰 출처: ${plan.source.title}
+🔗 ${plan.source.url}`;
+
+  // 클립보드에 복사 후 알림
+  navigator.clipboard.writeText(fullContent).then(() => {
+    showToast('📋 전체 내용이 클립보드에 복사되었습니다!');
+  });
+}
+
+function showToast(message, type = 'success') {
+  // 기존 토스트 제거
+  document.querySelectorAll('.toast-message').forEach(t => t.remove());
+
+  const toast = document.createElement('div');
+  toast.className = 'toast-message';
+  toast.style.cssText = `
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 14px 24px;
+    background: ${type === 'error' ? '#ff5252' : '#333'};
+    color: #fff;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    z-index: 9999;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    animation: toastIn 0.3s ease;
+  `;
+  toast.textContent = message;
+  document.body.appendChild(toast);
+
+  setTimeout(() => {
+    toast.style.animation = 'toastOut 0.3s ease forwards';
+    setTimeout(() => toast.remove(), 300);
+  }, 2500);
+}
+
+// 토스트 애니메이션 CSS 추가
+const toastStyle = document.createElement('style');
+toastStyle.textContent = `
+  @keyframes toastIn {
+    from { opacity: 0; transform: translateX(-50%) translateY(20px); }
+    to { opacity: 1; transform: translateX(-50%) translateY(0); }
+  }
+  @keyframes toastOut {
+    from { opacity: 1; transform: translateX(-50%) translateY(0); }
+    to { opacity: 0; transform: translateX(-50%) translateY(20px); }
+  }
+`;
+document.head.appendChild(toastStyle);
+
+// 콘텐츠 기획 탭 초기화
+document.addEventListener('DOMContentLoaded', () => {
+  // 탭 전환 시 데이터 로드
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      if (btn.dataset.tab === 'planner') {
+        const loaded = await loadPlannerData();
+        if (loaded) {
+          renderPlannerTab();
+        }
+      }
+    });
+  });
+
+  // 필터 변경 시 재렌더링
+  document.getElementById('planner-category-filter')?.addEventListener('change', renderPlannerTab);
+  document.getElementById('planner-status-filter')?.addEventListener('change', renderPlannerTab);
+
+  // 새로고침 버튼
+  document.getElementById('planner-refresh-btn')?.addEventListener('click', async () => {
+    const btn = document.getElementById('planner-refresh-btn');
+    btn.textContent = '🔄 로딩...';
+    btn.disabled = true;
+
+    await loadPlannerData();
+    renderPlannerTab();
+
+    btn.textContent = '🔄 새로고침';
+    btn.disabled = false;
+    showToast('✅ 콘텐츠 기획이 업데이트되었습니다!');
+  });
+
+  // 수동 생성 테스트 버튼 (빈 상태에서)
+  document.getElementById('planner-manual-generate')?.addEventListener('click', () => {
+    showToast('🤖 콘텐츠 기획은 GitHub Actions로 자동 생성됩니다');
+  });
+});

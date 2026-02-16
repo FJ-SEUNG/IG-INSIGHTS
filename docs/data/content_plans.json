@@ -1,0 +1,74 @@
+{
+  "last_updated": "2025-02-15T12:00:00+09:00",
+  "plans": [
+    {
+      "id": "plan_001",
+      "created_at": "2025-02-15T10:00:00+09:00",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "오사카 도톤보리 이치란 본점 화재 발생",
+        "url": "https://news.yahoo.co.jp/example",
+        "date": "2025-02-14"
+      },
+      "content": {
+        "title": "🚨 도톤보리 이치란 본점 화재 소식",
+        "hook": "일본 여행 필수 코스였던 그곳에 무슨 일이?",
+        "body": "2월 14일 오사카 도톤보리의 이치란 본점에서 화재가 발생했습니다.\n\n📍 현재 상황\n- 화재로 인한 인명 피해 없음\n- 당분간 영업 중단 예정\n- 주변 매장은 정상 운영\n\n✈️ 여행자 참고사항\n- 도톤보리 방문 시 대체 맛집 추천\n- 난바 근처 다른 이치란 지점 안내\n\n안전한 여행 되세요! 🙏",
+        "hashtags": ["#일본여행", "#오사카여행", "#도톤보리", "#이치란", "#오사카맛집", "#일본속보", "#여행정보", "#플라잉재팬"]
+      },
+      "image": {
+        "keyword": "osaka dotonbori night",
+        "unsplash_url": "https://unsplash.com/s/photos/osaka-dotonbori",
+        "pexels_url": "https://www.pexels.com/search/osaka%20dotonbori/"
+      }
+    },
+    {
+      "id": "plan_002",
+      "created_at": "2025-02-15T10:30:00+09:00",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR패스 가격 인상 3월부터 적용",
+        "url": "https://www.jrpass.com/news",
+        "date": "2025-02-10"
+      },
+      "content": {
+        "title": "🚄 3월부터 JR패스 또 오른다!",
+        "hook": "지금 구매하면 구 가격 적용!",
+        "body": "2025년 3월 1일부터 JR패스 가격이 추가 인상됩니다.\n\n💰 변경 내용\n- 7일권: 50,000엔 → 55,000엔\n- 14일권: 80,000엔 → 88,000엔\n- 21일권: 100,000엔 → 110,000엔\n\n📅 꿀팁!\n- 2월 28일까지 구매 시 구 가격 적용\n- 교환권은 구매일로부터 3개월 유효\n\n일본 여행 계획 있다면 지금이 기회! 💨",
+        "hashtags": ["#JR패스", "#일본여행", "#일본교통", "#여행팁", "#일본철도", "#신칸센", "#알뜰여행", "#플라잉재팬"]
+      },
+      "image": {
+        "keyword": "shinkansen japan",
+        "unsplash_url": "https://unsplash.com/s/photos/shinkansen",
+        "pexels_url": "https://www.pexels.com/search/shinkansen/"
+      }
+    },
+    {
+      "id": "plan_003",
+      "created_at": "2025-02-15T11:00:00+09:00",
+      "category": "season",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "2025년 벚꽃 개화 예측 발표",
+        "url": "https://www.jma.go.jp/sakura",
+        "date": "2025-02-12"
+      },
+      "content": {
+        "title": "🌸 2025 일본 벚꽃 개화 예측 총정리",
+        "hook": "올해는 예년보다 빠르다?!",
+        "body": "일본 기상청이 2025년 벚꽃 개화 예측을 발표했습니다!\n\n📅 지역별 개화 예상일\n- 도쿄: 3월 22일\n- 오사카: 3월 26일\n- 교토: 3월 27일\n- 후쿠오카: 3월 20일\n- 삿포로: 4월 28일\n\n🎯 만개 시기 (개화 후 약 7일)\n- 도쿄: 3월 29일~4월 2일\n- 오사카: 4월 2일~6일\n\n벚꽃 여행 계획 중이라면 저장 필수! 💾",
+        "hashtags": ["#벚꽃", "#일본벚꽃", "#벚꽃여행", "#도쿄벚꽃", "#오사카벚꽃", "#교토벚꽃", "#2025벚꽃", "#플라잉재팬"]
+      },
+      "image": {
+        "keyword": "cherry blossom japan",
+        "unsplash_url": "https://unsplash.com/s/photos/cherry-blossom-japan",
+        "pexels_url": "https://www.pexels.com/search/cherry%20blossom%20japan/"
+      }
+    }
+  ]
+}
