@@ -5246,11 +5246,16 @@ function renderPlannerCard(plan) {
   const savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
   const isSaved = savedPlans.includes(plan.id);
 
+  const sourceDate = plan.source.date ? new Date(plan.source.date).toLocaleDateString('ko-KR', { year: 'numeric', month: 'short', day: 'numeric' }) : '-';
+
   return `
     <div class="planner-card" data-plan-id="${plan.id}">
       <div class="planner-card-header">
         <span class="planner-card-category ${plan.category}">${categoryLabel}</span>
-        <span class="planner-card-date">${date}</span>
+        <div class="planner-card-header-right">
+          <span class="planner-card-date">${date}</span>
+          <button class="planner-info-btn" data-action="info" data-plan-id="${plan.id}" title="출처 정보">ℹ️</button>
+        </div>
       </div>
       <div class="planner-card-body">
         <h3 class="planner-card-title">${plan.content.title}</h3>
@@ -5261,10 +5266,8 @@ function renderPlannerCard(plan) {
         </div>
       </div>
       <div class="planner-card-footer">
-        <div class="planner-card-source">
-          <a href="${plan.source.url}" target="_blank" rel="noopener">📰 ${plan.source.title.substring(0, 20)}...</a>
-        </div>
         <div class="planner-card-actions">
+          <button class="planner-action-btn detail" data-action="detail" data-plan-id="${plan.id}">📄 더보기</button>
           <button class="planner-action-btn save ${isSaved ? 'saved' : ''}" data-action="save" data-plan-id="${plan.id}">
             ${isSaved ? '⭐ 저장됨' : '☆ 저장'}
           </button>
@@ -5305,14 +5308,60 @@ function bindPlannerCardEvents() {
     btn.addEventListener('click', handlePlannerAction);
   });
 
-  document.querySelectorAll('.planner-card').forEach(card => {
-    card.addEventListener('click', (e) => {
-      if (!e.target.closest('.planner-action-btn') && !e.target.closest('a')) {
-        const planId = card.dataset.planId;
-        openPlannerDetail(planId);
-      }
-    });
+  document.querySelectorAll('.planner-info-btn').forEach(btn => {
+    btn.addEventListener('click', handlePlannerAction);
   });
+}
+
+function showSourceInfo(plan, targetBtn) {
+  // 기존 팝업 제거
+  document.querySelectorAll('.planner-source-popup').forEach(p => p.remove());
+
+  const sourceDate = plan.source.date
+    ? new Date(plan.source.date).toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' })
+    : '날짜 정보 없음';
+
+  const popup = document.createElement('div');
+  popup.className = 'planner-source-popup';
+  popup.innerHTML = `
+    <div class="source-popup-content">
+      <div class="source-popup-header">📰 출처 정보</div>
+      <div class="source-popup-item">
+        <span class="source-label">기사 제목</span>
+        <span class="source-value">${plan.source.title || '-'}</span>
+      </div>
+      <div class="source-popup-item">
+        <span class="source-label">기사 날짜</span>
+        <span class="source-value">${sourceDate}</span>
+      </div>
+      <div class="source-popup-item">
+        <span class="source-label">원문 링크</span>
+        <a href="${plan.source.url}" target="_blank" rel="noopener" class="source-link">🔗 원문 보기</a>
+      </div>
+      <div class="source-popup-item">
+        <span class="source-label">기획 생성일</span>
+        <span class="source-value">${new Date(plan.created_at).toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' })}</span>
+      </div>
+    </div>
+  `;
+
+  // 위치 계산
+  const rect = targetBtn.getBoundingClientRect();
+  popup.style.position = 'fixed';
+  popup.style.top = `${rect.bottom + 8}px`;
+  popup.style.left = `${rect.left - 150}px`;
+  popup.style.zIndex = '9999';
+
+  document.body.appendChild(popup);
+
+  // 클릭 외부 시 닫기
+  const closePopup = (e) => {
+    if (!popup.contains(e.target) && e.target !== targetBtn) {
+      popup.remove();
+      document.removeEventListener('click', closePopup);
+    }
+  };
+  setTimeout(() => document.addEventListener('click', closePopup), 100);
 }
 
 function handlePlannerAction(e) {
@@ -5324,6 +5373,12 @@ function handlePlannerAction(e) {
   if (!plan) return;
 
   switch(action) {
+    case 'detail':
+      openPlannerDetail(planId);
+      break;
+    case 'info':
+      showSourceInfo(plan, e.target);
+      break;
     case 'copy':
       copyPlannerContent(plan);
       break;
@@ -5386,25 +5441,60 @@ function openPlannerDetail(planId) {
   const plan = PLANNER_DATA.plans.find(p => p.id === planId);
   if (!plan) return;
 
-  // 간단한 모달 대신 alert으로 전체 내용 표시 (추후 모달로 개선 가능)
-  const fullContent = `📝 ${plan.content.title}
+  // 기존 모달 제거
+  document.getElementById('planner-detail-modal')?.remove();
 
-💬 ${plan.content.hook}
+  const categoryLabels = {
+    breaking: '🚨 속보',
+    transport: '🚄 교통',
+    season: '🌸 시즌',
+    hotplace: '📍 핫플',
+    tips: '💡 팁',
+    event: '🎉 이벤트'
+  };
 
-${plan.content.body}
+  const modal = document.createElement('div');
+  modal.id = 'planner-detail-modal';
+  modal.className = 'modal-overlay';
+  modal.style.display = 'flex';
+  modal.innerHTML = `
+    <div class="planner-detail-modal-content">
+      <div class="planner-detail-header">
+        <span class="planner-card-category ${plan.category}">${categoryLabels[plan.category] || plan.category}</span>
+        <button class="modal-close" id="planner-detail-close">&times;</button>
+      </div>
+      <div class="planner-detail-body">
+        <h2 class="planner-detail-title">${plan.content.title}</h2>
+        <p class="planner-detail-hook">${plan.content.hook || ''}</p>
+        <div class="planner-detail-content">${(plan.content.body || '').replace(/\n/g, '<br>')}</div>
+        <div class="planner-detail-hashtags">
+          ${(plan.content.hashtags || []).map(tag => `<span>${tag}</span>`).join('')}
+        </div>
+        <div class="planner-detail-images">
+          <h4>🖼️ 무료 이미지 검색</h4>
+          <div class="planner-image-links">
+            <a href="${plan.image?.unsplash_url || '#'}" target="_blank" rel="noopener">📷 Unsplash에서 검색</a>
+            <a href="${plan.image?.pexels_url || '#'}" target="_blank" rel="noopener">📷 Pexels에서 검색</a>
+          </div>
+        </div>
+      </div>
+      <div class="planner-detail-footer">
+        <button class="btn-primary" id="planner-detail-copy">📋 전체 복사</button>
+      </div>
+    </div>
+  `;
 
-🏷️ ${plan.content.hashtags.join(' ')}
+  document.body.appendChild(modal);
 
-🖼️ 이미지 검색:
-- Unsplash: ${plan.image?.unsplash_url || '-'}
-- Pexels: ${plan.image?.pexels_url || '-'}
+  // 닫기 이벤트
+  document.getElementById('planner-detail-close').addEventListener('click', () => modal.remove());
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) modal.remove();
+  });
 
-📰 출처: ${plan.source.title}
-🔗 ${plan.source.url}`;
-
-  // 클립보드에 복사 후 알림
-  navigator.clipboard.writeText(fullContent).then(() => {
-    showToast('📋 전체 내용이 클립보드에 복사되었습니다!');
+  // 복사 이벤트
+  document.getElementById('planner-detail-copy').addEventListener('click', () => {
+    copyPlannerContent(plan);
   });
 }
 

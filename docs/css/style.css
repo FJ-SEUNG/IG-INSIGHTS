@@ -2709,37 +2709,101 @@ td.editable-field .editable-content {
   border-radius: 4px;
 }
 
+.planner-card-header-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.planner-info-btn {
+  background: none;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 2px;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.planner-info-btn:hover {
+  opacity: 1;
+}
+
 .planner-card-footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   padding: 12px 16px;
   background: #fafbfc;
   border-top: 1px solid var(--border);
 }
 
-.planner-card-source {
-  font-size: 11px;
-  color: var(--text2);
-  max-width: 150px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.planner-card-source a {
-  color: var(--text2);
-  text-decoration: none;
-}
-
-.planner-card-source a:hover {
-  color: var(--fj-primary);
-  text-decoration: underline;
-}
-
 .planner-card-actions {
   display: flex;
   gap: 8px;
+  flex-wrap: wrap;
+}
+
+/* 출처 정보 팝업 */
+.planner-source-popup {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+  min-width: 280px;
+  animation: popupFadeIn 0.15s ease;
+}
+
+@keyframes popupFadeIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.source-popup-content {
+  padding: 16px;
+}
+
+.source-popup-header {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.source-popup-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.source-popup-item:last-child {
+  margin-bottom: 0;
+}
+
+.source-label {
+  font-size: 11px;
+  color: var(--text2);
+  font-weight: 500;
+}
+
+.source-value {
+  font-size: 13px;
+  color: var(--text);
+  line-height: 1.4;
+}
+
+.source-link {
+  font-size: 13px;
+  color: var(--fj-primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.source-link:hover {
+  text-decoration: underline;
 }
 
 .planner-action-btn {
@@ -2817,7 +2881,7 @@ td.editable-field .editable-content {
 }
 
 /* 콘텐츠 상세 모달 */
-.planner-modal-content {
+.planner-detail-modal-content {
   max-width: 600px;
   width: 95%;
   max-height: 90vh;
@@ -2825,18 +2889,91 @@ td.editable-field .editable-content {
   background: #fff;
   border-radius: 16px;
   box-shadow: var(--shadow-lg);
+  animation: modalSlideIn 0.2s ease;
 }
 
-.planner-modal-header {
+@keyframes modalSlideIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.planner-detail-header {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
-  padding: 20px 24px;
+  align-items: center;
+  padding: 16px 20px;
   border-bottom: 1px solid var(--border);
+  background: linear-gradient(135deg, #f8faff 0%, #fff 100%);
 }
 
-.planner-modal-body {
+.planner-detail-body {
   padding: 24px;
+}
+
+.planner-detail-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+.planner-detail-hook {
+  font-size: 15px;
+  color: var(--fj-primary);
+  font-weight: 600;
+  margin: 0 0 20px 0;
+}
+
+.planner-detail-content {
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--text);
+  background: #f8fafc;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.planner-detail-hashtags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.planner-detail-hashtags span {
+  font-size: 13px;
+  color: var(--fj-primary);
+  background: rgba(45, 85, 255, 0.1);
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
+.planner-detail-images h4 {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 12px 0;
+}
+
+.planner-detail-footer {
+  padding: 16px 24px;
+  border-top: 1px solid var(--border);
+  background: #fafbfc;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.planner-action-btn.detail {
+  background: #f0f4ff;
+  color: var(--fj-primary);
+  border: 1px solid rgba(45, 85, 255, 0.2);
+}
+
+.planner-action-btn.detail:hover {
+  background: var(--fj-primary);
+  color: #fff;
 }
 
 .planner-content-full {
