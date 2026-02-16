@@ -62,7 +62,8 @@ TRAVEL_KEYWORDS = [
 ]
 
 OUTPUT_PATH = 'docs/data/content_plans.json'
-MAX_PLANS = 15  # 최대 보관할 기획 수
+DAILY_GENERATE = 2   # 하루 생성 개수
+MAX_PLANS = 14       # 최대 보관 (7일 x 2개 = 14개)
 
 # ═══════════════════════════════════════════════════════════════
 # RSS 뉴스 수집
@@ -273,9 +274,14 @@ def main():
     all_news = fetch_rss_news()
     travel_news = filter_travel_related(all_news)
 
-    # 3. 새 기획 생성 (최대 5개/일)
+    # 3. 새 기획 생성 (하루 DAILY_GENERATE개)
     new_plans = []
-    for news in travel_news[:5]:
+    generated_count = 0
+
+    for news in travel_news:
+        if generated_count >= DAILY_GENERATE:
+            break
+
         plan_id = f"plan_{hashlib.md5(news['title'].encode()).hexdigest()[:8]}"
 
         if plan_id in existing_ids:
@@ -286,6 +292,7 @@ def main():
         content = generate_content_with_gemma(news)
         plan = create_plan_from_news(news, content)
         new_plans.append(plan)
+        generated_count += 1
 
         # API 레이트 리밋 방지
         import time
