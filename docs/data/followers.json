@@ -96,5 +96,33 @@
     "following": 759,
     "daily_change": null,
     "cumulative_change": null
+  },
+  {
+    "date": "26.02.14(토)",
+    "followers": 6600,
+    "following": 760,
+    "daily_change": null,
+    "cumulative_change": null
+  },
+  {
+    "date": "26.02.15(일)",
+    "followers": 6606,
+    "following": 760,
+    "daily_change": null,
+    "cumulative_change": null
+  },
+  {
+    "date": "26.02.16(월)",
+    "followers": 6608,
+    "following": 760,
+    "daily_change": null,
+    "cumulative_change": null
+  },
+  {
+    "date": "26.02.17(화)",
+    "followers": 6611,
+    "following": 760,
+    "daily_change": null,
+    "cumulative_change": null
   }
 ]
