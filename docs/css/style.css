@@ -2594,7 +2594,6 @@ td.editable-field .editable-content {
 .planner-list-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   padding: 10px 18px;
   background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
   border: 1px solid var(--border);
@@ -2605,36 +2604,36 @@ td.editable-field .editable-content {
   color: var(--text2);
 }
 
-.planner-header-left {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  flex: 1;
-}
-
-.planner-header-right {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.planner-header-col {
+/* 공통 컬럼 스타일 */
+.planner-col {
+  flex-shrink: 0;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.planner-header-col.category { width: 70px; text-align: left; }
-.planner-header-col.title { flex: 1; text-align: left; }
-.planner-header-col.status { width: 50px; }
-.planner-header-col.date { width: 55px; }
-.planner-header-col.cards { width: 40px; }
-.planner-header-col.impact { width: 40px; }
-.planner-header-col.actions { width: 150px; text-align: right; }
+.planner-col.col-category { width: 80px; justify-content: flex-start; }
+.planner-col.col-content { flex: 1; min-width: 0; justify-content: flex-start; padding-right: 16px; flex-direction: column; align-items: flex-start; }
+.planner-col.col-status { width: 60px; }
+.planner-col.col-date { width: 55px; font-size: 12px; color: var(--text2); }
+.planner-col.col-cards { width: 45px; font-size: 12px; color: var(--fj-primary); }
+.planner-col.col-impact { width: 45px; }
+.planner-col.col-actions { width: 170px; justify-content: flex-end; gap: 4px; }
+
+/* 헤더의 컬럼은 텍스트만 */
+.planner-list-header .planner-col {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text2);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
 
 /* 목록 형태 아이템 */
 .planner-list-item {
   display: flex;
   align-items: center;
-  gap: 16px;
   padding: 14px 18px;
   background: #fff;
   border: 1px solid var(--border);
@@ -2645,14 +2644,6 @@ td.editable-field .editable-content {
 .planner-list-item:hover {
   border-color: var(--fj-primary);
   box-shadow: 0 2px 8px rgba(45, 85, 255, 0.1);
-}
-
-.planner-list-left {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  flex: 1;
-  min-width: 0;
 }
 
 .planner-list-category {
@@ -3514,9 +3505,86 @@ td.editable-field .editable-content {
   border-top: 1px solid var(--border);
   background: #fafbfc;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.planner-detail-footer .footer-left {
+  display: flex;
+  gap: 8px;
+}
+
+.planner-detail-footer .footer-right {
+  display: flex;
   gap: 8px;
   flex-wrap: wrap;
+}
+
+/* 편집 textarea/input 스타일 */
+.edit-textarea,
+.edit-input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-family: inherit;
+  line-height: 1.6;
+  color: var(--text);
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  resize: vertical;
+  transition: border-color 0.2s;
+}
+
+.edit-textarea:focus,
+.edit-input:focus {
+  outline: none;
+  border-color: var(--fj-primary);
+  box-shadow: 0 0 0 3px rgba(45, 85, 255, 0.1);
+}
+
+.edit-thumbnail {
+  min-height: 50px;
+}
+
+.edit-card-title {
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.edit-card-content {
+  min-height: 60px;
+}
+
+.edit-caption {
+  min-height: 200px;
+}
+
+.edit-hashtags {
+  min-height: 60px;
+  font-size: 12px;
+  color: var(--fj-primary);
+}
+
+/* 저장 버튼 */
+.btn-save {
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #16a34a, #22c55e);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 2px 8px rgba(22, 163, 74, 0.3);
+}
+
+.btn-save:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(22, 163, 74, 0.4);
 }
 
 .btn-secondary {
