@@ -5217,8 +5217,24 @@ function renderPlannerTab() {
 
   if (emptyEl) emptyEl.style.display = 'none';
 
-  // 카드 렌더링 (로딩 UI 대체)
-  grid.innerHTML = plans.map(plan => renderPlannerCard(plan)).join('');
+  // 헤더 + 카드 렌더링
+  const headerHtml = `
+    <div class="planner-list-header">
+      <div class="planner-header-left">
+        <span class="planner-header-col category">카테고리</span>
+        <span class="planner-header-col title">콘텐츠 제목 / 매력 포인트</span>
+      </div>
+      <div class="planner-header-right">
+        <span class="planner-header-col status">상태</span>
+        <span class="planner-header-col date">생성일</span>
+        <span class="planner-header-col cards">카드수</span>
+        <span class="planner-header-col impact">영향도</span>
+        <span class="planner-header-col actions">관리</span>
+      </div>
+    </div>
+  `;
+
+  grid.innerHTML = headerHtml + plans.map(plan => renderPlannerCard(plan)).join('');
 
   // 이벤트 바인딩
   bindPlannerCardEvents();
@@ -5701,12 +5717,21 @@ document.addEventListener('DOMContentLoaded', () => {
       if (btn.dataset.tab === 'planner') {
         // 로딩 표시
         const grid = document.getElementById('planner-grid');
-        if (grid && !PLANNER_DATA.plans?.length) {
+        if (grid) {
           grid.innerHTML = `<div class="planner-loading"><div class="spinner"></div><p>콘텐츠 기획 데이터를 불러오는 중...</p></div>`;
         }
+
+        // 항상 데이터 새로 로드
         const loaded = await loadPlannerData();
-        if (loaded) {
+        if (loaded && PLANNER_DATA.plans?.length > 0) {
           renderPlannerTab();
+        } else if (loaded && (!PLANNER_DATA.plans || PLANNER_DATA.plans.length === 0)) {
+          // 데이터는 로드됐지만 plans가 비어있음
+          if (grid) {
+            grid.innerHTML = '';
+          }
+          const emptyEl = document.getElementById('planner-empty');
+          if (emptyEl) emptyEl.style.display = 'flex';
         } else {
           // 로드 실패 시 에러 표시
           if (grid) {
