@@ -5769,6 +5769,28 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('planner-restore-btn')?.addEventListener('click', () => {
     showHiddenPlansModal();
   });
+
+  // URL hash가 #planner인 경우 자동 로드 (직접 접속 시)
+  if (window.location.hash === '#planner') {
+    setTimeout(async () => {
+      const grid = document.getElementById('planner-grid');
+      if (grid) {
+        grid.innerHTML = `<div class="planner-loading"><div class="spinner"></div><p>콘텐츠 기획 데이터를 불러오는 중...</p></div>`;
+      }
+      const loaded = await loadPlannerData();
+      if (loaded && PLANNER_DATA.plans?.length > 0) {
+        renderPlannerTab();
+      } else if (loaded) {
+        if (grid) grid.innerHTML = '';
+        const emptyEl = document.getElementById('planner-empty');
+        if (emptyEl) emptyEl.style.display = 'flex';
+      } else {
+        if (grid) {
+          grid.innerHTML = `<div class="planner-loading"><p>❌ 데이터 로드에 실패했습니다. 새로고침을 눌러주세요.</p></div>`;
+        }
+      }
+    }, 100);
+  }
 });
 
 // 숨긴 항목 복원 모달
