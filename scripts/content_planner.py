@@ -169,54 +169,60 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
         return None
 
     prompt = f"""당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
+목표: 한국에서 일본으로 여행 오는 한국인 여행자에게 실질적으로 도움이 되는 정보만 콘텐츠로 제작합니다.
+
+⚠️ 중요 규칙:
+1. 반드시 "일본 여행"과 직접 관련된 이슈만 콘텐츠로 만드세요
+2. 모든 콘텐츠는 반드시 "한국어"로 작성하세요 (일본어 사용 금지)
+3. 일본이 아닌 다른 나라(이탈리아, 미국 등) 관련 내용은 절대 제작하지 마세요
 
 [뉴스 정보]
 제목: {news['title']}
 내용: {news['summary']}
 출처: {news['source']}
 
-[중요] 먼저 이 뉴스가 한국인 여행자에게 적합한지 판단하세요.
+[판단 기준]
 
 ✅ 적합한 이슈 (콘텐츠로 만들어야 함):
-- 여행 일정/예산/안전/교통/입장권/쇼핑/환전/숙소에 영향을 주는 정보
-- 맛집/신규오픈/예약/규제 변화
-- 축제/이벤트/시즌 정보
-- 일본 현지에서 화제가 되어 관광객에게 영향을 줄 이슈
+- 일본 맛집/카페/편의점 신상품/한정메뉴 출시
+- 일본 교통 정보 (JR패스, 지하철, 운휴, 지연)
+- 일본 관광지 규제/입장료/예약 변경
+- 일본 축제/이벤트/시즌 정보 (벚꽃, 단풍, 불꽃축제)
+- 일본 쇼핑 (면세, 할인, 신규 오픈)
+- 일본 숙소/환전/입국 관련 정보
+- 일본 날씨/재해/안전 정보
 
-❌ 부적합한 이슈 (콘텐츠로 만들지 말 것):
-- 올림픽/월드컵/스포츠 경기 결과, 메달 소식
-- 일본 정치권 논쟁, 국회 이슈, 외교 갈등
-- 연예인 스캔들, 방송 시청률
-- 여행과 무관한 기업 실적/주가
-- 한국 여행자가 체감하기 어려운 사회 이슈
+❌ 부적합한 이슈 (반드시 skip 처리):
+- 올림픽/월드컵/스포츠 경기 결과, 메달 소식 (피겨스케이팅, 스키점프 등 모두 포함)
+- 일본이 아닌 다른 나라 이야기 (이탈리아, 밀라노, 코르티나 등)
+- 일본 정치/국회/외교/선거
+- 일본 연예인/방송/드라마
+- 일본 기업 실적/주가
+- 한국인 여행자가 일본에서 체감할 수 없는 이슈
 
-만약 부적합한 이슈라면:
-{{"skip": true, "reason": "부적합 사유"}}
+[응답 형식]
 
-적합한 이슈라면 아래 형식으로 콘텐츠를 기획하세요:
+부적합하면:
+{{"skip": true, "reason": "스킵 사유"}}
 
-[카드뉴스 구성 - 총 5장]
-1장: 썸네일 + 메인 타이틀 (16자 이내)
-2-5장: 카드 제목(12자내) + 내용(50자내)
-
-[응답 형식 - JSON]
+적합하면 (반드시 한국어로 작성):
 {{
   "skip": false,
   "relevance": {{
-    "impact": "상/중/하 (여행자 영향도)",
-    "interest": "상/중/하 (저장/공유 가능성)",
-    "appeal": "콘텐츠 매력 포인트 한 줄"
+    "impact": "상/중/하",
+    "interest": "상/중/하",
+    "appeal": "매력 포인트 한 줄 (한국어)"
   }},
-  "thumbnail_title": "메인 타이틀 (16자 이내, 이모지 포함)",
+  "thumbnail_title": "메인 타이틀 16자 이내 (한국어, 이모지 포함)",
   "cards": [
-    {{"title": "카드1 제목", "content": "카드1 내용"}},
-    {{"title": "카드2 제목", "content": "카드2 내용"}},
-    {{"title": "카드3 제목", "content": "카드3 내용"}},
-    {{"title": "카드4 제목", "content": "카드4 내용"}}
+    {{"title": "카드1 제목 12자내 (한국어)", "content": "카드1 내용 50자내 (한국어)"}},
+    {{"title": "카드2 제목 (한국어)", "content": "카드2 내용 (한국어)"}},
+    {{"title": "카드3 제목 (한국어)", "content": "카드3 내용 (한국어)"}},
+    {{"title": "카드4 제목 (한국어)", "content": "카드4 내용 (한국어)"}}
   ],
-  "caption": "인스타그램 본문 (400-600자, @flyingjapan 팔로우 유도 포함)",
+  "caption": "인스타그램 본문 400-600자 (한국어, @flyingjapan 팔로우 유도 포함)",
   "hashtags": ["#일본여행", "#플라잉재팬", ... 총 15개],
-  "image_keyword": "이미지 검색용 영어 키워드"
+  "image_keyword": "영어 키워드"
 }}
 
 JSON만 출력하세요."""
@@ -256,25 +262,10 @@ JSON만 출력하세요."""
 
     return None
 
-def create_plan_from_news(news: Dict, content: Optional[Dict]) -> Dict:
-    """뉴스와 AI 콘텐츠로 기획 객체 생성"""
+def create_plan_from_news(news: Dict, content: Dict) -> Dict:
+    """뉴스와 AI 콘텐츠로 기획 객체 생성 (content는 반드시 유효한 AI 응답이어야 함)"""
     category = categorize_news(news)
     plan_id = f"plan_{hashlib.md5(news['title'].encode()).hexdigest()[:8]}"
-
-    # AI 콘텐츠가 없으면 기본 템플릿 사용
-    if not content:
-        content = {
-            'thumbnail_title': f"📰 {news['title'][:14]}",
-            'cards': [
-                {'title': '뉴스 요약', 'content': news['summary'][:50] if news['summary'] else '자세한 내용은 본문에서 확인하세요.'},
-                {'title': '여행자 참고', 'content': '일본 여행 시 참고하시면 좋은 정보입니다.'},
-                {'title': '추가 정보', 'content': '원문 링크에서 더 자세한 내용을 확인하세요.'},
-                {'title': '저장 필수!', 'content': '유용했다면 저장하고 친구에게 공유해주세요!'}
-            ],
-            'caption': f"📰 {news['title'][:14]}\n\n{news['summary'][:150]}...\n\n✈️ 일본 여행 시 참고하세요!\n\n📌 지금 미리 저장해두고 친구한테도 공유해 주세요!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!",
-            'hashtags': ['#일본여행', '#일본뉴스', '#플라잉재팬', '#여행정보', '#일본', '#일본여행꿀팁', '#일본현지정보', '#도쿄여행', '#오사카여행', '#후쿠오카여행', '#교토여행', '#일본맛집', '#일본카페', '#일본쇼핑', '#일본교통'],
-            'image_keyword': 'japan travel'
-        }
 
     image_keyword = content.get('image_keyword', 'japan travel')
 
@@ -357,6 +348,12 @@ def main():
 
         print(f"🤖 Generating content for: {news['title'][:40]}...")
         content = generate_content_with_gemma(news)
+
+        # AI가 skip (None 반환) 하면 plan 생성하지 않음
+        if content is None:
+            print(f"⏭️ Not creating plan (AI skipped or no API key)")
+            continue
+
         plan = create_plan_from_news(news, content)
         new_plans.append(plan)
         generated_count += 1
