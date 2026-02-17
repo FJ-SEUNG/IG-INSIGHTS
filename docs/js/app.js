@@ -5244,54 +5244,50 @@ function renderPlannerCard(plan) {
     event: '🎉 이벤트'
   };
 
+  const priorityLabels = {
+    high: '⬆️ 상',
+    medium: '➡️ 중',
+    low: '⬇️ 하'
+  };
+
   const categoryLabel = categoryLabels[plan.category] || plan.category;
   const date = new Date(plan.created_at).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
 
   // 새 형식 (카드뉴스) 또는 구 형식 지원
   const thumbnailTitle = plan.content.thumbnail_title || plan.content.title || '';
   const cards = plan.content.cards || [];
-  const caption = plan.content.caption || plan.content.body || '';
 
-  // 본문 미리보기 (첫 100자)
-  const preview = caption.substring(0, 100) + '...';
-
-  // 해시태그 (최대 5개)
-  const hashtags = (plan.content.hashtags || []).slice(0, 5);
+  // relevance 정보
+  const relevance = plan.relevance || {};
+  const appeal = relevance.appeal || '';
 
   const savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
   const isSaved = savedPlans.includes(plan.id);
+  const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+  if (hiddenPlans.includes(plan.id)) return ''; // 숨긴 항목은 렌더링 안 함
 
-  // 카드 미리보기 (첫 2개만)
-  const cardPreview = cards.slice(0, 2).map(card =>
-    `<div class="planner-mini-card"><strong>${card.title}</strong></div>`
-  ).join('');
-
+  // 목록(리스트) 형태 UI
   return `
-    <div class="planner-card" data-plan-id="${plan.id}">
-      <div class="planner-card-header">
-        <span class="planner-card-category ${plan.category}">${categoryLabel}</span>
-        <div class="planner-card-header-right">
-          <span class="planner-card-date">${date}</span>
-          <button class="planner-info-btn" data-action="info" data-plan-id="${plan.id}" title="출처 정보">ℹ️</button>
+    <div class="planner-list-item" data-plan-id="${plan.id}">
+      <div class="planner-list-left">
+        <span class="planner-list-category ${plan.category}">${categoryLabel}</span>
+        <div class="planner-list-content">
+          <h4 class="planner-list-title">${thumbnailTitle.replace(/\n/g, ' ')}</h4>
+          ${appeal ? `<p class="planner-list-appeal">${appeal}</p>` : ''}
         </div>
       </div>
-      <div class="planner-card-body">
-        <h3 class="planner-card-title">${thumbnailTitle.replace(/\n/g, ' ')}</h3>
-        ${cards.length > 0 ? `<div class="planner-cards-preview">${cardPreview}<span class="more-cards">+${Math.max(0, cards.length - 2)}장</span></div>` : ''}
-        <div class="planner-card-preview">${preview}</div>
-        <div class="planner-card-hashtags">
-          ${hashtags.map(tag => `<span>${tag}</span>`).join('')}
-        </div>
+      <div class="planner-list-meta">
+        <span class="planner-list-date">${date}</span>
+        <span class="planner-list-cards">${cards.length + 1}장</span>
+        ${relevance.impact ? `<span class="planner-list-impact impact-${relevance.impact}">${relevance.impact}</span>` : ''}
       </div>
-      <div class="planner-card-footer">
-        <div class="planner-card-actions">
-          <button class="planner-action-btn detail" data-action="detail" data-plan-id="${plan.id}">📄 더보기</button>
-          <button class="planner-action-btn save ${isSaved ? 'saved' : ''}" data-action="save" data-plan-id="${plan.id}">
-            ${isSaved ? '⭐ 저장됨' : '☆ 저장'}
-          </button>
-          <button class="planner-action-btn image" data-action="image" data-plan-id="${plan.id}">🖼️ 이미지</button>
-          <button class="planner-action-btn copy" data-action="copy" data-plan-id="${plan.id}">📋 복사</button>
-        </div>
+      <div class="planner-list-actions">
+        <button class="planner-action-btn detail" data-action="detail" data-plan-id="${plan.id}" title="상세보기">📄</button>
+        <button class="planner-action-btn copy" data-action="copy" data-plan-id="${plan.id}" title="복사">📋</button>
+        <button class="planner-action-btn save ${isSaved ? 'saved' : ''}" data-action="save" data-plan-id="${plan.id}" title="저장">
+          ${isSaved ? '⭐' : '☆'}
+        </button>
+        <button class="planner-action-btn hide" data-action="hide" data-plan-id="${plan.id}" title="숨기기">✕</button>
       </div>
     </div>
   `;
@@ -5406,7 +5402,28 @@ function handlePlannerAction(e) {
     case 'save':
       toggleSavePlan(planId, e.target);
       break;
+    case 'hide':
+      hidePlan(planId);
+      break;
   }
+}
+
+function hidePlan(planId) {
+  let hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+  if (!hiddenPlans.includes(planId)) {
+    hiddenPlans.push(planId);
+    localStorage.setItem('hiddenPlannerPlans', JSON.stringify(hiddenPlans));
+  }
+  // 해당 항목 DOM에서 제거
+  const item = document.querySelector(`.planner-list-item[data-plan-id="${planId}"]`);
+  if (item) {
+    item.style.animation = 'fadeOut 0.3s ease';
+    setTimeout(() => {
+      item.remove();
+      updatePlannerStats();
+    }, 300);
+  }
+  showToast('✕ 목록에서 숨겼습니다');
 }
 
 function copyPlannerContent(plan) {
@@ -5668,5 +5685,19 @@ document.addEventListener('DOMContentLoaded', () => {
   // 수동 생성 테스트 버튼 (빈 상태에서)
   document.getElementById('planner-manual-generate')?.addEventListener('click', () => {
     showToast('🤖 콘텐츠 기획은 GitHub Actions로 자동 생성됩니다');
+  });
+
+  // 숨긴 항목 복원 버튼
+  document.getElementById('planner-restore-btn')?.addEventListener('click', () => {
+    const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+    if (hiddenPlans.length === 0) {
+      showToast('숨긴 항목이 없습니다');
+      return;
+    }
+    if (confirm(`숨긴 ${hiddenPlans.length}개 항목을 모두 복원하시겠습니까?`)) {
+      localStorage.removeItem('hiddenPlannerPlans');
+      renderPlannerTab();
+      showToast(`👁️ ${hiddenPlans.length}개 항목이 복원되었습니다`);
+    }
   });
 });

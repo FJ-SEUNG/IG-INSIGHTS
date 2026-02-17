@@ -168,44 +168,58 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
         print("⚠️ GEMINI_API_KEY not set, skipping AI generation")
         return None
 
-    prompt = f"""당신은 일본 여행 인스타그램 계정 'Flying Japan (@flyingjapan)'의 콘텐츠 기획자입니다.
-다음 일본 뉴스를 바탕으로 한국인 여행자를 위한 인스타그램 카드뉴스 콘텐츠를 기획해주세요.
+    prompt = f"""당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
 
 [뉴스 정보]
 제목: {news['title']}
 내용: {news['summary']}
 출처: {news['source']}
 
+[중요] 먼저 이 뉴스가 한국인 여행자에게 적합한지 판단하세요.
+
+✅ 적합한 이슈 (콘텐츠로 만들어야 함):
+- 여행 일정/예산/안전/교통/입장권/쇼핑/환전/숙소에 영향을 주는 정보
+- 맛집/신규오픈/예약/규제 변화
+- 축제/이벤트/시즌 정보
+- 일본 현지에서 화제가 되어 관광객에게 영향을 줄 이슈
+
+❌ 부적합한 이슈 (콘텐츠로 만들지 말 것):
+- 올림픽/월드컵/스포츠 경기 결과, 메달 소식
+- 일본 정치권 논쟁, 국회 이슈, 외교 갈등
+- 연예인 스캔들, 방송 시청률
+- 여행과 무관한 기업 실적/주가
+- 한국 여행자가 체감하기 어려운 사회 이슈
+
+만약 부적합한 이슈라면:
+{{"skip": true, "reason": "부적합 사유"}}
+
+적합한 이슈라면 아래 형식으로 콘텐츠를 기획하세요:
+
 [카드뉴스 구성 - 총 5장]
-1장: 썸네일 + 메인 타이틀 (16자 이내, 임팩트 있게)
-2장: 카드1 - 제목(12자내) + 내용(50자내)
-3장: 카드2 - 제목(12자내) + 내용(50자내)
-4장: 카드3 - 제목(12자내) + 내용(50자내)
-5장: 카드4 - 제목(12자내) + 내용(50자내)
+1장: 썸네일 + 메인 타이틀 (16자 이내)
+2-5장: 카드 제목(12자내) + 내용(50자내)
 
-[본문 구성 요구사항]
-- 첫 줄: 메인 제목 + 이모지
-- 서브타이틀 (한 줄 요약)
-- 본문 내용 (핵심 정보, 가격, 일정 등)
-- 여행자 팁/꿀팁
-- CTA (저장/공유 유도)
-- 팔로우 유도 문구 포함
-
-[응답 형식 - 반드시 JSON으로]
+[응답 형식 - JSON]
 {{
+  "skip": false,
+  "relevance": {{
+    "impact": "상/중/하 (여행자 영향도)",
+    "interest": "상/중/하 (저장/공유 가능성)",
+    "appeal": "콘텐츠 매력 포인트 한 줄"
+  }},
   "thumbnail_title": "메인 타이틀 (16자 이내, 이모지 포함)",
   "cards": [
-    {{"title": "카드1 제목 (12자내)", "content": "카드1 내용 (50자내)"}},
-    {{"title": "카드2 제목 (12자내)", "content": "카드2 내용 (50자내)"}},
-    {{"title": "카드3 제목 (12자내)", "content": "카드3 내용 (50자내)"}},
-    {{"title": "카드4 제목 (12자내)", "content": "카드4 내용 (50자내)"}}
+    {{"title": "카드1 제목", "content": "카드1 내용"}},
+    {{"title": "카드2 제목", "content": "카드2 내용"}},
+    {{"title": "카드3 제목", "content": "카드3 내용"}},
+    {{"title": "카드4 제목", "content": "카드4 내용"}}
   ],
-  "caption": "인스타그램 본문 전체 (위 구성 요구사항 참고, 줄바꿈 포함, 400-600자)",
+  "caption": "인스타그램 본문 (400-600자, @flyingjapan 팔로우 유도 포함)",
   "hashtags": ["#일본여행", "#플라잉재팬", ... 총 15개],
-  "image_keyword": "이미지 검색용 영어 키워드 (예: tokyo station, osaka castle)"
+  "image_keyword": "이미지 검색용 영어 키워드"
 }}
 
-JSON만 출력하세요. 다른 설명 없이 JSON 객체만 반환하세요."""
+JSON만 출력하세요."""
 
     try:
         response = requests.post(
@@ -229,6 +243,10 @@ JSON만 출력하세요. 다른 설명 없이 JSON 객체만 반환하세요."""
             json_match = re.search(r'\{[\s\S]*\}', text)
             if json_match:
                 content = json.loads(json_match.group())
+                # AI가 부적합 판단한 경우
+                if content.get('skip'):
+                    print(f"⏭️ Skipped: {content.get('reason', '여행자 관련성 낮음')}")
+                    return None
                 return content
         else:
             print(f"❌ Gemma API error: {response.status_code} - {response.text[:200]}")
@@ -260,16 +278,24 @@ def create_plan_from_news(news: Dict, content: Optional[Dict]) -> Dict:
 
     image_keyword = content.get('image_keyword', 'japan travel')
 
+    # relevance 정보 (AI가 평가한 여행자 관련성)
+    relevance = content.get('relevance', {})
+
     return {
         'id': plan_id,
         'created_at': datetime.now().isoformat(),
         'category': category,
-        'priority': 'high' if category == 'breaking' else 'medium',
+        'priority': 'high' if relevance.get('impact') == '상' else ('medium' if relevance.get('impact') == '중' else 'low'),
         'status': 'new',
         'source': {
             'title': news['title'],
             'url': news['link'],
             'date': news.get('published', datetime.now().strftime('%Y-%m-%d'))
+        },
+        'relevance': {
+            'impact': relevance.get('impact', '-'),
+            'interest': relevance.get('interest', '-'),
+            'appeal': relevance.get('appeal', '')
         },
         'content': {
             'thumbnail_title': content.get('thumbnail_title', ''),
