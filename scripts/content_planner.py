@@ -41,9 +41,11 @@ RSS_FEEDS = [
 
 # 여행 관련 키워드 (일본어 + 영어)
 TRAVEL_KEYWORDS = [
-    # 교통
+    # 교통 (항공사/공항 포함)
     'JR', '新幹線', '신칸센', 'shinkansen', '電車', 'train', '空港', 'airport',
     '成田', '羽田', '関空', '飛行機', 'flight', '運休', '遅延', 'delay',
+    'ANA', 'JAL', '航空', 'airline', '仁川', '金浦', '대한항공', '아시아나',
+    'ピーチ', 'peach', 'ジェットスター', 'jetstar', 'LCC',
     # 관광지
     '東京', '大阪', '京都', '福岡', '北海道', '沖縄', '観光', 'tourism',
     '温泉', 'onsen', '富士山', 'mount fuji', 'ディズニー', 'disney', 'USJ',
@@ -54,11 +56,16 @@ TRAVEL_KEYWORDS = [
     # 계절/이벤트
     '桜', 'cherry blossom', '紅葉', 'autumn leaves', '花火', 'fireworks',
     '祭り', 'festival', 'matsuri',
-    # 긴급/안전
+    # 긴급/안전/사건사고
     '地震', 'earthquake', '台風', 'typhoon', '火災', 'fire', '注意', 'warning',
-    '閉鎖', 'closed', '規制', 'regulation',
+    '閉鎖', 'closed', '規制', 'regulation', '事件', '事故', '殺人', '犯罪',
+    '安全', 'safety', '警察', 'police', '注意喚起',
+    # 환율/경제
+    '円', '円安', '円高', '為替', 'exchange', 'rate', '両替', 'yen',
     # 일반
     '旅行', 'travel', '観光客', 'tourist', '外国人', 'foreigner', 'インバウンド',
+    # 한국인 관광지역
+    '心斎橋', '道頓堀', '新宿', '渋谷', '原宿', '浅草', '銀座',
 ]
 
 OUTPUT_PATH = 'docs/data/content_plans.json'
@@ -136,12 +143,15 @@ def categorize_news(news: Dict) -> str:
     """뉴스 카테고리 자동 분류"""
     text = f"{news['title']} {news['summary']}".lower()
 
-    # 긴급/속보
-    if any(kw in text for kw in ['地震', '台風', '火災', 'earthquake', 'typhoon', 'fire', '閉鎖', '事故']):
+    # 긴급/속보 (사건사고, 재해, 환율급변 포함)
+    if any(kw in text for kw in ['地震', '台風', '火災', 'earthquake', 'typhoon', 'fire', '閉鎖', '事故',
+                                  '事件', '殺人', '犯罪', '警察', '円安', '円高', '為替', '急落', '急騰']):
         return 'breaking'
 
-    # 교통
-    if any(kw in text for kw in ['JR', '新幹線', '電車', '空港', '運休', '遅延', 'train', 'flight']):
+    # 교통 (항공사/공항 포함)
+    if any(kw in text for kw in ['JR', '新幹線', '電車', '空港', '運休', '遅延', 'train', 'flight',
+                                  '航空', 'ANA', 'JAL', 'airline', 'LCC', 'ピーチ', 'ジェットスター',
+                                  '成田', '羽田', '関空', '仁川', '金浦']):
         return 'transport'
 
     # 시즌/날씨
@@ -186,11 +196,16 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
 ✅ 적합한 이슈 (콘텐츠로 만들어야 함):
 - 일본 맛집/카페/편의점 신상품/한정메뉴 출시
 - 일본 교통 정보 (JR패스, 지하철, 운휴, 지연)
+- 일본/한국 공항 정보 (성田, 하네다, 간사이, 인천, 김포 등)
+- 항공사 정보 (JAL, ANA, 피치, 대한항공, 아시아나 등)
 - 일본 관광지 규제/입장료/예약 변경
 - 일본 축제/이벤트/시즌 정보 (벚꽃, 단풍, 불꽃축제)
 - 일본 쇼핑 (면세, 할인, 신규 오픈)
 - 일본 숙소/환전/입국 관련 정보
 - 일본 날씨/재해/안전 정보
+- 엔화 환율 변동 (원/엔 환율 급등락)
+- 일본 현지 사건사고 (관광객이 알아야 할 치안/안전 이슈, 예: 도톤보리 사건 등)
+- 관광정책 변경 (비자, 입국심사, 면세한도 등)
 
 ❌ 부적합한 이슈 (반드시 skip 처리):
 - 올림픽/월드컵/스포츠 경기 결과, 메달 소식 (피겨스케이팅, 스키점프 등 모두 포함)
