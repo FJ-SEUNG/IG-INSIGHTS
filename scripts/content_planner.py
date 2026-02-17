@@ -95,19 +95,41 @@ def fetch_rss_news() -> List[Dict]:
     return all_news
 
 def filter_travel_related(news_list: List[Dict]) -> List[Dict]:
-    """여행 관련 뉴스만 필터링"""
+    """여행 관련 뉴스만 필터링 (느슨한 필터링)"""
     filtered = []
+
+    # 더 넓은 범위의 키워드 (일본 관련 전반)
+    broad_keywords = TRAVEL_KEYWORDS + [
+        # 지역명
+        '東京', '大阪', '京都', '福岡', '北海道', '沖縄', '名古屋', '横浜',
+        'tokyo', 'osaka', 'kyoto', 'fukuoka', 'hokkaido', 'okinawa',
+        # 일본 문화/생활
+        '日本', 'japan', 'japanese', 'マクドナルド', 'コンビニ', 'カフェ',
+        'ユニクロ', 'ドンキ', 'daiso', '100均', 'セブン', 'ローソン', 'ファミマ',
+        # 음식 일반
+        '食', '店', 'グルメ', '人気', '新商品', '限定', 'オープン', '開店',
+        # 가격/할인
+        '円', '無料', '半額', 'セール', '割引', '値上げ',
+        # 이벤트
+        'イベント', 'キャンペーン', '期間限定',
+    ]
 
     for news in news_list:
         text = f"{news['title']} {news['summary']}".lower()
 
-        for keyword in TRAVEL_KEYWORDS:
+        for keyword in broad_keywords:
             if keyword.lower() in text:
                 news['matched_keyword'] = keyword
                 filtered.append(news)
                 break
 
     print(f"✅ Filtered {len(filtered)} travel-related news from {len(news_list)} total")
+
+    # 필터링된 게 너무 적으면 원본 뉴스 중 일부라도 사용
+    if len(filtered) < DAILY_GENERATE and len(news_list) > 0:
+        print(f"⚠️ Not enough filtered news, using top {DAILY_GENERATE} from all news")
+        return news_list[:DAILY_GENERATE * 2]
+
     return filtered
 
 def categorize_news(news: Dict) -> str:

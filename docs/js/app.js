@@ -5217,11 +5217,21 @@ function renderPlannerTab() {
 
   if (emptyEl) emptyEl.style.display = 'none';
 
-  // 카드 렌더링
+  // 카드 렌더링 (로딩 UI 대체)
   grid.innerHTML = plans.map(plan => renderPlannerCard(plan)).join('');
 
   // 이벤트 바인딩
   bindPlannerCardEvents();
+}
+
+// 콘텐츠 기획 탭 초기화 (탭 전환 시 자동 로드)
+function initPlannerTabOnSwitch() {
+  const plannerTab = document.getElementById('tab-planner');
+  if (plannerTab && plannerTab.style.display !== 'none' && !PLANNER_DATA.plans) {
+    loadPlannerData().then(loaded => {
+      if (loaded) renderPlannerTab();
+    });
+  }
 }
 
 function renderPlannerCard(plan) {
@@ -5619,9 +5629,19 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', async () => {
       if (btn.dataset.tab === 'planner') {
+        // 로딩 표시
+        const grid = document.getElementById('planner-grid');
+        if (grid && !PLANNER_DATA.plans?.length) {
+          grid.innerHTML = `<div class="planner-loading"><div class="spinner"></div><p>콘텐츠 기획 데이터를 불러오는 중...</p></div>`;
+        }
         const loaded = await loadPlannerData();
         if (loaded) {
           renderPlannerTab();
+        } else {
+          // 로드 실패 시 에러 표시
+          if (grid) {
+            grid.innerHTML = `<div class="planner-loading"><p>❌ 데이터 로드에 실패했습니다. 새로고침을 눌러주세요.</p></div>`;
+          }
         }
       }
     });
