@@ -5266,9 +5266,24 @@ function renderPlannerCard(plan) {
   const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
   if (hiddenPlans.includes(plan.id)) return ''; // 숨긴 항목은 렌더링 안 함
 
+  // 사용됨 상태 확인
+  const usedPlans = JSON.parse(localStorage.getItem('usedPlannerPlans') || '[]');
+  const isUsed = usedPlans.includes(plan.id);
+
+  // 상태 표시 (사용됨 > 저장됨 > 신규)
+  let statusClass = 'new';
+  let statusLabel = '신규';
+  if (isUsed) {
+    statusClass = 'used';
+    statusLabel = '사용됨';
+  } else if (isSaved) {
+    statusClass = 'saved';
+    statusLabel = '저장됨';
+  }
+
   // 목록(리스트) 형태 UI
   return `
-    <div class="planner-list-item" data-plan-id="${plan.id}">
+    <div class="planner-list-item ${statusClass}" data-plan-id="${plan.id}">
       <div class="planner-list-left">
         <span class="planner-list-category ${plan.category}">${categoryLabel}</span>
         <div class="planner-list-content">
@@ -5277,12 +5292,14 @@ function renderPlannerCard(plan) {
         </div>
       </div>
       <div class="planner-list-meta">
+        <span class="planner-list-status status-${statusClass}">${statusLabel}</span>
         <span class="planner-list-date">${date}</span>
         <span class="planner-list-cards">${cards.length + 1}장</span>
         ${relevance.impact ? `<span class="planner-list-impact impact-${relevance.impact}">${relevance.impact}</span>` : ''}
       </div>
       <div class="planner-list-actions">
         <button class="planner-action-btn detail" data-action="detail" data-plan-id="${plan.id}" title="상세보기">📄</button>
+        ${!isUsed ? `<button class="planner-action-btn use" data-action="use" data-plan-id="${plan.id}" title="사용하기">✅</button>` : ''}
         <button class="planner-action-btn copy" data-action="copy" data-plan-id="${plan.id}" title="복사">📋</button>
         <button class="planner-action-btn save ${isSaved ? 'saved' : ''}" data-action="save" data-plan-id="${plan.id}" title="저장">
           ${isSaved ? '⭐' : '☆'}
@@ -5297,10 +5314,17 @@ function updatePlannerStats() {
   const plans = PLANNER_DATA.plans || [];
   const now = new Date();
   const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+  const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+  const usedPlans = JSON.parse(localStorage.getItem('usedPlannerPlans') || '[]');
+  const savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
 
-  const totalCount = plans.length;
-  const newCount = plans.filter(p => p.status === 'new').length;
-  const weekCount = plans.filter(p => new Date(p.created_at) > weekAgo).length;
+  // 숨긴 항목 제외한 visible plans
+  const visiblePlans = plans.filter(p => !hiddenPlans.includes(p.id));
+
+  const totalCount = visiblePlans.length;
+  const usedCount = visiblePlans.filter(p => usedPlans.includes(p.id)).length;
+  const savedCount = visiblePlans.filter(p => savedPlans.includes(p.id) && !usedPlans.includes(p.id)).length;
+  const newCount = visiblePlans.filter(p => !usedPlans.includes(p.id) && !savedPlans.includes(p.id)).length;
 
   const lastUpdated = PLANNER_DATA.last_updated
     ? new Date(PLANNER_DATA.last_updated).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
@@ -5313,7 +5337,8 @@ function updatePlannerStats() {
 
   el('planner-total-count', totalCount);
   el('planner-new-count', newCount);
-  el('planner-week-count', weekCount);
+  el('planner-used-count', usedCount);
+  el('planner-saved-count', savedCount);
   el('planner-update-time', lastUpdated);
 }
 
@@ -5405,7 +5430,35 @@ function handlePlannerAction(e) {
     case 'hide':
       hidePlan(planId);
       break;
+    case 'use':
+      markAsUsed(planId);
+      break;
   }
+}
+
+function markAsUsed(planId) {
+  let usedPlans = JSON.parse(localStorage.getItem('usedPlannerPlans') || '[]');
+  if (!usedPlans.includes(planId)) {
+    usedPlans.push(planId);
+    localStorage.setItem('usedPlannerPlans', JSON.stringify(usedPlans));
+  }
+  // UI 업데이트
+  const item = document.querySelector(`.planner-list-item[data-plan-id="${planId}"]`);
+  if (item) {
+    item.classList.remove('new', 'saved');
+    item.classList.add('used');
+    // 상태 라벨 업데이트
+    const statusEl = item.querySelector('.planner-list-status');
+    if (statusEl) {
+      statusEl.className = 'planner-list-status status-used';
+      statusEl.textContent = '사용됨';
+    }
+    // 사용하기 버튼 제거
+    const useBtn = item.querySelector('.planner-action-btn.use');
+    if (useBtn) useBtn.remove();
+  }
+  updatePlannerStats();
+  showToast('✅ 사용됨으로 표시되었습니다');
 }
 
 function hidePlan(planId) {
@@ -5689,15 +5742,126 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 숨긴 항목 복원 버튼
   document.getElementById('planner-restore-btn')?.addEventListener('click', () => {
-    const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
-    if (hiddenPlans.length === 0) {
-      showToast('숨긴 항목이 없습니다');
-      return;
-    }
-    if (confirm(`숨긴 ${hiddenPlans.length}개 항목을 모두 복원하시겠습니까?`)) {
-      localStorage.removeItem('hiddenPlannerPlans');
-      renderPlannerTab();
-      showToast(`👁️ ${hiddenPlans.length}개 항목이 복원되었습니다`);
-    }
+    showHiddenPlansModal();
   });
 });
+
+// 숨긴 항목 복원 모달
+function showHiddenPlansModal() {
+  const hiddenPlanIds = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+  if (hiddenPlanIds.length === 0) {
+    showToast('숨긴 항목이 없습니다');
+    return;
+  }
+
+  // 숨긴 plan 정보 가져오기
+  const hiddenPlans = (PLANNER_DATA.plans || []).filter(p => hiddenPlanIds.includes(p.id));
+
+  if (hiddenPlans.length === 0) {
+    // 데이터에 없는 id만 남아있는 경우 정리
+    localStorage.removeItem('hiddenPlannerPlans');
+    showToast('숨긴 항목이 없습니다');
+    return;
+  }
+
+  // 기존 모달 제거
+  document.getElementById('planner-hidden-modal')?.remove();
+
+  const categoryLabels = {
+    'breaking': '⚡ 속보',
+    'transport': '🚆 교통',
+    'season': '🌸 시즌',
+    'event': '🎉 이벤트',
+    'hotplace': '🔥 핫플',
+    'tips': '💡 꿀팁'
+  };
+
+  const itemsHtml = hiddenPlans.map(plan => {
+    const title = (plan.content.thumbnail_title || plan.content.title || '제목 없음').replace(/\n/g, ' ');
+    const category = categoryLabels[plan.category] || plan.category;
+    const date = new Date(plan.created_at).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
+
+    return `
+      <label class="hidden-plan-item">
+        <input type="checkbox" value="${plan.id}" class="hidden-plan-checkbox">
+        <span class="hidden-plan-category ${plan.category}">${category}</span>
+        <span class="hidden-plan-title">${title}</span>
+        <span class="hidden-plan-date">${date}</span>
+      </label>
+    `;
+  }).join('');
+
+  const modal = document.createElement('div');
+  modal.id = 'planner-hidden-modal';
+  modal.className = 'planner-modal-overlay';
+  modal.innerHTML = `
+    <div class="planner-hidden-modal-content">
+      <div class="planner-hidden-header">
+        <h3>👁️ 숨긴 항목 복원</h3>
+        <button class="modal-close" id="hidden-modal-close">&times;</button>
+      </div>
+      <div class="planner-hidden-body">
+        <div class="hidden-select-all">
+          <label>
+            <input type="checkbox" id="hidden-select-all-checkbox">
+            <span>전체 선택</span>
+          </label>
+          <span class="hidden-count">${hiddenPlans.length}개 항목</span>
+        </div>
+        <div class="hidden-plans-list">
+          ${itemsHtml}
+        </div>
+      </div>
+      <div class="planner-hidden-footer">
+        <button class="btn-secondary" id="hidden-delete-selected">🗑️ 선택 삭제</button>
+        <button class="btn-primary" id="hidden-restore-selected">✅ 선택 복원</button>
+      </div>
+    </div>
+  `;
+
+  document.body.appendChild(modal);
+
+  // 이벤트 바인딩
+  document.getElementById('hidden-modal-close').addEventListener('click', () => modal.remove());
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) modal.remove();
+  });
+
+  // 전체 선택
+  document.getElementById('hidden-select-all-checkbox').addEventListener('change', (e) => {
+    const checkboxes = modal.querySelectorAll('.hidden-plan-checkbox');
+    checkboxes.forEach(cb => cb.checked = e.target.checked);
+  });
+
+  // 선택 복원
+  document.getElementById('hidden-restore-selected').addEventListener('click', () => {
+    const selectedIds = Array.from(modal.querySelectorAll('.hidden-plan-checkbox:checked')).map(cb => cb.value);
+    if (selectedIds.length === 0) {
+      showToast('복원할 항목을 선택해주세요');
+      return;
+    }
+
+    let hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+    hiddenPlans = hiddenPlans.filter(id => !selectedIds.includes(id));
+    localStorage.setItem('hiddenPlannerPlans', JSON.stringify(hiddenPlans));
+
+    modal.remove();
+    renderPlannerTab();
+    showToast(`👁️ ${selectedIds.length}개 항목이 복원되었습니다`);
+  });
+
+  // 선택 삭제 (영구 삭제는 아니고 숨김 목록에서만 제거)
+  document.getElementById('hidden-delete-selected').addEventListener('click', () => {
+    const selectedIds = Array.from(modal.querySelectorAll('.hidden-plan-checkbox:checked')).map(cb => cb.value);
+    if (selectedIds.length === 0) {
+      showToast('삭제할 항목을 선택해주세요');
+      return;
+    }
+
+    // 숨김 목록에서 제거 (복원하지 않고 완전히 무시)
+    let hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+    // 선택된 항목은 숨김 목록에서 유지 (영구 숨김 처리)
+    showToast(`🗑️ ${selectedIds.length}개 항목이 영구 숨김 처리되었습니다`);
+    modal.remove();
+  });
+}
