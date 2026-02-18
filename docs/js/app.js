@@ -5493,9 +5493,14 @@ async function loadPlannerData() {
   return false;
 }
 
+// 페이지네이션 상태
+let plannerCurrentPage = 1;
+let plannerPageSize = 30;
+
 function renderPlannerTab() {
   const grid = document.getElementById('planner-grid');
   const emptyEl = document.getElementById('planner-empty');
+  const paginationEl = document.getElementById('planner-pagination');
 
   if (!grid) return;
 
@@ -5504,6 +5509,11 @@ function renderPlannerTab() {
 
   // 필터링
   let plans = PLANNER_DATA.plans || [];
+
+  // 숨긴 항목 제외
+  const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+  plans = plans.filter(p => !hiddenPlans.includes(p.id));
+
   if (categoryFilter !== 'all') {
     plans = plans.filter(p => p.category === categoryFilter);
   }
@@ -5517,10 +5527,23 @@ function renderPlannerTab() {
   if (plans.length === 0) {
     grid.innerHTML = '';
     if (emptyEl) emptyEl.style.display = 'flex';
+    if (paginationEl) paginationEl.style.display = 'none';
     return;
   }
 
   if (emptyEl) emptyEl.style.display = 'none';
+
+  // 페이지네이션 계산
+  const totalPages = Math.ceil(plans.length / plannerPageSize);
+
+  // 현재 페이지가 총 페이지를 초과하면 조정
+  if (plannerCurrentPage > totalPages) {
+    plannerCurrentPage = totalPages;
+  }
+
+  const startIndex = (plannerCurrentPage - 1) * plannerPageSize;
+  const endIndex = startIndex + plannerPageSize;
+  const paginatedPlans = plans.slice(startIndex, endIndex);
 
   // 헤더 + 카드 렌더링 (테이블 구조)
   const headerHtml = `
@@ -5535,10 +5558,84 @@ function renderPlannerTab() {
     </div>
   `;
 
-  grid.innerHTML = headerHtml + plans.map(plan => renderPlannerCard(plan)).join('');
+  grid.innerHTML = headerHtml + paginatedPlans.map(plan => renderPlannerCard(plan)).join('');
+
+  // 페이지네이션 렌더링
+  renderPagination(totalPages, plans.length);
 
   // 이벤트 바인딩
   bindPlannerCardEvents();
+}
+
+// 페이지네이션 렌더링
+function renderPagination(totalPages, totalItems) {
+  const paginationEl = document.getElementById('planner-pagination');
+  const numbersEl = document.getElementById('pagination-numbers');
+  const prevBtn = document.getElementById('pagination-prev');
+  const nextBtn = document.getElementById('pagination-next');
+
+  if (!paginationEl || !numbersEl) return;
+
+  // 1페이지만 있으면 페이지네이션 숨김
+  if (totalPages <= 1) {
+    paginationEl.style.display = 'none';
+    return;
+  }
+
+  paginationEl.style.display = 'flex';
+
+  // 이전/다음 버튼 상태
+  prevBtn.disabled = plannerCurrentPage === 1;
+  nextBtn.disabled = plannerCurrentPage === totalPages;
+
+  // 페이지 번호 생성
+  let numbersHtml = '';
+  const maxVisiblePages = 7;
+
+  if (totalPages <= maxVisiblePages) {
+    // 전체 페이지가 적으면 모두 표시
+    for (let i = 1; i <= totalPages; i++) {
+      numbersHtml += `<button class="pagination-number ${i === plannerCurrentPage ? 'active' : ''}" data-page="${i}">${i}</button>`;
+    }
+  } else {
+    // 페이지가 많으면 ... 사용
+    const showFirst = plannerCurrentPage > 3;
+    const showLast = plannerCurrentPage < totalPages - 2;
+
+    if (showFirst) {
+      numbersHtml += `<button class="pagination-number" data-page="1">1</button>`;
+      if (plannerCurrentPage > 4) {
+        numbersHtml += `<span class="pagination-ellipsis">...</span>`;
+      }
+    }
+
+    // 현재 페이지 주변 표시
+    const start = Math.max(1, plannerCurrentPage - 2);
+    const end = Math.min(totalPages, plannerCurrentPage + 2);
+
+    for (let i = start; i <= end; i++) {
+      numbersHtml += `<button class="pagination-number ${i === plannerCurrentPage ? 'active' : ''}" data-page="${i}">${i}</button>`;
+    }
+
+    if (showLast) {
+      if (plannerCurrentPage < totalPages - 3) {
+        numbersHtml += `<span class="pagination-ellipsis">...</span>`;
+      }
+      numbersHtml += `<button class="pagination-number" data-page="${totalPages}">${totalPages}</button>`;
+    }
+  }
+
+  numbersEl.innerHTML = numbersHtml;
+
+  // 페이지 번호 클릭 이벤트
+  numbersEl.querySelectorAll('.pagination-number').forEach(btn => {
+    btn.addEventListener('click', () => {
+      plannerCurrentPage = parseInt(btn.dataset.page);
+      renderPlannerTab();
+      // 스크롤 상단으로
+      document.getElementById('planner-grid')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
 }
 
 // 콘텐츠 기획 탭 초기화 (탭 전환 시 자동 로드)
@@ -5582,8 +5679,6 @@ function renderPlannerCard(plan) {
 
   const savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
   const isSaved = savedPlans.includes(plan.id);
-  const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
-  if (hiddenPlans.includes(plan.id)) return ''; // 숨긴 항목은 렌더링 안 함
 
   // 사용됨 상태 확인
   const usedPlans = JSON.parse(localStorage.getItem('usedPlannerPlans') || '[]');
@@ -6249,6 +6344,36 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('planner-url-input')?.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') {
       document.getElementById('planner-url-submit')?.click();
+    }
+  });
+
+  // 페이지 사이즈 변경
+  document.getElementById('planner-page-size')?.addEventListener('change', (e) => {
+    plannerPageSize = parseInt(e.target.value);
+    plannerCurrentPage = 1;  // 페이지 사이즈 변경 시 첫 페이지로
+    renderPlannerTab();
+  });
+
+  // 페이지네이션 이전 버튼
+  document.getElementById('pagination-prev')?.addEventListener('click', () => {
+    if (plannerCurrentPage > 1) {
+      plannerCurrentPage--;
+      renderPlannerTab();
+      document.getElementById('planner-grid')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+
+  // 페이지네이션 다음 버튼
+  document.getElementById('pagination-next')?.addEventListener('click', () => {
+    const plans = PLANNER_DATA.plans || [];
+    const hiddenPlans = JSON.parse(localStorage.getItem('hiddenPlannerPlans') || '[]');
+    const visiblePlans = plans.filter(p => !hiddenPlans.includes(p.id));
+    const totalPages = Math.ceil(visiblePlans.length / plannerPageSize);
+
+    if (plannerCurrentPage < totalPages) {
+      plannerCurrentPage++;
+      renderPlannerTab();
+      document.getElementById('planner-grid')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   });
 
