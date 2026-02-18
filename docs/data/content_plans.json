@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-02-18T00:59:59.714152",
+  "last_updated": "2026-02-18T01:12:36.636249",
   "plans": [
+    {
+      "id": "plan_1f3b4ef2",
+      "created_at": "2026-02-18T01:12:34.636098",
+      "category": "transport",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "高速バス「福岡・福岡空港～熊本線（ひのくに号）」全便でタッチ決済導入。運賃20％オフの記念キャンペーンも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2086676.html",
+        "date": ""
+      },
+      "relevance": {
+        "impact": "중",
+        "interest": "중",
+        "appeal": "후쿠오카-구마모토 고속버스, 터치결제 도입 & 20% 할인 혜택!"
+      },
+      "content": {
+        "thumbnail_title": "🚌 후쿠오카↔구마모토 버스, 터치결제 & 할인!",
+        "cards": [
+          {
+            "title": "터치결제 도입!",
+            "content": "3월 1일부터 후쿠오카-구마모토 '히노쿠니호' 전 노선에서 터치결제 가능!"
+          },
+          {
+            "title": "결제 가능 카드",
+            "content": "Visa, Mastercard, JCB, American Express 등 대부분의 카드 지원"
+          },
+          {
+            "title": "🎉 기념 할인!",
+            "content": "터치결제 이용 시 운임 20% 할인! (기간 미정)"
+          },
+          {
+            "title": "🚌 히노쿠니호 정보",
+            "content": "후쿠오카(공항) ↔ 구마모토를 잇는 편리한 고속버스 노선"
+          }
+        ],
+        "caption": "🇯🇵 후쿠오카와 구마모토를 여행하는 한국인 여행자분들께 유용한 소식! 3월 1일부터 후쿠오카-구마모토 고속버스 '히노쿠니호' 전 노선에서 터치결제가 도입됩니다. 🥳\n\nVisa, Mastercard, JCB 등 대부분의 신용카드로 간편하게 결제하고, 기념으로 운임 20% 할인 혜택까지 받으세요! 💰\n\n후쿠오카 공항에서 구마모토까지, 혹은 그 반대로 이동할 계획이 있다면 꼭 활용해보세요! 🚄\n\n더 많은 일본 여행 정보는 @flyingjapan 팔로우하고 받아보세요! ✈️\n\n#일본여행 #플라잉재팬 #후쿠오카 #구마모토 #히노쿠니호 #고속버스 #터치결제 #교통정보 #여행팁 #할인 #일본교통 #후쿠오카여행 #구마모토여행 #여행스타그램 #일본자유여행 #japan",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#구마모토",
+          "#히노쿠니호",
+          "#고속버스",
+          "#터치결제",
+          "#교통정보",
+          "#여행팁",
+          "#할인",
+          "#일본교통",
+          "#후쿠오카여행",
+          "#구마모토여행",
+          "#여행스타그램",
+          "#일본자유여행"
+        ]
+      },
+      "image": {
+        "keyword": "fukuoka kumamoto highway bus touch payment discount japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/fukuoka-kumamoto-highway-bus-touch-payment-discount-japan-travel",
+        "pexels_url": "https://www.pexels.com/search/fukuoka%20kumamoto%20highway%20bus%20touch%20payment%20discount%20japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_d519bc68",
+      "created_at": "2026-02-18T01:12:21.052524",
+      "category": "tips",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "山田IC/桶川北本IC/和光ICをETC専用料金所として運用開始、3月19日から順次",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2086683.html",
+        "date": ""
+      },
+      "relevance": {
+        "impact": "중",
+        "interest": "중",
+        "appeal": "일본 고속도로 통행료 징수 방식 변경! 미리 알아두면 편리해요."
+      },
+      "content": {
+        "thumbnail_title": "🚨 일본 고속도로 ETC 전용!",
+        "cards": [
+          {
+            "title": "ETC 전용 IC 확대",
+            "content": "3월 19일부터 야마다IC, 오케가와키타모토IC, 코가쿠IC가 ETC 전용으로 운영됩니다."
+          },
+          {
+            "title": "영향 노선",
+            "content": "치바동금도로(E82), 수도권중앙연락자동차도(C4), 도쿄외환자동차도(C3) 이용 시 확인 필수!"
+          },
+          {
+            "title": "현금 결제 불가",
+            "content": "해당 IC에서는 현금 결제가 불가능하니, ETC 카드 미리 준비하세요."
+          },
+          {
+            "title": "통행 계획 확인",
+            "content": "NEXCO 동일본 홈페이지에서 자세한 정보 확인하고 여행 계획 세우세요!"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수 정보 업데이트!\n\n3월 19일부터 치바동금도로, 수도권중앙연락자동차도, 도쿄외환자동차도 일부 IC가 ETC 전용으로 변경됩니다. 해당 구간을 이용하시는 분들은 반드시 ETC 카드를 준비하시거나, 다른 IC를 이용하는 것을 고려해주세요.\n\n⚠️ 현금 결제가 불가능하니 주의!\n\n자세한 내용은 NEXCO 동일본 홈페이지에서 확인하실 수 있습니다.\n\n✅ @flyingjapan 팔로우하고 더 많은 일본 여행 꿀팁 얻어가세요!\n\n#일본여행 #일본자유여행 #일본도로 #ETC #고속도로 #일본교통 #여행정보 #플라잉재팬 #일본여행팁 #여행준비 #일본운전 #렌터카 #일본일상 #여행스타그램 #일본 #여행",
+        "hashtags": [
+          "#일본여행",
+          "#일본자유여행",
+          "#일본도로",
+          "#ETC",
+          "#고속도로",
+          "#일본교통",
+          "#여행정보",
+          "#플라잉재팬",
+          "#일본여행팁",
+          "#여행준비",
+          "#일본운전",
+          "#렌터카",
+          "#일본일상",
+          "#여행스타그램",
+          "#일본"
+        ]
+      },
+      "image": {
+        "keyword": "japan highway etc toll gate",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-etc-toll-gate",
+        "pexels_url": "https://www.pexels.com/search/japan%20highway%20etc%20toll%20gate/"
+      }
+    },
     {
       "id": "plan_004",
       "created_at": "2026-02-17T11:00:00+09:00",
