@@ -67,7 +67,7 @@ async function generateContentFromUrl(url) {
 [응답 형식]
 반드시 한국어로 JSON 형식으로만 응답:
 {
-  "category": "transport/season/hotplace/tips/event/breaking 중 하나",
+  "category": "다음 중 정확히 하나만 선택: transport, season, hotplace, tips, event, breaking",
   "relevance": {
     "impact": "상/중/하",
     "interest": "상/중/하",
@@ -112,12 +112,26 @@ JSON만 출력하세요.`;
   const aiContent = JSON.parse(jsonMatch[0]);
   const imageKeyword = aiContent.image_keyword || 'japan travel';
 
+  // 카테고리 검증 및 보정
+  const validCategories = ['transport', 'season', 'hotplace', 'tips', 'event', 'breaking'];
+  let category = (aiContent.category || 'tips').toLowerCase().trim();
+
+  // "season/hotplace" 같은 경우 첫 번째 값만 사용
+  if (category.includes('/')) {
+    category = category.split('/')[0].trim();
+  }
+
+  // 유효하지 않은 카테고리면 기본값 사용
+  if (!validCategories.includes(category)) {
+    category = 'tips';
+  }
+
   // 3. Plan 객체 생성
   const planId = 'url_' + Date.now().toString(36);
   return {
     id: planId,
     created_at: new Date().toISOString(),
-    category: aiContent.category || 'tips',
+    category: category,
     priority: 'high',
     status: 'new',
     source: {
