@@ -6263,13 +6263,19 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // 지원되지 않는 URL 체크 (동적 로딩 사이트)
+    // 지원되지 않는 URL 체크 (동적 로딩/로그인 필요 사이트)
     const unsupportedDomains = [
+      // SNS
       'instagram.com', 'www.instagram.com',
       'youtube.com', 'www.youtube.com', 'youtu.be',
       'twitter.com', 'x.com', 'www.x.com',
       'facebook.com', 'www.facebook.com', 'fb.com',
-      'tiktok.com', 'www.tiktok.com'
+      'tiktok.com', 'www.tiktok.com',
+      // 로그인 필요 커뮤니티
+      'cafe.naver.com',  // 네이버 카페
+      'band.us', 'www.band.us',  // 네이버 밴드
+      'discord.com', 'discord.gg',  // 디스코드
+      'notion.so', 'www.notion.so'  // 노션
     ];
 
     try {
@@ -6277,7 +6283,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const hostname = urlObj.hostname.toLowerCase();
       if (unsupportedDomains.some(domain => hostname === domain || hostname.endsWith('.' + domain))) {
         statusMsg.className = 'url-status-message error';
-        statusMsg.innerHTML = '❌ 인스타그램, 유튜브, 트위터 등 SNS URL은 지원되지 않습니다.<br>📰 뉴스 기사나 블로그 URL을 사용해주세요.';
+        statusMsg.innerHTML = '❌ 해당 URL은 지원되지 않습니다 (로그인 필요 또는 동적 콘텐츠).<br>📝 대신 "텍스트 입력" 탭에서 내용을 복사해서 붙여넣어주세요!';
         statusMsg.style.display = 'block';
         return;
       }
