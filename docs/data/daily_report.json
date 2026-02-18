@@ -321,5 +321,22 @@
     "avg_engagement_rate": 5.6,
     "avg_save_rate": 1.5,
     "avg_share_rate": 1.1
+  },
+  {
+    "date": "26.02.19(목)",
+    "followers": 6607,
+    "follower_change": 0,
+    "following": 761,
+    "post_count": 319,
+    "total_reach": 9995622,
+    "total_views": 20846151,
+    "total_likes": 132329,
+    "total_saves": 82337,
+    "total_shares": 165880,
+    "total_comments": 6630,
+    "total_engagement": 387176,
+    "avg_engagement_rate": 5.6,
+    "avg_save_rate": 1.5,
+    "avg_share_rate": 1.1
   }
 ]
