@@ -6036,6 +6036,29 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    // 지원되지 않는 URL 체크 (동적 로딩 사이트)
+    const unsupportedDomains = [
+      'instagram.com', 'www.instagram.com',
+      'youtube.com', 'www.youtube.com', 'youtu.be',
+      'twitter.com', 'x.com', 'www.x.com',
+      'facebook.com', 'www.facebook.com', 'fb.com',
+      'tiktok.com', 'www.tiktok.com'
+    ];
+
+    try {
+      const urlObj = new URL(url);
+      const hostname = urlObj.hostname.toLowerCase();
+      if (unsupportedDomains.some(domain => hostname === domain || hostname.endsWith('.' + domain))) {
+        statusMsg.className = 'url-status-message error';
+        statusMsg.innerHTML = '❌ 인스타그램, 유튜브, 트위터 등 SNS URL은 지원되지 않습니다.<br>📰 뉴스 기사나 블로그 URL을 사용해주세요.';
+        statusMsg.style.display = 'block';
+        return;
+      }
+    } catch (e) {
+      showToast('올바른 URL을 입력해주세요');
+      return;
+    }
+
     // 버튼 상태 변경
     submitBtn.disabled = true;
     submitBtn.querySelector('.btn-text').style.display = 'none';
