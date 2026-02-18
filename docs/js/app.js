@@ -5605,6 +5605,15 @@ function openPlannerDetail(planId) {
       </div>
       <div class="planner-detail-body">
         ${cardsHtml}
+        ${plan.source?.url ? `
+        <div class="planner-detail-section planner-source-section">
+          <h4>🔗 원본 기사</h4>
+          <a href="${plan.source.url}" target="_blank" rel="noopener" class="source-link">
+            <span class="source-title">${plan.source.title || '원본 기사 보기'}</span>
+            <span class="source-url">${plan.source.url}</span>
+          </a>
+        </div>
+        ` : ''}
         <div class="planner-detail-section">
           <h4>📝 인스타그램 본문</h4>
           <textarea class="edit-textarea edit-caption" id="detail-caption" rows="12">${caption}</textarea>
