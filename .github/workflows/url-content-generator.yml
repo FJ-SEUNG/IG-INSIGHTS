@@ -1,0 +1,38 @@
+name: URL Content Generator
+
+on:
+  repository_dispatch:
+    types: [generate-content-from-url]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 youtube-transcript-api
+
+      - name: Generate content from URL
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          INPUT_URL: ${{ github.event.client_payload.url }}
+        run: python scripts/url_content_generator.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add docs/data/content_plans.json
+          git diff --staged --quiet || git commit -m "Add content from URL: ${{ github.event.client_payload.url }}"
+          git push

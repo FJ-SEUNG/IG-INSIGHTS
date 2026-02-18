@@ -4,6 +4,12 @@
 const GEMINI_API_KEY = 'AIzaSyAL6kD1f-77thu--7FPBY-dMCa_I2F7i00';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent';
 
+// ── GitHub API Token (URL 콘텐츠 생성용) ──
+// 보안상 실제 토큰은 여기에 저장하지 않음 - 필요 시 관리자가 localStorage에 설정
+function getGitHubToken() {
+  return localStorage.getItem('github_token') || '';
+}
+
 async function analyzeWithGemini(reportData) {
   const prompt = `당신은 인스타그램 마케팅 전문가입니다. 아래 데이터를 분석하고 보고서 양식에 맞게 JSON으로 응답해주세요.
 
@@ -5842,6 +5848,84 @@ document.addEventListener('DOMContentLoaded', () => {
   // 숨긴 항목 복원 버튼
   document.getElementById('planner-restore-btn')?.addEventListener('click', () => {
     showHiddenPlansModal();
+  });
+
+  // URL 콘텐츠 생성 버튼
+  document.getElementById('planner-url-submit')?.addEventListener('click', async () => {
+    const urlInput = document.getElementById('planner-url-input');
+    const submitBtn = document.getElementById('planner-url-submit');
+    const statusMsg = document.getElementById('url-status-message');
+    const url = urlInput?.value?.trim();
+
+    if (!url) {
+      showToast('URL을 입력해주세요');
+      return;
+    }
+
+    // URL 유효성 검사
+    if (!url.startsWith('http://') && !url.startsWith('https://')) {
+      showToast('올바른 URL을 입력해주세요');
+      return;
+    }
+
+    // 버튼 상태 변경
+    submitBtn.disabled = true;
+    submitBtn.querySelector('.btn-text').style.display = 'none';
+    submitBtn.querySelector('.btn-loading').style.display = 'inline';
+
+    // 상태 메시지 표시
+    statusMsg.className = 'url-status-message loading';
+    statusMsg.innerHTML = '⏳ GitHub Actions로 콘텐츠를 생성하는 중입니다...<br>약 1-2분 소요됩니다.';
+    statusMsg.style.display = 'block';
+
+    try {
+      // GitHub API로 repository_dispatch 이벤트 트리거
+      const response = await fetch('https://api.github.com/repos/Flying-Japan/IG-INSIGHTS/dispatches', {
+        method: 'POST',
+        headers: {
+          'Accept': 'application/vnd.github.v3+json',
+          'Authorization': 'token ' + getGitHubToken(), // Personal Access Token 필요
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          event_type: 'generate-content-from-url',
+          client_payload: { url: url }
+        })
+      });
+
+      if (response.status === 204 || response.status === 200) {
+        statusMsg.className = 'url-status-message success';
+        statusMsg.innerHTML = '✅ 콘텐츠 생성이 시작되었습니다!<br>약 1-2분 후 새로고침하면 새 콘텐츠가 표시됩니다.';
+        urlInput.value = '';
+
+        // 1분 후 자동 새로고침 안내
+        setTimeout(() => {
+          statusMsg.innerHTML += '<br><button onclick="document.getElementById(\'planner-refresh-btn\').click(); this.parentElement.style.display=\'none\';" class="btn-refresh" style="margin-top:10px;">🔄 새로고침하기</button>';
+        }, 60000);
+      } else if (response.status === 401 || response.status === 403) {
+        // 인증 오류 - 토큰 없이 동작하는 대안 안내
+        statusMsg.className = 'url-status-message error';
+        statusMsg.innerHTML = '⚠️ GitHub 인증이 필요합니다.<br>관리자에게 문의하거나 직접 GitHub Actions를 실행해주세요.';
+      } else {
+        throw new Error(`HTTP ${response.status}`);
+      }
+    } catch (error) {
+      console.error('URL content generation error:', error);
+      statusMsg.className = 'url-status-message error';
+      statusMsg.innerHTML = '❌ 오류가 발생했습니다: ' + error.message;
+    }
+
+    // 버튼 상태 복원
+    submitBtn.disabled = false;
+    submitBtn.querySelector('.btn-text').style.display = 'inline';
+    submitBtn.querySelector('.btn-loading').style.display = 'none';
+  });
+
+  // Enter 키로 URL 제출
+  document.getElementById('planner-url-input')?.addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') {
+      document.getElementById('planner-url-submit')?.click();
+    }
   });
 
   // URL hash가 #planner인 경우 자동 로드 (직접 접속 시)

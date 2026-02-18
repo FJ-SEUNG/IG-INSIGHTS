@@ -363,6 +363,19 @@
         </div>
       </div>
 
+      <!-- URL 입력 섹션 -->
+      <div class="planner-url-section">
+        <div class="url-input-wrapper">
+          <input type="text" id="planner-url-input" class="url-input" placeholder="기사 또는 유튜브 URL을 붙여넣으세요...">
+          <button id="planner-url-submit" class="btn-url-submit" title="URL로 콘텐츠 생성">
+            <span class="btn-text">✨ 콘텐츠 생성</span>
+            <span class="btn-loading" style="display:none;">⏳ 생성 중...</span>
+          </button>
+        </div>
+        <div class="url-help-text">뉴스 기사, 블로그, 유튜브 URL을 입력하면 AI가 콘텐츠를 기획합니다</div>
+        <div id="url-status-message" class="url-status-message" style="display:none;"></div>
+      </div>
+
       <div class="planner-stats">
         <div class="planner-stat-item">
           <span class="stat-number" id="planner-total-count">0</span>
