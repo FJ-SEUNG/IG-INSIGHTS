@@ -4,10 +4,140 @@
 const GEMINI_API_KEY = 'AIzaSyAL6kD1f-77thu--7FPBY-dMCa_I2F7i00';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent';
 
-// ── GitHub API Token (URL 콘텐츠 생성용) ──
-// 보안상 실제 토큰은 여기에 저장하지 않음 - 필요 시 관리자가 localStorage에 설정
-function getGitHubToken() {
-  return localStorage.getItem('github_token') || '';
+// ── URL 콘텐츠 생성 함수 ──
+async function generateContentFromUrl(url) {
+  // 1. URL에서 콘텐츠 추출 (CORS 프록시 사용)
+  const proxyUrl = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url);
+
+  let title = '';
+  let content = '';
+  let source = new URL(url).hostname;
+
+  try {
+    const response = await fetch(proxyUrl, { timeout: 15000 });
+    const html = await response.text();
+
+    // 간단한 HTML 파싱
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+
+    // 제목 추출
+    const h1 = doc.querySelector('h1');
+    const titleTag = doc.querySelector('title');
+    title = h1?.textContent?.trim() || titleTag?.textContent?.trim() || '';
+
+    // 본문 추출 (article, main, 또는 p 태그들)
+    const article = doc.querySelector('article') || doc.querySelector('main');
+    if (article) {
+      const paragraphs = article.querySelectorAll('p');
+      content = Array.from(paragraphs).slice(0, 10).map(p => p.textContent?.trim()).join(' ');
+    } else {
+      const paragraphs = doc.querySelectorAll('p');
+      content = Array.from(paragraphs).slice(0, 8).map(p => p.textContent?.trim()).join(' ');
+    }
+
+    // 콘텐츠가 너무 짧으면 meta description 사용
+    if (content.length < 100) {
+      const metaDesc = doc.querySelector('meta[name="description"]');
+      if (metaDesc) content = metaDesc.getAttribute('content') || content;
+    }
+  } catch (e) {
+    console.error('URL fetch error:', e);
+    // 프록시 실패 시 제목만 URL에서 추출
+    title = url;
+  }
+
+  if (!title && !content) {
+    throw new Error('URL에서 콘텐츠를 추출할 수 없습니다');
+  }
+
+  // 2. Gemini API로 콘텐츠 생성
+  const prompt = `당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
+
+⚠️ 중요 규칙:
+1. 모든 콘텐츠는 반드시 "한국어"로 작성하세요
+2. 외부 사이트/출처 언급 금지!
+3. 제공된 정보를 바탕으로 여행자에게 유용한 콘텐츠를 만드세요
+
+[콘텐츠 정보]
+제목: ${title.substring(0, 200)}
+내용: ${content.substring(0, 1500)}
+출처: ${source}
+
+[응답 형식]
+반드시 한국어로 JSON 형식으로만 응답:
+{
+  "category": "transport/season/hotplace/tips/event/breaking 중 하나",
+  "relevance": {
+    "impact": "상/중/하",
+    "interest": "상/중/하",
+    "appeal": "매력 포인트 한 줄"
+  },
+  "thumbnail_title": "메인 타이틀 16자 이내 (이모지 포함)",
+  "cards": [
+    {"title": "카드1 제목", "content": "카드1 내용 50자내"},
+    {"title": "카드2 제목", "content": "카드2 내용"},
+    {"title": "카드3 제목", "content": "카드3 내용"},
+    {"title": "카드4 제목", "content": "카드4 내용"}
+  ],
+  "caption": "# 제목\\n도입부\\n\\n# 핵심정보1\\n내용\\n\\n# 핵심정보2\\n내용\\n\\n📌 저장 필수!\\n\\n🙌🏻 일본 여행 정보 더 보고 싶다면?\\n✔️ @flyingjapan 팔로우하기!\\n✔️ 댓글에 'XX' 남겨주세요\\n\\nDM으로 정보 보내드려요 💙",
+  "hashtags": ["#일본여행", "#플라잉재팬", "... 총 15개"],
+  "image_keyword": "영어 키워드"
+}
+
+JSON만 출력하세요.`;
+
+  const aiResponse = await fetch(GEMINI_API_URL + '?key=' + GEMINI_API_KEY, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.7, maxOutputTokens: 2048 }
+    })
+  });
+
+  if (!aiResponse.ok) {
+    throw new Error('AI API 호출 실패: ' + aiResponse.status);
+  }
+
+  const aiData = await aiResponse.json();
+  const aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
+
+  // JSON 추출
+  const jsonMatch = aiText.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    throw new Error('AI 응답에서 JSON을 찾을 수 없습니다');
+  }
+
+  const aiContent = JSON.parse(jsonMatch[0]);
+  const imageKeyword = aiContent.image_keyword || 'japan travel';
+
+  // 3. Plan 객체 생성
+  const planId = 'url_' + Date.now().toString(36);
+  return {
+    id: planId,
+    created_at: new Date().toISOString(),
+    category: aiContent.category || 'tips',
+    priority: 'high',
+    status: 'new',
+    source: {
+      title: title.substring(0, 100),
+      url: url,
+      date: new Date().toISOString().split('T')[0]
+    },
+    relevance: aiContent.relevance || { impact: '중', interest: '중', appeal: '사용자 요청' },
+    content: {
+      thumbnail_title: aiContent.thumbnail_title || '',
+      cards: aiContent.cards || [],
+      caption: aiContent.caption || '',
+      hashtags: aiContent.hashtags || []
+    },
+    image: {
+      keyword: imageKeyword,
+      unsplash_url: 'https://unsplash.com/s/photos/' + imageKeyword.replace(/ /g, '-'),
+      pexels_url: 'https://www.pexels.com/search/' + imageKeyword.replace(/ /g, '%20') + '/'
+    }
+  };
 }
 
 async function analyzeWithGemini(reportData) {
@@ -5186,6 +5316,16 @@ async function loadPlannerData() {
     const response = await fetch('data/content_plans.json?t=' + Date.now());
     if (response.ok) {
       PLANNER_DATA = await response.json();
+
+      // 사용자가 생성한 콘텐츠도 함께 로드 (localStorage)
+      const userPlans = JSON.parse(localStorage.getItem('userGeneratedPlans') || '[]');
+      if (userPlans.length > 0) {
+        // 중복 제거하면서 사용자 콘텐츠를 앞에 추가
+        const existingIds = new Set(PLANNER_DATA.plans.map(p => p.id));
+        const newUserPlans = userPlans.filter(p => !existingIds.has(p.id));
+        PLANNER_DATA.plans = [...newUserPlans, ...PLANNER_DATA.plans];
+      }
+
       return true;
     }
   } catch (e) {
@@ -5875,44 +6015,41 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 상태 메시지 표시
     statusMsg.className = 'url-status-message loading';
-    statusMsg.innerHTML = '⏳ GitHub Actions로 콘텐츠를 생성하는 중입니다...<br>약 1-2분 소요됩니다.';
+    statusMsg.innerHTML = '⏳ AI가 콘텐츠를 생성하는 중입니다...';
     statusMsg.style.display = 'block';
 
     try {
-      // GitHub API로 repository_dispatch 이벤트 트리거
-      const response = await fetch('https://api.github.com/repos/Flying-Japan/IG-INSIGHTS/dispatches', {
-        method: 'POST',
-        headers: {
-          'Accept': 'application/vnd.github.v3+json',
-          'Authorization': 'token ' + getGitHubToken(), // Personal Access Token 필요
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          event_type: 'generate-content-from-url',
-          client_payload: { url: url }
-        })
-      });
+      // 브라우저에서 직접 Gemini API 호출
+      const newPlan = await generateContentFromUrl(url);
 
-      if (response.status === 204 || response.status === 200) {
+      if (newPlan) {
+        // 로컬 데이터에 추가
+        if (!PLANNER_DATA.plans) PLANNER_DATA.plans = [];
+        PLANNER_DATA.plans.unshift(newPlan);
+
+        // localStorage에 사용자 생성 콘텐츠 저장
+        const userPlans = JSON.parse(localStorage.getItem('userGeneratedPlans') || '[]');
+        userPlans.unshift(newPlan);
+        localStorage.setItem('userGeneratedPlans', JSON.stringify(userPlans));
+
+        // 화면 업데이트
+        renderPlannerTab();
+
         statusMsg.className = 'url-status-message success';
-        statusMsg.innerHTML = '✅ 콘텐츠 생성이 시작되었습니다!<br>약 1-2분 후 새로고침하면 새 콘텐츠가 표시됩니다.';
+        statusMsg.innerHTML = '✅ 콘텐츠가 생성되었습니다!';
         urlInput.value = '';
 
-        // 1분 후 자동 새로고침 안내
+        // 3초 후 메시지 숨김
         setTimeout(() => {
-          statusMsg.innerHTML += '<br><button onclick="document.getElementById(\'planner-refresh-btn\').click(); this.parentElement.style.display=\'none\';" class="btn-refresh" style="margin-top:10px;">🔄 새로고침하기</button>';
-        }, 60000);
-      } else if (response.status === 401 || response.status === 403) {
-        // 인증 오류 - 토큰 없이 동작하는 대안 안내
-        statusMsg.className = 'url-status-message error';
-        statusMsg.innerHTML = '⚠️ GitHub 인증이 필요합니다.<br>관리자에게 문의하거나 직접 GitHub Actions를 실행해주세요.';
+          statusMsg.style.display = 'none';
+        }, 3000);
       } else {
-        throw new Error(`HTTP ${response.status}`);
+        throw new Error('콘텐츠 생성에 실패했습니다');
       }
     } catch (error) {
       console.error('URL content generation error:', error);
       statusMsg.className = 'url-status-message error';
-      statusMsg.innerHTML = '❌ 오류가 발생했습니다: ' + error.message;
+      statusMsg.innerHTML = '❌ 오류: ' + error.message;
     }
 
     // 버튼 상태 복원
