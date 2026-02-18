@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-02-18T01:12:36.636249",
+  "last_updated": "2026-02-18T04:25:05.125157",
   "plans": [
+    {
+      "id": "plan_9b350692",
+      "created_at": "2026-02-18T04:25:03.124990",
+      "category": "event",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシー、25周年記念のジュビリーブルー尽くしの限定フード発表。マカロンやドリンク、ポップコーンバケットなどに注目！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2086783.html",
+        "date": ""
+      },
+      "relevance": {
+        "impact": "중",
+        "interest": "상",
+        "appeal": "디즈니 덕후 심장 저격! 25주년 기념 한정 메뉴 공개✨"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니씨 25주년 한정 메뉴✨",
+        "cards": [
+          {
+            "title": "🎉25주년 기념!",
+            "content": "4월 8일부터 도쿄 디즈니씨에서 특별한 메뉴들을 만나보세요!"
+          },
+          {
+            "title": "💙주비리 블루 테마",
+            "content": "25주년을 기념하는 주비리 블루 색상의 음식과 음료가 가득!"
+          },
+          {
+            "title": "🍰놓칠 수 없는 메뉴",
+            "content": "마카롱, 드링크, 팝콘 버킷 등 귀여운 디즈니 상품과 함께 즐겨보세요."
+          },
+          {
+            "title": "🗓️기간 한정!",
+            "content": "특별한 메뉴는 기간 한정 판매되니 서둘러 방문하세요!"
+          }
+        ],
+        "caption": "✨도쿄 디즈니씨 25주년 기념 한정 메뉴가 공개되었어요!💙\n4월 8일부터 주비리 블루 테마의 마카롱, 드링크, 팝콘 버킷 등 다양한 메뉴들을 만나볼 수 있다고 합니다.\n디즈니 덕후라면 절대 놓칠 수 없는 기회! 잊지 말고 꼭 방문해서 특별한 추억을 만들어보세요!\n\n📌자세한 정보는 트래블워치에서 확인하세요!\n\n✈️일본 여행 준비는 플라잉재팬과 함께! @flyingjapan 팔로우하고 더 많은 꿀팁 얻어가세요!\n\n#일본여행 #도쿄디즈니씨 #디즈니씨 #도쿄디즈니랜드 #25주년 #주비리블루 #한정메뉴 #디즈니굿즈 #일본맛집 #일본카페 #여행스타그램 #플라잉재팬 #tokyodisneysea #disneysea #jubileeblue #limitededition #japanesefood #japanesecafe",
+        "hashtags": [
+          "#일본여행",
+          "#도쿄디즈니씨",
+          "#디즈니씨",
+          "#도쿄디즈니랜드",
+          "#25주년",
+          "#주비리블루",
+          "#한정메뉴",
+          "#디즈니굿즈",
+          "#일본맛집",
+          "#일본카페",
+          "#여행스타그램",
+          "#플라잉재팬",
+          "#tokyodisneysea",
+          "#disneysea",
+          "#jubileeblue"
+        ]
+      },
+      "image": {
+        "keyword": "tokyo disneyland anniversary food limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/tokyo-disneyland-anniversary-food-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/tokyo%20disneyland%20anniversary%20food%20limited%20edition/"
+      }
+    },
+    {
+      "id": "plan_69c35dcf",
+      "created_at": "2026-02-18T04:24:49.539498",
+      "category": "hotplace",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "ゆいレール、モバイルSuicaで定期券購入が可能に。2027年春以降を予定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2086846.html",
+        "date": ""
+      },
+      "relevance": {
+        "impact": "중",
+        "interest": "중",
+        "appeal": "오키나와 유이레일 정기권, 모바일 Suica로 간편하게!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 오키나와 유이레일 정기권, 이제 모바일 Suica로!",
+        "cards": [
+          {
+            "title": "📱 모바일 Suica 정기권",
+            "content": "2027년 봄부터 유이레일 정기권을 모바일 Suica로 구매 가능해집니다."
+          },
+          {
+            "title": "✨ 편리한 충전 & 사용",
+            "content": "별도 발권 없이 스마트폰으로 간편하게 충전하고 사용할 수 있어요."
+          },
+          {
+            "title": "💰 비용 절감 효과",
+            "content": "오키나와 여행 시 유이레일을 자주 이용한다면 정기권 구매로 비용을 절약하세요!"
+          },
+          {
+            "title": "📅 출시 예정일",
+            "content": "2027년 봄, 정확한 날짜는 추후 공지될 예정입니다."
+          }
+        ],
+        "caption": "오키나와 여행 필수템, 유이레일! 2027년 봄부터는 모바일 Suica로 정기권을 구매할 수 있게 되어 더욱 편리해집니다 🥳\n\n지금까지는 현장에서 정기권을 구매해야 하는 번거로움이 있었지만, 앞으로는 스마트폰 하나로 간편하게 해결할 수 있겠죠? 🤩\n\n오키나와 여행 계획 중이시라면 이 정보 꼭 저장해두시고, 유이레일을 알뜰하게 이용해보세요! 🌴\n\n✈️ 더 많은 일본 여행 정보는 @flyingjapan 팔로우하고 받아보세요! ✈️\n\n#일본여행 #오키나와 #오키나와여행 #유이레일 #모바일Suica #정기권 #교통카드 #여행정보 #플라잉재팬 #일본교통 #오키나와여행팁 #여행스타그램 #일본스타그램 #okinawa #yuirail #mobilesuica #traveljapan",
+        "hashtags": [
+          "#일본여행",
+          "#오키나와",
+          "#오키나와여행",
+          "#유이레일",
+          "#모바일Suica",
+          "#정기권",
+          "#교통카드",
+          "#여행정보",
+          "#플라잉재팬",
+          "#일본교통",
+          "#오키나와여행팁",
+          "#여행스타그램",
+          "#일본스타그램",
+          "#okinawa",
+          "#yuirail"
+        ]
+      },
+      "image": {
+        "keyword": "Okinawa Yui Rail Mobile Suica",
+        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-Yui-Rail-Mobile-Suica",
+        "pexels_url": "https://www.pexels.com/search/Okinawa%20Yui%20Rail%20Mobile%20Suica/"
+      }
+    },
     {
       "id": "plan_1f3b4ef2",
       "created_at": "2026-02-18T01:12:34.636098",
