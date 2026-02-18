@@ -7,7 +7,7 @@
   <script src="/bfcache.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link href="https://unpkg.com/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=20260218a">
+  <link rel="stylesheet" href="css/style.css?v=20260218b">
 </head>
 <body>
   <!-- Header -->
@@ -366,16 +366,37 @@
         </div>
       </div>
 
-      <!-- URL 입력 섹션 -->
-      <div class="planner-url-section">
-        <div class="url-input-wrapper">
-          <input type="text" id="planner-url-input" class="url-input" placeholder="기사 또는 유튜브 URL을 붙여넣으세요...">
-          <button id="planner-url-submit" class="btn-url-submit" title="URL로 콘텐츠 생성">
-            <span class="btn-text">✨ 콘텐츠 생성</span>
-            <span class="btn-loading" style="display:none;">⏳ 생성 중...</span>
-          </button>
+      <!-- 콘텐츠 생성 섹션 -->
+      <div class="planner-input-section">
+        <div class="input-tabs">
+          <button class="input-tab active" data-tab="url">🔗 URL 입력</button>
+          <button class="input-tab" data-tab="text">📝 텍스트 입력</button>
         </div>
-        <div class="url-help-text">뉴스 기사, 블로그, 유튜브 URL을 입력하면 AI가 콘텐츠를 기획합니다</div>
+
+        <!-- URL 입력 탭 -->
+        <div class="input-tab-content active" id="input-tab-url">
+          <div class="url-input-wrapper">
+            <input type="text" id="planner-url-input" class="url-input" placeholder="뉴스 기사 또는 블로그 URL을 붙여넣으세요...">
+            <button id="planner-url-submit" class="btn-url-submit" title="URL로 콘텐츠 생성">
+              <span class="btn-text">✨ 콘텐츠 생성</span>
+              <span class="btn-loading" style="display:none;">⏳ 생성 중...</span>
+            </button>
+          </div>
+          <div class="url-help-text">뉴스 기사, 블로그 URL을 입력하면 AI가 콘텐츠를 기획합니다 (SNS URL 미지원)</div>
+        </div>
+
+        <!-- 텍스트 입력 탭 -->
+        <div class="input-tab-content" id="input-tab-text">
+          <div class="text-input-wrapper">
+            <textarea id="planner-text-input" class="text-input" placeholder="인스타그램 캡션이나 참고할 텍스트를 붙여넣으세요...&#10;&#10;예: 다른 계정의 게시물 캡션, 뉴스 내용, 아이디어 메모 등"></textarea>
+            <button id="planner-text-submit" class="btn-text-submit" title="텍스트로 콘텐츠 생성">
+              <span class="btn-text">✨ 재창작하기</span>
+              <span class="btn-loading" style="display:none;">⏳ 생성 중...</span>
+            </button>
+          </div>
+          <div class="url-help-text">💡 원본 텍스트를 바탕으로 다른 표현 방식과 화법으로 새롭게 재창작합니다</div>
+        </div>
+
         <div id="url-status-message" class="url-status-message" style="display:none;"></div>
       </div>
 

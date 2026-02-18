@@ -154,6 +154,117 @@ JSON만 출력하세요.`;
   };
 }
 
+// ── 텍스트 기반 콘텐츠 재창작 함수 ──
+async function generateContentFromText(originalText) {
+  if (!originalText || originalText.trim().length < 20) {
+    throw new Error('텍스트가 너무 짧습니다. 최소 20자 이상 입력해주세요.');
+  }
+
+  const prompt = `당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
+
+⚠️ 매우 중요한 규칙:
+1. 원본 텍스트의 "핵심 정보"만 참고하고, 완전히 새로운 콘텐츠를 만드세요
+2. 원본과 다른 표현 방식, 다른 화법, 다른 구성으로 재창작하세요
+3. 원본 문장을 그대로 사용하지 마세요! 모든 문장을 새롭게 작성하세요
+4. 모든 콘텐츠는 반드시 "한국어"로 작성하세요
+5. 외부 사이트/출처/원본 계정 언급 절대 금지!
+6. @flyingjapan 계정의 톤앤매너로 작성하세요
+
+[재창작 방향]
+- 친근하고 유용한 정보 제공 톤
+- "~해요", "~입니다" 등 부드러운 어미 사용
+- 여행자 관점에서 실용적인 정보 강조
+- 원본과 다른 순서, 다른 강조점으로 구성
+
+[원본 텍스트 (참고용)]
+${originalText.substring(0, 2000)}
+
+[응답 형식]
+반드시 한국어로 JSON 형식으로만 응답:
+{
+  "category": "다음 중 정확히 하나만 선택: transport, season, hotplace, tips, event, breaking",
+  "relevance": {
+    "impact": "상/중/하",
+    "interest": "상/중/하",
+    "appeal": "매력 포인트 한 줄"
+  },
+  "thumbnail_title": "메인 타이틀 16자 이내 (이모지 포함, 원본과 다르게)",
+  "cards": [
+    {"title": "카드1 제목", "content": "카드1 내용 50자내 (원본과 다른 표현)"},
+    {"title": "카드2 제목", "content": "카드2 내용 (새로운 문장)"},
+    {"title": "카드3 제목", "content": "카드3 내용 (다른 관점)"},
+    {"title": "카드4 제목", "content": "카드4 내용 (재창작)"}
+  ],
+  "caption": "# 새로운 제목\\n새로운 도입부 (원본과 다르게)\\n\\n# 핵심정보1\\n새롭게 작성한 내용\\n\\n# 핵심정보2\\n다른 표현으로 작성\\n\\n📌 저장 필수!\\n\\n🙌🏻 일본 여행 정보 더 보고 싶다면?\\n✔️ @flyingjapan 팔로우하기!\\n✔️ 댓글에 'XX' 남겨주세요\\n\\nDM으로 정보 보내드려요 💙",
+  "hashtags": ["#일본여행", "#플라잉재팬", "... 총 15개"],
+  "image_keyword": "영어 키워드"
+}
+
+JSON만 출력하세요.`;
+
+  const aiResponse = await fetch(GEMINI_API_URL + '?key=' + GEMINI_API_KEY, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.9, maxOutputTokens: 2048 }  // 더 높은 temperature로 창의적 출력
+    })
+  });
+
+  if (!aiResponse.ok) {
+    throw new Error('AI API 호출 실패: ' + aiResponse.status);
+  }
+
+  const aiData = await aiResponse.json();
+  const aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
+
+  // JSON 추출
+  const jsonMatch = aiText.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    throw new Error('AI 응답에서 JSON을 찾을 수 없습니다');
+  }
+
+  const aiContent = JSON.parse(jsonMatch[0]);
+  const imageKeyword = aiContent.image_keyword || 'japan travel';
+
+  // 카테고리 검증 및 보정
+  const validCategories = ['transport', 'season', 'hotplace', 'tips', 'event', 'breaking'];
+  let category = (aiContent.category || 'tips').toLowerCase().trim();
+  if (category.includes('/')) {
+    category = category.split('/')[0].trim();
+  }
+  if (!validCategories.includes(category)) {
+    category = 'tips';
+  }
+
+  // Plan 객체 생성
+  const planId = 'text_' + Date.now().toString(36);
+  return {
+    id: planId,
+    created_at: new Date().toISOString(),
+    category: category,
+    priority: 'high',
+    status: 'new',
+    source: {
+      title: '텍스트 재창작',
+      url: '',
+      date: new Date().toISOString().split('T')[0]
+    },
+    relevance: aiContent.relevance || { impact: '중', interest: '중', appeal: '텍스트 기반 재창작' },
+    content: {
+      thumbnail_title: aiContent.thumbnail_title || '',
+      cards: aiContent.cards || [],
+      caption: aiContent.caption || '',
+      hashtags: aiContent.hashtags || []
+    },
+    image: {
+      keyword: imageKeyword,
+      unsplash_url: 'https://unsplash.com/s/photos/' + imageKeyword.replace(/ /g, '-'),
+      pexels_url: 'https://www.pexels.com/search/' + imageKeyword.replace(/ /g, '%20') + '/'
+    }
+  };
+}
+
 async function analyzeWithGemini(reportData) {
   const prompt = `당신은 인스타그램 마케팅 전문가입니다. 아래 데이터를 분석하고 보고서 양식에 맞게 JSON으로 응답해주세요.
 
@@ -6114,6 +6225,90 @@ document.addEventListener('DOMContentLoaded', () => {
     if (e.key === 'Enter') {
       document.getElementById('planner-url-submit')?.click();
     }
+  });
+
+  // 입력 탭 전환
+  document.querySelectorAll('.input-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const targetTab = tab.dataset.tab;
+
+      // 탭 버튼 활성화
+      document.querySelectorAll('.input-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      // 탭 콘텐츠 표시
+      document.querySelectorAll('.input-tab-content').forEach(content => content.classList.remove('active'));
+      document.getElementById('input-tab-' + targetTab)?.classList.add('active');
+
+      // 상태 메시지 숨김
+      document.getElementById('url-status-message').style.display = 'none';
+    });
+  });
+
+  // 텍스트 콘텐츠 생성 버튼
+  document.getElementById('planner-text-submit')?.addEventListener('click', async () => {
+    const textInput = document.getElementById('planner-text-input');
+    const submitBtn = document.getElementById('planner-text-submit');
+    const statusMsg = document.getElementById('url-status-message');
+    const text = textInput?.value?.trim();
+
+    if (!text) {
+      showToast('텍스트를 입력해주세요');
+      return;
+    }
+
+    if (text.length < 20) {
+      showToast('텍스트가 너무 짧습니다. 최소 20자 이상 입력해주세요.');
+      return;
+    }
+
+    // 버튼 상태 변경
+    submitBtn.disabled = true;
+    submitBtn.querySelector('.btn-text').style.display = 'none';
+    submitBtn.querySelector('.btn-loading').style.display = 'inline';
+
+    // 상태 메시지 표시
+    statusMsg.className = 'url-status-message loading';
+    statusMsg.innerHTML = '⏳ AI가 새로운 스타일로 콘텐츠를 재창작하는 중...';
+    statusMsg.style.display = 'block';
+
+    try {
+      const newPlan = await generateContentFromText(text);
+
+      if (newPlan) {
+        // 로컬 데이터에 추가
+        if (!PLANNER_DATA.plans) PLANNER_DATA.plans = [];
+        PLANNER_DATA.plans.unshift(newPlan);
+
+        // localStorage에 사용자 생성 콘텐츠 저장
+        const userPlans = JSON.parse(localStorage.getItem('userGeneratedPlans') || '[]');
+        userPlans.unshift(newPlan);
+        localStorage.setItem('userGeneratedPlans', JSON.stringify(userPlans));
+
+        // 화면 업데이트
+        renderPlannerTab();
+
+        statusMsg.className = 'url-status-message success';
+        statusMsg.innerHTML = '✅ 새로운 스타일로 콘텐츠가 재창작되었습니다!';
+        textInput.value = '';
+
+        // 3초 후 메시지 숨김
+        setTimeout(() => {
+          statusMsg.style.display = 'none';
+        }, 3000);
+      } else {
+        throw new Error('콘텐츠 재창작에 실패했습니다');
+      }
+    } catch (error) {
+      console.error('Text content generation error:', error);
+      statusMsg.className = 'url-status-message error';
+      statusMsg.innerHTML = '❌ 오류: ' + error.message;
+    }
+
+    // 버튼 상태 복원
+    submitBtn.disabled = false;
+    submitBtn.querySelector('.btn-text').style.display = 'inline';
+    submitBtn.querySelector('.btn-loading').style.display = 'none';
   });
 
   // URL hash가 #planner인 경우 자동 로드 (직접 접속 시)
