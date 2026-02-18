@@ -2908,6 +2908,19 @@ td.editable-field .editable-content {
 .planner-stat-item.highlight-saved .stat-number { color: #d97706; }
 
 /* 숨긴 항목 복원 모달 */
+.planner-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
 .planner-hidden-modal-content {
   background: #fff;
   border-radius: 16px;
