@@ -264,7 +264,7 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
     {{"title": "카드3 제목 (한국어)", "content": "카드3 내용 (한국어)"}},
     {{"title": "카드4 제목 (한국어)", "content": "카드4 내용 (한국어)"}}
   ],
-  "caption": "인스타그램 본문 400-600자 (한국어, @flyingjapan 팔로우 유도 포함)",
+  "caption": "인스타그램 본문 (한국어, 아래 형식 필수):\n# 제목\n도입부 2-3줄\n\n# 핵심정보1 제목\n상세 내용\n\n# 핵심정보2 제목\n상세 내용\n\n📌 저장해두고 친구한테도 공유해주세요!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 'XX' 남겨주세요\n\nDM으로 관련 정보 보내드려요 💙",
   "hashtags": ["#일본여행", "#플라잉재팬", ... 총 15개],
   "image_keyword": "영어 키워드"
 }}
