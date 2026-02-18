@@ -5266,7 +5266,7 @@ document.addEventListener('click', e => {
 });
 
 // ── Manual Update Button ──
-const WORKER_URL = ''; // Cloudflare Worker URL을 여기에 설정
+const WORKER_URL = '/api/trigger-update';
 
 document.addEventListener('DOMContentLoaded', () => {
   init();
