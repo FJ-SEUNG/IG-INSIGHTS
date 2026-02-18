@@ -2909,10 +2909,9 @@ td.editable-field .editable-content {
 
 .planner-col.col-category { width: 75px; justify-content: flex-start; }
 .planner-col.col-content { flex: 1; min-width: 0; justify-content: flex-start; padding-right: 12px; flex-direction: column; align-items: flex-start; }
-.planner-col.col-status { width: 50px; }
-.planner-col.col-date { width: 60px; font-size: 12px; color: var(--text2); }
-.planner-col.col-cards { width: 40px; font-size: 12px; color: var(--fj-primary); }
-.planner-col.col-impact { width: 35px; }
+.planner-col.col-status { width: 55px; }
+.planner-col.col-date { width: 65px; font-size: 12px; color: var(--text2); }
+.planner-col.col-cards { width: 45px; font-size: 12px; color: var(--fj-primary); }
 .planner-col.col-actions { width: 180px; justify-content: flex-end; gap: 4px; }
 
 /* 헤더의 컬럼은 텍스트만 */
@@ -3006,28 +3005,6 @@ td.editable-field .editable-content {
   padding: 3px 8px;
   border-radius: 4px;
   font-weight: 500;
-}
-
-.planner-list-impact {
-  font-size: 11px;
-  padding: 3px 8px;
-  border-radius: 4px;
-  font-weight: 600;
-}
-
-.planner-list-impact.impact-상 {
-  background: #dcfce7;
-  color: #16a34a;
-}
-
-.planner-list-impact.impact-중 {
-  background: #fef3c7;
-  color: #d97706;
-}
-
-.planner-list-impact.impact-하 {
-  background: #f3f4f6;
-  color: #6b7280;
 }
 
 /* 액션 버튼 공통 스타일 */

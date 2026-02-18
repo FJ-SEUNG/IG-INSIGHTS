@@ -5553,7 +5553,6 @@ function renderPlannerTab() {
       <div class="planner-col col-status">상태</div>
       <div class="planner-col col-date">생성일</div>
       <div class="planner-col col-cards">카드</div>
-      <div class="planner-col col-impact">영향도</div>
       <div class="planner-col col-actions">관리</div>
     </div>
   `;
@@ -5710,9 +5709,6 @@ function renderPlannerCard(plan) {
       </div>
       <div class="planner-col col-date">${date}</div>
       <div class="planner-col col-cards">${cards.length + 1}장</div>
-      <div class="planner-col col-impact">
-        ${relevance.impact ? `<span class="planner-list-impact impact-${relevance.impact}">${relevance.impact}</span>` : '-'}
-      </div>
       <div class="planner-col col-actions">
         <button class="planner-action-btn detail" data-action="detail" data-plan-id="${plan.id}" title="상세보기">📄</button>
         ${!isUsed ? `<button class="planner-action-btn use" data-action="use" data-plan-id="${plan.id}" title="사용완료">✅</button>` : ''}
