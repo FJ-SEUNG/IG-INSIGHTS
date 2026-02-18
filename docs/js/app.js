@@ -6125,8 +6125,10 @@ function showHiddenPlansModal() {
     return;
   }
 
-  // 숨긴 plan 정보 가져오기
-  const hiddenPlans = (PLANNER_DATA.plans || []).filter(p => hiddenPlanIds.includes(p.id));
+  // 숨긴 plan 정보 가져오기 (서버 데이터 + 사용자 생성 데이터 모두 포함)
+  const userPlans = JSON.parse(localStorage.getItem('userGeneratedPlans') || '[]');
+  const allPlans = [...(PLANNER_DATA.plans || []), ...userPlans];
+  const hiddenPlans = allPlans.filter(p => hiddenPlanIds.includes(p.id));
 
   if (hiddenPlans.length === 0) {
     // 데이터에 없는 id만 남아있는 경우 정리
