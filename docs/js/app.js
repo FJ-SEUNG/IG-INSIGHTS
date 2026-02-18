@@ -5284,8 +5284,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   btn.addEventListener('click', async () => {
     if (!WORKER_URL) {
-      btn.textContent = 'Worker 미설정';
-      setTimeout(() => { btn.textContent = '수동 업데이트'; }, 2000);
+      window.open('https://github.com/Flying-Japan/IG-INSIGHTS/actions/workflows/daily-insights.yml', '_blank');
       return;
     }
 
