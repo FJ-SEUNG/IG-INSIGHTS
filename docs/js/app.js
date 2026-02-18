@@ -5284,8 +5284,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   btn.addEventListener('click', async () => {
     if (!WORKER_URL) {
-      // Fallback: Worker 미설정 시 GitHub Actions 페이지로 이동
-      window.open('https://github.com/Flying-Japan/IG-INSIGHTS/actions/workflows/daily-insights.yml', '_blank');
+      btn.textContent = 'Worker 미설정';
+      setTimeout(() => { btn.textContent = '수동 업데이트'; }, 2000);
       return;
     }
 
