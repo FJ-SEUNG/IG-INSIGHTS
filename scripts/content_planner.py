@@ -20,13 +20,42 @@ import requests
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
 GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent'
 
-# 일본 뉴스 RSS 피드
+# 일본 뉴스 RSS 피드 (여행/관광 특화)
 RSS_FEEDS = [
+    # 여행/관광 전문
     {
         'name': 'Yahoo Japan 여행',
         'url': 'https://news.yahoo.co.jp/rss/topics/travel.xml',
         'category': 'tips'
     },
+    {
+        'name': 'トラベルWatch',
+        'url': 'https://travel.watch.impress.co.jp/data/rss/1.0/trw/feed.rdf',
+        'category': 'tips'
+    },
+    {
+        'name': 'Traicy 여행',
+        'url': 'https://www.traicy.com/feed',
+        'category': 'transport'
+    },
+    # 항공/교통
+    {
+        'name': 'FlyTeam 항공',
+        'url': 'https://flyteam.jp/news/rss',
+        'category': 'transport'
+    },
+    # 음식/편의점/쇼핑
+    {
+        'name': 'グルメWatch',
+        'url': 'https://gourmet.watch.impress.co.jp/data/rss/1.0/grw/feed.rdf',
+        'category': 'hotplace'
+    },
+    {
+        'name': 'ITmedia 라이프',
+        'url': 'https://rss.itmedia.co.jp/rss/2.0/lifestyle.xml',
+        'category': 'tips'
+    },
+    # 일반 뉴스 (속보용)
     {
         'name': 'Yahoo Japan 국내',
         'url': 'https://news.yahoo.co.jp/rss/topics/domestic.xml',
