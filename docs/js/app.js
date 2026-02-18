@@ -5323,6 +5323,16 @@ document.addEventListener('DOMContentLoaded', () => {
 // 콘텐츠 기획 탭 (Content Planner)
 // ══════════════════════════════════════════════════════════════
 
+// 카테고리 검증 함수 (전역)
+const VALID_CATEGORIES = ['transport', 'season', 'hotplace', 'tips', 'event', 'breaking'];
+function validateCategory(category) {
+  if (!category) return 'tips';
+  const normalized = category.toLowerCase().trim();
+  // "season/hotplace" 같은 형식 처리
+  const firstPart = normalized.includes('/') ? normalized.split('/')[0].trim() : normalized;
+  return VALID_CATEGORIES.includes(firstPart) ? firstPart : 'tips';
+}
+
 let PLANNER_DATA = { plans: [] };
 
 async function loadPlannerData() {
@@ -5422,7 +5432,9 @@ function renderPlannerCard(plan) {
     low: '⬇️ 하'
   };
 
-  const categoryLabel = categoryLabels[plan.category] || plan.category;
+  // 카테고리 검증 후 라벨 표시
+  const validCategory = validateCategory(plan.category);
+  const categoryLabel = categoryLabels[validCategory];
   const date = new Date(plan.created_at).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
 
   // 새 형식 (카드뉴스) 또는 구 형식 지원
@@ -5457,7 +5469,7 @@ function renderPlannerCard(plan) {
   return `
     <div class="planner-list-item ${statusClass}" data-plan-id="${plan.id}">
       <div class="planner-col col-category">
-        <span class="planner-list-category ${plan.category}">${categoryLabel}</span>
+        <span class="planner-list-category ${validCategory}">${categoryLabel}</span>
       </div>
       <div class="planner-col col-content">
         <h4 class="planner-list-title">${thumbnailTitle.replace(/\n/g, ' ')}</h4>
@@ -5722,6 +5734,9 @@ function openPlannerDetail(planId) {
     event: '🎉 이벤트'
   };
 
+  // 카테고리 검증
+  const validCategory = validateCategory(plan.category);
+
   // 새 형식 (카드뉴스) 또는 구 형식 지원
   const thumbnailTitle = plan.content.thumbnail_title || plan.content.title || '';
   const cards = plan.content.cards || [];
@@ -5760,7 +5775,7 @@ function openPlannerDetail(planId) {
   modal.innerHTML = `
     <div class="planner-detail-modal-content">
       <div class="planner-detail-header">
-        <span class="planner-card-category ${plan.category}">${categoryLabels[plan.category] || plan.category}</span>
+        <span class="planner-card-category ${validCategory}">${categoryLabels[validCategory]}</span>
         <button class="modal-close" id="planner-detail-close">&times;</button>
       </div>
       <div class="planner-detail-body">
@@ -6134,13 +6149,14 @@ function showHiddenPlansModal() {
 
   const itemsHtml = hiddenPlans.map(plan => {
     const title = (plan.content.thumbnail_title || plan.content.title || '제목 없음').replace(/\n/g, ' ');
-    const category = categoryLabels[plan.category] || plan.category;
+    const validCat = validateCategory(plan.category);
+    const category = categoryLabels[validCat] || '💡 꿀팁';
     const date = new Date(plan.created_at).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
 
     return `
       <label class="hidden-plan-item">
         <input type="checkbox" value="${plan.id}" class="hidden-plan-checkbox">
-        <span class="hidden-plan-category ${plan.category}">${category}</span>
+        <span class="hidden-plan-category ${validCat}">${category}</span>
         <span class="hidden-plan-title">${title}</span>
         <span class="hidden-plan-date">${date}</span>
       </label>
