@@ -5400,7 +5400,7 @@ document.addEventListener('click', e => {
 });
 
 // ── Manual Update Button ──
-const WORKER_URL = '/api/trigger-update';
+const WORKER_URL = null;  // GitHub Pages에서는 백엔드 API 없음
 
 document.addEventListener('DOMContentLoaded', () => {
   init();
