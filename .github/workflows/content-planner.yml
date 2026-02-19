@@ -42,4 +42,4 @@ jobs:
           git add docs/data/content_plans.json
           git diff --cached --quiet || git commit -m "Update content plans $(date -u +%Y-%m-%d)"
           git push
-# workflow trigger
+# workflow trigger - re-enabled 2026-02-19
