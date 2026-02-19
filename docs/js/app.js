@@ -5519,6 +5519,9 @@ function renderPlannerTab() {
     plans = plans.filter(p => p.status === statusFilter);
   }
 
+  // 최신순 정렬
+  plans.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+
   // 통계 업데이트
   updatePlannerStats();
 
