@@ -128,7 +128,14 @@
   {
     "date": "26.02.18(수)",
     "followers": 6607,
-    "following": 760,
+    "following": 761,
+    "daily_change": null,
+    "cumulative_change": null
+  },
+  {
+    "date": "26.02.19(목)",
+    "followers": 6607,
+    "following": 761,
     "daily_change": null,
     "cumulative_change": null
   }
