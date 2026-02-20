@@ -5,6 +5,10 @@ on:
     # 매일 한국시간 오전 9시 5분 (UTC 0시 5분) 실행
     - cron: '5 0 * * *'
   workflow_dispatch:  # 수동 실행 버튼
+  # daily-insights 완료 후 자동 실행 (Fork 스케줄 미작동 대비)
+  workflow_run:
+    workflows: ["Instagram Insights Daily Update"]
+    types: [completed]
 
 concurrency:
   group: content-planner
@@ -16,10 +20,14 @@ permissions:
 jobs:
   generate-content-plans:
     runs-on: ubuntu-latest
+    # workflow_run 트리거일 경우 성공한 경우에만 실행
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,8 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add docs/data/content_plans.json
           git diff --cached --quiet || git commit -m "Update content plans $(date -u +%Y-%m-%d)"
-          git pull --rebase origin main
           git push
-# workflow trigger - re-enabled 2026-02-19
