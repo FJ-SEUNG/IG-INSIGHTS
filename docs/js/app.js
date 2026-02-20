@@ -1,7 +1,7 @@
 /* ── IG 인사이트 대시보드 ── */
 
 // ── Gemini AI API (Gemini 2.5 Flash-Lite - 무료, 고품질) ──
-const GEMINI_API_KEY = 'AIzaSyAL6kD1f-77thu--7FPBY-dMCa_I2F7i00';
+const GEMINI_API_KEY = 'AIzaSyC9XycRIe4k1BVJsfd6q9SJCRVuzJmBv04';
 const GEMINI_MODEL_PRIMARY = 'gemini-2.5-flash-lite';
 const GEMINI_MODEL_FALLBACK = 'gemini-2.0-flash';
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_PRIMARY}:generateContent`;
