@@ -1,8 +1,11 @@
 /* ── IG 인사이트 대시보드 ── */
 
-// ── Gemini AI API (Gemma 모델 - 무료) ──
+// ── Gemini AI API (Gemini 2.5 Flash-Lite - 무료, 고품질) ──
 const GEMINI_API_KEY = 'AIzaSyAL6kD1f-77thu--7FPBY-dMCa_I2F7i00';
-const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent';
+const GEMINI_MODEL_PRIMARY = 'gemini-2.5-flash-lite';
+const GEMINI_MODEL_FALLBACK = 'gemini-2.0-flash';
+const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_PRIMARY}:generateContent`;
+const GEMINI_API_URL_FALLBACK = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_FALLBACK}:generateContent`;
 
 // ── URL 콘텐츠 생성 함수 ──
 async function generateContentFromUrl(url) {
@@ -52,71 +55,95 @@ async function generateContentFromUrl(url) {
   }
 
   // 2. Gemini API로 콘텐츠 생성
-  const prompt = `당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
+  const prompt = `당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획 전문가"입니다.
+@flyingjapan 계정의 톤앤매너로 작성하세요.
 
 ⚠️ 중요 규칙:
 1. 모든 콘텐츠는 반드시 "한국어"로 작성하세요
 2. 외부 사이트/출처 언급 금지!
-3. 제공된 정보를 바탕으로 여행자에게 유용한 콘텐츠를 만드세요
+3. 수치, 가격, 날짜, 노선명 등 구체적 정보를 절대 누락하지 마세요
 
-📌 인스타그램 카드뉴스 구조 (매우 중요!)
-카드뉴스는 이미지 위에 텍스트가 올라가는 형태입니다. 글자가 많으면 가독성이 떨어집니다!
+📌 카드뉴스 구조 (총 6장: 썸네일 1장 + 본문 카드 5장)
 
-[카드뉴스 작성 규칙 - 글자수 엄격 준수!]
-- 카드 제목: 최대 10자 이내 (예: "포션 커피란?", "블랙 vs 마일드")
-- 카드 내용: 최대 25자 이내!!! 이모지 포함 가능
-- 긴 설명 금지! 핵심 키워드만 나열
-- 좋은 예시: "☕ 마일드 타입: 부드러운 맛, 우유와 환상 조합!"
-- 나쁜 예시: "작은 액상 커피 농축액! 물, 우유, 탄산수에 섞어 마시는 방식이에요." (너무 김!)
+[썸네일] 시선을 잡는 메인 타이틀 (16자 이내, 이모지 포함)
+
+[카드 1~5 작성 규칙]
+- 사용자가 끝까지 넘겨보게 만드는 흥미 유발 구성!
+- 각 카드는 독립적으로 가치 있는 핵심 정보 1개씩
+- 카드 제목: 최대 10자 이내 (예: "운행 시간은?", "가격 비교!")
+- 카드 내용: 2~3문장으로 핵심 정보 전달 (수치/가격/시간 등 구체적 디테일 필수!)
+- 마지막 카드는 꿀팁이나 주의사항으로 마무리
+- 각 카드마다 alt_text 작성 (시각장애인용 이미지 설명, 한국어 1문장)
 
 [본문(caption) 작성 규칙]
-- 짧고 임팩트있는 도입부
-- 카드에서 다 담지 못한 상세 설명은 여기에!
-- CTA(Call-to-Action)와 해시태그 포함
+- 전체 내용을 한눈에 요약하는 역할
+- 이모지와 함께 간결하고 임팩트 있게 작성
+- 카드뉴스의 핵심을 3~5줄로 요약
+- 마지막에 CTA 포함
+
+[본문 예시 톤앤매너]
+#주말오사카여행, 이제 걱정 끝! 🎯
+대한항공에서 금요일 저녁 출발, 월요일 아침 귀국 오사카 노선 추가! 짧은 시간 안에 오사카와 교토를 둘 다 즐길 수 있는 기회!
+📌 주말 여행 계획 세우는 꿀팁!
+🙌🏻 일본 여행 정보 더 보고 싶다면?
+✔️ @flyingjapan 팔로우하기!
+✔️ 댓글에 '오사카' 남겨주세요
+DM으로 정보 보내드려요 💙
 
 [콘텐츠 정보]
 제목: ${title.substring(0, 200)}
-내용: ${content.substring(0, 1500)}
+내용: ${content.substring(0, 2000)}
 출처: ${source}
 
-[응답 형식]
-반드시 한국어로 JSON 형식으로만 응답:
+[응답 형식] 반드시 JSON만 출력:
 {
-  "category": "다음 중 정확히 하나만 선택: transport, season, hotplace, tips, event, breaking",
+  "category": "transport/season/hotplace/tips/event/breaking 중 하나",
   "relevance": {
-    "impact": "상/중/하",
     "interest": "상/중/하",
     "appeal": "매력 포인트 한 줄"
   },
   "thumbnail_title": "메인 타이틀 16자 이내 (이모지 포함)",
   "cards": [
-    {"title": "10자 이내", "content": "25자 이내! 핵심만"},
-    {"title": "10자 이내", "content": "25자 이내! 간결하게"},
-    {"title": "10자 이내", "content": "25자 이내! 이모지OK"},
-    {"title": "10자 이내", "content": "25자 이내!"}
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장 (수치/디테일 포함)", "alt_text": "이미지 설명 1문장"},
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"},
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"},
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"},
+    {"title": "10자 이내", "content": "꿀팁/주의사항 2~3문장", "alt_text": "이미지 설명"}
   ],
-  "caption": "# 임팩트있는 제목 🎯\\n\\n도입부 및 상세 설명 (카드에서 다 담지 못한 내용은 여기에 풀어서 작성)\\n\\n📌 저장해두면 여행할 때 유용해요!\\n\\n🙌🏻 일본 여행 정보 더 보고 싶다면?\\n✔️ @flyingjapan 팔로우하기!\\n✔️ 댓글에 '정보' 남겨주세요\\n\\nDM으로 정보 보내드려요 💙",
+  "caption": "본문 요약 (위 예시 톤앤매너 참고, 전체를 한눈에 요약)",
   "hashtags": ["#일본여행", "#플라잉재팬", "... 총 15개"],
+  "marketer_analysis": "타겟: OO / 최적 게시 시간: OO시 / 기대 반응: OO / 이 콘텐츠의 강점: OO",
   "image_keyword": "영어 키워드"
 }
 
 JSON만 출력하세요.`;
 
-  const aiResponse = await fetch(GEMINI_API_URL + '?key=' + GEMINI_API_KEY, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.7, maxOutputTokens: 2048 }
-    })
-  });
+  // API 호출 (Primary → Fallback)
+  let aiText = '';
+  for (const apiUrl of [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]) {
+    try {
+      const aiResponse = await fetch(apiUrl + '?key=' + GEMINI_API_KEY, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { temperature: 0.7, maxOutputTokens: 8192 }
+        })
+      });
 
-  if (!aiResponse.ok) {
-    throw new Error('AI API 호출 실패: ' + aiResponse.status);
+      if (aiResponse.ok) {
+        const aiData = await aiResponse.json();
+        aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
+        if (aiText) break;
+      }
+    } catch (e) {
+      console.warn('AI API fallback:', e);
+    }
   }
 
-  const aiData = await aiResponse.json();
-  const aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  if (!aiText) {
+    throw new Error('AI API 호출 실패');
+  }
 
   // JSON 추출
   const jsonMatch = aiText.match(/\{[\s\S]*\}/);
@@ -130,16 +157,8 @@ JSON만 출력하세요.`;
   // 카테고리 검증 및 보정
   const validCategories = ['transport', 'season', 'hotplace', 'tips', 'event', 'breaking'];
   let category = (aiContent.category || 'tips').toLowerCase().trim();
-
-  // "season/hotplace" 같은 경우 첫 번째 값만 사용
-  if (category.includes('/')) {
-    category = category.split('/')[0].trim();
-  }
-
-  // 유효하지 않은 카테고리면 기본값 사용
-  if (!validCategories.includes(category)) {
-    category = 'tips';
-  }
+  if (category.includes('/')) category = category.split('/')[0].trim();
+  if (!validCategories.includes(category)) category = 'tips';
 
   // 3. Plan 객체 생성
   const planId = 'url_' + Date.now().toString(36);
@@ -154,13 +173,15 @@ JSON만 출력하세요.`;
       url: url,
       date: new Date().toISOString().split('T')[0]
     },
-    relevance: aiContent.relevance || { impact: '중', interest: '중', appeal: '사용자 요청' },
+    relevance: aiContent.relevance || { interest: '중', appeal: '사용자 요청' },
     content: {
       thumbnail_title: aiContent.thumbnail_title || '',
       cards: aiContent.cards || [],
       caption: aiContent.caption || '',
-      hashtags: aiContent.hashtags || []
+      hashtags: aiContent.hashtags || [],
+      alt_texts: (aiContent.cards || []).map(c => c.alt_text || '')
     },
+    marketer_analysis: aiContent.marketer_analysis || '',
     image: {
       keyword: imageKeyword,
       unsplash_url: 'https://unsplash.com/s/photos/' + imageKeyword.replace(/ /g, '-'),
@@ -175,71 +196,95 @@ async function generateContentFromText(originalText) {
     throw new Error('텍스트가 너무 짧습니다. 최소 20자 이상 입력해주세요.');
   }
 
-  const prompt = `당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
+  const prompt = `당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획 전문가"입니다.
+@flyingjapan 계정의 톤앤매너로 작성하세요.
 
 ⚠️ 매우 중요한 규칙:
-1. 원본 텍스트의 "핵심 정보"를 참고하되, 다른 표현과 화법으로 재창작하세요
+1. 원본 텍스트의 "핵심 정보"를 참고하되, 완전히 다른 표현과 화법으로 재창작하세요
 2. 원본 문장을 그대로 복사하지 마세요! 같은 의미를 다른 문장으로 작성하세요
 3. 모든 콘텐츠는 반드시 "한국어"로 작성하세요
 4. 외부 사이트/출처/원본 계정 언급 절대 금지!
-5. @flyingjapan 계정의 톤앤매너로 작성하세요
+5. 수치, 가격, 날짜, 노선명 등 구체적 정보를 절대 누락하지 마세요
 
-📌 인스타그램 카드뉴스 구조 (매우 중요!)
-카드뉴스는 이미지 위에 텍스트가 올라가는 형태입니다. 글자가 많으면 가독성이 떨어집니다!
+📌 카드뉴스 구조 (총 6장: 썸네일 1장 + 본문 카드 5장)
 
-[카드뉴스 작성 규칙 - 글자수 엄격 준수!]
-- 카드 제목: 최대 10자 이내 (예: "포션 커피란?", "블랙 vs 마일드")
-- 카드 내용: 최대 25자 이내!!! 이모지 포함 가능
-- 긴 설명 금지! 핵심 키워드만 나열
-- 좋은 예시: "☕ 마일드 타입: 부드러운 맛, 우유와 환상 조합!"
-- 나쁜 예시: "작은 액상 커피 농축액! 물, 우유, 탄산수에 섞어 마시는 방식이에요." (너무 김!)
+[썸네일] 시선을 잡는 메인 타이틀 (16자 이내, 이모지 포함)
+
+[카드 1~5 작성 규칙]
+- 사용자가 끝까지 넘겨보게 만드는 흥미 유발 구성!
+- 각 카드는 독립적으로 가치 있는 핵심 정보 1개씩
+- 카드 제목: 최대 10자 이내 (예: "운행 시간은?", "가격 비교!")
+- 카드 내용: 2~3문장으로 핵심 정보 전달 (수치/가격/시간 등 구체적 디테일 필수!)
+- 마지막 카드는 꿀팁이나 주의사항으로 마무리
+- 각 카드마다 alt_text 작성 (시각장애인용 이미지 설명, 한국어 1문장)
 
 [본문(caption) 작성 규칙]
-- 짧고 임팩트있는 도입부
-- 카드에서 다 담지 못한 상세 설명은 여기에!
-- CTA(Call-to-Action)와 해시태그 포함
+- 전체 내용을 한눈에 요약하는 역할
+- 이모지와 함께 간결하고 임팩트 있게 작성
+- 카드뉴스의 핵심을 3~5줄로 요약
+- 마지막에 CTA 포함
 
-[원본 텍스트 (참고용)]
+[본문 예시 톤앤매너]
+#주말오사카여행, 이제 걱정 끝! 🎯
+대한항공에서 금요일 저녁 출발, 월요일 아침 귀국 오사카 노선 추가! 짧은 시간 안에 오사카와 교토를 둘 다 즐길 수 있는 기회!
+📌 주말 여행 계획 세우는 꿀팁!
+🙌🏻 일본 여행 정보 더 보고 싶다면?
+✔️ @flyingjapan 팔로우하기!
+✔️ 댓글에 '오사카' 남겨주세요
+DM으로 정보 보내드려요 💙
+
+[원본 텍스트 (참고용 - 표현을 바꿔서 재창작!)]
 ${originalText.substring(0, 2000)}
 
-[응답 형식]
-반드시 한국어로 JSON 형식으로만 응답:
+[응답 형식] 반드시 JSON만 출력:
 {
-  "category": "다음 중 정확히 하나만 선택: transport, season, hotplace, tips, event, breaking",
+  "category": "transport/season/hotplace/tips/event/breaking 중 하나",
   "relevance": {
-    "impact": "상/중/하",
     "interest": "상/중/하",
     "appeal": "매력 포인트 한 줄"
   },
   "thumbnail_title": "메인 타이틀 16자 이내 (이모지 포함)",
   "cards": [
-    {"title": "10자 이내", "content": "25자 이내! 핵심만"},
-    {"title": "10자 이내", "content": "25자 이내! 간결하게"},
-    {"title": "10자 이내", "content": "25자 이내! 이모지OK"},
-    {"title": "10자 이내", "content": "25자 이내!"}
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장 (수치/디테일 포함)", "alt_text": "이미지 설명 1문장"},
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"},
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"},
+    {"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"},
+    {"title": "10자 이내", "content": "꿀팁/주의사항 2~3문장", "alt_text": "이미지 설명"}
   ],
-  "caption": "# 임팩트있는 제목 🎯\\n\\n도입부 및 상세 설명 (카드에서 다 담지 못한 내용은 여기에 풀어서 작성)\\n\\n📌 저장해두면 여행할 때 유용해요!\\n\\n🙌🏻 일본 여행 정보 더 보고 싶다면?\\n✔️ @flyingjapan 팔로우하기!\\n✔️ 댓글에 '정보' 남겨주세요\\n\\nDM으로 정보 보내드려요 💙",
+  "caption": "본문 요약 (위 예시 톤앤매너 참고, 전체를 한눈에 요약)",
   "hashtags": ["#일본여행", "#플라잉재팬", "... 총 15개"],
+  "marketer_analysis": "타겟: OO / 최적 게시 시간: OO시 / 기대 반응: OO / 이 콘텐츠의 강점: OO",
   "image_keyword": "영어 키워드"
 }
 
 JSON만 출력하세요.`;
 
-  const aiResponse = await fetch(GEMINI_API_URL + '?key=' + GEMINI_API_KEY, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.9, maxOutputTokens: 2048 }  // 더 높은 temperature로 창의적 출력
-    })
-  });
+  // API 호출 (Primary → Fallback)
+  let aiText = '';
+  for (const apiUrl of [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]) {
+    try {
+      const aiResponse = await fetch(apiUrl + '?key=' + GEMINI_API_KEY, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { temperature: 0.9, maxOutputTokens: 8192 }
+        })
+      });
 
-  if (!aiResponse.ok) {
-    throw new Error('AI API 호출 실패: ' + aiResponse.status);
+      if (aiResponse.ok) {
+        const aiData = await aiResponse.json();
+        aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
+        if (aiText) break;
+      }
+    } catch (e) {
+      console.warn('AI API fallback:', e);
+    }
   }
 
-  const aiData = await aiResponse.json();
-  const aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  if (!aiText) {
+    throw new Error('AI API 호출 실패');
+  }
 
   // JSON 추출
   const jsonMatch = aiText.match(/\{[\s\S]*\}/);
@@ -253,12 +298,8 @@ JSON만 출력하세요.`;
   // 카테고리 검증 및 보정
   const validCategories = ['transport', 'season', 'hotplace', 'tips', 'event', 'breaking'];
   let category = (aiContent.category || 'tips').toLowerCase().trim();
-  if (category.includes('/')) {
-    category = category.split('/')[0].trim();
-  }
-  if (!validCategories.includes(category)) {
-    category = 'tips';
-  }
+  if (category.includes('/')) category = category.split('/')[0].trim();
+  if (!validCategories.includes(category)) category = 'tips';
 
   // Plan 객체 생성
   const planId = 'text_' + Date.now().toString(36);
@@ -273,13 +314,15 @@ JSON만 출력하세요.`;
       url: '',
       date: new Date().toISOString().split('T')[0]
     },
-    relevance: aiContent.relevance || { impact: '중', interest: '중', appeal: '텍스트 기반 재창작' },
+    relevance: aiContent.relevance || { interest: '중', appeal: '텍스트 기반 재창작' },
     content: {
       thumbnail_title: aiContent.thumbnail_title || '',
       cards: aiContent.cards || [],
       caption: aiContent.caption || '',
-      hashtags: aiContent.hashtags || []
+      hashtags: aiContent.hashtags || [],
+      alt_texts: (aiContent.cards || []).map(c => c.alt_text || '')
     },
+    marketer_analysis: aiContent.marketer_analysis || '',
     image: {
       keyword: imageKeyword,
       unsplash_url: 'https://unsplash.com/s/photos/' + imageKeyword.replace(/ /g, '-'),
@@ -5898,14 +5941,27 @@ function copyPlannerContent(plan) {
   const cards = plan.content.cards || [];
   const caption = plan.content.caption || plan.content.body || '';
   const hashtags = plan.content.hashtags || [];
+  const altTexts = plan.content.alt_texts || cards.map(c => c.alt_text || '');
+  const marketerAnalysis = plan.marketer_analysis || '';
 
   // 카드뉴스 텍스트 생성
   const cardsText = cards.length > 0
     ? `[썸네일]\n${thumbnailTitle}\n\n` + cards.map((card, i) => `[카드${i + 1}]\n${card.title}\n${card.content}`).join('\n\n')
     : '';
 
+  // ALT 텍스트
+  const altFiltered = altTexts.filter(t => t && t.trim());
+  const altSection = altFiltered.length > 0
+    ? `\n\n${'─'.repeat(20)}\n\n[ALT 텍스트]\n` + altFiltered.map((alt, i) => `카드 ${i + 1}: ${alt}`).join('\n')
+    : '';
+
+  // 마케터 분석
+  const marketerSection = marketerAnalysis
+    ? `\n\n${'─'.repeat(20)}\n\n[마케터 분석]\n${marketerAnalysis}`
+    : '';
+
   const content = cardsText
-    ? `${cardsText}\n\n${'─'.repeat(20)}\n\n[본문]\n${caption}\n\n${hashtags.join(' ')}`
+    ? `${cardsText}\n\n${'─'.repeat(20)}\n\n[본문]\n${caption}\n\n${hashtags.join(' ')}${altSection}${marketerSection}`
     : `${thumbnailTitle}\n\n${caption}\n\n${hashtags.join(' ')}`;
 
   navigator.clipboard.writeText(content).then(() => {
@@ -5969,6 +6025,8 @@ function openPlannerDetail(planId) {
   const cards = plan.content.cards || [];
   const caption = plan.content.caption || plan.content.body || '';
   const hashtags = plan.content.hashtags || [];
+  const altTexts = plan.content.alt_texts || cards.map(c => c.alt_text || '');
+  const marketerAnalysis = plan.marketer_analysis || '';
 
   // 카드뉴스 HTML 생성 (수정 가능)
   const cardsHtml = `
@@ -5995,6 +6053,30 @@ function openPlannerDetail(planId) {
     </div>
   `;
 
+  // ALT 텍스트 가이드 HTML
+  const altTextsFiltered = altTexts.filter(t => t && t.trim());
+  const altTextsHtml = altTextsFiltered.length > 0 ? `
+    <div class="planner-detail-section planner-alt-section">
+      <h4>🎯 ALT 텍스트 가이드</h4>
+      <div class="alt-texts-list">
+        ${altTextsFiltered.map((alt, i) => `
+          <div class="alt-text-item">
+            <span class="alt-text-label">카드 ${i + 1}</span>
+            <span class="alt-text-value">${alt}</span>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  ` : '';
+
+  // 마케터 분석 HTML
+  const marketerHtml = marketerAnalysis ? `
+    <div class="planner-detail-section planner-marketer-section">
+      <h4>📊 마케터 분석</h4>
+      <div class="marketer-analysis-content">${marketerAnalysis}</div>
+    </div>
+  ` : '';
+
   const modal = document.createElement('div');
   modal.id = 'planner-detail-modal';
   modal.className = 'modal-overlay';
@@ -6007,6 +6089,7 @@ function openPlannerDetail(planId) {
       </div>
       <div class="planner-detail-body">
         ${cardsHtml}
+        ${altTextsHtml}
         ${plan.source?.url ? `
         <div class="planner-detail-section planner-source-section">
           <h4>🔗 원본 기사</h4>
@@ -6024,6 +6107,7 @@ function openPlannerDetail(planId) {
           <h4>🏷️ 해시태그 (${hashtags.length}개)</h4>
           <textarea class="edit-textarea edit-hashtags" id="detail-hashtags" rows="2">${hashtags.join(' ')}</textarea>
         </div>
+        ${marketerHtml}
         <div class="planner-detail-images">
           <h4>🖼️ 무료 이미지 검색</h4>
           <div class="planner-image-links">
@@ -6073,7 +6157,18 @@ function openPlannerDetail(planId) {
 
     const cardsText = `[썸네일]\n${currentThumbnail}\n\n` +
       currentCards.map((card, i) => `[카드${i + 1}]\n${card.title}\n${card.content}`).join('\n\n');
-    const fullText = `${cardsText}\n\n${'─'.repeat(20)}\n\n[본문]\n${currentCaption}\n\n${currentHashtags}`;
+
+    // ALT 텍스트 수집
+    const altItems = document.querySelectorAll('.alt-text-value');
+    const altSection = altItems.length > 0
+      ? `\n\n${'─'.repeat(20)}\n\n[ALT 텍스트]\n` + Array.from(altItems).map((el, i) => `카드 ${i + 1}: ${el.textContent}`).join('\n')
+      : '';
+
+    // 마케터 분석 수집
+    const marketerEl = document.querySelector('.marketer-analysis-content');
+    const marketerSection = marketerEl ? `\n\n${'─'.repeat(20)}\n\n[마케터 분석]\n${marketerEl.textContent}` : '';
+
+    const fullText = `${cardsText}\n\n${'─'.repeat(20)}\n\n[본문]\n${currentCaption}\n\n${currentHashtags}${altSection}${marketerSection}`;
 
     navigator.clipboard.writeText(fullText).then(() => {
       showToast('📋 전체 콘텐츠가 복사되었습니다!');

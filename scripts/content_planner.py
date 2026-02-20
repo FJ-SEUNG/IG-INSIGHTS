@@ -18,7 +18,10 @@ import requests
 # ═══════════════════════════════════════════════════════════════
 
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
-GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent'
+GEMINI_MODEL_PRIMARY = 'gemini-2.5-flash-lite'
+GEMINI_MODEL_FALLBACK = 'gemini-2.0-flash'
+GEMINI_API_URL = f'https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL_PRIMARY}:generateContent'
+GEMINI_API_URL_FALLBACK = f'https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL_FALLBACK}:generateContent'
 
 # 일본 뉴스 RSS 피드 (여행/관광 특화)
 RSS_FEEDS = [
@@ -201,20 +204,22 @@ def categorize_news(news: Dict) -> str:
 # Gemma AI 콘텐츠 생성
 # ═══════════════════════════════════════════════════════════════
 
-def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
-    """Gemma AI로 콘텐츠 기획 생성"""
+def generate_content_with_ai(news: Dict) -> Optional[Dict]:
+    """Gemini AI로 콘텐츠 기획 생성 (Primary → Fallback)"""
     if not GEMINI_API_KEY:
         print("⚠️ GEMINI_API_KEY not set, skipping AI generation")
         return None
 
-    prompt = f"""당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획자"입니다.
+    prompt = f"""당신은 "한국인 일본 여행자 대상 인스타그램 콘텐츠 기획 전문가"입니다.
 목표: 한국에서 일본으로 여행 오는 한국인 여행자에게 실질적으로 도움이 되는 정보만 콘텐츠로 제작합니다.
+@flyingjapan 계정의 톤앤매너로 작성하세요.
 
 ⚠️ 중요 규칙:
 1. 반드시 "일본 여행"과 직접 관련된 이슈만 콘텐츠로 만드세요
 2. 모든 콘텐츠는 반드시 "한국어"로 작성하세요 (일본어 사용 금지)
 3. 일본이 아닌 다른 나라(이탈리아, 미국 등) 관련 내용은 절대 제작하지 마세요
-4. 외부 사이트/출처 언급 금지! (트래블워치, 야후재팬 등 원본 출처를 언급하지 마세요)
+4. 외부 사이트/출처 언급 금지!
+5. 수치, 가격, 날짜, 노선명 등 구체적 정보를 절대 누락하지 마세요
 
 [뉴스 정보]
 제목: {news['title']}
@@ -234,12 +239,12 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
 - 일본 숙소/환전/입국 관련 정보
 - 일본 날씨/재해/안전 정보
 - 엔화 환율 변동 (원/엔 환율 급등락)
-- 일본 현지 사건사고 (관광객이 알아야 할 치안/안전 이슈, 예: 도톤보리 사건 등)
+- 일본 현지 사건사고 (관광객이 알아야 할 치안/안전 이슈)
 - 관광정책 변경 (비자, 입국심사, 면세한도 등)
 
 ❌ 부적합한 이슈 (반드시 skip 처리):
-- 올림픽/월드컵/스포츠 경기 결과, 메달 소식 (피겨스케이팅, 스키점프 등 모두 포함)
-- 일본이 아닌 다른 나라 이야기 (이탈리아, 밀라노, 코르티나 등)
+- 올림픽/월드컵/스포츠 경기 결과, 메달 소식
+- 일본이 아닌 다른 나라 이야기
 - 일본 정치/국회/외교/선거
 - 일본 연예인/방송/드라마
 - 일본 기업 실적/주가
@@ -254,57 +259,64 @@ def generate_content_with_gemma(news: Dict) -> Optional[Dict]:
 {{
   "skip": false,
   "relevance": {{
-    "impact": "상/중/하",
     "interest": "상/중/하",
     "appeal": "매력 포인트 한 줄 (한국어)"
   }},
   "thumbnail_title": "메인 타이틀 16자 이내 (한국어, 이모지 포함)",
   "cards": [
-    {{"title": "카드1 제목 12자내 (한국어)", "content": "카드1 내용 50자내 (한국어)"}},
-    {{"title": "카드2 제목 (한국어)", "content": "카드2 내용 (한국어)"}},
-    {{"title": "카드3 제목 (한국어)", "content": "카드3 내용 (한국어)"}},
-    {{"title": "카드4 제목 (한국어)", "content": "카드4 내용 (한국어)"}}
+    {{"title": "10자 이내", "content": "핵심 정보 2~3문장 (수치/디테일 포함)", "alt_text": "이미지 설명 1문장"}},
+    {{"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"}},
+    {{"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"}},
+    {{"title": "10자 이내", "content": "핵심 정보 2~3문장", "alt_text": "이미지 설명"}},
+    {{"title": "10자 이내", "content": "꿀팁/주의사항 2~3문장", "alt_text": "이미지 설명"}}
   ],
-  "caption": "인스타그램 본문 (한국어, 아래 형식 필수):\n# 제목\n도입부 2-3줄\n\n# 핵심정보1 제목\n상세 내용\n\n# 핵심정보2 제목\n상세 내용\n\n📌 저장해두고 친구한테도 공유해주세요!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 'XX' 남겨주세요\n\nDM으로 관련 정보 보내드려요 💙",
+  "caption": "본문 요약 (전체를 한눈에 요약, 이모지 포함, 간결하게 3~5줄 + CTA)",
   "hashtags": ["#일본여행", "#플라잉재팬", ... 총 15개],
+  "marketer_analysis": "타겟: OO / 최적 게시 시간: OO시 / 기대 반응: OO / 이 콘텐츠의 강점: OO",
   "image_keyword": "영어 키워드"
 }}
 
 JSON만 출력하세요."""
 
-    try:
-        response = requests.post(
-            f"{GEMINI_API_URL}?key={GEMINI_API_KEY}",
-            headers={'Content-Type': 'application/json'},
-            json={
-                'contents': [{'parts': [{'text': prompt}]}],
-                'generationConfig': {
-                    'temperature': 0.7,
-                    'maxOutputTokens': 2048,
-                }
-            },
-            timeout=30
-        )
+    # Primary → Fallback 순서로 시도
+    for api_url in [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]:
+        try:
+            model_name = api_url.split('/models/')[1].split(':')[0]
+            print(f"🤖 Trying model: {model_name}")
 
-        if response.status_code == 200:
-            result = response.json()
-            text = result['candidates'][0]['content']['parts'][0]['text']
+            response = requests.post(
+                f"{api_url}?key={GEMINI_API_KEY}",
+                headers={'Content-Type': 'application/json'},
+                json={
+                    'contents': [{'parts': [{'text': prompt}]}],
+                    'generationConfig': {
+                        'temperature': 0.7,
+                        'maxOutputTokens': 8192,
+                    }
+                },
+                timeout=60
+            )
 
-            # JSON 추출
-            json_match = re.search(r'\{[\s\S]*\}', text)
-            if json_match:
-                content = json.loads(json_match.group())
-                # AI가 부적합 판단한 경우
-                if content.get('skip'):
-                    print(f"⏭️ Skipped: {content.get('reason', '여행자 관련성 낮음')}")
-                    return None
-                return content
-        else:
-            print(f"❌ Gemma API error: {response.status_code} - {response.text[:200]}")
+            if response.status_code == 200:
+                result = response.json()
+                text = result['candidates'][0]['content']['parts'][0]['text']
 
-    except Exception as e:
-        print(f"❌ Error generating content: {e}")
+                # JSON 추출
+                json_match = re.search(r'\{[\s\S]*\}', text)
+                if json_match:
+                    content = json.loads(json_match.group())
+                    if content.get('skip'):
+                        print(f"⏭️ Skipped: {content.get('reason', '여행자 관련성 낮음')}")
+                        return None
+                    print(f"✅ Content generated with {model_name}")
+                    return content
+            else:
+                print(f"⚠️ {model_name} API error: {response.status_code} - {response.text[:200]}")
 
+        except Exception as e:
+            print(f"⚠️ {model_name} error: {e}")
+
+    print("❌ All models failed")
     return None
 
 def create_plan_from_news(news: Dict, content: Dict) -> Dict:
@@ -317,11 +329,15 @@ def create_plan_from_news(news: Dict, content: Dict) -> Dict:
     # relevance 정보 (AI가 평가한 여행자 관련성)
     relevance = content.get('relevance', {})
 
+    # cards에서 alt_text 추출
+    cards = content.get('cards', [])
+    alt_texts = [card.get('alt_text', '') for card in cards]
+
     return {
         'id': plan_id,
         'created_at': datetime.now().isoformat(),
         'category': category,
-        'priority': 'high' if relevance.get('impact') == '상' else ('medium' if relevance.get('impact') == '중' else 'low'),
+        'priority': 'high' if relevance.get('interest') == '상' else ('medium' if relevance.get('interest') == '중' else 'low'),
         'status': 'new',
         'source': {
             'title': news['title'],
@@ -329,16 +345,17 @@ def create_plan_from_news(news: Dict, content: Dict) -> Dict:
             'date': news.get('published', datetime.now().strftime('%Y-%m-%d'))
         },
         'relevance': {
-            'impact': relevance.get('impact', '-'),
             'interest': relevance.get('interest', '-'),
             'appeal': relevance.get('appeal', '')
         },
         'content': {
             'thumbnail_title': content.get('thumbnail_title', ''),
-            'cards': content.get('cards', []),
+            'cards': cards,
             'caption': content.get('caption', ''),
-            'hashtags': content.get('hashtags', [])
+            'hashtags': content.get('hashtags', []),
+            'alt_texts': alt_texts
         },
+        'marketer_analysis': content.get('marketer_analysis', ''),
         'image': {
             'keyword': image_keyword,
             'unsplash_url': f"https://unsplash.com/s/photos/{image_keyword.replace(' ', '-')}",
@@ -392,7 +409,7 @@ def main():
             continue
 
         print(f"🤖 Generating content for: {news['title'][:40]}...")
-        content = generate_content_with_gemma(news)
+        content = generate_content_with_ai(news)
 
         # AI가 skip (None 반환) 하면 plan 생성하지 않음
         if content is None:
