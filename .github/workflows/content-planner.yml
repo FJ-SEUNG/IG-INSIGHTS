@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add docs/data/content_plans.json
           git diff --cached --quiet || git commit -m "Update content plans $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main || git rebase --abort
+          git push || (git pull origin main --no-rebase --strategy-option theirs && git push)
