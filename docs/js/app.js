@@ -5991,15 +5991,40 @@ function getPlannerSelectedImages() {
   }
 }
 
-function getSelectedImageForPlan(planId) {
+function getPlanImageConfig(planId) {
   const map = getPlannerSelectedImages();
-  return map[planId] || '';
+  const raw = map[planId];
+  if (!raw) return { default: '', slides: {} };
+  if (typeof raw === 'string') return { default: raw, slides: {} };
+  return {
+    default: raw.default || '',
+    slides: raw.slides || {},
+  };
 }
 
-function setSelectedImageForPlan(planId, imageUrl) {
+function getSelectedImageForPlan(planId, slideIndex = null) {
+  const conf = getPlanImageConfig(planId);
+  if (slideIndex === null || slideIndex === undefined) return conf.default || '';
+  return conf.slides[String(slideIndex)] || conf.default || '';
+}
+
+function setSelectedImageForPlan(planId, imageUrl, slideIndex = null) {
   const map = getPlannerSelectedImages();
-  map[planId] = imageUrl;
+  const conf = getPlanImageConfig(planId);
+  if (slideIndex === null || slideIndex === undefined) {
+    conf.default = imageUrl;
+  } else {
+    conf.slides[String(slideIndex)] = imageUrl;
+  }
+  map[planId] = conf;
   localStorage.setItem(PLANNER_SELECTED_IMAGES_KEY, JSON.stringify(map));
+}
+
+function getActiveSvgTargetIndex() {
+  const selected = document.querySelector('input[name="planner-svg-target"]:checked');
+  if (!selected) return 0;
+  const idx = Number(selected.value);
+  return Number.isInteger(idx) ? idx : 0;
 }
 
 function buildUnsplashSourceCandidates(keyword = '') {
@@ -6042,7 +6067,7 @@ async function fetchWikimediaCandidates(keyword = '') {
   }
 }
 
-function renderPlannerImageCandidates(candidates, selectedUrl = '') {
+function renderPlannerImageCandidates(candidates, selectedUrl = '', targetIndex = 0) {
   const container = document.getElementById('planner-image-results');
   if (!container) return;
   if (!candidates.length) {
@@ -6068,14 +6093,14 @@ function renderPlannerImageCandidates(candidates, selectedUrl = '') {
   `;
 }
 
-function updateSelectedImageLabel(imageUrl = '') {
+function updateSelectedImageLabel(imageUrl = '', targetIndex = 0) {
   const label = document.getElementById('planner-image-selected');
   if (!label) return;
   if (!imageUrl) {
-    label.textContent = '선택 이미지: 없음 (기본 템플릿 배경 사용)';
+    label.textContent = `적용 대상: ${targetIndex + 1}번째 카드 · 이미지 없음`;
     return;
   }
-  label.textContent = `선택 이미지: ${imageUrl.length > 64 ? imageUrl.slice(0, 64) + '...' : imageUrl}`;
+  label.textContent = `적용 대상: ${targetIndex + 1}번째 카드 · ${imageUrl.length > 52 ? imageUrl.slice(0, 52) + '...' : imageUrl}`;
 }
 
 async function fetchFreeImageCandidatesForPlan(plan) {
@@ -6139,15 +6164,16 @@ function splitLines(text, fallbackMax = 3) {
   return lines.length ? lines : Array.from({ length: fallbackMax }, () => '');
 }
 
-function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroundUrl = '' }) {
+function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroundUrl = '', variant = 'card' }) {
   const safeX = 80;
-  const titleSize = 100;
-  const titleLineHeight = 135;
+  const isThumbnail = variant === 'thumbnail';
+  const titleSize = isThumbnail ? 100 : 78;
+  const titleLineHeight = isThumbnail ? 135 : 102;
   const bodySize = 56;
   const bodyLineHeight = 74;
-  const logoY = 860;
+  const logoY = isThumbnail ? 860 : 840;
 
-  const titleStartY = bodyLines.length > 0 ? 980 : 1030;
+  const titleStartY = isThumbnail ? 980 : 980;
   const bodyStartY = 1110;
 
   const titleText = titleLines
@@ -6281,7 +6307,7 @@ function collectPlannerDraftFromModal(plan) {
 
 function buildPlannerSvgSlides(plan) {
   const { thumbnail, cards } = collectPlannerDraftFromModal(plan);
-  const selectedImage = getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
+  const defaultImage = getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
   const baseSlides = [
     {
       pageLabel: '1번째',
@@ -6298,14 +6324,19 @@ function buildPlannerSvgSlides(plan) {
   ];
 
   return baseSlides.map(slide => {
+    const slideIndex = Number(slide.pageLabel.replace('번째', '')) - 1;
+    const slideImage = getSelectedImageForPlan(plan.id, slideIndex) || defaultImage;
     const svg = buildSvgCardTemplate({
       pageLabel: slide.pageLabel,
       titleLines: slide.titleLines,
       bodyLines: slide.bodyLines,
-      backgroundUrl: selectedImage,
+      backgroundUrl: slideImage,
+      variant: slideIndex === 0 ? 'thumbnail' : 'card',
     });
     return {
       ...slide,
+      slideIndex,
+      backgroundUrl: slideImage,
       svg,
       previewUrl: `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`,
     };
@@ -6322,7 +6353,13 @@ function renderPlannerSvgPreview(plan) {
         <label style="display:block;background:var(--bg-alt);border:1px solid var(--border);border-radius:12px;padding:10px;">
           <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
             <span style="font-size:12px;color:var(--subtext);">${slide.pageLabel}</span>
-            <input type="checkbox" class="planner-svg-check" data-index="${idx}" checked>
+            <span style="display:flex;gap:8px;align-items:center;">
+              <label style="font-size:11px;color:var(--subtext);display:flex;gap:4px;align-items:center;">
+                <input type="radio" name="planner-svg-target" value="${slide.slideIndex}" ${idx === 0 ? 'checked' : ''}>
+                적용대상
+              </label>
+              <input type="checkbox" class="planner-svg-check" data-index="${idx}" checked>
+            </span>
           </div>
           <img src="${slide.previewUrl}" alt="${slide.pageLabel}" style="width:100%;height:auto;border-radius:8px;border:1px solid var(--border);">
         </label>
@@ -6557,7 +6594,7 @@ function openPlannerDetail(planId) {
     downloadPlannerSvgTemplates(plan);
   });
 
-  updateSelectedImageLabel(selectedImage);
+  updateSelectedImageLabel(selectedImage, 0);
   renderPlannerSvgPreview(plan);
 
   document.getElementById('planner-image-search')?.addEventListener('click', async () => {
@@ -6566,8 +6603,9 @@ function openPlannerDetail(planId) {
     const original = btn.textContent;
     btn.disabled = true;
     btn.textContent = '검색 중...';
+    const targetIndex = getActiveSvgTargetIndex();
     const candidates = await fetchFreeImageCandidatesForPlan(plan);
-    renderPlannerImageCandidates(candidates, getSelectedImageForPlan(plan.id) || '');
+    renderPlannerImageCandidates(candidates, getSelectedImageForPlan(plan.id, targetIndex) || '', targetIndex);
     btn.textContent = original;
     btn.disabled = false;
   });
@@ -6577,15 +6615,22 @@ function openPlannerDetail(planId) {
     if (!target) return;
     const imageUrl = target.getAttribute('data-image-url') || '';
     if (!imageUrl) return;
-    setSelectedImageForPlan(plan.id, imageUrl);
+    const targetIndex = getActiveSvgTargetIndex();
+    setSelectedImageForPlan(plan.id, imageUrl, targetIndex);
     if (!plan.image) plan.image = {};
-    plan.image.selected_url = imageUrl;
-    updateSelectedImageLabel(imageUrl);
+    if (targetIndex === 0) plan.image.selected_url = imageUrl;
+    updateSelectedImageLabel(imageUrl, targetIndex);
     renderPlannerSvgPreview(plan);
     document.querySelectorAll('.planner-select-image-btn').forEach(btn => {
       btn.textContent = btn.getAttribute('data-image-url') === imageUrl ? '✅ 선택됨' : '선택';
     });
-    showToast('🖼️ 이미지가 선택되었습니다. SVG 템플릿에 반영됩니다.');
+    showToast(`🖼️ ${targetIndex + 1}번째 카드에 이미지가 적용되었습니다.`);
+  });
+
+  document.getElementById('planner-template-preview')?.addEventListener('change', (e) => {
+    if (!e.target.matches('input[name="planner-svg-target"]')) return;
+    const targetIndex = getActiveSvgTargetIndex();
+    updateSelectedImageLabel(getSelectedImageForPlan(plan.id, targetIndex) || '', targetIndex);
   });
 
   document.getElementById('planner-svg-refresh')?.addEventListener('click', () => {
