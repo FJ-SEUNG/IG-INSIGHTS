@@ -2722,6 +2722,30 @@ td.editable-field .editable-content {
   background: #f1f5f9;
 }
 
+.section-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.section-header-row h4 {
+  margin: 0;
+}
+.btn-inline-copy {
+  padding: 4px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  background: #fff;
+  color: #475569;
+  font-size: 11px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn-inline-copy:hover {
+  background: #f1f5f9;
+  border-color: #94a3b8;
+}
+
 /* 페이지네이션 컨트롤 */
 .planner-pagination-controls {
   display: flex;

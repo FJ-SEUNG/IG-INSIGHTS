@@ -6156,11 +6156,17 @@ function openPlannerDetail(planId) {
         </div>
         ` : ''}
         <div class="planner-detail-section">
-          <h4>📝 인스타그램 본문</h4>
+          <div class="section-header-row">
+            <h4>📝 인스타그램 본문</h4>
+            <button class="btn-inline-copy" onclick="navigator.clipboard.writeText(document.getElementById('detail-caption').value).then(()=>{this.textContent='✅ 복사됨';showToast('📝 본문이 복사되었습니다!');setTimeout(()=>{this.textContent='📋 복사'},1500)})">📋 복사</button>
+          </div>
           <textarea class="edit-textarea edit-caption" id="detail-caption" rows="12">${caption}</textarea>
         </div>
         <div class="planner-detail-section">
-          <h4>🏷️ 해시태그 (${hashtags.length}개)</h4>
+          <div class="section-header-row">
+            <h4>🏷️ 해시태그 (${hashtags.length}개)</h4>
+            <button class="btn-inline-copy" onclick="navigator.clipboard.writeText(document.getElementById('detail-hashtags').value).then(()=>{this.textContent='✅ 복사됨';showToast('🏷️ 해시태그가 복사되었습니다!');setTimeout(()=>{this.textContent='📋 복사'},1500)})">📋 복사</button>
+          </div>
           <textarea class="edit-textarea edit-hashtags" id="detail-hashtags" rows="2">${hashtags.join(' ')}</textarea>
         </div>
         ${marketerHtml}
