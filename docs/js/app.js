@@ -1,11 +1,35 @@
 /* ── IG 인사이트 대시보드 ── */
 
-// ── Gemini AI API (Gemini 2.5 Flash-Lite - 무료, 고품질) ──
-const GEMINI_API_KEY = 'AIzaSyC9XycRIe4k1BVJsfd6q9SJCRVuzJmBv04';
+// ── Gemini AI API (localStorage 기반 - 키 노출 방지) ──
 const GEMINI_MODEL_PRIMARY = 'gemini-2.5-flash-lite';
 const GEMINI_MODEL_FALLBACK = 'gemini-2.0-flash';
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_PRIMARY}:generateContent`;
 const GEMINI_API_URL_FALLBACK = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_FALLBACK}:generateContent`;
+
+function getGeminiApiKey() {
+  return localStorage.getItem('gemini_api_key') || '';
+}
+
+function setGeminiApiKey(key) {
+  localStorage.setItem('gemini_api_key', key.trim());
+}
+
+function promptApiKey() {
+  const key = prompt('Gemini API 키를 입력하세요.\n(Google AI Studio에서 발급: https://aistudio.google.com/apikey)');
+  if (key && key.trim()) {
+    setGeminiApiKey(key);
+    return key.trim();
+  }
+  return '';
+}
+
+function ensureApiKey() {
+  let key = getGeminiApiKey();
+  if (!key) {
+    key = promptApiKey();
+  }
+  return key;
+}
 
 // ── URL 콘텐츠 생성 함수 ──
 async function generateContentFromUrl(url) {
@@ -118,11 +142,15 @@ DM으로 정보 보내드려요 💙
 
 JSON만 출력하세요.`;
 
+  // API 키 확인
+  const apiKey = ensureApiKey();
+  if (!apiKey) throw new Error('API 키가 설정되지 않았습니다. 페이지를 새로고침 후 다시 시도하세요.');
+
   // API 호출 (Primary → Fallback)
   let aiText = '';
   for (const apiUrl of [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]) {
     try {
-      const aiResponse = await fetch(apiUrl + '?key=' + GEMINI_API_KEY, {
+      const aiResponse = await fetch(apiUrl + '?key=' + apiKey, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -135,8 +163,13 @@ JSON만 출력하세요.`;
         const aiData = await aiResponse.json();
         aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
         if (aiText) break;
+      } else if (aiResponse.status === 403) {
+        // 키가 무효화된 경우 localStorage에서 제거하고 재입력 요청
+        localStorage.removeItem('gemini_api_key');
+        throw new Error('API 키가 만료되었습니다. 페이지를 새로고침 후 새 키를 입력하세요.');
       }
     } catch (e) {
+      if (e.message.includes('API 키가 만료')) throw e;
       console.warn('AI API fallback:', e);
     }
   }
@@ -259,11 +292,15 @@ ${originalText.substring(0, 2000)}
 
 JSON만 출력하세요.`;
 
+  // API 키 확인
+  const apiKey = ensureApiKey();
+  if (!apiKey) throw new Error('API 키가 설정되지 않았습니다. 페이지를 새로고침 후 다시 시도하세요.');
+
   // API 호출 (Primary → Fallback)
   let aiText = '';
   for (const apiUrl of [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]) {
     try {
-      const aiResponse = await fetch(apiUrl + '?key=' + GEMINI_API_KEY, {
+      const aiResponse = await fetch(apiUrl + '?key=' + apiKey, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -276,8 +313,12 @@ JSON만 출력하세요.`;
         const aiData = await aiResponse.json();
         aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
         if (aiText) break;
+      } else if (aiResponse.status === 403) {
+        localStorage.removeItem('gemini_api_key');
+        throw new Error('API 키가 만료되었습니다. 페이지를 새로고침 후 새 키를 입력하세요.');
       }
     } catch (e) {
+      if (e.message.includes('API 키가 만료')) throw e;
       console.warn('AI API fallback:', e);
     }
   }
@@ -384,8 +425,11 @@ async function analyzeWithGemini(reportData) {
   "nextActions": ["액션1", "액션2", "액션3", "액션4"]
 }`;
 
+  const apiKey = ensureApiKey();
+  if (!apiKey) throw new Error('API 키가 설정되지 않았습니다.');
+
   try {
-    const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+    const response = await fetch(`${GEMINI_API_URL}?key=${apiKey}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -396,6 +440,11 @@ async function analyzeWithGemini(reportData) {
         }
       })
     });
+
+    if (response.status === 403) {
+      localStorage.removeItem('gemini_api_key');
+      throw new Error('API 키가 만료되었습니다. 페이지를 새로고침 후 새 키를 입력하세요.');
+    }
 
     if (!response.ok) {
       throw new Error(`API 오류: ${response.status}`);
@@ -5447,6 +5496,13 @@ const WORKER_URL = null;  // GitHub Pages에서는 백엔드 API 없음
 
 document.addEventListener('DOMContentLoaded', () => {
   init();
+
+  // API 키 상태 표시
+  const savedKey = getGeminiApiKey();
+  const statusEl = document.getElementById('api-key-status');
+  if (statusEl && savedKey) {
+    statusEl.textContent = '🔑 API 키: ****' + savedKey.slice(-4);
+  }
 
   // Header title click - go to overview tab
   document.getElementById('header-title')?.addEventListener('click', () => {
