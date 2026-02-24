@@ -6138,18 +6138,24 @@ function splitLines(text, fallbackMax = 3) {
   return lines.length ? lines : Array.from({ length: fallbackMax }, () => '');
 }
 
-function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword = '', backgroundUrl = '' }) {
+function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroundUrl = '' }) {
+  const safeX = 80;
+  const titleSize = 100;
+  const titleLineHeight = 135;
+  const bodySize = 56;
+  const bodyLineHeight = 74;
+  const logoY = 860;
+
+  const titleStartY = bodyLines.length > 0 ? 980 : 1030;
+  const bodyStartY = 1110;
+
   const titleText = titleLines
-    .map((line, i) => `<text x="80" y="${1080 + (i * 135)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="133" font-weight="800" letter-spacing="-5">${escapeXml(line)}</text>`)
+    .map((line, i) => `<text x="${safeX}" y="${titleStartY + (i * titleLineHeight)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="${titleSize}" font-weight="800" letter-spacing="-0.05em">${escapeXml(line)}</text>`)
     .join('');
 
   const bodyText = bodyLines
-    .map((line, i) => `<text x="80" y="${860 + (i * 74)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">${escapeXml(line)}</text>`)
+    .map((line, i) => `<text x="${safeX}" y="${bodyStartY + (i * bodyLineHeight)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="${bodySize}" font-weight="700" letter-spacing="-0.01em">${escapeXml(line)}</text>`)
     .join('');
-
-  const keywordTag = keyword
-    ? `<text x="1000" y="90" text-anchor="end" fill="#FFFFFFC0" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="600">#${escapeXml(keyword)}</text>`
-    : '';
 
   const imageLayer = backgroundUrl
     ? `<image href="${escapeXml(backgroundUrl)}" x="0" y="0" width="1080" height="1350" preserveAspectRatio="xMidYMid slice"/>`
@@ -6162,7 +6168,7 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword =
       <stop stop-color="#1F2937"/>
       <stop offset="1" stop-color="#0F172A"/>
     </linearGradient>
-    <linearGradient id="overlay" x1="0" y1="760" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
+    <linearGradient id="overlay" x1="0" y1="740" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00000000"/>
       <stop offset="1" stop-color="#000000D4"/>
     </linearGradient>
@@ -6170,13 +6176,96 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword =
   <rect width="1080" height="1350" fill="url(#bg)"/>
   ${imageLayer}
   ${backgroundUrl ? '' : '<rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/><text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>'}
-  <rect y="760" width="1080" height="590" fill="url(#overlay)"/>
-  <text x="80" y="70" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="38" font-weight="700">${escapeXml(pageLabel)}</text>
-  ${keywordTag}
-  <text x="80" y="930" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">✓ FLYING</text>
-  ${bodyText}
+  <rect y="740" width="1080" height="610" fill="url(#overlay)"/>
+  <text x="80" y="72" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">${escapeXml(pageLabel)}</text>
+  <text x="${safeX}" y="${logoY}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-0.02em">✓ FLYING</text>
   ${titleText}
+  ${bodyText}
 </svg>`;
+}
+
+let __zipCrcTable = null;
+function crc32(bytes) {
+  if (!__zipCrcTable) {
+    __zipCrcTable = new Uint32Array(256);
+    for (let n = 0; n < 256; n++) {
+      let c = n;
+      for (let k = 0; k < 8; k++) c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      __zipCrcTable[n] = c >>> 0;
+    }
+  }
+  let crc = 0xFFFFFFFF;
+  for (let i = 0; i < bytes.length; i++) crc = __zipCrcTable[(crc ^ bytes[i]) & 0xFF] ^ (crc >>> 8);
+  return (crc ^ 0xFFFFFFFF) >>> 0;
+}
+
+function writeU16(arr, n) {
+  arr.push(n & 0xFF, (n >>> 8) & 0xFF);
+}
+
+function writeU32(arr, n) {
+  arr.push(n & 0xFF, (n >>> 8) & 0xFF, (n >>> 16) & 0xFF, (n >>> 24) & 0xFF);
+}
+
+function createZipBlob(files) {
+  const localParts = [];
+  const centralParts = [];
+  let offset = 0;
+  const encoder = new TextEncoder();
+
+  files.forEach(file => {
+    const nameBytes = encoder.encode(file.name);
+    const dataBytes = encoder.encode(file.content);
+    const crc = crc32(dataBytes);
+    const local = [];
+    writeU32(local, 0x04034b50);
+    writeU16(local, 20);
+    writeU16(local, 0);
+    writeU16(local, 0);
+    writeU16(local, 0);
+    writeU16(local, 0);
+    writeU32(local, crc);
+    writeU32(local, dataBytes.length);
+    writeU32(local, dataBytes.length);
+    writeU16(local, nameBytes.length);
+    writeU16(local, 0);
+    localParts.push(new Uint8Array(local), nameBytes, dataBytes);
+
+    const central = [];
+    writeU32(central, 0x02014b50);
+    writeU16(central, 20);
+    writeU16(central, 20);
+    writeU16(central, 0);
+    writeU16(central, 0);
+    writeU16(central, 0);
+    writeU16(central, 0);
+    writeU32(central, crc);
+    writeU32(central, dataBytes.length);
+    writeU32(central, dataBytes.length);
+    writeU16(central, nameBytes.length);
+    writeU16(central, 0);
+    writeU16(central, 0);
+    writeU16(central, 0);
+    writeU16(central, 0);
+    writeU32(central, 0);
+    writeU32(central, offset);
+    centralParts.push(new Uint8Array(central), nameBytes);
+
+    offset += local.length + nameBytes.length + dataBytes.length;
+  });
+
+  const centralSize = centralParts.reduce((sum, part) => sum + part.length, 0);
+  const end = [];
+  writeU32(end, 0x06054b50);
+  writeU16(end, 0);
+  writeU16(end, 0);
+  writeU16(end, files.length);
+  writeU16(end, files.length);
+  writeU32(end, centralSize);
+  writeU32(end, offset);
+  writeU16(end, 0);
+
+  return new Blob([...localParts, ...centralParts, new Uint8Array(end)], { type: 'application/zip' });
 }
 
 function collectPlannerDraftFromModal(plan) {
@@ -6189,16 +6278,10 @@ function collectPlannerDraftFromModal(plan) {
   return { thumbnail, cards };
 }
 
-function downloadPlannerSvgTemplates(plan) {
+function buildPlannerSvgSlides(plan) {
   const { thumbnail, cards } = collectPlannerDraftFromModal(plan);
-  if (!thumbnail && cards.length === 0) {
-    showToast('다운로드할 카드 텍스트가 없습니다.', 'error');
-    return;
-  }
-
-  const keyword = (plan.image?.keyword || '').trim();
   const selectedImage = getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
-  const slides = [
+  const baseSlides = [
     {
       pageLabel: '1번째',
       titleLines: splitLines(thumbnail, 2).slice(0, 3),
@@ -6213,29 +6296,94 @@ function downloadPlannerSvgTemplates(plan) {
     })),
   ];
 
-  const prefix = sanitizeFilename(plan.id || 'planner-card');
-  slides.forEach((slide, idx) => {
+  return baseSlides.map(slide => {
     const svg = buildSvgCardTemplate({
       pageLabel: slide.pageLabel,
       titleLines: slide.titleLines,
       bodyLines: slide.bodyLines,
-      keyword,
       backgroundUrl: selectedImage,
     });
-    const blob = new Blob([svg], { type: 'image/svg+xml;charset=utf-8' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `${prefix}-${slide.filename}`;
-    document.body.appendChild(a);
-    setTimeout(() => {
-      a.click();
-      a.remove();
-      URL.revokeObjectURL(url);
-    }, idx * 120);
+    return {
+      ...slide,
+      svg,
+      previewUrl: `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`,
+    };
   });
+}
 
-  showToast('🖼️ SVG 템플릿 다운로드를 시작합니다.');
+function renderPlannerSvgPreview(plan) {
+  const slides = buildPlannerSvgSlides(plan);
+  const box = document.getElementById('planner-template-preview');
+  if (!box) return;
+  box.innerHTML = `
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">
+      ${slides.map((slide, idx) => `
+        <label style="display:block;background:var(--bg-alt);border:1px solid var(--border);border-radius:12px;padding:10px;">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
+            <span style="font-size:12px;color:var(--subtext);">${slide.pageLabel}</span>
+            <input type="checkbox" class="planner-svg-check" data-index="${idx}" checked>
+          </div>
+          <img src="${slide.previewUrl}" alt="${slide.pageLabel}" style="width:100%;height:auto;border-radius:8px;border:1px solid var(--border);">
+        </label>
+      `).join('')}
+    </div>
+  `;
+  box.dataset.slides = JSON.stringify(slides.map(s => ({ filename: s.filename, svg: s.svg })));
+}
+
+function downloadBlob(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+}
+
+function downloadPlannerSvgTemplates(plan) {
+  const box = document.getElementById('planner-template-preview');
+  if (!box) return;
+  if (!box.dataset.slides) renderPlannerSvgPreview(plan);
+  const slidesMeta = JSON.parse(box.dataset.slides || '[]');
+  const checks = Array.from(document.querySelectorAll('.planner-svg-check'))
+    .filter(chk => chk.checked)
+    .map(chk => Number(chk.dataset.index))
+    .filter(i => Number.isInteger(i) && slidesMeta[i]);
+
+  if (checks.length === 0) {
+    showToast('다운로드할 템플릿을 선택해주세요.', 'error');
+    return;
+  }
+
+  const prefix = sanitizeFilename(plan.id || 'planner-card');
+  const selectedFiles = checks.map(i => ({
+    name: `${prefix}/${prefix}-${slidesMeta[i].filename}`,
+    content: slidesMeta[i].svg,
+  }));
+
+  if (selectedFiles.length === 1) {
+    const single = selectedFiles[0];
+    downloadBlob(new Blob([single.content], { type: 'image/svg+xml;charset=utf-8' }), single.name.split('/').pop());
+    showToast('🖼️ SVG 1개를 다운로드했습니다.');
+    return;
+  }
+
+  const zipBlob = createZipBlob(selectedFiles);
+  downloadBlob(zipBlob, `${prefix}-svg-templates.zip`);
+  showToast(`🗂️ SVG ${selectedFiles.length}개를 ZIP으로 다운로드했습니다.`);
+}
+
+function togglePlannerSvgChecks(checked) {
+  document.querySelectorAll('.planner-svg-check').forEach(chk => {
+    chk.checked = checked;
+  });
+}
+
+function refreshPlannerSvgPreview(plan) {
+  renderPlannerSvgPreview(plan);
+  showToast('🧩 템플릿 미리보기를 갱신했습니다.');
 }
 
 function openPlannerDetail(planId) {
@@ -6364,13 +6512,24 @@ function openPlannerDetail(planId) {
           </div>
           <div id="planner-image-results"></div>
         </div>
+        <div class="planner-detail-section">
+          <div class="section-header-row">
+            <h4>🧩 SVG 템플릿 미리보기</h4>
+            <div style="display:flex;gap:8px;">
+              <button class="btn-secondary" id="planner-svg-refresh">🔄 갱신</button>
+              <button class="btn-secondary" id="planner-svg-select-all">☑️ 전체선택</button>
+              <button class="btn-secondary" id="planner-svg-deselect-all">🔲 전체해제</button>
+            </div>
+          </div>
+          <div id="planner-template-preview"></div>
+        </div>
       </div>
       <div class="planner-detail-footer">
         <div class="footer-left">
           <button class="btn-save" id="planner-save-changes">💾 수정 저장</button>
         </div>
         <div class="footer-right">
-          <button class="btn-secondary" id="planner-download-svg">🖼️ SVG 템플릿</button>
+          <button class="btn-secondary" id="planner-download-svg">🖼️ 선택 다운로드</button>
           <button class="btn-secondary" id="planner-copy-cards">📑 카드 복사</button>
           <button class="btn-secondary" id="planner-copy-caption">📝 본문 복사</button>
           <button class="btn-primary" id="planner-detail-copy">📋 전체 복사</button>
@@ -6398,6 +6557,7 @@ function openPlannerDetail(planId) {
   });
 
   updateSelectedImageLabel(selectedImage);
+  renderPlannerSvgPreview(plan);
 
   document.getElementById('planner-image-search')?.addEventListener('click', async () => {
     const btn = document.getElementById('planner-image-search');
@@ -6420,10 +6580,21 @@ function openPlannerDetail(planId) {
     if (!plan.image) plan.image = {};
     plan.image.selected_url = imageUrl;
     updateSelectedImageLabel(imageUrl);
+    renderPlannerSvgPreview(plan);
     document.querySelectorAll('.planner-select-image-btn').forEach(btn => {
       btn.textContent = btn.getAttribute('data-image-url') === imageUrl ? '✅ 선택됨' : '선택';
     });
     showToast('🖼️ 이미지가 선택되었습니다. SVG 템플릿에 반영됩니다.');
+  });
+
+  document.getElementById('planner-svg-refresh')?.addEventListener('click', () => {
+    refreshPlannerSvgPreview(plan);
+  });
+  document.getElementById('planner-svg-select-all')?.addEventListener('click', () => {
+    togglePlannerSvgChecks(true);
+  });
+  document.getElementById('planner-svg-deselect-all')?.addEventListener('click', () => {
+    togglePlannerSvgChecks(false);
   });
 
   document.getElementById('planner-detail-copy').addEventListener('click', () => {
