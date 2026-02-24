@@ -6055,6 +6055,26 @@ async function urlToDataUrl(imageUrl) {
   });
 }
 
+async function fileToCroppedDataUrl(file, targetW = 1080, targetH = 1350) {
+  const bitmap = await createImageBitmap(file);
+  const canvas = document.createElement('canvas');
+  canvas.width = targetW;
+  canvas.height = targetH;
+  const ctx = canvas.getContext('2d');
+  if (!ctx) throw new Error('canvas context unavailable');
+
+  const imgW = bitmap.width;
+  const imgH = bitmap.height;
+  const scale = Math.max(targetW / imgW, targetH / imgH);
+  const drawW = imgW * scale;
+  const drawH = imgH * scale;
+  const offsetX = (targetW - drawW) / 2;
+  const offsetY = (targetH - drawH) / 2;
+
+  ctx.drawImage(bitmap, offsetX, offsetY, drawW, drawH);
+  return canvas.toDataURL('image/jpeg', 0.9);
+}
+
 async function getEmbeddableImageUrl(planId, slideIndex, imageUrl) {
   if (!imageUrl) return '';
   if (String(imageUrl).startsWith('data:')) return imageUrl;
@@ -6646,6 +6666,8 @@ function openPlannerDetail(planId) {
           <div style="display:flex;gap:8px;align-items:center;margin-top:10px;flex-wrap:wrap;">
             <button class="btn-secondary" id="planner-image-search">🔍 무료 이미지 추천</button>
             <a class="btn-secondary" id="planner-google-image-search" href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent((plan.image?.keyword || plan.content?.thumbnail_title || 'japan travel').replace(/\n/g,' ').trim())}" target="_blank" rel="noopener" style="text-decoration:none;display:inline-flex;align-items:center;">🌐 구글 이미지 검색</a>
+            <label class="btn-secondary" for="planner-image-upload" style="cursor:pointer;">📁 이미지 업로드</label>
+            <input id="planner-image-upload" type="file" accept="image/*" style="display:none;">
             <input id="planner-external-image-url" type="text" placeholder="외부 이미지 URL 붙여넣기 (https://...)" style="min-width:280px;flex:1;padding:8px 10px;border:1px solid var(--border);border-radius:8px;">
             <button class="btn-secondary" id="planner-external-image-apply">🌐 URL 적용</button>
             <span id="planner-image-selected" style="font-size:12px;color:var(--subtext);">선택 이미지: 없음 (기본 템플릿 배경 사용)</span>
@@ -6750,6 +6772,29 @@ function openPlannerDetail(planId) {
     updateSelectedImageLabel(imageUrl, targetIndex);
     renderPlannerSvgPreview(plan);
     showToast(`🌐 ${targetIndex + 1}번째 카드에 외부 URL 이미지를 적용했습니다.`);
+  });
+  document.getElementById('planner-image-upload')?.addEventListener('change', async (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    if (!file.type.startsWith('image/')) {
+      showToast('이미지 파일만 업로드할 수 있습니다.', 'error');
+      return;
+    }
+    const targetIndex = getActiveSvgTargetIndex();
+    try {
+      const dataUrl = await fileToCroppedDataUrl(file, 1080, 1350);
+      setSelectedImageForPlan(plan.id, dataUrl, targetIndex);
+      delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
+      if (!plan.image) plan.image = {};
+      if (targetIndex === 0) plan.image.selected_url = dataUrl;
+      updateSelectedImageLabel(`업로드 이미지 (${file.name})`, targetIndex);
+      renderPlannerSvgPreview(plan);
+      showToast(`📁 ${targetIndex + 1}번째 카드에 업로드 이미지를 적용했습니다.`);
+    } catch (_) {
+      showToast('업로드 이미지를 처리하지 못했습니다.', 'error');
+    } finally {
+      e.target.value = '';
+    }
   });
   document.getElementById('planner-template-preview')?.addEventListener('input', (e) => {
     const card = e.target.closest('[data-index]');
