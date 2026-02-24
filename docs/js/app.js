@@ -1,34 +1,48 @@
 /* ── IG 인사이트 대시보드 ── */
 
-// ── Gemini AI API (localStorage 기반 - 키 노출 방지) ──
+// ── Gemini AI API (Cloudflare Worker 프록시) ──
 const GEMINI_MODEL_PRIMARY = 'gemini-2.5-flash-lite';
 const GEMINI_MODEL_FALLBACK = 'gemini-2.0-flash';
-const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_PRIMARY}:generateContent`;
-const GEMINI_API_URL_FALLBACK = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_FALLBACK}:generateContent`;
+const GEMINI_PROXY_URL = window.GEMINI_PROXY_URL || 'https://muddy-violet-3312.ham-6ef.workers.dev/';
 
-function getGeminiApiKey() {
-  return localStorage.getItem('gemini_api_key') || '';
-}
-
-function setGeminiApiKey(key) {
-  localStorage.setItem('gemini_api_key', key.trim());
-}
-
-function promptApiKey() {
-  const key = prompt('Gemini API 키를 입력하세요.\n(Google AI Studio에서 발급: https://aistudio.google.com/apikey)');
-  if (key && key.trim()) {
-    setGeminiApiKey(key);
-    return key.trim();
+async function callGeminiViaProxy(prompt, generationConfig) {
+  if (!GEMINI_PROXY_URL || GEMINI_PROXY_URL.includes('xxxxx')) {
+    throw new Error('Gemini Worker URL이 설정되지 않았습니다. app.js의 GEMINI_PROXY_URL을 실제 workers.dev 주소로 변경하세요.');
   }
-  return '';
-}
 
-function ensureApiKey() {
-  let key = getGeminiApiKey();
-  if (!key) {
-    key = promptApiKey();
+  let lastError = null;
+  const models = [GEMINI_MODEL_PRIMARY, GEMINI_MODEL_FALLBACK];
+
+  for (const model of models) {
+    try {
+      const response = await fetch(GEMINI_PROXY_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          model,
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig,
+        }),
+      });
+
+      if (!response.ok) {
+        const errText = await response.text();
+        if (response.status === 403) {
+          throw new Error('Worker 접근이 거부되었습니다. 허용 도메인(Origin) 또는 Worker 설정을 확인하세요.');
+        }
+        throw new Error(`AI API 오류(${response.status}): ${errText || 'empty response'}`);
+      }
+
+      const data = await response.json();
+      const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+      if (text) return text;
+    } catch (e) {
+      lastError = e;
+      console.warn('AI API fallback:', e);
+    }
   }
-  return key;
+
+  throw lastError || new Error('AI API 호출 실패');
 }
 
 // ── URL 콘텐츠 생성 함수 ──
@@ -142,41 +156,7 @@ DM으로 정보 보내드려요 💙
 
 JSON만 출력하세요.`;
 
-  // API 키 확인
-  const apiKey = ensureApiKey();
-  if (!apiKey) throw new Error('API 키가 설정되지 않았습니다. 페이지를 새로고침 후 다시 시도하세요.');
-
-  // API 호출 (Primary → Fallback)
-  let aiText = '';
-  for (const apiUrl of [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]) {
-    try {
-      const aiResponse = await fetch(apiUrl + '?key=' + apiKey, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.7, maxOutputTokens: 8192 }
-        })
-      });
-
-      if (aiResponse.ok) {
-        const aiData = await aiResponse.json();
-        aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
-        if (aiText) break;
-      } else if (aiResponse.status === 403) {
-        // 키가 무효화된 경우 localStorage에서 제거하고 재입력 요청
-        localStorage.removeItem('gemini_api_key');
-        throw new Error('API 키가 만료되었습니다. 페이지를 새로고침 후 새 키를 입력하세요.');
-      }
-    } catch (e) {
-      if (e.message.includes('API 키가 만료')) throw e;
-      console.warn('AI API fallback:', e);
-    }
-  }
-
-  if (!aiText) {
-    throw new Error('AI API 호출 실패');
-  }
+  const aiText = await callGeminiViaProxy(prompt, { temperature: 0.7, maxOutputTokens: 8192 });
 
   // JSON 추출
   const jsonMatch = aiText.match(/\{[\s\S]*\}/);
@@ -292,40 +272,7 @@ ${originalText.substring(0, 2000)}
 
 JSON만 출력하세요.`;
 
-  // API 키 확인
-  const apiKey = ensureApiKey();
-  if (!apiKey) throw new Error('API 키가 설정되지 않았습니다. 페이지를 새로고침 후 다시 시도하세요.');
-
-  // API 호출 (Primary → Fallback)
-  let aiText = '';
-  for (const apiUrl of [GEMINI_API_URL, GEMINI_API_URL_FALLBACK]) {
-    try {
-      const aiResponse = await fetch(apiUrl + '?key=' + apiKey, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.9, maxOutputTokens: 8192 }
-        })
-      });
-
-      if (aiResponse.ok) {
-        const aiData = await aiResponse.json();
-        aiText = aiData.candidates?.[0]?.content?.parts?.[0]?.text || '';
-        if (aiText) break;
-      } else if (aiResponse.status === 403) {
-        localStorage.removeItem('gemini_api_key');
-        throw new Error('API 키가 만료되었습니다. 페이지를 새로고침 후 새 키를 입력하세요.');
-      }
-    } catch (e) {
-      if (e.message.includes('API 키가 만료')) throw e;
-      console.warn('AI API fallback:', e);
-    }
-  }
-
-  if (!aiText) {
-    throw new Error('AI API 호출 실패');
-  }
+  const aiText = await callGeminiViaProxy(prompt, { temperature: 0.9, maxOutputTokens: 8192 });
 
   // JSON 추출
   const jsonMatch = aiText.match(/\{[\s\S]*\}/);
@@ -425,33 +372,11 @@ async function analyzeWithGemini(reportData) {
   "nextActions": ["액션1", "액션2", "액션3", "액션4"]
 }`;
 
-  const apiKey = ensureApiKey();
-  if (!apiKey) throw new Error('API 키가 설정되지 않았습니다.');
-
   try {
-    const response = await fetch(`${GEMINI_API_URL}?key=${apiKey}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.7,
-          maxOutputTokens: 2000,
-        }
-      })
+    const text = await callGeminiViaProxy(prompt, {
+      temperature: 0.7,
+      maxOutputTokens: 2000,
     });
-
-    if (response.status === 403) {
-      localStorage.removeItem('gemini_api_key');
-      throw new Error('API 키가 만료되었습니다. 페이지를 새로고침 후 새 키를 입력하세요.');
-    }
-
-    if (!response.ok) {
-      throw new Error(`API 오류: ${response.status}`);
-    }
-
-    const data = await response.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
 
     // JSON 파싱 시도
     try {
@@ -5496,13 +5421,6 @@ const WORKER_URL = null;  // GitHub Pages에서는 백엔드 API 없음
 
 document.addEventListener('DOMContentLoaded', () => {
   init();
-
-  // API 키 상태 표시
-  const savedKey = getGeminiApiKey();
-  const statusEl = document.getElementById('api-key-status');
-  if (statusEl && savedKey) {
-    statusEl.textContent = '🔑 API 키: ****' + savedKey.slice(-4);
-  }
 
   // Header title click - go to overview tab
   document.getElementById('header-title')?.addEventListener('click', () => {
