@@ -5981,6 +5981,120 @@ function openImageLinks(plan) {
   }
 }
 
+const PLANNER_SELECTED_IMAGES_KEY = 'plannerSelectedImages';
+
+function getPlannerSelectedImages() {
+  try {
+    return JSON.parse(localStorage.getItem(PLANNER_SELECTED_IMAGES_KEY) || '{}');
+  } catch (_) {
+    return {};
+  }
+}
+
+function getSelectedImageForPlan(planId) {
+  const map = getPlannerSelectedImages();
+  return map[planId] || '';
+}
+
+function setSelectedImageForPlan(planId, imageUrl) {
+  const map = getPlannerSelectedImages();
+  map[planId] = imageUrl;
+  localStorage.setItem(PLANNER_SELECTED_IMAGES_KEY, JSON.stringify(map));
+}
+
+function buildUnsplashSourceCandidates(keyword = '') {
+  const q = encodeURIComponent((keyword || 'japan travel').trim());
+  return Array.from({ length: 4 }, (_, i) => ({
+    thumb: `https://source.unsplash.com/640x800/?${q}&sig=${i + 1}`,
+    url: `https://source.unsplash.com/1080x1350/?${q}&sig=${i + 1}`,
+    source: 'Unsplash',
+    page: `https://unsplash.com/s/photos/${encodeURIComponent((keyword || 'japan travel').trim().replace(/\s+/g, '-'))}`,
+    label: `${keyword || 'japan travel'} #${i + 1}`,
+  }));
+}
+
+async function fetchWikimediaCandidates(keyword = '') {
+  const query = (keyword || 'japan travel train city').trim();
+  const url = `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=${encodeURIComponent(query)}&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url&iiurlwidth=1080&origin=*`;
+
+  try {
+    const resp = await fetch(url);
+    if (!resp.ok) return [];
+    const json = await resp.json();
+    const pages = Object.values(json.query?.pages || {});
+    return pages
+      .map(p => {
+        const info = p.imageinfo?.[0];
+        if (!info?.thumburl && !info?.url) return null;
+        return {
+          thumb: info.thumburl || info.url,
+          url: info.url || info.thumburl,
+          source: 'Wikimedia',
+          page: `https://commons.wikimedia.org/wiki/${encodeURIComponent(p.title || '')}`,
+          label: (p.title || '').replace(/^File:/, ''),
+        };
+      })
+      .filter(Boolean)
+      .slice(0, 8);
+  } catch (_) {
+    return [];
+  }
+}
+
+function renderPlannerImageCandidates(candidates, selectedUrl = '') {
+  const container = document.getElementById('planner-image-results');
+  if (!container) return;
+  if (!candidates.length) {
+    container.innerHTML = '<p style="color:var(--subtext);font-size:13px;">추천 이미지를 찾지 못했습니다.</p>';
+    return;
+  }
+
+  container.innerHTML = `
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px;margin-top:10px;">
+      ${candidates.map(c => `
+        <div style="background:var(--bg-alt);border:1px solid var(--border);border-radius:10px;padding:8px;">
+          <img src="${escapeXml(c.thumb)}" alt="${escapeXml(c.label)}" loading="lazy" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
+          <div style="margin-top:8px;font-size:12px;color:var(--subtext);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeXml(c.source)} · ${escapeXml(c.label)}</div>
+          <div style="display:flex;gap:6px;margin-top:8px;">
+            <button class="btn-secondary planner-select-image-btn" data-image-url="${escapeXml(c.url)}" style="flex:1;padding:6px 8px;font-size:12px;">
+              ${selectedUrl === c.url ? '✅ 선택됨' : '선택'}
+            </button>
+            <a href="${escapeXml(c.page)}" target="_blank" rel="noopener" style="padding:6px 8px;font-size:12px;border:1px solid var(--border);border-radius:8px;text-decoration:none;color:var(--text);">출처</a>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function updateSelectedImageLabel(imageUrl = '') {
+  const label = document.getElementById('planner-image-selected');
+  if (!label) return;
+  if (!imageUrl) {
+    label.textContent = '선택 이미지: 없음 (기본 템플릿 배경 사용)';
+    return;
+  }
+  label.textContent = `선택 이미지: ${imageUrl.length > 64 ? imageUrl.slice(0, 64) + '...' : imageUrl}`;
+}
+
+async function fetchFreeImageCandidatesForPlan(plan) {
+  const keyword = (plan.image?.keyword || plan.content?.thumbnail_title || '').replace(/\n/g, ' ').trim();
+  const [wiki, unsplash] = await Promise.all([
+    fetchWikimediaCandidates(keyword),
+    Promise.resolve(buildUnsplashSourceCandidates(keyword)),
+  ]);
+
+  const merged = [...wiki, ...unsplash];
+  const dedup = [];
+  const seen = new Set();
+  for (const item of merged) {
+    if (!item?.url || seen.has(item.url)) continue;
+    seen.add(item.url);
+    dedup.push(item);
+  }
+  return dedup.slice(0, 12);
+}
+
 function toggleSavePlan(planId, btn) {
   let savedPlans = JSON.parse(localStorage.getItem('savedPlannerPlans') || '[]');
 
@@ -6024,7 +6138,7 @@ function splitLines(text, fallbackMax = 3) {
   return lines.length ? lines : Array.from({ length: fallbackMax }, () => '');
 }
 
-function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword = '' }) {
+function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword = '', backgroundUrl = '' }) {
   const titleText = titleLines
     .map((line, i) => `<text x="80" y="${1080 + (i * 135)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="133" font-weight="800" letter-spacing="-5">${escapeXml(line)}</text>`)
     .join('');
@@ -6035,6 +6149,10 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword =
 
   const keywordTag = keyword
     ? `<text x="1000" y="90" text-anchor="end" fill="#FFFFFFC0" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="600">#${escapeXml(keyword)}</text>`
+    : '';
+
+  const imageLayer = backgroundUrl
+    ? `<image href="${escapeXml(backgroundUrl)}" x="0" y="0" width="1080" height="1350" preserveAspectRatio="xMidYMid slice"/>`
     : '';
 
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -6050,8 +6168,8 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword =
     </linearGradient>
   </defs>
   <rect width="1080" height="1350" fill="url(#bg)"/>
-  <rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/>
-  <text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>
+  ${imageLayer}
+  ${backgroundUrl ? '' : '<rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/><text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>'}
   <rect y="760" width="1080" height="590" fill="url(#overlay)"/>
   <text x="80" y="70" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="38" font-weight="700">${escapeXml(pageLabel)}</text>
   ${keywordTag}
@@ -6079,6 +6197,7 @@ function downloadPlannerSvgTemplates(plan) {
   }
 
   const keyword = (plan.image?.keyword || '').trim();
+  const selectedImage = getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
   const slides = [
     {
       pageLabel: '1번째',
@@ -6101,6 +6220,7 @@ function downloadPlannerSvgTemplates(plan) {
       titleLines: slide.titleLines,
       bodyLines: slide.bodyLines,
       keyword,
+      backgroundUrl: selectedImage,
     });
     const blob = new Blob([svg], { type: 'image/svg+xml;charset=utf-8' });
     const url = URL.createObjectURL(blob);
@@ -6144,6 +6264,7 @@ function openPlannerDetail(planId) {
   const hashtags = plan.content.hashtags || [];
   const altTexts = plan.content.alt_texts || cards.map(c => c.alt_text || '');
   const marketerAnalysis = plan.marketer_analysis || '';
+  const selectedImage = getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
 
   // 카드뉴스 HTML 생성 (수정 가능)
   const cardsHtml = `
@@ -6237,6 +6358,11 @@ function openPlannerDetail(planId) {
             <a href="${plan.image?.unsplash_url || '#'}" target="_blank" rel="noopener">📷 Unsplash에서 검색</a>
             <a href="${plan.image?.pexels_url || '#'}" target="_blank" rel="noopener">📷 Pexels에서 검색</a>
           </div>
+          <div style="display:flex;gap:8px;align-items:center;margin-top:10px;flex-wrap:wrap;">
+            <button class="btn-secondary" id="planner-image-search">🔍 무료 이미지 추천</button>
+            <span id="planner-image-selected" style="font-size:12px;color:var(--subtext);">선택 이미지: 없음 (기본 템플릿 배경 사용)</span>
+          </div>
+          <div id="planner-image-results"></div>
         </div>
       </div>
       <div class="planner-detail-footer">
@@ -6269,6 +6395,35 @@ function openPlannerDetail(planId) {
   // 복사 이벤트
   document.getElementById('planner-download-svg')?.addEventListener('click', () => {
     downloadPlannerSvgTemplates(plan);
+  });
+
+  updateSelectedImageLabel(selectedImage);
+
+  document.getElementById('planner-image-search')?.addEventListener('click', async () => {
+    const btn = document.getElementById('planner-image-search');
+    if (!btn) return;
+    const original = btn.textContent;
+    btn.disabled = true;
+    btn.textContent = '검색 중...';
+    const candidates = await fetchFreeImageCandidatesForPlan(plan);
+    renderPlannerImageCandidates(candidates, getSelectedImageForPlan(plan.id) || '');
+    btn.textContent = original;
+    btn.disabled = false;
+  });
+
+  document.getElementById('planner-image-results')?.addEventListener('click', (e) => {
+    const target = e.target.closest('.planner-select-image-btn');
+    if (!target) return;
+    const imageUrl = target.getAttribute('data-image-url') || '';
+    if (!imageUrl) return;
+    setSelectedImageForPlan(plan.id, imageUrl);
+    if (!plan.image) plan.image = {};
+    plan.image.selected_url = imageUrl;
+    updateSelectedImageLabel(imageUrl);
+    document.querySelectorAll('.planner-select-image-btn').forEach(btn => {
+      btn.textContent = btn.getAttribute('data-image-url') === imageUrl ? '✅ 선택됨' : '선택';
+    });
+    showToast('🖼️ 이미지가 선택되었습니다. SVG 템플릿에 반영됩니다.');
   });
 
   document.getElementById('planner-detail-copy').addEventListener('click', () => {
@@ -6352,6 +6507,8 @@ function savePlanChanges(planId) {
   plan.content.caption = newCaption;
   plan.content.hashtags = newHashtags;
   plan.content.cards = newCards;
+  if (!plan.image) plan.image = {};
+  plan.image.selected_url = getSelectedImageForPlan(planId) || plan.image.selected_url || '';
 
   // localStorage에 수정된 plans 저장
   let editedPlans = JSON.parse(localStorage.getItem('editedPlannerPlans') || '{}');
