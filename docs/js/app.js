@@ -6022,10 +6022,35 @@ function setSelectedImageForPlan(planId, imageUrl, slideIndex = null) {
 }
 
 function getActiveSvgTargetIndex() {
+  const box = document.getElementById('planner-template-preview');
   const selected = document.querySelector('input[name="planner-svg-target"]:checked');
-  if (!selected) return 0;
-  const idx = Number(selected.value);
-  return Number.isInteger(idx) ? idx : 0;
+  if (selected) {
+    const idx = Number(selected.value);
+    if (Number.isInteger(idx)) {
+      if (box) box.dataset.activeTarget = String(idx);
+      return idx;
+    }
+  }
+  const saved = Number(box?.dataset.activeTarget || '0');
+  return Number.isInteger(saved) ? saved : 0;
+}
+
+function setActiveSvgTargetIndex(targetIndex) {
+  const idx = Number(targetIndex);
+  if (!Number.isInteger(idx)) return;
+  const box = document.getElementById('planner-template-preview');
+  if (box) box.dataset.activeTarget = String(idx);
+  const radio = document.querySelector(`input[name="planner-svg-target"][value="${idx}"]`);
+  if (radio) radio.checked = true;
+}
+
+function applyImageToTarget(plan, targetIndex, imageValue, label = '이미지') {
+  setSelectedImageForPlan(plan.id, imageValue, targetIndex);
+  delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
+  if (!plan.image) plan.image = {};
+  if (targetIndex === 0) plan.image.selected_url = imageValue;
+  updateSelectedImageLabel(label, targetIndex);
+  renderPlannerSvgPreview(plan);
 }
 
 function makeImageCacheKey(planId, slideIndex) {
@@ -6234,8 +6259,8 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
   const bodySize = 56;
   const bodyLineHeight = 74;
   const logoY = isThumbnail ? 860 : 840;
-  const panelY = isThumbnail ? 820 : 860;
-  const panelH = isThumbnail ? 500 : 460;
+  const shadeStartY = isThumbnail ? 560 : 620;
+  const textBandStartY = isThumbnail ? 720 : 780;
 
   const titleStartY = isThumbnail ? 980 : 980;
   const bodyStartY = 1110;
@@ -6262,16 +6287,24 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
       <stop stop-color="#1F2937"/>
       <stop offset="1" stop-color="#0F172A"/>
     </linearGradient>
-    <linearGradient id="overlay" x1="0" y1="740" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
+    <linearGradient id="overlay" x1="0" y1="${shadeStartY}" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00000000"/>
-      <stop offset="1" stop-color="#000000D4"/>
+      <stop offset="0.55" stop-color="#00000024"/>
+      <stop offset="0.82" stop-color="#0000007D"/>
+      <stop offset="1" stop-color="#000000C9"/>
+    </linearGradient>
+    <linearGradient id="textBand" x1="0" y1="${textBandStartY}" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00000000"/>
+      <stop offset="0.35" stop-color="#00000038"/>
+      <stop offset="0.72" stop-color="#00000066"/>
+      <stop offset="1" stop-color="#0000008F"/>
     </linearGradient>
   </defs>
   <rect width="1080" height="1350" fill="url(#bg)"/>
   ${imageLayer}
   ${backgroundUrl ? '' : '<rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/><text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>'}
-  <rect y="740" width="1080" height="610" fill="url(#overlay)"/>
-  <rect x="40" y="${panelY}" width="1000" height="${panelH}" rx="14" fill="#00000066"/>
+  <rect y="${shadeStartY}" width="1080" height="${1350 - shadeStartY}" fill="url(#overlay)"/>
+  <rect y="${textBandStartY}" width="1080" height="${1350 - textBandStartY}" fill="url(#textBand)"/>
   <text x="80" y="72" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">${escapeXml(pageLabel)}</text>
   ${logoText}
   ${titleText}
@@ -6416,15 +6449,18 @@ async function renderPlannerSvgPreview(plan) {
   const slides = await buildPlannerSvgSlides(plan);
   const box = document.getElementById('planner-template-preview');
   if (!box) return;
+  const activeTarget = getActiveSvgTargetIndex();
+  box.tabIndex = 0;
+  box.dataset.activeTarget = String(activeTarget);
   box.innerHTML = `
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">
       ${slides.map((slide, idx) => `
-        <div data-index="${idx}" style="display:block;background:var(--bg-alt);border:1px solid var(--border);border-radius:12px;padding:10px;">
+        <div data-index="${idx}" style="display:block;background:var(--bg-alt);border:1px solid var(--border);border-radius:12px;padding:10px;cursor:pointer;">
           <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
             <span style="font-size:12px;color:var(--subtext);">${slide.pageLabel}</span>
             <span style="display:flex;gap:8px;align-items:center;">
               <label style="font-size:11px;color:var(--subtext);display:flex;gap:4px;align-items:center;">
-                <input type="radio" name="planner-svg-target" value="${slide.slideIndex}" ${idx === 0 ? 'checked' : ''}>
+                <input type="radio" name="planner-svg-target" value="${slide.slideIndex}" ${slide.slideIndex === activeTarget ? 'checked' : ''}>
                 적용대상
               </label>
               <input type="checkbox" class="planner-svg-check" data-index="${idx}" checked>
@@ -6683,6 +6719,7 @@ function openPlannerDetail(planId) {
               <button class="btn-secondary" id="planner-svg-deselect-all">🔲 전체해제</button>
             </div>
           </div>
+          <div style="font-size:12px;color:var(--subtext);margin-bottom:8px;">카드를 클릭해 적용대상을 고르고, 이미지를 복사한 뒤 <strong>Ctrl/Cmd+V</strong>로 바로 붙여넣을 수 있습니다.</div>
           <div id="planner-template-preview"></div>
         </div>
       </div>
@@ -6740,12 +6777,7 @@ function openPlannerDetail(planId) {
     const imageUrl = target.getAttribute('data-image-url') || '';
     if (!imageUrl) return;
     const targetIndex = getActiveSvgTargetIndex();
-    setSelectedImageForPlan(plan.id, imageUrl, targetIndex);
-    delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
-    if (!plan.image) plan.image = {};
-    if (targetIndex === 0) plan.image.selected_url = imageUrl;
-    updateSelectedImageLabel(imageUrl, targetIndex);
-    renderPlannerSvgPreview(plan);
+    applyImageToTarget(plan, targetIndex, imageUrl, imageUrl);
     document.querySelectorAll('.planner-select-image-btn').forEach(btn => {
       btn.textContent = btn.getAttribute('data-image-url') === imageUrl ? '✅ 선택됨' : '선택';
     });
@@ -6755,6 +6787,7 @@ function openPlannerDetail(planId) {
   document.getElementById('planner-template-preview')?.addEventListener('change', (e) => {
     if (!e.target.matches('input[name="planner-svg-target"]')) return;
     const targetIndex = getActiveSvgTargetIndex();
+    setActiveSvgTargetIndex(targetIndex);
     updateSelectedImageLabel(getSelectedImageForPlan(plan.id, targetIndex) || '', targetIndex);
   });
   document.getElementById('planner-external-image-apply')?.addEventListener('click', () => {
@@ -6765,12 +6798,7 @@ function openPlannerDetail(planId) {
       return;
     }
     const targetIndex = getActiveSvgTargetIndex();
-    setSelectedImageForPlan(plan.id, imageUrl, targetIndex);
-    delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
-    if (!plan.image) plan.image = {};
-    if (targetIndex === 0) plan.image.selected_url = imageUrl;
-    updateSelectedImageLabel(imageUrl, targetIndex);
-    renderPlannerSvgPreview(plan);
+    applyImageToTarget(plan, targetIndex, imageUrl, imageUrl);
     showToast(`🌐 ${targetIndex + 1}번째 카드에 외부 URL 이미지를 적용했습니다.`);
   });
   document.getElementById('planner-image-upload')?.addEventListener('change', async (e) => {
@@ -6783,12 +6811,7 @@ function openPlannerDetail(planId) {
     const targetIndex = getActiveSvgTargetIndex();
     try {
       const dataUrl = await fileToCroppedDataUrl(file, 1080, 1350);
-      setSelectedImageForPlan(plan.id, dataUrl, targetIndex);
-      delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
-      if (!plan.image) plan.image = {};
-      if (targetIndex === 0) plan.image.selected_url = dataUrl;
-      updateSelectedImageLabel(`업로드 이미지 (${file.name})`, targetIndex);
-      renderPlannerSvgPreview(plan);
+      applyImageToTarget(plan, targetIndex, dataUrl, `업로드 이미지 (${file.name})`);
       showToast(`📁 ${targetIndex + 1}번째 카드에 업로드 이미지를 적용했습니다.`);
     } catch (_) {
       showToast('업로드 이미지를 처리하지 못했습니다.', 'error');
@@ -6803,6 +6826,37 @@ function openPlannerDetail(planId) {
     const idx = Number(card.getAttribute('data-index'));
     if (!Number.isInteger(idx)) return;
     refreshPlannerSvgSlideByIndex(plan, idx);
+  });
+  document.getElementById('planner-template-preview')?.addEventListener('click', (e) => {
+    const card = e.target.closest('[data-index]');
+    if (!card) return;
+    const idx = Number(card.getAttribute('data-index'));
+    const radio = card.querySelector('input[name="planner-svg-target"]');
+    if (radio) {
+      radio.checked = true;
+      const targetIndex = Number(radio.value || idx);
+      setActiveSvgTargetIndex(targetIndex);
+      updateSelectedImageLabel(getSelectedImageForPlan(plan.id, targetIndex) || '', targetIndex);
+      document.getElementById('planner-template-preview')?.focus({ preventScroll: true });
+    }
+  });
+  modal.addEventListener('paste', async (e) => {
+    const targetTag = (e.target?.tagName || '').toLowerCase();
+    if (targetTag === 'input' || targetTag === 'textarea') return;
+    const items = Array.from(e.clipboardData?.items || []);
+    const imgItem = items.find(it => it.type && it.type.startsWith('image/'));
+    if (!imgItem) return;
+    e.preventDefault();
+    const file = imgItem.getAsFile();
+    if (!file) return;
+    const targetIndex = getActiveSvgTargetIndex();
+    try {
+      const dataUrl = await fileToCroppedDataUrl(file, 1080, 1350);
+      applyImageToTarget(plan, targetIndex, dataUrl, '클립보드 이미지');
+      showToast(`📋 ${targetIndex + 1}번째 카드에 클립보드 이미지를 적용했습니다.`);
+    } catch (_) {
+      showToast('클립보드 이미지를 적용하지 못했습니다.', 'error');
+    }
   });
 
   document.getElementById('planner-svg-refresh')?.addEventListener('click', () => {
