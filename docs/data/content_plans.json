@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-24T02:38:50.055343",
+  "last_updated": "2026-02-24T05:15:33.759114",
   "plans": [
+    {
+      "id": "plan_1ffcc816",
+      "created_at": "2026-02-24T05:15:31.758951",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "外出・旅行中のメイクに適したLED内蔵折りたたみミラー。カバー付きのタブレット風デザイン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088110.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 메이크업 필수템! 1990엔의 가성비 LED 거울"
+      },
+      "content": {
+        "thumbnail_title": "✨일본 여행 필수템! 1990엔 LED 거울✨",
+        "cards": [
+          {
+            "title": "새로운 LED 거울",
+            "content": "일본 니토리가 태블릿 디자인의 '각도 조절 LED 접이식 거울'을 출시했어요. 2월 초에 발매되었고 가격은 1990엔입니다.",
+            "alt_text": "태블릿처럼 생긴 각도 조절 LED 접이식 거울"
+          },
+          {
+            "title": "LED 조명 기능",
+            "content": "내장된 LED 조명 덕분에 어두운 곳에서도 화장이나 셀카 촬영이 가능해요. 여행 중 숙소나 카페에서 유용하게 사용할 수 있겠죠?",
+            "alt_text": "거울에 내장된 LED 조명이 켜진 모습"
+          },
+          {
+            "title": "접이식 & 휴대성",
+            "content": "접이식 디자인으로 휴대하기 간편하며, 커버가 있어 거울을 보호할 수 있어요. 파우치나 가방에 쏙 들어가 여행용으로 딱입니다.",
+            "alt_text": "접혀 있는 LED 거울의 휴대 간편한 모습"
+          },
+          {
+            "title": "가격 정보",
+            "content": "놀랍게도 단돈 1990엔! 부담 없는 가격으로 일본 여행 기념품이나 선물로도 추천해요.",
+            "alt_text": "LED 거울의 가격표 (1990엔)"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 니토리 매장에서 직접 확인해보세요! 여행 중 급하게 메이크업 수정이 필요할 때, 혹은 사진 찍을 때 유용하게 쓰일 거예요.",
+            "alt_text": "일본 니토리 매장 진열대에 놓인 LED 거울"
+          }
+        ],
+        "caption": "일본 여행 중 메이크업 필수템 등장! 💄✨\n니토리에서 출시된 태블릿 디자인의 '각도 조절 LED 접이식 거울'을 소개합니다.\n1990엔의 착한 가격에 LED 조명 기능까지! 💡\n어두운 곳에서도 OK, 휴대도 간편해서 여행 내내 쏠쏠한 활약을 할 거예요.\n여행 기념품으로도 완전 추천! 👍\n#일본여행 #니토리 #LED거울 #여행필수템 #가성비템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#일본니토리",
+          "#LED거울",
+          "#여행필수템",
+          "#일본여행준비",
+          "#일본쇼핑리스트",
+          "#여행꿀팁",
+          "#일본기념품",
+          "#가성비템",
+          "#일본생활",
+          "#여행스타그램",
+          "#일본직구",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "태블릿처럼 생긴 각도 조절 LED 접이식 거울",
+          "거울에 내장된 LED 조명이 켜진 모습",
+          "접혀 있는 LED 거울의 휴대 간편한 모습",
+          "LED 거울의 가격표 (1990엔)",
+          "일본 니토리 매장 진열대에 놓인 LED 거울"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 준비하거나 현재 일본에 체류 중인 20-40대 한국인 여성 여행자 / 최적 게시 시간: 오후 8-10시 (여행 계획 및 정보 탐색 시간) / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 합리적인 가격, 실용적인 기능, 일본 현지에서 바로 구매 가능한 접근성",
+      "image": {
+        "keyword": "NITORI LED folding mirror, Japan travel makeup, portable mirror with light, affordable travel gadget",
+        "unsplash_url": "https://unsplash.com/s/photos/NITORI-LED-folding-mirror,-Japan-travel-makeup,-portable-mirror-with-light,-affordable-travel-gadget",
+        "pexels_url": "https://www.pexels.com/search/NITORI%20LED%20folding%20mirror,%20Japan%20travel%20makeup,%20portable%20mirror%20with%20light,%20affordable%20travel%20gadget/"
+      }
+    },
+    {
+      "id": "plan_76d6a3b8",
+      "created_at": "2026-02-24T05:15:25.726672",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "関西で楽しめるアフター万博グルメ、ぴあがムック本を発売。パビリオン飲食店の現在や世界の食めぐりガイドなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088111.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2025년 오사카 엑스포 개최 전, 과거 엑스포의 맛을 재현한 특별한 먹거리 정보를 한눈에!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 엑스포 맛집 가이드✨",
+        "cards": [
+          {
+            "title": "엑스포 맛집",
+            "content": "2025년 오사카 엑스포를 앞두고, 과거 엑스포 당시 인기였던 파빌리온 식당들의 현재와 세계 음식을 맛볼 수 있는 특별한 가이드북이 출시되었습니다.",
+            "alt_text": "오사카 엑스포 개최를 알리는 홍보물 이미지"
+          },
+          {
+            "title": "새로운 먹거리",
+            "content": "이번 무크북 '만박구루메 타베니이코!'는 간사이 지역에서 엑스포 이후에도 즐길 수 있는 미식 경험을 소개합니다. 엑스포 당시의 추억을 되살릴 수 있는 메뉴들을 만나보세요.",
+            "alt_text": "다양한 세계 음식 사진 모음"
+          },
+          {
+            "title": "출시 정보",
+            "content": "해당 무크북은 2024년 2월 24일에 발매되었으며, A4 변형판 100페이지로 구성되어 있습니다.",
+            "alt_text": "무크북 표지 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "책의 가격은 1210엔입니다. 오사카 여행을 계획 중이라면, 엑스포 관련 특별한 미식 경험을 놓치지 마세요!",
+            "alt_text": "책 가격 정보가 표시된 이미지"
+          },
+          {
+            "title": "여행 팁",
+            "content": "오사카 여행 시, 2025년 엑스포 관련 특별 메뉴나 과거 엑스포 맛집을 미리 알아두면 더욱 풍성한 미식 여행을 즐길 수 있습니다. 현지에서 책을 찾아보는 것도 좋은 방법입니다.",
+            "alt_text": "오사카 시내 지도와 맛집 표시"
+          }
+        ],
+        "caption": "🇯🇵 2025 오사카 엑스포 D-1! 엑스포의 맛을 미리 만나보세요! 🍜\n과거 엑스포의 인기 메뉴와 세계 음식을 한눈에 볼 수 있는 특별 가이드북이 출시되었어요! \n오사카 여행 계획 중이라면, 엑스포 관련 특별한 미식 경험을 놓치지 마세요! \n\n#일본여행 #오사카여행 #엑스포 #만박구루메 #일본맛집 #먹스타그램 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#엑스포",
+          "#만박구루메",
+          "#일본맛집",
+          "#오사카맛집",
+          "#일본음식",
+          "#여행스타그램",
+          "#일본축제",
+          "#2025엑스포",
+          "#간사이여행",
+          "#먹방여행",
+          "#해외여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "오사카 엑스포 개최를 알리는 홍보물 이미지",
+          "다양한 세계 음식 사진 모음",
+          "무크북 표지 이미지",
+          "책 가격 정보가 표시된 이미지",
+          "오사카 시내 지도와 맛집 표시"
+        ]
+      },
+      "marketer_analysis": "타겟: 2025 오사카 엑스포 방문 예정이거나 오사카 방문을 고려하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 오사카 여행 계획 시 참고할 수 있는 실질적인 정보로 높은 관심 예상 / 이 콘텐츠의 강점: 엑스포라는 시의성 있는 주제와 구체적인 미식 정보 결합",
+      "image": {
+        "keyword": "Osaka Expo food guide, Japanese Mook book, Kansai gourmet, World food Osaka",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-food-guide,-Japanese-Mook-book,-Kansai-gourmet,-World-food-Osaka",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%20food%20guide,%20Japanese%20Mook%20book,%20Kansai%20gourmet,%20World%20food%20Osaka/"
+      }
+    },
     {
       "id": "plan_f8dc0749",
       "created_at": "2026-02-19T01:06:37.064347",
