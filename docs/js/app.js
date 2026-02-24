@@ -5982,6 +5982,7 @@ function openImageLinks(plan) {
 }
 
 const PLANNER_SELECTED_IMAGES_KEY = 'plannerSelectedImages';
+const PLANNER_IMAGE_EMBED_CACHE = {};
 
 function getPlannerSelectedImages() {
   try {
@@ -6025,6 +6026,36 @@ function getActiveSvgTargetIndex() {
   if (!selected) return 0;
   const idx = Number(selected.value);
   return Number.isInteger(idx) ? idx : 0;
+}
+
+function makeImageCacheKey(planId, slideIndex) {
+  return `${planId}:${slideIndex}`;
+}
+
+async function urlToDataUrl(imageUrl) {
+  const resp = await fetch(imageUrl);
+  if (!resp.ok) throw new Error(`image fetch failed: ${resp.status}`);
+  const blob = await resp.blob();
+  return await new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result);
+    reader.onerror = reject;
+    reader.readAsDataURL(blob);
+  });
+}
+
+async function getEmbeddableImageUrl(planId, slideIndex, imageUrl) {
+  if (!imageUrl) return '';
+  if (String(imageUrl).startsWith('data:')) return imageUrl;
+  const key = makeImageCacheKey(planId, slideIndex);
+  if (PLANNER_IMAGE_EMBED_CACHE[key]) return PLANNER_IMAGE_EMBED_CACHE[key];
+  try {
+    const dataUrl = await urlToDataUrl(imageUrl);
+    PLANNER_IMAGE_EMBED_CACHE[key] = dataUrl;
+    return dataUrl;
+  } catch (_) {
+    return imageUrl;
+  }
 }
 
 function buildUnsplashSourceCandidates(keyword = '') {
@@ -6308,7 +6339,7 @@ function collectPlannerDraftFromModal(plan) {
   return { thumbnail, cards };
 }
 
-function buildPlannerSvgSlides(plan) {
+async function buildPlannerSvgSlides(plan) {
   const { thumbnail, cards } = collectPlannerDraftFromModal(plan);
   const defaultImage = getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
   const baseSlides = [
@@ -6326,28 +6357,29 @@ function buildPlannerSvgSlides(plan) {
     })),
   ];
 
-  return baseSlides.map(slide => {
+  return await Promise.all(baseSlides.map(async slide => {
     const slideIndex = Number(slide.pageLabel.replace('번째', '')) - 1;
     const slideImage = getSelectedImageForPlan(plan.id, slideIndex) || defaultImage;
+    const embeddedImage = await getEmbeddableImageUrl(plan.id, slideIndex, slideImage);
     const svg = buildSvgCardTemplate({
       pageLabel: slide.pageLabel,
       titleLines: slide.titleLines,
       bodyLines: slide.bodyLines,
-      backgroundUrl: slideImage,
+      backgroundUrl: embeddedImage,
       variant: slideIndex === 0 ? 'thumbnail' : 'card',
     });
     return {
       ...slide,
       slideIndex,
-      backgroundUrl: slideImage,
+      backgroundUrl: embeddedImage,
       svg,
       previewUrl: `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`,
     };
-  });
+  }));
 }
 
-function renderPlannerSvgPreview(plan) {
-  const slides = buildPlannerSvgSlides(plan);
+async function renderPlannerSvgPreview(plan) {
+  const slides = await buildPlannerSvgSlides(plan);
   const box = document.getElementById('planner-template-preview');
   if (!box) return;
   box.innerHTML = `
@@ -6398,7 +6430,7 @@ function refreshPlannerSvgSlideByIndex(plan, cardIndex) {
   const bodyRaw = cardEl.querySelector('.planner-svg-edit-body')?.value || '';
   const titleLines = splitLines(titleRaw, slide.slideIndex === 0 ? 2 : 1).slice(0, slide.slideIndex === 0 ? 3 : 1);
   const bodyLines = slide.slideIndex === 0 ? [] : splitLines(bodyRaw, 3).slice(0, 3);
-  const bg = getSelectedImageForPlan(plan.id, slide.slideIndex) || getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
+  const bg = slide.backgroundUrl || getSelectedImageForPlan(plan.id, slide.slideIndex) || getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
 
   const svg = buildSvgCardTemplate({
     pageLabel: slide.pageLabel,
@@ -6433,7 +6465,10 @@ function downloadBlob(blob, filename) {
 function downloadPlannerSvgTemplates(plan) {
   const box = document.getElementById('planner-template-preview');
   if (!box) return;
-  if (!box.dataset.slides) renderPlannerSvgPreview(plan);
+  if (!box.dataset.slides) {
+    showToast('미리보기 생성 중입니다. 잠시 후 다시 눌러주세요.', 'error');
+    return;
+  }
   const slidesMeta = JSON.parse(box.dataset.slides || '[]');
   const checks = Array.from(document.querySelectorAll('.planner-svg-check'))
     .filter(chk => chk.checked)
@@ -6596,6 +6631,8 @@ function openPlannerDetail(planId) {
           </div>
           <div style="display:flex;gap:8px;align-items:center;margin-top:10px;flex-wrap:wrap;">
             <button class="btn-secondary" id="planner-image-search">🔍 무료 이미지 추천</button>
+            <input id="planner-external-image-url" type="text" placeholder="외부 이미지 URL 붙여넣기 (https://...)" style="min-width:280px;flex:1;padding:8px 10px;border:1px solid var(--border);border-radius:8px;">
+            <button class="btn-secondary" id="planner-external-image-apply">🌐 URL 적용</button>
             <span id="planner-image-selected" style="font-size:12px;color:var(--subtext);">선택 이미지: 없음 (기본 템플릿 배경 사용)</span>
           </div>
           <div id="planner-image-results"></div>
@@ -6667,6 +6704,7 @@ function openPlannerDetail(planId) {
     if (!imageUrl) return;
     const targetIndex = getActiveSvgTargetIndex();
     setSelectedImageForPlan(plan.id, imageUrl, targetIndex);
+    delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
     if (!plan.image) plan.image = {};
     if (targetIndex === 0) plan.image.selected_url = imageUrl;
     updateSelectedImageLabel(imageUrl, targetIndex);
@@ -6681,6 +6719,22 @@ function openPlannerDetail(planId) {
     if (!e.target.matches('input[name="planner-svg-target"]')) return;
     const targetIndex = getActiveSvgTargetIndex();
     updateSelectedImageLabel(getSelectedImageForPlan(plan.id, targetIndex) || '', targetIndex);
+  });
+  document.getElementById('planner-external-image-apply')?.addEventListener('click', () => {
+    const input = document.getElementById('planner-external-image-url');
+    const imageUrl = (input?.value || '').trim();
+    if (!imageUrl || !/^https?:\/\//i.test(imageUrl)) {
+      showToast('유효한 이미지 URL(https://)을 입력해주세요.', 'error');
+      return;
+    }
+    const targetIndex = getActiveSvgTargetIndex();
+    setSelectedImageForPlan(plan.id, imageUrl, targetIndex);
+    delete PLANNER_IMAGE_EMBED_CACHE[makeImageCacheKey(plan.id, targetIndex)];
+    if (!plan.image) plan.image = {};
+    if (targetIndex === 0) plan.image.selected_url = imageUrl;
+    updateSelectedImageLabel(imageUrl, targetIndex);
+    renderPlannerSvgPreview(plan);
+    showToast(`🌐 ${targetIndex + 1}번째 카드에 외부 URL 이미지를 적용했습니다.`);
   });
   document.getElementById('planner-template-preview')?.addEventListener('input', (e) => {
     const card = e.target.closest('[data-index]');
