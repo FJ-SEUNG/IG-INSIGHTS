@@ -5983,6 +5983,7 @@ function openImageLinks(plan) {
 
 const PLANNER_SELECTED_IMAGES_KEY = 'plannerSelectedImages';
 const PLANNER_IMAGE_EMBED_CACHE = {};
+const PLANNER_IMAGE_NONE = '__NONE__';
 
 function getPlannerSelectedImages() {
   try {
@@ -6006,7 +6007,9 @@ function getPlanImageConfig(planId) {
 function getSelectedImageForPlan(planId, slideIndex = null) {
   const conf = getPlanImageConfig(planId);
   if (slideIndex === null || slideIndex === undefined) return conf.default || '';
-  return conf.slides[String(slideIndex)] || conf.default || '';
+  const slideValue = conf.slides[String(slideIndex)];
+  if (slideValue === PLANNER_IMAGE_NONE) return '';
+  return slideValue || conf.default || '';
 }
 
 function setSelectedImageForPlan(planId, imageUrl, slideIndex = null) {
@@ -6015,7 +6018,7 @@ function setSelectedImageForPlan(planId, imageUrl, slideIndex = null) {
   if (slideIndex === null || slideIndex === undefined) {
     conf.default = imageUrl;
   } else {
-    conf.slides[String(slideIndex)] = imageUrl;
+    conf.slides[String(slideIndex)] = imageUrl ? imageUrl : PLANNER_IMAGE_NONE;
   }
   map[planId] = conf;
   localStorage.setItem(PLANNER_SELECTED_IMAGES_KEY, JSON.stringify(map));
@@ -6110,7 +6113,8 @@ async function getEmbeddableImageUrl(planId, slideIndex, imageUrl) {
     PLANNER_IMAGE_EMBED_CACHE[key] = dataUrl;
     return dataUrl;
   } catch (_) {
-    return '';
+    // 임베딩 실패 시에도 원본 URL을 유지해서 편집 중 이미지가 사라지지 않게 한다.
+    return imageUrl;
   }
 }
 
@@ -6252,17 +6256,17 @@ function splitLines(text, fallbackMax = 3) {
 }
 
 function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroundUrl = '', variant = 'card' }) {
-  const safeX = 80;
+  const safeX = 60;
   const isThumbnail = variant === 'thumbnail';
-  const titleSize = isThumbnail ? 100 : 78;
-  const titleLineHeight = isThumbnail ? 135 : 102;
+  const titleSize = isThumbnail ? 76 : 72;
+  const titleLineHeight = isThumbnail ? 114 : 98;
   const bodySize = 56;
   const bodyLineHeight = 74;
-  const logoY = isThumbnail ? 860 : 840;
-  const shadeStartY = isThumbnail ? 560 : 620;
-  const textBandStartY = isThumbnail ? 720 : 780;
+  const logoY = 865;
+  const shadeStartY = 639;
+  const textBandStartY = 639;
 
-  const titleStartY = isThumbnail ? 980 : 980;
+  const titleStartY = isThumbnail ? 1015 : 1000;
   const bodyStartY = 1110;
 
   const titleText = titleLines
@@ -6289,22 +6293,19 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
     </linearGradient>
     <linearGradient id="overlay" x1="0" y1="${shadeStartY}" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00000000"/>
-      <stop offset="0.55" stop-color="#00000024"/>
-      <stop offset="0.82" stop-color="#0000007D"/>
-      <stop offset="1" stop-color="#000000C9"/>
+      <stop offset="1" stop-color="#1A1A1AFF"/>
     </linearGradient>
     <linearGradient id="textBand" x1="0" y1="${textBandStartY}" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00000000"/>
-      <stop offset="0.35" stop-color="#00000038"/>
-      <stop offset="0.72" stop-color="#00000066"/>
-      <stop offset="1" stop-color="#0000008F"/>
+      <stop offset="0.42" stop-color="#0000001F"/>
+      <stop offset="1" stop-color="#000000A6"/>
     </linearGradient>
   </defs>
   <rect width="1080" height="1350" fill="url(#bg)"/>
   ${imageLayer}
   ${backgroundUrl ? '' : '<rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/><text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>'}
-  <rect y="${shadeStartY}" width="1080" height="${1350 - shadeStartY}" fill="url(#overlay)"/>
-  <rect y="${textBandStartY}" width="1080" height="${1350 - textBandStartY}" fill="url(#textBand)"/>
+  <rect y="${shadeStartY}" width="1080" height="711" fill="url(#overlay)"/>
+  <rect y="${textBandStartY}" width="1080" height="711" fill="url(#textBand)"/>
   <text x="80" y="72" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">${escapeXml(pageLabel)}</text>
   ${logoText}
   ${titleText}
@@ -6438,6 +6439,7 @@ async function buildPlannerSvgSlides(plan) {
     return {
       ...slide,
       slideIndex,
+      sourceImageUrl: slideImage,
       backgroundUrl: embeddedImage,
       svg,
       previewUrl: `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`,
@@ -6466,7 +6468,10 @@ async function renderPlannerSvgPreview(plan) {
               <input type="checkbox" class="planner-svg-check" data-index="${idx}" checked>
             </span>
           </div>
-          <img src="${slide.previewUrl}" alt="${slide.pageLabel}" style="width:100%;height:auto;border-radius:8px;border:1px solid var(--border);">
+          <div class="planner-svg-canvas" data-index="${idx}" style="position:relative;">
+            <img src="${slide.previewUrl}" alt="${slide.pageLabel}" style="width:100%;height:auto;border-radius:8px;border:1px solid var(--border);display:block;">
+            <button type="button" class="planner-clear-image-btn" data-slide-index="${slide.slideIndex}" title="이 카드 이미지 제거" style="position:absolute;top:8px;right:8px;width:28px;height:28px;border-radius:50%;border:1px solid #ffffff66;background:#00000099;color:#fff;font-size:14px;font-weight:700;line-height:1;cursor:pointer;">×</button>
+          </div>
           <div style="margin-top:8px;display:grid;gap:6px;">
             ${slide.slideIndex === 0
               ? `<textarea class="planner-svg-edit-title" rows="2" style="width:100%;font-size:12px;border:1px solid var(--border);border-radius:8px;padding:6px;">${escapeXml((slide.titleLines || []).join('\n'))}</textarea>`
@@ -6483,6 +6488,8 @@ async function renderPlannerSvgPreview(plan) {
     svg: s.svg,
     pageLabel: s.pageLabel,
     slideIndex: s.slideIndex,
+    sourceImageUrl: s.sourceImageUrl || '',
+    backgroundUrl: s.backgroundUrl || '',
     titleLines: s.titleLines || [],
     bodyLines: s.bodyLines || [],
   })));
@@ -6500,7 +6507,7 @@ function refreshPlannerSvgSlideByIndex(plan, cardIndex) {
   const bodyRaw = cardEl.querySelector('.planner-svg-edit-body')?.value || '';
   const titleLines = splitLines(titleRaw, slide.slideIndex === 0 ? 2 : 1).slice(0, slide.slideIndex === 0 ? 3 : 1);
   const bodyLines = slide.slideIndex === 0 ? [] : splitLines(bodyRaw, 3).slice(0, 3);
-  const bg = slide.backgroundUrl || getSelectedImageForPlan(plan.id, slide.slideIndex) || getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
+  const bg = slide.backgroundUrl || slide.sourceImageUrl || getSelectedImageForPlan(plan.id, slide.slideIndex) || getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
 
   const svg = buildSvgCardTemplate({
     pageLabel: slide.pageLabel,
@@ -6512,6 +6519,7 @@ function refreshPlannerSvgSlideByIndex(plan, cardIndex) {
 
   slide.titleLines = titleLines;
   slide.bodyLines = bodyLines;
+  slide.backgroundUrl = bg;
   slide.svg = svg;
   box.dataset.slides = JSON.stringify(slides);
 
@@ -6739,10 +6747,37 @@ function openPlannerDetail(planId) {
 
   document.body.appendChild(modal);
 
+  const docPasteHandler = async (e) => {
+    if (!document.body.contains(modal)) return;
+    if (!modal.contains(e.target) && e.target !== document.body) return;
+    const targetTag = (e.target?.tagName || '').toLowerCase();
+    if (targetTag === 'input' || targetTag === 'textarea') return;
+    const items = Array.from(e.clipboardData?.items || []);
+    const imgItem = items.find(it => it.type && it.type.startsWith('image/'));
+    if (!imgItem) return;
+    e.preventDefault();
+    const file = imgItem.getAsFile();
+    if (!file) return;
+    const targetIndex = getActiveSvgTargetIndex();
+    try {
+      const dataUrl = await fileToCroppedDataUrl(file, 1080, 1350);
+      applyImageToTarget(plan, targetIndex, dataUrl, '클립보드 이미지');
+      showToast(`📋 ${targetIndex + 1}번째 카드에 클립보드 이미지를 적용했습니다.`);
+    } catch (_) {
+      showToast('클립보드 이미지를 적용하지 못했습니다.', 'error');
+    }
+  };
+  document.addEventListener('paste', docPasteHandler, true);
+
+  const closePlannerModal = () => {
+    document.removeEventListener('paste', docPasteHandler, true);
+    modal.remove();
+  };
+
   // 닫기 이벤트
-  document.getElementById('planner-detail-close').addEventListener('click', () => modal.remove());
+  document.getElementById('planner-detail-close').addEventListener('click', closePlannerModal);
   modal.addEventListener('click', (e) => {
-    if (e.target === modal) modal.remove();
+    if (e.target === modal) closePlannerModal();
   });
 
   // 수정 저장 버튼
@@ -6828,6 +6863,17 @@ function openPlannerDetail(planId) {
     refreshPlannerSvgSlideByIndex(plan, idx);
   });
   document.getElementById('planner-template-preview')?.addEventListener('click', (e) => {
+    const clearBtn = e.target.closest('.planner-clear-image-btn');
+    if (clearBtn) {
+      e.preventDefault();
+      e.stopPropagation();
+      const slideIndex = Number(clearBtn.getAttribute('data-slide-index'));
+      if (Number.isInteger(slideIndex)) {
+        applyImageToTarget(plan, slideIndex, '', '이미지 없음');
+        showToast(`🗑️ ${slideIndex + 1}번째 카드 이미지를 제거했습니다.`);
+      }
+      return;
+    }
     const card = e.target.closest('[data-index]');
     if (!card) return;
     const idx = Number(card.getAttribute('data-index'));
@@ -6840,25 +6886,6 @@ function openPlannerDetail(planId) {
       document.getElementById('planner-template-preview')?.focus({ preventScroll: true });
     }
   });
-  modal.addEventListener('paste', async (e) => {
-    const targetTag = (e.target?.tagName || '').toLowerCase();
-    if (targetTag === 'input' || targetTag === 'textarea') return;
-    const items = Array.from(e.clipboardData?.items || []);
-    const imgItem = items.find(it => it.type && it.type.startsWith('image/'));
-    if (!imgItem) return;
-    e.preventDefault();
-    const file = imgItem.getAsFile();
-    if (!file) return;
-    const targetIndex = getActiveSvgTargetIndex();
-    try {
-      const dataUrl = await fileToCroppedDataUrl(file, 1080, 1350);
-      applyImageToTarget(plan, targetIndex, dataUrl, '클립보드 이미지');
-      showToast(`📋 ${targetIndex + 1}번째 카드에 클립보드 이미지를 적용했습니다.`);
-    } catch (_) {
-      showToast('클립보드 이미지를 적용하지 못했습니다.', 'error');
-    }
-  });
-
   document.getElementById('planner-svg-refresh')?.addEventListener('click', () => {
     refreshPlannerSvgPreview(plan);
   });
