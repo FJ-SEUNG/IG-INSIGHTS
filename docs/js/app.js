@@ -6033,9 +6033,20 @@ function makeImageCacheKey(planId, slideIndex) {
 }
 
 async function urlToDataUrl(imageUrl) {
-  const resp = await fetch(imageUrl);
-  if (!resp.ok) throw new Error(`image fetch failed: ${resp.status}`);
-  const blob = await resp.blob();
+  const original = String(imageUrl || '').trim();
+  if (!original) throw new Error('empty image url');
+  const noProto = original.replace(/^https?:\/\//i, '');
+  const proxied = `https://images.weserv.nl/?url=${encodeURIComponent(noProto)}&w=1080&h=1350&fit=cover`;
+  let blob = null;
+  try {
+    const proxyResp = await fetch(proxied);
+    if (proxyResp.ok) blob = await proxyResp.blob();
+  } catch (_) {}
+  if (!blob) {
+    const resp = await fetch(original);
+    if (!resp.ok) throw new Error(`image fetch failed: ${resp.status}`);
+    blob = await resp.blob();
+  }
   return await new Promise((resolve, reject) => {
     const reader = new FileReader();
     reader.onload = () => resolve(reader.result);
@@ -6054,7 +6065,7 @@ async function getEmbeddableImageUrl(planId, slideIndex, imageUrl) {
     PLANNER_IMAGE_EMBED_CACHE[key] = dataUrl;
     return dataUrl;
   } catch (_) {
-    return imageUrl;
+    return '';
   }
 }
 
@@ -6634,6 +6645,7 @@ function openPlannerDetail(planId) {
           </div>
           <div style="display:flex;gap:8px;align-items:center;margin-top:10px;flex-wrap:wrap;">
             <button class="btn-secondary" id="planner-image-search">🔍 무료 이미지 추천</button>
+            <a class="btn-secondary" id="planner-google-image-search" href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent((plan.image?.keyword || plan.content?.thumbnail_title || 'japan travel').replace(/\n/g,' ').trim())}" target="_blank" rel="noopener" style="text-decoration:none;display:inline-flex;align-items:center;">🌐 구글 이미지 검색</a>
             <input id="planner-external-image-url" type="text" placeholder="외부 이미지 URL 붙여넣기 (https://...)" style="min-width:280px;flex:1;padding:8px 10px;border:1px solid var(--border);border-radius:8px;">
             <button class="btn-secondary" id="planner-external-image-apply">🌐 URL 적용</button>
             <span id="planner-image-selected" style="font-size:12px;color:var(--subtext);">선택 이미지: 없음 (기본 템플릿 배경 사용)</span>
