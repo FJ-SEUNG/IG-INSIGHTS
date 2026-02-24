@@ -6183,6 +6183,9 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
   const bodyText = bodyLines
     .map((line, i) => `<text x="${safeX}" y="${bodyStartY + (i * bodyLineHeight)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="${bodySize}" font-weight="700" letter-spacing="-0.01em">${escapeXml(line)}</text>`)
     .join('');
+  const logoText = isThumbnail
+    ? `<text x="${safeX}" y="${logoY}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-0.02em">✓ FLYING</text>`
+    : '';
 
   const imageLayer = backgroundUrl
     ? `<image href="${escapeXml(backgroundUrl)}" x="0" y="0" width="1080" height="1350" preserveAspectRatio="xMidYMid slice"/>`
@@ -6205,7 +6208,7 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
   ${backgroundUrl ? '' : '<rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/><text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>'}
   <rect y="740" width="1080" height="610" fill="url(#overlay)"/>
   <text x="80" y="72" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">${escapeXml(pageLabel)}</text>
-  <text x="${safeX}" y="${logoY}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-0.02em">✓ FLYING</text>
+  ${logoText}
   ${titleText}
   ${bodyText}
 </svg>`;
@@ -6350,7 +6353,7 @@ function renderPlannerSvgPreview(plan) {
   box.innerHTML = `
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">
       ${slides.map((slide, idx) => `
-        <label style="display:block;background:var(--bg-alt);border:1px solid var(--border);border-radius:12px;padding:10px;">
+        <div data-index="${idx}" style="display:block;background:var(--bg-alt);border:1px solid var(--border);border-radius:12px;padding:10px;">
           <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;">
             <span style="font-size:12px;color:var(--subtext);">${slide.pageLabel}</span>
             <span style="display:flex;gap:8px;align-items:center;">
@@ -6362,11 +6365,58 @@ function renderPlannerSvgPreview(plan) {
             </span>
           </div>
           <img src="${slide.previewUrl}" alt="${slide.pageLabel}" style="width:100%;height:auto;border-radius:8px;border:1px solid var(--border);">
-        </label>
+          <div style="margin-top:8px;display:grid;gap:6px;">
+            ${slide.slideIndex === 0
+              ? `<textarea class="planner-svg-edit-title" rows="2" style="width:100%;font-size:12px;border:1px solid var(--border);border-radius:8px;padding:6px;">${escapeXml((slide.titleLines || []).join('\n'))}</textarea>`
+              : `<input class="planner-svg-edit-title" type="text" value="${escapeXml((slide.titleLines || [])[0] || '')}" style="width:100%;font-size:12px;border:1px solid var(--border);border-radius:8px;padding:6px;">`
+            }
+            ${slide.slideIndex === 0 ? '' : `<textarea class="planner-svg-edit-body" rows="3" style="width:100%;font-size:12px;border:1px solid var(--border);border-radius:8px;padding:6px;">${escapeXml((slide.bodyLines || []).join('\n'))}</textarea>`}
+          </div>
+        </div>
       `).join('')}
     </div>
   `;
-  box.dataset.slides = JSON.stringify(slides.map(s => ({ filename: s.filename, svg: s.svg })));
+  box.dataset.slides = JSON.stringify(slides.map(s => ({
+    filename: s.filename,
+    svg: s.svg,
+    pageLabel: s.pageLabel,
+    slideIndex: s.slideIndex,
+    titleLines: s.titleLines || [],
+    bodyLines: s.bodyLines || [],
+  })));
+}
+
+function refreshPlannerSvgSlideByIndex(plan, cardIndex) {
+  const box = document.getElementById('planner-template-preview');
+  if (!box?.dataset.slides) return;
+  const slides = JSON.parse(box.dataset.slides || '[]');
+  const slide = slides[cardIndex];
+  const cardEl = box.querySelector(`[data-index="${cardIndex}"]`);
+  if (!slide || !cardEl) return;
+
+  const titleRaw = cardEl.querySelector('.planner-svg-edit-title')?.value || '';
+  const bodyRaw = cardEl.querySelector('.planner-svg-edit-body')?.value || '';
+  const titleLines = splitLines(titleRaw, slide.slideIndex === 0 ? 2 : 1).slice(0, slide.slideIndex === 0 ? 3 : 1);
+  const bodyLines = slide.slideIndex === 0 ? [] : splitLines(bodyRaw, 3).slice(0, 3);
+  const bg = getSelectedImageForPlan(plan.id, slide.slideIndex) || getSelectedImageForPlan(plan.id) || plan.image?.selected_url || '';
+
+  const svg = buildSvgCardTemplate({
+    pageLabel: slide.pageLabel,
+    titleLines,
+    bodyLines,
+    backgroundUrl: bg,
+    variant: slide.slideIndex === 0 ? 'thumbnail' : 'card',
+  });
+
+  slide.titleLines = titleLines;
+  slide.bodyLines = bodyLines;
+  slide.svg = svg;
+  box.dataset.slides = JSON.stringify(slides);
+
+  const img = cardEl.querySelector('img');
+  if (img) {
+    img.src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+  }
 }
 
 function downloadBlob(blob, filename) {
@@ -6631,6 +6681,14 @@ function openPlannerDetail(planId) {
     if (!e.target.matches('input[name="planner-svg-target"]')) return;
     const targetIndex = getActiveSvgTargetIndex();
     updateSelectedImageLabel(getSelectedImageForPlan(plan.id, targetIndex) || '', targetIndex);
+  });
+  document.getElementById('planner-template-preview')?.addEventListener('input', (e) => {
+    const card = e.target.closest('[data-index]');
+    if (!card) return;
+    if (!e.target.classList.contains('planner-svg-edit-title') && !e.target.classList.contains('planner-svg-edit-body')) return;
+    const idx = Number(card.getAttribute('data-index'));
+    if (!Number.isInteger(idx)) return;
+    refreshPlannerSvgSlideByIndex(plan, idx);
   });
 
   document.getElementById('planner-svg-refresh')?.addEventListener('click', () => {
