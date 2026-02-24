@@ -6003,12 +6003,13 @@ function setSelectedImageForPlan(planId, imageUrl) {
 }
 
 function buildUnsplashSourceCandidates(keyword = '') {
-  const q = encodeURIComponent((keyword || 'japan travel').trim());
+  const seedBase = encodeURIComponent((keyword || 'japan-travel').trim().replace(/\s+/g, '-').toLowerCase());
   return Array.from({ length: 4 }, (_, i) => ({
-    thumb: `https://source.unsplash.com/640x800/?${q}&sig=${i + 1}`,
-    url: `https://source.unsplash.com/1080x1350/?${q}&sig=${i + 1}`,
-    source: 'Unsplash',
-    page: `https://unsplash.com/s/photos/${encodeURIComponent((keyword || 'japan travel').trim().replace(/\s+/g, '-'))}`,
+    // Unsplash Source는 종종 깨져서, 무료/무키로 안정적인 Picsum 랜덤 이미지를 사용
+    thumb: `https://picsum.photos/seed/${seedBase}-${i + 1}/640/800`,
+    url: `https://picsum.photos/seed/${seedBase}-${i + 1}/1080/1350`,
+    source: 'Picsum',
+    page: `https://picsum.photos/`,
     label: `${keyword || 'japan travel'} #${i + 1}`,
   }));
 }
@@ -6053,7 +6054,7 @@ function renderPlannerImageCandidates(candidates, selectedUrl = '') {
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px;margin-top:10px;">
       ${candidates.map(c => `
         <div style="background:var(--bg-alt);border:1px solid var(--border);border-radius:10px;padding:8px;">
-          <img src="${escapeXml(c.thumb)}" alt="${escapeXml(c.label)}" loading="lazy" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
+          <img src="${escapeXml(c.thumb)}" alt="${escapeXml(c.label)}" loading="lazy" onerror="this.onerror=null;this.src='https://picsum.photos/seed/fallback-image/640/800';" style="width:100%;height:180px;object-fit:cover;border-radius:8px;">
           <div style="margin-top:8px;font-size:12px;color:var(--subtext);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeXml(c.source)} · ${escapeXml(c.label)}</div>
           <div style="display:flex;gap:6px;margin-top:8px;">
             <button class="btn-secondary planner-select-image-btn" data-image-url="${escapeXml(c.url)}" style="flex:1;padding:6px 8px;font-size:12px;">
