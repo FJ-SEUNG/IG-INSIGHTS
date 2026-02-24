@@ -5999,6 +5999,125 @@ function toggleSavePlan(planId, btn) {
   localStorage.setItem('savedPlannerPlans', JSON.stringify(savedPlans));
 }
 
+function escapeXml(value) {
+  return String(value || '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+function sanitizeFilename(value) {
+  return String(value || 'planner')
+    .replace(/[^\w.-]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '')
+    .toLowerCase();
+}
+
+function splitLines(text, fallbackMax = 3) {
+  const lines = String(text || '')
+    .split(/\r?\n/)
+    .map(s => s.trim())
+    .filter(Boolean);
+  return lines.length ? lines : Array.from({ length: fallbackMax }, () => '');
+}
+
+function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], keyword = '' }) {
+  const titleText = titleLines
+    .map((line, i) => `<text x="80" y="${1080 + (i * 135)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="133" font-weight="800" letter-spacing="-5">${escapeXml(line)}</text>`)
+    .join('');
+
+  const bodyText = bodyLines
+    .map((line, i) => `<text x="80" y="${860 + (i * 74)}" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">${escapeXml(line)}</text>`)
+    .join('');
+
+  const keywordTag = keyword
+    ? `<text x="1000" y="90" text-anchor="end" fill="#FFFFFFC0" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="600">#${escapeXml(keyword)}</text>`
+    : '';
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F2937"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="0" y1="760" x2="0" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00000000"/>
+      <stop offset="1" stop-color="#000000D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/>
+  <text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>
+  <rect y="760" width="1080" height="590" fill="url(#overlay)"/>
+  <text x="80" y="70" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="38" font-weight="700">${escapeXml(pageLabel)}</text>
+  ${keywordTag}
+  <text x="80" y="930" fill="#FFFFFF" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">✓ FLYING</text>
+  ${bodyText}
+  ${titleText}
+</svg>`;
+}
+
+function collectPlannerDraftFromModal(plan) {
+  const thumbnail = document.querySelector('.edit-thumbnail')?.value || plan.content.thumbnail_title || '';
+  const cards = Array.from(document.querySelectorAll('.card-slide:not(.thumbnail)')).map(slide => ({
+    title: slide.querySelector('.edit-card-title')?.value || '',
+    content: slide.querySelector('.edit-card-content')?.value || '',
+  }));
+
+  return { thumbnail, cards };
+}
+
+function downloadPlannerSvgTemplates(plan) {
+  const { thumbnail, cards } = collectPlannerDraftFromModal(plan);
+  if (!thumbnail && cards.length === 0) {
+    showToast('다운로드할 카드 텍스트가 없습니다.', 'error');
+    return;
+  }
+
+  const keyword = (plan.image?.keyword || '').trim();
+  const slides = [
+    {
+      pageLabel: '1번째',
+      titleLines: splitLines(thumbnail, 2).slice(0, 3),
+      bodyLines: [],
+      filename: `01-thumbnail.svg`,
+    },
+    ...cards.map((card, i) => ({
+      pageLabel: `${i + 2}번째`,
+      titleLines: splitLines(card.title, 1).slice(0, 1),
+      bodyLines: splitLines(card.content, 3).slice(0, 3),
+      filename: `${String(i + 2).padStart(2, '0')}-card.svg`,
+    })),
+  ];
+
+  const prefix = sanitizeFilename(plan.id || 'planner-card');
+  slides.forEach((slide, idx) => {
+    const svg = buildSvgCardTemplate({
+      pageLabel: slide.pageLabel,
+      titleLines: slide.titleLines,
+      bodyLines: slide.bodyLines,
+      keyword,
+    });
+    const blob = new Blob([svg], { type: 'image/svg+xml;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${prefix}-${slide.filename}`;
+    document.body.appendChild(a);
+    setTimeout(() => {
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    }, idx * 120);
+  });
+
+  showToast('🖼️ SVG 템플릿 다운로드를 시작합니다.');
+}
+
 function openPlannerDetail(planId) {
   const plan = PLANNER_DATA.plans.find(p => p.id === planId);
   if (!plan) return;
@@ -6125,6 +6244,7 @@ function openPlannerDetail(planId) {
           <button class="btn-save" id="planner-save-changes">💾 수정 저장</button>
         </div>
         <div class="footer-right">
+          <button class="btn-secondary" id="planner-download-svg">🖼️ SVG 템플릿</button>
           <button class="btn-secondary" id="planner-copy-cards">📑 카드 복사</button>
           <button class="btn-secondary" id="planner-copy-caption">📝 본문 복사</button>
           <button class="btn-primary" id="planner-detail-copy">📋 전체 복사</button>
@@ -6147,6 +6267,10 @@ function openPlannerDetail(planId) {
   });
 
   // 복사 이벤트
+  document.getElementById('planner-download-svg')?.addEventListener('click', () => {
+    downloadPlannerSvgTemplates(plan);
+  });
+
   document.getElementById('planner-detail-copy').addEventListener('click', () => {
     // 현재 입력값으로 복사
     const currentCaption = document.getElementById('detail-caption').value;
