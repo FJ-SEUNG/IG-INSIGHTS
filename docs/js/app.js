@@ -6203,6 +6203,8 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
   const bodySize = 56;
   const bodyLineHeight = 74;
   const logoY = isThumbnail ? 860 : 840;
+  const panelY = isThumbnail ? 820 : 860;
+  const panelH = isThumbnail ? 500 : 460;
 
   const titleStartY = isThumbnail ? 980 : 980;
   const bodyStartY = 1110;
@@ -6238,6 +6240,7 @@ function buildSvgCardTemplate({ pageLabel, titleLines, bodyLines = [], backgroun
   ${imageLayer}
   ${backgroundUrl ? '' : '<rect x="40" y="40" width="1000" height="1270" rx="8" fill="#FFFFFF10" stroke="#FFFFFF26" stroke-width="2"/><text x="540" y="300" text-anchor="middle" fill="#FFFFFF90" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="44" font-weight="700">Figma에서 배경 이미지 교체</text>'}
   <rect y="740" width="1080" height="610" fill="url(#overlay)"/>
+  <rect x="40" y="${panelY}" width="1000" height="${panelH}" rx="14" fill="#00000066"/>
   <text x="80" y="72" fill="#FFFFFFA6" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">${escapeXml(pageLabel)}</text>
   ${logoText}
   ${titleText}
