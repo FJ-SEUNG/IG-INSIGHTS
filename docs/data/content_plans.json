@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-26T00:07:05.698968",
+  "last_updated": "2026-02-26T05:13:54.967010",
   "plans": [
+    {
+      "id": "plan_a6ebfcbf",
+      "created_at": "2026-02-26T05:13:52.966817",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA「ポケモンジェット」2026年就航。赤/緑/青の3機、国内線と約10年ぶりに国際線へ投入",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088784.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬 팬이라면 놓칠 수 없는 ANA 특별 도색기 탑승 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨ ANA 포켓몬 제트 2026년 취항!",
+        "cards": [
+          {
+            "title": "포켓몬 제트 3대",
+            "content": "2026년 중 ANA에서 포켓몬 탄생 30주년을 기념하여 특별 도색기 '포켓몬 제트' 3대를 새롭게 선보입니다.",
+            "alt_text": "ANA 포켓몬 제트 3대가 나란히 서 있는 모습"
+          },
+          {
+            "title": "국내선 & 국제선",
+            "content": "이 특별 도색기는 국내선뿐만 아니라 약 10년 만에 국제선에도 투입될 예정입니다. 어떤 노선에 등장할지 기대해주세요!",
+            "alt_text": "비행기가 하늘을 나는 모습"
+          },
+          {
+            "title": "30주년 기념",
+            "content": "이번 포켓몬 제트는 '포켓몬스터' 탄생 30주년을 기념하는 특별한 이벤트입니다. 포켓몬 팬들에게는 잊지 못할 추억이 될 거예요.",
+            "alt_text": "포켓몬 캐릭터들이 축하하는 모습"
+          },
+          {
+            "title": "2026년 운항",
+            "content": "2026년 중에 운항이 시작될 예정이니, 일본 여행 계획 시 참고하시면 특별한 경험을 할 수 있습니다.",
+            "alt_text": "달력에 2026년 날짜를 표시하는 모습"
+          },
+          {
+            "title": "탑승 팁",
+            "content": "정확한 취항 노선 및 일정은 추후 ANA 홈페이지에서 발표될 예정입니다. 수시로 확인하고 원하는 노선에 탑승할 기회를 잡아보세요!",
+            "alt_text": "비행기 티켓을 들고 있는 손"
+          }
+        ],
+        "caption": "✨ 2026년, ANA에서 포켓몬 제트 3대를 만나요! ✨\n포켓몬 탄생 30주년을 기념하여 특별 도색된 '포켓몬 제트'가 2026년 중 국내선과 약 10년 만에 국제선에 투입됩니다.\n포켓몬 팬이라면 2026년 일본 여행 시 꼭 탑승하고 특별한 추억을 만들어보세요!\n\n✅ 정확한 노선 및 일정은 추후 발표 예정!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#포켓몬",
+          "#포켓몬제트",
+          "#일본항공",
+          "#특별도색기",
+          "#2026년",
+          "#여행정보",
+          "#일본항공권",
+          "#여행스타그램",
+          "#포켓몬스터",
+          "#기념비행",
+          "#항공뉴스",
+          "#일본출발"
+        ],
+        "alt_texts": [
+          "ANA 포켓몬 제트 3대가 나란히 서 있는 모습",
+          "비행기가 하늘을 나는 모습",
+          "포켓몬 캐릭터들이 축하하는 모습",
+          "달력에 2026년 날짜를 표시하는 모습",
+          "비행기 티켓을 들고 있는 손"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획하는 포켓몬 팬 및 항공기 마니아 / 최적 게시 시간: 오후 6시 - 9시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 공유, '어떤 노선이 나올까?'에 대한 기대감 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 팬덤을 자극하는 매력적인 소재",
+      "image": {
+        "keyword": "ANA, Pokemon Jet, 2026, airplane, livery, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA,-Pokemon-Jet,-2026,-airplane,-livery,-Japan",
+        "pexels_url": "https://www.pexels.com/search/ANA,%20Pokemon%20Jet,%202026,%20airplane,%20livery,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_a281d6c3",
+      "created_at": "2026-02-26T05:13:47.623616",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ららぽーと和泉、関西・大阪初出店含む30店舗の一覧を公開。フードコートや子供向けエリアも刷新",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088787.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 근교 쇼핑 성지, 라라포트 이즈미 대규모 리뉴얼! 30개 신규/리뉴얼 매장 정보 총정리! 🛍️"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 쇼핑 신세계✨",
+        "cards": [
+          {
+            "title": "라라포트 이즈미 리뉴얼",
+            "content": "오사카부 이즈미시에 위치한 '미쓰이 쇼핑파크 라라포트 이즈미'가 대규모 리뉴얼을 진행합니다. 2024년 3월 26일부터 신규 및 리뉴얼된 총 30개 점포가 순차적으로 오픈 예정입니다.",
+            "alt_text": "라라포트 이즈미 외부 전경 이미지"
+          },
+          {
+            "title": "신규/리뉴얼 30개 매장",
+            "content": "이번 리뉴얼에는 간사이 및 오사카 최초 입점 브랜드를 포함한 30개의 다채로운 매장이 새롭게 선보입니다. 쇼핑의 즐거움이 더욱 커질 것으로 기대됩니다.",
+            "alt_text": "다양한 쇼핑백이 쌓여있는 이미지"
+          },
+          {
+            "title": "새로운 푸드코트",
+            "content": "이용객들의 편의를 위해 푸드코트 공간도 새롭게 단장됩니다. 다양한 메뉴를 즐길 수 있는 새로운 푸드코트에서 맛있는 식사를 경험해보세요.",
+            "alt_text": "깔끔하고 현대적인 푸드코트 내부 이미지"
+          },
+          {
+            "title": "키즈 공간 강화",
+            "content": "어린이를 동반한 가족들을 위한 키즈 공간도 새롭게 조성됩니다. 아이들이 즐겁게 시간을 보낼 수 있는 공간이 마련되어 가족 여행객에게 더욱 매력적인 장소가 될 것입니다.",
+            "alt_text": "아이들이 뛰어놀고 있는 키즈존 이미지"
+          },
+          {
+            "title": "쇼핑 팁",
+            "content": "오사카 시내에서 대중교통으로 약 40분~1시간 정도 소요됩니다. 리뉴얼 오픈 직후에는 방문객이 많을 수 있으니, 평일 오전 시간대를 이용하면 여유롭게 쇼핑을 즐길 수 있습니다.",
+            "alt_text": "쇼핑 중인 즐거워 보이는 가족 이미지"
+          }
+        ],
+        "caption": "✈️오사카 쇼핑 필수 코스 업데이트!✈️\n\n✨라라포트 이즈미, 30개 신규/리뉴얼 매장 오픈!✨\n\n오사카 근교 쇼핑 성지로 떠오르는 '미쓰이 쇼핑파크 라라포트 이즈미'가 대규모 리뉴얼을 통해 30개의 새로운 매장을 선보입니다. 간사이/오사카 최초 입점 브랜드부터 새롭게 단장된 푸드코트, 더욱 강화된 키즈존까지! 가족, 친구와 함께 즐거운 쇼핑 시간을 계획해보세요!\n\n📍위치: 오사카부 이즈미시 아유미노 4-4-7\n🗓️오픈: 2024년 3월 26일 순차 오픈\n\n#일본여행 #오사카여행 #라라포트이즈미 #쇼핑 #리뉴얼 #가족여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#라라포트이즈미",
+          "#미쓰이쇼핑파크",
+          "#일본쇼핑",
+          "#간사이여행",
+          "#오사카근교",
+          "#쇼핑몰",
+          "#신규오픈",
+          "#리뉴얼",
+          "#가족여행",
+          "#아이와함께",
+          "#주말여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "라라포트 이즈미 외부 전경 이미지",
+          "다양한 쇼핑백이 쌓여있는 이미지",
+          "깔끔하고 현대적인 푸드코트 내부 이미지",
+          "아이들이 뛰어놀고 있는 키즈존 이미지",
+          "쇼핑 중인 즐거워 보이는 가족 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: '오사카 가면 꼭 가봐야지!', '정보 감사해요!' 등 쇼핑 계획 관련 댓글 / 이 콘텐츠의 강점: 오사카 근교의 대규모 쇼핑몰 리뉴얼이라는 시의성 있는 정보와 구체적인 매장 수, 편의시설 정보 제공",
+      "image": {
+        "keyword": "LaLaport Izumi, new stores, shopping mall, Osaka, Japan, family shopping, food court, kids zone, renovation",
+        "unsplash_url": "https://unsplash.com/s/photos/LaLaport-Izumi,-new-stores,-shopping-mall,-Osaka,-Japan,-family-shopping,-food-court,-kids-zone,-renovation",
+        "pexels_url": "https://www.pexels.com/search/LaLaport%20Izumi,%20new%20stores,%20shopping%20mall,%20Osaka,%20Japan,%20family%20shopping,%20food%20court,%20kids%20zone,%20renovation/"
+      }
+    },
     {
       "id": "plan_69efe09c",
       "created_at": "2026-02-26T00:07:03.698796",
@@ -859,128 +1013,6 @@
         "keyword": "Okinawa Yui Rail Mobile Suica",
         "unsplash_url": "https://unsplash.com/s/photos/Okinawa-Yui-Rail-Mobile-Suica",
         "pexels_url": "https://www.pexels.com/search/Okinawa%20Yui%20Rail%20Mobile%20Suica/"
-      }
-    },
-    {
-      "id": "plan_1f3b4ef2",
-      "created_at": "2026-02-18T01:12:34.636098",
-      "category": "transport",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "高速バス「福岡・福岡空港～熊本線（ひのくに号）」全便でタッチ決済導入。運賃20％オフの記念キャンペーンも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2086676.html",
-        "date": ""
-      },
-      "relevance": {
-        "impact": "중",
-        "interest": "중",
-        "appeal": "후쿠오카-구마모토 고속버스, 터치결제 도입 & 20% 할인 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "🚌 후쿠오카↔구마모토 버스, 터치결제 & 할인!",
-        "cards": [
-          {
-            "title": "터치결제 도입!",
-            "content": "3월 1일부터 후쿠오카-구마모토 '히노쿠니호' 전 노선에서 터치결제 가능!"
-          },
-          {
-            "title": "결제 가능 카드",
-            "content": "Visa, Mastercard, JCB, American Express 등 대부분의 카드 지원"
-          },
-          {
-            "title": "🎉 기념 할인!",
-            "content": "터치결제 이용 시 운임 20% 할인! (기간 미정)"
-          },
-          {
-            "title": "🚌 히노쿠니호 정보",
-            "content": "후쿠오카(공항) ↔ 구마모토를 잇는 편리한 고속버스 노선"
-          }
-        ],
-        "caption": "# 후쿠오카↔구마모토 고속버스 🚌\n터치결제 도입 + 20% 할인!\n\n규슈 여행하시는 분들 주목!\n3월 1일부터 '히노쿠니호' 전 노선에서 터치결제가 가능해집니다 💳\n\n# 터치결제 도입 📅\n- 3월 1일부터 전 노선 적용\n- Visa, Mastercard, JCB, Amex 지원\n- 현금 없이 카드만으로 탑승 OK!\n\n# 기념 할인 이벤트 💰\n- 터치결제 이용 시 운임 20% 할인!\n- 할인 기간은 추후 공지\n- 지금이 타이밍!\n\n# 히노쿠니호 정보 🚌\n- 후쿠오카(텐진/공항) ↔ 구마모토\n- 약 2시간 소요\n- 예약 없이 바로 탑승 가능\n\n규슈 여행 계획 중이라면 저장 필수!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 \"규슈\" 남겨주세요\n\nDM으로 규슈 교통 가이드 보내드려요 💙",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카",
-          "#구마모토",
-          "#히노쿠니호",
-          "#고속버스",
-          "#터치결제",
-          "#교통정보",
-          "#여행팁",
-          "#할인",
-          "#일본교통",
-          "#후쿠오카여행",
-          "#구마모토여행",
-          "#여행스타그램",
-          "#일본자유여행"
-        ]
-      },
-      "image": {
-        "keyword": "fukuoka kumamoto highway bus touch payment discount japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/fukuoka-kumamoto-highway-bus-touch-payment-discount-japan-travel",
-        "pexels_url": "https://www.pexels.com/search/fukuoka%20kumamoto%20highway%20bus%20touch%20payment%20discount%20japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_d519bc68",
-      "created_at": "2026-02-18T01:12:21.052524",
-      "category": "tips",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "山田IC/桶川北本IC/和光ICをETC専用料金所として運用開始、3月19日から順次",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2086683.html",
-        "date": ""
-      },
-      "relevance": {
-        "impact": "중",
-        "interest": "중",
-        "appeal": "일본 고속도로 통행료 징수 방식 변경! 미리 알아두면 편리해요."
-      },
-      "content": {
-        "thumbnail_title": "🚨 일본 고속도로 ETC 전용!",
-        "cards": [
-          {
-            "title": "ETC 전용 IC 확대",
-            "content": "3월 19일부터 야마다IC, 오케가와키타모토IC, 코가쿠IC가 ETC 전용으로 운영됩니다."
-          },
-          {
-            "title": "영향 노선",
-            "content": "치바동금도로(E82), 수도권중앙연락자동차도(C4), 도쿄외환자동차도(C3) 이용 시 확인 필수!"
-          },
-          {
-            "title": "현금 결제 불가",
-            "content": "해당 IC에서는 현금 결제가 불가능하니, ETC 카드 미리 준비하세요."
-          },
-          {
-            "title": "통행 계획 확인",
-            "content": "NEXCO 동일본 홈페이지에서 자세한 정보 확인하고 여행 계획 세우세요!"
-          }
-        ],
-        "caption": "# 일본 고속도로 ETC 전용 확대 🚗\n렌터카 여행자 필독!\n\n일본에서 렌터카 여행 계획 중이시라면 꼭 알아두세요!\n3월 19일부터 일부 IC가 ETC 전용으로 변경됩니다 ⚠️\n\n# 변경 내용 📅\n- 3월 19일부터 순차 적용\n- 야마다IC, 오케가와키타모토IC, 와코IC\n- 현금 결제 불가!\n\n# 해당 노선 🛣️\n- 치바동금도로 (E82)\n- 수도권중앙연락자동차도 (C4)\n- 도쿄외환자동차도 (C3)\n\n# 대응 방법 💡\n- 렌터카 예약 시 ETC 카드 옵션 추가\n- 해당 IC 피해서 다른 IC 이용\n- 네비에 ETC 전용 표시 확인\n\n📌 렌터카 여행 예정이라면 저장 필수!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 \"렌터카\" 남겨주세요\n\nDM으로 렌터카 꿀팁 보내드려요 💙",
-        "hashtags": [
-          "#일본여행",
-          "#일본자유여행",
-          "#일본도로",
-          "#ETC",
-          "#고속도로",
-          "#일본교통",
-          "#여행정보",
-          "#플라잉재팬",
-          "#일본여행팁",
-          "#여행준비",
-          "#일본운전",
-          "#렌터카",
-          "#일본일상",
-          "#여행스타그램",
-          "#일본"
-        ]
-      },
-      "image": {
-        "keyword": "japan highway etc toll gate",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-etc-toll-gate",
-        "pexels_url": "https://www.pexels.com/search/japan%20highway%20etc%20toll%20gate/"
       }
     }
   ]
