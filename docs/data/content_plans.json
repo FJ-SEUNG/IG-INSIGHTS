@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-25T05:17:58.635901",
+  "last_updated": "2026-02-26T00:07:05.698968",
   "plans": [
+    {
+      "id": "plan_69efe09c",
+      "created_at": "2026-02-26T00:07:03.698796",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本初進出「カペラ京都」開業。全89室のうちスイート29室、ダイニングはミシュラン三つ星「シングルスレッド」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088546.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토에 새롭게 문을 연 럭셔리 호텔, 미슐랭 3스타 레스토랑까지!"
+      },
+      "content": {
+        "thumbnail_title": "✨교토 신상 럭셔리 호텔✨",
+        "cards": [
+          {
+            "title": "카펠라 교토 오픈!",
+            "content": "교토에 럭셔리 호텔 '카펠라 교토'가 3월 22일 문을 열었어요. 총 89개의 객실 중 29개가 스위트룸으로 구성되어 있답니다.",
+            "alt_text": "카펠라 교토 호텔 외관 전경"
+          },
+          {
+            "title": "미슐랭 3스타 레스토랑",
+            "content": "호텔 내 다이닝에는 미슐랭 3스타 레스토랑 '싱글 스레드'가 입점하여 최고급 식사를 경험할 수 있어요.",
+            "alt_text": "미슐랭 3스타 레스토랑 '싱글 스레드' 내부 모습"
+          },
+          {
+            "title": "고즈넉한 교토 감성",
+            "content": "교토시 히가시야마구 고마쓰초 130번지에 위치해 있어 교토의 아름다운 풍경과 함께 특별한 시간을 보낼 수 있어요.",
+            "alt_text": "교토의 전통적인 거리 풍경"
+          },
+          {
+            "title": "최고급 숙박 경험",
+            "content": "일본 최초로 선보이는 카펠라 호텔에서 잊지 못할 럭셔리 스테이를 경험해 보세요.",
+            "alt_text": "카펠라 교토 호텔 객실 내부 이미지"
+          },
+          {
+            "title": "예약 팁!",
+            "content": "오픈 초기에는 예약이 몰릴 수 있으니, 방문 계획이 있다면 서둘러 예약하는 것을 추천해요. 공식 웹사이트를 통해 예약 가능합니다.",
+            "alt_text": "예약 화면 예시 이미지"
+          }
+        ],
+        "caption": "🇯🇵 교토에 새로운 럭셔리 호텔 '카펠라 교토'가 3월 22일 드디어 오픈했어요! ✨\n\n총 89개 객실 중 29개가 스위트룸으로, 미슐랭 3스타 레스토랑 '싱글 스레드'까지 갖춘 최고급 호텔이랍니다. 🤩\n\n교토 여행을 더욱 특별하게 만들어 줄 이곳에서 잊지 못할 추억을 만들어보세요!\n\n#카펠라교토 #교토호텔 #일본신상호텔 #교토여행 #럭셔리호텔 #미슐랭레스토랑 #일본숙소 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토",
+          "#교토여행",
+          "#일본숙소",
+          "#호텔추천",
+          "#럭셔리호텔",
+          "#신상호텔",
+          "#카펠라교토",
+          "#미슐랭",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#해외여행",
+          "#교토가볼만한곳",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "카펠라 교토 호텔 외관 전경",
+          "미슐랭 3스타 레스토랑 '싱글 스레드' 내부 모습",
+          "교토의 전통적인 거리 풍경",
+          "카펠라 교토 호텔 객실 내부 이미지",
+          "예약 화면 예시 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 럭셔리 여행에 관심 있는 2040 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 (저녁 식사 시간대) / 기대 반응: 높은 관심과 문의, 예약 정보 탐색 / 이 콘텐츠의 강점: 최신 오픈 호텔 정보, 미슐랭 레스토랑 포함, 구체적인 오픈일 및 객실 정보 제공",
+      "image": {
+        "keyword": "Capella Kyoto hotel, luxury hotel Kyoto, Michelin restaurant Kyoto, Kyoto travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Capella-Kyoto-hotel,-luxury-hotel-Kyoto,-Michelin-restaurant-Kyoto,-Kyoto-travel",
+        "pexels_url": "https://www.pexels.com/search/Capella%20Kyoto%20hotel,%20luxury%20hotel%20Kyoto,%20Michelin%20restaurant%20Kyoto,%20Kyoto%20travel/"
+      }
+    },
+    {
+      "id": "plan_ce6a96d1",
+      "created_at": "2026-02-26T00:06:58.283939",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "イカロス出版「すごい空港スイーツ＆お菓子大百科」発売。国内の41空港から個性豊かな約400品をオールカラーで紹介",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088593.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 41개 공항의 특별한 디저트들을 한 권으로 만날 수 있는 가이드북 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 공항 디저트 총정리!",
+        "cards": [
+          {
+            "title": "신간 출간!",
+            "content": "이카로스 출판에서 '엄청난 공항 디저트&과자 대백과'를 2월 24일에 발매했어요.",
+            "alt_text": "책 표지 이미지"
+          },
+          {
+            "title": "41개 공항",
+            "content": "일본 전국 41개 공항에서 엄선된 개성 넘치는 디저트와 과자 약 400가지를 소개합니다.",
+            "alt_text": "일본 지도에 공항 표시"
+          },
+          {
+            "title": "올 컬러",
+            "content": "128페이지 올 컬러로 생생한 디저트 사진을 감상하며 여행 계획을 세울 수 있어요.",
+            "alt_text": "다양한 디저트 사진 모음"
+          },
+          {
+            "title": "가격",
+            "content": "A5판, 128페이지, 가격은 2,200엔입니다. ✈️",
+            "alt_text": "책 가격 표시"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "여행 전, 이 책으로 공항별 숨겨진 디저트 맛집을 미리 파악하고 실패 없는 쇼핑 리스트를 만들어 보세요!",
+            "alt_text": "여행 가방과 디저트"
+          }
+        ],
+        "caption": "일본 여행의 또 다른 즐거움, 공항 디저트! ✈️✨\n\n이카로스 출판에서 2월 24일, '엄청난 공항 디저트&과자 대백과'를 발매했어요.\n\n일본 전국 41개 공항의 숨겨진 보석 같은 디저트 400가지를 모두 담았답니다! 🍰🍪\n\n여행 전에 이 책으로 공항별 MUST-TRY 디저트 리스트를 완성해보세요!\n\n#일본여행 #공항디저트 #일본과자 #디저트맛집 #여행준비 #신간소개 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본공항",
+          "#일본디저트",
+          "#공항맛집",
+          "#일본간식",
+          "#여행스타그램",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#디저트그램",
+          "#과자스타그램",
+          "#이카로스출판",
+          "#일본여행정보"
+        ],
+        "alt_texts": [
+          "책 표지 이미지",
+          "일본 지도에 공항 표시",
+          "다양한 디저트 사진 모음",
+          "책 가격 표시",
+          "여행 가방과 디저트"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 20-40대 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 정보성 콘텐츠에 대한 관심, 저장율 높음 / 이 콘텐츠의 강점: 구체적인 정보(출간일, 가격, 페이지 수, 공항 수, 품목 수)를 담아 실질적인 도움 제공",
+      "image": {
+        "keyword": "Japan airport sweets book, Japanese airport desserts, travel guide book Japan, unique airport snacks Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-airport-sweets-book,-Japanese-airport-desserts,-travel-guide-book-Japan,-unique-airport-snacks-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japan%20airport%20sweets%20book,%20Japanese%20airport%20desserts,%20travel%20guide%20book%20Japan,%20unique%20airport%20snacks%20Japan/"
+      }
+    },
     {
       "id": "plan_47e5e0f4",
       "created_at": "2026-02-25T05:17:56.635702",
@@ -827,128 +981,6 @@
         "keyword": "japan highway etc toll gate",
         "unsplash_url": "https://unsplash.com/s/photos/japan-highway-etc-toll-gate",
         "pexels_url": "https://www.pexels.com/search/japan%20highway%20etc%20toll%20gate/"
-      }
-    },
-    {
-      "id": "plan_004",
-      "created_at": "2026-02-17T11:00:00+09:00",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "세븐일레븐 재팬 딸기 시즌 한정 디저트 출시",
-        "url": "https://www.sej.co.jp/products/strawberry2026",
-        "date": "2026-02-16"
-      },
-      "relevance": {
-        "impact": "상",
-        "interest": "상",
-        "appeal": "일본 편의점에서만 맛볼 수 있는 딸기 시즌 한정 디저트!"
-      },
-      "content": {
-        "thumbnail_title": "🍓 세븐일레븐\n딸기 디저트 출시!",
-        "cards": [
-          {
-            "title": "딸기 시즌 스타트!",
-            "content": "일본 편의점 디저트의 정점,\n세븐일레븐 딸기 시즌이 시작됐어요!\n2월 중순부터 한정 판매 중 🍓"
-          },
-          {
-            "title": "딸기 크림 롤케이크",
-            "content": "후쿠오카산 아마오 딸기 사용,\n부드러운 생크림과 촉촉한 스폰지!\n겨우 398엔에 이 퀄리티?!"
-          },
-          {
-            "title": "딸기 대복도 있어요",
-            "content": "쫄깃한 찹쌀떡 안에 통딸기!\n화과자 좋아하시면 필수템이에요.\n개당 248엔, 가성비 갑!"
-          },
-          {
-            "title": "지금 일본 가면 겟!",
-            "content": "3월 중순까지 한정 판매,\n일본 여행 중 세븐 보이면 들어가세요!\n저장하고 친구한테도 공유 💕"
-          }
-        ],
-        "caption": "🍓 세븐일레븐 딸기 디저트 출시!\n일본 편의점 디저트의 끝판왕!\n\n매년 이맘때 기다리는 분들 많죠?\n세븐일레븐 재팬의 딸기 시즌이 드디어 시작됐어요!\n\n🍰 추천 메뉴\n- 딸기 크림 롤케이크 (398엔)\n  → 후쿠오카산 아마오 딸기 사용\n- 딸기 대복 (248엔)\n  → 쫄깃한 찹쌀떡 + 통딸기\n- 딸기 샌드위치 (298엔)\n  → 생크림 가득 + 신선한 딸기\n\n📅 판매 기간\n2월 중순 ~ 3월 중순 (한정)\n\n💡 꿀팁\n- 오전 중에 가야 신선한 거 건질 수 있어요\n- 냉장코너에서 찾으세요!\n\n📌 일본 여행 전 미리 저장해두세요!\n\n🙌🏻 일본 편의점 꿀템 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 \"편의점\" 남겨주세요\n\nDM으로 편의점 꿀템 리스트 보내드려요 💙",
-        "hashtags": [
-          "#일본편의점",
-          "#세븐일레븐",
-          "#일본디저트",
-          "#딸기시즌",
-          "#일본여행",
-          "#일본여행꿀팁",
-          "#편의점디저트",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#오사카여행",
-          "#일본먹방",
-          "#일본과자",
-          "#편의점털이",
-          "#일본현지정보",
-          "#딸기디저트"
-        ]
-      },
-      "image": {
-        "keyword": "japan convenience store strawberry dessert",
-        "unsplash_url": "https://unsplash.com/s/photos/strawberry-dessert",
-        "pexels_url": "https://www.pexels.com/search/strawberry%20dessert/"
-      }
-    },
-    {
-      "id": "plan_005",
-      "created_at": "2026-02-17T10:30:00+09:00",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "후지산 등산 예약제 확대 실시 2026년",
-        "url": "https://www.fujisan-climb.jp/news",
-        "date": "2026-02-15"
-      },
-      "relevance": {
-        "impact": "상",
-        "interest": "상",
-        "appeal": "후지산 등산 계획 있다면 반드시 알아야 할 예약 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🗻 후지산 등산\n예약 필수로 변경!",
-        "cards": [
-          {
-            "title": "2026년부터 변경!",
-            "content": "후지산 요시다 루트 등산,\n올해부터 사전 예약 필수예요!\n현장 등록은 불가능합니다 ⚠️"
-          },
-          {
-            "title": "예약은 언제부터?",
-            "content": "5월 1일부터 온라인 예약 시작,\n인기 날짜는 금방 마감되니\n서둘러서 예약하세요!"
-          },
-          {
-            "title": "등산 비용도 인상",
-            "content": "입산료 2,000엔 → 3,000엔\n예약 수수료 별도 1,000엔\n총 4,000엔 필요해요 💸"
-          },
-          {
-            "title": "미리 계획 세우세요",
-            "content": "등산 시즌: 7월 1일 ~ 9월 10일\n여름 일본 여행 계획 중이라면\n지금부터 체크해두세요! 📝"
-          }
-        ],
-        "caption": "🗻 후지산 등산 예약 필수로 변경!\n2026년부터 달라지는 규정 총정리!\n\n후지산 등산 계획 있으신 분들 주목!\n올해부터 사전 예약 없이는 등산 불가능해요 😱\n\n📋 변경 사항\n- 요시다 루트 사전 예약제 확대\n- 현장 등록 불가 (예약자만 입산)\n- 1일 입산 인원 4,000명 제한\n\n💰 비용\n- 입산료: 3,000엔 (작년 2,000엔에서 인상)\n- 예약 수수료: 1,000엔\n- 총 4,000엔 필요\n\n📅 예약 일정\n- 예약 시작: 5월 1일~\n- 등산 시즌: 7월 1일 ~ 9월 10일\n\n💡 꿀팁\n- 주말, 일출 타임은 금방 마감\n- 평일 오후 시간대가 여유로워요\n- 날씨 확인 필수!\n\n📌 여름 일본 여행 계획 중이라면 저장 필수!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 \"후지산\" 남겨주세요\n\nDM으로 후지산 등산 가이드 보내드려요 💙",
-        "hashtags": [
-          "#후지산",
-          "#후지산등산",
-          "#일본여행",
-          "#일본여행꿀팁",
-          "#후지산예약",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#일본등산",
-          "#여름여행",
-          "#버킷리스트",
-          "#일본현지정보",
-          "#후지산일출",
-          "#일본트레킹",
-          "#여행정보",
-          "#2026여행"
-        ]
-      },
-      "image": {
-        "keyword": "mount fuji hiking",
-        "unsplash_url": "https://unsplash.com/s/photos/mount-fuji",
-        "pexels_url": "https://www.pexels.com/search/mount%20fuji/"
       }
     }
   ]
