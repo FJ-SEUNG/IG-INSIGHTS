@@ -183,7 +183,14 @@
   },
   {
     "date": "26.02.26(목)",
-    "followers": 6614,
+    "followers": 6613,
+    "following": 783,
+    "daily_change": null,
+    "cumulative_change": null
+  },
+  {
+    "date": "26.02.27(금)",
+    "followers": 6610,
     "following": 783,
     "daily_change": null,
     "cumulative_change": null
