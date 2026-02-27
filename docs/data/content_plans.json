@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-27T00:05:44.931941",
+  "last_updated": "2026-02-27T05:07:31.604085",
   "plans": [
+    {
+      "id": "plan_84acb955",
+      "created_at": "2026-02-27T05:07:29.603947",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR山陽線「手柄山平和公園駅」3月14日開業。記念式典やスタンプラリーなど開催",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088959.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 새롭게 개통되는 JR 노선 정보를 미리 알아두세요!"
+      },
+      "content": {
+        "thumbnail_title": "JR 새 역 개통! 🚄",
+        "cards": [
+          {
+            "title": "새 역 개통!",
+            "content": "JR 서일본은 산요선에 새로운 역 '테가라야마 헤이와 코엔 역'을 3월 14일에 개통합니다. 여행 계획에 참고하세요!",
+            "alt_text": "JR 서일본 산요선 신역 '테가라야마 헤이와 코엔 역' 개통 안내"
+          },
+          {
+            "title": "개통 기념 행사",
+            "content": "개통 당일인 3월 14일 오전 10시부터 11시까지 남쪽 역 앞에서 개통 기념식이 열립니다. 이벤트 참여도 가능합니다.",
+            "alt_text": "테가라야마 헤이와 코엔 역 개통 기념식 안내"
+          },
+          {
+            "title": "스탬프 랠리",
+            "content": "개통 기념으로 스탬프 랠리도 진행될 예정이니, 일본 여행 중 소소한 재미를 더해보세요. 자세한 내용은 현지에서 확인 가능합니다.",
+            "alt_text": "테가라야마 헤이와 코엔 역 개통 기념 스탬프 랠리 안내"
+          },
+          {
+            "title": "여행 계획 시 참고",
+            "content": "새로운 역이 개통되면 주변 관광지로의 접근성이 좋아질 수 있습니다. 3월 14일 이후의 여행이라면 꼭 확인하고 동선을 짜보세요.",
+            "alt_text": "새로운 JR 역 개통으로 달라질 여행 계획"
+          },
+          {
+            "title": "이동 팁",
+            "content": "JR 패스를 이용하시는 분이라면 새로운 노선 구간도 포함되는지 미리 확인해두면 좋습니다. 3월 14일 이후 일본 여행 예정이라면 꼭 기억하세요!",
+            "alt_text": "JR 패스 이용 시 새로운 역 정보 확인 꿀팁"
+          }
+        ],
+        "caption": "일본 JR 산요선에 3월 14일 '테가라야마 헤이와 코엔 역'이 새로 개통됩니다! 🚄🎉 개통 기념식과 스탬프 랠리도 열릴 예정이니, 곧 일본 여행 가시는 분들은 꼭 참고하셔서 즐거운 여행 계획 세우세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR",
+          "#일본철도",
+          "#산요선",
+          "#테가라야마",
+          "#헤이와코엔역",
+          "#일본교통",
+          "#일본뉴스",
+          "#여행정보",
+          "#일본",
+          "#여행",
+          "#3월여행",
+          "#일본개통",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "JR 서일본 산요선 신역 '테가라야마 헤이와 코엔 역' 개통 안내",
+          "테가라야마 헤이와 코엔 역 개통 기념식 안내",
+          "테가라야마 헤이와 코엔 역 개통 기념 스탬프 랠리 안내",
+          "새로운 JR 역 개통으로 달라질 여행 계획",
+          "JR 패스 이용 시 새로운 역 정보 확인 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 3월 이후 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 습득 및 여행 계획 반영 / 이 콘텐츠의 강점: 최신 교통 정보 제공으로 실질적인 도움",
+      "image": {
+        "keyword": "JR train station opening, Japan railway, new station announcement",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train-station-opening,-Japan-railway,-new-station-announcement",
+        "pexels_url": "https://www.pexels.com/search/JR%20train%20station%20opening,%20Japan%20railway,%20new%20station%20announcement/"
+      }
+    },
+    {
+      "id": "plan_201736af",
+      "created_at": "2026-02-27T05:07:24.567309",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】特急ゆふいんの森「ゆふいんの森 おおいた和牛弁当」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2089025.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "큐슈의 낭만 열차 '유후인노모리'에서 즐기는 특별한 규슈의 맛!"
+      },
+      "content": {
+        "thumbnail_title": "🚂 유후인노모리 먹방 🍱",
+        "cards": [
+          {
+            "title": "특급 유후인노모리",
+            "content": "하카타와 벳푸/유후인 온천지를 잇는 '유후인노모리' 열차는 단순한 이동 수단이 아닌, 일본의 'D&S(디자인&스토리)' 열차로 특별한 경험을 선사합니다.",
+            "alt_text": "유후인노모리 열차 외관"
+          },
+          {
+            "title": "한정 메뉴 공개!",
+            "content": "이번 주말 한정으로 '유후인노모리 오이타 와규 도시락'이 출시되었습니다. 규슈의 신선한 재료로 만든 특별한 도시락을 맛볼 기회입니다.",
+            "alt_text": "유후인노모리 오이타 와규 도시락 이미지"
+          },
+          {
+            "title": "오이타 와규 도시락",
+            "content": "풍미 가득한 오이타 와규와 지역 특산물을 담은 이 도시락은 열차 여행의 즐거움을 더해줄 것입니다.",
+            "alt_text": "도시락 상세 이미지"
+          },
+          {
+            "title": "예약은 필수!",
+            "content": "이 특별한 도시락은 열차 내에서만 구매 가능하며, 인기 메뉴이므로 미리 예약하거나 열차 탑승 전 문의하는 것이 좋습니다.",
+            "alt_text": "열차 내 식사 공간 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "주말 한정 메뉴인 만큼, 유후인노모리 탑승 계획이 있다면 놓치지 말고 특별한 미식 경험을 즐겨보세요. 여행의 특별한 추억이 될 거예요.",
+            "alt_text": "창밖 풍경을 보며 식사하는 모습"
+          }
+        ],
+        "caption": "🚂 JR 큐슈의 낭만 열차, '유후인노모리'에서 즐기는 특별한 미식 경험! 🍱\n\n이번 주말, '유후인노모리 오이타 와규 도시락'이 한정 출시됩니다. 🤩\n\n하카타-벳푸/유후인을 잇는 이 특별한 열차에서 규슈의 신선한 재료로 만든 와규 도시락을 맛보세요! 🥩\n\n여행의 즐거움을 더할 최고의 선택! 💯\n\n#유후인노모리 #오이타와규 #규슈여행 #일본기차여행 #일본한정판 #도시락맛집",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유후인노모리",
+          "#JR큐슈",
+          "#일본기차",
+          "#일본도시락",
+          "#오이타",
+          "#와규",
+          "#규슈여행",
+          "#주말한정",
+          "#여행꿀팁",
+          "#일본미식",
+          "#열차여행",
+          "#일본음식",
+          "#기차여행"
+        ],
+        "alt_texts": [
+          "유후인노모리 열차 외관",
+          "유후인노모리 오이타 와규 도시락 이미지",
+          "도시락 상세 이미지",
+          "열차 내 식사 공간 이미지",
+          "창밖 풍경을 보며 식사하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 큐슈 지역 방문 예정인 20-40대 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시 / 기대 반응: 예약 문의 증가, 열차 탑승 관심 증대 / 이 콘텐츠의 강점: 희소성 있는 한정 메뉴 정보, 특별한 열차 경험 강조",
+      "image": {
+        "keyword": "Yufuin no Mori train, Japanese bento box, Oita wagyu, Kyushu travel, Japanese train food",
+        "unsplash_url": "https://unsplash.com/s/photos/Yufuin-no-Mori-train,-Japanese-bento-box,-Oita-wagyu,-Kyushu-travel,-Japanese-train-food",
+        "pexels_url": "https://www.pexels.com/search/Yufuin%20no%20Mori%20train,%20Japanese%20bento%20box,%20Oita%20wagyu,%20Kyushu%20travel,%20Japanese%20train%20food/"
+      }
+    },
     {
       "id": "plan_21fd39cb",
       "created_at": "2026-02-27T00:05:42.931754",
@@ -923,128 +1077,6 @@
         "keyword": "Osaka Expo food guide, Japanese Mook book, Kansai gourmet, World food Osaka",
         "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-food-guide,-Japanese-Mook-book,-Kansai-gourmet,-World-food-Osaka",
         "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%20food%20guide,%20Japanese%20Mook%20book,%20Kansai%20gourmet,%20World%20food%20Osaka/"
-      }
-    },
-    {
-      "id": "plan_f8dc0749",
-      "created_at": "2026-02-19T01:06:37.064347",
-      "category": "tips",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "Airbnb、予約時に支払いが発生しない「後払い」オプション登場",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2086932.html",
-        "date": ""
-      },
-      "relevance": {
-        "impact": "중",
-        "interest": "중",
-        "appeal": "숙소 예약 부담 완화! 지금 예약하고 나중에 결제하세요."
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 에어비앤비 후불제 등장! 💰",
-        "cards": [
-          {
-            "title": "후불제란?",
-            "content": "예약 시 바로 결제하지 않고, 숙박 후 결제하는 방식입니다."
-          },
-          {
-            "title": "대상 숙소",
-            "content": "일본 내 일부 에어비앤비 숙소에 한해 적용됩니다."
-          },
-          {
-            "title": "이용 방법",
-            "content": "예약 시 '지금 예약, 후불 결제' 옵션을 선택하세요."
-          },
-          {
-            "title": "주의사항",
-            "content": "모든 숙소가 후불제를 지원하는 것은 아니니 확인 필수!"
-          }
-        ],
-        "caption": "✨ 일본 에어비앤비 예약, 더 편리하게! ✨\n\n이제 숙소 예약할 때 바로 결제하는 부담 없이, 나중에 결제할 수 있는 후불제 옵션이 생겼어요! 여행 계획 세우는 재미가 더 커졌네요 🥳\n\n# 후불제 이용 방법\n에어비앤비 예약 시 '지금 예약, 후불 결제' 옵션을 선택하면 됩니다. 하지만 모든 숙소가 후불제를 지원하는 건 아니니, 예약 전에 꼭 확인해주세요! 꼼꼼하게 확인하고 즐거운 일본 여행 준비하세요 ✈️\n\n# 핵심정보1 후불제란?\n예약 시점에서는 결제가 이루어지지 않고, 숙박을 마친 후에 결제하는 방식입니다. 신용카드 정보 등록은 필요합니다.\n\n# 핵심정보2 대상 숙소\n현재 일본 내 일부 숙소에서만 후불제 옵션을 제공하고 있습니다. 에어비앤비 앱 또는 웹사이트에서 확인 가능합니다.\n\n📌 저장해두고 친구한테도 공유해주세요!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 '후불제' 남겨주세요\n\nDM으로 관련 정보 보내드려요 💙",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#에어비앤비",
-          "#일본숙소",
-          "#후불제",
-          "#여행팁",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여행계획",
-          "#숙소예약",
-          "#편리한여행",
-          "#일본일상",
-          "#여행준비",
-          "#일본"
-        ]
-      },
-      "image": {
-        "keyword": "airbnb japan postpay",
-        "unsplash_url": "https://unsplash.com/s/photos/airbnb-japan-postpay",
-        "pexels_url": "https://www.pexels.com/search/airbnb%20japan%20postpay/"
-      }
-    },
-    {
-      "id": "plan_92136d5a",
-      "created_at": "2026-02-19T01:06:18.709588",
-      "category": "hotplace",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "福井駅徒歩7分に「御宿 野乃福井」開業、1泊朝食付き1万1500円～。天然温泉/露天風呂/サウナ併設",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2087069.html",
-        "date": ""
-      },
-      "relevance": {
-        "impact": "중",
-        "interest": "중",
-        "appeal": "온천, 사우나, 료칸을 좋아하는 한국 여행객에게 매력적인 숙소 정보!"
-      },
-      "content": {
-        "thumbnail_title": "♨️ 후쿠이 온천 료칸 오픈! 🏨",
-        "cards": [
-          {
-            "title": "새로운 숙소 소식",
-            "content": "후쿠이역에서 도보 7분 거리에 '미야도 노노 후쿠이'가 새롭게 오픈했습니다."
-          },
-          {
-            "title": "합리적인 가격",
-            "content": "1박 조식 포함 11,500엔부터 이용 가능합니다. (한화 약 10만원대 초반)"
-          },
-          {
-            "title": "다양한 온천 시설",
-            "content": "천연 온천과 노천탕, 사우나가 완비되어 있어 편안한 휴식을 즐길 수 있습니다."
-          },
-          {
-            "title": "오픈 기념 혜택?",
-            "content": "오픈 기념 특별 할인이나 프로모션 정보는 아직 확인되지 않았습니다."
-          }
-        ],
-        "caption": "✨ 후쿠이 여행 숙소 고민 끝! ✨\n후쿠이역 근처에 새 료칸이 오픈했습니다! 온천과 사우나를 즐기며 일본 여행의 피로를 풀어보세요 😌\n\n# 숙소 정보\n후쿠이역에서 가까워 이동이 편리하며, 합리적인 가격으로 온천을 즐길 수 있다는 장점이 있습니다.\n\n# 온천 & 사우나\n천연 온천과 노천탕, 사우나가 완비되어 있어 힐링 여행에 딱입니다. 🧖‍♀️\n\n📌 저장해두고 친구한테도 공유해주세요!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 '후쿠이' 남겨주세요\n\nDM으로 관련 정보 보내드려요 💙",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠이",
-          "#후쿠이여행",
-          "#온천",
-          "#료칸",
-          "#일본숙소",
-          "#사우나",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#후쿠이역",
-          "#일본호텔",
-          "#여행정보",
-          "#힐링여행",
-          "#온천여행"
-        ]
-      },
-      "image": {
-        "keyword": "fukui onsen ryokan japan",
-        "unsplash_url": "https://unsplash.com/s/photos/fukui-onsen-ryokan-japan",
-        "pexels_url": "https://www.pexels.com/search/fukui%20onsen%20ryokan%20japan/"
       }
     }
   ]
