@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-26T05:13:54.967010",
+  "last_updated": "2026-02-27T00:05:44.931941",
   "plans": [
+    {
+      "id": "plan_21fd39cb",
+      "created_at": "2026-02-27T00:05:42.931754",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】JALふるさとアンバサダーが体験！　世界遺産「長崎と天草地方の潜伏キリシタン関連遺産」と巡礼の道を巡るモニターツアー",
+        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2088677.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL이 직접 추천하는 세계문화유산 '나가사키와 아마쿠사 지역의 잠복 기리시탄 관련 유산' 탐방 코스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL이 추천하는 나가사키 聖地巡礼",
+        "cards": [
+          {
+            "title": "JAL의 특별한 경험",
+            "content": "JAL은 지역 활성화를 위해 'JAL 후루사토 앰버서더'를 운영 중입니다. 객실 승무원들이 직접 지역에 이주하여 활동하며, 이번에는 나가사키와 아마쿠사 지역의 세계문화유산 탐방 모니터 투어를 진행했습니다.",
+            "alt_text": "JAL 후루사토 앰버서더 활동 이미지"
+          },
+          {
+            "title": "나가사키 잠복 키리시탄",
+            "content": "이번 투어는 '나가사키와 아마쿠사 지역의 잠복 키리시탄 관련 유산'을 중심으로 진행되었습니다. 2018년 유네스코 세계유산으로 등재된 이곳은 종교 탄압 속에서 신앙을 지켜온 역사적인 장소입니다.",
+            "alt_text": "나가사키 잠복 키리시탄 유적지 이미지"
+          },
+          {
+            "title": "순례길 탐방",
+            "content": "역사적인 장소뿐만 아니라, 순례길을 직접 걸으며 당시의 숨결을 느낄 수 있는 코스로 구성되었습니다. 아름다운 자연과 함께 깊은 역사를 체험할 수 있습니다.",
+            "alt_text": "나가사키 순례길 풍경 이미지"
+          },
+          {
+            "title": "지역 활성화 노력",
+            "content": "JAL은 객실 승무원들의 경험과 지식을 활용하여 지역 특산품 개발, 지역 문제 해결 등 다양한 방식으로 지역 활성화에 기여하고 있습니다. 이번 투어 역시 이러한 노력의 일환입니다.",
+            "alt_text": "지역 특산품 개발 관련 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "나가사키 지역은 아름다운 자연과 함께 독특한 역사, 문화를 가진 곳입니다. JAL의 이번 투어처럼, 현지 전문가가 추천하는 코스를 따라 여행하면 더욱 깊이 있는 경험을 할 수 있습니다. 잠복 키리시탄 유적지를 방문할 때는 경건한 마음으로 예절을 지켜주세요.",
+            "alt_text": "나가사키 여행 팁 관련 이미지"
+          }
+        ],
+        "caption": "✈️ JAL이 직접 경험하고 추천하는 나가사키 & 아마쿠사 지역! \n\n2018년 유네스코 세계유산으로 등재된 '나가사키와 아마쿠사 지역의 잠복 키리시탄 관련 유산'을 탐방하는 특별한 모니터 투어 소식을 전해드려요. \n\nJAL 후루사토 앰버서더들이 직접 체험한 순례길과 숨겨진 역사 이야기를 만나보세요!\n\n#나가사키여행 #아마쿠사 #세계유산 #일본문화 #JAL",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나가사키",
+          "#아마쿠사",
+          "#잠복키리시탄",
+          "#세계유산",
+          "#JAL",
+          "#일본항공",
+          "#성지순례",
+          "#일본문화",
+          "#역사여행",
+          "#일본관광",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "JAL 후루사토 앰버서더 활동 이미지",
+          "나가사키 잠복 키리시탄 유적지 이미지",
+          "나가사키 순례길 풍경 이미지",
+          "지역 특산품 개발 관련 이미지",
+          "나가사키 여행 팁 관련 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본의 역사, 문화, 종교에 관심 있는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 - 8시 / 기대 반응: '나가사키'라는 특정 지역에 대한 관심 증대, JAL의 지역 활성화 노력에 대한 긍정적 인식 / 이 콘텐츠의 강점: JAL이라는 신뢰도 높은 항공사의 추천 정보, 세계유산이라는 구체적이고 매력적인 관광지 소개, 역사와 문화 탐방이라는 차별화된 테마",
+      "image": {
+        "keyword": "Nagasaki Amakusa Christian Heritage UNESCO World Heritage Pilgrimage Route JAL Ambassador Japan Travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-Amakusa-Christian-Heritage-UNESCO-World-Heritage-Pilgrimage-Route-JAL-Ambassador-Japan-Travel",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki%20Amakusa%20Christian%20Heritage%20UNESCO%20World%20Heritage%20Pilgrimage%20Route%20JAL%20Ambassador%20Japan%20Travel/"
+      }
+    },
+    {
+      "id": "plan_ae498734",
+      "created_at": "2026-02-27T00:05:37.069748",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ビックカメラ、池袋マルイ跡地の「IT tower TOKYO」に3月14日出店。地下直結の「ライフスタイルと家電の発信拠点」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2088856.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 최대 가전 양판점, 도쿄 이케부쿠로에 신규 매장 오픈!"
+      },
+      "content": {
+        "thumbnail_title": "⚡️이케부쿠로 빅카메라 신규 오픈⚡️",
+        "cards": [
+          {
+            "title": "신규 매장 오픈",
+            "content": "일본 최대 가전 양판점인 빅카메라가 도쿄 이케부쿠로에 새로운 매장을 3월 14일에 오픈합니다. 'IT tower TOKYO' 건물 지하와 바로 연결되어 더욱 편리하게 이용 가능합니다.",
+            "alt_text": "이케부쿠로 빅카메라 신규 매장 오픈 안내"
+          },
+          {
+            "title": "매장 위치",
+            "content": "신규 매장은 'IT tower TOKYO' (도쿄도 토시마구 니시이케부쿠로 3-28-13)에 자리합니다. 기존 이케부쿠로 마루이 백화점 구 건물 자리에 새롭게 들어섭니다.",
+            "alt_text": "신규 빅카메라 매장 주소 정보"
+          },
+          {
+            "title": "오픈일",
+            "content": "2024년 3월 14일 목요일에 정식 오픈 예정입니다. 오픈 당일 또는 직후 방문 시 더욱 활기찬 분위기를 느낄 수 있습니다.",
+            "alt_text": "신규 빅카메라 매장 오픈 날짜"
+          },
+          {
+            "title": "매장 특징",
+            "content": "이곳은 '라이프스타일과 가전의 발신 거점'을 컨셉으로 하여, 다양한 최신 가전제품과 라이프스타일 관련 상품들을 한자리에서 만나볼 수 있습니다.",
+            "alt_text": "신규 빅카메라 매장의 컨셉 설명"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "이케부쿠로역 서쪽 출구와 지하로 직결되어 있어 쇼핑 후 이동이 매우 편리합니다. 최신 IT 기기부터 생활 가전까지, 쇼핑 리스트를 채울 기회를 놓치지 마세요!",
+            "alt_text": "신규 빅카메라 매장 방문 팁"
+          }
+        ],
+        "caption": "🇯🇵 이케부쿠로 쇼핑 성지 등극! 🇯🇵\n\n일본 최대 가전 양판점 빅카메라가 3월 14일, 이케부쿠로에 새로운 'IT tower TOKYO점'을 오픈합니다!\n\n⚡️ 이케부쿠로역과 지하 직결! 더욱 편리해진 쇼핑 동선\n⚡️ 최신 IT 기기부터 라이프스타일 가전까지 한눈에!\n\n새로운 쇼핑 스팟으로 강력 추천! 🛍️\n\n#일본여행 #플라잉재팬 #빅카메라 #이케부쿠로 #도쿄여행 #일본쇼핑 #가전제품 #신규오픈 #일본생활 #여행정보 #일본꿀팁 #도쿄쇼핑 #이케부쿠로역 #일본가전 #쇼핑스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#빅카메라",
+          "#이케부쿠로",
+          "#도쿄여행",
+          "#일본쇼핑",
+          "#가전제품",
+          "#신규오픈",
+          "#일본생활",
+          "#여행정보",
+          "#일본꿀팁",
+          "#도쿄쇼핑",
+          "#이케부쿠로역",
+          "#일본가전",
+          "#쇼핑스타그램"
+        ],
+        "alt_texts": [
+          "이케부쿠로 빅카메라 신규 매장 오픈 안내",
+          "신규 빅카메라 매장 주소 정보",
+          "신규 빅카메라 매장 오픈 날짜",
+          "신규 빅카메라 매장의 컨셉 설명",
+          "신규 빅카메라 매장 방문 팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 도쿄 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 매장 방문 계획 유도 / 이 콘텐츠의 강점: 최신 오픈 정보, 구체적인 위치 및 오픈일 제공, 쇼핑 팁 포함",
+      "image": {
+        "keyword": "Bic Camera Ikebukuro New Store Opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Bic-Camera-Ikebukuro-New-Store-Opening",
+        "pexels_url": "https://www.pexels.com/search/Bic%20Camera%20Ikebukuro%20New%20Store%20Opening/"
+      }
+    },
     {
       "id": "plan_a6ebfcbf",
       "created_at": "2026-02-26T05:13:52.966817",
@@ -891,128 +1045,6 @@
         "keyword": "fukui onsen ryokan japan",
         "unsplash_url": "https://unsplash.com/s/photos/fukui-onsen-ryokan-japan",
         "pexels_url": "https://www.pexels.com/search/fukui%20onsen%20ryokan%20japan/"
-      }
-    },
-    {
-      "id": "plan_9b350692",
-      "created_at": "2026-02-18T04:25:03.124990",
-      "category": "event",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーシー、25周年記念のジュビリーブルー尽くしの限定フード発表。マカロンやドリンク、ポップコーンバケットなどに注目！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2086783.html",
-        "date": ""
-      },
-      "relevance": {
-        "impact": "중",
-        "interest": "상",
-        "appeal": "디즈니 덕후 심장 저격! 25주년 기념 한정 메뉴 공개✨"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 디즈니씨 25주년 한정 메뉴✨",
-        "cards": [
-          {
-            "title": "🎉25주년 기념!",
-            "content": "4월 8일부터 도쿄 디즈니씨에서 특별한 메뉴들을 만나보세요!"
-          },
-          {
-            "title": "💙주비리 블루 테마",
-            "content": "25주년을 기념하는 주비리 블루 색상의 음식과 음료가 가득!"
-          },
-          {
-            "title": "🍰놓칠 수 없는 메뉴",
-            "content": "마카롱, 드링크, 팝콘 버킷 등 귀여운 디즈니 상품과 함께 즐겨보세요."
-          },
-          {
-            "title": "🗓️기간 한정!",
-            "content": "특별한 메뉴는 기간 한정 판매되니 서둘러 방문하세요!"
-          }
-        ],
-        "caption": "# 도쿄 디즈니씨 25주년 ✨\n4월 8일부터 한정 메뉴 출시!\n\n도쿄 디즈니씨가 25주년을 맞아 특별한 한정 메뉴를 선보입니다!\n'주비리 블루' 테마로 꾸며진 디저트와 음료, 너무 예쁘지 않나요? 💙\n\n# 주비리 블루 한정 메뉴 🍰\n- 마카롱 세트 (블루 컬러)\n- 25주년 기념 드링크\n- 스페셜 팝콘 버킷\n- 한정 굿즈도 동시 출시!\n\n# 판매 기간 📅\n4월 8일부터 기간 한정 판매\n인기 메뉴는 빨리 품절될 수 있으니 서두르세요!\n\n# 꿀팁 💡\n- 오전 일찍 가야 대기 짧아요\n- 포토스팟도 25주년 테마로 꾸며짐\n- 굿즈는 본드 마켓에서 구매 가능\n\n📌 디즈니 여행 계획 중이라면 저장 필수!\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 \"디즈니\" 남겨주세요\n\nDM으로 디즈니 꿀팁 보내드려요 💙",
-        "hashtags": [
-          "#일본여행",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#도쿄디즈니랜드",
-          "#25주년",
-          "#주비리블루",
-          "#한정메뉴",
-          "#디즈니굿즈",
-          "#일본맛집",
-          "#일본카페",
-          "#여행스타그램",
-          "#플라잉재팬",
-          "#tokyodisneysea",
-          "#disneysea",
-          "#jubileeblue"
-        ]
-      },
-      "image": {
-        "keyword": "tokyo disneyland anniversary food limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/tokyo-disneyland-anniversary-food-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/tokyo%20disneyland%20anniversary%20food%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_69c35dcf",
-      "created_at": "2026-02-18T04:24:49.539498",
-      "category": "hotplace",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "ゆいレール、モバイルSuicaで定期券購入が可能に。2027年春以降を予定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2086846.html",
-        "date": ""
-      },
-      "relevance": {
-        "impact": "중",
-        "interest": "중",
-        "appeal": "오키나와 유이레일 정기권, 모바일 Suica로 간편하게!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 오키나와 유이레일 정기권, 이제 모바일 Suica로!",
-        "cards": [
-          {
-            "title": "📱 모바일 Suica 정기권",
-            "content": "2027년 봄부터 유이레일 정기권을 모바일 Suica로 구매 가능해집니다."
-          },
-          {
-            "title": "✨ 편리한 충전 & 사용",
-            "content": "별도 발권 없이 스마트폰으로 간편하게 충전하고 사용할 수 있어요."
-          },
-          {
-            "title": "💰 비용 절감 효과",
-            "content": "오키나와 여행 시 유이레일을 자주 이용한다면 정기권 구매로 비용을 절약하세요!"
-          },
-          {
-            "title": "📅 출시 예정일",
-            "content": "2027년 봄, 정확한 날짜는 추후 공지될 예정입니다."
-          }
-        ],
-        "caption": "# 오키나와 유이레일 📱\n2027년부터 모바일 Suica 지원!\n\n오키나와 여행 필수 교통수단, 유이레일!\n드디어 모바일 Suica로 정기권 구매가 가능해집니다 🎉\n\n# 뭐가 달라지나요? 🚄\n- 현장 발권 없이 스마트폰으로 구매\n- 충전도 앱에서 간편하게\n- 분실 걱정 없이 폰 하나로 OK\n\n# 적용 시기 📅\n2027년 봄 이후 예정\n(정확한 날짜는 추후 공지)\n\n# 유이레일 꿀팁 💡\n- 나하공항 ↔ 슈리성 이동에 최적\n- 1일/2일 프리패스도 있어요\n- 창가 자리에서 바다 뷰 감상!\n\n오키나와 여행 계획 중이라면 저장해두세요! 🌴\n\n🙌🏻 일본 여행 정보 더 보고 싶다면?\n✔️ @flyingjapan 팔로우하기!\n✔️ 댓글에 \"오키나와\" 남겨주세요\n\nDM으로 오키나와 교통 가이드 보내드려요 💙",
-        "hashtags": [
-          "#일본여행",
-          "#오키나와",
-          "#오키나와여행",
-          "#유이레일",
-          "#모바일Suica",
-          "#정기권",
-          "#교통카드",
-          "#여행정보",
-          "#플라잉재팬",
-          "#일본교통",
-          "#오키나와여행팁",
-          "#여행스타그램",
-          "#일본스타그램",
-          "#okinawa",
-          "#yuirail"
-        ]
-      },
-      "image": {
-        "keyword": "Okinawa Yui Rail Mobile Suica",
-        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-Yui-Rail-Mobile-Suica",
-        "pexels_url": "https://www.pexels.com/search/Okinawa%20Yui%20Rail%20Mobile%20Suica/"
       }
     }
   ]
