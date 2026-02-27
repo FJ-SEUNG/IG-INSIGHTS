@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-27T05:07:31.604085",
+  "last_updated": "2026-02-27T23:58:28.941575",
   "plans": [
+    {
+      "id": "plan_eda5e058",
+      "created_at": "2026-02-27T23:58:26.941372",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシーの人気スイーツ「ダッフィークッキーサンド」がフローズンセレクションに仲間入り！　自宅でも味わえるって",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089405.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후라면 놓칠 수 없는 한정판 디저트! 💖"
+      },
+      "content": {
+        "thumbnail_title": "디즈니씨 신상 디저트! 🍦",
+        "cards": [
+          {
+            "title": "신상 디저트",
+            "content": "도쿄 디즈니씨 인기 디저트 '더피 쿠키 샌드'가 '프로즌 셀렉션'에 새롭게 추가되었습니다. 집에서도 디즈니 감성을 느낄 수 있어요!",
+            "alt_text": "도쿄 디즈니씨에서 판매하는 더피 쿠키 샌드"
+          },
+          {
+            "title": "달콤한 맛",
+            "content": "이번 신상 디저트는 달콤한 캐러멜 크림이 샌드된 쿠키 샌드로, 남녀노소 누구나 좋아할 맛입니다.",
+            "alt_text": "더피 쿠키 샌드 단면 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "3개입 세트 가격은 2,000엔입니다. 소중한 사람과 함께 나눠 먹기 좋아요.",
+            "alt_text": "더피 쿠키 샌드 3개입 포장 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "프로즌 셀렉션은 냉동 상태로 판매되어 한국까지 가져가기 용이합니다. 여행 마지막 날 구매를 추천해요!",
+            "alt_text": "냉동 보관된 더피 쿠키 샌드 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "한정 메뉴는 조기 품절될 수 있으니, 디즈니씨 방문 계획이 있다면 서둘러 구매하세요!",
+            "alt_text": "디즈니씨 매장 입구 이미지"
+          }
+        ],
+        "caption": "디즈니 덕후들 주목! 📢 도쿄 디즈니씨 인기 디저트 '더피 쿠키 샌드'가 프로즌 셀렉션으로 새롭게 출시되었어요! 💖 3개입 세트 2,000엔으로, 달콤한 캐러멜 크림이 듬뿍! 🍦 한국까지 가져갈 수 있으니 여행 마지막 날 득템 찬스 놓치지 마세요! ✨\n\n#디즈니랜드 #디즈니씨 #도쿄디즈니씨 #더피 #디즈니디저트 #프로즌셀렉션 #일본여행 #도쿄여행 #여행디저트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨",
+          "#더피쿠키샌드",
+          "#디즈니디저트",
+          "#프로즌셀렉션",
+          "#도쿄여행",
+          "#일본디저트",
+          "#한정메뉴",
+          "#여행필수템",
+          "#디즈니덕후",
+          "#일본쇼핑",
+          "#여행정보",
+          "#먹스타그램"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨에서 판매하는 더피 쿠키 샌드",
+          "더피 쿠키 샌드 단면 이미지",
+          "더피 쿠키 샌드 3개입 포장 이미지",
+          "냉동 보관된 더피 쿠키 샌드 이미지",
+          "디즈니씨 매장 입구 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 2030 여성 여행객 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 좋아요 및 저장 수, 댓글 문의 증가 / 이 콘텐츠의 강점: 신상 한정 메뉴 정보로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "Tokyo DisneySea Duffy cookie sandwich frozen selection",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Duffy-cookie-sandwich-frozen-selection",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Duffy%20cookie%20sandwich%20frozen%20selection/"
+      }
+    },
+    {
+      "id": "plan_298e8942",
+      "created_at": "2026-02-27T23:58:21.206270",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーホテル、ディズニーシー25周年連動の限定ダッフィーメニュー発表。贅沢中華コースでお祝いしよう！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089408.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니씨 25주년 기념, 다키마쿠라와 함께하는 럭셔리 중식 코스!"
+      },
+      "content": {
+        "thumbnail_title": "🍣디즈니씨 25주년 기념 🍣",
+        "cards": [
+          {
+            "title": "특별 코스",
+            "content": "도쿄 디즈니씨 호텔 미라코스타의 '실크로드 가든'에서 다키마쿠라 & 프렌즈 신 스토리에 맞춰 럭셔리 중식 코스를 선보입니다.",
+            "alt_text": "호텔 미라코스타 레스토랑 실크로드 가든 내부 모습"
+          },
+          {
+            "title": "기간 한정",
+            "content": "이 특별한 메뉴는 2024년 4월 14일부터 7월 6일까지 기간 한정으로 즐길 수 있습니다.",
+            "alt_text": "행사 기간을 나타내는 캘린더 이미지"
+          },
+          {
+            "title": "축하 메뉴",
+            "content": "디즈니씨 25주년을 기념하며, 다키마쿠라와 친구들과 함께 특별한 식사를 경험해 보세요.",
+            "alt_text": "다키마쿠라 캐릭터와 함께하는 식사 이미지"
+          },
+          {
+            "title": "럭셔리 중식",
+            "content": "고급스러운 중식 코스로 25주년의 기쁨을 더할 수 있는 절호의 기회입니다.",
+            "alt_text": "고급스러운 중식 요리 사진"
+          },
+          {
+            "title": "예약 필수",
+            "content": "인기 메뉴인 만큼 예약은 필수! 미리 예약하여 소중한 추억을 만드세요.",
+            "alt_text": "예약 버튼이 있는 스마트폰 화면 이미지"
+          }
+        ],
+        "caption": "✨디즈니씨 25주년, 놓칠 수 없는 특별한 경험!✨\n호텔 미라코스타 '실크로드 가든'에서 다키마쿠라 & 프렌즈와 함께하는 럭셔리 중식 코스가 4월 14일부터 7월 6일까지 한정 판매됩니다! 💖\n잊지 못할 디즈니씨 25주년 기념 만찬을 즐겨보세요! 🍣\n\n#디즈니씨 #호텔미라코스타 #다키마쿠라 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨25주년",
+          "#호텔미라코스타",
+          "#실크로드가든",
+          "#다키마쿠라",
+          "#디즈니맛집",
+          "#일본디저트",
+          "#일본호텔",
+          "#도쿄여행",
+          "#해외여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#기간한정"
+        ],
+        "alt_texts": [
+          "호텔 미라코스타 레스토랑 실크로드 가든 내부 모습",
+          "행사 기간을 나타내는 캘린더 이미지",
+          "다키마쿠라 캐릭터와 함께하는 식사 이미지",
+          "고급스러운 중식 요리 사진",
+          "예약 버튼이 있는 스마트폰 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 디즈니랜드/디즈니씨 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 (저녁 식사 계획 시점) / 기대 반응: 예약 문의 증가, 공유 및 저장 / 이 콘텐츠의 강점: 명확한 기간, 매력적인 콜라보, 고급 레스토랑 정보 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea, Hotel MiraCosta, Duffy and Friends, Chinese course, 25th anniversary, limited menu",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Hotel-MiraCosta,-Duffy-and-Friends,-Chinese-course,-25th-anniversary,-limited-menu",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Hotel%20MiraCosta,%20Duffy%20and%20Friends,%20Chinese%20course,%2025th%20anniversary,%20limited%20menu/"
+      }
+    },
     {
       "id": "plan_84acb955",
       "created_at": "2026-02-27T05:07:29.603947",
@@ -923,160 +1077,6 @@
         "keyword": "Japan train ticket reservation, early booking, JR East, Shinkansen, travel tips",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-train-ticket-reservation,-early-booking,-JR-East,-Shinkansen,-travel-tips",
         "pexels_url": "https://www.pexels.com/search/Japan%20train%20ticket%20reservation,%20early%20booking,%20JR%20East,%20Shinkansen,%20travel%20tips/"
-      }
-    },
-    {
-      "id": "plan_1ffcc816",
-      "created_at": "2026-02-24T05:15:31.758951",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "外出・旅行中のメイクに適したLED内蔵折りたたみミラー。カバー付きのタブレット風デザイン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088110.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 메이크업 필수템! 1990엔의 가성비 LED 거울"
-      },
-      "content": {
-        "thumbnail_title": "✨일본 여행 필수템! 1990엔 LED 거울✨",
-        "cards": [
-          {
-            "title": "새로운 LED 거울",
-            "content": "일본 니토리가 태블릿 디자인의 '각도 조절 LED 접이식 거울'을 출시했어요. 2월 초에 발매되었고 가격은 1990엔입니다.",
-            "alt_text": "태블릿처럼 생긴 각도 조절 LED 접이식 거울"
-          },
-          {
-            "title": "LED 조명 기능",
-            "content": "내장된 LED 조명 덕분에 어두운 곳에서도 화장이나 셀카 촬영이 가능해요. 여행 중 숙소나 카페에서 유용하게 사용할 수 있겠죠?",
-            "alt_text": "거울에 내장된 LED 조명이 켜진 모습"
-          },
-          {
-            "title": "접이식 & 휴대성",
-            "content": "접이식 디자인으로 휴대하기 간편하며, 커버가 있어 거울을 보호할 수 있어요. 파우치나 가방에 쏙 들어가 여행용으로 딱입니다.",
-            "alt_text": "접혀 있는 LED 거울의 휴대 간편한 모습"
-          },
-          {
-            "title": "가격 정보",
-            "content": "놀랍게도 단돈 1990엔! 부담 없는 가격으로 일본 여행 기념품이나 선물로도 추천해요.",
-            "alt_text": "LED 거울의 가격표 (1990엔)"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 니토리 매장에서 직접 확인해보세요! 여행 중 급하게 메이크업 수정이 필요할 때, 혹은 사진 찍을 때 유용하게 쓰일 거예요.",
-            "alt_text": "일본 니토리 매장 진열대에 놓인 LED 거울"
-          }
-        ],
-        "caption": "일본 여행 중 메이크업 필수템 등장! 💄✨\n니토리에서 출시된 태블릿 디자인의 '각도 조절 LED 접이식 거울'을 소개합니다.\n1990엔의 착한 가격에 LED 조명 기능까지! 💡\n어두운 곳에서도 OK, 휴대도 간편해서 여행 내내 쏠쏠한 활약을 할 거예요.\n여행 기념품으로도 완전 추천! 👍\n#일본여행 #니토리 #LED거울 #여행필수템 #가성비템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#일본니토리",
-          "#LED거울",
-          "#여행필수템",
-          "#일본여행준비",
-          "#일본쇼핑리스트",
-          "#여행꿀팁",
-          "#일본기념품",
-          "#가성비템",
-          "#일본생활",
-          "#여행스타그램",
-          "#일본직구",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "태블릿처럼 생긴 각도 조절 LED 접이식 거울",
-          "거울에 내장된 LED 조명이 켜진 모습",
-          "접혀 있는 LED 거울의 휴대 간편한 모습",
-          "LED 거울의 가격표 (1990엔)",
-          "일본 니토리 매장 진열대에 놓인 LED 거울"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 준비하거나 현재 일본에 체류 중인 20-40대 한국인 여성 여행자 / 최적 게시 시간: 오후 8-10시 (여행 계획 및 정보 탐색 시간) / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 합리적인 가격, 실용적인 기능, 일본 현지에서 바로 구매 가능한 접근성",
-      "image": {
-        "keyword": "NITORI LED folding mirror, Japan travel makeup, portable mirror with light, affordable travel gadget",
-        "unsplash_url": "https://unsplash.com/s/photos/NITORI-LED-folding-mirror,-Japan-travel-makeup,-portable-mirror-with-light,-affordable-travel-gadget",
-        "pexels_url": "https://www.pexels.com/search/NITORI%20LED%20folding%20mirror,%20Japan%20travel%20makeup,%20portable%20mirror%20with%20light,%20affordable%20travel%20gadget/"
-      }
-    },
-    {
-      "id": "plan_76d6a3b8",
-      "created_at": "2026-02-24T05:15:25.726672",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "関西で楽しめるアフター万博グルメ、ぴあがムック本を発売。パビリオン飲食店の現在や世界の食めぐりガイドなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088111.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2025년 오사카 엑스포 개최 전, 과거 엑스포의 맛을 재현한 특별한 먹거리 정보를 한눈에!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 엑스포 맛집 가이드✨",
-        "cards": [
-          {
-            "title": "엑스포 맛집",
-            "content": "2025년 오사카 엑스포를 앞두고, 과거 엑스포 당시 인기였던 파빌리온 식당들의 현재와 세계 음식을 맛볼 수 있는 특별한 가이드북이 출시되었습니다.",
-            "alt_text": "오사카 엑스포 개최를 알리는 홍보물 이미지"
-          },
-          {
-            "title": "새로운 먹거리",
-            "content": "이번 무크북 '만박구루메 타베니이코!'는 간사이 지역에서 엑스포 이후에도 즐길 수 있는 미식 경험을 소개합니다. 엑스포 당시의 추억을 되살릴 수 있는 메뉴들을 만나보세요.",
-            "alt_text": "다양한 세계 음식 사진 모음"
-          },
-          {
-            "title": "출시 정보",
-            "content": "해당 무크북은 2024년 2월 24일에 발매되었으며, A4 변형판 100페이지로 구성되어 있습니다.",
-            "alt_text": "무크북 표지 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "책의 가격은 1210엔입니다. 오사카 여행을 계획 중이라면, 엑스포 관련 특별한 미식 경험을 놓치지 마세요!",
-            "alt_text": "책 가격 정보가 표시된 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "오사카 여행 시, 2025년 엑스포 관련 특별 메뉴나 과거 엑스포 맛집을 미리 알아두면 더욱 풍성한 미식 여행을 즐길 수 있습니다. 현지에서 책을 찾아보는 것도 좋은 방법입니다.",
-            "alt_text": "오사카 시내 지도와 맛집 표시"
-          }
-        ],
-        "caption": "🇯🇵 2025 오사카 엑스포 D-1! 엑스포의 맛을 미리 만나보세요! 🍜\n과거 엑스포의 인기 메뉴와 세계 음식을 한눈에 볼 수 있는 특별 가이드북이 출시되었어요! \n오사카 여행 계획 중이라면, 엑스포 관련 특별한 미식 경험을 놓치지 마세요! \n\n#일본여행 #오사카여행 #엑스포 #만박구루메 #일본맛집 #먹스타그램 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#엑스포",
-          "#만박구루메",
-          "#일본맛집",
-          "#오사카맛집",
-          "#일본음식",
-          "#여행스타그램",
-          "#일본축제",
-          "#2025엑스포",
-          "#간사이여행",
-          "#먹방여행",
-          "#해외여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "오사카 엑스포 개최를 알리는 홍보물 이미지",
-          "다양한 세계 음식 사진 모음",
-          "무크북 표지 이미지",
-          "책 가격 정보가 표시된 이미지",
-          "오사카 시내 지도와 맛집 표시"
-        ]
-      },
-      "marketer_analysis": "타겟: 2025 오사카 엑스포 방문 예정이거나 오사카 방문을 고려하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 오사카 여행 계획 시 참고할 수 있는 실질적인 정보로 높은 관심 예상 / 이 콘텐츠의 강점: 엑스포라는 시의성 있는 주제와 구체적인 미식 정보 결합",
-      "image": {
-        "keyword": "Osaka Expo food guide, Japanese Mook book, Kansai gourmet, World food Osaka",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-food-guide,-Japanese-Mook-book,-Kansai-gourmet,-World-food-Osaka",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%20food%20guide,%20Japanese%20Mook%20book,%20Kansai%20gourmet,%20World%20food%20Osaka/"
       }
     }
   ]
