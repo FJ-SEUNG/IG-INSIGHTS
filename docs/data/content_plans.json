@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-27T23:58:28.941575",
+  "last_updated": "2026-02-28T04:37:15.055246",
   "plans": [
+    {
+      "id": "plan_2658729a",
+      "created_at": "2026-02-28T04:37:13.055064",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR乗り放題「青春18きっぷ」春季の利用期間は明日から。連続3日間/5日間、利用条件を確認しよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089363.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전국 JR 열차를 무제한으로 탈 수 있는 꿀템, 2026년 봄 시즌 이용 정보 공개!"
+      },
+      "content": {
+        "thumbnail_title": "JR 18 킷, 2026 봄 개시!",
+        "cards": [
+          {
+            "title": "판매 시작!",
+            "content": "2026년 봄 시즌 '청춘 18 티켓'과 '청춘 18 티켓 홋카이도 신칸센 옵션권'이 2월 13일부터 판매 시작됩니다.",
+            "alt_text": "일본 JR 열차 티켓 판매 시작을 알리는 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "봄 시즌 이용 기간은 2026년 2월 20일부터 4월 10일까지입니다. 이 기간 동안 자유롭게 일본 전역의 JR 열차를 이용할 수 있습니다.",
+            "alt_text": "일본 지도와 함께 이용 기간을 표시하는 이미지"
+          },
+          {
+            "title": "연속 3일/5일",
+            "content": "티켓은 1일권 5매로 구성되어 있으며, 연속 3일 또는 5일 동안 무제한으로 이용 가능합니다. 여행 스타일에 맞춰 활용하세요.",
+            "alt_text": "달력과 함께 3일 또는 5일을 강조하는 이미지"
+          },
+          {
+            "title": "모든 JR 열차",
+            "content": "JR 동일본, JR 서일본 등 일본 전국의 JR 일반 열차(보통, 쾌속, 특정 급행)를 자유롭게 탑승할 수 있습니다. 신칸센은 제외됩니다.",
+            "alt_text": "다양한 JR 열차 이미지를 모아놓은 콜라주"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "JR 노선망이 잘 갖춰진 지역이라면 이 티켓 하나로 저렴하게 일본 곳곳을 여행할 수 있어요. 특히 장거리 이동 시 비용 절약에 큰 도움이 됩니다.",
+            "alt_text": "여행 가방과 함께 일본 지도를 펼쳐놓은 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템! 🚂 JR '청춘 18 티켓' 2026년 봄 시즌 정보가 드디어 나왔어요! \n\n✅ 판매 시작: 2026년 2월 13일\n✅ 이용 기간: 2026년 2월 20일 ~ 4월 10일\n✅ 사용법: 1일권 5매 (연속 3일 또는 5일 사용 가능)\n\n일본 전국의 JR 보통, 쾌속 열차를 무제한으로 탈 수 있어 가성비 최고의 여행을 즐길 수 있답니다! 💖\n\n#청춘18티켓 #JR패스 #일본기차여행 #일본교통 #가성비여행 #2026년봄",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#청춘18티켓",
+          "#JR패스",
+          "#일본기차여행",
+          "#일본교통",
+          "#일본자유여행",
+          "#가성비여행",
+          "#2026년봄",
+          "#일본정보기술",
+          "#여행준비",
+          "#일본여행정보",
+          "#일본여행꿀팁",
+          "#일본철도",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "일본 JR 열차 티켓 판매 시작을 알리는 이미지",
+          "일본 지도와 함께 이용 기간을 표시하는 이미지",
+          "달력과 함께 3일 또는 5일을 강조하는 이미지",
+          "다양한 JR 열차 이미지를 모아놓은 콜라주",
+          "여행 가방과 함께 일본 지도를 펼쳐놓은 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 전역을 저렴하게 여행하고 싶은 한국인 여행자 / 최적 게시 시간: 여행 계획 시즌인 19~22시 / 기대 반응: 정보 공유 및 저장, 질문 댓글 / 이 콘텐츠의 강점: 실질적인 교통비 절약 정보, 구체적인 날짜 및 조건 명시",
+      "image": {
+        "keyword": "JR train, Japan, travel, ticket, spring season, unlimited ride, transportation, budget travel",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train,-Japan,-travel,-ticket,-spring-season,-unlimited-ride,-transportation,-budget-travel",
+        "pexels_url": "https://www.pexels.com/search/JR%20train,%20Japan,%20travel,%20ticket,%20spring%20season,%20unlimited%20ride,%20transportation,%20budget%20travel/"
+      }
+    },
+    {
+      "id": "plan_08b4efe2",
+      "created_at": "2026-02-28T04:37:06.411272",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社「一生に一度は行きたい 京都の寺社100選」。特集は豊臣家ゆかりの地巡り",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089383.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토의 숨겨진 명소부터 豊臣家 유적까지, 특별한 역사 탐방 추천!"
+      },
+      "content": {
+        "thumbnail_title": "✨교토 필수 코스 100곳✨",
+        "cards": [
+          {
+            "title": "교토 명소 100선",
+            "content": "보물섬사에서 '일생에 한 번은 가고 싶은 교토의 사찰/신사 100선'을 출간했습니다. 교토의 아름다운 사찰과 신사를 총망라한 특별한 가이드북입니다.",
+            "alt_text": "교토의 아름다운 사찰 전경"
+          },
+          {
+            "title": "豊臣家 유적 탐방",
+            "content": "이번 특집에서는 특히 豊臣家(도요토미가)와 관련된 유적지를 집중적으로 소개합니다. 역사 속 인물들의 발자취를 따라가는 특별한 여행을 경험해보세요.",
+            "alt_text": "豊臣秀吉 관련 유적지 사진"
+          },
+          {
+            "title": "책 정보",
+            "content": "3월 11일에 발매되었으며, 가격은 1790엔입니다. 교토 여행 계획 시 이 책을 참고하시면 더욱 풍성하고 의미있는 여행이 될 것입니다.",
+            "alt_text": "책 표지 이미지"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "책에 소개된 100곳의 사찰과 신사를 모두 방문하기는 어렵겠지만, 관심 있는 몇 곳을 골라 집중적으로 둘러보는 것도 좋은 방법입니다.",
+            "alt_text": "지도에 표시된 교토의 주요 관광지"
+          },
+          {
+            "title": "추천",
+            "content": "역사, 문화, 그리고 아름다운 풍경을 사랑하는 여행자라면 절대 놓칠 수 없는 교토 가이드북입니다. 豊臣家 유적지 순례는 특별한 추억을 선사할 것입니다.",
+            "alt_text": "교토의 고즈넉한 골목길 풍경"
+          }
+        ],
+        "caption": "✨교토 여행 필수템 등장!✨\n보물섬사에서 '일생에 한 번은 가고 싶은 교토의 사찰/신사 100선'을 출간했어요.\n특히 豊臣家(도요토미가) 유적지를 집중 소개하는 특별판!\n교토 여행 계획 중이라면 꼭 참고하세요! 🇯🇵\n\n#교토여행 #일본여행 #교토사찰 #교토신사 #豊臣家 #보물섬사 #일본가이드북 #여행준비 #일본소식 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#교토",
+          "#일본소식",
+          "#여행정보",
+          "#일본문화",
+          "#교토가볼만한곳",
+          "#일본책",
+          "#여행필수템",
+          "#일본축제",
+          "#일본맛집",
+          "#일본쇼핑",
+          "#일본숙소",
+          "#일본날씨"
+        ],
+        "alt_texts": [
+          "교토의 아름다운 사찰 전경",
+          "豊臣秀吉 관련 유적지 사진",
+          "책 표지 이미지",
+          "지도에 표시된 교토의 주요 관광지",
+          "교토의 고즈넉한 골목길 풍경"
+        ]
+      },
+      "marketer_analysis": "타겟: 교토 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 교토 여행 계획에 대한 관심 증대, 정보 공유 활발 / 이 콘텐츠의 강점: 구체적인 책 정보와 함께 교토의 역사적 테마를 제시하여 차별화된 정보 제공",
+      "image": {
+        "keyword": "Kyoto temple, Fushimi Inari Shrine, Kinkaku-ji, Kiyomizu-dera, Toyotomi Hideyoshi historical site",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-temple,-Fushimi-Inari-Shrine,-Kinkaku-ji,-Kiyomizu-dera,-Toyotomi-Hideyoshi-historical-site",
+        "pexels_url": "https://www.pexels.com/search/Kyoto%20temple,%20Fushimi%20Inari%20Shrine,%20Kinkaku-ji,%20Kiyomizu-dera,%20Toyotomi%20Hideyoshi%20historical%20site/"
+      }
+    },
     {
       "id": "plan_eda5e058",
       "created_at": "2026-02-27T23:58:26.941372",
@@ -923,160 +1077,6 @@
         "keyword": "Sakai Higashi Station renovation, Japan Osaka travel, Nankai Electric Railway commercial facility",
         "unsplash_url": "https://unsplash.com/s/photos/Sakai-Higashi-Station-renovation,-Japan-Osaka-travel,-Nankai-Electric-Railway-commercial-facility",
         "pexels_url": "https://www.pexels.com/search/Sakai%20Higashi%20Station%20renovation,%20Japan%20Osaka%20travel,%20Nankai%20Electric%20Railway%20commercial%20facility/"
-      }
-    },
-    {
-      "id": "plan_19f1172d",
-      "created_at": "2026-02-25T00:08:25.025785",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「シリーズ byマリオット」日本初進出。「スガタ ホテル 大阪心斎橋」4月開業、既存ホテルをリブランド",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088249.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서 새롭게 문을 여는 호텔 정보로 여행 계획에 도움을 줄 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 새 호텔 오픈✨",
-        "cards": [
-          {
-            "title": "마리오트 첫 진출",
-            "content": "마리오트 인터내셔널이 일본에 첫 컬렉션 브랜드 '시리즈 by 마리오ット'를 선보입니다. 첫 번째 호텔은 오사카에 오픈 예정입니다.",
-            "alt_text": "마리오트 호텔 로고 이미지"
-          },
-          {
-            "title": "오사카 신규 호텔",
-            "content": "바로 '스가타 호텔 오사카 신사이바시 시리즈 by 마리오ット'로, 기존 호텔을 리브랜딩하여 2024년 4월에 개장합니다.",
-            "alt_text": "오사카 신사이바시 거리 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 오사카부 오사카시 주오구 미나미센바 2-6-25이며, 접근성이 좋은 곳에 위치할 것으로 예상됩니다.",
-            "alt_text": "일본 지도에 오사카 표시 이미지"
-          },
-          {
-            "title": "투숙객 기대",
-            "content": "마리오트의 새로운 컬렉션 브랜드가 일본에 상륙함에 따라, 어떤 새로운 경험을 선사할지 기대가 모아집니다.",
-            "alt_text": "고급스러운 호텔 로비 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "오사카 여행 계획 중이라면, 4월 오픈 예정인 이 호텔을 눈여겨보고 예약 시점을 확인해보세요. 새로운 숙소 옵션이 될 수 있습니다.",
-            "alt_text": "여행 가방과 여권 이미지"
-          }
-        ],
-        "caption": "🇯🇵 마리오트 인터내셔널이 드디어 일본에 상륙합니다! ✨\n\n✨ 2024년 4월, 오사카에 '스가타 호텔 오사카 신사이바시 시리즈 by 마리오ット'가 새롭게 문을 열어요.\n\n새로운 컬렉션 브랜드 호텔에서 특별한 오사카 여행을 계획해보세요! ✈️\n\n#일본여행 #오사카여행 #새로운호텔 #마리오트 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#일본신규호텔",
-          "#마리오트",
-          "#스가타호텔",
-          "#오사카숙소",
-          "#일본숙박",
-          "#여행정보",
-          "#해외여행",
-          "#여행계획",
-          "#일본호텔",
-          "#마리오트호텔",
-          "#오사카",
-          "#2024년개장"
-        ],
-        "alt_texts": [
-          "마리오트 호텔 로고 이미지",
-          "오사카 신사이바시 거리 이미지",
-          "일본 지도에 오사카 표시 이미지",
-          "고급스러운 호텔 로비 이미지",
-          "여행 가방과 여권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 신규 호텔 정보에 대한 관심 및 댓글 문의 / 이 콘텐츠의 강점: 최신 호텔 오픈 정보를 발 빠르게 제공하여 여행 계획에 실질적인 도움을 줌",
-      "image": {
-        "keyword": "Osaka new hotel Marriott",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-new-hotel-Marriott",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20new%20hotel%20Marriott/"
-      }
-    },
-    {
-      "id": "plan_d0772f4b",
-      "created_at": "2026-02-25T00:08:19.589292",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【井上孝司の「鉄道旅行のヒント」】JRの指定席を「1か月前の10時」より早く買うには？　事前受付と早期予約を知っておこう",
-        "url": "https://travel.watch.impress.co.jp/docs/series/inoue/2088254.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 JR 열차 지정석, 10시보다 더 빨리 예매하는 꿀팁 대공개!"
-      },
-      "content": {
-        "thumbnail_title": "JR 지정석, 10시 전에 득템하는 법! 🚄",
-        "cards": [
-          {
-            "title": "10시 예매 룰",
-            "content": "JR 열차 지정석은 출발 1개월 전 오전 10시부터 예매가 시작됩니다. 이 시간을 '10시 치기'라고도 부릅니다.",
-            "alt_text": "JR 열차 승차권 예매 화면"
-          },
-          {
-            "title": "사전 접수 활용",
-            "content": "일부 JR 역에서는 1개월 전 예매 시작일보다 3일 전부터 '사전 접수'가 가능합니다. 10시 전에 미리 접수하면 유리합니다.",
-            "alt_text": "JR 역 창구에서 접수하는 모습"
-          },
-          {
-            "title": "조기 예약 혜택",
-            "content": "이른 시일 내에 좌석을 확보하면 원하는 좌석을 선택할 확률이 높아집니다. 특히 인기 노선은 필수입니다.",
-            "alt_text": "창가 좌석에 앉아 창밖을 보는 승객"
-          },
-          {
-            "title": "온라인 예매 팁",
-            "content": "JR 온라인 예매 사이트를 활용하면 시간과 장소에 구애받지 않고 편리하게 예매할 수 있습니다. 10시 정각을 노리세요!",
-            "alt_text": "스마트폰으로 JR 예매하는 모습"
-          },
-          {
-            "title": "주의사항",
-            "content": "사전 접수 및 조기 예약 가능 여부는 역마다 다를 수 있으니, 미리 확인하는 것이 좋습니다. 10시 땡! 하자마자 예매하는 것도 좋은 방법입니다.",
-            "alt_text": "열차 시간표를 확인하는 여행객"
-          }
-        ],
-        "caption": "일본 기차 여행 필수 정보! 🇯🇵 JR 지정석, 1개월 전 오전 10시부터 예매 시작이지만, '사전 접수'와 '조기 예약'을 활용하면 10시보다 더 빨리 원하는 좌석을 겟할 수 있어요! 꿀팁 놓치지 말고 미리미리 준비해서 편안한 일본 기차 여행 즐기세요! 🚂\n\n#일본여행 #JR패스 #일본기차 #지정석예매 #여행꿀팁 #플라잉재팬 #일본교통 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본기차",
-          "#JR패스",
-          "#지정석예매",
-          "#여행꿀팁",
-          "#일본교통",
-          "#일본여행준비",
-          "#일본철도",
-          "#10시치기",
-          "#사전접수",
-          "#조기예약",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "JR 열차 승차권 예매 화면",
-          "JR 역 창구에서 접수하는 모습",
-          "창가 좌석에 앉아 창밖을 보는 승객",
-          "스마트폰으로 JR 예매하는 모습",
-          "열차 시간표를 확인하는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 자유여행을 계획하는 한국인 여행객 / 최적 게시 시간: 평일 오후 7-9시 / 기대 반응: 정보 획득에 대한 만족도, 예매 시도율 증가 / 이 콘텐츠의 강점: 일본 내 필수 교통수단인 JR 지정석 예매에 대한 구체적이고 실질적인 팁을 제공하여 높은 활용도 기대",
-      "image": {
-        "keyword": "Japan train ticket reservation, early booking, JR East, Shinkansen, travel tips",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-ticket-reservation,-early-booking,-JR-East,-Shinkansen,-travel-tips",
-        "pexels_url": "https://www.pexels.com/search/Japan%20train%20ticket%20reservation,%20early%20booking,%20JR%20East,%20Shinkansen,%20travel%20tips/"
       }
     }
   ]
