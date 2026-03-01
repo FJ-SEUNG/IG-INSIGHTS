@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-02-28T23:53:04.631690",
+  "last_updated": "2026-03-01T05:12:38.905432",
   "plans": [
+    {
+      "id": "plan_2222afd6",
+      "created_at": "2026-03-01T05:12:36.905241",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、「ANA楽パック」で7日間限定セール開催　4月〜5月の羽田行き対象",
+        "url": "https://www.traicy.com/posts/20260301364302/",
+        "date": "Sun, 01 Mar 2026 02:35:01 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 왕복 항공권 + 숙박 최저가 찬스! 4월~5월 일본 여행 계획 있다면 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 특가! 4-5월 일본행 꿀딜 ✈️",
+        "cards": [
+          {
+            "title": "7일간 한정 세일!",
+            "content": "2월 27일부터 3월 5일까지 7일간! 楽天 트래블에서 'ANA 楽パック' 특별 세일이 진행됩니다.",
+            "alt_text": "달력에 2월 27일부터 3월 5일까지 표시된 이미지"
+          },
+          {
+            "title": "ANA 항공권+숙박",
+            "content": "ANA 왕복 항공권과 일본 현지 숙박이 포함된 'ANA 楽パック' 상품이 대상입니다. 알찬 구성으로 더욱 편리하게 여행하세요.",
+            "alt_text": "비행기 티켓과 호텔 키 이미지"
+          },
+          {
+            "title": "4월~5월 일본행",
+            "content": "여행 가능 기간은 4월부터 5월까지! 벚꽃 시즌부터 황금연휴까지, 일본의 아름다운 계절을 만끽할 기회입니다.",
+            "alt_text": "벚꽃이 만개한 일본 거리 이미지"
+          },
+          {
+            "title": "도쿄/하네다 공항행",
+            "content": "이번 세일은 도쿄 하네다 공항으로 향하는 일부 노선 및 일부 편에 적용됩니다. 정확한 대상 노선은 楽天 트래블에서 확인하세요.",
+            "alt_text": "하네다 공항 전경 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "인기 일본 여행 시기인 4월~5월, ANA 항공권과 숙박을 저렴하게 예약할 수 있는 절호의 찬스! 서둘러 楽天 트래블에서 확인해보세요.",
+            "alt_text": "달려가는 사람의 모습 이미지"
+          }
+        ],
+        "caption": "✨ 4월-5월 일본 여행 계획 중이신가요? ✨\n\n지금 楽天 트래블에서 'ANA 楽パック' 7일 한정 세일이 진행 중이에요! ✈️ ANA 왕복 항공권과 숙박을 함께 예약하면 파격적인 가격으로 만나볼 수 있습니다.\n\n✅ 기간: 2월 27일 ~ 3월 5일 (7일간)\n✅ 대상: 4월~5월 출발, 도쿄 하네다행 ANA 항공권 + 숙박 포함 상품\n\n올봄, ANA와 함께 더욱 스마트하게 일본 여행 떠나요! 🌸\n\n#일본여행 #ANA항공권 #ANA楽パック #楽天트래블 #일본항공권 #일본숙박 #하네다공항 #봄여행 #일본여행준비 #여행특가 #플라잉재팬 #일본가자 #가성비여행 #여행스타그램 #항공권할인",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA항공권",
+          "#ANA楽パック",
+          "#楽天트래블",
+          "#일본항공권",
+          "#일본숙박",
+          "#하네다공항",
+          "#봄여행",
+          "#일본여행준비",
+          "#여행특가",
+          "#가성비여행",
+          "#여행스타그램",
+          "#항공권할인",
+          "#일본가자"
+        ],
+        "alt_texts": [
+          "달력에 2월 27일부터 3월 5일까지 표시된 이미지",
+          "비행기 티켓과 호텔 키 이미지",
+          "벚꽃이 만개한 일본 거리 이미지",
+          "하네다 공항 전경 이미지",
+          "달려가는 사람의 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 4월~5월 일본 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 클릭률 및 예약 전환율, 정보 공유 활발 / 이 콘텐츠의 강점: 시기적절한 특가 정보, 구체적인 날짜와 혜택 명시, 명확한 CTA",
+      "image": {
+        "keyword": "ANA airplane ticket hotel package sale Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane-ticket-hotel-package-sale-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane%20ticket%20hotel%20package%20sale%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_509d3292",
+      "created_at": "2026-03-01T05:12:30.773572",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、「シングルモルト嘉之助 JAL EXCLUSIVE DuMOL CASK FINISH」を販売",
+        "url": "https://www.traicy.com/posts/20260301364293/",
+        "date": "Sun, 01 Mar 2026 03:15:30 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "특별한 일본 위스키, JAL에서만 만날 수 있는 한정판 득템 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 한정판 위스키 출시!",
+        "cards": [
+          {
+            "title": "JAL 단독 출시",
+            "content": "일본항공(JAL)이 '싱글몰트 카노스케 JAL EXCLUSIVE DuMOL CASK FINISH'를 3월 1일부터 판매합니다.",
+            "alt_text": "일본항공 로고와 함께 '싱글몰트 카노스케' 병이 보이는 이미지"
+          },
+          {
+            "title": "특별한 만남",
+            "content": "일본 각지의 크래프트 증류소에서 탄생한 '재패니즈 크래프트 위스키'를 JAL에서 특별하게 만나보세요.",
+            "alt_text": "여러 종류의 일본 위스키 병이 진열된 모습"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본 현지에서도 구하기 어려운 한정판 위스키를 일본 여행 중 JAL을 통해 득템할 수 있는 기회입니다.",
+            "alt_text": "위스키 잔에 황금빛 위스키가 담겨 있는 모습"
+          },
+          {
+            "title": "구매 정보",
+            "content": "출시일: 2024년 3월 1일. 구매 가능한 JAL 항공편 및 상세 정보는 JAL 공식 채널을 확인하세요.",
+            "alt_text": "달력에 3월 1일이 표시된 이미지"
+          },
+          {
+            "title": "여행 선물로 딱!",
+            "content": "특별한 일본 여행의 추억을 담아갈 수 있는 위스키를 선물하거나 소장해보세요. 주류 구매 시 면세 한도를 꼭 확인하세요.",
+            "alt_text": "선물 상자에 담긴 위스키와 함께 일본 관광지 사진이 보이는 콜라주 이미지"
+          }
+        ],
+        "caption": "✈️ 일본항공(JAL)에서만 만날 수 있는 특별한 위스키 출시 소식! 🥃\n\n✨ '싱글몰트 카노스케 JAL EXCLUSIVE DuMOL CASK FINISH'가 3월 1일부터 판매 시작됩니다.\n\n일본 각지의 크래프트 증류소에서 탄생한 귀한 재패니즈 크래프트 위스키를 JAL 항공편에서 특별하게 만나보세요!\n\n여행 기념품으로, 혹은 특별한 분을 위한 선물로도 완벽한 아이템입니다. 🎁\n\n✅ 구매 전 JAL 공식 채널에서 상세 정보를 꼭 확인하세요!\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #일본위스키 #카노스케 #한정판 #면세찬스 #여행선물 #일본쇼핑 #여행정보 #해외여행 #위스키추천 #여행꿀팁 #일본자유여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#일본위스키",
+          "#카노스케",
+          "#한정판",
+          "#면세찬스",
+          "#여행선물",
+          "#일본쇼핑",
+          "#여행정보",
+          "#해외여행",
+          "#위스키추천",
+          "#여행꿀팁",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "일본항공 로고와 함께 '싱글몰트 카노스케' 병이 보이는 이미지",
+          "여러 종류의 일본 위스키 병이 진열된 모습",
+          "위스키 잔에 황금빛 위스키가 담겨 있는 모습",
+          "달력에 3월 1일이 표시된 이미지",
+          "선물 상자에 담긴 위스키와 함께 일본 관광지 사진이 보이는 콜라주 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객, 특히 주류 및 특별한 기념품에 관심 있는 사람 / 최적 게시 시간: 평일 오후 6시 - 8시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 정보 공유, 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 항공사 연계로 접근성 용이, 선물 아이템으로서의 매력 어필",
+      "image": {
+        "keyword": "JAL, Japanese whisky, limited edition, Kanosuke, travel souvenir, duty free",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japanese-whisky,-limited-edition,-Kanosuke,-travel-souvenir,-duty-free",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Japanese%20whisky,%20limited%20edition,%20Kanosuke,%20travel%20souvenir,%20duty%20free/"
+      }
+    },
     {
       "id": "plan_13566fdc",
       "created_at": "2026-02-28T23:53:02.631516",
@@ -923,160 +1077,6 @@
         "keyword": "LaLaport Izumi, new stores, shopping mall, Osaka, Japan, family shopping, food court, kids zone, renovation",
         "unsplash_url": "https://unsplash.com/s/photos/LaLaport-Izumi,-new-stores,-shopping-mall,-Osaka,-Japan,-family-shopping,-food-court,-kids-zone,-renovation",
         "pexels_url": "https://www.pexels.com/search/LaLaport%20Izumi,%20new%20stores,%20shopping%20mall,%20Osaka,%20Japan,%20family%20shopping,%20food%20court,%20kids%20zone,%20renovation/"
-      }
-    },
-    {
-      "id": "plan_69efe09c",
-      "created_at": "2026-02-26T00:07:03.698796",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "日本初進出「カペラ京都」開業。全89室のうちスイート29室、ダイニングはミシュラン三つ星「シングルスレッド」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088546.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토에 새롭게 문을 연 럭셔리 호텔, 미슐랭 3스타 레스토랑까지!"
-      },
-      "content": {
-        "thumbnail_title": "✨교토 신상 럭셔리 호텔✨",
-        "cards": [
-          {
-            "title": "카펠라 교토 오픈!",
-            "content": "교토에 럭셔리 호텔 '카펠라 교토'가 3월 22일 문을 열었어요. 총 89개의 객실 중 29개가 스위트룸으로 구성되어 있답니다.",
-            "alt_text": "카펠라 교토 호텔 외관 전경"
-          },
-          {
-            "title": "미슐랭 3스타 레스토랑",
-            "content": "호텔 내 다이닝에는 미슐랭 3스타 레스토랑 '싱글 스레드'가 입점하여 최고급 식사를 경험할 수 있어요.",
-            "alt_text": "미슐랭 3스타 레스토랑 '싱글 스레드' 내부 모습"
-          },
-          {
-            "title": "고즈넉한 교토 감성",
-            "content": "교토시 히가시야마구 고마쓰초 130번지에 위치해 있어 교토의 아름다운 풍경과 함께 특별한 시간을 보낼 수 있어요.",
-            "alt_text": "교토의 전통적인 거리 풍경"
-          },
-          {
-            "title": "최고급 숙박 경험",
-            "content": "일본 최초로 선보이는 카펠라 호텔에서 잊지 못할 럭셔리 스테이를 경험해 보세요.",
-            "alt_text": "카펠라 교토 호텔 객실 내부 이미지"
-          },
-          {
-            "title": "예약 팁!",
-            "content": "오픈 초기에는 예약이 몰릴 수 있으니, 방문 계획이 있다면 서둘러 예약하는 것을 추천해요. 공식 웹사이트를 통해 예약 가능합니다.",
-            "alt_text": "예약 화면 예시 이미지"
-          }
-        ],
-        "caption": "🇯🇵 교토에 새로운 럭셔리 호텔 '카펠라 교토'가 3월 22일 드디어 오픈했어요! ✨\n\n총 89개 객실 중 29개가 스위트룸으로, 미슐랭 3스타 레스토랑 '싱글 스레드'까지 갖춘 최고급 호텔이랍니다. 🤩\n\n교토 여행을 더욱 특별하게 만들어 줄 이곳에서 잊지 못할 추억을 만들어보세요!\n\n#카펠라교토 #교토호텔 #일본신상호텔 #교토여행 #럭셔리호텔 #미슐랭레스토랑 #일본숙소 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토",
-          "#교토여행",
-          "#일본숙소",
-          "#호텔추천",
-          "#럭셔리호텔",
-          "#신상호텔",
-          "#카펠라교토",
-          "#미슐랭",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#해외여행",
-          "#교토가볼만한곳",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "카펠라 교토 호텔 외관 전경",
-          "미슐랭 3스타 레스토랑 '싱글 스레드' 내부 모습",
-          "교토의 전통적인 거리 풍경",
-          "카펠라 교토 호텔 객실 내부 이미지",
-          "예약 화면 예시 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 럭셔리 여행에 관심 있는 2040 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 (저녁 식사 시간대) / 기대 반응: 높은 관심과 문의, 예약 정보 탐색 / 이 콘텐츠의 강점: 최신 오픈 호텔 정보, 미슐랭 레스토랑 포함, 구체적인 오픈일 및 객실 정보 제공",
-      "image": {
-        "keyword": "Capella Kyoto hotel, luxury hotel Kyoto, Michelin restaurant Kyoto, Kyoto travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Capella-Kyoto-hotel,-luxury-hotel-Kyoto,-Michelin-restaurant-Kyoto,-Kyoto-travel",
-        "pexels_url": "https://www.pexels.com/search/Capella%20Kyoto%20hotel,%20luxury%20hotel%20Kyoto,%20Michelin%20restaurant%20Kyoto,%20Kyoto%20travel/"
-      }
-    },
-    {
-      "id": "plan_ce6a96d1",
-      "created_at": "2026-02-26T00:06:58.283939",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "イカロス出版「すごい空港スイーツ＆お菓子大百科」発売。国内の41空港から個性豊かな約400品をオールカラーで紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088593.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 41개 공항의 특별한 디저트들을 한 권으로 만날 수 있는 가이드북 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 공항 디저트 총정리!",
-        "cards": [
-          {
-            "title": "신간 출간!",
-            "content": "이카로스 출판에서 '엄청난 공항 디저트&과자 대백과'를 2월 24일에 발매했어요.",
-            "alt_text": "책 표지 이미지"
-          },
-          {
-            "title": "41개 공항",
-            "content": "일본 전국 41개 공항에서 엄선된 개성 넘치는 디저트와 과자 약 400가지를 소개합니다.",
-            "alt_text": "일본 지도에 공항 표시"
-          },
-          {
-            "title": "올 컬러",
-            "content": "128페이지 올 컬러로 생생한 디저트 사진을 감상하며 여행 계획을 세울 수 있어요.",
-            "alt_text": "다양한 디저트 사진 모음"
-          },
-          {
-            "title": "가격",
-            "content": "A5판, 128페이지, 가격은 2,200엔입니다. ✈️",
-            "alt_text": "책 가격 표시"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "여행 전, 이 책으로 공항별 숨겨진 디저트 맛집을 미리 파악하고 실패 없는 쇼핑 리스트를 만들어 보세요!",
-            "alt_text": "여행 가방과 디저트"
-          }
-        ],
-        "caption": "일본 여행의 또 다른 즐거움, 공항 디저트! ✈️✨\n\n이카로스 출판에서 2월 24일, '엄청난 공항 디저트&과자 대백과'를 발매했어요.\n\n일본 전국 41개 공항의 숨겨진 보석 같은 디저트 400가지를 모두 담았답니다! 🍰🍪\n\n여행 전에 이 책으로 공항별 MUST-TRY 디저트 리스트를 완성해보세요!\n\n#일본여행 #공항디저트 #일본과자 #디저트맛집 #여행준비 #신간소개 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본공항",
-          "#일본디저트",
-          "#공항맛집",
-          "#일본간식",
-          "#여행스타그램",
-          "#일본쇼핑",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#디저트그램",
-          "#과자스타그램",
-          "#이카로스출판",
-          "#일본여행정보"
-        ],
-        "alt_texts": [
-          "책 표지 이미지",
-          "일본 지도에 공항 표시",
-          "다양한 디저트 사진 모음",
-          "책 가격 표시",
-          "여행 가방과 디저트"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 20-40대 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 정보성 콘텐츠에 대한 관심, 저장율 높음 / 이 콘텐츠의 강점: 구체적인 정보(출간일, 가격, 페이지 수, 공항 수, 품목 수)를 담아 실질적인 도움 제공",
-      "image": {
-        "keyword": "Japan airport sweets book, Japanese airport desserts, travel guide book Japan, unique airport snacks Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-airport-sweets-book,-Japanese-airport-desserts,-travel-guide-book-Japan,-unique-airport-snacks-Japan",
-        "pexels_url": "https://www.pexels.com/search/Japan%20airport%20sweets%20book,%20Japanese%20airport%20desserts,%20travel%20guide%20book%20Japan,%20unique%20airport%20snacks%20Japan/"
       }
     }
   ]
