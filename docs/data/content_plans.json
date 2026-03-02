@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-01T23:59:17.069550",
+  "last_updated": "2026-03-02T05:09:11.580926",
   "plans": [
+    {
+      "id": "plan_388835f2",
+      "created_at": "2026-03-02T05:09:09.580576",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、ディズニーのオーバーサイズT本日発売。ミッキー/アリエル/プーさんほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089632.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유니클로에서 디즈니 콜라보 UT 신상 출시! 미키, 아리엘, 푸 등 인기 캐릭터로 여행룩 완성하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨유니클로X디즈니 UT 출시✨",
+        "cards": [
+          {
+            "title": "디즈니 콜라보 UT",
+            "content": "유니클로에서 3월 2일에 디즈니와 협업한 새로운 UT를 출시했습니다. 미키, 아리엘, 푸 등 다양한 인기 캐릭터 디자인으로 만나볼 수 있습니다.",
+            "alt_text": "유니클로 디즈니 콜라보 UT 제품 이미지"
+          },
+          {
+            "title": "여행룩 포인트",
+            "content": "귀여운 디즈니 캐릭터 티셔츠로 일본 여행 중에 특별한 포인트를 줄 수 있어요. 편안하면서도 개성 넘치는 여행룩을 연출해보세요.",
+            "alt_text": "디즈니 캐릭터 티셔츠를 입고 여행하는 모습"
+          },
+          {
+            "title": "다양한 캐릭터",
+            "content": "미키 마우스, 인어공주 아리엘, 푸 등 추억 속 인기 캐릭터들이 티셔츠로 재탄생했습니다. 취향에 맞는 캐릭터를 골라보세요.",
+            "alt_text": "미키, 아리엘, 푸 등 다양한 디즈니 캐릭터 디자인"
+          },
+          {
+            "title": "일본에서 겟",
+            "content": "일본 현지 유니클로 매장에서만 구매 가능한 한정판 아이템입니다. 여행 중에 방문하여 득템 찬스를 놓치지 마세요!",
+            "alt_text": "일본 유니클로 매장 전경"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 관심 있다면 여행 초반에 방문하는 것을 추천합니다. 사이즈와 디자인별 재고를 미리 확인해보세요.",
+            "alt_text": "유니클로 매장에서 쇼핑하는 모습"
+          }
+        ],
+        "caption": "🇯🇵일본 유니클로에서 디즈니 콜라보 UT 신상 출시!💖\n\n3월 2일부터 일본 유니클로에서 미키, 아리엘, 푸 등 추억의 디즈니 캐릭터 UT가 출시되었어요! 🐭🧜‍♀️🍯\n\n여행 중에 귀여운 디즈니 티셔츠로 특별한 추억을 남겨보세요. 일본 여행 기념품으로도 최고!👍\n\n지금 바로 일본 유니클로에서 만나보세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#유니클로",
+          "#디즈니",
+          "#UT",
+          "#미키마우스",
+          "#아리엘",
+          "#푸",
+          "#여행룩",
+          "#기념품",
+          "#일본쇼핑리스트",
+          "#일본직구",
+          "#일본패션",
+          "#한정판"
+        ],
+        "alt_texts": [
+          "유니클로 디즈니 콜라보 UT 제품 이미지",
+          "디즈니 캐릭터 티셔츠를 입고 여행하는 모습",
+          "미키, 아리엘, 푸 등 다양한 디즈니 캐릭터 디자인",
+          "일본 유니클로 매장 전경",
+          "유니클로 매장에서 쇼핑하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 정보 공유 및 구매 욕구 자극 / 이 콘텐츠의 강점: 최신 트렌드인 캐릭터 콜라보 상품 정보와 여행 연관성 강조",
+      "image": {
+        "keyword": "Uniqlo Disney collaboration UT, Mickey Mouse, Ariel, Pooh, Japan travel fashion",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Disney-collaboration-UT,-Mickey-Mouse,-Ariel,-Pooh,-Japan-travel-fashion",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Disney%20collaboration%20UT,%20Mickey%20Mouse,%20Ariel,%20Pooh,%20Japan%20travel%20fashion/"
+      }
+    },
+    {
+      "id": "plan_25ee347c",
+      "created_at": "2026-03-02T05:09:04.648078",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、ミッフィーUTに新柄。リンガーシャツ風の2種類が6月発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089656.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유니클로에서 미피 신상 UT가 6월 초 출시됩니다! 여행 중 쇼핑 리스트에 꼭 추가하세요."
+      },
+      "content": {
+        "thumbnail_title": "✨유니클로 미피 신상 UT✨",
+        "cards": [
+          {
+            "title": "미피 UT 신상",
+            "content": "유니클로의 인기 미피 UT 컬렉션 '미피 인 블루밍'에서 새로운 디자인 2종이 6월 초 출시됩니다.",
+            "alt_text": "유니클로 미피 UT 신상 티셔츠 이미지"
+          },
+          {
+            "title": "링거 셔츠 스타일",
+            "content": "이번 신상은 링거 셔츠 스타일로 출시되어 더욱 산뜻하고 캐주얼한 느낌을 줍니다.",
+            "alt_text": "링거 셔츠 스타일의 미피 UT 디자인"
+          },
+          {
+            "title": "6월 초 출시",
+            "content": "6월 초에 일본 전국의 유니클로 매장에서 만나볼 수 있으며, 한정 수량으로 조기 품절될 수 있습니다.",
+            "alt_text": "유니클로 매장 이미지"
+          },
+          {
+            "title": "여행 쇼핑 필수",
+            "content": "여행 중 쇼핑 필수템으로, 귀여운 미피 디자인으로 일상에서도 포인트를 줄 수 있습니다.",
+            "alt_text": "다양한 스타일의 미피 UT 착용샷"
+          },
+          {
+            "title": "팁 & 주의사항",
+            "content": "출시 당일 또는 직후 방문하시면 원하는 사이즈와 디자인을 겟할 확률이 높습니다. 공식 홈페이지에서 정확한 출시일을 미리 확인하세요!",
+            "alt_text": "유니클로 쇼핑백 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? ✈️\n\n6월 초, 일본 유니클로에서 귀여운 미피 신상 UT가 출시된다는 소식! 🐰\n\n'미피 인 블루밍' 컬렉션의 새로운 2가지 디자인은 링거 셔츠 스타일로 출시되어 더욱 매력적이에요.\n\n여행 중 꼭 들러야 할 쇼핑 리스트에 추가하시고, 한정판 득템 기회를 놓치지 마세요! 😉\n\n#일본여행 #유니클로 #미피 #쇼핑 #신상 #UT",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#미피",
+          "#미피UT",
+          "#일본쇼핑",
+          "#일본쇼핑리스트",
+          "#유니클로신상",
+          "#6월여행",
+          "#일본자유여행",
+          "#여행정보",
+          "#쇼핑꿀팁",
+          "#패션",
+          "#캐주얼룩",
+          "#득템찬스"
+        ],
+        "alt_texts": [
+          "유니클로 미피 UT 신상 티셔츠 이미지",
+          "링거 셔츠 스타일의 미피 UT 디자인",
+          "유니클로 매장 이미지",
+          "다양한 스타일의 미피 UT 착용샷",
+          "유니클로 쇼핑백 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 공유, 쇼핑 계획에 영향 / 이 콘텐츠의 강점: 시기적절한 신상 정보, 구체적인 출시 정보 제공, 쇼핑 욕구 자극",
+      "image": {
+        "keyword": "Uniqlo Miffy UT new design",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Miffy-UT-new-design",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Miffy%20UT%20new%20design/"
+      }
+    },
     {
       "id": "plan_386f046b",
       "created_at": "2026-03-01T23:59:15.069344",
@@ -923,160 +1077,6 @@
         "keyword": "Yufuin no Mori train, Japanese bento box, Oita wagyu, Kyushu travel, Japanese train food",
         "unsplash_url": "https://unsplash.com/s/photos/Yufuin-no-Mori-train,-Japanese-bento-box,-Oita-wagyu,-Kyushu-travel,-Japanese-train-food",
         "pexels_url": "https://www.pexels.com/search/Yufuin%20no%20Mori%20train,%20Japanese%20bento%20box,%20Oita%20wagyu,%20Kyushu%20travel,%20Japanese%20train%20food/"
-      }
-    },
-    {
-      "id": "plan_21fd39cb",
-      "created_at": "2026-02-27T00:05:42.931754",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】JALふるさとアンバサダーが体験！　世界遺産「長崎と天草地方の潜伏キリシタン関連遺産」と巡礼の道を巡るモニターツアー",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2088677.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL이 직접 추천하는 세계문화유산 '나가사키와 아마쿠사 지역의 잠복 기리시탄 관련 유산' 탐방 코스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL이 추천하는 나가사키 聖地巡礼",
-        "cards": [
-          {
-            "title": "JAL의 특별한 경험",
-            "content": "JAL은 지역 활성화를 위해 'JAL 후루사토 앰버서더'를 운영 중입니다. 객실 승무원들이 직접 지역에 이주하여 활동하며, 이번에는 나가사키와 아마쿠사 지역의 세계문화유산 탐방 모니터 투어를 진행했습니다.",
-            "alt_text": "JAL 후루사토 앰버서더 활동 이미지"
-          },
-          {
-            "title": "나가사키 잠복 키리시탄",
-            "content": "이번 투어는 '나가사키와 아마쿠사 지역의 잠복 키리시탄 관련 유산'을 중심으로 진행되었습니다. 2018년 유네스코 세계유산으로 등재된 이곳은 종교 탄압 속에서 신앙을 지켜온 역사적인 장소입니다.",
-            "alt_text": "나가사키 잠복 키리시탄 유적지 이미지"
-          },
-          {
-            "title": "순례길 탐방",
-            "content": "역사적인 장소뿐만 아니라, 순례길을 직접 걸으며 당시의 숨결을 느낄 수 있는 코스로 구성되었습니다. 아름다운 자연과 함께 깊은 역사를 체험할 수 있습니다.",
-            "alt_text": "나가사키 순례길 풍경 이미지"
-          },
-          {
-            "title": "지역 활성화 노력",
-            "content": "JAL은 객실 승무원들의 경험과 지식을 활용하여 지역 특산품 개발, 지역 문제 해결 등 다양한 방식으로 지역 활성화에 기여하고 있습니다. 이번 투어 역시 이러한 노력의 일환입니다.",
-            "alt_text": "지역 특산품 개발 관련 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "나가사키 지역은 아름다운 자연과 함께 독특한 역사, 문화를 가진 곳입니다. JAL의 이번 투어처럼, 현지 전문가가 추천하는 코스를 따라 여행하면 더욱 깊이 있는 경험을 할 수 있습니다. 잠복 키리시탄 유적지를 방문할 때는 경건한 마음으로 예절을 지켜주세요.",
-            "alt_text": "나가사키 여행 팁 관련 이미지"
-          }
-        ],
-        "caption": "✈️ JAL이 직접 경험하고 추천하는 나가사키 & 아마쿠사 지역! \n\n2018년 유네스코 세계유산으로 등재된 '나가사키와 아마쿠사 지역의 잠복 키리시탄 관련 유산'을 탐방하는 특별한 모니터 투어 소식을 전해드려요. \n\nJAL 후루사토 앰버서더들이 직접 체험한 순례길과 숨겨진 역사 이야기를 만나보세요!\n\n#나가사키여행 #아마쿠사 #세계유산 #일본문화 #JAL",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나가사키",
-          "#아마쿠사",
-          "#잠복키리시탄",
-          "#세계유산",
-          "#JAL",
-          "#일본항공",
-          "#성지순례",
-          "#일본문화",
-          "#역사여행",
-          "#일본관광",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "JAL 후루사토 앰버서더 활동 이미지",
-          "나가사키 잠복 키리시탄 유적지 이미지",
-          "나가사키 순례길 풍경 이미지",
-          "지역 특산품 개발 관련 이미지",
-          "나가사키 여행 팁 관련 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본의 역사, 문화, 종교에 관심 있는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 - 8시 / 기대 반응: '나가사키'라는 특정 지역에 대한 관심 증대, JAL의 지역 활성화 노력에 대한 긍정적 인식 / 이 콘텐츠의 강점: JAL이라는 신뢰도 높은 항공사의 추천 정보, 세계유산이라는 구체적이고 매력적인 관광지 소개, 역사와 문화 탐방이라는 차별화된 테마",
-      "image": {
-        "keyword": "Nagasaki Amakusa Christian Heritage UNESCO World Heritage Pilgrimage Route JAL Ambassador Japan Travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-Amakusa-Christian-Heritage-UNESCO-World-Heritage-Pilgrimage-Route-JAL-Ambassador-Japan-Travel",
-        "pexels_url": "https://www.pexels.com/search/Nagasaki%20Amakusa%20Christian%20Heritage%20UNESCO%20World%20Heritage%20Pilgrimage%20Route%20JAL%20Ambassador%20Japan%20Travel/"
-      }
-    },
-    {
-      "id": "plan_ae498734",
-      "created_at": "2026-02-27T00:05:37.069748",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ビックカメラ、池袋マルイ跡地の「IT tower TOKYO」に3月14日出店。地下直結の「ライフスタイルと家電の発信拠点」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088856.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 가전 양판점, 도쿄 이케부쿠로에 신규 매장 오픈!"
-      },
-      "content": {
-        "thumbnail_title": "⚡️이케부쿠로 빅카메라 신규 오픈⚡️",
-        "cards": [
-          {
-            "title": "신규 매장 오픈",
-            "content": "일본 최대 가전 양판점인 빅카메라가 도쿄 이케부쿠로에 새로운 매장을 3월 14일에 오픈합니다. 'IT tower TOKYO' 건물 지하와 바로 연결되어 더욱 편리하게 이용 가능합니다.",
-            "alt_text": "이케부쿠로 빅카메라 신규 매장 오픈 안내"
-          },
-          {
-            "title": "매장 위치",
-            "content": "신규 매장은 'IT tower TOKYO' (도쿄도 토시마구 니시이케부쿠로 3-28-13)에 자리합니다. 기존 이케부쿠로 마루이 백화점 구 건물 자리에 새롭게 들어섭니다.",
-            "alt_text": "신규 빅카메라 매장 주소 정보"
-          },
-          {
-            "title": "오픈일",
-            "content": "2024년 3월 14일 목요일에 정식 오픈 예정입니다. 오픈 당일 또는 직후 방문 시 더욱 활기찬 분위기를 느낄 수 있습니다.",
-            "alt_text": "신규 빅카메라 매장 오픈 날짜"
-          },
-          {
-            "title": "매장 특징",
-            "content": "이곳은 '라이프스타일과 가전의 발신 거점'을 컨셉으로 하여, 다양한 최신 가전제품과 라이프스타일 관련 상품들을 한자리에서 만나볼 수 있습니다.",
-            "alt_text": "신규 빅카메라 매장의 컨셉 설명"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "이케부쿠로역 서쪽 출구와 지하로 직결되어 있어 쇼핑 후 이동이 매우 편리합니다. 최신 IT 기기부터 생활 가전까지, 쇼핑 리스트를 채울 기회를 놓치지 마세요!",
-            "alt_text": "신규 빅카메라 매장 방문 팁"
-          }
-        ],
-        "caption": "🇯🇵 이케부쿠로 쇼핑 성지 등극! 🇯🇵\n\n일본 최대 가전 양판점 빅카메라가 3월 14일, 이케부쿠로에 새로운 'IT tower TOKYO점'을 오픈합니다!\n\n⚡️ 이케부쿠로역과 지하 직결! 더욱 편리해진 쇼핑 동선\n⚡️ 최신 IT 기기부터 라이프스타일 가전까지 한눈에!\n\n새로운 쇼핑 스팟으로 강력 추천! 🛍️\n\n#일본여행 #플라잉재팬 #빅카메라 #이케부쿠로 #도쿄여행 #일본쇼핑 #가전제품 #신규오픈 #일본생활 #여행정보 #일본꿀팁 #도쿄쇼핑 #이케부쿠로역 #일본가전 #쇼핑스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#빅카메라",
-          "#이케부쿠로",
-          "#도쿄여행",
-          "#일본쇼핑",
-          "#가전제품",
-          "#신규오픈",
-          "#일본생활",
-          "#여행정보",
-          "#일본꿀팁",
-          "#도쿄쇼핑",
-          "#이케부쿠로역",
-          "#일본가전",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "이케부쿠로 빅카메라 신규 매장 오픈 안내",
-          "신규 빅카메라 매장 주소 정보",
-          "신규 빅카메라 매장 오픈 날짜",
-          "신규 빅카메라 매장의 컨셉 설명",
-          "신규 빅카메라 매장 방문 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 매장 방문 계획 유도 / 이 콘텐츠의 강점: 최신 오픈 정보, 구체적인 위치 및 오픈일 제공, 쇼핑 팁 포함",
-      "image": {
-        "keyword": "Bic Camera Ikebukuro New Store Opening",
-        "unsplash_url": "https://unsplash.com/s/photos/Bic-Camera-Ikebukuro-New-Store-Opening",
-        "pexels_url": "https://www.pexels.com/search/Bic%20Camera%20Ikebukuro%20New%20Store%20Opening/"
       }
     }
   ]
