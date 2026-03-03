@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-02T05:09:11.580926",
+  "last_updated": "2026-03-03T00:03:47.257483",
   "plans": [
+    {
+      "id": "plan_7b7dd7d3",
+      "created_at": "2026-03-03T00:03:45.257292",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "家族・グループ向けホテル「MIMARU」が心斎橋/難波に秋開業。広々2段ベッドルームやテラス付きスイートなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089883.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 신규 호텔 오픈! 가족/그룹 여행객에게 최적화된 넓은 객실과 편의 시설을 미리 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️오사카 새 호텔 오픈!",
+        "cards": [
+          {
+            "title": "2026년 가을 오픈",
+            "content": "오사카 심사이바시/난바 지역에 새로운 아파트형 호텔 'MIMARU'가 2026년 가을 오픈 예정입니다. 지금 바로 예약 가능합니다.",
+            "alt_text": "MIMARU 호텔 로고"
+          },
+          {
+            "title": "가족/그룹 맞춤",
+            "content": "넓은 2층 침대 객실과 테라스가 있는 스위트룸 등 가족이나 친구들과 함께 머물기 좋은 다양한 객실 타입을 제공합니다.",
+            "alt_text": "넓은 객실 내부 모습"
+          },
+          {
+            "title": "오사카 중심가",
+            "content": "심사이바시와 난바 지역에 위치하여 쇼핑, 관광, 미식 등 오사카의 주요 명소를 편리하게 즐길 수 있습니다.",
+            "alt_text": "오사카 번화가 지도"
+          },
+          {
+            "title": "지금 예약 가능",
+            "content": "3월 2일부터 숙박 예약이 시작되었습니다. 오픈 특가나 조기 예약 혜택을 놓치지 마세요!",
+            "alt_text": "예약 페이지 스크린샷"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "가족 단위 여행객에게 특히 추천! 예약 시 객실 타입과 인원수를 정확히 확인하고, 오픈 초기에는 예약이 빠르게 마감될 수 있으니 서두르세요.",
+            "alt_text": "여행 짐 싸는 모습"
+          }
+        ],
+        "caption": "✈️ 오사카 여행 계획 중이신가요? 2026년 가을, 심사이바시/난바에 새로운 아파트형 호텔 'MIMARU'가 오픈합니다! 👨‍👩‍👧‍👦 가족, 친구들과 함께 편안하게 머물 수 있는 넓은 객실과 편리한 위치가 장점! 💖 지금 바로 예약하고 오사카 여행을 더욱 특별하게 만들어보세요! ✨\n\n#일본여행 #오사카여행 #MIMARU #아파트형호텔 #가족여행 #그룹여행 #오사카숙소 #해외여행 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#MIMARU",
+          "#아파트형호텔",
+          "#가족여행",
+          "#그룹여행",
+          "#오사카숙소",
+          "#해외여행",
+          "#여행정보",
+          "#일본숙소",
+          "#오사카",
+          "#2026년",
+          "#신규오픈",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "MIMARU 호텔 로고",
+          "넓은 객실 내부 모습",
+          "오사카 번화가 지도",
+          "예약 페이지 스크린샷",
+          "여행 짐 싸는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 가족 단위 또는 친구와 함께 일본 오사카 여행을 계획하는 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 오픈 시기와 예약 가능 시점, 타겟 맞춤형 객실 정보 제공",
+      "image": {
+        "keyword": "Osaka hotel family suite terrace",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-hotel-family-suite-terrace",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20hotel%20family%20suite%20terrace/"
+      }
+    },
+    {
+      "id": "plan_e99f9837",
+      "created_at": "2026-03-03T00:03:39.773750",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Standard Products、初のディズニーグッズ。落ち着いたカラーリングで実用的な雑貨38種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2089885.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "다이소에서 만나는 귀여운 디즈니 굿즈! 여행 기념품으로 딱이야!"
+      },
+      "content": {
+        "thumbnail_title": "✨다이소 디즈니 굿즈 출시✨",
+        "cards": [
+          {
+            "title": "미키&프렌즈",
+            "content": "다이소의 'Standard Products'에서 처음으로 디즈니 '미키&프렌즈' 디자인 시리즈를 출시했어요. 귀여운 캐릭터들을 이제 일본 다이소에서 만날 수 있습니다.",
+            "alt_text": "미키마우스와 친구들이 그려진 디즈니 굿즈 이미지"
+          },
+          {
+            "title": "38종 신상품",
+            "content": "이번 신규 라인업은 총 38종의 실용적인 잡화로 구성되어 있습니다. 여행 중 필요한 아이템부터 기념품까지 다양하게 준비되어 있어요.",
+            "alt_text": "다양한 종류의 디즈니 굿즈들이 진열된 모습"
+          },
+          {
+            "title": "차분한 컬러",
+            "content": "디즈니 캐릭터 디자인이지만, 톤 다운된 차분한 컬러감으로 제작되어 어른들도 부담 없이 사용할 수 있습니다. 심플하고 세련된 디자인이 특징이에요.",
+            "alt_text": "차분한 색감의 디즈니 굿즈 클로즈업 사진"
+          },
+          {
+            "title": "일본 여행 필수템",
+            "content": "여행 중 필요한 파우치, 수첩, 문구류 등 실용적인 아이템들이 많아 일본 여행 기념품으로 구매하기에 좋습니다. 선물용으로도 인기가 많을 것으로 예상됩니다.",
+            "alt_text": "여행 가방에 넣기 좋은 파우치와 문구류 세트"
+          },
+          {
+            "title": "구매 팁",
+            "content": "Standard Products 매장은 다이소 매장과 별도로 운영되는 경우가 많으니 방문 전 위치를 꼭 확인하세요. 인기 상품은 조기 품절될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "Standard Products 매장 입구 또는 쇼핑하는 사람들의 모습"
+          }
+        ],
+        "caption": "일본 여행 중 귀여운 기념품을 찾고 있다면 주목! 🤩\n\n다이소의 'Standard Products'에서 '미키&프렌즈' 디자인의 디즈니 굿즈 38종이 새롭게 출시되었습니다. 💖\n\n차분한 컬러감으로 어른들도 만족할 만한 실용적인 잡화들이 가득해요. 여행 중 필요한 아이템부터 선물용까지, 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #다이소 #스탠다드프로덕츠 #디즈니 #미키마우스 #기념품 #쇼핑 #일본쇼핑 #여행준비 #여행꿀팁 #여행스타그램 #일본기념품 #미키굿즈 #디즈니굿즈",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#다이소",
+          "#스탠다드프로덕츠",
+          "#디즈니",
+          "#미키마우스",
+          "#기념품",
+          "#쇼핑",
+          "#일본쇼핑",
+          "#여행준비",
+          "#여행꿀팁",
+          "#여행스타그램",
+          "#일본기념품",
+          "#미키굿즈",
+          "#디즈니굿즈"
+        ],
+        "alt_texts": [
+          "미키마우스와 친구들이 그려진 디즈니 굿즈 이미지",
+          "다양한 종류의 디즈니 굿즈들이 진열된 모습",
+          "차분한 색감의 디즈니 굿즈 클로즈업 사진",
+          "여행 가방에 넣기 좋은 파우치와 문구류 세트",
+          "Standard Products 매장 입구 또는 쇼핑하는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 공유, 구매 욕구 자극, 댓글 문의 / 이 콘텐츠의 강점: 최신 쇼핑 정보, 가성비 좋은 아이템, 인기 캐릭터 활용",
+      "image": {
+        "keyword": "Standard Products Disney Mickey Friends merchandise, Japan Daiso shopping, cute practical goods, travel souvenirs",
+        "unsplash_url": "https://unsplash.com/s/photos/Standard-Products-Disney-Mickey-Friends-merchandise,-Japan-Daiso-shopping,-cute-practical-goods,-travel-souvenirs",
+        "pexels_url": "https://www.pexels.com/search/Standard%20Products%20Disney%20Mickey%20Friends%20merchandise,%20Japan%20Daiso%20shopping,%20cute%20practical%20goods,%20travel%20souvenirs/"
+      }
+    },
     {
       "id": "plan_388835f2",
       "created_at": "2026-03-02T05:09:09.580576",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo DisneySea, Hotel MiraCosta, Duffy and Friends, Chinese course, 25th anniversary, limited menu",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Hotel-MiraCosta,-Duffy-and-Friends,-Chinese-course,-25th-anniversary,-limited-menu",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Hotel%20MiraCosta,%20Duffy%20and%20Friends,%20Chinese%20course,%2025th%20anniversary,%20limited%20menu/"
-      }
-    },
-    {
-      "id": "plan_84acb955",
-      "created_at": "2026-02-27T05:07:29.603947",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR山陽線「手柄山平和公園駅」3月14日開業。記念式典やスタンプラリーなど開催",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2088959.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 새롭게 개통되는 JR 노선 정보를 미리 알아두세요!"
-      },
-      "content": {
-        "thumbnail_title": "JR 새 역 개통! 🚄",
-        "cards": [
-          {
-            "title": "새 역 개통!",
-            "content": "JR 서일본은 산요선에 새로운 역 '테가라야마 헤이와 코엔 역'을 3월 14일에 개통합니다. 여행 계획에 참고하세요!",
-            "alt_text": "JR 서일본 산요선 신역 '테가라야마 헤이와 코엔 역' 개통 안내"
-          },
-          {
-            "title": "개통 기념 행사",
-            "content": "개통 당일인 3월 14일 오전 10시부터 11시까지 남쪽 역 앞에서 개통 기념식이 열립니다. 이벤트 참여도 가능합니다.",
-            "alt_text": "테가라야마 헤이와 코엔 역 개통 기념식 안내"
-          },
-          {
-            "title": "스탬프 랠리",
-            "content": "개통 기념으로 스탬프 랠리도 진행될 예정이니, 일본 여행 중 소소한 재미를 더해보세요. 자세한 내용은 현지에서 확인 가능합니다.",
-            "alt_text": "테가라야마 헤이와 코엔 역 개통 기념 스탬프 랠리 안내"
-          },
-          {
-            "title": "여행 계획 시 참고",
-            "content": "새로운 역이 개통되면 주변 관광지로의 접근성이 좋아질 수 있습니다. 3월 14일 이후의 여행이라면 꼭 확인하고 동선을 짜보세요.",
-            "alt_text": "새로운 JR 역 개통으로 달라질 여행 계획"
-          },
-          {
-            "title": "이동 팁",
-            "content": "JR 패스를 이용하시는 분이라면 새로운 노선 구간도 포함되는지 미리 확인해두면 좋습니다. 3월 14일 이후 일본 여행 예정이라면 꼭 기억하세요!",
-            "alt_text": "JR 패스 이용 시 새로운 역 정보 확인 꿀팁"
-          }
-        ],
-        "caption": "일본 JR 산요선에 3월 14일 '테가라야마 헤이와 코엔 역'이 새로 개통됩니다! 🚄🎉 개통 기념식과 스탬프 랠리도 열릴 예정이니, 곧 일본 여행 가시는 분들은 꼭 참고하셔서 즐거운 여행 계획 세우세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR",
-          "#일본철도",
-          "#산요선",
-          "#테가라야마",
-          "#헤이와코엔역",
-          "#일본교통",
-          "#일본뉴스",
-          "#여행정보",
-          "#일본",
-          "#여행",
-          "#3월여행",
-          "#일본개통",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "JR 서일본 산요선 신역 '테가라야마 헤이와 코엔 역' 개통 안내",
-          "테가라야마 헤이와 코엔 역 개통 기념식 안내",
-          "테가라야마 헤이와 코엔 역 개통 기념 스탬프 랠리 안내",
-          "새로운 JR 역 개통으로 달라질 여행 계획",
-          "JR 패스 이용 시 새로운 역 정보 확인 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 3월 이후 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 습득 및 여행 계획 반영 / 이 콘텐츠의 강점: 최신 교통 정보 제공으로 실질적인 도움",
-      "image": {
-        "keyword": "JR train station opening, Japan railway, new station announcement",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-train-station-opening,-Japan-railway,-new-station-announcement",
-        "pexels_url": "https://www.pexels.com/search/JR%20train%20station%20opening,%20Japan%20railway,%20new%20station%20announcement/"
-      }
-    },
-    {
-      "id": "plan_201736af",
-      "created_at": "2026-02-27T05:07:24.567309",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】特急ゆふいんの森「ゆふいんの森 おおいた和牛弁当」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2089025.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "큐슈의 낭만 열차 '유후인노모리'에서 즐기는 특별한 규슈의 맛!"
-      },
-      "content": {
-        "thumbnail_title": "🚂 유후인노모리 먹방 🍱",
-        "cards": [
-          {
-            "title": "특급 유후인노모리",
-            "content": "하카타와 벳푸/유후인 온천지를 잇는 '유후인노모리' 열차는 단순한 이동 수단이 아닌, 일본의 'D&S(디자인&스토리)' 열차로 특별한 경험을 선사합니다.",
-            "alt_text": "유후인노모리 열차 외관"
-          },
-          {
-            "title": "한정 메뉴 공개!",
-            "content": "이번 주말 한정으로 '유후인노모리 오이타 와규 도시락'이 출시되었습니다. 규슈의 신선한 재료로 만든 특별한 도시락을 맛볼 기회입니다.",
-            "alt_text": "유후인노모리 오이타 와규 도시락 이미지"
-          },
-          {
-            "title": "오이타 와규 도시락",
-            "content": "풍미 가득한 오이타 와규와 지역 특산물을 담은 이 도시락은 열차 여행의 즐거움을 더해줄 것입니다.",
-            "alt_text": "도시락 상세 이미지"
-          },
-          {
-            "title": "예약은 필수!",
-            "content": "이 특별한 도시락은 열차 내에서만 구매 가능하며, 인기 메뉴이므로 미리 예약하거나 열차 탑승 전 문의하는 것이 좋습니다.",
-            "alt_text": "열차 내 식사 공간 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "주말 한정 메뉴인 만큼, 유후인노모리 탑승 계획이 있다면 놓치지 말고 특별한 미식 경험을 즐겨보세요. 여행의 특별한 추억이 될 거예요.",
-            "alt_text": "창밖 풍경을 보며 식사하는 모습"
-          }
-        ],
-        "caption": "🚂 JR 큐슈의 낭만 열차, '유후인노모리'에서 즐기는 특별한 미식 경험! 🍱\n\n이번 주말, '유후인노모리 오이타 와규 도시락'이 한정 출시됩니다. 🤩\n\n하카타-벳푸/유후인을 잇는 이 특별한 열차에서 규슈의 신선한 재료로 만든 와규 도시락을 맛보세요! 🥩\n\n여행의 즐거움을 더할 최고의 선택! 💯\n\n#유후인노모리 #오이타와규 #규슈여행 #일본기차여행 #일본한정판 #도시락맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유후인노모리",
-          "#JR큐슈",
-          "#일본기차",
-          "#일본도시락",
-          "#오이타",
-          "#와규",
-          "#규슈여행",
-          "#주말한정",
-          "#여행꿀팁",
-          "#일본미식",
-          "#열차여행",
-          "#일본음식",
-          "#기차여행"
-        ],
-        "alt_texts": [
-          "유후인노모리 열차 외관",
-          "유후인노모리 오이타 와규 도시락 이미지",
-          "도시락 상세 이미지",
-          "열차 내 식사 공간 이미지",
-          "창밖 풍경을 보며 식사하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 큐슈 지역 방문 예정인 20-40대 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시 / 기대 반응: 예약 문의 증가, 열차 탑승 관심 증대 / 이 콘텐츠의 강점: 희소성 있는 한정 메뉴 정보, 특별한 열차 경험 강조",
-      "image": {
-        "keyword": "Yufuin no Mori train, Japanese bento box, Oita wagyu, Kyushu travel, Japanese train food",
-        "unsplash_url": "https://unsplash.com/s/photos/Yufuin-no-Mori-train,-Japanese-bento-box,-Oita-wagyu,-Kyushu-travel,-Japanese-train-food",
-        "pexels_url": "https://www.pexels.com/search/Yufuin%20no%20Mori%20train,%20Japanese%20bento%20box,%20Oita%20wagyu,%20Kyushu%20travel,%20Japanese%20train%20food/"
       }
     }
   ]
