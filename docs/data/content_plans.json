@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-03T00:03:47.257483",
+  "last_updated": "2026-03-03T05:08:20.822868",
   "plans": [
+    {
+      "id": "plan_a0162488",
+      "created_at": "2026-03-03T05:08:18.822686",
+      "category": "transport",
+      "priority": "low",
+      "status": "new",
+      "source": {
+        "title": "ANA、今日で国際線40周年。井上社長「困難な時代だからこそ確かな安全で世界をつなぎ続ける」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090048.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "하",
+        "appeal": "ANA 국제선 40주년! 안전하고 편리한 일본 여행의 든든한 동반자!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 국제선 40주년!",
+        "cards": [
+          {
+            "title": "ANA 국제선 40주년",
+            "content": "ANA는 3월 3일, 국제선 운항 40주년을 기념하는 특별한 행사를 성남 공항에서 진행했습니다. ✈️",
+            "alt_text": "ANA 항공기 사진"
+          },
+          {
+            "title": "안전한 여행 약속",
+            "content": "ANA의 이노우에 사장은 '어려운 시기일수록 변함없는 안전으로 세상을 연결하겠다'는 의지를 밝혔습니다. 💖",
+            "alt_text": "ANA 임직원 기념 사진"
+          },
+          {
+            "title": "믿음직한 항공사",
+            "content": "40년 동안 쌓아온 ANA의 안전 운항 경험은 한국인 여행객에게 더욱 편안하고 든든한 일본 여행을 선사할 것입니다. 👍",
+            "alt_text": "ANA 승무원 안내 사진"
+          },
+          {
+            "title": "일본 여행의 시작",
+            "content": "일본으로 떠나는 당신의 다음 여행, ANA와 함께라면 더욱 특별해질 거예요! 🌟",
+            "alt_text": "일본 상공을 나는 ANA 항공기"
+          },
+          {
+            "title": "꿀팁",
+            "content": "ANA 항공권 예약 시, 미리 수하물 규정과 기내 서비스 정보를 확인하면 더욱 스마트한 여행 계획이 가능합니다. 😉",
+            "alt_text": "ANA 항공권 예약 화면"
+          }
+        ],
+        "caption": "✈️ ANA 국제선 40주년 기념! ✈️\n\n안전과 신뢰를 바탕으로 40년간 전 세계를 연결해온 ANA가 특별한 날을 맞이했습니다!\n\n어려운 시기일수록 더욱 굳건한 안전으로 여러분의 일본 여행을 책임지겠다는 ANA의 약속, 믿음직스럽지 않나요?\n\n다음 일본 여행, ANA와 함께 편안하고 안전하게 떠나보세요! 💖\n\n#일본여행 #ANA #항공사 #안전여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#항공사",
+          "#일본항공",
+          "#안전여행",
+          "#여행정보",
+          "#일본",
+          "#항공권",
+          "#여행스타그램",
+          "#성남공항",
+          "#국제선",
+          "#여행팁",
+          "#일본가고싶다",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "ANA 항공기 사진",
+          "ANA 임직원 기념 사진",
+          "ANA 승무원 안내 사진",
+          "일본 상공을 나는 ANA 항공기",
+          "ANA 항공권 예약 화면"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 신뢰도 상승, 예약 고려 증대 / 이 콘텐츠의 강점: 항공사의 오랜 역사와 안전성을 강조하여 신뢰감 구축",
+      "image": {
+        "keyword": "ANA airplane, Japan travel, airport ceremony, airline safety",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Japan-travel,-airport-ceremony,-airline-safety",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Japan%20travel,%20airport%20ceremony,%20airline%20safety/"
+      }
+    },
+    {
+      "id": "plan_2f4d0963",
+      "created_at": "2026-03-03T05:08:12.932848",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「au PAY（コード支払い）」海外で利用可能に。韓国の30万店舗以上皮切りに対応エリア拡大、Pontaポイントもたまる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090071.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 간편하게 결제하고 포인트까지 적립할 수 있는 au PAY 소식!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 au PAY, 해외 결제 가능! 💳",
+        "cards": [
+          {
+            "title": "au PAY 해외 결제",
+            "content": "3월 초부터 한국에서 au PAY(코드 결제) 이용이 가능해졌어요! 일본 여행 중 결제가 더욱 편리해집니다.",
+            "alt_text": "au PAY 로고와 함께 해외 결제 가능 안내 이미지"
+          },
+          {
+            "title": "결제 가능 매장",
+            "content": "현재 한국 내 30만 개 이상의 매장에서 au PAY 결제가 가능하며, 앞으로 지원 국가가 확대될 예정입니다.",
+            "alt_text": "한국 지도에 au PAY 가맹점 표시 이미지"
+          },
+          {
+            "title": "포인트 적립",
+            "content": "au PAY 결제 시 Ponta 포인트가 적립되어, 다음 여행이나 쇼핑에 활용할 수 있어요.",
+            "alt_text": "Ponta 포인트 로고와 함께 적립 안내 이미지"
+          },
+          {
+            "title": "일본 내 확대 기대",
+            "content": "4월 이후 스마트폰 결제가 보급된 일본 내 여러 지역으로 au PAY 서비스 확대가 기대됩니다. (확정 정보 아님, 기대 사항)",
+            "alt_text": "일본 지도에 au PAY 확대 예상 지역 표시 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "일본 여행 전 au PAY 앱에서 해외 결제 가능 여부와 이용 방법을 미리 확인하고, 결제 수수료를 체크하세요!",
+            "alt_text": "스마트폰으로 au PAY 앱을 사용하는 모습 이미지"
+          }
+        ],
+        "caption": "✨일본 여행 필수템! au PAY 해외 결제 시작!✨\n\n이제 한국에서도, 곧 일본에서도! 🇯🇵 au PAY(코드 결제)가 해외에서 사용 가능해졌습니다.\n\n✅ 3월 초부터 한국 30만 개 매장 우선 지원!\n✅ Ponta 포인트 적립으로 알뜰하게!\n✅ 4월 이후 일본 내 지원 확대 기대!\n\n일본 여행 중 간편 결제와 포인트 적립, 모두 잡으세요! 💯\n\n#auPAY #해외결제 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#auPAY",
+          "#일본결제",
+          "#해외결제",
+          "#일본여행준비",
+          "#일본여행꿀팁",
+          "#일본쇼핑",
+          "#일본맛집",
+          "#여행정보",
+          "#스마트결제",
+          "#Ponta포인트",
+          "#해외여행",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "au PAY 로고와 함께 해외 결제 가능 안내 이미지",
+          "한국 지도에 au PAY 가맹점 표시 이미지",
+          "Ponta 포인트 로고와 함께 적립 안내 이미지",
+          "일본 지도에 au PAY 확대 예상 지역 표시 이미지",
+          "스마트폰으로 au PAY 앱을 사용하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 정보 유용성, 결제 편의성에 대한 긍정적 반응 / 이 콘텐츠의 강점: 실질적인 결제 편의성 증진 정보 제공",
+      "image": {
+        "keyword": "au PAY, Japan travel, payment, convenience, point",
+        "unsplash_url": "https://unsplash.com/s/photos/au-PAY,-Japan-travel,-payment,-convenience,-point",
+        "pexels_url": "https://www.pexels.com/search/au%20PAY,%20Japan%20travel,%20payment,%20convenience,%20point/"
+      }
+    },
     {
       "id": "plan_7b7dd7d3",
       "created_at": "2026-03-03T00:03:45.257292",
@@ -923,160 +1077,6 @@
         "keyword": "Kyoto temple, Fushimi Inari Shrine, Kinkaku-ji, Kiyomizu-dera, Toyotomi Hideyoshi historical site",
         "unsplash_url": "https://unsplash.com/s/photos/Kyoto-temple,-Fushimi-Inari-Shrine,-Kinkaku-ji,-Kiyomizu-dera,-Toyotomi-Hideyoshi-historical-site",
         "pexels_url": "https://www.pexels.com/search/Kyoto%20temple,%20Fushimi%20Inari%20Shrine,%20Kinkaku-ji,%20Kiyomizu-dera,%20Toyotomi%20Hideyoshi%20historical%20site/"
-      }
-    },
-    {
-      "id": "plan_eda5e058",
-      "created_at": "2026-02-27T23:58:26.941372",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーシーの人気スイーツ「ダッフィークッキーサンド」がフローズンセレクションに仲間入り！　自宅でも味わえるって",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2089405.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 한정판 디저트! 💖"
-      },
-      "content": {
-        "thumbnail_title": "디즈니씨 신상 디저트! 🍦",
-        "cards": [
-          {
-            "title": "신상 디저트",
-            "content": "도쿄 디즈니씨 인기 디저트 '더피 쿠키 샌드'가 '프로즌 셀렉션'에 새롭게 추가되었습니다. 집에서도 디즈니 감성을 느낄 수 있어요!",
-            "alt_text": "도쿄 디즈니씨에서 판매하는 더피 쿠키 샌드"
-          },
-          {
-            "title": "달콤한 맛",
-            "content": "이번 신상 디저트는 달콤한 캐러멜 크림이 샌드된 쿠키 샌드로, 남녀노소 누구나 좋아할 맛입니다.",
-            "alt_text": "더피 쿠키 샌드 단면 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "3개입 세트 가격은 2,000엔입니다. 소중한 사람과 함께 나눠 먹기 좋아요.",
-            "alt_text": "더피 쿠키 샌드 3개입 포장 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "프로즌 셀렉션은 냉동 상태로 판매되어 한국까지 가져가기 용이합니다. 여행 마지막 날 구매를 추천해요!",
-            "alt_text": "냉동 보관된 더피 쿠키 샌드 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "한정 메뉴는 조기 품절될 수 있으니, 디즈니씨 방문 계획이 있다면 서둘러 구매하세요!",
-            "alt_text": "디즈니씨 매장 입구 이미지"
-          }
-        ],
-        "caption": "디즈니 덕후들 주목! 📢 도쿄 디즈니씨 인기 디저트 '더피 쿠키 샌드'가 프로즌 셀렉션으로 새롭게 출시되었어요! 💖 3개입 세트 2,000엔으로, 달콤한 캐러멜 크림이 듬뿍! 🍦 한국까지 가져갈 수 있으니 여행 마지막 날 득템 찬스 놓치지 마세요! ✨\n\n#디즈니랜드 #디즈니씨 #도쿄디즈니씨 #더피 #디즈니디저트 #프로즌셀렉션 #일본여행 #도쿄여행 #여행디저트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#더피쿠키샌드",
-          "#디즈니디저트",
-          "#프로즌셀렉션",
-          "#도쿄여행",
-          "#일본디저트",
-          "#한정메뉴",
-          "#여행필수템",
-          "#디즈니덕후",
-          "#일본쇼핑",
-          "#여행정보",
-          "#먹스타그램"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니씨에서 판매하는 더피 쿠키 샌드",
-          "더피 쿠키 샌드 단면 이미지",
-          "더피 쿠키 샌드 3개입 포장 이미지",
-          "냉동 보관된 더피 쿠키 샌드 이미지",
-          "디즈니씨 매장 입구 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 2030 여성 여행객 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 좋아요 및 저장 수, 댓글 문의 증가 / 이 콘텐츠의 강점: 신상 한정 메뉴 정보로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "Tokyo DisneySea Duffy cookie sandwich frozen selection",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Duffy-cookie-sandwich-frozen-selection",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Duffy%20cookie%20sandwich%20frozen%20selection/"
-      }
-    },
-    {
-      "id": "plan_298e8942",
-      "created_at": "2026-02-27T23:58:21.206270",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーホテル、ディズニーシー25周年連動の限定ダッフィーメニュー発表。贅沢中華コースでお祝いしよう！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2089408.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니씨 25주년 기념, 다키마쿠라와 함께하는 럭셔리 중식 코스!"
-      },
-      "content": {
-        "thumbnail_title": "🍣디즈니씨 25주년 기념 🍣",
-        "cards": [
-          {
-            "title": "특별 코스",
-            "content": "도쿄 디즈니씨 호텔 미라코스타의 '실크로드 가든'에서 다키마쿠라 & 프렌즈 신 스토리에 맞춰 럭셔리 중식 코스를 선보입니다.",
-            "alt_text": "호텔 미라코스타 레스토랑 실크로드 가든 내부 모습"
-          },
-          {
-            "title": "기간 한정",
-            "content": "이 특별한 메뉴는 2024년 4월 14일부터 7월 6일까지 기간 한정으로 즐길 수 있습니다.",
-            "alt_text": "행사 기간을 나타내는 캘린더 이미지"
-          },
-          {
-            "title": "축하 메뉴",
-            "content": "디즈니씨 25주년을 기념하며, 다키마쿠라와 친구들과 함께 특별한 식사를 경험해 보세요.",
-            "alt_text": "다키마쿠라 캐릭터와 함께하는 식사 이미지"
-          },
-          {
-            "title": "럭셔리 중식",
-            "content": "고급스러운 중식 코스로 25주년의 기쁨을 더할 수 있는 절호의 기회입니다.",
-            "alt_text": "고급스러운 중식 요리 사진"
-          },
-          {
-            "title": "예약 필수",
-            "content": "인기 메뉴인 만큼 예약은 필수! 미리 예약하여 소중한 추억을 만드세요.",
-            "alt_text": "예약 버튼이 있는 스마트폰 화면 이미지"
-          }
-        ],
-        "caption": "✨디즈니씨 25주년, 놓칠 수 없는 특별한 경험!✨\n호텔 미라코스타 '실크로드 가든'에서 다키마쿠라 & 프렌즈와 함께하는 럭셔리 중식 코스가 4월 14일부터 7월 6일까지 한정 판매됩니다! 💖\n잊지 못할 디즈니씨 25주년 기념 만찬을 즐겨보세요! 🍣\n\n#디즈니씨 #호텔미라코스타 #다키마쿠라 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨25주년",
-          "#호텔미라코스타",
-          "#실크로드가든",
-          "#다키마쿠라",
-          "#디즈니맛집",
-          "#일본디저트",
-          "#일본호텔",
-          "#도쿄여행",
-          "#해외여행",
-          "#여행정보",
-          "#여행꿀팁",
-          "#기간한정"
-        ],
-        "alt_texts": [
-          "호텔 미라코스타 레스토랑 실크로드 가든 내부 모습",
-          "행사 기간을 나타내는 캘린더 이미지",
-          "다키마쿠라 캐릭터와 함께하는 식사 이미지",
-          "고급스러운 중식 요리 사진",
-          "예약 버튼이 있는 스마트폰 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 디즈니랜드/디즈니씨 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 (저녁 식사 계획 시점) / 기대 반응: 예약 문의 증가, 공유 및 저장 / 이 콘텐츠의 강점: 명확한 기간, 매력적인 콜라보, 고급 레스토랑 정보 제공",
-      "image": {
-        "keyword": "Tokyo DisneySea, Hotel MiraCosta, Duffy and Friends, Chinese course, 25th anniversary, limited menu",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Hotel-MiraCosta,-Duffy-and-Friends,-Chinese-course,-25th-anniversary,-limited-menu",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Hotel%20MiraCosta,%20Duffy%20and%20Friends,%20Chinese%20course,%2025th%20anniversary,%20limited%20menu/"
       }
     }
   ]
