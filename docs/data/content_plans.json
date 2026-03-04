@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-04T00:02:57.829630",
+  "last_updated": "2026-03-04T05:00:50.349515",
   "plans": [
+    {
+      "id": "plan_45de6ffb",
+      "created_at": "2026-03-04T05:00:48.349332",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "温泉宿「TAOYA」のアフタヌーンティーが全国12施設に拡大。追加料金なしで絞りたてモンブランや季節のスイーツ食べ放題",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090212.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "추가 요금 없이 즐기는 일본 온천 호텔의 고급 애프터눈 티!"
+      },
+      "content": {
+        "thumbnail_title": "온천호텔 💖 무제한 애프터눈 티!",
+        "cards": [
+          {
+            "title": "TAOYA 확대",
+            "content": "일본 전국 12개 'TAOYA' 료칸에서 애프터눈 티와 나이트 애프터눈 티를 즐길 수 있게 되었어요. 🏨",
+            "alt_text": "일본 료칸 외관 이미지"
+          },
+          {
+            "title": "무제한 디저트",
+            "content": "별도 추가 요금 없이 신선하게 짜낸 몽블랑과 제철 디저트를 마음껏 맛보세요. 🍰",
+            "alt_text": "다양한 디저트가 진열된 테이블 이미지"
+          },
+          {
+            "title": "나이트 타임",
+            "content": "저녁 시간대에는 나이트 애프터눈 티도 운영하니, 로맨틱한 저녁 시간을 계획해 보세요. 🌙",
+            "alt_text": "야경이 보이는 료칸 내부 이미지"
+          },
+          {
+            "title": "전국 12곳",
+            "content": "10곳에서 시작해 이제 총 12곳의 TAOYA 료칸에서 경험 가능합니다. 방문 전 꼭 확인하세요! ✅",
+            "alt_text": "일본 지도에 료칸 위치 표시 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 있는 료칸은 예약이 빨리 마감될 수 있으니, 여행 계획 시 미리 예약하는 것을 추천합니다. ✍️",
+            "alt_text": "예약 확인하는 스마트폰 화면 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 경험을 원한다면? ✨ 전국 12개 'TAOYA' 료칸에서 추가 요금 없이 즐기는 럭셔리 애프터눈 티를 놓치지 마세요! 💖 신선한 몽블랑부터 제철 디저트까지 무제한으로 맛볼 수 있답니다. 🍰 로맨틱한 나이트 애프터눈 티도 준비되어 있어요. 🌙\n\n#일본온천여행 #료칸추천 #애프터눈티 #TAOYA #여행꿀팁 #일본여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#료칸",
+          "#애프터눈티",
+          "#TAOYA",
+          "#일본숙소",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#일본디저트",
+          "#몽블랑",
+          "#여행정보",
+          "#일본여행계획",
+          "#힐링여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본 료칸 외관 이미지",
+          "다양한 디저트가 진열된 테이블 이미지",
+          "야경이 보이는 료칸 내부 이미지",
+          "일본 지도에 료칸 위치 표시 이미지",
+          "예약 확인하는 스마트폰 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 료칸 숙박을 계획 중인 20-40대 여성 여행객 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: '이런 혜택이 있다니!', '꼭 가봐야겠다!' 등의 긍정적인 반응 및 예약 문의 / 이 콘텐츠의 강점: 별도 요금 없이 제공되는 고급 디저트 경험이라는 명확한 혜택 강조",
+      "image": {
+        "keyword": "Japanese onsen ryokan afternoon tea dessert buffet",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-ryokan-afternoon-tea-dessert-buffet",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20ryokan%20afternoon%20tea%20dessert%20buffet/"
+      }
+    },
+    {
+      "id": "plan_4e79c840",
+      "created_at": "2026-03-04T05:00:41.647162",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ロゴス、消音機能付き「熊ベル」。電車移動や街なかでも気軽に携帯、災害時のSOSにも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090232.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 만날 수 있는 예상치 못한 상황에 대한 안전 대비책!"
+      },
+      "content": {
+        "thumbnail_title": "🚨일본 여행 필수템! 🐻🌲",
+        "cards": [
+          {
+            "title": "새로운 🐻 벨 출시",
+            "content": "아웃도어 브랜드 로고스에서 'LOGOS 熊ベル-BF'를 출시했습니다. 이 제품은 소음 기능이 있어 필요할 때만 벨 소리를 낼 수 있습니다.",
+            "alt_text": "로고스 곰 벨 제품 이미지"
+          },
+          {
+            "title": "가격은 1,870엔",
+            "content": "여행 중 부담 없이 구매하고 휴대할 수 있는 가격입니다. 일본 현지 편의점이나 아웃도어 매장에서 찾아볼 수 있습니다.",
+            "alt_text": "제품 가격 정보가 표시된 이미지"
+          },
+          {
+            "title": "다양한 활용법",
+            "content": "이 곰 벨은 일본 내 산행뿐만 아니라, 전철 이동이나 도심에서도 간편하게 휴대하며 사용할 수 있습니다.",
+            "alt_text": "전철 안에서 곰 벨을 휴대하는 모습"
+          },
+          {
+            "title": "재난 시 SOS",
+            "content": "예상치 못한 재난 상황 발생 시, SOS 신호용으로도 활용 가능하여 안전에 대비할 수 있습니다.",
+            "alt_text": "비상 상황에서 곰 벨을 이용해 신호를 보내는 모습"
+          },
+          {
+            "title": "여행 꿀팁!",
+            "content": "일본의 자연을 만끽하는 것도 좋지만, 예상치 못한 상황에 대비해 안전 용품을 챙기는 것을 잊지 마세요! 🐻",
+            "alt_text": "일본 여행 중 안전을 위해 곰 벨을 챙기는 모습"
+          }
+        ],
+        "caption": "🐻🌲 일본 여행 중 예상치 못한 상황에 대비하세요!\n\n아웃도어 브랜드 로고스에서 소음 기능이 있는 'LOGOS 熊ベル-BF' (1,870엔)를 출시했어요!\n\n산행뿐만 아니라 전철 이동, 도심에서도 간편하게 휴대 가능하고, 재난 시 SOS 신호용으로도 활용할 수 있답니다.\n\n안전하고 즐거운 일본 여행을 위해 미리 준비해보세요! ✈️\n\n#일본여행 #안전여행 #일본필수템 #로고스 #곰벨 #여행준비 #일본안전",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본안전",
+          "#일본준비물",
+          "#일본필수템",
+          "#곰벨",
+          "#로고스",
+          "#일본생활",
+          "#안전여행",
+          "#여행스타그램",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본쇼핑",
+          "#해외여행",
+          "#여행"
+        ],
+        "alt_texts": [
+          "로고스 곰 벨 제품 이미지",
+          "제품 가격 정보가 표시된 이미지",
+          "전철 안에서 곰 벨을 휴대하는 모습",
+          "비상 상황에서 곰 벨을 이용해 신호를 보내는 모습",
+          "일본 여행 중 안전을 위해 곰 벨을 챙기는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 안전에 대한 관심 증대, 실제 구매 고려 / 이 콘텐츠의 강점: 실질적인 안전 정보 제공, 비교적 저렴한 가격 정보",
+      "image": {
+        "keyword": "Japanese traveler, bear bell, safety equipment, outdoor gear, Japan travel essentials, emergency signal, LOGOS brand",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-traveler,-bear-bell,-safety-equipment,-outdoor-gear,-Japan-travel-essentials,-emergency-signal,-LOGOS-brand",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20traveler,%20bear%20bell,%20safety%20equipment,%20outdoor%20gear,%20Japan%20travel%20essentials,%20emergency%20signal,%20LOGOS%20brand/"
+      }
+    },
     {
       "id": "plan_80245dc1",
       "created_at": "2026-03-04T00:02:55.829410",
@@ -923,160 +1077,6 @@
         "keyword": "JAL, Japanese whisky, limited edition, Kanosuke, travel souvenir, duty free",
         "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japanese-whisky,-limited-edition,-Kanosuke,-travel-souvenir,-duty-free",
         "pexels_url": "https://www.pexels.com/search/JAL,%20Japanese%20whisky,%20limited%20edition,%20Kanosuke,%20travel%20souvenir,%20duty%20free/"
-      }
-    },
-    {
-      "id": "plan_13566fdc",
-      "created_at": "2026-02-28T23:53:02.631516",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "青色さがし中のダッフィーがミニスナックケースに！　ダッフィー＆フレンズの新作フードスーベニアの詳細発表",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2089406.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니랜드에서만 만날 수 있는 귀여운 다키마쿠라 신상! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "💙블루 다키마쿠라💙 4/14 출시!",
-        "cards": [
-          {
-            "title": "신상 공개!",
-            "content": "도쿄 디즈니씨에서 '다키마쿠라&프렌즈의 파인드 유어 뷰티풀 블루!' 디자인의 신상 푸드와 수제니어가 4월 14일에 발매됩니다.",
-            "alt_text": "파란색 테마의 다키마쿠라와 친구들 신상 푸드와 수제니어 이미지"
-          },
-          {
-            "title": "다키마쿠라 굿즈",
-            "content": "이번 신상은 '파인드 유어 뷰티풀 블루!' 테마로, 파란색을 테마로 한 귀여운 다키마쿠라와 친구들의 굿즈들을 만나볼 수 있습니다.",
-            "alt_text": "파란색 다키마쿠라 인형과 친구들 굿즈 이미지"
-          },
-          {
-            "title": "한정 푸드",
-            "content": "신상 푸드로는 파란색을 테마로 한 특별한 메뉴들이 준비되어 있으며, 디즈니씨에서만 맛볼 수 있는 한정판입니다.",
-            "alt_text": "파란색 테마의 디저트 또는 음료 이미지"
-          },
-          {
-            "title": "기념품 추천",
-            "content": "여행 기념품으로 소중한 사람들에게 선물하기 좋은 다키마쿠라와 친구들 굿즈들을 다양하게 만나보세요.",
-            "alt_text": "다양한 다키마쿠라 굿즈 진열 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기가 많을 것으로 예상되니, 4월 14일 출시 당일에 방문하거나 오픈런을 준비하는 것이 좋습니다. 자세한 상품 정보는 방문 전 공식 홈페이지를 확인하세요.",
-            "alt_text": "디즈니씨 입구 또는 파크 내부 전경 이미지"
-          }
-        ],
-        "caption": "💙 도쿄 디즈니씨 '블루' 테마 신상 출시! 💙\n\n4월 14일부터 '다키마쿠라&프렌즈의 파인드 유어 뷰티풀 블루!' 테마의 귀여운 푸드와 수제니어가 여러분을 기다립니다!\n\n파란색으로 물든 다키마쿠라와 친구들의 특별한 굿즈와 한정 푸드를 놓치지 마세요!\n\n✨ 지금 바로 여행 계획 세우고 디즈니씨에서 인생샷 남겨보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#다키마쿠라",
-          "#디즈니랜드",
-          "#디즈니굿즈",
-          "#신상",
-          "#한정판",
-          "#여행스타그램",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#디즈니",
-          "#여행정보",
-          "#4월여행",
-          "#일본"
-        ],
-        "alt_texts": [
-          "파란색 테마의 다키마쿠라와 친구들 신상 푸드와 수제니어 이미지",
-          "파란색 다키마쿠라 인형과 친구들 굿즈 이미지",
-          "파란색 테마의 디저트 또는 음료 이미지",
-          "다양한 다키마쿠라 굿즈 진열 이미지",
-          "디즈니씨 입구 또는 파크 내부 전경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 디즈니랜드 방문 예정인 20-30대 여성 여행객 / 최적 게시 시간: 평일 저녁 8시~10시 / 기대 반응: 높은 참여율 (댓글, 저장), 상품 문의 증가 / 이 콘텐츠의 강점: 최신 정보, 시각적 매력, 구매 욕구 자극",
-      "image": {
-        "keyword": "Tokyo DisneySea Duffy and Friends 'Find Your Beautiful Blue!' new food souvenir blue theme character plush merchandise limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Duffy-and-Friends-'Find-Your-Beautiful-Blue!'-new-food-souvenir-blue-theme-character-plush-merchandise-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Duffy%20and%20Friends%20'Find%20Your%20Beautiful%20Blue!'%20new%20food%20souvenir%20blue%20theme%20character%20plush%20merchandise%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_b489a3fd",
-      "created_at": "2026-02-28T23:52:55.019190",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR7日間乗り放題「北海道＆東日本パス」春季利用は3月1日から。大人1万1530円",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2087828.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "봄 시즌 일본 전국을 누비고 싶다면 주목! 7일 무제한 JR 패스로 알뜰하게 여행하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🌸7일 무제한 JR패스🌸",
-        "cards": [
-          {
-            "title": "개시일",
-            "content": "JR '홋카이도 & 동일본 패스' 봄 시즌 이용이 3월 1일부터 시작됩니다. 4월 16일까지 판매 예정이니 서두르세요!",
-            "alt_text": "봄 시즌 JR 패스 개시일 안내"
-          },
-          {
-            "title": "가격",
-            "content": "성인 기준 11,530엔으로, 7일 동안 JR홋카이도 및 JR 동일본 노선을 무제한으로 이용할 수 있습니다.",
-            "alt_text": "JR 패스 가격 정보"
-          },
-          {
-            "title": "이용 기간",
-            "content": "3월 1일부터 이용 가능하며, 4월 16일까지 구매할 수 있습니다. 봄 여행 계획에 딱 맞춰 이용하세요!",
-            "alt_text": "JR 패스 이용 기간 안내"
-          },
-          {
-            "title": "구매처",
-            "content": "주요 역, 지정석권 발매기, 주요 여행사를 통해 구매 가능합니다.",
-            "alt_text": "JR 패스 구매처 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "JR 동일본과 JR 홋카이도 지역을 광범위하게 여행할 수 있는 절호의 기회! 7일 동안 알차게 계획해서 뽕 뽑으세요!",
-            "alt_text": "JR 패스 활용 꿀팁"
-          }
-        ],
-        "caption": "일본 봄 여행, 어디까지 가봤니? 🌸\nJR 7일 무제한 '홋카이도 & 동일본 패스'가 3월 1일부터 개시돼요!\n성인 11,530엔으로 7일간 JR홋카이도와 JR 동일본 전 노선을 마음껏 이용할 수 있다는 사실!\n봄꽃 구경부터 아름다운 풍경까지, 이 패스 하나로 알뜰하게 일본 전국을 누벼보세요!\n\n#일본여행 #JR패스 #홋카이도여행 #동일본여행 #봄여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR패스",
-          "#홋카이도여행",
-          "#동일본여행",
-          "#일본교통",
-          "#봄여행",
-          "#일본알뜰여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#JR",
-          "#일본철도",
-          "#여행꿀팁",
-          "#일본"
-        ],
-        "alt_texts": [
-          "봄 시즌 JR 패스 개시일 안내",
-          "JR 패스 가격 정보",
-          "JR 패스 이용 기간 안내",
-          "JR 패스 구매처 안내",
-          "JR 패스 활용 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 봄 시즌 장거리 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 패스 구매 의사 증가, 댓글 문의 활발 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 이용 범위 명시로 실질적인 정보 제공",
-      "image": {
-        "keyword": "JR Hokkaido and East Japan Pass, Japan travel, spring season, unlimited train pass",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Hokkaido-and-East-Japan-Pass,-Japan-travel,-spring-season,-unlimited-train-pass",
-        "pexels_url": "https://www.pexels.com/search/JR%20Hokkaido%20and%20East%20Japan%20Pass,%20Japan%20travel,%20spring%20season,%20unlimited%20train%20pass/"
       }
     }
   ]
