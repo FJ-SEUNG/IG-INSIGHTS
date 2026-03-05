@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-04T05:00:50.349515",
+  "last_updated": "2026-03-05T00:04:23.975560",
   "plans": [
+    {
+      "id": "plan_2ae11e72",
+      "created_at": "2026-03-05T00:04:21.975370",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "三井ガーデンホテルズ・sequence、iPhoneやApple Watchの「ウォレット」がルームキーに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090544.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "아이폰, 애플워치로 호텔 문을 여는 신기술!"
+      },
+      "content": {
+        "thumbnail_title": " hotel 🔑 wallet",
+        "cards": [
+          {
+            "title": "신규 서비스",
+            "content": "일본 3개 호텔에서 3월 4일부터 아이폰, 애플워치로 객실 키 사용 가능!",
+            "alt_text": "아이폰으로 호텔 객실 문을 여는 모습"
+          },
+          {
+            "title": "대상 호텔",
+            "content": "긴자 프리미어, 시퀀스 미야시타파크, 시퀀스 수도바시 3개 지점에서 서비스 제공",
+            "alt_text": "호텔 외관 이미지"
+          },
+          {
+            "title": "이용 방법",
+            "content": "애플 월렛에 호텔 키를 추가하여 간편하게 사용 가능",
+            "alt_text": "애플 월렛에 추가된 호텔 키 이미지"
+          },
+          {
+            "title": "편의성 UP!",
+            "content": "무거운 카드 키 없이 스마트폰 하나로 편리하게 호텔 이용",
+            "alt_text": "스마트폰을 들고 호텔 복도를 걷는 사람"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 전 호텔 예약 시, 애플 월렛 키 서비스 지원 여부 확인하면 더욱 편리한 여행 가능!",
+            "alt_text": "호텔 예약 페이지 이미지"
+          }
+        ],
+        "caption": "✨일본 여행, 더욱 스마트하게 즐겨보세요!✨\n\n긴자 프리미어, 시퀀스 미야시타파크, 시퀀스 수도바시 3개 호텔에서 3월 4일부터 아이폰과 애플워치로 객실 키 사용이 가능해졌어요! 🤩\n\n애플 월렛에 호텔 키를 추가하면 카드 없이도 편리하게 객실 출입이 가능하답니다.\n\n여행의 편리함을 더해줄 새로운 기술, 놓치지 마세요!\n\n#일본호텔 #아이폰호텔키 #애플워치호텔키 #스마트여행 #플라잉재팬 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본호텔",
+          "#아이폰",
+          "#애플워치",
+          "#호텔키",
+          "#스마트여행",
+          "#도쿄여행",
+          "#긴자",
+          "#시부야",
+          "#여행꿀팁",
+          "#일본숙소",
+          "#호텔추천",
+          "#일본정보",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "아이폰으로 호텔 객실 문을 여는 모습",
+          "호텔 외관 이미지",
+          "애플 월렛에 추가된 호텔 키 이미지",
+          "스마트폰을 들고 호텔 복도를 걷는 사람",
+          "호텔 예약 페이지 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 최신 기술에 관심 있는 20-40대 일본 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 습득 및 공유, 기대감 상승 / 이 콘텐츠의 강점: 최신 기술 도입 소식을 발 빠르게 전달하여 얼리어답터에게 어필",
+      "image": {
+        "keyword": "iPhone Apple Watch hotel room key",
+        "unsplash_url": "https://unsplash.com/s/photos/iPhone-Apple-Watch-hotel-room-key",
+        "pexels_url": "https://www.pexels.com/search/iPhone%20Apple%20Watch%20hotel%20room%20key/"
+      }
+    },
+    {
+      "id": "plan_799d9562",
+      "created_at": "2026-03-05T00:04:16.823511",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東急世田谷線、1日乗車券「世田谷線散策きっぷ」を100円に。開通100周年記念で",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090549.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 근교 가성비 만점! 100주년 기념 100엔으로 즐기는 특별한 열차 티켓!"
+      },
+      "content": {
+        "thumbnail_title": "도쿄 100엔 열차 🚃",
+        "cards": [
+          {
+            "title": "100주년 기념",
+            "content": "도쿄의 명물, 도큐 세타가야선이 개통 100주년을 맞이했습니다! 이를 기념하여 특별한 '세타가야선 산책 티켓'을 100엔에 판매합니다.",
+            "alt_text": "도큐 세타가야선 열차 이미지"
+          },
+          {
+            "title": "기간 한정!",
+            "content": "이 특별한 100엔 티켓은 2024년 3월 13일부터 3월 19일까지 단 7일간만 구매 가능합니다. 놓치지 마세요!",
+            "alt_text": "달력에 표시된 3월 13일부터 19일까지의 날짜"
+          },
+          {
+            "title": "무제한 탑승",
+            "content": "티켓 한 장으로 해당 기간 동안 세타가야선을 무제한으로 이용할 수 있어, 하루 종일 여유롭게 도쿄의 숨겨진 매력을 탐험하기 좋습니다.",
+            "alt_text": "세타가야선 노선도 이미지"
+          },
+          {
+            "title": "가성비 최고!",
+            "content": "평소 300엔 이상인 이 티켓을 100엔이라는 파격적인 가격에 이용할 수 있는 절호의 기회입니다. 교통비를 크게 절약할 수 있어요.",
+            "alt_text": "돈이 쌓여있는 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "세타가야선 주변에는 아기자기한 상점과 카페, 맛집이 많습니다. 100엔 티켓으로 알뜰하게 여행하며 현지 감성을 만끽해보세요!",
+            "alt_text": "일본의 예쁜 골목길 이미지"
+          }
+        ],
+        "caption": "도쿄 여행 중이라면 주목! 🚃\n개통 100주년을 기념하여 도큐 세타가야선 '세타가야선 산책 티켓'이 단돈 100엔에!\n✅ 기간: 3월 13일(수) ~ 3월 19일(화)\n✅ 100엔으로 하루 종일 무제한 탑승 가능!\n도쿄의 숨은 명소와 맛집을 저렴하게 탐방할 수 있는 절호의 찬스! 놓치지 마세요! 😉\n\n#일본여행 #도쿄여행 #세타가야선 #100엔티켓 #가성비여행 #도큐전철 #일본교통 #여행정보 #일본소식 #플라잉재팬 #도쿄근교 #일본자유여행 #여행꿀팁 #일본축제 #한정티켓",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#세타가야선",
+          "#100엔티켓",
+          "#가성비여행",
+          "#도큐전철",
+          "#일본교통",
+          "#여행정보",
+          "#일본소식",
+          "#도쿄근교",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#일본축제",
+          "#한정티켓"
+        ],
+        "alt_texts": [
+          "도큐 세타가야선 열차 이미지",
+          "달력에 표시된 3월 13일부터 19일까지의 날짜",
+          "세타가야선 노선도 이미지",
+          "돈이 쌓여있는 이미지",
+          "일본의 예쁜 골목길 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교의 가성비 좋은 여행을 선호하는 한국인 여행자 / 최적 게시 시간: 목요일 오전 10시 (여행 계획을 세우는 시간) / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 파격적인 가격 할인 정보, 명확한 기간 명시, 실질적인 여행 혜택 제공",
+      "image": {
+        "keyword": "Tokyu Setagaya Line 100 yen ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyu-Setagaya-Line-100-yen-ticket",
+        "pexels_url": "https://www.pexels.com/search/Tokyu%20Setagaya%20Line%20100%20yen%20ticket/"
+      }
+    },
     {
       "id": "plan_45de6ffb",
       "created_at": "2026-03-04T05:00:48.349332",
@@ -923,160 +1077,6 @@
         "keyword": "Etihad Airways, flight cancellation, Japan travel, urgent notice, travel information",
         "unsplash_url": "https://unsplash.com/s/photos/Etihad-Airways,-flight-cancellation,-Japan-travel,-urgent-notice,-travel-information",
         "pexels_url": "https://www.pexels.com/search/Etihad%20Airways,%20flight%20cancellation,%20Japan%20travel,%20urgent%20notice,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_2222afd6",
-      "created_at": "2026-03-01T05:12:36.905241",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、「ANA楽パック」で7日間限定セール開催　4月〜5月の羽田行き対象",
-        "url": "https://www.traicy.com/posts/20260301364302/",
-        "date": "Sun, 01 Mar 2026 02:35:01 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 왕복 항공권 + 숙박 최저가 찬스! 4월~5월 일본 여행 계획 있다면 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ ANA 특가! 4-5월 일본행 꿀딜 ✈️",
-        "cards": [
-          {
-            "title": "7일간 한정 세일!",
-            "content": "2월 27일부터 3월 5일까지 7일간! 楽天 트래블에서 'ANA 楽パック' 특별 세일이 진행됩니다.",
-            "alt_text": "달력에 2월 27일부터 3월 5일까지 표시된 이미지"
-          },
-          {
-            "title": "ANA 항공권+숙박",
-            "content": "ANA 왕복 항공권과 일본 현지 숙박이 포함된 'ANA 楽パック' 상품이 대상입니다. 알찬 구성으로 더욱 편리하게 여행하세요.",
-            "alt_text": "비행기 티켓과 호텔 키 이미지"
-          },
-          {
-            "title": "4월~5월 일본행",
-            "content": "여행 가능 기간은 4월부터 5월까지! 벚꽃 시즌부터 황금연휴까지, 일본의 아름다운 계절을 만끽할 기회입니다.",
-            "alt_text": "벚꽃이 만개한 일본 거리 이미지"
-          },
-          {
-            "title": "도쿄/하네다 공항행",
-            "content": "이번 세일은 도쿄 하네다 공항으로 향하는 일부 노선 및 일부 편에 적용됩니다. 정확한 대상 노선은 楽天 트래블에서 확인하세요.",
-            "alt_text": "하네다 공항 전경 이미지"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "인기 일본 여행 시기인 4월~5월, ANA 항공권과 숙박을 저렴하게 예약할 수 있는 절호의 찬스! 서둘러 楽天 트래블에서 확인해보세요.",
-            "alt_text": "달려가는 사람의 모습 이미지"
-          }
-        ],
-        "caption": "✨ 4월-5월 일본 여행 계획 중이신가요? ✨\n\n지금 楽天 트래블에서 'ANA 楽パック' 7일 한정 세일이 진행 중이에요! ✈️ ANA 왕복 항공권과 숙박을 함께 예약하면 파격적인 가격으로 만나볼 수 있습니다.\n\n✅ 기간: 2월 27일 ~ 3월 5일 (7일간)\n✅ 대상: 4월~5월 출발, 도쿄 하네다행 ANA 항공권 + 숙박 포함 상품\n\n올봄, ANA와 함께 더욱 스마트하게 일본 여행 떠나요! 🌸\n\n#일본여행 #ANA항공권 #ANA楽パック #楽天트래블 #일본항공권 #일본숙박 #하네다공항 #봄여행 #일본여행준비 #여행특가 #플라잉재팬 #일본가자 #가성비여행 #여행스타그램 #항공권할인",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA항공권",
-          "#ANA楽パック",
-          "#楽天트래블",
-          "#일본항공권",
-          "#일본숙박",
-          "#하네다공항",
-          "#봄여행",
-          "#일본여행준비",
-          "#여행특가",
-          "#가성비여행",
-          "#여행스타그램",
-          "#항공권할인",
-          "#일본가자"
-        ],
-        "alt_texts": [
-          "달력에 2월 27일부터 3월 5일까지 표시된 이미지",
-          "비행기 티켓과 호텔 키 이미지",
-          "벚꽃이 만개한 일본 거리 이미지",
-          "하네다 공항 전경 이미지",
-          "달려가는 사람의 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 4월~5월 일본 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 클릭률 및 예약 전환율, 정보 공유 활발 / 이 콘텐츠의 강점: 시기적절한 특가 정보, 구체적인 날짜와 혜택 명시, 명확한 CTA",
-      "image": {
-        "keyword": "ANA airplane ticket hotel package sale Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane-ticket-hotel-package-sale-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane%20ticket%20hotel%20package%20sale%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_509d3292",
-      "created_at": "2026-03-01T05:12:30.773572",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、「シングルモルト嘉之助 JAL EXCLUSIVE DuMOL CASK FINISH」を販売",
-        "url": "https://www.traicy.com/posts/20260301364293/",
-        "date": "Sun, 01 Mar 2026 03:15:30 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "특별한 일본 위스키, JAL에서만 만날 수 있는 한정판 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 한정판 위스키 출시!",
-        "cards": [
-          {
-            "title": "JAL 단독 출시",
-            "content": "일본항공(JAL)이 '싱글몰트 카노스케 JAL EXCLUSIVE DuMOL CASK FINISH'를 3월 1일부터 판매합니다.",
-            "alt_text": "일본항공 로고와 함께 '싱글몰트 카노스케' 병이 보이는 이미지"
-          },
-          {
-            "title": "특별한 만남",
-            "content": "일본 각지의 크래프트 증류소에서 탄생한 '재패니즈 크래프트 위스키'를 JAL에서 특별하게 만나보세요.",
-            "alt_text": "여러 종류의 일본 위스키 병이 진열된 모습"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "일본 현지에서도 구하기 어려운 한정판 위스키를 일본 여행 중 JAL을 통해 득템할 수 있는 기회입니다.",
-            "alt_text": "위스키 잔에 황금빛 위스키가 담겨 있는 모습"
-          },
-          {
-            "title": "구매 정보",
-            "content": "출시일: 2024년 3월 1일. 구매 가능한 JAL 항공편 및 상세 정보는 JAL 공식 채널을 확인하세요.",
-            "alt_text": "달력에 3월 1일이 표시된 이미지"
-          },
-          {
-            "title": "여행 선물로 딱!",
-            "content": "특별한 일본 여행의 추억을 담아갈 수 있는 위스키를 선물하거나 소장해보세요. 주류 구매 시 면세 한도를 꼭 확인하세요.",
-            "alt_text": "선물 상자에 담긴 위스키와 함께 일본 관광지 사진이 보이는 콜라주 이미지"
-          }
-        ],
-        "caption": "✈️ 일본항공(JAL)에서만 만날 수 있는 특별한 위스키 출시 소식! 🥃\n\n✨ '싱글몰트 카노스케 JAL EXCLUSIVE DuMOL CASK FINISH'가 3월 1일부터 판매 시작됩니다.\n\n일본 각지의 크래프트 증류소에서 탄생한 귀한 재패니즈 크래프트 위스키를 JAL 항공편에서 특별하게 만나보세요!\n\n여행 기념품으로, 혹은 특별한 분을 위한 선물로도 완벽한 아이템입니다. 🎁\n\n✅ 구매 전 JAL 공식 채널에서 상세 정보를 꼭 확인하세요!\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #일본위스키 #카노스케 #한정판 #면세찬스 #여행선물 #일본쇼핑 #여행정보 #해외여행 #위스키추천 #여행꿀팁 #일본자유여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#일본위스키",
-          "#카노스케",
-          "#한정판",
-          "#면세찬스",
-          "#여행선물",
-          "#일본쇼핑",
-          "#여행정보",
-          "#해외여행",
-          "#위스키추천",
-          "#여행꿀팁",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "일본항공 로고와 함께 '싱글몰트 카노스케' 병이 보이는 이미지",
-          "여러 종류의 일본 위스키 병이 진열된 모습",
-          "위스키 잔에 황금빛 위스키가 담겨 있는 모습",
-          "달력에 3월 1일이 표시된 이미지",
-          "선물 상자에 담긴 위스키와 함께 일본 관광지 사진이 보이는 콜라주 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객, 특히 주류 및 특별한 기념품에 관심 있는 사람 / 최적 게시 시간: 평일 오후 6시 - 8시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 정보 공유, 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 항공사 연계로 접근성 용이, 선물 아이템으로서의 매력 어필",
-      "image": {
-        "keyword": "JAL, Japanese whisky, limited edition, Kanosuke, travel souvenir, duty free",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japanese-whisky,-limited-edition,-Kanosuke,-travel-souvenir,-duty-free",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Japanese%20whisky,%20limited%20edition,%20Kanosuke,%20travel%20souvenir,%20duty%20free/"
       }
     }
   ]
