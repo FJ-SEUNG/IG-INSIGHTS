@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-05T05:06:14.795256",
+  "last_updated": "2026-03-06T00:03:56.683703",
   "plans": [
+    {
+      "id": "plan_b06edfbe",
+      "created_at": "2026-03-06T00:03:54.683526",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハピラインふくい、しきぶ駅開業で硬券入場券・フリーきっぷ発売。当日現地限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090887.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 철도 여행의 새로운 추억을 만들 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨새로운 기차역 개업! 기념 굿즈 득템 찬스✨",
+        "cards": [
+          {
+            "title": "신역 개업!",
+            "content": "일본 후쿠이현에 '시키부역'이 2024년 3월 14일 새롭게 문을 엽니다. 역 이름에 '시키부'라는 명칭이 들어간 것은 일본 최초입니다.",
+            "alt_text": "새로운 기차역 개업을 알리는 안내문 사진"
+          },
+          {
+            "title": "기념 굿즈",
+            "content": "개업을 기념하여 추억을 간직할 수 있는 '경화입장권'과 '프리 티켓'이 당일 현장에서만 한정 판매됩니다.",
+            "alt_text": "기념 입장권과 프리 티켓 디자인 사진"
+          },
+          {
+            "title": "개업 행사",
+            "content": "개업식과 역 앞 광장 개장 기념식이 3월 14일 시키부역 역 앞 광장에서 개최됩니다. 특별한 이벤트가 있을 수 있으니 주목하세요!",
+            "alt_text": "개업 행사 장소인 역 앞 광장 사진"
+          },
+          {
+            "title": "여행 팁",
+            "content": "후쿠이현은 아름다운 자연과 전통적인 볼거리가 많은 지역입니다. 시키부역 개업을 기념하여 후쿠이 여행을 계획해 보는 것은 어떨까요?",
+            "alt_text": "후쿠이현의 아름다운 자연 풍경 사진"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "기념 굿즈는 당일 현장에서만 구매 가능하며, 한정 수량으로 조기 소진될 수 있습니다. 관심 있다면 서둘러 방문하세요!",
+            "alt_text": "한정판 굿즈 구매를 독려하는 안내문 사진"
+          }
+        ],
+        "caption": "✨일본 철도 여행 팬 주목!✨\n후쿠이현에 '시키부역'이 2024년 3월 14일 개업합니다! 🎉\n개업 기념으로 특별한 '경화입장권'과 '프리 티켓'이 당일 현장에서 한정 판매된다는 사실!\n잊지 못할 여행 기념품을 득템할 절호의 기회, 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #후쿠이여행 #시키부역 #일본기차여행 #기념품 #여행정보 #일본신상 #일본축제 #일본이벤트 #여행꿀팁 #일본가볼만한곳 #일본기차 #여행스타그램 #일본정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠이여행",
+          "#시키부역",
+          "#일본기차여행",
+          "#기념품",
+          "#여행정보",
+          "#일본신상",
+          "#일본축제",
+          "#일본이벤트",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#일본기차",
+          "#여행스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "새로운 기차역 개업을 알리는 안내문 사진",
+          "기념 입장권과 프리 티켓 디자인 사진",
+          "개업 행사 장소인 역 앞 광장 사진",
+          "후쿠이현의 아름다운 자연 풍경 사진",
+          "한정판 굿즈 구매를 독려하는 안내문 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 철도 여행에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 5시 ~ 7시 / 기대 반응: 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 기념품 정보와 시의성 있는 이벤트 정보 제공",
+      "image": {
+        "keyword": "Shikibu Station opening, Fukui Prefecture, Japan, commemorative ticket, special event",
+        "unsplash_url": "https://unsplash.com/s/photos/Shikibu-Station-opening,-Fukui-Prefecture,-Japan,-commemorative-ticket,-special-event",
+        "pexels_url": "https://www.pexels.com/search/Shikibu%20Station%20opening,%20Fukui%20Prefecture,%20Japan,%20commemorative%20ticket,%20special%20event/"
+      }
+    },
+    {
+      "id": "plan_c94b1d5b",
+      "created_at": "2026-03-06T00:03:46.452250",
+      "category": "tips",
+      "priority": "low",
+      "status": "new",
+      "source": {
+        "title": "買い物かごにセットできる「sou・sou」特大バッグが付録。大人のおしゃれ手帖 4月号、本日発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2090982.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "하",
+        "appeal": "일본 잡지 부록으로 나온 특대형 쇼핑백 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "일본 잡지 부록 득템찬스🛍️",
+        "cards": [
+          {
+            "title": "어른의 옷차림",
+            "content": "일본에서 '어른의 옷차림' 4월호가 3월 6일에 발매되었어요. 가격은 1640엔입니다.",
+            "alt_text": "일본 잡지 '어른의 옷차림' 4월호 표지"
+          },
+          {
+            "title": "특대형 쇼핑백",
+            "content": "이번 호 부록은 장바구니에 그대로 걸 수 있는 'sou・sou' 디자인의 특대형 쇼핑백이에요.",
+            "alt_text": "sou・sou 디자인 특대형 쇼핑백 이미지"
+          },
+          {
+            "title": "쇼핑 필수템",
+            "content": "평소 일본 여행 시 쇼핑을 즐기신다면, 이 가방 하나로 짐을 넉넉하게 담을 수 있어요.",
+            "alt_text": "쇼핑백에 물건을 담는 모습"
+          },
+          {
+            "title": "실용성 UP",
+            "content": "일본 현지 마트나 백화점 쇼핑 시 정말 유용하게 사용할 수 있을 거예요.",
+            "alt_text": "활용도 높은 쇼핑백 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "일본 서점이나 편의점에서 구매 가능하며, 한정 수량일 수 있으니 서둘러 확인해보세요!",
+            "alt_text": "일본 서점 진열대 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 쇼핑 계획 있다면 주목!👀✨\n'어른의 옷차림' 4월호 부록으로 나온 'sou・sou' 디자인 특대형 쇼핑백을 소개합니다.\n장바구니에 그대로 걸 수 있어 마트나 쇼핑 시 정말 유용해요! 🛍️\n1640엔으로 득템할 수 있는 실용템, 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #일본쇼핑 #일본잡지 #sou_sou",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#일본잡지",
+          "#sou_sou",
+          "#일본어른의옷차림",
+          "#일본여행필수템",
+          "#일본마트",
+          "#일본생활",
+          "#일본득템",
+          "#일본정보",
+          "#여행준비",
+          "#일본직구",
+          "#여행꿀팁",
+          "#쇼핑백"
+        ],
+        "alt_texts": [
+          "일본 잡지 '어른의 옷차림' 4월호 표지",
+          "sou・sou 디자인 특대형 쇼핑백 이미지",
+          "쇼핑백에 물건을 담는 모습",
+          "활용도 높은 쇼핑백 이미지",
+          "일본 서점 진열대 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 20-40대 여성 / 최적 게시 시간: 오후 6-8시 / 기대 반응: '이런 것도 있어요?', '당장 사야지!' 등의 구매 욕구 자극 / 이 콘텐츠의 강점: 실용적인 부록 정보로 여행객에게 실질적인 도움 제공",
+      "image": {
+        "keyword": "sou sou tote bag, japanese magazine freebie, shopping bag, japan travel shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/sou-sou-tote-bag,-japanese-magazine-freebie,-shopping-bag,-japan-travel-shopping",
+        "pexels_url": "https://www.pexels.com/search/sou%20sou%20tote%20bag,%20japanese%20magazine%20freebie,%20shopping%20bag,%20japan%20travel%20shopping/"
+      }
+    },
     {
       "id": "plan_84727c38",
       "created_at": "2026-03-05T05:06:12.795092",
@@ -923,160 +1077,6 @@
         "keyword": "Standard Products Disney Mickey Friends merchandise, Japan Daiso shopping, cute practical goods, travel souvenirs",
         "unsplash_url": "https://unsplash.com/s/photos/Standard-Products-Disney-Mickey-Friends-merchandise,-Japan-Daiso-shopping,-cute-practical-goods,-travel-souvenirs",
         "pexels_url": "https://www.pexels.com/search/Standard%20Products%20Disney%20Mickey%20Friends%20merchandise,%20Japan%20Daiso%20shopping,%20cute%20practical%20goods,%20travel%20souvenirs/"
-      }
-    },
-    {
-      "id": "plan_388835f2",
-      "created_at": "2026-03-02T05:09:09.580576",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、ディズニーのオーバーサイズT本日発売。ミッキー/アリエル/プーさんほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2089632.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니클로에서 디즈니 콜라보 UT 신상 출시! 미키, 아리엘, 푸 등 인기 캐릭터로 여행룩 완성하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨유니클로X디즈니 UT 출시✨",
-        "cards": [
-          {
-            "title": "디즈니 콜라보 UT",
-            "content": "유니클로에서 3월 2일에 디즈니와 협업한 새로운 UT를 출시했습니다. 미키, 아리엘, 푸 등 다양한 인기 캐릭터 디자인으로 만나볼 수 있습니다.",
-            "alt_text": "유니클로 디즈니 콜라보 UT 제품 이미지"
-          },
-          {
-            "title": "여행룩 포인트",
-            "content": "귀여운 디즈니 캐릭터 티셔츠로 일본 여행 중에 특별한 포인트를 줄 수 있어요. 편안하면서도 개성 넘치는 여행룩을 연출해보세요.",
-            "alt_text": "디즈니 캐릭터 티셔츠를 입고 여행하는 모습"
-          },
-          {
-            "title": "다양한 캐릭터",
-            "content": "미키 마우스, 인어공주 아리엘, 푸 등 추억 속 인기 캐릭터들이 티셔츠로 재탄생했습니다. 취향에 맞는 캐릭터를 골라보세요.",
-            "alt_text": "미키, 아리엘, 푸 등 다양한 디즈니 캐릭터 디자인"
-          },
-          {
-            "title": "일본에서 겟",
-            "content": "일본 현지 유니클로 매장에서만 구매 가능한 한정판 아이템입니다. 여행 중에 방문하여 득템 찬스를 놓치지 마세요!",
-            "alt_text": "일본 유니클로 매장 전경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 관심 있다면 여행 초반에 방문하는 것을 추천합니다. 사이즈와 디자인별 재고를 미리 확인해보세요.",
-            "alt_text": "유니클로 매장에서 쇼핑하는 모습"
-          }
-        ],
-        "caption": "🇯🇵일본 유니클로에서 디즈니 콜라보 UT 신상 출시!💖\n\n3월 2일부터 일본 유니클로에서 미키, 아리엘, 푸 등 추억의 디즈니 캐릭터 UT가 출시되었어요! 🐭🧜‍♀️🍯\n\n여행 중에 귀여운 디즈니 티셔츠로 특별한 추억을 남겨보세요. 일본 여행 기념품으로도 최고!👍\n\n지금 바로 일본 유니클로에서 만나보세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#유니클로",
-          "#디즈니",
-          "#UT",
-          "#미키마우스",
-          "#아리엘",
-          "#푸",
-          "#여행룩",
-          "#기념품",
-          "#일본쇼핑리스트",
-          "#일본직구",
-          "#일본패션",
-          "#한정판"
-        ],
-        "alt_texts": [
-          "유니클로 디즈니 콜라보 UT 제품 이미지",
-          "디즈니 캐릭터 티셔츠를 입고 여행하는 모습",
-          "미키, 아리엘, 푸 등 다양한 디즈니 캐릭터 디자인",
-          "일본 유니클로 매장 전경",
-          "유니클로 매장에서 쇼핑하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 정보 공유 및 구매 욕구 자극 / 이 콘텐츠의 강점: 최신 트렌드인 캐릭터 콜라보 상품 정보와 여행 연관성 강조",
-      "image": {
-        "keyword": "Uniqlo Disney collaboration UT, Mickey Mouse, Ariel, Pooh, Japan travel fashion",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Disney-collaboration-UT,-Mickey-Mouse,-Ariel,-Pooh,-Japan-travel-fashion",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Disney%20collaboration%20UT,%20Mickey%20Mouse,%20Ariel,%20Pooh,%20Japan%20travel%20fashion/"
-      }
-    },
-    {
-      "id": "plan_25ee347c",
-      "created_at": "2026-03-02T05:09:04.648078",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、ミッフィーUTに新柄。リンガーシャツ風の2種類が6月発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2089656.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니클로에서 미피 신상 UT가 6월 초 출시됩니다! 여행 중 쇼핑 리스트에 꼭 추가하세요."
-      },
-      "content": {
-        "thumbnail_title": "✨유니클로 미피 신상 UT✨",
-        "cards": [
-          {
-            "title": "미피 UT 신상",
-            "content": "유니클로의 인기 미피 UT 컬렉션 '미피 인 블루밍'에서 새로운 디자인 2종이 6월 초 출시됩니다.",
-            "alt_text": "유니클로 미피 UT 신상 티셔츠 이미지"
-          },
-          {
-            "title": "링거 셔츠 스타일",
-            "content": "이번 신상은 링거 셔츠 스타일로 출시되어 더욱 산뜻하고 캐주얼한 느낌을 줍니다.",
-            "alt_text": "링거 셔츠 스타일의 미피 UT 디자인"
-          },
-          {
-            "title": "6월 초 출시",
-            "content": "6월 초에 일본 전국의 유니클로 매장에서 만나볼 수 있으며, 한정 수량으로 조기 품절될 수 있습니다.",
-            "alt_text": "유니클로 매장 이미지"
-          },
-          {
-            "title": "여행 쇼핑 필수",
-            "content": "여행 중 쇼핑 필수템으로, 귀여운 미피 디자인으로 일상에서도 포인트를 줄 수 있습니다.",
-            "alt_text": "다양한 스타일의 미피 UT 착용샷"
-          },
-          {
-            "title": "팁 & 주의사항",
-            "content": "출시 당일 또는 직후 방문하시면 원하는 사이즈와 디자인을 겟할 확률이 높습니다. 공식 홈페이지에서 정확한 출시일을 미리 확인하세요!",
-            "alt_text": "유니클로 쇼핑백 이미지"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? ✈️\n\n6월 초, 일본 유니클로에서 귀여운 미피 신상 UT가 출시된다는 소식! 🐰\n\n'미피 인 블루밍' 컬렉션의 새로운 2가지 디자인은 링거 셔츠 스타일로 출시되어 더욱 매력적이에요.\n\n여행 중 꼭 들러야 할 쇼핑 리스트에 추가하시고, 한정판 득템 기회를 놓치지 마세요! 😉\n\n#일본여행 #유니클로 #미피 #쇼핑 #신상 #UT",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#미피",
-          "#미피UT",
-          "#일본쇼핑",
-          "#일본쇼핑리스트",
-          "#유니클로신상",
-          "#6월여행",
-          "#일본자유여행",
-          "#여행정보",
-          "#쇼핑꿀팁",
-          "#패션",
-          "#캐주얼룩",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "유니클로 미피 UT 신상 티셔츠 이미지",
-          "링거 셔츠 스타일의 미피 UT 디자인",
-          "유니클로 매장 이미지",
-          "다양한 스타일의 미피 UT 착용샷",
-          "유니클로 쇼핑백 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 공유, 쇼핑 계획에 영향 / 이 콘텐츠의 강점: 시기적절한 신상 정보, 구체적인 출시 정보 제공, 쇼핑 욕구 자극",
-      "image": {
-        "keyword": "Uniqlo Miffy UT new design",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Miffy-UT-new-design",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Miffy%20UT%20new%20design/"
       }
     }
   ]
