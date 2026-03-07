@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-07T02:40:45.551611",
+  "last_updated": "2026-03-07T23:41:12.899637",
   "plans": [
+    {
+      "id": "plan_01d425db",
+      "created_at": "2026-03-07T23:41:10.899447",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALカード、navi会員限定「語学検定ボーナスマイル」制度改定　一律300マイルに、対象検定を追加",
+        "url": "https://www.traicy.com/posts/20260307363079/",
+        "date": "Sat, 07 Mar 2026 09:15:37 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 카드 이용자라면 놓칠 수 없는 마일리지 혜택!"
+      },
+      "content": {
+        "thumbnail_title": "JAL카드 ✈️ 보너스 마일 꿀팁!",
+        "cards": [
+          {
+            "title": "혜택 변경",
+            "content": "JAL 카드 navi 회원 대상 '어학 검정 보너스 마일' 제도가 4월 1일부터 변경됩니다. 서비스 명칭은 '검정 보너스 마일'로 변경되며, 일률 300마일이 제공됩니다.",
+            "alt_text": "JAL 카드 navi 회원 대상 어학 검정 보너스 마일리지 제도 변경 안내"
+          },
+          {
+            "title": "대상 확대",
+            "content": "기존 대상 검정 외에 세계유산 검정 준1급 이상, 닛쇼보키 검정 2급 이상이 새롭게 추가됩니다. 다양한 어학 능력 향상에 따른 마일리지 적립 기회가 늘어납니다.",
+            "alt_text": "세계유산 검정, 닛쇼보키 검정 등 추가된 대상 검정 목록"
+          },
+          {
+            "title": "마일리지 적립",
+            "content": "변경된 '검정 보너스 마일' 제도를 통해 JAL 카드를 이용하며 여행 준비를 하는 회원들에게 실질적인 혜택을 제공합니다. 300마일은 소액이지만 꾸준히 모으면 유용합니다.",
+            "alt_text": "검정 보너스 마일리지 300마일 적립 안내"
+          },
+          {
+            "title": "시기 확인",
+            "content": "제도 변경은 2024년 4월 1일부터 적용되므로, 해당 날짜 이후 응시하고 합격한 검정에 대해 보너스 마일리지를 신청할 수 있습니다.",
+            "alt_text": "제도 변경 적용 시작일 2024년 4월 1일 강조"
+          },
+          {
+            "title": "JAL 카드 navi",
+            "content": "JAL 카드 navi 회원이신가요? 일본 여행 시 JAL 항공권을 자주 이용하신다면, 어학 능력 향상과 함께 마일리지까지 적립할 수 있는 좋은 기회입니다. 자세한 내용은 JAL 카드 공식 홈페이지를 확인하세요.",
+            "alt_text": "JAL 카드 navi 회원 대상 혜택 안내"
+          }
+        ],
+        "caption": "✈️ JAL 카드 navi 회원 주목! ✈️\n\n2024년 4월 1일부터 '어학 검정 보너스 마일' 제도가 '검정 보너스 마일'로 변경됩니다! 🎉\n\n세계유산 검정 준1급 이상, 닛쇼보키 검정 2급 이상이 새롭게 추가되어, 최대 300마일리지 적립 기회가 늘어났어요. 🤩\n\n일본 여행 준비하며 어학 실력도 쌓고, JAL 마일리지까지 챙겨가세요! 💖\n\n#JAL카드 #보너스마일 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL카드",
+          "#JAL",
+          "#항공권",
+          "#마일리지",
+          "#일본항공",
+          "#여행정보",
+          "#해외여행",
+          "#여행꿀팁",
+          "#일본",
+          "#JALカード",
+          "#보너스마일",
+          "#검정보너스마일",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "JAL 카드 navi 회원 대상 어학 검정 보너스 마일리지 제도 변경 안내",
+          "세계유산 검정, 닛쇼보키 검정 등 추가된 대상 검정 목록",
+          "검정 보너스 마일리지 300마일 적립 안내",
+          "제도 변경 적용 시작일 2024년 4월 1일 강조",
+          "JAL 카드 navi 회원 대상 혜택 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: JAL 카드 navi 회원 / 최적 게시 시간: 오후 7시~9시 / 기대 반응: 정보 공유 및 JAL 카드 이용자들의 관심 집중 / 이 콘텐츠의 강점: 실질적인 항공 마일리지 혜택 정보 제공",
+      "image": {
+        "keyword": "JAL card, bonus miles, language test, travel benefits, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-card,-bonus-miles,-language-test,-travel-benefits,-Japan",
+        "pexels_url": "https://www.pexels.com/search/JAL%20card,%20bonus%20miles,%20language%20test,%20travel%20benefits,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_322d11b7",
+      "created_at": "2026-03-07T23:41:02.712018",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「カペラ京都」、3月22日開業　日本初上陸",
+        "url": "https://www.traicy.com/posts/20260307364631/",
+        "date": "Sat, 07 Mar 2026 13:15:07 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토에 새롭게 문을 여는 럭셔리 호텔 정보, 여행 계획에 참고하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨교토 신상 호텔 오픈!✨",
+        "cards": [
+          {
+            "title": "카펠라 교토",
+            "content": "일본에 처음 상륙하는 럭셔리 호텔 '카펠라 교토'가 3월 22일에 문을 엽니다. 아름다운 교토의 풍경을 즐길 수 있는 특별한 경험을 선사할 예정입니다.",
+            "alt_text": "카펠라 교토 외관 이미지"
+          },
+          {
+            "title": "객실 정보",
+            "content": "디럭스 시티룸, 가부렌조를 조망하는 프리미어 시어터룸, 건린인을 정면으로 바라보는 기온 스위트 등 다양한 타입의 객실을 갖추고 있습니다.",
+            "alt_text": "카펠라 교토 프리미엄 객실 내부 이미지"
+          },
+          {
+            "title": "위치",
+            "content": "과거 신도 초등학교 터에 위치하며, 지상 4층 규모의 건물로 교토의 중심에서 편리한 접근성을 자랑합니다.",
+            "alt_text": "카펠라 교토 주변 지도 이미지"
+          },
+          {
+            "title": "오픈일",
+            "content": "2024년 3월 22일",
+            "alt_text": "캘린더에 3월 22일 표시 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "새롭게 오픈하는 호텔이니만큼, 얼리버드 프로모션이나 특별 패키지가 있는지 미리 확인해보세요! 예약은 필수입니다.",
+            "alt_text": "호텔 예약 웹사이트 이미지"
+          }
+        ],
+        "caption": "🇯🇵 교토 여행 필수 정보! 🇯🇵\n\n일본에 처음 상륙하는 럭셔리 호텔, '카펠라 교토'가 3월 22일 드디어 오픈합니다!\n\n교토의 아름다운 풍경을 담은 다양한 객실과 최상의 서비스를 경험할 수 있는 기회!\n\n교토 여행 계획 중이라면, 새로운 랜드마크가 될 카펠라 교토를 눈여겨보세요!\n\n#카펠라교토 #교토호텔 #일본신상호텔 #교토여행 #일본숙소 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#교토",
+          "#카펠라교토",
+          "#일본숙소",
+          "#호텔오픈",
+          "#일본신상",
+          "#여행정보",
+          "#일본소식",
+          "#여행스타그램",
+          "#교토숙소",
+          "#럭셔리호텔",
+          "#일본자유여행",
+          "#여행계획"
+        ],
+        "alt_texts": [
+          "카펠라 교토 외관 이미지",
+          "카펠라 교토 프리미엄 객실 내부 이미지",
+          "카펠라 교토 주변 지도 이미지",
+          "캘린더에 3월 22일 표시 이미지",
+          "호텔 예약 웹사이트 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 교토 여행 예정인 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 호텔 정보에 대한 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 일본 현지 신규 오픈 호텔 정보를 가장 빠르게 제공하여 여행 계획에 실질적인 도움을 줌",
+      "image": {
+        "keyword": "Capella Kyoto hotel opening, luxury hotel Kyoto, new hotel Japan, Kyoto travel accommodation",
+        "unsplash_url": "https://unsplash.com/s/photos/Capella-Kyoto-hotel-opening,-luxury-hotel-Kyoto,-new-hotel-Japan,-Kyoto-travel-accommodation",
+        "pexels_url": "https://www.pexels.com/search/Capella%20Kyoto%20hotel%20opening,%20luxury%20hotel%20Kyoto,%20new%20hotel%20Japan,%20Kyoto%20travel%20accommodation/"
+      }
+    },
     {
       "id": "plan_96f7006d",
       "created_at": "2026-03-07T02:40:43.551440",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyu Setagaya Line 100 yen ticket",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyu-Setagaya-Line-100-yen-ticket",
         "pexels_url": "https://www.pexels.com/search/Tokyu%20Setagaya%20Line%20100%20yen%20ticket/"
-      }
-    },
-    {
-      "id": "plan_45de6ffb",
-      "created_at": "2026-03-04T05:00:48.349332",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "温泉宿「TAOYA」のアフタヌーンティーが全国12施設に拡大。追加料金なしで絞りたてモンブランや季節のスイーツ食べ放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090212.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "추가 요금 없이 즐기는 일본 온천 호텔의 고급 애프터눈 티!"
-      },
-      "content": {
-        "thumbnail_title": "온천호텔 💖 무제한 애프터눈 티!",
-        "cards": [
-          {
-            "title": "TAOYA 확대",
-            "content": "일본 전국 12개 'TAOYA' 료칸에서 애프터눈 티와 나이트 애프터눈 티를 즐길 수 있게 되었어요. 🏨",
-            "alt_text": "일본 료칸 외관 이미지"
-          },
-          {
-            "title": "무제한 디저트",
-            "content": "별도 추가 요금 없이 신선하게 짜낸 몽블랑과 제철 디저트를 마음껏 맛보세요. 🍰",
-            "alt_text": "다양한 디저트가 진열된 테이블 이미지"
-          },
-          {
-            "title": "나이트 타임",
-            "content": "저녁 시간대에는 나이트 애프터눈 티도 운영하니, 로맨틱한 저녁 시간을 계획해 보세요. 🌙",
-            "alt_text": "야경이 보이는 료칸 내부 이미지"
-          },
-          {
-            "title": "전국 12곳",
-            "content": "10곳에서 시작해 이제 총 12곳의 TAOYA 료칸에서 경험 가능합니다. 방문 전 꼭 확인하세요! ✅",
-            "alt_text": "일본 지도에 료칸 위치 표시 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 있는 료칸은 예약이 빨리 마감될 수 있으니, 여행 계획 시 미리 예약하는 것을 추천합니다. ✍️",
-            "alt_text": "예약 확인하는 스마트폰 화면 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 경험을 원한다면? ✨ 전국 12개 'TAOYA' 료칸에서 추가 요금 없이 즐기는 럭셔리 애프터눈 티를 놓치지 마세요! 💖 신선한 몽블랑부터 제철 디저트까지 무제한으로 맛볼 수 있답니다. 🍰 로맨틱한 나이트 애프터눈 티도 준비되어 있어요. 🌙\n\n#일본온천여행 #료칸추천 #애프터눈티 #TAOYA #여행꿀팁 #일본여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#료칸",
-          "#애프터눈티",
-          "#TAOYA",
-          "#일본숙소",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본디저트",
-          "#몽블랑",
-          "#여행정보",
-          "#일본여행계획",
-          "#힐링여행",
-          "#일본"
-        ],
-        "alt_texts": [
-          "일본 료칸 외관 이미지",
-          "다양한 디저트가 진열된 테이블 이미지",
-          "야경이 보이는 료칸 내부 이미지",
-          "일본 지도에 료칸 위치 표시 이미지",
-          "예약 확인하는 스마트폰 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 료칸 숙박을 계획 중인 20-40대 여성 여행객 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: '이런 혜택이 있다니!', '꼭 가봐야겠다!' 등의 긍정적인 반응 및 예약 문의 / 이 콘텐츠의 강점: 별도 요금 없이 제공되는 고급 디저트 경험이라는 명확한 혜택 강조",
-      "image": {
-        "keyword": "Japanese onsen ryokan afternoon tea dessert buffet",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-ryokan-afternoon-tea-dessert-buffet",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20ryokan%20afternoon%20tea%20dessert%20buffet/"
-      }
-    },
-    {
-      "id": "plan_4e79c840",
-      "created_at": "2026-03-04T05:00:41.647162",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ロゴス、消音機能付き「熊ベル」。電車移動や街なかでも気軽に携帯、災害時のSOSにも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090232.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 만날 수 있는 예상치 못한 상황에 대한 안전 대비책!"
-      },
-      "content": {
-        "thumbnail_title": "🚨일본 여행 필수템! 🐻🌲",
-        "cards": [
-          {
-            "title": "새로운 🐻 벨 출시",
-            "content": "아웃도어 브랜드 로고스에서 'LOGOS 熊ベル-BF'를 출시했습니다. 이 제품은 소음 기능이 있어 필요할 때만 벨 소리를 낼 수 있습니다.",
-            "alt_text": "로고스 곰 벨 제품 이미지"
-          },
-          {
-            "title": "가격은 1,870엔",
-            "content": "여행 중 부담 없이 구매하고 휴대할 수 있는 가격입니다. 일본 현지 편의점이나 아웃도어 매장에서 찾아볼 수 있습니다.",
-            "alt_text": "제품 가격 정보가 표시된 이미지"
-          },
-          {
-            "title": "다양한 활용법",
-            "content": "이 곰 벨은 일본 내 산행뿐만 아니라, 전철 이동이나 도심에서도 간편하게 휴대하며 사용할 수 있습니다.",
-            "alt_text": "전철 안에서 곰 벨을 휴대하는 모습"
-          },
-          {
-            "title": "재난 시 SOS",
-            "content": "예상치 못한 재난 상황 발생 시, SOS 신호용으로도 활용 가능하여 안전에 대비할 수 있습니다.",
-            "alt_text": "비상 상황에서 곰 벨을 이용해 신호를 보내는 모습"
-          },
-          {
-            "title": "여행 꿀팁!",
-            "content": "일본의 자연을 만끽하는 것도 좋지만, 예상치 못한 상황에 대비해 안전 용품을 챙기는 것을 잊지 마세요! 🐻",
-            "alt_text": "일본 여행 중 안전을 위해 곰 벨을 챙기는 모습"
-          }
-        ],
-        "caption": "🐻🌲 일본 여행 중 예상치 못한 상황에 대비하세요!\n\n아웃도어 브랜드 로고스에서 소음 기능이 있는 'LOGOS 熊ベル-BF' (1,870엔)를 출시했어요!\n\n산행뿐만 아니라 전철 이동, 도심에서도 간편하게 휴대 가능하고, 재난 시 SOS 신호용으로도 활용할 수 있답니다.\n\n안전하고 즐거운 일본 여행을 위해 미리 준비해보세요! ✈️\n\n#일본여행 #안전여행 #일본필수템 #로고스 #곰벨 #여행준비 #일본안전",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본안전",
-          "#일본준비물",
-          "#일본필수템",
-          "#곰벨",
-          "#로고스",
-          "#일본생활",
-          "#안전여행",
-          "#여행스타그램",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본쇼핑",
-          "#해외여행",
-          "#여행"
-        ],
-        "alt_texts": [
-          "로고스 곰 벨 제품 이미지",
-          "제품 가격 정보가 표시된 이미지",
-          "전철 안에서 곰 벨을 휴대하는 모습",
-          "비상 상황에서 곰 벨을 이용해 신호를 보내는 모습",
-          "일본 여행 중 안전을 위해 곰 벨을 챙기는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 안전에 대한 관심 증대, 실제 구매 고려 / 이 콘텐츠의 강점: 실질적인 안전 정보 제공, 비교적 저렴한 가격 정보",
-      "image": {
-        "keyword": "Japanese traveler, bear bell, safety equipment, outdoor gear, Japan travel essentials, emergency signal, LOGOS brand",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-traveler,-bear-bell,-safety-equipment,-outdoor-gear,-Japan-travel-essentials,-emergency-signal,-LOGOS-brand",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20traveler,%20bear%20bell,%20safety%20equipment,%20outdoor%20gear,%20Japan%20travel%20essentials,%20emergency%20signal,%20LOGOS%20brand/"
       }
     }
   ]
