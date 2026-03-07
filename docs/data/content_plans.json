@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-06T23:47:08.839446",
+  "last_updated": "2026-03-07T02:40:45.551611",
   "plans": [
+    {
+      "id": "plan_96f7006d",
+      "created_at": "2026-03-07T02:40:43.551440",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東海、武豊線・関西線の列車は原則全駅・全ドアで乗降可能に。ダイヤ改正でのワンマン化に先立ち変更",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091247.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지 열차 이용 시, 이제 모든 역에서 모든 문으로 타고 내릴 수 있어요!"
+      },
+      "content": {
+        "thumbnail_title": "JR東海 3/8부터 🔑전역/전문 승하차 OPEN!",
+        "cards": [
+          {
+            "title": "3/8부터 승하차 OK",
+            "content": "JR 도카이의 다케유타선, 간사이 본선 보통/쾌속 열차는 2024년 3월 8일부터 모든 역에서 모든 문을 통해 승하차가 가능해집니다.",
+            "alt_text": "열차 문이 열려 있는 모습"
+          },
+          {
+            "title": "원맨 운전 대비",
+            "content": "이번 변경은 해당 노선의 원맨 운전(열차 내 승무원 1인 운행) 전환에 앞서 승객 편의를 높이기 위한 조치입니다.",
+            "alt_text": "열차 운전석 내부 모습"
+          },
+          {
+            "title": "이용 노선 확인!",
+            "content": "다케유타선(武豊線)과 간사이 본선(関西本線)의 보통 열차 및 쾌속 열차에 적용됩니다. (일부 열차 제외 가능성 확인 필요)",
+            "alt_text": "일본 철도 노선도 일부"
+          },
+          {
+            "title": "언제든 편리하게",
+            "content": "이전에는 특정 역이나 특정 문만 이용 가능했던 불편함이 해소되어, 더욱 쉽고 빠르게 열차를 이용할 수 있습니다.",
+            "alt_text": "환승하는 여행객 모습"
+          },
+          {
+            "title": "알아두면 좋은 팁",
+            "content": "새로운 승하차 방식에 익숙하지 않은 현지인이나 다른 여행객에게 양보하며 여유롭게 이용하는 센스를 발휘해 보세요!",
+            "alt_text": "안내 표지판을 보고 있는 여행객"
+          }
+        ],
+        "caption": "일본 여행 중 JR 이용 예정이라면 주목! 📢\n2024년 3월 8일부터 JR 도카이의 다케유타선과 간사이 본선에서 운행하는 보통/쾌속 열차는 이제 모든 역, 모든 문에서 승하차가 가능해요! 🤩\n원맨 운전 전환에 앞서 승객 편의를 위한 변경이니, 더욱 편리하게 일본 기차 여행을 즐겨보세요! 🚄\n\n#일본여행 #JR도카이 #일본철도 #교통정보 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR도카이",
+          "#일본기차",
+          "#간사이본선",
+          "#다케유타선",
+          "#일본교통",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본패스",
+          "#현지정보",
+          "#일본여행팁",
+          "#나고야근교",
+          "#오사카근교",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "열차 문이 열려 있는 모습",
+          "열차 운전석 내부 모습",
+          "일본 철도 노선도 일부",
+          "환승하는 여행객 모습",
+          "안내 표지판을 보고 있는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 철도 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 정보 습득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 실질적인 교통 편의 증진 정보로 여행 계획에 즉각적인 도움",
+      "image": {
+        "keyword": "japanese train, train door, station platform, japan railway map, travel convenience",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-train,-train-door,-station-platform,-japan-railway-map,-travel-convenience",
+        "pexels_url": "https://www.pexels.com/search/japanese%20train,%20train%20door,%20station%20platform,%20japan%20railway%20map,%20travel%20convenience/"
+      }
+    },
+    {
+      "id": "plan_95e23909",
+      "created_at": "2026-03-07T02:40:36.832194",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "亀の井ホテル 熱海、1泊2食ビュッフェが最大20％オフ。高台から街と海を一望、露天風呂付客室も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091308.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 20% 할인 찬스! 봄, GW, 여름휴가 미리 준비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 20% OFF!♨️",
+        "cards": [
+          {
+            "title": "할인 정보",
+            "content": "카메노이 호텔 아타미에서 1박 2식 뷔페 이용 시 최대 20% 할인 혜택을 제공합니다. 楽天トラベル 슈퍼SALE 기간에 맞춰 예약하세요!",
+            "alt_text": "할인율이 표시된 호텔 프로모션 이미지"
+          },
+          {
+            "title": "프로모션 기간",
+            "content": "본 프로모션은 3월 20일까지 진행됩니다. 봄, 골든위크, 여름휴가 여행 예약 시 활용 가능합니다.",
+            "alt_text": "달력에 표시된 프로모션 마감일"
+          },
+          {
+            "title": "호텔 특징",
+            "content": "고지대에 위치하여 아타미 시내와 바다를 한눈에 조망할 수 있습니다. 일부 객실에는 노천탕이 포함되어 있습니다.",
+            "alt_text": "아타미 바다가 보이는 호텔 객실 전경"
+          },
+          {
+            "title": "할인 방법",
+            "content": "할인 대상 숙박 플랜과 쿠폰을 함께 적용하면 최대 20% 할인을 받을 수 있습니다. 楽天トラベル에서 자세한 내용을 확인하세요.",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기 있는 숙소는 조기에 마감될 수 있으니, 원하는 날짜가 있다면 서둘러 예약하는 것을 추천합니다.",
+            "alt_text": "예약 완료 버튼 이미지"
+          }
+        ],
+        "caption": "♨️일본 온천 여행 계획 중이신가요?♨️\n카메노이 호텔 아타미에서 1박 2식 뷔페를 최대 20% 할인된 가격으로 즐길 수 있는 절호의 찬스! ✨\n봄, 골든위크, 여름휴가까지 미리 예약하고 알뜰하게 여행 준비하세요!\n놓치기 아까운 20% 할인 혜택, 지금 바로 확인해보세요! 👇\n\n#일본온천 #카메노이호텔 #아타미 #일본여행 #할인정보 #楽天トラベル",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#아타미",
+          "#카메노이호텔",
+          "#일본숙소",
+          "#료칸",
+          "#일본여행준비",
+          "#할인정보",
+          "#여행스타그램",
+          "#봄여행",
+          "#여름휴가",
+          "#골든위크",
+          "#일본자유여행",
+          "#가성비여행"
+        ],
+        "alt_texts": [
+          "할인율이 표시된 호텔 프로모션 이미지",
+          "달력에 표시된 프로모션 마감일",
+          "아타미 바다가 보이는 호텔 객실 전경",
+          "할인 쿠폰 이미지",
+          "예약 완료 버튼 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 명확한 할인율과 기간, 매력적인 숙소 특징 제시",
+      "image": {
+        "keyword": "Kame no I Hotel Atami, Japanese hot spring, buffet, discount, Atami city view, sea view, room with open-air bath, Rakuten Travel sale",
+        "unsplash_url": "https://unsplash.com/s/photos/Kame-no-I-Hotel-Atami,-Japanese-hot-spring,-buffet,-discount,-Atami-city-view,-sea-view,-room-with-open-air-bath,-Rakuten-Travel-sale",
+        "pexels_url": "https://www.pexels.com/search/Kame%20no%20I%20Hotel%20Atami,%20Japanese%20hot%20spring,%20buffet,%20discount,%20Atami%20city%20view,%20sea%20view,%20room%20with%20open-air%20bath,%20Rakuten%20Travel%20sale/"
+      }
+    },
     {
       "id": "plan_8b10a93e",
       "created_at": "2026-03-06T23:47:06.839272",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese traveler, bear bell, safety equipment, outdoor gear, Japan travel essentials, emergency signal, LOGOS brand",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-traveler,-bear-bell,-safety-equipment,-outdoor-gear,-Japan-travel-essentials,-emergency-signal,-LOGOS-brand",
         "pexels_url": "https://www.pexels.com/search/Japanese%20traveler,%20bear%20bell,%20safety%20equipment,%20outdoor%20gear,%20Japan%20travel%20essentials,%20emergency%20signal,%20LOGOS%20brand/"
-      }
-    },
-    {
-      "id": "plan_80245dc1",
-      "created_at": "2026-03-04T00:02:55.829410",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "NEXCO西日本、新たに30か所をETC専用料金所に。中国道 宝塚IC、第二京阪 上鳥羽入口ほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090228.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 고속도로 이용 시 주목! 30개 요금소가 ETC 전용으로 변경되어 편리함 UP!"
-      },
-      "content": {
-        "thumbnail_title": "🚗 ETC 전용 요금소 30곳 추가!",
-        "cards": [
-          {
-            "title": "ETC 전용 확대",
-            "content": "NEXCO 서일본 구간에서 30곳의 요금소가 ETC 전용으로 변경됩니다. 2024년 3월 17일부터 4월 8일까지 순차적으로 적용될 예정입니다.",
-            "alt_text": "ETC 전용 요금소 안내 표지판 이미지"
-          },
-          {
-            "title": "주요 구간",
-            "content": "이번 변경에는 중국 자동차도 타카라즈카 IC, 제2게이한 도바구치 등이 포함됩니다. 해당 구간 이용 시 ETC 카드 준비는 필수입니다.",
-            "alt_text": "일본 고속도로 지도에 주요 IC 표시 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "ETC 전용 요금소에서는 현금 결제가 불가능합니다. 미리 ETC 카드 또는 ETC 탑재 차량을 준비해주세요.",
-            "alt_text": "ETC 카드 이미지"
-          },
-          {
-            "title": "편리함 증대",
-            "content": "ETC 전용 요금소 확대는 통행 시간 단축 및 편의성 증대에 기여할 것으로 기대됩니다.",
-            "alt_text": "고속도로를 빠르게 통과하는 차량 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "운영 시작일 및 적용 구간을 미리 확인하시어 일본 고속도로 이용 시 불편함이 없도록 준비하시길 바랍니다.",
-            "alt_text": "일본 고속도로 표지판 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 고속도로 이용 계획 있으신가요? 🚗 NEXCO 서일본 구간에서 30곳의 요금소가 3월 17일부터 ETC 전용으로 변경됩니다! 🤩 중국 자동차도 타카라즈카 IC, 제2게이한 도바구치 등 주요 구간이 포함되니, ETC 카드 준비 잊지 마세요! 💖\n\n#일본여행 #플라잉재팬 #일본교통 #ETC #고속도로 #일본정보 #여행꿀팁 #일본여행준비 #NEXCO서일본 #일본생활 #일본생활정보 #여행스타그램 #일본 #일본자유여행 #일본로드트립",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#ETC",
-          "#고속도로",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#NEXCO서일본",
-          "#일본생활",
-          "#일본생활정보",
-          "#여행스타그램",
-          "#일본",
-          "#일본자유여행",
-          "#일본로드트립"
-        ],
-        "alt_texts": [
-          "ETC 전용 요금소 안내 표지판 이미지",
-          "일본 고속도로 지도에 주요 IC 표시 이미지",
-          "ETC 카드 이미지",
-          "고속도로를 빠르게 통과하는 차량 이미지",
-          "일본 고속도로 표지판 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 고속도로 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 2시 ~ 5시 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 실질적인 여행 준비 도움",
-      "image": {
-        "keyword": "Japan highway ETC gate",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway-ETC-gate",
-        "pexels_url": "https://www.pexels.com/search/Japan%20highway%20ETC%20gate/"
-      }
-    },
-    {
-      "id": "plan_6a663880",
-      "created_at": "2026-03-04T00:02:50.605657",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ドームホテル、新特撮シリーズ「PROJECT R.E.D.」ルーム新設。超宇宙刑事ギャバン インフィニティの限定グッズ付き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090229.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 특촬물 팬이라면 놓칠 수 없는 도쿄돔 호텔 한정룸!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄돔 호텔 X 특촬룸✨",
-        "cards": [
-          {
-            "title": "특별한 숙박",
-            "content": "도쿄돔 호텔에서 최신 특촬 시리즈 'PROJECT R.E.D.' 컨셉룸을 4월 10일부터 6월 30일까지 운영합니다.",
-            "alt_text": "도쿄돔 호텔 외관 이미지"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "숙박 예약은 3월 10일 오전 10시부터 시작되니, 서둘러 예약하세요!",
-            "alt_text": "달력에 3월 10일 표시된 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "컨셉룸 이용 가능 기간은 2024년 4월 10일부터 6월 30일까지입니다.",
-            "alt_text": "기간이 명시된 캘린더 이미지"
-          },
-          {
-            "title": "한정 굿즈",
-            "content": "초우주형사 갸반 인피니티의 한정 굿즈가 포함된 특별한 경험을 할 수 있습니다.",
-            "alt_text": "특촬물 캐릭터 굿즈 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 특촬 시리즈 팬이라면 놓칠 수 없는 기회! 예약 경쟁이 치열할 수 있으니 오픈 시간에 맞춰 예약하는 것을 추천합니다.",
-            "alt_text": "예약 완료를 상징하는 체크 표시 이미지"
-          }
-        ],
-        "caption": "✨도쿄돔 호텔에서 특별한 경험을!✨\n\n최신 특촬 시리즈 'PROJECT R.E.D.' 컨셉룸이 4월 10일부터 6월 30일까지 운영됩니다.\n\n📅 예약 시작: 3월 10일 오전 10시\n\n한정 굿즈와 함께 잊지 못할 추억을 만들어보세요!\n\n#일본여행 #도쿄여행 #도쿄숙소 #특촬물 #프로젝트RED #갸반 #도쿄돔호텔 #한정판 #일본숙박 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄숙소",
-          "#특촬물",
-          "#PROJECTRED",
-          "#갸반",
-          "#도쿄돔호텔",
-          "#한정판",
-          "#일본숙박",
-          "#여행스타그램",
-          "#일본호텔",
-          "#일본체험",
-          "#일본이벤트",
-          "#도쿄"
-        ],
-        "alt_texts": [
-          "도쿄돔 호텔 외관 이미지",
-          "달력에 3월 10일 표시된 이미지",
-          "기간이 명시된 캘린더 이미지",
-          "특촬물 캐릭터 굿즈 이미지",
-          "예약 완료를 상징하는 체크 표시 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 특촬물 팬, 특별한 숙박 경험을 원하는 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 예약 정보에 대한 높은 관심, 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 정보, 명확한 예약 일정 제시",
-      "image": {
-        "keyword": "Tokyo Dome Hotel, Tokusatsu room, Gavan, limited edition goods",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Dome-Hotel,-Tokusatsu-room,-Gavan,-limited-edition-goods",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Dome%20Hotel,%20Tokusatsu%20room,%20Gavan,%20limited%20edition%20goods/"
       }
     }
   ]
