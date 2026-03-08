@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-08T02:53:34.921823",
+  "last_updated": "2026-03-08T23:42:56.287079",
   "plans": [
+    {
+      "id": "plan_c113e05f",
+      "created_at": "2026-03-08T23:42:54.286898",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホノルルクッキー、大丸東京店・舞浜イクスピアリに期間限定オープン。3月は「抹茶」＆イースターボックス発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091402.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 맛볼 수 있는 한정판 컵케이크! 3월의 특별한 맛과 이스터 에디션을 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🍪3월 일본 한정 컵케이크🍪",
+        "cards": [
+          {
+            "title": "3월 한정 맛",
+            "content": "호놀룰루 쿠키 컴퍼니에서 3월의 맛으로 '말차' 컵케이크를 출시했어요. 일본에서만 맛볼 수 있는 특별한 풍미를 즐겨보세요!",
+            "alt_text": "말차 컵케이크 클로즈업 사진"
+          },
+          {
+            "title": "이스터 에디션",
+            "content": "사랑스러운 이스터 디자인의 기프트 컬렉션도 함께 출시되었습니다. 봄 시즌을 맞아 특별한 선물로도 좋아요.",
+            "alt_text": "이스터 디자인 컵케이크 박스 사진"
+          },
+          {
+            "title": "판매 장소",
+            "content": "도쿄 다이마루 백화점과 마이하마 익스피어리에서 기간 한정으로 판매됩니다. 방문 전 꼭 확인하세요!",
+            "alt_text": "도쿄 다이마루 백화점 외관 사진"
+          },
+          {
+            "title": "구매 팁",
+            "content": "인기가 많으니 서둘러 방문하는 것을 추천합니다. 특히 주말에는 조기 품절될 수 있어요.",
+            "alt_text": "다양한 종류의 컵케이크 진열 사진"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "3월 한정으로 판매되는 특별한 맛과 디자인! 일본 여행 중에 달콤한 디저트 타임을 계획해보세요.",
+            "alt_text": "컵케이크를 들고 행복해하는 사람 사진"
+          }
+        ],
+        "caption": "일본 여행 필수 코스! 🍪3월 한정 '말차' 컵케이크와 귀여운 이스터 에디션이 도쿄 다이마루, 마이하마 익스피어리에 상륙했어요! 🌸\n\n놓치면 후회할 달콤한 기회를 잡으세요! 💖\n\n#일본여행 #플라잉재팬 #일본디저트 #한정판 #말차 #이스터 #도쿄여행 #마이하마 #쇼핑 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본디저트",
+          "#한정판",
+          "#말차",
+          "#이스터",
+          "#도쿄여행",
+          "#마이하마",
+          "#일본쇼핑",
+          "#여행정보",
+          "#여행필수템",
+          "#일본가볼만한곳",
+          "#디저트맛집",
+          "#컵케이크",
+          "#3월여행"
+        ],
+        "alt_texts": [
+          "말차 컵케이크 클로즈업 사진",
+          "이스터 디자인 컵케이크 박스 사진",
+          "도쿄 다이마루 백화점 외관 사진",
+          "다양한 종류의 컵케이크 진열 사진",
+          "컵케이크를 들고 행복해하는 사람 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 시각적인 매력",
+      "image": {
+        "keyword": "Honolulu Cookie Company, matcha cookie, Easter cookie, limited edition, Tokyo Daimaru, Maihama Ikspiari",
+        "unsplash_url": "https://unsplash.com/s/photos/Honolulu-Cookie-Company,-matcha-cookie,-Easter-cookie,-limited-edition,-Tokyo-Daimaru,-Maihama-Ikspiari",
+        "pexels_url": "https://www.pexels.com/search/Honolulu%20Cookie%20Company,%20matcha%20cookie,%20Easter%20cookie,%20limited%20edition,%20Tokyo%20Daimaru,%20Maihama%20Ikspiari/"
+      }
+    },
+    {
+      "id": "plan_db512f91",
+      "created_at": "2026-03-08T23:42:48.855668",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "最新「防災グッズ」まとめ。機能もデザインも妥協しない“進化系”が続々",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091415.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 예상치 못한 상황에 대비할 수 있는 실용적인 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵일본 여행 필수템! 2026년형 최신 재난 대비템",
+        "cards": [
+          {
+            "title": "재난 대비템 트렌드",
+            "content": "2026년 3월 11일, 동일본 대지진 15주년을 앞두고 '페이즈 프리' 개념의 신형 재난 대비 용품이 주목받고 있어요. 일상과 비상시에 모두 사용할 수 있는 실용적인 아이템들이에요.",
+            "alt_text": "일상에서도 사용 가능한 세련된 디자인의 재난 대비 용품 이미지"
+          },
+          {
+            "title": "디자인 & 기능 UP!",
+            "content": "디자인은 물론 기능까지 놓치지 않은 '진화형' 재난 대비 용품들이 속속 출시되고 있습니다. 일상에 자연스럽게 녹아드는 디자인이 특징이에요.",
+            "alt_text": "다양한 디자인의 휴대용 재난 대비 용품 모음 이미지"
+          },
+          {
+            "title": "새로운 대비의 시작",
+            "content": "언제든 발생할 수 있는 재난 상황에 대비하기 위한 '새로운 준비'가 트렌드로 자리 잡고 있습니다. 언제 어디서든 안심할 수 있도록 미리 준비해두세요.",
+            "alt_text": "가방 안에 휴대하기 좋은 컴팩트한 재난 대비 용품 이미지"
+          },
+          {
+            "title": "나만의 비상 키트",
+            "content": "이러한 트렌드를 참고하여 여러분만의 맞춤형 비상 키트를 준비해보는 것은 어떨까요? 필요한 물품을 미리 파악하고 휴대하기 좋은 사이즈로 구성해보세요.",
+            "alt_text": "개인의 필요에 맞춰 구성된 재난 대비 키트 예시 이미지"
+          },
+          {
+            "title": "여행 시 꿀팁",
+            "content": "일본 여행 시, 숙소에 비치된 비상 용품을 확인하는 습관을 들이고, 개인적으로 필요한 소형 구급 용품이나 상비약 등을 챙기는 것을 추천합니다. 안전한 여행을 위해 미리 대비하세요!",
+            "alt_text": "여행 가방에 재난 대비 용품을 챙기는 모습 이미지"
+          }
+        ],
+        "caption": "🇯🇵 2026년, 더욱 진화된 일본 재난 대비 용품 트렌드를 소개합니다! \n\n일상에서도 자연스럽게 사용 가능하면서 비상시에도 든든한 '페이즈 프리' 컨셉의 신형 아이템들이 주목받고 있어요. \n\n디자인과 기능 모두 업그레이드된 최신 용품들로 여러분의 일본 여행을 더욱 안전하고 스마트하게 준비하세요! \n\n#일본여행 #재난대비 #안전여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본안전",
+          "#재난대비",
+          "#여행꿀팁",
+          "#일본필수템",
+          "#여행준비",
+          "#일본정보",
+          "#안전여행",
+          "#2026트렌드",
+          "#페이즈프리",
+          "#일본생활",
+          "#여행스타그램",
+          "#일본",
+          "#안심여행"
+        ],
+        "alt_texts": [
+          "일상에서도 사용 가능한 세련된 디자인의 재난 대비 용품 이미지",
+          "다양한 디자인의 휴대용 재난 대비 용품 모음 이미지",
+          "가방 안에 휴대하기 좋은 컴팩트한 재난 대비 용품 이미지",
+          "개인의 필요에 맞춰 구성된 재난 대비 키트 예시 이미지",
+          "여행 가방에 재난 대비 용품을 챙기는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 8시~10시 / 기대 반응: 유용함, 안전에 대한 관심 증대 / 이 콘텐츠의 강점: 실질적인 안전 정보 제공, 최신 트렌드 반영",
+      "image": {
+        "keyword": "Japanese disaster preparedness goods, modern design, travel safety kit",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-disaster-preparedness-goods,-modern-design,-travel-safety-kit",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20disaster%20preparedness%20goods,%20modern%20design,%20travel%20safety%20kit/"
+      }
+    },
     {
       "id": "plan_f3bd8d92",
       "created_at": "2026-03-08T02:53:32.921640",
@@ -923,160 +1077,6 @@
         "keyword": "sou sou tote bag, japanese magazine freebie, shopping bag, japan travel shopping",
         "unsplash_url": "https://unsplash.com/s/photos/sou-sou-tote-bag,-japanese-magazine-freebie,-shopping-bag,-japan-travel-shopping",
         "pexels_url": "https://www.pexels.com/search/sou%20sou%20tote%20bag,%20japanese%20magazine%20freebie,%20shopping%20bag,%20japan%20travel%20shopping/"
-      }
-    },
-    {
-      "id": "plan_84727c38",
-      "created_at": "2026-03-05T05:06:12.795092",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "USJ、生まれ変わった定番ダイナーは肉だらけ！　超大型ステーキ/ポークリブ/チキンカレー/BLTバーガーが登場",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090655.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "USJ 25주년! 역대급 고기 메뉴로 컴백한 스튜디오 투어 레스토랑!"
-      },
-      "content": {
-        "thumbnail_title": "USJ 역대급 고기 파티!🍖",
-        "cards": [
-          {
-            "title": "메뉴 리뉴얼!",
-            "content": "USJ '스튜디오 투어 레스토랑'이 3월 4일, 25주년 기념으로 전면 리뉴얼되었어요! '영화 스튜디오 카페테리아' 컨셉은 그대로, 미국식 육식 메뉴가 가득합니다.",
-            "alt_text": "USJ 스튜디오 투어 레스토랑 외관"
-          },
-          {
-            "title": "초대형 스테이크!",
-            "content": "입맛 없을 때 딱! 푸짐한 초대형 스테이크가 준비되어 있어요. 보기만 해도 군침 도는 비주얼이랍니다.",
-            "alt_text": "USJ 초대형 스테이크 메뉴"
-          },
-          {
-            "title": "폭립 & 치킨 커리",
-            "content": "부드러운 폭립과 풍미 가득한 치킨 커리도 놓칠 수 없어요. 든든한 식사를 책임질 메뉴들입니다.",
-            "alt_text": "USJ 폭립 메뉴"
-          },
-          {
-            "title": "BLT 버거 등장!",
-            "content": "클래식한 BLT 버거도 새롭게 선보입니다. 두툼한 패티와 신선한 야채의 조화가 일품이에요.",
-            "alt_text": "USJ BLT 버거 메뉴"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "25주년 기념 이벤트 'Discover U!!!'와 함께 즐기면 더욱 특별한 경험이 될 거예요! 방문 전 운영 시간 확인은 필수!",
-            "alt_text": "USJ 25주년 기념 이벤트 포스터"
-          }
-        ],
-        "caption": "✨USJ 25주년 기념! ✨\n'스튜디오 투어 레스토랑'이 역대급 육식 메뉴로 돌아왔어요! 🍖\n초대형 스테이크, 폭립, 치킨 커리, BLT 버거까지!\n미국식 정통 메뉴로 든든한 한 끼 어떠세요?\n\n#USJ #유니버셜스튜디오재팬 #일본여행 #오사카여행 #USJ맛집 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#USJ",
-          "#유니버셜스튜디오재팬",
-          "#오사카",
-          "#오사카여행",
-          "#USJ맛집",
-          "#일본맛집",
-          "#일본놀거리",
-          "#일본음식",
-          "#스테이크",
-          "#폭립",
-          "#버거",
-          "#25주년",
-          "#DiscoverU"
-        ],
-        "alt_texts": [
-          "USJ 스튜디오 투어 레스토랑 외관",
-          "USJ 초대형 스테이크 메뉴",
-          "USJ 폭립 메뉴",
-          "USJ BLT 버거 메뉴",
-          "USJ 25주년 기념 이벤트 포스터"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 USJ 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 메뉴에 대한 높은 관심, 방문 계획 구체화 / 이 콘텐츠의 강점: USJ 내 최신 인기 맛집 정보, 구체적인 메뉴 소개",
-      "image": {
-        "keyword": "USJ, Studio Tours Restaurant, American food, steak, ribs, burger, Osaka, Universal Studios Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/USJ,-Studio-Tours-Restaurant,-American-food,-steak,-ribs,-burger,-Osaka,-Universal-Studios-Japan",
-        "pexels_url": "https://www.pexels.com/search/USJ,%20Studio%20Tours%20Restaurant,%20American%20food,%20steak,%20ribs,%20burger,%20Osaka,%20Universal%20Studios%20Japan/"
-      }
-    },
-    {
-      "id": "plan_23fbf6da",
-      "created_at": "2026-03-05T05:06:07.130401",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジェットスター「最強開運日」セールはじまる。国内全路線777円～、アジア全路線7777円～",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090656.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 가는 항공권 역대급 특가 찬스! 놓치면 후회해요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 최저가 777엔부터!✈️",
-        "cards": [
-          {
-            "title": "파격 세일!",
-            "content": "일본 국내선 및 아시아 전 노선 초특가 세일이 시작됩니다! 지금 바로 확인하세요.",
-            "alt_text": "일본 항공권 특가 세일 시작 알림 이미지"
-          },
-          {
-            "title": "국내선 777엔!",
-            "content": "일본 국내선은 편도 777엔부터 구매 가능해요. 짧은 여행에도 부담 없어요!",
-            "alt_text": "일본 국내선 항공권 777엔 가격 강조 이미지"
-          },
-          {
-            "title": "아시아선 7777엔!",
-            "content": "한국에서 출발하는 아시아 노선도 편도 7777엔부터! 알뜰하게 일본 여행 준비하세요.",
-            "alt_text": "아시아 노선 항공권 7777엔 가격 강조 이미지"
-          },
-          {
-            "title": "행사 기간",
-            "content": "세일은 3월 5일 12시부터 3월 9일 16시 59분까지 진행됩니다. 서둘러야 해요!",
-            "alt_text": "항공권 세일 기간 표시 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 노선은 금방 매진될 수 있으니, 여행 계획이 있다면 지금 바로 예약하는 것을 추천해요. 수하물 규정은 꼭 확인하세요!",
-            "alt_text": "항공권 예약 꿀팁 관련 이미지"
-          }
-        ],
-        "caption": "🚨긴급 알림🚨\n\n일본 여행 최저가 찬스가 돌아왔어요! ✈️\n\n✈️ 국내선 편도 777엔부터!\n✈️ 아시아 노선 편도 7777엔부터!\n\n3월 5일 12시 ~ 3월 9일 16시 59분까지!\n\n일본 여행 계획 중이라면 이 기회 절대 놓치지 마세요! 지금 바로 항공권 확인하러 가기! 👇\n\n#일본여행 #플라잉재팬 #일본항공권 #특가항공권 #일본여행준비 #항공권세일 #가성비여행 #일본자유여행 #도쿄여행 #오사카여행 #후쿠오카여행 #여행정보 #여행스타그램 #일본 #일본직항",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공권",
-          "#특가항공권",
-          "#일본여행준비",
-          "#항공권세일",
-          "#가성비여행",
-          "#일본자유여행",
-          "#도쿄여행",
-          "#오사카여행",
-          "#후쿠오카여행",
-          "#여행정보",
-          "#여행스타그램",
-          "#일본",
-          "#일본직항"
-        ],
-        "alt_texts": [
-          "일본 항공권 특가 세일 시작 알림 이미지",
-          "일본 국내선 항공권 777엔 가격 강조 이미지",
-          "아시아 노선 항공권 7777엔 가격 강조 이미지",
-          "항공권 세일 기간 표시 이미지",
-          "항공권 예약 꿀팁 관련 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보로 즉각적인 관심 유발 및 행동 촉구",
-      "image": {
-        "keyword": "Japan flight sale, cheap flights to Japan, budget travel Japan, airline ticket promotion",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-flight-sale,-cheap-flights-to-Japan,-budget-travel-Japan,-airline-ticket-promotion",
-        "pexels_url": "https://www.pexels.com/search/Japan%20flight%20sale,%20cheap%20flights%20to%20Japan,%20budget%20travel%20Japan,%20airline%20ticket%20promotion/"
       }
     }
   ]
