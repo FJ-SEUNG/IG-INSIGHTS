@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-07T23:41:12.899637",
+  "last_updated": "2026-03-08T02:53:34.921823",
   "plans": [
+    {
+      "id": "plan_f3bd8d92",
+      "created_at": "2026-03-08T02:53:32.921640",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、「ホテルチェーンスペシャルオファー」　最大23％オフ",
+        "url": "https://www.traicy.com/posts/20260307364568/",
+        "date": "Sat, 07 Mar 2026 03:45:02 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 호텔 예약 시 최대 23% 할인받을 수 있는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "🔥일본 호텔 최대 23% 할인!",
+        "cards": [
+          {
+            "title": "할인 기간",
+            "content": "2024년 3월 1일 오전 10시부터 3월 20일 23시 59분까지 楽天 트래블에서 '호텔 체인 스페셜 오퍼'가 진행됩니다.",
+            "alt_text": "달력에 표시된 3월 1일부터 3월 20일까지의 할인 기간"
+          },
+          {
+            "title": "할인율",
+            "content": "국내 숙박에 대해 20%, 15%, 10%, 8%, 5%, 4% 할인 쿠폰이 제공되며, 이 쿠폰들을 중복 사용하여 최대 23%까지 할인받을 수 있습니다.",
+            "alt_text": "다양한 할인율이 적힌 쿠폰 이미지"
+          },
+          {
+            "title": "대상",
+            "content": "일본 전역의 호텔 체인을 대상으로 하는 프로모션으로, 다양한 지역의 숙소를 저렴하게 예약할 기회입니다.",
+            "alt_text": "일본 지도 위에 여러 호텔 아이콘이 표시된 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "楽天 트래블 웹사이트 또는 앱에서 '호텔 체인 스페셜 오퍼' 페이지를 통해 해당 쿠폰을 확인하고 예약 시 적용하면 됩니다.",
+            "alt_text": "스마트폰으로 楽天 트래블 앱을 사용하는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획을 미리 세우고, 3월 1일 프로모션 시작 시간에 맞춰 원하는 숙소를 빠르게 예약하는 것이 좋습니다. 인기 있는 호텔은 조기 마감될 수 있습니다.",
+            "alt_text": "여행 계획을 세우는 모습과 빠른 예약을 상징하는 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수 꿀팁! 楽天 트래블에서 최대 23% 할인받고 호텔 예약하세요! \n\n✅ 기간: 3월 1일 10시 ~ 3월 20일\n✅ 할인: 최대 23% (쿠폰 중복 사용)\n\n지금 바로 楽天 트래블에서 할인 쿠폰 확인하고 저렴하게 숙소 예약하세요! \n\n#일본여행 #호텔할인 #楽天トラベル #일본숙소 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본호텔",
+          "#楽天トラベル",
+          "#일본숙소",
+          "#해외여행",
+          "#여행정보",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본",
+          "#여행",
+          "#할인정보",
+          "#꿀팁",
+          "#호텔예약"
+        ],
+        "alt_texts": [
+          "달력에 표시된 3월 1일부터 3월 20일까지의 할인 기간",
+          "다양한 할인율이 적힌 쿠폰 이미지",
+          "일본 지도 위에 여러 호텔 아이콘이 표시된 이미지",
+          "스마트폰으로 楽天 트래블 앱을 사용하는 모습",
+          "여행 계획을 세우는 모습과 빠른 예약을 상징하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 6시-9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시로 즉각적인 행동 유도 가능",
+      "image": {
+        "keyword": "japan hotel discount offer, travel booking app, calendar with dates highlighted, coupon stacking, travel planning",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount-offer,-travel-booking-app,-calendar-with-dates-highlighted,-coupon-stacking,-travel-planning",
+        "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount%20offer,%20travel%20booking%20app,%20calendar%20with%20dates%20highlighted,%20coupon%20stacking,%20travel%20planning/"
+      }
+    },
+    {
+      "id": "plan_3c8836da",
+      "created_at": "2026-03-08T02:53:21.581528",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 伊香保、1泊2食バイキングが最大23％オフに。上州グルメと石段街の名湯",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091321.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소, 1박 2식 뷔페 최대 23% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 23% 할인!♨️",
+        "cards": [
+          {
+            "title": "할인 정보",
+            "content": "오에도 온천 이야기 프리미엄 이카호에서 1박 2식 뷔페가 최대 23% 할인됩니다. 료칸 숙박 시 적용되는 특별 세일 플랜입니다.",
+            "alt_text": "온천 료칸 외관 이미지"
+          },
+          {
+            "title": "할인 기간",
+            "content": "본 할인 행사는 3월 20일까지 진행되는 '라쿠텐 트래블 슈퍼 세일' 기간에 참여 가능합니다. 봄, 골든 위크, 여름 방학 여행까지 예약 가능해요.",
+            "alt_text": "달력에 표시된 3월 20일 날짜 이미지"
+          },
+          {
+            "title": "할인율",
+            "content": "세일 플랜과 쿠폰을 함께 사용하면 최대 23%까지 할인 혜택을 받을 수 있습니다. 놓치면 후회할 역대급 할인율!",
+            "alt_text": "퍼센트 할인율이 표시된 이미지"
+          },
+          {
+            "title": "지역 특색",
+            "content": "군마현의 상주 지역 특산물 요리와 이시단가이(돌계단 거리)의 명온천을 즐길 수 있는 기회입니다.",
+            "alt_text": "일본 전통 온천 거리 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 있는 숙소는 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 라쿠텐 트래블에서 '슈퍼 세일' 대상 숙소를 확인하세요.",
+            "alt_text": "여행 가방과 여권 이미지"
+          }
+        ],
+        "caption": "♨️ 일본 온천 여행 계획 중이라면 주목! ♨️\n\n오에도 온천 이야기 프리미엄 이카호에서 1박 2식 뷔페를 최대 23% 할인된 가격으로 즐길 수 있는 절호의 찬스!\n\n3월 20일까지 진행되는 라쿠텐 트래블 슈퍼 세일을 통해 봄, GW, 여름 휴가 숙박까지 미리 예약하세요.\n\n상주 지역의 맛있는 음식과 돌계단 거리의 온천을 합리적인 가격으로 만끽할 수 있는 기회! 🇯🇵✨\n\n#일본온천 #료칸할인 #라쿠텐트래블 #일본여행특가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#료칸",
+          "#일본숙소",
+          "#오에도온천",
+          "#이카호온천",
+          "#라쿠텐트래블",
+          "#일본여행할인",
+          "#일본여행팁",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본온천여행"
+        ],
+        "alt_texts": [
+          "온천 료칸 외관 이미지",
+          "달력에 표시된 3월 20일 날짜 이미지",
+          "퍼센트 할인율이 표시된 이미지",
+          "일본 전통 온천 거리 이미지",
+          "여행 가방과 여권 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획하는 2040 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 확산 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 숙소 정보 제공으로 즉각적인 예약 유도 가능",
+      "image": {
+        "keyword": "japanese hot spring ryokan discount buffet",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan-discount-buffet",
+        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan%20discount%20buffet/"
+      }
+    },
     {
       "id": "plan_01d425db",
       "created_at": "2026-03-07T23:41:10.899447",
@@ -923,160 +1077,6 @@
         "keyword": "Japan flight sale, cheap flights to Japan, budget travel Japan, airline ticket promotion",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-flight-sale,-cheap-flights-to-Japan,-budget-travel-Japan,-airline-ticket-promotion",
         "pexels_url": "https://www.pexels.com/search/Japan%20flight%20sale,%20cheap%20flights%20to%20Japan,%20budget%20travel%20Japan,%20airline%20ticket%20promotion/"
-      }
-    },
-    {
-      "id": "plan_2ae11e72",
-      "created_at": "2026-03-05T00:04:21.975370",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "三井ガーデンホテルズ・sequence、iPhoneやApple Watchの「ウォレット」がルームキーに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090544.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "아이폰, 애플워치로 호텔 문을 여는 신기술!"
-      },
-      "content": {
-        "thumbnail_title": " hotel 🔑 wallet",
-        "cards": [
-          {
-            "title": "신규 서비스",
-            "content": "일본 3개 호텔에서 3월 4일부터 아이폰, 애플워치로 객실 키 사용 가능!",
-            "alt_text": "아이폰으로 호텔 객실 문을 여는 모습"
-          },
-          {
-            "title": "대상 호텔",
-            "content": "긴자 프리미어, 시퀀스 미야시타파크, 시퀀스 수도바시 3개 지점에서 서비스 제공",
-            "alt_text": "호텔 외관 이미지"
-          },
-          {
-            "title": "이용 방법",
-            "content": "애플 월렛에 호텔 키를 추가하여 간편하게 사용 가능",
-            "alt_text": "애플 월렛에 추가된 호텔 키 이미지"
-          },
-          {
-            "title": "편의성 UP!",
-            "content": "무거운 카드 키 없이 스마트폰 하나로 편리하게 호텔 이용",
-            "alt_text": "스마트폰을 들고 호텔 복도를 걷는 사람"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 전 호텔 예약 시, 애플 월렛 키 서비스 지원 여부 확인하면 더욱 편리한 여행 가능!",
-            "alt_text": "호텔 예약 페이지 이미지"
-          }
-        ],
-        "caption": "✨일본 여행, 더욱 스마트하게 즐겨보세요!✨\n\n긴자 프리미어, 시퀀스 미야시타파크, 시퀀스 수도바시 3개 호텔에서 3월 4일부터 아이폰과 애플워치로 객실 키 사용이 가능해졌어요! 🤩\n\n애플 월렛에 호텔 키를 추가하면 카드 없이도 편리하게 객실 출입이 가능하답니다.\n\n여행의 편리함을 더해줄 새로운 기술, 놓치지 마세요!\n\n#일본호텔 #아이폰호텔키 #애플워치호텔키 #스마트여행 #플라잉재팬 #일본여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본호텔",
-          "#아이폰",
-          "#애플워치",
-          "#호텔키",
-          "#스마트여행",
-          "#도쿄여행",
-          "#긴자",
-          "#시부야",
-          "#여행꿀팁",
-          "#일본숙소",
-          "#호텔추천",
-          "#일본정보",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "아이폰으로 호텔 객실 문을 여는 모습",
-          "호텔 외관 이미지",
-          "애플 월렛에 추가된 호텔 키 이미지",
-          "스마트폰을 들고 호텔 복도를 걷는 사람",
-          "호텔 예약 페이지 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 최신 기술에 관심 있는 20-40대 일본 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 습득 및 공유, 기대감 상승 / 이 콘텐츠의 강점: 최신 기술 도입 소식을 발 빠르게 전달하여 얼리어답터에게 어필",
-      "image": {
-        "keyword": "iPhone Apple Watch hotel room key",
-        "unsplash_url": "https://unsplash.com/s/photos/iPhone-Apple-Watch-hotel-room-key",
-        "pexels_url": "https://www.pexels.com/search/iPhone%20Apple%20Watch%20hotel%20room%20key/"
-      }
-    },
-    {
-      "id": "plan_799d9562",
-      "created_at": "2026-03-05T00:04:16.823511",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東急世田谷線、1日乗車券「世田谷線散策きっぷ」を100円に。開通100周年記念で",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090549.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 근교 가성비 만점! 100주년 기념 100엔으로 즐기는 특별한 열차 티켓!"
-      },
-      "content": {
-        "thumbnail_title": "도쿄 100엔 열차 🚃",
-        "cards": [
-          {
-            "title": "100주년 기념",
-            "content": "도쿄의 명물, 도큐 세타가야선이 개통 100주년을 맞이했습니다! 이를 기념하여 특별한 '세타가야선 산책 티켓'을 100엔에 판매합니다.",
-            "alt_text": "도큐 세타가야선 열차 이미지"
-          },
-          {
-            "title": "기간 한정!",
-            "content": "이 특별한 100엔 티켓은 2024년 3월 13일부터 3월 19일까지 단 7일간만 구매 가능합니다. 놓치지 마세요!",
-            "alt_text": "달력에 표시된 3월 13일부터 19일까지의 날짜"
-          },
-          {
-            "title": "무제한 탑승",
-            "content": "티켓 한 장으로 해당 기간 동안 세타가야선을 무제한으로 이용할 수 있어, 하루 종일 여유롭게 도쿄의 숨겨진 매력을 탐험하기 좋습니다.",
-            "alt_text": "세타가야선 노선도 이미지"
-          },
-          {
-            "title": "가성비 최고!",
-            "content": "평소 300엔 이상인 이 티켓을 100엔이라는 파격적인 가격에 이용할 수 있는 절호의 기회입니다. 교통비를 크게 절약할 수 있어요.",
-            "alt_text": "돈이 쌓여있는 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "세타가야선 주변에는 아기자기한 상점과 카페, 맛집이 많습니다. 100엔 티켓으로 알뜰하게 여행하며 현지 감성을 만끽해보세요!",
-            "alt_text": "일본의 예쁜 골목길 이미지"
-          }
-        ],
-        "caption": "도쿄 여행 중이라면 주목! 🚃\n개통 100주년을 기념하여 도큐 세타가야선 '세타가야선 산책 티켓'이 단돈 100엔에!\n✅ 기간: 3월 13일(수) ~ 3월 19일(화)\n✅ 100엔으로 하루 종일 무제한 탑승 가능!\n도쿄의 숨은 명소와 맛집을 저렴하게 탐방할 수 있는 절호의 찬스! 놓치지 마세요! 😉\n\n#일본여행 #도쿄여행 #세타가야선 #100엔티켓 #가성비여행 #도큐전철 #일본교통 #여행정보 #일본소식 #플라잉재팬 #도쿄근교 #일본자유여행 #여행꿀팁 #일본축제 #한정티켓",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#세타가야선",
-          "#100엔티켓",
-          "#가성비여행",
-          "#도큐전철",
-          "#일본교통",
-          "#여행정보",
-          "#일본소식",
-          "#도쿄근교",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#일본축제",
-          "#한정티켓"
-        ],
-        "alt_texts": [
-          "도큐 세타가야선 열차 이미지",
-          "달력에 표시된 3월 13일부터 19일까지의 날짜",
-          "세타가야선 노선도 이미지",
-          "돈이 쌓여있는 이미지",
-          "일본의 예쁜 골목길 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 근교의 가성비 좋은 여행을 선호하는 한국인 여행자 / 최적 게시 시간: 목요일 오전 10시 (여행 계획을 세우는 시간) / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 파격적인 가격 할인 정보, 명확한 기간 명시, 실질적인 여행 혜택 제공",
-      "image": {
-        "keyword": "Tokyu Setagaya Line 100 yen ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyu-Setagaya-Line-100-yen-ticket",
-        "pexels_url": "https://www.pexels.com/search/Tokyu%20Setagaya%20Line%20100%20yen%20ticket/"
       }
     }
   ]
