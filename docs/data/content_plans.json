@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-08T23:42:56.287079",
+  "last_updated": "2026-03-09T02:54:56.898970",
   "plans": [
+    {
+      "id": "plan_60aaba88",
+      "created_at": "2026-03-09T02:54:54.898769",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニー「ヴァネロペ」3～4月新発売グッズをいち早くお届け！　カチューシャやチャームセットに注目",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091560.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드 도쿄에서 펼쳐지는 4월 신상 굿즈, 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니 4월 신상✨",
+        "cards": [
+          {
+            "title": "새로운 테마!",
+            "content": "도쿄 디즈니랜드에서 4월 9일부터 '바넬로페의 스위츠 팝 월드' 테마를 선보입니다. 4월 중순까지 새로운 굿즈가 순차적으로 출시될 예정입니다.",
+            "alt_text": "도쿄 디즈니랜드의 '바넬로페의 스위츠 팝 월드' 테마를 상징하는 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "이번 신상 굿즈에는 특히 바넬로페를 모티브로 한 귀여운 카츄샤와 참 세트가 포함되어 있어 소장 가치가 높습니다. 3월 말부터 순차적으로 발매됩니다.",
+            "alt_text": "바넬로페 테마의 카츄샤와 참 세트 이미지"
+          },
+          {
+            "title": "쇼핑 리스트 UP!",
+            "content": "여행 계획 중이라면 4월 9일 이후 도쿄 디즈니랜드 방문을 추천합니다. 특별한 날짜에 맞춰 방문하시면 신상 굿즈를 가장 먼저 만나볼 수 있습니다.",
+            "alt_text": "도쿄 디즈니랜드에서 쇼핑하는 사람들의 모습"
+          },
+          {
+            "title": "현지 정보!",
+            "content": "행사 기간과 신상 굿즈 발매 일정을 미리 확인하고 방문하시면 더욱 알찬 쇼핑을 즐길 수 있습니다. 4월 9일 이후 방문 시 신상 굿즈 득템 기회를 노려보세요!",
+            "alt_text": "디즈니 스토어 내부의 다양한 굿즈들"
+          },
+          {
+            "title": "방문 꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 굿즈가 있다면 오픈 시간대에 맞춰 방문하는 것을 추천합니다. 공식 홈페이지에서 판매 정보 확인은 필수!",
+            "alt_text": "디즈니랜드 입구에서 줄을 서서 기다리는 사람들"
+          }
+        ],
+        "caption": "💖 4월 도쿄 디즈니랜드 여행 예정이라면 주목! 💖\n\n4월 9일부터 '바넬로페의 스위츠 팝 월드' 테마와 함께 신상 굿즈가 쏟아져 나와요! 🤩\n\n특히 귀여운 카츄샤와 참 세트는 꼭 득템해야 할 아이템! 🎀\n\n여행 계획에 참고하셔서 설레는 디즈니 쇼핑 즐기세요! ✨\n\n#도쿄디즈니랜드 #바넬로페 #디즈니굿즈 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니랜드",
+          "#디즈니",
+          "#바넬로페",
+          "#디즈니굿즈",
+          "#도쿄여행",
+          "#일본쇼핑",
+          "#신상굿즈",
+          "#4월여행",
+          "#여행정보",
+          "#디즈니씨",
+          "#일본자유여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드의 '바넬로페의 스위츠 팝 월드' 테마를 상징하는 이미지",
+          "바넬로페 테마의 카츄샤와 참 세트 이미지",
+          "도쿄 디즈니랜드에서 쇼핑하는 사람들의 모습",
+          "디즈니 스토어 내부의 다양한 굿즈들",
+          "디즈니랜드 입구에서 줄을 서서 기다리는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 4월 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 / 기대 반응: 정보 습득 및 공유, 여행 계획 업데이트 / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 굿즈 정보를 제공하여 여행 계획에 실질적인 도움 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland, Vanellope, new merchandise, April event, cute accessories",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Vanellope,-new-merchandise,-April-event,-cute-accessories",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Vanellope,%20new%20merchandise,%20April%20event,%20cute%20accessories/"
+      }
+    },
+    {
+      "id": "plan_6c6569c2",
+      "created_at": "2026-03-09T02:54:48.097183",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "どのパフェにする？　アイスクリームコーンで「パルパルーザ・パルフェ」作ってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091567.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드 한정! 아이스크림 콘으로 즐기는 특별한 파르페 등장!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 파르페 출시!🍦",
+        "cards": [
+          {
+            "title": "신상 파르페",
+            "content": "도쿄 디즈니랜드에서 '바넬로피의 스위츠 팝 월드' 개최를 기념하여 '파르파루자 파르페' 메뉴를 3월 9일부터 판매합니다.",
+            "alt_text": "아이스크림 콘에 담긴 화려한 파르페 이미지"
+          },
+          {
+            "title": "특별한 비주얼",
+            "content": "아이스크림 콘을 활용한 독특한 비주얼로 눈길을 사로잡으며, 달콤한 디저트를 좋아하는 여행객들에게 최고의 선택이 될 것입니다.",
+            "alt_text": "파르페 위로 쏟아지는 아이스크림 모습"
+          },
+          {
+            "title": "디즈니랜드 한정",
+            "content": "이 특별한 파르페는 오직 도쿄 디즈니랜드에서만 맛볼 수 있는 한정 메뉴로, 여행 기념으로도 손색없습니다.",
+            "alt_text": "도쿄 디즈니랜드 로고와 파르페 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "달콤한 디저트와 함께 디즈니랜드에서의 추억을 더욱 특별하게 만들고 싶다면, 지금 바로 도쿄 디즈니랜드를 방문해보세요!",
+            "alt_text": "파르페를 들고 웃고 있는 사람들의 모습"
+          },
+          {
+            "title": "방문 팁",
+            "content": "인기 메뉴이므로 방문 시 품절 가능성이 있습니다. 오픈 시간에 맞춰 방문하거나, 식사 시간을 피해 방문하는 것을 추천합니다.",
+            "alt_text": "사람들이 줄 서서 주문하는 모습"
+          }
+        ],
+        "caption": "🍦✨도쿄 디즈니랜드에서 특별한 디저트가 찾아왔어요! ✨🍦\n\n'바넬로피의 스위츠 팝 월드' 개최 기념으로, 3월 9일부터 '파르파루자 파르페'가 판매 시작됩니다! 🤩\n\n아이스크림 콘에 담긴 독특한 비주얼과 달콤함으로 여러분의 디즈니랜드 방문을 더욱 즐겁게 만들어 줄 거예요. 💖\n\n이 특별한 한정 메뉴, 놓치지 말고 꼭 맛보세요! 😋\n\n#디즈니랜드 #도쿄디즈니랜드 #파르페 #한정메뉴 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니랜드",
+          "#파르페",
+          "#한정메뉴",
+          "#디저트",
+          "#여행정보",
+          "#도쿄여행",
+          "#일본디저트",
+          "#신메뉴",
+          "#여행팁",
+          "#동심",
+          "#달콤",
+          "#꼭먹어야해"
+        ],
+        "alt_texts": [
+          "아이스크림 콘에 담긴 화려한 파르페 이미지",
+          "파르페 위로 쏟아지는 아이스크림 모습",
+          "도쿄 디즈니랜드 로고와 파르페 이미지",
+          "파르페를 들고 웃고 있는 사람들의 모습",
+          "사람들이 줄 서서 주문하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 디즈니랜드 방문 계획에 대한 긍정적 영향 / 이 콘텐츠의 강점: 최신 출시 정보, 시각적 매력, 특별한 경험 강조",
+      "image": {
+        "keyword": "Tokyo Disneyland Parfait, Ice cream cone parfait, Limited edition dessert, Disney sweets, Japan travel food",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Parfait,-Ice-cream-cone-parfait,-Limited-edition-dessert,-Disney-sweets,-Japan-travel-food",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Parfait,%20Ice%20cream%20cone%20parfait,%20Limited%20edition%20dessert,%20Disney%20sweets,%20Japan%20travel%20food/"
+      }
+    },
     {
       "id": "plan_c113e05f",
       "created_at": "2026-03-08T23:42:54.286898",
@@ -923,160 +1077,6 @@
         "keyword": "Osaka hotel discount, hot spring, USJ, travel sale",
         "unsplash_url": "https://unsplash.com/s/photos/Osaka-hotel-discount,-hot-spring,-USJ,-travel-sale",
         "pexels_url": "https://www.pexels.com/search/Osaka%20hotel%20discount,%20hot%20spring,%20USJ,%20travel%20sale/"
-      }
-    },
-    {
-      "id": "plan_b06edfbe",
-      "created_at": "2026-03-06T00:03:54.683526",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ハピラインふくい、しきぶ駅開業で硬券入場券・フリーきっぷ発売。当日現地限定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090887.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 철도 여행의 새로운 추억을 만들 절호의 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨새로운 기차역 개업! 기념 굿즈 득템 찬스✨",
-        "cards": [
-          {
-            "title": "신역 개업!",
-            "content": "일본 후쿠이현에 '시키부역'이 2024년 3월 14일 새롭게 문을 엽니다. 역 이름에 '시키부'라는 명칭이 들어간 것은 일본 최초입니다.",
-            "alt_text": "새로운 기차역 개업을 알리는 안내문 사진"
-          },
-          {
-            "title": "기념 굿즈",
-            "content": "개업을 기념하여 추억을 간직할 수 있는 '경화입장권'과 '프리 티켓'이 당일 현장에서만 한정 판매됩니다.",
-            "alt_text": "기념 입장권과 프리 티켓 디자인 사진"
-          },
-          {
-            "title": "개업 행사",
-            "content": "개업식과 역 앞 광장 개장 기념식이 3월 14일 시키부역 역 앞 광장에서 개최됩니다. 특별한 이벤트가 있을 수 있으니 주목하세요!",
-            "alt_text": "개업 행사 장소인 역 앞 광장 사진"
-          },
-          {
-            "title": "여행 팁",
-            "content": "후쿠이현은 아름다운 자연과 전통적인 볼거리가 많은 지역입니다. 시키부역 개업을 기념하여 후쿠이 여행을 계획해 보는 것은 어떨까요?",
-            "alt_text": "후쿠이현의 아름다운 자연 풍경 사진"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "기념 굿즈는 당일 현장에서만 구매 가능하며, 한정 수량으로 조기 소진될 수 있습니다. 관심 있다면 서둘러 방문하세요!",
-            "alt_text": "한정판 굿즈 구매를 독려하는 안내문 사진"
-          }
-        ],
-        "caption": "✨일본 철도 여행 팬 주목!✨\n후쿠이현에 '시키부역'이 2024년 3월 14일 개업합니다! 🎉\n개업 기념으로 특별한 '경화입장권'과 '프리 티켓'이 당일 현장에서 한정 판매된다는 사실!\n잊지 못할 여행 기념품을 득템할 절호의 기회, 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #후쿠이여행 #시키부역 #일본기차여행 #기념품 #여행정보 #일본신상 #일본축제 #일본이벤트 #여행꿀팁 #일본가볼만한곳 #일본기차 #여행스타그램 #일본정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠이여행",
-          "#시키부역",
-          "#일본기차여행",
-          "#기념품",
-          "#여행정보",
-          "#일본신상",
-          "#일본축제",
-          "#일본이벤트",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#일본기차",
-          "#여행스타그램",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "새로운 기차역 개업을 알리는 안내문 사진",
-          "기념 입장권과 프리 티켓 디자인 사진",
-          "개업 행사 장소인 역 앞 광장 사진",
-          "후쿠이현의 아름다운 자연 풍경 사진",
-          "한정판 굿즈 구매를 독려하는 안내문 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 철도 여행에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 5시 ~ 7시 / 기대 반응: 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 기념품 정보와 시의성 있는 이벤트 정보 제공",
-      "image": {
-        "keyword": "Shikibu Station opening, Fukui Prefecture, Japan, commemorative ticket, special event",
-        "unsplash_url": "https://unsplash.com/s/photos/Shikibu-Station-opening,-Fukui-Prefecture,-Japan,-commemorative-ticket,-special-event",
-        "pexels_url": "https://www.pexels.com/search/Shikibu%20Station%20opening,%20Fukui%20Prefecture,%20Japan,%20commemorative%20ticket,%20special%20event/"
-      }
-    },
-    {
-      "id": "plan_c94b1d5b",
-      "created_at": "2026-03-06T00:03:46.452250",
-      "category": "tips",
-      "priority": "low",
-      "status": "new",
-      "source": {
-        "title": "買い物かごにセットできる「sou・sou」特大バッグが付録。大人のおしゃれ手帖 4月号、本日発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2090982.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "하",
-        "appeal": "일본 잡지 부록으로 나온 특대형 쇼핑백 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "일본 잡지 부록 득템찬스🛍️",
-        "cards": [
-          {
-            "title": "어른의 옷차림",
-            "content": "일본에서 '어른의 옷차림' 4월호가 3월 6일에 발매되었어요. 가격은 1640엔입니다.",
-            "alt_text": "일본 잡지 '어른의 옷차림' 4월호 표지"
-          },
-          {
-            "title": "특대형 쇼핑백",
-            "content": "이번 호 부록은 장바구니에 그대로 걸 수 있는 'sou・sou' 디자인의 특대형 쇼핑백이에요.",
-            "alt_text": "sou・sou 디자인 특대형 쇼핑백 이미지"
-          },
-          {
-            "title": "쇼핑 필수템",
-            "content": "평소 일본 여행 시 쇼핑을 즐기신다면, 이 가방 하나로 짐을 넉넉하게 담을 수 있어요.",
-            "alt_text": "쇼핑백에 물건을 담는 모습"
-          },
-          {
-            "title": "실용성 UP",
-            "content": "일본 현지 마트나 백화점 쇼핑 시 정말 유용하게 사용할 수 있을 거예요.",
-            "alt_text": "활용도 높은 쇼핑백 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "일본 서점이나 편의점에서 구매 가능하며, 한정 수량일 수 있으니 서둘러 확인해보세요!",
-            "alt_text": "일본 서점 진열대 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 쇼핑 계획 있다면 주목!👀✨\n'어른의 옷차림' 4월호 부록으로 나온 'sou・sou' 디자인 특대형 쇼핑백을 소개합니다.\n장바구니에 그대로 걸 수 있어 마트나 쇼핑 시 정말 유용해요! 🛍️\n1640엔으로 득템할 수 있는 실용템, 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #일본쇼핑 #일본잡지 #sou_sou",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#일본잡지",
-          "#sou_sou",
-          "#일본어른의옷차림",
-          "#일본여행필수템",
-          "#일본마트",
-          "#일본생활",
-          "#일본득템",
-          "#일본정보",
-          "#여행준비",
-          "#일본직구",
-          "#여행꿀팁",
-          "#쇼핑백"
-        ],
-        "alt_texts": [
-          "일본 잡지 '어른의 옷차림' 4월호 표지",
-          "sou・sou 디자인 특대형 쇼핑백 이미지",
-          "쇼핑백에 물건을 담는 모습",
-          "활용도 높은 쇼핑백 이미지",
-          "일본 서점 진열대 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 20-40대 여성 / 최적 게시 시간: 오후 6-8시 / 기대 반응: '이런 것도 있어요?', '당장 사야지!' 등의 구매 욕구 자극 / 이 콘텐츠의 강점: 실용적인 부록 정보로 여행객에게 실질적인 도움 제공",
-      "image": {
-        "keyword": "sou sou tote bag, japanese magazine freebie, shopping bag, japan travel shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/sou-sou-tote-bag,-japanese-magazine-freebie,-shopping-bag,-japan-travel-shopping",
-        "pexels_url": "https://www.pexels.com/search/sou%20sou%20tote%20bag,%20japanese%20magazine%20freebie,%20shopping%20bag,%20japan%20travel%20shopping/"
       }
     }
   ]
