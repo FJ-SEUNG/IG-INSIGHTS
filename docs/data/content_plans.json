@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-10T02:46:24.353835",
+  "last_updated": "2026-03-10T23:47:11.250621",
   "plans": [
+    {
+      "id": "plan_68ca7404",
+      "created_at": "2026-03-10T23:47:09.250442",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハローキティ×Maison de FLEUR、ガバッと開く「いちご宝物ケース」本日発売。レッド/ピンクの2色",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092209.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "산리오 덕후 심쿵! 키티 x 메종 드 플뢰르 한정판 파우치 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💖키티 x 메종드플뢰르 💖",
+        "cards": [
+          {
+            "title": "오늘 출시!",
+            "content": "산리오의 아이콘 헬로키티와 프랑스 감성 브랜드 메종 드 플뢰르가 만났어요! 🍓 \"이치고 보물 케이스\"가 3월 11일 오늘 출시됩니다.",
+            "alt_text": "헬로키티와 메종 드 플뢰르 콜라보레이션 '이치고 보물 케이스' 이미지"
+          },
+          {
+            "title": "가격과 색상",
+            "content": "가격은 4,059엔이며, 사랑스러운 핑크와 강렬한 레드, 두 가지 색상으로 출시됩니다.",
+            "alt_text": "핑크색 '이치고 보물 케이스'와 레드색 '이치고 보물 케이스' 이미지"
+          },
+          {
+            "title": "디자인 포인트",
+            "content": "가방 속 자잘한 소품들을 깔끔하게 정리할 수 있는 실용적인 디자인이 특징입니다. 딸기 패턴과 키티 얼굴이 포인트!",
+            "alt_text": "케이스 내부 수납 공간을 보여주는 이미지"
+          },
+          {
+            "title": "구매 정보",
+            "content": "일본 현지 서점에서 구매 가능하며, 온라인 판매 정보는 별도 확인이 필요합니다. (출처: 트래블워치)",
+            "alt_text": "일본 서점에서 판매 중인 상품 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "일본 여행 중이라면 놓칠 수 없는 한정판 굿즈! 여행 기념품으로도, 데일리 파우치로도 완벽해요. 수량 한정일 수 있으니 서두르세요!",
+            "alt_text": "파우치를 활용한 여행 스냅 이미지"
+          }
+        ],
+        "caption": "💖 헬로키티와 메종 드 플뢰르가 만났다! 💖 \n🍓 \"이치고 보물 케이스\" 오늘 3월 11일 출시! 🍓\n사랑스러운 핑크와 레드 두 가지 색상, 가격은 4,059엔!\n여행 필수템으로 챙겨가세요! ✨\n\n#일본여행 #플라잉재팬 #헬로키티 #메종드플뢰르 #산리오 #한정판 #일본쇼핑 #여행준비 #파우치",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#헬로키티",
+          "#메종드플뢰르",
+          "#산리오",
+          "#한정판",
+          "#일본쇼핑",
+          "#여행준비",
+          "#파우치",
+          "#일본굿즈",
+          "#키티덕후",
+          "#일본직구",
+          "#일본기념품",
+          "#여행필수템",
+          "#쇼핑정보"
+        ],
+        "alt_texts": [
+          "헬로키티와 메종 드 플뢰르 콜라보레이션 '이치고 보물 케이스' 이미지",
+          "핑크색 '이치고 보물 케이스'와 레드색 '이치고 보물 케이스' 이미지",
+          "케이스 내부 수납 공간을 보여주는 이미지",
+          "일본 서점에서 판매 중인 상품 이미지",
+          "파우치를 활용한 여행 스냅 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 산리오 및 캐릭터 상품 애호가 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오후 1시-3시 / 기대 반응: 높은 관심과 구매 문의, 친구 태그 및 정보 공유 / 이 콘텐츠의 강점: 최신 출시 정보, 구체적인 가격과 색상 정보 제공, 타겟층의 높은 선호도",
+      "image": {
+        "keyword": "Hello Kitty Maison de FLEUR strawberry treasure case pouch launch",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-treasure-case-pouch-launch",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20treasure%20case%20pouch%20launch/"
+      }
+    },
+    {
+      "id": "plan_1a4cdac6",
+      "created_at": "2026-03-10T23:47:03.762845",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "本日発売「すき家 FAN BOOK」。トッピング70円引きorみそ汁無料のパスポート付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092211.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 대표 외식 체인 '스키야'의 신간 '스키야 FAN BOOK' 출시! 70엔 할인 또는 된장국 무료 혜택이 담긴 패스포트 증정!"
+      },
+      "content": {
+        "thumbnail_title": "✨스키야 신간! 70엔 할인권 득템!✨",
+        "cards": [
+          {
+            "title": "신간 출시!",
+            "content": "일본 대표 외식 체인 '스키야'에서 '스키야 FAN BOOK'을 3월 11일에 발매했습니다. 가격은 1210엔입니다.",
+            "alt_text": "스키야 FAN BOOK 표지 이미지"
+          },
+          {
+            "title": "특별 혜택!",
+            "content": "구매 시, 토핑 70엔 할인 또는 된장국 무료 혜택을 받을 수 있는 패스포트가 포함되어 있습니다. 알찬 구성으로 스키야를 더 저렴하게 즐기세요!",
+            "alt_text": "스키야 FAN BOOK 내 패스포트 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "이 책은 스키야의 다양한 메뉴와 정보를 담고 있으며, 특히 여행 중 간편하고 맛있는 식사를 찾는 분들에게 유용합니다.",
+            "alt_text": "스키야 인기 메뉴 이미지"
+          },
+          {
+            "title": "활용 꿀팁!",
+            "content": "패스포트는 일본 내 스키야 매장에서 사용 가능하며, 유효 기간 및 사용 조건은 책에 명시되어 있습니다. 방문 전 반드시 확인하세요.",
+            "alt_text": "스키야 매장 내부 이미지"
+          },
+          {
+            "title": "여행 필수품!",
+            "content": "일본 여행 중 저렴하고 맛있는 식사를 원한다면, 스키야 FAN BOOK을 주목하세요! 현지인처럼 스키야를 즐길 수 있는 기회입니다.",
+            "alt_text": "여행객이 스키야에서 식사하는 모습"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수템! 스키야 FAN BOOK 드디어 출시! 🇯🇵\n\n일본 대표 외식 체인 스키야에서 특별한 '스키야 FAN BOOK'이 3월 11일에 발매되었습니다! (가격: 1210엔)\n\n✨책 구매 시, 토핑 70엔 할인 또는 된장국 무료 혜택을 받을 수 있는 패스포트가 포함되어 있어요!\n\n일본 여행 중 스키야에서 알차고 맛있는 식사를 즐기고 싶다면, 이 책을 꼭 챙기세요!\n\n#플라잉재팬 #일본여행 #스키야 #일본맛집 #스키야FANBOOK #일본음식 #여행꿀팁 #해외여행 #일본생활 #일본음식추천 #가성비맛집 #여행정보 #일본식당 #일본식사",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스키야",
+          "#일본맛집",
+          "#스키야FANBOOK",
+          "#일본음식",
+          "#여행꿀팁",
+          "#해외여행",
+          "#일본생활",
+          "#일본음식추천",
+          "#가성비맛집",
+          "#여행정보",
+          "#일본식당",
+          "#일본식사",
+          "#일본외식"
+        ],
+        "alt_texts": [
+          "스키야 FAN BOOK 표지 이미지",
+          "스키야 FAN BOOK 내 패스포트 이미지",
+          "스키야 인기 메뉴 이미지",
+          "스키야 매장 내부 이미지",
+          "여행객이 스키야에서 식사하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 스키야 이용 경험이 있는 여행객들의 관심 집중, 신규 이용자들의 정보 탐색 증가 / 이 콘텐츠의 강점: 구체적인 가격, 혜택, 출시일 정보를 명확히 제공하여 실질적인 여행 계획에 도움을 줌.",
+      "image": {
+        "keyword": "Sukiya FAN BOOK, Sukiya menu, Japan travel food, Japanese restaurant discount coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/Sukiya-FAN-BOOK,-Sukiya-menu,-Japan-travel-food,-Japanese-restaurant-discount-coupon",
+        "pexels_url": "https://www.pexels.com/search/Sukiya%20FAN%20BOOK,%20Sukiya%20menu,%20Japan%20travel%20food,%20Japanese%20restaurant%20discount%20coupon/"
+      }
+    },
     {
       "id": "plan_ac18f465",
       "created_at": "2026-03-10T02:46:22.353661",
@@ -923,160 +1077,6 @@
         "keyword": "Capella Kyoto hotel opening, luxury hotel Kyoto, new hotel Japan, Kyoto travel accommodation",
         "unsplash_url": "https://unsplash.com/s/photos/Capella-Kyoto-hotel-opening,-luxury-hotel-Kyoto,-new-hotel-Japan,-Kyoto-travel-accommodation",
         "pexels_url": "https://www.pexels.com/search/Capella%20Kyoto%20hotel%20opening,%20luxury%20hotel%20Kyoto,%20new%20hotel%20Japan,%20Kyoto%20travel%20accommodation/"
-      }
-    },
-    {
-      "id": "plan_96f7006d",
-      "created_at": "2026-03-07T02:40:43.551440",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東海、武豊線・関西線の列車は原則全駅・全ドアで乗降可能に。ダイヤ改正でのワンマン化に先立ち変更",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091247.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 현지 열차 이용 시, 이제 모든 역에서 모든 문으로 타고 내릴 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "JR東海 3/8부터 🔑전역/전문 승하차 OPEN!",
-        "cards": [
-          {
-            "title": "3/8부터 승하차 OK",
-            "content": "JR 도카이의 다케유타선, 간사이 본선 보통/쾌속 열차는 2024년 3월 8일부터 모든 역에서 모든 문을 통해 승하차가 가능해집니다.",
-            "alt_text": "열차 문이 열려 있는 모습"
-          },
-          {
-            "title": "원맨 운전 대비",
-            "content": "이번 변경은 해당 노선의 원맨 운전(열차 내 승무원 1인 운행) 전환에 앞서 승객 편의를 높이기 위한 조치입니다.",
-            "alt_text": "열차 운전석 내부 모습"
-          },
-          {
-            "title": "이용 노선 확인!",
-            "content": "다케유타선(武豊線)과 간사이 본선(関西本線)의 보통 열차 및 쾌속 열차에 적용됩니다. (일부 열차 제외 가능성 확인 필요)",
-            "alt_text": "일본 철도 노선도 일부"
-          },
-          {
-            "title": "언제든 편리하게",
-            "content": "이전에는 특정 역이나 특정 문만 이용 가능했던 불편함이 해소되어, 더욱 쉽고 빠르게 열차를 이용할 수 있습니다.",
-            "alt_text": "환승하는 여행객 모습"
-          },
-          {
-            "title": "알아두면 좋은 팁",
-            "content": "새로운 승하차 방식에 익숙하지 않은 현지인이나 다른 여행객에게 양보하며 여유롭게 이용하는 센스를 발휘해 보세요!",
-            "alt_text": "안내 표지판을 보고 있는 여행객"
-          }
-        ],
-        "caption": "일본 여행 중 JR 이용 예정이라면 주목! 📢\n2024년 3월 8일부터 JR 도카이의 다케유타선과 간사이 본선에서 운행하는 보통/쾌속 열차는 이제 모든 역, 모든 문에서 승하차가 가능해요! 🤩\n원맨 운전 전환에 앞서 승객 편의를 위한 변경이니, 더욱 편리하게 일본 기차 여행을 즐겨보세요! 🚄\n\n#일본여행 #JR도카이 #일본철도 #교통정보 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR도카이",
-          "#일본기차",
-          "#간사이본선",
-          "#다케유타선",
-          "#일본교통",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본패스",
-          "#현지정보",
-          "#일본여행팁",
-          "#나고야근교",
-          "#오사카근교",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "열차 문이 열려 있는 모습",
-          "열차 운전석 내부 모습",
-          "일본 철도 노선도 일부",
-          "환승하는 여행객 모습",
-          "안내 표지판을 보고 있는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 철도 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 정보 습득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 실질적인 교통 편의 증진 정보로 여행 계획에 즉각적인 도움",
-      "image": {
-        "keyword": "japanese train, train door, station platform, japan railway map, travel convenience",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-train,-train-door,-station-platform,-japan-railway-map,-travel-convenience",
-        "pexels_url": "https://www.pexels.com/search/japanese%20train,%20train%20door,%20station%20platform,%20japan%20railway%20map,%20travel%20convenience/"
-      }
-    },
-    {
-      "id": "plan_95e23909",
-      "created_at": "2026-03-07T02:40:36.832194",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "亀の井ホテル 熱海、1泊2食ビュッフェが最大20％オフ。高台から街と海を一望、露天風呂付客室も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091308.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 20% 할인 찬스! 봄, GW, 여름휴가 미리 준비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 20% OFF!♨️",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "카메노이 호텔 아타미에서 1박 2식 뷔페 이용 시 최대 20% 할인 혜택을 제공합니다. 楽天トラベル 슈퍼SALE 기간에 맞춰 예약하세요!",
-            "alt_text": "할인율이 표시된 호텔 프로모션 이미지"
-          },
-          {
-            "title": "프로모션 기간",
-            "content": "본 프로모션은 3월 20일까지 진행됩니다. 봄, 골든위크, 여름휴가 여행 예약 시 활용 가능합니다.",
-            "alt_text": "달력에 표시된 프로모션 마감일"
-          },
-          {
-            "title": "호텔 특징",
-            "content": "고지대에 위치하여 아타미 시내와 바다를 한눈에 조망할 수 있습니다. 일부 객실에는 노천탕이 포함되어 있습니다.",
-            "alt_text": "아타미 바다가 보이는 호텔 객실 전경"
-          },
-          {
-            "title": "할인 방법",
-            "content": "할인 대상 숙박 플랜과 쿠폰을 함께 적용하면 최대 20% 할인을 받을 수 있습니다. 楽天トラベル에서 자세한 내용을 확인하세요.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기 있는 숙소는 조기에 마감될 수 있으니, 원하는 날짜가 있다면 서둘러 예약하는 것을 추천합니다.",
-            "alt_text": "예약 완료 버튼 이미지"
-          }
-        ],
-        "caption": "♨️일본 온천 여행 계획 중이신가요?♨️\n카메노이 호텔 아타미에서 1박 2식 뷔페를 최대 20% 할인된 가격으로 즐길 수 있는 절호의 찬스! ✨\n봄, 골든위크, 여름휴가까지 미리 예약하고 알뜰하게 여행 준비하세요!\n놓치기 아까운 20% 할인 혜택, 지금 바로 확인해보세요! 👇\n\n#일본온천 #카메노이호텔 #아타미 #일본여행 #할인정보 #楽天トラベル",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#아타미",
-          "#카메노이호텔",
-          "#일본숙소",
-          "#료칸",
-          "#일본여행준비",
-          "#할인정보",
-          "#여행스타그램",
-          "#봄여행",
-          "#여름휴가",
-          "#골든위크",
-          "#일본자유여행",
-          "#가성비여행"
-        ],
-        "alt_texts": [
-          "할인율이 표시된 호텔 프로모션 이미지",
-          "달력에 표시된 프로모션 마감일",
-          "아타미 바다가 보이는 호텔 객실 전경",
-          "할인 쿠폰 이미지",
-          "예약 완료 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 명확한 할인율과 기간, 매력적인 숙소 특징 제시",
-      "image": {
-        "keyword": "Kame no I Hotel Atami, Japanese hot spring, buffet, discount, Atami city view, sea view, room with open-air bath, Rakuten Travel sale",
-        "unsplash_url": "https://unsplash.com/s/photos/Kame-no-I-Hotel-Atami,-Japanese-hot-spring,-buffet,-discount,-Atami-city-view,-sea-view,-room-with-open-air-bath,-Rakuten-Travel-sale",
-        "pexels_url": "https://www.pexels.com/search/Kame%20no%20I%20Hotel%20Atami,%20Japanese%20hot%20spring,%20buffet,%20discount,%20Atami%20city%20view,%20sea%20view,%20room%20with%20open-air%20bath,%20Rakuten%20Travel%20sale/"
       }
     }
   ]
