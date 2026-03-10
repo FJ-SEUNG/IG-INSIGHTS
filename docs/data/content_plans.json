@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-09T23:48:39.232899",
+  "last_updated": "2026-03-10T02:46:24.353835",
   "plans": [
+    {
+      "id": "plan_ac18f465",
+      "created_at": "2026-03-10T02:46:22.353661",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ザ ロイヤルパークホテル 舞浜リゾート 東京ベイ、素泊まり25％オフに。ディズニー至近に開業、異国情緒あふれる750室",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091866.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니랜드 근처 신축 호텔, 25% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 근처 신축 호텔 25% OFF✨",
+        "cards": [
+          {
+            "title": "호텔 정보",
+            "content": "더 로열 파크 호텔 마이하마 리조트 도쿄 베이가 파격적인 할인가로 오픈했습니다. 디즈니랜드 도쿄 베이와 아주 가까운 거리에 위치해 있습니다.",
+            "alt_text": "일본 도쿄 디즈니랜드 근처의 신축 호텔 외관"
+          },
+          {
+            "title": "할인 정보",
+            "content": "현재 楽天 트래블 슈퍼세일을 통해 숙박비 25% 할인 프로모션을 진행 중입니다. 봄, 골든위크, 여름 휴가 시즌 예약도 포함됩니다.",
+            "alt_text": "할인율 25%를 나타내는 그래픽"
+          },
+          {
+            "title": "예약 기간",
+            "content": "본 프로모션은 3월 20일까지 진행되므로, 해당 기간 내에 서둘러 예약하시는 것이 좋습니다.",
+            "alt_text": "달력에 3월 20일이 표시된 이미지"
+          },
+          {
+            "title": "호텔 특징",
+            "content": "총 750개의 객실을 보유하고 있으며, 이국적인 분위기를 자랑합니다. 디즈니 여행객에게 최적의 숙소입니다.",
+            "alt_text": "호텔 내부 객실의 이국적인 인테리어"
+          },
+          {
+            "title": "꿀팁",
+            "content": "디즈니랜드 방문 시 이동 시간을 절약하고 싶다면, 이 기회를 놓치지 마세요! 25% 할인으로 더욱 알찬 여행을 계획할 수 있습니다.",
+            "alt_text": "디즈니랜드 성 앞에서 환하게 웃는 여행객"
+          }
+        ],
+        "caption": "💖디즈니랜드 여행 필수 코스!💖\n도쿄 베이 근처 신축 호텔 '더 로열 파크 호텔 마이하마 리조트'가 25% 할인된 가격으로 오픈했어요!\n봄, GW, 여름 휴가 시즌 예약도 포함된다니 지금 바로 楽天 트래블에서 확인해보세요! ✈️\n\n#일본여행 #도쿄 #디즈니랜드 #호텔할인 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#마이하마",
+          "#호텔추천",
+          "#일본숙소",
+          "#여행특가",
+          "#할인정보",
+          "#楽天트래블",
+          "#프로모션",
+          "#가족여행",
+          "#커플여행",
+          "#신축호텔",
+          "#도쿄숙소"
+        ],
+        "alt_texts": [
+          "일본 도쿄 디즈니랜드 근처의 신축 호텔 외관",
+          "할인율 25%를 나타내는 그래픽",
+          "달력에 3월 20일이 표시된 이미지",
+          "호텔 내부 객실의 이국적인 인테리어",
+          "디즈니랜드 성 앞에서 환하게 웃는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 높은 예약 전환율, 호텔 정보 공유 / 이 콘텐츠의 강점: 실질적인 할인 정보, 디즈니랜드와의 접근성 강조",
+      "image": {
+        "keyword": "Tokyo Disneyland hotel discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-hotel-discount",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20hotel%20discount/"
+      }
+    },
+    {
+      "id": "plan_a03153ea",
+      "created_at": "2026-03-10T02:46:16.811284",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ソラシドエア、羽田～九州8360円から、羽田～那覇9240円からの「ソラシドスペシャル」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2091849.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 절약할 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️특가 떴다! 8천원대 일본행!",
+        "cards": [
+          {
+            "title": "소라시도 에어 특가",
+            "content": "소라시도 에어가 '소라시도 스페셜' 프로모션을 진행해요. 5월 19일부터 31일까지 탑승하는 항공권이 대상이며, 최대 8,360엔부터 구매 가능해요.",
+            "alt_text": "소라시도 에어 로고와 함께 특가 항공권 정보를 보여주는 이미지"
+          },
+          {
+            "title": "판매 기간 확인!",
+            "content": "이번 특가 항공권은 3월 10일 0시부터 3월 12일 23시 59분까지만 판매되니, 구매를 원하시면 서둘러야 해요!",
+            "alt_text": "달력에 3월 10일부터 12일까지 표시된 이미지"
+          },
+          {
+            "title": "주요 노선 정보",
+            "content": "하네다 출발 큐슈 노선은 8,360엔부터, 하네다 출발 나하 노선은 9,240엔부터 시작해요. 일본 내 저가 항공 이용 시 유용한 정보예요.",
+            "alt_text": "일본 지도에 하네다, 큐슈, 나하 지역을 표시한 이미지"
+          },
+          {
+            "title": "여행 경비 절약 꿀팁",
+            "content": "일본 여행 계획 중이라면, 저가 항공 프로모션을 활용해 보세요. 항공권 가격을 절약하면 현지에서 더 많은 것을 즐길 수 있어요!",
+            "alt_text": "동전 지갑과 함께 여행 가방이 놓여 있는 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "인기 노선은 조기 마감될 수 있으니, 여행 일정이 맞다면 지금 바로 예약하는 것을 추천드려요. 꼼꼼하게 가격 비교는 필수!",
+            "alt_text": "놀란 표정의 이모티콘과 함께 '놓치지 마세요!' 문구가 적힌 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 여행 경비 확 줄이는 특급 찬스! \n소라시도 에어의 '소라시도 스페셜' 프로모션으로 하네다~큐슈 8,360엔부터, 하네다~나하 9,240엔부터 구매 가능! \n🔥 3월 10일 0시 ~ 12일 23시 59분까지 딱 3일간!\n일본 여행 계획 중이라면 이 기회 절대 놓치지 마세요! \n\n지금 바로 소라시도 에어 홈페이지에서 확인하고 초특가 항공권 득템하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#소라시도에어",
+          "#일본항공권",
+          "#특가항공권",
+          "#일본여행준비",
+          "#여행경비",
+          "#가성비여행",
+          "#일본저가항공",
+          "#하네다공항",
+          "#큐슈여행",
+          "#오키나와여행",
+          "#항공권할인",
+          "#여행스타그램",
+          "#일본가자"
+        ],
+        "alt_texts": [
+          "소라시도 에어 로고와 함께 특가 항공권 정보를 보여주는 이미지",
+          "달력에 3월 10일부터 12일까지 표시된 이미지",
+          "일본 지도에 하네다, 큐슈, 나하 지역을 표시한 이미지",
+          "동전 지갑과 함께 여행 가방이 놓여 있는 이미지",
+          "놀란 표정의 이모티콘과 함께 '놓치지 마세요!' 문구가 적힌 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 항공권 가격에 민감한 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 및 저녁 시간) / 기대 반응: 프로모션 정보에 대한 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 구체적인 가격 정보와 짧은 판매 기간으로 긴박감 조성 및 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Solaseed Air, Japan flight ticket, discount, limited time offer, travel budget",
+        "unsplash_url": "https://unsplash.com/s/photos/Solaseed-Air,-Japan-flight-ticket,-discount,-limited-time-offer,-travel-budget",
+        "pexels_url": "https://www.pexels.com/search/Solaseed%20Air,%20Japan%20flight%20ticket,%20discount,%20limited%20time%20offer,%20travel%20budget/"
+      }
+    },
     {
       "id": "plan_7f8cd1e3",
       "created_at": "2026-03-09T23:48:37.232720",
@@ -923,160 +1077,6 @@
         "keyword": "Kame no I Hotel Atami, Japanese hot spring, buffet, discount, Atami city view, sea view, room with open-air bath, Rakuten Travel sale",
         "unsplash_url": "https://unsplash.com/s/photos/Kame-no-I-Hotel-Atami,-Japanese-hot-spring,-buffet,-discount,-Atami-city-view,-sea-view,-room-with-open-air-bath,-Rakuten-Travel-sale",
         "pexels_url": "https://www.pexels.com/search/Kame%20no%20I%20Hotel%20Atami,%20Japanese%20hot%20spring,%20buffet,%20discount,%20Atami%20city%20view,%20sea%20view,%20room%20with%20open-air%20bath,%20Rakuten%20Travel%20sale/"
-      }
-    },
-    {
-      "id": "plan_8b10a93e",
-      "created_at": "2026-03-06T23:47:06.839272",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語、宮城・鳴子温泉ますやで「三つ星バイキング」開始。黒毛和牛や天然本まぐろの豪華メニュー",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091274.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 여행 시 놓치면 후회할 역대급 뷔페 등장!"
-      },
-      "content": {
-        "thumbnail_title": "✨일본 온천 뷔페 맛집✨",
-        "cards": [
-          {
-            "title": "새로운 뷔페",
-            "content": "일본 '오에도 온천 이야기' 그룹에서 '미츠보시 바이킹'을 새롭게 선보입니다. 4월 22일부터宮城県 오사키시 나루코 온천의 '오에도 온천 이야기 마스야'에서 맛볼 수 있습니다.",
-            "alt_text": "일본 온천 숙소 외관 이미지"
-          },
-          {
-            "title": "메뉴 구성",
-            "content": "이번 '미츠보시 바이킹'은 흑모 와규와 천연 참치 등 최고급 식재료를 활용한 럭셔리 뷔페입니다. 특별한 미식 경험을 선사할 예정입니다.",
-            "alt_text": "고급스러운 일식 요리 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "새로운 뷔페가 열리는 곳은 '오에도 온천 이야기 마스야'로, 주소는宮城県 오사키시 나루코 온천자 유모토 82입니다.",
-            "alt_text": "일본 온천 마을 지도 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "이 뷔페는 '오에도 온천 이야기' 그룹의 일부 시설에서만 제공되므로, 방문 전 해당 시설에서 이용 가능한지 확인하는 것이 좋습니다.",
-            "alt_text": "온천 료칸 내부 이미지"
-          },
-          {
-            "title": "추가 정보",
-            "content": "이 뷔페는 단순한 식사를 넘어, 일본 온천 여행의 특별한 추억을 만들 수 있는 기회입니다. 미식과 휴식을 동시에 즐겨보세요.",
-            "alt_text": "온천욕을 즐기는 사람들의 모습"
-          }
-        ],
-        "caption": "일본 온천 여행 계획 중이신가요? ♨️宮城県 나루코 온천의 '오에도 온천 이야기 마스야'에서 4월 22일부터 '미츠보시 바이킹'이 시작됩니다! 👑흑모 와규, 천연 참치 등 최고급 식재료로 만든 럭셔리 뷔페를 즐겨보세요. 잊지 못할 미식 경험이 될 거예요! 💖 #일본온천여행 #미식여행 #일본맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#일본온천여행",
-          "#일본맛집",
-          "#일본뷔페",
-          "#오에도온천이야기",
-          "#미츠보시바이킹",
-          "#나루코온천",
-          "#宮城県",
-          "#일본미식",
-          "#여행정보",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#먹스타그램"
-        ],
-        "alt_texts": [
-          "일본 온천 숙소 외관 이미지",
-          "고급스러운 일식 요리 이미지",
-          "일본 온천 마을 지도 이미지",
-          "온천 료칸 내부 이미지",
-          "온천욕을 즐기는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 온천 여행과 미식 경험을 중시하는 2040 한국인 여행자 / 최적 게시 시간: 금요일 저녁 7시, 토요일 오후 2시 / 기대 반응: 높은 관심과 공유, 실제 방문 후기 기대 / 이 콘텐츠의 강점: 희소성 있는 고급 뷔페 정보, 구체적인 날짜와 장소 명시",
-      "image": {
-        "keyword": "Japanese onsen buffet, luxury food, hot spring resort, Miyagi prefecture",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-buffet,-luxury-food,-hot-spring-resort,-Miyagi-prefecture",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20buffet,%20luxury%20food,%20hot%20spring%20resort,%20Miyagi%20prefecture/"
-      }
-    },
-    {
-      "id": "plan_549d3e9b",
-      "created_at": "2026-03-06T23:47:01.686089",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海道・山陽新幹線「駅名標キーホルダー」全36駅。文字割り付けや縦横比にもこだわり再現",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091362.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여행 기념품으로 딱! 신칸센 역명표 키링 출시!"
-      },
-      "content": {
-        "thumbnail_title": "JR신칸센 역명표 키링 🚄",
-        "cards": [
-          {
-            "title": "신상 키링 출시!",
-            "content": "JR東海리테일링・플러스에서 3월 9일에 '역명표 아크릴 키홀더'를 발매합니다. 총 36개 역의 디자인으로 출시되어 소장 가치를 높였습니다.",
-            "alt_text": "신칸센 역명표 아크릴 키홀더 사진"
-          },
-          {
-            "title": "디테일 UP!",
-            "content": "단순한 디자인을 넘어, 실제 역명판의 글자 배치와 세로/가로 비율까지 세심하게 재현했습니다. 신칸센을 사랑하는 분이라면 놓칠 수 없겠죠?",
-            "alt_text": "신칸센 역명표 키링 디테일을 보여주는 사진"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 개당 550엔입니다. 여행 중 부담 없이 구매하여 소중한 추억을 간직하기 좋습니다.",
-            "alt_text": "신칸센 역명표 키링 가격 정보가 담긴 이미지"
-          },
-          {
-            "title": "구매처 안내",
-            "content": "JR東海 공식 온라인 스토어 'PLUSTA ONLINE STORE' (JR東海MARKET 내 스토어 포함)에서 구매 가능합니다. 현지 방문 시 참고하세요!",
-            "alt_text": "JR東海 온라인 스토어 로고 또는 웹사이트 캡처"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기가 많을 것으로 예상되니, 관심 있는 역이 있다면 서둘러 구매하는 것을 추천합니다. 친구나 가족에게 선물하기도 좋아요!",
-            "alt_text": "다양한 신칸센 역명표 키링을 모아놓은 사진"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 기념품으로 딱! 신칸센 역명표 키링이 3월 9일에 출시됩니다! 🚄\n총 36개 역의 디자인으로, 실제 역명판의 디테일까지 살려 소장 가치를 높였어요. 🤩\n가격은 550엔이며, JR東海 온라인 스토어에서 구매 가능합니다.\n나만의 특별한 일본 여행 기념품을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#JR",
-          "#일본기념품",
-          "#여행선물",
-          "#역명표키링",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#일본",
-          "#JR동해",
-          "#JR서일본",
-          "#여행필수템",
-          "#기념품추천"
-        ],
-        "alt_texts": [
-          "신칸센 역명표 아크릴 키홀더 사진",
-          "신칸센 역명표 키링 디테일을 보여주는 사진",
-          "신칸센 역명표 키링 가격 정보가 담긴 이미지",
-          "JR東海 온라인 스토어 로고 또는 웹사이트 캡처",
-          "다양한 신칸센 역명표 키링을 모아놓은 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 정보 공유 및 구매 문의 / 이 콘텐츠의 강점: 실용적인 기념품 정보, 구체적인 구매처 및 가격 명시",
-      "image": {
-        "keyword": "Shinkansen station sign keychain",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-station-sign-keychain",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20station%20sign%20keychain/"
       }
     }
   ]
