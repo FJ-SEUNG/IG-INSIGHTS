@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-10T23:47:11.250621",
+  "last_updated": "2026-03-11T02:46:00.309086",
   "plans": [
+    {
+      "id": "plan_d71eeaa8",
+      "created_at": "2026-03-11T02:45:58.308909",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社、ハローキティ×Maison de FLEUR「いちごチャーム」本日発売。ファミマでも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092198.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여움 끝판왕! 키티와 함께하는 딸기 파우치 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💖키티X플뢰르 딸기 파우치🍓",
+        "cards": [
+          {
+            "title": "출시 정보",
+            "content": "Maison de FLEUR과 헬로키티의 만남! '헬로키티 딸기 참 파우치 BOOK'이 3월 11일에 발매되었습니다.",
+            "alt_text": "헬로키티와 Maison de FLEUR이 콜라보한 딸기 참 파우치 이미지"
+          },
+          {
+            "title": "가격",
+            "content": "가격은 3,190엔입니다. 일본 현지 편의점에서도 만나볼 수 있다고 하니 놓치지 마세요!",
+            "alt_text": "파우치 가격 정보가 담긴 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "일본 전국의 패밀리마트에서 구매 가능합니다. (일부 점포 제외)",
+            "alt_text": "패밀리마트 로고와 함께 파우치 이미지"
+          },
+          {
+            "title": "디자인",
+            "content": "사랑스러운 헬로키티와 Maison de FLEUR 특유의 감성이 담긴 딸기 디자인이 포인트입니다.",
+            "alt_text": "파우치의 디테일한 디자인을 보여주는 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 여행 중 귀여운 기념품이나 실용적인 파우치를 찾는다면 강력 추천! 한정판 느낌이 강하니 서둘러 득템하세요!",
+            "alt_text": "파우치를 들고 즐거워하는 사람의 이미지"
+          }
+        ],
+        "caption": "🍓헬로키티 팬들 주목!💖\n\nMaison de FLEUR과 헬로키티가 만나 역대급 귀여움의 '딸기 참 파우치'를 출시했어요!\n\n3월 11일 발매, 가격은 3,190엔!\n일본 전국의 패밀리마트에서 만날 수 있답니다. (일부 점포 제외)\n\n여행 기념품으로도, 데일리 파우치로도 딱! ✨\n\n#플라잉재팬 #일본여행 #헬로키티 #MaisondeFLEUR #딸기파우치 #패밀리마트 #일본쇼핑 #한정판 #키덜트 #귀여움주의 #여행선물 #일본편의점 #3월신상 #일본굿즈 #득템찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#헬로키티",
+          "#MaisondeFLEUR",
+          "#딸기파우치",
+          "#패밀리마트",
+          "#일본쇼핑",
+          "#한정판",
+          "#키덜트",
+          "#귀여움주의",
+          "#여행선물",
+          "#일본편의점",
+          "#3월신상",
+          "#일본굿즈",
+          "#득템찬스"
+        ],
+        "alt_texts": [
+          "헬로키티와 Maison de FLEUR이 콜라보한 딸기 참 파우치 이미지",
+          "파우치 가격 정보가 담긴 이미지",
+          "패밀리마트 로고와 함께 파우치 이미지",
+          "파우치의 디테일한 디자인을 보여주는 이미지",
+          "파우치를 들고 즐거워하는 사람의 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 헬로키티 팬, 귀여운 아이템을 좋아하는 20-30대 여성 여행객 / 최적 게시 시간: 평일 오후 5-7시, 주말 오후 2-4시 / 기대 반응: 높은 관심과 구매 문의, 공유 확산 / 이 콘텐츠의 강점: 귀여운 비주얼, 실용성, 한정판 정보로 인한 구매 욕구 자극",
+      "image": {
+        "keyword": "Hello Kitty Maison de FLEUR strawberry charm pouch Famima Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-charm-pouch-Famima-Japan",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20charm%20pouch%20Famima%20Japan/"
+      }
+    },
+    {
+      "id": "plan_d3b0401b",
+      "created_at": "2026-03-11T02:45:51.830315",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "本日発売、ハローキティ×Maison de FLEUR「いちごぬいぐるみチャーム」。ファミマでも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092204.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여움 끝판왕! 키티와 플뢰르의 만남, 딸기 인형 참 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🍓키티 x 플뢰르 딸기인형🍓",
+        "cards": [
+          {
+            "title": "신상 출시!",
+            "content": "3월 11일, ‘Maison de FLEUR × HELLO KITTY 이치고 누이구루미 참 BOOK’이 발매되었습니다. 귀여운 딸기 인형 참과 함께 특별한 북클릿을 만나보세요.",
+            "alt_text": "헬로키티와 메종 드 플뢰르 협업 딸기 인형 참이 담긴 책 표지 이미지"
+          },
+          {
+            "title": "가격 확인",
+            "content": "가격은 3,190엔입니다. 일본 여행 중 특별한 기념품이나 나에게 주는 선물로 딱이에요!",
+            "alt_text": "딸기 인형 참의 가격 정보가 표시된 이미지"
+          },
+          {
+            "title": "어디서 구매?",
+            "content": "이 특별한 아이템은 편의점에서도 만나볼 수 있습니다. 여행 중 편하게 방문하여 득템하세요!",
+            "alt_text": "편의점 내 상품 진열 모습 이미지"
+          },
+          {
+            "title": "한정판 느낌!",
+            "content": "Maison de FLEUR과 헬로키티의 콜라보레이션으로 희소성이 느껴집니다. 놓치면 후회할지도 몰라요!",
+            "alt_text": "협업 상품의 디테일이 돋보이는 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 현지 편의점에서 신상품 정보를 미리 확인하고 방문하면 더욱 효율적인 쇼핑이 가능합니다. 여행 계획에 꼭 포함시키세요!",
+            "alt_text": "일본 편의점 내부에서 상품을 고르는 사람의 모습 이미지"
+          }
+        ],
+        "caption": "🍓헬로키티와 메종 드 플뢰르의 역대급 콜라보!🍓\n\n✨3월 11일, ‘Maison de FLEUR × HELLO KITTY 이치고 누이구루미 참 BOOK’이 발매되었어요!\n\n귀여운 딸기 인형 참과 특별한 북클릿이 함께 구성되어 있으며, 가격은 3,190엔입니다.\n\n일본 편의점에서도 구매 가능하니, 여행 중 꼭 득템하세요! 💖\n\n#일본여행 #플라잉재팬 #헬로키티 #메종드플뢰르 #딸기인형 #일본쇼핑 #편의점신상 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#헬로키티",
+          "#메종드플뢰르",
+          "#딸기인형",
+          "#일본쇼핑",
+          "#편의점신상",
+          "#한정판",
+          "#일본굿즈",
+          "#키티덕후",
+          "#인형스타그램",
+          "#일본기념품",
+          "#여행필수템",
+          "#일본생활",
+          "#3월신상"
+        ],
+        "alt_texts": [
+          "헬로키티와 메종 드 플뢰르 협업 딸기 인형 참이 담긴 책 표지 이미지",
+          "딸기 인형 참의 가격 정보가 표시된 이미지",
+          "편의점 내 상품 진열 모습 이미지",
+          "협업 상품의 디테일이 돋보이는 이미지",
+          "일본 편의점 내부에서 상품을 고르는 사람의 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 구매 욕구 자극, 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 귀엽고 희소성 있는 상품 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Hello Kitty Maison de FLEUR strawberry plush charm book Japan convenience store",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-plush-charm-book-Japan-convenience-store",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20plush%20charm%20book%20Japan%20convenience%20store/"
+      }
+    },
     {
       "id": "plan_68ca7404",
       "created_at": "2026-03-10T23:47:09.250442",
@@ -923,160 +1077,6 @@
         "keyword": "japanese hot spring ryokan discount buffet",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan-discount-buffet",
         "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan%20discount%20buffet/"
-      }
-    },
-    {
-      "id": "plan_01d425db",
-      "created_at": "2026-03-07T23:41:10.899447",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALカード、navi会員限定「語学検定ボーナスマイル」制度改定　一律300マイルに、対象検定を追加",
-        "url": "https://www.traicy.com/posts/20260307363079/",
-        "date": "Sat, 07 Mar 2026 09:15:37 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 카드 이용자라면 놓칠 수 없는 마일리지 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "JAL카드 ✈️ 보너스 마일 꿀팁!",
-        "cards": [
-          {
-            "title": "혜택 변경",
-            "content": "JAL 카드 navi 회원 대상 '어학 검정 보너스 마일' 제도가 4월 1일부터 변경됩니다. 서비스 명칭은 '검정 보너스 마일'로 변경되며, 일률 300마일이 제공됩니다.",
-            "alt_text": "JAL 카드 navi 회원 대상 어학 검정 보너스 마일리지 제도 변경 안내"
-          },
-          {
-            "title": "대상 확대",
-            "content": "기존 대상 검정 외에 세계유산 검정 준1급 이상, 닛쇼보키 검정 2급 이상이 새롭게 추가됩니다. 다양한 어학 능력 향상에 따른 마일리지 적립 기회가 늘어납니다.",
-            "alt_text": "세계유산 검정, 닛쇼보키 검정 등 추가된 대상 검정 목록"
-          },
-          {
-            "title": "마일리지 적립",
-            "content": "변경된 '검정 보너스 마일' 제도를 통해 JAL 카드를 이용하며 여행 준비를 하는 회원들에게 실질적인 혜택을 제공합니다. 300마일은 소액이지만 꾸준히 모으면 유용합니다.",
-            "alt_text": "검정 보너스 마일리지 300마일 적립 안내"
-          },
-          {
-            "title": "시기 확인",
-            "content": "제도 변경은 2024년 4월 1일부터 적용되므로, 해당 날짜 이후 응시하고 합격한 검정에 대해 보너스 마일리지를 신청할 수 있습니다.",
-            "alt_text": "제도 변경 적용 시작일 2024년 4월 1일 강조"
-          },
-          {
-            "title": "JAL 카드 navi",
-            "content": "JAL 카드 navi 회원이신가요? 일본 여행 시 JAL 항공권을 자주 이용하신다면, 어학 능력 향상과 함께 마일리지까지 적립할 수 있는 좋은 기회입니다. 자세한 내용은 JAL 카드 공식 홈페이지를 확인하세요.",
-            "alt_text": "JAL 카드 navi 회원 대상 혜택 안내"
-          }
-        ],
-        "caption": "✈️ JAL 카드 navi 회원 주목! ✈️\n\n2024년 4월 1일부터 '어학 검정 보너스 마일' 제도가 '검정 보너스 마일'로 변경됩니다! 🎉\n\n세계유산 검정 준1급 이상, 닛쇼보키 검정 2급 이상이 새롭게 추가되어, 최대 300마일리지 적립 기회가 늘어났어요. 🤩\n\n일본 여행 준비하며 어학 실력도 쌓고, JAL 마일리지까지 챙겨가세요! 💖\n\n#JAL카드 #보너스마일 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL카드",
-          "#JAL",
-          "#항공권",
-          "#마일리지",
-          "#일본항공",
-          "#여행정보",
-          "#해외여행",
-          "#여행꿀팁",
-          "#일본",
-          "#JALカード",
-          "#보너스마일",
-          "#검정보너스마일",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JAL 카드 navi 회원 대상 어학 검정 보너스 마일리지 제도 변경 안내",
-          "세계유산 검정, 닛쇼보키 검정 등 추가된 대상 검정 목록",
-          "검정 보너스 마일리지 300마일 적립 안내",
-          "제도 변경 적용 시작일 2024년 4월 1일 강조",
-          "JAL 카드 navi 회원 대상 혜택 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 카드 navi 회원 / 최적 게시 시간: 오후 7시~9시 / 기대 반응: 정보 공유 및 JAL 카드 이용자들의 관심 집중 / 이 콘텐츠의 강점: 실질적인 항공 마일리지 혜택 정보 제공",
-      "image": {
-        "keyword": "JAL card, bonus miles, language test, travel benefits, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-card,-bonus-miles,-language-test,-travel-benefits,-Japan",
-        "pexels_url": "https://www.pexels.com/search/JAL%20card,%20bonus%20miles,%20language%20test,%20travel%20benefits,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_322d11b7",
-      "created_at": "2026-03-07T23:41:02.712018",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「カペラ京都」、3月22日開業　日本初上陸",
-        "url": "https://www.traicy.com/posts/20260307364631/",
-        "date": "Sat, 07 Mar 2026 13:15:07 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토에 새롭게 문을 여는 럭셔리 호텔 정보, 여행 계획에 참고하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨교토 신상 호텔 오픈!✨",
-        "cards": [
-          {
-            "title": "카펠라 교토",
-            "content": "일본에 처음 상륙하는 럭셔리 호텔 '카펠라 교토'가 3월 22일에 문을 엽니다. 아름다운 교토의 풍경을 즐길 수 있는 특별한 경험을 선사할 예정입니다.",
-            "alt_text": "카펠라 교토 외관 이미지"
-          },
-          {
-            "title": "객실 정보",
-            "content": "디럭스 시티룸, 가부렌조를 조망하는 프리미어 시어터룸, 건린인을 정면으로 바라보는 기온 스위트 등 다양한 타입의 객실을 갖추고 있습니다.",
-            "alt_text": "카펠라 교토 프리미엄 객실 내부 이미지"
-          },
-          {
-            "title": "위치",
-            "content": "과거 신도 초등학교 터에 위치하며, 지상 4층 규모의 건물로 교토의 중심에서 편리한 접근성을 자랑합니다.",
-            "alt_text": "카펠라 교토 주변 지도 이미지"
-          },
-          {
-            "title": "오픈일",
-            "content": "2024년 3월 22일",
-            "alt_text": "캘린더에 3월 22일 표시 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "새롭게 오픈하는 호텔이니만큼, 얼리버드 프로모션이나 특별 패키지가 있는지 미리 확인해보세요! 예약은 필수입니다.",
-            "alt_text": "호텔 예약 웹사이트 이미지"
-          }
-        ],
-        "caption": "🇯🇵 교토 여행 필수 정보! 🇯🇵\n\n일본에 처음 상륙하는 럭셔리 호텔, '카펠라 교토'가 3월 22일 드디어 오픈합니다!\n\n교토의 아름다운 풍경을 담은 다양한 객실과 최상의 서비스를 경험할 수 있는 기회!\n\n교토 여행 계획 중이라면, 새로운 랜드마크가 될 카펠라 교토를 눈여겨보세요!\n\n#카펠라교토 #교토호텔 #일본신상호텔 #교토여행 #일본숙소 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#교토",
-          "#카펠라교토",
-          "#일본숙소",
-          "#호텔오픈",
-          "#일본신상",
-          "#여행정보",
-          "#일본소식",
-          "#여행스타그램",
-          "#교토숙소",
-          "#럭셔리호텔",
-          "#일본자유여행",
-          "#여행계획"
-        ],
-        "alt_texts": [
-          "카펠라 교토 외관 이미지",
-          "카펠라 교토 프리미엄 객실 내부 이미지",
-          "카펠라 교토 주변 지도 이미지",
-          "캘린더에 3월 22일 표시 이미지",
-          "호텔 예약 웹사이트 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 교토 여행 예정인 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 호텔 정보에 대한 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 일본 현지 신규 오픈 호텔 정보를 가장 빠르게 제공하여 여행 계획에 실질적인 도움을 줌",
-      "image": {
-        "keyword": "Capella Kyoto hotel opening, luxury hotel Kyoto, new hotel Japan, Kyoto travel accommodation",
-        "unsplash_url": "https://unsplash.com/s/photos/Capella-Kyoto-hotel-opening,-luxury-hotel-Kyoto,-new-hotel-Japan,-Kyoto-travel-accommodation",
-        "pexels_url": "https://www.pexels.com/search/Capella%20Kyoto%20hotel%20opening,%20luxury%20hotel%20Kyoto,%20new%20hotel%20Japan,%20Kyoto%20travel%20accommodation/"
       }
     }
   ]
