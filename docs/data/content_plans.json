@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-11T02:46:00.309086",
+  "last_updated": "2026-03-11T23:47:28.014349",
   "plans": [
+    {
+      "id": "plan_c6fde270",
+      "created_at": "2026-03-11T23:47:26.014180",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Suicaのペンギン×BIRTHDAY BAR、限定ぬいやエコバッグなど本日発売。各店で整理券配布",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092592.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "Suica의 펭귄 한정 굿즈, 한국에서도 겟하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🐧Suica펭귄 💖3/12 한정굿즈!",
+        "cards": [
+          {
+            "title": "콜라보 시작!",
+            "content": "JR동일본 'Suica의 펭귄'과 'BIRTHDAY BAR'의 특별 콜라보레이션이 3월 12일부터 시작됩니다. 귀여운 펭귄 캐릭터를 만날 기회!",
+            "alt_text": "Suica의 펭귄과 BIRTHDAY BAR 로고가 함께 있는 콜라보 이미지"
+          },
+          {
+            "title": "한정 굿즈 라인업",
+            "content": "이번 콜라보에서는 한정판 봉제인형과 에코백 등 다양한 굿즈를 만나볼 수 있습니다. 여행 기념품으로 딱이에요!",
+            "alt_text": "Suica의 펭귄 캐릭터가 그려진 한정판 봉제인형 이미지"
+          },
+          {
+            "title": "구매 가능 매장",
+            "content": "전국의 BIRTHDAY BAR 및 CUiSiNE HABiTS 매장에서 구매 가능합니다. 방문 전 가까운 매장을 확인해보세요.",
+            "alt_text": "BIRTHDAY BAR 매장 외관 또는 내부 이미지"
+          },
+          {
+            "title": "현장 구매 팁",
+            "content": "인기가 많을 것으로 예상되니, 각 매장에서 배부하는 정리권을 확인하고 방문하는 것이 좋습니다. 품절될 수 있으니 서두르세요!",
+            "alt_text": "매장에서 정리권을 배부하는 모습 또는 안내문 이미지"
+          },
+          {
+            "title": "일본 여행 꿀팁!",
+            "content": "여행 중 귀여운 기념품을 찾고 있다면, BIRTHDAY BAR 매장에 방문해보세요! Suica 펭귄 굿즈는 놓치기 아까운 한정판이랍니다.",
+            "alt_text": "다양한 기념품이 진열된 BIRTHDAY BAR 매장 내부 이미지"
+          }
+        ],
+        "caption": "🐧💖 Suica의 펭귄과 BIRTHDAY BAR의 만남! 3월 12일부터 한정판 굿즈가 출시됩니다. 🧸👜\n\n귀여운 봉제인형과 에코백 등 특별한 아이템을 전국 BIRTHDAY BAR & CUiSiNE HABiTS 매장에서 만나보세요!\n\n인기 상품은 조기 품절될 수 있으니, 방문 전 매장별 정리권 배부 여부를 꼭 확인하세요!\n\n#일본여행 #플라잉재팬 #Suica펭귄 #BIRTHDAYBAR #한정판굿즈 #일본쇼핑 #여행꿀팁 #도쿄여행 #오사카여행 #기념품 #쇼핑정보 #3월여행 #일본쇼핑리스트 #여행스타그램 #콜라보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica펭귄",
+          "#BIRTHDAYBAR",
+          "#한정판굿즈",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#도쿄여행",
+          "#오사카여행",
+          "#기념품",
+          "#쇼핑정보",
+          "#3월여행",
+          "#일본쇼핑리스트",
+          "#여행스타그램",
+          "#콜라보"
+        ],
+        "alt_texts": [
+          "Suica의 펭귄과 BIRTHDAY BAR 로고가 함께 있는 콜라보 이미지",
+          "Suica의 펭귄 캐릭터가 그려진 한정판 봉제인형 이미지",
+          "BIRTHDAY BAR 매장 외관 또는 내부 이미지",
+          "매장에서 정리권을 배부하는 모습 또는 안내문 이미지",
+          "다양한 기념품이 진열된 BIRTHDAY BAR 매장 내부 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 관심과 공유, 구매 문의 / 이 콘텐츠의 강점: 귀엽고 희소성 있는 한정판 굿즈 정보, 구매처 및 팁 상세 제공",
+      "image": {
+        "keyword": "Suica Penguin, BIRTHDAY BAR, collaboration goods, limited edition plush toy, eco bag, Japan shopping, Tokyo souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin,-BIRTHDAY-BAR,-collaboration-goods,-limited-edition-plush-toy,-eco-bag,-Japan-shopping,-Tokyo-souvenir",
+        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin,%20BIRTHDAY%20BAR,%20collaboration%20goods,%20limited%20edition%20plush%20toy,%20eco%20bag,%20Japan%20shopping,%20Tokyo%20souvenir/"
+      }
+    },
+    {
+      "id": "plan_01bfc6b7",
+      "created_at": "2026-03-11T23:47:20.682893",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "サマンサベガ×ハローキティ、限定コラボバッグ/折財布/リボンチャーム。3月14日から先行販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092595.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 만날 수 있는 귀여운 산리오X사만사베가 한정판 득템 찬스! 💖"
+      },
+      "content": {
+        "thumbnail_title": "💖산리오X사만사베가 한정판💖",
+        "cards": [
+          {
+            "title": "🚨한정판 출시!",
+            "content": "일본 사만사베가에서 인기 캐릭터 '헬로키티'와 콜라보한 한정판 컬렉션을 출시했어요. 💖",
+            "alt_text": "사만사베가와 헬로키티가 콜라보한 한정판 가방 이미지"
+          },
+          {
+            "title": "✨라인업 공개",
+            "content": "이번 컬렉션은 고급스러운 핸드백(24,200엔), 실용적인 반지갑(16,280엔), 그리고 귀여운 2WAY 백 참(5,500엔) 총 3가지 아이템으로 구성되어 있어요.",
+            "alt_text": "헬로키티 콜라보 핸드백, 반지갑, 백 참 이미지"
+          },
+          {
+            "title": "🗓️선행 판매 시작!",
+            "content": "일본 현지에서는 3월 14일부터 선행 판매가 시작되었어요. 서둘러야 겟또할 수 있답니다! 🏃‍♀️",
+            "alt_text": "3월 14일 선행 판매 시작을 알리는 이미지"
+          },
+          {
+            "title": "🛍️일본에서만!",
+            "content": "이 특별한 콜라보 상품들은 오직 일본에서만 구매할 수 있다는 사실! 여행 기념품으로도 최고예요. 🎁",
+            "alt_text": "일본에서만 구매 가능한 특별함을 강조하는 이미지"
+          },
+          {
+            "title": "💡꿀팁!",
+            "content": "인기 상품인 만큼 조기 품절될 수 있으니, 관심 있다면 일본 여행 계획 시 방문할 사만사베가 매장을 미리 확인해 보세요! 📍",
+            "alt_text": "사만사베가 매장 방문 팁을 알려주는 이미지"
+          }
+        ],
+        "caption": "🇯🇵산리오X사만사베가 헬로키티 한정판 컬렉션 출시!💖\n일본에서만 만날 수 있는 귀여운 콜라보 아이템들을 놓치지 마세요!\n핸드백, 반지갑, 백 참까지! 💖\n여행 기념품으로도, 나를 위한 선물로도 완벽해요!\n지금 바로 사만사베가에서 득템하세요! 🛍️✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#산리오",
+          "#헬로키티",
+          "#사만사베가",
+          "#일본쇼핑",
+          "#한정판",
+          "#콜라보",
+          "#여행기념품",
+          "#일본쇼핑리스트",
+          "#사만사타바사",
+          "#일본직구",
+          "#득템찬스",
+          "#키티덕후",
+          "#일본패션"
+        ],
+        "alt_texts": [
+          "사만사베가와 헬로키티가 콜라보한 한정판 가방 이미지",
+          "헬로키티 콜라보 핸드백, 반지갑, 백 참 이미지",
+          "3월 14일 선행 판매 시작을 알리는 이미지",
+          "일본에서만 구매 가능한 특별함을 강조하는 이미지",
+          "사만사베가 매장 방문 팁을 알려주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 여성 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 희소성 높은 한정판 정보, 구체적인 가격 및 출시일 정보 제공",
+      "image": {
+        "keyword": "Samantha Vega Hello Kitty collaboration bag wallet charm Japan limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/Samantha-Vega-Hello-Kitty-collaboration-bag-wallet-charm-Japan-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/Samantha%20Vega%20Hello%20Kitty%20collaboration%20bag%20wallet%20charm%20Japan%20limited%20edition/"
+      }
+    },
     {
       "id": "plan_d71eeaa8",
       "created_at": "2026-03-11T02:45:58.308909",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese disaster preparedness goods, modern design, travel safety kit",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-disaster-preparedness-goods,-modern-design,-travel-safety-kit",
         "pexels_url": "https://www.pexels.com/search/Japanese%20disaster%20preparedness%20goods,%20modern%20design,%20travel%20safety%20kit/"
-      }
-    },
-    {
-      "id": "plan_f3bd8d92",
-      "created_at": "2026-03-08T02:53:32.921640",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、「ホテルチェーンスペシャルオファー」　最大23％オフ",
-        "url": "https://www.traicy.com/posts/20260307364568/",
-        "date": "Sat, 07 Mar 2026 03:45:02 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 호텔 예약 시 최대 23% 할인받을 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "🔥일본 호텔 최대 23% 할인!",
-        "cards": [
-          {
-            "title": "할인 기간",
-            "content": "2024년 3월 1일 오전 10시부터 3월 20일 23시 59분까지 楽天 트래블에서 '호텔 체인 스페셜 오퍼'가 진행됩니다.",
-            "alt_text": "달력에 표시된 3월 1일부터 3월 20일까지의 할인 기간"
-          },
-          {
-            "title": "할인율",
-            "content": "국내 숙박에 대해 20%, 15%, 10%, 8%, 5%, 4% 할인 쿠폰이 제공되며, 이 쿠폰들을 중복 사용하여 최대 23%까지 할인받을 수 있습니다.",
-            "alt_text": "다양한 할인율이 적힌 쿠폰 이미지"
-          },
-          {
-            "title": "대상",
-            "content": "일본 전역의 호텔 체인을 대상으로 하는 프로모션으로, 다양한 지역의 숙소를 저렴하게 예약할 기회입니다.",
-            "alt_text": "일본 지도 위에 여러 호텔 아이콘이 표시된 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "楽天 트래블 웹사이트 또는 앱에서 '호텔 체인 스페셜 오퍼' 페이지를 통해 해당 쿠폰을 확인하고 예약 시 적용하면 됩니다.",
-            "alt_text": "스마트폰으로 楽天 트래블 앱을 사용하는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 계획을 미리 세우고, 3월 1일 프로모션 시작 시간에 맞춰 원하는 숙소를 빠르게 예약하는 것이 좋습니다. 인기 있는 호텔은 조기 마감될 수 있습니다.",
-            "alt_text": "여행 계획을 세우는 모습과 빠른 예약을 상징하는 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수 꿀팁! 楽天 트래블에서 최대 23% 할인받고 호텔 예약하세요! \n\n✅ 기간: 3월 1일 10시 ~ 3월 20일\n✅ 할인: 최대 23% (쿠폰 중복 사용)\n\n지금 바로 楽天 트래블에서 할인 쿠폰 확인하고 저렴하게 숙소 예약하세요! \n\n#일본여행 #호텔할인 #楽天トラベル #일본숙소 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본호텔",
-          "#楽天トラベル",
-          "#일본숙소",
-          "#해외여행",
-          "#여행정보",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#일본",
-          "#여행",
-          "#할인정보",
-          "#꿀팁",
-          "#호텔예약"
-        ],
-        "alt_texts": [
-          "달력에 표시된 3월 1일부터 3월 20일까지의 할인 기간",
-          "다양한 할인율이 적힌 쿠폰 이미지",
-          "일본 지도 위에 여러 호텔 아이콘이 표시된 이미지",
-          "스마트폰으로 楽天 트래블 앱을 사용하는 모습",
-          "여행 계획을 세우는 모습과 빠른 예약을 상징하는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 6시-9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시로 즉각적인 행동 유도 가능",
-      "image": {
-        "keyword": "japan hotel discount offer, travel booking app, calendar with dates highlighted, coupon stacking, travel planning",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount-offer,-travel-booking-app,-calendar-with-dates-highlighted,-coupon-stacking,-travel-planning",
-        "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount%20offer,%20travel%20booking%20app,%20calendar%20with%20dates%20highlighted,%20coupon%20stacking,%20travel%20planning/"
-      }
-    },
-    {
-      "id": "plan_3c8836da",
-      "created_at": "2026-03-08T02:53:21.581528",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 伊香保、1泊2食バイキングが最大23％オフに。上州グルメと石段街の名湯",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091321.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소, 1박 2식 뷔페 최대 23% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 23% 할인!♨️",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "오에도 온천 이야기 프리미엄 이카호에서 1박 2식 뷔페가 최대 23% 할인됩니다. 료칸 숙박 시 적용되는 특별 세일 플랜입니다.",
-            "alt_text": "온천 료칸 외관 이미지"
-          },
-          {
-            "title": "할인 기간",
-            "content": "본 할인 행사는 3월 20일까지 진행되는 '라쿠텐 트래블 슈퍼 세일' 기간에 참여 가능합니다. 봄, 골든 위크, 여름 방학 여행까지 예약 가능해요.",
-            "alt_text": "달력에 표시된 3월 20일 날짜 이미지"
-          },
-          {
-            "title": "할인율",
-            "content": "세일 플랜과 쿠폰을 함께 사용하면 최대 23%까지 할인 혜택을 받을 수 있습니다. 놓치면 후회할 역대급 할인율!",
-            "alt_text": "퍼센트 할인율이 표시된 이미지"
-          },
-          {
-            "title": "지역 특색",
-            "content": "군마현의 상주 지역 특산물 요리와 이시단가이(돌계단 거리)의 명온천을 즐길 수 있는 기회입니다.",
-            "alt_text": "일본 전통 온천 거리 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 있는 숙소는 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 라쿠텐 트래블에서 '슈퍼 세일' 대상 숙소를 확인하세요.",
-            "alt_text": "여행 가방과 여권 이미지"
-          }
-        ],
-        "caption": "♨️ 일본 온천 여행 계획 중이라면 주목! ♨️\n\n오에도 온천 이야기 프리미엄 이카호에서 1박 2식 뷔페를 최대 23% 할인된 가격으로 즐길 수 있는 절호의 찬스!\n\n3월 20일까지 진행되는 라쿠텐 트래블 슈퍼 세일을 통해 봄, GW, 여름 휴가 숙박까지 미리 예약하세요.\n\n상주 지역의 맛있는 음식과 돌계단 거리의 온천을 합리적인 가격으로 만끽할 수 있는 기회! 🇯🇵✨\n\n#일본온천 #료칸할인 #라쿠텐트래블 #일본여행특가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#료칸",
-          "#일본숙소",
-          "#오에도온천",
-          "#이카호온천",
-          "#라쿠텐트래블",
-          "#일본여행할인",
-          "#일본여행팁",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#일본온천여행"
-        ],
-        "alt_texts": [
-          "온천 료칸 외관 이미지",
-          "달력에 표시된 3월 20일 날짜 이미지",
-          "퍼센트 할인율이 표시된 이미지",
-          "일본 전통 온천 거리 이미지",
-          "여행 가방과 여권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획하는 2040 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 확산 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 숙소 정보 제공으로 즉각적인 예약 유도 가능",
-      "image": {
-        "keyword": "japanese hot spring ryokan discount buffet",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan-discount-buffet",
-        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan%20discount%20buffet/"
       }
     }
   ]
