@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-12T02:51:23.258141",
+  "last_updated": "2026-03-12T23:48:15.914488",
   "plans": [
+    {
+      "id": "plan_6e84755a",
+      "created_at": "2026-03-12T23:48:13.914339",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "3月14日から東京～熱海間のきっぷ購入に注意。「異なる線路」扱いが影響するケースも解説",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092887.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄-열차 구간 운임 변경, 미리 알고 덜 헷갈리세요!"
+      },
+      "content": {
+        "thumbnail_title": "⚠️3/14 도쿄-열차 운임 변경!",
+        "cards": [
+          {
+            "title": "운임 변경!",
+            "content": "3월 14일부터 JR동일본이 도쿄역~열차 구간 운임 계산 방식을 변경합니다. 열차 구간은 기존과 동일하지만, 운임 계산 방식에 변화가 있습니다.",
+            "alt_text": "3월 14일 운임 변경 안내 팝업"
+          },
+          {
+            "title": "어떤 구간?",
+            "content": "도쿄역에서 열차역까지의 JR선(동해도선)과 신칸센(도카이도 신칸센) 모두에 적용됩니다. 구간 자체는 동일하나, 요금 계산이 달라집니다.",
+            "alt_text": "도쿄역에서 열차역까지의 지도"
+          },
+          {
+            "title": "주의해야 할 점?",
+            "content": "같은 구간이라도 '다른 선로'로 취급되는 경우, 운임 계산 방식 변경으로 인해 예상보다 요금이 더 나올 수 있습니다. 환승 시 특히 주의가 필요합니다.",
+            "alt_text": "환승 안내 표지판"
+          },
+          {
+            "title": "미리 확인하세요!",
+            "content": "이번 운임 변경은 3월 14일부터 적용되므로, 해당 구간을 이용하실 예정이라면 미리 변경 내용을 숙지하시는 것이 좋습니다. 특히 JR패스 등은 무관하지만, 일반 티켓 구매 시 영향을 받을 수 있습니다.",
+            "alt_text": "JR 티켓 발권기"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "여행 전 JR동일본 공식 홈페이지나 역 창구에서 최신 운임 정보를 한번 더 확인하세요. 환승이 잦거나 복잡한 경로라면, 미리 요금을 계산해보는 것이 좋습니다.",
+            "alt_text": "여행 계획을 세우는 사람"
+          }
+        ],
+        "caption": "🚨 3월 14일부터 도쿄-열차 구간 운임 계산 방식이 변경됩니다! 🚨\n\n기존과 동일한 구간이지만, 열차와 신칸센 요금 계산 방식에 변화가 생겨 환승 시 예상보다 요금이 더 나올 수 있어요. 🧐\n\n여행 계획에 참고하시고, 미리 최신 정보 확인해서 헛걸음하지 마세요! 😉\n\n#일본여행 #도쿄여행 #열차여행 #JR동일본 #운임변경 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄",
+          "#열차",
+          "#JR동일본",
+          "#운임변경",
+          "#교통정보",
+          "#일본교통",
+          "#여행정보",
+          "#여행꿀팁",
+          "#일본",
+          "#자유여행",
+          "#여행",
+          "#일본스타그램",
+          "#도쿄근교"
+        ],
+        "alt_texts": [
+          "3월 14일 운임 변경 안내 팝업",
+          "도쿄역에서 열차역까지의 지도",
+          "환승 안내 표지판",
+          "JR 티켓 발권기",
+          "여행 계획을 세우는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교 열차 구간 이용 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 습득 및 주의 환기 / 이 콘텐츠의 강점: 시기적절한 실용 정보 제공",
+      "image": {
+        "keyword": "Tokyo to Atami train ticket fare change",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-to-Atami-train-ticket-fare-change",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20to%20Atami%20train%20ticket%20fare%20change/"
+      }
+    },
+    {
+      "id": "plan_9d9bcb38",
+      "created_at": "2026-03-12T23:48:08.480826",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福島県、1泊3000円引きの旅行支援「また来て。」割。4月1日予約開始",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093064.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카, 오사카 가는 한국인 주목! 1박 3천엔 할인받고 일본 여행 알차게 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 숙박 3천엔 할인!",
+        "cards": [
+          {
+            "title": "할인 캠페인",
+            "content": "일본 후쿠오카현에서 여행 수요 촉진을 위해 '또 와.' 할인 캠페인을 실시합니다. 1박당 3,000엔의 숙박비 할인을 제공합니다.",
+            "alt_text": "일본 후쿠오카현의 아름다운 풍경 이미지"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "본격적인 할인 혜택을 누릴 수 있는 예약은 2024년 4월 1일부터 시작됩니다. 서둘러 예약하세요!",
+            "alt_text": "달력에 4월 1일이 표시된 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "1박당 최대 3,000엔 할인을 통해 부담 없이 일본 여행을 즐길 수 있습니다. 숙박비 부담을 줄여 더욱 알찬 여행을 계획해 보세요.",
+            "alt_text": "할인율이 표시된 쇼핑백 이미지"
+          },
+          {
+            "title": "여행지 추천",
+            "content": "후쿠오카현은 맛집, 쇼핑, 자연 등 다양한 매력을 가진 곳입니다. 이번 기회에 후쿠오카로 떠나보세요!",
+            "alt_text": "후쿠오카 타워와 도시 야경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "할인 캠페인 기간 및 자세한 참여 방법은 후쿠오카현 공식 관광 사이트를 참고하시는 것이 좋습니다. (예약 전 반드시 확인!)",
+            "alt_text": "돋보기를 들고 정보를 확인하는 사람 이미지"
+          }
+        ],
+        "caption": "✈️ 한국 여행자 주목! 일본 후쿠오카현에서 1박 3,000엔 할인해 주는 '또 와.' 캠페인이 시작됩니다! 🇯🇵\n\n✅ 예약 시작: 4월 1일부터!\n✅ 1박당 최대 3,000엔 할인!\n\n후쿠오카의 맛집, 쇼핑, 관광지를 더욱 부담 없이 즐길 수 있는 절호의 기회! 지금 바로 여행 계획 세워보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#후쿠오카여행",
+          "#일본숙소",
+          "#숙박할인",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#일본자유여행",
+          "#엔저",
+          "#일본할인",
+          "#일본숙박",
+          "#여행스타그램",
+          "#일본",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "일본 후쿠오카현의 아름다운 풍경 이미지",
+          "달력에 4월 1일이 표시된 이미지",
+          "할인율이 표시된 쇼핑백 이미지",
+          "후쿠오카 타워와 도시 야경 이미지",
+          "돋보기를 들고 정보를 확인하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 후쿠오카 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 높은 클릭률 및 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 시작일을 명시하여 실질적인 여행 계획에 직접적인 도움을 줌",
+      "image": {
+        "keyword": "Fukuoka Japan discount travel campaign hotel stay",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Japan-discount-travel-campaign-hotel-stay",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Japan%20discount%20travel%20campaign%20hotel%20stay/"
+      }
+    },
     {
       "id": "plan_d3041409",
       "created_at": "2026-03-12T02:51:21.257964",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese hot spring hotel discount offer",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring-hotel-discount-offer",
         "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring%20hotel%20discount%20offer/"
-      }
-    },
-    {
-      "id": "plan_60aaba88",
-      "created_at": "2026-03-09T02:54:54.898769",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニー「ヴァネロペ」3～4月新発売グッズをいち早くお届け！　カチューシャやチャームセットに注目",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091560.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드 도쿄에서 펼쳐지는 4월 신상 굿즈, 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 디즈니 4월 신상✨",
-        "cards": [
-          {
-            "title": "새로운 테마!",
-            "content": "도쿄 디즈니랜드에서 4월 9일부터 '바넬로페의 스위츠 팝 월드' 테마를 선보입니다. 4월 중순까지 새로운 굿즈가 순차적으로 출시될 예정입니다.",
-            "alt_text": "도쿄 디즈니랜드의 '바넬로페의 스위츠 팝 월드' 테마를 상징하는 이미지"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "이번 신상 굿즈에는 특히 바넬로페를 모티브로 한 귀여운 카츄샤와 참 세트가 포함되어 있어 소장 가치가 높습니다. 3월 말부터 순차적으로 발매됩니다.",
-            "alt_text": "바넬로페 테마의 카츄샤와 참 세트 이미지"
-          },
-          {
-            "title": "쇼핑 리스트 UP!",
-            "content": "여행 계획 중이라면 4월 9일 이후 도쿄 디즈니랜드 방문을 추천합니다. 특별한 날짜에 맞춰 방문하시면 신상 굿즈를 가장 먼저 만나볼 수 있습니다.",
-            "alt_text": "도쿄 디즈니랜드에서 쇼핑하는 사람들의 모습"
-          },
-          {
-            "title": "현지 정보!",
-            "content": "행사 기간과 신상 굿즈 발매 일정을 미리 확인하고 방문하시면 더욱 알찬 쇼핑을 즐길 수 있습니다. 4월 9일 이후 방문 시 신상 굿즈 득템 기회를 노려보세요!",
-            "alt_text": "디즈니 스토어 내부의 다양한 굿즈들"
-          },
-          {
-            "title": "방문 꿀팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 굿즈가 있다면 오픈 시간대에 맞춰 방문하는 것을 추천합니다. 공식 홈페이지에서 판매 정보 확인은 필수!",
-            "alt_text": "디즈니랜드 입구에서 줄을 서서 기다리는 사람들"
-          }
-        ],
-        "caption": "💖 4월 도쿄 디즈니랜드 여행 예정이라면 주목! 💖\n\n4월 9일부터 '바넬로페의 스위츠 팝 월드' 테마와 함께 신상 굿즈가 쏟아져 나와요! 🤩\n\n특히 귀여운 카츄샤와 참 세트는 꼭 득템해야 할 아이템! 🎀\n\n여행 계획에 참고하셔서 설레는 디즈니 쇼핑 즐기세요! ✨\n\n#도쿄디즈니랜드 #바넬로페 #디즈니굿즈 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니랜드",
-          "#디즈니",
-          "#바넬로페",
-          "#디즈니굿즈",
-          "#도쿄여행",
-          "#일본쇼핑",
-          "#신상굿즈",
-          "#4월여행",
-          "#여행정보",
-          "#디즈니씨",
-          "#일본자유여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드의 '바넬로페의 스위츠 팝 월드' 테마를 상징하는 이미지",
-          "바넬로페 테마의 카츄샤와 참 세트 이미지",
-          "도쿄 디즈니랜드에서 쇼핑하는 사람들의 모습",
-          "디즈니 스토어 내부의 다양한 굿즈들",
-          "디즈니랜드 입구에서 줄을 서서 기다리는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 4월 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 / 기대 반응: 정보 습득 및 공유, 여행 계획 업데이트 / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 굿즈 정보를 제공하여 여행 계획에 실질적인 도움 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland, Vanellope, new merchandise, April event, cute accessories",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Vanellope,-new-merchandise,-April-event,-cute-accessories",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Vanellope,%20new%20merchandise,%20April%20event,%20cute%20accessories/"
-      }
-    },
-    {
-      "id": "plan_6c6569c2",
-      "created_at": "2026-03-09T02:54:48.097183",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "どのパフェにする？　アイスクリームコーンで「パルパルーザ・パルフェ」作ってみた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091567.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드 한정! 아이스크림 콘으로 즐기는 특별한 파르페 등장!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 파르페 출시!🍦",
-        "cards": [
-          {
-            "title": "신상 파르페",
-            "content": "도쿄 디즈니랜드에서 '바넬로피의 스위츠 팝 월드' 개최를 기념하여 '파르파루자 파르페' 메뉴를 3월 9일부터 판매합니다.",
-            "alt_text": "아이스크림 콘에 담긴 화려한 파르페 이미지"
-          },
-          {
-            "title": "특별한 비주얼",
-            "content": "아이스크림 콘을 활용한 독특한 비주얼로 눈길을 사로잡으며, 달콤한 디저트를 좋아하는 여행객들에게 최고의 선택이 될 것입니다.",
-            "alt_text": "파르페 위로 쏟아지는 아이스크림 모습"
-          },
-          {
-            "title": "디즈니랜드 한정",
-            "content": "이 특별한 파르페는 오직 도쿄 디즈니랜드에서만 맛볼 수 있는 한정 메뉴로, 여행 기념으로도 손색없습니다.",
-            "alt_text": "도쿄 디즈니랜드 로고와 파르페 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "달콤한 디저트와 함께 디즈니랜드에서의 추억을 더욱 특별하게 만들고 싶다면, 지금 바로 도쿄 디즈니랜드를 방문해보세요!",
-            "alt_text": "파르페를 들고 웃고 있는 사람들의 모습"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기 메뉴이므로 방문 시 품절 가능성이 있습니다. 오픈 시간에 맞춰 방문하거나, 식사 시간을 피해 방문하는 것을 추천합니다.",
-            "alt_text": "사람들이 줄 서서 주문하는 모습"
-          }
-        ],
-        "caption": "🍦✨도쿄 디즈니랜드에서 특별한 디저트가 찾아왔어요! ✨🍦\n\n'바넬로피의 스위츠 팝 월드' 개최 기념으로, 3월 9일부터 '파르파루자 파르페'가 판매 시작됩니다! 🤩\n\n아이스크림 콘에 담긴 독특한 비주얼과 달콤함으로 여러분의 디즈니랜드 방문을 더욱 즐겁게 만들어 줄 거예요. 💖\n\n이 특별한 한정 메뉴, 놓치지 말고 꼭 맛보세요! 😋\n\n#디즈니랜드 #도쿄디즈니랜드 #파르페 #한정메뉴 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니랜드",
-          "#파르페",
-          "#한정메뉴",
-          "#디저트",
-          "#여행정보",
-          "#도쿄여행",
-          "#일본디저트",
-          "#신메뉴",
-          "#여행팁",
-          "#동심",
-          "#달콤",
-          "#꼭먹어야해"
-        ],
-        "alt_texts": [
-          "아이스크림 콘에 담긴 화려한 파르페 이미지",
-          "파르페 위로 쏟아지는 아이스크림 모습",
-          "도쿄 디즈니랜드 로고와 파르페 이미지",
-          "파르페를 들고 웃고 있는 사람들의 모습",
-          "사람들이 줄 서서 주문하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 디즈니랜드 방문 계획에 대한 긍정적 영향 / 이 콘텐츠의 강점: 최신 출시 정보, 시각적 매력, 특별한 경험 강조",
-      "image": {
-        "keyword": "Tokyo Disneyland Parfait, Ice cream cone parfait, Limited edition dessert, Disney sweets, Japan travel food",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Parfait,-Ice-cream-cone-parfait,-Limited-edition-dessert,-Disney-sweets,-Japan-travel-food",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Parfait,%20Ice%20cream%20cone%20parfait,%20Limited%20edition%20dessert,%20Disney%20sweets,%20Japan%20travel%20food/"
       }
     }
   ]
