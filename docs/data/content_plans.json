@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-12T23:48:15.914488",
+  "last_updated": "2026-03-13T02:48:39.286948",
   "plans": [
+    {
+      "id": "plan_c054bbe3",
+      "created_at": "2026-03-13T02:48:37.286785",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、運賃改定に伴い往復割引を廃止。乗り放題パス/Wきっぷ/しなの回数券など、値上げ後はいくらになる？",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2092606.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JR 동일본, 3월 14일부터 운임 인상 및 혜택 축소! 일본 여행 계획 시 꼭 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚨JR 동일본 3/14 운임 인상!🚨",
+        "cards": [
+          {
+            "title": "운임 인상",
+            "content": "JR 동일본은 3월 14일부터 운임을 인상합니다. 이에 따라 3월 13일까지 往復乗車券(왕복 승차권) 및 連続乗車券(연속 승차권) 판매가 종료됩니다.",
+            "alt_text": "JR 동일본 열차 운행 노선도"
+          },
+          {
+            "title": "왕복 할인 폐지",
+            "content": "편도 601km 이상 구간에 적용되던 왕복 할인 혜택도 3월 14일부터 폐지됩니다. 앞으로는 왕복 티켓 구매 시 더 이상 할인을 받을 수 없습니다.",
+            "alt_text": "계산기 이미지와 함께 할인율 감소 표시"
+          },
+          {
+            "title": "주요 패스/티켓",
+            "content": "乗り放題パス(노리호다이 패스), Wきっぷ(더블 티켓), しなの回数券(시나노 회수권) 등 주요 패스와 티켓의 가격도 인상될 예정입니다. 정확한 인상 금액은 별도 확인이 필요합니다.",
+            "alt_text": "다양한 일본 열차 티켓 이미지"
+          },
+          {
+            "title": "여행 계획 시 유의",
+            "content": "일본 동북 지역(도쿄, 센다이 등)을 포함한 JR 동일본 구간 여행 계획이 있다면, 3월 14일 이전에 티켓 구매를 완료하거나 인상된 운임을 고려해야 합니다.",
+            "alt_text": "달력에 3월 14일 표시"
+          },
+          {
+            "title": "JR 패스 확인",
+            "content": "일본 전국 JR 패스 등 다른 JR 패스의 가격 변동 여부도 함께 확인하여 합리적인 여행 계획을 세우는 것이 중요합니다.",
+            "alt_text": "일본 지도 위에 JR 패스 아이콘"
+          }
+        ],
+        "caption": "✈️일본 여행 필수 정보!✈️ JR 동일본, 3월 14일부터 운임이 인상됩니다! 😭\n\n왕복 승차권 및 할인 혜택이 축소되니, 일본 동북 지역 여행 계획 중이라면 꼭 미리 확인하세요! 꼼꼼한 계획으로 알찬 일본 여행 되세요! 😊\n\n#일본여행 #JR동일본 #운임인상 #일본교통 #여행정보 #일본패스 #플라잉재팬 #일본여행꿀팁 #여행준비 #일본알뜰여행 #일본자유여행 #일본정보 #여행스타그램 #일본스타그램 #일본교통정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#일본교통",
+          "#운임인상",
+          "#일본여행준비",
+          "#일본여행꿀팁",
+          "#일본알뜰여행",
+          "#일본자유여행",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본스타그램",
+          "#여행정보",
+          "#JR패스",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "JR 동일본 열차 운행 노선도",
+          "계산기 이미지와 함께 할인율 감소 표시",
+          "다양한 일본 열차 티켓 이미지",
+          "달력에 3월 14일 표시",
+          "일본 지도 위에 JR 패스 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 동북 지역(도쿄, 센다이 등) 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~22시) / 기대 반응: 정보 습득 및 공유, 댓글을 통한 문의 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 여행 계획에 직접적인 도움을 줄 수 있음",
+      "image": {
+        "keyword": "Japan train ticket price increase JR East",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-ticket-price-increase-JR-East",
+        "pexels_url": "https://www.pexels.com/search/Japan%20train%20ticket%20price%20increase%20JR%20East/"
+      }
+    },
+    {
+      "id": "plan_1fce01ec",
+      "created_at": "2026-03-13T02:48:30.239589",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "アナとエルサのお城に新メニューが登場。オラフのフェイスのミートボールプレートや、スモーブローほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093183.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후라면 놓칠 수 없는 겨울왕국 신메뉴!"
+      },
+      "content": {
+        "thumbnail_title": "❄️겨울왕국 신메뉴 출시❄️",
+        "cards": [
+          {
+            "title": "신메뉴 출시",
+            "content": "도쿄디즈니씨 겨울왕국 테마 구역 '아렌델 왕국' 레스토랑에서 4월 4일부터 신메뉴를 선보입니다.",
+            "alt_text": "도쿄디즈니씨 겨울왕국 테마 구역의 레스토랑 외관"
+          },
+          {
+            "title": "메뉴 소개",
+            "content": "올라프 얼굴 모양의 미트볼 플레이트와 스모브로 등 겨울왕국 테마의 다채로운 메뉴를 만나볼 수 있습니다.",
+            "alt_text": "올라프 얼굴 모양의 미트볼 플레이트 이미지"
+          },
+          {
+            "title": "레스토랑 정보",
+            "content": "레스토랑 이름은 '아렌데일 로열 뱅큇'이며, 겨울왕국 테마 구역 내에 위치해 있습니다.",
+            "alt_text": "아렌데일 로열 뱅큇 내부 인테리어 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "인기 메뉴는 조기 소진될 수 있으니, 방문 계획이 있다면 오픈 시간에 맞춰 가는 것을 추천합니다.",
+            "alt_text": "레스토랑 앞에서 줄 서 있는 사람들의 모습"
+          },
+          {
+            "title": "이벤트",
+            "content": "겨울왕국 테마 구역에서는 신메뉴 출시와 함께 다양한 즐길 거리가 준비되어 있습니다.",
+            "alt_text": "겨울왕국 테마 구역에서 진행되는 이벤트 모습"
+          }
+        ],
+        "caption": "❄️도쿄디즈니씨 겨울왕국 신메뉴 출시!❄️\n\n4월 4일부터 '아렌데일 로열 뱅큇'에서 올라프 미트볼 플레이트 등 겨울왕국 테마 신메뉴를 맛볼 수 있어요!\n\n디즈니 덕후라면 절대 놓치지 마세요! ✨\n\n#도쿄디즈니씨 #겨울왕국 #아렌델왕국 #신메뉴 #디즈니여행 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니랜드",
+          "#디즈니씨",
+          "#겨울왕국",
+          "#아렌델",
+          "#신메뉴",
+          "#디즈니맛집",
+          "#도쿄여행",
+          "#일본여행정보",
+          "#디즈니덕후",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#놀이공원"
+        ],
+        "alt_texts": [
+          "도쿄디즈니씨 겨울왕국 테마 구역의 레스토랑 외관",
+          "올라프 얼굴 모양의 미트볼 플레이트 이미지",
+          "아렌데일 로열 뱅큇 내부 인테리어 이미지",
+          "레스토랑 앞에서 줄 서 있는 사람들의 모습",
+          "겨울왕국 테마 구역에서 진행되는 이벤트 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 주말 오전 9시 / 기대 반응: 높은 관심과 댓글 문의 / 이 콘텐츠의 강점: 최신 정보, 흥미로운 테마, 즉각적인 방문 욕구 자극",
+      "image": {
+        "keyword": "Tokyo DisneySea, Frozen Kingdom, Arendelle Royal Banquet, new menu, Olaf meatball plate, movie themed restaurant",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Frozen-Kingdom,-Arendelle-Royal-Banquet,-new-menu,-Olaf-meatball-plate,-movie-themed-restaurant",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Frozen%20Kingdom,%20Arendelle%20Royal%20Banquet,%20new%20menu,%20Olaf%20meatball%20plate,%20movie%20themed%20restaurant/"
+      }
+    },
     {
       "id": "plan_6e84755a",
       "created_at": "2026-03-12T23:48:13.914339",
@@ -923,160 +1077,6 @@
         "keyword": "Solaseed Air, Japan flight ticket, discount, limited time offer, travel budget",
         "unsplash_url": "https://unsplash.com/s/photos/Solaseed-Air,-Japan-flight-ticket,-discount,-limited-time-offer,-travel-budget",
         "pexels_url": "https://www.pexels.com/search/Solaseed%20Air,%20Japan%20flight%20ticket,%20discount,%20limited%20time%20offer,%20travel%20budget/"
-      }
-    },
-    {
-      "id": "plan_7f8cd1e3",
-      "created_at": "2026-03-09T23:48:37.232720",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "宝島社「ミッフィー」いちごチャームポーチ本日発売。ショルダーバッグにもなる2WAY",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091869.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 미피와 딸기가 만났다! 여행 필수템 2WAY 파우치 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "💖미피 딸기 파우치 출시💖",
-        "cards": [
-          {
-            "title": "미피 2WAY 파우치",
-            "content": "宝島社(타카라지마사)에서 '미피 딸기 참 2WAY 파우치 & 숄더백 BOOK'을 3월 10일에 발매했어요. 귀여운 미피와 딸기 디자인이 여행 심쿵 포인트!",
-            "alt_text": "딸기 패턴과 함께 있는 귀여운 미피 캐릭터 파우치 이미지"
-          },
-          {
-            "title": "실용성 UP!",
-            "content": "이 파우치는 단순히 파우치로만 사용하는 게 아니라, 숄더백으로도 변신 가능한 2WAY 제품이에요. 여행 중 소지품을 편리하게 보관하고 휴대할 수 있어요.",
-            "alt_text": "파우치를 숄더백으로 메고 있는 모습의 일러스트"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 4389엔이에요. 한국 돈으로 약 4만원대 후반으로, 귀여움과 실용성을 갖춘 아이템 치고는 괜찮은 가격대예요.",
-            "alt_text": "가격표와 함께 미피 파우치 클로즈업 이미지"
-          },
-          {
-            "title": "어디서 구매?",
-            "content": "일본 현지의 대형 서점이나 온라인 쇼핑몰에서 구매 가능할 것으로 예상돼요. 여행 가시기 전에 온라인으로 미리 주문하면 더욱 좋겠죠?",
-            "alt_text": "일본 서점 진열대에 놓인 미피 파우치 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "여행 중 간단한 소지품이나 화장품을 넣고 다니기 딱 좋아요! 숄더끈을 활용하면 양손이 자유로워져서 쇼핑이나 관광 시 매우 편리할 거예요.",
-            "alt_text": "여행 중 파우치를 숄더백으로 활용하는 모습의 일러스트"
-          }
-        ],
-        "caption": "🍓일본 여행 필수템 등장!🍓\n귀여운 미피와 상큼한 딸기가 만난 2WAY 파우치 & 숄더백이 3월 10일에 출시되었어요!\n여행 중 소지품 보관은 물론, 숄더백으로도 활용 가능해 실용성까지 UP!\n가격은 4389엔! 일본 여행 가시면 꼭 득템하세요!\n\n#미피파우치 #일본쇼핑 #여행필수템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#미피",
-          "#미피굿즈",
-          "#일본쇼핑",
-          "#일본기념품",
-          "#여행필수템",
-          "#2WAY파우치",
-          "#宝島社",
-          "#딸기",
-          "#캐릭터굿즈",
-          "#일본직구",
-          "#쇼핑리스트",
-          "#일본여행준비",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "딸기 패턴과 함께 있는 귀여운 미피 캐릭터 파우치 이미지",
-          "파우치를 숄더백으로 메고 있는 모습의 일러스트",
-          "가격표와 함께 미피 파우치 클로즈업 이미지",
-          "일본 서점 진열대에 놓인 미피 파우치 이미지",
-          "여행 중 파우치를 숄더백으로 활용하는 모습의 일러스트"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 구매 욕구 자극, 정보 공유 활발 / 이 콘텐츠의 강점: 귀여운 비주얼과 실용성을 모두 갖춘 아이템 소개, 구체적인 출시일 및 가격 정보 제공",
-      "image": {
-        "keyword": "miffy strawberry pouch, 2 way bag, Japan travel shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/miffy-strawberry-pouch,-2-way-bag,-Japan-travel-shopping",
-        "pexels_url": "https://www.pexels.com/search/miffy%20strawberry%20pouch,%202%20way%20bag,%20Japan%20travel%20shopping/"
-      }
-    },
-    {
-      "id": "plan_bfab8261",
-      "created_at": "2026-03-09T23:48:31.039372",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium あたみ、1泊2食バイキングが最大23％オフ。熱海散策も楽しいオーシャンビュー宿",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091873.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 특가 정보로 알뜰하게 봄/여름 휴가 준비!"
-      },
-      "content": {
-        "thumbnail_title": "♨️온천 숙소 23% 할인!",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "일본 '오오에도 온천 이야기 프리미엄 아타미' 숙소에서 1박 2식 뷔페 이용 시 최대 23% 할인 혜택을 제공합니다. 3월 20일까지 진행되는 楽天 트래블 슈퍼 세일 기간 한정입니다.",
-            "alt_text": "할인율이 표시된 온천 숙소 이미지"
-          },
-          {
-            "title": "할인 적용 방법",
-            "content": "이벤트 기간 동안 세일 플랜과 쿠폰을 함께 사용하면 최대 23% 할인을 받을 수 있습니다. 봄, 골든위크, 여름 휴가 여행 예약에 적용 가능합니다.",
-            "alt_text": "쿠폰과 세일 플랜을 합산하는 이미지"
-          },
-          {
-            "title": "숙소 특징",
-            "content": "오션뷰를 자랑하는 이 숙소는 객실에서 아름다운 바다 전망을 감상할 수 있습니다. 1박 2식 뷔페가 포함되어 있어 편리하게 식사를 즐길 수 있습니다.",
-            "alt_text": "오션뷰가 멋진 온천 숙소 객실 이미지"
-          },
-          {
-            "title": "주변 관광",
-            "content": "숙소 근처에는 일본의 유명 온천 도시인 아타미가 있어 산책하며 관광을 즐기기 좋습니다. 아타미의 매력을 만끽하며 온천 여행을 완성하세요.",
-            "alt_text": "아타미 시내 또는 해변 산책로 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인 혜택을 놓치지 않도록 3월 20일 이전에 楽天 트래블을 통해 서둘러 예약하세요. 원하는 날짜의 객실이 빠르게 마감될 수 있습니다.",
-            "alt_text": "달력에 3월 20일을 표시한 이미지"
-          }
-        ],
-        "caption": "♨️일본 온천 여행, 역대급 할인 찬스!♨️\n\n일본 '오오에도 온천 이야기 프리미엄 아타미' 숙소에서 1박 2식 뷔페 이용 시 최대 23% 할인 혜택을 제공합니다! 🤩\n\n3월 20일까지 진행되는 楽天 트래블 슈퍼 세일 기간에 세일 플랜과 쿠폰을 함께 사용하면 알뜰하게 예약 가능해요.\n\n아름다운 오션뷰와 함께 맛있는 뷔페, 그리고 주변 아타미 관광까지! 🌸☀️\n\n지금 바로 楽天 트래블에서 확인하고 봄, 여름 휴가 준비하세요! ✈️\n\n#일본온천 #아타미 #온천여행 #일본숙소 #할인정보 #楽天トラベル #오오에도온천 #해외여행 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#아타미",
-          "#온천여행",
-          "#일본숙소",
-          "#할인정보",
-          "#楽天トラベル",
-          "#오오에도온천",
-          "#해외여행",
-          "#여행스타그램",
-          "#봄여행",
-          "#여름휴가",
-          "#일본특가",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "할인율이 표시된 온천 숙소 이미지",
-          "쿠폰과 세일 플랜을 합산하는 이미지",
-          "오션뷰가 멋진 온천 숙소 객실 이미지",
-          "아타미 시내 또는 해변 산책로 이미지",
-          "달력에 3월 20일을 표시한 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 활발 / 이 콘텐츠의 강점: 구체적인 할인율과 마감일 명시, 숙소의 매력 포인트(오션뷰, 뷔페, 주변 관광) 강조",
-      "image": {
-        "keyword": "Japanese hot spring hotel discount offer",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring-hotel-discount-offer",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring%20hotel%20discount%20offer/"
       }
     }
   ]
