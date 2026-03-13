@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-13T02:48:39.286948",
+  "last_updated": "2026-03-13T23:49:37.703122",
   "plans": [
+    {
+      "id": "plan_a534b71d",
+      "created_at": "2026-03-13T23:49:35.702940",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "新千歳空港、嵐ラストライブにあわせ一部飲食・物販店を延長営業。ローソンは25時30分まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093417.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 예상치 못한 교통편 증편 소식! ✈️"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 신치토세 공항 ✈️ 꿀정보!",
+        "cards": [
+          {
+            "title": "영업 시간 연장",
+            "content": "3월 13일부터 16일까지, 신치토세 공항 국내선 일부 식음료 및 상품 판매점의 영업 시간이 연장됩니다.",
+            "alt_text": "신치토세 공항 내부 모습"
+          },
+          {
+            "title": "이유는 嵐 콘서트",
+            "content": "삿포로 돔에서 열리는 嵐 콘서트에 맞춰 대중교통 증편과 함께 공항 시설 이용 편의를 높이기 위한 조치입니다.",
+            "alt_text": "嵐 콘서트 관련 이미지"
+          },
+          {
+            "title": "로손 25:30까지!",
+            "content": "특히 로손 편의점은 3월 16일까지 25시 30분까지 영업 시간을 연장하여 늦은 시간에도 이용 가능합니다.",
+            "alt_text": "로손 편의점 간판 이미지"
+          },
+          {
+            "title": "여행 계획 시 참고",
+            "content": "해당 기간 동안 삿포로를 방문하거나 신치토세 공항을 이용하는 여행자라면, 변경된 영업 시간을 참고하여 계획을 세우는 것이 좋습니다.",
+            "alt_text": "신치토세 공항 안내 표지판"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "콘서트 기간 동안 공항 및 주변 교통이 혼잡할 수 있으니, 여유로운 시간을 가지고 이동하는 것을 추천합니다. 늦은 시간까지 운영하는 매장을 적극 활용하세요!",
+            "alt_text": "여행객이 공항에서 짐을 옮기는 모습"
+          }
+        ],
+        "caption": "✈️ 신치토세 공항 이용 예정이라면 주목! ✈️\n\n3월 13일부터 16일까지 嵐 콘서트 개최에 맞춰 신치토세 공항 일부 매장의 영업 시간이 연장됩니다.\n특히 로손 편의점은 25시 30분까지 운영! 늦은 시간까지 공항을 이용하는 여행자에게 희소식이죠. 🤩\n\n삿포로 여행 계획 중이시라면 꼭 참고하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신치토세공항",
+          "#삿포로여행",
+          "#일본교통",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본쇼핑",
+          "#일본편의점",
+          "#嵐",
+          "#삿포로",
+          "#일본",
+          "#여행스타그램",
+          "#일본항공",
+          "#여행"
+        ],
+        "alt_texts": [
+          "신치토세 공항 내부 모습",
+          "嵐 콘서트 관련 이미지",
+          "로손 편의점 간판 이미지",
+          "신치토세 공항 안내 표지판",
+          "여행객이 공항에서 짐을 옮기는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 3월 13일~16일 신치토세 공항 이용 예정인 한국인 여행자 / 최적 게시 시간: 여행 전날 저녁 또는 당일 오전 / 기대 반응: 정보 유용성에 대한 긍정적 반응, 저장 및 공유 / 이 콘텐츠의 강점: 특정 기간, 특정 공항에 대한 실질적인 정보 제공",
+      "image": {
+        "keyword": "New Chitose Airport, Lawson convenience store, Japan travel, Sapporo Dome, Arashi concert",
+        "unsplash_url": "https://unsplash.com/s/photos/New-Chitose-Airport,-Lawson-convenience-store,-Japan-travel,-Sapporo-Dome,-Arashi-concert",
+        "pexels_url": "https://www.pexels.com/search/New%20Chitose%20Airport,%20Lawson%20convenience%20store,%20Japan%20travel,%20Sapporo%20Dome,%20Arashi%20concert/"
+      }
+    },
+    {
+      "id": "plan_c9af8d62",
+      "created_at": "2026-03-13T23:49:27.720197",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社、むぎゅっとにぎれる新幹線マスコット。ランダム全10種＋大当たりには金のドクターイエローか金のこまち",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093438.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센 굿즈, 랜덤 뽑기 재미에 푹 빠져보세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 신칸센 굿즈 득템 찬스!",
+        "cards": [
+          {
+            "title": "신상 마스코트 출시!",
+            "content": "일본에서 귀여운 신칸센 마스코트 컬렉션이 3월 24일에 출시됩니다. 총 10가지 랜덤 디자인으로 만나볼 수 있어요.",
+            "alt_text": "신칸센 마스코트 랜덤 뽑기 상품 이미지"
+          },
+          {
+            "title": "가격은 790엔!",
+            "content": "부담 없는 가격 790엔으로 귀여운 신칸센 마스코트를 소장할 수 있는 기회! 여행 기념품으로 딱이에요.",
+            "alt_text": "신칸센 마스코트 상품 가격 정보 이미지"
+          },
+          {
+            "title": "대박! 황금 마스코트?",
+            "content": "랜덤 10종 외에 특별한 '대박' 상품으로 황금 닥터 옐로우 또는 황금 고마치 마스코트가 포함되어 있다고 합니다!",
+            "alt_text": "황금색 신칸센 마스코트 이미지"
+          },
+          {
+            "title": "여행 기념품으로 굿!",
+            "content": "일본 여행 중 발견하면 꼭 득템해야 할 아이템! 아이들과 함께 즐기기에도 좋고, 어른들에게도 추억을 선사할 거예요.",
+            "alt_text": "여행객이 신칸센 마스코트를 들고 있는 모습"
+          },
+          {
+            "title": "어디서 구할까?",
+            "content": "일본 서점이나 관련 굿즈 판매점에서 찾아볼 수 있을 것으로 예상됩니다. 여행 중 발견하면 바로 겟하세요!",
+            "alt_text": "일본 서점 내부 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템! 🚄 귀여운 신칸센 마스코트 컬렉션이 3월 24일에 출시됩니다! 총 10종 랜덤에 황금 마스코트까지?! 790엔의 행복, 여행 중 꼭 득템하세요! ✨\n\n#일본여행 #신칸센 #일본굿즈 #랜덤뽑기 #여행기념품 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본굿즈",
+          "#랜덤뽑기",
+          "#여행기념품",
+          "#일본쇼핑",
+          "#일본여행정보",
+          "#일본여행팁",
+          "#일본자유여행",
+          "#일본필수템",
+          "#캐릭터굿즈",
+          "#일본어린이",
+          "#여행스타그램",
+          "#득템찬스"
+        ],
+        "alt_texts": [
+          "신칸센 마스코트 랜덤 뽑기 상품 이미지",
+          "신칸센 마스코트 상품 가격 정보 이미지",
+          "황금색 신칸센 마스코트 이미지",
+          "여행객이 신칸센 마스코트를 들고 있는 모습",
+          "일본 서점 내부 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 상품 정보에 대한 높은 관심, 구매 욕구 자극 / 이 콘텐츠의 강점: 귀여운 디자인과 랜덤 뽑기의 재미 요소를 결합하여 흥미 유발",
+      "image": {
+        "keyword": "shinkansen mascot, japan travel souvenir, random collectible toy, golden dr. yellow, golden komachi",
+        "unsplash_url": "https://unsplash.com/s/photos/shinkansen-mascot,-japan-travel-souvenir,-random-collectible-toy,-golden-dr.-yellow,-golden-komachi",
+        "pexels_url": "https://www.pexels.com/search/shinkansen%20mascot,%20japan%20travel%20souvenir,%20random%20collectible%20toy,%20golden%20dr.%20yellow,%20golden%20komachi/"
+      }
+    },
     {
       "id": "plan_c054bbe3",
       "created_at": "2026-03-13T02:48:37.286785",
@@ -923,160 +1077,6 @@
         "keyword": "Sukiya FAN BOOK, Sukiya menu, Japan travel food, Japanese restaurant discount coupon",
         "unsplash_url": "https://unsplash.com/s/photos/Sukiya-FAN-BOOK,-Sukiya-menu,-Japan-travel-food,-Japanese-restaurant-discount-coupon",
         "pexels_url": "https://www.pexels.com/search/Sukiya%20FAN%20BOOK,%20Sukiya%20menu,%20Japan%20travel%20food,%20Japanese%20restaurant%20discount%20coupon/"
-      }
-    },
-    {
-      "id": "plan_ac18f465",
-      "created_at": "2026-03-10T02:46:22.353661",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ザ ロイヤルパークホテル 舞浜リゾート 東京ベイ、素泊まり25％オフに。ディズニー至近に開業、異国情緒あふれる750室",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091866.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 디즈니랜드 근처 신축 호텔, 25% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 근처 신축 호텔 25% OFF✨",
-        "cards": [
-          {
-            "title": "호텔 정보",
-            "content": "더 로열 파크 호텔 마이하마 리조트 도쿄 베이가 파격적인 할인가로 오픈했습니다. 디즈니랜드 도쿄 베이와 아주 가까운 거리에 위치해 있습니다.",
-            "alt_text": "일본 도쿄 디즈니랜드 근처의 신축 호텔 외관"
-          },
-          {
-            "title": "할인 정보",
-            "content": "현재 楽天 트래블 슈퍼세일을 통해 숙박비 25% 할인 프로모션을 진행 중입니다. 봄, 골든위크, 여름 휴가 시즌 예약도 포함됩니다.",
-            "alt_text": "할인율 25%를 나타내는 그래픽"
-          },
-          {
-            "title": "예약 기간",
-            "content": "본 프로모션은 3월 20일까지 진행되므로, 해당 기간 내에 서둘러 예약하시는 것이 좋습니다.",
-            "alt_text": "달력에 3월 20일이 표시된 이미지"
-          },
-          {
-            "title": "호텔 특징",
-            "content": "총 750개의 객실을 보유하고 있으며, 이국적인 분위기를 자랑합니다. 디즈니 여행객에게 최적의 숙소입니다.",
-            "alt_text": "호텔 내부 객실의 이국적인 인테리어"
-          },
-          {
-            "title": "꿀팁",
-            "content": "디즈니랜드 방문 시 이동 시간을 절약하고 싶다면, 이 기회를 놓치지 마세요! 25% 할인으로 더욱 알찬 여행을 계획할 수 있습니다.",
-            "alt_text": "디즈니랜드 성 앞에서 환하게 웃는 여행객"
-          }
-        ],
-        "caption": "💖디즈니랜드 여행 필수 코스!💖\n도쿄 베이 근처 신축 호텔 '더 로열 파크 호텔 마이하마 리조트'가 25% 할인된 가격으로 오픈했어요!\n봄, GW, 여름 휴가 시즌 예약도 포함된다니 지금 바로 楽天 트래블에서 확인해보세요! ✈️\n\n#일본여행 #도쿄 #디즈니랜드 #호텔할인 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#디즈니랜드",
-          "#마이하마",
-          "#호텔추천",
-          "#일본숙소",
-          "#여행특가",
-          "#할인정보",
-          "#楽天트래블",
-          "#프로모션",
-          "#가족여행",
-          "#커플여행",
-          "#신축호텔",
-          "#도쿄숙소"
-        ],
-        "alt_texts": [
-          "일본 도쿄 디즈니랜드 근처의 신축 호텔 외관",
-          "할인율 25%를 나타내는 그래픽",
-          "달력에 3월 20일이 표시된 이미지",
-          "호텔 내부 객실의 이국적인 인테리어",
-          "디즈니랜드 성 앞에서 환하게 웃는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 높은 예약 전환율, 호텔 정보 공유 / 이 콘텐츠의 강점: 실질적인 할인 정보, 디즈니랜드와의 접근성 강조",
-      "image": {
-        "keyword": "Tokyo Disneyland hotel discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-hotel-discount",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20hotel%20discount/"
-      }
-    },
-    {
-      "id": "plan_a03153ea",
-      "created_at": "2026-03-10T02:46:16.811284",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ソラシドエア、羽田～九州8360円から、羽田～那覇9240円からの「ソラシドスペシャル」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2091849.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 절약할 수 있는 절호의 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️특가 떴다! 8천원대 일본행!",
-        "cards": [
-          {
-            "title": "소라시도 에어 특가",
-            "content": "소라시도 에어가 '소라시도 스페셜' 프로모션을 진행해요. 5월 19일부터 31일까지 탑승하는 항공권이 대상이며, 최대 8,360엔부터 구매 가능해요.",
-            "alt_text": "소라시도 에어 로고와 함께 특가 항공권 정보를 보여주는 이미지"
-          },
-          {
-            "title": "판매 기간 확인!",
-            "content": "이번 특가 항공권은 3월 10일 0시부터 3월 12일 23시 59분까지만 판매되니, 구매를 원하시면 서둘러야 해요!",
-            "alt_text": "달력에 3월 10일부터 12일까지 표시된 이미지"
-          },
-          {
-            "title": "주요 노선 정보",
-            "content": "하네다 출발 큐슈 노선은 8,360엔부터, 하네다 출발 나하 노선은 9,240엔부터 시작해요. 일본 내 저가 항공 이용 시 유용한 정보예요.",
-            "alt_text": "일본 지도에 하네다, 큐슈, 나하 지역을 표시한 이미지"
-          },
-          {
-            "title": "여행 경비 절약 꿀팁",
-            "content": "일본 여행 계획 중이라면, 저가 항공 프로모션을 활용해 보세요. 항공권 가격을 절약하면 현지에서 더 많은 것을 즐길 수 있어요!",
-            "alt_text": "동전 지갑과 함께 여행 가방이 놓여 있는 이미지"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "인기 노선은 조기 마감될 수 있으니, 여행 일정이 맞다면 지금 바로 예약하는 것을 추천드려요. 꼼꼼하게 가격 비교는 필수!",
-            "alt_text": "놀란 표정의 이모티콘과 함께 '놓치지 마세요!' 문구가 적힌 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 여행 경비 확 줄이는 특급 찬스! \n소라시도 에어의 '소라시도 스페셜' 프로모션으로 하네다~큐슈 8,360엔부터, 하네다~나하 9,240엔부터 구매 가능! \n🔥 3월 10일 0시 ~ 12일 23시 59분까지 딱 3일간!\n일본 여행 계획 중이라면 이 기회 절대 놓치지 마세요! \n\n지금 바로 소라시도 에어 홈페이지에서 확인하고 초특가 항공권 득템하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#소라시도에어",
-          "#일본항공권",
-          "#특가항공권",
-          "#일본여행준비",
-          "#여행경비",
-          "#가성비여행",
-          "#일본저가항공",
-          "#하네다공항",
-          "#큐슈여행",
-          "#오키나와여행",
-          "#항공권할인",
-          "#여행스타그램",
-          "#일본가자"
-        ],
-        "alt_texts": [
-          "소라시도 에어 로고와 함께 특가 항공권 정보를 보여주는 이미지",
-          "달력에 3월 10일부터 12일까지 표시된 이미지",
-          "일본 지도에 하네다, 큐슈, 나하 지역을 표시한 이미지",
-          "동전 지갑과 함께 여행 가방이 놓여 있는 이미지",
-          "놀란 표정의 이모티콘과 함께 '놓치지 마세요!' 문구가 적힌 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 항공권 가격에 민감한 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 및 저녁 시간) / 기대 반응: 프로모션 정보에 대한 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 구체적인 가격 정보와 짧은 판매 기간으로 긴박감 조성 및 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Solaseed Air, Japan flight ticket, discount, limited time offer, travel budget",
-        "unsplash_url": "https://unsplash.com/s/photos/Solaseed-Air,-Japan-flight-ticket,-discount,-limited-time-offer,-travel-budget",
-        "pexels_url": "https://www.pexels.com/search/Solaseed%20Air,%20Japan%20flight%20ticket,%20discount,%20limited%20time%20offer,%20travel%20budget/"
       }
     }
   ]
