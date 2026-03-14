@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-14T02:47:30.930761",
+  "last_updated": "2026-03-14T23:49:48.956955",
   "plans": [
+    {
+      "id": "plan_5fef2b01",
+      "created_at": "2026-03-14T23:49:46.956788",
+      "category": "hotplace",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "「ホテルルートインGrand前橋」、3月6日開業",
+        "url": "https://www.traicy.com/posts/20260314365183/",
+        "date": "Sat, 14 Mar 2026 09:08:38 +0000"
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "일본 군마현에 새로 생긴 대형 호텔, 여행객 숙소 옵션 추가!"
+      },
+      "content": {
+        "thumbnail_title": "군마현 새 호텔 OPEN! 🏨",
+        "cards": [
+          {
+            "title": "군마현 신규 오픈",
+            "content": "호텔 루트인 Grand 마에바시가 3월 6일에 문을 열었습니다. 지상 12층 규모의 신축 호텔입니다.",
+            "alt_text": "군마현 마에바시에 새로 오픈한 호텔 건물의 외관"
+          },
+          {
+            "title": "객실 정보",
+            "content": "총 243개의 다양한 객실을 보유하고 있습니다. 싱글, 트리플, 그리고 배리어프리 오픈 싱글룸까지 준비되어 있습니다.",
+            "alt_text": "호텔 객실 내부의 깔끔한 침대와 가구 모습"
+          },
+          {
+            "title": "온천 시설",
+            "content": "여행의 피로를 풀 수 있는 대욕장 '여행자의 탕'이 있습니다. 코우메이석 인공 온천으로 특별한 휴식을 선사합니다.",
+            "alt_text": "호텔 내부에 마련된 넓고 편안한 대욕장 모습"
+          },
+          {
+            "title": "주요 위치",
+            "content": "군마현 마에바시 중심부에 위치하여 관광 및 비즈니스 목적으로 편리하게 이용 가능합니다.",
+            "alt_text": "호텔이 위치한 지역의 간략한 지도 표시"
+          },
+          {
+            "title": "꿀팁",
+            "content": "군마현 여행 시 새로운 숙소 옵션을 고려해 보세요! 특히 온천 시설을 중요하게 생각하는 분들께 추천합니다.",
+            "alt_text": "따뜻한 온천물에 발을 담그고 휴식하는 모습"
+          }
+        ],
+        "caption": "일본 군마현 여행 예정이라면 주목! 📣\n3월 6일, '호텔 루트인 Grand 마에바시'가 새롭게 오픈했습니다. 🏨\n총 243개의 객실과 여행의 피로를 풀어줄 인공 온천 '여행자의 탕'까지! 🛀\n군마현 여행 시 새로운 숙소 옵션으로 강력 추천드려요! 👍\n#플라잉재팬 과 함께 알찬 일본 여행 계획하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#군마현",
+          "#마에바시",
+          "#일본호텔",
+          "#신규오픈",
+          "#일본숙소",
+          "#온천호텔",
+          "#일본자유여행",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#호텔추천",
+          "#일본온천",
+          "#여행준비",
+          "#일본"
+        ],
+        "alt_texts": [
+          "군마현 마에바시에 새로 오픈한 호텔 건물의 외관",
+          "호텔 객실 내부의 깔끔한 침대와 가구 모습",
+          "호텔 내부에 마련된 넓고 편안한 대욕장 모습",
+          "호텔이 위치한 지역의 간략한 지도 표시",
+          "따뜻한 온천물에 발을 담그고 휴식하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 군마현 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 숙소 정보에 대한 관심 및 문의 / 이 콘텐츠의 강점: 최신 오픈 정보로 희소성 있으며, 구체적인 시설 정보를 제공하여 실질적인 도움을 줌.",
+      "image": {
+        "keyword": "Hotel Route Inn Grand Maebashi, new hotel Japan, Onsen hotel Japan, Gunma prefecture travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Hotel-Route-Inn-Grand-Maebashi,-new-hotel-Japan,-Onsen-hotel-Japan,-Gunma-prefecture-travel",
+        "pexels_url": "https://www.pexels.com/search/Hotel%20Route%20Inn%20Grand%20Maebashi,%20new%20hotel%20Japan,%20Onsen%20hotel%20Japan,%20Gunma%20prefecture%20travel/"
+      }
+    },
+    {
+      "id": "plan_84743746",
+      "created_at": "2026-03-14T23:49:40.460848",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "オリオンツアー、「JALタイムセール」を開催　4月6日まで",
+        "url": "https://www.traicy.com/posts/20260314365424/",
+        "date": "Sat, 14 Mar 2026 11:29:35 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 항공권 최대 1,000엔 할인 꿀팁! 지금 바로 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ JAL 최대 1,000엔 할인!",
+        "cards": [
+          {
+            "title": "타임 세일 기간",
+            "content": "JAL 타임 세일이 3월 12일부터 4월 6일까지 진행됩니다. 이 기간 동안 특별 할인을 놓치지 마세요!",
+            "alt_text": "JAL 타임 세일 기간 안내 캘린더"
+          },
+          {
+            "title": "출발 가능 기간",
+            "content": "4월 1일부터 6월 30일까지 출발하는 모든 JAL 이용 상품이 할인 대상입니다. 봄, 초여름 일본 여행 계획 있다면 지금이 기회!",
+            "alt_text": "4월-6월 출발 가능한 일본 지도"
+          },
+          {
+            "title": "할인 대상",
+            "content": "전국 모든 출발지에서 전 지역으로 향하는 JAL 이용 투어 상품이라면 모두 할인받을 수 있습니다. 일본 어디든 갈 수 있어요!",
+            "alt_text": "일본 전역을 잇는 JAL 노선망"
+          },
+          {
+            "title": "추가 할인 혜택",
+            "content": "1인당 1,000엔 할인 쿠폰이 추가 제공됩니다. 가족, 친구와 함께라면 더 큰 할인을 받을 수 있어요!",
+            "alt_text": "1,000엔 할인 쿠폰 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "할인 기간이 4월 6일까지로 얼마 남지 않았습니다. 지금 바로 예약해서 알뜰하게 일본 여행 준비하세요!",
+            "alt_text": "시간이 촉박함을 나타내는 시계 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템, JAL 항공권 특가 찬스! ✈️\n\n✈️ JAL 타임 세일이 4월 6일까지 진행됩니다!\n✅ 4월 1일 ~ 6월 30일 출발 상품 모두 할인!\n✅ 1인당 1,000엔 추가 할인 쿠폰까지!\n\n지금 바로 예약하고 알뜰하게 일본 여행 떠나요! 🇯🇵\n\n#일본여행 #플라잉재팬 #JAL #항공권할인 #일본항공권 #타임세일 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#항공권할인",
+          "#일본항공권",
+          "#타임세일",
+          "#여행꿀팁",
+          "#일본여행준비",
+          "#일본자유여행",
+          "#일본",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본가자",
+          "#할인정보",
+          "#항공권특가"
+        ],
+        "alt_texts": [
+          "JAL 타임 세일 기간 안내 캘린더",
+          "4월-6월 출발 가능한 일본 지도",
+          "일본 전역을 잇는 JAL 노선망",
+          "1,000엔 할인 쿠폰 이미지",
+          "시간이 촉박함을 나타내는 시계 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 할인 정보에 대한 높은 관심과 빠른 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 대상 명시로 실질적인 구매 결정 유도",
+      "image": {
+        "keyword": "JAL airplane, Japan travel discount, time sale banner",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-Japan-travel-discount,-time-sale-banner",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20Japan%20travel%20discount,%20time%20sale%20banner/"
+      }
+    },
     {
       "id": "plan_5691c6c0",
       "created_at": "2026-03-14T02:47:28.930601",
@@ -923,160 +1077,6 @@
         "keyword": "Samantha Vega Hello Kitty collaboration bag wallet charm Japan limited edition",
         "unsplash_url": "https://unsplash.com/s/photos/Samantha-Vega-Hello-Kitty-collaboration-bag-wallet-charm-Japan-limited-edition",
         "pexels_url": "https://www.pexels.com/search/Samantha%20Vega%20Hello%20Kitty%20collaboration%20bag%20wallet%20charm%20Japan%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_d71eeaa8",
-      "created_at": "2026-03-11T02:45:58.308909",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "宝島社、ハローキティ×Maison de FLEUR「いちごチャーム」本日発売。ファミマでも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092198.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여움 끝판왕! 키티와 함께하는 딸기 파우치 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "💖키티X플뢰르 딸기 파우치🍓",
-        "cards": [
-          {
-            "title": "출시 정보",
-            "content": "Maison de FLEUR과 헬로키티의 만남! '헬로키티 딸기 참 파우치 BOOK'이 3월 11일에 발매되었습니다.",
-            "alt_text": "헬로키티와 Maison de FLEUR이 콜라보한 딸기 참 파우치 이미지"
-          },
-          {
-            "title": "가격",
-            "content": "가격은 3,190엔입니다. 일본 현지 편의점에서도 만나볼 수 있다고 하니 놓치지 마세요!",
-            "alt_text": "파우치 가격 정보가 담긴 이미지"
-          },
-          {
-            "title": "구매처",
-            "content": "일본 전국의 패밀리마트에서 구매 가능합니다. (일부 점포 제외)",
-            "alt_text": "패밀리마트 로고와 함께 파우치 이미지"
-          },
-          {
-            "title": "디자인",
-            "content": "사랑스러운 헬로키티와 Maison de FLEUR 특유의 감성이 담긴 딸기 디자인이 포인트입니다.",
-            "alt_text": "파우치의 디테일한 디자인을 보여주는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 여행 중 귀여운 기념품이나 실용적인 파우치를 찾는다면 강력 추천! 한정판 느낌이 강하니 서둘러 득템하세요!",
-            "alt_text": "파우치를 들고 즐거워하는 사람의 이미지"
-          }
-        ],
-        "caption": "🍓헬로키티 팬들 주목!💖\n\nMaison de FLEUR과 헬로키티가 만나 역대급 귀여움의 '딸기 참 파우치'를 출시했어요!\n\n3월 11일 발매, 가격은 3,190엔!\n일본 전국의 패밀리마트에서 만날 수 있답니다. (일부 점포 제외)\n\n여행 기념품으로도, 데일리 파우치로도 딱! ✨\n\n#플라잉재팬 #일본여행 #헬로키티 #MaisondeFLEUR #딸기파우치 #패밀리마트 #일본쇼핑 #한정판 #키덜트 #귀여움주의 #여행선물 #일본편의점 #3월신상 #일본굿즈 #득템찬스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#헬로키티",
-          "#MaisondeFLEUR",
-          "#딸기파우치",
-          "#패밀리마트",
-          "#일본쇼핑",
-          "#한정판",
-          "#키덜트",
-          "#귀여움주의",
-          "#여행선물",
-          "#일본편의점",
-          "#3월신상",
-          "#일본굿즈",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "헬로키티와 Maison de FLEUR이 콜라보한 딸기 참 파우치 이미지",
-          "파우치 가격 정보가 담긴 이미지",
-          "패밀리마트 로고와 함께 파우치 이미지",
-          "파우치의 디테일한 디자인을 보여주는 이미지",
-          "파우치를 들고 즐거워하는 사람의 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 헬로키티 팬, 귀여운 아이템을 좋아하는 20-30대 여성 여행객 / 최적 게시 시간: 평일 오후 5-7시, 주말 오후 2-4시 / 기대 반응: 높은 관심과 구매 문의, 공유 확산 / 이 콘텐츠의 강점: 귀여운 비주얼, 실용성, 한정판 정보로 인한 구매 욕구 자극",
-      "image": {
-        "keyword": "Hello Kitty Maison de FLEUR strawberry charm pouch Famima Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-charm-pouch-Famima-Japan",
-        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20charm%20pouch%20Famima%20Japan/"
-      }
-    },
-    {
-      "id": "plan_d3b0401b",
-      "created_at": "2026-03-11T02:45:51.830315",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "本日発売、ハローキティ×Maison de FLEUR「いちごぬいぐるみチャーム」。ファミマでも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092204.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여움 끝판왕! 키티와 플뢰르의 만남, 딸기 인형 참 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🍓키티 x 플뢰르 딸기인형🍓",
-        "cards": [
-          {
-            "title": "신상 출시!",
-            "content": "3월 11일, ‘Maison de FLEUR × HELLO KITTY 이치고 누이구루미 참 BOOK’이 발매되었습니다. 귀여운 딸기 인형 참과 함께 특별한 북클릿을 만나보세요.",
-            "alt_text": "헬로키티와 메종 드 플뢰르 협업 딸기 인형 참이 담긴 책 표지 이미지"
-          },
-          {
-            "title": "가격 확인",
-            "content": "가격은 3,190엔입니다. 일본 여행 중 특별한 기념품이나 나에게 주는 선물로 딱이에요!",
-            "alt_text": "딸기 인형 참의 가격 정보가 표시된 이미지"
-          },
-          {
-            "title": "어디서 구매?",
-            "content": "이 특별한 아이템은 편의점에서도 만나볼 수 있습니다. 여행 중 편하게 방문하여 득템하세요!",
-            "alt_text": "편의점 내 상품 진열 모습 이미지"
-          },
-          {
-            "title": "한정판 느낌!",
-            "content": "Maison de FLEUR과 헬로키티의 콜라보레이션으로 희소성이 느껴집니다. 놓치면 후회할지도 몰라요!",
-            "alt_text": "협업 상품의 디테일이 돋보이는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 현지 편의점에서 신상품 정보를 미리 확인하고 방문하면 더욱 효율적인 쇼핑이 가능합니다. 여행 계획에 꼭 포함시키세요!",
-            "alt_text": "일본 편의점 내부에서 상품을 고르는 사람의 모습 이미지"
-          }
-        ],
-        "caption": "🍓헬로키티와 메종 드 플뢰르의 역대급 콜라보!🍓\n\n✨3월 11일, ‘Maison de FLEUR × HELLO KITTY 이치고 누이구루미 참 BOOK’이 발매되었어요!\n\n귀여운 딸기 인형 참과 특별한 북클릿이 함께 구성되어 있으며, 가격은 3,190엔입니다.\n\n일본 편의점에서도 구매 가능하니, 여행 중 꼭 득템하세요! 💖\n\n#일본여행 #플라잉재팬 #헬로키티 #메종드플뢰르 #딸기인형 #일본쇼핑 #편의점신상 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#헬로키티",
-          "#메종드플뢰르",
-          "#딸기인형",
-          "#일본쇼핑",
-          "#편의점신상",
-          "#한정판",
-          "#일본굿즈",
-          "#키티덕후",
-          "#인형스타그램",
-          "#일본기념품",
-          "#여행필수템",
-          "#일본생활",
-          "#3월신상"
-        ],
-        "alt_texts": [
-          "헬로키티와 메종 드 플뢰르 협업 딸기 인형 참이 담긴 책 표지 이미지",
-          "딸기 인형 참의 가격 정보가 표시된 이미지",
-          "편의점 내 상품 진열 모습 이미지",
-          "협업 상품의 디테일이 돋보이는 이미지",
-          "일본 편의점 내부에서 상품을 고르는 사람의 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 구매 욕구 자극, 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 귀엽고 희소성 있는 상품 정보로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Hello Kitty Maison de FLEUR strawberry plush charm book Japan convenience store",
-        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-plush-charm-book-Japan-convenience-store",
-        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20plush%20charm%20book%20Japan%20convenience%20store/"
       }
     }
   ]
