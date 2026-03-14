@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-13T23:49:37.703122",
+  "last_updated": "2026-03-14T02:47:30.930761",
   "plans": [
+    {
+      "id": "plan_5691c6c0",
+      "created_at": "2026-03-14T02:47:28.930601",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "祇園の中心に全55室のラグジュアリーホテルが開業。弥栄会館を一部保存した「帝国ホテル 京都」館内を見てきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093269.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토 중심부, 30년 만에 새로 오픈하는 럭셔리 호텔 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🌸교토 신상 럭셔리 호텔 오픈!",
+        "cards": [
+          {
+            "title": "신규 오픈",
+            "content": "30년 만에 새롭게 문을 연 '제국호텔 교토'가 2024년 3월 5일에 개장했습니다. 브랜드 역사상 4번째 신규 호텔입니다.",
+            "alt_text": "제국호텔 교토 외관"
+          },
+          {
+            "title": "위치",
+            "content": "호텔은 교토시 히가시야마구 기온마치미나미가와 570-289에 위치해 있습니다. 기온 거리 중심부에 자리하고 있습니다.",
+            "alt_text": "교토 기온 거리 풍경"
+          },
+          {
+            "title": "객실 수",
+            "content": "총 55개의 객실을 갖춘 럭셔리 호텔로, 편안하고 고급스러운 투숙 경험을 제공합니다.",
+            "alt_text": "제국호텔 교토 객실 내부"
+          },
+          {
+            "title": "건축 특징",
+            "content": "역사적인 '야사카회관'의 일부를 보존하여 건설되었습니다. 전통과 현대가 조화된 독특한 건축 미학을 자랑합니다.",
+            "alt_text": "야사카회관과 제국호텔 교토의 조화"
+          },
+          {
+            "title": "꿀팁",
+            "content": "교토 여행 계획 시, 최신 오픈 호텔에서 특별한 경험을 만들어 보세요. 예약은 미리 하는 것이 좋습니다.",
+            "alt_text": "교토 관광 지도"
+          }
+        ],
+        "caption": "✨교토 여행 필수 정보! 30년 만에 새롭게 오픈한 '제국호텔 교토'를 소개합니다! 🌸 기온 거리 중심부에 위치한 55개의 럭셔리 객실과 역사적인 건축물이 조화로운 이곳에서 특별한 교토의 추억을 만들어보세요. 🇯🇵\n\n#일본여행 #교토여행 #제국호텔 #신상호텔 #교토숙소 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#교토여행",
+          "#제국호텔",
+          "#제국호텔교토",
+          "#신상호텔",
+          "#교토숙소",
+          "#럭셔리호텔",
+          "#일본숙소",
+          "#기온",
+          "#교토가볼만한곳",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행정보",
+          "#플라잉재팬",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "제국호텔 교토 외관",
+          "교토 기온 거리 풍경",
+          "제국호텔 교토 객실 내부",
+          "야사카회관과 제국호텔 교토의 조화",
+          "교토 관광 지도"
+        ]
+      },
+      "marketer_analysis": "타겟: 럭셔리 숙소를 선호하는 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 최신 오픈 호텔 정보와 상세한 정보 제공",
+      "image": {
+        "keyword": "Imperial Hotel Kyoto, Gion, luxury hotel, Kyoto travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Imperial-Hotel-Kyoto,-Gion,-luxury-hotel,-Kyoto-travel",
+        "pexels_url": "https://www.pexels.com/search/Imperial%20Hotel%20Kyoto,%20Gion,%20luxury%20hotel,%20Kyoto%20travel/"
+      }
+    },
+    {
+      "id": "plan_9b1a12ca",
+      "created_at": "2026-03-14T02:47:23.038787",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京モノレール、3月14日ダイヤ改正。羽田空港への空港快速増発、上りは始発繰り上げで浜松町での乗り換えが便利に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093406.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 필수! 하네다 공항 이동이 더 편리해져요! ✈️"
+      },
+      "content": {
+        "thumbnail_title": "✈️도쿄 모노레일 3/14 개편!",
+        "cards": [
+          {
+            "title": "하네다행 증편",
+            "content": "3월 14일부터 도쿄 모노레일이 다이어를 개정합니다. 특히 하네다 공항으로 향하는 '공항 쾌속'이 증편되어 더욱 편리하게 이동할 수 있어요.",
+            "alt_text": "도쿄 모노레일 열차 이미지"
+          },
+          {
+            "title": "상행 첫차 앞당겨짐",
+            "content": "하행 열차뿐만 아니라 상행 열차도 첫차가 앞당겨집니다. 3월 14일부터 적용되며, 하마마츠초역에서의 환승이 훨씬 수월해질 예정입니다.",
+            "alt_text": "하마마츠초역 환승 안내 표지판 이미지"
+          },
+          {
+            "title": "도쿄 모노레일",
+            "content": "도쿄 모노레일은 하네다 공항과 도쿄 도심을 잇는 주요 교통수단입니다. 이번 개정으로 여행자들의 이동 편의성이 크게 향상될 것으로 기대됩니다.",
+            "alt_text": "도쿄 모노레일 노선도 이미지"
+          },
+          {
+            "title": "여행 계획 시 참고",
+            "content": "도쿄 여행을 계획 중이시라면, 3월 14일 이후 변경되는 도쿄 모노레일 운행 시간을 꼭 확인하세요. 특히 하네다 공항 이용 시 시간 절약에 도움이 될 거예요.",
+            "alt_text": "여행 계획을 세우는 사람 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "개정 후 첫차 시간은 미리 확인하고, 환승할 경우 열차 간 대기 시간을 고려하여 여유롭게 출발하는 것이 좋습니다. 최신 운행 정보는 현장에서 다시 한번 확인하세요!",
+            "alt_text": "도쿄 모노레일 시간표 이미지"
+          }
+        ],
+        "caption": "✈️ 도쿄 여행 필수 정보! 3월 14일부터 도쿄 모노레일 다이어가 개정됩니다! ✨\n\n✅ 하네다 공항행 '공항 쾌속' 증편!\n✅ 상행 첫차 시간 앞당겨져 하마마츠초역 환승 편리!\n\n도쿄 여행, 이제 더 스마트하게 즐기세요! 😉\n\n#일본여행 #도쿄여행 #도쿄모노레일 #하네다공항 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄모노레일",
+          "#하네다공항",
+          "#일본교통",
+          "#도쿄",
+          "#여행정보",
+          "#여행준비",
+          "#일본",
+          "#도쿄스타그램",
+          "#여행스타그램",
+          "#일본항공",
+          "#도쿄교통",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "도쿄 모노레일 열차 이미지",
+          "하마마츠초역 환승 안내 표지판 이미지",
+          "도쿄 모노레일 노선도 이미지",
+          "여행 계획을 세우는 사람 이미지",
+          "도쿄 모노레일 시간표 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 7시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 여행자 편의 증진",
+      "image": {
+        "keyword": "Tokyo Monorail, Haneda Airport, Train, Travel Information, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Monorail,-Haneda-Airport,-Train,-Travel-Information,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Monorail,%20Haneda%20Airport,%20Train,%20Travel%20Information,%20Japan/"
+      }
+    },
     {
       "id": "plan_a534b71d",
       "created_at": "2026-03-13T23:49:35.702940",
@@ -923,160 +1077,6 @@
         "keyword": "Hello Kitty Maison de FLEUR strawberry plush charm book Japan convenience store",
         "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-plush-charm-book-Japan-convenience-store",
         "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20plush%20charm%20book%20Japan%20convenience%20store/"
-      }
-    },
-    {
-      "id": "plan_68ca7404",
-      "created_at": "2026-03-10T23:47:09.250442",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ハローキティ×Maison de FLEUR、ガバッと開く「いちご宝物ケース」本日発売。レッド/ピンクの2色",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092209.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "산리오 덕후 심쿵! 키티 x 메종 드 플뢰르 한정판 파우치 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "💖키티 x 메종드플뢰르 💖",
-        "cards": [
-          {
-            "title": "오늘 출시!",
-            "content": "산리오의 아이콘 헬로키티와 프랑스 감성 브랜드 메종 드 플뢰르가 만났어요! 🍓 \"이치고 보물 케이스\"가 3월 11일 오늘 출시됩니다.",
-            "alt_text": "헬로키티와 메종 드 플뢰르 콜라보레이션 '이치고 보물 케이스' 이미지"
-          },
-          {
-            "title": "가격과 색상",
-            "content": "가격은 4,059엔이며, 사랑스러운 핑크와 강렬한 레드, 두 가지 색상으로 출시됩니다.",
-            "alt_text": "핑크색 '이치고 보물 케이스'와 레드색 '이치고 보물 케이스' 이미지"
-          },
-          {
-            "title": "디자인 포인트",
-            "content": "가방 속 자잘한 소품들을 깔끔하게 정리할 수 있는 실용적인 디자인이 특징입니다. 딸기 패턴과 키티 얼굴이 포인트!",
-            "alt_text": "케이스 내부 수납 공간을 보여주는 이미지"
-          },
-          {
-            "title": "구매 정보",
-            "content": "일본 현지 서점에서 구매 가능하며, 온라인 판매 정보는 별도 확인이 필요합니다. (출처: 트래블워치)",
-            "alt_text": "일본 서점에서 판매 중인 상품 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 중이라면 놓칠 수 없는 한정판 굿즈! 여행 기념품으로도, 데일리 파우치로도 완벽해요. 수량 한정일 수 있으니 서두르세요!",
-            "alt_text": "파우치를 활용한 여행 스냅 이미지"
-          }
-        ],
-        "caption": "💖 헬로키티와 메종 드 플뢰르가 만났다! 💖 \n🍓 \"이치고 보물 케이스\" 오늘 3월 11일 출시! 🍓\n사랑스러운 핑크와 레드 두 가지 색상, 가격은 4,059엔!\n여행 필수템으로 챙겨가세요! ✨\n\n#일본여행 #플라잉재팬 #헬로키티 #메종드플뢰르 #산리오 #한정판 #일본쇼핑 #여행준비 #파우치",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#헬로키티",
-          "#메종드플뢰르",
-          "#산리오",
-          "#한정판",
-          "#일본쇼핑",
-          "#여행준비",
-          "#파우치",
-          "#일본굿즈",
-          "#키티덕후",
-          "#일본직구",
-          "#일본기념품",
-          "#여행필수템",
-          "#쇼핑정보"
-        ],
-        "alt_texts": [
-          "헬로키티와 메종 드 플뢰르 콜라보레이션 '이치고 보물 케이스' 이미지",
-          "핑크색 '이치고 보물 케이스'와 레드색 '이치고 보물 케이스' 이미지",
-          "케이스 내부 수납 공간을 보여주는 이미지",
-          "일본 서점에서 판매 중인 상품 이미지",
-          "파우치를 활용한 여행 스냅 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 산리오 및 캐릭터 상품 애호가 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오후 1시-3시 / 기대 반응: 높은 관심과 구매 문의, 친구 태그 및 정보 공유 / 이 콘텐츠의 강점: 최신 출시 정보, 구체적인 가격과 색상 정보 제공, 타겟층의 높은 선호도",
-      "image": {
-        "keyword": "Hello Kitty Maison de FLEUR strawberry treasure case pouch launch",
-        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-Maison-de-FLEUR-strawberry-treasure-case-pouch-launch",
-        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20Maison%20de%20FLEUR%20strawberry%20treasure%20case%20pouch%20launch/"
-      }
-    },
-    {
-      "id": "plan_1a4cdac6",
-      "created_at": "2026-03-10T23:47:03.762845",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "本日発売「すき家 FAN BOOK」。トッピング70円引きorみそ汁無料のパスポート付き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092211.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 대표 외식 체인 '스키야'의 신간 '스키야 FAN BOOK' 출시! 70엔 할인 또는 된장국 무료 혜택이 담긴 패스포트 증정!"
-      },
-      "content": {
-        "thumbnail_title": "✨스키야 신간! 70엔 할인권 득템!✨",
-        "cards": [
-          {
-            "title": "신간 출시!",
-            "content": "일본 대표 외식 체인 '스키야'에서 '스키야 FAN BOOK'을 3월 11일에 발매했습니다. 가격은 1210엔입니다.",
-            "alt_text": "스키야 FAN BOOK 표지 이미지"
-          },
-          {
-            "title": "특별 혜택!",
-            "content": "구매 시, 토핑 70엔 할인 또는 된장국 무료 혜택을 받을 수 있는 패스포트가 포함되어 있습니다. 알찬 구성으로 스키야를 더 저렴하게 즐기세요!",
-            "alt_text": "스키야 FAN BOOK 내 패스포트 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "이 책은 스키야의 다양한 메뉴와 정보를 담고 있으며, 특히 여행 중 간편하고 맛있는 식사를 찾는 분들에게 유용합니다.",
-            "alt_text": "스키야 인기 메뉴 이미지"
-          },
-          {
-            "title": "활용 꿀팁!",
-            "content": "패스포트는 일본 내 스키야 매장에서 사용 가능하며, 유효 기간 및 사용 조건은 책에 명시되어 있습니다. 방문 전 반드시 확인하세요.",
-            "alt_text": "스키야 매장 내부 이미지"
-          },
-          {
-            "title": "여행 필수품!",
-            "content": "일본 여행 중 저렴하고 맛있는 식사를 원한다면, 스키야 FAN BOOK을 주목하세요! 현지인처럼 스키야를 즐길 수 있는 기회입니다.",
-            "alt_text": "여행객이 스키야에서 식사하는 모습"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수템! 스키야 FAN BOOK 드디어 출시! 🇯🇵\n\n일본 대표 외식 체인 스키야에서 특별한 '스키야 FAN BOOK'이 3월 11일에 발매되었습니다! (가격: 1210엔)\n\n✨책 구매 시, 토핑 70엔 할인 또는 된장국 무료 혜택을 받을 수 있는 패스포트가 포함되어 있어요!\n\n일본 여행 중 스키야에서 알차고 맛있는 식사를 즐기고 싶다면, 이 책을 꼭 챙기세요!\n\n#플라잉재팬 #일본여행 #스키야 #일본맛집 #스키야FANBOOK #일본음식 #여행꿀팁 #해외여행 #일본생활 #일본음식추천 #가성비맛집 #여행정보 #일본식당 #일본식사",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스키야",
-          "#일본맛집",
-          "#스키야FANBOOK",
-          "#일본음식",
-          "#여행꿀팁",
-          "#해외여행",
-          "#일본생활",
-          "#일본음식추천",
-          "#가성비맛집",
-          "#여행정보",
-          "#일본식당",
-          "#일본식사",
-          "#일본외식"
-        ],
-        "alt_texts": [
-          "스키야 FAN BOOK 표지 이미지",
-          "스키야 FAN BOOK 내 패스포트 이미지",
-          "스키야 인기 메뉴 이미지",
-          "스키야 매장 내부 이미지",
-          "여행객이 스키야에서 식사하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 스키야 이용 경험이 있는 여행객들의 관심 집중, 신규 이용자들의 정보 탐색 증가 / 이 콘텐츠의 강점: 구체적인 가격, 혜택, 출시일 정보를 명확히 제공하여 실질적인 여행 계획에 도움을 줌.",
-      "image": {
-        "keyword": "Sukiya FAN BOOK, Sukiya menu, Japan travel food, Japanese restaurant discount coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Sukiya-FAN-BOOK,-Sukiya-menu,-Japan-travel-food,-Japanese-restaurant-discount-coupon",
-        "pexels_url": "https://www.pexels.com/search/Sukiya%20FAN%20BOOK,%20Sukiya%20menu,%20Japan%20travel%20food,%20Japanese%20restaurant%20discount%20coupon/"
       }
     }
   ]
