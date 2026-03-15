@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-15T03:26:52.073849",
+  "last_updated": "2026-03-15T23:49:24.656057",
   "plans": [
+    {
+      "id": "plan_102050a9",
+      "created_at": "2026-03-15T23:49:22.655916",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヤフートラベル、「GoGoセール」開催中　3月15日まで",
+        "url": "https://www.traicy.com/posts/20260315365451/",
+        "date": "Sun, 15 Mar 2026 12:32:49 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 숙소, 최대 10% 이상 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️야후재팬 36시간 특가!",
+        "cards": [
+          {
+            "title": "GoGo 세일",
+            "content": "일본 최대 여행 예약 사이트 '야후! 재팬'에서 36시간 한정 'GoGo 세일'이 진행됩니다. 인기 숙박 시설을 최대 10% 이상 할인된 가격으로 만나보세요.",
+            "alt_text": "일본 인기 숙박 시설 할인 정보"
+          },
+          {
+            "title": "할인 기간",
+            "content": "이번 특가 행사는 3월 14일 정오부터 3월 15일까지 단 36시간 동안만 진행됩니다. 놓치면 후회할 절호의 기회입니다!",
+            "alt_text": "36시간 한정 할인 행사 기간"
+          },
+          {
+            "title": "추가 혜택",
+            "content": "할인 혜택 외에도 온라인 카드 결제 시 추가 할인 혜택이 제공될 수 있습니다. 자세한 내용은 야후! 재팬 웹사이트를 확인하세요.",
+            "alt_text": "온라인 카드 결제 추가 할인 안내"
+          },
+          {
+            "title": "이용 팁",
+            "content": "여행 계획이 있다면 지금 바로 야후! 재팬에서 숙소를 검색해보세요. 인기 지역은 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "일본 여행 숙소 예약 팁"
+          },
+          {
+            "title": "주의사항",
+            "content": "세일 기간과 할인율은 변동될 수 있으니, 예약 전 반드시 야후! 재팬 웹사이트에서 최종 내용을 확인하시기 바랍니다.",
+            "alt_text": "예약 전 최종 정보 확인 안내"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 체크! 야후! 재팬 36시간 한정 'GoGo 세일'이 돌아왔어요!\n\n인기 숙소 최대 10% 이상 할인 찬스!\n\n✅ 기간: 3월 14일 정오 ~ 3월 15일\n✅ 혜택: 인기 숙박 시설 할인 + 온라인 카드 결제 추가 할인 가능성\n\n놓치면 후회할 특가, 지금 바로 야후! 재팬에서 확인하세요! ✈️\n\n#일본숙소 #야후재팬 #일본여행특가 #할인정보 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#야후재팬",
+          "#일본여행특가",
+          "#일본숙소할인",
+          "#36시간한정",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본여행꿀팁",
+          "#일본쇼핑",
+          "#일본호텔",
+          "#일본온천",
+          "#일본여행계획"
+        ],
+        "alt_texts": [
+          "일본 인기 숙박 시설 할인 정보",
+          "36시간 한정 할인 행사 기간",
+          "온라인 카드 결제 추가 할인 안내",
+          "일본 여행 숙소 예약 팁",
+          "예약 전 최종 정보 확인 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 전환율 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 플랫폼 명시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "japan travel accommodation discount sale",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-accommodation-discount-sale",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20accommodation%20discount%20sale/"
+      }
+    },
+    {
+      "id": "plan_669bcde9",
+      "created_at": "2026-03-15T23:49:16.015382",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルインターコンチネンタル東京ベイ、「ストロベリーブロッサムアフタヌーンティー」を提供　4月12日まで",
+        "url": "https://www.traicy.com/posts/20260316363229/",
+        "date": "Sun, 15 Mar 2026 21:15:41 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "딸기 & 벚꽃 시즌 한정! 도쿄에서 즐기는 로맨틱 애프터눈티 🌸🍓"
+      },
+      "content": {
+        "thumbnail_title": "🍓🌸 도쿄 딸기벚꽃 애프터눈티",
+        "cards": [
+          {
+            "title": "기간 한정!",
+            "content": "호텔 인터컨티넨탈 도쿄베이에서 '스트로베리 블로썸 애프터눈티'를 3월 1일부터 4월 12일까지 제공합니다. 🌸🍓",
+            "alt_text": "호텔 인터컨티넨탈 도쿄베이 건물 외관"
+          },
+          {
+            "title": "딸기와 벚꽃",
+            "content": "딸기와 벚꽃을 테마로 한 특별한 메뉴들을 만나보세요. 신선한 딸기에 벚꽃 소스를 곁들인 스페셜리티도 준비되어 있습니다. 🍓🌸",
+            "alt_text": "딸기와 벚꽃으로 장식된 애프터눈티 세트"
+          },
+          {
+            "title": "달콤한 디저트",
+            "content": "딸기와 벚꽃 젤리 등 눈으로도 즐겁고 입으로도 행복한 디저트들이 가득합니다. 🍰🌸",
+            "alt_text": "다양한 딸기 벚꽃 테마 디저트 클로즈업"
+          },
+          {
+            "title": "호텔 뷰 감상",
+            "content": "아름다운 도쿄 만의 전망을 감상하며 여유로운 시간을 보낼 수 있습니다. 🏙️🌸",
+            "alt_text": "호텔에서 바라본 도쿄 만의 아름다운 풍경"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기가 많으니 방문 전 호텔 공식 홈페이지나 전화로 예약하시는 것을 추천합니다. 📞🌸",
+            "alt_text": "예약 문의 전화 아이콘"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 경험을 원하신다면? 🌸🍓\n호텔 인터컨티넨탈 도쿄베이에서 4월 12일까지 진행되는 '스트로베리 블로썸 애프터눈티'를 놓치지 마세요!\n딸기와 벚꽃을 테마로 한 아름다운 디저트와 함께 로맨틱한 시간을 즐겨보세요.\n지금 바로 예약하고 잊지 못할 추억을 만들어보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄맛집",
+          "#도쿄카페",
+          "#애프터눈티",
+          "#딸기디저트",
+          "#벚꽃시즌",
+          "#호텔인터컨티넨탈",
+          "#도쿄호텔",
+          "#기간한정",
+          "#일본디저트",
+          "#여행스타그램",
+          "#서울",
+          "#부산"
+        ],
+        "alt_texts": [
+          "호텔 인터컨티넨탈 도쿄베이 건물 외관",
+          "딸기와 벚꽃으로 장식된 애프터눈티 세트",
+          "다양한 딸기 벚꽃 테마 디저트 클로즈업",
+          "호텔에서 바라본 도쿄 만의 아름다운 풍경",
+          "예약 문의 전화 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 3-5시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 시즌 한정, 비주얼적 매력, 구체적인 기간 명시",
+      "image": {
+        "keyword": "strawberry blossom afternoon tea Tokyo InterContinental",
+        "unsplash_url": "https://unsplash.com/s/photos/strawberry-blossom-afternoon-tea-Tokyo-InterContinental",
+        "pexels_url": "https://www.pexels.com/search/strawberry%20blossom%20afternoon%20tea%20Tokyo%20InterContinental/"
+      }
+    },
     {
       "id": "plan_12346377",
       "created_at": "2026-03-15T03:26:50.073656",
@@ -923,160 +1077,6 @@
         "keyword": "Fukuoka Japan discount travel campaign hotel stay",
         "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Japan-discount-travel-campaign-hotel-stay",
         "pexels_url": "https://www.pexels.com/search/Fukuoka%20Japan%20discount%20travel%20campaign%20hotel%20stay/"
-      }
-    },
-    {
-      "id": "plan_d3041409",
-      "created_at": "2026-03-12T02:51:21.257964",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「東急線キッズパス」春休み期間は平日も利用対象に。小児100円で東急線1日乗り放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092476.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "봄방학 기간, 평일에도 100엔으로 도쿄 근교 무제한 탑승 가능!"
-      },
-      "content": {
-        "thumbnail_title": "🌸100엔! 도쿄 지하철 무제한🌸",
-        "cards": [
-          {
-            "title": "동급선 키즈패스",
-            "content": "봄방학 기간인 3월 20일부터 4월 5일까지, 주말뿐만 아니라 평일에도 '동급선 키즈패스'를 이용할 수 있어요.",
-            "alt_text": "동급선 키즈패스 이용 안내 이미지"
-          },
-          {
-            "title": "100엔으로 무제한",
-            "content": "가격은 기존과 동일하게 100엔으로, 이 기간 동안 동급선 전 노선을 하루 종일 무제한으로 탈 수 있습니다.",
-            "alt_text": "100엔 동급선 키즈패스 가격 정보 이미지"
-          },
-          {
-            "title": "이용 대상",
-            "content": "어린이(초등학생 이하)를 대상으로 하는 교통 패스로, 가족 여행 시 유용하게 사용할 수 있어요.",
-            "alt_text": "어린이가 지하철을 타는 모습 이미지"
-          },
-          {
-            "title": "봄방학 꿀팁",
-            "content": "도쿄 근교의 다양한 명소를 저렴하게 둘러볼 수 있는 절호의 기회! 봄방학 기간 여행 계획에 꼭 넣어보세요.",
-            "alt_text": "도쿄 근교 관광지 지도 이미지"
-          },
-          {
-            "title": "알아두기",
-            "content": "이용 기간과 대상 연령을 다시 한번 확인하시고, 어린이 동반 시에만 구매 및 이용이 가능하다는 점 참고하세요.",
-            "alt_text": "동급선 키즈패스 이용 주의사항 안내 이미지"
-          }
-        ],
-        "caption": "✨봄방학 도쿄 여행 필수템!✨\n\n3월 20일부터 4월 5일까지, 딱 17일간! \n어린이는 단돈 100엔으로 도쿄 동급선 전 노선을 하루 종일 무제한 이용할 수 있어요. 🥳\n\n평일에도 가능하니, 봄방학 기간 도쿄 근교 여행 계획 중이라면 놓치지 마세요! 💖\n\n#동급선 #도쿄지하철 #일본교통 #봄방학 #어린이여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#동급선",
-          "#도쿄",
-          "#도쿄지하철",
-          "#일본교통",
-          "#봄방학",
-          "#어린이여행",
-          "#가족여행",
-          "#일본자유여행",
-          "#도쿄근교",
-          "#100엔",
-          "#교통패스",
-          "#일본생활",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "동급선 키즈패스 이용 안내 이미지",
-          "100엔 동급선 키즈패스 가격 정보 이미지",
-          "어린이가 지하철을 타는 모습 이미지",
-          "도쿄 근교 관광지 지도 이미지",
-          "동급선 키즈패스 이용 주의사항 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 봄방학 기간 도쿄를 방문하는 어린이 동반 가족 여행객 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 공유 및 저장, 문의 / 이 콘텐츠의 강점: 파격적인 가격과 기간 한정 정보로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "tokyo subway, kids pass, spring break, 100 yen, unlimited ride, tokyu line",
-        "unsplash_url": "https://unsplash.com/s/photos/tokyo-subway,-kids-pass,-spring-break,-100-yen,-unlimited-ride,-tokyu-line",
-        "pexels_url": "https://www.pexels.com/search/tokyo%20subway,%20kids%20pass,%20spring%20break,%20100%20yen,%20unlimited%20ride,%20tokyu%20line/"
-      }
-    },
-    {
-      "id": "plan_4107245b",
-      "created_at": "2026-03-12T02:51:15.188225",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Osaka Metro、全134駅にホームドアの設置を完了。20年間で転落・接触事故が9割減",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092556.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 여행 시 안전한 지하철 이용을 위한 필수 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🚇 오사카 지하철 134역 100% 안전! 🚨",
-        "cards": [
-          {
-            "title": "안전 강화 완료",
-            "content": "오사카 지하철 134개 모든 역에 홈 도어 설치가 2024년 3월 18일부로 완료되었습니다. 이제 더 안전하게 오사카 지하철을 이용할 수 있습니다.",
-            "alt_text": "오사카 지하철 역에 설치된 파란색 홈 도어"
-          },
-          {
-            "title": "사고 90% 감소",
-            "content": "홈 도어 설치 후 20년간 열차 낙상 및 접촉 사고가 약 90% 감소했습니다. 앞으로 오사카 지하철 이용 시 더욱 안심하세요.",
-            "alt_text": "안전 제일을 나타내는 픽토그램"
-          },
-          {
-            "title": "이용 팁",
-            "content": "이용하시는 역의 승강장 끝부분에는 홈 도어가 설치되어 있습니다. 열차를 기다릴 때는 반드시 안전선 안쪽에서 기다려 주세요.",
-            "alt_text": "승강장에서 안전선 뒤에 서 있는 사람들"
-          },
-          {
-            "title": "전 노선 적용",
-            "content": "오사카 시영 지하철의 전 노선, 전 역에 걸쳐 홈 도어가 설치되어 있어 어떤 노선을 이용하셔도 동일한 안전 기준이 적용됩니다.",
-            "alt_text": "오사카 지하철 노선도"
-          },
-          {
-            "title": "주의사항",
-            "content": "홈 도어가 닫히는 시간을 꼭 확인하시고, 열차 출발/도착 시에는 문에 기대거나 손을 넣지 않도록 주의해야 합니다.",
-            "alt_text": "열차 문 닫힘 경고 표시"
-          }
-        ],
-        "caption": "✈️ 오사카 여행 필수 정보! ✈️\n\n오사카 지하철이 드디어 134개 모든 역에 홈 도어 설치를 완료했습니다! 🎉\n\n20년간 낙상 및 접촉 사고가 무려 90% 감소했다고 하니, 이제 오사카 지하철 이용이 훨씬 더 안전해졌어요. 🚇\n\n여행 중 오사카 지하철 이용 시, 홈 도어 안전 수칙 꼭 지키면서 즐거운 여행 되세요! 😊\n\n📌 지금 바로 저장하고 오사카 여행 계획에 추가하세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#오사카여행",
-          "#오사카지하철",
-          "#일본교통",
-          "#안전여행",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본",
-          "#여행",
-          "#가을여행",
-          "#겨울여행",
-          "#봄여행",
-          "#여름여행"
-        ],
-        "alt_texts": [
-          "오사카 지하철 역에 설치된 파란색 홈 도어",
-          "안전 제일을 나타내는 픽토그램",
-          "승강장에서 안전선 뒤에 서 있는 사람들",
-          "오사카 지하철 노선도",
-          "열차 문 닫힘 경고 표시"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카를 방문하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 정보 습득, 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 안전 정보 제공으로 여행객의 불안감 해소 및 신뢰도 상승",
-      "image": {
-        "keyword": "Osaka subway platform doors, safe travel Japan, Osaka Metro safety",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-subway-platform-doors,-safe-travel-Japan,-Osaka-Metro-safety",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20subway%20platform%20doors,%20safe%20travel%20Japan,%20Osaka%20Metro%20safety/"
       }
     }
   ]
