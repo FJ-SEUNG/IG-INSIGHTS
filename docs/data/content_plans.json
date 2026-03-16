@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-16T03:29:22.120494",
+  "last_updated": "2026-03-16T23:50:07.785715",
   "plans": [
+    {
+      "id": "plan_0ebd59d0",
+      "created_at": "2026-03-16T23:50:05.785538",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Francfranc、今年はぷっくり＆キラキラが新登場「フレ ハンディファン」全12種。選べる香りクリップやストラップも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093881.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올여름 필수템! 프랑프랑 인기 핸디팬, 12가지 신상 컬러와 향기 클립으로 돌아왔어요!"
+      },
+      "content": {
+        "thumbnail_title": "✨프랑프랑 핸디팬 신상✨",
+        "cards": [
+          {
+            "title": "신상 출시!",
+            "content": "프랑프랑에서 2026년형 '프레 핸디팬' 신모델을 3월 19일에 출시합니다. 올해는 더욱 빵빵하고 반짝이는 디자인으로 눈길을 사로잡아요.",
+            "alt_text": "프랑프랑 핸디팬 신상 모델 이미지"
+          },
+          {
+            "title": "총 12가지 컬러",
+            "content": "기존 모델에 이어 올해는 총 12가지의 다채로운 컬러로 출시되어 취향에 맞는 선택이 가능합니다. 나만의 개성을 살릴 수 있는 컬러를 골라보세요.",
+            "alt_text": "다양한 색상의 프랑프랑 핸디팬 모음 이미지"
+          },
+          {
+            "title": "향기 클립 추가",
+            "content": "새롭게 선보이는 향기 클립 옵션으로 나만의 시그니처 향을 더할 수 있어요. 좋아하는 향과 함께 시원한 여름을 만끽하세요.",
+            "alt_text": "프랑프랑 핸디팬에 부착된 향기 클립 이미지"
+          },
+          {
+            "title": "전국 매장/온라인",
+            "content": "전국 프랑프랑 매장과 공식 온라인 샵에서 만나볼 수 있습니다. 여행 중 들르기 좋은 쇼핑 아이템으로 추천해요!",
+            "alt_text": "프랑프랑 매장 외관 또는 온라인 샵 화면 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 상품이니만큼 조기 품절될 수 있어요! 3월 19일 출시일에 맞춰 서두르세요. 여행 기념품으로도 최고랍니다.",
+            "alt_text": "프랑프랑 핸디팬을 들고 즐거워하는 사람 이미지"
+          }
+        ],
+        "caption": "☀️ 2026년형 프랑프랑 핸디팬, 드디어 신상 출시! ☀️\n올해는 빵빵하고 반짝이는 디자인에 총 12가지 컬러, 그리고 나만의 향기를 더할 수 있는 향기 클립까지!\n3월 19일부터 전국 매장과 온라인에서 만나요!\n여행 필수템, 프랑프랑 핸디팬으로 시원한 여름 준비하세요! 🛍️\n#프랑프랑 #핸디팬 #일본쇼핑 #여름필수템 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#프랑프랑",
+          "#핸디팬",
+          "#일본쇼핑",
+          "#여름필수템",
+          "#여행준비",
+          "#일본쇼핑리스트",
+          "#일본생활",
+          "#일본직구",
+          "#일본핫템",
+          "#프랑프랑신상",
+          "#일본기념품",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "프랑프랑 핸디팬 신상 모델 이미지",
+          "다양한 색상의 프랑프랑 핸디팬 모음 이미지",
+          "프랑프랑 핸디팬에 부착된 향기 클립 이미지",
+          "프랑프랑 매장 외관 또는 온라인 샵 화면 이미지",
+          "프랑프랑 핸디팬을 들고 즐거워하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 인스타그램 확인 시간) / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 최신 쇼핑 정보, 실용적인 아이템, 시각적 매력",
+      "image": {
+        "keyword": "Francfranc handy fan, new model, 12 colors, fragrance clip, Japan shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Francfranc-handy-fan,-new-model,-12-colors,-fragrance-clip,-Japan-shopping",
+        "pexels_url": "https://www.pexels.com/search/Francfranc%20handy%20fan,%20new%20model,%2012%20colors,%20fragrance%20clip,%20Japan%20shopping/"
+      }
+    },
+    {
+      "id": "plan_9a18c5ce",
+      "created_at": "2026-03-16T23:50:00.282124",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京湾の屋形船クルーズが最大43％オフ「春のU25学割」。船上でもんじゃ焼き食べ放題、GWも対象",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2093883.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 도쿄에서 특별한 경험을 최대 43% 할인받고 즐기세요! 🚢✨"
+      },
+      "content": {
+        "thumbnail_title": "도쿄 야경 💖 43% 할인!",
+        "cards": [
+          {
+            "title": "봄학기 할인!",
+            "content": "에도마에 키센에서 '봄의 U25 학부생 할인' 캠페인을 4월 13일부터 6월 30일까지 진행합니다. 최대 43% 할인된 가격으로 야카타부네 크루즈를 즐길 수 있어요.",
+            "alt_text": "봄학기 할인 캠페인 안내 이미지"
+          },
+          {
+            "title": "기간 확인!",
+            "content": "캠페인 기간은 2024년 4월 13일부터 6월 30일까지입니다. 황금연휴(GW) 기간도 포함되니 놓치지 마세요!",
+            "alt_text": "캠페인 기간 표시 이미지"
+          },
+          {
+            "title": "할인율!",
+            "content": "일부 코스는 최대 43%까지 할인된 가격으로 이용 가능합니다. 평소 비싸서 망설였던 분들께 좋은 기회예요.",
+            "alt_text": "최대 43% 할인율 표시 이미지"
+          },
+          {
+            "title": "특별한 경험!",
+            "content": "도쿄만 야경을 감상하며 몬자야키 무제한 뷔페를 즐길 수 있습니다. 잊지 못할 저녁 식사가 될 거예요.",
+            "alt_text": "야카타부네 위에서 몬자야키를 즐기는 모습 이미지"
+          },
+          {
+            "title": "이용 팁!",
+            "content": "본 캠페인은 25세 이하 학생을 대상으로 합니다. 방문 전 예약 및 학생증 지참 여부를 확인하는 것이 좋습니다.",
+            "alt_text": "학생증과 함께 야카타부네를 즐기는 모습 이미지"
+          }
+        ],
+        "caption": "도쿄 여행 중 특별한 추억을 만들고 싶다면? 💖\n\n에도마에 키센에서 진행하는 '봄의 U25 학부생 할인' 캠페인을 주목하세요!\n\n✅ 4월 13일 ~ 6월 30일\n✅ 최대 43% 할인!\n✅ 몬자야키 무제한 뷔페 포함\n\n황금연휴 기간도 포함되니, 일본 여행 계획 중이라면 꼭 확인해보세요! 🚢✨\n\n#일본여행 #도쿄여행 #야카타부네 #할인정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#도쿄여행",
+          "#야카타부네",
+          "#일본할인",
+          "#일본여행정보",
+          "#도쿄야경",
+          "#봄할인",
+          "#U25할인",
+          "#학부생할인",
+          "#몬자야키",
+          "#도쿄맛집",
+          "#여행꿀팁",
+          "#플라잉재팬",
+          "#일본자유여행",
+          "#일본크루즈"
+        ],
+        "alt_texts": [
+          "봄학기 할인 캠페인 안내 이미지",
+          "캠페인 기간 표시 이미지",
+          "최대 43% 할인율 표시 이미지",
+          "야카타부네 위에서 몬자야키를 즐기는 모습 이미지",
+          "학생증과 함께 야카타부네를 즐기는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20대 초중반 한국인 학생 / 최적 게시 시간: 금요일 오후 7시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 명확한 할인율과 기간, 특별한 경험 제공",
+      "image": {
+        "keyword": "Tokyo Bay, Yakatabune cruise, cherry blossoms, student discount, night view, Monjayaki",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay,-Yakatabune-cruise,-cherry-blossoms,-student-discount,-night-view,-Monjayaki",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay,%20Yakatabune%20cruise,%20cherry%20blossoms,%20student%20discount,%20night%20view,%20Monjayaki/"
+      }
+    },
     {
       "id": "plan_ff5d5ca4",
       "created_at": "2026-03-16T03:29:20.120320",
@@ -923,160 +1077,6 @@
         "keyword": "shinkansen mascot, japan travel souvenir, random collectible toy, golden dr. yellow, golden komachi",
         "unsplash_url": "https://unsplash.com/s/photos/shinkansen-mascot,-japan-travel-souvenir,-random-collectible-toy,-golden-dr.-yellow,-golden-komachi",
         "pexels_url": "https://www.pexels.com/search/shinkansen%20mascot,%20japan%20travel%20souvenir,%20random%20collectible%20toy,%20golden%20dr.%20yellow,%20golden%20komachi/"
-      }
-    },
-    {
-      "id": "plan_c054bbe3",
-      "created_at": "2026-03-13T02:48:37.286785",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本、運賃改定に伴い往復割引を廃止。乗り放題パス/Wきっぷ/しなの回数券など、値上げ後はいくらになる？",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2092606.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 동일본, 3월 14일부터 운임 인상 및 혜택 축소! 일본 여행 계획 시 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚨JR 동일본 3/14 운임 인상!🚨",
-        "cards": [
-          {
-            "title": "운임 인상",
-            "content": "JR 동일본은 3월 14일부터 운임을 인상합니다. 이에 따라 3월 13일까지 往復乗車券(왕복 승차권) 및 連続乗車券(연속 승차권) 판매가 종료됩니다.",
-            "alt_text": "JR 동일본 열차 운행 노선도"
-          },
-          {
-            "title": "왕복 할인 폐지",
-            "content": "편도 601km 이상 구간에 적용되던 왕복 할인 혜택도 3월 14일부터 폐지됩니다. 앞으로는 왕복 티켓 구매 시 더 이상 할인을 받을 수 없습니다.",
-            "alt_text": "계산기 이미지와 함께 할인율 감소 표시"
-          },
-          {
-            "title": "주요 패스/티켓",
-            "content": "乗り放題パス(노리호다이 패스), Wきっぷ(더블 티켓), しなの回数券(시나노 회수권) 등 주요 패스와 티켓의 가격도 인상될 예정입니다. 정확한 인상 금액은 별도 확인이 필요합니다.",
-            "alt_text": "다양한 일본 열차 티켓 이미지"
-          },
-          {
-            "title": "여행 계획 시 유의",
-            "content": "일본 동북 지역(도쿄, 센다이 등)을 포함한 JR 동일본 구간 여행 계획이 있다면, 3월 14일 이전에 티켓 구매를 완료하거나 인상된 운임을 고려해야 합니다.",
-            "alt_text": "달력에 3월 14일 표시"
-          },
-          {
-            "title": "JR 패스 확인",
-            "content": "일본 전국 JR 패스 등 다른 JR 패스의 가격 변동 여부도 함께 확인하여 합리적인 여행 계획을 세우는 것이 중요합니다.",
-            "alt_text": "일본 지도 위에 JR 패스 아이콘"
-          }
-        ],
-        "caption": "✈️일본 여행 필수 정보!✈️ JR 동일본, 3월 14일부터 운임이 인상됩니다! 😭\n\n왕복 승차권 및 할인 혜택이 축소되니, 일본 동북 지역 여행 계획 중이라면 꼭 미리 확인하세요! 꼼꼼한 계획으로 알찬 일본 여행 되세요! 😊\n\n#일본여행 #JR동일본 #운임인상 #일본교통 #여행정보 #일본패스 #플라잉재팬 #일본여행꿀팁 #여행준비 #일본알뜰여행 #일본자유여행 #일본정보 #여행스타그램 #일본스타그램 #일본교통정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#일본교통",
-          "#운임인상",
-          "#일본여행준비",
-          "#일본여행꿀팁",
-          "#일본알뜰여행",
-          "#일본자유여행",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본스타그램",
-          "#여행정보",
-          "#JR패스",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "JR 동일본 열차 운행 노선도",
-          "계산기 이미지와 함께 할인율 감소 표시",
-          "다양한 일본 열차 티켓 이미지",
-          "달력에 3월 14일 표시",
-          "일본 지도 위에 JR 패스 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 동북 지역(도쿄, 센다이 등) 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~22시) / 기대 반응: 정보 습득 및 공유, 댓글을 통한 문의 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 여행 계획에 직접적인 도움을 줄 수 있음",
-      "image": {
-        "keyword": "Japan train ticket price increase JR East",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-ticket-price-increase-JR-East",
-        "pexels_url": "https://www.pexels.com/search/Japan%20train%20ticket%20price%20increase%20JR%20East/"
-      }
-    },
-    {
-      "id": "plan_1fce01ec",
-      "created_at": "2026-03-13T02:48:30.239589",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "アナとエルサのお城に新メニューが登場。オラフのフェイスのミートボールプレートや、スモーブローほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2093183.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 겨울왕국 신메뉴!"
-      },
-      "content": {
-        "thumbnail_title": "❄️겨울왕국 신메뉴 출시❄️",
-        "cards": [
-          {
-            "title": "신메뉴 출시",
-            "content": "도쿄디즈니씨 겨울왕국 테마 구역 '아렌델 왕국' 레스토랑에서 4월 4일부터 신메뉴를 선보입니다.",
-            "alt_text": "도쿄디즈니씨 겨울왕국 테마 구역의 레스토랑 외관"
-          },
-          {
-            "title": "메뉴 소개",
-            "content": "올라프 얼굴 모양의 미트볼 플레이트와 스모브로 등 겨울왕국 테마의 다채로운 메뉴를 만나볼 수 있습니다.",
-            "alt_text": "올라프 얼굴 모양의 미트볼 플레이트 이미지"
-          },
-          {
-            "title": "레스토랑 정보",
-            "content": "레스토랑 이름은 '아렌데일 로열 뱅큇'이며, 겨울왕국 테마 구역 내에 위치해 있습니다.",
-            "alt_text": "아렌데일 로열 뱅큇 내부 인테리어 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기 메뉴는 조기 소진될 수 있으니, 방문 계획이 있다면 오픈 시간에 맞춰 가는 것을 추천합니다.",
-            "alt_text": "레스토랑 앞에서 줄 서 있는 사람들의 모습"
-          },
-          {
-            "title": "이벤트",
-            "content": "겨울왕국 테마 구역에서는 신메뉴 출시와 함께 다양한 즐길 거리가 준비되어 있습니다.",
-            "alt_text": "겨울왕국 테마 구역에서 진행되는 이벤트 모습"
-          }
-        ],
-        "caption": "❄️도쿄디즈니씨 겨울왕국 신메뉴 출시!❄️\n\n4월 4일부터 '아렌데일 로열 뱅큇'에서 올라프 미트볼 플레이트 등 겨울왕국 테마 신메뉴를 맛볼 수 있어요!\n\n디즈니 덕후라면 절대 놓치지 마세요! ✨\n\n#도쿄디즈니씨 #겨울왕국 #아렌델왕국 #신메뉴 #디즈니여행 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니랜드",
-          "#디즈니씨",
-          "#겨울왕국",
-          "#아렌델",
-          "#신메뉴",
-          "#디즈니맛집",
-          "#도쿄여행",
-          "#일본여행정보",
-          "#디즈니덕후",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#놀이공원"
-        ],
-        "alt_texts": [
-          "도쿄디즈니씨 겨울왕국 테마 구역의 레스토랑 외관",
-          "올라프 얼굴 모양의 미트볼 플레이트 이미지",
-          "아렌데일 로열 뱅큇 내부 인테리어 이미지",
-          "레스토랑 앞에서 줄 서 있는 사람들의 모습",
-          "겨울왕국 테마 구역에서 진행되는 이벤트 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 주말 오전 9시 / 기대 반응: 높은 관심과 댓글 문의 / 이 콘텐츠의 강점: 최신 정보, 흥미로운 테마, 즉각적인 방문 욕구 자극",
-      "image": {
-        "keyword": "Tokyo DisneySea, Frozen Kingdom, Arendelle Royal Banquet, new menu, Olaf meatball plate, movie themed restaurant",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Frozen-Kingdom,-Arendelle-Royal-Banquet,-new-menu,-Olaf-meatball-plate,-movie-themed-restaurant",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Frozen%20Kingdom,%20Arendelle%20Royal%20Banquet,%20new%20menu,%20Olaf%20meatball%20plate,%20movie%20themed%20restaurant/"
       }
     }
   ]
