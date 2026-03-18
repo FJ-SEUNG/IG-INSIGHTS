@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-17T23:52:04.397804",
+  "last_updated": "2026-03-18T03:15:47.623511",
   "plans": [
+    {
+      "id": "plan_3eb94638",
+      "created_at": "2026-03-18T03:15:45.623322",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "USJ、5周年「スーパー・ニンテンドー・ワールド」限定グッズを撮り下ろしで紹介！　注目は“マップ”モチーフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2094312.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "슈퍼 닌텐도 월드 5주년! 놓치면 후회할 한정 굿즈와 이벤트 정보 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "✨USJ 닌텐도 월드 5주년!✨",
+        "cards": [
+          {
+            "title": "5주년 이벤트 시작!",
+            "content": "유니버설 스튜디오 재팬의 인기 명소 '슈퍼 닌텐도 월드'가 개장 5주년을 맞이했습니다! 2024년 3월 18일부터 특별한 기념 이벤트가 시작되었어요.",
+            "alt_text": "유니버설 스튜디오 재팬 입구 전경"
+          },
+          {
+            "title": "한정 굿즈 공개!",
+            "content": "이번 5주년 기념으로 '맵'을 모티브로 한 특별한 디자인의 한정 상품들이 공개되었습니다. 마리오와 친구들의 귀여운 모습이 담긴 굿즈를 놓치지 마세요!",
+            "alt_text": "슈퍼 닌텐도 월드 5주년 기념 굿즈 이미지"
+          },
+          {
+            "title": "놓치면 아쉬워요!",
+            "content": "5주년 기념 이벤트 기간 동안만 만날 수 있는 특별한 상품과 즐길 거리가 가득합니다. 친구, 연인, 가족과 함께 잊지 못할 추억을 만들어보세요!",
+            "alt_text": "슈퍼 닌텐도 월드 내부 파노라마 뷰"
+          },
+          {
+            "title": "티켓 예매 필수!",
+            "content": "인기 어트랙션과 한정 굿즈를 위해 미리 티켓을 예매하시는 것을 추천합니다. 특히 주말이나 공휴일은 조기 매진될 수 있으니 서둘러주세요!",
+            "alt_text": "USJ 티켓 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "이벤트 기간 한정 굿즈는 재고 소진 시 판매가 조기 종료될 수 있습니다. 방문 전 공식 홈페이지에서 굿즈 정보를 미리 확인하고, 원하는 상품이 있다면 오픈 시간에 맞춰 방문하는 것이 좋습니다.",
+            "alt_text": "슈퍼 닌텐도 월드 기념품샵 내부"
+          }
+        ],
+        "caption": "🎉USJ 슈퍼 닌텐도 월드 5주년 기념 이벤트 시작!🎉\n\n마리오와 함께하는 환상적인 세계, 슈퍼 닌텐도 월드가 어느덧 5주년을 맞이했습니다! 🍄✨\n\n2024년 3월 18일부터 진행되는 5주년 기념 이벤트에서는 '맵'을 모티브로 한 특별한 한정 굿즈와 다채로운 즐길 거리가 준비되어 있어요. 🎁\n\n꼭 방문하셔서 잊지 못할 추억을 만들어보세요! 🚀\n\n#일본여행 #오사카여행 #USJ #슈퍼닌텐도월드 #마리오 #닌텐도",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#USJ",
+          "#슈퍼닌텐도월드",
+          "#유니버설스튜디오재팬",
+          "#오사카여행",
+          "#일본자유여행",
+          "#일본테마파크",
+          "#마리오",
+          "#닌텐도",
+          "#여행정보",
+          "#일본축제",
+          "#한정판",
+          "#여행꿀팁",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "유니버설 스튜디오 재팬 입구 전경",
+          "슈퍼 닌텐도 월드 5주년 기념 굿즈 이미지",
+          "슈퍼 닌텐도 월드 내부 파노라마 뷰",
+          "USJ 티켓 이미지",
+          "슈퍼 닌텐도 월드 기념품샵 내부"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 오사카 여행을 계획 중인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 이벤트 정보에 대한 높은 관심 및 방문 계획 문의 증가 / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 굿즈 소개로 실제 여행 계획에 직접적인 도움 제공",
+      "image": {
+        "keyword": "USJ Super Nintendo World 5th Anniversary merchandise, Mario themed park event",
+        "unsplash_url": "https://unsplash.com/s/photos/USJ-Super-Nintendo-World-5th-Anniversary-merchandise,-Mario-themed-park-event",
+        "pexels_url": "https://www.pexels.com/search/USJ%20Super%20Nintendo%20World%205th%20Anniversary%20merchandise,%20Mario%20themed%20park%20event/"
+      }
+    },
+    {
+      "id": "plan_cca13896",
+      "created_at": "2026-03-18T03:15:39.972670",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "USJ、スーパースターの「ポップコーンバケツ」が1年限定で特別仕様に！　BGMとともにピカピカ光る“無敵モード”をやってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2094323.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "USJ 슈퍼 닌텐도 월드 5주년! 팝콘 버킷이 1년 한정 특별 사양으로 변신해요!"
+      },
+      "content": {
+        "thumbnail_title": "✨USJ 닌텐도 5주년! 팝콘 버킷 변신✨",
+        "cards": [
+          {
+            "title": "5주년 이벤트 시작!",
+            "content": "유니버설 스튜디오 재팬(USJ)의 인기 명소 '슈퍼 닌텐도 월드'가 개장 5주년을 맞아 특별 이벤트를 시작했어요. 2024년 3월 18일부터 진행됩니다.",
+            "alt_text": "슈퍼 닌텐도 월드 입구 전경"
+          },
+          {
+            "title": "팝콘 버킷 특별 사양",
+            "content": "5주년 기념으로 슈퍼스타 팝콘 버킷이 1년 한정 특별 사양으로 등장했어요. BGM과 함께 빛나는 '무적 모드'를 경험할 수 있습니다.",
+            "alt_text": "반짝이는 특별 사양 팝콘 버킷 이미지"
+          },
+          {
+            "title": "1년 한정 기간",
+            "content": "이 특별한 팝콘 버킷은 2025년 3월까지 1년 동안만 만나볼 수 있으니, 기간을 꼭 확인하고 방문하세요!",
+            "alt_text": "달력에 표시된 2025년 3월 이미지"
+          },
+          {
+            "title": "마리오와 함께!",
+            "content": "슈퍼 닌텐도 월드에서는 마리오, 루이지, 피치 공주 등 다양한 캐릭터를 만날 수 있으며, 파워업 밴드와 함께 게임을 즐길 수 있어요.",
+            "alt_text": "마리오 캐릭터와 함께 사진 찍는 관광객 이미지"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "USJ는 매우 인기가 많으니, 사전에 티켓을 예매하고 방문하는 것이 좋아요. 특히 주말이나 공휴일에는 더욱 서둘러 준비하세요!",
+            "alt_text": "USJ 공식 홈페이지 티켓 예매 화면 캡쳐"
+          }
+        ],
+        "caption": "🇯🇵 USJ 닌텐도 월드 5주년 기념! 팝콘 버킷이 1년 한정 '무적 모드'로 변신했어요! ✨\n\n2024년 3월 18일부터 시작되는 특별 이벤트, 놓치지 마세요!\n\n✅ 1년 한정 특별 사양 팝콘 버킷\n✅ BGM과 함께 빛나는 '무적 모드'!\n✅ 2025년 3월까지!\n\n마리오와 함께하는 짜릿한 5주년 축제를 즐겨보세요! 🍄\n\n#USJ #슈퍼닌텐도월드 #일본여행 #오사카여행 #유니버설스튜디오재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#USJ",
+          "#슈퍼닌텐도월드",
+          "#닌텐도",
+          "#마리오",
+          "#오사카",
+          "#일본놀거리",
+          "#일본테마파크",
+          "#팝콘버킷",
+          "#한정판",
+          "#일본이벤트",
+          "#여행정보",
+          "#일본자유여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "슈퍼 닌텐도 월드 입구 전경",
+          "반짝이는 특별 사양 팝콘 버킷 이미지",
+          "달력에 표시된 2025년 3월 이미지",
+          "마리오 캐릭터와 함께 사진 찍는 관광객 이미지",
+          "USJ 공식 홈페이지 티켓 예매 화면 캡쳐"
+        ]
+      },
+      "marketer_analysis": "타겟: 유니버설 스튜디오 재팬 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 정보 공유 및 방문 의사 증진 / 이 콘텐츠의 강점: 최신 이벤트 정보와 매력적인 한정판 아이템 소개",
+      "image": {
+        "keyword": "USJ Super Nintendo World 5th anniversary popcorn bucket",
+        "unsplash_url": "https://unsplash.com/s/photos/USJ-Super-Nintendo-World-5th-anniversary-popcorn-bucket",
+        "pexels_url": "https://www.pexels.com/search/USJ%20Super%20Nintendo%20World%205th%20anniversary%20popcorn%20bucket/"
+      }
+    },
     {
       "id": "plan_31366af1",
       "created_at": "2026-03-17T23:52:02.397637",
@@ -923,160 +1077,6 @@
         "keyword": "japan hotel discount, travel sale, limited time offer, booking site, golden week japan",
         "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount,-travel-sale,-limited-time-offer,-booking-site,-golden-week-japan",
         "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount,%20travel%20sale,%20limited%20time%20offer,%20booking%20site,%20golden%20week%20japan/"
-      }
-    },
-    {
-      "id": "plan_5fef2b01",
-      "created_at": "2026-03-14T23:49:46.956788",
-      "category": "hotplace",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "「ホテルルートインGrand前橋」、3月6日開業",
-        "url": "https://www.traicy.com/posts/20260314365183/",
-        "date": "Sat, 14 Mar 2026 09:08:38 +0000"
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "일본 군마현에 새로 생긴 대형 호텔, 여행객 숙소 옵션 추가!"
-      },
-      "content": {
-        "thumbnail_title": "군마현 새 호텔 OPEN! 🏨",
-        "cards": [
-          {
-            "title": "군마현 신규 오픈",
-            "content": "호텔 루트인 Grand 마에바시가 3월 6일에 문을 열었습니다. 지상 12층 규모의 신축 호텔입니다.",
-            "alt_text": "군마현 마에바시에 새로 오픈한 호텔 건물의 외관"
-          },
-          {
-            "title": "객실 정보",
-            "content": "총 243개의 다양한 객실을 보유하고 있습니다. 싱글, 트리플, 그리고 배리어프리 오픈 싱글룸까지 준비되어 있습니다.",
-            "alt_text": "호텔 객실 내부의 깔끔한 침대와 가구 모습"
-          },
-          {
-            "title": "온천 시설",
-            "content": "여행의 피로를 풀 수 있는 대욕장 '여행자의 탕'이 있습니다. 코우메이석 인공 온천으로 특별한 휴식을 선사합니다.",
-            "alt_text": "호텔 내부에 마련된 넓고 편안한 대욕장 모습"
-          },
-          {
-            "title": "주요 위치",
-            "content": "군마현 마에바시 중심부에 위치하여 관광 및 비즈니스 목적으로 편리하게 이용 가능합니다.",
-            "alt_text": "호텔이 위치한 지역의 간략한 지도 표시"
-          },
-          {
-            "title": "꿀팁",
-            "content": "군마현 여행 시 새로운 숙소 옵션을 고려해 보세요! 특히 온천 시설을 중요하게 생각하는 분들께 추천합니다.",
-            "alt_text": "따뜻한 온천물에 발을 담그고 휴식하는 모습"
-          }
-        ],
-        "caption": "일본 군마현 여행 예정이라면 주목! 📣\n3월 6일, '호텔 루트인 Grand 마에바시'가 새롭게 오픈했습니다. 🏨\n총 243개의 객실과 여행의 피로를 풀어줄 인공 온천 '여행자의 탕'까지! 🛀\n군마현 여행 시 새로운 숙소 옵션으로 강력 추천드려요! 👍\n#플라잉재팬 과 함께 알찬 일본 여행 계획하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#군마현",
-          "#마에바시",
-          "#일본호텔",
-          "#신규오픈",
-          "#일본숙소",
-          "#온천호텔",
-          "#일본자유여행",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#호텔추천",
-          "#일본온천",
-          "#여행준비",
-          "#일본"
-        ],
-        "alt_texts": [
-          "군마현 마에바시에 새로 오픈한 호텔 건물의 외관",
-          "호텔 객실 내부의 깔끔한 침대와 가구 모습",
-          "호텔 내부에 마련된 넓고 편안한 대욕장 모습",
-          "호텔이 위치한 지역의 간략한 지도 표시",
-          "따뜻한 온천물에 발을 담그고 휴식하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 군마현 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 숙소 정보에 대한 관심 및 문의 / 이 콘텐츠의 강점: 최신 오픈 정보로 희소성 있으며, 구체적인 시설 정보를 제공하여 실질적인 도움을 줌.",
-      "image": {
-        "keyword": "Hotel Route Inn Grand Maebashi, new hotel Japan, Onsen hotel Japan, Gunma prefecture travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Hotel-Route-Inn-Grand-Maebashi,-new-hotel-Japan,-Onsen-hotel-Japan,-Gunma-prefecture-travel",
-        "pexels_url": "https://www.pexels.com/search/Hotel%20Route%20Inn%20Grand%20Maebashi,%20new%20hotel%20Japan,%20Onsen%20hotel%20Japan,%20Gunma%20prefecture%20travel/"
-      }
-    },
-    {
-      "id": "plan_84743746",
-      "created_at": "2026-03-14T23:49:40.460848",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "オリオンツアー、「JALタイムセール」を開催　4月6日まで",
-        "url": "https://www.traicy.com/posts/20260314365424/",
-        "date": "Sat, 14 Mar 2026 11:29:35 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 항공권 최대 1,000엔 할인 꿀팁! 지금 바로 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ JAL 최대 1,000엔 할인!",
-        "cards": [
-          {
-            "title": "타임 세일 기간",
-            "content": "JAL 타임 세일이 3월 12일부터 4월 6일까지 진행됩니다. 이 기간 동안 특별 할인을 놓치지 마세요!",
-            "alt_text": "JAL 타임 세일 기간 안내 캘린더"
-          },
-          {
-            "title": "출발 가능 기간",
-            "content": "4월 1일부터 6월 30일까지 출발하는 모든 JAL 이용 상품이 할인 대상입니다. 봄, 초여름 일본 여행 계획 있다면 지금이 기회!",
-            "alt_text": "4월-6월 출발 가능한 일본 지도"
-          },
-          {
-            "title": "할인 대상",
-            "content": "전국 모든 출발지에서 전 지역으로 향하는 JAL 이용 투어 상품이라면 모두 할인받을 수 있습니다. 일본 어디든 갈 수 있어요!",
-            "alt_text": "일본 전역을 잇는 JAL 노선망"
-          },
-          {
-            "title": "추가 할인 혜택",
-            "content": "1인당 1,000엔 할인 쿠폰이 추가 제공됩니다. 가족, 친구와 함께라면 더 큰 할인을 받을 수 있어요!",
-            "alt_text": "1,000엔 할인 쿠폰 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "할인 기간이 4월 6일까지로 얼마 남지 않았습니다. 지금 바로 예약해서 알뜰하게 일본 여행 준비하세요!",
-            "alt_text": "시간이 촉박함을 나타내는 시계 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템, JAL 항공권 특가 찬스! ✈️\n\n✈️ JAL 타임 세일이 4월 6일까지 진행됩니다!\n✅ 4월 1일 ~ 6월 30일 출발 상품 모두 할인!\n✅ 1인당 1,000엔 추가 할인 쿠폰까지!\n\n지금 바로 예약하고 알뜰하게 일본 여행 떠나요! 🇯🇵\n\n#일본여행 #플라잉재팬 #JAL #항공권할인 #일본항공권 #타임세일 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#항공권할인",
-          "#일본항공권",
-          "#타임세일",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#일본자유여행",
-          "#일본",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본가자",
-          "#할인정보",
-          "#항공권특가"
-        ],
-        "alt_texts": [
-          "JAL 타임 세일 기간 안내 캘린더",
-          "4월-6월 출발 가능한 일본 지도",
-          "일본 전역을 잇는 JAL 노선망",
-          "1,000엔 할인 쿠폰 이미지",
-          "시간이 촉박함을 나타내는 시계 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 할인 정보에 대한 높은 관심과 빠른 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 대상 명시로 실질적인 구매 결정 유도",
-      "image": {
-        "keyword": "JAL airplane, Japan travel discount, time sale banner",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-Japan-travel-discount,-time-sale-banner",
-        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20Japan%20travel%20discount,%20time%20sale%20banner/"
       }
     }
   ]
