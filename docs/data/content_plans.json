@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-18T23:50:41.274550",
+  "last_updated": "2026-03-19T03:16:40.911185",
   "plans": [
+    {
+      "id": "plan_af0b9512",
+      "created_at": "2026-03-19T03:16:38.911016",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社「機動戦士ガンダム」ショルダーバッグ。“三色だんごハロ”チャーム付き、セブンでも本日発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2094595.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "건담 팬이라면 놓칠 수 없는 한정판 굿즈!"
+      },
+      "content": {
+        "thumbnail_title": "GUNDAM 굿즈 득템 찬스! 🚀",
+        "cards": [
+          {
+            "title": "신상 가방 출시!",
+            "content": "건담 '하루' 디자인의 숄더백과 '삼색 경단' 모양의 참이 세트로 출시됩니다. 귀여운 디자인으로 여행 중 포인트 주기 좋아요.",
+            "alt_text": "건담 '하루' 디자인 숄더백과 삼색 경단 참이 함께 있는 모습"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 3,839엔입니다. 한국 돈으로 약 3만 5천원 내외로, 부담 없이 구매하기 좋은 가격대입니다.",
+            "alt_text": "상품 가격이 표시된 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "전국의 서점과 온라인 서점은 물론, 일본 세븐일레븐 편의점과 세븐넷 쇼핑에서도 구매 가능합니다.",
+            "alt_text": "세븐일레븐 편의점 외관 또는 세븐넷 쇼핑 로고"
+          },
+          {
+            "title": "출시일",
+            "content": "오늘, 3월 19일부터 판매 시작! 일본 여행 중이라면 서둘러 득템하세요.",
+            "alt_text": "3월 19일 날짜가 강조된 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "세븐일레븐은 24시간 운영하는 곳이 많으니, 늦은 시간에도 구매 찬스가 있습니다. 재고가 빠르게 소진될 수 있으니 서두르세요!",
+            "alt_text": "밤에 불 켜진 세븐일레븐 편의점 이미지"
+          }
+        ],
+        "caption": "✨건담 팬 주목!✨ '기동전사 건담'의 귀여운 '하루' 캐릭터와 '삼색 경단' 참이 달린 숄더백이 오늘, 3월 19일 출시되었어요! 💖\n\n가격은 3,839엔이며, 일본 세븐일레븐 편의점과 온라인에서도 구매할 수 있답니다. 여행 중 특별한 기념품으로 어떠세요?\n\n#건담굿즈 #일본쇼핑 #세븐일레븐 #한정판 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#건담",
+          "#건담굿즈",
+          "#일본쇼핑",
+          "#세븐일레븐",
+          "#한정판",
+          "#가방",
+          "#숄더백",
+          "#일본여행정보",
+          "#여행필수템",
+          "#일본편의점",
+          "#득템찬스",
+          "#건담스타그램",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "건담 '하루' 디자인 숄더백과 삼색 경단 참이 함께 있는 모습",
+          "상품 가격이 표시된 이미지",
+          "세븐일레븐 편의점 외관 또는 세븐넷 쇼핑 로고",
+          "3월 19일 날짜가 강조된 이미지",
+          "밤에 불 켜진 세븐일레븐 편의점 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 건담 팬, 일본 여행 예정자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 최신 출시 정보, 구체적인 구매처 및 가격 정보 제공",
+      "image": {
+        "keyword": "Gundam, Haro, Shoulder bag, Charm, Seven Eleven, Japan shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Gundam,-Haro,-Shoulder-bag,-Charm,-Seven-Eleven,-Japan-shopping",
+        "pexels_url": "https://www.pexels.com/search/Gundam,%20Haro,%20Shoulder%20bag,%20Charm,%20Seven%20Eleven,%20Japan%20shopping/"
+      }
+    },
+    {
+      "id": "plan_8b9f3e36",
+      "created_at": "2026-03-19T03:16:34.352185",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "機動戦士ガンダムの“ハロ”が桜色になったラウンドポーチ、書店・セブンで本日発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2094597.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "건담 팬이라면 놓칠 수 없는 한정판 굿즈 출시!"
+      },
+      "content": {
+        "thumbnail_title": "🌸건담 벚꽃 할로 파우치 출시🌸",
+        "cards": [
+          {
+            "title": "신상 굿즈",
+            "content": "건담 팬들을 위한 특별한 굿즈! '봄 할로 사쿠라 할로 파우치BOOK'이 3월 19일에 출시되었어요.",
+            "alt_text": "분홍색 벚꽃 모양 건담 할로 파우치 사진"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 3,619엔입니다. 일본 여행 중 기념품으로 구매하기 딱 좋아요.",
+            "alt_text": "파우치 가격이 적힌 상품 설명"
+          },
+          {
+            "title": "구매처",
+            "content": "전국의 서점과 세븐일레븐, 세븐넷 쇼핑몰에서도 구매 가능합니다.",
+            "alt_text": "세븐일레븐 매장 또는 온라인 쇼핑몰 로고"
+          },
+          {
+            "title": "디자인",
+            "content": "건담의 귀여운 캐릭터 '할로'가 벚꽃처럼 사랑스러운 분홍색으로 디자인되었어요.",
+            "alt_text": "다양한 각도에서 본 벚꽃 할로 파우치 상세 사진"
+          },
+          {
+            "title": "꿀팁",
+            "content": "한정판 굿즈이니만큼 품절될 수 있어요! 여행 계획 중이라면 서둘러 구매하시는 걸 추천드려요.",
+            "alt_text": "쇼핑백에 담겨있는 파우치 사진"
+          }
+        ],
+        "caption": "💖 건담 덕후들 주목! 💖\n\n일본에서만 만날 수 있는 특별한 굿즈가 출시되었어요!\n\n🌸 '봄 할로 사쿠라 할로 파우치BOOK' 🌸\n\n사랑스러운 벚꽃색 할로 파우치를 3,619엔에 만나보세요!\n\n전국 서점, 세븐일레븐, 세븐넷 쇼핑몰에서 구매 가능하며, 한정판이라 품절 예상! 🏃‍♀️💨\n\n#일본여행 #플라잉재팬 #건담굿즈 #한정판 #사쿠라할로 #할로파우치 #일본쇼핑 #세븐일레븐 #건담덕후 #일본여행준비 #여행선물 #일본직구 #도쿄여행 #오사카여행 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#건담굿즈",
+          "#한정판",
+          "#사쿠라할로",
+          "#할로파우치",
+          "#일본쇼핑",
+          "#세븐일레븐",
+          "#건담덕후",
+          "#일본여행준비",
+          "#여행선물",
+          "#일본직구",
+          "#도쿄여행",
+          "#오사카여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "분홍색 벚꽃 모양 건담 할로 파우치 사진",
+          "파우치 가격이 적힌 상품 설명",
+          "세븐일레븐 매장 또는 온라인 쇼핑몰 로고",
+          "다양한 각도에서 본 벚꽃 할로 파우치 상세 사진",
+          "쇼핑백에 담겨있는 파우치 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 건담 팬, 굿즈 수집가 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 구매 정보 문의, 공유 및 저장 / 이 콘텐츠의 강점: 최신 출시 정보, 구체적인 가격 및 구매처 명시, 한정판 희소성 강조",
+      "image": {
+        "keyword": "Gundam Haro pouch, Sakura color, Japan limited edition, Seven Eleven exclusive, Book merchandise",
+        "unsplash_url": "https://unsplash.com/s/photos/Gundam-Haro-pouch,-Sakura-color,-Japan-limited-edition,-Seven-Eleven-exclusive,-Book-merchandise",
+        "pexels_url": "https://www.pexels.com/search/Gundam%20Haro%20pouch,%20Sakura%20color,%20Japan%20limited%20edition,%20Seven%20Eleven%20exclusive,%20Book%20merchandise/"
+      }
+    },
     {
       "id": "plan_31af6ad0",
       "created_at": "2026-03-18T23:50:39.274378",
@@ -923,160 +1077,6 @@
         "keyword": "Osaka Monorail, Japan train, transportation, travel, convenience",
         "unsplash_url": "https://unsplash.com/s/photos/Osaka-Monorail,-Japan-train,-transportation,-travel,-convenience",
         "pexels_url": "https://www.pexels.com/search/Osaka%20Monorail,%20Japan%20train,%20transportation,%20travel,%20convenience/"
-      }
-    },
-    {
-      "id": "plan_102050a9",
-      "created_at": "2026-03-15T23:49:22.655916",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ヤフートラベル、「GoGoセール」開催中　3月15日まで",
-        "url": "https://www.traicy.com/posts/20260315365451/",
-        "date": "Sun, 15 Mar 2026 12:32:49 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 숙소, 최대 10% 이상 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️야후재팬 36시간 특가!",
-        "cards": [
-          {
-            "title": "GoGo 세일",
-            "content": "일본 최대 여행 예약 사이트 '야후! 재팬'에서 36시간 한정 'GoGo 세일'이 진행됩니다. 인기 숙박 시설을 최대 10% 이상 할인된 가격으로 만나보세요.",
-            "alt_text": "일본 인기 숙박 시설 할인 정보"
-          },
-          {
-            "title": "할인 기간",
-            "content": "이번 특가 행사는 3월 14일 정오부터 3월 15일까지 단 36시간 동안만 진행됩니다. 놓치면 후회할 절호의 기회입니다!",
-            "alt_text": "36시간 한정 할인 행사 기간"
-          },
-          {
-            "title": "추가 혜택",
-            "content": "할인 혜택 외에도 온라인 카드 결제 시 추가 할인 혜택이 제공될 수 있습니다. 자세한 내용은 야후! 재팬 웹사이트를 확인하세요.",
-            "alt_text": "온라인 카드 결제 추가 할인 안내"
-          },
-          {
-            "title": "이용 팁",
-            "content": "여행 계획이 있다면 지금 바로 야후! 재팬에서 숙소를 검색해보세요. 인기 지역은 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
-            "alt_text": "일본 여행 숙소 예약 팁"
-          },
-          {
-            "title": "주의사항",
-            "content": "세일 기간과 할인율은 변동될 수 있으니, 예약 전 반드시 야후! 재팬 웹사이트에서 최종 내용을 확인하시기 바랍니다.",
-            "alt_text": "예약 전 최종 정보 확인 안내"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수 체크! 야후! 재팬 36시간 한정 'GoGo 세일'이 돌아왔어요!\n\n인기 숙소 최대 10% 이상 할인 찬스!\n\n✅ 기간: 3월 14일 정오 ~ 3월 15일\n✅ 혜택: 인기 숙박 시설 할인 + 온라인 카드 결제 추가 할인 가능성\n\n놓치면 후회할 특가, 지금 바로 야후! 재팬에서 확인하세요! ✈️\n\n#일본숙소 #야후재팬 #일본여행특가 #할인정보 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#야후재팬",
-          "#일본여행특가",
-          "#일본숙소할인",
-          "#36시간한정",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#일본여행꿀팁",
-          "#일본쇼핑",
-          "#일본호텔",
-          "#일본온천",
-          "#일본여행계획"
-        ],
-        "alt_texts": [
-          "일본 인기 숙박 시설 할인 정보",
-          "36시간 한정 할인 행사 기간",
-          "온라인 카드 결제 추가 할인 안내",
-          "일본 여행 숙소 예약 팁",
-          "예약 전 최종 정보 확인 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 전환율 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 플랫폼 명시로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "japan travel accommodation discount sale",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-accommodation-discount-sale",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20accommodation%20discount%20sale/"
-      }
-    },
-    {
-      "id": "plan_669bcde9",
-      "created_at": "2026-03-15T23:49:16.015382",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルインターコンチネンタル東京ベイ、「ストロベリーブロッサムアフタヌーンティー」を提供　4月12日まで",
-        "url": "https://www.traicy.com/posts/20260316363229/",
-        "date": "Sun, 15 Mar 2026 21:15:41 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "딸기 & 벚꽃 시즌 한정! 도쿄에서 즐기는 로맨틱 애프터눈티 🌸🍓"
-      },
-      "content": {
-        "thumbnail_title": "🍓🌸 도쿄 딸기벚꽃 애프터눈티",
-        "cards": [
-          {
-            "title": "기간 한정!",
-            "content": "호텔 인터컨티넨탈 도쿄베이에서 '스트로베리 블로썸 애프터눈티'를 3월 1일부터 4월 12일까지 제공합니다. 🌸🍓",
-            "alt_text": "호텔 인터컨티넨탈 도쿄베이 건물 외관"
-          },
-          {
-            "title": "딸기와 벚꽃",
-            "content": "딸기와 벚꽃을 테마로 한 특별한 메뉴들을 만나보세요. 신선한 딸기에 벚꽃 소스를 곁들인 스페셜리티도 준비되어 있습니다. 🍓🌸",
-            "alt_text": "딸기와 벚꽃으로 장식된 애프터눈티 세트"
-          },
-          {
-            "title": "달콤한 디저트",
-            "content": "딸기와 벚꽃 젤리 등 눈으로도 즐겁고 입으로도 행복한 디저트들이 가득합니다. 🍰🌸",
-            "alt_text": "다양한 딸기 벚꽃 테마 디저트 클로즈업"
-          },
-          {
-            "title": "호텔 뷰 감상",
-            "content": "아름다운 도쿄 만의 전망을 감상하며 여유로운 시간을 보낼 수 있습니다. 🏙️🌸",
-            "alt_text": "호텔에서 바라본 도쿄 만의 아름다운 풍경"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기가 많으니 방문 전 호텔 공식 홈페이지나 전화로 예약하시는 것을 추천합니다. 📞🌸",
-            "alt_text": "예약 문의 전화 아이콘"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 경험을 원하신다면? 🌸🍓\n호텔 인터컨티넨탈 도쿄베이에서 4월 12일까지 진행되는 '스트로베리 블로썸 애프터눈티'를 놓치지 마세요!\n딸기와 벚꽃을 테마로 한 아름다운 디저트와 함께 로맨틱한 시간을 즐겨보세요.\n지금 바로 예약하고 잊지 못할 추억을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄맛집",
-          "#도쿄카페",
-          "#애프터눈티",
-          "#딸기디저트",
-          "#벚꽃시즌",
-          "#호텔인터컨티넨탈",
-          "#도쿄호텔",
-          "#기간한정",
-          "#일본디저트",
-          "#여행스타그램",
-          "#서울",
-          "#부산"
-        ],
-        "alt_texts": [
-          "호텔 인터컨티넨탈 도쿄베이 건물 외관",
-          "딸기와 벚꽃으로 장식된 애프터눈티 세트",
-          "다양한 딸기 벚꽃 테마 디저트 클로즈업",
-          "호텔에서 바라본 도쿄 만의 아름다운 풍경",
-          "예약 문의 전화 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 3-5시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 시즌 한정, 비주얼적 매력, 구체적인 기간 명시",
-      "image": {
-        "keyword": "strawberry blossom afternoon tea Tokyo InterContinental",
-        "unsplash_url": "https://unsplash.com/s/photos/strawberry-blossom-afternoon-tea-Tokyo-InterContinental",
-        "pexels_url": "https://www.pexels.com/search/strawberry%20blossom%20afternoon%20tea%20Tokyo%20InterContinental/"
       }
     }
   ]
