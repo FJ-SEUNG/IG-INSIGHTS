@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-19T03:16:40.911185",
+  "last_updated": "2026-03-19T23:50:26.361369",
   "plans": [
+    {
+      "id": "plan_5f58d54d",
+      "created_at": "2026-03-19T23:50:24.361197",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "湯河原の温泉旅館「奥湯河原 結唯 -YUI-」がリニューアル。1フロア1室のみ各120平米以上、全室にサウナと天然温泉",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2094778.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "프라이빗 온천 & 120평 이상 객실! 럭셔리 일본 온천 여행의 새로운 기준!"
+      },
+      "content": {
+        "thumbnail_title": "✨럭셔리 온천의 재탄생✨",
+        "cards": [
+          {
+            "title": "✨리뉴얼 오픈!",
+            "content": "가나가와현 유가와라의 '오쿠유가와라 유이 -YUI-'가 5월 15일 새롭게 태어납니다.",
+            "alt_text": "유가와라 온천 료칸 '오쿠유가와라 유이 -YUI-' 외관"
+          },
+          {
+            "title": "👑1フロア1室",
+            "content": "오직 한 팀만을 위한 프라이빗 공간! 각 객실은 120제곱미터 이상으로 넓고 쾌적합니다.",
+            "alt_text": "넓고 고급스러운 객실 내부 모습"
+          },
+          {
+            "title": "♨️개별 사우나&온천",
+            "content": "모든 객실에 개별 사우나와 천연 온천이 마련되어 있어 언제든 프라이빗하게 즐길 수 있습니다.",
+            "alt_text": "객실 내 개인 온천 시설"
+          },
+          {
+            "title": "💯예약 시작!",
+            "content": "리뉴얼 오픈에 앞서 숙박 예약 접수가 시작되었습니다. 서둘러 최고의 힐링을 경험하세요!",
+            "alt_text": "예약 문의 안내 문구"
+          },
+          {
+            "title": "💡꿀팁",
+            "content": "프라이빗 온천과 넓은 객실은 소중한 사람과의 특별한 휴식을 선사합니다. 힐링이 필요하다면 이곳을 주목하세요!",
+            "alt_text": "온천에서 휴식하는 사람 모습"
+          }
+        ],
+        "caption": "🇯🇵일본 온천 여행, 새로운 럭셔리를 경험하세요! 🇯🇵\n가나가와현 유가와라의 '오쿠유가와라 유이 -YUI-'가 5월 15일 리뉴얼 오픈합니다!\n🌟1フロア1室, 120㎡ 이상의 넓은 객실\n🌟전 객실 개별 사우나 & 천연 온천 완비\n지금 바로 예약하고 최고의 프라이빗 힐링을 만끽하세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유가와라",
+          "#온천여행",
+          "#일본온천",
+          "#럭셔리여행",
+          "#프라이빗온천",
+          "#일본숙소",
+          "#료칸",
+          "#일본가볼만한곳",
+          "#힐링여행",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "유가와라 온천 료칸 '오쿠유가와라 유이 -YUI-' 외관",
+          "넓고 고급스러운 객실 내부 모습",
+          "객실 내 개인 온천 시설",
+          "예약 문의 안내 문구",
+          "온천에서 휴식하는 사람 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 럭셔리 온천 여행을 선호하는 3040대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 최신 리뉴얼 정보와 럭셔리 숙소의 매력적인 특징을 구체적인 수치와 함께 제시",
+      "image": {
+        "keyword": "luxury ryokan, private onsen, Yugawara, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/luxury-ryokan,-private-onsen,-Yugawara,-Japan",
+        "pexels_url": "https://www.pexels.com/search/luxury%20ryokan,%20private%20onsen,%20Yugawara,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_5afbb029",
+      "created_at": "2026-03-19T23:50:18.773491",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大洗パークホテル、全館リニューアルオープン。サウナ付きスイート/湯上りラウンジ新設、記念プランも販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2094993.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 리뉴얼 정보, 사우나 스위트와 라운지 신설!"
+      },
+      "content": {
+        "thumbnail_title": "✨오아라이 파크 호텔 대변신✨",
+        "cards": [
+          {
+            "title": "전관 리뉴얼 오픈!",
+            "content": "일본 이바라키현 오아라이에 위치한 오아라이 파크 호텔이 2024년 3월 1일부로 전관 리뉴얼 오픈했습니다. 새로운 모습으로 한국 여행객들을 맞이할 준비를 마쳤어요.",
+            "alt_text": "오아라이 파크 호텔 외관 전경"
+          },
+          {
+            "title": "사우나 스위트 등장",
+            "content": "이번 리뉴얼의 하이라이트! 객실 내 프라이빗 사우나를 즐길 수 있는 스위트룸이 새롭게 신설되었습니다. 여행의 피로를 풀기에 최고예요.",
+            "alt_text": "사우나 스위트룸 내부 모습"
+          },
+          {
+            "title": "湯上り 라운지",
+            "content": "온천욕 후 편안하게 휴식을 취할 수 있는 '탕상 라운지'가 마련되었습니다. 시원한 음료와 함께 여유로운 시간을 보내세요.",
+            "alt_text": "호텔 라운지 내부 모습"
+          },
+          {
+            "title": "기념 플랜 판매",
+            "content": "리뉴얼 오픈을 기념하여 특별 플랜도 함께 판매 중입니다. 자세한 내용은 호텔 공식 홈페이지를 확인해보세요. (2024년 3월 1일부터 적용)",
+            "alt_text": "호텔 프로모션 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "사우나 스위트룸은 인기가 많으니 사전 예약은 필수! 탕상 라운지 이용 시간 및 제공 서비스는 호텔에 문의하시는 것이 좋습니다. 도쿄에서 약 2시간 거리로 접근성도 좋아요.",
+            "alt_text": "일본 온천 여행 짐 싸기 팁"
+          }
+        ],
+        "caption": "일본 이바라키현 오아라이 파크 호텔, 2024년 3월 1일 전관 리뉴얼 오픈! ✨\n프라이빗 사우나를 즐길 수 있는 스위트룸과 湯上り 라운지가 새로 생겼어요. ♨️\n여행의 피로를 풀고 싶다면 이곳을 주목하세요! 🤩\n\n#일본여행 #오아라이파크호텔 #온천여행 #사우나 #일본숙소",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오아라이파크호텔",
+          "#일본숙소",
+          "#온천여행",
+          "#이바라키현",
+          "#일본호텔",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본온천",
+          "#프라이빗사우나",
+          "#호텔리뉴얼",
+          "#일본가볼만한곳",
+          "#여행정보",
+          "#꿀팁"
+        ],
+        "alt_texts": [
+          "오아라이 파크 호텔 외관 전경",
+          "사우나 스위트룸 내부 모습",
+          "호텔 라운지 내부 모습",
+          "호텔 프로모션 이미지",
+          "일본 온천 여행 짐 싸기 팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 숙소 경험을 중시하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 숙소 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 일본 현지 숙소의 최신 리뉴얼 정보를 발 빠르게 제공하며, 구체적인 시설 정보와 꿀팁까지 포함하여 실질적인 여행 계획에 도움.",
+      "image": {
+        "keyword": "Oarai Park Hotel, Japan hot spring, Onsen suite, Japanese hotel renovation, Ibaraki travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Oarai-Park-Hotel,-Japan-hot-spring,-Onsen-suite,-Japanese-hotel-renovation,-Ibaraki-travel",
+        "pexels_url": "https://www.pexels.com/search/Oarai%20Park%20Hotel,%20Japan%20hot%20spring,%20Onsen%20suite,%20Japanese%20hotel%20renovation,%20Ibaraki%20travel/"
+      }
+    },
     {
       "id": "plan_af0b9512",
       "created_at": "2026-03-19T03:16:38.911016",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Bay, Yakatabune cruise, cherry blossoms, student discount, night view, Monjayaki",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay,-Yakatabune-cruise,-cherry-blossoms,-student-discount,-night-view,-Monjayaki",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay,%20Yakatabune%20cruise,%20cherry%20blossoms,%20student%20discount,%20night%20view,%20Monjayaki/"
-      }
-    },
-    {
-      "id": "plan_ff5d5ca4",
-      "created_at": "2026-03-16T03:29:20.120320",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ヒルトン・ガーデン・イン横浜みなとみらい」、4月7日開業　関東初のヒルトン・ガーデン・イン",
-        "url": "https://www.traicy.com/posts/20260315363147/",
-        "date": "Sun, 15 Mar 2026 06:08:03 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "요코하마에 새로운 랜드마크, 힐튼 가든 인 요코하마 미나토미라이가 4월 7일 오픈합니다!"
-      },
-      "content": {
-        "thumbnail_title": "✨요코하마 신상 호텔 오픈!✨",
-        "cards": [
-          {
-            "title": "🏨 오픈 예정",
-            "content": "힐튼 가든 인 요코하마 미나토미라이가 2024년 4월 7일에 개장합니다.関東 지역 최초의 힐튼 가든 인 호텔이에요.",
-            "alt_text": "힐튼 가든 인 요코하마 미나토미라이 호텔 외관 이미지"
-          },
-          {
-            "title": "🏢 규모",
-            "content": "지상 20층 높이의 건물로, 총 228개의 객실을 갖추고 있습니다. 다양한 타입의 객실이 준비되어 있어요.",
-            "alt_text": "호텔 내부 객실 이미지"
-          },
-          {
-            "title": "🛏️ 객실 타입",
-            "content": "더블베드, 퀸 트윈 베드 등 13가지 타입의 객실이 마련되어 있습니다. 객실 크기는 21~44 제곱미터까지 다양해요.",
-            "alt_text": "다양한 객실 타입 안내 이미지"
-          },
-          {
-            "title": "📍 위치",
-            "content": "요코하마 미나토미라이 지역에 위치하여 관광 및 비즈니스 목적으로 방문하기에 편리합니다.",
-            "alt_text": "요코하마 미나토미라이 지역 지도 이미지"
-          },
-          {
-            "title": "💡 팁",
-            "content": "새롭게 오픈하는 호텔인 만큼, 예약 오픈 시 빠르게 마감될 수 있으니 여행 계획 시 서두르는 것이 좋습니다.",
-            "alt_text": "예약 서두르세요! 문구가 포함된 이미지"
-          }
-        ],
-        "caption": "요코하마 여행 계획 중이신가요? 🤩\n4월 7일, 요코하마 미나토미라이에 새로운 힐튼 호텔이 문을 엽니다! 🏨\n20층 높이, 228개의 객실을 자랑하는 이곳에서 편안한 휴식을 즐겨보세요.\n요코하마 여행의 새로운 랜드마크가 될 이곳, 놓치지 마세요! ✨\n\n#힐튼가든인요코하마미나토미라이 #요코하마호텔 #일본신상호텔 #요코하마여행 #미나토미라이",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#요코하마",
-          "#요코하마여행",
-          "#일본호텔",
-          "#신상호텔",
-          "#힐튼호텔",
-          "#힐튼가든인",
-          "#미나토미라이",
-          "#일본숙소",
-          "#개장정보",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "힐튼 가든 인 요코하마 미나토미라이 호텔 외관 이미지",
-          "호텔 내부 객실 이미지",
-          "다양한 객실 타입 안내 이미지",
-          "요코하마 미나토미라이 지역 지도 이미지",
-          "예약 서두르세요! 문구가 포함된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 요코하마 지역 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 호텔 예약 정보에 대한 높은 관심, 댓글 문의 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 객실 및 규모 정보를 제공하여 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Hilton Garden Inn Yokohama Minatomirai hotel opening",
-        "unsplash_url": "https://unsplash.com/s/photos/Hilton-Garden-Inn-Yokohama-Minatomirai-hotel-opening",
-        "pexels_url": "https://www.pexels.com/search/Hilton%20Garden%20Inn%20Yokohama%20Minatomirai%20hotel%20opening/"
-      }
-    },
-    {
-      "id": "plan_47cdda90",
-      "created_at": "2026-03-16T03:29:14.813812",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大阪モノレール、3月14日にダイヤ改正実施　昼間は10分間隔に",
-        "url": "https://www.traicy.com/posts/20260315363899/",
-        "date": "Sun, 15 Mar 2026 12:18:56 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 여행 필수! 오사카 모노레일 배차 간격 단축으로 더 편리해진 이동!"
-      },
-      "content": {
-        "thumbnail_title": "✈️오사카 모노레일 10분 간격! 🚝",
-        "cards": [
-          {
-            "title": "배차 간격 단축",
-            "content": "오사카 모노레일이 3월 14일부터 다이어를 개정했어요. 평일 오전 10시부터 오후 2시까지, 주말 오전 11시부터 오후 1시까지 배차 간격이 12분에서 10분으로 줄어듭니다.",
-            "alt_text": "오사카 모노레일 열차가 승강장에 정차해 있는 모습"
-          },
-          {
-            "title": "이동 시간 단축",
-            "content": "특히 관광객이 많이 이용하는 시간대에 배차 간격이 짧아져 오사카 시내 및 공항 이동이 훨씬 수월해질 거예요.",
-            "alt_text": "오사카 모노레일 노선도"
-          },
-          {
-            "title": "주말/휴일도 혜택",
-            "content": "주말 및 휴일에도 오후 시간대 배차 간격이 단축되어 더욱 쾌적한 여행이 가능해졌습니다.",
-            "alt_text": "오사카 모노레일 내부 모습"
-          },
-          {
-            "title": "주요 노선",
-            "content": "본선과 사이토선 모두 해당되며, 오사카 국제공항(이타미) 및 간사이 국제공항 접근 시 유용하게 활용할 수 있습니다.",
-            "alt_text": "오사카 주요 관광지와 연결되는 모노레일 노선"
-          },
-          {
-            "title": "꿀팁",
-            "content": "개정된 다이어를 미리 확인하고, 더욱 여유로운 오사카 여행 계획을 세워보세요! 예상치 못한 지연 없이 원하는 곳으로 빠르게 이동할 수 있습니다.",
-            "alt_text": "여행객이 오사카 모노레일 티켓을 구매하는 모습"
-          }
-        ],
-        "caption": "✨오사카 여행 필수 정보!✨\n오사카 모노레일이 3월 14일부터 다이어를 개정했어요.\n평일, 주말 모두 낮 시간대 배차 간격이 12분에서 10분으로 단축되어 이동 시간을 크게 줄일 수 있습니다. 🚝\n더욱 편리해진 오사카 모노레일로 알찬 여행 되세요!\n\n#오사카여행 #오사카모노레일 #일본교통정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#오사카모노레일",
-          "#일본교통",
-          "#오사카",
-          "#간사이공항",
-          "#이타미공항",
-          "#일본여행꿀팁",
-          "#여행정보",
-          "#해외여행",
-          "#자유여행",
-          "#일본",
-          "#효율적인여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "오사카 모노레일 열차가 승강장에 정차해 있는 모습",
-          "오사카 모노레일 노선도",
-          "오사카 모노레일 내부 모습",
-          "오사카 주요 관광지와 연결되는 모노레일 노선",
-          "여행객이 오사카 모노레일 티켓을 구매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 여행객 / 최적 게시 시간: 저녁 8시 ~ 10시 / 기대 반응: 정보성 게시물에 대한 긍정적 반응 및 저장, 공유 / 이 콘텐츠의 강점: 실질적인 교통 정보로 여행 계획에 바로 적용 가능",
-      "image": {
-        "keyword": "Osaka Monorail, Japan train, transportation, travel, convenience",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Monorail,-Japan-train,-transportation,-travel,-convenience",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Monorail,%20Japan%20train,%20transportation,%20travel,%20convenience/"
       }
     }
   ]
