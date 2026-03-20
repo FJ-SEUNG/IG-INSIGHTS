@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-20T02:50:23.795517",
+  "last_updated": "2026-03-20T23:49:38.793643",
   "plans": [
+    {
+      "id": "plan_a58df84d",
+      "created_at": "2026-03-20T23:49:36.793489",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "バスターミナル東京八重洲 第2期エリア（地下A）は本日開業！　広大な待合スペース、約300のロッカー、計13バースまで拡大した乗り場を見てきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2095050.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 이동 동선 대폭 개선! 도쿄역 신규 버스터미널 완전 정복!"
+      },
+      "content": {
+        "thumbnail_title": "🚀도쿄역 신규 버스터미널!🚀",
+        "cards": [
+          {
+            "title": "3월 20일 개장!",
+            "content": "도쿄역 야에스구치에 '바스타 도쿄 야에스' 제2기(지하 A) 구역이 2024년 3월 20일 정식 개장했습니다. 이전보다 훨씬 넓어진 공간을 자랑합니다.",
+            "alt_text": "도쿄역 야에스구치에 새롭게 개장한 바스타 도쿄 야에스 제2기 구역 조감도"
+          },
+          {
+            "title": "쾌적한 대기 공간",
+            "content": "약 300개의 넉넉한 로커와 넓은 대기 공간이 마련되어 있어, 버스 출발 전 편안하게 휴식을 취하거나 짐을 보관하기 좋습니다.",
+            "alt_text": "바스타 도쿄 야에스 제2기 구역 내부의 넓은 대기 공간과 로커 모습"
+          },
+          {
+            "title": "총 13개 승차장",
+            "content": "버스 승차장은 총 13개로 확대되어, 더욱 다양한 지역으로의 이동이 편리해졌습니다. 복잡했던 기존 터미널보다 훨씬 쾌적해졌습니다.",
+            "alt_text": "바스타 도쿄 야에스 제2기 구역의 13개 버스 승차장 모습"
+          },
+          {
+            "title": "도쿄역 접근성 UP!",
+            "content": "도쿄역 야에스구치에 위치하여 JR, 지하철 등 다른 교통수단과의 연계가 더욱 편리해졌습니다. 도쿄 시내 및 근교 이동이 한결 수월해집니다.",
+            "alt_text": "도쿄역 건물과 연결된 바스타 도쿄 야에스 입구 모습"
+          },
+          {
+            "title": "이용 꿀팁!",
+            "content": "버스 시간표 및 노선은 미리 확인하고 가는 것이 좋습니다. 특히 지방으로 이동하는 버스는 인기가 많으니 서둘러 예매하세요! 😊",
+            "alt_text": "바스타 도쿄 야에스 안내 표지판과 버스 노선도"
+          }
+        ],
+        "caption": "✨도쿄 여행 필수 정보 업데이트!✨\n\n도쿄역 야에스구치에 '바스타 도쿄 야에스' 제2기 구역이 3월 20일 드디어 문을 열었어요! 🥳\n\n✅ 약 300개 로커와 넓은 대기 공간\n✅ 총 13개의 쾌적한 승차장\n✅ 도쿄역 연계 교통 편리\n\n이제 도쿄역에서 지방으로 이동하는 버스 이용이 훨씬 편해질 거예요! 🚌💨\n\n다음 일본 여행 시 꼭 활용해 보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄",
+          "#일본교통",
+          "#바스타도쿄야에스",
+          "#도쿄역",
+          "#일본버스",
+          "#여행정보",
+          "#일본소식",
+          "#도쿄가볼만한곳",
+          "#도쿄맛집",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "도쿄역 야에스구치에 새롭게 개장한 바스타 도쿄 야에스 제2기 구역 조감도",
+          "바스타 도쿄 야에스 제2기 구역 내부의 넓은 대기 공간과 로커 모습",
+          "바스타 도쿄 야에스 제2기 구역의 13개 버스 승차장 모습",
+          "도쿄역 건물과 연결된 바스타 도쿄 야에스 입구 모습",
+          "바스타 도쿄 야에스 안내 표지판과 버스 노선도"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 도쿄 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 정보 유용성에 대한 긍정적인 댓글, 저장 수 증가 / 이 콘텐츠의 강점: 최신 교통 정보로 실질적인 도움 제공, 타겟 관심도 높음",
+      "image": {
+        "keyword": "Tokyo Station Yaesu Bus Terminal, new opening, interior, waiting area, lockers, bus bays, travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Yaesu-Bus-Terminal,-new-opening,-interior,-waiting-area,-lockers,-bus-bays,-travel-information",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Yaesu%20Bus%20Terminal,%20new%20opening,%20interior,%20waiting%20area,%20lockers,%20bus%20bays,%20travel%20information/"
+      }
+    },
+    {
+      "id": "plan_0d8bb89f",
+      "created_at": "2026-03-20T23:49:31.030884",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】新大阪駅「パンダくろしお弁当」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2094775.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여운 판다 캐릭터와 함께 떠나는 오사카 출발 특별한 일본 기차 여행!"
+      },
+      "content": {
+        "thumbnail_title": "🐼✨판다 열차 도시락!",
+        "cards": [
+          {
+            "title": "판다 열차 도시락",
+            "content": "와카야마 테마파크 '어드벤처 월드'와 JR 서일본이 공동 개발한 래핑 열차 '판다쿠로시오' 운행 기념으로 2020년에 출시된 한정 도시락입니다.",
+            "alt_text": "귀여운 판다 캐릭터가 그려진 도시락 이미지"
+          },
+          {
+            "title": "신오사카역",
+            "content": "이 특별한 '판다쿠로시오 도시락'은 신오사카역에서 만나볼 수 있으며, 여행의 시작을 더욱 즐겁게 만들어 줄 것입니다.",
+            "alt_text": "신오사카역 플랫폼에서 도시락을 판매하는 모습"
+          },
+          {
+            "title": "특별한 기념",
+            "content": "이 도시락은 '판다쿠로시오 '서스테이너블 스마일 트레인'' 열차의 운행을 기념하기 위해 제작되었습니다.",
+            "alt_text": "판다쿠로시오 열차의 래핑 디자인 이미지"
+          },
+          {
+            "title": "도시락 구성",
+            "content": "도시락에는 귀여운 판다 모양의 캐릭터와 함께 지역 특색을 살린 다양한 메뉴가 포함되어 있을 것으로 예상됩니다.",
+            "alt_text": "도시락 내부의 다양한 음식 사진"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "신오사카역에서 이 특별한 도시락을 구매하여 기차 안에서 맛있는 식사와 함께 일본 여행의 즐거움을 더해보세요! (정확한 판매 여부 및 구성은 현지 확인 필요)",
+            "alt_text": "기차 안에서 도시락을 먹는 즐거운 모습"
+          }
+        ],
+        "caption": "🐼✨ 신오사카역에서 만나는 귀여운 판다 열차 도시락! \n와카야마 테마파크와 JR 서일본이 함께 만든 특별한 '판다쿠로시오' 열차를 기념하며 탄생한 한정 도시락을 소개합니다! \n여행의 시작을 달콤하고 귀엽게 장식할 절호의 기회! 놓치지 마세요! \n#일본기차여행 #신오사카역 #판다쿠로시오 #일본도시락",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본기차여행",
+          "#신오사카역",
+          "#판다쿠로시오",
+          "#일본도시락",
+          "#JR서일본",
+          "#와카야마",
+          "#여행스타그램",
+          "#먹스타그램",
+          "#일본음식",
+          "#기차여행",
+          "#일본한정",
+          "#여행꿀팁",
+          "#인스타푸드"
+        ],
+        "alt_texts": [
+          "귀여운 판다 캐릭터가 그려진 도시락 이미지",
+          "신오사카역 플랫폼에서 도시락을 판매하는 모습",
+          "판다쿠로시오 열차의 래핑 디자인 이미지",
+          "도시락 내부의 다양한 음식 사진",
+          "기차 안에서 도시락을 먹는 즐거운 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카를 시작으로 일본 여행을 하는 한국인 관광객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 귀여운 비주얼로 인한 관심 증폭, 지역 특색 메뉴에 대한 호기심 / 이 콘텐츠의 강점: 독특하고 귀여운 캐릭터를 활용하여 시각적인 매력을 높였으며, 특정 역에서만 구매 가능한 한정판 정보로 희소성을 강조.",
+      "image": {
+        "keyword": "Panda Kuroshio bento, Shin-Osaka Station, limited edition train bento, Japan travel food",
+        "unsplash_url": "https://unsplash.com/s/photos/Panda-Kuroshio-bento,-Shin-Osaka-Station,-limited-edition-train-bento,-Japan-travel-food",
+        "pexels_url": "https://www.pexels.com/search/Panda%20Kuroshio%20bento,%20Shin-Osaka%20Station,%20limited%20edition%20train%20bento,%20Japan%20travel%20food/"
+      }
+    },
     {
       "id": "plan_888f82ae",
       "created_at": "2026-03-20T02:50:21.795344",
@@ -923,160 +1077,6 @@
         "keyword": "USJ, Super Nintendo World, 5th anniversary, Naniwa Danshi, Osaka, Japan",
         "unsplash_url": "https://unsplash.com/s/photos/USJ,-Super-Nintendo-World,-5th-anniversary,-Naniwa-Danshi,-Osaka,-Japan",
         "pexels_url": "https://www.pexels.com/search/USJ,%20Super%20Nintendo%20World,%205th%20anniversary,%20Naniwa%20Danshi,%20Osaka,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_e1b993c0",
-      "created_at": "2026-03-17T02:51:16.746200",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "イオン初の駅ビル「イオンモール津田沼サウス」を見てきた。焼肉赤門など飲食店街、スーパーには寿司バイキング",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2093855.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 쇼핑 성지, 이온몰이 역세권에 상륙! 🍜🍣"
-      },
-      "content": {
-        "thumbnail_title": "✨이온몰, 역세권 상륙!✨",
-        "cards": [
-          {
-            "title": "역세권 이온몰",
-            "content": "일본 최초의 역세권 복합 쇼핑몰 '이온몰 츠다누마 사우스'가 3월 18일 개장합니다. 🚄",
-            "alt_text": "새롭게 개장하는 이온몰 츠다누마 사우스 외관"
-          },
-          {
-            "title": "다양한 식당가",
-            "content": "쇼핑몰 내에는 焼肉赤門(야키니쿠 아카몬) 등 다양한 맛집들이 입점하여 일본 현지 미식을 즐길 수 있습니다. 🥩",
-            "alt_text": "이온몰 츠다누마 사우스 식당가 모습"
-          },
-          {
-            "title": "신선한 초밥 뷔페",
-            "content": "특히, 슈퍼마켓 코너에서는 신선한 초밥 뷔페가 운영될 예정으로, 합리적인 가격에 맛있는 스시를 맛볼 기회입니다. 🍣",
-            "alt_text": "이온몰 내 슈퍼마켓 초밥 코너"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 치바현 나라시노시 츠다누마 1-10-30이며, 게이세이 전철 츠다누마역과 연결됩니다. 📍",
-            "alt_text": "이온몰 츠다누마 사우스 위치 안내 지도"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "새롭게 오픈하는 만큼, 개장 초기에 방문하면 다양한 오픈 기념 할인이나 이벤트 혜택을 받을 수 있을 것으로 예상됩니다. 💸",
-            "alt_text": "쇼핑백을 들고 즐거워하는 여행객"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 🇯🇵\n\n이온몰이 드디어 역세권에 상륙했습니다!\n\n3월 18일 개장하는 '이온몰 츠다누마 사우스'에서 맛있는 식사와 쇼핑을 한 번에 즐겨보세요. 😋\n\n특히, 신선한 초밥 뷔페는 놓치지 마세요! 🍣\n\n#이온몰츠다누마사우스 #일본쇼핑 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이온몰",
-          "#츠다누마",
-          "#치바현",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#일본신상",
-          "#일본여행정보",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본",
-          "#가성비여행",
-          "#쇼핑천국"
-        ],
-        "alt_texts": [
-          "새롭게 개장하는 이온몰 츠다누마 사우스 외관",
-          "이온몰 츠다누마 사우스 식당가 모습",
-          "이온몰 내 슈퍼마켓 초밥 코너",
-          "이온몰 츠다누마 사우스 위치 안내 지도",
-          "쇼핑백을 들고 즐거워하는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 쇼핑과 현지 맛집 탐방을 즐기는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 방문 의지 표출, 쇼핑 및 맛집 정보 공유 활발 / 이 콘텐츠의 강점: 일본 여행객에게 실질적인 쇼핑 및 식사 정보를 제공하며, 역세권이라는 접근성 좋은 장점을 부각",
-      "image": {
-        "keyword": "Aeon Mall Tsudanuma South, Japan shopping mall, Japanese food, sushi buffet, train station mall",
-        "unsplash_url": "https://unsplash.com/s/photos/Aeon-Mall-Tsudanuma-South,-Japan-shopping-mall,-Japanese-food,-sushi-buffet,-train-station-mall",
-        "pexels_url": "https://www.pexels.com/search/Aeon%20Mall%20Tsudanuma%20South,%20Japan%20shopping%20mall,%20Japanese%20food,%20sushi%20buffet,%20train%20station%20mall/"
-      }
-    },
-    {
-      "id": "plan_bea1d5d0",
-      "created_at": "2026-03-17T02:51:10.302746",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "宝島社、北欧ブランド「moz」のショッピングバッグ。コンビニ弁当が入る幅広マチで3色展開、セブンでも販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2093879.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 편의점에서 득템 찬스! 3가지 컬러의 'moz' 쇼핑백 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵편의점 득템! moz 쇼핑백🛍️",
-        "cards": [
-          {
-            "title": "신상 쇼핑백",
-            "content": "북유럽 감성 브랜드 'moz'의 쇼핑백이 4월 11일 출시됩니다. 🌸 사쿠라, 🌿 올리브, ⚫ 블랙 3가지 색상으로 만나볼 수 있어요.",
-            "alt_text": "벚꽃, 올리브, 검정색 세 가지 색상의 moz 쇼핑백 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "각 2,189엔으로 구매 가능하며, 서점과 온라인 쇼핑몰은 물론, 전국 세븐일레븐 매장에서도 판매될 예정입니다.",
-            "alt_text": "쇼핑백 가격 정보가 표시된 이미지"
-          },
-          {
-            "title": "편의점 꿀템",
-            "content": "편의점 도시락도 넉넉하게 들어가는 넓은 밑면 폭이 특징입니다. 가벼운 장보기나 간편하게 짐을 옮길 때 유용해요.",
-            "alt_text": "편의점 도시락이 들어갈 만큼 넓은 밑면을 가진 쇼핑백 이미지"
-          },
-          {
-            "title": "세븐일레븐 한정?",
-            "content": "세븐일레븐과 세븐넷 쇼핑에서도 구매할 수 있어, 일본 여행 중 편리하게 득템할 수 있습니다. (단, 재고 소진 시 조기 종료될 수 있습니다.)",
-            "alt_text": "세븐일레븐 로고와 함께 쇼핑백 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 기념품이나 간단한 짐을 담아갈 용도로 딱! 여행 중 세븐일레븐 방문 시 놓치지 말고 겟하세요!",
-            "alt_text": "여행 가방에 쇼핑백을 넣는 모습"
-          }
-        ],
-        "caption": "일본 여행 중 세븐일레븐에서 득템 찬스! 🇯🇵✨\n북유럽 감성 브랜드 'moz'의 3가지 컬러 쇼핑백이 4월 11일부터 판매 시작했어요! 🌸🌿⚫\n편의점 도시락도 넉넉히 들어가는 실용적인 디자인으로, 여행 중 기념품이나 짐을 담아가기 딱이랍니다!\n가격은 2,189엔이며, 세븐일레븐 매장과 세븐넷에서 구매 가능해요. 🛍️\n일본 여행 가시면 꼭 득템하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#세븐일레븐",
-          "#편의점",
-          "#득템",
-          "#쇼핑백",
-          "#moz",
-          "#일본기념품",
-          "#여행준비",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본",
-          "#해외여행",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "벚꽃, 올리브, 검정색 세 가지 색상의 moz 쇼핑백 이미지",
-          "쇼핑백 가격 정보가 표시된 이미지",
-          "편의점 도시락이 들어갈 만큼 넓은 밑면을 가진 쇼핑백 이미지",
-          "세븐일레븐 로고와 함께 쇼핑백 이미지",
-          "여행 가방에 쇼핑백을 넣는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 20-40대 한국인 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보 공유 및 구매 문의 / 이 콘텐츠의 강점: 실용적인 아이템, 접근성 높은 구매처(편의점) 강조",
-      "image": {
-        "keyword": "moz shopping bag japan convenience store sakura olive black",
-        "unsplash_url": "https://unsplash.com/s/photos/moz-shopping-bag-japan-convenience-store-sakura-olive-black",
-        "pexels_url": "https://www.pexels.com/search/moz%20shopping%20bag%20japan%20convenience%20store%20sakura%20olive%20black/"
       }
     }
   ]
