@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-21T23:45:31.942503",
+  "last_updated": "2026-03-22T03:17:33.507924",
   "plans": [
+    {
+      "id": "plan_9885f5db",
+      "created_at": "2026-03-22T03:17:31.507766",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ティーウェイ航空、韓国行きでセール　3月31日まで",
+        "url": "https://www.traicy.com/posts/20260321365882/",
+        "date": "Sat, 21 Mar 2026 08:50:59 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "티웨이항공 3월 특가로 알뜰하게 일본 여행 떠나요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 티웨이 3월 특가 떴다!",
+        "cards": [
+          {
+            "title": "3월 t할 세일",
+            "content": "티웨이항공이 3월 17일부터 31일까지 '3월 t할' 세일을 진행해요. 한국-일본 노선이 대상이며, 편도 총액 운임 기준으로 특가 항공권을 만나볼 수 있습니다.",
+            "alt_text": "티웨이항공 로고와 함께 '3월 t할' 세일 문구가 적힌 이미지"
+          },
+          {
+            "title": "할인 코드 확인",
+            "content": "이번 특가 이용 시 할인 코드 'MAR26'을 꼭 입력해야 해요. 이 코드를 사용하면 추가 할인이 적용되어 더욱 저렴하게 항공권을 구매할 수 있습니다.",
+            "alt_text": "할인 코드 'MAR26'이 강조된 이미지"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "세일 기간 동안 구매한 항공권의 탑승 기간은 3월 17일부터 시작됩니다. 3월 말까지의 일본 여행 계획이 있다면 서둘러 확인해보세요!",
+            "alt_text": "달력에 3월 17일과 3월 31일이 표시된 이미지"
+          },
+          {
+            "title": "포함 내역",
+            "content": "공지된 편도 운임에는 유류할증료와 제세공과금이 모두 포함되어 있어요. 추가 금액 없이 최종 가격으로 예약 가능합니다.",
+            "alt_text": "항공권 이미지에 '유류할증료, 제세공과금 포함' 문구가 적힌 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "매력적인 가격으로 일본 여행을 떠날 수 있는 절호의 기회! 티웨이항공 특가 프로모션을 놓치지 말고 지금 바로 예약하세요.",
+            "alt_text": "여행 가방과 비행기 이미지가 함께 있는 이미지"
+          }
+        ],
+        "caption": "✈️ 티웨이항공, 3월 일본행 특가 오픈! ✈️\n\n일본 여행 계획 중이신가요? 티웨이항공이 3월 17일부터 31일까지 '3월 t할' 세일을 진행합니다! 🇯🇵\n\n✅ 할인 코드: MAR26\n✅ 대상 노선: 한국 ↔️ 일본\n✅ 탑승 기간: 3월 17일 ~\n\n유류할증료, 제세공과금 모두 포함된 가격으로 알뜰하게 일본 다녀오세요! 💖\n\n#티웨이항공 #일본여행 #항공권특가 #3월여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#티웨이항공",
+          "#항공권특가",
+          "#3월여행",
+          "#일본항공권",
+          "#가성비여행",
+          "#여행정보",
+          "#일본",
+          "#해외여행",
+          "#프로모션",
+          "#여행스타그램",
+          "#일본가자",
+          "#티웨이",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "티웨이항공 로고와 함께 '3월 t할' 세일 문구가 적힌 이미지",
+          "할인 코드 'MAR26'이 강조된 이미지",
+          "달력에 3월 17일과 3월 31일이 표시된 이미지",
+          "항공권 이미지에 '유류할증료, 제세공과금 포함' 문구가 적힌 이미지",
+          "여행 가방과 비행기 이미지가 함께 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 3월 일본 여행 예정인 2030 한국인 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 항공권 정보에 대한 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 시기적절한 특가 정보와 명확한 혜택 안내",
+      "image": {
+        "keyword": "T'way Air, Japan flight sale, discount code, travel promotion, cheap flights",
+        "unsplash_url": "https://unsplash.com/s/photos/T'way-Air,-Japan-flight-sale,-discount-code,-travel-promotion,-cheap-flights",
+        "pexels_url": "https://www.pexels.com/search/T'way%20Air,%20Japan%20flight%20sale,%20discount%20code,%20travel%20promotion,%20cheap%20flights/"
+      }
+    },
+    {
+      "id": "plan_e8c3099b",
+      "created_at": "2026-03-22T03:17:19.200395",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヤフートラベル、「超得10Days」を開催中　3月30日まで",
+        "url": "https://www.traicy.com/posts/20260321365902/",
+        "date": "Sat, 21 Mar 2026 10:25:26 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "놓치면 후회! 야후 재팬 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵야후재팬 초특가 10일 ✈️",
+        "cards": [
+          {
+            "title": "초특가 10일",
+            "content": "일본 최대 여행 예약 사이트 '야후 재팬'에서 '초특가 10일' 캠페인을 진행합니다. 3월 20일 정오부터 23일 정오까지 단 3일간 진행되는 특별 할인 기회입니다.",
+            "alt_text": "야후 재팬 초특가 10일 캠페인 배너"
+          },
+          {
+            "title": "숙박 20%↑",
+            "content": "캠페인 기간 동안 숙박 예약 시, 포인트 적립을 포함하여 최대 20% 이상 할인 혜택을 받을 수 있습니다. 대상 호텔 및 1인당 할인 금액은 야후 재팬에서 직접 확인 가능합니다.",
+            "alt_text": "숙박 예약 할인 20% 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "이번 '초특가 10일' 캠페인은 3월 30일까지 진행되지만, 핵심 할인 혜택은 3월 23일 정오까지만 적용됩니다. 서둘러서 일본 여행 계획을 세우세요!",
+            "alt_text": "시간이 얼마 남지 않았다는 것을 알리는 시계 이미지"
+          },
+          {
+            "title": "여행 계획 UP",
+            "content": "일본 온천 여행, 도시 탐험, 맛집 투어 등 어떤 테마의 여행이든 이번 할인을 통해 더욱 알차고 경제적으로 즐길 수 있습니다. 지금 바로 야후 재팬에서 확인해보세요!",
+            "alt_text": "다양한 일본 여행 테마를 나타내는 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "할인율이 높은 호텔은 조기 마감될 수 있으니, 여행 날짜와 숙소를 미리 정해두는 것이 좋습니다. 야후 재팬에서 제공하는 포인트 적립 혜택도 꼼꼼히 확인해보세요!",
+            "alt_text": "여행 계획을 세우는 사람의 손 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 체크! 야후 재팬 '초특가 10일' 캠페인 ✨\n\n✅ 기간: 3월 20일 정오 ~ 3월 23일 정오 (핵심 혜택)\n✅ 할인: 숙박 최대 20% 이상 할인 (포인트 포함)\n✅ 종료: 3월 30일까지 (일부 혜택 축소 가능)\n\n지금 바로 야후 재팬에서 역대급 할인 찬스를 잡고 알찬 일본 여행 계획 세우세요! ✈️\n\n#일본여행 #야후재팬 #초특가할인 #여행꿀팁 #일본숙박 #할인정보 #여행준비 #일본자유여행 #가성비여행 #플라잉재팬 #일본여행정보 #여행스타그램 #일본어디까지가봤니 #여행찬스 #놓치면후회",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#야후재팬",
+          "#초특가할인",
+          "#여행꿀팁",
+          "#일본숙박",
+          "#할인정보",
+          "#여행준비",
+          "#일본자유여행",
+          "#가성비여행",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본어디까지가봤니",
+          "#여행찬스",
+          "#놓치면후회"
+        ],
+        "alt_texts": [
+          "야후 재팬 초특가 10일 캠페인 배너",
+          "숙박 예약 할인 20% 이미지",
+          "시간이 얼마 남지 않았다는 것을 알리는 시계 이미지",
+          "다양한 일본 여행 테마를 나타내는 이미지",
+          "여행 계획을 세우는 사람의 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 화요일/목요일 오후 7-9시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시로 즉각적인 행동 유도, 경제적 부담 완화를 통한 여행 계획 지원",
+      "image": {
+        "keyword": "Japan travel discount, Yahoo Japan travel sale, Limited time offer, Hotel booking discount, Travel deals",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Yahoo-Japan-travel-sale,-Limited-time-offer,-Hotel-booking-discount,-Travel-deals",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Yahoo%20Japan%20travel%20sale,%20Limited%20time%20offer,%20Hotel%20booking%20discount,%20Travel%20deals/"
+      }
+    },
     {
       "id": "plan_c290cc7f",
       "created_at": "2026-03-21T23:45:29.942330",
@@ -923,160 +1077,6 @@
         "keyword": "Gundam Haro pouch, Sakura color, Japan limited edition, Seven Eleven exclusive, Book merchandise",
         "unsplash_url": "https://unsplash.com/s/photos/Gundam-Haro-pouch,-Sakura-color,-Japan-limited-edition,-Seven-Eleven-exclusive,-Book-merchandise",
         "pexels_url": "https://www.pexels.com/search/Gundam%20Haro%20pouch,%20Sakura%20color,%20Japan%20limited%20edition,%20Seven%20Eleven%20exclusive,%20Book%20merchandise/"
-      }
-    },
-    {
-      "id": "plan_31af6ad0",
-      "created_at": "2026-03-18T23:50:39.274378",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "機動戦士ガンダムのハロが三色だんごに！　ふわもちぬいぐるみチャーム、書店・セブンで本日販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2094598.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "건담 팬이라면 놓칠 수 없는 귀여운 삼색 경단 하로 인형 키링!"
-      },
-      "content": {
-        "thumbnail_title": "GUNDAM 하로 🍡 3종 출시!",
-        "cards": [
-          {
-            "title": "건담 하로 인형",
-            "content": "건담의 귀여운 마스코트 '하로'가 삼색 경단 모양의 푹신한 인형 참으로 출시되었습니다. 3월 19일부터 판매 시작!",
-            "alt_text": "건담 삼색 경단 하로 인형 참 이미지"
-          },
-          {
-            "title": "가격",
-            "content": "가격은 3,289엔입니다. 일본 현지에서 기념품으로 구매하기 좋은 아이템입니다.",
-            "alt_text": "상품 가격 정보 표시"
-          },
-          {
-            "title": "판매처",
-            "content": "전국의 서점과 온라인 서점은 물론, 세븐일레븐 편의점과 세븐넷 쇼핑에서도 구매 가능합니다.",
-            "alt_text": "판매처 로고 (서점, 편의점, 온라인)"
-          },
-          {
-            "title": "구성",
-            "content": "푹신하고 부드러운 촉감의 ぬいぐるみ 참으로, 가방이나 파우치에 달고 다니기 좋습니다. 3가지 색상의 하로가 있습니다.",
-            "alt_text": "다양한 색상의 하로 인형 참"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 중 세븐일레븐에 들릴 기회가 있다면 꼭 한번 둘러보세요! 한정판으로 조기 품절될 수 있습니다.",
-            "alt_text": "세븐일레븐 매장 내부 이미지"
-          }
-        ],
-        "caption": "GUNDAM 팬 주목! 💖 귀여운 삼색 경단 하로가 푹신한 ぬいぐるみ 참으로 출시되었어요! 🍡\n\n✅ 출시일: 3월 19일\n✅ 가격: 3,289엔\n✅ 판매처: 서점, 세븐일레븐, 세븐넷 쇼핑\n\n여행 기념품으로 딱! ✈️ 서둘러 득템하세요! 😉\n\n#플라잉재팬 #일본여행 #건담 #하로 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#건담",
-          "#하로",
-          "#일본쇼핑",
-          "#일본굿즈",
-          "#여행기념품",
-          "#세븐일레븐",
-          "#한정판",
-          "#건담굿즈",
-          "#일본직구",
-          "#여행꿀팁",
-          "#일본생활",
-          "#일본정보",
-          "#GUNDAM"
-        ],
-        "alt_texts": [
-          "건담 삼색 경단 하로 인형 참 이미지",
-          "상품 가격 정보 표시",
-          "판매처 로고 (서점, 편의점, 온라인)",
-          "다양한 색상의 하로 인형 참",
-          "세븐일레븐 매장 내부 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 건담 팬 및 귀여운 캐릭터 상품을 좋아하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 상품 정보에 대한 궁금증 및 구매 욕구 자극, 공유 및 댓글 문의 / 이 콘텐츠의 강점: 특정 취향을 가진 타겟에게 매우 매력적인 신상품 정보, 구체적인 구매 정보 제공",
-      "image": {
-        "keyword": "GUNDAM Haro, three-color dango, plush charm, Japan convenience store, bookstore",
-        "unsplash_url": "https://unsplash.com/s/photos/GUNDAM-Haro,-three-color-dango,-plush-charm,-Japan-convenience-store,-bookstore",
-        "pexels_url": "https://www.pexels.com/search/GUNDAM%20Haro,%20three-color%20dango,%20plush%20charm,%20Japan%20convenience%20store,%20bookstore/"
-      }
-    },
-    {
-      "id": "plan_d54f3be2",
-      "created_at": "2026-03-18T23:50:33.785589",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "札幌市営地下鉄、クレカ乗車なら平日830円で乗り放題に。土日祝・年末年始は520円",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2094600.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "삿포로 지하철 무제한 탑승 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "삿포로 지하철 무제한 830엔 🚇",
-        "cards": [
-          {
-            "title": "신규 서비스",
-            "content": "삿포로 시영 지하철에서 신용카드, 데빗카드, 선불카드로 결제 시 상한 요금 서비스가 시작됩니다. 3월 26일부터 이용 가능하며, 카드 또는 카드를 설정한 스마트폰으로 편리하게 이용할 수 있습니다.",
-            "alt_text": "삿포로 지하철 노선도"
-          },
-          {
-            "title": "평일 요금",
-            "content": "평일에는 최대 830엔으로 지하철을 무제한으로 이용할 수 있습니다. 삿포로 시내를 자유롭게 여행하며 맛집, 관광지를 마음껏 둘러보세요!",
-            "alt_text": "삿포로 시내 풍경"
-          },
-          {
-            "title": "주말/공휴일",
-            "content": "주말, 공휴일, 연말연시에는 최대 520엔으로 지하철을 무제한 이용할 수 있습니다. 저렴한 가격으로 삿포로를 알차게 즐겨보세요!",
-            "alt_text": "삿포로 눈꽃 축제"
-          },
-          {
-            "title": "이용 방법",
-            "content": "신용카드, 데빗카드, 선불카드를 소지하고 있다면 바로 이용 가능합니다. 스마트폰에 카드를 설정해서 이용하는 것도 가능합니다.",
-            "alt_text": "신용카드 결제 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "삿포로 여행 시 교통비를 절약하고 싶다면 이 서비스를 꼭 이용하세요! 삿포로 시내를 잇는 지하철 노선과 주요 관광지를 미리 파악해두면 더욱 효율적인 여행이 가능합니다.",
-            "alt_text": "삿포로 랜드마크"
-          }
-        ],
-        "caption": "삿포로 여행자 주목! 📢 3월 26일부터 삿포로 지하철에서 신용카드 결제 시 상한 요금 서비스가 시작됩니다. 평일 최대 830엔, 주말/공휴일 최대 520엔으로 지하철을 무제한 이용할 수 있어요! 삿포로 시내를 자유롭게 여행하며 알찬 시간을 보내세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#삿포로여행",
-          "#삿포로지하철",
-          "#일본교통",
-          "#삿포로꿀팁",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#삿포로",
-          "#일본",
-          "#여행정보",
-          "#삿포로가볼만한곳",
-          "#일본여행준비",
-          "#여행꿀팁",
-          "#교통패스"
-        ],
-        "alt_texts": [
-          "삿포로 지하철 노선도",
-          "삿포로 시내 풍경",
-          "삿포로 눈꽃 축제",
-          "신용카드 결제 모습",
-          "삿포로 랜드마크"
-        ]
-      },
-      "marketer_analysis": "타겟: 삿포로 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 삿포로 여행 경비 절감에 대한 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 구체적인 요금 정보와 이용 방법 제시로 실질적인 도움 제공",
-      "image": {
-        "keyword": "Sapporo subway, credit card payment, travel savings, Japan transportation, unlimited ride",
-        "unsplash_url": "https://unsplash.com/s/photos/Sapporo-subway,-credit-card-payment,-travel-savings,-Japan-transportation,-unlimited-ride",
-        "pexels_url": "https://www.pexels.com/search/Sapporo%20subway,%20credit%20card%20payment,%20travel%20savings,%20Japan%20transportation,%20unlimited%20ride/"
       }
     }
   ]
