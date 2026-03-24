@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-24T02:52:02.224903",
+  "last_updated": "2026-03-24T23:52:51.601301",
   "plans": [
+    {
+      "id": "plan_00ae9ee6",
+      "created_at": "2026-03-24T23:52:49.601144",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東海、推し旅で「ぽこ あ ポケモン」コラボ。新幹線に乗ってスマホ用壁紙や限定アクキーゲット",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2095902.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센 타고 포켓몬 굿즈 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "JR東海 x 포켓몬 ⚡️",
+        "cards": [
+          {
+            "title": "포켓몬 콜라보",
+            "content": "JR東海이 '추천 여행' 테마로 포켓몬과 특별한 콜라보를 진행해요! '포코 아 포켓몬' 게임 출시 기념 캠페인입니다.",
+            "alt_text": "JR東海 신칸센 열차와 포켓몬 캐릭터가 함께 있는 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "2024년 4월 17일부터 8월 31일까지 진행됩니다. (단, 기획별로 기간이 상이할 수 있어요.)",
+            "alt_text": "달력에 4월 17일부터 8월 31일까지 표시된 이미지"
+          },
+          {
+            "title": "이벤트 혜택",
+            "content": "캠페인 기간 동안 동해도쿄 신칸센을 이용하면 스마트폰용 한정 배경화면과 특별한 아크릴 키홀더를 받을 수 있습니다.",
+            "alt_text": "스마트폰 배경화면과 포켓몬 아크릴 키홀더 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "자세한 참여 방법과 각 이벤트별 상세 내용은 JR東海 공식 홈페이지에서 확인해주세요. (※캠페인 상세 내용은 변동될 수 있습니다)",
+            "alt_text": "JR東海 홈페이지 화면 캡처 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "여행 계획 시 JR東海의 '추천 여행' 캠페인을 활용해보세요! 신칸센 탑승만으로 특별한 기념품을 얻을 수 있는 좋은 기회입니다.",
+            "alt_text": "신칸센 창밖으로 보이는 일본 풍경 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 신칸센 탈 계획이라면 주목! 🚄 JR東海과 포켓몬이 특별한 콜라보 캠페인을 진행해요. 4월 17일부터 8월 31일까지 동해도쿄 신칸센을 이용하면 스마트폰 배경화면과 한정 아크릴 키홀더를 받을 수 있답니다! 💖 포켓몬 팬이라면 절대 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #JR도카이 #포켓몬 #신칸센 #추천여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR도카이",
+          "#포켓몬",
+          "#신칸센",
+          "#일본교통",
+          "#일본이벤트",
+          "#일본한정",
+          "#포켓몬굿즈",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#일본스타그램",
+          "#동해도쿄신칸센",
+          "#포코아포켓몬",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "JR東海 신칸센 열차와 포켓몬 캐릭터가 함께 있는 이미지",
+          "달력에 4월 17일부터 8월 31일까지 표시된 이미지",
+          "스마트폰 배경화면과 포켓몬 아크릴 키홀더 이미지",
+          "JR東海 홈페이지 화면 캡처 이미지",
+          "신칸센 창밖으로 보이는 일본 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 포켓몬 팬, 신칸센 이용 예정인 일본 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 이벤트 참여 문의 / 이 콘텐츠의 강점: 최신 이벤트 정보, 구체적인 혜택 제시, 타겟 맞춤형 흥미 유발",
+      "image": {
+        "keyword": "JR東海, Shinkansen, Pokemon, collaboration, limited edition goods, travel campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/JR東海,-Shinkansen,-Pokemon,-collaboration,-limited-edition-goods,-travel-campaign",
+        "pexels_url": "https://www.pexels.com/search/JR東海,%20Shinkansen,%20Pokemon,%20collaboration,%20limited%20edition%20goods,%20travel%20campaign/"
+      }
+    },
+    {
+      "id": "plan_7d9a0aad",
+      "created_at": "2026-03-24T23:52:43.604983",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "北海道の高速乗り放題「道トクふりーぱす×さんふらわあ 乗り継ぎプラン」、4月1日から当日申し込み可能に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2095907.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "홋카이도 장거리 이동이 잦은 여행자라면 주목! 고속도로와 페리를 함께 이용하는 파격 할인 플랜이 2026년까지 연장됩니다."
+      },
+      "content": {
+        "thumbnail_title": "홋카이도 🚗🚢 무제한 꿀팁!",
+        "cards": [
+          {
+            "title": "고속+페리",
+            "content": "홋카이도 내 고속도로 무제한 이용과 페리 승선권을 결합한 '도쿠 프리패스 x 선플라워 승계 플랜'이 2026년까지 연장 판매됩니다. 장거리 이동 시 교통비를 획기적으로 절약할 수 있어요.",
+            "alt_text": "홋카이도 고속도로와 선플라워 페리 로고가 함께 있는 이미지"
+          },
+          {
+            "title": "당일 신청 OK",
+            "content": "기존에는 사전 예약이 필수였으나, 2024년 4월 1일부터는 당일 신청도 가능해졌습니다. 갑작스러운 여행 계획 변경에도 유연하게 이용할 수 있게 되었어요.",
+            "alt_text": "날짜가 표시된 달력 이미지와 함께 '당일 신청 가능' 문구가 강조된 이미지"
+          },
+          {
+            "title": "이용 범위",
+            "content": "이 플랜은 홋카이도 내 NEXCO 동일본 관할 고속도로 및 선플라워 페리(홋카이도-본토 구간) 이용 시 적용됩니다. 렌터카 이용객에게 특히 유용합니다.",
+            "alt_text": "홋카이도 지도 위에 고속도로와 페리 노선이 표시된 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "2026년 3월 31일까지 판매 및 이용이 가능합니다. 2024년 4월 1일부터 당일 신청이 가능하며, 연장된 기간 동안 홋카이도를 더욱 알차게 여행할 기회입니다.",
+            "alt_text": "2026년까지 유효함을 나타내는 체크 표시와 함께 플랜 이름이 적힌 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "홋카이도 동부(오호츠크 해안 등)나 삿포로에서 출발하여 도호쿠 지방으로 이동하는 경우, 페리 이용 시 숙박비 절약까지 가능합니다. 상세한 이용 조건은 현지에서 확인하세요.",
+            "alt_text": "홋카이도와 본토를 잇는 페리 항해 이미지"
+          }
+        ],
+        "caption": "홋카이도 여행 필수템! 🚗🚢\n\n'도쿠 프리패스 x 선플라워 승계 플랜'이 2026년까지 연장 판매됩니다! 🤩\n\n✅ 홋카이도 고속도로 무제한 이용 + 페리 승선권\n✅ 2024년 4월 1일부터 당일 신청 가능!\n✅ 2026년 3월 31일까지 이용 가능\n\n홋카이도 장거리 이동, 렌터카 여행객이라면 놓치지 마세요! 😉\n\n#홋카이도여행 #일본교통 #선플라워페리 #고속도로할인 #일본자동차여행 #자유여행 #여행꿀팁 #플라잉재팬 #일본여행정보 #여행스타그램 #일본렌트카 #홋카이도",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도",
+          "#일본교통",
+          "#선플라워페리",
+          "#고속도로할인",
+          "#일본자동차여행",
+          "#자유여행",
+          "#여행꿀팁",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본렌트카",
+          "#홋카이도여행",
+          "#일본교통정보",
+          "#여행필수템"
+        ],
+        "alt_texts": [
+          "홋카이도 고속도로와 선플라워 페리 로고가 함께 있는 이미지",
+          "날짜가 표시된 달력 이미지와 함께 '당일 신청 가능' 문구가 강조된 이미지",
+          "홋카이도 지도 위에 고속도로와 페리 노선이 표시된 이미지",
+          "2026년까지 유효함을 나타내는 체크 표시와 함께 플랜 이름이 적힌 이미지",
+          "홋카이도와 본토를 잇는 페리 항해 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 장거리 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 문의 증가 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보, 이용 편의성 증대 (당일 신청)",
+      "image": {
+        "keyword": "Hokkaido road trip, ferry travel Japan, discount pass",
+        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-road-trip,-ferry-travel-Japan,-discount-pass",
+        "pexels_url": "https://www.pexels.com/search/Hokkaido%20road%20trip,%20ferry%20travel%20Japan,%20discount%20pass/"
+      }
+    },
     {
       "id": "plan_dec185ad",
       "created_at": "2026-03-24T02:52:00.224537",
@@ -923,160 +1077,6 @@
         "keyword": "Hachijojima island, Japan, travel, ferry, nature, resort",
         "unsplash_url": "https://unsplash.com/s/photos/Hachijojima-island,-Japan,-travel,-ferry,-nature,-resort",
         "pexels_url": "https://www.pexels.com/search/Hachijojima%20island,%20Japan,%20travel,%20ferry,%20nature,%20resort/"
-      }
-    },
-    {
-      "id": "plan_6eec5828",
-      "created_at": "2026-03-21T02:44:20.643836",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "イオン、明日から「超！春トク祭り」。家電＆日用品が半額/トップバリュ食品増量/飲料ケース最大1000円引きほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2094964.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 쇼핑몰 이온에서 역대급 할인 행사를 진행해요!"
-      },
-      "content": {
-        "thumbnail_title": "이온 역대급 할인! 🛍️",
-        "cards": [
-          {
-            "title": "행사 기간",
-            "content": "3월 20일부터 3월 31일까지, 총 12일간 진행되는 '초! 봄 토쿠 마츠리'를 놓치지 마세요!",
-            "alt_text": "달력에 3월 20일부터 31일까지 표시된 이미지"
-          },
-          {
-            "title": "가전/일상용품",
-            "content": "놀랍게도 인기 가전제품과 생활용품을 무려 반값에 구매할 수 있어요! 평소 눈여겨봤던 상품이 있다면 이번 기회를 잡으세요.",
-            "alt_text": "반값 할인 스티커가 붙은 가전제품 이미지"
-          },
-          {
-            "title": "탑밸류 식품",
-            "content": "이온 자체 브랜드인 '탑밸류' 식품은 증량 특가가 진행돼요. 더 푸짐하게 즐길 수 있는 기회!",
-            "alt_text": "증량된 탑밸류 식품 이미지"
-          },
-          {
-            "title": "음료 할인",
-            "content": "음료 케이스 구매 시 최대 1000엔까지 할인 혜택을 제공합니다. 시원한 음료를 저렴하게 득템하세요!",
-            "alt_text": "음료수 케이스가 쌓여있는 이미지"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "전국 약 380개의 이온 및 이온스타일 매장에서 동시 진행됩니다. 가까운 매장을 미리 확인하고 방문하면 더욱 편리해요!",
-            "alt_text": "이온 쇼핑몰 전경 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 쇼핑 계획 있다면 주목! 🇯🇵\n이온에서 3월 20일부터 31일까지 '초! 봄 토쿠 마츠리'가 열려요.\n가전, 생활용품 반값 할인부터 탑밸류 식품 증량, 음료 케이스 최대 1000엔 할인까지!\n놓치면 후회할 역대급 쇼핑 찬스를 즐겨보세요! ✨\n\n#이온 #일본쇼핑 #할인행사",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이온",
-          "#일본쇼핑",
-          "#할인행사",
-          "#일본생활",
-          "#일본여행팁",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#쇼핑",
-          "#득템",
-          "#봄맞이",
-          "#여행정보",
-          "#꿀팁"
-        ],
-        "alt_texts": [
-          "달력에 3월 20일부터 31일까지 표시된 이미지",
-          "반값 할인 스티커가 붙은 가전제품 이미지",
-          "증량된 탑밸류 식품 이미지",
-          "음료수 케이스가 쌓여있는 이미지",
-          "이온 쇼핑몰 전경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 한국인 관광객 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 높은 관심과 공유, 쇼핑 관련 문의 증가 / 이 콘텐츠의 강점: 시기적절한 대형 할인 정보, 구체적인 할인 품목 및 기간 명시",
-      "image": {
-        "keyword": "AEON, Japan, discount sale, electronics, daily necessities, food, drinks, shopping mall",
-        "unsplash_url": "https://unsplash.com/s/photos/AEON,-Japan,-discount-sale,-electronics,-daily-necessities,-food,-drinks,-shopping-mall",
-        "pexels_url": "https://www.pexels.com/search/AEON,%20Japan,%20discount%20sale,%20electronics,%20daily%20necessities,%20food,%20drinks,%20shopping%20mall/"
-      }
-    },
-    {
-      "id": "plan_3af99df3",
-      "created_at": "2026-03-21T02:44:15.036307",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】JALふるさとアンバサダーがご案内！　お茶の京都エリアで春を満喫",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2093826.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 승무원이 직접 추천하는 봄날의 교토 여행!"
-      },
-      "content": {
-        "thumbnail_title": "🌸JAL이 추천하는 봄 교토🌸",
-        "cards": [
-          {
-            "title": "JAL 지역 활성화",
-            "content": "JAL은 지역 활성화를 위해 'JALふるさとプロジェクト'를 진행 중입니다. 2020년 8월부터는 객실 승무원이 현지에 이주해 지역 활동을 이끄는 'JALふるさとアンバサダー'를 발족했습니다.",
-            "alt_text": "JAL 비행기 날개와 함께 지역 풍경이 보이는 이미지"
-          },
-          {
-            "title": "응원대 활동",
-            "content": "2020년 12월에는 비행 중에도 지역 활성화에 참여하는 'JALふるさと応援隊'를 임명했습니다. 이들은 승무원 경험을 살려 지역 상품 개발 및 문제 해결에 기여하고 있습니다.",
-            "alt_text": "JAL 승무원이 지역 주민과 함께 웃으며 이야기하는 모습"
-          },
-          {
-            "title": "봄의 교토",
-            "content": "이번 콘텐츠는 '오차노 교토(お茶の京都)' 지역을 중심으로, JALふるさとアンバサダー가 안내하는 봄의 교토를 만끽하는 방법을 소개합니다.",
-            "alt_text": "벚꽃이 만개한 교토의 아름다운 풍경"
-          },
-          {
-            "title": "지역 특색",
-            "content": "이 프로그램은 지역 고유의 매력을 발굴하고, 이를 상품화하거나 지역 사회의 과제를 해결하는 것을 목표로 합니다. 관광객에게는 현지인 추천 명소를 알 수 있는 기회입니다.",
-            "alt_text": "교토의 전통 찻집과 다기(茶器)가 놓인 테이블"
-          },
-          {
-            "title": "여행 팁",
-            "content": "JAL 승무원의 전문성과 지역에 대한 깊은 이해를 바탕으로 한 특별한 여행 정보를 얻을 수 있습니다. 봄 시즌, 교토에서 잊지 못할 추억을 만들어보세요!",
-            "alt_text": "교토의 아름다운 정원에서 봄꽃을 즐기는 관광객"
-          }
-        ],
-        "caption": "✈️ JAL 승무원이 추천하는 봄날의 교토 여행! 🌸\n\nJAL의 지역 활성화 프로젝트 'JALふるさとプロジェクト'의 일환으로, JAL 승무원들이 직접 지역 곳곳을 누비며 숨겨진 매력을 발굴하고 있습니다.\n\n이번에는 '오차노 교토' 지역을 중심으로, JALふるさとアンバサダー가 안내하는 봄 시즌 교토의 다채로운 즐길 거리를 소개합니다! 🍵✨\n\n현지인만 아는 특별한 명소부터 지역 특색을 살린 상품까지, JAL과 함께하는 특별한 교토 여행을 계획해 보세요! ✈️\n\n#플라잉재팬 #일본여행 #교토여행 #JAL #봄여행 #일본항공 #여행정보 #일본소식 #항공사정보 #지역활성화 #일본축제 #일본이벤트 #교토 #여행꿀팁 #일본정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#JAL",
-          "#봄여행",
-          "#일본항공",
-          "#여행정보",
-          "#일본소식",
-          "#항공사정보",
-          "#지역활성화",
-          "#일본축제",
-          "#일본이벤트",
-          "#교토",
-          "#여행꿀팁",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "JAL 비행기 날개와 함께 지역 풍경이 보이는 이미지",
-          "JAL 승무원이 지역 주민과 함께 웃으며 이야기하는 모습",
-          "벚꽃이 만개한 교토의 아름다운 풍경",
-          "교토의 전통 찻집과 다기(茶器)가 놓인 테이블",
-          "교토의 아름다운 정원에서 봄꽃을 즐기는 관광객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 봄 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: JAL이라는 신뢰도 있는 항공사의 추천 정보에 대한 관심 증폭, 교토 여행 계획에 대한 동기 부여 / 이 콘텐츠의 강점: 항공사가 직접 참여하는 지역 활성화 프로그램 소개로 신뢰성 확보, 지역 전문가(승무원)의 추천 정보라는 차별성",
-      "image": {
-        "keyword": "JAL flight attendant recommending Kyoto spring travel, cherry blossoms, tea ceremony, local Japanese scenery",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-attendant-recommending-Kyoto-spring-travel,-cherry-blossoms,-tea-ceremony,-local-Japanese-scenery",
-        "pexels_url": "https://www.pexels.com/search/JAL%20flight%20attendant%20recommending%20Kyoto%20spring%20travel,%20cherry%20blossoms,%20tea%20ceremony,%20local%20Japanese%20scenery/"
       }
     }
   ]
