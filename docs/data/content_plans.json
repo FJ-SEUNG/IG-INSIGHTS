@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-23T23:54:30.043629",
+  "last_updated": "2026-03-24T02:52:02.224903",
   "plans": [
+    {
+      "id": "plan_dec185ad",
+      "created_at": "2026-03-24T02:52:00.224537",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "第16回九州駅弁グランプリ、宮崎駅「上等椎茸めし」が1400円以下の部で初の頂点に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2095407.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": " Kyushu 지역 여행 시 꼭 맛봐야 할 역대급 에키벤을 소개합니다! 🍱"
+      },
+      "content": {
+        "thumbnail_title": " Kyushu 최고 에키벤 🏆 1400엔 이하 1위! 🍱",
+        "cards": [
+          {
+            "title": "1위 에키벤 공개!",
+            "content": "제16회 큐슈역 도시락 그랑프리에서 미야자키역의 '상등 표고버섯밥'이 1400엔 이하 부문 1위를 차지했습니다. 🍚",
+            "alt_text": "미야자키역 '상등 표고버섯밥' 에키벤 이미지"
+          },
+          {
+            "title": "1400엔 이하",
+            "content": "이번 대회는 1400엔 이하 가격대의 도시락에 집중하여, 합리적인 가격으로 최고의 맛을 즐길 수 있는 에키벤을 선정했습니다. 💰",
+            "alt_text": "다양한 가격대의 일본 에키벤 이미지"
+          },
+          {
+            "title": "JR 큐슈 주최",
+            "content": "JR 큐슈가 주최한 이번 그랑프리는 3월 18일에 최종 결과가 발표되었으며, 큐슈 전역의 맛있는 에키벤을 만날 기회를 제공했습니다. 🚂",
+            "alt_text": "JR 큐슈 열차 이미지"
+          },
+          {
+            "title": "표고버섯의 풍미",
+            "content": "'상등 표고버섯밥'은 풍부한 표고버섯의 향과 맛을 자랑하며, 큐슈 지역의 특색을 담은 훌륭한 에키벤입니다. 🍄",
+            "alt_text": "표고버섯이 들어간 밥 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "큐슈 지역 여행 계획 중이라면, 이 1위 에키벤을 꼭 맛보세요! 기차 여행의 즐거움을 더해줄 거예요. 🚄",
+            "alt_text": "기차 안에서 에키벤을 먹는 사람 이미지"
+          }
+        ],
+        "caption": "JR 큐슈가 선정한 큐슈 에키벤 그랑프리 🏆\n\n1400엔 이하 부문 1위는 미야자키역의 '상등 표고버섯밥' 🍚\n\n큐슈 여행 필수 코스! 기차에서 즐기는 특별한 한 끼를 놓치지 마세요. ✨\n\n#일본여행 #큐슈여행 #에키벤 #일본맛집",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#큐슈여행",
+          "#에키벤",
+          "#일본기차여행",
+          "#미야자키",
+          "#일본도시락",
+          "#큐슈맛집",
+          "#기차여행",
+          "#일본음식",
+          "#JR큐슈",
+          "#여행정보",
+          "#해외여행",
+          "#맛스타그램",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "미야자키역 '상등 표고버섯밥' 에키벤 이미지",
+          "다양한 가격대의 일본 에키벤 이미지",
+          "JR 큐슈 열차 이미지",
+          "표고버섯이 들어간 밥 이미지",
+          "기차 안에서 에키벤을 먹는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 큐슈 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보성 콘텐츠로 인한 저장 및 공유 증가 / 이 콘텐츠의 강점: 구체적인 수상 내역과 가격 정보로 실질적 도움 제공",
+      "image": {
+        "keyword": "Kyushu bento box competition winner",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-bento-box-competition-winner",
+        "pexels_url": "https://www.pexels.com/search/Kyushu%20bento%20box%20competition%20winner/"
+      }
+    },
+    {
+      "id": "plan_811591c7",
+      "created_at": "2026-03-24T02:51:54.153582",
+      "category": "hotplace",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、「リロ＆スティッチ」のオーバーサイズTを4月6日発売。爽やかブルーな2種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2095633.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "일본 유니클로에서 디즈니 콜라보 신상 티셔츠 출시!"
+      },
+      "content": {
+        "thumbnail_title": "disney 릴로&스티치 UT 💙",
+        "cards": [
+          {
+            "title": "릴로&스티치 UT",
+            "content": "일본 유니클로에서 디즈니 UT 컬렉션 'LET ME SLEEP ON IT' 신상품으로 '릴로&스티치' 여성 티셔츠를 4월 6일에 출시합니다.",
+            "alt_text": "릴로와 스티치가 그려진 유니클로 티셔츠 이미지"
+          },
+          {
+            "title": "청량한 블루",
+            "content": "이번 신상품은 릴로와 스티치의 귀여운 모습과 함께 시원한 블루 컬러가 돋보이는 2가지 디자인으로 출시될 예정입니다.",
+            "alt_text": "두 가지 버전의 릴로&스티치 유니클로 티셔츠"
+          },
+          {
+            "title": "쇼핑 리스트 UP!",
+            "content": "일본 여행 중 유니클로 방문 계획이 있다면, 귀여운 디즈니 캐릭터 티셔츠를 득템할 좋은 기회입니다.",
+            "alt_text": "유니클로 매장 전경 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "정확한 가격 정보는 추후 발표될 예정이며, 일본 내 유니클로 매장 및 온라인 스토어에서 구매 가능합니다.",
+            "alt_text": "유니클로 로고 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 유니클로에서는 한국보다 다양한 한정판 UT 컬렉션을 만나볼 수 있으니, 방문 시 꼭 둘러보세요! (면세 혜택도 잊지 마세요!)",
+            "alt_text": "쇼핑백을 들고 있는 사람 이미지"
+          }
+        ],
+        "caption": "일본 여행 쇼핑 리스트 필수템! 💙 유니클로에서 디즈니 '릴로&스티치' 콜라보 UT가 4월 6일에 출시돼요! 🤩 시원한 블루 컬러의 귀여운 디자인으로 여행룩에 포인트를 더해보세요. ✈️ 일본 여행 계획 중이라면 잊지 말고 유니클로 방문하기! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#디즈니",
+          "#릴로와스티치",
+          "#일본쇼핑",
+          "#일본쇼핑리스트",
+          "#UT",
+          "#캐릭터티셔츠",
+          "#일본직구",
+          "#여행준비",
+          "#일본패션",
+          "#한정판",
+          "#디즈니콜라보",
+          "#4월일본여행"
+        ],
+        "alt_texts": [
+          "릴로와 스티치가 그려진 유니클로 티셔츠 이미지",
+          "두 가지 버전의 릴로&스티치 유니클로 티셔츠",
+          "유니클로 매장 전경 이미지",
+          "유니클로 로고 이미지",
+          "쇼핑백을 들고 있는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 20-30대 여성 / 최적 게시 시간: 오후 8시 - 10시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 최신 쇼핑 정보, 귀여운 캐릭터 활용",
+      "image": {
+        "keyword": "uniqlo, lilo and stitch, t-shirt, disney, blue",
+        "unsplash_url": "https://unsplash.com/s/photos/uniqlo,-lilo-and-stitch,-t-shirt,-disney,-blue",
+        "pexels_url": "https://www.pexels.com/search/uniqlo,%20lilo%20and%20stitch,%20t-shirt,%20disney,%20blue/"
+      }
+    },
     {
       "id": "plan_2c8b0a3f",
       "created_at": "2026-03-23T23:54:28.043484",
@@ -923,160 +1077,6 @@
         "keyword": "JAL flight attendant recommending Kyoto spring travel, cherry blossoms, tea ceremony, local Japanese scenery",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-attendant-recommending-Kyoto-spring-travel,-cherry-blossoms,-tea-ceremony,-local-Japanese-scenery",
         "pexels_url": "https://www.pexels.com/search/JAL%20flight%20attendant%20recommending%20Kyoto%20spring%20travel,%20cherry%20blossoms,%20tea%20ceremony,%20local%20Japanese%20scenery/"
-      }
-    },
-    {
-      "id": "plan_a58df84d",
-      "created_at": "2026-03-20T23:49:36.793489",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "バスターミナル東京八重洲 第2期エリア（地下A）は本日開業！　広大な待合スペース、約300のロッカー、計13バースまで拡大した乗り場を見てきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2095050.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 시 이동 동선 대폭 개선! 도쿄역 신규 버스터미널 완전 정복!"
-      },
-      "content": {
-        "thumbnail_title": "🚀도쿄역 신규 버스터미널!🚀",
-        "cards": [
-          {
-            "title": "3월 20일 개장!",
-            "content": "도쿄역 야에스구치에 '바스타 도쿄 야에스' 제2기(지하 A) 구역이 2024년 3월 20일 정식 개장했습니다. 이전보다 훨씬 넓어진 공간을 자랑합니다.",
-            "alt_text": "도쿄역 야에스구치에 새롭게 개장한 바스타 도쿄 야에스 제2기 구역 조감도"
-          },
-          {
-            "title": "쾌적한 대기 공간",
-            "content": "약 300개의 넉넉한 로커와 넓은 대기 공간이 마련되어 있어, 버스 출발 전 편안하게 휴식을 취하거나 짐을 보관하기 좋습니다.",
-            "alt_text": "바스타 도쿄 야에스 제2기 구역 내부의 넓은 대기 공간과 로커 모습"
-          },
-          {
-            "title": "총 13개 승차장",
-            "content": "버스 승차장은 총 13개로 확대되어, 더욱 다양한 지역으로의 이동이 편리해졌습니다. 복잡했던 기존 터미널보다 훨씬 쾌적해졌습니다.",
-            "alt_text": "바스타 도쿄 야에스 제2기 구역의 13개 버스 승차장 모습"
-          },
-          {
-            "title": "도쿄역 접근성 UP!",
-            "content": "도쿄역 야에스구치에 위치하여 JR, 지하철 등 다른 교통수단과의 연계가 더욱 편리해졌습니다. 도쿄 시내 및 근교 이동이 한결 수월해집니다.",
-            "alt_text": "도쿄역 건물과 연결된 바스타 도쿄 야에스 입구 모습"
-          },
-          {
-            "title": "이용 꿀팁!",
-            "content": "버스 시간표 및 노선은 미리 확인하고 가는 것이 좋습니다. 특히 지방으로 이동하는 버스는 인기가 많으니 서둘러 예매하세요! 😊",
-            "alt_text": "바스타 도쿄 야에스 안내 표지판과 버스 노선도"
-          }
-        ],
-        "caption": "✨도쿄 여행 필수 정보 업데이트!✨\n\n도쿄역 야에스구치에 '바스타 도쿄 야에스' 제2기 구역이 3월 20일 드디어 문을 열었어요! 🥳\n\n✅ 약 300개 로커와 넓은 대기 공간\n✅ 총 13개의 쾌적한 승차장\n✅ 도쿄역 연계 교통 편리\n\n이제 도쿄역에서 지방으로 이동하는 버스 이용이 훨씬 편해질 거예요! 🚌💨\n\n다음 일본 여행 시 꼭 활용해 보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄",
-          "#일본교통",
-          "#바스타도쿄야에스",
-          "#도쿄역",
-          "#일본버스",
-          "#여행정보",
-          "#일본소식",
-          "#도쿄가볼만한곳",
-          "#도쿄맛집",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "도쿄역 야에스구치에 새롭게 개장한 바스타 도쿄 야에스 제2기 구역 조감도",
-          "바스타 도쿄 야에스 제2기 구역 내부의 넓은 대기 공간과 로커 모습",
-          "바스타 도쿄 야에스 제2기 구역의 13개 버스 승차장 모습",
-          "도쿄역 건물과 연결된 바스타 도쿄 야에스 입구 모습",
-          "바스타 도쿄 야에스 안내 표지판과 버스 노선도"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 정보 유용성에 대한 긍정적인 댓글, 저장 수 증가 / 이 콘텐츠의 강점: 최신 교통 정보로 실질적인 도움 제공, 타겟 관심도 높음",
-      "image": {
-        "keyword": "Tokyo Station Yaesu Bus Terminal, new opening, interior, waiting area, lockers, bus bays, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Yaesu-Bus-Terminal,-new-opening,-interior,-waiting-area,-lockers,-bus-bays,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Yaesu%20Bus%20Terminal,%20new%20opening,%20interior,%20waiting%20area,%20lockers,%20bus%20bays,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_0d8bb89f",
-      "created_at": "2026-03-20T23:49:31.030884",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】新大阪駅「パンダくろしお弁当」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2094775.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 판다 캐릭터와 함께 떠나는 오사카 출발 특별한 일본 기차 여행!"
-      },
-      "content": {
-        "thumbnail_title": "🐼✨판다 열차 도시락!",
-        "cards": [
-          {
-            "title": "판다 열차 도시락",
-            "content": "와카야마 테마파크 '어드벤처 월드'와 JR 서일본이 공동 개발한 래핑 열차 '판다쿠로시오' 운행 기념으로 2020년에 출시된 한정 도시락입니다.",
-            "alt_text": "귀여운 판다 캐릭터가 그려진 도시락 이미지"
-          },
-          {
-            "title": "신오사카역",
-            "content": "이 특별한 '판다쿠로시오 도시락'은 신오사카역에서 만나볼 수 있으며, 여행의 시작을 더욱 즐겁게 만들어 줄 것입니다.",
-            "alt_text": "신오사카역 플랫폼에서 도시락을 판매하는 모습"
-          },
-          {
-            "title": "특별한 기념",
-            "content": "이 도시락은 '판다쿠로시오 '서스테이너블 스마일 트레인'' 열차의 운행을 기념하기 위해 제작되었습니다.",
-            "alt_text": "판다쿠로시오 열차의 래핑 디자인 이미지"
-          },
-          {
-            "title": "도시락 구성",
-            "content": "도시락에는 귀여운 판다 모양의 캐릭터와 함께 지역 특색을 살린 다양한 메뉴가 포함되어 있을 것으로 예상됩니다.",
-            "alt_text": "도시락 내부의 다양한 음식 사진"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "신오사카역에서 이 특별한 도시락을 구매하여 기차 안에서 맛있는 식사와 함께 일본 여행의 즐거움을 더해보세요! (정확한 판매 여부 및 구성은 현지 확인 필요)",
-            "alt_text": "기차 안에서 도시락을 먹는 즐거운 모습"
-          }
-        ],
-        "caption": "🐼✨ 신오사카역에서 만나는 귀여운 판다 열차 도시락! \n와카야마 테마파크와 JR 서일본이 함께 만든 특별한 '판다쿠로시오' 열차를 기념하며 탄생한 한정 도시락을 소개합니다! \n여행의 시작을 달콤하고 귀엽게 장식할 절호의 기회! 놓치지 마세요! \n#일본기차여행 #신오사카역 #판다쿠로시오 #일본도시락",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본기차여행",
-          "#신오사카역",
-          "#판다쿠로시오",
-          "#일본도시락",
-          "#JR서일본",
-          "#와카야마",
-          "#여행스타그램",
-          "#먹스타그램",
-          "#일본음식",
-          "#기차여행",
-          "#일본한정",
-          "#여행꿀팁",
-          "#인스타푸드"
-        ],
-        "alt_texts": [
-          "귀여운 판다 캐릭터가 그려진 도시락 이미지",
-          "신오사카역 플랫폼에서 도시락을 판매하는 모습",
-          "판다쿠로시오 열차의 래핑 디자인 이미지",
-          "도시락 내부의 다양한 음식 사진",
-          "기차 안에서 도시락을 먹는 즐거운 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카를 시작으로 일본 여행을 하는 한국인 관광객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 귀여운 비주얼로 인한 관심 증폭, 지역 특색 메뉴에 대한 호기심 / 이 콘텐츠의 강점: 독특하고 귀여운 캐릭터를 활용하여 시각적인 매력을 높였으며, 특정 역에서만 구매 가능한 한정판 정보로 희소성을 강조.",
-      "image": {
-        "keyword": "Panda Kuroshio bento, Shin-Osaka Station, limited edition train bento, Japan travel food",
-        "unsplash_url": "https://unsplash.com/s/photos/Panda-Kuroshio-bento,-Shin-Osaka-Station,-limited-edition-train-bento,-Japan-travel-food",
-        "pexels_url": "https://www.pexels.com/search/Panda%20Kuroshio%20bento,%20Shin-Osaka%20Station,%20limited%20edition%20train%20bento,%20Japan%20travel%20food/"
       }
     }
   ]
