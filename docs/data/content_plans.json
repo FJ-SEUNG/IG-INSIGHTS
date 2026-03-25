@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-25T03:14:15.744898",
+  "last_updated": "2026-03-25T23:56:59.857011",
   "plans": [
+    {
+      "id": "plan_7639ef7f",
+      "created_at": "2026-03-25T23:56:57.856817",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡市博物館で「大恐竜展」4月24日から。限定“スピノサウルス”グッズも販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2096309.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서 공룡과 함께 특별한 추억 만들기! 후쿠오카에서 열리는 초대형 공룡 전시회 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🦖 후쿠오카 대공룡전 개최! 🦕",
+        "cards": [
+          {
+            "title": "전시 기간",
+            "content": "후쿠오카시 박물관에서 특별 전시 '대공룡전 ~'フクイ'에서 탐구하는 수각류의 진화~'가 2024년 4월 24일부터 6월 28일까지 개최됩니다.",
+            "alt_text": "후쿠오카시 박물관 건물 이미지"
+          },
+          {
+            "title": "장소",
+            "content": "전시는 후쿠오카시 사와라구 모모치하마 3-1-1에 위치한 후쿠오카시 박물관에서 진행됩니다.",
+            "alt_text": "후쿠오카시 박물관 지도 이미지"
+          },
+          {
+            "title": "주요 전시",
+            "content": "이번 전시에서는 '후쿠이'에서 발견된 수각류 화석을 통해 공룡의 진화를 탐구하며, 특히 한정판 '스피노사우루스' 굿즈도 판매될 예정입니다.",
+            "alt_text": "스피노사우루스 이미지"
+          },
+          {
+            "title": "티켓 정보",
+            "content": "전시 입장료 및 상세 티켓 구매 방법은 후쿠오카시 박물관 공식 웹사이트를 참고해 주세요. (현재 정보로 구매 가능한지는 확인 필요)",
+            "alt_text": "티켓 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "후쿠오카 여행 계획 중이라면, 아이들과 함께 방문하기 좋은 특별한 경험이 될 것입니다. 전시 기간을 놓치지 마세요!",
+            "alt_text": "가족이 공룡 전시를 관람하는 모습 이미지"
+          }
+        ],
+        "caption": "🦖 후쿠오카에서 펼쳐지는 압도적인 공룡의 세계! 🦕\n\n후쿠오카시 박물관에서 4월 24일부터 6월 28일까지 '대공룡전'이 열립니다! 🤩\n\n'후쿠이'에서 발견된 귀한 화석들과 함께 수각류의 진화를 알아보세요.\n특히, 한정판 '스피노사우루스' 굿즈도 만날 수 있다는 사실! 🎁\n\n후쿠오카 여행 중이라면, 아이들은 물론 어른들도 모두 즐거워할 특별한 시간을 예약하세요! 👨‍👩‍👧‍👦\n\n#후쿠오카여행 #대공룡전 #후쿠오카박물관 #스피노사우루스 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#후쿠오카여행",
+          "#후쿠오카가볼만한곳",
+          "#후쿠오카박물관",
+          "#대공룡전",
+          "#공룡전시",
+          "#일본축제",
+          "#일본이벤트",
+          "#4월일본여행",
+          "#5월일본여행",
+          "#6월일본여행",
+          "#아이와일본여행",
+          "#가족여행"
+        ],
+        "alt_texts": [
+          "후쿠오카시 박물관 건물 이미지",
+          "후쿠오카시 박물관 지도 이미지",
+          "스피노사우루스 이미지",
+          "티켓 이미지",
+          "가족이 공룡 전시를 관람하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카를 방문하는 가족 단위 여행객, 공룡에 관심 있는 모든 연령층 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~21시) 또는 주말 오전 / 기대 반응: 전시 정보에 대한 궁금증 증폭, 방문 계획 수립 유도, 굿즈에 대한 관심 유발 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보 제공, 구체적인 날짜 및 장소 명시, 매력적인 굿즈 언급",
+      "image": {
+        "keyword": "Fukuoka City Museum, Dinosaur Exhibition, Spinosaurus, Japan travel, Family trip",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-City-Museum,-Dinosaur-Exhibition,-Spinosaurus,-Japan-travel,-Family-trip",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20City%20Museum,%20Dinosaur%20Exhibition,%20Spinosaurus,%20Japan%20travel,%20Family%20trip/"
+      }
+    },
+    {
+      "id": "plan_eecb792b",
+      "created_at": "2026-03-25T23:56:51.314448",
+      "category": "tips",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "ANA、国際線事業の拡大で787-10の発注を変更。既発注11機のうち3機を787-9に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2096311.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "ANA 항공기의 기종 변경으로 일본 여행 항공권 정보에 미묘한 변화가 생길 수 있어요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 787-10 -> 787-9 변경!",
+        "cards": [
+          {
+            "title": "ANA 발주 변경",
+            "content": "ANA 홀딩스가 3월 25일, 기존 발주했던 보잉 787-10 기종 11대 중 3대를 787-9 기종으로 변경한다고 발표했습니다.",
+            "alt_text": "ANA 항공기 이미지"
+          },
+          {
+            "title": "기종 변경 사유",
+            "content": "이번 변경은 국제선 사업 확대를 위한 전략의 일환으로, 보다 유연한 운항 계획을 수립하기 위한 것으로 보입니다.",
+            "alt_text": "보잉 787-9 항공기 이미지"
+          },
+          {
+            "title": "787-9 vs 787-10",
+            "content": "787-9는 787-10보다 항속거리가 길고 좌석 수가 적어 중장거리 노선이나 수요가 적은 노선에 더 적합할 수 있습니다.",
+            "alt_text": "항공기 제원 비교 이미지"
+          },
+          {
+            "title": "여행객 영향은?",
+            "content": "직접적인 여행객의 좌석 등급이나 서비스에 큰 변화는 없을 수 있으나, 일부 노선의 항공기 투입이 달라질 수 있습니다.",
+            "alt_text": "항공편 예약 화면 이미지"
+          },
+          {
+            "title": "예약 시 확인!",
+            "content": "항공권 예약 시 항공기 기종이 명시되어 있다면, 변경 사항이 있는지 한 번 더 확인하는 것이 좋습니다.",
+            "alt_text": "항공권 예약 상세 정보 이미지"
+          }
+        ],
+        "caption": "✈️ ANA 항공기 발주 변경 소식! ANA 홀딩스가 787-10 기종 3대를 787-9로 변경했습니다. ✈️\n\n국제선 사업 확대를 위한 전략으로, 일부 노선의 항공기 투입 계획에 미묘한 변화가 생길 수 있어요. 예약 시 항공기 기종 확인은 필수! \n\n일본 여행 준비, 플라잉재팬과 함께하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#항공권",
+          "#ANA항공",
+          "#일본항공",
+          "#여행정보",
+          "#항공기",
+          "#보잉787",
+          "#여행꿀팁",
+          "#항공사",
+          "#일본",
+          "#여행스타그램",
+          "#해외여행",
+          "#비행기"
+        ],
+        "alt_texts": [
+          "ANA 항공기 이미지",
+          "보잉 787-9 항공기 이미지",
+          "항공기 제원 비교 이미지",
+          "항공편 예약 화면 이미지",
+          "항공권 예약 상세 정보 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 항공권 정보에 대한 관심 증가, 예약 시 참고 정보로 활용 / 이 콘텐츠의 강점: 항공사 자체의 기종 변경 소식을 한국 여행객에게 맞춰 실질적인 영향과 확인 사항을 전달",
+      "image": {
+        "keyword": "ANA airplane, Boeing 787-9, Boeing 787-10, airplane cabin, flight booking",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Boeing-787-9,-Boeing-787-10,-airplane-cabin,-flight-booking",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Boeing%20787-9,%20Boeing%20787-10,%20airplane%20cabin,%20flight%20booking/"
+      }
+    },
     {
       "id": "plan_a3bc7483",
       "created_at": "2026-03-25T03:14:13.744728",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese convenience store, onigiri, Suica penguin, merchandise, campaign, Tokyo",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-convenience-store,-onigiri,-Suica-penguin,-merchandise,-campaign,-Tokyo",
         "pexels_url": "https://www.pexels.com/search/Japanese%20convenience%20store,%20onigiri,%20Suica%20penguin,%20merchandise,%20campaign,%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_9885f5db",
-      "created_at": "2026-03-22T03:17:31.507766",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ティーウェイ航空、韓国行きでセール　3月31日まで",
-        "url": "https://www.traicy.com/posts/20260321365882/",
-        "date": "Sat, 21 Mar 2026 08:50:59 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "티웨이항공 3월 특가로 알뜰하게 일본 여행 떠나요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 티웨이 3월 특가 떴다!",
-        "cards": [
-          {
-            "title": "3월 t할 세일",
-            "content": "티웨이항공이 3월 17일부터 31일까지 '3월 t할' 세일을 진행해요. 한국-일본 노선이 대상이며, 편도 총액 운임 기준으로 특가 항공권을 만나볼 수 있습니다.",
-            "alt_text": "티웨이항공 로고와 함께 '3월 t할' 세일 문구가 적힌 이미지"
-          },
-          {
-            "title": "할인 코드 확인",
-            "content": "이번 특가 이용 시 할인 코드 'MAR26'을 꼭 입력해야 해요. 이 코드를 사용하면 추가 할인이 적용되어 더욱 저렴하게 항공권을 구매할 수 있습니다.",
-            "alt_text": "할인 코드 'MAR26'이 강조된 이미지"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "세일 기간 동안 구매한 항공권의 탑승 기간은 3월 17일부터 시작됩니다. 3월 말까지의 일본 여행 계획이 있다면 서둘러 확인해보세요!",
-            "alt_text": "달력에 3월 17일과 3월 31일이 표시된 이미지"
-          },
-          {
-            "title": "포함 내역",
-            "content": "공지된 편도 운임에는 유류할증료와 제세공과금이 모두 포함되어 있어요. 추가 금액 없이 최종 가격으로 예약 가능합니다.",
-            "alt_text": "항공권 이미지에 '유류할증료, 제세공과금 포함' 문구가 적힌 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "매력적인 가격으로 일본 여행을 떠날 수 있는 절호의 기회! 티웨이항공 특가 프로모션을 놓치지 말고 지금 바로 예약하세요.",
-            "alt_text": "여행 가방과 비행기 이미지가 함께 있는 이미지"
-          }
-        ],
-        "caption": "✈️ 티웨이항공, 3월 일본행 특가 오픈! ✈️\n\n일본 여행 계획 중이신가요? 티웨이항공이 3월 17일부터 31일까지 '3월 t할' 세일을 진행합니다! 🇯🇵\n\n✅ 할인 코드: MAR26\n✅ 대상 노선: 한국 ↔️ 일본\n✅ 탑승 기간: 3월 17일 ~\n\n유류할증료, 제세공과금 모두 포함된 가격으로 알뜰하게 일본 다녀오세요! 💖\n\n#티웨이항공 #일본여행 #항공권특가 #3월여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#티웨이항공",
-          "#항공권특가",
-          "#3월여행",
-          "#일본항공권",
-          "#가성비여행",
-          "#여행정보",
-          "#일본",
-          "#해외여행",
-          "#프로모션",
-          "#여행스타그램",
-          "#일본가자",
-          "#티웨이",
-          "#여행팁"
-        ],
-        "alt_texts": [
-          "티웨이항공 로고와 함께 '3월 t할' 세일 문구가 적힌 이미지",
-          "할인 코드 'MAR26'이 강조된 이미지",
-          "달력에 3월 17일과 3월 31일이 표시된 이미지",
-          "항공권 이미지에 '유류할증료, 제세공과금 포함' 문구가 적힌 이미지",
-          "여행 가방과 비행기 이미지가 함께 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 3월 일본 여행 예정인 2030 한국인 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 항공권 정보에 대한 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 시기적절한 특가 정보와 명확한 혜택 안내",
-      "image": {
-        "keyword": "T'way Air, Japan flight sale, discount code, travel promotion, cheap flights",
-        "unsplash_url": "https://unsplash.com/s/photos/T'way-Air,-Japan-flight-sale,-discount-code,-travel-promotion,-cheap-flights",
-        "pexels_url": "https://www.pexels.com/search/T'way%20Air,%20Japan%20flight%20sale,%20discount%20code,%20travel%20promotion,%20cheap%20flights/"
-      }
-    },
-    {
-      "id": "plan_e8c3099b",
-      "created_at": "2026-03-22T03:17:19.200395",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ヤフートラベル、「超得10Days」を開催中　3月30日まで",
-        "url": "https://www.traicy.com/posts/20260321365902/",
-        "date": "Sat, 21 Mar 2026 10:25:26 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "놓치면 후회! 야후 재팬 역대급 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵야후재팬 초특가 10일 ✈️",
-        "cards": [
-          {
-            "title": "초특가 10일",
-            "content": "일본 최대 여행 예약 사이트 '야후 재팬'에서 '초특가 10일' 캠페인을 진행합니다. 3월 20일 정오부터 23일 정오까지 단 3일간 진행되는 특별 할인 기회입니다.",
-            "alt_text": "야후 재팬 초특가 10일 캠페인 배너"
-          },
-          {
-            "title": "숙박 20%↑",
-            "content": "캠페인 기간 동안 숙박 예약 시, 포인트 적립을 포함하여 최대 20% 이상 할인 혜택을 받을 수 있습니다. 대상 호텔 및 1인당 할인 금액은 야후 재팬에서 직접 확인 가능합니다.",
-            "alt_text": "숙박 예약 할인 20% 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "이번 '초특가 10일' 캠페인은 3월 30일까지 진행되지만, 핵심 할인 혜택은 3월 23일 정오까지만 적용됩니다. 서둘러서 일본 여행 계획을 세우세요!",
-            "alt_text": "시간이 얼마 남지 않았다는 것을 알리는 시계 이미지"
-          },
-          {
-            "title": "여행 계획 UP",
-            "content": "일본 온천 여행, 도시 탐험, 맛집 투어 등 어떤 테마의 여행이든 이번 할인을 통해 더욱 알차고 경제적으로 즐길 수 있습니다. 지금 바로 야후 재팬에서 확인해보세요!",
-            "alt_text": "다양한 일본 여행 테마를 나타내는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인율이 높은 호텔은 조기 마감될 수 있으니, 여행 날짜와 숙소를 미리 정해두는 것이 좋습니다. 야후 재팬에서 제공하는 포인트 적립 혜택도 꼼꼼히 확인해보세요!",
-            "alt_text": "여행 계획을 세우는 사람의 손 이미지"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수 체크! 야후 재팬 '초특가 10일' 캠페인 ✨\n\n✅ 기간: 3월 20일 정오 ~ 3월 23일 정오 (핵심 혜택)\n✅ 할인: 숙박 최대 20% 이상 할인 (포인트 포함)\n✅ 종료: 3월 30일까지 (일부 혜택 축소 가능)\n\n지금 바로 야후 재팬에서 역대급 할인 찬스를 잡고 알찬 일본 여행 계획 세우세요! ✈️\n\n#일본여행 #야후재팬 #초특가할인 #여행꿀팁 #일본숙박 #할인정보 #여행준비 #일본자유여행 #가성비여행 #플라잉재팬 #일본여행정보 #여행스타그램 #일본어디까지가봤니 #여행찬스 #놓치면후회",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#야후재팬",
-          "#초특가할인",
-          "#여행꿀팁",
-          "#일본숙박",
-          "#할인정보",
-          "#여행준비",
-          "#일본자유여행",
-          "#가성비여행",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본어디까지가봤니",
-          "#여행찬스",
-          "#놓치면후회"
-        ],
-        "alt_texts": [
-          "야후 재팬 초특가 10일 캠페인 배너",
-          "숙박 예약 할인 20% 이미지",
-          "시간이 얼마 남지 않았다는 것을 알리는 시계 이미지",
-          "다양한 일본 여행 테마를 나타내는 이미지",
-          "여행 계획을 세우는 사람의 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 화요일/목요일 오후 7-9시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시로 즉각적인 행동 유도, 경제적 부담 완화를 통한 여행 계획 지원",
-      "image": {
-        "keyword": "Japan travel discount, Yahoo Japan travel sale, Limited time offer, Hotel booking discount, Travel deals",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Yahoo-Japan-travel-sale,-Limited-time-offer,-Hotel-booking-discount,-Travel-deals",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Yahoo%20Japan%20travel%20sale,%20Limited%20time%20offer,%20Hotel%20booking%20discount,%20Travel%20deals/"
       }
     }
   ]
