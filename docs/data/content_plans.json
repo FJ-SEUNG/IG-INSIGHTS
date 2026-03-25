@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-24T23:52:51.601301",
+  "last_updated": "2026-03-25T03:14:15.744898",
   "plans": [
+    {
+      "id": "plan_a3bc7483",
+      "created_at": "2026-03-25T03:14:13.744728",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、スカイトラックスの「5スター」に認定　9年連続",
+        "url": "https://www.traicy.com/posts/20260324366137/",
+        "date": "Tue, 24 Mar 2026 10:15:58 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "9년 연속 일본 최고 항공사 선정! JAL 탑승 시 꿀팁 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨JAL 9년 연속 5스타 선정✨",
+        "cards": [
+          {
+            "title": "JAL, 5스타 선정",
+            "content": "일본항공(JAL)이 영국 항공 조사 기관 스카이트랙스에서 9년 연속 최고 등급인 '5스타' 항공사로 선정되었습니다. 이는 세계적으로도 인정받는 최고의 서비스 품질을 의미합니다.",
+            "alt_text": "일본항공(JAL) 로고와 함께 5스타 인증 마크가 표시된 이미지"
+          },
+          {
+            "title": "최고의 서비스",
+            "content": "9년 연속 5스타 선정은 JAL의 일관된 높은 서비스 수준, 객실 편의성, 기내 엔터테인먼트, 승무원 서비스 등 모든 면에서 탁월함을 증명합니다. 일본 여행 시 편안한 여정을 기대할 수 있습니다.",
+            "alt_text": "JAL 항공기 내부의 편안한 좌석과 승무원이 서비스를 제공하는 모습"
+          },
+          {
+            "title": "일본 여행 추천",
+            "content": "특히 일본 국내선 및 국제선 노선을 운항하는 JAL은 일본 여행객에게 가장 편리하고 쾌적한 이동 수단을 제공합니다. 도쿄, 오사카, 후쿠오카 등 주요 도시 이동 시 고려해보세요.",
+            "alt_text": "일본 주요 도시를 연결하는 JAL 항공편 노선도 이미지"
+          },
+          {
+            "title": "탑승 꿀팁",
+            "content": "JAL 탑승 시, 온라인 체크인(출발 24시간 전부터 가능)을 활용하면 시간을 절약할 수 있습니다. 또한, JAL 마일리지 프로그램을 통해 할인 혜택이나 업그레이드 기회를 얻을 수 있습니다.",
+            "alt_text": "JAL 모바일 앱을 통한 온라인 체크인 화면 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "예약 변경이나 취소 규정은 항공권 종류에 따라 다를 수 있으니, 예약 시 반드시 확인하시기 바랍니다. 또한, 위탁 수하물 규정(개수, 무게, 크기)도 미리 확인하여 불이익을 받지 않도록 주의하세요.",
+            "alt_text": "JAL 수하물 규정 안내 페이지 이미지"
+          }
+        ],
+        "caption": "✈️ JAL, 9년 연속 '5스타' 항공사 선정! ✈️\n\n세계적인 항공 조사 기관 스카이트랙스에서 JAL이 9년 연속 최고 등급인 5스타를 획득했습니다! 👏\n\n일본 여행, 가장 편안하고 안전하게 JAL과 함께하세요!\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #5스타항공사 #여행꿀팁 #항공권 #일본여행준비 #스카이트랙스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#5스타항공사",
+          "#여행꿀팁",
+          "#항공권",
+          "#일본여행준비",
+          "#스카이트랙스",
+          "#일본",
+          "#여행정보",
+          "#안전여행",
+          "#편안한여행",
+          "#항공정보",
+          "#일본여행팁"
+        ],
+        "alt_texts": [
+          "일본항공(JAL) 로고와 함께 5스타 인증 마크가 표시된 이미지",
+          "JAL 항공기 내부의 편안한 좌석과 승무원이 서비스를 제공하는 모습",
+          "일본 주요 도시를 연결하는 JAL 항공편 노선도 이미지",
+          "JAL 모바일 앱을 통한 온라인 체크인 화면 이미지",
+          "JAL 수하물 규정 안내 페이지 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-50대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: JAL 항공권 검색량 증가, 긍정적 댓글 및 공유 / 이 콘텐츠의 강점: 신뢰도 높은 기관의 평가 기반 정보, 구체적인 꿀팁 제공",
+      "image": {
+        "keyword": "JAL, Japan Airlines, 5 star airline, travel, airplane, service, japan",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-Airlines,-5-star-airline,-travel,-airplane,-service,-japan",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20Airlines,%205%20star%20airline,%20travel,%20airplane,%20service,%20japan/"
+      }
+    },
+    {
+      "id": "plan_ffa09e4e",
+      "created_at": "2026-03-25T03:14:07.951477",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヤフートラベル、「GoGoセール」開催中　3月25日まで",
+        "url": "https://www.traicy.com/posts/20260324366107/",
+        "date": "Tue, 24 Mar 2026 11:15:24 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 인기 숙소 최대 10% 이상 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 야후재팬 'GoGo세일' 득템찬스!",
+        "cards": [
+          {
+            "title": "할인 기간",
+            "content": "야후재팬 'GoGo세일'이 3월 24일 정오부터 3월 25일까지 단 36시간 동안 진행됩니다. 이 기간 동안 인기 숙소를 저렴하게 예약할 기회를 놓치지 마세요!",
+            "alt_text": "달력에 표시된 3월 24일과 25일"
+          },
+          {
+            "title": "할인율",
+            "content": "인기 숙소에 대해 10% 이상 할인 혜택이 제공됩니다. 저렴한 가격으로 일본 여행 숙소를 미리 확보하세요!",
+            "alt_text": "할인율 10% 이상 표시"
+          },
+          {
+            "title": "추가 혜택",
+            "content": "온라인 카드 결제 시 추가적인 할인 혜택도 제공될 예정입니다. 어떤 혜택이 있을지 기대되네요!",
+            "alt_text": "신용카드 아이콘과 할인 혜택 표시"
+          },
+          {
+            "title": "대상",
+            "content": "일본 전역의 인기 숙소가 세일 대상입니다. 료칸, 비즈니스 호텔, 관광 호텔 등 다양한 숙소를 할인된 가격으로 만나볼 수 있습니다.",
+            "alt_text": "다양한 일본 숙소 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "세일 시작 시간인 3월 24일 정오를 놓치지 마세요! 인기 숙소는 조기 마감될 수 있으니 미리 위시리스트를 만들어두는 것이 좋습니다.",
+            "alt_text": "알람 시계 아이콘과 '놓치지 마세요!' 문구"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 준비 중이신가요? 야후재팬에서 'GoGo세일'이 시작됩니다! \n\n✅ 기간: 3월 24일 정오 ~ 3월 25일 (36시간 한정)\n✅ 혜택: 인기 숙소 10% 이상 할인 + 온라인 카드 결제 추가 할인\n\n지금 바로 야후재팬에서 꿀딜 숙소 찜해두고 알뜰하게 일본 여행 계획 세워보세요! ✈️✨\n\n#일본숙소 #야후재팬 #일본여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#야후재팬",
+          "#GoGo세일",
+          "#일본여행준비",
+          "#일본여행꿀팁",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#일본할인",
+          "#숙소예약",
+          "#여행정보",
+          "#개이득",
+          "#3월여행"
+        ],
+        "alt_texts": [
+          "달력에 표시된 3월 24일과 25일",
+          "할인율 10% 이상 표시",
+          "신용카드 아이콘과 할인 혜택 표시",
+          "다양한 일본 숙소 이미지",
+          "알람 시계 아이콘과 '놓치지 마세요!' 문구"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 할인 정보에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 한정된 시간과 높은 할인율로 긴급성과 매력도를 동시에 강조",
+      "image": {
+        "keyword": "Japan hotel sale, discount coupon, travel booking app, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-hotel-sale,-discount-coupon,-travel-booking-app,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/Japan%20hotel%20sale,%20discount%20coupon,%20travel%20booking%20app,%20limited%20time%20offer/"
+      }
+    },
     {
       "id": "plan_00ae9ee6",
       "created_at": "2026-03-24T23:52:49.601144",
@@ -923,160 +1077,6 @@
         "keyword": "Japan travel discount, Yahoo Japan travel sale, Limited time offer, Hotel booking discount, Travel deals",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Yahoo-Japan-travel-sale,-Limited-time-offer,-Hotel-booking-discount,-Travel-deals",
         "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Yahoo%20Japan%20travel%20sale,%20Limited%20time%20offer,%20Hotel%20booking%20discount,%20Travel%20deals/"
-      }
-    },
-    {
-      "id": "plan_c290cc7f",
-      "created_at": "2026-03-21T23:45:29.942330",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "バンヤンツリー・東山 京都、桜づくしのアフタヌーンティーを提供",
-        "url": "https://www.traicy.com/posts/20260322365161/",
-        "date": "Sat, 21 Mar 2026 22:15:52 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토에서 즐기는 벚꽃 시즌 한정 애프터눈 티"
-      },
-      "content": {
-        "thumbnail_title": "🌸교토 벚꽃 애프터눈 티🌸",
-        "cards": [
-          {
-            "title": "기간 확인!",
-            "content": "교토에서 벚꽃 시즌을 맞아 특별한 애프터눈 티가 3월 4일부터 4월 27일까지 제공됩니다. 🌸",
-            "alt_text": "벚꽃이 장식된 애프터눈 티 세트 사진"
-          },
-          {
-            "title": "메뉴 구성",
-            "content": "일식 셰프가 정성껏 준비한 세이보리 메뉴에는 신슈 연어 벚꽃 초밥, 계란 샌드위치, 미나리&쑥 참깨 무침, 생강에 절인 어란 등이 포함됩니다.",
-            "alt_text": "다양한 일식 애프터눈 티 메뉴 사진"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "직접 숯불에 구워 먹는 재미까지 더해져 특별한 추억을 만들 수 있는 기회입니다.",
-            "alt_text": "숯불에 음식을 굽는 모습"
-          },
-          {
-            "title": "장소",
-            "content": "반얀트리 동산 교토 (バンヤンツリー・東山 京都)에서 진행됩니다. 📍",
-            "alt_text": "반얀트리 동산 교토 호텔 외관 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 있는 시즌 메뉴이니만큼, 방문 전 예약 필수! 늦기 전에 서둘러 예약하세요! 📞",
-            "alt_text": "예약 문의 전화기 이모지"
-          }
-        ],
-        "caption": "교토에서 벚꽃 시즌을 만끽할 완벽한 방법! 🌸 반얀트리 동산 교토에서 3월 4일부터 4월 27일까지 특별한 벚꽃 애프터눈 티를 즐겨보세요. 일식 셰프의 섬세한 메뉴와 직접 숯불에 구워 먹는 재미까지! 잊지 못할 추억을 만들어 보세요. ✨\n\n지금 바로 예약하세요! ➡️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#교토",
-          "#일본벚꽃",
-          "#벚꽃시즌",
-          "#애프터눈티",
-          "#교토맛집",
-          "#교토카페",
-          "#반얀트리교토",
-          "#일본호캉스",
-          "#일본디저트",
-          "#여행정보",
-          "#일본",
-          "#힐링여행"
-        ],
-        "alt_texts": [
-          "벚꽃이 장식된 애프터눈 티 세트 사진",
-          "다양한 일식 애프터눈 티 메뉴 사진",
-          "숯불에 음식을 굽는 모습",
-          "반얀트리 동산 교토 호텔 외관 사진",
-          "예약 문의 전화기 이모지"
-        ]
-      },
-      "marketer_analysis": "타겟: 벚꽃 시즌에 교토를 방문하는 20-40대 여성 여행객 / 최적 게시 시간: 주말 오후 2시 / 기대 반응: 예약 문의 증가, 공유 및 저장 수 증가 / 이 콘텐츠의 강점: 시즌 한정 메뉴 정보, 구체적인 기간 및 장소 제공, 특별한 경험 강조",
-      "image": {
-        "keyword": "Kyoto cherry blossom afternoon tea, Banyan Tree Higashiyama Kyoto, Japanese spring sweets, charcoal grill experience",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-cherry-blossom-afternoon-tea,-Banyan-Tree-Higashiyama-Kyoto,-Japanese-spring-sweets,-charcoal-grill-experience",
-        "pexels_url": "https://www.pexels.com/search/Kyoto%20cherry%20blossom%20afternoon%20tea,%20Banyan%20Tree%20Higashiyama%20Kyoto,%20Japanese%20spring%20sweets,%20charcoal%20grill%20experience/"
-      }
-    },
-    {
-      "id": "plan_328b280e",
-      "created_at": "2026-03-21T23:45:24.542043",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海汽船、往復1万2000円で行ける「八丈島復興応援きっぷ」を5月末まで販売延長",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2094960.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 본섬에서 벗어나 특별한 섬 여행을 저렴하게 즐길 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨8만원대로八丈島 가자!",
-        "cards": [
-          {
-            "title": "8만원대로八丈島",
-            "content": "일본 도쿄에서 약 297km 떨어진八丈島(하치조지마)까지 왕복 12,000엔(약 8만원)으로 갈 수 있는 '복흥 응원 티켓' 판매가 5월 말까지 연장되었어요. ✈️",
-            "alt_text": "八丈島 가는 비행기 이미지"
-          },
-          {
-            "title": "八丈島는 어떤 곳?",
-            "content": "아름다운 자연과 온천, 신선한 해산물로 유명한 곳으로, 도쿄에서 가까우면서도 이국적인 풍경을 즐길 수 있는 매력적인 섬입니다. 🏝️",
-            "alt_text": "八丈島의 아름다운 해변 풍경"
-          },
-          {
-            "title": "티켓 구매 방법",
-            "content": "東海汽船(토카이키센) 공식 웹사이트를 통해 구매 가능하며, 5월 말까지 판매되니 서둘러 예약하세요! 📅",
-            "alt_text": "東海汽船 웹사이트 캡처 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "八丈島에서는 렌터카를 이용하면 편리하게 섬을 둘러볼 수 있어요. 맛집, 명소 정보는 미리 찾아보고 가면 더욱 알찬 여행이 될 거예요! 🚗",
-            "alt_text": "八丈島 렌터카 정보 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "판매 기간이 5월 말까지로 한정되어 있으니, 여행 계획이 있다면 티켓 구매를 서두르시는 것이 좋습니다. 🏃‍♀️",
-            "alt_text": "달력에 5월 31일 표시된 이미지"
-          }
-        ],
-        "caption": "tokyo에서 8만원대로 떠나는 특별한 섬 여행! ✈️\n\n도쿄에서 약 297km 떨어진 아름다운 섬, 八丈島(하치조지마)를 왕복 12,000엔(약 8만원)으로 다녀올 수 있는 '복흥 응원 티켓'이 5월 말까지 연장 판매됩니다! 🏝️\n\n이국적인 풍경과 신선한 해산물, 온천까지 즐길 수 있는 八丈島로 잊지 못할 추억을 만들어보세요. 🌊\n\n지금 바로東海汽船에서 티켓 확인하고, 특별한 섬 여행 계획 세워보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#八丈島",
-          "#하치조지마",
-          "#도쿄근교",
-          "#일본섬여행",
-          "#일본교통",
-          "#東海汽船",
-          "#일본가볼만한곳",
-          "#여행정보",
-          "#일본여행정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#여행"
-        ],
-        "alt_texts": [
-          "八丈島 가는 비행기 이미지",
-          "八丈島의 아름다운 해변 풍경",
-          "東海汽船 웹사이트 캡처 이미지",
-          "八丈島 렌터카 정보 이미지",
-          "달력에 5월 31일 표시된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 본섬 외 특별한 여행지를 찾는 2040 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 (여행 계획 세우는 시간) / 기대 반응: 티켓 정보에 대한 높은 관심, 즉각적인 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격으로 쉽게 접근 가능한 특별한 여행지 정보 제공",
-      "image": {
-        "keyword": "Hachijojima island, Japan, travel, ferry, nature, resort",
-        "unsplash_url": "https://unsplash.com/s/photos/Hachijojima-island,-Japan,-travel,-ferry,-nature,-resort",
-        "pexels_url": "https://www.pexels.com/search/Hachijojima%20island,%20Japan,%20travel,%20ferry,%20nature,%20resort/"
       }
     }
   ]
