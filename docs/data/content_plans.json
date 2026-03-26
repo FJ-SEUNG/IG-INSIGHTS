@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-26T03:21:31.361755",
+  "last_updated": "2026-03-26T23:54:11.135904",
   "plans": [
+    {
+      "id": "plan_afdb370a",
+      "created_at": "2026-03-26T23:54:09.135725",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "乗車28日前までの購入で新幹線・在来線特急が半額に。はやぶさ/こまち/つばさ/踊り子/スペーシア日光ほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2096574.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센/특급열차 최대 50% 할인 찬스! 놓치면 후회해요!"
+      },
+      "content": {
+        "thumbnail_title": "JR 50% 할인 찬스! 🚄",
+        "cards": [
+          {
+            "title": "50% 할인",
+            "content": "JR동일본에서 신칸센 및 특급열차를 최대 50% 할인하는 특별 프로모션을 진행합니다. '신칸센e티켓(토쿠다네 스페셜 28)'과 '재래선 티켓리스 특급권(토쿠와리 스페셜 28)'을 이용하세요.",
+            "alt_text": "JR동일본 신칸센 및 특급열차 50% 할인 정보"
+          },
+          {
+            "title": "할인 대상",
+            "content": "하야부사, 코마치, 츠바사, 오도리코, 스페이시아 닛코 등 다양한 노선이 할인 대상입니다. 일본 내 주요 관광지로 이동 시 유용합니다.",
+            "alt_text": "할인 대상 열차 노선 목록"
+          },
+          {
+            "title": "예약 기간",
+            "content": "탑승일 28일 전까지 구매해야 할인이 적용됩니다. 서둘러 예약하세요!",
+            "alt_text": "탑승 28일 전까지 예약 필수 안내"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "2024년 5월 25일부터 6월 5일까지 평일 탑승분에 한해 적용됩니다. 여행 계획 시 참고하세요.",
+            "alt_text": "할인 적용 탑승 기간 안내"
+          },
+          {
+            "title": "꿀팁",
+            "content": "할인 혜택을 받으려면 최소 28일 전에 미리 예약하는 것이 필수입니다. 인기 노선은 조기 마감될 수 있으니 서두르세요!",
+            "alt_text": "JR 할인 티켓 미리 예약하는 꿀팁"
+          }
+        ],
+        "caption": "일본 여행 필수 정보! 🇯🇵 JR동일본에서 신칸센과 특급 열차를 최대 50% 할인받을 수 있는 기회! ✨\n\n✅ 탑승 28일 전까지 구매 시!\n✅ 5월 25일 ~ 6월 5일 평일 탑승 가능!\n\n하야부사, 코마치, 츠바사, 오도리코 등 인기 노선도 할인 대상이니, 일본 여행 계획 있다면 이 기회 꼭 잡으세요! 💖\n\n#일본여행 #JR할인 #신칸센 #특급열차 #일본교통 #여행꿀팁 #JR동일본 #플라잉재팬 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#JR패스",
+          "#신칸센",
+          "#특급열차",
+          "#일본여행팁",
+          "#일본여행정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#일본할인",
+          "#JR동일본",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "JR동일본 신칸센 및 특급열차 50% 할인 정보",
+          "할인 대상 열차 노선 목록",
+          "탑승 28일 전까지 예약 필수 안내",
+          "할인 적용 탑승 기간 안내",
+          "JR 할인 티켓 미리 예약하는 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 월요일 오전 10시 / 기대 반응: 높은 정보 유용성으로 인한 저장 및 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 대상 열차, 예약 및 탑승 기간 명시로 즉각적인 여행 계획 반영 가능",
+      "image": {
+        "keyword": "JR train discount, Shinkansen, Limited Express train, Japan travel, transportation discount",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train-discount,-Shinkansen,-Limited-Express-train,-Japan-travel,-transportation-discount",
+        "pexels_url": "https://www.pexels.com/search/JR%20train%20discount,%20Shinkansen,%20Limited%20Express%20train,%20Japan%20travel,%20transportation%20discount/"
+      }
+    },
+    {
+      "id": "plan_9da90714",
+      "created_at": "2026-03-26T23:54:03.140960",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スターバックス コーヒー、中部国際空港1タミ3階の店舗を7月に移転。第2セントレアビルから出発ロビー内に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2096487.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 공항 이용 시 꼭 알아야 할 스타벅스 이전 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✈️나고야 공항 스타벅스 이전!",
+        "cards": [
+          {
+            "title": "스타벅스 이전",
+            "content": "나고야 주부 국제공항(센트레아) 제1터미널 3층 스타벅스가 7월 중 출발 로비 안으로 이전 오픈합니다.",
+            "alt_text": "나고야 주부 국제공항 제1터미널 3층 출발 로비"
+          },
+          {
+            "title": "이용 위치",
+            "content": "기존 제2 센트레아 빌딩에서 출발 로비 내부로 자리를 옮겨, 더욱 편리하게 이용할 수 있게 됩니다.",
+            "alt_text": "새롭게 이전될 스타벅스 매장 위치 안내"
+          },
+          {
+            "title": "이용 시기",
+            "content": "새로운 매장은 2024년 7월 중에 오픈 예정이니, 7월 이후 나고야 공항 이용 시 참고하세요.",
+            "alt_text": "2024년 7월 오픈 예정 표시"
+          },
+          {
+            "title": "공항 이용 팁",
+            "content": "출국 전 여유롭게 커피를 즐기거나, 탑승 전 마지막으로 일본 디저트를 맛보기에 좋습니다.",
+            "alt_text": "공항 내 스타벅스에서 커피를 마시는 여행객"
+          },
+          {
+            "title": "꿀팁",
+            "content": "이전 오픈 초기에는 사람이 몰릴 수 있으니, 시간 여유를 두고 방문하는 것을 추천합니다.",
+            "alt_text": "시간 여유를 두고 방문하라는 안내 문구"
+          }
+        ],
+        "caption": "✈️ 나고야 주부 국제공항(센트레아) 이용하시는 분들 주목! \n\n스타벅스 나고야 공항 1터미널 3층 매장이 7월 중 출발 로비 안으로 이전 오픈합니다. \n\n기존 제2 센트레아 빌딩에서 더 편리한 곳으로 이동해요!\n\n7월 이후 나고야 공항 이용 시, 새롭게 단장한 스타벅스에서 여유로운 시간을 보내세요!☕️\n\n#일본여행 #나고야여행 #주부국제공항 #센트레아 #스타벅스 #일본공항",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나고야여행",
+          "#주부국제공항",
+          "#센트레아",
+          "#스타벅스",
+          "#일본공항",
+          "#나고야공항",
+          "#여행정보",
+          "#해외여행",
+          "#일본카페",
+          "#공항정보",
+          "#여행꿀팁",
+          "#7월여행",
+          "#출국준비"
+        ],
+        "alt_texts": [
+          "나고야 주부 국제공항 제1터미널 3층 출발 로비",
+          "새롭게 이전될 스타벅스 매장 위치 안내",
+          "2024년 7월 오픈 예정 표시",
+          "공항 내 스타벅스에서 커피를 마시는 여행객",
+          "시간 여유를 두고 방문하라는 안내 문구"
+        ]
+      },
+      "marketer_analysis": "타겟: 나고야 주부 국제공항을 통해 일본으로 입국하거나 출국하는 한국인 여행자 / 최적 게시 시간: 오후 7시~9시 (여행 계획을 세우거나 정보를 탐색하는 시간) / 기대 반응: 정보 습득 및 공감, 저장 / 이 콘텐츠의 강점: 한국인이 많이 이용하는 나고야 공항의 실질적인 편의 시설 변경 정보 제공",
+      "image": {
+        "keyword": "Nagoya Chubu International Airport Starbucks relocation",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagoya-Chubu-International-Airport-Starbucks-relocation",
+        "pexels_url": "https://www.pexels.com/search/Nagoya%20Chubu%20International%20Airport%20Starbucks%20relocation/"
+      }
+    },
     {
       "id": "plan_ef332c0b",
       "created_at": "2026-03-26T03:21:29.361577",
@@ -923,160 +1077,6 @@
         "keyword": "JAL, Japan Airlines, domestic flight, hotel package, discount coupon, spring travel, travel deals",
         "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-Airlines,-domestic-flight,-hotel-package,-discount-coupon,-spring-travel,-travel-deals",
         "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20Airlines,%20domestic%20flight,%20hotel%20package,%20discount%20coupon,%20spring%20travel,%20travel%20deals/"
-      }
-    },
-    {
-      "id": "plan_550e4db5",
-      "created_at": "2026-03-23T03:19:20.378448",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、初代「ポケモン」UTは本日発売。当時の“水彩風”キャラデザ用いた全10種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2095002.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "추억의 포켓몬과 유니클로 콜라보! 일본에서만 만날 수 있는 UT 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "포켓몬 UT 3/23 출시! 🇯🇵",
-        "cards": [
-          {
-            "title": "포켓몬 UT 출시",
-            "content": "유니클로가 포켓몬 30주년을 기념하여 첫 번째 포켓몬 UT 컬렉션을 3월 23일에 출시합니다. 당시 추억을 소환하는 수채풍 디자인이 특징입니다.",
-            "alt_text": "유니클로와 포켓몬 콜라보 UT 출시를 알리는 이미지"
-          },
-          {
-            "title": "총 10종 디자인",
-            "content": "이번 컬렉션은 총 10가지 디자인으로 구성되어 있으며, 어린 시절의 향수를 자극하는 귀여운 포켓몬 캐릭터들을 만나볼 수 있습니다.",
-            "alt_text": "다양한 포켓몬 UT 디자인을 보여주는 이미지"
-          },
-          {
-            "title": "일본 출시",
-            "content": "이 특별한 포켓몬 UT 컬렉션은 일본 유니클로 매장에서 3월 23일부터 구매 가능합니다. 한국에서는 아직 출시되지 않았습니다.",
-            "alt_text": "일본 유니클로 매장 전경 이미지"
-          },
-          {
-            "title": "한정판 득템 찬스",
-            "content": "인기 캐릭터인 포켓몬과의 협업으로 출시 초기에 품절될 가능성이 높으니, 일본 여행 중이라면 서둘러 방문해 보세요!",
-            "alt_text": "포켓몬 UT를 들고 있는 사람의 손 이미지"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "가장 인기 있는 디자인은 빠르게 소진될 수 있으니, 원하는 디자인이 있다면 매장 오픈 시간에 맞춰 방문하는 것을 추천합니다. 면세 혜택도 잊지 마세요!",
-            "alt_text": "유니클로 쇼핑백 이미지"
-          }
-        ],
-        "caption": "✨추억 소환! 유니클로 X 포켓몬 30주년 UT 컬렉션이 3월 23일 일본에서 단독 출시됩니다! 💖 당시 수채풍 감성 그대로, 총 10가지 디자인으로 만나요. 일본 여행 가신다면 절대 놓치지 마세요! 득템 찬스, 지금 바로 확인하세요! 👇\n\n#포켓몬 #유니클로 #일본여행 #포켓몬UT #캐릭터굿즈 #일본쇼핑 #한정판 #득템찬스 #여행스타그램 #플라잉재팬 #여행정보 #일본쇼핑리스트 #추억소환 #UT #콜라보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#포켓몬",
-          "#포켓몬UT",
-          "#일본쇼핑",
-          "#한정판",
-          "#콜라보",
-          "#캐릭터굿즈",
-          "#여행스타그램",
-          "#일본",
-          "#득템",
-          "#쇼핑",
-          "#여행팁",
-          "#3월여행"
-        ],
-        "alt_texts": [
-          "유니클로와 포켓몬 콜라보 UT 출시를 알리는 이미지",
-          "다양한 포켓몬 UT 디자인을 보여주는 이미지",
-          "일본 유니클로 매장 전경 이미지",
-          "포켓몬 UT를 들고 있는 사람의 손 이미지",
-          "유니클로 쇼핑백 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6시 - 8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 실시간 일본 현지 정보, 대중적인 인기 캐릭터 콜라보, 득템 기회 강조",
-      "image": {
-        "keyword": "Uniqlo Pokemon UT Japan release",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Pokemon-UT-Japan-release",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Pokemon%20UT%20Japan%20release/"
-      }
-    },
-    {
-      "id": "plan_6cc5e034",
-      "created_at": "2026-03-23T03:19:13.016746",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大井町に誕生する“鉄道推し”の複合商業施設「大井町トラックス」を見てきた。JRの東京総合車両センター隣接、鉄道ビューポイント多数！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2095224.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "철도 덕후들 심쿵! JR 야마노테선 인근에 새로운 핫플레이스가 열려요! 🚄"
-      },
-      "content": {
-        "thumbnail_title": "JR 신규 복합시설 오픈! 🚄",
-        "cards": [
-          {
-            "title": "오이마치 트랙스",
-            "content": "JR 오이마치역과 동큐 오이마치역 인근에 '오이마치 트랙스' 복합 상업시설이 3월 28일 오전 11시에 문을 엽니다. JR 도쿄 종합 차량센터 바로 옆에 위치해 있어요.",
-            "alt_text": "JR 오이마치역 근처에 새로 오픈하는 복합 상업시설 '오이마치 트랙스' 전경"
-          },
-          {
-            "title": "철도 뷰 포인트",
-            "content": "이곳의 가장 큰 매력은 바로 '철도 뷰'입니다! JR 도쿄 종합 차량센터를 가까이에서 볼 수 있는 뷰 포인트가 다수 마련되어 철도 팬들의 성지가 될 것으로 기대됩니다.",
-            "alt_text": "철도 차량이 보이는 뷰 포인트에서 바라본 모습"
-          },
-          {
-            "title": "다양한 시설",
-            "content": "단순한 철도 뷰를 넘어 다양한 상업 시설이 함께 들어설 예정입니다. 현재 공개된 시설들을 통해 쇼핑, 식사 등 다채로운 경험을 즐길 수 있을 거예요.",
-            "alt_text": "새롭게 오픈하는 시설 내부 모습"
-          },
-          {
-            "title": "교통 편리",
-            "content": "JR 오이마치역과 동큐 오이마치역에서 바로 접근 가능하여 도쿄 시내 어디에서든 편리하게 방문할 수 있습니다. 야마노테선, 게이힌토호쿠선 등을 이용하시면 됩니다.",
-            "alt_text": "JR 오이마치역과 연결되는 복합 상업시설 입구"
-          },
-          {
-            "title": "꿀팁",
-            "content": "새로운 핫플레이스인 만큼 오픈 초기에는 사람이 몰릴 수 있어요. 방문 전 운영 시간 및 행사 정보를 미리 확인하고, 철도 뷰를 즐길 수 있는 시간대를 노려보세요!",
-            "alt_text": "철도 뷰를 즐기며 식사할 수 있는 레스토랑 내부"
-          }
-        ],
-        "caption": "철도 덕후들 주목! 🚄 JR 오이마치역 옆에 '오이마치 트랙스'가 3월 28일 오픈해요! JR 도쿄 종합 차량센터를 가까이서 볼 수 있는 특별한 뷰 포인트와 다양한 상업 시설까지! 도쿄 여행 중 특별한 경험을 원한다면 꼭 방문해보세요! 😉\n\n📍 JR 오이마치역/동큐 오이마치역 인근\n🗓️ 2024년 3월 28일 11시 그랜드 오픈\n\n#일본여행 #도쿄여행 #오이마치 #오이마치트랙스 #JR #철도여행 #일본신상 #여행정보 #플라잉재팬 #도쿄핫플 #철도뷰 #일본쇼핑 #일본가볼만한곳 #도쿄역 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#오이마치",
-          "#오이마치트랙스",
-          "#JR",
-          "#철도여행",
-          "#일본신상",
-          "#여행정보",
-          "#도쿄핫플",
-          "#철도뷰",
-          "#일본쇼핑",
-          "#일본가볼만한곳",
-          "#도쿄",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "JR 오이마치역 근처에 새로 오픈하는 복합 상업시설 '오이마치 트랙스' 전경",
-          "철도 차량이 보이는 뷰 포인트에서 바라본 모습",
-          "새롭게 오픈하는 시설 내부 모습",
-          "JR 오이마치역과 연결되는 복합 상업시설 입구",
-          "철도 뷰를 즐기며 식사할 수 있는 레스토랑 내부"
-        ]
-      },
-      "marketer_analysis": "타겟: 철도에 관심 있는 한국인 여행객, 도쿄 근교 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 높은 관심과 공유, 방문 계획 문의 / 이 콘텐츠의 강점: 일본 여행 중 흔히 접하기 어려운 독특한 테마와 정보, 오픈 예정이라는 시의성",
-      "image": {
-        "keyword": "Oimachi Tracks, JR Tokyo General Vehicle Center, railway view, new commercial facility, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Oimachi-Tracks,-JR-Tokyo-General-Vehicle-Center,-railway-view,-new-commercial-facility,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Oimachi%20Tracks,%20JR%20Tokyo%20General%20Vehicle%20Center,%20railway%20view,%20new%20commercial%20facility,%20Japan%20travel/"
       }
     }
   ]
