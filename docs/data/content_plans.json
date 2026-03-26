@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-25T23:56:59.857011",
+  "last_updated": "2026-03-26T03:21:31.361755",
   "plans": [
+    {
+      "id": "plan_ef332c0b",
+      "created_at": "2026-03-26T03:21:29.361577",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Francfranc、冷却プレート搭載の新型ハンディファン。肌に直接当ててヒンヤリ、卓上でも使える",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2096279.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여름 필수템! 시원함과 휴대성을 모두 갖춘 신상 핸디팬 등장!"
+      },
+      "content": {
+        "thumbnail_title": "✨신상 핸디팬 출시✨",
+        "cards": [
+          {
+            "title": "냉각판 탑재",
+            "content": "더운 여름, 일본 여행 필수템으로 떠오를 Francfranc 신상 핸디팬! 쿨링 플레이트가 탑재되어 피부에 직접 닿는 시원함을 선사합니다.",
+            "alt_text": "Francfranc 신상 핸디팬에 탑재된 쿨링 플레이트 이미지"
+          },
+          {
+            "title": "2가지 활용법",
+            "content": "휴대하기 좋은 핸디형은 물론, 책상 위에 놓고 사용하기 좋은 탁상형으로도 변신! 여행 중이나 숙소에서 다양하게 활용 가능합니다.",
+            "alt_text": "핸디형과 탁상형으로 활용 가능한 Francfranc 핸디팬 이미지"
+          },
+          {
+            "title": "6가지 컬러",
+            "content": "총 6가지의 다채로운 컬러로 출시되어 취향에 맞게 선택 가능! 여행 패션 아이템으로도 손색없어요.",
+            "alt_text": "다양한 색상의 Francfranc 핸디팬 이미지"
+          },
+          {
+            "title": "출시 정보",
+            "content": "4월 10일부터 전국 Francfranc 매장 및 온라인 샵에서 구매 가능합니다. 더위와의 싸움에서 승리하세요!",
+            "alt_text": "Francfranc 매장 또는 온라인 샵 구매 안내 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 2980엔 또는 3480엔으로, 모델에 따라 상이합니다. 합리적인 가격으로 시원한 여름을 준비하세요!",
+            "alt_text": "Francfranc 핸디팬 가격 정보 이미지"
+          }
+        ],
+        "caption": "뜨거운 여름, 일본 여행 필수템! ☀️\nFrancfranc에서 시원함과 휴대성을 모두 갖춘 신상 핸디팬이 출시되었어요!\n쿨링 플레이트로 피부에 직접 닿는 시원함은 물론, 탁상형으로도 변신 가능!\n6가지 컬러 중 나만의 인생템을 골라보세요! 💖\n\n#일본여행 #Francfranc #핸디팬 #여름필수템 #쇼핑정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Francfranc",
+          "#핸디팬",
+          "#일본쇼핑",
+          "#여름필수템",
+          "#일본생활",
+          "#여행준비",
+          "#신상",
+          "#일본꿀템",
+          "#일본직구",
+          "#여름대비",
+          "#일본잡화",
+          "#여행스타그램",
+          "#쇼핑스타그램"
+        ],
+        "alt_texts": [
+          "Francfranc 신상 핸디팬에 탑재된 쿨링 플레이트 이미지",
+          "핸디형과 탁상형으로 활용 가능한 Francfranc 핸디팬 이미지",
+          "다양한 색상의 Francfranc 핸디팬 이미지",
+          "Francfranc 매장 또는 온라인 샵 구매 안내 이미지",
+          "Francfranc 핸디팬 가격 정보 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여름 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 1시 - 3시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 실용성 높은 여름 필수템 정보, 즉시 구매 가능한 정보 제공",
+      "image": {
+        "keyword": "Francfranc hand fan, cooling plate, portable fan, summer essential, Japan shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Francfranc-hand-fan,-cooling-plate,-portable-fan,-summer-essential,-Japan-shopping",
+        "pexels_url": "https://www.pexels.com/search/Francfranc%20hand%20fan,%20cooling%20plate,%20portable%20fan,%20summer%20essential,%20Japan%20shopping/"
+      }
+    },
+    {
+      "id": "plan_6379b872",
+      "created_at": "2026-03-26T03:21:24.218552",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「グミッツェル」が羽田空港で買える！　ヒトツブカンロポップアップストア、4～7月に出店",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2096304.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 인기 간식 '구미츠엘'을 이제 하네다 공항에서 만나요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️하네다 공항에서 만나는 구미츠엘!",
+        "cards": [
+          {
+            "title": "팝업 스토어 오픈!",
+            "content": "일본에서 큰 인기를 얻고 있는 '구미츠엘'을 이제 하네다 공항에서도 만날 수 있어요. 직영점 '히토츠부칸로'의 팝업 스토어가 오픈합니다.",
+            "alt_text": "하네다 공항 제1터미널 2층 마켓플레이스에 위치한 팝업 스토어 외관 이미지"
+          },
+          {
+            "title": "기간 한정 판매",
+            "content": "팝업 스토어는 2024년 4월 8일부터 7월 7일까지 운영됩니다. 여행 일정에 맞춰 방문해 보세요!",
+            "alt_text": "팝업 스토어 운영 기간을 알리는 안내문 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "하네다 공항 제1터미널 2층 마켓플레이스 '하네다 스타 스위츠'에서 만나볼 수 있습니다.",
+            "alt_text": "하네다 공항 제1터미널 내부 안내 지도 이미지"
+          },
+          {
+            "title": "인기 간식",
+            "content": "'구미츠엘'은 겉은 바삭하고 속은 젤리처럼 말랑한 독특한 식감으로 많은 사랑을 받고 있는 간식입니다.",
+            "alt_text": "다양한 색상의 구미츠엘이 담긴 투명 용기 이미지"
+          },
+          {
+            "title": "선물 추천!",
+            "content": "여행 기념품이나 소중한 사람들에게 선물하기 좋은 아이템입니다. 공항에서 편리하게 구매하세요!",
+            "alt_text": "구미츠엘을 선물 상자에 담는 손 이미지"
+          }
+        ],
+        "caption": "일본 인기 간식 '구미츠엘'을 이제 하네다 공항에서 만나요! ✈️\n\n✅ 팝업 스토어 오픈: 히토츠부칸로\n✅ 기간: 2024년 4월 8일 ~ 7월 7일\n✅ 장소: 하네다 공항 제1터미널 2층 마켓플레이스 '하네다 스타 스위츠'\n\n여행 기념품으로도 완벽! 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하네다공항",
+          "#구미츠엘",
+          "#일본간식",
+          "#팝업스토어",
+          "#여행기념품",
+          "#일본쇼핑",
+          "#도쿄여행",
+          "#일본디저트",
+          "#기간한정",
+          "#여행정보",
+          "#공항쇼핑",
+          "#히토츠부칸로",
+          "#일본필수템"
+        ],
+        "alt_texts": [
+          "하네다 공항 제1터미널 2층 마켓플레이스에 위치한 팝업 스토어 외관 이미지",
+          "팝업 스토어 운영 기간을 알리는 안내문 이미지",
+          "하네다 공항 제1터미널 내부 안내 지도 이미지",
+          "다양한 색상의 구미츠엘이 담긴 투명 용기 이미지",
+          "구미츠엘을 선물 상자에 담는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 정보 공유 및 구매 욕구 자극 / 이 콘텐츠의 강점: 한국인이 좋아하는 인기 간식을 공항에서 쉽게 구매할 수 있다는 점을 강조",
+      "image": {
+        "keyword": "Haneda Airport, Gumitziel, pop-up store, Japanese snacks, souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport,-Gumitziel,-pop-up-store,-Japanese-snacks,-souvenir",
+        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport,%20Gumitziel,%20pop-up%20store,%20Japanese%20snacks,%20souvenir/"
+      }
+    },
     {
       "id": "plan_7639ef7f",
       "created_at": "2026-03-25T23:56:57.856817",
@@ -923,160 +1077,6 @@
         "keyword": "Oimachi Tracks, JR Tokyo General Vehicle Center, railway view, new commercial facility, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Oimachi-Tracks,-JR-Tokyo-General-Vehicle-Center,-railway-view,-new-commercial-facility,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Oimachi%20Tracks,%20JR%20Tokyo%20General%20Vehicle%20Center,%20railway%20view,%20new%20commercial%20facility,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_24a652a2",
-      "created_at": "2026-03-22T23:49:24.740307",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "伯方塩業、松山空港に初の飲食店「Tabijio by 伯方の塩」。塩おでんや塩ビールを提供",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2094805.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 맛볼 수 있는 특별한 소금 활용 메뉴!"
-      },
-      "content": {
-        "thumbnail_title": "松山空港에 뜬 '소금 맛집'🧂",
-        "cards": [
-          {
-            "title": "새로운 맛집 오픈!",
-            "content": "일본 마츠야마 공항 국제선 터미널 앞에 'Tabijio by 伯方の塩'이 3월 28일 낮 12시에 문을 열었어요. 伯方塩業에서 선보이는 첫 번째 식당입니다.",
-            "alt_text": "마츠야마 공항에 새로 오픈한 식당 외관 이미지"
-          },
-          {
-            "title": "특별한 메뉴",
-            "content": "이곳에서는 伯方塩業의 소금을 활용한 '소금 오뎅'과 '소금 맥주'를 맛볼 수 있습니다. 일본의 맛있는 소금을 경험해보세요!",
-            "alt_text": "소금 오뎅과 소금 맥주를 먹음직스럽게 담은 이미지"
-          },
-          {
-            "title": "공항에서 즐기는 미식",
-            "content": "마츠야마 공항 1층 국제선 터미널 앞에 위치해 있어, 비행기 탑승 전후로 편리하게 방문할 수 있습니다.",
-            "alt_text": "마츠야마 공항 안내도에 식당 위치 표시된 이미지"
-          },
-          {
-            "title": "여행의 즐거움",
-            "content": "여행의 피로를 풀어줄 맛있는 메뉴와 함께 특별한 추억을 만들어보세요. 일본 현지에서만 맛볼 수 있는 경험입니다.",
-            "alt_text": "여행객이 식당에서 즐겁게 식사하는 모습의 이미지"
-          },
-          {
-            "title": "방문 팁!",
-            "content": "오픈 첫날인 3월 28일 낮 12시 이후 방문 가능합니다. 한정 메뉴나 특별 프로모션이 있을 수 있으니 참고하세요!",
-            "alt_text": "새로운 식당 오픈을 알리는 현수막 이미지"
-          }
-        ],
-        "caption": "✈️ 마츠야마 공항에서 특별한 미식 경험! ✈️\n\n3월 28일 낮 12시, 마츠야마 공항에 伯方塩業의 첫 번째 식당 'Tabijio by 伯方の塩'이 오픈합니다! 🧂\n\n일본의 유명 소금인 '伯方塩'을 활용한 소금 오뎅과 소금 맥주를 맛볼 수 있어요. 😋\n\n공항 1층 국제선 터미널 앞에 위치해 접근성도 최고! 💯\n\n마츠야마 여행하신다면 꼭 들러보세요! 🧡\n\n#일본여행 #마츠야마여행 #공항맛집 #플라잉재팬 #소금맥주 #소금오뎅",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#마츠야마",
-          "#마츠야마공항",
-          "#일본맛집",
-          "#일본여행정보",
-          "#일본먹거리",
-          "#일본현지",
-          "#여행스타그램",
-          "#해외여행",
-          "#여행꿀팁",
-          "#새로운맛집",
-          "#일본소금",
-          "#Tabijio",
-          "#伯方の塩"
-        ],
-        "alt_texts": [
-          "마츠야마 공항에 새로 오픈한 식당 외관 이미지",
-          "소금 오뎅과 소금 맥주를 먹음직스럽게 담은 이미지",
-          "마츠야마 공항 안내도에 식당 위치 표시된 이미지",
-          "여행객이 식당에서 즐겁게 식사하는 모습의 이미지",
-          "새로운 식당 오픈을 알리는 현수막 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 마츠야마 지역을 방문하는 한국인 여행객 / 최적 게시 시간: 오전 9시 ~ 11시, 오후 5시 ~ 7시 / 기대 반응: 정보 습득 및 여행 계획 참고, 공유 / 이 콘텐츠의 강점: 공항 내 신규 오픈 맛집 정보로 시의성 높음, 독특한 메뉴로 호기심 자극",
-      "image": {
-        "keyword": "Matsuyama Airport new restaurant, Salted Oden, Salted Beer, Japanese airport food, Flying Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Matsuyama-Airport-new-restaurant,-Salted-Oden,-Salted-Beer,-Japanese-airport-food,-Flying-Japan",
-        "pexels_url": "https://www.pexels.com/search/Matsuyama%20Airport%20new%20restaurant,%20Salted%20Oden,%20Salted%20Beer,%20Japanese%20airport%20food,%20Flying%20Japan/"
-      }
-    },
-    {
-      "id": "plan_591b536b",
-      "created_at": "2026-03-22T23:49:17.240926",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "おむすび処ほんのり屋、交通系電子マネー決済で「Suicaのペンギン」グッズをプレゼント。3月23日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2095008.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 편의점 오니기리 구매 시 귀여운 굿즈 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🍙”찐”일본 오니기리 굿즈 득템!",
-        "cards": [
-          {
-            "title": "이벤트 내용",
-            "content": "일본 편의점 '오무스비도코로 혼노리야'에서 교통계 전자 머니 결제 시 'Suica의 펭귄' 한정 굿즈를 증정하는 캠페인을 진행해요. 🍙",
-            "alt_text": "오무스비도코로 혼노리야 편의점 내부 이미지"
-          },
-          {
-            "title": "증정 기간",
-            "content": "이번 깜찍한 굿즈 증정 이벤트는 2024년 3월 23일부터 시작됩니다. 놓치지 마세요!",
-            "alt_text": "달력에 3월 23일이 표시된 이미지"
-          },
-          {
-            "title": "결제 방법",
-            "content": "Suica, PASMO 등 교통계 전자 머니로 결제하시면 굿즈를 받을 수 있어요. 현금 결제는 해당되지 않으니 꼭 확인하세요! 💳",
-            "alt_text": "교통계 전자 머니 카드 이미지"
-          },
-          {
-            "title": "굿즈 정보",
-            "content": "한정판 'Suica의 펭귄' 오리지널 굿즈를 받을 수 있는 절호의 기회! 어떤 굿즈가 나올지 기대되네요.🐧",
-            "alt_text": "Suica의 펭귄 캐릭터 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 여행 중 오니기리 간식은 필수! 이왕이면 굿즈까지 받을 수 있는 '혼노리야'에서 맛있는 오니기리도 즐기고 귀여운 굿즈도 챙겨가세요! 🛍️",
-            "alt_text": "다양한 종류의 오니기리가 진열된 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 놓칠 수 없는 편의점 간식! 🍙\n\n'오무스비도코로 혼노리야'에서 교통계 전자 머니 결제 시, 귀여운 'Suica의 펭귄' 한정 굿즈를 증정하는 특별한 캠페인이 3월 23일부터 시작됩니다! 🐧\n\n여행 중 출출할 때, 혹은 간단한 식사 대용으로 오니기리를 즐겨보세요. 맛있는 오니기리도 먹고, 깜찍한 굿즈도 득템할 수 있는 기회랍니다!\n\n#일본여행 #플라잉재팬 #일본편의점 #오니기리 #Suica펭귄 #한정굿즈 #일본쇼핑 #일본맛집 #여행꿀팁 #일본생활 #일본정보 #일본여행준비 #일본자유여행 #혼노리야 #굿즈이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본편의점",
-          "#오니기리",
-          "#Suica펭귄",
-          "#한정굿즈",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#여행꿀팁",
-          "#일본생활",
-          "#일본정보",
-          "#일본여행준비",
-          "#일본자유여행",
-          "#혼노리야",
-          "#굿즈이벤트"
-        ],
-        "alt_texts": [
-          "오무스비도코로 혼노리야 편의점 내부 이미지",
-          "달력에 3월 23일이 표시된 이미지",
-          "교통계 전자 머니 카드 이미지",
-          "Suica의 펭귄 캐릭터 이미지",
-          "다양한 종류의 오니기리가 진열된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 편의점 간식에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 굿즈 획득 방법 및 장소 문의, 공유 및 저장 / 이 콘텐츠의 강점: 실용적인 정보와 귀여운 캐릭터를 결합하여 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Japanese convenience store, onigiri, Suica penguin, merchandise, campaign, Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-convenience-store,-onigiri,-Suica-penguin,-merchandise,-campaign,-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20convenience%20store,%20onigiri,%20Suica%20penguin,%20merchandise,%20campaign,%20Tokyo/"
       }
     }
   ]
