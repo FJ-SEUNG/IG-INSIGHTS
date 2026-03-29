@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-28T23:53:56.476338",
+  "last_updated": "2026-03-29T03:31:11.228404",
   "plans": [
+    {
+      "id": "plan_a4737088",
+      "created_at": "2026-03-29T03:31:09.228216",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "エアソウル、米子〜ソウル/仁川線を減便　3月29日から週5往復",
+        "url": "https://www.traicy.com/posts/20260328366465/",
+        "date": "Sat, 28 Mar 2026 07:15:48 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 소도시 여행 계획 중이라면 주목! 에어서울 운항 정보 변경 안내"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 에어서울, 3/29부터 요나고 노선 감편!",
+        "cards": [
+          {
+            "title": "운항 노선",
+            "content": "에어서울의 일본 요나고(米子) ↔ 서울/인천 노선 운항 횟수가 줄어듭니다. 기존 매일 1회 운항에서 주 5회로 변경됩니다.",
+            "alt_text": "에어서울 항공기 이미지"
+          },
+          {
+            "title": "변경된 스케줄",
+            "content": "3월 29일부터 월, 수, 목, 금, 일요일에만 운항합니다. 요나고 여행 계획 시 변경된 스케줄을 꼭 확인하세요.",
+            "alt_text": "달력에 표시된 운항 요일 이미지"
+          },
+          {
+            "title": "기재 정보",
+            "content": "해당 노선에는 에어버스 A321 기종이 투입됩니다. 에어서울은 보유 기재 운영 상황을 고려하여 운항 스케줄을 조정했습니다.",
+            "alt_text": "에어버스 A321 항공기 상세 이미지"
+          },
+          {
+            "title": "여행 계획 시",
+            "content": "특히 요나고, 돗토리현 등 일본 서부 지역 여행을 계획하고 있다면 항공권 예매 전 변경된 운항 스케줄을 반드시 확인해야 합니다.",
+            "alt_text": "일본 지도에 돗토리현 표시 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "감편으로 인해 항공권 확보가 어려워질 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천합니다. 대체 항공편도 미리 알아보세요.",
+            "alt_text": "항공권 예약 페이지 스크린샷 이미지"
+          }
+        ],
+        "caption": "✈️ 에어서울 일본 요나고 노선 운항 정보 변경 안내! ✈️\n\n3월 29일부터 에어서울의 요나고(米子) ↔ 서울/인천 노선이 기존 매일 1회에서 주 5회로 감편됩니다.\n\n월, 수, 목, 금, 일요일에만 운항하니, 일본 서부 여행 계획 중이라면 꼭! 변경된 스케줄 확인하시고 항공권 예매 서두르세요! 💨\n\n#일본여행 #요나고 #에어서울 #항공정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#에어서울",
+          "#요나고",
+          "#돗토리현",
+          "#일본항공",
+          "#항공권",
+          "#여행정보",
+          "#일본소도시",
+          "#일본교통",
+          "#일본여행팁",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#항공사"
+        ],
+        "alt_texts": [
+          "에어서울 항공기 이미지",
+          "달력에 표시된 운항 요일 이미지",
+          "에어버스 A321 항공기 상세 이미지",
+          "일본 지도에 돗토리현 표시 이미지",
+          "항공권 예약 페이지 스크린샷 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 요나고 또는 돗토리현 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 오후 2시 ~ 4시 / 기대 반응: 운항 정보 변경에 대한 즉각적인 확인 및 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 일본 소도시 여행에 특화된 실질적인 항공 정보 제공",
+      "image": {
+        "keyword": "Air Seoul, Yonago, Seoul, Incheon, flight schedule change, airplane, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Air-Seoul,-Yonago,-Seoul,-Incheon,-flight-schedule-change,-airplane,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Air%20Seoul,%20Yonago,%20Seoul,%20Incheon,%20flight%20schedule%20change,%20airplane,%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_48c097b8",
+      "created_at": "2026-03-29T03:31:01.500753",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東海道新幹線、窓2つ分の「完全個室タイプ」秋ごろ導入。座席頭部に音漏れしないスピーカー、5G対応の専用Wi-Fiも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2097057.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센에 드디어 프라이빗한 개인실이 생긴다고?!"
+      },
+      "content": {
+        "thumbnail_title": "신칸센 🚄 개인실 등장!",
+        "cards": [
+          {
+            "title": "새로운 좌석",
+            "content": "JR東海이 동해도 신칸센에 '완전 개인실 타입' 상급 좌석을 올가을부터 도입합니다. 2개 좌석 공간을 활용한 프라이빗한 공간이 제공될 예정입니다.",
+            "alt_text": "동해도 신칸센 새로운 개인실 좌석 이미지"
+          },
+          {
+            "title": "프라이빗 공간",
+            "content": "개인실 내부에는 좌석 머리 부분에 설치된 스피커를 통해 주변 소음 걱정 없이 영상이나 음악을 즐길 수 있습니다. 5G 전용 와이파이도 지원됩니다.",
+            "alt_text": "개인실 내부 스피커와 와이파이 로고 이미지"
+          },
+          {
+            "title": "도입 시기",
+            "content": "정확한 도입 시기는 '가을경'으로 발표되었습니다. 올 가을 일본 여행 계획 중이라면 새롭게 추가될 개인실 좌석을 고려해보세요.",
+            "alt_text": "가을 낙엽과 신칸센 이미지"
+          },
+          {
+            "title": "기대 효과",
+            "content": "업무나 휴식이 필요한 여행객에게 더욱 편안하고 집중도 높은 이동 경험을 제공할 것으로 기대됩니다. 기존 좌석과의 가격 차이도 주목할 부분입니다.",
+            "alt_text": "편안하게 휴식하는 승객 이미지"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "새로운 개인실 좌석은 인기가 많을 것으로 예상되니, 예약 오픈 시기를 미리 확인하고 서둘러 예매하는 것이 좋습니다. JR東海 공식 발표를 주시하세요!",
+            "alt_text": "예약 완료 버튼 이미지"
+          }
+        ],
+        "caption": "일본 신칸센, 이제 '나만의 공간'에서 편안하게!\n\nJR東海에서 동해도 신칸센에 '완전 개인실 타입' 좌석을 올 가을부터 도입합니다. 🤫\n\n✅ 2개 좌석 공간 활용한 프라이빗룸\n✅ 좌석 헤드 스피커로 소음 걱정 NO!\n✅ 5G 전용 와이파이 지원\n\n업무, 휴식 모두 완벽하게! ✈️\n\n#일본여행 #신칸센 #개인실 #프라이빗 #가을여행 #일본교통 #JR #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본교통",
+          "#일본기차",
+          "#개인실",
+          "#프라이빗",
+          "#JR",
+          "#동해도신칸센",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#일본가을",
+          "#여행스타그램",
+          "#일본",
+          "#새로운좌석"
+        ],
+        "alt_texts": [
+          "동해도 신칸센 새로운 개인실 좌석 이미지",
+          "개인실 내부 스피커와 와이파이 로고 이미지",
+          "가을 낙엽과 신칸센 이미지",
+          "편안하게 휴식하는 승객 이미지",
+          "예약 완료 버튼 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 기존 신칸센 이용객에게 신선하고 매력적인 정보 제공, 구체적인 도입 시기 및 기능 명시",
+      "image": {
+        "keyword": "Shinkansen private room, Japan bullet train luxury seat, JR Tokai new cabin",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-private-room,-Japan-bullet-train-luxury-seat,-JR-Tokai-new-cabin",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20private%20room,%20Japan%20bullet%20train%20luxury%20seat,%20JR%20Tokai%20new%20cabin/"
+      }
+    },
     {
       "id": "plan_710dab69",
       "created_at": "2026-03-28T23:53:54.476123",
@@ -923,160 +1077,6 @@
         "keyword": "Haneda Airport, Gumitziel, pop-up store, Japanese snacks, souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport,-Gumitziel,-pop-up-store,-Japanese-snacks,-souvenir",
         "pexels_url": "https://www.pexels.com/search/Haneda%20Airport,%20Gumitziel,%20pop-up%20store,%20Japanese%20snacks,%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_7639ef7f",
-      "created_at": "2026-03-25T23:56:57.856817",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡市博物館で「大恐竜展」4月24日から。限定“スピノサウルス”グッズも販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2096309.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서 공룡과 함께 특별한 추억 만들기! 후쿠오카에서 열리는 초대형 공룡 전시회 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🦖 후쿠오카 대공룡전 개최! 🦕",
-        "cards": [
-          {
-            "title": "전시 기간",
-            "content": "후쿠오카시 박물관에서 특별 전시 '대공룡전 ~'フクイ'에서 탐구하는 수각류의 진화~'가 2024년 4월 24일부터 6월 28일까지 개최됩니다.",
-            "alt_text": "후쿠오카시 박물관 건물 이미지"
-          },
-          {
-            "title": "장소",
-            "content": "전시는 후쿠오카시 사와라구 모모치하마 3-1-1에 위치한 후쿠오카시 박물관에서 진행됩니다.",
-            "alt_text": "후쿠오카시 박물관 지도 이미지"
-          },
-          {
-            "title": "주요 전시",
-            "content": "이번 전시에서는 '후쿠이'에서 발견된 수각류 화석을 통해 공룡의 진화를 탐구하며, 특히 한정판 '스피노사우루스' 굿즈도 판매될 예정입니다.",
-            "alt_text": "스피노사우루스 이미지"
-          },
-          {
-            "title": "티켓 정보",
-            "content": "전시 입장료 및 상세 티켓 구매 방법은 후쿠오카시 박물관 공식 웹사이트를 참고해 주세요. (현재 정보로 구매 가능한지는 확인 필요)",
-            "alt_text": "티켓 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "후쿠오카 여행 계획 중이라면, 아이들과 함께 방문하기 좋은 특별한 경험이 될 것입니다. 전시 기간을 놓치지 마세요!",
-            "alt_text": "가족이 공룡 전시를 관람하는 모습 이미지"
-          }
-        ],
-        "caption": "🦖 후쿠오카에서 펼쳐지는 압도적인 공룡의 세계! 🦕\n\n후쿠오카시 박물관에서 4월 24일부터 6월 28일까지 '대공룡전'이 열립니다! 🤩\n\n'후쿠이'에서 발견된 귀한 화석들과 함께 수각류의 진화를 알아보세요.\n특히, 한정판 '스피노사우루스' 굿즈도 만날 수 있다는 사실! 🎁\n\n후쿠오카 여행 중이라면, 아이들은 물론 어른들도 모두 즐거워할 특별한 시간을 예약하세요! 👨‍👩‍👧‍👦\n\n#후쿠오카여행 #대공룡전 #후쿠오카박물관 #스피노사우루스 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카",
-          "#후쿠오카여행",
-          "#후쿠오카가볼만한곳",
-          "#후쿠오카박물관",
-          "#대공룡전",
-          "#공룡전시",
-          "#일본축제",
-          "#일본이벤트",
-          "#4월일본여행",
-          "#5월일본여행",
-          "#6월일본여행",
-          "#아이와일본여행",
-          "#가족여행"
-        ],
-        "alt_texts": [
-          "후쿠오카시 박물관 건물 이미지",
-          "후쿠오카시 박물관 지도 이미지",
-          "스피노사우루스 이미지",
-          "티켓 이미지",
-          "가족이 공룡 전시를 관람하는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카를 방문하는 가족 단위 여행객, 공룡에 관심 있는 모든 연령층 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~21시) 또는 주말 오전 / 기대 반응: 전시 정보에 대한 궁금증 증폭, 방문 계획 수립 유도, 굿즈에 대한 관심 유발 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보 제공, 구체적인 날짜 및 장소 명시, 매력적인 굿즈 언급",
-      "image": {
-        "keyword": "Fukuoka City Museum, Dinosaur Exhibition, Spinosaurus, Japan travel, Family trip",
-        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-City-Museum,-Dinosaur-Exhibition,-Spinosaurus,-Japan-travel,-Family-trip",
-        "pexels_url": "https://www.pexels.com/search/Fukuoka%20City%20Museum,%20Dinosaur%20Exhibition,%20Spinosaurus,%20Japan%20travel,%20Family%20trip/"
-      }
-    },
-    {
-      "id": "plan_eecb792b",
-      "created_at": "2026-03-25T23:56:51.314448",
-      "category": "tips",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "ANA、国際線事業の拡大で787-10の発注を変更。既発注11機のうち3機を787-9に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2096311.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "ANA 항공기의 기종 변경으로 일본 여행 항공권 정보에 미묘한 변화가 생길 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ ANA 787-10 -> 787-9 변경!",
-        "cards": [
-          {
-            "title": "ANA 발주 변경",
-            "content": "ANA 홀딩스가 3월 25일, 기존 발주했던 보잉 787-10 기종 11대 중 3대를 787-9 기종으로 변경한다고 발표했습니다.",
-            "alt_text": "ANA 항공기 이미지"
-          },
-          {
-            "title": "기종 변경 사유",
-            "content": "이번 변경은 국제선 사업 확대를 위한 전략의 일환으로, 보다 유연한 운항 계획을 수립하기 위한 것으로 보입니다.",
-            "alt_text": "보잉 787-9 항공기 이미지"
-          },
-          {
-            "title": "787-9 vs 787-10",
-            "content": "787-9는 787-10보다 항속거리가 길고 좌석 수가 적어 중장거리 노선이나 수요가 적은 노선에 더 적합할 수 있습니다.",
-            "alt_text": "항공기 제원 비교 이미지"
-          },
-          {
-            "title": "여행객 영향은?",
-            "content": "직접적인 여행객의 좌석 등급이나 서비스에 큰 변화는 없을 수 있으나, 일부 노선의 항공기 투입이 달라질 수 있습니다.",
-            "alt_text": "항공편 예약 화면 이미지"
-          },
-          {
-            "title": "예약 시 확인!",
-            "content": "항공권 예약 시 항공기 기종이 명시되어 있다면, 변경 사항이 있는지 한 번 더 확인하는 것이 좋습니다.",
-            "alt_text": "항공권 예약 상세 정보 이미지"
-          }
-        ],
-        "caption": "✈️ ANA 항공기 발주 변경 소식! ANA 홀딩스가 787-10 기종 3대를 787-9로 변경했습니다. ✈️\n\n국제선 사업 확대를 위한 전략으로, 일부 노선의 항공기 투입 계획에 미묘한 변화가 생길 수 있어요. 예약 시 항공기 기종 확인은 필수! \n\n일본 여행 준비, 플라잉재팬과 함께하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#항공권",
-          "#ANA항공",
-          "#일본항공",
-          "#여행정보",
-          "#항공기",
-          "#보잉787",
-          "#여행꿀팁",
-          "#항공사",
-          "#일본",
-          "#여행스타그램",
-          "#해외여행",
-          "#비행기"
-        ],
-        "alt_texts": [
-          "ANA 항공기 이미지",
-          "보잉 787-9 항공기 이미지",
-          "항공기 제원 비교 이미지",
-          "항공편 예약 화면 이미지",
-          "항공권 예약 상세 정보 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 항공권 정보에 대한 관심 증가, 예약 시 참고 정보로 활용 / 이 콘텐츠의 강점: 항공사 자체의 기종 변경 소식을 한국 여행객에게 맞춰 실질적인 영향과 확인 사항을 전달",
-      "image": {
-        "keyword": "ANA airplane, Boeing 787-9, Boeing 787-10, airplane cabin, flight booking",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Boeing-787-9,-Boeing-787-10,-airplane-cabin,-flight-booking",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Boeing%20787-9,%20Boeing%20787-10,%20airplane%20cabin,%20flight%20booking/"
       }
     }
   ]
