@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-29T03:31:11.228404",
+  "last_updated": "2026-03-29T23:54:41.411947",
   "plans": [
+    {
+      "id": "plan_956847db",
+      "created_at": "2026-03-29T23:54:39.411733",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、新作「スヌーピー」UT本日発売。ピーナッツギャング描いたメンズ4種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2097133.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 만날 수 있는 스누피 UT 신상 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵스누피 UT 신상 3/30 출시!",
+        "cards": [
+          {
+            "title": "스누피 UT 출시!",
+            "content": "유니클로에서 3월 30일, 새로운 스누피 UT 컬렉션 'PLAYFUL TIMES'를 출시합니다. 이번 신상은 귀여운 스누피와 친구들의 모습을 담은 남성용 티셔츠 4종으로 구성됩니다.",
+            "alt_text": "유니클로 스누피 UT 신상 티셔츠 이미지"
+          },
+          {
+            "title": "득템 찬스!",
+            "content": "일본 여행 중이라면 놓칠 수 없는 쇼핑 아이템! 특히 일본에서만 단독으로 출시되는 한정판 UT일 가능성이 높으니, 스누피 팬이라면 꼭 확인해보세요.",
+            "alt_text": "일본 유니클로 매장에서 쇼핑하는 모습"
+          },
+          {
+            "title": "가격 확인",
+            "content": "정확한 가격은 유니클로 일본 공식 홈페이지 또는 매장에서 확인 가능합니다. (예상 가격대: 1,500엔 ~ 2,000엔)",
+            "alt_text": "일본 유니클로 매장 가격표"
+          },
+          {
+            "title": "구매 팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 출시 당일 또는 최대한 빨리 매장을 방문하는 것을 추천합니다. 일본 내 여러 매장을 둘러보는 것도 좋은 방법입니다.",
+            "alt_text": "일본 유니클로 매장 내부 모습"
+          },
+          {
+            "title": "주의사항",
+            "content": "구매 후 한국으로 가져올 때 면세 혜택 적용 여부 및 개인 통관 고유부호 필요 여부를 미리 확인하세요. (일반적으로 150달러 이하 면세)",
+            "alt_text": "면세 혜택 관련 안내문"
+          }
+        ],
+        "caption": "🇯🇵스누피 좋아한다면? 3월 30일, 일본 유니클로에서 스누피 UT 신상이 출시돼요! 🥜 귀여운 스누피와 친구들이 그려진 남성용 티셔츠 4종을 일본에서 가장 먼저 만나보세요! 득템 찬스 놓치지 마세요! ✨\n\n#일본여행 #스누피UT #유니클로 #일본쇼핑 #한정판 #득템찬스 #플라잉재팬 #일본직구 #도쿄여행 #오사카여행 #후쿠오카여행 #일본패션",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스누피UT",
+          "#유니클로",
+          "#일본쇼핑",
+          "#한정판",
+          "#득템찬스",
+          "#스누피",
+          "#피너츠",
+          "#일본패션",
+          "#여행스타그램",
+          "#일본직구",
+          "#도쿄여행",
+          "#오사카여행",
+          "#후쿠오카여행"
+        ],
+        "alt_texts": [
+          "유니클로 스누피 UT 신상 티셔츠 이미지",
+          "일본 유니클로 매장에서 쇼핑하는 모습",
+          "일본 유니클로 매장 가격표",
+          "일본 유니클로 매장 내부 모습",
+          "면세 혜택 관련 안내문"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시 ~ 8시, 주말 오후 2시 ~ 4시 / 기대 반응: 높은 관심과 구매 정보 문의, 실제 구매 인증 후기 / 이 콘텐츠의 강점: 최신 출시 정보, 실질적인 구매 팁 제공, 스누피라는 대중적인 캐릭터 활용",
+      "image": {
+        "keyword": "Uniqlo Snoopy UT new arrival Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Snoopy-UT-new-arrival-Japan",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Snoopy%20UT%20new%20arrival%20Japan/"
+      }
+    },
+    {
+      "id": "plan_8690915d",
+      "created_at": "2026-03-29T23:54:34.883093",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "GW旅行もお得「じゃらんスペシャルウィーク」今日から。ホテル・温泉宿の半額プラン、最大1万円オフクーポンなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2097137.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 황금연휴(GW) 여행, 최대 10,000엔 할인받고 예약하자!"
+      },
+      "content": {
+        "thumbnail_title": "GW 일본여행 꿀팁! 💰",
+        "cards": [
+          {
+            "title": "최대 1만엔 OFF 쿠폰",
+            "content": "일본 최대 여행 플랫폼 '자란(じゃらん)'에서 GW 기간(3월 30일~4월 17일) 예약 시 최대 10,000엔 할인쿠폰을 제공합니다.",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "호텔/료칸 반값",
+            "content": "인기 호텔 및 온천 료칸 상품을 최대 반값에 이용할 수 있는 특별 찬스가 마련되었습니다. 서둘러 예약하세요!",
+            "alt_text": "호텔 객실 이미지"
+          },
+          {
+            "title": "자란 스페셜 위크",
+            "content": "이름하여 '자란 스페셜 위크'! GW 여행을 알차게 계획할 절호의 기회입니다. 지금 바로 확인해보세요.",
+            "alt_text": "일본 지도 이미지"
+          },
+          {
+            "title": "여행 계획은 지금!",
+            "content": "3월 30일부터 시작된 이번 프로모션은 4월 17일까지 진행되니, 일본 GW 여행을 계획 중이라면 놓치지 마세요.",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "인기 숙소는 조기 마감될 수 있습니다. 지금 바로 자란넷에서 원하는 숙소를 검색하고 할인 혜택을 누리세요!",
+            "alt_text": "여행 가방 이미지"
+          }
+        ],
+        "caption": "일본 황금연휴(GW) 여행 준비 중이신가요? ✈️\n\n일본 최대 여행 플랫폼 '자란(じゃらん)'에서 GW 여행 예약 시 최대 10,000엔 할인 쿠폰과 인기 호텔/온천 료칸 반값 특가 찬스를 제공합니다! 🤩\n\n✅ 프로모션 기간: 3월 30일 ~ 4월 17일\n\n알찬 일본 여행, 지금 바로 자란 스페셜 위크를 통해 준비하세요! 🇯🇵\n\n#일본여행 #자란 #じゃらん #GW여행 #일본숙소 #일본호텔 #일본료칸 #할인정보 #여행꿀팁 #플라잉재팬 #여행스타그램 #일본자유여행 #일본여행준비 #일본",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#자란",
+          "#じゃらん",
+          "#GW여행",
+          "#일본숙소",
+          "#일본호텔",
+          "#일본료칸",
+          "#할인정보",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#일본",
+          "#여행스타그램",
+          "#일본여행정보"
+        ],
+        "alt_texts": [
+          "할인 쿠폰 이미지",
+          "호텔 객실 이미지",
+          "일본 지도 이미지",
+          "달력 이미지",
+          "여행 가방 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 황금연휴(GW) 기간에 일본 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보성 콘텐츠에 대한 높은 관심 및 공유, 프로모션 참여 유도 / 이 콘텐츠의 강점: 실질적인 할인 혜택 정보를 구체적인 수치와 함께 제공하여 즉각적인 구매 전환 유도 가능",
+      "image": {
+        "keyword": "japan travel discount, japan hotel booking, japan ryokan, golden week japan, Jalan special week",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-discount,-japan-hotel-booking,-japan-ryokan,-golden-week-japan,-Jalan-special-week",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20discount,%20japan%20hotel%20booking,%20japan%20ryokan,%20golden%20week%20japan,%20Jalan%20special%20week/"
+      }
+    },
     {
       "id": "plan_a4737088",
       "created_at": "2026-03-29T03:31:09.228216",
@@ -923,160 +1077,6 @@
         "keyword": "Nagoya Chubu International Airport Starbucks relocation",
         "unsplash_url": "https://unsplash.com/s/photos/Nagoya-Chubu-International-Airport-Starbucks-relocation",
         "pexels_url": "https://www.pexels.com/search/Nagoya%20Chubu%20International%20Airport%20Starbucks%20relocation/"
-      }
-    },
-    {
-      "id": "plan_ef332c0b",
-      "created_at": "2026-03-26T03:21:29.361577",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Francfranc、冷却プレート搭載の新型ハンディファン。肌に直接当ててヒンヤリ、卓上でも使える",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2096279.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여름 필수템! 시원함과 휴대성을 모두 갖춘 신상 핸디팬 등장!"
-      },
-      "content": {
-        "thumbnail_title": "✨신상 핸디팬 출시✨",
-        "cards": [
-          {
-            "title": "냉각판 탑재",
-            "content": "더운 여름, 일본 여행 필수템으로 떠오를 Francfranc 신상 핸디팬! 쿨링 플레이트가 탑재되어 피부에 직접 닿는 시원함을 선사합니다.",
-            "alt_text": "Francfranc 신상 핸디팬에 탑재된 쿨링 플레이트 이미지"
-          },
-          {
-            "title": "2가지 활용법",
-            "content": "휴대하기 좋은 핸디형은 물론, 책상 위에 놓고 사용하기 좋은 탁상형으로도 변신! 여행 중이나 숙소에서 다양하게 활용 가능합니다.",
-            "alt_text": "핸디형과 탁상형으로 활용 가능한 Francfranc 핸디팬 이미지"
-          },
-          {
-            "title": "6가지 컬러",
-            "content": "총 6가지의 다채로운 컬러로 출시되어 취향에 맞게 선택 가능! 여행 패션 아이템으로도 손색없어요.",
-            "alt_text": "다양한 색상의 Francfranc 핸디팬 이미지"
-          },
-          {
-            "title": "출시 정보",
-            "content": "4월 10일부터 전국 Francfranc 매장 및 온라인 샵에서 구매 가능합니다. 더위와의 싸움에서 승리하세요!",
-            "alt_text": "Francfranc 매장 또는 온라인 샵 구매 안내 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 2980엔 또는 3480엔으로, 모델에 따라 상이합니다. 합리적인 가격으로 시원한 여름을 준비하세요!",
-            "alt_text": "Francfranc 핸디팬 가격 정보 이미지"
-          }
-        ],
-        "caption": "뜨거운 여름, 일본 여행 필수템! ☀️\nFrancfranc에서 시원함과 휴대성을 모두 갖춘 신상 핸디팬이 출시되었어요!\n쿨링 플레이트로 피부에 직접 닿는 시원함은 물론, 탁상형으로도 변신 가능!\n6가지 컬러 중 나만의 인생템을 골라보세요! 💖\n\n#일본여행 #Francfranc #핸디팬 #여름필수템 #쇼핑정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Francfranc",
-          "#핸디팬",
-          "#일본쇼핑",
-          "#여름필수템",
-          "#일본생활",
-          "#여행준비",
-          "#신상",
-          "#일본꿀템",
-          "#일본직구",
-          "#여름대비",
-          "#일본잡화",
-          "#여행스타그램",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "Francfranc 신상 핸디팬에 탑재된 쿨링 플레이트 이미지",
-          "핸디형과 탁상형으로 활용 가능한 Francfranc 핸디팬 이미지",
-          "다양한 색상의 Francfranc 핸디팬 이미지",
-          "Francfranc 매장 또는 온라인 샵 구매 안내 이미지",
-          "Francfranc 핸디팬 가격 정보 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여름 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 1시 - 3시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 실용성 높은 여름 필수템 정보, 즉시 구매 가능한 정보 제공",
-      "image": {
-        "keyword": "Francfranc hand fan, cooling plate, portable fan, summer essential, Japan shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Francfranc-hand-fan,-cooling-plate,-portable-fan,-summer-essential,-Japan-shopping",
-        "pexels_url": "https://www.pexels.com/search/Francfranc%20hand%20fan,%20cooling%20plate,%20portable%20fan,%20summer%20essential,%20Japan%20shopping/"
-      }
-    },
-    {
-      "id": "plan_6379b872",
-      "created_at": "2026-03-26T03:21:24.218552",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「グミッツェル」が羽田空港で買える！　ヒトツブカンロポップアップストア、4～7月に出店",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2096304.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 인기 간식 '구미츠엘'을 이제 하네다 공항에서 만나요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️하네다 공항에서 만나는 구미츠엘!",
-        "cards": [
-          {
-            "title": "팝업 스토어 오픈!",
-            "content": "일본에서 큰 인기를 얻고 있는 '구미츠엘'을 이제 하네다 공항에서도 만날 수 있어요. 직영점 '히토츠부칸로'의 팝업 스토어가 오픈합니다.",
-            "alt_text": "하네다 공항 제1터미널 2층 마켓플레이스에 위치한 팝업 스토어 외관 이미지"
-          },
-          {
-            "title": "기간 한정 판매",
-            "content": "팝업 스토어는 2024년 4월 8일부터 7월 7일까지 운영됩니다. 여행 일정에 맞춰 방문해 보세요!",
-            "alt_text": "팝업 스토어 운영 기간을 알리는 안내문 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "하네다 공항 제1터미널 2층 마켓플레이스 '하네다 스타 스위츠'에서 만나볼 수 있습니다.",
-            "alt_text": "하네다 공항 제1터미널 내부 안내 지도 이미지"
-          },
-          {
-            "title": "인기 간식",
-            "content": "'구미츠엘'은 겉은 바삭하고 속은 젤리처럼 말랑한 독특한 식감으로 많은 사랑을 받고 있는 간식입니다.",
-            "alt_text": "다양한 색상의 구미츠엘이 담긴 투명 용기 이미지"
-          },
-          {
-            "title": "선물 추천!",
-            "content": "여행 기념품이나 소중한 사람들에게 선물하기 좋은 아이템입니다. 공항에서 편리하게 구매하세요!",
-            "alt_text": "구미츠엘을 선물 상자에 담는 손 이미지"
-          }
-        ],
-        "caption": "일본 인기 간식 '구미츠엘'을 이제 하네다 공항에서 만나요! ✈️\n\n✅ 팝업 스토어 오픈: 히토츠부칸로\n✅ 기간: 2024년 4월 8일 ~ 7월 7일\n✅ 장소: 하네다 공항 제1터미널 2층 마켓플레이스 '하네다 스타 스위츠'\n\n여행 기념품으로도 완벽! 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하네다공항",
-          "#구미츠엘",
-          "#일본간식",
-          "#팝업스토어",
-          "#여행기념품",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#일본디저트",
-          "#기간한정",
-          "#여행정보",
-          "#공항쇼핑",
-          "#히토츠부칸로",
-          "#일본필수템"
-        ],
-        "alt_texts": [
-          "하네다 공항 제1터미널 2층 마켓플레이스에 위치한 팝업 스토어 외관 이미지",
-          "팝업 스토어 운영 기간을 알리는 안내문 이미지",
-          "하네다 공항 제1터미널 내부 안내 지도 이미지",
-          "다양한 색상의 구미츠엘이 담긴 투명 용기 이미지",
-          "구미츠엘을 선물 상자에 담는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 정보 공유 및 구매 욕구 자극 / 이 콘텐츠의 강점: 한국인이 좋아하는 인기 간식을 공항에서 쉽게 구매할 수 있다는 점을 강조",
-      "image": {
-        "keyword": "Haneda Airport, Gumitziel, pop-up store, Japanese snacks, souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport,-Gumitziel,-pop-up-store,-Japanese-snacks,-souvenir",
-        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport,%20Gumitziel,%20pop-up%20store,%20Japanese%20snacks,%20souvenir/"
       }
     }
   ]
