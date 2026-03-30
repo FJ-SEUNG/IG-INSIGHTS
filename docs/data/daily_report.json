@@ -1001,5 +1001,22 @@
     "avg_engagement_rate": 5.3,
     "avg_save_rate": 1.4,
     "avg_share_rate": 1.1
+  },
+  {
+    "date": "26.03.31(화)",
+    "followers": 6793,
+    "follower_change": 14,
+    "following": 807,
+    "post_count": 350,
+    "total_reach": 10161123,
+    "total_views": 20977559,
+    "total_likes": 133478,
+    "total_saves": 84152,
+    "total_shares": 169209,
+    "total_comments": 7245,
+    "total_engagement": 394084,
+    "avg_engagement_rate": 5.3,
+    "avg_save_rate": 1.4,
+    "avg_share_rate": 1.1
   }
 ]
