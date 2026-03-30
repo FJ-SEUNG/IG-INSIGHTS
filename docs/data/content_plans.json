@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-29T23:54:41.411947",
+  "last_updated": "2026-03-30T03:33:30.001466",
   "plans": [
+    {
+      "id": "plan_f12236fd",
+      "created_at": "2026-03-30T03:33:28.001314",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "無印良品、ローソン限定「発酵導入美容液」含むスキンケアお試しセット。「精油の香り」ヘアケア携帯用サイズも初登場",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2097233.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 로컬 편의점에서 만나는 무인양품 꿀템!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵로손X무인양품 꿀템✨",
+        "cards": [
+          {
+            "title": "샘플 세트 출시!",
+            "content": "일본 로손 편의점에서 무인양품 스킨케어와 헤어케어 샘플 세트를 3월 31일부터 판매해요. 4월 1일 이후에 일본 여행 계획이라면 놓치지 마세요!",
+            "alt_text": "로손 편의점 전경"
+          },
+          {
+            "title": "피부 진정 케어",
+            "content": "무인양품 '발효 도입 미용액'이 포함된 스킨케어 샘플 세트로, 민감한 피부도 안심하고 사용할 수 있어요. 여행 중에도 맑고 깨끗한 피부를 유지하세요.",
+            "alt_text": "무인양품 스킨케어 제품 이미지"
+          },
+          {
+            "title": "향기로운 헤어케어",
+            "content": "이번 신상품에는 '정유 향'의 헤어케어 휴대용 사이즈도 처음으로 등장해요. 은은한 향으로 여행의 피로를 풀어줄 거예요.",
+            "alt_text": "무인양품 헤어케어 제품 이미지"
+          },
+          {
+            "title": "전국 로손 판매",
+            "content": "전국의 로손 편의점 약 1만 3천 개 매장에서 만날 수 있어요. (로손 스토어 100 제외) 일본 여행 중 로손에 들르면 꼭 확인해보세요!",
+            "alt_text": "로손 편의점 내부 진열대 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "한정판으로 출시될 가능성이 높으니, 원하는 분들은 서둘러 구매하는 것을 추천해요. 가격은 아직 미정이며, 출시일에 맞춰 업데이트될 예정입니다.",
+            "alt_text": "쇼핑백에 담긴 무인양품 제품 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 쇼핑 리스트 추가! 🇯🇵\n\n로손 편의점에서만 만날 수 있는 무인양품 스킨케어 & 헤어케어 샘플 세트가 3월 31일에 출시됩니다!\n\n여행 중에도 산뜻하게 피부와 헤어를 관리하고 싶다면, 전국 로손에서 득템하세요! ✨\n\n#일본여행 #로손 #무인양품 #편의점템 #샘플세트 #스킨케어 #헤어케어 #여행필수템 #일본쇼핑 #꿀템 #여행스타그램 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#로손",
+          "#무인양품",
+          "#편의점신상",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#일본화장품",
+          "#휴대용화장품",
+          "#한정판",
+          "#일본생활",
+          "#여행준비",
+          "#일본편의점",
+          "#여행템",
+          "#뷰티스타그램"
+        ],
+        "alt_texts": [
+          "로손 편의점 전경",
+          "무인양품 스킨케어 제품 이미지",
+          "무인양품 헤어케어 제품 이미지",
+          "로손 편의점 내부 진열대 이미지",
+          "쇼핑백에 담긴 무인양품 제품 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 여성 / 최적 게시 시간: 평일 저녁 8-10시, 주말 오후 2-4시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 문의 / 이 콘텐츠의 강점: 로컬 편의점 한정판 정보, 실용적인 쇼핑 정보 제공",
+      "image": {
+        "keyword": "MUJI, Lawson, travel size skincare, hair care set, Japan convenience store",
+        "unsplash_url": "https://unsplash.com/s/photos/MUJI,-Lawson,-travel-size-skincare,-hair-care-set,-Japan-convenience-store",
+        "pexels_url": "https://www.pexels.com/search/MUJI,%20Lawson,%20travel%20size%20skincare,%20hair%20care%20set,%20Japan%20convenience%20store/"
+      }
+    },
+    {
+      "id": "plan_2cb2d368",
+      "created_at": "2026-03-30T03:33:22.870773",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、サンリオUT「リラコ」6月発売。ビーチでくつろぐ日焼けキティなど全4種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2097329.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유니클로에서 귀여운 산리오 캐릭터와 함께 시원한 여름 아이템을 만날 기회!"
+      },
+      "content": {
+        "thumbnail_title": "유니클로X산리오 UT 출시!🏖️",
+        "cards": [
+          {
+            "title": "신상 UT 컬렉션",
+            "content": "유니클로가 산리오와 협업한 'SANRIO CHARACTERS ON THE BEACH' UT 컬렉션을 6월 초 출시합니다.",
+            "alt_text": "유니클로와 산리오 캐릭터가 함께 디자인된 티셔츠 이미지"
+          },
+          {
+            "title": "다양한 캐릭터",
+            "content": "이번 컬렉션은 해변에서 휴식을 취하는 마이멜로디, 쿠로미, 시나모롤, 폼폼푸린 등 인기 산리오 캐릭터들을 만나볼 수 있습니다.",
+            "alt_text": "다양한 산리오 캐릭터가 그려진 티셔츠 디자인 모음"
+          },
+          {
+            "title": "여름 필수템",
+            "content": "특히 '리라코' 제품은 편안한 착용감으로 집이나 휴가지에서 시원하게 입기 좋은 여름 아이템으로 출시될 예정입니다.",
+            "alt_text": "해변 배경의 리라코 제품 착용 모델 이미지"
+          },
+          {
+            "title": "귀여운 디자인",
+            "content": "햇볕에 그을린 키티, 서핑하는 시나모롤 등 여름 분위기를 가득 담은 귀여운 일러스트가 특징입니다.",
+            "alt_text": "귀여운 일러스트가 돋보이는 산리오 UT 디자인 상세컷"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "일본 여행 중이라면 유니클로 매장에서 여름맞이 귀여운 산리오 UT 컬렉션을 놓치지 마세요! 6월 초 출시 예정이니 방문 전 확인은 필수!",
+            "alt_text": "일본 유니클로 매장 내부 모습"
+          }
+        ],
+        "caption": "일본 여행 필수 쇼핑 리스트 업데이트! ✈️\n\n유니클로에서 산리오와 역대급 콜라보 UT 컬렉션이 6월 초 출시됩니다! 🏖️\n\n해변에서 즐기는 마이멜로디, 시나모롤 등 귀여운 산리오 캐릭터 UT와 편안한 리라코까지! \n\n일본 여행 계획 중이라면 유니클로에서 여름 맞이 득템 찬스를 놓치지 마세요! 💖\n\n#일본여행 #유니클로 #산리오 #UT #리라코 #쇼핑 #일본쇼핑 #여름휴가 #여행준비 #플라잉재팬 #해외여행 #일본직구 #캐릭터굿즈 #쇼핑스타그램 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#산리오",
+          "#UT",
+          "#리라코",
+          "#일본쇼핑",
+          "#여름아이템",
+          "#여행준비",
+          "#해외여행",
+          "#일본",
+          "#쇼핑",
+          "#캐릭터",
+          "#신상",
+          "#6월여행"
+        ],
+        "alt_texts": [
+          "유니클로와 산리오 캐릭터가 함께 디자인된 티셔츠 이미지",
+          "다양한 산리오 캐릭터가 그려진 티셔츠 디자인 모음",
+          "해변 배경의 리라코 제품 착용 모델 이미지",
+          "귀여운 일러스트가 돋보이는 산리오 UT 디자인 상세컷",
+          "일본 유니클로 매장 내부 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 귀여운 캐릭터와 실용적인 아이템의 조합으로 높은 관심 유도",
+      "image": {
+        "keyword": "Uniqlo, Sanrio, UT collection, Rilakkuma, beach, summer fashion, collaboration, Japan shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Sanrio,-UT-collection,-Rilakkuma,-beach,-summer-fashion,-collaboration,-Japan-shopping",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Sanrio,%20UT%20collection,%20Rilakkuma,%20beach,%20summer%20fashion,%20collaboration,%20Japan%20shopping/"
+      }
+    },
     {
       "id": "plan_956847db",
       "created_at": "2026-03-29T23:54:39.411733",
@@ -923,160 +1077,6 @@
         "keyword": "Mickey Mouse bakery collection, Disney Store Japan, bread shaped keychain, limited edition merchandise, Tokyo Disney Resort",
         "unsplash_url": "https://unsplash.com/s/photos/Mickey-Mouse-bakery-collection,-Disney-Store-Japan,-bread-shaped-keychain,-limited-edition-merchandise,-Tokyo-Disney-Resort",
         "pexels_url": "https://www.pexels.com/search/Mickey%20Mouse%20bakery%20collection,%20Disney%20Store%20Japan,%20bread%20shaped%20keychain,%20limited%20edition%20merchandise,%20Tokyo%20Disney%20Resort/"
-      }
-    },
-    {
-      "id": "plan_afdb370a",
-      "created_at": "2026-03-26T23:54:09.135725",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "乗車28日前までの購入で新幹線・在来線特急が半額に。はやぶさ/こまち/つばさ/踊り子/スペーシア日光ほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2096574.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센/특급열차 최대 50% 할인 찬스! 놓치면 후회해요!"
-      },
-      "content": {
-        "thumbnail_title": "JR 50% 할인 찬스! 🚄",
-        "cards": [
-          {
-            "title": "50% 할인",
-            "content": "JR동일본에서 신칸센 및 특급열차를 최대 50% 할인하는 특별 프로모션을 진행합니다. '신칸센e티켓(토쿠다네 스페셜 28)'과 '재래선 티켓리스 특급권(토쿠와리 스페셜 28)'을 이용하세요.",
-            "alt_text": "JR동일본 신칸센 및 특급열차 50% 할인 정보"
-          },
-          {
-            "title": "할인 대상",
-            "content": "하야부사, 코마치, 츠바사, 오도리코, 스페이시아 닛코 등 다양한 노선이 할인 대상입니다. 일본 내 주요 관광지로 이동 시 유용합니다.",
-            "alt_text": "할인 대상 열차 노선 목록"
-          },
-          {
-            "title": "예약 기간",
-            "content": "탑승일 28일 전까지 구매해야 할인이 적용됩니다. 서둘러 예약하세요!",
-            "alt_text": "탑승 28일 전까지 예약 필수 안내"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "2024년 5월 25일부터 6월 5일까지 평일 탑승분에 한해 적용됩니다. 여행 계획 시 참고하세요.",
-            "alt_text": "할인 적용 탑승 기간 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인 혜택을 받으려면 최소 28일 전에 미리 예약하는 것이 필수입니다. 인기 노선은 조기 마감될 수 있으니 서두르세요!",
-            "alt_text": "JR 할인 티켓 미리 예약하는 꿀팁"
-          }
-        ],
-        "caption": "일본 여행 필수 정보! 🇯🇵 JR동일본에서 신칸센과 특급 열차를 최대 50% 할인받을 수 있는 기회! ✨\n\n✅ 탑승 28일 전까지 구매 시!\n✅ 5월 25일 ~ 6월 5일 평일 탑승 가능!\n\n하야부사, 코마치, 츠바사, 오도리코 등 인기 노선도 할인 대상이니, 일본 여행 계획 있다면 이 기회 꼭 잡으세요! 💖\n\n#일본여행 #JR할인 #신칸센 #특급열차 #일본교통 #여행꿀팁 #JR동일본 #플라잉재팬 #일본여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#JR패스",
-          "#신칸센",
-          "#특급열차",
-          "#일본여행팁",
-          "#일본여행정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#일본할인",
-          "#JR동일본",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "JR동일본 신칸센 및 특급열차 50% 할인 정보",
-          "할인 대상 열차 노선 목록",
-          "탑승 28일 전까지 예약 필수 안내",
-          "할인 적용 탑승 기간 안내",
-          "JR 할인 티켓 미리 예약하는 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 월요일 오전 10시 / 기대 반응: 높은 정보 유용성으로 인한 저장 및 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 대상 열차, 예약 및 탑승 기간 명시로 즉각적인 여행 계획 반영 가능",
-      "image": {
-        "keyword": "JR train discount, Shinkansen, Limited Express train, Japan travel, transportation discount",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-train-discount,-Shinkansen,-Limited-Express-train,-Japan-travel,-transportation-discount",
-        "pexels_url": "https://www.pexels.com/search/JR%20train%20discount,%20Shinkansen,%20Limited%20Express%20train,%20Japan%20travel,%20transportation%20discount/"
-      }
-    },
-    {
-      "id": "plan_9da90714",
-      "created_at": "2026-03-26T23:54:03.140960",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スターバックス コーヒー、中部国際空港1タミ3階の店舗を7月に移転。第2セントレアビルから出発ロビー内に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2096487.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 공항 이용 시 꼭 알아야 할 스타벅스 이전 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✈️나고야 공항 스타벅스 이전!",
-        "cards": [
-          {
-            "title": "스타벅스 이전",
-            "content": "나고야 주부 국제공항(센트레아) 제1터미널 3층 스타벅스가 7월 중 출발 로비 안으로 이전 오픈합니다.",
-            "alt_text": "나고야 주부 국제공항 제1터미널 3층 출발 로비"
-          },
-          {
-            "title": "이용 위치",
-            "content": "기존 제2 센트레아 빌딩에서 출발 로비 내부로 자리를 옮겨, 더욱 편리하게 이용할 수 있게 됩니다.",
-            "alt_text": "새롭게 이전될 스타벅스 매장 위치 안내"
-          },
-          {
-            "title": "이용 시기",
-            "content": "새로운 매장은 2024년 7월 중에 오픈 예정이니, 7월 이후 나고야 공항 이용 시 참고하세요.",
-            "alt_text": "2024년 7월 오픈 예정 표시"
-          },
-          {
-            "title": "공항 이용 팁",
-            "content": "출국 전 여유롭게 커피를 즐기거나, 탑승 전 마지막으로 일본 디저트를 맛보기에 좋습니다.",
-            "alt_text": "공항 내 스타벅스에서 커피를 마시는 여행객"
-          },
-          {
-            "title": "꿀팁",
-            "content": "이전 오픈 초기에는 사람이 몰릴 수 있으니, 시간 여유를 두고 방문하는 것을 추천합니다.",
-            "alt_text": "시간 여유를 두고 방문하라는 안내 문구"
-          }
-        ],
-        "caption": "✈️ 나고야 주부 국제공항(센트레아) 이용하시는 분들 주목! \n\n스타벅스 나고야 공항 1터미널 3층 매장이 7월 중 출발 로비 안으로 이전 오픈합니다. \n\n기존 제2 센트레아 빌딩에서 더 편리한 곳으로 이동해요!\n\n7월 이후 나고야 공항 이용 시, 새롭게 단장한 스타벅스에서 여유로운 시간을 보내세요!☕️\n\n#일본여행 #나고야여행 #주부국제공항 #센트레아 #스타벅스 #일본공항",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나고야여행",
-          "#주부국제공항",
-          "#센트레아",
-          "#스타벅스",
-          "#일본공항",
-          "#나고야공항",
-          "#여행정보",
-          "#해외여행",
-          "#일본카페",
-          "#공항정보",
-          "#여행꿀팁",
-          "#7월여행",
-          "#출국준비"
-        ],
-        "alt_texts": [
-          "나고야 주부 국제공항 제1터미널 3층 출발 로비",
-          "새롭게 이전될 스타벅스 매장 위치 안내",
-          "2024년 7월 오픈 예정 표시",
-          "공항 내 스타벅스에서 커피를 마시는 여행객",
-          "시간 여유를 두고 방문하라는 안내 문구"
-        ]
-      },
-      "marketer_analysis": "타겟: 나고야 주부 국제공항을 통해 일본으로 입국하거나 출국하는 한국인 여행자 / 최적 게시 시간: 오후 7시~9시 (여행 계획을 세우거나 정보를 탐색하는 시간) / 기대 반응: 정보 습득 및 공감, 저장 / 이 콘텐츠의 강점: 한국인이 많이 이용하는 나고야 공항의 실질적인 편의 시설 변경 정보 제공",
-      "image": {
-        "keyword": "Nagoya Chubu International Airport Starbucks relocation",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagoya-Chubu-International-Airport-Starbucks-relocation",
-        "pexels_url": "https://www.pexels.com/search/Nagoya%20Chubu%20International%20Airport%20Starbucks%20relocation/"
       }
     }
   ]
