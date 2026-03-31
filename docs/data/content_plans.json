@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-31T03:24:18.153017",
+  "last_updated": "2026-03-31T23:55:35.681343",
   "plans": [
+    {
+      "id": "plan_ede23da6",
+      "created_at": "2026-03-31T23:55:33.681208",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東北新幹線、4月24日まで最大3000円引き。特急ひたちも対象、JRE POINT「eチケット」で",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098013.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 동북 지역 신칸센 및 특급열차 최대 3000엔 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "JR 동북 신칸센 3000엔 할인!",
+        "cards": [
+          {
+            "title": "할인 대상",
+            "content": "2024년 4월 1일부터 6월 30일까지, JR 동일본에서 진행하는 '행복의 바람 후쿠시마' 캠페인 기간 동안 신칸센e티켓 및 재래선 티켓레스 특급권이 할인됩니다.",
+            "alt_text": "JR 동일본 열차 노선도"
+          },
+          {
+            "title": "할인 금액",
+            "content": "JRE POINT로 교환 가능한 '신칸센e티켓' 및 '재래선 티켓레스 특급권'을 특별 요금으로 이용할 수 있으며, 최대 3000엔까지 할인받을 수 있습니다.",
+            "alt_text": "할인 금액 표시 팻말"
+          },
+          {
+            "title": "대상 노선",
+            "content": "주요 할인 대상은 동북 신칸센 및 특급 히타치 열차입니다. 후쿠시마현 전역을 포함한 동북 지역 여행 시 유용합니다.",
+            "alt_text": "동북 신칸센 열차 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "JRE POINT로 교환 가능한 '에키네트' 상품을 통해 예약해야 하며, '신칸센e티켓' 또는 '재래선 티켓레스 특급권'으로 설정된 특별 요금을 확인하세요.",
+            "alt_text": "JR 예약 웹사이트 화면 캡쳐"
+          },
+          {
+            "title": "꿀팁",
+            "content": "봄 시즌 후쿠시마 지역 여행 계획이 있다면 이번 할인을 놓치지 마세요! JR패스 이용자는 별도 확인이 필요할 수 있으니, 현지 JR 역에서 문의하는 것이 좋습니다.",
+            "alt_text": "일본 기차역 표지판"
+          }
+        ],
+        "caption": "봄꽃 시즌, 후쿠시마로 떠나는 일본 여행 🌸\nJR 동일본에서 신칸센 및 특급열차 최대 3000엔 할인 이벤트를 진행합니다!\n\n✨ 4월 1일 ~ 6월 30일 기간 한정!\n✨ JRE POINT로 '신칸센e티켓' & '특급권' 할인!\n✨ 최대 3000엔 할인받고 동북 지역 알차게 여행하기!\n\n할인 정보 꼼꼼히 챙겨서 즐거운 일본 여행 되세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#신칸센",
+          "#동북여행",
+          "#후쿠시마",
+          "#특급히타치",
+          "#일본교통",
+          "#일본철도",
+          "#일본할인",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#JR패스",
+          "#에키네트",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "JR 동일본 열차 노선도",
+          "할인 금액 표시 팻말",
+          "동북 신칸센 열차 이미지",
+          "JR 예약 웹사이트 화면 캡쳐",
+          "일본 기차역 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 봄 시즌 동북 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 저녁 7~9시 / 기대 반응: 할인 정보에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보 제공",
+      "image": {
+        "keyword": "JR Tohoku Shinkansen discount ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-Tohoku-Shinkansen-discount-ticket",
+        "pexels_url": "https://www.pexels.com/search/JR%20Tohoku%20Shinkansen%20discount%20ticket/"
+      }
+    },
+    {
+      "id": "plan_a876f11c",
+      "created_at": "2026-03-31T23:55:28.505388",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "高速乗り放題「ツーリングプラン」本日スタート。最大半額にもなる全国22コース",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098015.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전국을 누비는 알뜰 여행 찬스! 최대 반값으로 즐기는 바이크 투어링 플랜 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🏍️일본 바이크 전국일주 반값 찬스!",
+        "cards": [
+          {
+            "title": "플랜 시작!",
+            "content": "4월 1일부터 11월 30일까지 (홋카이도는 10월 31일까지) ETC 탑재 이륜차(바이크) 대상 '투어링 플랜'이 시작됩니다. 전국 22개 코스를 최대 반값으로 이용할 수 있어요.",
+            "alt_text": "일본 고속도로에서 달리는 바이크 이미지"
+          },
+          {
+            "title": "환상적인 코스",
+            "content": "일본 전역의 아름다운 경치를 감상하며 달릴 수 있는 22가지 코스가 준비되어 있습니다. 미야기현, 교토부, 효고현 도로 공사 구간도 포함되어 있어 더욱 다양한 선택지를 제공합니다.",
+            "alt_text": "다양한 일본 지역의 풍경 이미지"
+          },
+          {
+            "title": "알뜰 여행 꿀팁",
+            "content": "이 플랜을 이용하면 고속도로 통행료를 최대 절반까지 할인받을 수 있습니다. 일본을 바이크로 여행할 계획이라면 필수적으로 확인해야 할 정보입니다.",
+            "alt_text": "할인율을 보여주는 이미지"
+          },
+          {
+            "title": "이용 기간 확인",
+            "content": "플랜 이용 기간은 2024년 4월 1일부터 11월 30일까지입니다. 홋카이도 지역은 10월 31일까지이니 여행 지역에 맞춰 기간을 꼭 확인하세요.",
+            "alt_text": "달력 이미지와 함께 표시된 기간"
+          },
+          {
+            "title": "주의사항",
+            "content": "본 플랜은 ETC 탑재 이륜차(바이크)만 이용 가능합니다. 미리 ETC 장착 여부와 플랜 상세 내용을 확인하고 이용하시기 바랍니다.",
+            "alt_text": "ETC 카드와 바이크 이미지"
+          }
+        ],
+        "caption": "🏍️일본 바이크 여행자 주목! 4월 1일부터 전국 22개 코스를 최대 반값에 이용할 수 있는 '투어링 플랜'이 시작됩니다! 아름다운 일본을 더욱 알뜰하게 즐길 기회, 놓치지 마세요! 🇯🇵\n\n✅ 이용 기간: 2024년 4월 1일 ~ 11월 30일 (홋카이도 10월 31일까지)\n✅ 대상: ETC 탑재 이륜차\n\n#일본여행 #플라잉재팬 #일본바이크투어 #일본교통정보 #일본여행꿀팁 #바이크여행 #일본알뜰여행 #일본고속도로 #투어링플랜 #일본자유여행 #일본여행준비 #일본가볼만한곳 #일본로드트립 #일본여행정보 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본바이크투어",
+          "#일본교통정보",
+          "#일본여행꿀팁",
+          "#바이크여행",
+          "#일본알뜰여행",
+          "#일본고속도로",
+          "#투어링플랜",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#일본가볼만한곳",
+          "#일본로드트립",
+          "#일본여행정보",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "일본 고속도로에서 달리는 바이크 이미지",
+          "다양한 일본 지역의 풍경 이미지",
+          "할인율을 보여주는 이미지",
+          "달력 이미지와 함께 표시된 기간",
+          "ETC 카드와 바이크 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본에서 바이크 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 실질적인 비용 절감 효과를 제시하는 구체적인 정보",
+      "image": {
+        "keyword": "Japan motorcycle touring plan discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-motorcycle-touring-plan-discount",
+        "pexels_url": "https://www.pexels.com/search/Japan%20motorcycle%20touring%20plan%20discount/"
+      }
+    },
     {
       "id": "plan_1d12f536",
       "created_at": "2026-03-31T03:24:16.152805",
@@ -923,160 +1077,6 @@
         "keyword": "Air Japan aircraft, Incheon airport tarmac, flight schedule board, ANA logo, flight booking website",
         "unsplash_url": "https://unsplash.com/s/photos/Air-Japan-aircraft,-Incheon-airport-tarmac,-flight-schedule-board,-ANA-logo,-flight-booking-website",
         "pexels_url": "https://www.pexels.com/search/Air%20Japan%20aircraft,%20Incheon%20airport%20tarmac,%20flight%20schedule%20board,%20ANA%20logo,%20flight%20booking%20website/"
-      }
-    },
-    {
-      "id": "plan_24baa568",
-      "created_at": "2026-03-28T02:55:34.748742",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "さんふらわあトラベル、「九州への船旅」プラン5000円引き。大阪～志布志フェリー利用＋鹿児島県内宿泊で",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097077.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카-가고시마 뱃길 이용 시 5천엔 할인받는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "🚢 5천엔 할인! 뱃길 타고 큐슈 가자!",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "さんふらわあトラベル에서 '남鹿児島편' 캠페인으로 오사카~시부시(志布志) 페리 이용 시 여행 경비 5,000엔 할인 혜택을 제공합니다. 🚢",
-            "alt_text": "할인 정보가 담긴 안내문 이미지"
-          },
-          {
-            "title": "이용 조건",
-            "content": "해당 할인은 오사카에서 시부시(志布志)를 잇는 페리 이용과 함께 가고시마현 내 숙박을 예약하는 경우에 적용됩니다. 🏨",
-            "alt_text": "페리 이용 및 숙박 예약 관련 이미지"
-          },
-          {
-            "title": "캠페인명",
-            "content": "이번 할인은 'さんふらわあがつなぐ地域の魅力 南鹿児島編' 디스티네이션 캠페인의 일환으로 진행됩니다. 🌸",
-            "alt_text": "캠페인 테마를 나타내는 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "페리로 편안하게 이동하며 큐슈의 아름다운 풍경을 감상하고, 할인 혜택까지 받아 알뜰한 여행을 계획해보세요! 🌊",
-            "alt_text": "아름다운 바다 풍경과 페리 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "할인 적용 기간 및 자세한 예약 방법은 반드시 공식 채널을 통해 확인하시기 바랍니다. 📅",
-            "alt_text": "달력과 확인 버튼 이미지"
-          }
-        ],
-        "caption": "✨ 오사카에서 큐슈 ✈️ 뱃길로 떠나는 꿀팁! ✨\n\nさんふらわあトラベル에서 진행하는 특별 캠페인으로, 오사카에서 시부시(志布志)까지 페리를 이용하고 가고시마현 내 숙박까지 예약하면 무려 5,000엔 할인! 😮\n\n편안한 페리 여행과 함께 큐슈의 매력을 만끽할 기회, 놓치지 마세요! 💖\n\n#일본여행 #플라잉재팬 #큐슈여행 #오사카 #가고시마 #페리여행 #뱃길여행 #여행할인 #꿀팁 #여행정보 #알뜰여행 #일본국내여행 #여행스타그램 #여행계획 #뱃표",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#큐슈여행",
-          "#오사카",
-          "#가고시마",
-          "#페리여행",
-          "#뱃길여행",
-          "#여행할인",
-          "#꿀팁",
-          "#여행정보",
-          "#알뜰여행",
-          "#일본국내여행",
-          "#여행스타그램",
-          "#여행계획",
-          "#뱃표"
-        ],
-        "alt_texts": [
-          "할인 정보가 담긴 안내문 이미지",
-          "페리 이용 및 숙박 예약 관련 이미지",
-          "캠페인 테마를 나타내는 이미지",
-          "아름다운 바다 풍경과 페리 이미지",
-          "달력과 확인 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 큐슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간 (19시~21시) / 기대 반응: 할인 정보에 대한 높은 관심과 공유, 페리 이용 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 이용 조건 제시, 매력적인 썸네일 타이틀",
-      "image": {
-        "keyword": "Japan ferry travel discount Kyushu Osaka Kagoshima",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry-travel-discount-Kyushu-Osaka-Kagoshima",
-        "pexels_url": "https://www.pexels.com/search/Japan%20ferry%20travel%20discount%20Kyushu%20Osaka%20Kagoshima/"
-      }
-    },
-    {
-      "id": "plan_ac6d726e",
-      "created_at": "2026-03-28T02:55:28.947626",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "万博1周年ドローンショー、観覧チケットがもらえるクラファン開始。支援総額によっては“巨大ミャクミャク”に会えるかも！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097088.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 엑스포 1주년 기념, 놓치면 후회할 특별 드론쇼 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 엑스포 1주년 기념✨",
-        "cards": [
-          {
-            "title": "드론쇼 개최!",
-            "content": "오사카 엑스포 1주년 기념으로 특별 드론쇼가 펼쳐집니다. 과거 큰 인기를 끌었던 'One World, One Planet.' 쇼를 한정적으로 다시 만날 수 있어요.",
-            "alt_text": "화려한 불꽃놀이와 함께 밤하늘을 수놓는 드론 이미지"
-          },
-          {
-            "title": "날짜와 시간",
-            "content": "2025년 4월 12일 (금) 19시 30분부터 19시 45분까지, 단 15분간 진행될 예정이니 시간 엄수해주세요!",
-            "alt_text": "달력에 4월 12일 금요일이 표시된 이미지"
-          },
-          {
-            "title": "티켓 획득 찬스!",
-            "content": "지금 크라우드 펀딩에 참여하면 관람 티켓을 받을 수 있는 기회가 있습니다. 펀딩 금액에 따라 특별한 혜택도 기대해볼 수 있어요.",
-            "alt_text": "크라우드 펀딩 참여를 독려하는 이미지"
-          },
-          {
-            "title": "미래적인 볼거리",
-            "content": "엑스포의 미래적인 비전을 담은 드론쇼는 잊지 못할 추억을 선사할 것입니다. 오사카 여행 계획에 꼭 넣어보세요!",
-            "alt_text": "미래 도시의 모습을 형상화한 드론 쇼 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기가 예상되니 미리 정보를 확인하고, 늦지 않게 도착하는 것이 좋습니다. 엑스포 기념품샵이나 주변 맛집 방문도 함께 계획해보세요!",
-            "alt_text": "여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "🇯🇵오사카 엑스포 1주년 기념 특별 드론쇼 개최!🇯🇵\n\n놓치면 후회할 환상적인 밤을 선사할 드론쇼가 4월 12일, 단 하루 펼쳐집니다! 🚀\n\n✨하나뿐인 특별한 경험, 지금 바로 확인하고 오사카 여행 계획에 추가하세요!✨\n\n#오사카엑스포 #드론쇼 #일본여행 #엑스포2025 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#오사카엑스포",
-          "#엑스포2025",
-          "#드론쇼",
-          "#일본축제",
-          "#일본이벤트",
-          "#여행정보",
-          "#일본볼거리",
-          "#일본가볼만한곳",
-          "#여행팁",
-          "#일본자유여행",
-          "#오사카",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "화려한 불꽃놀이와 함께 밤하늘을 수놓는 드론 이미지",
-          "달력에 4월 12일 금요일이 표시된 이미지",
-          "크라우드 펀딩 참여를 독려하는 이미지",
-          "미래 도시의 모습을 형상화한 드론 쇼 이미지",
-          "여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 여행 계획에 대한 관심, 정보 공유 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 날짜 및 시간 제공, 크라우드 펀딩 참여 혜택 언급",
-      "image": {
-        "keyword": "Osaka Expo 1st anniversary drone show, night sky, futuristic, celebration, special event",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-1st-anniversary-drone-show,-night-sky,-futuristic,-celebration,-special-event",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%201st%20anniversary%20drone%20show,%20night%20sky,%20futuristic,%20celebration,%20special%20event/"
       }
     }
   ]
