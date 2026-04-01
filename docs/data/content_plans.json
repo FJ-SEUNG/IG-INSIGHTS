@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-03-31T23:55:35.681343",
+  "last_updated": "2026-04-01T03:36:57.920474",
   "plans": [
+    {
+      "id": "plan_0dee8223",
+      "created_at": "2026-04-01T03:36:55.920266",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "サンリオピューロランド、今日から「年間パスポート」値上げ。デジタル版は大人2万3000円に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098008.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "산리오 덕후들 주목! 푸치페스 in 파라다이스 🤩"
+      },
+      "content": {
+        "thumbnail_title": "✨산리오 퓨로랜드 굿즈 꿀팁!✨",
+        "cards": [
+          {
+            "title": "입장료 변경!",
+            "content": "2024년 4월 1일부터 산리오ピュー로랜드 연간 패스포트 가격이 인상됩니다. 디지털 연간 패스포트는 어른 기준 23,000엔으로 변경되니, 방문 예정이라면 서둘러 준비하세요!",
+            "alt_text": "산리오ピュー로랜드 입구 이미지"
+          },
+          {
+            "title": "어떤 굿즈?",
+            "content": "헬로키티, 마이멜로디, 쿠로미 등 인기 산리오 캐릭터 굿즈를 만날 수 있어요! 시즌별 한정 굿즈도 놓치지 마세요.",
+            "alt_text": "다양한 산리오 캐릭터 굿즈 진열 이미지"
+          },
+          {
+            "title": "푸치페스 in 파라다이스",
+            "content": "4월 5일부터 6월 25일까지 '푸치페스 in 파라다이스' 이벤트가 열립니다. 귀여운 테마로 꾸며진 공간과 특별한 굿즈를 만나볼 수 있어요.",
+            "alt_text": "이벤트 테마로 꾸며진 산리오ピュー로랜드 내부 이미지"
+          },
+          {
+            "title": "먹거리도 귀엽다!",
+            "content": "캐릭터 모양의 귀여운 디저트와 음료도 준비되어 있어요. 인증샷 필수!",
+            "alt_text": "산리오 캐릭터 모양 디저트 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "주말 및 공휴일은 매우 혼잡하므로 평일 방문을 추천해요. 온라인 예매 시 할인 혜택이 있는지 확인해 보세요. 굿즈는 품절될 수 있으니 서둘러 구매하는 것이 좋습니다.",
+            "alt_text": "산리오 캐릭터와 함께 사진 찍는 사람들의 모습"
+          }
+        ],
+        "caption": "💖산리오 덕후들 심장 쿵!💖\n도쿄 여행 필수 코스, 산리오ピュー로랜드 소식 가져왔어요!\n✨4월 1일부터 연간 패스포트 가격 인상 예정!\n✨4월 5일부터 '푸치페스 in 파라다이스' 이벤트 시작!\n놓치기 전에 지금 바로 계획 세워보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#산리오",
+          "#산리오퓨로랜드",
+          "#도쿄여행",
+          "#일본쇼핑",
+          "#일본키즈",
+          "#일본캐릭터",
+          "#헬로키티",
+          "#마이멜로디",
+          "#쿠로미",
+          "#일본이벤트",
+          "#도쿄",
+          "#여행정보",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "산리오ピュー로랜드 입구 이미지",
+          "다양한 산리오 캐릭터 굿즈 진열 이미지",
+          "이벤트 테마로 꾸며진 산리오ピュー로랜드 내부 이미지",
+          "산리오 캐릭터 모양 디저트 이미지",
+          "산리오 캐릭터와 함께 사진 찍는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 산리오 캐릭터를 좋아하는 20-30대 여성 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 최신 정보와 구체적인 이벤트 내용을 담아 실질적인 도움 제공",
+      "image": {
+        "keyword": "Sanrio Puroland, Hello Kitty, My Melody, Kuromi, event, merchandise, Tokyo, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Sanrio-Puroland,-Hello-Kitty,-My-Melody,-Kuromi,-event,-merchandise,-Tokyo,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Sanrio%20Puroland,%20Hello%20Kitty,%20My%20Melody,%20Kuromi,%20event,%20merchandise,%20Tokyo,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_a609efed",
+      "created_at": "2026-04-01T03:36:50.284372",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシー「フード＆ワイン・フェスティバル」に今年も企業協賛メニュー登場！　ポテチや食パン使った新作も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098121.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 씨에서만 맛볼 수 있는 특별한 콜라보 메뉴를 놓치지 마세요! 🍟🍞"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 씨 한정 메뉴✨",
+        "cards": [
+          {
+            "title": "푸드 & 와인",
+            "content": "도쿄 디즈니 씨의 '푸드 & 와인 페스티벌'이 돌아왔어요! 4월 8일부터 6월 30일까지 특별한 메뉴를 즐길 수 있답니다.",
+            "alt_text": "도쿄 디즈니 씨 풍경 이미지"
+          },
+          {
+            "title": "기업 협찬 메뉴",
+            "content": "올해도 다양한 기업과 협업한 특별 메뉴가 출시되었어요. 놓치면 후회할 맛있는 콜라보를 기대하세요!",
+            "alt_text": "다양한 음식 이미지가 콜라주된 이미지"
+          },
+          {
+            "title": "새로운 맛!",
+            "content": "특히 감자칩과 식빵을 활용한 신기한 메뉴도 등장한다고 하니, 어떤 맛일지 궁금하지 않으신가요?",
+            "alt_text": "감자칩과 식빵으로 만든 음식 이미지"
+          },
+          {
+            "title": "놓치지 마세요",
+            "content": "기간 한정으로 판매되는 메뉴이니, 여행 계획 중이라면 꼭 일정에 넣어보세요! 잊지 못할 추억을 만들 수 있을 거예요.",
+            "alt_text": "디즈니 씨 캐릭터와 함께 음식 즐기는 사람 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 메뉴는 조기에 품절될 수 있으니, 방문 당일 오픈 시간에 맞춰 서두르는 것을 추천해요! 🏃‍♀️",
+            "alt_text": "디즈니 씨 지도 이미지"
+          }
+        ],
+        "caption": "도쿄 디즈니 씨에서 펼쳐지는 맛있는 축제! 🥳 \n'푸드 & 와인 페스티벌'에서만 만날 수 있는 특별한 기업 협찬 메뉴들을 소개합니다. \n감자칩, 식빵을 활용한 신메뉴까지! 🍟🍞 \n4월 8일부터 6월 30일까지, 잊지 못할 미식 경험을 놓치지 마세요! \n#디즈니씨 #푸드앤와인페스티벌 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니씨",
+          "#디즈니랜드",
+          "#푸드앤와인페스티벌",
+          "#도쿄디즈니씨",
+          "#일본맛집",
+          "#여행정보",
+          "#해외여행",
+          "#여행꿀팁",
+          "#일본어디가",
+          "#도쿄",
+          "#한정메뉴",
+          "#디즈니"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니 씨 풍경 이미지",
+          "다양한 음식 이미지가 콜라주된 이미지",
+          "감자칩과 식빵으로 만든 음식 이미지",
+          "디즈니 씨 캐릭터와 함께 음식 즐기는 사람 이미지",
+          "디즈니 씨 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니 씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 (저녁 식사 시간대) / 기대 반응: 높은 관심과 정보 공유, 디즈니 씨 방문 계획에 긍정적 영향 / 이 콘텐츠의 강점: 시기성 있는 한정 메뉴 정보로 즉각적인 관심 유발, 구체적인 기간 명시",
+      "image": {
+        "keyword": "Tokyo DisneySea Food and Wine Festival, limited menu, collaboration food, potato chip food, bread food",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Food-and-Wine-Festival,-limited-menu,-collaboration-food,-potato-chip-food,-bread-food",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Food%20and%20Wine%20Festival,%20limited%20menu,%20collaboration%20food,%20potato%20chip%20food,%20bread%20food/"
+      }
+    },
     {
       "id": "plan_ede23da6",
       "created_at": "2026-03-31T23:55:33.681208",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen private room, Japan bullet train luxury seat, JR Tokai new cabin",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-private-room,-Japan-bullet-train-luxury-seat,-JR-Tokai-new-cabin",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20private%20room,%20Japan%20bullet%20train%20luxury%20seat,%20JR%20Tokai%20new%20cabin/"
-      }
-    },
-    {
-      "id": "plan_710dab69",
-      "created_at": "2026-03-28T23:53:54.476123",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、このあと0時から「ANAにキュン！」。国内航空券＋宿泊が最大1万3000円引き、GWの予約もまだ間に合う",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097118.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 최대 1만 3천원 할인! 황금연휴 일본 여행 준비 시작하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 1만3천원 할인! GW도 OK!✈️",
-        "cards": [
-          {
-            "title": "ANA 특별 캠페인",
-            "content": "3월 29일 단 하루! 'ANA에 キュン！' 캠페인에서 국내선 항공권과 숙박을 최대 1만 3천원 할인된 가격으로 만나보세요.",
-            "alt_text": "ANA 항공권 할인 캠페인 안내 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "일본 국내선 항공권과 숙박을 묶어 구매 시, 최대 1만 3천원의 파격적인 할인이 적용됩니다.",
-            "alt_text": "할인 금액과 혜택 내용을 나타내는 이미지"
-          },
-          {
-            "title": "황금연휴 예약",
-            "content": "아직 황금연휴 일본 여행 계획이 없으시다면, 이번 기회를 놓치지 마세요! 지금 바로 예약하면 원하는 날짜와 좌석을 확보할 수 있습니다.",
-            "alt_text": "황금연휴와 여행 계획을 연상시키는 이미지"
-          },
-          {
-            "title": "캠페인 시간",
-            "content": "캠페인은 3월 29일 00시부터 23시 59분까지, 단 24시간 동안만 진행됩니다. 시간 엄수 필수!",
-            "alt_text": "캠페인 진행 시간을 명확히 보여주는 시계 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인율은 상품에 따라 다를 수 있으니, ANA 공식 홈페이지에서 자세한 내용을 확인하고 최적의 조합을 찾아보세요. 서둘러야 원하는 상품을 겟할 수 있습니다!",
-            "alt_text": "할인율 확인 및 빠른 예약을 강조하는 이미지"
-          }
-        ],
-        "caption": "✈️ ANA 역대급 할인 찬스! ✈️\n\n3월 29일 단 하루! 'ANA에 キュン！' 캠페인에서 일본 국내선 항공권+숙박을 최대 1만 3천원 할인받으세요!\n\n성수기인 황금연휴 일본 여행도 이 기회에 알뜰하게 준비 가능!\n\n놓치면 후회할 역대급 할인, 지금 바로 ANA 공식 홈페이지에서 확인하고 예약하세요! 🗓️\n\n#일본여행 #ANA할인 #항공권특가 #황금연휴 #일본항공권 #ANA #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#ANA",
-          "#ANA에큥",
-          "#일본항공권",
-          "#항공권할인",
-          "#일본여행준비",
-          "#일본자유여행",
-          "#황금연휴여행",
-          "#여행특가",
-          "#ANA할인",
-          "#일본가고싶다",
-          "#여행스타그램",
-          "#플라잉재팬",
-          "#일본여행팁",
-          "#일본성수기"
-        ],
-        "alt_texts": [
-          "ANA 항공권 할인 캠페인 안내 이미지",
-          "할인 금액과 혜택 내용을 나타내는 이미지",
-          "황금연휴와 여행 계획을 연상시키는 이미지",
-          "캠페인 진행 시간을 명확히 보여주는 시계 이미지",
-          "할인율 확인 및 빠른 예약을 강조하는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 오후 6시~9시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 클릭률 및 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 기간 명시, 황금연휴 시즌 타겟팅",
-      "image": {
-        "keyword": "ANA airplane, discount coupon, Japan travel, golden week, flight ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-discount-coupon,-Japan-travel,-golden-week,-flight-ticket",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20discount%20coupon,%20Japan%20travel,%20golden%20week,%20flight%20ticket/"
-      }
-    },
-    {
-      "id": "plan_31b6d771",
-      "created_at": "2026-03-28T23:53:49.182345",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "国際中距離線ブランドのエアージャパン、本日ラストフライト。「培った知見はANA発展のための財産に」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097210.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 준비 중이라면 꼭 확인해야 할 항공사 운항 종료 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✈️에어재팬 3/28 운항 종료!✈️",
-        "cards": [
-          {
-            "title": "에어재팬 마지막 비행",
-            "content": "일본 저비용항공사 에어재팬(Air Japan)이 2024년 3월 28일, 브랜드를 대표하는 마지막 운항을 마쳤습니다. 마지막 비행은 인천행 NQ121편이었습니다.",
-            "alt_text": "에어재팬 항공기 이미지"
-          },
-          {
-            "title": "인천행 NQ121편",
-            "content": "에어재팬의 마지막 운항이었던 인천행 NQ121편은 3월 28일 오전 9시 50분에 출발했습니다. 한국 여행객들에게는 익숙한 노선이었죠.",
-            "alt_text": "인천공항 항공기 이륙 모습"
-          },
-          {
-            "title": "그 외 마지막 노선",
-            "content": "싱가포르행 NQ3편은 17시 5분, 방콕행 NQ1편은 17시 35분에 일본을 출발했습니다. (싱가포르/방콕 현지 출발 기준 마지막은 3월 29일)",
-            "alt_text": "항공편 스케줄 보드 이미지"
-          },
-          {
-            "title": "ANA 그룹의 자산",
-            "content": "에어재팬은 쌓아온 경험과 노하우를 ANA(전일본공수)의 발전을 위한 자산으로 삼을 것이라고 밝혔습니다. 앞으로 ANA 그룹의 서비스 변화를 주목해 보세요.",
-            "alt_text": "ANA 항공기 이미지"
-          },
-          {
-            "title": "일본 항공권 체크!",
-            "content": "에어재팬의 운항 종료로 해당 노선을 이용하려 했던 여행객이라면 다른 항공편을 미리 확인하고 예약하는 것이 좋습니다. 특히 3월 말 이후 여행 계획이라면 서두르세요!",
-            "alt_text": "항공권 예약 페이지 이미지"
-          }
-        ],
-        "caption": "✈️ 에어재팬, 3월 28일부로 마지막 운항 종료! ✈️\n\n일본 저비용항공사 에어재팬이 2024년 3월 28일, 한국행(인천)을 포함한 모든 노선 운항을 종료했습니다. \n\n앞으로 에어재팬의 경험은 ANA 그룹의 발전에 기여할 예정이라고 하는데요.\n\n에어재팬 항공권을 예약하셨거나 이용 예정이었던 분들은 다른 항공편으로 변경이 필요한지 꼭 확인하세요! \n\n#일본여행 #플라잉재팬 #에어재팬 #항공정보 #일본항공 #ANA #여행꿀팁 #항공권 #여행준비 #일본 #인천공항 #여행스타그램 #일본여행정보 #항공운항종료 #여행소식",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#에어재팬",
-          "#항공정보",
-          "#일본항공",
-          "#ANA",
-          "#여행꿀팁",
-          "#항공권",
-          "#여행준비",
-          "#일본",
-          "#인천공항",
-          "#여행스타그램",
-          "#일본여행정보",
-          "#항공운항종료",
-          "#여행소식"
-        ],
-        "alt_texts": [
-          "에어재팬 항공기 이미지",
-          "인천공항 항공기 이륙 모습",
-          "항공편 스케줄 보드 이미지",
-          "ANA 항공기 이미지",
-          "항공권 예약 페이지 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 여행 준비에 필요한 실질적인 정보로 높은 관심과 공유 예상 / 이 콘텐츠의 강점: 시기적절한 항공사 운항 종료 소식을 발 빠르게 전달하여 여행객들의 불안감을 해소하고 대안 마련을 돕는 정보 제공",
-      "image": {
-        "keyword": "Air Japan aircraft, Incheon airport tarmac, flight schedule board, ANA logo, flight booking website",
-        "unsplash_url": "https://unsplash.com/s/photos/Air-Japan-aircraft,-Incheon-airport-tarmac,-flight-schedule-board,-ANA-logo,-flight-booking-website",
-        "pexels_url": "https://www.pexels.com/search/Air%20Japan%20aircraft,%20Incheon%20airport%20tarmac,%20flight%20schedule%20board,%20ANA%20logo,%20flight%20booking%20website/"
       }
     }
   ]
