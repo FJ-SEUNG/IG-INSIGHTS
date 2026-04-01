@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-01T03:36:57.920474",
+  "last_updated": "2026-04-01T23:55:45.589289",
   "plans": [
+    {
+      "id": "plan_e74290db",
+      "created_at": "2026-04-01T23:55:43.589042",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "熱海倶楽部 迎賓館、1泊2食が春夏セールで最大21％オフ。全室に源泉かけ流し半露天風呂付き、夕食は懐石料理",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098379.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 료칸 최대 21% 할인 찬스! 꿀잠 예약하세요 ♨️"
+      },
+      "content": {
+        "thumbnail_title": "♨️온천 료칸 최대 21% 할인!",
+        "cards": [
+          {
+            "title": "할인 정보",
+            "content": "일본 료칸 '열해구락부 영빈관'에서 1박 2식 상품이 4월 20일까지 최대 21% 할인됩니다.",
+            "alt_text": "일본 료칸 할인 정보 배너"
+          },
+          {
+            "title": "할인 방법",
+            "content": "라쿠텐 트래블에서 제공하는 숙박 쿠폰과 라쿠텐 쿠폰을 함께 사용하면 할인이 적용됩니다.",
+            "alt_text": "쿠폰 사용 방법 안내 이미지"
+          },
+          {
+            "title": "객실 특징",
+            "content": "전 객실에 원천이 흐르는 반노천탕이 마련되어 있어 프라이빗한 온천을 즐길 수 있습니다.",
+            "alt_text": "객실 내 반노천탕 이미지"
+          },
+          {
+            "title": "식사 포함",
+            "content": "저녁 식사로는 정통 가이세키 요리가 제공되어 일본의 맛을 제대로 느낄 수 있습니다.",
+            "alt_text": "정통 가이세키 요리 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "봄, 여름 성수기 여행을 미리 계획하고 있다면 이번 할인 기간을 놓치지 마세요! 조기 예약 필수!",
+            "alt_text": "예약 캘린더 이미지"
+          }
+        ],
+        "caption": "일본 온천 여행 계획 중이신가요? ♨️ 열해구락부 영빈관에서 1박 2식 특가 상품을 최대 21% 할인된 가격으로 만나보세요! 전 객실 원천 반노천탕과 맛있는 가이세키 요리까지! 😋 4월 20일까지 진행되는 라쿠텐 트래블 '봄 여름 페어'를 활용해 보세요. 꿀잠 예약은 필수! 😴\n\n#일본료칸 #온천여행 #라쿠텐트래블 #가이세키 #일본숙소 #가성비숙소 #여행할인 #일본온천 #료칸추천 #열해구락부영빈관 #일본여행꿀팁 #여행스타그램 #플라잉재팬 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본료칸",
+          "#온천여행",
+          "#라쿠텐트래블",
+          "#가이세키",
+          "#일본숙소",
+          "#가성비숙소",
+          "#여행할인",
+          "#일본온천",
+          "#료칸추천",
+          "#열해구락부영빈관",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본여행정보"
+        ],
+        "alt_texts": [
+          "일본 료칸 할인 정보 배너",
+          "쿠폰 사용 방법 안내 이미지",
+          "객실 내 반노천탕 이미지",
+          "정통 가이세키 요리 이미지",
+          "예약 캘린더 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 료칸 숙박을 고려하는 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 6~8시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인율과 숙박의 핵심 장점을 명확히 제시하여 즉각적인 구매 결정 유도",
+      "image": {
+        "keyword": "Japanese ryokan, onsen, kaiseki, discount, travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-ryokan,-onsen,-kaiseki,-discount,-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20ryokan,%20onsen,%20kaiseki,%20discount,%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_537d3839",
+      "created_at": "2026-04-01T23:55:38.350624",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 伊東ホテルニュー岡部、1泊2食が最大21％オフ。金目鯛＆あわび食べ放題バイキング",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098381.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연휴 기간 일본 온천 숙소, 최대 21% 할인받고 금눈돔 & 전복 무제한 즐기자!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 21% OFF!♨️",
+        "cards": [
+          {
+            "title": "할인 정보",
+            "content": "오에도 온천 이야기 프리미엄 이토 호텔 뉴 오카베에서 1박 2식 플랜을 최대 21% 할인된 가격으로 즐길 수 있어요. 4월 20일까지 진행되는 '라쿠텐 트래블 춘하 페어' 기간 한정 혜택입니다.",
+            "alt_text": "할인율이 표시된 호텔 프로모션 이미지"
+          },
+          {
+            "title": "특별 혜택",
+            "content": "라쿠텐 트래블에서 제공하는 쿠폰과 숙소 자체 쿠폰을 함께 사용하면 파격적인 할인이 가능해요. 황금연휴와 여름휴가 시즌 여행 예약 시 꼭 챙기세요!",
+            "alt_text": "쿠폰을 사용하는 모습의 일러스트"
+          },
+          {
+            "title": "먹거리 천국",
+            "content": "이번 프로모션의 하이라이트는 바로 금눈돔과 전복을 무제한으로 맛볼 수 있는 뷔페입니다. 신선한 해산물을 마음껏 즐길 수 있는 기회예요.",
+            "alt_text": "금눈돔과 전복 요리가 가득한 뷔페 사진"
+          },
+          {
+            "title": "이토 온천",
+            "content": "이토 온천 지역의 호텔 뉴 오카베는 편안한 휴식과 함께 맛있는 식사를 제공합니다. 탁 트인 전망과 함께 온천욕을 즐겨보세요.",
+            "alt_text": "아름다운 풍경을 자랑하는 이토 온천 호텔 전경"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "할인 혜택을 최대한 활용하려면 라쿠텐 트래블 공식 홈페이지에서 쿠폰을 미리 다운로드하고, 숙소 예약 시 적용 가능한 쿠폰을 모두 확인하는 것이 좋아요.",
+            "alt_text": "스마트폰으로 호텔 예약하는 모습"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? ♨️ 이토 온천의 '오에도 온천 이야기 프리미엄 이토 호텔 뉴 오카베'에서 1박 2식 플랜을 최대 21% 할인받을 수 있는 절호의 찬스! 🤩 금눈돔 & 전복 무제한 뷔페는 덤! 🦀🐟 4월 20일까지 진행되는 라쿠텐 트래블 춘하 페어를 놓치지 마세요! ✈️ 지금 바로 예약하고 알찬 일본 여행 즐겨요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#이토온천",
+          "#호텔뉴오카베",
+          "#라쿠텐트래블",
+          "#일본숙소",
+          "#일본할인",
+          "#일본여행팁",
+          "#일본먹방",
+          "#금눈돔",
+          "#전복",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "할인율이 표시된 호텔 프로모션 이미지",
+          "쿠폰을 사용하는 모습의 일러스트",
+          "금눈돔과 전복 요리가 가득한 뷔페 사진",
+          "아름다운 풍경을 자랑하는 이토 온천 호텔 전경",
+          "스마트폰으로 호텔 예약하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 먹거리 혜택을 동시에 제공하여 여행 계획에 직접적인 도움을 줌.",
+      "image": {
+        "keyword": "Japanese hot spring hotel discount, all-you-can-eat seafood buffet, Ito Onsen, Rakuten Travel promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring-hotel-discount,-all-you-can-eat-seafood-buffet,-Ito-Onsen,-Rakuten-Travel-promotion",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring%20hotel%20discount,%20all-you-can-eat%20seafood%20buffet,%20Ito%20Onsen,%20Rakuten%20Travel%20promotion/"
+      }
+    },
     {
       "id": "plan_0dee8223",
       "created_at": "2026-04-01T03:36:55.920266",
@@ -923,160 +1077,6 @@
         "keyword": "japan travel discount, japan hotel booking, japan ryokan, golden week japan, Jalan special week",
         "unsplash_url": "https://unsplash.com/s/photos/japan-travel-discount,-japan-hotel-booking,-japan-ryokan,-golden-week-japan,-Jalan-special-week",
         "pexels_url": "https://www.pexels.com/search/japan%20travel%20discount,%20japan%20hotel%20booking,%20japan%20ryokan,%20golden%20week%20japan,%20Jalan%20special%20week/"
-      }
-    },
-    {
-      "id": "plan_a4737088",
-      "created_at": "2026-03-29T03:31:09.228216",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エアソウル、米子〜ソウル/仁川線を減便　3月29日から週5往復",
-        "url": "https://www.traicy.com/posts/20260328366465/",
-        "date": "Sat, 28 Mar 2026 07:15:48 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 소도시 여행 계획 중이라면 주목! 에어서울 운항 정보 변경 안내"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 에어서울, 3/29부터 요나고 노선 감편!",
-        "cards": [
-          {
-            "title": "운항 노선",
-            "content": "에어서울의 일본 요나고(米子) ↔ 서울/인천 노선 운항 횟수가 줄어듭니다. 기존 매일 1회 운항에서 주 5회로 변경됩니다.",
-            "alt_text": "에어서울 항공기 이미지"
-          },
-          {
-            "title": "변경된 스케줄",
-            "content": "3월 29일부터 월, 수, 목, 금, 일요일에만 운항합니다. 요나고 여행 계획 시 변경된 스케줄을 꼭 확인하세요.",
-            "alt_text": "달력에 표시된 운항 요일 이미지"
-          },
-          {
-            "title": "기재 정보",
-            "content": "해당 노선에는 에어버스 A321 기종이 투입됩니다. 에어서울은 보유 기재 운영 상황을 고려하여 운항 스케줄을 조정했습니다.",
-            "alt_text": "에어버스 A321 항공기 상세 이미지"
-          },
-          {
-            "title": "여행 계획 시",
-            "content": "특히 요나고, 돗토리현 등 일본 서부 지역 여행을 계획하고 있다면 항공권 예매 전 변경된 운항 스케줄을 반드시 확인해야 합니다.",
-            "alt_text": "일본 지도에 돗토리현 표시 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "감편으로 인해 항공권 확보가 어려워질 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천합니다. 대체 항공편도 미리 알아보세요.",
-            "alt_text": "항공권 예약 페이지 스크린샷 이미지"
-          }
-        ],
-        "caption": "✈️ 에어서울 일본 요나고 노선 운항 정보 변경 안내! ✈️\n\n3월 29일부터 에어서울의 요나고(米子) ↔ 서울/인천 노선이 기존 매일 1회에서 주 5회로 감편됩니다.\n\n월, 수, 목, 금, 일요일에만 운항하니, 일본 서부 여행 계획 중이라면 꼭! 변경된 스케줄 확인하시고 항공권 예매 서두르세요! 💨\n\n#일본여행 #요나고 #에어서울 #항공정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#에어서울",
-          "#요나고",
-          "#돗토리현",
-          "#일본항공",
-          "#항공권",
-          "#여행정보",
-          "#일본소도시",
-          "#일본교통",
-          "#일본여행팁",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#항공사"
-        ],
-        "alt_texts": [
-          "에어서울 항공기 이미지",
-          "달력에 표시된 운항 요일 이미지",
-          "에어버스 A321 항공기 상세 이미지",
-          "일본 지도에 돗토리현 표시 이미지",
-          "항공권 예약 페이지 스크린샷 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 요나고 또는 돗토리현 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 오후 2시 ~ 4시 / 기대 반응: 운항 정보 변경에 대한 즉각적인 확인 및 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 일본 소도시 여행에 특화된 실질적인 항공 정보 제공",
-      "image": {
-        "keyword": "Air Seoul, Yonago, Seoul, Incheon, flight schedule change, airplane, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Air-Seoul,-Yonago,-Seoul,-Incheon,-flight-schedule-change,-airplane,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Air%20Seoul,%20Yonago,%20Seoul,%20Incheon,%20flight%20schedule%20change,%20airplane,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_48c097b8",
-      "created_at": "2026-03-29T03:31:01.500753",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海道新幹線、窓2つ分の「完全個室タイプ」秋ごろ導入。座席頭部に音漏れしないスピーカー、5G対応の専用Wi-Fiも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097057.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센에 드디어 프라이빗한 개인실이 생긴다고?!"
-      },
-      "content": {
-        "thumbnail_title": "신칸센 🚄 개인실 등장!",
-        "cards": [
-          {
-            "title": "새로운 좌석",
-            "content": "JR東海이 동해도 신칸센에 '완전 개인실 타입' 상급 좌석을 올가을부터 도입합니다. 2개 좌석 공간을 활용한 프라이빗한 공간이 제공될 예정입니다.",
-            "alt_text": "동해도 신칸센 새로운 개인실 좌석 이미지"
-          },
-          {
-            "title": "프라이빗 공간",
-            "content": "개인실 내부에는 좌석 머리 부분에 설치된 스피커를 통해 주변 소음 걱정 없이 영상이나 음악을 즐길 수 있습니다. 5G 전용 와이파이도 지원됩니다.",
-            "alt_text": "개인실 내부 스피커와 와이파이 로고 이미지"
-          },
-          {
-            "title": "도입 시기",
-            "content": "정확한 도입 시기는 '가을경'으로 발표되었습니다. 올 가을 일본 여행 계획 중이라면 새롭게 추가될 개인실 좌석을 고려해보세요.",
-            "alt_text": "가을 낙엽과 신칸센 이미지"
-          },
-          {
-            "title": "기대 효과",
-            "content": "업무나 휴식이 필요한 여행객에게 더욱 편안하고 집중도 높은 이동 경험을 제공할 것으로 기대됩니다. 기존 좌석과의 가격 차이도 주목할 부분입니다.",
-            "alt_text": "편안하게 휴식하는 승객 이미지"
-          },
-          {
-            "title": "예약 꿀팁",
-            "content": "새로운 개인실 좌석은 인기가 많을 것으로 예상되니, 예약 오픈 시기를 미리 확인하고 서둘러 예매하는 것이 좋습니다. JR東海 공식 발표를 주시하세요!",
-            "alt_text": "예약 완료 버튼 이미지"
-          }
-        ],
-        "caption": "일본 신칸센, 이제 '나만의 공간'에서 편안하게!\n\nJR東海에서 동해도 신칸센에 '완전 개인실 타입' 좌석을 올 가을부터 도입합니다. 🤫\n\n✅ 2개 좌석 공간 활용한 프라이빗룸\n✅ 좌석 헤드 스피커로 소음 걱정 NO!\n✅ 5G 전용 와이파이 지원\n\n업무, 휴식 모두 완벽하게! ✈️\n\n#일본여행 #신칸센 #개인실 #프라이빗 #가을여행 #일본교통 #JR #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#일본교통",
-          "#일본기차",
-          "#개인실",
-          "#프라이빗",
-          "#JR",
-          "#동해도신칸센",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#일본가을",
-          "#여행스타그램",
-          "#일본",
-          "#새로운좌석"
-        ],
-        "alt_texts": [
-          "동해도 신칸센 새로운 개인실 좌석 이미지",
-          "개인실 내부 스피커와 와이파이 로고 이미지",
-          "가을 낙엽과 신칸센 이미지",
-          "편안하게 휴식하는 승객 이미지",
-          "예약 완료 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 기존 신칸센 이용객에게 신선하고 매력적인 정보 제공, 구체적인 도입 시기 및 기능 명시",
-      "image": {
-        "keyword": "Shinkansen private room, Japan bullet train luxury seat, JR Tokai new cabin",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-private-room,-Japan-bullet-train-luxury-seat,-JR-Tokai-new-cabin",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20private%20room,%20Japan%20bullet%20train%20luxury%20seat,%20JR%20Tokai%20new%20cabin/"
       }
     }
   ]
