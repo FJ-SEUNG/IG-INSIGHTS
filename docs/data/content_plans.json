@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-02T03:20:33.650984",
+  "last_updated": "2026-04-02T23:50:21.784313",
   "plans": [
+    {
+      "id": "plan_b777423b",
+      "created_at": "2026-04-02T23:50:19.784153",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシー25周年「スパークリング・ジュビリー」プレビュー公演の日程発表。ヴァネパルの新パレードも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098749.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니씨 25주년 스페셜 이벤트, 놓치면 후회할 특별한 경험!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄디즈니씨 25주년✨",
+        "cards": [
+          {
+            "title": "25주년 시작!",
+            "content": "도쿄 디즈니씨가 25주년을 맞아 '스파클링・주빌리' 엔터테인먼트 프로그램을 선보입니다. 4월 15일부터 정식 시작됩니다.",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 로고"
+          },
+          {
+            "title": "프리뷰 공연",
+            "content": "정식 오픈 전, 4월 8일에 특별 프리뷰 공연이 진행될 예정입니다. 25주년 기념 엔터테인먼트와 환경 연출을 미리 만나볼 수 있습니다.",
+            "alt_text": "디즈니씨 프리뷰 공연 안내 이미지"
+          },
+          {
+            "title": "새로운 퍼레이드",
+            "content": "이번 25주년 기념으로 '바넬로프'의 새로운 퍼레이드도 공개될 예정이니 기대해주세요!",
+            "alt_text": "디즈니 캐릭터가 등장하는 퍼레이드 이미지"
+          },
+          {
+            "title": "특별한 경험",
+            "content": "25주년이라는 특별한 기념일에 맞춰 준비된 다채로운 볼거리와 즐길 거리가 가득할 것으로 예상됩니다.",
+            "alt_text": "화려한 불꽃놀이와 함께하는 디즈니씨 야경"
+          },
+          {
+            "title": "예매 꿀팁",
+            "content": "프리뷰 공연은 사전 예약이 필요할 수 있으니, 공식 홈페이지를 통해 정확한 일정과 예매 방법을 미리 확인하는 것이 좋습니다.",
+            "alt_text": "디즈니씨 앱 또는 웹사이트 화면 캡처"
+          }
+        ],
+        "caption": "🎉 도쿄 디즈니씨 25주년, '스파클링・주빌리'가 온다! 🎉\n\n4월 15일부터 시작되는 도쿄 디즈니씨 25주년 특별 엔터테인먼트 프로그램 '스파클링・주빌리'!\n\n✨ 4월 8일, 특별 프리뷰 공연 놓치지 마세요! ✨\n\n새로운 퍼레이드와 함께 잊지 못할 추억을 만들어보세요! 💖\n\n#도쿄디즈니씨 #디즈니씨25주년 #스파클링주빌리 #일본여행 #도쿄여행 #디즈니덕후 #여행정보 #프리뷰공연 #퍼레이드 #일본",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨25주년",
+          "#스파클링주빌리",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#디즈니",
+          "#일본축제",
+          "#일본이벤트",
+          "#여행스타그램",
+          "#해외여행",
+          "#디즈니덕후",
+          "#여행꿀팁",
+          "#일본"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 25주년 기념 로고",
+          "디즈니씨 프리뷰 공연 안내 이미지",
+          "디즈니 캐릭터가 등장하는 퍼레이드 이미지",
+          "화려한 불꽃놀이와 함께하는 디즈니씨 야경",
+          "디즈니씨 앱 또는 웹사이트 화면 캡처"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 디즈니랜드/디즈니씨 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시~9시 / 기대 반응: 이벤트 정보에 대한 높은 관심, 방문 계획 업데이트 / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 날짜, 프리뷰 공연 정보 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea 25th anniversary, Sparkling Jubilation, preview performance, parade, Disney characters",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary,-Sparkling-Jubilation,-preview-performance,-parade,-Disney-characters",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary,%20Sparkling%20Jubilation,%20preview%20performance,%20parade,%20Disney%20characters/"
+      }
+    },
+    {
+      "id": "plan_75ebeb4a",
+      "created_at": "2026-04-02T23:50:14.026397",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "TAOYA下呂、1泊2食が春夏セール。南飛騨の眺望が美しい温泉リゾート、新導入アフタヌーンティーも追加料金なし",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098743.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 리조트 1박 2식 특가, 성수기 예약 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "TAOYA下呂 ♨️ 1박2식 특가!",
+        "cards": [
+          {
+            "title": "봄/여름 세일",
+            "content": "TAOYA下呂에서 1박 2식 특가 프로모션 진행 중! 💸 4월 20일까지 楽天トラベル에서 예약 시, 宿쿠폰과 楽天쿠폰을 함께 사용하면 최대 21% 할인받을 수 있어요.",
+            "alt_text": "일본 온천 리조트 TAOYA下呂의 아름다운 전경"
+          },
+          {
+            "title": "1박 2식 포함",
+            "content": "이번 세일은 1박 2식(조식+석식)이 포함된 상품으로, 남 히다 지역의 멋진 전망을 자랑하는 온천 리조트에서 편안한 휴식을 즐길 수 있습니다. 🌅",
+            "alt_text": "리조트 내에서 제공되는 정갈한 일식 가이세키 요리"
+          },
+          {
+            "title": "애프터눈 티",
+            "content": "새롭게 도입된 애프터눈 티 세트도 추가 요금 없이 즐길 수 있다는 사실! ☕️ 고급스러운 티타임을 온천 여행과 함께 만끽해 보세요.",
+            "alt_text": "아름답게 차려진 애프터눈 티 세트"
+          },
+          {
+            "title": "성수기 예약",
+            "content": "골든위크(GW)와 여름 휴가 시즌 예약이 포함되는 이번 페어로, 미리 예약하면 더욱 알찬 여행 계획을 세울 수 있습니다. 🗓️",
+            "alt_text": "일본 온천 리조트의 따뜻한 온천탕 내부"
+          },
+          {
+            "title": "꿀팁",
+            "content": "해당 프로모션은 4월 20일까지 진행되니 서두르세요! ⏰ 楽天トラベル 앱에서 쿠폰을 미리 확인하고 적용하는 것을 잊지 마세요.",
+            "alt_text": "스마트폰으로 楽天トラベル 앱을 보고 있는 손"
+          }
+        ],
+        "caption": "일본 온천 여행 계획 중이신가요? ♨️ TAOYA下呂에서 1박 2식 특가 프로모션이 진행됩니다! 4월 20일까지 楽天トラベル에서 예약하면 최대 21% 할인! ✨ 새롭게 추가된 애프터눈 티도 무료로 즐기세요. ☕️ GW, 여름 휴가 미리 예약하고 알찬 일본 여행 준비하세요! ✈️\n\n#일본온천 #TAOYA下呂 #일본여행특가 #楽天トラベル #일본숙소 #온천여행 #일본가볼만한곳 #봄여행 #여름휴가 #일본자유여행 #여행스타그램 #플라잉재팬 #여행정보 #할인정보 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#TAOYA下呂",
+          "#일본온천",
+          "#일본숙소",
+          "#온천여행",
+          "#일본여행특가",
+          "#楽天トラベル",
+          "#일본가볼만한곳",
+          "#봄여행",
+          "#여름휴가",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#여행정보",
+          "#일본여행꿀팁"
+        ],
+        "alt_texts": [
+          "일본 온천 리조트 TAOYA下呂의 아름다운 전경",
+          "리조트 내에서 제공되는 정갈한 일식 가이세키 요리",
+          "아름답게 차려진 애프터눈 티 세트",
+          "일본 온천 리조트의 따뜻한 온천탕 내부",
+          "스마트폰으로 楽天トラベル 앱을 보고 있는 손"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 포함 내용 명시로 실질적인 구매 욕구 자극",
+      "image": {
+        "keyword": "Japanese hot spring resort, luxury afternoon tea, discount coupon, travel booking",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring-resort,-luxury-afternoon-tea,-discount-coupon,-travel-booking",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring%20resort,%20luxury%20afternoon%20tea,%20discount%20coupon,%20travel%20booking/"
+      }
+    },
     {
       "id": "plan_2600f247",
       "created_at": "2026-04-02T03:20:31.650805",
@@ -923,160 +1077,6 @@
         "keyword": "AIRDO, mascot bear, Fighters uniform, inflight sales, limited edition, Japan travel souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/AIRDO,-mascot-bear,-Fighters-uniform,-inflight-sales,-limited-edition,-Japan-travel-souvenir",
         "pexels_url": "https://www.pexels.com/search/AIRDO,%20mascot%20bear,%20Fighters%20uniform,%20inflight%20sales,%20limited%20edition,%20Japan%20travel%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_f12236fd",
-      "created_at": "2026-03-30T03:33:28.001314",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "無印良品、ローソン限定「発酵導入美容液」含むスキンケアお試しセット。「精油の香り」ヘアケア携帯用サイズも初登場",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097233.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 로컬 편의점에서 만나는 무인양품 꿀템!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵로손X무인양품 꿀템✨",
-        "cards": [
-          {
-            "title": "샘플 세트 출시!",
-            "content": "일본 로손 편의점에서 무인양품 스킨케어와 헤어케어 샘플 세트를 3월 31일부터 판매해요. 4월 1일 이후에 일본 여행 계획이라면 놓치지 마세요!",
-            "alt_text": "로손 편의점 전경"
-          },
-          {
-            "title": "피부 진정 케어",
-            "content": "무인양품 '발효 도입 미용액'이 포함된 스킨케어 샘플 세트로, 민감한 피부도 안심하고 사용할 수 있어요. 여행 중에도 맑고 깨끗한 피부를 유지하세요.",
-            "alt_text": "무인양품 스킨케어 제품 이미지"
-          },
-          {
-            "title": "향기로운 헤어케어",
-            "content": "이번 신상품에는 '정유 향'의 헤어케어 휴대용 사이즈도 처음으로 등장해요. 은은한 향으로 여행의 피로를 풀어줄 거예요.",
-            "alt_text": "무인양품 헤어케어 제품 이미지"
-          },
-          {
-            "title": "전국 로손 판매",
-            "content": "전국의 로손 편의점 약 1만 3천 개 매장에서 만날 수 있어요. (로손 스토어 100 제외) 일본 여행 중 로손에 들르면 꼭 확인해보세요!",
-            "alt_text": "로손 편의점 내부 진열대 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "한정판으로 출시될 가능성이 높으니, 원하는 분들은 서둘러 구매하는 것을 추천해요. 가격은 아직 미정이며, 출시일에 맞춰 업데이트될 예정입니다.",
-            "alt_text": "쇼핑백에 담긴 무인양품 제품 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 쇼핑 리스트 추가! 🇯🇵\n\n로손 편의점에서만 만날 수 있는 무인양품 스킨케어 & 헤어케어 샘플 세트가 3월 31일에 출시됩니다!\n\n여행 중에도 산뜻하게 피부와 헤어를 관리하고 싶다면, 전국 로손에서 득템하세요! ✨\n\n#일본여행 #로손 #무인양품 #편의점템 #샘플세트 #스킨케어 #헤어케어 #여행필수템 #일본쇼핑 #꿀템 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#로손",
-          "#무인양품",
-          "#편의점신상",
-          "#일본쇼핑",
-          "#여행꿀팁",
-          "#일본화장품",
-          "#휴대용화장품",
-          "#한정판",
-          "#일본생활",
-          "#여행준비",
-          "#일본편의점",
-          "#여행템",
-          "#뷰티스타그램"
-        ],
-        "alt_texts": [
-          "로손 편의점 전경",
-          "무인양품 스킨케어 제품 이미지",
-          "무인양품 헤어케어 제품 이미지",
-          "로손 편의점 내부 진열대 이미지",
-          "쇼핑백에 담긴 무인양품 제품 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 여성 / 최적 게시 시간: 평일 저녁 8-10시, 주말 오후 2-4시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 문의 / 이 콘텐츠의 강점: 로컬 편의점 한정판 정보, 실용적인 쇼핑 정보 제공",
-      "image": {
-        "keyword": "MUJI, Lawson, travel size skincare, hair care set, Japan convenience store",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI,-Lawson,-travel-size-skincare,-hair-care-set,-Japan-convenience-store",
-        "pexels_url": "https://www.pexels.com/search/MUJI,%20Lawson,%20travel%20size%20skincare,%20hair%20care%20set,%20Japan%20convenience%20store/"
-      }
-    },
-    {
-      "id": "plan_2cb2d368",
-      "created_at": "2026-03-30T03:33:22.870773",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、サンリオUT「リラコ」6月発売。ビーチでくつろぐ日焼けキティなど全4種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097329.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니클로에서 귀여운 산리오 캐릭터와 함께 시원한 여름 아이템을 만날 기회!"
-      },
-      "content": {
-        "thumbnail_title": "유니클로X산리오 UT 출시!🏖️",
-        "cards": [
-          {
-            "title": "신상 UT 컬렉션",
-            "content": "유니클로가 산리오와 협업한 'SANRIO CHARACTERS ON THE BEACH' UT 컬렉션을 6월 초 출시합니다.",
-            "alt_text": "유니클로와 산리오 캐릭터가 함께 디자인된 티셔츠 이미지"
-          },
-          {
-            "title": "다양한 캐릭터",
-            "content": "이번 컬렉션은 해변에서 휴식을 취하는 마이멜로디, 쿠로미, 시나모롤, 폼폼푸린 등 인기 산리오 캐릭터들을 만나볼 수 있습니다.",
-            "alt_text": "다양한 산리오 캐릭터가 그려진 티셔츠 디자인 모음"
-          },
-          {
-            "title": "여름 필수템",
-            "content": "특히 '리라코' 제품은 편안한 착용감으로 집이나 휴가지에서 시원하게 입기 좋은 여름 아이템으로 출시될 예정입니다.",
-            "alt_text": "해변 배경의 리라코 제품 착용 모델 이미지"
-          },
-          {
-            "title": "귀여운 디자인",
-            "content": "햇볕에 그을린 키티, 서핑하는 시나모롤 등 여름 분위기를 가득 담은 귀여운 일러스트가 특징입니다.",
-            "alt_text": "귀여운 일러스트가 돋보이는 산리오 UT 디자인 상세컷"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "일본 여행 중이라면 유니클로 매장에서 여름맞이 귀여운 산리오 UT 컬렉션을 놓치지 마세요! 6월 초 출시 예정이니 방문 전 확인은 필수!",
-            "alt_text": "일본 유니클로 매장 내부 모습"
-          }
-        ],
-        "caption": "일본 여행 필수 쇼핑 리스트 업데이트! ✈️\n\n유니클로에서 산리오와 역대급 콜라보 UT 컬렉션이 6월 초 출시됩니다! 🏖️\n\n해변에서 즐기는 마이멜로디, 시나모롤 등 귀여운 산리오 캐릭터 UT와 편안한 리라코까지! \n\n일본 여행 계획 중이라면 유니클로에서 여름 맞이 득템 찬스를 놓치지 마세요! 💖\n\n#일본여행 #유니클로 #산리오 #UT #리라코 #쇼핑 #일본쇼핑 #여름휴가 #여행준비 #플라잉재팬 #해외여행 #일본직구 #캐릭터굿즈 #쇼핑스타그램 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#산리오",
-          "#UT",
-          "#리라코",
-          "#일본쇼핑",
-          "#여름아이템",
-          "#여행준비",
-          "#해외여행",
-          "#일본",
-          "#쇼핑",
-          "#캐릭터",
-          "#신상",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "유니클로와 산리오 캐릭터가 함께 디자인된 티셔츠 이미지",
-          "다양한 산리오 캐릭터가 그려진 티셔츠 디자인 모음",
-          "해변 배경의 리라코 제품 착용 모델 이미지",
-          "귀여운 일러스트가 돋보이는 산리오 UT 디자인 상세컷",
-          "일본 유니클로 매장 내부 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 귀여운 캐릭터와 실용적인 아이템의 조합으로 높은 관심 유도",
-      "image": {
-        "keyword": "Uniqlo, Sanrio, UT collection, Rilakkuma, beach, summer fashion, collaboration, Japan shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Sanrio,-UT-collection,-Rilakkuma,-beach,-summer-fashion,-collaboration,-Japan-shopping",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Sanrio,%20UT%20collection,%20Rilakkuma,%20beach,%20summer%20fashion,%20collaboration,%20Japan%20shopping/"
       }
     }
   ]
