@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-01T23:55:45.589289",
+  "last_updated": "2026-04-02T03:20:33.650984",
   "plans": [
+    {
+      "id": "plan_2600f247",
+      "created_at": "2026-04-02T03:20:31.650805",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "リーベルホテル大阪、春夏セールで素泊まり最大21％オフ。USJすぐ近く、天然温泉スパ付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098377.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 여행 시 최대 21% 할인받아 숙박할 수 있는 꿀정보!"
+      },
+      "content": {
+        "thumbnail_title": "✈️오사카 호텔 21% 할인!✈️",
+        "cards": [
+          {
+            "title": "✨리벨호텔 파격 세일✨",
+            "content": "오사카 리벨호텔에서 4월 20일까지 '봄/여름 페어' 진행 중! 🌸☀️",
+            "alt_text": "리벨 호텔 외관 이미지"
+          },
+          {
+            "title": "💰최대 21% 할인💰",
+            "content": "여행 예약 사이트 쿠폰과 숙소 자체 쿠폰을 함께 사용하면 숙박비가 최대 21%까지 저렴해져요. 💸",
+            "alt_text": "할인율 표시 이미지"
+          },
+          {
+            "title": "📍유니버설 스튜디오 재팬 근처📍",
+            "content": "USJ와 아주 가까운 곳에 위치! 테마파크 방문 계획이라면 최적의 선택이 될 수 있어요. 🎢",
+            "alt_text": "유니버설 스튜디오 재팬 로고 이미지"
+          },
+          {
+            "title": "♨️천연 온천 스파 이용 가능♨️",
+            "content": "여행의 피로를 풀어줄 천연 온천 스파 시설도 갖추고 있어 편안한 휴식을 즐길 수 있어요. 🛀",
+            "alt_text": "호텔 내 온천 시설 이미지"
+          },
+          {
+            "title": "✅예약 팁 & 주의사항✅",
+            "content": "쿠폰은 기간 내 배포되니 서둘러 받고, '조식 불포함' 플랜도 할인율이 높으니 필요에 따라 선택하세요. 🗓️",
+            "alt_text": "달력과 쿠폰 이미지"
+          }
+        ],
+        "caption": "오사카 여행 준비 중이신가요? 🇯🇵\n\n지금 바로 리벨 호텔에서 최대 21% 할인받고 숙박하세요! ✨\n\nUSJ 바로 근처에 위치한 데다 천연 온천 스파까지! ♨️\n\n4월 20일까지 진행되는 '봄/여름 페어'를 놓치지 마세요. ✈️\n\n#오사카여행 #일본숙소 #호텔할인 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카",
+          "#오사카여행",
+          "#오사카숙소",
+          "#일본숙소",
+          "#리벨호텔",
+          "#유니버설스튜디오재팬",
+          "#USJ",
+          "#일본할인",
+          "#여행팁",
+          "#일본자유여행",
+          "#여행정보",
+          "#가성비숙소",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "리벨 호텔 외관 이미지",
+          "할인율 표시 이미지",
+          "유니버설 스튜디오 재팬 로고 이미지",
+          "호텔 내 온천 시설 이미지",
+          "달력과 쿠폰 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 여행자 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 클릭률 및 저장률, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 숙소의 매력 포인트(위치, 시설)를 명확히 제시하여 즉각적인 예약 행동 유도",
+      "image": {
+        "keyword": "Osaka hotel discount, Universal Studios Japan nearby hotel, Japanese onsen spa hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-hotel-discount,-Universal-Studios-Japan-nearby-hotel,-Japanese-onsen-spa-hotel",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20hotel%20discount,%20Universal%20Studios%20Japan%20nearby%20hotel,%20Japanese%20onsen%20spa%20hotel/"
+      }
+    },
+    {
+      "id": "plan_d7695e6e",
+      "created_at": "2026-04-02T03:20:26.386986",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 伊香保、1泊2食が春夏セールで最大21％オフ。上州グルメと石段街さんぽを満喫",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2098480.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "온천 숙박 최대 21% 할인! 일본 온천 여행 계획 중이라면 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 최대 21% 할인!",
+        "cards": [
+          {
+            "title": "할인 정보",
+            "content": "일본 최대 온라인 여행사 楽天 트래블에서 '봄/여름 페어'를 진행 중이에요. 4월 20일까지 진행되며, 楽天 쿠폰과 숙소 쿠폰을 함께 사용하면 최대 21% 할인 혜택을 받을 수 있습니다.",
+            "alt_text": "할인율이 표시된 楽天 트래블 프로모션 이미지"
+          },
+          {
+            "title": "대상 숙소",
+            "content": "이번 할인 행사는 '오오에도 온천 모노가타리 프리미엄 이카호(大江戸温泉物語Premium 伊香保)' 숙박 플랜에 적용됩니다. 일본 전통 온천과 식사를 함께 즐길 수 있는 곳입니다.",
+            "alt_text": "오오에도 온천 모노가타리 프리미엄 이카호 외관 이미지"
+          },
+          {
+            "title": "할인 기간",
+            "content": "프로모션은 4월 20일까지 진행되니, 늦지 않게 예약하세요! 특히 골든위크나 여름 휴가철 여행을 계획하고 있다면 지금이 기회입니다.",
+            "alt_text": "달력에 표시된 4월 20일 날짜 이미지"
+          },
+          {
+            "title": "즐길 거리",
+            "content": "이카호 온천 지역에서는 맛있는 상주(上州) 지방의 식재료로 만든 요리를 맛보고, 유명한 이시단가이(石段街) 거리를 산책하며 일본의 정취를 만끽할 수 있습니다.",
+            "alt_text": "이시단가이 거리 풍경 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "할인 쿠폰은 수량 한정이니, 원하는 날짜의 숙소가 있다면 서둘러 예약하는 것이 좋습니다. 楽天 트래블 페이지에서 쿠폰 적용 여부를 꼭 확인하세요.",
+            "alt_text": "쿠폰 아이콘과 예약 버튼 이미지"
+          }
+        ],
+        "caption": "♨️ 일본 온천 여행 계획 중이신가요? ♨️\n\n오오에도 온천 모노가타리 프리미엄 이카호에서 숙박 시 최대 21% 할인받을 수 있는 절호의 찬스!\n\n✅ 4월 20일까지, 楽天 트래블 '봄/여름 페어' 활용\n✅ 1박 2식 플랜 할인, 상주 지방 별미와 이시단가이 산책까지!\n\n지금 바로 楽天 트래블에서 특별 할인가로 일본 온천 여행을 예약하세요! ✈️\n\n#일본온천 #이카호온천 #오오에도온천 #일본여행할인 #楽天トラベル",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#이카호온천",
+          "#오오에도온천",
+          "#일본숙소",
+          "#일본여행팁",
+          "#일본할인",
+          "#楽天트래블",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#온천여행",
+          "#일본가볼만한곳",
+          "#일본추천",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "할인율이 표시된 楽天 트래블 프로모션 이미지",
+          "오오에도 온천 모노가타리 프리미엄 이카호 외관 이미지",
+          "달력에 표시된 4월 20일 날짜 이미지",
+          "이시단가이 거리 풍경 이미지",
+          "쿠폰 아이콘과 예약 버튼 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 저녁 7시-9시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 활발 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 숙소, 즐길 거리 정보 제공",
+      "image": {
+        "keyword": "Japanese hot spring, discount, travel, booking, hotel, onsen, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring,-discount,-travel,-booking,-hotel,-onsen,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring,%20discount,%20travel,%20booking,%20hotel,%20onsen,%20Japan/"
+      }
+    },
     {
       "id": "plan_e74290db",
       "created_at": "2026-04-01T23:55:43.589042",
@@ -923,160 +1077,6 @@
         "keyword": "Uniqlo, Sanrio, UT collection, Rilakkuma, beach, summer fashion, collaboration, Japan shopping",
         "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Sanrio,-UT-collection,-Rilakkuma,-beach,-summer-fashion,-collaboration,-Japan-shopping",
         "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Sanrio,%20UT%20collection,%20Rilakkuma,%20beach,%20summer%20fashion,%20collaboration,%20Japan%20shopping/"
-      }
-    },
-    {
-      "id": "plan_956847db",
-      "created_at": "2026-03-29T23:54:39.411733",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、新作「スヌーピー」UT本日発売。ピーナッツギャング描いたメンズ4種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097133.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 만날 수 있는 스누피 UT 신상 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵스누피 UT 신상 3/30 출시!",
-        "cards": [
-          {
-            "title": "스누피 UT 출시!",
-            "content": "유니클로에서 3월 30일, 새로운 스누피 UT 컬렉션 'PLAYFUL TIMES'를 출시합니다. 이번 신상은 귀여운 스누피와 친구들의 모습을 담은 남성용 티셔츠 4종으로 구성됩니다.",
-            "alt_text": "유니클로 스누피 UT 신상 티셔츠 이미지"
-          },
-          {
-            "title": "득템 찬스!",
-            "content": "일본 여행 중이라면 놓칠 수 없는 쇼핑 아이템! 특히 일본에서만 단독으로 출시되는 한정판 UT일 가능성이 높으니, 스누피 팬이라면 꼭 확인해보세요.",
-            "alt_text": "일본 유니클로 매장에서 쇼핑하는 모습"
-          },
-          {
-            "title": "가격 확인",
-            "content": "정확한 가격은 유니클로 일본 공식 홈페이지 또는 매장에서 확인 가능합니다. (예상 가격대: 1,500엔 ~ 2,000엔)",
-            "alt_text": "일본 유니클로 매장 가격표"
-          },
-          {
-            "title": "구매 팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 출시 당일 또는 최대한 빨리 매장을 방문하는 것을 추천합니다. 일본 내 여러 매장을 둘러보는 것도 좋은 방법입니다.",
-            "alt_text": "일본 유니클로 매장 내부 모습"
-          },
-          {
-            "title": "주의사항",
-            "content": "구매 후 한국으로 가져올 때 면세 혜택 적용 여부 및 개인 통관 고유부호 필요 여부를 미리 확인하세요. (일반적으로 150달러 이하 면세)",
-            "alt_text": "면세 혜택 관련 안내문"
-          }
-        ],
-        "caption": "🇯🇵스누피 좋아한다면? 3월 30일, 일본 유니클로에서 스누피 UT 신상이 출시돼요! 🥜 귀여운 스누피와 친구들이 그려진 남성용 티셔츠 4종을 일본에서 가장 먼저 만나보세요! 득템 찬스 놓치지 마세요! ✨\n\n#일본여행 #스누피UT #유니클로 #일본쇼핑 #한정판 #득템찬스 #플라잉재팬 #일본직구 #도쿄여행 #오사카여행 #후쿠오카여행 #일본패션",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스누피UT",
-          "#유니클로",
-          "#일본쇼핑",
-          "#한정판",
-          "#득템찬스",
-          "#스누피",
-          "#피너츠",
-          "#일본패션",
-          "#여행스타그램",
-          "#일본직구",
-          "#도쿄여행",
-          "#오사카여행",
-          "#후쿠오카여행"
-        ],
-        "alt_texts": [
-          "유니클로 스누피 UT 신상 티셔츠 이미지",
-          "일본 유니클로 매장에서 쇼핑하는 모습",
-          "일본 유니클로 매장 가격표",
-          "일본 유니클로 매장 내부 모습",
-          "면세 혜택 관련 안내문"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시 ~ 8시, 주말 오후 2시 ~ 4시 / 기대 반응: 높은 관심과 구매 정보 문의, 실제 구매 인증 후기 / 이 콘텐츠의 강점: 최신 출시 정보, 실질적인 구매 팁 제공, 스누피라는 대중적인 캐릭터 활용",
-      "image": {
-        "keyword": "Uniqlo Snoopy UT new arrival Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Snoopy-UT-new-arrival-Japan",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Snoopy%20UT%20new%20arrival%20Japan/"
-      }
-    },
-    {
-      "id": "plan_8690915d",
-      "created_at": "2026-03-29T23:54:34.883093",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "GW旅行もお得「じゃらんスペシャルウィーク」今日から。ホテル・温泉宿の半額プラン、最大1万円オフクーポンなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2097137.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 황금연휴(GW) 여행, 최대 10,000엔 할인받고 예약하자!"
-      },
-      "content": {
-        "thumbnail_title": "GW 일본여행 꿀팁! 💰",
-        "cards": [
-          {
-            "title": "최대 1만엔 OFF 쿠폰",
-            "content": "일본 최대 여행 플랫폼 '자란(じゃらん)'에서 GW 기간(3월 30일~4월 17일) 예약 시 최대 10,000엔 할인쿠폰을 제공합니다.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "호텔/료칸 반값",
-            "content": "인기 호텔 및 온천 료칸 상품을 최대 반값에 이용할 수 있는 특별 찬스가 마련되었습니다. 서둘러 예약하세요!",
-            "alt_text": "호텔 객실 이미지"
-          },
-          {
-            "title": "자란 스페셜 위크",
-            "content": "이름하여 '자란 스페셜 위크'! GW 여행을 알차게 계획할 절호의 기회입니다. 지금 바로 확인해보세요.",
-            "alt_text": "일본 지도 이미지"
-          },
-          {
-            "title": "여행 계획은 지금!",
-            "content": "3월 30일부터 시작된 이번 프로모션은 4월 17일까지 진행되니, 일본 GW 여행을 계획 중이라면 놓치지 마세요.",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "인기 숙소는 조기 마감될 수 있습니다. 지금 바로 자란넷에서 원하는 숙소를 검색하고 할인 혜택을 누리세요!",
-            "alt_text": "여행 가방 이미지"
-          }
-        ],
-        "caption": "일본 황금연휴(GW) 여행 준비 중이신가요? ✈️\n\n일본 최대 여행 플랫폼 '자란(じゃらん)'에서 GW 여행 예약 시 최대 10,000엔 할인 쿠폰과 인기 호텔/온천 료칸 반값 특가 찬스를 제공합니다! 🤩\n\n✅ 프로모션 기간: 3월 30일 ~ 4월 17일\n\n알찬 일본 여행, 지금 바로 자란 스페셜 위크를 통해 준비하세요! 🇯🇵\n\n#일본여행 #자란 #じゃらん #GW여행 #일본숙소 #일본호텔 #일본료칸 #할인정보 #여행꿀팁 #플라잉재팬 #여행스타그램 #일본자유여행 #일본여행준비 #일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#자란",
-          "#じゃらん",
-          "#GW여행",
-          "#일본숙소",
-          "#일본호텔",
-          "#일본료칸",
-          "#할인정보",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#일본",
-          "#여행스타그램",
-          "#일본여행정보"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지",
-          "호텔 객실 이미지",
-          "일본 지도 이미지",
-          "달력 이미지",
-          "여행 가방 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 황금연휴(GW) 기간에 일본 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보성 콘텐츠에 대한 높은 관심 및 공유, 프로모션 참여 유도 / 이 콘텐츠의 강점: 실질적인 할인 혜택 정보를 구체적인 수치와 함께 제공하여 즉각적인 구매 전환 유도 가능",
-      "image": {
-        "keyword": "japan travel discount, japan hotel booking, japan ryokan, golden week japan, Jalan special week",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-discount,-japan-hotel-booking,-japan-ryokan,-golden-week-japan,-Jalan-special-week",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20discount,%20japan%20hotel%20booking,%20japan%20ryokan,%20golden%20week%20japan,%20Jalan%20special%20week/"
       }
     }
   ]
