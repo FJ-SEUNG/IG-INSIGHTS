@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-03T23:49:32.679286",
+  "last_updated": "2026-04-04T02:53:58.327539",
   "plans": [
+    {
+      "id": "plan_bceb5778",
+      "created_at": "2026-04-04T02:53:56.327354",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、トンネル集中工事に伴い東京～品川間を終日運休。横須賀線/総武快速線/成田エクスプレスで年3回",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099028.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 꼭 알아야 할 JR 열차 운휴 정보!"
+      },
+      "content": {
+        "thumbnail_title": "JR 도쿄~시나가와 구간 운휴 🚨",
+        "cards": [
+          {
+            "title": "운휴 구간",
+            "content": "JR 동일본은 터널 보수 공사로 인해 요코스카선/소부 쾌속선 도쿄~시나가와 구간을 종일 운휴합니다. 이 구간을 이용하시는 분들은 꼭 참고하세요!",
+            "alt_text": "도쿄와 시나가와를 잇는 JR 노선 지도"
+          },
+          {
+            "title": "운휴 일정",
+            "content": "2026년도에 총 3회 실시될 예정이며, 첫 번째 공사는 6월 5일 종전 후부터 6월 7일 첫차까지 진행됩니다. 따라서 6월 6일 하루 종일 해당 구간 운휴가 확정되었습니다.",
+            "alt_text": "달력에 표시된 6월 6일 날짜"
+          },
+          {
+            "title": "영향 노선",
+            "content": "이번 공사로 인해 요코스카선, 소부 쾌속선, 나리타 익스프레스 열차 운행에 영향을 받을 수 있습니다. 특히 나리타 익스프레스를 이용하시는 분들은 운행 정보 확인이 필수입니다.",
+            "alt_text": "나리타 익스프레스 열차 이미지"
+          },
+          {
+            "title": "대체 교통",
+            "content": "해당 구간을 이용해야 할 경우, 도쿄 메트로 등 다른 지하철 노선이나 버스 등 대체 교통편을 미리 알아보시는 것이 좋습니다. 예상치 못한 지연이나 불편을 줄일 수 있습니다.",
+            "alt_text": "도쿄 지하철 노선도"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 여행 중 JR 열차 운휴 및 지연 정보는 JR 동일본 공식 홈페이지나 관련 앱을 통해 실시간으로 확인하시는 것이 가장 정확합니다. 여행 계획에 차질이 없도록 미리 숙지하세요!",
+            "alt_text": "일본 열차 시간표 앱 화면"
+          }
+        ],
+        "caption": "✈️ 도쿄 여행 예정이라면 꼭 알아두세요! ✈️\n\nJR 동일본에서 터널 보수 공사로 인해 2026년 6월 6일, 도쿄~시나가와 구간 열차 운행이 종일 중단됩니다. 😱\n\n요코스카선, 소부 쾌속선, 나리타 익스프레스 이용객은 반드시 운휴 정보를 확인하고 대체 교통편을 미리 준비하세요!\n\n#일본여행 #도쿄여행 #JR동일본 #열차운휴 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#JR동일본",
+          "#열차운휴",
+          "#교통정보",
+          "#여행꿀팁",
+          "#나리타익스프레스",
+          "#요코스카선",
+          "#소부쾌속선",
+          "#일본교통",
+          "#여행준비",
+          "#2026년6월",
+          "#도쿄",
+          "#안전여행"
+        ],
+        "alt_texts": [
+          "도쿄와 시나가와를 잇는 JR 노선 지도",
+          "달력에 표시된 6월 6일 날짜",
+          "나리타 익스프레스 열차 이미지",
+          "도쿄 지하철 노선도",
+          "일본 열차 시간표 앱 화면"
+        ]
+      },
+      "marketer_analysis": "타겟: 20대~40대 한국인 도쿄 여행 예정자 / 최적 게시 시간: 저녁 8시~10시 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 시의성 있고 실질적인 교통 정보 제공",
+      "image": {
+        "keyword": "Japan train delay, Tokyo train route, JR East construction",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-delay,-Tokyo-train-route,-JR-East-construction",
+        "pexels_url": "https://www.pexels.com/search/Japan%20train%20delay,%20Tokyo%20train%20route,%20JR%20East%20construction/"
+      }
+    },
+    {
+      "id": "plan_d6c5644f",
+      "created_at": "2026-04-04T02:53:49.733244",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "湯河原温泉、7000円で1万円分の宿泊ができる「スマイルクーポン」抽選受付開始、1000円分の地域商品券付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099036.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "7천원으로 1만엔 숙박 찬스! 료칸 여행 가성비 끝판왕 예감!"
+      },
+      "content": {
+        "thumbnail_title": "♨️ 7천원으로 료칸 숙박 찬스!",
+        "cards": [
+          {
+            "title": "온천 숙박 찬스!",
+            "content": "유가와라 온천에서 7,000엔으로 10,000엔 상당의 숙박을 할 수 있는 '스마일 쿠폰' 추첨 접수가 시작되었습니다.",
+            "alt_text": "유가와라 온천 지역의 아름다운 료칸 사진"
+          },
+          {
+            "title": "추첨 접수 시작!",
+            "content": "이벤트는 4월 2일 12시부터 시작되었으며, 유가와라 온천 내 가맹 숙박 시설에서 사용 가능합니다.",
+            "alt_text": "온천 료칸 예약 및 할인 쿠폰 관련 이미지"
+          },
+          {
+            "title": "지역 상품권 증정",
+            "content": "쿠폰 당첨자에게는 1,000엔 상당의 지역 상품권도 함께 증정됩니다.",
+            "alt_text": "일본 온천 지역 특산품이 담긴 선물 바구니 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "가성비 좋은 온천 여행을 계획 중이라면 이번 기회를 놓치지 마세요! 추첨 결과는 추후 발표됩니다.",
+            "alt_text": "온천 여행을 즐기는 행복한 커플 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "유가와라 온천은 도쿄에서 접근성이 좋은 곳이니, 당일치기 또는 1박 2일 온천 여행으로 추천합니다.",
+            "alt_text": "유가와라 온천 가는 길 안내 지도 이미지"
+          }
+        ],
+        "caption": "♨️ 7천원으로 1만엔 숙박 찬스! 료칸 가성비 끝판왕 등장! ♨️\n\n일본 유가와라 온천에서 '스마일 쿠폰' 추첨 접수가 시작되었습니다! 단돈 7,000엔으로 10,000엔 상당의 숙박을 즐길 수 있는 절호의 찬스! 🤩\n\n✅ 4월 2일 12시부터 접수 시작!\n✅ 가맹 숙박 시설에서 사용 가능\n✅ 1,000엔 지역 상품권 추가 증정!\n\n가성비 최고 온천 여행, 지금 바로 도전해보세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유가와라온천",
+          "#일본료칸",
+          "#온천여행",
+          "#일본숙소",
+          "#일본이벤트",
+          "#가성비여행",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#해외여행",
+          "#일본가볼만한곳",
+          "#일본온천",
+          "#료칸추천"
+        ],
+        "alt_texts": [
+          "유가와라 온천 지역의 아름다운 료칸 사진",
+          "온천 료칸 예약 및 할인 쿠폰 관련 이미지",
+          "일본 온천 지역 특산품이 담긴 선물 바구니 이미지",
+          "온천 여행을 즐기는 행복한 커플 이미지",
+          "유가와라 온천 가는 길 안내 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 온천 여행을 선호하는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 참여율과 쿠폰 신청 문의 증가 / 이 콘텐츠의 강점: 파격적인 할인율과 실질적인 혜택 제공",
+      "image": {
+        "keyword": "Yugawara Onsen ryokan discount coupon lottery",
+        "unsplash_url": "https://unsplash.com/s/photos/Yugawara-Onsen-ryokan-discount-coupon-lottery",
+        "pexels_url": "https://www.pexels.com/search/Yugawara%20Onsen%20ryokan%20discount%20coupon%20lottery/"
+      }
+    },
     {
       "id": "plan_88564ec1",
       "created_at": "2026-04-03T23:49:30.679040",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo DisneySea Food and Wine Festival, limited menu, collaboration food, potato chip food, bread food",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Food-and-Wine-Festival,-limited-menu,-collaboration-food,-potato-chip-food,-bread-food",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Food%20and%20Wine%20Festival,%20limited%20menu,%20collaboration%20food,%20potato%20chip%20food,%20bread%20food/"
-      }
-    },
-    {
-      "id": "plan_ede23da6",
-      "created_at": "2026-03-31T23:55:33.681208",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東北新幹線、4月24日まで最大3000円引き。特急ひたちも対象、JRE POINT「eチケット」で",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2098013.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 동북 지역 신칸센 및 특급열차 최대 3000엔 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "JR 동북 신칸센 3000엔 할인!",
-        "cards": [
-          {
-            "title": "할인 대상",
-            "content": "2024년 4월 1일부터 6월 30일까지, JR 동일본에서 진행하는 '행복의 바람 후쿠시마' 캠페인 기간 동안 신칸센e티켓 및 재래선 티켓레스 특급권이 할인됩니다.",
-            "alt_text": "JR 동일본 열차 노선도"
-          },
-          {
-            "title": "할인 금액",
-            "content": "JRE POINT로 교환 가능한 '신칸센e티켓' 및 '재래선 티켓레스 특급권'을 특별 요금으로 이용할 수 있으며, 최대 3000엔까지 할인받을 수 있습니다.",
-            "alt_text": "할인 금액 표시 팻말"
-          },
-          {
-            "title": "대상 노선",
-            "content": "주요 할인 대상은 동북 신칸센 및 특급 히타치 열차입니다. 후쿠시마현 전역을 포함한 동북 지역 여행 시 유용합니다.",
-            "alt_text": "동북 신칸센 열차 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "JRE POINT로 교환 가능한 '에키네트' 상품을 통해 예약해야 하며, '신칸센e티켓' 또는 '재래선 티켓레스 특급권'으로 설정된 특별 요금을 확인하세요.",
-            "alt_text": "JR 예약 웹사이트 화면 캡쳐"
-          },
-          {
-            "title": "꿀팁",
-            "content": "봄 시즌 후쿠시마 지역 여행 계획이 있다면 이번 할인을 놓치지 마세요! JR패스 이용자는 별도 확인이 필요할 수 있으니, 현지 JR 역에서 문의하는 것이 좋습니다.",
-            "alt_text": "일본 기차역 표지판"
-          }
-        ],
-        "caption": "봄꽃 시즌, 후쿠시마로 떠나는 일본 여행 🌸\nJR 동일본에서 신칸센 및 특급열차 최대 3000엔 할인 이벤트를 진행합니다!\n\n✨ 4월 1일 ~ 6월 30일 기간 한정!\n✨ JRE POINT로 '신칸센e티켓' & '특급권' 할인!\n✨ 최대 3000엔 할인받고 동북 지역 알차게 여행하기!\n\n할인 정보 꼼꼼히 챙겨서 즐거운 일본 여행 되세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#신칸센",
-          "#동북여행",
-          "#후쿠시마",
-          "#특급히타치",
-          "#일본교통",
-          "#일본철도",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#JR패스",
-          "#에키네트",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "JR 동일본 열차 노선도",
-          "할인 금액 표시 팻말",
-          "동북 신칸센 열차 이미지",
-          "JR 예약 웹사이트 화면 캡쳐",
-          "일본 기차역 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 봄 시즌 동북 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 저녁 7~9시 / 기대 반응: 할인 정보에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보 제공",
-      "image": {
-        "keyword": "JR Tohoku Shinkansen discount ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Tohoku-Shinkansen-discount-ticket",
-        "pexels_url": "https://www.pexels.com/search/JR%20Tohoku%20Shinkansen%20discount%20ticket/"
-      }
-    },
-    {
-      "id": "plan_a876f11c",
-      "created_at": "2026-03-31T23:55:28.505388",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "高速乗り放題「ツーリングプラン」本日スタート。最大半額にもなる全国22コース",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2098015.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 전국을 누비는 알뜰 여행 찬스! 최대 반값으로 즐기는 바이크 투어링 플랜 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🏍️일본 바이크 전국일주 반값 찬스!",
-        "cards": [
-          {
-            "title": "플랜 시작!",
-            "content": "4월 1일부터 11월 30일까지 (홋카이도는 10월 31일까지) ETC 탑재 이륜차(바이크) 대상 '투어링 플랜'이 시작됩니다. 전국 22개 코스를 최대 반값으로 이용할 수 있어요.",
-            "alt_text": "일본 고속도로에서 달리는 바이크 이미지"
-          },
-          {
-            "title": "환상적인 코스",
-            "content": "일본 전역의 아름다운 경치를 감상하며 달릴 수 있는 22가지 코스가 준비되어 있습니다. 미야기현, 교토부, 효고현 도로 공사 구간도 포함되어 있어 더욱 다양한 선택지를 제공합니다.",
-            "alt_text": "다양한 일본 지역의 풍경 이미지"
-          },
-          {
-            "title": "알뜰 여행 꿀팁",
-            "content": "이 플랜을 이용하면 고속도로 통행료를 최대 절반까지 할인받을 수 있습니다. 일본을 바이크로 여행할 계획이라면 필수적으로 확인해야 할 정보입니다.",
-            "alt_text": "할인율을 보여주는 이미지"
-          },
-          {
-            "title": "이용 기간 확인",
-            "content": "플랜 이용 기간은 2024년 4월 1일부터 11월 30일까지입니다. 홋카이도 지역은 10월 31일까지이니 여행 지역에 맞춰 기간을 꼭 확인하세요.",
-            "alt_text": "달력 이미지와 함께 표시된 기간"
-          },
-          {
-            "title": "주의사항",
-            "content": "본 플랜은 ETC 탑재 이륜차(바이크)만 이용 가능합니다. 미리 ETC 장착 여부와 플랜 상세 내용을 확인하고 이용하시기 바랍니다.",
-            "alt_text": "ETC 카드와 바이크 이미지"
-          }
-        ],
-        "caption": "🏍️일본 바이크 여행자 주목! 4월 1일부터 전국 22개 코스를 최대 반값에 이용할 수 있는 '투어링 플랜'이 시작됩니다! 아름다운 일본을 더욱 알뜰하게 즐길 기회, 놓치지 마세요! 🇯🇵\n\n✅ 이용 기간: 2024년 4월 1일 ~ 11월 30일 (홋카이도 10월 31일까지)\n✅ 대상: ETC 탑재 이륜차\n\n#일본여행 #플라잉재팬 #일본바이크투어 #일본교통정보 #일본여행꿀팁 #바이크여행 #일본알뜰여행 #일본고속도로 #투어링플랜 #일본자유여행 #일본여행준비 #일본가볼만한곳 #일본로드트립 #일본여행정보 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본바이크투어",
-          "#일본교통정보",
-          "#일본여행꿀팁",
-          "#바이크여행",
-          "#일본알뜰여행",
-          "#일본고속도로",
-          "#투어링플랜",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#일본가볼만한곳",
-          "#일본로드트립",
-          "#일본여행정보",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본 고속도로에서 달리는 바이크 이미지",
-          "다양한 일본 지역의 풍경 이미지",
-          "할인율을 보여주는 이미지",
-          "달력 이미지와 함께 표시된 기간",
-          "ETC 카드와 바이크 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본에서 바이크 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 실질적인 비용 절감 효과를 제시하는 구체적인 정보",
-      "image": {
-        "keyword": "Japan motorcycle touring plan discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-motorcycle-touring-plan-discount",
-        "pexels_url": "https://www.pexels.com/search/Japan%20motorcycle%20touring%20plan%20discount/"
       }
     }
   ]
