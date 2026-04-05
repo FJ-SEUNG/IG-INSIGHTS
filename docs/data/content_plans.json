@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-05T03:32:46.619311",
+  "last_updated": "2026-04-05T23:50:07.694340",
   "plans": [
+    {
+      "id": "plan_075c951b",
+      "created_at": "2026-04-05T23:50:05.694109",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "TAOYA箱根、1泊2食が春夏セール。非日常味わう大人のオールインクルーシブ温泉宿、客室はすべてフォレストビュー",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099118.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 1박 2식 특가! 최대 21% 할인받고 료칸 호캉스 즐기자!"
+      },
+      "content": {
+        "thumbnail_title": "♨️ 료칸 1박2식 특가 🇯🇵",
+        "cards": [
+          {
+            "title": "TAOYA箱根",
+            "content": "TAOYA箱根 료칸에서 1박 2식 특별 세일 중! 4월 20일까지 楽天トラベル에서 예약 가능합니다.",
+            "alt_text": "TAOYA箱根 료칸 외관 전경"
+          },
+          {
+            "title": "최대 21% 할인",
+            "content": "楽天トラベル '봄/여름 페어' 기간 중, 楽天 쿠폰과 숙소 쿠폰을 함께 사용하면 숙박 요금을 최대 21%까지 할인받을 수 있습니다.",
+            "alt_text": "할인율을 나타내는 그래픽"
+          },
+          {
+            "title": "올인클루시브 혜택",
+            "content": "모든 객실이 포레스트 뷰로, 비일상적인 분위기를 만끽할 수 있는 어른들을 위한 올인클루시브 온천 료칸입니다.",
+            "alt_text": "객실 내부에서 보이는 숲 풍경"
+          },
+          {
+            "title": "4/20까지 예약",
+            "content": "GW와 여름 휴가 여행 예약이 포함되는 이번 세일은 4월 20일까지 진행되니 서둘러 예약하세요!",
+            "alt_text": "달력에 4월 20일 표시"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 온천 여행 계획 중이라면 이번 기회를 놓치지 마세요! 료칸 숙박과 맛있는 식사까지 한번에 해결 가능합니다.",
+            "alt_text": "온천에 몸을 담그고 휴식하는 사람"
+          }
+        ],
+        "caption": "일본 온천 여행 계획 중이라면 주목! ♨️\nTAOYA箱根 료칸에서 1박 2식 스페셜 세일이 진행됩니다.\n4월 20일까지 楽天トラベル에서 예약 시, 최대 21% 할인 혜택을 받을 수 있어요!\n모든 객실이 포레스트 뷰로, 프라이빗한 휴식을 즐길 수 있는 올인클루시브 료칸입니다. 🌳✨\n\n#일본온천여행 #료칸추천 #TAOYAhakone #일본여행특가 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#료칸",
+          "#TAOYAhakone",
+          "#일본숙소",
+          "#일본할인",
+          "#楽天트래블",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#여행에미치다",
+          "#일본자유여행",
+          "#온천여행",
+          "#가성비여행",
+          "#놓치면후회"
+        ],
+        "alt_texts": [
+          "TAOYA箱根 료칸 외관 전경",
+          "할인율을 나타내는 그래픽",
+          "객실 내부에서 보이는 숲 풍경",
+          "달력에 4월 20일 표시",
+          "온천에 몸을 담그고 휴식하는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 1-3시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율과 예약 마감일을 명시하여 긴급성과 매력도를 높임",
+      "image": {
+        "keyword": "Japanese onsen ryokan, forest view, discount offer, travel deal, hot spring, all-inclusive, Hakone",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-ryokan,-forest-view,-discount-offer,-travel-deal,-hot-spring,-all-inclusive,-Hakone",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20ryokan,%20forest%20view,%20discount%20offer,%20travel%20deal,%20hot%20spring,%20all-inclusive,%20Hakone/"
+      }
+    },
+    {
+      "id": "plan_14c89fc3",
+      "created_at": "2026-04-05T23:50:00.592013",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "亀の井ホテル 熱海、春夏セールで最大21％オフ。熱海海上花火大会を楽しめる全室バルコニー付き、露天風呂付客室も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099123.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "온천과 불꽃놀이를 동시에! 일본 온천 여행 특급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🔥온천+불꽃놀이 할인🔥",
+        "cards": [
+          {
+            "title": "최대 21% 할인",
+            "content": "카메노이 호텔 아타미에서 봄/여름 시즌 한정 특가 세일 진행 중! 楽天 트래블 쿠폰과 숙소 쿠폰을 함께 사용하면 최대 21% 할인 혜택을 받을 수 있어요.",
+            "alt_text": "카메노이 호텔 아타미 할인 혜택 안내"
+          },
+          {
+            "title": "아타미 불꽃놀이",
+            "content": "호텔 객실 발코니에서 아름다운 아타미 해상 불꽃놀이를 감상할 수 있는 특별한 기회! 잊지 못할 추억을 만들어 보세요.",
+            "alt_text": "아타미 해상 불꽃놀이 야경"
+          },
+          {
+            "title": "전 객실 발코니",
+            "content": "전 객실 발코니가 있어 탁 트인 전망과 함께 편안한 휴식을 즐길 수 있습니다.",
+            "alt_text": "호텔 객실 발코니 모습"
+          },
+          {
+            "title": "노천탕 객실",
+            "content": "일부 객실에는 프라이빗한 노천탕이 마련되어 있어 더욱 특별한 온천 경험을 선사합니다.",
+            "alt_text": "개별 노천탕이 있는 객실"
+          },
+          {
+            "title": "예약 팁",
+            "content": "GW(골든위크)와 여름 휴가철 예약은 서두르는 것이 좋아요! 4월 20일까지 진행되는 '楽天 트래블 봄/여름 페어' 기간을 놓치지 마세요.",
+            "alt_text": "일본 여행 예약 팁 안내"
+          }
+        ],
+        "caption": "일본 온천 여행 계획 중이시라면 주목! ♨️ 카메노이 호텔 아타미에서 최대 21% 할인받고 아름다운 아타미 해상 불꽃놀이까지 즐길 수 있는 절호의 찬스! ✨ 전 객실 발코니와 노천탕이 있는 객실에서 잊지 못할 추억을 만들어 보세요. 💖\n\n📞 지금 바로 楽天 트래블에서 '봄/여름 페어' 특가 확인하고 예약하세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#아타미",
+          "#온천여행",
+          "#일본온천",
+          "#불꽃놀이",
+          "#일본숙소",
+          "#호텔할인",
+          "#楽天트래블",
+          "#봄여행",
+          "#여름휴가",
+          "#해외여행",
+          "#일본자유여행",
+          "#가성비여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "카메노이 호텔 아타미 할인 혜택 안내",
+          "아타미 해상 불꽃놀이 야경",
+          "호텔 객실 발코니 모습",
+          "개별 노천탕이 있는 객실",
+          "일본 여행 예약 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 7-9시 (여행 정보 검색 시간대) / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 할인율, 불꽃놀이 뷰, 온천 등 매력적인 요소 결합",
+      "image": {
+        "keyword": "Japan hot spring hotel balcony fireworks",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-hot-spring-hotel-balcony-fireworks",
+        "pexels_url": "https://www.pexels.com/search/Japan%20hot%20spring%20hotel%20balcony%20fireworks/"
+      }
+    },
     {
       "id": "plan_448e5489",
       "created_at": "2026-04-05T03:32:44.619094",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese hot spring resort, luxury afternoon tea, discount coupon, travel booking",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring-resort,-luxury-afternoon-tea,-discount-coupon,-travel-booking",
         "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring%20resort,%20luxury%20afternoon%20tea,%20discount%20coupon,%20travel%20booking/"
-      }
-    },
-    {
-      "id": "plan_2600f247",
-      "created_at": "2026-04-02T03:20:31.650805",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "リーベルホテル大阪、春夏セールで素泊まり最大21％オフ。USJすぐ近く、天然温泉スパ付き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2098377.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 여행 시 최대 21% 할인받아 숙박할 수 있는 꿀정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️오사카 호텔 21% 할인!✈️",
-        "cards": [
-          {
-            "title": "✨리벨호텔 파격 세일✨",
-            "content": "오사카 리벨호텔에서 4월 20일까지 '봄/여름 페어' 진행 중! 🌸☀️",
-            "alt_text": "리벨 호텔 외관 이미지"
-          },
-          {
-            "title": "💰최대 21% 할인💰",
-            "content": "여행 예약 사이트 쿠폰과 숙소 자체 쿠폰을 함께 사용하면 숙박비가 최대 21%까지 저렴해져요. 💸",
-            "alt_text": "할인율 표시 이미지"
-          },
-          {
-            "title": "📍유니버설 스튜디오 재팬 근처📍",
-            "content": "USJ와 아주 가까운 곳에 위치! 테마파크 방문 계획이라면 최적의 선택이 될 수 있어요. 🎢",
-            "alt_text": "유니버설 스튜디오 재팬 로고 이미지"
-          },
-          {
-            "title": "♨️천연 온천 스파 이용 가능♨️",
-            "content": "여행의 피로를 풀어줄 천연 온천 스파 시설도 갖추고 있어 편안한 휴식을 즐길 수 있어요. 🛀",
-            "alt_text": "호텔 내 온천 시설 이미지"
-          },
-          {
-            "title": "✅예약 팁 & 주의사항✅",
-            "content": "쿠폰은 기간 내 배포되니 서둘러 받고, '조식 불포함' 플랜도 할인율이 높으니 필요에 따라 선택하세요. 🗓️",
-            "alt_text": "달력과 쿠폰 이미지"
-          }
-        ],
-        "caption": "오사카 여행 준비 중이신가요? 🇯🇵\n\n지금 바로 리벨 호텔에서 최대 21% 할인받고 숙박하세요! ✨\n\nUSJ 바로 근처에 위치한 데다 천연 온천 스파까지! ♨️\n\n4월 20일까지 진행되는 '봄/여름 페어'를 놓치지 마세요. ✈️\n\n#오사카여행 #일본숙소 #호텔할인 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#오사카여행",
-          "#오사카숙소",
-          "#일본숙소",
-          "#리벨호텔",
-          "#유니버설스튜디오재팬",
-          "#USJ",
-          "#일본할인",
-          "#여행팁",
-          "#일본자유여행",
-          "#여행정보",
-          "#가성비숙소",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "리벨 호텔 외관 이미지",
-          "할인율 표시 이미지",
-          "유니버설 스튜디오 재팬 로고 이미지",
-          "호텔 내 온천 시설 이미지",
-          "달력과 쿠폰 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 여행자 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 클릭률 및 저장률, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 숙소의 매력 포인트(위치, 시설)를 명확히 제시하여 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "Osaka hotel discount, Universal Studios Japan nearby hotel, Japanese onsen spa hotel",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-hotel-discount,-Universal-Studios-Japan-nearby-hotel,-Japanese-onsen-spa-hotel",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20hotel%20discount,%20Universal%20Studios%20Japan%20nearby%20hotel,%20Japanese%20onsen%20spa%20hotel/"
-      }
-    },
-    {
-      "id": "plan_d7695e6e",
-      "created_at": "2026-04-02T03:20:26.386986",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 伊香保、1泊2食が春夏セールで最大21％オフ。上州グルメと石段街さんぽを満喫",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2098480.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "온천 숙박 최대 21% 할인! 일본 온천 여행 계획 중이라면 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 최대 21% 할인!",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "일본 최대 온라인 여행사 楽天 트래블에서 '봄/여름 페어'를 진행 중이에요. 4월 20일까지 진행되며, 楽天 쿠폰과 숙소 쿠폰을 함께 사용하면 최대 21% 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "할인율이 표시된 楽天 트래블 프로모션 이미지"
-          },
-          {
-            "title": "대상 숙소",
-            "content": "이번 할인 행사는 '오오에도 온천 모노가타리 프리미엄 이카호(大江戸温泉物語Premium 伊香保)' 숙박 플랜에 적용됩니다. 일본 전통 온천과 식사를 함께 즐길 수 있는 곳입니다.",
-            "alt_text": "오오에도 온천 모노가타리 프리미엄 이카호 외관 이미지"
-          },
-          {
-            "title": "할인 기간",
-            "content": "프로모션은 4월 20일까지 진행되니, 늦지 않게 예약하세요! 특히 골든위크나 여름 휴가철 여행을 계획하고 있다면 지금이 기회입니다.",
-            "alt_text": "달력에 표시된 4월 20일 날짜 이미지"
-          },
-          {
-            "title": "즐길 거리",
-            "content": "이카호 온천 지역에서는 맛있는 상주(上州) 지방의 식재료로 만든 요리를 맛보고, 유명한 이시단가이(石段街) 거리를 산책하며 일본의 정취를 만끽할 수 있습니다.",
-            "alt_text": "이시단가이 거리 풍경 이미지"
-          },
-          {
-            "title": "예약 팁",
-            "content": "할인 쿠폰은 수량 한정이니, 원하는 날짜의 숙소가 있다면 서둘러 예약하는 것이 좋습니다. 楽天 트래블 페이지에서 쿠폰 적용 여부를 꼭 확인하세요.",
-            "alt_text": "쿠폰 아이콘과 예약 버튼 이미지"
-          }
-        ],
-        "caption": "♨️ 일본 온천 여행 계획 중이신가요? ♨️\n\n오오에도 온천 모노가타리 프리미엄 이카호에서 숙박 시 최대 21% 할인받을 수 있는 절호의 찬스!\n\n✅ 4월 20일까지, 楽天 트래블 '봄/여름 페어' 활용\n✅ 1박 2식 플랜 할인, 상주 지방 별미와 이시단가이 산책까지!\n\n지금 바로 楽天 트래블에서 특별 할인가로 일본 온천 여행을 예약하세요! ✈️\n\n#일본온천 #이카호온천 #오오에도온천 #일본여행할인 #楽天トラベル",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#이카호온천",
-          "#오오에도온천",
-          "#일본숙소",
-          "#일본여행팁",
-          "#일본할인",
-          "#楽天트래블",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#온천여행",
-          "#일본가볼만한곳",
-          "#일본추천",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "할인율이 표시된 楽天 트래블 프로모션 이미지",
-          "오오에도 온천 모노가타리 프리미엄 이카호 외관 이미지",
-          "달력에 표시된 4월 20일 날짜 이미지",
-          "이시단가이 거리 풍경 이미지",
-          "쿠폰 아이콘과 예약 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 저녁 7시-9시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 활발 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 숙소, 즐길 거리 정보 제공",
-      "image": {
-        "keyword": "Japanese hot spring, discount, travel, booking, hotel, onsen, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring,-discount,-travel,-booking,-hotel,-onsen,-Japan",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring,%20discount,%20travel,%20booking,%20hotel,%20onsen,%20Japan/"
       }
     }
   ]
