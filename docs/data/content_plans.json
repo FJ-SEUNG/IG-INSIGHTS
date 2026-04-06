@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-06T03:35:13.803918",
+  "last_updated": "2026-04-06T23:51:47.891779",
   "plans": [
+    {
+      "id": "plan_25f995f7",
+      "created_at": "2026-04-06T23:51:45.891604",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "無印良品の日焼け止め、天然由来成分100％のミストや皮脂くずれ防止パウダーが登場。身体に使えるトーンアップミルクも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099516.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템! 무인양품 신상 선케어템으로 여름철 피부 완벽 보호!"
+      },
+      "content": {
+        "thumbnail_title": "☀️무인양품 신상 선케어템☀️",
+        "cards": [
+          {
+            "title": "신상 출시!",
+            "content": "무인양품에서 4월 8일, 새로운 선케어 라인 3종을 출시했어요. 전국 매장 및 온라인 스토어에서 만나볼 수 있습니다.",
+            "alt_text": "무인양품 신상 선케어 제품 이미지"
+          },
+          {
+            "title": "천연 성분 100%",
+            "content": "이번 신상 선케어 제품은 모두 천연 유래 성분 100%로 만들어져 민감한 피부에도 안심하고 사용할 수 있습니다.",
+            "alt_text": "천연 유래 성분 문구가 강조된 제품 이미지"
+          },
+          {
+            "title": "미스트 & 파우더",
+            "content": "휴대하기 좋은 미스트 타입 선케어와 땀과 피지로 인한 메이크업 번짐을 막아주는 선 파우더가 출시됩니다.",
+            "alt_text": "미스트와 파우더 타입 선케어 제품 이미지"
+          },
+          {
+            "title": "톤업 밀크",
+            "content": "몸에도 사용할 수 있는 톤업 선 밀크도 함께 출시되어 자연스러운 톤 보정 효과까지 선사합니다.",
+            "alt_text": "톤업 밀크 선케어 제품 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 890엔부터 990엔 사이로, 부담 없이 구매하여 일본 여행 중에도 꼼꼼한 자외선 차단이 가능합니다.",
+            "alt_text": "가격 정보가 표시된 제품 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템! ☀️ 무인양품에서 4월 8일, 천연 유래 성분 100% 신상 선케어 3종을 출시했어요!\n\n✨ 미스트, 피지 컨트롤 파우더, 톤업 밀크까지!\n✨ 가격 890엔~990엔으로 부담없이 준비 가능!\n\n올여름, 무인양품 선케어템으로 자외선 걱정 없이 즐거운 일본 여행 되세요! ✈️\n\n#일본여행 #무인양품 #선크림 #선케어 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#무인양품",
+          "#무인양품선크림",
+          "#일본쇼핑",
+          "#일본필수템",
+          "#일본여행준비",
+          "#자외선차단",
+          "#선케어",
+          "#여행준비",
+          "#일본생활",
+          "#일본화장품",
+          "#일본쇼핑리스트",
+          "#여행스타그램",
+          "#여름휴가"
+        ],
+        "alt_texts": [
+          "무인양품 신상 선케어 제품 이미지",
+          "천연 유래 성분 문구가 강조된 제품 이미지",
+          "미스트와 파우더 타입 선케어 제품 이미지",
+          "톤업 밀크 선케어 제품 이미지",
+          "가격 정보가 표시된 제품 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 2040 한국인 여성 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 제품 정보 습득, 구매 의사 결정 도움, 공유 / 이 콘텐츠의 강점: 실용적인 쇼핑 정보, 합리적인 가격, 신뢰할 수 있는 브랜드",
+      "image": {
+        "keyword": "MUJI sunscreen, Japan travel essentials, natural sunscreen mist, sebum control powder, tone-up sunscreen milk, affordable Japanese skincare",
+        "unsplash_url": "https://unsplash.com/s/photos/MUJI-sunscreen,-Japan-travel-essentials,-natural-sunscreen-mist,-sebum-control-powder,-tone-up-sunscreen-milk,-affordable-Japanese-skincare",
+        "pexels_url": "https://www.pexels.com/search/MUJI%20sunscreen,%20Japan%20travel%20essentials,%20natural%20sunscreen%20mist,%20sebum%20control%20powder,%20tone-up%20sunscreen%20milk,%20affordable%20Japanese%20skincare/"
+      }
+    },
+    {
+      "id": "plan_2dbb291d",
+      "created_at": "2026-04-06T23:51:40.886379",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "湯河原温泉のラグジュアリー宿「三輪」が春夏セールで21％オフ。全室露天風呂付き、ディナーは創作和食コース",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099531.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 최대 21% 할인받고 럭셔리 여행 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 21% 할인!♨️",
+        "cards": [
+          {
+            "title": "기간 한정 할인",
+            "content": "4월 20일까지 '라쿠텐 트래블 춘하 페어' 진행 중! 료칸 숙박 최대 21% 할인 혜택 놓치지 마세요.",
+            "alt_text": "라쿠텐 트래블 할인 행사 배너 이미지"
+          },
+          {
+            "title": "럭셔리 온천 숙소",
+            "content": "전 객실 노천탕 완비! 유서 깊은 온천 마을 유가와라의 '미와' 료칸에서 특별한 휴식을 경험하세요.",
+            "alt_text": "전 객실 노천탕이 있는 일본 료칸 외관 이미지"
+          },
+          {
+            "title": "미식의 향연",
+            "content": "저녁 식사로는 창의적인 일식 코스 요리가 제공됩니다. 료칸에서의 완벽한 미식 경험을 즐겨보세요.",
+            "alt_text": "정갈하게 차려진 일본식 코스 요리 이미지"
+          },
+          {
+            "title": "쿠폰 활용 꿀팁",
+            "content": "라쿠텐 트래블 쿠폰과 숙소 자체 쿠폰을 함께 사용하면 할인율을 최대로 받을 수 있습니다. 예약 전 꼭 확인하세요!",
+            "alt_text": "쿠폰 아이콘과 할인율 표시 이미지"
+          },
+          {
+            "title": "여행 계획 세우기",
+            "content": "골든위크, 여름 휴가 시즌 여행 예약 미리미리 준비하세요! 할인 기간 놓치지 말고 알찬 일본 여행 계획 세우세요.",
+            "alt_text": "달력에 표시된 일본 여행 계획 이미지"
+          }
+        ],
+        "caption": "일본 온천 여행, 최대 21% 할인받고 럭셔리하게 즐길 기회! ♨️\n유가와라 료칸 '미와'에서 전 객실 노천탕과 창의적인 일식 코스 요리를 경험하세요.\n4월 20일까지 진행되는 '라쿠텐 트래블 춘하 페어'에서 특별 할인 혜택을 누리세요!\n지금 바로 예약하고 잊지 못할 추억을 만드세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#유가와라",
+          "#료칸",
+          "#일본숙소",
+          "#온천여행",
+          "#일본할인",
+          "#라쿠텐트래블",
+          "#여행정보",
+          "#일본자유여행",
+          "#럭셔리여행",
+          "#일본가볼만한곳",
+          "#여행꿀팁",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "라쿠텐 트래블 할인 행사 배너 이미지",
+          "전 객실 노천탕이 있는 일본 료칸 외관 이미지",
+          "정갈하게 차려진 일본식 코스 요리 이미지",
+          "쿠폰 아이콘과 할인율 표시 이미지",
+          "달력에 표시된 일본 여행 계획 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 저녁 8시-10시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 럭셔리 숙소 정보로 즉각적인 예약 행동 유도",
+      "image": {
+        "keyword": "Japanese luxury ryokan with private onsen, Yugawara hot spring town, kaiseki dinner, Rakuten Travel discount coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-luxury-ryokan-with-private-onsen,-Yugawara-hot-spring-town,-kaiseki-dinner,-Rakuten-Travel-discount-coupon",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20luxury%20ryokan%20with%20private%20onsen,%20Yugawara%20hot%20spring%20town,%20kaiseki%20dinner,%20Rakuten%20Travel%20discount%20coupon/"
+      }
+    },
     {
       "id": "plan_ef1dc32e",
       "created_at": "2026-04-06T03:35:11.803706",
@@ -923,160 +1077,6 @@
         "keyword": "mother farm, japan, spring, rape flowers, tulip, cherry blossom, travel",
         "unsplash_url": "https://unsplash.com/s/photos/mother-farm,-japan,-spring,-rape-flowers,-tulip,-cherry-blossom,-travel",
         "pexels_url": "https://www.pexels.com/search/mother%20farm,%20japan,%20spring,%20rape%20flowers,%20tulip,%20cherry%20blossom,%20travel/"
-      }
-    },
-    {
-      "id": "plan_6ac0e695",
-      "created_at": "2026-04-03T03:22:14.407320",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "品川プリンスホテルに「セーラームーン」新シアター誕生。開幕前に見てきた！　AIに奪われた心を取り戻そう",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2098752.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "세일러문 덕후라면 놓칠 수 없는 도쿄 신상 테마 시어터 오픈!"
-      },
-      "content": {
-        "thumbnail_title": "✨세일러문 시어터 도쿄 오픈!✨",
-        "cards": [
-          {
-            "title": "신상 시어터 오픈!",
-            "content": "도쿄 시나가와 프린스 호텔에 '미소녀 전사 세일러문 -Shining Theater Shinagawa Tokyo-'가 4월 4일 오픈합니다. 완전 오리지널 스토리로 세일러문의 세계관을 생생하게 즐길 수 있어요.",
-            "alt_text": "시나가와 프린스 호텔 전경"
-          },
-          {
-            "title": "장소는 어디?",
-            "content": "도쿄도 미나토구 다카나와 4-10-30에 위치한 시나가와 프린스 호텔 아넥스타워 '클럽eX'에서 열립니다. 도심에서 접근성 좋은 곳이에요.",
-            "alt_text": "시나가와 프린스 호텔 위치 지도"
-          },
-          {
-            "title": "오리지널 스토리!",
-            "content": "AI에게 빼앗긴 마음을 되찾는다는 흥미로운 스토리로 꾸며질 예정입니다. 팬이라면 더욱 몰입해서 즐길 수 있을 거예요.",
-            "alt_text": "세일러문 캐릭터 일러스트"
-          },
-          {
-            "title": "티켓 정보",
-            "content": "현재 티켓 판매 및 상세 일정은 공개되지 않았습니다. 오픈일인 4월 4일 이후 공식 정보를 확인해주세요.",
-            "alt_text": "티켓 이미지 placeholder"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "세일러문 팬이라면 놓칠 수 없는 기회! 오픈 초반에는 예약이 몰릴 수 있으니, 방문 계획이 있다면 미리 공식 홈페이지를 주시하는 것이 좋습니다.",
-            "alt_text": "세일러문 굿즈 이미지"
-          }
-        ],
-        "caption": "💖세일러문 팬들 주목!💖 도쿄 시나가와 프린스 호텔에 '미소녀 전사 세일러문' 테마 시어터가 4월 4일 오픈합니다! ✨AI에게 빼앗긴 마음을 되찾는 오리지널 스토리로 꾸며진다고 하니, 팬이라면 절대 놓칠 수 없겠죠? 🤩 오픈 초반에는 예약이 몰릴 수 있으니, 방문 예정이라면 미리 공식 정보를 꼭 확인하세요! #세일러문 #도쿄여행 #신상명소 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#시나가와",
-          "#세일러문",
-          "#미소녀전사세일러문",
-          "#도쿄신상",
-          "#테마파크",
-          "#일본이벤트",
-          "#도쿄가볼만한곳",
-          "#여행정보",
-          "#일본문화",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#도쿄"
-        ],
-        "alt_texts": [
-          "시나가와 프린스 호텔 전경",
-          "시나가와 프린스 호텔 위치 지도",
-          "세일러문 캐릭터 일러스트",
-          "티켓 이미지 placeholder",
-          "세일러문 굿즈 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 20-30대 여성 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 관심과 공유, 방문 계획 문의 / 이 콘텐츠의 강점: 특정 팬덤을 겨냥한 명확한 정보, 최신 오픈 이벤트 정보",
-      "image": {
-        "keyword": "Sailor Moon theater, Shinagawa Prince Hotel, Tokyo attraction",
-        "unsplash_url": "https://unsplash.com/s/photos/Sailor-Moon-theater,-Shinagawa-Prince-Hotel,-Tokyo-attraction",
-        "pexels_url": "https://www.pexels.com/search/Sailor%20Moon%20theater,%20Shinagawa%20Prince%20Hotel,%20Tokyo%20attraction/"
-      }
-    },
-    {
-      "id": "plan_394b5d16",
-      "created_at": "2026-04-03T03:22:09.512878",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】伊豆急下田駅「金目鯛押寿司 匠の三種」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2098755.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 2시간 반! 이즈 급행 시모다역의 특별한 금눈돔 도시락 맛보기!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 이즈 급행 금눈돔 도시락 🍱",
-        "cards": [
-          {
-            "title": "금눈돔 도시락",
-            "content": "이즈 급행 시모다역에서 판매하는 '금눈돔 도시락 匠の三種'은 도쿄역에서 사필로 도리코 열차로 약 2시간 반 거리에 있습니다.",
-            "alt_text": "고급스러운 검은색 도시락 패키지"
-          },
-          {
-            "title": "3가지 금눈돔",
-            "content": "도시락에는 금눈돔 압축 초밥 2개, 구운 금눈돔 압축 초밥 2개, 금눈돔 와사비 잎말이 2개가 포함되어 있습니다.",
-            "alt_text": "금눈돔 압축 초밥, 구운 금눈돔 압축 초밥, 금눈돔 와사비 잎말이"
-          },
-          {
-            "title": "고급스러운 구성",
-            "content": "금색 글씨가 새겨진 검은색 패키지는 고급스러운 느낌을 주며, 신선한 금눈돔으로 만든 다양한 초밥을 맛볼 수 있습니다.",
-            "alt_text": "도시락을 열어 내용물을 보여주는 모습"
-          },
-          {
-            "title": "기차 여행 필수템",
-            "content": "이즈 반도 최남단 시모다역까지 가는 기차 안에서 즐기기 좋은 특별한 도시락입니다.",
-            "alt_text": "기차 안에서 도시락을 즐기는 사람"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "이즈 급행 시모다역에서만 구매 가능하니, 여행 일정 중에 꼭 들러보세요. 특별한 기차 여행의 추억을 더해줄 거예요.",
-            "alt_text": "이즈 급행 시모다역 간판"
-          }
-        ],
-        "caption": "도쿄에서 2시간 반! 🚄 이즈 급행 시모다역의 특별한 '금눈돔 도시락 匠の三種'을 소개합니다 🍱\n\n✨ 검은색 고급 패키지 안에 금눈돔 압축 초밥, 구운 금눈돔 압축 초밥, 금눈돔 와사비 잎말이까지! 3가지 맛을 한번에 즐길 수 있어요.\n\n이즈 반도 여행 중이라면 놓칠 수 없는 별미! 🚞 기차 안에서 특별한 식사를 즐겨보세요.\n\n#이즈여행 #금눈돔 #일본기차여행 #도시락 #일본맛집 #이즈급행 #시모다역 #일본특산물 #여행필수템 #먹스타그램 #도쿄근교 #일본먹방 #플라잉재팬 #일본여행 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이즈여행",
-          "#금눈돔",
-          "#일본기차여행",
-          "#도시락",
-          "#일본맛집",
-          "#이즈급행",
-          "#시모다역",
-          "#일본특산물",
-          "#여행필수템",
-          "#먹스타그램",
-          "#도쿄근교",
-          "#일본먹방",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "고급스러운 검은색 도시락 패키지",
-          "금눈돔 압축 초밥, 구운 금눈돔 압축 초밥, 금눈돔 와사비 잎말이",
-          "도시락을 열어 내용물을 보여주는 모습",
-          "기차 안에서 도시락을 즐기는 사람",
-          "이즈 급행 시모다역 간판"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 이즈 지역을 여행하는 한국인 관광객 / 최적 게시 시간: 평일 오후 7시~9시 (퇴근 후 여행 계획 세우는 시간) / 기대 반응: 구매 욕구 자극, 정보 공유 활발 / 이 콘텐츠의 강점: 한정적인 지역 특산물 정보를 구체적인 상품으로 제시하여 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Izu, Kinmedai, Oshizushi, Ekiben, Shimoda Station, Izukyu Line, Japanese train bento, Seafood bento",
-        "unsplash_url": "https://unsplash.com/s/photos/Izu,-Kinmedai,-Oshizushi,-Ekiben,-Shimoda-Station,-Izukyu-Line,-Japanese-train-bento,-Seafood-bento",
-        "pexels_url": "https://www.pexels.com/search/Izu,%20Kinmedai,%20Oshizushi,%20Ekiben,%20Shimoda%20Station,%20Izukyu%20Line,%20Japanese%20train%20bento,%20Seafood%20bento/"
       }
     }
   ]
