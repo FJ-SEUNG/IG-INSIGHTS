@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-06T23:51:47.891779",
+  "last_updated": "2026-04-07T03:25:17.821187",
   "plans": [
+    {
+      "id": "plan_d911e654",
+      "created_at": "2026-04-07T03:25:15.820959",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【旅レポ】1300年の歴史を体感する奈良へ。世界遺産・薬師寺で心の使い方と玄奘三蔵の教えを識る旅 JR東海「いざいざ奈良」第9弾",
+        "url": "https://travel.watch.impress.co.jp/docs/news/tabirepo/2098149.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "1300년 역사와 함께하는 힐링! 나라의 숨겨진 매력을 재발견해요."
+      },
+      "content": {
+        "thumbnail_title": "✨1300년 나라도깨비✨",
+        "cards": [
+          {
+            "title": "JR 도카이 캠페인",
+            "content": "JR 도카이의 '이자 이자 나라' 캠페인이 9번째를 맞이했어요. 1300년 역사를 자랑하는 고도 나라의 매력을 새롭게 발견할 기회랍니다.",
+            "alt_text": "JR 도카이 '이자 이자 나라' 캠페인 홍보 이미지"
+          },
+          {
+            "title": "약사사 편",
+            "content": "이번 9번째 캠페인은 '약사사 편'으로 진행돼요. 세계유산인 약사사의 아름다움과 함께 마음을 다스리는 시간을 가질 수 있어요.",
+            "alt_text": "나라 약사사 전경 이미지"
+          },
+          {
+            "title": "과거와 현재",
+            "content": "1300년 이상 이어져 온 나라의 풍부한 역사와 문화를 직접 체험하며, 현대적인 감각으로 재해석된 매력을 느낄 수 있답니다.",
+            "alt_text": "나라 고적지 풍경 이미지"
+          },
+          {
+            "title": "여행 코스 추천",
+            "content": "동대사 편부터 시작된 이 캠페인을 통해 나라의 숨겨진 명소들을 탐방하며 특별한 추억을 만들어보세요.",
+            "alt_text": "나라 여행 지도 이미지"
+          },
+          {
+            "title": "여행 꿀팁!",
+            "content": "JR 도카이의 '이자 이자 나라' 캠페인 정보를 미리 확인하고, 1300년 역사의 고도 나라에서 잊지 못할 힐링 여행을 계획해보세요!",
+            "alt_text": "여행 가방과 지도 이미지"
+          }
+        ],
+        "caption": "✨JR 도카이 '이자 이자 나라' 캠페인 9번째 이야기! ✨\n1300년 역사의 고도 나라에서 숨겨진 매력을 재발견할 절호의 기회! 🤩\n이번 '약사사 편'에서는 세계유산 약사사의 아름다움과 함께 마음을 치유하는 시간을 경험할 수 있어요. 😌\n동대사 편부터 시작된 캠페인을 통해 나라의 풍부한 역사와 문화를 만끽하며 특별한 여행을 만들어보세요! ✈️\n#나라여행 #일본여행 #JR도카이 #이자이치나라 #약사사 #세계유산 #역사여행 #힐링여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나라여행",
+          "#JR도카이",
+          "#이자이치나라",
+          "#약사사",
+          "#세계유산",
+          "#일본소도시",
+          "#일본문화",
+          "#일본역사",
+          "#일본축제",
+          "#일본단풍",
+          "#일본가볼만한곳",
+          "#일본정보",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "JR 도카이 '이자 이자 나라' 캠페인 홍보 이미지",
+          "나라 약사사 전경 이미지",
+          "나라 고적지 풍경 이미지",
+          "나라 여행 지도 이미지",
+          "여행 가방과 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 역사와 문화에 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 습득 및 여행 계획 동기 부여 / 이 콘텐츠의 강점: 특정 캠페인 정보를 상세하게 제공하여 실질적인 여행 계획에 도움을 줌",
+      "image": {
+        "keyword": "Nara Japan, Yakushiji Temple, Todaiji Temple, JR Tokai, Izai Izai Nara campaign, ancient capital, historical sites, cultural heritage, travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Nara-Japan,-Yakushiji-Temple,-Todaiji-Temple,-JR-Tokai,-Izai-Izai-Nara-campaign,-ancient-capital,-historical-sites,-cultural-heritage,-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Nara%20Japan,%20Yakushiji%20Temple,%20Todaiji%20Temple,%20JR%20Tokai,%20Izai%20Izai%20Nara%20campaign,%20ancient%20capital,%20historical%20sites,%20cultural%20heritage,%20travel%20Japan/"
+      }
+    },
+    {
+      "id": "plan_f1c57432",
+      "created_at": "2026-04-07T03:25:11.354736",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "紀ノ国屋、「Suicaのペンギン」刺繍入りビッグトート。パン/いちご/さかなの3種モチーフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2099641.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여행 중 귀여운 기념품으로 딱! 스이카 펭귄 빅 토트백 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🐧 스이카 펭귄 빅 토트백 출시!",
+        "cards": [
+          {
+            "title": "신상 빅 토트백",
+            "content": "일본 편의점 및 잡화점으로 유명한 '키노쿠니야'에서 '스이카 펭귄' 빅 토트백을 출시했어요. 4,180엔에 득템 가능합니다.",
+            "alt_text": "키노쿠니야에서 출시한 스이카 펭귄 빅 토트백 이미지"
+          },
+          {
+            "title": "3가지 디자인",
+            "content": "귀여운 빵(옐로우), 딸기(레드), 물고기(블루) 세 가지 디자인으로 출시되어 취향대로 고를 수 있어요.",
+            "alt_text": "빵, 딸기, 물고기 디자인의 스이카 펭귄 빅 토트백 이미지"
+          },
+          {
+            "title": "온라인/매장 출시일",
+            "content": "공식 온라인 스토어에서는 4월 8일부터, 매장에서는 4월 9일부터 구매할 수 있습니다.",
+            "alt_text": "온라인 스토어 및 매장 출시일 정보"
+          },
+          {
+            "title": "여행 필수템?",
+            "content": "넉넉한 사이즈로 여행 중 짐 보관은 물론, 일상에서도 유용하게 사용할 수 있는 실용적인 아이템이에요.",
+            "alt_text": "빅 토트백에 짐을 넣는 모습 이미지"
+          },
+          {
+            "title": "구매 꿀팁!",
+            "content": "인기 상품이니만큼 품절되기 전에 서둘러 구매하는 것을 추천합니다! 특히 온라인 스토어 오픈 시간에 맞춰 노려보세요.",
+            "alt_text": "서둘러 구매하라는 안내 문구 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 귀여운 기념품을 찾는다면 주목! 🐧\n\n키노쿠니야에서 '스이카 펭귄' 빅 토트백이 출시되었어요!\n\n빵(옐로우), 딸기(레드), 물고기(블루) 3가지 디자인으로 각 4,180엔!\n\n온라인 스토어 4/8, 매장 4/9부터 판매 시작!\n\n여행 짐 보관용으로도 딱인 빅 사이즈 토트백, 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스이카펭귄",
+          "#키노쿠니야",
+          "#일본쇼핑",
+          "#일본기념품",
+          "#일본굿즈",
+          "#빅토트백",
+          "#여행필수템",
+          "#일본편의점",
+          "#한정판",
+          "#쇼핑스타그램",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본쇼핑리스트"
+        ],
+        "alt_texts": [
+          "키노쿠니야에서 출시한 스이카 펭귄 빅 토트백 이미지",
+          "빵, 딸기, 물고기 디자인의 스이카 펭귄 빅 토트백 이미지",
+          "온라인 스토어 및 매장 출시일 정보",
+          "빅 토트백에 짐을 넣는 모습 이미지",
+          "서둘러 구매하라는 안내 문구 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터와 실용성을 겸비한 아이템으로 높은 관심 유도 가능",
+      "image": {
+        "keyword": "Suica Penguin big tote bag, Kinokuniya, Japan shopping, cute souvenir, travel bag",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-big-tote-bag,-Kinokuniya,-Japan-shopping,-cute-souvenir,-travel-bag",
+        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20big%20tote%20bag,%20Kinokuniya,%20Japan%20shopping,%20cute%20souvenir,%20travel%20bag/"
+      }
+    },
     {
       "id": "plan_25f995f7",
       "created_at": "2026-04-06T23:51:45.891604",
@@ -923,160 +1077,6 @@
         "keyword": "Yugawara Onsen ryokan discount coupon lottery",
         "unsplash_url": "https://unsplash.com/s/photos/Yugawara-Onsen-ryokan-discount-coupon-lottery",
         "pexels_url": "https://www.pexels.com/search/Yugawara%20Onsen%20ryokan%20discount%20coupon%20lottery/"
-      }
-    },
-    {
-      "id": "plan_88564ec1",
-      "created_at": "2026-04-03T23:49:30.679040",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "高速道路の土日祝「二輪車定率割引」が本日スタート。80km超で37.5％引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099108.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 고속도로, 주말/공휴일 오토바이 통행료 37.5% 할인 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "🏍️일본 오토바이족 주목! 주말/공휴일 37.5% 할인!",
-        "cards": [
-          {
-            "title": "할인 기간",
-            "content": "일본 고속도로, 주말 및 공휴일 오토바이 통행료 정액 할인 혜택이 4월 4일부터 11월 29일까지 진행됩니다. (홋카이도 지역은 10월 31일까지)",
-            "alt_text": "일본 고속도로 할인 기간 안내"
-          },
-          {
-            "title": "할인율",
-            "content": "80km 초과 주행 시, 통행료의 37.5%를 할인받을 수 있습니다. 이 기회를 통해 일본 내 이동 비용을 절약하세요!",
-            "alt_text": "일본 고속도로 할인율 안내"
-          },
-          {
-            "title": "대상",
-            "content": "본 할인 혜택은 NEXCO 3사와 미야기현 도로공사에서 운영하는 고속도로에서 오토바이 이용객을 대상으로 합니다.",
-            "alt_text": "할인 혜택 대상 안내"
-          },
-          {
-            "title": "이용 방법",
-            "content": "별도 신청 없이, 주말 및 공휴일에 해당 고속도로를 이용하면 자동으로 할인이 적용됩니다.",
-            "alt_text": "일본 고속도로 할인 이용 방법 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본을 오토바이로 여행할 계획이라면, 주말/공휴일 활용하여 통행료 절약하세요! 특히 장거리 이동 시 유용합니다. 렌터카 이용 시에도 확인해보세요.",
-            "alt_text": "일본 오토바이 여행 꿀팁"
-          }
-        ],
-        "caption": "🇯🇵 오토바이로 일본 여행하는 분들 주목! \n주말 & 공휴일 고속도로 통행료 37.5% 할인 꿀팁 공개!\n\n✅ 할인 기간: 4월 4일 ~ 11월 29일 (홋카이도 10/31까지)\n✅ 할인 내용: 80km 초과 시 37.5% 할인\n✅ 대상: 오토바이 이용객\n\n이동 계획 세울 때 꼭 참고하세요! 🏍️💨\n\n#일본여행 #플라잉재팬 #일본교통 #오토바이여행 #일본할인",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#오토바이여행",
-          "#일본할인",
-          "#일본고속도로",
-          "#주말여행",
-          "#공휴일여행",
-          "#일본렌트카",
-          "#여행꿀팁",
-          "#교통정보",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본",
-          "#여행"
-        ],
-        "alt_texts": [
-          "일본 고속도로 할인 기간 안내",
-          "일본 고속도로 할인율 안내",
-          "할인 혜택 대상 안내",
-          "일본 고속도로 할인 이용 방법 안내",
-          "일본 오토바이 여행 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본을 오토바이로 여행하는 한국인 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 정보성 콘텐츠에 대한 관심 및 저장 / 이 콘텐츠의 강점: 구체적인 할인 정보와 적용 대상, 기간을 명확히 제시하여 실질적인 도움 제공",
-      "image": {
-        "keyword": "japan motorcycle highway discount",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-motorcycle-highway-discount",
-        "pexels_url": "https://www.pexels.com/search/japan%20motorcycle%20highway%20discount/"
-      }
-    },
-    {
-      "id": "plan_dbeae419",
-      "created_at": "2026-04-03T23:49:24.948036",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【若林直樹のトラベルフォトギャラリー】マザー牧場の春（千葉県）",
-        "url": "https://travel.watch.impress.co.jp/docs/series/wakabayashi/2098751.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "봄의 절정을 만끽할 수 있는 일본 최대 규모의 꽃 축제 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🌸마더목장 20만송이 🌸",
-        "cards": [
-          {
-            "title": "마더목장 🌸",
-            "content": "일본 치바현에 위치한 마더목장에서는 2월 중순부터 4월 말까지 약 2개월간 아름다운 유채꽃밭을 즐길 수 있습니다. 20만 송이의 노란 유채꽃이 장관을 이룹니다.",
-            "alt_text": "마더목장에서 활짝 핀 노란 유채꽃밭 풍경"
-          },
-          {
-            "title": "봄꽃 만개 🌷",
-            "content": "유채꽃 외에도 튤립, 벚꽃 등 다양한 봄꽃이 순차적으로 개화하여 방문객들에게 풍성한 볼거리를 제공합니다. 봄의 정취를 느끼기에 최적의 장소입니다.",
-            "alt_text": "다양한 봄꽃으로 가득 찬 마더목장의 모습"
-          },
-          {
-            "title": "동물과의 교감 🐑",
-            "content": "목장에서는 귀여운 양, 염소, 알파카 등 다양한 동물들에게 직접 먹이를 주며 교감할 수 있는 체험 프로그램도 운영합니다. 아이들과 함께 방문하기 좋습니다.",
-            "alt_text": "동물들에게 먹이를 주는 아이들의 모습"
-          },
-          {
-            "title": "다양한 즐길 거리 🎡",
-            "content": "꽃밭 구경 외에도 신선한 우유로 만든 아이스크림, 치즈 등 목장 특산물을 맛볼 수 있으며, 놀이기구, 바비큐 등 다양한 시설을 갖추고 있어 하루 종일 즐거운 시간을 보낼 수 있습니다.",
-            "alt_text": "마더목장에서 즐길 수 있는 다양한 먹거리와 놀이기구"
-          },
-          {
-            "title": "방문 팁 💡",
-            "content": "마더목장은 도쿄에서 약 1시간 30분 거리에 위치하며, 대중교통 및 자가용으로 방문 가능합니다. 방문 전 공식 홈페이지에서 개화 상황 및 이벤트 정보를 확인하는 것을 추천합니다.",
-            "alt_text": "마더목장 안내 표지판"
-          }
-        ],
-        "caption": "봄의 절정, 일본 치바현 마더목장에서 20만 송이 유채꽃과 함께 인생샷 남겨보세요! 📸\n\n🌸 2월 중순 ~ 4월 말, 유채꽃 만개!\n🌷 튤립, 벚꽃 등 다양한 봄꽃도 함께 즐겨요.\n🐑 동물 먹이 주기 체험, 맛있는 목장 음식까지!\n\n따뜻한 봄날, 잊지 못할 추억을 만들고 싶다면 지금 바로 마더목장으로 떠나세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#치바여행",
-          "#마더목장",
-          "#일본봄꽃",
-          "#유채꽃",
-          "#일본축제",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#도쿄근교",
-          "#일본여행정보",
-          "#봄여행",
-          "#꽃놀이",
-          "#일본아이와함께",
-          "#일본추천"
-        ],
-        "alt_texts": [
-          "마더목장에서 활짝 핀 노란 유채꽃밭 풍경",
-          "다양한 봄꽃으로 가득 찬 마더목장의 모습",
-          "동물들에게 먹이를 주는 아이들의 모습",
-          "마더목장에서 즐길 수 있는 다양한 먹거리와 놀이기구",
-          "마더목장 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 봄 시즌 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오전 9-11시, 주말 오후 1-3시 / 기대 반응: 높은 관심과 댓글 문의, 저장율 높음 / 이 콘텐츠의 강점: 시기적절한 봄꽃 정보, 아름다운 비주얼, 다양한 즐길 거리 소개",
-      "image": {
-        "keyword": "mother farm, japan, spring, rape flowers, tulip, cherry blossom, travel",
-        "unsplash_url": "https://unsplash.com/s/photos/mother-farm,-japan,-spring,-rape-flowers,-tulip,-cherry-blossom,-travel",
-        "pexels_url": "https://www.pexels.com/search/mother%20farm,%20japan,%20spring,%20rape%20flowers,%20tulip,%20cherry%20blossom,%20travel/"
       }
     }
   ]
