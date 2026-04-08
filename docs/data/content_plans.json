@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-08T03:27:27.365519",
+  "last_updated": "2026-04-08T23:53:26.178724",
   "plans": [
+    {
+      "id": "plan_3042c0b8",
+      "created_at": "2026-04-08T23:53:24.178519",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニー「フード＆ワイン・フェス」食べ歩きレポート。本格的なカプレーゼがお勧め、グルメチケットも買ってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2100226.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니씨에서 펼쳐지는 미식 축제! 놓치면 후회할 한정 메뉴와 꿀팁 대방출!"
+      },
+      "content": {
+        "thumbnail_title": "🍣디즈니씨 미식 축제 OPEN🍣",
+        "cards": [
+          {
+            "title": "축제 기간",
+            "content": "도쿄 디즈니씨 '푸드 & 와인 페스티벌'이 4월 15일부터 6월 30일까지 열립니다. 4월 8일부터는 일부 메뉴 판매가 시작되었어요!",
+            "alt_text": "도쿄 디즈니씨 푸드 앤 와인 페스티벌 포스터"
+          },
+          {
+            "title": "놓치면 안 될 메뉴",
+            "content": "이번 페스티벌에서는 본격적인 카프레제 등 다양한 나라의 특별한 메뉴들을 맛볼 수 있습니다. 현지에서도 호평받는 메뉴들을 꼭 즐겨보세요!",
+            "alt_text": "카프레제 샐러드 이미지"
+          },
+          {
+            "title": "스마트한 즐기기",
+            "content": "현장에서 바로 먹고 마시는 메뉴 외에도, '구르메 티켓' 구매를 고려해 보세요. 더 알차게 페스티벌을 즐길 수 있는 꿀팁이 될 거예요!",
+            "alt_text": "음식 주문하는 사람 이미지"
+          },
+          {
+            "title": "다양한 경험",
+            "content": "단순히 음식을 맛보는 것을 넘어, 전 세계의 미식을 테마로 한 식도락 여행을 떠나는 특별한 경험을 선사합니다.",
+            "alt_text": "다양한 음식이 진열된 푸드트럭 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "인기 메뉴는 조기 소진될 수 있으니 오픈 시간에 맞춰 방문하는 것을 추천합니다. 각 메뉴의 상세 정보는 공식 홈페이지에서 확인하세요!",
+            "alt_text": "사람들이 줄 서서 음식을 기다리는 모습"
+          }
+        ],
+        "caption": "✨도쿄 디즈니씨에서 펼쳐지는 역대급 미식 축제!✨\n\n4월 15일부터 6월 30일까지 열리는 '푸드 & 와인 페스티벌'에서 전 세계의 다채로운 음식을 맛보세요!\n\n특히 카프레제 등 현지에서 극찬받는 메뉴들은 필수!\n\n알찬 '구르메 티켓' 구매도 잊지 마세요!\n\n지금 바로 도쿄 디즈니씨에서 특별한 미식 여행을 떠나요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨",
+          "#푸드앤와인페스티벌",
+          "#도쿄여행",
+          "#일본축제",
+          "#디즈니축제",
+          "#일본맛집",
+          "#도쿄맛집",
+          "#해외여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#여행스타그램",
+          "#놀이공원"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 푸드 앤 와인 페스티벌 포스터",
+          "카프레제 샐러드 이미지",
+          "음식 주문하는 사람 이미지",
+          "다양한 음식이 진열된 푸드트럭 이미지",
+          "사람들이 줄 서서 음식을 기다리는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 20-40대 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시 / 기대 반응: 높은 관심과 정보 공유, 방문 계획에 큰 영향 / 이 콘텐츠의 강점: 최신 이벤트 정보, 구체적인 메뉴 및 꿀팁 제공으로 실질적인 도움",
+      "image": {
+        "keyword": "Tokyo DisneySea Food and Wine Festival, Japanese traveler, limited edition food, gourmet ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Food-and-Wine-Festival,-Japanese-traveler,-limited-edition-food,-gourmet-ticket",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Food%20and%20Wine%20Festival,%20Japanese%20traveler,%20limited%20edition%20food,%20gourmet%20ticket/"
+      }
+    },
+    {
+      "id": "plan_397f2122",
+      "created_at": "2026-04-08T23:53:16.087579",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "霧島市初の砂むし温泉施設「霧砂」6月1日オープン。鹿児島空港からクルマで約30分、日帰り入浴も可能",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2100201.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가고시마 공항에서 30분 거리! 6월 1일 새로 오픈하는 힐링 온천 정보!"
+      },
+      "content": {
+        "thumbnail_title": "♨️ 6/1 가고시마 신상 온천 오픈!",
+        "cards": [
+          {
+            "title": "새 온천 등장!",
+            "content": "가고시마 霧島市에 새로운 모래찜질 온천 시설 '霧砂(키리사)'가 6월 1일에 오픈합니다. 霧島국제호텔 부지 내에 위치하며, 당일치기 입욕도 가능해요.",
+            "alt_text": "새롭게 오픈하는 霧砂 온천 시설 외관 이미지"
+          },
+          {
+            "title": "위치 & 접근성",
+            "content": "가고시마 공항에서 차로 약 30분 거리에 있어 접근성이 좋습니다. 렌터카 여행 시 들르기 딱 좋은 코스예요.",
+            "alt_text": "가고시마 공항에서 霧砂 온천까지 가는 지도 이미지"
+          },
+          {
+            "title": "모래찜질의 매력",
+            "content": "따뜻한 모래 속에서 땀을 흘리며 노폐물을 배출하고 심신을 이완시키는 특별한 경험을 할 수 있습니다.",
+            "alt_text": "모래찜질을 즐기는 사람들의 모습 이미지"
+          },
+          {
+            "title": "당일치기 OK!",
+            "content": "여행 중 피로를 풀고 싶을 때, 또는 숙박 없이 온천만 즐기고 싶을 때 방문하기 좋습니다.",
+            "alt_text": "당일치기 온천 입욕을 안내하는 안내판 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "6월 1일 오픈 예정이니, 여행 계획에 맞춰 방문해보세요. 정확한 운영 시간 및 요금은 추후 확인 필요합니다.",
+            "alt_text": "온천 이용 시 주의사항을 안내하는 이미지"
+          }
+        ],
+        "caption": "일본 가고시마에서 새로운 힐링 스팟이 오픈합니다! ♨️ 6월 1일, 霧島市에 '霧砂(키리사)'라는 이름의 모래찜질 온천 시설이 문을 열어요. 가고시마 공항에서 차로 약 30분 거리라 접근성도 최고! 당일치기 입욕도 가능해서 여행 중 쌓인 피로를 풀기 딱 좋답니다. 😌 6월 일본 여행 계획 중이라면 주목하세요! ✨\n\n#일본온천 #가고시마여행 #모래찜질 #신상온천 #일본여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#가고시마",
+          "#가고시마여행",
+          "#일본온천",
+          "#모래찜질",
+          "#신상오픈",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#온천여행",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행스타그램",
+          "#6월여행",
+          "#힐링여행"
+        ],
+        "alt_texts": [
+          "새롭게 오픈하는 霧砂 온천 시설 외관 이미지",
+          "가고시마 공항에서 霧砂 온천까지 가는 지도 이미지",
+          "모래찜질을 즐기는 사람들의 모습 이미지",
+          "당일치기 온천 입욕을 안내하는 안내판 이미지",
+          "온천 이용 시 주의사항을 안내하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 가고시마 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 여행 계획 반영 / 이 콘텐츠의 강점: 신규 오픈 정보, 편리한 접근성 강조",
+      "image": {
+        "keyword": "Kagoshima Onsen, Japan Sand Bath, Kirishima City, Travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Kagoshima-Onsen,-Japan-Sand-Bath,-Kirishima-City,-Travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Kagoshima%20Onsen,%20Japan%20Sand%20Bath,%20Kirishima%20City,%20Travel%20Japan/"
+      }
+    },
     {
       "id": "plan_f2b402bc",
       "created_at": "2026-04-08T03:27:25.365351",
@@ -923,160 +1077,6 @@
         "keyword": "Japan hot spring hotel balcony fireworks",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-hot-spring-hotel-balcony-fireworks",
         "pexels_url": "https://www.pexels.com/search/Japan%20hot%20spring%20hotel%20balcony%20fireworks/"
-      }
-    },
-    {
-      "id": "plan_448e5489",
-      "created_at": "2026-04-05T03:32:44.619094",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR京浜東北・根岸線、5月の平日3日間は快速運転を中止。振替輸送なし、田端～田町は山手線の線路で運転",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2098996.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수! 5월 도쿄 근교 이동 시 꼭 확인해야 할 JR 운행 정보! 🚆"
-      },
-      "content": {
-        "thumbnail_title": "🚨5월 도쿄 JR 운행 중단!🚨",
-        "cards": [
-          {
-            "title": "운행 중단 구간",
-            "content": "JR京浜東北・根岸線(케이힌토호쿠선/네기시선)이 5월 19일, 20일, 21일 3일간 운행을 중단합니다. 해당 구간은 오미야(大宮)역부터 오오후나(大船)역까지입니다.",
-            "alt_text": "JR 케이힌토호쿠선/네기시선 운행 중단 구간 지도"
-          },
-          {
-            "title": "운행 시간",
-            "content": "매일 오전 10시 30분부터 오후 3시 30분까지 약 5시간 동안 쾌속 운행이 중지됩니다. 이 시간 동안에는 일반 열차만 운행합니다.",
-            "alt_text": "운행 중단 시간 표시"
-          },
-          {
-            "title": "대체 수단",
-            "content": "운행 중단 구간에 대한 별도의 대체 수송(振替輸送)은 제공되지 않습니다. 해당 시간대 이동 시에는 야마노테선(山手線) 등 다른 노선을 이용해야 합니다.",
-            "alt_text": "대체 노선 안내"
-          },
-          {
-            "title": "도쿄 이동 시 주의!",
-            "content": "특히 도쿄 도심(타바타~타마치 구간)에서는 야마노테선 선로를 이용해 운행될 예정입니다. 평소보다 지연 가능성이 있으니 이동 시간을 넉넉하게 잡으세요.",
-            "alt_text": "야마노테선 선로 이용 안내"
-          },
-          {
-            "title": "필수 확인!",
-            "content": "5월 19일부터 21일 사이 도쿄 근교 이동 계획이 있다면, JR 케이힌토호쿠선/네기시선 운행 정보를 꼭 확인하시고 여행 계획에 차질 없도록 미리 대비하세요!",
-            "alt_text": "여행 계획 확인 아이콘"
-          }
-        ],
-        "caption": "🚨5월 도쿄 여행 필수 정보!🚨\nJR 케이힌토호쿠선/네기시선이 5월 19일, 20일, 21일 3일간 특정 시간대에 쾌속 운행을 중단합니다.\n오전 10시 30분부터 오후 3시 30분까지 운행 구간(오미야~오오후나)에서 일반 열차만 운행하며, 대체 수송은 없습니다.\n도쿄 도심에서는 야마노테선 선로를 이용하나 지연 가능성이 있으니, 해당 기간 여행자는 꼭 확인하고 이동 계획 세우세요! ✈️\n\n#일본여행 #도쿄여행 #JR운행정보 #케이힌토호쿠선 #네기시선 #5월여행 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#JR",
-          "#케이힌토호쿠선",
-          "#네기시선",
-          "#일본교통",
-          "#5월일본",
-          "#여행정보",
-          "#일본철도",
-          "#도쿄근교",
-          "#여행필수",
-          "#일본생활",
-          "#안전여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JR 케이힌토호쿠선/네기시선 운행 중단 구간 지도",
-          "운행 중단 시간 표시",
-          "대체 노선 안내",
-          "야마노테선 선로 이용 안내",
-          "여행 계획 확인 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 5월 일본, 특히 도쿄 근교 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 저녁 시간 또는 여행 전날 / 기대 반응: 정보 유용성에 대한 감사 댓글, 공유 / 이 콘텐츠의 강점: 일본 현지에서 발생할 수 있는 실제적인 교통 불편 사항을 사전에 알려주어 여행객의 불안감을 해소하고 실질적인 도움을 줄 수 있음.",
-      "image": {
-        "keyword": "JR Keihin-Tohoku Line, Negishi Line, train suspension, Tokyo, Japan, travel information, May travel, transportation disruption",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Keihin-Tohoku-Line,-Negishi-Line,-train-suspension,-Tokyo,-Japan,-travel-information,-May-travel,-transportation-disruption",
-        "pexels_url": "https://www.pexels.com/search/JR%20Keihin-Tohoku%20Line,%20Negishi%20Line,%20train%20suspension,%20Tokyo,%20Japan,%20travel%20information,%20May%20travel,%20transportation%20disruption/"
-      }
-    },
-    {
-      "id": "plan_6eeef1b2",
-      "created_at": "2026-04-05T03:32:37.638702",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大阪駅直結「ルクア サウス」34店舗が本日先行オープン。秋にはサンリオなど新規29店舗",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099109.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 쇼핑 성지, 루쿠아 사우스 신관 오픈! 34개 매장이 먼저 문 열었어요!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 쇼핑 신세계 오픈✨",
-        "cards": [
-          {
-            "title": "루쿠아 사우스 오픈!",
-            "content": "오사카역 직결! 루쿠아 백화점 신관 '루쿠아 사우스'가 4월 5일 오늘, 34개 매장과 함께 먼저 문을 열었어요. 🛍️",
-            "alt_text": "오사카 루쿠아 사우스 신관 외관 사진"
-          },
-          {
-            "title": "가을엔 더 많아져요!",
-            "content": "올 가을에는 산리오 등 신규 29개 매장이 추가로 오픈 예정! 더욱 풍성해질 루쿠아 사우스를 기대해주세요. 💖",
-            "alt_text": "산리오 캐릭터 이미지"
-          },
-          {
-            "title": "위치와 접근성",
-            "content": "JR 오사카역과 바로 연결되어 있어 쇼핑 후 다른 곳으로 이동하기 편리해요. (주소: 오사카시 기타구 우메다 3-1-1)",
-            "alt_text": "오사카역 지도 이미지"
-          },
-          {
-            "title": "쇼핑 필수 코스!",
-            "content": "최신 트렌드 쇼핑부터 맛집 탐방까지! 오사카 여행 시 꼭 들러야 할 새로운 핫플레이스가 될 거예요. 💯",
-            "alt_text": "다양한 쇼핑백을 들고 있는 사람 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "오픈 초기에는 사람이 몰릴 수 있으니, 평일 오전 방문을 추천드려요. 팁핑, 식사, 쇼핑까지 한 곳에서 해결하세요! 😋",
-            "alt_text": "커피잔과 쇼핑백이 놓여 있는 테이블 이미지"
-          }
-        ],
-        "caption": "✨오사카 쇼핑 성지 루쿠아 사우스 신관 오픈!✨\n\n오사카 여행 필수 코스! 오사카역과 바로 연결된 루쿠아 사우스가 4월 5일 34개 매장과 함께 먼저 문을 열었어요. 🛍️ 올 가을 산리오 등 29개 매장이 추가 오픈 예정이니, 최신 트렌드 쇼핑과 맛집 탐방을 한 곳에서 즐겨보세요! 💖\n\n#오사카여행 #루쿠아사우스 #일본쇼핑 #오사카쇼핑 #일본신상 #오사카핫플 #여행정보 #플라잉재팬 #일본여행꿀팁 #쇼핑천국 #루쿠아 #JR오사카역 #우메다 #일본여행준비 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#루쿠아사우스",
-          "#일본쇼핑",
-          "#오사카쇼핑",
-          "#일본신상",
-          "#오사카핫플",
-          "#여행정보",
-          "#일본여행꿀팁",
-          "#쇼핑천국",
-          "#루쿠아",
-          "#JR오사카역",
-          "#우메다",
-          "#일본여행준비"
-        ],
-        "alt_texts": [
-          "오사카 루쿠아 사우스 신관 외관 사진",
-          "산리오 캐릭터 이미지",
-          "오사카역 지도 이미지",
-          "다양한 쇼핑백을 들고 있는 사람 이미지",
-          "커피잔과 쇼핑백이 놓여 있는 테이블 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 쇼핑을 즐기려는 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 저장, 댓글 문의 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 매장 수, 위치 정보를 제공하여 실질적인 여행 계획에 도움을 줌.",
-      "image": {
-        "keyword": "Osaka shopping mall new opening, Lucua South exterior, Sanrio characters, Osaka station map, shopping bags",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-shopping-mall-new-opening,-Lucua-South-exterior,-Sanrio-characters,-Osaka-station-map,-shopping-bags",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20shopping%20mall%20new%20opening,%20Lucua%20South%20exterior,%20Sanrio%20characters,%20Osaka%20station%20map,%20shopping%20bags/"
       }
     }
   ]
