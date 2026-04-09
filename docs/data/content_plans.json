@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-09T03:22:18.985440",
+  "last_updated": "2026-04-09T23:54:09.900753",
   "plans": [
+    {
+      "id": "plan_f1f119fa",
+      "created_at": "2026-04-09T23:54:07.900569",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルアルティア鳥羽、リブランド前に伊勢海老や黒毛和牛など地元食材夕食の特別プラン。8月からオールインクルーシブに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2100569.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 미식 여행의 새로운 기준! 미에현에서 맛보는 특별한 미식 경험을 놓치지 마세요."
+      },
+      "content": {
+        "thumbnail_title": "✨미에현 신상 올인클루시브 호텔 OPEN!✨",
+        "cards": [
+          {
+            "title": "호텔 리브랜딩",
+            "content": "미에현 토바시에 위치한 '호텔 알티아 토바'가 8월 1일, '토바 오션 리조트'로 리브랜딩하여 새롭게 오픈합니다. 올인클루시브 형태로 운영될 예정입니다.",
+            "alt_text": "새롭게 리브랜딩될 예정인 호텔 외관 이미지"
+          },
+          {
+            "title": "특별 석식 플랜",
+            "content": "리브랜딩 전, 현지 식재료를 활용한 특별 석식 플랜을 제공합니다. 신선한 이세에비(새우)와 최고급 흑모 와규를 맛볼 수 있습니다.",
+            "alt_text": "신선한 이세에비(새우) 요리 이미지"
+          },
+          {
+            "title": "올인클루시브",
+            "content": "8월 1일부터는 올인클루시브 호텔로 전환되어, 더욱 편리하고 풍성한 식음료 및 부대시설 이용이 가능해집니다.",
+            "alt_text": "다양한 음료와 음식이 준비된 뷔페 이미지"
+          },
+          {
+            "title": "미식 여행",
+            "content": "미에현의 자랑인 신선한 해산물과 육류를 최상의 상태로 즐길 수 있는 이번 기회를 놓치지 마세요. 미식 여행의 새로운 성지가 될 것입니다.",
+            "alt_text": "고급스러운 분위기의 레스토랑 내부 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "리브랜딩 전 특별 플랜은 한정 기간 운영되니, 방문 예정이라면 서둘러 예약하시는 것을 추천합니다. 올인클루시브 혜택도 미리 확인해보세요!",
+            "alt_text": "예약 페이지를 보여주는 스마트폰 화면 이미지"
+          }
+        ],
+        "caption": "일본 미식 여행 필수 코스! 🤩\n미에현 토바시에 위치한 '호텔 알티아 토바'가 8월 1일, '토바 오션 리조트'로 새롭게 태어납니다! 🌊\n\n✨리브랜딩 전, 이세에비와 흑모 와규를 맛볼 수 있는 특별 석식 플랜 운영!\n✨8월 1일부터는 올인클루시브 호텔로 전환!\n\n입안 가득 퍼지는 황홀한 미식 경험, 지금 바로 예약하세요! 🍣🥩\n\n#플라잉재팬 #일본여행 #미에현여행 #토바시 #호텔알티아토바 #토바오션리조트 #일본호텔 #올인클루시브 #일본미식 #이세에비 #흑모와규 #일본맛집 #여행정보 #일본숙소 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#미에현여행",
+          "#토바시",
+          "#호텔알티아토바",
+          "#토바오션리조트",
+          "#일본호텔",
+          "#올인클루시브",
+          "#일본미식",
+          "#이세에비",
+          "#흑모와규",
+          "#일본맛집",
+          "#여행정보",
+          "#일본숙소",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "새롭게 리브랜딩될 예정인 호텔 외관 이미지",
+          "신선한 이세에비(새우) 요리 이미지",
+          "다양한 음료와 음식이 준비된 뷔페 이미지",
+          "고급스러운 분위기의 레스토랑 내부 이미지",
+          "예약 페이지를 보여주는 스마트폰 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 미식과 고급스러운 휴양을 즐기고 싶은 2040 한국인 여행자 / 최적 게시 시간: 금요일 오후 7시, 토요일 오전 11시 / 기대 반응: 예약 문의 증가, 호텔 정보 공유 활발 / 이 콘텐츠의 강점: 신규 호텔 오픈 정보와 특별 프로모션을 결합하여 즉각적인 예약 행동 유도",
+      "image": {
+        "keyword": "Toba Ocean Resort, Mie Prefecture, Japan, all-inclusive, Ise ebi, Wagyu beef, luxury hotel, new opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Toba-Ocean-Resort,-Mie-Prefecture,-Japan,-all-inclusive,-Ise-ebi,-Wagyu-beef,-luxury-hotel,-new-opening",
+        "pexels_url": "https://www.pexels.com/search/Toba%20Ocean%20Resort,%20Mie%20Prefecture,%20Japan,%20all-inclusive,%20Ise%20ebi,%20Wagyu%20beef,%20luxury%20hotel,%20new%20opening/"
+      }
+    },
+    {
+      "id": "plan_25468b98",
+      "created_at": "2026-04-09T23:54:01.569811",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "新日本海フェリーで行く、初夏の「北海道美食ドライブパック」舞鶴・敦賀発着。乗船代＋ホテル＋食体験セット",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2100581.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름北海道, 페리로 떠나는 역대급 미식 드라이브"
+      },
+      "content": {
+        "thumbnail_title": "🚢 北海道 미식 드라이브 패키지! 🦀",
+        "cards": [
+          {
+            "title": "🚨 신규 상품 출시!",
+            "content": "신일본해 페리에서 '홋카이도 미식 드라이브 팩'을 출시했어요. 6월 1일부터 30일까지 출발/귀국하는 상품입니다.",
+            "alt_text": "신일본해 페리 로고와 함께 홋카이도 미식 드라이브 팩 출시 안내"
+          },
+          {
+            "title": "🚢 페리+숙박+식체험",
+            "content": "이 패키지는 페리 승선권, 호텔 숙박, 그리고 홋카이도의 맛있는 식도락 체험까지 모두 포함하고 있습니다.",
+            "alt_text": "페리, 호텔, 맛있는 음식 이미지를 조합한 썸네일"
+          },
+          {
+            "title": "📍 출발/도착지",
+            "content": "이번 상품은 일본 마이즈루항과 쓰루가항에서 출발하여 홋카이도로 향합니다.",
+            "alt_text": "일본 지도에 마이즈루항과 쓰루가항 표시"
+          },
+          {
+            "title": "📅 여행 기간",
+            "content": "2024년 6월 1일부터 6월 30일까지 출발 및 귀국하는 여행자를 대상으로 합니다.",
+            "alt_text": "캘린더에 6월 1일부터 30일까지 표시"
+          },
+          {
+            "title": "✨ 놓치지 마세요!",
+            "content": "페리로 편안하게 이동하며 홋카이도의 신선한 해산물과 지역 특산물을 맛볼 수 있는 절호의 기회! 여름 휴가를 특별하게 만들어보세요.",
+            "alt_text": "신선한 해산물 요리 사진"
+          }
+        ],
+        "caption": "여름北海道, 페리로 떠나는 미식 여행 🚢🦀\n\n신일본해 페리가 '홋카이도 미식 드라이브 팩'을 출시했어요!\n마이즈루/쓰루가항 출발, 6월 1일~30일 한정!\n페리 승선권 + 호텔 + 식체험까지 한번에 해결!\n\n이번 여름, 특별한 홋카이도 여행을 계획해보세요! ✨\n\n#홋카이도여행 #일본페리 #미식여행 #여름휴가 #드라이브패키지",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도여행",
+          "#일본페리",
+          "#미식여행",
+          "#홋카이도맛집",
+          "#여름휴가",
+          "#드라이브여행",
+          "#일본교통",
+          "#여행정보",
+          "#해외여행",
+          "#일본스타그램",
+          "#여행스타그램",
+          "#여행꿀팁",
+          "#6월여행"
+        ],
+        "alt_texts": [
+          "신일본해 페리 로고와 함께 홋카이도 미식 드라이브 팩 출시 안내",
+          "페리, 호텔, 맛있는 음식 이미지를 조합한 썸네일",
+          "일본 지도에 마이즈루항과 쓰루가항 표시",
+          "캘린더에 6월 1일부터 30일까지 표시",
+          "신선한 해산물 요리 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌에 특별한 일본 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 페리, 숙박, 식체험을 결합한 올인원 상품 정보로 여행 계획의 편리성을 강조",
+      "image": {
+        "keyword": "Hokkaido food drive package ferry Japan travel summer",
+        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-food-drive-package-ferry-Japan-travel-summer",
+        "pexels_url": "https://www.pexels.com/search/Hokkaido%20food%20drive%20package%20ferry%20Japan%20travel%20summer/"
+      }
+    },
     {
       "id": "plan_00e66cda",
       "created_at": "2026-04-09T03:22:16.985226",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese luxury ryokan with private onsen, Yugawara hot spring town, kaiseki dinner, Rakuten Travel discount coupon",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-luxury-ryokan-with-private-onsen,-Yugawara-hot-spring-town,-kaiseki-dinner,-Rakuten-Travel-discount-coupon",
         "pexels_url": "https://www.pexels.com/search/Japanese%20luxury%20ryokan%20with%20private%20onsen,%20Yugawara%20hot%20spring%20town,%20kaiseki%20dinner,%20Rakuten%20Travel%20discount%20coupon/"
-      }
-    },
-    {
-      "id": "plan_ef1dc32e",
-      "created_at": "2026-04-06T03:35:11.803706",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京空港交通、羽田空港ランプバスに燃料電池バス「SORA」3台を導入",
-        "url": "https://www.traicy.com/posts/20260405367218/",
-        "date": "Sun, 05 Apr 2026 11:15:29 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 하네다 공항에서 만나는 미래, 친환경 수소 연료전지 버스 'SORA' 도입!"
-      },
-      "content": {
-        "thumbnail_title": "✈️하네다 공항, 수소 버스 도입!🌿",
-        "cards": [
-          {
-            "title": "친환경 버스",
-            "content": "도쿄 항공교통, 하네다 공항 내 셔틀 버스로 토요타 수소 연료전지 버스 'SORA' 3대를 4월 3일부터 도입했어요.",
-            "alt_text": "친환경 수소 연료전지 버스 'SORA'가 하네다 공항에서 운행 중인 모습"
-          },
-          {
-            "title": "배출가스 제로",
-            "content": "'SORA'는 수소와 산소의 화학 반응으로 발전한 전기를 동력으로 사용해, 주행 시 이산화탄소 등 유해 물질을 전혀 배출하지 않아요.",
-            "alt_text": "수소 연료전지 버스 'SORA'의 내부 모습"
-          },
-          {
-            "title": "맑은 공기",
-            "content": "오직 물만 배출하는 친환경 버스로, 도쿄 공항 이용객들에게 더욱 쾌적한 환경을 선사할 예정입니다.",
-            "alt_text": "수소 연료전지 버스 'SORA'가 하네다 공항 터미널 근처를 주행하는 모습"
-          },
-          {
-            "title": "미래 교통",
-            "content": "일본의 첨단 기술이 집약된 수소 버스를 직접 경험하며, 지속 가능한 미래 교통 시스템을 엿볼 수 있는 기회입니다.",
-            "alt_text": "하네다 공항에서 승객을 기다리는 수소 연료전지 버스 'SORA'"
-          },
-          {
-            "title": "꿀팁",
-            "content": "하네다 공항 도착 후 입국 심사 및 짐 찾기 후, 셔틀 버스를 이용할 때 'SORA'를 만난다면 행운! 친환경 여행의 시작을 함께하세요.",
-            "alt_text": "하네다 공항 안내 표지판과 수소 연료전지 버스 'SORA'를 함께 담은 사진"
-          }
-        ],
-        "caption": "✈️ 도쿄 하네다 공항에서 만나는 푸른 하늘! 🌿\n\n4월 3일부터 하네다 공항 내 셔틀 버스로 토요타 수소 연료전지 버스 'SORA' 3대가 운행을 시작했어요!\n\n수소와 산소의 화학 반응으로 전기를 만들어, 주행 시 이산화탄소는 물론 어떤 유해 물질도 배출하지 않는 100% 친환경 버스랍니다. 오직 물만 배출한다는 사실! 💧\n\n일본의 앞선 친환경 기술을 직접 경험하며 쾌적한 공항 이동을 즐겨보세요! #플라잉재팬 과 함께하는 똑똑한 일본 여행 팁!\n\n#일본여행 #하네다공항 #수소버스 #친환경여행 #미래교통 #도쿄여행 #일본교통 #공항정보 #SORA",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하네다공항",
-          "#수소버스",
-          "#친환경여행",
-          "#미래교통",
-          "#도쿄여행",
-          "#일본교통",
-          "#공항정보",
-          "#SORA",
-          "#일본뉴스",
-          "#여행꿀팁",
-          "#일본스타그램",
-          "#여행스타그램",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "친환경 수소 연료전지 버스 'SORA'가 하네다 공항에서 운행 중인 모습",
-          "수소 연료전지 버스 'SORA'의 내부 모습",
-          "수소 연료전지 버스 'SORA'가 하네다 공항 터미널 근처를 주행하는 모습",
-          "하네다 공항에서 승객을 기다리는 수소 연료전지 버스 'SORA'",
-          "하네다 공항 안내 표지판과 수소 연료전지 버스 'SORA'를 함께 담은 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 하네다 공항을 이용하는 한국인 여행객 / 최적 게시 시간: 평일 오후 1시 ~ 3시 / 기대 반응: 흥미로운 최신 정보에 대한 관심, 친환경 이슈에 대한 긍정적 반응 / 이 콘텐츠의 강점: 일본 공항의 최신 교통 시스템 도입 소식으로 실질적인 정보 제공, 친환경이라는 시의성 있는 주제 결합",
-      "image": {
-        "keyword": "HND airport, hydrogen fuel cell bus, SORA, eco-friendly, sustainable transport, Japan, Tokyo, travel",
-        "unsplash_url": "https://unsplash.com/s/photos/HND-airport,-hydrogen-fuel-cell-bus,-SORA,-eco-friendly,-sustainable-transport,-Japan,-Tokyo,-travel",
-        "pexels_url": "https://www.pexels.com/search/HND%20airport,%20hydrogen%20fuel%20cell%20bus,%20SORA,%20eco-friendly,%20sustainable%20transport,%20Japan,%20Tokyo,%20travel/"
-      }
-    },
-    {
-      "id": "plan_c382c87f",
-      "created_at": "2026-04-06T03:35:03.531847",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "平日ディズニーが特別価格に「首都圏ウィークデーパスポート」6月末まで販売中。大人1000円お得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099121.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "평일 도쿄 디즈니랜드/디즈니씨 입장료 할인받고 알차게 즐기자!"
-      },
-      "content": {
-        "thumbnail_title": "✨평일 디즈니 1000엔 할인!✨",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "도쿄 디즈니랜드와 디즈니씨에서 '수도권 위크데이 패스포트'를 판매 중입니다. 어른 기준 1인당 1000엔 할인된 가격으로 이용 가능해요.",
-            "alt_text": "도쿄 디즈니랜드 입구 전경"
-          },
-          {
-            "title": "이용 기간",
-            "content": "2024년 4월 6일부터 6월 30일까지의 평일(월요일~금요일)에 사용 가능합니다.",
-            "alt_text": "캘린더에 표시된 평일"
-          },
-          {
-            "title": "제외 기간",
-            "content": "골든위크 기간인 4월 29일, 5월 4일, 5일, 6일은 할인 적용에서 제외되니 꼭 확인하세요!",
-            "alt_text": "골든위크 기간이 표시된 캘린더"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "어른 1인당 1000엔의 할인을 받을 수 있어, 디즈니 여행 경비를 절약할 수 있습니다.",
-            "alt_text": "할인 스티커 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "평일 방문 시 할인 혜택을 꼼꼼히 챙겨 알뜰하게 디즈니를 즐겨보세요! 공식 홈페이지에서 정확한 가격 정보를 확인하고 예매하는 것을 추천합니다.",
-            "alt_text": "스마트폰으로 디즈니 티켓 예매하는 모습"
-          }
-        ],
-        "caption": "🇯🇵 한국 여행자 주목! 평일 도쿄 디즈니랜드/디즈니씨 방문 예정이라면 주목하세요! 6월 30일까지 '수도권 위크데이 패스포트'로 어른 1인당 1000엔 할인받을 수 있다는 사실! 💖 골든위크는 제외되니 기간 꼭 확인하시고, 알뜰하게 디즈니에서 특별한 추억 만들어 가세요! ✨\n\n#일본여행 #도쿄디즈니랜드 #도쿄디즈니씨 #디즈니할인 #평일여행 #일본여행정보 #여행팁 #플라잉재팬 #도쿄여행 #일본가볼만한곳 #디즈니리조트 #해외여행 #여행스타그램 #일본자유여행 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니할인",
-          "#평일여행",
-          "#일본여행정보",
-          "#여행팁",
-          "#도쿄여행",
-          "#일본가볼만한곳",
-          "#디즈니리조트",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 입구 전경",
-          "캘린더에 표시된 평일",
-          "골든위크 기간이 표시된 캘린더",
-          "할인 스티커 이미지",
-          "스마트폰으로 디즈니 티켓 예매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 할인 정보와 기간 명시로 실질적 도움 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland, Tokyo DisneySea, weekday passport discount, travel savings, Japan travel tips",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Tokyo-DisneySea,-weekday-passport-discount,-travel-savings,-Japan-travel-tips",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Tokyo%20DisneySea,%20weekday%20passport%20discount,%20travel%20savings,%20Japan%20travel%20tips/"
       }
     }
   ]
