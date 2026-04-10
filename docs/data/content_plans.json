@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-09T23:54:09.900753",
+  "last_updated": "2026-04-10T03:35:14.553894",
   "plans": [
+    {
+      "id": "plan_90429db3",
+      "created_at": "2026-04-10T03:35:12.553693",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "グランベリーパーク、ハワイの本格ショー楽しめるGW8日間「Hawaiian Days 2026」。雑貨＆フードも集結",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2100566.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 근교에서 즐기는 하와이 축제! 8일간의 특별한 경험을 놓치지 마세요."
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 근교 하와이 축제!",
+        "cards": [
+          {
+            "title": "이벤트 기간",
+            "content": "2026년 4월 29일부터 5월 6일까지, 총 8일간 진행됩니다.",
+            "alt_text": "이벤트 기간을 나타내는 달력 이미지"
+          },
+          {
+            "title": "행사 장소",
+            "content": "도쿄도 마치다시 쓰루마 3-4-1에 위치한 그랜베리 파크에서 열립니다.",
+            "alt_text": "그랜베리 파크 위치를 표시하는 지도 이미지"
+          },
+          {
+            "title": "이벤트 내용",
+            "content": "하와이의 문화를 직접 체험할 수 있는 다채로운 행사와 함께, 하와이 관련 잡화 및 음식을 만나볼 수 있습니다.",
+            "alt_text": "하와이안 댄스 공연을 하는 사람들의 모습"
+          },
+          {
+            "title": "체험 기회",
+            "content": "현지 분위기를 물씬 느낄 수 있는 라이브 쇼를 즐기며 마치 하와이에 온 듯한 기분을 만끽할 수 있습니다.",
+            "alt_text": "하와이안 훌라 댄스 공연 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "골든위크 기간에 맞춰 열리는 특별한 이벤트이니, 도쿄 여행 계획 시 참고하시어 잊지 못할 추억을 만들어 보세요!",
+            "alt_text": "하와이안 음식을 즐기는 사람들의 모습"
+          }
+        ],
+        "caption": "🌸 도쿄 근교에서 하와이를 만끽하세요! 🌸\n2026년 4월 29일부터 5월 6일까지, 8일간 그랜베리 파크에서 'Hawaiian Days 2026' 이벤트가 열립니다.\n하와이 현지 분위기를 그대로 느낄 수 있는 쇼와 함께 다양한 잡화, 음식을 만나보세요!\n골든위크 특별 이벤트, 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#그랜베리파크",
+          "#하와이안데이즈",
+          "#골든위크",
+          "#일본이벤트",
+          "#도쿄근교",
+          "#가볼만한곳",
+          "#여행정보",
+          "#2026년이벤트",
+          "#일본축제",
+          "#해외여행",
+          "#일본소식",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "이벤트 기간을 나타내는 달력 이미지",
+          "그랜베리 파크 위치를 표시하는 지도 이미지",
+          "하와이안 댄스 공연을 하는 사람들의 모습",
+          "하와이안 훌라 댄스 공연 모습",
+          "하와이안 음식을 즐기는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교에서 특별한 경험을 원하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보와 구체적인 내용 전달",
+      "image": {
+        "keyword": "hawaii festival tokyo",
+        "unsplash_url": "https://unsplash.com/s/photos/hawaii-festival-tokyo",
+        "pexels_url": "https://www.pexels.com/search/hawaii%20festival%20tokyo/"
+      }
+    },
+    {
+      "id": "plan_34567982",
+      "created_at": "2026-04-10T03:35:04.181718",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】桜木町駅「しょうが焼き弁当」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2100450.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 대표 도시락 브랜드 '崎陽軒'의 특별한 신상 도시락 정보를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨崎陽軒 시우마이 없는 도시락?!",
+        "cards": [
+          {
+            "title": "새로운 도시락 출시!",
+            "content": "일본 대표 도시락 브랜드 '崎陽軒'에서 '쇼가야키 도시락'을 새롭게 선보입니다. 기존 崎陽軒의 인기 메뉴인 시우마이 대신 특별한 쇼가야키를 맛볼 수 있습니다.",
+            "alt_text": "崎陽軒 쇼가야키 도시락 이미지"
+          },
+          {
+            "title": "특별한 쇼가야키",
+            "content": "이번 신상 도시락은 '쇼가야키'를 메인으로 하여, 崎陽軒만의 특별한 레시피로 만들어졌습니다. 밥과 함께 든든하게 즐길 수 있는 메뉴입니다.",
+            "alt_text": "쇼가야키 도시락의 쇼가야키 부분 클로즈업 이미지"
+          },
+          {
+            "title": "판매 장소는?",
+            "content": "이 특별한 '쇼가야키 도시락'은 현재 '사쿠라기초역'에서 구매 가능합니다. 일본 여행 중이라면 꼭 들러보세요!",
+            "alt_text": "사쿠라기초역 안내 표지판 이미지"
+          },
+          {
+            "title": "崎陽軒 인기 메뉴",
+            "content": "崎陽軒은 시우마이 도시락으로 유명하며, 일본 내에서도 많은 사랑을 받는 브랜드입니다. 이번 신상 도시락도 큰 기대를 모으고 있습니다.",
+            "alt_text": "崎陽軒 시우마이 도시락 이미지"
+          },
+          {
+            "title": "여행 중 꿀팁!",
+            "content": "기차 여행이나 공항 이동 시 간편하게 즐길 수 있는 도시락은 필수! 崎陽軒의 새로운 쇼가야키 도시락으로 특별한 식사를 경험해보세요.",
+            "alt_text": "기차 안에서 도시락을 먹는 여행객 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수 코스! 崎陽軒에서 시우마이 없는 '쇼가야키 도시락'이 출시되었다는 사실! 😮\n\n이 특별한 신상 도시락은 사쿠라기초역에서 만나볼 수 있어요. 든든하고 맛있는 한 끼 식사로 기차 여행이나 관광 중에 딱이랍니다! 🍱\n\n이번 일본 여행에서 崎陽軒의 새로운 매력을 경험해보는 건 어떨까요? 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#崎陽軒",
+          "#쇼가야키도시락",
+          "#일본도시락",
+          "#사쿠라기초역",
+          "#일본맛집",
+          "#일본음식",
+          "#여행꿀팁",
+          "#일본필수템",
+          "#일본여행준비",
+          "#맛스타그램",
+          "#먹스타그램",
+          "#일본기차여행",
+          "#일본현지"
+        ],
+        "alt_texts": [
+          "崎陽軒 쇼가야키 도시락 이미지",
+          "쇼가야키 도시락의 쇼가야키 부분 클로즈업 이미지",
+          "사쿠라기초역 안내 표지판 이미지",
+          "崎陽軒 시우마이 도시락 이미지",
+          "기차 안에서 도시락을 먹는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 유명 브랜드의 신상 메뉴 정보로 호기심 자극 및 실질적인 여행 정보 제공",
+      "image": {
+        "keyword": "Yokohama station bento, Sho ga yaki bento, Kiyoken bento, Japanese train bento",
+        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-station-bento,-Sho-ga-yaki-bento,-Kiyoken-bento,-Japanese-train-bento",
+        "pexels_url": "https://www.pexels.com/search/Yokohama%20station%20bento,%20Sho%20ga%20yaki%20bento,%20Kiyoken%20bento,%20Japanese%20train%20bento/"
+      }
+    },
     {
       "id": "plan_f1f119fa",
       "created_at": "2026-04-09T23:54:07.900569",
@@ -923,160 +1077,6 @@
         "keyword": "Suica Penguin big tote bag, Kinokuniya, Japan shopping, cute souvenir, travel bag",
         "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-big-tote-bag,-Kinokuniya,-Japan-shopping,-cute-souvenir,-travel-bag",
         "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20big%20tote%20bag,%20Kinokuniya,%20Japan%20shopping,%20cute%20souvenir,%20travel%20bag/"
-      }
-    },
-    {
-      "id": "plan_25f995f7",
-      "created_at": "2026-04-06T23:51:45.891604",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "無印良品の日焼け止め、天然由来成分100％のミストや皮脂くずれ防止パウダーが登場。身体に使えるトーンアップミルクも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099516.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템! 무인양품 신상 선케어템으로 여름철 피부 완벽 보호!"
-      },
-      "content": {
-        "thumbnail_title": "☀️무인양품 신상 선케어템☀️",
-        "cards": [
-          {
-            "title": "신상 출시!",
-            "content": "무인양품에서 4월 8일, 새로운 선케어 라인 3종을 출시했어요. 전국 매장 및 온라인 스토어에서 만나볼 수 있습니다.",
-            "alt_text": "무인양품 신상 선케어 제품 이미지"
-          },
-          {
-            "title": "천연 성분 100%",
-            "content": "이번 신상 선케어 제품은 모두 천연 유래 성분 100%로 만들어져 민감한 피부에도 안심하고 사용할 수 있습니다.",
-            "alt_text": "천연 유래 성분 문구가 강조된 제품 이미지"
-          },
-          {
-            "title": "미스트 & 파우더",
-            "content": "휴대하기 좋은 미스트 타입 선케어와 땀과 피지로 인한 메이크업 번짐을 막아주는 선 파우더가 출시됩니다.",
-            "alt_text": "미스트와 파우더 타입 선케어 제품 이미지"
-          },
-          {
-            "title": "톤업 밀크",
-            "content": "몸에도 사용할 수 있는 톤업 선 밀크도 함께 출시되어 자연스러운 톤 보정 효과까지 선사합니다.",
-            "alt_text": "톤업 밀크 선케어 제품 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 890엔부터 990엔 사이로, 부담 없이 구매하여 일본 여행 중에도 꼼꼼한 자외선 차단이 가능합니다.",
-            "alt_text": "가격 정보가 표시된 제품 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템! ☀️ 무인양품에서 4월 8일, 천연 유래 성분 100% 신상 선케어 3종을 출시했어요!\n\n✨ 미스트, 피지 컨트롤 파우더, 톤업 밀크까지!\n✨ 가격 890엔~990엔으로 부담없이 준비 가능!\n\n올여름, 무인양품 선케어템으로 자외선 걱정 없이 즐거운 일본 여행 되세요! ✈️\n\n#일본여행 #무인양품 #선크림 #선케어 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무인양품",
-          "#무인양품선크림",
-          "#일본쇼핑",
-          "#일본필수템",
-          "#일본여행준비",
-          "#자외선차단",
-          "#선케어",
-          "#여행준비",
-          "#일본생활",
-          "#일본화장품",
-          "#일본쇼핑리스트",
-          "#여행스타그램",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "무인양품 신상 선케어 제품 이미지",
-          "천연 유래 성분 문구가 강조된 제품 이미지",
-          "미스트와 파우더 타입 선케어 제품 이미지",
-          "톤업 밀크 선케어 제품 이미지",
-          "가격 정보가 표시된 제품 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 2040 한국인 여성 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 제품 정보 습득, 구매 의사 결정 도움, 공유 / 이 콘텐츠의 강점: 실용적인 쇼핑 정보, 합리적인 가격, 신뢰할 수 있는 브랜드",
-      "image": {
-        "keyword": "MUJI sunscreen, Japan travel essentials, natural sunscreen mist, sebum control powder, tone-up sunscreen milk, affordable Japanese skincare",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI-sunscreen,-Japan-travel-essentials,-natural-sunscreen-mist,-sebum-control-powder,-tone-up-sunscreen-milk,-affordable-Japanese-skincare",
-        "pexels_url": "https://www.pexels.com/search/MUJI%20sunscreen,%20Japan%20travel%20essentials,%20natural%20sunscreen%20mist,%20sebum%20control%20powder,%20tone-up%20sunscreen%20milk,%20affordable%20Japanese%20skincare/"
-      }
-    },
-    {
-      "id": "plan_2dbb291d",
-      "created_at": "2026-04-06T23:51:40.886379",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "湯河原温泉のラグジュアリー宿「三輪」が春夏セールで21％オフ。全室露天風呂付き、ディナーは創作和食コース",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099531.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 최대 21% 할인받고 럭셔리 여행 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 21% 할인!♨️",
-        "cards": [
-          {
-            "title": "기간 한정 할인",
-            "content": "4월 20일까지 '라쿠텐 트래블 춘하 페어' 진행 중! 료칸 숙박 최대 21% 할인 혜택 놓치지 마세요.",
-            "alt_text": "라쿠텐 트래블 할인 행사 배너 이미지"
-          },
-          {
-            "title": "럭셔리 온천 숙소",
-            "content": "전 객실 노천탕 완비! 유서 깊은 온천 마을 유가와라의 '미와' 료칸에서 특별한 휴식을 경험하세요.",
-            "alt_text": "전 객실 노천탕이 있는 일본 료칸 외관 이미지"
-          },
-          {
-            "title": "미식의 향연",
-            "content": "저녁 식사로는 창의적인 일식 코스 요리가 제공됩니다. 료칸에서의 완벽한 미식 경험을 즐겨보세요.",
-            "alt_text": "정갈하게 차려진 일본식 코스 요리 이미지"
-          },
-          {
-            "title": "쿠폰 활용 꿀팁",
-            "content": "라쿠텐 트래블 쿠폰과 숙소 자체 쿠폰을 함께 사용하면 할인율을 최대로 받을 수 있습니다. 예약 전 꼭 확인하세요!",
-            "alt_text": "쿠폰 아이콘과 할인율 표시 이미지"
-          },
-          {
-            "title": "여행 계획 세우기",
-            "content": "골든위크, 여름 휴가 시즌 여행 예약 미리미리 준비하세요! 할인 기간 놓치지 말고 알찬 일본 여행 계획 세우세요.",
-            "alt_text": "달력에 표시된 일본 여행 계획 이미지"
-          }
-        ],
-        "caption": "일본 온천 여행, 최대 21% 할인받고 럭셔리하게 즐길 기회! ♨️\n유가와라 료칸 '미와'에서 전 객실 노천탕과 창의적인 일식 코스 요리를 경험하세요.\n4월 20일까지 진행되는 '라쿠텐 트래블 춘하 페어'에서 특별 할인 혜택을 누리세요!\n지금 바로 예약하고 잊지 못할 추억을 만드세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#유가와라",
-          "#료칸",
-          "#일본숙소",
-          "#온천여행",
-          "#일본할인",
-          "#라쿠텐트래블",
-          "#여행정보",
-          "#일본자유여행",
-          "#럭셔리여행",
-          "#일본가볼만한곳",
-          "#여행꿀팁",
-          "#일본여행준비"
-        ],
-        "alt_texts": [
-          "라쿠텐 트래블 할인 행사 배너 이미지",
-          "전 객실 노천탕이 있는 일본 료칸 외관 이미지",
-          "정갈하게 차려진 일본식 코스 요리 이미지",
-          "쿠폰 아이콘과 할인율 표시 이미지",
-          "달력에 표시된 일본 여행 계획 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 저녁 8시-10시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 럭셔리 숙소 정보로 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "Japanese luxury ryokan with private onsen, Yugawara hot spring town, kaiseki dinner, Rakuten Travel discount coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-luxury-ryokan-with-private-onsen,-Yugawara-hot-spring-town,-kaiseki-dinner,-Rakuten-Travel-discount-coupon",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20luxury%20ryokan%20with%20private%20onsen,%20Yugawara%20hot%20spring%20town,%20kaiseki%20dinner,%20Rakuten%20Travel%20discount%20coupon/"
       }
     }
   ]
