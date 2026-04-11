@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-11T03:14:37.798260",
+  "last_updated": "2026-04-11T23:51:24.850303",
   "plans": [
+    {
+      "id": "plan_45a704b7",
+      "created_at": "2026-04-11T23:51:22.850124",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR西日本、2026年度のホーム柵とホーム安全スクリーンの計画を発表。吹田駅・新福島駅は全のりばの整備完了へ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2100866.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 철도 이용 시 안전 강화 소식! 2026년까지 주요 역에 스크린도어 설치 예정"
+      },
+      "content": {
+        "thumbnail_title": "JR 서일본 2026년 홈 안전 강화! 🚉",
+        "cards": [
+          {
+            "title": "홈 안전 강화",
+            "content": "JR 서일본은 2026년까지 주요 역에 스크린도어 설치를 완료할 계획입니다. 2026년도에는 11개역에서 스크린도어 사용을 시작하고, 11개역에서 공사를 시작합니다.",
+            "alt_text": "JR 서일본 열차와 역 플랫폼에 설치될 스크린도어 이미지"
+          },
+          {
+            "title": "완료 예정 역",
+            "content": "특히, 스이타역과 신후쿠시마역은 모든 승강장에 대한 홈 안전 스크린 설치가 완료될 예정입니다. 안전한 여행을 위해 참고하세요.",
+            "alt_text": "스이타역과 신후쿠시마역 표지판 이미지"
+          },
+          {
+            "title": "스크린도어 도입",
+            "content": "이번 홈 안전 스크린 도입으로 열차 운행 중 발생하는 승객 추락 사고 등을 예방하여 더욱 안전한 철도 이용 환경을 제공할 것으로 기대됩니다.",
+            "alt_text": "스크린도어가 설치된 열차 승강장 이미지"
+          },
+          {
+            "title": "이용객 편의",
+            "content": "향후 JR 서일본 전역으로 확대될 가능성이 있어, 일본 여행 시 열차 이용이 더욱 편리하고 안전해질 전망입니다.",
+            "alt_text": "열차에 탑승하는 승객들의 모습 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "새로운 안전 시설이 도입되는 역에서는 열차 탑승 시 잠시 안내를 확인하는 것이 좋습니다. 여행 전 JR 서일본 공식 발표를 참고하여 최신 정보를 파악하세요.",
+            "alt_text": "여행자가 스마트폰으로 정보를 확인하는 모습 이미지"
+          }
+        ],
+        "caption": "JR 서일본, 2026년까지 주요 역에 홈 안전 스크린 설치 완료 예정! 🚉\n\n안전을 최우선으로 생각하는 JR 서일본이 2026년까지 홈 안전 스크린 설치를 확대합니다.\n\n스이타역, 신후쿠시마역 등 여러 역에서 공사가 진행되며, 우리의 안전한 일본 여행을 더욱 든든하게 지켜줄 거예요. 👍\n\n일본 철도 이용 예정이라면 꼭 알아두세요! 😉\n\n#일본여행 #JR서일본 #일본교통 #안전여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#JR서일본",
+          "#안전여행",
+          "#일본철도",
+          "#여행꿀팁",
+          "#일본정보",
+          "#2026년",
+          "#스크린도어",
+          "#여행준비",
+          "#일본자유여행",
+          "#일본생활",
+          "#여행스타그램",
+          "#일본소식"
+        ],
+        "alt_texts": [
+          "JR 서일본 열차와 역 플랫폼에 설치될 스크린도어 이미지",
+          "스이타역과 신후쿠시마역 표지판 이미지",
+          "스크린도어가 설치된 열차 승강장 이미지",
+          "열차에 탑승하는 승객들의 모습 이미지",
+          "여행자가 스마트폰으로 정보를 확인하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 유용성에 대한 긍정적 반응, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 안전 정보 제공, 구체적인 역 정보 포함",
+      "image": {
+        "keyword": "JR West Japan, platform screen doors, train station safety, Japan railway travel, transportation infrastructure",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-West-Japan,-platform-screen-doors,-train-station-safety,-Japan-railway-travel,-transportation-infrastructure",
+        "pexels_url": "https://www.pexels.com/search/JR%20West%20Japan,%20platform%20screen%20doors,%20train%20station%20safety,%20Japan%20railway%20travel,%20transportation%20infrastructure/"
+      }
+    },
+    {
+      "id": "plan_f1360835",
+      "created_at": "2026-04-11T23:51:13.218745",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】世界自然遺産の島・奄美の動物保護に貢献する「奄美の生き物お楽しみチャーム」、JAC機内販売で展開",
+        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2099958.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 항공기에서 만나는 멸종위기 동물 보호 기부 상품!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 기내 한정! 멸종위기 동물을 지켜요🐢",
+        "cards": [
+          {
+            "title": "특별한 기내 판매",
+            "content": "JAL(일본항공)이 멸종위기 동물을 보호하기 위한 '아마미의 생물 즐거움 참'을 기내에서 판매합니다. 이 수익금은 아마미 군도의 동물 보호 활동에 사용됩니다.",
+            "alt_text": "JAL 항공기 내부에서 판매 중인 '아마미의 생물 즐거움 참' 상품 이미지"
+          },
+          {
+            "title": "지역 활성화 프로젝트",
+            "content": "JAL은 지역 활성화를 위해 'JAL 고향 프로젝트'를 진행 중입니다. 객실 승무원들이 직접 지역에 이주하거나 지역 활동에 참여하며 상품 개발 및 지역 문제 해결에 힘쓰고 있습니다.",
+            "alt_text": "JAL 객실 승무원이 지역 주민과 함께 활동하는 모습"
+          },
+          {
+            "title": "기여하는 여행",
+            "content": "이번 '아마미의 생물 즐거움 참' 구매를 통해 일본 여행 중에도 의미 있는 기부에 동참할 수 있습니다. 아마미 군도의 소중한 생태계를 지키는 데 힘을 보태세요.",
+            "alt_text": "'아마미의 생물 즐거움 참' 상품 디자인 상세 이미지"
+          },
+          {
+            "title": "언제 어디서?",
+            "content": "해당 상품은 JAL 국내선 및 국제선 기내 판매를 통해 구매 가능합니다. 정확한 판매 노선 및 시기는 JAL 공식 웹사이트에서 확인해주세요.",
+            "alt_text": "JAL 항공기 기내 서비스 카트 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "기내 판매 상품은 한정 수량일 수 있으니, 구매를 원하시면 승무원에게 문의하는 것이 좋습니다. JAL 앱 또는 웹사이트에서 기내 판매 상품 목록을 미리 확인하는 것도 좋은 방법입니다.",
+            "alt_text": "기내 면세품 구매 안내 사인 이미지"
+          }
+        ],
+        "caption": "✈️JAL 항공기를 이용하신다면 주목! ✈️\n\n이번 일본 여행에서 특별한 의미를 더해보세요. JAL이 선보이는 '아마미의 생물 즐거움 참'은 멸종위기 동물을 보호하는 데 기여하는 착한 상품입니다. 🐢\n\nJAL의 지역 활성화 프로젝트의 일환으로 탄생한 이 참은 구매 금액의 일부가 아마미 군도의 소중한 생태계를 지키는 데 사용됩니다.\n\n나만의 특별한 기념품이 될 뿐만 아니라, 지구를 위한 따뜻한 마음까지 나눌 수 있는 기회! 놓치지 마세요. 😉\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #기내면세 #기부 #여행팁 #아마미군도 #멸종위기동물 #착한소비 #일본여행정보 #여행꿀팁 #특별한선물 #가치소비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#기내면세",
+          "#기부",
+          "#여행팁",
+          "#아마미군도",
+          "#멸종위기동물",
+          "#착한소비",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#특별한선물",
+          "#가치소비",
+          "#일본여행필수템"
+        ],
+        "alt_texts": [
+          "JAL 항공기 내부에서 판매 중인 '아마미의 생물 즐거움 참' 상품 이미지",
+          "JAL 객실 승무원이 지역 주민과 함께 활동하는 모습",
+          "'아마미의 생물 즐거움 참' 상품 디자인 상세 이미지",
+          "JAL 항공기 기내 서비스 카트 이미지",
+          "기내 면세품 구매 안내 사인 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: JAL 항공 이용객, 윤리적 소비에 관심 있는 한국인 여행자 / 최적 게시 시간: 여행 준비 기간인 평일 오후 3-5시 / 기대 반응: 높은 관심과 정보 공유, 구매 문의 / 이 콘텐츠의 강점: 시의성 있는 항공사 프로모션 정보와 의미 있는 기부 활동 연결",
+      "image": {
+        "keyword": "JAL in-flight sales, Amami wildlife charm, endangered animal protection, JAL regional revitalization, charitable travel souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-in-flight-sales,-Amami-wildlife-charm,-endangered-animal-protection,-JAL-regional-revitalization,-charitable-travel-souvenir",
+        "pexels_url": "https://www.pexels.com/search/JAL%20in-flight%20sales,%20Amami%20wildlife%20charm,%20endangered%20animal%20protection,%20JAL%20regional%20revitalization,%20charitable%20travel%20souvenir/"
+      }
+    },
     {
       "id": "plan_2dfbf347",
       "created_at": "2026-04-11T03:14:35.798099",
@@ -923,160 +1077,6 @@
         "keyword": "Kagoshima Onsen, Japan Sand Bath, Kirishima City, Travel Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Kagoshima-Onsen,-Japan-Sand-Bath,-Kirishima-City,-Travel-Japan",
         "pexels_url": "https://www.pexels.com/search/Kagoshima%20Onsen,%20Japan%20Sand%20Bath,%20Kirishima%20City,%20Travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_f2b402bc",
-      "created_at": "2026-04-08T03:27:25.365351",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、USJオフィシャルホテル限定クーポン配布開始。任天堂エリアで使えるパワーアップバンド付きプランも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099744.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "USJ 공식 호텔 숙박 시 꿀팁! 닌텐도 월드 입장 가능한 특별 플랜 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨USJ 호텔 꿀딜✨",
-        "cards": [
-          {
-            "title": "⚡️특별 쿠폰",
-            "content": "USJ 공식 호텔에 묵는다면 楽天トラベル에서 제공하는 특별 쿠폰을 받을 수 있어요. 6월 29일까지 진행되니 서두르세요!",
-            "alt_text": "USJ 공식 호텔 쿠폰 이미지"
-          },
-          {
-            "title": "🍄닌텐도 월드",
-            "content": "쿠폰과 함께 파워업 밴드가 포함된 특별 플랜도 준비되어 있어요. 닌텐도 월드 존에 입장할 때 꼭 필요한 아이템이랍니다!",
-            "alt_text": "닌텐도 월드 파워업 밴드 이미지"
-          },
-          {
-            "title": "🏨공식 호텔",
-            "content": "유니버설 스튜디오 재팬 공식 호텔은 편리한 접근성과 다양한 혜택을 제공합니다. 꿈같은 하루를 보내세요!",
-            "alt_text": "USJ 공식 호텔 외관 이미지"
-          },
-          {
-            "title": "📅기간 한정",
-            "content": "이 특별한 혜택은 6월 29일까지입니다. 여행 계획 중이라면 지금 바로 확인해보세요!",
-            "alt_text": "캘린더에 6월 29일 표시된 이미지"
-          },
-          {
-            "title": "💡꿀팁!",
-            "content": "쿠폰과 파워업 밴드 플랜은 楽天トラベル에서만 제공되니, 예약 시 꼭 확인하세요. 닌텐도 월드에서 더욱 신나는 경험을 할 수 있습니다!",
-            "alt_text": "USJ 지도와 닌텐도 월드 존 표시 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 USJ 방문 예정이라면 주목! 🤩 楽天トラベル에서 USJ 공식 호텔 예약 시 사용 가능한 특별 쿠폰과 닌텐도 월드 존 입장 시 필수템인 파워업 밴드가 포함된 플랜을 6월 29일까지 제공해요! 🍄✨\n\n✅ USJ 공식 호텔 예약 시 楽天トラベル 특별 쿠폰 증정\n✅ 파워업 밴드 포함 플랜으로 닌텐도 월드 즐기기!\n\n놓치면 후회할 절호의 기회, 지금 바로 예약하고 신나는 USJ 여행 계획하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#USJ",
-          "#유니버설스튜디오재팬",
-          "#오사카여행",
-          "#일본자유여행",
-          "#일본할인",
-          "#일본쿠폰",
-          "#닌텐도월드",
-          "#슈퍼닌텐도월드",
-          "#일본숙소",
-          "#호텔할인",
-          "#여행꿀팁",
-          "#일본정보",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "USJ 공식 호텔 쿠폰 이미지",
-          "닌텐도 월드 파워업 밴드 이미지",
-          "USJ 공식 호텔 외관 이미지",
-          "캘린더에 6월 29일 표시된 이미지",
-          "USJ 지도와 닌텐도 월드 존 표시 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 오사카 USJ 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 평일 저녁 7-9시 / 기대 반응: 쿠폰 및 특별 플랜에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 혜택과 인기 테마파크 방문에 대한 직접적인 정보 제공",
-      "image": {
-        "keyword": "USJ official hotel coupon Nintendo World Power Up Band",
-        "unsplash_url": "https://unsplash.com/s/photos/USJ-official-hotel-coupon-Nintendo-World-Power-Up-Band",
-        "pexels_url": "https://www.pexels.com/search/USJ%20official%20hotel%20coupon%20Nintendo%20World%20Power%20Up%20Band/"
-      }
-    },
-    {
-      "id": "plan_9c150343",
-      "created_at": "2026-04-08T03:27:19.316019",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "食・癒・泊の複合施設「富士モータースポーツフォレストテラス」6月5日先行開業。静岡県初など5店舗",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2099962.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후지산 근처 새로운 복합 시설 오픈! 맛집, 쇼핑, 휴식을 한 번에 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "🔥후지산 신상 복합시설 오픈!🔥",
-        "cards": [
-          {
-            "title": "신규 개장!",
-            "content": "후지 모터스포츠 포레스트 테라스가 2024년 6월 5일, 5개 점포를 시작으로 선행 오픈합니다. 후지산 근처에서 새로운 경험을 즐겨보세요!",
-            "alt_text": "후지 모터스포츠 포레스트 테라스 외관 이미지"
-          },
-          {
-            "title": "다양한 즐길 거리",
-            "content": "식(食), 치유(癒), 숙박(泊)을 모두 갖춘 복합 시설로, 맛집, 카페, 쇼핑 등 다양한 즐길 거리가 준비되어 있습니다.",
-            "alt_text": "다양한 음식과 음료 이미지"
-          },
-          {
-            "title": "시즈오카현 최초",
-            "content": "이곳은 시즈오카현 내 최초로 선보이는 복합 시설로, 지역 특색을 살린 특별한 경험을 제공할 예정입니다.",
-            "alt_text": "시즈오카현 지도 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 시즈오카현 스루가군 오야마초 오미가미 아자 코다마자와 121-28이며, 후지산 접근성이 좋은 곳에 위치합니다.",
-            "alt_text": "후지산이 보이는 풍경 이미지"
-          },
-          {
-            "title": "여행 꿀팁!",
-            "content": "오픈 초기에는 많은 인파가 몰릴 수 있으니, 방문 전 운영 시간 및 예약 가능 여부를 확인하시는 것이 좋습니다. 후지산 여행 계획에 꼭 추가하세요!",
-            "alt_text": "여행 계획을 세우는 사람 이미지"
-          }
-        ],
-        "caption": "✨후지산 근처에 새로운 핫플레이스가 생긴다구요!✨\n\n2024년 6월 5일, '후지 모터스포츠 포레스트 테라스'가 5개 점포를 시작으로 선행 오픈합니다! 🤩\n\n식, 휴식, 숙박까지 한 번에 해결 가능한 이곳에서 특별한 일본 여행을 만들어보세요. 🗻🚗\n\n#일본여행 #후지산 #후지모터스포츠포레스트테라스 #시즈오카여행 #일본신상 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후지산",
-          "#후지모터스포츠포레스트테라스",
-          "#시즈오카",
-          "#일본신상",
-          "#일본복합시설",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본핫플",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#일본추천"
-        ],
-        "alt_texts": [
-          "후지 모터스포츠 포레스트 테라스 외관 이미지",
-          "다양한 음식과 음료 이미지",
-          "시즈오카현 지도 이미지",
-          "후지산이 보이는 풍경 이미지",
-          "여행 계획을 세우는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 후지산 주변 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 후지산 여행 계획에 대한 관심 증가, 해당 시설 방문 의사 표현 / 이 콘텐츠의 강점: 후지산 여행객에게 직접적으로 도움이 되는 신규 시설 정보, 구체적인 오픈일과 위치 정보 제공",
-      "image": {
-        "keyword": "fuji, motorsports, forest, terrace, japan, shizuoka, new opening, complex facility, food, relax, stay",
-        "unsplash_url": "https://unsplash.com/s/photos/fuji,-motorsports,-forest,-terrace,-japan,-shizuoka,-new-opening,-complex-facility,-food,-relax,-stay",
-        "pexels_url": "https://www.pexels.com/search/fuji,%20motorsports,%20forest,%20terrace,%20japan,%20shizuoka,%20new%20opening,%20complex%20facility,%20food,%20relax,%20stay/"
       }
     }
   ]
