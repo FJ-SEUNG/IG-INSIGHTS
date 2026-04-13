@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-13T03:47:55.796455",
+  "last_updated": "2026-04-13T23:59:55.208102",
   "plans": [
+    {
+      "id": "plan_fbaf960f",
+      "created_at": "2026-04-13T23:59:53.207914",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "25周年ダッフィー新作グッズ＆スーベニア本日発売。実物写真で気になるアイテムを予習しよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101347.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후 심쿵! 도쿄디즈니씨 한정판 다키마쿠라 굿즈 4월 14일 출시! 🌊✨"
+      },
+      "content": {
+        "thumbnail_title": "💖4/14 디즈니씨 한정판!",
+        "cards": [
+          {
+            "title": "신상 굿즈 출시!",
+            "content": "도쿄디즈니씨에서 '다키마쿠라 & 프렌즈의 파인드 유어 뷰티풀 블루!' 테마의 한정판 굿즈와 푸드 수베니어가 2024년 4월 14일 출시됩니다.",
+            "alt_text": "도쿄디즈니씨 신상 굿즈 출시 안내"
+          },
+          {
+            "title": "판매 장소",
+            "content": "굿즈는 '맥덕스 백화점'에서, 푸드 수베니어는 '케이프코드 쿡오프' 등에서 판매될 예정입니다.",
+            "alt_text": "도쿄디즈니씨 굿즈 및 푸드 수베니어 판매 장소 안내"
+          },
+          {
+            "title": "다키마쿠라 & 프렌즈",
+            "content": "새로운 테마 '파인드 유어 뷰티풀 블루!'로 돌아온 다키마쿠라와 친구들의 사랑스러운 굿즈들을 만나보세요.",
+            "alt_text": "도쿄디즈니씨 다키마쿠라 & 프렌즈 테마 굿즈 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "인기 캐릭터인 다키마쿠라와 친구들의 한정판 굿즈는 조기 품절될 수 있으니 서둘러 방문하세요!",
+            "alt_text": "도쿄디즈니씨 한정판 굿즈 조기 품절 안내"
+          },
+          {
+            "title": "방문 팁!",
+            "content": "방문 전 공식 홈페이지에서 정확한 판매 장소와 운영 시간을 미리 확인하는 것을 추천합니다. ✈️",
+            "alt_text": "도쿄디즈니씨 방문 전 사전 확인 팁 안내"
+          }
+        ],
+        "caption": "디즈니 덕후들 주목! 🚨 도쿄디즈니씨에서 4월 14일, '다키마쿠라 & 프렌즈의 파인드 유어 뷰티풀 블루!' 테마의 한정판 굿즈와 푸드 수베니어가 출시됩니다! 💖 맥덕스 백화점과 케이프코드 쿡오프에서 만나요! 🌊✨\n\n#일본여행 #도쿄디즈니씨 #다키마쿠라 #디즈니굿즈 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#디즈니씨",
+          "#다키마쿠라",
+          "#디즈니굿즈",
+          "#한정판",
+          "#여행정보",
+          "#일본쇼핑",
+          "#도쿄",
+          "#인싸템",
+          "#여행필수템",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "도쿄디즈니씨 신상 굿즈 출시 안내",
+          "도쿄디즈니씨 굿즈 및 푸드 수베니어 판매 장소 안내",
+          "도쿄디즈니씨 다키마쿠라 & 프렌즈 테마 굿즈 이미지",
+          "도쿄디즈니씨 한정판 굿즈 조기 품절 안내",
+          "도쿄디즈니씨 방문 전 사전 확인 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 디즈니 팬 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 정보, 타겟 맞춤형 매력 포인트 강조, 구체적인 정보 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea Duffy and Friends new merchandise launch April 14 limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Duffy-and-Friends-new-merchandise-launch-April-14-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Duffy%20and%20Friends%20new%20merchandise%20launch%20April%2014%20limited%20edition/"
+      }
+    },
+    {
+      "id": "plan_da5fc6b6",
+      "created_at": "2026-04-13T23:59:47.378480",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "絶対に見逃せない！　東京ディズニーシー開園25周年の見どころまとめ。イベント/グッズ/グルメをさくっと予習しよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101351.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니씨 25주년! 놓치면 후회할 특별 이벤트, 한정 굿즈, 맛있는 음식까지 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니씨 25주년✨",
+        "cards": [
+          {
+            "title": "25주년 축제",
+            "content": "도쿄 디즈니씨에서 2024년 4월 15일부터 2027년 3월 31일까지 25주년 기념 특별 이벤트 '스파클링 주빌리'가 개최됩니다. 잊지 못할 추억을 만들 기회!",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 이벤트 '스파클링 주빌리' 포스터"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "기간 한정으로 펼쳐지는 화려한 퍼레이드와 쇼를 즐길 수 있습니다. 다양한 테마의 볼거리와 즐길 거리가 가득 준비되어 있어요.",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 퍼레이드 모습"
+          },
+          {
+            "title": "특별 굿즈",
+            "content": "25주년을 기념하는 오리지널 굿즈들이 대거 출시됩니다. 특별한 디자인의 기념품과 아이템들을 놓치지 말고 득템하세요!",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 한정 굿즈 이미지"
+          },
+          {
+            "title": "맛있는 즐거움",
+            "content": "축제 기간에만 맛볼 수 있는 특별한 메뉴와 디저트들이 준비되어 있습니다. 디즈니 캐릭터를 형상화한 귀여운 음식들을 맛보세요!",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 특별 메뉴 이미지"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "이벤트 기간은 2027년 3월 31일까지로 넉넉하지만, 인기 절정 예상되니 미리 티켓 예매는 필수! 늦기 전에 계획 세우세요!",
+            "alt_text": "도쿄 디즈니씨 입구 전경"
+          }
+        ],
+        "caption": "✨도쿄 디즈니씨 25주년 '스파클링 주빌리'✨\n2024년 4월 15일부터 2027년 3월 31일까지, 25주년 기념 특별 이벤트가 펼쳐져요!\n화려한 퍼레이드, 한정판 굿즈, 특별 메뉴까지! 잊지 못할 추억을 만들 기회, 놓치지 마세요!\n지금 바로 여행 계획 세우고 디즈니씨에서 특별한 시간을 보내세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨25주년",
+          "#스파클링주빌리",
+          "#도쿄여행",
+          "#일본테마파크",
+          "#디즈니랜드",
+          "#일본축제",
+          "#디즈니굿즈",
+          "#디즈니맛집",
+          "#해외여행",
+          "#가족여행",
+          "#커플여행",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 25주년 기념 이벤트 '스파클링 주빌리' 포스터",
+          "도쿄 디즈니씨 25주년 기념 퍼레이드 모습",
+          "도쿄 디즈니씨 25주년 기념 한정 굿즈 이미지",
+          "도쿄 디즈니씨 25주년 기념 특별 메뉴 이미지",
+          "도쿄 디즈니씨 입구 전경"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 이벤트 정보에 대한 높은 관심과 기대감, 예약 문의 증가 / 이 콘텐츠의 강점: 최신 이벤트 정보와 함께 실질적인 굿즈, 메뉴 정보까지 제공하여 여행 계획에 직접적인 도움 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea 25th Anniversary Sparkling Jubily",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-Anniversary-Sparkling-Jubily",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20Anniversary%20Sparkling%20Jubily/"
+      }
+    },
     {
       "id": "plan_8faa8f41",
       "created_at": "2026-04-13T03:47:53.796235",
@@ -923,160 +1077,6 @@
         "keyword": "japanese train, shinkansen, golden week, reservation, peak travel",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-train,-shinkansen,-golden-week,-reservation,-peak-travel",
         "pexels_url": "https://www.pexels.com/search/japanese%20train,%20shinkansen,%20golden%20week,%20reservation,%20peak%20travel/"
-      }
-    },
-    {
-      "id": "plan_90429db3",
-      "created_at": "2026-04-10T03:35:12.553693",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "グランベリーパーク、ハワイの本格ショー楽しめるGW8日間「Hawaiian Days 2026」。雑貨＆フードも集結",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2100566.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 근교에서 즐기는 하와이 축제! 8일간의 특별한 경험을 놓치지 마세요."
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 근교 하와이 축제!",
-        "cards": [
-          {
-            "title": "이벤트 기간",
-            "content": "2026년 4월 29일부터 5월 6일까지, 총 8일간 진행됩니다.",
-            "alt_text": "이벤트 기간을 나타내는 달력 이미지"
-          },
-          {
-            "title": "행사 장소",
-            "content": "도쿄도 마치다시 쓰루마 3-4-1에 위치한 그랜베리 파크에서 열립니다.",
-            "alt_text": "그랜베리 파크 위치를 표시하는 지도 이미지"
-          },
-          {
-            "title": "이벤트 내용",
-            "content": "하와이의 문화를 직접 체험할 수 있는 다채로운 행사와 함께, 하와이 관련 잡화 및 음식을 만나볼 수 있습니다.",
-            "alt_text": "하와이안 댄스 공연을 하는 사람들의 모습"
-          },
-          {
-            "title": "체험 기회",
-            "content": "현지 분위기를 물씬 느낄 수 있는 라이브 쇼를 즐기며 마치 하와이에 온 듯한 기분을 만끽할 수 있습니다.",
-            "alt_text": "하와이안 훌라 댄스 공연 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "골든위크 기간에 맞춰 열리는 특별한 이벤트이니, 도쿄 여행 계획 시 참고하시어 잊지 못할 추억을 만들어 보세요!",
-            "alt_text": "하와이안 음식을 즐기는 사람들의 모습"
-          }
-        ],
-        "caption": "🌸 도쿄 근교에서 하와이를 만끽하세요! 🌸\n2026년 4월 29일부터 5월 6일까지, 8일간 그랜베리 파크에서 'Hawaiian Days 2026' 이벤트가 열립니다.\n하와이 현지 분위기를 그대로 느낄 수 있는 쇼와 함께 다양한 잡화, 음식을 만나보세요!\n골든위크 특별 이벤트, 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#그랜베리파크",
-          "#하와이안데이즈",
-          "#골든위크",
-          "#일본이벤트",
-          "#도쿄근교",
-          "#가볼만한곳",
-          "#여행정보",
-          "#2026년이벤트",
-          "#일본축제",
-          "#해외여행",
-          "#일본소식",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "이벤트 기간을 나타내는 달력 이미지",
-          "그랜베리 파크 위치를 표시하는 지도 이미지",
-          "하와이안 댄스 공연을 하는 사람들의 모습",
-          "하와이안 훌라 댄스 공연 모습",
-          "하와이안 음식을 즐기는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 근교에서 특별한 경험을 원하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보와 구체적인 내용 전달",
-      "image": {
-        "keyword": "hawaii festival tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/hawaii-festival-tokyo",
-        "pexels_url": "https://www.pexels.com/search/hawaii%20festival%20tokyo/"
-      }
-    },
-    {
-      "id": "plan_34567982",
-      "created_at": "2026-04-10T03:35:04.181718",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】桜木町駅「しょうが焼き弁当」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2100450.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 대표 도시락 브랜드 '崎陽軒'의 특별한 신상 도시락 정보를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨崎陽軒 시우마이 없는 도시락?!",
-        "cards": [
-          {
-            "title": "새로운 도시락 출시!",
-            "content": "일본 대표 도시락 브랜드 '崎陽軒'에서 '쇼가야키 도시락'을 새롭게 선보입니다. 기존 崎陽軒의 인기 메뉴인 시우마이 대신 특별한 쇼가야키를 맛볼 수 있습니다.",
-            "alt_text": "崎陽軒 쇼가야키 도시락 이미지"
-          },
-          {
-            "title": "특별한 쇼가야키",
-            "content": "이번 신상 도시락은 '쇼가야키'를 메인으로 하여, 崎陽軒만의 특별한 레시피로 만들어졌습니다. 밥과 함께 든든하게 즐길 수 있는 메뉴입니다.",
-            "alt_text": "쇼가야키 도시락의 쇼가야키 부분 클로즈업 이미지"
-          },
-          {
-            "title": "판매 장소는?",
-            "content": "이 특별한 '쇼가야키 도시락'은 현재 '사쿠라기초역'에서 구매 가능합니다. 일본 여행 중이라면 꼭 들러보세요!",
-            "alt_text": "사쿠라기초역 안내 표지판 이미지"
-          },
-          {
-            "title": "崎陽軒 인기 메뉴",
-            "content": "崎陽軒은 시우마이 도시락으로 유명하며, 일본 내에서도 많은 사랑을 받는 브랜드입니다. 이번 신상 도시락도 큰 기대를 모으고 있습니다.",
-            "alt_text": "崎陽軒 시우마이 도시락 이미지"
-          },
-          {
-            "title": "여행 중 꿀팁!",
-            "content": "기차 여행이나 공항 이동 시 간편하게 즐길 수 있는 도시락은 필수! 崎陽軒의 새로운 쇼가야키 도시락으로 특별한 식사를 경험해보세요.",
-            "alt_text": "기차 안에서 도시락을 먹는 여행객 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수 코스! 崎陽軒에서 시우마이 없는 '쇼가야키 도시락'이 출시되었다는 사실! 😮\n\n이 특별한 신상 도시락은 사쿠라기초역에서 만나볼 수 있어요. 든든하고 맛있는 한 끼 식사로 기차 여행이나 관광 중에 딱이랍니다! 🍱\n\n이번 일본 여행에서 崎陽軒의 새로운 매력을 경험해보는 건 어떨까요? 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#崎陽軒",
-          "#쇼가야키도시락",
-          "#일본도시락",
-          "#사쿠라기초역",
-          "#일본맛집",
-          "#일본음식",
-          "#여행꿀팁",
-          "#일본필수템",
-          "#일본여행준비",
-          "#맛스타그램",
-          "#먹스타그램",
-          "#일본기차여행",
-          "#일본현지"
-        ],
-        "alt_texts": [
-          "崎陽軒 쇼가야키 도시락 이미지",
-          "쇼가야키 도시락의 쇼가야키 부분 클로즈업 이미지",
-          "사쿠라기초역 안내 표지판 이미지",
-          "崎陽軒 시우마이 도시락 이미지",
-          "기차 안에서 도시락을 먹는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 유명 브랜드의 신상 메뉴 정보로 호기심 자극 및 실질적인 여행 정보 제공",
-      "image": {
-        "keyword": "Yokohama station bento, Sho ga yaki bento, Kiyoken bento, Japanese train bento",
-        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-station-bento,-Sho-ga-yaki-bento,-Kiyoken-bento,-Japanese-train-bento",
-        "pexels_url": "https://www.pexels.com/search/Yokohama%20station%20bento,%20Sho%20ga%20yaki%20bento,%20Kiyoken%20bento,%20Japanese%20train%20bento/"
       }
     }
   ]
