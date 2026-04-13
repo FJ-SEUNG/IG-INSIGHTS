@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-12T23:52:14.652348",
+  "last_updated": "2026-04-13T03:47:55.796455",
   "plans": [
+    {
+      "id": "plan_8faa8f41",
+      "created_at": "2026-04-13T03:47:53.796235",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「黒ミャクミャク」ファン必見！　ぬいぐるみ付きチョコクランチ新登場。JR新大阪駅の公式ストアほか土産店舗で販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101119.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "Expo 2025 마스코트 '검은 미야쿠미야쿠' 굿즈가 드디어 출시! 기념품으로 딱이에요!"
+      },
+      "content": {
+        "thumbnail_title": " Expo 2025 굿즈 🎁",
+        "cards": [
+          {
+            "title": "신상 굿즈 출시!",
+            "content": "Expo 2025 공식 라이선스 상품 '검은 미야쿠미야쿠 ぬいぐるみ 포함 초코 크런치'가 4월 중순 출시됩니다.",
+            "alt_text": "Expo 2025 공식 마스코트 '검은 미야쿠미야쿠' 굿즈 신상품 출시 안내 이미지"
+          },
+          {
+            "title": "구성품 확인",
+            "content": "구성품은 초코 크런치 6개와 귀여운 검은 미야쿠미야쿠 ぬいぐるみ 1개입니다.",
+            "alt_text": "초코 크런치 6개와 검은 미야쿠미야쿠 ぬいぐるみ 1개로 구성된 굿즈 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 4180엔입니다.",
+            "alt_text": "상품 가격 4180엔을 표시하는 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "JR 신오사카역 공식 스토어를 포함한 주요 기념품 판매점에서 만나볼 수 있습니다.",
+            "alt_text": "JR 신오사카역 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "Expo 2025를 추억할 특별한 기념품이 될 거예요! 여행 계획 중이라면 꼭 확인하세요.",
+            "alt_text": "Expo 2025 굿즈를 구매하는 여행객 이미지"
+          }
+        ],
+        "caption": " Expo 2025 마스코트 '검은 미야쿠미야쿠' 굿즈가 드디어 출시되었어요! 🤩\n\n귀여운 ぬいぐるみ와 맛있는 초코 크런치가 함께 들어있는 특별한 구성으로, Expo 2025를 추억할 완벽한 기념품이 될 거예요. 💖\n\nJR 신오사카역 공식 스토어를 포함한 여러 기념품 판매점에서 4월 중순부터 구매 가능하니, 일본 여행 계획 중이라면 꼭 득템하세요! ✈️\n\n#Expo2025 #검은미야쿠미야쿠 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Expo2025",
+          "#오사카여행",
+          "#일본기념품",
+          "#일본굿즈",
+          "#검은미야쿠미야쿠",
+          "#JR신오사카역",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본쇼핑",
+          "#여행필수템",
+          "#여행정보",
+          "#일본",
+          "#신상굿즈"
+        ],
+        "alt_texts": [
+          "Expo 2025 공식 마스코트 '검은 미야쿠미야쿠' 굿즈 신상품 출시 안내 이미지",
+          "초코 크런치 6개와 검은 미야쿠미야쿠 ぬいぐるみ 1개로 구성된 굿즈 이미지",
+          "상품 가격 4180엔을 표시하는 이미지",
+          "JR 신오사카역 이미지",
+          "Expo 2025 굿즈를 구매하는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 Expo 2025 방문 예정자 및 굿즈 컬렉터 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: Expo 2025 공식 굿즈라는 희소성, 귀여운 캐릭터 굿즈의 매력",
+      "image": {
+        "keyword": "Kuro Miyakumiya plush toy chocolate crunch EXPO 2025 souvenir JR Shin-Osaka Station",
+        "unsplash_url": "https://unsplash.com/s/photos/Kuro-Miyakumiya-plush-toy-chocolate-crunch-EXPO-2025-souvenir-JR-Shin-Osaka-Station",
+        "pexels_url": "https://www.pexels.com/search/Kuro%20Miyakumiya%20plush%20toy%20chocolate%20crunch%20EXPO%202025%20souvenir%20JR%20Shin-Osaka%20Station/"
+      }
+    },
+    {
+      "id": "plan_ad794940",
+      "created_at": "2026-04-13T03:47:48.492636",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "お得なデジタル1日乗車券「北急・モノレール 京都おでかけきっぷ」。伊丹空港～京都・大阪の利用にも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101141.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "간사이 공항에서 교토/오사카까지 1일 교통 무제한! 꿀팁 가득한 디지털 티켓 등장 ✈️"
+      },
+      "content": {
+        "thumbnail_title": "간사이 1일 무제한 교통권 🎫",
+        "cards": [
+          {
+            "title": "새로운 티켓 출시!",
+            "content": "오사카 모노레일에서 '북큐/모노레일 교토 오데카케 킷푸' 디지털 승차권을 출시했어요. 스루토 QR토 웹사이트에서 구매 가능합니다.",
+            "alt_text": "디지털 티켓 구매 화면 이미지"
+          },
+          {
+            "title": "이용 범위는?",
+            "content": "이 승차권으로 이타미 공항에서 교토, 오사카까지의 이동이 모두 가능해요. 1일 동안 무제한으로 이용할 수 있어 편리해요.",
+            "alt_text": "이타미 공항에서 교토/오사카로 가는 지도 이미지"
+          },
+          {
+            "title": "가성비 최고!",
+            "content": "여러 번 대중교통을 이용할 계획이라면 개별 요금보다 훨씬 경제적이에요. 여행 경비를 절약할 수 있는 기회입니다.",
+            "alt_text": "돈이 절약되는 모습을 표현한 이미지"
+          },
+          {
+            "title": "스마트한 결제",
+            "content": "QR코드를 이용한 디지털 승차권이라 실물 티켓 없이 스마트폰으로 간편하게 이용할 수 있어요. 분실 걱정 NO!",
+            "alt_text": "스마트폰 QR코드 스캔 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "간사이 공항 도착 후 바로 교토나 오사카 시내로 이동할 때, 혹은 이타미 공항을 이용할 때 이 티켓을 구매하면 이동이 훨씬 수월하고 저렴해요.",
+            "alt_text": "여행자가 환하게 웃으며 짐을 들고 있는 이미지"
+          }
+        ],
+        "caption": "✈️ 한국에서 일본 오시는 분들 주목! ✈️\n\n간사이 공항 또는 이타미 공항에서 교토, 오사카까지 1일 무제한 교통을 누릴 수 있는 절호의 찬스!\n\n✨ '북큐/모노레일 교토 오데카케 킷푸' 디지털 승차권이 출시되었어요!\n\n✅ 이타미 공항 ⇄ 교토/오사카 이동 시 최고!\n✅ 1일 동안 무제한 탑승 가능\n✅ QR코드로 간편하게 이용\n\n여행 경비 절약은 물론, 편리함까지 더해줄 이 티켓으로 알찬 일본 여행 계획해 보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #간사이여행 #교토여행 #오사카여행 #일본교통 #디지털티켓 #여행꿀팁 #가성비여행 #일본자유여행 #해외여행 #여행준비 #일본정보 #여행스타그램 #일본가볼만한곳",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#간사이여행",
+          "#교토여행",
+          "#오사카여행",
+          "#일본교통",
+          "#디지털티켓",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행준비",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "디지털 티켓 구매 화면 이미지",
+          "이타미 공항에서 교토/오사카로 가는 지도 이미지",
+          "돈이 절약되는 모습을 표현한 이미지",
+          "스마트폰 QR코드 스캔 이미지",
+          "여행자가 환하게 웃으며 짐을 들고 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 간사이 지역 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5시~7시, 주말 오후 3시~5시 / 기대 반응: 정보 획득, 구매 의사 결정 도움, 공유 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보, 편리한 사용법 제시, 구체적인 이용 대상 명시",
+      "image": {
+        "keyword": "japan travel ticket, osaka monorail, kyoto transportation, travel discount, qr code ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-ticket,-osaka-monorail,-kyoto-transportation,-travel-discount,-qr-code-ticket",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20ticket,%20osaka%20monorail,%20kyoto%20transportation,%20travel%20discount,%20qr%20code%20ticket/"
+      }
+    },
     {
       "id": "plan_b804dc36",
       "created_at": "2026-04-12T23:52:12.652127",
@@ -923,160 +1077,6 @@
         "keyword": "Yokohama station bento, Sho ga yaki bento, Kiyoken bento, Japanese train bento",
         "unsplash_url": "https://unsplash.com/s/photos/Yokohama-station-bento,-Sho-ga-yaki-bento,-Kiyoken-bento,-Japanese-train-bento",
         "pexels_url": "https://www.pexels.com/search/Yokohama%20station%20bento,%20Sho%20ga%20yaki%20bento,%20Kiyoken%20bento,%20Japanese%20train%20bento/"
-      }
-    },
-    {
-      "id": "plan_f1f119fa",
-      "created_at": "2026-04-09T23:54:07.900569",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルアルティア鳥羽、リブランド前に伊勢海老や黒毛和牛など地元食材夕食の特別プラン。8月からオールインクルーシブに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2100569.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 미식 여행의 새로운 기준! 미에현에서 맛보는 특별한 미식 경험을 놓치지 마세요."
-      },
-      "content": {
-        "thumbnail_title": "✨미에현 신상 올인클루시브 호텔 OPEN!✨",
-        "cards": [
-          {
-            "title": "호텔 리브랜딩",
-            "content": "미에현 토바시에 위치한 '호텔 알티아 토바'가 8월 1일, '토바 오션 리조트'로 리브랜딩하여 새롭게 오픈합니다. 올인클루시브 형태로 운영될 예정입니다.",
-            "alt_text": "새롭게 리브랜딩될 예정인 호텔 외관 이미지"
-          },
-          {
-            "title": "특별 석식 플랜",
-            "content": "리브랜딩 전, 현지 식재료를 활용한 특별 석식 플랜을 제공합니다. 신선한 이세에비(새우)와 최고급 흑모 와규를 맛볼 수 있습니다.",
-            "alt_text": "신선한 이세에비(새우) 요리 이미지"
-          },
-          {
-            "title": "올인클루시브",
-            "content": "8월 1일부터는 올인클루시브 호텔로 전환되어, 더욱 편리하고 풍성한 식음료 및 부대시설 이용이 가능해집니다.",
-            "alt_text": "다양한 음료와 음식이 준비된 뷔페 이미지"
-          },
-          {
-            "title": "미식 여행",
-            "content": "미에현의 자랑인 신선한 해산물과 육류를 최상의 상태로 즐길 수 있는 이번 기회를 놓치지 마세요. 미식 여행의 새로운 성지가 될 것입니다.",
-            "alt_text": "고급스러운 분위기의 레스토랑 내부 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "리브랜딩 전 특별 플랜은 한정 기간 운영되니, 방문 예정이라면 서둘러 예약하시는 것을 추천합니다. 올인클루시브 혜택도 미리 확인해보세요!",
-            "alt_text": "예약 페이지를 보여주는 스마트폰 화면 이미지"
-          }
-        ],
-        "caption": "일본 미식 여행 필수 코스! 🤩\n미에현 토바시에 위치한 '호텔 알티아 토바'가 8월 1일, '토바 오션 리조트'로 새롭게 태어납니다! 🌊\n\n✨리브랜딩 전, 이세에비와 흑모 와규를 맛볼 수 있는 특별 석식 플랜 운영!\n✨8월 1일부터는 올인클루시브 호텔로 전환!\n\n입안 가득 퍼지는 황홀한 미식 경험, 지금 바로 예약하세요! 🍣🥩\n\n#플라잉재팬 #일본여행 #미에현여행 #토바시 #호텔알티아토바 #토바오션리조트 #일본호텔 #올인클루시브 #일본미식 #이세에비 #흑모와규 #일본맛집 #여행정보 #일본숙소 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#미에현여행",
-          "#토바시",
-          "#호텔알티아토바",
-          "#토바오션리조트",
-          "#일본호텔",
-          "#올인클루시브",
-          "#일본미식",
-          "#이세에비",
-          "#흑모와규",
-          "#일본맛집",
-          "#여행정보",
-          "#일본숙소",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "새롭게 리브랜딩될 예정인 호텔 외관 이미지",
-          "신선한 이세에비(새우) 요리 이미지",
-          "다양한 음료와 음식이 준비된 뷔페 이미지",
-          "고급스러운 분위기의 레스토랑 내부 이미지",
-          "예약 페이지를 보여주는 스마트폰 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 미식과 고급스러운 휴양을 즐기고 싶은 2040 한국인 여행자 / 최적 게시 시간: 금요일 오후 7시, 토요일 오전 11시 / 기대 반응: 예약 문의 증가, 호텔 정보 공유 활발 / 이 콘텐츠의 강점: 신규 호텔 오픈 정보와 특별 프로모션을 결합하여 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "Toba Ocean Resort, Mie Prefecture, Japan, all-inclusive, Ise ebi, Wagyu beef, luxury hotel, new opening",
-        "unsplash_url": "https://unsplash.com/s/photos/Toba-Ocean-Resort,-Mie-Prefecture,-Japan,-all-inclusive,-Ise-ebi,-Wagyu-beef,-luxury-hotel,-new-opening",
-        "pexels_url": "https://www.pexels.com/search/Toba%20Ocean%20Resort,%20Mie%20Prefecture,%20Japan,%20all-inclusive,%20Ise%20ebi,%20Wagyu%20beef,%20luxury%20hotel,%20new%20opening/"
-      }
-    },
-    {
-      "id": "plan_25468b98",
-      "created_at": "2026-04-09T23:54:01.569811",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "新日本海フェリーで行く、初夏の「北海道美食ドライブパック」舞鶴・敦賀発着。乗船代＋ホテル＋食体験セット",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2100581.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여름北海道, 페리로 떠나는 역대급 미식 드라이브"
-      },
-      "content": {
-        "thumbnail_title": "🚢 北海道 미식 드라이브 패키지! 🦀",
-        "cards": [
-          {
-            "title": "🚨 신규 상품 출시!",
-            "content": "신일본해 페리에서 '홋카이도 미식 드라이브 팩'을 출시했어요. 6월 1일부터 30일까지 출발/귀국하는 상품입니다.",
-            "alt_text": "신일본해 페리 로고와 함께 홋카이도 미식 드라이브 팩 출시 안내"
-          },
-          {
-            "title": "🚢 페리+숙박+식체험",
-            "content": "이 패키지는 페리 승선권, 호텔 숙박, 그리고 홋카이도의 맛있는 식도락 체험까지 모두 포함하고 있습니다.",
-            "alt_text": "페리, 호텔, 맛있는 음식 이미지를 조합한 썸네일"
-          },
-          {
-            "title": "📍 출발/도착지",
-            "content": "이번 상품은 일본 마이즈루항과 쓰루가항에서 출발하여 홋카이도로 향합니다.",
-            "alt_text": "일본 지도에 마이즈루항과 쓰루가항 표시"
-          },
-          {
-            "title": "📅 여행 기간",
-            "content": "2024년 6월 1일부터 6월 30일까지 출발 및 귀국하는 여행자를 대상으로 합니다.",
-            "alt_text": "캘린더에 6월 1일부터 30일까지 표시"
-          },
-          {
-            "title": "✨ 놓치지 마세요!",
-            "content": "페리로 편안하게 이동하며 홋카이도의 신선한 해산물과 지역 특산물을 맛볼 수 있는 절호의 기회! 여름 휴가를 특별하게 만들어보세요.",
-            "alt_text": "신선한 해산물 요리 사진"
-          }
-        ],
-        "caption": "여름北海道, 페리로 떠나는 미식 여행 🚢🦀\n\n신일본해 페리가 '홋카이도 미식 드라이브 팩'을 출시했어요!\n마이즈루/쓰루가항 출발, 6월 1일~30일 한정!\n페리 승선권 + 호텔 + 식체험까지 한번에 해결!\n\n이번 여름, 특별한 홋카이도 여행을 계획해보세요! ✨\n\n#홋카이도여행 #일본페리 #미식여행 #여름휴가 #드라이브패키지",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도여행",
-          "#일본페리",
-          "#미식여행",
-          "#홋카이도맛집",
-          "#여름휴가",
-          "#드라이브여행",
-          "#일본교통",
-          "#여행정보",
-          "#해외여행",
-          "#일본스타그램",
-          "#여행스타그램",
-          "#여행꿀팁",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "신일본해 페리 로고와 함께 홋카이도 미식 드라이브 팩 출시 안내",
-          "페리, 호텔, 맛있는 음식 이미지를 조합한 썸네일",
-          "일본 지도에 마이즈루항과 쓰루가항 표시",
-          "캘린더에 6월 1일부터 30일까지 표시",
-          "신선한 해산물 요리 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 휴가 시즌에 특별한 일본 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 페리, 숙박, 식체험을 결합한 올인원 상품 정보로 여행 계획의 편리성을 강조",
-      "image": {
-        "keyword": "Hokkaido food drive package ferry Japan travel summer",
-        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-food-drive-package-ferry-Japan-travel-summer",
-        "pexels_url": "https://www.pexels.com/search/Hokkaido%20food%20drive%20package%20ferry%20Japan%20travel%20summer/"
       }
     }
   ]
