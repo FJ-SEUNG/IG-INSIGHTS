@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-13T23:59:55.208102",
+  "last_updated": "2026-04-14T03:35:36.167376",
   "plans": [
+    {
+      "id": "plan_6c26cda4",
+      "created_at": "2026-04-14T03:35:34.167191",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "講談社「高速道路＆SA・PAガイド 2026-2027年最新版」。特集は丼・麺グルメ、高速乗り降り自由の道の駅ほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101352.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 고속도로 휴게소 맛집 정보 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "🚗일본 고속도로 맛집 꿀팁!",
+        "cards": [
+          {
+            "title": "신간 출간!",
+            "content": "2026-2027년 최신판 '일본 고속도로 & SA/PA 가이드'가 4월 16일에 발매됩니다. 총 192페이지 분량으로, 일본 전국 고속도로 휴게소 정보를 담고 있어요.",
+            "alt_text": "새로운 일본 고속도로 가이드북 표지 이미지"
+          },
+          {
+            "title": "주요 특징",
+            "content": "이번 가이드북의 주요 특징은 '丼(돈부리)·면 요리'와 '고속도로 진출입 자유로운 휴게소' 정보입니다. 일본 여행 중 놓치기 쉬운 로컬 맛집을 발견할 수 있어요.",
+            "alt_text": "다양한 일본식 덮밥과 면 요리 사진"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 1500엔입니다. 일본 현지 서점이나 온라인에서 구매 가능하며, 일본 전국 여행 시 유용하게 활용할 수 있습니다.",
+            "alt_text": "책 가격이 표시된 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "특히 '고속도로 진출입 자유로운 휴게소'는 일반적인 휴게소와 달리 주변 관광지와 연계하여 더욱 알찬 여행 계획을 세울 수 있도록 돕습니다.",
+            "alt_text": "휴게소에서 자유롭게 출입하는 차량 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "일본 방문 전 미리 구매하여 여행 동선을 짜거나, 현지에서 구매 후 바로 활용하는 것도 좋은 방법입니다. 특히 렌터카 여행자에게 필수!",
+            "alt_text": "일본 여행 중 렌터카를 이용하는 모습"
+          }
+        ],
+        "caption": "🚗 일본 렌터카 여행 필수템! 2026-2027 최신판 '일본 고속도로 & SA/PA 가이드'가 4월 16일 발매됩니다! 🍜丼(돈부리)·면 요리 맛집부터 고속도로 진출입이 자유로운 특별한 휴게소 정보까지! 1500엔의 행복으로 일본 로컬 맛집 탐방을 놓치지 마세요. #일본고속도로 #휴게소맛집 #일본렌터카 #돈부리 #면요리 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본고속도로",
+          "#SA/PA",
+          "#일본휴게소",
+          "#일본맛집",
+          "#일본렌터카",
+          "#일본여행정보",
+          "#일본여행팁",
+          "#돈부리",
+          "#일본면요리",
+          "#여행가이드",
+          "#일본소식",
+          "#2026년",
+          "#2027년"
+        ],
+        "alt_texts": [
+          "새로운 일본 고속도로 가이드북 표지 이미지",
+          "다양한 일본식 덮밥과 면 요리 사진",
+          "책 가격이 표시된 이미지",
+          "휴게소에서 자유롭게 출입하는 차량 이미지",
+          "일본 여행 중 렌터카를 이용하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 렌터카 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 5시~7시 (퇴근 시간, 저녁 식사 준비 시간) / 기대 반응: 정보 공유 및 저장, 여행 계획에 활용 / 이 콘텐츠의 강점: 최신 정보, 구체적인 가격 및 출시일, 실질적인 여행 팁 제공",
+      "image": {
+        "keyword": "japan highway rest stop food guide book",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-rest-stop-food-guide-book",
+        "pexels_url": "https://www.pexels.com/search/japan%20highway%20rest%20stop%20food%20guide%20book/"
+      }
+    },
+    {
+      "id": "plan_624360b7",
+      "created_at": "2026-04-14T03:35:28.232394",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ヒルトン・ガーデン・イン横浜みなとみらい」開業初日に泊まってみた！　パシフィコとKアリーナ至近の立地、朝晩のオーシャンビューで心地よい滞在に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101216.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "요코하마 미나토미라이의 신상 힐튼 가든 인, 바다 전망으로 편안한 숙박을!"
+      },
+      "content": {
+        "thumbnail_title": "✨요코하마 신상 호텔 오픈✨",
+        "cards": [
+          {
+            "title": "오픈 소식",
+            "content": "2024년 4월 7일, '힐튼 가든 인 요코하마 미나토미라이'가 드디어 문을 열었습니다. 파시피코 요코하마와 K아레나 근처에 위치해 접근성이 매우 좋아요.",
+            "alt_text": "힐튼 가든 인 요코하마 미나토미라이 건물 외관"
+          },
+          {
+            "title": "최적의 위치",
+            "content": "숙소 주소는 가나가와현 요코하마시 니시구 미나토미라이 6-3-4입니다. 파시피코 요코하마와 K아레나를 도보로 이용할 수 있어 비즈니스 및 이벤트 참가자에게 최적입니다.",
+            "alt_text": "호텔 위치를 나타내는 지도 이미지"
+          },
+          {
+            "title": "오션뷰",
+            "content": "객실에서는 아침과 저녁으로 아름다운 오션뷰를 감상할 수 있습니다. 편안하고 쾌적한 숙박 경험을 선사할 거예요.",
+            "alt_text": "호텔 객실에서 바라본 바다 전망"
+          },
+          {
+            "title": "새로운 경험",
+            "content": "요코하마 미나토미라이 지역의 새로운 랜드마크가 될 힐튼 가든 인에서 특별한 시간을 보내세요. 힐튼만의 섬세한 서비스와 편의시설을 경험할 수 있습니다.",
+            "alt_text": "호텔 로비 또는 라운지 내부 모습"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "최신 오픈 호텔인 만큼, 예약은 필수! 공식 홈페이지나 주요 호텔 예약 사이트에서 요금 및 예약 가능 여부를 미리 확인하고 서둘러 예약하는 것을 추천합니다.",
+            "alt_text": "호텔 예약 웹사이트 화면 캡처"
+          }
+        ],
+        "caption": "🇯🇵요코하마 신상 호텔 오픈 소식!🇯🇵\n\n✨힐튼 가든 인 요코하마 미나토미라이✨가 4월 7일 드디어 개장했어요!\n\n📍파시피코 요코하마, K아레나 근처에 위치해 접근성 최고!\n🌊아름다운 오션뷰 객실에서 힐링 타임!\n\n요코하마 여행 계획 중이라면, 신상 호텔에서 특별한 경험을 놓치지 마세요! 😉\n\n#힐튼가든인요코하마 #요코하마신상호텔 #일본숙소 #요코하마여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#요코하마",
+          "#요코하마여행",
+          "#일본숙소",
+          "#힐튼가든인",
+          "#미나토미라이",
+          "#호텔추천",
+          "#일본신상",
+          "#요코하마호텔",
+          "#일본자유여행",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "힐튼 가든 인 요코하마 미나토미라이 건물 외관",
+          "호텔 위치를 나타내는 지도 이미지",
+          "호텔 객실에서 바라본 바다 전망",
+          "호텔 로비 또는 라운지 내부 모습",
+          "호텔 예약 웹사이트 화면 캡처"
+        ]
+      },
+      "marketer_analysis": "타겟: 최근 일본 여행을 계획하거나 관심 있는 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 숙소 정보에 대한 관심 증가, 예약 문의 및 공유 / 이 콘텐츠의 강점: 최신 오픈 정보, 구체적인 위치 정보, 매력적인 오션뷰 강조",
+      "image": {
+        "keyword": "Hilton Garden Inn Yokohama Minatomirai, ocean view, Yokohama waterfront, K Arena, Pacifico Yokohama",
+        "unsplash_url": "https://unsplash.com/s/photos/Hilton-Garden-Inn-Yokohama-Minatomirai,-ocean-view,-Yokohama-waterfront,-K-Arena,-Pacifico-Yokohama",
+        "pexels_url": "https://www.pexels.com/search/Hilton%20Garden%20Inn%20Yokohama%20Minatomirai,%20ocean%20view,%20Yokohama%20waterfront,%20K%20Arena,%20Pacifico%20Yokohama/"
+      }
+    },
     {
       "id": "plan_fbaf960f",
       "created_at": "2026-04-13T23:59:53.207914",
@@ -923,160 +1077,6 @@
         "keyword": "jetstar, boeing 787-8, airplane, travel, japan",
         "unsplash_url": "https://unsplash.com/s/photos/jetstar,-boeing-787-8,-airplane,-travel,-japan",
         "pexels_url": "https://www.pexels.com/search/jetstar,%20boeing%20787-8,%20airplane,%20travel,%20japan/"
-      }
-    },
-    {
-      "id": "plan_f2fab125",
-      "created_at": "2026-04-10T23:52:39.851731",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "サプライス、一律3,000円割引クーポン配布　4月13日まで",
-        "url": "https://www.traicy.com/posts/20260410367661/",
-        "date": "Fri, 10 Apr 2026 11:22:23 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 항공권 최대 3,000엔 할인받고 떠나세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 항공권 3천엔 할인!",
-        "cards": [
-          {
-            "title": "할인 쿠폰",
-            "content": "HIS의 항공권 예약 사이트 'Surprice'에서 3,000엔 할인 쿠폰을 배포합니다. 일본 출발 해외 항공권 예약 시 사용 가능합니다.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "쿠폰 기간",
-            "content": "할인 쿠폰은 2024년 4월 10일부터 4월 13일까지 사용 가능합니다. 놓치지 마세요!",
-            "alt_text": "달력에 표시된 날짜 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "일률 3,000엔 할인이 적용되어 더욱 저렴하게 일본 여행 항공권을 구매할 수 있습니다.",
-            "alt_text": "돈이 할인되는 이미지"
-          },
-          {
-            "title": "예약 사이트",
-            "content": "Surprice (서프라이스) 웹사이트에서 일본 출발 항공권 예약 시 쿠폰을 적용하세요.",
-            "alt_text": "웹사이트 화면 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 계획이 있다면 지금 바로 Surprice에서 항공권을 검색하고 3,000엔 할인 혜택을 꼭 챙기세요!",
-            "alt_text": "여행 계획을 세우는 사람 이미지"
-          }
-        ],
-        "caption": "일본 여행 준비 중이신가요? 🇯🇵\nHIS의 'Surprice'에서 일본 출발 항공권 예약 시 최대 3,000엔 할인 쿠폰을 드립니다!\n\n🗓️ 기간: 4월 10일 ~ 4월 13일\n\n이 기회 놓치지 말고 알뜰하게 일본 여행 다녀오세요!✈️\n\n#일본여행 #항공권할인 #서프라이스 #HIS #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#항공권할인",
-          "#일본항공권",
-          "#서프라이스",
-          "#HIS",
-          "#여행정보",
-          "#일본여행준비",
-          "#4월여행",
-          "#3천엔할인",
-          "#일본",
-          "#가성비여행",
-          "#여행스타그램",
-          "#트래블",
-          "#꿀팁"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지",
-          "달력에 표시된 날짜 이미지",
-          "돈이 할인되는 이미지",
-          "웹사이트 화면 이미지",
-          "여행 계획을 세우는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 저녁 7시 ~ 9시 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 즉각적인 할인 혜택 제공으로 긴급성과 매력도 상승",
-      "image": {
-        "keyword": "japan flight ticket discount coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-flight-ticket-discount-coupon",
-        "pexels_url": "https://www.pexels.com/search/japan%20flight%20ticket%20discount%20coupon/"
-      }
-    },
-    {
-      "id": "plan_a3afda24",
-      "created_at": "2026-04-10T23:52:27.575584",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR6社、2026年GWの予約ピークは下り5月2日、上り5月5日。2日午前の新幹線は満席の場合も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2100891.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2026년 황금연휴 일본 여행 계획이라면, 지금 바로 좌석 확보하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️2026 GW 일본 열차 🚀",
-        "cards": [
-          {
-            "title": "예약 피크",
-            "content": "2026년 골든위크, 일본 JR 열차 예약이 가장 몰릴 것으로 예상되는 날짜는 하행선 5월 2일, 상행선 5월 5일입니다.",
-            "alt_text": "2026년 골든위크 일본 열차 예약 피크 날짜 안내"
-          },
-          {
-            "title": "신칸센 만석",
-            "content": "특히 5월 2일 오전 신칸센은 만석이 예상되어, 미리 예약하지 않으면 좌석 확보가 어려울 수 있습니다.",
-            "alt_text": "5월 2일 오전 신칸센 만석 예상 안내"
-          },
-          {
-            "title": "JR 6개사",
-            "content": "일본 전역을 운행하는 JR 6개 사에서 발표한 예약 상황으로, 전국적인 이동량이 많을 것으로 보입니다.",
-            "alt_text": "JR 6개 사 발표 내용 안내"
-          },
-          {
-            "title": "사전 예약 필수",
-            "content": "여행 계획 중이시라면, 원하는 날짜와 시간대의 열차를 놓치지 않도록 최대한 빨리 예약하시는 것을 추천합니다.",
-            "alt_text": "일본 열차 사전 예약의 중요성 강조"
-          },
-          {
-            "title": "꿀팁",
-            "content": "JR 패스 소지자도 지정석 예약은 필수! 인기 노선은 조기 마감될 수 있으니, 여행 일정 확정 즉시 예약하세요.",
-            "alt_text": "JR 패스 소지자를 위한 예약 꿀팁"
-          }
-        ],
-        "caption": "🇯🇵 2026년 일본 황금연휴, 열차표 전쟁 시작! 🚄\n\n2026년 골든위크, 일본 여행 계획하고 계신가요? \nJR 6개 사에서 발표한 예약 상황에 따르면, 5월 2일(하행), 5월 5일(상행)이 예약 피크입니다. \n특히 5월 2일 오전 신칸센은 만석이 예상되니, 서둘러 예약하세요! \n\n#일본여행 #JR패스 #골든위크 #신칸센 #일본교통 #여행팁 #플라잉재팬 #일본정보 #2026년 #여행준비 #열차예약 #일본골든위크 #여행스타그램 #일본 #일본자유여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR패스",
-          "#골든위크",
-          "#신칸센",
-          "#일본교통",
-          "#여행팁",
-          "#일본정보",
-          "#2026년",
-          "#여행준비",
-          "#열차예약",
-          "#일본골든위크",
-          "#여행스타그램",
-          "#일본",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "2026년 골든위크 일본 열차 예약 피크 날짜 안내",
-          "5월 2일 오전 신칸센 만석 예상 안내",
-          "JR 6개 사 발표 내용 안내",
-          "일본 열차 사전 예약의 중요성 강조",
-          "JR 패스 소지자를 위한 예약 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 2026년 골든위크 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (저녁 식사 시간대) / 기대 반응: 예약 정보에 대한 관심 및 문의 증가, 여행 계획 구체화 / 이 콘텐츠의 강점: 시기적절한 정보 제공으로 여행 준비에 실질적인 도움 제공",
-      "image": {
-        "keyword": "japanese train, shinkansen, golden week, reservation, peak travel",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-train,-shinkansen,-golden-week,-reservation,-peak-travel",
-        "pexels_url": "https://www.pexels.com/search/japanese%20train,%20shinkansen,%20golden%20week,%20reservation,%20peak%20travel/"
       }
     }
   ]
