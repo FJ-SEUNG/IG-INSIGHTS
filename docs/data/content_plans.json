@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-14T03:35:36.167376",
+  "last_updated": "2026-04-14T23:59:56.395328",
   "plans": [
+    {
+      "id": "plan_f93b86e8",
+      "created_at": "2026-04-14T23:59:54.395178",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "国内線の機内持ち込み、4月24日から新ルール適用。モバイルバッテリーのWh数とは？　PC/ゲーム/カメラも確認しよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101674.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 시 꼭 알아야 할 기내 반입 규정 변경! ✈️"
+      },
+      "content": {
+        "thumbnail_title": "일본행 비행기 ✈️ 규정 변경!",
+        "cards": [
+          {
+            "title": "규정 변경!",
+            "content": "4월 24일부터 일본 국내선 항공기 내 반입 규정이 변경됩니다. 특히 모바일 배터리 관련 내용이 중요하니 꼭 확인하세요!",
+            "alt_text": "일본 국내선 항공기 내부 모습"
+          },
+          {
+            "title": "모바일 배터리",
+            "content": "모바일 배터리 용량(Wh) 기준이 새롭게 적용됩니다. 정확한 기준을 미리 확인하여 기내 반입이 가능한지 꼭 체크하시기 바랍니다.",
+            "alt_text": "다양한 종류의 모바일 배터리"
+          },
+          {
+            "title": "다른 전자기기도",
+            "content": "노트북, 게임기, 카메라 등 전자기기 반입 규정도 함께 점검해야 합니다. 헷갈리는 부분은 미리 항공사에 문의하는 것이 좋습니다.",
+            "alt_text": "노트북, 게임기, 카메라 등 전자기기 모음"
+          },
+          {
+            "title": "출발 전 필수!",
+            "content": "새로운 규정을 숙지하지 못하면 공항에서 곤란을 겪을 수 있습니다. 출발 전에 반드시 최신 정보를 확인하고 준비하세요.",
+            "alt_text": "공항에서 짐을 검사하는 모습"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "모바일 배터리에는 용량(Wh) 표시가 필수로 되어 있습니다. 잘 보이지 않을 경우, 미리 제품 설명서 등을 참고하여 용량을 확인해두세요.",
+            "alt_text": "모바일 배터리 뒷면의 용량(Wh) 표시"
+          }
+        ],
+        "caption": "일본 여행 준비 중이신가요? ✈️ 4월 24일부터 일본 국내선 항공기 기내 반입 규정이 변경됩니다! 특히 모바일 배터리 용량(Wh) 기준이 새롭게 적용되니, 출발 전 꼭 확인하고 짐 싸세요! 🧳 노트북, 게임기 등 다른 전자기기 규정도 함께 점검하는 센스! 잊지 말고 안전하고 즐거운 일본 여행 되세요! 😉 #일본여행 #기내반입 #항공규정 #플라잉재팬 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본항공",
+          "#기내반입",
+          "#모바일배터리",
+          "#항공규정",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본",
+          "#여행정보",
+          "#비행기",
+          "#안전여행",
+          "#꿀팁",
+          "#여행필수템"
+        ],
+        "alt_texts": [
+          "일본 국내선 항공기 내부 모습",
+          "다양한 종류의 모바일 배터리",
+          "노트북, 게임기, 카메라 등 전자기기 모음",
+          "공항에서 짐을 검사하는 모습",
+          "모바일 배터리 뒷면의 용량(Wh) 표시"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 정보 습득, 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 규정 변경 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Japan domestic flight cabin baggage rule change",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-domestic-flight-cabin-baggage-rule-change",
+        "pexels_url": "https://www.pexels.com/search/Japan%20domestic%20flight%20cabin%20baggage%20rule%20change/"
+      }
+    },
+    {
+      "id": "plan_71dcb952",
+      "created_at": "2026-04-14T23:59:47.914284",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヴィアイン新大阪ウエスト、27年引退の500系新幹線を再現・体験できるコンセプトルーム",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101567.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센 500계 추억 소환! 오사카에서 특별한 숙박 경험을!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 500계 신칸센 컨셉룸 오픈! 🚅",
+        "cards": [
+          {
+            "title": "500계 컨셉룸",
+            "content": "JR 서일본이 신칸센 500계 열차를 테마로 한 특별한 컨셉룸을 선보입니다. 2027년 은퇴 예정인 500계의 추억을 오사카에서 생생하게 느껴보세요.",
+            "alt_text": "신칸센 500계 열차 내부 모습"
+          },
+          {
+            "title": "예약 정보",
+            "content": "컨셉룸은 5월 1일부터 이용 가능하며, 예약은 4월 20일부터 시작됩니다. 서둘러 특별한 숙박 경험을 예약하세요!",
+            "alt_text": "달력에 표시된 4월 20일 예약 시작일"
+          },
+          {
+            "title": "위치 정보",
+            "content": "컨셉룸이 있는 '비아인 신오사카 웨스트'는 오사카부 오사카시 요도가와구 미야하라 4-1-21에 위치하고 있습니다.",
+            "alt_text": "오사카 시내 지도에 표시된 비아인 신오사카 웨스트 위치"
+          },
+          {
+            "title": "특별한 경험",
+            "content": "신칸센 500계 객차를 그대로 재현한 공간에서 특별한 하룻밤을 보내며 잊지 못할 추억을 만들어 보세요.",
+            "alt_text": "컨셉룸 내부의 침대와 신칸센 좌석 디자인"
+          },
+          {
+            "title": "꿀팁",
+            "content": "신칸센 팬이라면 놓칠 수 없는 기회! 예약 경쟁이 치열할 것으로 예상되니, 4월 20일 예약 오픈 시간에 맞춰 바로 신청하는 것을 추천합니다.",
+            "alt_text": "신칸센 500계 열차의 옆모습"
+          }
+        ],
+        "caption": "일본 여행의 특별한 추억을 만들고 싶으신가요? 🚄 JR 서일본이 신칸센 500계 열차를 테마로 한 컨셉룸을 오사카에 오픈합니다! 2027년 은퇴 예정인 500계의 추억을 생생하게 느낄 수 있는 기회! 🤩\n\n✅ 오픈일: 5월 1일\n✅ 예약 시작: 4월 20일\n✅ 장소: 비아인 신오사카 웨스트 (오사카)\n\n신칸센 덕후라면 절대 놓치지 마세요! 지금 바로 예약 정보 확인하고 특별한 숙박 경험을 잡아보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카",
+          "#신칸센",
+          "#500계신칸센",
+          "#컨셉룸",
+          "#일본숙소",
+          "#오사카숙소",
+          "#특별한경험",
+          "#여행정보",
+          "#JR서일본",
+          "#일본기차",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "신칸센 500계 열차 내부 모습",
+          "달력에 표시된 4월 20일 예약 시작일",
+          "오사카 시내 지도에 표시된 비아인 신오사카 웨스트 위치",
+          "컨셉룸 내부의 침대와 신칸센 좌석 디자인",
+          "신칸센 500계 열차의 옆모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 신칸센에 대한 추억이나 로망이 있는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 예약 정보에 대한 높은 관심과 문의, 공유 / 이 콘텐츠의 강점: 시기적절한 정보와 희소성 있는 특별한 경험을 제공",
+      "image": {
+        "keyword": "Shinkansen 500 series concept room Osaka hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-500-series-concept-room-Osaka-hotel",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20500%20series%20concept%20room%20Osaka%20hotel/"
+      }
+    },
     {
       "id": "plan_6c26cda4",
       "created_at": "2026-04-14T03:35:34.167191",
@@ -923,160 +1077,6 @@
         "keyword": "JAL in-flight sales, Amami wildlife charm, endangered animal protection, JAL regional revitalization, charitable travel souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-in-flight-sales,-Amami-wildlife-charm,-endangered-animal-protection,-JAL-regional-revitalization,-charitable-travel-souvenir",
         "pexels_url": "https://www.pexels.com/search/JAL%20in-flight%20sales,%20Amami%20wildlife%20charm,%20endangered%20animal%20protection,%20JAL%20regional%20revitalization,%20charitable%20travel%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_2dfbf347",
-      "created_at": "2026-04-11T03:14:35.798099",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「BLISSTIA SUITES ＆ RESORT 沖縄恩納村」、7月15日開業　全室スイートタイプ",
-        "url": "https://www.traicy.com/posts/20260410363202/",
-        "date": "Fri, 10 Apr 2026 09:31:34 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오키나와 신상 럭셔리 리조트, 전 객실 스위트룸으로 프라이빗한 휴양 가능!"
-      },
-      "content": {
-        "thumbnail_title": "🌴오키나와 신상 리조트 오픈!",
-        "cards": [
-          {
-            "title": "오키나와 신상 오픈",
-            "content": "오키나와 7월 15일, 'BLISSTIA SUITES ＆ RESORT'가 새롭게 문을 엽니다.  총 139개의 객실 모두 스위트 타입으로 준비될 예정입니다.",
-            "alt_text": "오키나와 바다와 리조트 전경"
-          },
-          {
-            "title": "모든 객실 스위트",
-            "content": "슈페리어 스위트부터 코너 프리미엄 스위트까지, 다양한 스위트룸 옵션이 제공됩니다.  모든 객실에서 편안하고 고급스러운 휴식을 즐길 수 있습니다.",
-            "alt_text": "리조트 스위트룸 내부 모습"
-          },
-          {
-            "title": "13층 높이",
-            "content": "지상 13층, 지하 1층 규모로 지어져 탁 트인 오키나와 바다 전망을 감상하기 좋습니다.  새로운 랜드마크가 될 것으로 기대됩니다.",
-            "alt_text": "리조트 외관 모습"
-          },
-          {
-            "title": "최신 시설",
-            "content": "최신식 시설과 서비스를 갖춘 럭셔리 리조트에서 잊지 못할 추억을 만들어 보세요.  프라이빗한 휴가를 계획 중이라면 최고의 선택이 될 것입니다.",
-            "alt_text": "리조트 수영장 또는 라운지"
-          },
-          {
-            "title": "예약 팁",
-            "content": "개장 초기에는 예약이 몰릴 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천합니다.  오키나와의 새로운 핫플레이스가 될 이곳, 놓치지 마세요!",
-            "alt_text": "여행 가방과 여권"
-          }
-        ],
-        "caption": "✨오키나와에 새로운 럭셔리 리조트가 탄생합니다!✨\n\n7월 15일, 'BLISSTIA SUITES ＆ RESORT'가 드디어 오픈 예정!\n\n무려 139개의 객실이 모두 스위트 타입으로, 프라이빗하고 여유로운 휴가를 꿈꾸는 분들에게 최고의 선택이 될 거예요.\n\n오키나와의 아름다운 바다를 바라보며 잊지 못할 시간을 보내세요!\n\n#오키나와여행 #일본신상숙소 #럭셔리리조트 #오키나와호텔",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오키나와",
-          "#오키나와여행",
-          "#일본숙소",
-          "#신상호텔",
-          "#럭셔리리조트",
-          "#블리스티아스위트앤리조트",
-          "#BLISSTIASUITESANDRESORT",
-          "#7월개장",
-          "#일본휴가",
-          "#해외여행",
-          "#여행정보",
-          "#일본호텔",
-          "#오키나와추천"
-        ],
-        "alt_texts": [
-          "오키나와 바다와 리조트 전경",
-          "리조트 스위트룸 내부 모습",
-          "리조트 외관 모습",
-          "리조트 수영장 또는 라운지",
-          "여행 가방과 여권"
-        ]
-      },
-      "marketer_analysis": "타겟: 럭셔리 숙소를 선호하는 2040 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 예약 문의 및 관심도 급증 / 이 콘텐츠의 강점: 일본 여행객에게 아직 생소한 오키나와 신상 럭셔리 리조트 정보를 발 빠르게 제공하여 정보 희소성 확보",
-      "image": {
-        "keyword": "Okinawa resort, luxury suite, new hotel opening, ocean view",
-        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-resort,-luxury-suite,-new-hotel-opening,-ocean-view",
-        "pexels_url": "https://www.pexels.com/search/Okinawa%20resort,%20luxury%20suite,%20new%20hotel%20opening,%20ocean%20view/"
-      }
-    },
-    {
-      "id": "plan_0d40f218",
-      "created_at": "2026-04-11T03:14:27.768198",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジェットスター航空、新仕様ボーイング787-8型機の運航開始",
-        "url": "https://www.traicy.com/posts/20260410367646/",
-        "date": "Fri, 10 Apr 2026 10:24:53 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 시 꼭 알아야 할 항공기 업데이트 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✈️제트스타 787-8 신규 투입!",
-        "cards": [
-          {
-            "title": "운항 시작!",
-            "content": "제트스타 항공이 새롭게 단장한 보잉 787-8 기종의 운항을 4월 7일부터 시작했습니다. ✈️",
-            "alt_text": "제트스타 항공 보잉 787-8 항공기 외부 이미지"
-          },
-          {
-            "title": "어디서 개조했나?",
-            "content": "이번 개조 작업은 홍콩의 HAECO에서 진행되었으며, 4월 2일 멜버른으로 공수되어 첫 운항 준비를 마쳤습니다. 🇭🇰➡️🇦🇺",
-            "alt_text": "홍콩 HAECO 항공기 정비 시설 이미지"
-          },
-          {
-            "title": "첫 노선은?",
-            "content": "첫 비행은 멜버른에서 출발하여 푸껫으로 향하는 노선으로 알려졌습니다. (추후 일본 노선 투입 예정) ✈️",
-            "alt_text": "항공기 이륙 장면 이미지"
-          },
-          {
-            "title": "어떤 점이 달라졌나?",
-            "content": "새로운 사양으로 업그레이드된 보잉 787-8 기종은 더욱 쾌적하고 편안한 비행 경험을 제공할 것으로 기대됩니다. ✨",
-            "alt_text": "항공기 내부 좌석 이미지"
-          },
-          {
-            "title": "확인 필수!",
-            "content": "일본 여행 시 제트스타 항공을 이용하신다면, 최신 항공기 정보와 함께 즐거운 여행 계획 세우시길 바랍니다! 🗓️",
-            "alt_text": "여권과 항공권 이미지"
-          }
-        ],
-        "caption": "일본 여행 계획 중이라면 주목! ✈️\n제트스타 항공의 신규 사양 보잉 787-8 기종 운항이 4월 7일부터 시작되었습니다.\n더욱 쾌적해진 비행으로 일본 여행을 더욱 편안하게 즐겨보세요!\n✅ 첫 운항 노선 확인하고 미리 예약하세요!\n#일본여행 #플라잉재팬 #제트스타 #항공권 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#제트스타",
-          "#항공권",
-          "#일본항공",
-          "#여행정보",
-          "#보잉787",
-          "#신규취항",
-          "#여행준비",
-          "#일본",
-          "#항공사",
-          "#여행스타그램",
-          "#안전여행",
-          "#꿀팁",
-          "#여행필수"
-        ],
-        "alt_texts": [
-          "제트스타 항공 보잉 787-8 항공기 외부 이미지",
-          "홍콩 HAECO 항공기 정비 시설 이미지",
-          "항공기 이륙 장면 이미지",
-          "항공기 내부 좌석 이미지",
-          "여권과 항공권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 8-10시, 주말 오후 2-4시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 댓글을 통한 질문 및 정보 공유 / 이 콘텐츠의 강점: 실시간 업데이트되는 항공사 정보를 제공하여 여행 계획에 실질적인 도움을 줌",
-      "image": {
-        "keyword": "jetstar, boeing 787-8, airplane, travel, japan",
-        "unsplash_url": "https://unsplash.com/s/photos/jetstar,-boeing-787-8,-airplane,-travel,-japan",
-        "pexels_url": "https://www.pexels.com/search/jetstar,%20boeing%20787-8,%20airplane,%20travel,%20japan/"
       }
     }
   ]
