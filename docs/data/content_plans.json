@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-14T23:59:56.395328",
+  "last_updated": "2026-04-15T03:34:25.076846",
   "plans": [
+    {
+      "id": "plan_c598190b",
+      "created_at": "2026-04-15T03:34:23.076611",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "祝 東京ディズニーシー開園25周年！　早朝実施のオープニングセレモニーを早速レポートします",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101721.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니씨 25주년, 놓치면 후회할 특별한 축제!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니씨 25주년✨",
+        "cards": [
+          {
+            "title": "25주년 축제",
+            "content": "도쿄 디즈니씨가 개원 25주년을 맞아 '도쿄 디즈니씨 25주년 “스파클링・주빌리”'를 4월 15일 시작했습니다.",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 로고"
+          },
+          {
+            "title": "축제 기간",
+            "content": "축제는 2027년 3월 31일까지 약 1년 동안 진행됩니다. 넉넉한 기간 동안 다양한 이벤트와 퍼레이드를 즐길 수 있어요.",
+            "alt_text": "축제 기간을 나타내는 캘린더 이미지"
+          },
+          {
+            "title": "특별한 경험",
+            "content": "25주년을 기념하여 특별한 기념품, 먹거리, 그리고 반짝이는 퍼레이드까지! 잊지 못할 추억을 만들어보세요.",
+            "alt_text": "화려한 디즈니씨 퍼레이드 장면"
+          },
+          {
+            "title": "조기 개장",
+            "content": "개원 기념일인 4월 15일에는 특별한 조기 개장 오프닝 세레모니가 진행되었습니다. (이미 종료됨)",
+            "alt_text": "디즈니씨 입구에 모인 사람들"
+          },
+          {
+            "title": "방문 팁",
+            "content": "25주년 기간 동안에는 인기가 많을 것으로 예상되니, 방문 계획이 있다면 미리 티켓 예매 및 숙소 예약을 추천합니다.",
+            "alt_text": "디즈니씨 파크 지도"
+          }
+        ],
+        "caption": "🎉 도쿄 디즈니씨 25주년 기념 축제가 시작되었습니다! 🎉\n\n✨ '도쿄 디즈니씨 25주년 “스파클링・주빌리”' ✨\n\n📅 기간: 2024년 4월 15일 ~ 2027년 3월 31일\n\n약 1년간 펼쳐지는 특별한 축제와 함께 잊지 못할 추억을 만들어보세요! 💖\n\n#도쿄디즈니씨 #디즈니씨25주년 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니씨",
+          "#도쿄디즈니씨",
+          "#디즈니랜드",
+          "#일본축제",
+          "#일본이벤트",
+          "#여행정보",
+          "#해외여행",
+          "#여행꿀팁",
+          "#디즈니",
+          "#25주년",
+          "#도쿄",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 25주년 기념 로고",
+          "축제 기간을 나타내는 캘린더 이미지",
+          "화려한 디즈니씨 퍼레이드 장면",
+          "디즈니씨 입구에 모인 사람들",
+          "디즈니씨 파크 지도"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 도쿄 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심 및 댓글 문의 / 이 콘텐츠의 강점: 인기 테마파크의 특별한 기념일 정보로 즉각적인 흥미 유발",
+      "image": {
+        "keyword": "Tokyo DisneySea 25th anniversary celebration fireworks",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-celebration-fireworks",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20celebration%20fireworks/"
+      }
+    },
+    {
+      "id": "plan_204d33a1",
+      "created_at": "2026-04-15T03:34:16.440997",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "GWの箱根登山電車、必ず座れる「らくらく着席予約券」発売。箱根湯本発～強羅行きで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2101789.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "골든위크 일본 여행, 박물관 열차로 편안하게 탑승하세요!"
+      },
+      "content": {
+        "thumbnail_title": "GW 박물관 열차 🚄",
+        "cards": [
+          {
+            "title": "특별 열차 운행",
+            "content": "골든위크 기간, 하코네 등산 열차가 특별 좌석 예약제를 도입합니다. 4월 29일 ~ 5월 7일까지 운행 예정입니다.",
+            "alt_text": "골든위크 기간 특별 운행하는 하코네 등산 열차 이미지"
+          },
+          {
+            "title": "예약 필수!",
+            "content": "‘らくらく着席予約券’ (편안한 착석 예약권)을 구매하면 지정된 열차에 반드시 앉아서 갈 수 있습니다. 1인당 500엔입니다.",
+            "alt_text": "편안한 착석 예약권 이미지"
+          },
+          {
+            "title": "운행 구간",
+            "content": "하코네 유모토 역 출발 (11:58) ~ 고라 역 도착 (12:42)까지 운행하는 임시 열차입니다.",
+            "alt_text": "하코네 등산 열차 노선도 이미지"
+          },
+          {
+            "title": "예매 방법",
+            "content": "오다큐 하코네 공식 웹사이트 또는 역 창구를 통해 예약할 수 있습니다. (온라인 예매는 4월 20일부터 가능)",
+            "alt_text": "오다큐 하코네 웹사이트 또는 역 창구 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "골든위크 하코네 여행 시, 붐비는 열차 대신 예약권을 활용해 편안하게 이동하세요. 특히 가족 여행객에게 추천합니다.",
+            "alt_text": "하코네 등산 열차 내부 좌석 이미지"
+          }
+        ],
+        "caption": "✨ 2023년 골든위크, 하코네 여행이 더욱 편안해집니다! ✨\n\n붐비는 황금연휴, 하코네 등산 열차를 편안하게 앉아서 즐기고 싶다면 주목! 🤩\n\n오다큐 하코네에서 '편안한 착석 예약권'을 판매합니다. 4월 29일부터 5월 7일까지 운행하는 임시 열차에 예약하면 지정석에 앉아 여유롭게 여행을 즐길 수 있어요. 🚆\n\n✅ 하코네 유모토역 11:58 출발 → 고라역 12:42 도착\n✅ 예약권 가격: 1인 500엔\n✅ 예매: 오다큐 하코네 공식 웹사이트/역 창구 (4/20부터 온라인 예매 가능)\n\n올해 골든위크, 하코네에서 편안한 추억 만드세요! 💖\n\n#일본여행 #골든위크 #하코네 #하코네등산열차 #오다큐 #여행꿀팁 #일본교통 #여행스타그램 #플라잉재팬 #해외여행 #여행정보 #일본자유여행 #일본추천 #일본가볼만한곳 #가족여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#골든위크",
+          "#하코네",
+          "#하코네등산열차",
+          "#오다큐",
+          "#여행꿀팁",
+          "#일본교통",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본자유여행",
+          "#일본추천",
+          "#일본가볼만한곳",
+          "#가족여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "골든위크 기간 특별 운행하는 하코네 등산 열차 이미지",
+          "편안한 착석 예약권 이미지",
+          "하코네 등산 열차 노선도 이미지",
+          "오다큐 하코네 웹사이트 또는 역 창구 이미지",
+          "하코네 등산 열차 내부 좌석 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 4월 말 ~ 5월 초 일본 골든위크 기간 하코네 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우기 시작하는 저녁 시간 (20시 ~ 22시) 또는 주말 오전 (10시 ~ 12시) / 기대 반응: 예약권 구매 정보에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 골든위크 기간의 혼잡함을 피하고 싶은 여행객에게 실질적인 편의를 제공하는 정보",
+      "image": {
+        "keyword": "Hakone Tozan Railway, Golden Week, Reserved Seat Ticket, Odakyu Hakone",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Tozan-Railway,-Golden-Week,-Reserved-Seat-Ticket,-Odakyu-Hakone",
+        "pexels_url": "https://www.pexels.com/search/Hakone%20Tozan%20Railway,%20Golden%20Week,%20Reserved%20Seat%20Ticket,%20Odakyu%20Hakone/"
+      }
+    },
     {
       "id": "plan_f93b86e8",
       "created_at": "2026-04-14T23:59:54.395178",
@@ -923,160 +1077,6 @@
         "keyword": "Japan domestic flight, 5000 yen, Nagoya, Sapporo, airplane ticket sale",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-domestic-flight,-5000-yen,-Nagoya,-Sapporo,-airplane-ticket-sale",
         "pexels_url": "https://www.pexels.com/search/Japan%20domestic%20flight,%205000%20yen,%20Nagoya,%20Sapporo,%20airplane%20ticket%20sale/"
-      }
-    },
-    {
-      "id": "plan_45a704b7",
-      "created_at": "2026-04-11T23:51:22.850124",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR西日本、2026年度のホーム柵とホーム安全スクリーンの計画を発表。吹田駅・新福島駅は全のりばの整備完了へ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2100866.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 철도 이용 시 안전 강화 소식! 2026년까지 주요 역에 스크린도어 설치 예정"
-      },
-      "content": {
-        "thumbnail_title": "JR 서일본 2026년 홈 안전 강화! 🚉",
-        "cards": [
-          {
-            "title": "홈 안전 강화",
-            "content": "JR 서일본은 2026년까지 주요 역에 스크린도어 설치를 완료할 계획입니다. 2026년도에는 11개역에서 스크린도어 사용을 시작하고, 11개역에서 공사를 시작합니다.",
-            "alt_text": "JR 서일본 열차와 역 플랫폼에 설치될 스크린도어 이미지"
-          },
-          {
-            "title": "완료 예정 역",
-            "content": "특히, 스이타역과 신후쿠시마역은 모든 승강장에 대한 홈 안전 스크린 설치가 완료될 예정입니다. 안전한 여행을 위해 참고하세요.",
-            "alt_text": "스이타역과 신후쿠시마역 표지판 이미지"
-          },
-          {
-            "title": "스크린도어 도입",
-            "content": "이번 홈 안전 스크린 도입으로 열차 운행 중 발생하는 승객 추락 사고 등을 예방하여 더욱 안전한 철도 이용 환경을 제공할 것으로 기대됩니다.",
-            "alt_text": "스크린도어가 설치된 열차 승강장 이미지"
-          },
-          {
-            "title": "이용객 편의",
-            "content": "향후 JR 서일본 전역으로 확대될 가능성이 있어, 일본 여행 시 열차 이용이 더욱 편리하고 안전해질 전망입니다.",
-            "alt_text": "열차에 탑승하는 승객들의 모습 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "새로운 안전 시설이 도입되는 역에서는 열차 탑승 시 잠시 안내를 확인하는 것이 좋습니다. 여행 전 JR 서일본 공식 발표를 참고하여 최신 정보를 파악하세요.",
-            "alt_text": "여행자가 스마트폰으로 정보를 확인하는 모습 이미지"
-          }
-        ],
-        "caption": "JR 서일본, 2026년까지 주요 역에 홈 안전 스크린 설치 완료 예정! 🚉\n\n안전을 최우선으로 생각하는 JR 서일본이 2026년까지 홈 안전 스크린 설치를 확대합니다.\n\n스이타역, 신후쿠시마역 등 여러 역에서 공사가 진행되며, 우리의 안전한 일본 여행을 더욱 든든하게 지켜줄 거예요. 👍\n\n일본 철도 이용 예정이라면 꼭 알아두세요! 😉\n\n#일본여행 #JR서일본 #일본교통 #안전여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#JR서일본",
-          "#안전여행",
-          "#일본철도",
-          "#여행꿀팁",
-          "#일본정보",
-          "#2026년",
-          "#스크린도어",
-          "#여행준비",
-          "#일본자유여행",
-          "#일본생활",
-          "#여행스타그램",
-          "#일본소식"
-        ],
-        "alt_texts": [
-          "JR 서일본 열차와 역 플랫폼에 설치될 스크린도어 이미지",
-          "스이타역과 신후쿠시마역 표지판 이미지",
-          "스크린도어가 설치된 열차 승강장 이미지",
-          "열차에 탑승하는 승객들의 모습 이미지",
-          "여행자가 스마트폰으로 정보를 확인하는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 유용성에 대한 긍정적 반응, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 안전 정보 제공, 구체적인 역 정보 포함",
-      "image": {
-        "keyword": "JR West Japan, platform screen doors, train station safety, Japan railway travel, transportation infrastructure",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-West-Japan,-platform-screen-doors,-train-station-safety,-Japan-railway-travel,-transportation-infrastructure",
-        "pexels_url": "https://www.pexels.com/search/JR%20West%20Japan,%20platform%20screen%20doors,%20train%20station%20safety,%20Japan%20railway%20travel,%20transportation%20infrastructure/"
-      }
-    },
-    {
-      "id": "plan_f1360835",
-      "created_at": "2026-04-11T23:51:13.218745",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】世界自然遺産の島・奄美の動物保護に貢献する「奄美の生き物お楽しみチャーム」、JAC機内販売で展開",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2099958.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 항공기에서 만나는 멸종위기 동물 보호 기부 상품!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 기내 한정! 멸종위기 동물을 지켜요🐢",
-        "cards": [
-          {
-            "title": "특별한 기내 판매",
-            "content": "JAL(일본항공)이 멸종위기 동물을 보호하기 위한 '아마미의 생물 즐거움 참'을 기내에서 판매합니다. 이 수익금은 아마미 군도의 동물 보호 활동에 사용됩니다.",
-            "alt_text": "JAL 항공기 내부에서 판매 중인 '아마미의 생물 즐거움 참' 상품 이미지"
-          },
-          {
-            "title": "지역 활성화 프로젝트",
-            "content": "JAL은 지역 활성화를 위해 'JAL 고향 프로젝트'를 진행 중입니다. 객실 승무원들이 직접 지역에 이주하거나 지역 활동에 참여하며 상품 개발 및 지역 문제 해결에 힘쓰고 있습니다.",
-            "alt_text": "JAL 객실 승무원이 지역 주민과 함께 활동하는 모습"
-          },
-          {
-            "title": "기여하는 여행",
-            "content": "이번 '아마미의 생물 즐거움 참' 구매를 통해 일본 여행 중에도 의미 있는 기부에 동참할 수 있습니다. 아마미 군도의 소중한 생태계를 지키는 데 힘을 보태세요.",
-            "alt_text": "'아마미의 생물 즐거움 참' 상품 디자인 상세 이미지"
-          },
-          {
-            "title": "언제 어디서?",
-            "content": "해당 상품은 JAL 국내선 및 국제선 기내 판매를 통해 구매 가능합니다. 정확한 판매 노선 및 시기는 JAL 공식 웹사이트에서 확인해주세요.",
-            "alt_text": "JAL 항공기 기내 서비스 카트 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "기내 판매 상품은 한정 수량일 수 있으니, 구매를 원하시면 승무원에게 문의하는 것이 좋습니다. JAL 앱 또는 웹사이트에서 기내 판매 상품 목록을 미리 확인하는 것도 좋은 방법입니다.",
-            "alt_text": "기내 면세품 구매 안내 사인 이미지"
-          }
-        ],
-        "caption": "✈️JAL 항공기를 이용하신다면 주목! ✈️\n\n이번 일본 여행에서 특별한 의미를 더해보세요. JAL이 선보이는 '아마미의 생물 즐거움 참'은 멸종위기 동물을 보호하는 데 기여하는 착한 상품입니다. 🐢\n\nJAL의 지역 활성화 프로젝트의 일환으로 탄생한 이 참은 구매 금액의 일부가 아마미 군도의 소중한 생태계를 지키는 데 사용됩니다.\n\n나만의 특별한 기념품이 될 뿐만 아니라, 지구를 위한 따뜻한 마음까지 나눌 수 있는 기회! 놓치지 마세요. 😉\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #기내면세 #기부 #여행팁 #아마미군도 #멸종위기동물 #착한소비 #일본여행정보 #여행꿀팁 #특별한선물 #가치소비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#기내면세",
-          "#기부",
-          "#여행팁",
-          "#아마미군도",
-          "#멸종위기동물",
-          "#착한소비",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#특별한선물",
-          "#가치소비",
-          "#일본여행필수템"
-        ],
-        "alt_texts": [
-          "JAL 항공기 내부에서 판매 중인 '아마미의 생물 즐거움 참' 상품 이미지",
-          "JAL 객실 승무원이 지역 주민과 함께 활동하는 모습",
-          "'아마미의 생물 즐거움 참' 상품 디자인 상세 이미지",
-          "JAL 항공기 기내 서비스 카트 이미지",
-          "기내 면세품 구매 안내 사인 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 항공 이용객, 윤리적 소비에 관심 있는 한국인 여행자 / 최적 게시 시간: 여행 준비 기간인 평일 오후 3-5시 / 기대 반응: 높은 관심과 정보 공유, 구매 문의 / 이 콘텐츠의 강점: 시의성 있는 항공사 프로모션 정보와 의미 있는 기부 활동 연결",
-      "image": {
-        "keyword": "JAL in-flight sales, Amami wildlife charm, endangered animal protection, JAL regional revitalization, charitable travel souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-in-flight-sales,-Amami-wildlife-charm,-endangered-animal-protection,-JAL-regional-revitalization,-charitable-travel-souvenir",
-        "pexels_url": "https://www.pexels.com/search/JAL%20in-flight%20sales,%20Amami%20wildlife%20charm,%20endangered%20animal%20protection,%20JAL%20regional%20revitalization,%20charitable%20travel%20souvenir/"
       }
     }
   ]
