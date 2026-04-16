@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-16T03:40:44.498960",
+  "last_updated": "2026-04-16T23:58:28.964496",
   "plans": [
+    {
+      "id": "plan_dac197f8",
+      "created_at": "2026-04-16T23:58:26.964329",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、GWセールは4月24日～5月7日に開催。エアリズムやUVカットなど機能性ウェアが特価、新作UTも続々",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102382.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 놓칠 수 없는 유니클로 GW 특별 세일 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵유니클로 GW 세일 득템찬스!✨",
+        "cards": [
+          {
+            "title": "GW 세일 기간",
+            "content": "일본 유니클로에서 2024년 4월 24일부터 5월 7일까지 골든위크(GW) 특별 세일을 진행합니다.",
+            "alt_text": "일본 유니클로 GW 세일 기간 안내"
+          },
+          {
+            "title": "할인 품목",
+            "content": "에어리즘, UV컷 기능성 의류 등 인기 상품들을 특별 할인가로 만나볼 수 있어요. 여름 필수템을 저렴하게 구매할 기회입니다.",
+            "alt_text": "유니클로 기능성 의류 할인 정보"
+          },
+          {
+            "title": "신상 UT",
+            "content": "새로운 그래픽 티셔츠(UT) 컬렉션도 이번 세일 기간에 맞춰 출시될 예정이니 기대해주세요!",
+            "alt_text": "유니클로 신상 UT 출시 안내"
+          },
+          {
+            "title": "세일 테마",
+            "content": "'休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク'라는 테마로 진행되며, 휴일을 더욱 즐겁게 보낼 수 있는 패션을 제안합니다.",
+            "alt_text": "유니클로 GW 세일 테마 소개"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "일본 여행 중 쇼핑 리스트에 유니클로를 꼭 포함시켜 보세요! 실용적인 아이템을 합리적인 가격으로 구매할 수 있습니다.",
+            "alt_text": "일본 유니클로 쇼핑 팁"
+          }
+        ],
+        "caption": "일본 여행 중 놓칠 수 없는 꿀정보! ✈️ 유니클로에서 4월 24일부터 5월 7일까지 GW 특별 세일을 진행해요! 에어리즘, UV컷 기능성 의류 등 인기 상품을 할인된 가격으로 득템할 기회! 신상 UT도 놓치지 마세요! 🛍️\n\n#일본여행 #유니클로 #GW세일 #일본쇼핑 #득템찬스 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#일본쇼핑",
+          "#GW세일",
+          "#골든위크",
+          "#일본여행꿀팁",
+          "#해외직구",
+          "#할인정보",
+          "#의류",
+          "#여름준비",
+          "#일본생활",
+          "#일본어",
+          "#여행스타그램",
+          "#쇼핑스타그램"
+        ],
+        "alt_texts": [
+          "일본 유니클로 GW 세일 기간 안내",
+          "유니클로 기능성 의류 할인 정보",
+          "유니클로 신상 UT 출시 안내",
+          "유니클로 GW 세일 테마 소개",
+          "일본 유니클로 쇼핑 팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 세일 정보에 대한 높은 관심과 공유, 실제 구매 의사 표현 / 이 콘텐츠의 강점: 시기적절한 쇼핑 정보 제공, 구체적인 할인 기간 및 품목 명시",
+      "image": {
+        "keyword": "Uniqlo GW Sale Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-GW-Sale-Japan",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20GW%20Sale%20Japan/"
+      }
+    },
+    {
+      "id": "plan_f9810b88",
+      "created_at": "2026-04-16T23:58:21.277118",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、GWセールのノベルティは「メッシュトートバッグ＆保冷ポーチセット」全5色。4月24日から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102383.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유니클로 GW 세일 기간에 맞춰 증정되는 특별한 굿즈 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 유니클로 GW 한정 굿즈 득템 찬스!",
+        "cards": [
+          {
+            "title": "GW 특별 세일",
+            "content": "일본 유니클로에서 4월 24일부터 5월 7일까지 '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク' GW 세일을 진행합니다.",
+            "alt_text": "일본 유니클로 매장 전경"
+          },
+          {
+            "title": "노벨티 증정",
+            "content": "세일 기간 중 구매 금액에 따라 '메쉬 토트백 & 보냉 파우치 세트'를 증정합니다. 총 5가지 색상으로 만나볼 수 있어요.",
+            "alt_text": "유니클로 메쉬 토트백과 보냉 파우치 세트 이미지"
+          },
+          {
+            "title": "색상 확인!",
+            "content": "귀여운 5가지 색상의 토트백과 파우치 세트로 구성되어 있어 선택의 폭이 넓습니다. 여행 중에도 유용하게 사용할 수 있겠어요.",
+            "alt_text": "다양한 색상의 유니클로 굿즈 세트"
+          },
+          {
+            "title": "세일 기간",
+            "content": "놓치지 마세요! 세일 기간은 2024년 4월 24일부터 5월 7일까지입니다.",
+            "alt_text": "달력에 표시된 4월 24일과 5월 7일"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 여행 계획 중이라면, 유니클로 쇼핑 리스트에 꼭 넣어두세요! 세일 기간과 굿즈 증정 조건을 미리 확인하면 알뜰한 쇼핑이 가능합니다.",
+            "alt_text": "쇼핑백을 들고 즐거워하는 여행객"
+          }
+        ],
+        "caption": "🇯🇵 일본 유니클로에서 골든 위크(GW) 특별 세일이 시작됩니다!\n\n✨ 4월 24일 ~ 5월 7일까지 진행되는 이번 세일 기간 동안, 특별한 노벨티 굿즈를 증정해요.\n\n👜 '메쉬 토트백 & 보냉 파우치 세트'를 5가지 색상으로 만나볼 수 있다는 사실!\n\n일본 여행 가신다면, 유니클로 들러서 득템 찬스 꼭 잡으세요!\n\n#일본여행 #유니클로 #골든위크 #GW세일 #일본쇼핑 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#일본유니클로",
+          "#GW세일",
+          "#골든위크",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#일본득템",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#일본생활",
+          "#쇼핑스타그램",
+          "#노벨티",
+          "#한정판"
+        ],
+        "alt_texts": [
+          "일본 유니클로 매장 전경",
+          "유니클로 메쉬 토트백과 보냉 파우치 세트 이미지",
+          "다양한 색상의 유니클로 굿즈 세트",
+          "달력에 표시된 4월 24일과 5월 7일",
+          "쇼핑백을 들고 즐거워하는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 20-40대 한국인 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 시기적절한 세일 정보와 실용적인 굿즈 증정 소식으로 여행객의 구매 욕구 자극",
+      "image": {
+        "keyword": "Uniqlo Japan GW sale, mesh tote bag, cooler pouch set, limited edition, shopping gift",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Japan-GW-sale,-mesh-tote-bag,-cooler-pouch-set,-limited-edition,-shopping-gift",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Japan%20GW%20sale,%20mesh%20tote%20bag,%20cooler%20pouch%20set,%20limited%20edition,%20shopping%20gift/"
+      }
+    },
     {
       "id": "plan_4539b2fc",
       "created_at": "2026-04-16T03:40:42.498779",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo DisneySea 25th Anniversary Sparkling Jubily",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-Anniversary-Sparkling-Jubily",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20Anniversary%20Sparkling%20Jubily/"
-      }
-    },
-    {
-      "id": "plan_8faa8f41",
-      "created_at": "2026-04-13T03:47:53.796235",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「黒ミャクミャク」ファン必見！　ぬいぐるみ付きチョコクランチ新登場。JR新大阪駅の公式ストアほか土産店舗で販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2101119.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "Expo 2025 마스코트 '검은 미야쿠미야쿠' 굿즈가 드디어 출시! 기념품으로 딱이에요!"
-      },
-      "content": {
-        "thumbnail_title": " Expo 2025 굿즈 🎁",
-        "cards": [
-          {
-            "title": "신상 굿즈 출시!",
-            "content": "Expo 2025 공식 라이선스 상품 '검은 미야쿠미야쿠 ぬいぐるみ 포함 초코 크런치'가 4월 중순 출시됩니다.",
-            "alt_text": "Expo 2025 공식 마스코트 '검은 미야쿠미야쿠' 굿즈 신상품 출시 안내 이미지"
-          },
-          {
-            "title": "구성품 확인",
-            "content": "구성품은 초코 크런치 6개와 귀여운 검은 미야쿠미야쿠 ぬいぐるみ 1개입니다.",
-            "alt_text": "초코 크런치 6개와 검은 미야쿠미야쿠 ぬいぐるみ 1개로 구성된 굿즈 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 4180엔입니다.",
-            "alt_text": "상품 가격 4180엔을 표시하는 이미지"
-          },
-          {
-            "title": "구매처",
-            "content": "JR 신오사카역 공식 스토어를 포함한 주요 기념품 판매점에서 만나볼 수 있습니다.",
-            "alt_text": "JR 신오사카역 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "Expo 2025를 추억할 특별한 기념품이 될 거예요! 여행 계획 중이라면 꼭 확인하세요.",
-            "alt_text": "Expo 2025 굿즈를 구매하는 여행객 이미지"
-          }
-        ],
-        "caption": " Expo 2025 마스코트 '검은 미야쿠미야쿠' 굿즈가 드디어 출시되었어요! 🤩\n\n귀여운 ぬいぐるみ와 맛있는 초코 크런치가 함께 들어있는 특별한 구성으로, Expo 2025를 추억할 완벽한 기념품이 될 거예요. 💖\n\nJR 신오사카역 공식 스토어를 포함한 여러 기념품 판매점에서 4월 중순부터 구매 가능하니, 일본 여행 계획 중이라면 꼭 득템하세요! ✈️\n\n#Expo2025 #검은미야쿠미야쿠 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Expo2025",
-          "#오사카여행",
-          "#일본기념품",
-          "#일본굿즈",
-          "#검은미야쿠미야쿠",
-          "#JR신오사카역",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본쇼핑",
-          "#여행필수템",
-          "#여행정보",
-          "#일본",
-          "#신상굿즈"
-        ],
-        "alt_texts": [
-          "Expo 2025 공식 마스코트 '검은 미야쿠미야쿠' 굿즈 신상품 출시 안내 이미지",
-          "초코 크런치 6개와 검은 미야쿠미야쿠 ぬいぐるみ 1개로 구성된 굿즈 이미지",
-          "상품 가격 4180엔을 표시하는 이미지",
-          "JR 신오사카역 이미지",
-          "Expo 2025 굿즈를 구매하는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 Expo 2025 방문 예정자 및 굿즈 컬렉터 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: Expo 2025 공식 굿즈라는 희소성, 귀여운 캐릭터 굿즈의 매력",
-      "image": {
-        "keyword": "Kuro Miyakumiya plush toy chocolate crunch EXPO 2025 souvenir JR Shin-Osaka Station",
-        "unsplash_url": "https://unsplash.com/s/photos/Kuro-Miyakumiya-plush-toy-chocolate-crunch-EXPO-2025-souvenir-JR-Shin-Osaka-Station",
-        "pexels_url": "https://www.pexels.com/search/Kuro%20Miyakumiya%20plush%20toy%20chocolate%20crunch%20EXPO%202025%20souvenir%20JR%20Shin-Osaka%20Station/"
-      }
-    },
-    {
-      "id": "plan_ad794940",
-      "created_at": "2026-04-13T03:47:48.492636",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "お得なデジタル1日乗車券「北急・モノレール 京都おでかけきっぷ」。伊丹空港～京都・大阪の利用にも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2101141.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "간사이 공항에서 교토/오사카까지 1일 교통 무제한! 꿀팁 가득한 디지털 티켓 등장 ✈️"
-      },
-      "content": {
-        "thumbnail_title": "간사이 1일 무제한 교통권 🎫",
-        "cards": [
-          {
-            "title": "새로운 티켓 출시!",
-            "content": "오사카 모노레일에서 '북큐/모노레일 교토 오데카케 킷푸' 디지털 승차권을 출시했어요. 스루토 QR토 웹사이트에서 구매 가능합니다.",
-            "alt_text": "디지털 티켓 구매 화면 이미지"
-          },
-          {
-            "title": "이용 범위는?",
-            "content": "이 승차권으로 이타미 공항에서 교토, 오사카까지의 이동이 모두 가능해요. 1일 동안 무제한으로 이용할 수 있어 편리해요.",
-            "alt_text": "이타미 공항에서 교토/오사카로 가는 지도 이미지"
-          },
-          {
-            "title": "가성비 최고!",
-            "content": "여러 번 대중교통을 이용할 계획이라면 개별 요금보다 훨씬 경제적이에요. 여행 경비를 절약할 수 있는 기회입니다.",
-            "alt_text": "돈이 절약되는 모습을 표현한 이미지"
-          },
-          {
-            "title": "스마트한 결제",
-            "content": "QR코드를 이용한 디지털 승차권이라 실물 티켓 없이 스마트폰으로 간편하게 이용할 수 있어요. 분실 걱정 NO!",
-            "alt_text": "스마트폰 QR코드 스캔 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "간사이 공항 도착 후 바로 교토나 오사카 시내로 이동할 때, 혹은 이타미 공항을 이용할 때 이 티켓을 구매하면 이동이 훨씬 수월하고 저렴해요.",
-            "alt_text": "여행자가 환하게 웃으며 짐을 들고 있는 이미지"
-          }
-        ],
-        "caption": "✈️ 한국에서 일본 오시는 분들 주목! ✈️\n\n간사이 공항 또는 이타미 공항에서 교토, 오사카까지 1일 무제한 교통을 누릴 수 있는 절호의 찬스!\n\n✨ '북큐/모노레일 교토 오데카케 킷푸' 디지털 승차권이 출시되었어요!\n\n✅ 이타미 공항 ⇄ 교토/오사카 이동 시 최고!\n✅ 1일 동안 무제한 탑승 가능\n✅ QR코드로 간편하게 이용\n\n여행 경비 절약은 물론, 편리함까지 더해줄 이 티켓으로 알찬 일본 여행 계획해 보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #간사이여행 #교토여행 #오사카여행 #일본교통 #디지털티켓 #여행꿀팁 #가성비여행 #일본자유여행 #해외여행 #여행준비 #일본정보 #여행스타그램 #일본가볼만한곳",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#간사이여행",
-          "#교토여행",
-          "#오사카여행",
-          "#일본교통",
-          "#디지털티켓",
-          "#여행꿀팁",
-          "#가성비여행",
-          "#일본자유여행",
-          "#해외여행",
-          "#여행준비",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "디지털 티켓 구매 화면 이미지",
-          "이타미 공항에서 교토/오사카로 가는 지도 이미지",
-          "돈이 절약되는 모습을 표현한 이미지",
-          "스마트폰 QR코드 스캔 이미지",
-          "여행자가 환하게 웃으며 짐을 들고 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 간사이 지역 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5시~7시, 주말 오후 3시~5시 / 기대 반응: 정보 획득, 구매 의사 결정 도움, 공유 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보, 편리한 사용법 제시, 구체적인 이용 대상 명시",
-      "image": {
-        "keyword": "japan travel ticket, osaka monorail, kyoto transportation, travel discount, qr code ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-ticket,-osaka-monorail,-kyoto-transportation,-travel-discount,-qr-code-ticket",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20ticket,%20osaka%20monorail,%20kyoto%20transportation,%20travel%20discount,%20qr%20code%20ticket/"
       }
     }
   ]
