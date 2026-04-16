@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-15T03:34:25.076846",
+  "last_updated": "2026-04-16T00:00:02.709064",
   "plans": [
+    {
+      "id": "plan_48cc5153",
+      "created_at": "2026-04-16T00:00:00.708872",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "都電荒川線、特別車両の運行スタート。8501号車を水戸岡鋭治がリニューアル、山吹色×木製インテリアでレトロに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102011.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 특별한 레트로 감성 열차를 만날 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 도덴 아라카와선 ✨ 특별 열차 운행 시작!",
+        "cards": [
+          {
+            "title": "특별 열차 운행",
+            "content": "도쿄 도덴 아라카와선(도쿄 사쿠라 트램)에서 8501호 차량의 리뉴얼이 완료되어 4월 16일부터 특별 차량 운행을 시작합니다.",
+            "alt_text": "새롭게 단장한 도덴 아라카와선 특별 열차의 외관 이미지"
+          },
+          {
+            "title": "디자인 포인트",
+            "content": "일본의 유명 디자이너 미토오카 에이지가 디자인했으며, 산뜻한 산황색 외관과 따뜻한 느낌의 목재 인테리어가 돋보입니다.",
+            "alt_text": "열차 내부의 목재 인테리어와 좌석 이미지"
+          },
+          {
+            "title": "레트로 감성",
+            "content": "옛날 감성을 그대로 살린 레트로 디자인으로, 도심 속에서 특별한 추억을 만들 수 있는 기회입니다.",
+            "alt_text": "열차 창밖으로 보이는 도쿄 풍경과 열차 내부 모습"
+          },
+          {
+            "title": "이용 팁",
+            "content": "도덴 아라카와선은 도쿄 시내를 천천히 누비며 도쿄의 숨겨진 매력을 발견하기 좋은 노선입니다. 특별 열차 운행 기간을 확인하고 탑승해보세요!",
+            "alt_text": "도덴 아라카와선 노선도 이미지"
+          },
+          {
+            "title": "놓치지 마세요",
+            "content": "시간이 멈춘 듯한 특별한 경험을 원하신다면, 이번 기회를 절대 놓치지 마세요! 특별 차량 운행 일정은 변동될 수 있으니 미리 확인하는 것이 좋습니다.",
+            "alt_text": "특별 열차 앞에서 포즈를 취하는 여행객 이미지"
+          }
+        ],
+        "caption": "도쿄 여행 중 특별한 경험을 찾고 있다면 주목! 🚃✨\n도쿄 도덴 아라카와선에서 8501호 특별 열차가 4월 16일부터 운행을 시작했어요.\n산뜻한 산황색 외관과 따뜻한 목재 인테리어로 레트로 감성 가득! 💖\n도심 속에서 시간 여행하는 듯한 특별한 추억을 만들어보세요.\n#도쿄여행 #도덴아라카와선 #특별열차",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄",
+          "#도덴아라카와선",
+          "#도쿄사쿠라트램",
+          "#특별열차",
+          "#레트로",
+          "#감성여행",
+          "#일본교통",
+          "#여행정보",
+          "#일본소식",
+          "#여행필수",
+          "#도쿄가볼만한곳",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "새롭게 단장한 도덴 아라카와선 특별 열차의 외관 이미지",
+          "열차 내부의 목재 인테리어와 좌석 이미지",
+          "열차 창밖으로 보이는 도쿄 풍경과 열차 내부 모습",
+          "도덴 아라카와선 노선도 이미지",
+          "특별 열차 앞에서 포즈를 취하는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄에서 특별하고 감성적인 경험을 원하는 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: '와 신기하다!', '꼭 타봐야지!' 등 기대감 표현 / 이 콘텐츠의 강점: 흔하지 않은 독특한 교통수단 정보를 제공하여 차별화",
+      "image": {
+        "keyword": "Tokyo streetcar, retro train, Japanese designer, wooden interior, vintage tram",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-streetcar,-retro-train,-Japanese-designer,-wooden-interior,-vintage-tram",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20streetcar,%20retro%20train,%20Japanese%20designer,%20wooden%20interior,%20vintage%20tram/"
+      }
+    },
+    {
+      "id": "plan_c32ed7e6",
+      "created_at": "2026-04-15T23:59:52.478708",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "紀ノ国屋、東京駅エリア限定「折り畳み保冷バッグ」をサイズアップして新発売。TOKYO刺繍入り・4色展開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102029.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역 한정! 紀ノ国屋 보냉백, 사이즈 업되어 재출시! 🛍️"
+      },
+      "content": {
+        "thumbnail_title": "도쿄역 紀ノ国屋 보냉백 👜",
+        "cards": [
+          {
+            "title": "사이즈 업!",
+            "content": "도쿄역에서만 만날 수 있던 紀ノ国屋의 인기 접이식 보냉백이 더 커져서 돌아왔어요! 🍎",
+            "alt_text": "紀ノ国屋 보냉백 대형 사이즈 이미지"
+          },
+          {
+            "title": "가격 및 판매처",
+            "content": "새로운 대형 사이즈의 가격은 2,750엔입니다. 💰",
+            "alt_text": "가격 정보가 포함된 紀ノ国屋 보냉백 이미지"
+          },
+          {
+            "title": "매장 4곳!",
+            "content": "도쿄역 그란스타 마루노우치점, 그란스타점, 다이마루 도쿄점, 니혼바시 타카시마야 S.C.점에서 구매 가능해요. 📍",
+            "alt_text": "매장 위치 정보가 표시된 紀ノ国屋 보냉백 이미지"
+          },
+          {
+            "title": "4가지 색상",
+            "content": "TOKYO 자수가 새겨진 4가지 색상으로 출시되어 취향에 맞게 선택할 수 있어요. ✨",
+            "alt_text": "다양한 색상의 紀ノ国屋 보냉백 이미지"
+          },
+          {
+            "title": "쇼핑 꿀팁!",
+            "content": "도쿄역에서 기념품이나 쇼핑 후 신선식품을 담아오기 좋아요. 가볍고 휴대하기 편리하니 꼭 챙겨보세요! ✈️",
+            "alt_text": "활기찬 도쿄역 풍경과 보냉백을 든 사람 이미지"
+          }
+        ],
+        "caption": "도쿄역에서만 구매 가능했던 紀ノ国屋의 접이식 보냉백이 더 커져서 재출시되었어요! 🛍️\nTOKYO 자수가 새겨진 4가지 색상에 가격은 2,750엔! 💰\n그란스타 마루노우치점, 그란스타점, 다이마루 도쿄점, 니혼바시 타카시마야 S.C.점에서 만나보세요. \n여행 중 신선식품 쇼핑이나 기념품 담기에 딱! 👍\n#일본여행 #도쿄여행 #紀ノ国屋 #쇼핑 #보냉백 #도쿄역 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄쇼핑",
+          "#紀ノ国屋",
+          "#보냉백",
+          "#여행준비물",
+          "#일본쇼핑",
+          "#도쿄역",
+          "#쇼핑리스트",
+          "#여행꿀팁",
+          "#여행스타그램",
+          "#일본쇼핑리스트",
+          "#일본선물",
+          "#기념품"
+        ],
+        "alt_texts": [
+          "紀ノ国屋 보냉백 대형 사이즈 이미지",
+          "가격 정보가 포함된 紀ノ国屋 보냉백 이미지",
+          "매장 위치 정보가 표시된 紀ノ国屋 보냉백 이미지",
+          "다양한 색상의 紀ノ国屋 보냉백 이미지",
+          "활기찬 도쿄역 풍경과 보냉백을 든 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 도쿄 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 실용적인 쇼핑 정보, 도쿄역 한정판 희소성 강조",
+      "image": {
+        "keyword": "Kinokuniya insulated bag Tokyo Station",
+        "unsplash_url": "https://unsplash.com/s/photos/Kinokuniya-insulated-bag-Tokyo-Station",
+        "pexels_url": "https://www.pexels.com/search/Kinokuniya%20insulated%20bag%20Tokyo%20Station/"
+      }
+    },
     {
       "id": "plan_c598190b",
       "created_at": "2026-04-15T03:34:23.076611",
@@ -923,160 +1077,6 @@
         "keyword": "Hitachinaka Seaside Park, nemophila, Ibaraki, Japan, free shuttle bus, blue flowers, travel guide",
         "unsplash_url": "https://unsplash.com/s/photos/Hitachinaka-Seaside-Park,-nemophila,-Ibaraki,-Japan,-free-shuttle-bus,-blue-flowers,-travel-guide",
         "pexels_url": "https://www.pexels.com/search/Hitachinaka%20Seaside%20Park,%20nemophila,%20Ibaraki,%20Japan,%20free%20shuttle%20bus,%20blue%20flowers,%20travel%20guide/"
-      }
-    },
-    {
-      "id": "plan_421b81aa",
-      "created_at": "2026-04-12T03:39:58.843981",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ステーキハウス88」など5店舗で食中毒　食肉の加熱不十分、5日間営業停止処分",
-        "url": "https://www.traicy.com/posts/20260411367718/",
-        "date": "Sat, 11 Apr 2026 10:48:07 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유명 맛집 '스테이크하우스88' 식중독 발생! 여행 전 꼭 알아두세요!"
-      },
-      "content": {
-        "thumbnail_title": "⚠️스테이크하우스88 식중독 발생!",
-        "cards": [
-          {
-            "title": "식중독 발생",
-            "content": "오키나와 인기 맛집 '스테이크하우스88' 및 '스테이크하우스88Jr.' 5개 지점에서 식중독이 발생했습니다. 3월 초부터 말까지 해당 기간에 방문하신 분들은 각별한 주의가 필요합니다.",
-            "alt_text": "식중독 발생을 알리는 경고 표시 이미지"
-          },
-          {
-            "title": "원인",
-            "content": "식중독의 원인은 '식육의 가열 불충분'으로 밝혀졌습니다. 안전한 식사를 위해 조리 과정을 철저히 지키는 것이 중요합니다.",
-            "alt_text": "덜 익은 고기 이미지를 보여주는 경고성 이미지"
-          },
-          {
-            "title": "영업 정지",
-            "content": "해당 지점들은 5일간의 영업 정지 처분을 받았습니다. 현재는 영업 재개 여부 및 추가 정보 확인이 필요합니다.",
-            "alt_text": "영업 정지 안내문이 붙어있는 가게 이미지"
-          },
-          {
-            "title": "확인 필요",
-            "content": "여행 계획 중이시라면 방문 예정인 '스테이크하우스88' 지점의 현재 영업 상태를 미리 확인하시는 것이 좋습니다.",
-            "alt_text": "스마트폰으로 정보를 검색하는 손 이미지"
-          },
-          {
-            "title": "안전 팁",
-            "content": "일본 여행 중 음식 섭취 시에는 항상 위생 상태를 꼼꼼히 확인하고, 의심스러운 곳은 피하는 것이 안전합니다. 특히 육류는 충분히 익혀서 드세요!",
-            "alt_text": "깨끗하게 차려진 일본 음식 이미지"
-          }
-        ],
-        "caption": "🚨 오키나와 인기 맛집 '스테이크하우스88'에서 식중독 발생 소식입니다. 3월에 방문했던 곳이라 더욱 주의가 필요해요! 🥩가열 불충분으로 인한 문제이며, 일부 지점은 5일간 영업 정지 처분을 받았습니다. 여행 전에 방문 예정인 지점의 영업 상태를 꼭 확인하세요! 안전하고 즐거운 일본 여행을 위해 위생에 더욱 신경 써 주세요! ✨\n\n#일본여행 #플라잉재팬 #오키나와여행 #스테이크하우스88 #식중독 #안전여행 #일본맛집 #여행정보 #주의사항 #식중독예방 #해외여행 #여행꿀팁 #먹스타그램 #일본식당 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오키나와여행",
-          "#스테이크하우스88",
-          "#식중독",
-          "#안전여행",
-          "#일본맛집",
-          "#여행정보",
-          "#주의사항",
-          "#식중독예방",
-          "#해외여행",
-          "#여행꿀팁",
-          "#먹스타그램",
-          "#일본식당",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "식중독 발생을 알리는 경고 표시 이미지",
-          "덜 익은 고기 이미지를 보여주는 경고성 이미지",
-          "영업 정지 안내문이 붙어있는 가게 이미지",
-          "스마트폰으로 정보를 검색하는 손 이미지",
-          "깨끗하게 차려진 일본 음식 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오키나와 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 정보 탐색이 활발한 저녁 7-9시 / 기대 반응: 정보 공유 및 주의 환기 / 이 콘텐츠의 강점: 실시간으로 알아야 할 안전 정보 제공",
-      "image": {
-        "keyword": "Okinawa steak restaurant food poisoning warning",
-        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-steak-restaurant-food-poisoning-warning",
-        "pexels_url": "https://www.pexels.com/search/Okinawa%20steak%20restaurant%20food%20poisoning%20warning/"
-      }
-    },
-    {
-      "id": "plan_5cdd7793",
-      "created_at": "2026-04-12T03:39:53.569921",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "トキエア、セール開催　名古屋/中部〜札幌/丘珠線が5,000円",
-        "url": "https://www.traicy.com/posts/20260411367719/",
-        "date": "Sat, 11 Apr 2026 12:03:25 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 국내선 5천엔 특가로 알뜰하게 일본 여행 즐기기!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 국내선 5천엔 특가!",
-        "cards": [
-          {
-            "title": "トキエア 특가",
-            "content": "일본 국내선 'トキエア'에서 '봄의 5천엔 여행' 캠페인을 진행합니다. 4월 11일 낮 12시부터 30일까지 참여 가능해요.",
-            "alt_text": "トキエア 항공사 로고"
-          },
-          {
-            "title": "할인 노선",
-            "content": "이번 특가 대상 노선은 나고야(중부) ↔ 삿포로(오카다마) 왕복 항공편입니다. 편도 최저 5,000엔부터 시작합니다.",
-            "alt_text": "일본 지도에 나고야와 삿포로 표시"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "할인된 가격으로 탑승 가능한 기간은 4월 14일부터 30일까지입니다. 여행 계획 세우기 딱 좋은 시기예요!",
-            "alt_text": "달력 이미지에 4월 날짜 표시"
-          },
-          {
-            "title": "추가 요금",
-            "content": "표시된 최저 운임 외에 별도로 공항 여객 시설 사용료가 부과됩니다. 이 점 꼭 확인하세요!",
-            "alt_text": "요금표 아이콘"
-          },
-          {
-            "title": "알뜰 꿀팁",
-            "content": "평소 나고야나 삿포로 여행을 계획하고 있었다면 이번 특가를 놓치지 마세요! 미리 예약할수록 좋은 좌석을 확보할 수 있습니다.",
-            "alt_text": "동전을 들고 있는 손 이미지"
-          }
-        ],
-        "caption": "✈️ 나고야-삿포로 국내선 5천엔 실화?! ✈️\n\n일본 국내선 'トキエア'에서 역대급 특가 소식을 가져왔어요!\n\n✅ 대상 노선: 나고야(중부) ↔ 삿포로(오카다마)\n✅ 편도 최저가: 5,000엔 (별도 공항세 부과)\n✅ 예약 기간: 4월 11일 ~ 4월 30일\n✅ 탑승 기간: 4월 14일 ~ 4월 30일\n\n일본 내 이동 시, 저렴하게 여행할 수 있는 절호의 찬스! 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본국내선",
-          "#トキエア",
-          "#일본특가",
-          "#나고야여행",
-          "#삿포로여행",
-          "#일본항공권",
-          "#알뜰여행",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#일본여행정보",
-          "#일본항공",
-          "#5천엔",
-          "#일본축제"
-        ],
-        "alt_texts": [
-          "トキエア 항공사 로고",
-          "일본 지도에 나고야와 삿포로 표시",
-          "달력 이미지에 4월 날짜 표시",
-          "요금표 아이콘",
-          "동전을 들고 있는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 7시-9시 / 기대 반응: 높은 클릭률과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보로 즉각적인 관심 유발 및 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Japan domestic flight, 5000 yen, Nagoya, Sapporo, airplane ticket sale",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-domestic-flight,-5000-yen,-Nagoya,-Sapporo,-airplane-ticket-sale",
-        "pexels_url": "https://www.pexels.com/search/Japan%20domestic%20flight,%205000%20yen,%20Nagoya,%20Sapporo,%20airplane%20ticket%20sale/"
       }
     }
   ]
