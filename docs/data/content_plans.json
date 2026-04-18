@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-17T23:56:03.896953",
+  "last_updated": "2026-04-18T03:25:19.832661",
   "plans": [
+    {
+      "id": "plan_e984fcfe",
+      "created_at": "2026-04-18T03:25:17.832480",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スプリング・ジャパン、成田～函館線と中部～新千歳線を同時開設。片道813円と758円の特別運賃も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102647.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 북해도 & 도호쿠 최저가 항공권 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🔥813엔부터! 삿포로/하코다테 특가🔥",
+        "cards": [
+          {
+            "title": "새로운 노선 오픈!",
+            "content": "스프링재팬이 4월 23일부터 나리타-하코다테, 주부-신치토세 노선을 동시 오픈합니다. 지금 바로 예약하세요!",
+            "alt_text": "스프링재팬 항공기 이미지"
+          },
+          {
+            "title": "파격적인 특가!",
+            "content": "나리타-하코다테 노선은 편도 813엔, 주부-신치토세 노선은 편도 758엔부터 시작하는 특별 운임을 만나보세요.",
+            "alt_text": "일본 지도에 노선 표시"
+          },
+          {
+            "title": "예약은 4월 17일부터!",
+            "content": "초특가 항공권은 4월 17일부터 판매 시작! 조기 마감될 수 있으니 서둘러 예약하세요.",
+            "alt_text": "달력에 4월 17일 표시"
+          },
+          {
+            "title": "홋카이도 & 도호쿠 여행 UP!",
+            "content": "이번 특가로 삿포로, 하코다테 등 홋카이도와 도호쿠 지역 여행 계획을 세워보세요. 저렴한 항공권으로 여행 경비를 절약할 수 있습니다.",
+            "alt_text": "삿포로 눈 축제 풍경"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "스프링재팬은 LCC 항공사로 위탁 수하물, 기내식 등은 별도 요금이 발생할 수 있습니다. 예약 전 상세 규정을 꼭 확인하세요!",
+            "alt_text": "체크리스트 이미지"
+          }
+        ],
+        "caption": "✈️ 역대급 특가 찬스! 스프링재팬, 나리타-하코다테 & 주부-신치토세 노선 동시 오픈! ✈️\n\n4월 23일부터 시작되는 신규 노선! 😮\n무려 편도 813엔, 758엔부터 가능한 특가 운임으로 홋카이도 삿포로, 하코다테를 만날 수 있어요!\n\n✅ 예약 오픈: 4월 17일\n✅ 노선:\n  - 나리타 ↔️ 하코다테 (편도 813엔~)\n  - 주부 ↔️ 신치토세 (편도 758엔~)\n\n저렴한 항공권으로 알찬 일본 여행 계획 세워보세요! 🇯🇵\n\n#일본여행 #스프링재팬 #삿포로여행 #하코다테여행 #홋카이도여행 #특가항공권 #일본항공권 #가성비여행 #일본소식 #플라잉재팬 #일본저가항공 #일본교통 #여행정보 #여행스타그램 #일본자유여행",
+        "hashtags": [
+          "#일본여행",
+          "#스프링재팬",
+          "#삿포로여행",
+          "#하코다테여행",
+          "#홋카이도여행",
+          "#특가항공권",
+          "#일본항공권",
+          "#가성비여행",
+          "#일본소식",
+          "#플라잉재팬",
+          "#일본저가항공",
+          "#일본교통",
+          "#여행정보",
+          "#여행스타그램",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "스프링재팬 항공기 이미지",
+          "일본 지도에 노선 표시",
+          "달력에 4월 17일 표시",
+          "삿포로 눈 축제 풍경",
+          "체크리스트 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도/도호쿠 지역 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 예약 전환율, 정보 공유 확산 / 이 콘텐츠의 강점: 파격적인 가격 정보, 명확한 노선 및 날짜 제시",
+      "image": {
+        "keyword": "Spring Japan, Narita to Hakodate, Chubu to New Chitose, low-cost airline, discount tickets, Hokkaido travel, Sapporo, Hakodate, Japan transportation",
+        "unsplash_url": "https://unsplash.com/s/photos/Spring-Japan,-Narita-to-Hakodate,-Chubu-to-New-Chitose,-low-cost-airline,-discount-tickets,-Hokkaido-travel,-Sapporo,-Hakodate,-Japan-transportation",
+        "pexels_url": "https://www.pexels.com/search/Spring%20Japan,%20Narita%20to%20Hakodate,%20Chubu%20to%20New%20Chitose,%20low-cost%20airline,%20discount%20tickets,%20Hokkaido%20travel,%20Sapporo,%20Hakodate,%20Japan%20transportation/"
+      }
+    },
+    {
+      "id": "plan_19c13161",
+      "created_at": "2026-04-18T03:25:12.024250",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "イワタニ、煙の出ない焼肉グリルのビッグサイズモデル「やきまるBIG」。約1.7倍の焼き面積",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102661.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "집에서 즐기는 일본 감성! 숯불 향 가득한 야키마루BIG으로 집콕 여행!"
+      },
+      "content": {
+        "thumbnail_title": "🔥집에서 즐기는 일본 야키니쿠!🔥",
+        "cards": [
+          {
+            "title": "새로운 야키마루BIG",
+            "content": "이와타니에서 숯불 향 가득한 야키니쿠를 집에서 즐길 수 있는 '야키마루BIG'을 출시했어요. 기존 모델보다 약 1.7배 넓어진 굽는 면적으로 더욱 풍성한 식사를 즐길 수 있습니다.",
+            "alt_text": "새롭게 출시된 이와타니 야키마루BIG 대형 모델"
+          },
+          {
+            "title": "구매처는 코스트코",
+            "content": "이 특별한 야키마루BIG 모델은 코스트코 홀세일 재팬 창고점과 코스트코 온라인에서만 구매 가능합니다.",
+            "alt_text": "코스트코 로고와 함께 야키마루BIG 제품 이미지"
+          },
+          {
+            "title": "온라인 가격 확인",
+            "content": "코스트코 온라인에서의 가격은 10,880엔(배송비 포함)으로 책정되었습니다. 합리적인 가격으로 일본 현지 야키니쿠 경험을 집으로 가져오세요.",
+            "alt_text": "가격 정보가 포함된 야키마루BIG 온라인 판매 페이지 스크린샷"
+          },
+          {
+            "title": "집콕 여행 추천템",
+            "content": "일본 방문이 어렵더라도, 집에서 맛있는 야키니쿠를 즐기며 일본 여행 기분을 낼 수 있어요. 친구나 가족과 함께 특별한 식사 시간을 만들어 보세요.",
+            "alt_text": "집에서 야키니쿠를 즐기는 가족의 모습"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "연기가 거의 나지 않는 장점이 있지만, 환기가 잘 되는 곳에서 사용하는 것을 추천해요. 또한, 일본에서 구매한 제품은 한국에서 사용 시 전압이나 안전 인증에 문제가 없는지 미리 확인하는 것이 좋습니다.",
+            "alt_text": "환기 시설이 잘 갖춰진 주방에서 야키니쿠를 조리하는 모습"
+          }
+        ],
+        "caption": "✈️ 집에서 즐기는 일본 감성! 숯불 향 가득한 야키니쿠를 집콕 여행으로 즐겨보세요! 🔥\n\n일본에서 인기 있는 이와타니의 '야키마루BIG'이 코스트코에서 출시되었어요! 기존 모델보다 1.7배 넓어진 굽는 면적으로 더욱 푸짐하게 즐길 수 있답니다. 🏠\n\n✅ 코스트코 재팬 온/오프라인 구매 가능\n✅ 온라인 가격: 10,880엔 (배송비 포함)\n\n일본 여행 대신 집에서 특별한 식사 시간을 만들어 보세요! 💖\n\n#일본여행 #플라잉재팬 #집콕여행 #일본직구 #코스트코재팬 #야키니쿠 #이와타니 #야키마루 #일본음식 #일본쇼핑 #일본생활 #일본주방용품 #요리스타그램 #홈쿡 #일본감성",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#집콕여행",
+          "#일본직구",
+          "#코스트코재팬",
+          "#야키니쿠",
+          "#이와타니",
+          "#야키마루",
+          "#일본음식",
+          "#일본쇼핑",
+          "#일본생활",
+          "#일본주방용품",
+          "#요리스타그램",
+          "#홈쿡",
+          "#일본감성"
+        ],
+        "alt_texts": [
+          "새롭게 출시된 이와타니 야키마루BIG 대형 모델",
+          "코스트코 로고와 함께 야키마루BIG 제품 이미지",
+          "가격 정보가 포함된 야키마루BIG 온라인 판매 페이지 스크린샷",
+          "집에서 야키니쿠를 즐기는 가족의 모습",
+          "환기 시설이 잘 갖춰진 주방에서 야키니쿠를 조리하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 현지 쇼핑 및 일본 음식 경험에 관심 있는 한국인 여행자 / 최적 게시 시간: 금요일 오후 7시, 토요일 오후 2시 / 기대 반응: 제품 구매 문의, 집에서 일본 음식 즐기기에 대한 공감 / 이 콘텐츠의 강점: 일본 현지에서만 구할 수 있는 인기 제품 정보와 집에서 즐길 수 있다는 실용적인 정보 제공",
+      "image": {
+        "keyword": "Iwatani Yakimaru BIG, Yakiniku grill, Costco Japan, Home dining, Japanese food, Indoor barbecue",
+        "unsplash_url": "https://unsplash.com/s/photos/Iwatani-Yakimaru-BIG,-Yakiniku-grill,-Costco-Japan,-Home-dining,-Japanese-food,-Indoor-barbecue",
+        "pexels_url": "https://www.pexels.com/search/Iwatani%20Yakimaru%20BIG,%20Yakiniku%20grill,%20Costco%20Japan,%20Home%20dining,%20Japanese%20food,%20Indoor%20barbecue/"
+      }
+    },
     {
       "id": "plan_29d3d5e1",
       "created_at": "2026-04-17T23:56:01.896562",
@@ -923,160 +1077,6 @@
         "keyword": "Hakone Tozan Railway, Golden Week, Reserved Seat Ticket, Odakyu Hakone",
         "unsplash_url": "https://unsplash.com/s/photos/Hakone-Tozan-Railway,-Golden-Week,-Reserved-Seat-Ticket,-Odakyu-Hakone",
         "pexels_url": "https://www.pexels.com/search/Hakone%20Tozan%20Railway,%20Golden%20Week,%20Reserved%20Seat%20Ticket,%20Odakyu%20Hakone/"
-      }
-    },
-    {
-      "id": "plan_f93b86e8",
-      "created_at": "2026-04-14T23:59:54.395178",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "国内線の機内持ち込み、4月24日から新ルール適用。モバイルバッテリーのWh数とは？　PC/ゲーム/カメラも確認しよう",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2101674.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 시 꼭 알아야 할 기내 반입 규정 변경! ✈️"
-      },
-      "content": {
-        "thumbnail_title": "일본행 비행기 ✈️ 규정 변경!",
-        "cards": [
-          {
-            "title": "규정 변경!",
-            "content": "4월 24일부터 일본 국내선 항공기 내 반입 규정이 변경됩니다. 특히 모바일 배터리 관련 내용이 중요하니 꼭 확인하세요!",
-            "alt_text": "일본 국내선 항공기 내부 모습"
-          },
-          {
-            "title": "모바일 배터리",
-            "content": "모바일 배터리 용량(Wh) 기준이 새롭게 적용됩니다. 정확한 기준을 미리 확인하여 기내 반입이 가능한지 꼭 체크하시기 바랍니다.",
-            "alt_text": "다양한 종류의 모바일 배터리"
-          },
-          {
-            "title": "다른 전자기기도",
-            "content": "노트북, 게임기, 카메라 등 전자기기 반입 규정도 함께 점검해야 합니다. 헷갈리는 부분은 미리 항공사에 문의하는 것이 좋습니다.",
-            "alt_text": "노트북, 게임기, 카메라 등 전자기기 모음"
-          },
-          {
-            "title": "출발 전 필수!",
-            "content": "새로운 규정을 숙지하지 못하면 공항에서 곤란을 겪을 수 있습니다. 출발 전에 반드시 최신 정보를 확인하고 준비하세요.",
-            "alt_text": "공항에서 짐을 검사하는 모습"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "모바일 배터리에는 용량(Wh) 표시가 필수로 되어 있습니다. 잘 보이지 않을 경우, 미리 제품 설명서 등을 참고하여 용량을 확인해두세요.",
-            "alt_text": "모바일 배터리 뒷면의 용량(Wh) 표시"
-          }
-        ],
-        "caption": "일본 여행 준비 중이신가요? ✈️ 4월 24일부터 일본 국내선 항공기 기내 반입 규정이 변경됩니다! 특히 모바일 배터리 용량(Wh) 기준이 새롭게 적용되니, 출발 전 꼭 확인하고 짐 싸세요! 🧳 노트북, 게임기 등 다른 전자기기 규정도 함께 점검하는 센스! 잊지 말고 안전하고 즐거운 일본 여행 되세요! 😉 #일본여행 #기내반입 #항공규정 #플라잉재팬 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공",
-          "#기내반입",
-          "#모바일배터리",
-          "#항공규정",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본",
-          "#여행정보",
-          "#비행기",
-          "#안전여행",
-          "#꿀팁",
-          "#여행필수템"
-        ],
-        "alt_texts": [
-          "일본 국내선 항공기 내부 모습",
-          "다양한 종류의 모바일 배터리",
-          "노트북, 게임기, 카메라 등 전자기기 모음",
-          "공항에서 짐을 검사하는 모습",
-          "모바일 배터리 뒷면의 용량(Wh) 표시"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 정보 습득, 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 규정 변경 정보로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Japan domestic flight cabin baggage rule change",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-domestic-flight-cabin-baggage-rule-change",
-        "pexels_url": "https://www.pexels.com/search/Japan%20domestic%20flight%20cabin%20baggage%20rule%20change/"
-      }
-    },
-    {
-      "id": "plan_71dcb952",
-      "created_at": "2026-04-14T23:59:47.914284",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ヴィアイン新大阪ウエスト、27年引退の500系新幹線を再現・体験できるコンセプトルーム",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2101567.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센 500계 추억 소환! 오사카에서 특별한 숙박 경험을!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 500계 신칸센 컨셉룸 오픈! 🚅",
-        "cards": [
-          {
-            "title": "500계 컨셉룸",
-            "content": "JR 서일본이 신칸센 500계 열차를 테마로 한 특별한 컨셉룸을 선보입니다. 2027년 은퇴 예정인 500계의 추억을 오사카에서 생생하게 느껴보세요.",
-            "alt_text": "신칸센 500계 열차 내부 모습"
-          },
-          {
-            "title": "예약 정보",
-            "content": "컨셉룸은 5월 1일부터 이용 가능하며, 예약은 4월 20일부터 시작됩니다. 서둘러 특별한 숙박 경험을 예약하세요!",
-            "alt_text": "달력에 표시된 4월 20일 예약 시작일"
-          },
-          {
-            "title": "위치 정보",
-            "content": "컨셉룸이 있는 '비아인 신오사카 웨스트'는 오사카부 오사카시 요도가와구 미야하라 4-1-21에 위치하고 있습니다.",
-            "alt_text": "오사카 시내 지도에 표시된 비아인 신오사카 웨스트 위치"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "신칸센 500계 객차를 그대로 재현한 공간에서 특별한 하룻밤을 보내며 잊지 못할 추억을 만들어 보세요.",
-            "alt_text": "컨셉룸 내부의 침대와 신칸센 좌석 디자인"
-          },
-          {
-            "title": "꿀팁",
-            "content": "신칸센 팬이라면 놓칠 수 없는 기회! 예약 경쟁이 치열할 것으로 예상되니, 4월 20일 예약 오픈 시간에 맞춰 바로 신청하는 것을 추천합니다.",
-            "alt_text": "신칸센 500계 열차의 옆모습"
-          }
-        ],
-        "caption": "일본 여행의 특별한 추억을 만들고 싶으신가요? 🚄 JR 서일본이 신칸센 500계 열차를 테마로 한 컨셉룸을 오사카에 오픈합니다! 2027년 은퇴 예정인 500계의 추억을 생생하게 느낄 수 있는 기회! 🤩\n\n✅ 오픈일: 5월 1일\n✅ 예약 시작: 4월 20일\n✅ 장소: 비아인 신오사카 웨스트 (오사카)\n\n신칸센 덕후라면 절대 놓치지 마세요! 지금 바로 예약 정보 확인하고 특별한 숙박 경험을 잡아보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#신칸센",
-          "#500계신칸센",
-          "#컨셉룸",
-          "#일본숙소",
-          "#오사카숙소",
-          "#특별한경험",
-          "#여행정보",
-          "#JR서일본",
-          "#일본기차",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "신칸센 500계 열차 내부 모습",
-          "달력에 표시된 4월 20일 예약 시작일",
-          "오사카 시내 지도에 표시된 비아인 신오사카 웨스트 위치",
-          "컨셉룸 내부의 침대와 신칸센 좌석 디자인",
-          "신칸센 500계 열차의 옆모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 신칸센에 대한 추억이나 로망이 있는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 예약 정보에 대한 높은 관심과 문의, 공유 / 이 콘텐츠의 강점: 시기적절한 정보와 희소성 있는 특별한 경험을 제공",
-      "image": {
-        "keyword": "Shinkansen 500 series concept room Osaka hotel",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-500-series-concept-room-Osaka-hotel",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20500%20series%20concept%20room%20Osaka%20hotel/"
       }
     }
   ]
