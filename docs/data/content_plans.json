@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-18T03:25:19.832661",
+  "last_updated": "2026-04-18T23:51:37.453981",
   "plans": [
+    {
+      "id": "plan_180fe21f",
+      "created_at": "2026-04-18T23:51:35.453823",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "GWの新幹線「のぞみ」は自由席なし、指定席の予約必須につき要注意。4月24日～5月6日",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102527.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "골든위크 신칸센 '노조미' 전 좌석 지정제! 예약 필수, 놓치면 낭패!"
+      },
+      "content": {
+        "thumbnail_title": "✈️GW 신칸센 '노조미' 🚨필수 체크!",
+        "cards": [
+          {
+            "title": "운행 기간",
+            "content": "2024년 4월 24일(수)부터 5월 6일(월)까지, 골든위크 기간 동안 동해도산요 신칸센 '노조미' 전 좌석이 지정석으로만 운영됩니다.",
+            "alt_text": "골든위크 기간 동안 신칸센 노조미 열차 운행 정보"
+          },
+          {
+            "title": "좌석 타입",
+            "content": "자유석은 운영되지 않으며, 모든 좌석은 지정석으로 판매됩니다. 잔여석이 없을 경우 입석도 불가하니 미리 예약하셔야 합니다.",
+            "alt_text": "자유석 없이 지정석만 운영되는 신칸센 좌석"
+          },
+          {
+            "title": "예약 방법",
+            "content": "JR 공식 홈페이지, 역 창구, 여행사 등 지정석 발권이 가능한 모든 채널을 통해 사전 예약을 하셔야 합니다. 특히 인기 노선은 조기 마감될 수 있습니다.",
+            "alt_text": "신칸센 지정석 예약 방법 안내"
+          },
+          {
+            "title": "주의 사항",
+            "content": "여행 계획 시, 반드시 '노조미' 호의 전 좌석 지정제 운행 기간을 숙지하시고, 출발 최소 1~2주 전에는 예약을 완료하시는 것을 추천합니다.",
+            "alt_text": "신칸센 예약 시 주의사항 안내"
+          },
+          {
+            "title": "대안 노선",
+            "content": "'히카리', '코다마' 등 다른 등급의 신칸센은 자유석이 운영될 수 있습니다. 하지만 운행 간격이나 소요 시간이 다를 수 있으니, 예약 시 꼼꼼히 확인하세요.",
+            "alt_text": "신칸센 등급별 운행 정보 비교"
+          }
+        ],
+        "caption": "✈️ 2024년 골든위크 일본 여행 예정이라면 주목! 🚄 동해도산요 신칸센 '노조미' 호가 4/24(수)~5/6(월)까지 전 좌석 지정석으로만 운행됩니다. 자유석은 아예 없으니, 미리 예약하지 않으면 탑승이 어려울 수 있어요! 😭\n\nJR 공식 홈페이지나 역 창구에서 서둘러 예약하세요! #플라잉재팬 과 함께 안전하고 즐거운 일본 여행 준비하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본신칸센",
+          "#노조미",
+          "#골든위크",
+          "#GW",
+          "#일본교통",
+          "#여행필수",
+          "#일본여행준비",
+          "#신칸센예약",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "골든위크 기간 동안 신칸센 노조미 열차 운행 정보",
+          "자유석 없이 지정석만 운영되는 신칸센 좌석",
+          "신칸센 지정석 예약 방법 안내",
+          "신칸센 예약 시 주의사항 안내",
+          "신칸센 등급별 운행 정보 비교"
+        ]
+      },
+      "marketer_analysis": "타겟: 4월 말~5월 초 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 8시 ~ 10시 / 기대 반응: 높은 정보 습득 및 예약 행동 유도, 공유 / 이 콘텐츠의 강점: 시기적절하고 필수적인 교통 정보 제공으로 여행 불편 최소화",
+      "image": {
+        "keyword": "Shinkansen Nozomi reserved seat, Golden Week Japan travel, Japan train ticket booking",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Nozomi-reserved-seat,-Golden-Week-Japan-travel,-Japan-train-ticket-booking",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Nozomi%20reserved%20seat,%20Golden%20Week%20Japan%20travel,%20Japan%20train%20ticket%20booking/"
+      }
+    },
+    {
+      "id": "plan_d1ead06c",
+      "created_at": "2026-04-18T23:51:29.929680",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "北海道銘菓「生ノースマン」がJR東京駅にオープン。新商品「生ノースマン 抹茶」も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102639.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 맛보는 홋카이도 한정 디저트! 놓치면 후회할 기회!"
+      },
+      "content": {
+        "thumbnail_title": "홋카이도 명물 🍓 도쿄 상륙!",
+        "cards": [
+          {
+            "title": "생 노스만",
+            "content": "홋카이도에서만 맛볼 수 있던 '생 노스만'이 도쿄역에 상륙했어요! 4월 24일부터 9월 중순까지 기간 한정으로 만날 수 있습니다.",
+            "alt_text": "홋카이도 명물 '생 노스만'이 도쿄역에 오픈했다는 안내문"
+          },
+          {
+            "title": "신상 '녹차맛'",
+            "content": "이번 도쿄점에서는 신상품 '생 노스만 녹차맛'도 새롭게 출시되었습니다. 홋카이도의 풍미를 그대로 담았어요.",
+            "alt_text": "새롭게 출시된 '생 노스만 녹차맛'의 먹음직스러운 모습"
+          },
+          {
+            "title": "도쿄역JR",
+            "content": "오픈 장소는 JR 도쿄역입니다. 홋카이도 여행을 가지 않아도 도쿄에서 인기 디저트를 맛볼 수 있는 절호의 찬스입니다.",
+            "alt_text": "JR 도쿄역 외관 사진"
+          },
+          {
+            "title": "기간 한정!",
+            "content": "아쉽게도 이 특별한 맛은 9월 중순까지만 판매됩니다. 여행 계획 중이라면 꼭 참고하세요!",
+            "alt_text": "기간 한정 판매임을 알리는 팝업 배너"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "달콤한 디저트와 함께 즐거운 도쿄 여행을 만끽하세요! 홋카이도 명물을 도쿄에서 맛볼 수 있는 흔치 않은 기회, 절대 놓치지 마세요!",
+            "alt_text": "생 노스만을 맛있게 먹는 사람의 모습"
+          }
+        ],
+        "caption": "홋카이도 명물 '생 노스만'이 4월 24일부터 9월 중순까지 JR 도쿄역에서 기간 한정으로 판매됩니다! 💖\n\n특히 이번에는 신상품 '생 노스만 녹차맛'도 함께 만날 수 있다는 사실! 🍵\n\n홋카이도까지 가지 않아도 도쿄에서 홋카이도의 맛을 그대로 느낄 수 있는 절호의 찬스! ✈️\n\n여행 중 도쿄역에 들를 예정이라면 꼭 방문해서 특별한 디저트를 맛보세요! 😋\n\n#일본여행 #도쿄여행 #홋카이도디저트 #생노스만 #기간한정 #도쿄역맛집 #디저트그램 #여행꿀팁 #플라잉재팬 #여행정보 #먹스타그램 #일본디저트 #녹차맛 #필수코스 #놓치지마세요",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#홋카이도디저트",
+          "#생노스만",
+          "#기간한정",
+          "#도쿄역맛집",
+          "#디저트그램",
+          "#여행꿀팁",
+          "#일본디저트",
+          "#녹차맛",
+          "#여행스타그램",
+          "#먹스타그램",
+          "#필수코스",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "홋카이도 명물 '생 노스만'이 도쿄역에 오픈했다는 안내문",
+          "새롭게 출시된 '생 노스만 녹차맛'의 먹음직스러운 모습",
+          "JR 도쿄역 외관 사진",
+          "기간 한정 판매임을 알리는 팝업 배너",
+          "생 노스만을 맛있게 먹는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 목요일 19시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장), 도쿄 여행 시 방문 의사 표현 / 이 콘텐츠의 강점: 홋카이도 한정 디저트의 도쿄 상륙이라는 희소성, 구체적인 기간 및 장소 정보 제공, 신상품 출시 소식 포함",
+      "image": {
+        "keyword": "Japanese dessert, Tokyo Station, limited edition, matcha cream puff, Hokkaido specialty",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-dessert,-Tokyo-Station,-limited-edition,-matcha-cream-puff,-Hokkaido-specialty",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20dessert,%20Tokyo%20Station,%20limited%20edition,%20matcha%20cream%20puff,%20Hokkaido%20specialty/"
+      }
+    },
     {
       "id": "plan_e984fcfe",
       "created_at": "2026-04-18T03:25:17.832480",
@@ -923,160 +1077,6 @@
         "keyword": "Kinokuniya insulated bag Tokyo Station",
         "unsplash_url": "https://unsplash.com/s/photos/Kinokuniya-insulated-bag-Tokyo-Station",
         "pexels_url": "https://www.pexels.com/search/Kinokuniya%20insulated%20bag%20Tokyo%20Station/"
-      }
-    },
-    {
-      "id": "plan_c598190b",
-      "created_at": "2026-04-15T03:34:23.076611",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "祝 東京ディズニーシー開園25周年！　早朝実施のオープニングセレモニーを早速レポートします",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2101721.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 디즈니씨 25주년, 놓치면 후회할 특별한 축제!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니씨 25주년✨",
-        "cards": [
-          {
-            "title": "25주년 축제",
-            "content": "도쿄 디즈니씨가 개원 25주년을 맞아 '도쿄 디즈니씨 25주년 “스파클링・주빌리”'를 4월 15일 시작했습니다.",
-            "alt_text": "도쿄 디즈니씨 25주년 기념 로고"
-          },
-          {
-            "title": "축제 기간",
-            "content": "축제는 2027년 3월 31일까지 약 1년 동안 진행됩니다. 넉넉한 기간 동안 다양한 이벤트와 퍼레이드를 즐길 수 있어요.",
-            "alt_text": "축제 기간을 나타내는 캘린더 이미지"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "25주년을 기념하여 특별한 기념품, 먹거리, 그리고 반짝이는 퍼레이드까지! 잊지 못할 추억을 만들어보세요.",
-            "alt_text": "화려한 디즈니씨 퍼레이드 장면"
-          },
-          {
-            "title": "조기 개장",
-            "content": "개원 기념일인 4월 15일에는 특별한 조기 개장 오프닝 세레모니가 진행되었습니다. (이미 종료됨)",
-            "alt_text": "디즈니씨 입구에 모인 사람들"
-          },
-          {
-            "title": "방문 팁",
-            "content": "25주년 기간 동안에는 인기가 많을 것으로 예상되니, 방문 계획이 있다면 미리 티켓 예매 및 숙소 예약을 추천합니다.",
-            "alt_text": "디즈니씨 파크 지도"
-          }
-        ],
-        "caption": "🎉 도쿄 디즈니씨 25주년 기념 축제가 시작되었습니다! 🎉\n\n✨ '도쿄 디즈니씨 25주년 “스파클링・주빌리”' ✨\n\n📅 기간: 2024년 4월 15일 ~ 2027년 3월 31일\n\n약 1년간 펼쳐지는 특별한 축제와 함께 잊지 못할 추억을 만들어보세요! 💖\n\n#도쿄디즈니씨 #디즈니씨25주년 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#디즈니씨",
-          "#도쿄디즈니씨",
-          "#디즈니랜드",
-          "#일본축제",
-          "#일본이벤트",
-          "#여행정보",
-          "#해외여행",
-          "#여행꿀팁",
-          "#디즈니",
-          "#25주년",
-          "#도쿄",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니씨 25주년 기념 로고",
-          "축제 기간을 나타내는 캘린더 이미지",
-          "화려한 디즈니씨 퍼레이드 장면",
-          "디즈니씨 입구에 모인 사람들",
-          "디즈니씨 파크 지도"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심 및 댓글 문의 / 이 콘텐츠의 강점: 인기 테마파크의 특별한 기념일 정보로 즉각적인 흥미 유발",
-      "image": {
-        "keyword": "Tokyo DisneySea 25th anniversary celebration fireworks",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-celebration-fireworks",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20celebration%20fireworks/"
-      }
-    },
-    {
-      "id": "plan_204d33a1",
-      "created_at": "2026-04-15T03:34:16.440997",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "GWの箱根登山電車、必ず座れる「らくらく着席予約券」発売。箱根湯本発～強羅行きで",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2101789.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "골든위크 일본 여행, 박물관 열차로 편안하게 탑승하세요!"
-      },
-      "content": {
-        "thumbnail_title": "GW 박물관 열차 🚄",
-        "cards": [
-          {
-            "title": "특별 열차 운행",
-            "content": "골든위크 기간, 하코네 등산 열차가 특별 좌석 예약제를 도입합니다. 4월 29일 ~ 5월 7일까지 운행 예정입니다.",
-            "alt_text": "골든위크 기간 특별 운행하는 하코네 등산 열차 이미지"
-          },
-          {
-            "title": "예약 필수!",
-            "content": "‘らくらく着席予約券’ (편안한 착석 예약권)을 구매하면 지정된 열차에 반드시 앉아서 갈 수 있습니다. 1인당 500엔입니다.",
-            "alt_text": "편안한 착석 예약권 이미지"
-          },
-          {
-            "title": "운행 구간",
-            "content": "하코네 유모토 역 출발 (11:58) ~ 고라 역 도착 (12:42)까지 운행하는 임시 열차입니다.",
-            "alt_text": "하코네 등산 열차 노선도 이미지"
-          },
-          {
-            "title": "예매 방법",
-            "content": "오다큐 하코네 공식 웹사이트 또는 역 창구를 통해 예약할 수 있습니다. (온라인 예매는 4월 20일부터 가능)",
-            "alt_text": "오다큐 하코네 웹사이트 또는 역 창구 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "골든위크 하코네 여행 시, 붐비는 열차 대신 예약권을 활용해 편안하게 이동하세요. 특히 가족 여행객에게 추천합니다.",
-            "alt_text": "하코네 등산 열차 내부 좌석 이미지"
-          }
-        ],
-        "caption": "✨ 2023년 골든위크, 하코네 여행이 더욱 편안해집니다! ✨\n\n붐비는 황금연휴, 하코네 등산 열차를 편안하게 앉아서 즐기고 싶다면 주목! 🤩\n\n오다큐 하코네에서 '편안한 착석 예약권'을 판매합니다. 4월 29일부터 5월 7일까지 운행하는 임시 열차에 예약하면 지정석에 앉아 여유롭게 여행을 즐길 수 있어요. 🚆\n\n✅ 하코네 유모토역 11:58 출발 → 고라역 12:42 도착\n✅ 예약권 가격: 1인 500엔\n✅ 예매: 오다큐 하코네 공식 웹사이트/역 창구 (4/20부터 온라인 예매 가능)\n\n올해 골든위크, 하코네에서 편안한 추억 만드세요! 💖\n\n#일본여행 #골든위크 #하코네 #하코네등산열차 #오다큐 #여행꿀팁 #일본교통 #여행스타그램 #플라잉재팬 #해외여행 #여행정보 #일본자유여행 #일본추천 #일본가볼만한곳 #가족여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#골든위크",
-          "#하코네",
-          "#하코네등산열차",
-          "#오다큐",
-          "#여행꿀팁",
-          "#일본교통",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본자유여행",
-          "#일본추천",
-          "#일본가볼만한곳",
-          "#가족여행",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "골든위크 기간 특별 운행하는 하코네 등산 열차 이미지",
-          "편안한 착석 예약권 이미지",
-          "하코네 등산 열차 노선도 이미지",
-          "오다큐 하코네 웹사이트 또는 역 창구 이미지",
-          "하코네 등산 열차 내부 좌석 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 4월 말 ~ 5월 초 일본 골든위크 기간 하코네 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우기 시작하는 저녁 시간 (20시 ~ 22시) 또는 주말 오전 (10시 ~ 12시) / 기대 반응: 예약권 구매 정보에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 골든위크 기간의 혼잡함을 피하고 싶은 여행객에게 실질적인 편의를 제공하는 정보",
-      "image": {
-        "keyword": "Hakone Tozan Railway, Golden Week, Reserved Seat Ticket, Odakyu Hakone",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Tozan-Railway,-Golden-Week,-Reserved-Seat-Ticket,-Odakyu-Hakone",
-        "pexels_url": "https://www.pexels.com/search/Hakone%20Tozan%20Railway,%20Golden%20Week,%20Reserved%20Seat%20Ticket,%20Odakyu%20Hakone/"
       }
     }
   ]
