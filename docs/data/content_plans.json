@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-18T23:51:37.453981",
+  "last_updated": "2026-04-19T03:45:00.583291",
   "plans": [
+    {
+      "id": "plan_6f5ccb6d",
+      "created_at": "2026-04-19T03:44:58.583083",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、ボーイングと内装刷新で契約　ボーイング787型機37機対象",
+        "url": "https://www.traicy.com/posts/20260418368384/",
+        "date": "Sat, 18 Apr 2026 11:37:30 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 항공, 보잉 787기 내/외장 새 단장! 일본 여행 준비 중이라면 주목하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 787기 새 옷 입는다!",
+        "cards": [
+          {
+            "title": "기종 변경",
+            "content": "ANA, 보잉 787기 37대 내/외장 리뉴얼 계약 체결! 앞으로 ANA 보잉 787기를 이용할 때 더욱 쾌적한 비행을 기대할 수 있어요.",
+            "alt_text": "ANA 보잉 787 항공기 이미지"
+          },
+          {
+            "title": "새로운 경험",
+            "content": "이번 리뉴얼은 단순히 좌석 변경을 넘어, 최신 기술이 적용된 새로운 내/외장 디자인으로 업그레이드될 예정입니다.",
+            "alt_text": "항공기 내부 좌석 이미지"
+          },
+          {
+            "title": "국내/국제선",
+            "content": "리뉴얼 대상은 ANA의 국내선 및 국제선 노선에 투입되는 보잉 787기입니다. 어떤 노선에 먼저 적용될지 기대되네요!",
+            "alt_text": "전 세계 지도 이미지"
+          },
+          {
+            "title": "비행 경험 UP",
+            "content": "더욱 편안하고 세련된 공간에서 일본 여행을 시작할 수 있게 되었어요. ANA 이용 예정이라면 주목하세요!",
+            "alt_text": "창밖으로 보이는 구름 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "항공권 예약 시, 이용하는 항공기가 리뉴얼된 787기인지 확인해보세요. 더욱 업그레이드된 비행 경험을 할 수 있을 거예요!",
+            "alt_text": "여권과 항공권 이미지"
+          }
+        ],
+        "caption": "✈️ ANA, 보잉 787기 37대 리뉴얼 계약 체결! ✈️\n\n곧 일본 여행을 떠나신다면, ANA 항공 이용 시 더욱 쾌적한 비행을 기대해도 좋겠어요!\n\nANA가 보잉 787기 37대의 내/외장 디자인을 새롭게 단장하는 계약을 체결했습니다.\n\n국내선, 국제선 모두 운항하는 787기에 최신 기술이 적용된 새로운 디자인이 적용될 예정이라고 하니, 일본 여행 준비 중이라면 주목하세요! 😉\n\n#일본여행 #플라잉재팬 #ANA #항공권 #보잉787 #일본항공 #여행준비 #꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#항공권",
+          "#보잉787",
+          "#일본항공",
+          "#여행준비",
+          "#꿀팁",
+          "#ANA항공",
+          "#항공기",
+          "#일본",
+          "#여행정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본가는길"
+        ],
+        "alt_texts": [
+          "ANA 보잉 787 항공기 이미지",
+          "항공기 내부 좌석 이미지",
+          "전 세계 지도 이미지",
+          "창밖으로 보이는 구름 이미지",
+          "여권과 항공권 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 - 9시 / 기대 반응: 정보 습득 및 공유, 항공권 예약 시 고려 요소 추가 / 이 콘텐츠의 강점: 실질적인 항공 정보 제공으로 여행 준비에 도움",
+      "image": {
+        "keyword": "ANA Boeing 787 interior renovation",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-Boeing-787-interior-renovation",
+        "pexels_url": "https://www.pexels.com/search/ANA%20Boeing%20787%20interior%20renovation/"
+      }
+    },
+    {
+      "id": "plan_60598364",
+      "created_at": "2026-04-19T03:44:50.101667",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR/南海/阪堺電車が乗り放題「堺おでかけフリーパス」。世界遺産「百舌鳥・古市古墳群」もお得に周遊",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102574.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 여행 필수템! 고대 유적 탐험부터 시내 이동까지 한 번에 해결하는 특급 패스 등장!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 갓성비 패스✨",
+        "cards": [
+          {
+            "title": "새로운 패스 출시!",
+            "content": "JR 니시니혼과 난카이 전기철도가 '사카이 오데카케 프리 패스'를 4월 24일부터 6월 30일까지 판매합니다. 한국에서 오사카 여행 계획 중이라면 주목해주세요!",
+            "alt_text": "일본 철도 회사 로고와 패스 이름이 보이는 이미지"
+          },
+          {
+            "title": "가격은 단돈 1500엔!",
+            "content": "어른 기준 1500엔으로 JR, 난카이, 한카이 전철을 마음껏 이용할 수 있습니다. KANSAI MaaS 사이트에서 구매 가능하니, 여행 전 미리 확인하세요!",
+            "alt_text": "1500엔이 강조된 티켓 이미지"
+          },
+          {
+            "title": "세계유산도 OK!",
+            "content": "이 패스를 이용하면 유네스코 세계유산인 '모즈후루이치 고분군'까지 편리하게 다녀올 수 있습니다. 복잡한 교통 걱정 없이 일본의 역사를 만끽해보세요.",
+            "alt_text": "웅장한 고분군 사진"
+          },
+          {
+            "title": "사카이시 완전 정복!",
+            "content": "패스 하나로 사카이시의 다양한 명소와 맛집, 카페까지 알차게 둘러볼 수 있습니다. 이동 시간을 절약하고 더 많은 곳을 경험해보세요.",
+            "alt_text": "사카이시 시내 풍경 사진"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "한정 기간 판매이니, 오사카 여행 날짜와 맞춰 꼭 구매하시길 바랍니다. 디지털 티켓이라 더욱 간편하게 이용할 수 있습니다.",
+            "alt_text": "스마트폰으로 티켓을 보여주는 손 이미지"
+          }
+        ],
+        "caption": "🇯🇵 오사카 여행 필수템 등장! 🇯🇵\n\nJR, 난카이, 한카이 전철 무제한 탑승 가능한 '사카이 오데카케 프리 패스'가 4월 24일부터 6월 30일까지 한정 판매됩니다! ✨\n\n단돈 1500엔으로 세계유산 '모즈후루이치 고분군'까지 편하게 둘러볼 수 있어요. 🤩\n\n오사카 여행 계획 중이라면 이 꿀패스 절대 놓치지 마세요! ✈️\n\n#일본여행 #오사카여행 #사카이오데카케프리패스 #JR패스 #난카이전철 #일본교통 #오사카필수템 #여행꿀팁 #일본자유여행 #효도여행 #우정여행 #커플여행 #혼여 #여행정보 #가성비여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#사카이오데카케프리패스",
+          "#JR패스",
+          "#난카이전철",
+          "#일본교통",
+          "#오사카필수템",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#고분군",
+          "#효도여행",
+          "#우정여행",
+          "#커플여행",
+          "#혼여"
+        ],
+        "alt_texts": [
+          "일본 철도 회사 로고와 패스 이름이 보이는 이미지",
+          "1500엔이 강조된 티켓 이미지",
+          "웅장한 고분군 사진",
+          "사카이시 시내 풍경 사진",
+          "스마트폰으로 티켓을 보여주는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 패스 구매 정보에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 이용 범위 명시로 실질적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Osaka travel pass, ancient burial mounds, Japan train ticket, city exploration",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-travel-pass,-ancient-burial-mounds,-Japan-train-ticket,-city-exploration",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20travel%20pass,%20ancient%20burial%20mounds,%20Japan%20train%20ticket,%20city%20exploration/"
+      }
+    },
     {
       "id": "plan_180fe21f",
       "created_at": "2026-04-18T23:51:35.453823",
@@ -923,160 +1077,6 @@
         "keyword": "Japan hotel discount, IHG promotion, free night offer, travel deal Asia",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-hotel-discount,-IHG-promotion,-free-night-offer,-travel-deal-Asia",
         "pexels_url": "https://www.pexels.com/search/Japan%20hotel%20discount,%20IHG%20promotion,%20free%20night%20offer,%20travel%20deal%20Asia/"
-      }
-    },
-    {
-      "id": "plan_48cc5153",
-      "created_at": "2026-04-16T00:00:00.708872",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "都電荒川線、特別車両の運行スタート。8501号車を水戸岡鋭治がリニューアル、山吹色×木製インテリアでレトロに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102011.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 특별한 레트로 감성 열차를 만날 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 도덴 아라카와선 ✨ 특별 열차 운행 시작!",
-        "cards": [
-          {
-            "title": "특별 열차 운행",
-            "content": "도쿄 도덴 아라카와선(도쿄 사쿠라 트램)에서 8501호 차량의 리뉴얼이 완료되어 4월 16일부터 특별 차량 운행을 시작합니다.",
-            "alt_text": "새롭게 단장한 도덴 아라카와선 특별 열차의 외관 이미지"
-          },
-          {
-            "title": "디자인 포인트",
-            "content": "일본의 유명 디자이너 미토오카 에이지가 디자인했으며, 산뜻한 산황색 외관과 따뜻한 느낌의 목재 인테리어가 돋보입니다.",
-            "alt_text": "열차 내부의 목재 인테리어와 좌석 이미지"
-          },
-          {
-            "title": "레트로 감성",
-            "content": "옛날 감성을 그대로 살린 레트로 디자인으로, 도심 속에서 특별한 추억을 만들 수 있는 기회입니다.",
-            "alt_text": "열차 창밖으로 보이는 도쿄 풍경과 열차 내부 모습"
-          },
-          {
-            "title": "이용 팁",
-            "content": "도덴 아라카와선은 도쿄 시내를 천천히 누비며 도쿄의 숨겨진 매력을 발견하기 좋은 노선입니다. 특별 열차 운행 기간을 확인하고 탑승해보세요!",
-            "alt_text": "도덴 아라카와선 노선도 이미지"
-          },
-          {
-            "title": "놓치지 마세요",
-            "content": "시간이 멈춘 듯한 특별한 경험을 원하신다면, 이번 기회를 절대 놓치지 마세요! 특별 차량 운행 일정은 변동될 수 있으니 미리 확인하는 것이 좋습니다.",
-            "alt_text": "특별 열차 앞에서 포즈를 취하는 여행객 이미지"
-          }
-        ],
-        "caption": "도쿄 여행 중 특별한 경험을 찾고 있다면 주목! 🚃✨\n도쿄 도덴 아라카와선에서 8501호 특별 열차가 4월 16일부터 운행을 시작했어요.\n산뜻한 산황색 외관과 따뜻한 목재 인테리어로 레트로 감성 가득! 💖\n도심 속에서 시간 여행하는 듯한 특별한 추억을 만들어보세요.\n#도쿄여행 #도덴아라카와선 #특별열차",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄",
-          "#도덴아라카와선",
-          "#도쿄사쿠라트램",
-          "#특별열차",
-          "#레트로",
-          "#감성여행",
-          "#일본교통",
-          "#여행정보",
-          "#일본소식",
-          "#여행필수",
-          "#도쿄가볼만한곳",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "새롭게 단장한 도덴 아라카와선 특별 열차의 외관 이미지",
-          "열차 내부의 목재 인테리어와 좌석 이미지",
-          "열차 창밖으로 보이는 도쿄 풍경과 열차 내부 모습",
-          "도덴 아라카와선 노선도 이미지",
-          "특별 열차 앞에서 포즈를 취하는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄에서 특별하고 감성적인 경험을 원하는 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: '와 신기하다!', '꼭 타봐야지!' 등 기대감 표현 / 이 콘텐츠의 강점: 흔하지 않은 독특한 교통수단 정보를 제공하여 차별화",
-      "image": {
-        "keyword": "Tokyo streetcar, retro train, Japanese designer, wooden interior, vintage tram",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-streetcar,-retro-train,-Japanese-designer,-wooden-interior,-vintage-tram",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20streetcar,%20retro%20train,%20Japanese%20designer,%20wooden%20interior,%20vintage%20tram/"
-      }
-    },
-    {
-      "id": "plan_c32ed7e6",
-      "created_at": "2026-04-15T23:59:52.478708",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "紀ノ国屋、東京駅エリア限定「折り畳み保冷バッグ」をサイズアップして新発売。TOKYO刺繍入り・4色展開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102029.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역 한정! 紀ノ国屋 보냉백, 사이즈 업되어 재출시! 🛍️"
-      },
-      "content": {
-        "thumbnail_title": "도쿄역 紀ノ国屋 보냉백 👜",
-        "cards": [
-          {
-            "title": "사이즈 업!",
-            "content": "도쿄역에서만 만날 수 있던 紀ノ国屋의 인기 접이식 보냉백이 더 커져서 돌아왔어요! 🍎",
-            "alt_text": "紀ノ国屋 보냉백 대형 사이즈 이미지"
-          },
-          {
-            "title": "가격 및 판매처",
-            "content": "새로운 대형 사이즈의 가격은 2,750엔입니다. 💰",
-            "alt_text": "가격 정보가 포함된 紀ノ国屋 보냉백 이미지"
-          },
-          {
-            "title": "매장 4곳!",
-            "content": "도쿄역 그란스타 마루노우치점, 그란스타점, 다이마루 도쿄점, 니혼바시 타카시마야 S.C.점에서 구매 가능해요. 📍",
-            "alt_text": "매장 위치 정보가 표시된 紀ノ国屋 보냉백 이미지"
-          },
-          {
-            "title": "4가지 색상",
-            "content": "TOKYO 자수가 새겨진 4가지 색상으로 출시되어 취향에 맞게 선택할 수 있어요. ✨",
-            "alt_text": "다양한 색상의 紀ノ国屋 보냉백 이미지"
-          },
-          {
-            "title": "쇼핑 꿀팁!",
-            "content": "도쿄역에서 기념품이나 쇼핑 후 신선식품을 담아오기 좋아요. 가볍고 휴대하기 편리하니 꼭 챙겨보세요! ✈️",
-            "alt_text": "활기찬 도쿄역 풍경과 보냉백을 든 사람 이미지"
-          }
-        ],
-        "caption": "도쿄역에서만 구매 가능했던 紀ノ国屋의 접이식 보냉백이 더 커져서 재출시되었어요! 🛍️\nTOKYO 자수가 새겨진 4가지 색상에 가격은 2,750엔! 💰\n그란스타 마루노우치점, 그란스타점, 다이마루 도쿄점, 니혼바시 타카시마야 S.C.점에서 만나보세요. \n여행 중 신선식품 쇼핑이나 기념품 담기에 딱! 👍\n#일본여행 #도쿄여행 #紀ノ国屋 #쇼핑 #보냉백 #도쿄역 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄쇼핑",
-          "#紀ノ国屋",
-          "#보냉백",
-          "#여행준비물",
-          "#일본쇼핑",
-          "#도쿄역",
-          "#쇼핑리스트",
-          "#여행꿀팁",
-          "#여행스타그램",
-          "#일본쇼핑리스트",
-          "#일본선물",
-          "#기념품"
-        ],
-        "alt_texts": [
-          "紀ノ国屋 보냉백 대형 사이즈 이미지",
-          "가격 정보가 포함된 紀ノ国屋 보냉백 이미지",
-          "매장 위치 정보가 표시된 紀ノ国屋 보냉백 이미지",
-          "다양한 색상의 紀ノ国屋 보냉백 이미지",
-          "활기찬 도쿄역 풍경과 보냉백을 든 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 실용적인 쇼핑 정보, 도쿄역 한정판 희소성 강조",
-      "image": {
-        "keyword": "Kinokuniya insulated bag Tokyo Station",
-        "unsplash_url": "https://unsplash.com/s/photos/Kinokuniya-insulated-bag-Tokyo-Station",
-        "pexels_url": "https://www.pexels.com/search/Kinokuniya%20insulated%20bag%20Tokyo%20Station/"
       }
     }
   ]
