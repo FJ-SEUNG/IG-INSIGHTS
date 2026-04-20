@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-19T23:53:35.849531",
+  "last_updated": "2026-04-20T03:47:15.678048",
   "plans": [
+    {
+      "id": "plan_647bb32c",
+      "created_at": "2026-04-20T03:47:13.677739",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡県、1人1泊3000円引き旅行支援「ふくおか平日おトク旅」。GW明けスタート",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102874.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카 지역 여행 시 숙박비 할인 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️후쿠오카 숙박비 3천엔 할인!💰",
+        "cards": [
+          {
+            "title": "여행 지원 캠페인",
+            "content": "후쿠오카현에서 '후쿠오카 평일 이득 여행' 캠페인을 실시합니다. 1인 1박당 3,000엔의 숙박비 할인을 제공합니다.",
+            "alt_text": "후쿠오카현 로고와 함께 캠페인 이름이 적힌 이미지"
+          },
+          {
+            "title": "할인 적용 기간",
+            "content": "골든위크가 끝난 직후부터 캠페인이 시작될 예정입니다. 정확한 시작일은 추후 공지될 예정이니 주목해주세요.",
+            "alt_text": "달력에 표시된 골든위크 이후 날짜"
+          },
+          {
+            "title": "평일 여행 혜택",
+            "content": "이름처럼 '평일' 여행 시에만 할인이 적용됩니다. 주말보다는 평일에 후쿠오카 여행을 계획하면 더욱 저렴하게 즐길 수 있습니다.",
+            "alt_text": "평일과 주말을 비교하는 아이콘"
+          },
+          {
+            "title": "후쿠오카 여행 추천",
+            "content": "하카타, 텐진 등 후쿠오카 시내의 맛집 탐방이나 근교 온천 여행 시 숙박비를 절약할 수 있는 좋은 기회입니다.",
+            "alt_text": "후쿠오카 타워와 야경 사진"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "할인 혜택은 예산 소진 시 조기 종료될 수 있으니, 여행 계획 시 미리 확인하는 것이 좋습니다. 캠페인 상세 내용은 곧 공개될 예정입니다.",
+            "alt_text": "알림 아이콘과 함께 '주목!'이라고 쓰인 이미지"
+          }
+        ],
+        "caption": "📢 후쿠오카 여행 예정이라면 주목! \n\n후쿠오카현에서 1인 1박당 3,000엔 숙박비 할인 혜택을 제공하는 '후쿠오카 평일 이득 여행' 캠페인을 실시합니다! 💰\n\n골든위크가 끝난 후 시작될 예정이며, 평일 여행객에게 특별한 혜택을 제공합니다. \n\n후쿠오카 맛집 탐방, 쇼핑, 근교 여행 시 숙박비 부담을 덜 수 있는 절호의 찬스! \n\n자세한 내용은 곧 발표될 예정이니, 놓치지 마세요! 😉\n\n#후쿠오카여행 #일본숙소 #숙박할인 #여행지원 #평일여행 #후쿠오카 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#후쿠오카여행",
+          "#일본숙소",
+          "#숙박할인",
+          "#여행지원",
+          "#평일여행",
+          "#일본가볼만한곳",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#후쿠오카맛집",
+          "#일본여행준비",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "후쿠오카현 로고와 함께 캠페인 이름이 적힌 이미지",
+          "달력에 표시된 골든위크 이후 날짜",
+          "평일과 주말을 비교하는 아이콘",
+          "후쿠오카 타워와 야경 사진",
+          "알림 아이콘과 함께 '주목!'이라고 쓰인 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심, 정보 저장 및 공유 / 이 콘텐츠의 강점: 실질적인 숙박비 할인 정보 제공으로 즉각적인 여행 계획 수정 유도",
+      "image": {
+        "keyword": "Fukuoka travel discount, Japan hotel promotion, Hakata city view, Tenjin shopping street, Onsen town",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-travel-discount,-Japan-hotel-promotion,-Hakata-city-view,-Tenjin-shopping-street,-Onsen-town",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20travel%20discount,%20Japan%20hotel%20promotion,%20Hakata%20city%20view,%20Tenjin%20shopping%20street,%20Onsen%20town/"
+      }
+    },
+    {
+      "id": "plan_4a739555",
+      "created_at": "2026-04-20T03:47:07.573094",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、国内航空券＋宿泊タイムセール。4～6月出発のお得プラン、4月21日0時から販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2102893.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 항공권과 숙소를 동시에 특가로 구매할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 타임세일 떴다!✈️",
+        "cards": [
+          {
+            "title": "JAL 타임세일",
+            "content": "일본항공(JAL)이 국내선 항공권과 숙박을 묶어 파격 할인하는 타임세일을 진행합니다. 4월 21일 0시부터 4월 30일 23시 57분까지 딱 10일간 진행되니 서두르세요!",
+            "alt_text": "JAL 타임세일 안내 배너"
+          },
+          {
+            "title": "4~6월 출발",
+            "content": "이번 타임세일은 4월부터 6월까지 출발하는 일본 국내선 항공권과 숙박이 포함된 다이나믹 패키지 상품이 대상입니다. 다가올 봄, 여름 시즌 일본 여행을 계획 중이라면 놓치지 마세요!",
+            "alt_text": "여행 달력 이미지"
+          },
+          {
+            "title": "다이나믹 패키지",
+            "content": "항공권과 숙소를 따로 예약하는 번거로움 없이 한 번에 해결할 수 있는 다이나믹 패키지 상품입니다. 원하는 항공편과 숙소를 조합하여 최적의 여행 플랜을 구성할 수 있습니다.",
+            "alt_text": "항공권과 호텔 예약 화면"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "인기 노선이나 숙소는 조기 마감될 수 있으니, 원하는 날짜와 상품이 있다면 최대한 빨리 예약하는 것이 좋습니다. JAL 공식 홈페이지에서 자세한 내용을 확인하세요.",
+            "alt_text": "타이머가 돌아가는 시계 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "타임세일 기간 동안 JAL 홈페이지에서 진행하는 다른 프로모션이 있는지 함께 확인해보세요. 추가 할인이나 혜택을 받을 수 있는 기회가 있을 수 있습니다.",
+            "alt_text": "여행 가방과 할인 쿠폰 이미지"
+          }
+        ],
+        "caption": "🇯🇵 JAL 국내선 + 숙박 타임세일 OPEN! 🇯🇵\n\n✈️ 4월 21일 0시 ~ 4월 30일 23시 57분까지!\n🛫 4월 ~ 6월 출발 일본 국내선 항공권 + 숙박 특가 찬스!\n\n다가오는 봄, 여름 일본 여행 계획 중이라면 지금 바로 JAL 홈페이지에서 확인하세요!\n\n#일본여행 #JAL #일본항공 #항공권특가 #숙박특가 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#항공권특가",
+          "#숙박특가",
+          "#일본여행정보",
+          "#일본자유여행",
+          "#타임세일",
+          "#일본국내선",
+          "#여행꿀팁",
+          "#여행스타그램",
+          "#일본가고싶다",
+          "#일본여행준비",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "JAL 타임세일 안내 배너",
+          "여행 달력 이미지",
+          "항공권과 호텔 예약 화면",
+          "타이머가 돌아가는 시계 이미지",
+          "여행 가방과 할인 쿠폰 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 8시 ~ 10시 / 기대 반응: 높은 클릭률과 예약 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 명확한 기간 명시",
+      "image": {
+        "keyword": "JAL, Japan Airlines, domestic flight, hotel package, time sale, discount, travel deal, Japan trip, spring travel, summer travel",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-Airlines,-domestic-flight,-hotel-package,-time-sale,-discount,-travel-deal,-Japan-trip,-spring-travel,-summer-travel",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20Airlines,%20domestic%20flight,%20hotel%20package,%20time%20sale,%20discount,%20travel%20deal,%20Japan%20trip,%20spring%20travel,%20summer%20travel/"
+      }
+    },
     {
       "id": "plan_bba4447c",
       "created_at": "2026-04-19T23:53:33.849355",
@@ -923,160 +1077,6 @@
         "keyword": "Yokohama, Yamashita Park, parade, Disney, Golden Week, event, travel",
         "unsplash_url": "https://unsplash.com/s/photos/Yokohama,-Yamashita-Park,-parade,-Disney,-Golden-Week,-event,-travel",
         "pexels_url": "https://www.pexels.com/search/Yokohama,%20Yamashita%20Park,%20parade,%20Disney,%20Golden%20Week,%20event,%20travel/"
-      }
-    },
-    {
-      "id": "plan_dac197f8",
-      "created_at": "2026-04-16T23:58:26.964329",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、GWセールは4月24日～5月7日に開催。エアリズムやUVカットなど機能性ウェアが特価、新作UTも続々",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102382.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 놓칠 수 없는 유니클로 GW 특별 세일 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵유니클로 GW 세일 득템찬스!✨",
-        "cards": [
-          {
-            "title": "GW 세일 기간",
-            "content": "일본 유니클로에서 2024년 4월 24일부터 5월 7일까지 골든위크(GW) 특별 세일을 진행합니다.",
-            "alt_text": "일본 유니클로 GW 세일 기간 안내"
-          },
-          {
-            "title": "할인 품목",
-            "content": "에어리즘, UV컷 기능성 의류 등 인기 상품들을 특별 할인가로 만나볼 수 있어요. 여름 필수템을 저렴하게 구매할 기회입니다.",
-            "alt_text": "유니클로 기능성 의류 할인 정보"
-          },
-          {
-            "title": "신상 UT",
-            "content": "새로운 그래픽 티셔츠(UT) 컬렉션도 이번 세일 기간에 맞춰 출시될 예정이니 기대해주세요!",
-            "alt_text": "유니클로 신상 UT 출시 안내"
-          },
-          {
-            "title": "세일 테마",
-            "content": "'休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク'라는 테마로 진행되며, 휴일을 더욱 즐겁게 보낼 수 있는 패션을 제안합니다.",
-            "alt_text": "유니클로 GW 세일 테마 소개"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "일본 여행 중 쇼핑 리스트에 유니클로를 꼭 포함시켜 보세요! 실용적인 아이템을 합리적인 가격으로 구매할 수 있습니다.",
-            "alt_text": "일본 유니클로 쇼핑 팁"
-          }
-        ],
-        "caption": "일본 여행 중 놓칠 수 없는 꿀정보! ✈️ 유니클로에서 4월 24일부터 5월 7일까지 GW 특별 세일을 진행해요! 에어리즘, UV컷 기능성 의류 등 인기 상품을 할인된 가격으로 득템할 기회! 신상 UT도 놓치지 마세요! 🛍️\n\n#일본여행 #유니클로 #GW세일 #일본쇼핑 #득템찬스 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#일본쇼핑",
-          "#GW세일",
-          "#골든위크",
-          "#일본여행꿀팁",
-          "#해외직구",
-          "#할인정보",
-          "#의류",
-          "#여름준비",
-          "#일본생활",
-          "#일본어",
-          "#여행스타그램",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "일본 유니클로 GW 세일 기간 안내",
-          "유니클로 기능성 의류 할인 정보",
-          "유니클로 신상 UT 출시 안내",
-          "유니클로 GW 세일 테마 소개",
-          "일본 유니클로 쇼핑 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 세일 정보에 대한 높은 관심과 공유, 실제 구매 의사 표현 / 이 콘텐츠의 강점: 시기적절한 쇼핑 정보 제공, 구체적인 할인 기간 및 품목 명시",
-      "image": {
-        "keyword": "Uniqlo GW Sale Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-GW-Sale-Japan",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20GW%20Sale%20Japan/"
-      }
-    },
-    {
-      "id": "plan_f9810b88",
-      "created_at": "2026-04-16T23:58:21.277118",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、GWセールのノベルティは「メッシュトートバッグ＆保冷ポーチセット」全5色。4月24日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102383.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니클로 GW 세일 기간에 맞춰 증정되는 특별한 굿즈 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 유니클로 GW 한정 굿즈 득템 찬스!",
-        "cards": [
-          {
-            "title": "GW 특별 세일",
-            "content": "일본 유니클로에서 4월 24일부터 5월 7일까지 '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク' GW 세일을 진행합니다.",
-            "alt_text": "일본 유니클로 매장 전경"
-          },
-          {
-            "title": "노벨티 증정",
-            "content": "세일 기간 중 구매 금액에 따라 '메쉬 토트백 & 보냉 파우치 세트'를 증정합니다. 총 5가지 색상으로 만나볼 수 있어요.",
-            "alt_text": "유니클로 메쉬 토트백과 보냉 파우치 세트 이미지"
-          },
-          {
-            "title": "색상 확인!",
-            "content": "귀여운 5가지 색상의 토트백과 파우치 세트로 구성되어 있어 선택의 폭이 넓습니다. 여행 중에도 유용하게 사용할 수 있겠어요.",
-            "alt_text": "다양한 색상의 유니클로 굿즈 세트"
-          },
-          {
-            "title": "세일 기간",
-            "content": "놓치지 마세요! 세일 기간은 2024년 4월 24일부터 5월 7일까지입니다.",
-            "alt_text": "달력에 표시된 4월 24일과 5월 7일"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "일본 여행 계획 중이라면, 유니클로 쇼핑 리스트에 꼭 넣어두세요! 세일 기간과 굿즈 증정 조건을 미리 확인하면 알뜰한 쇼핑이 가능합니다.",
-            "alt_text": "쇼핑백을 들고 즐거워하는 여행객"
-          }
-        ],
-        "caption": "🇯🇵 일본 유니클로에서 골든 위크(GW) 특별 세일이 시작됩니다!\n\n✨ 4월 24일 ~ 5월 7일까지 진행되는 이번 세일 기간 동안, 특별한 노벨티 굿즈를 증정해요.\n\n👜 '메쉬 토트백 & 보냉 파우치 세트'를 5가지 색상으로 만나볼 수 있다는 사실!\n\n일본 여행 가신다면, 유니클로 들러서 득템 찬스 꼭 잡으세요!\n\n#일본여행 #유니클로 #골든위크 #GW세일 #일본쇼핑 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#일본유니클로",
-          "#GW세일",
-          "#골든위크",
-          "#일본쇼핑",
-          "#여행꿀팁",
-          "#일본득템",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#일본생활",
-          "#쇼핑스타그램",
-          "#노벨티",
-          "#한정판"
-        ],
-        "alt_texts": [
-          "일본 유니클로 매장 전경",
-          "유니클로 메쉬 토트백과 보냉 파우치 세트 이미지",
-          "다양한 색상의 유니클로 굿즈 세트",
-          "달력에 표시된 4월 24일과 5월 7일",
-          "쇼핑백을 들고 즐거워하는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 20-40대 한국인 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 시기적절한 세일 정보와 실용적인 굿즈 증정 소식으로 여행객의 구매 욕구 자극",
-      "image": {
-        "keyword": "Uniqlo Japan GW sale, mesh tote bag, cooler pouch set, limited edition, shopping gift",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Japan-GW-sale,-mesh-tote-bag,-cooler-pouch-set,-limited-edition,-shopping-gift",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Japan%20GW%20sale,%20mesh%20tote%20bag,%20cooler%20pouch%20set,%20limited%20edition,%20shopping%20gift/"
       }
     }
   ]
