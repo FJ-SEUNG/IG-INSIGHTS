@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-20T03:47:15.678048",
+  "last_updated": "2026-04-20T23:59:00.489265",
   "plans": [
+    {
+      "id": "plan_962c304d",
+      "created_at": "2026-04-20T23:58:58.489100",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "都内でネモフィラ楽しめる「舎人公園」ライトアップは4月26日まで。新作フォトスポットや青いソフトも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103096.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 네모필라 만끽! 4월 26일까지 특별한 야간 라이트업과 포토 스팟, 한정 메뉴까지 즐겨보세요!"
+      },
+      "content": {
+        "thumbnail_title": "🌸도쿄 네모필라 만끽🌸",
+        "cards": [
+          {
+            "title": "네모필라 축제",
+            "content": "도쿄 도립 '舎人公園(토네리 공원)'에서 네모필라와 다양한 꽃들을 만날 수 있는 '꽃과 빛의 무브먼트'가 4월 26일까지 열립니다.",
+            "alt_text": "도쿄 토네리 공원에서 네모필라 꽃밭이 펼쳐진 모습"
+          },
+          {
+            "title": "야간 라이트업",
+            "content": "저녁에는 아름다운 조명과 함께 네모필라가 연출하는 환상적인 야경을 감상할 수 있습니다. 잊지 못할 추억을 만들어 보세요.",
+            "alt_text": "야간 조명 아래 빛나는 네모필라 꽃밭"
+          },
+          {
+            "title": "신규 포토 스팟",
+            "content": "이번 행사에서는 새롭게 마련된 포토 스팟에서 인생샷을 남길 수 있습니다. 인생샷 남길 준비되셨나요?",
+            "alt_text": "네모필라를 배경으로 사진을 찍을 수 있는 예쁜 포토 스팟"
+          },
+          {
+            "title": "청량한 네모필라",
+            "content": "푸른 네모필라를 닮은 특별한 파란색 소프트 아이스크림도 맛볼 수 있습니다. 눈과 입이 모두 즐거운 경험!",
+            "alt_text": "푸른 네모필라 색의 소프트 아이스크림"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "4월 26일까지 진행되니 서두르세요! 저녁 시간대 방문 시 라이트업도 함께 즐길 수 있습니다. 공원 정보는 미리 확인하시는 것이 좋습니다.",
+            "alt_text": "공원 방문객들이 즐겁게 네모필라를 감상하는 모습"
+          }
+        ],
+        "caption": "🌸도쿄 여행 중이라면 놓칠 수 없는 네모필라 명소!🌸\n\n도쿄 토네리 공원에서 4월 26일까지 펼쳐지는 '꽃과 빛의 무브먼트'에 참여하세요! 💙\n\n✨ 네모필라 야간 라이트업\n📸 인생샷 보장! 신규 포토 스팟\n🍦 눈과 입이 즐거운 네모필라 아이스크림\n\n지금 바로 도쿄 토네리 공원으로 떠나보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#네모필라",
+          "#토네리공원",
+          "#도쿄가볼만한곳",
+          "#일본축제",
+          "#4월여행",
+          "#도쿄",
+          "#일본정보",
+          "#여행꿀팁",
+          "#인생샷",
+          "#야경",
+          "#꽃구경",
+          "#일본"
+        ],
+        "alt_texts": [
+          "도쿄 토네리 공원에서 네모필라 꽃밭이 펼쳐진 모습",
+          "야간 조명 아래 빛나는 네모필라 꽃밭",
+          "네모필라를 배경으로 사진을 찍을 수 있는 예쁜 포토 스팟",
+          "푸른 네모필라 색의 소프트 아이스크림",
+          "공원 방문객들이 즐겁게 네모필라를 감상하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교 봄꽃 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: '꼭 가봐야겠다', '정보 감사해요' 등의 긍정적인 댓글 및 저장 / 이 콘텐츠의 강점: 시기 적절한 시즌 정보와 구체적인 행사 내용, 그리고 매력적인 비주얼 요소를 갖추고 있어 즉각적인 여행 계획에 반영될 가능성이 높음.",
+      "image": {
+        "keyword": "Nemophila, Toneri Park, Tokyo, light-up, flower festival, spring, travel, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Nemophila,-Toneri-Park,-Tokyo,-light-up,-flower-festival,-spring,-travel,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Nemophila,%20Toneri%20Park,%20Tokyo,%20light-up,%20flower%20festival,%20spring,%20travel,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_45b3b24a",
+      "created_at": "2026-04-20T23:58:52.671795",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "近鉄、一般車両で初の有料座席指定サービス「すわれ～る」。大阪阿部野橋～古市間で6月1日から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103104.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "이제 긴테쓰 일반 차량에서도 편하게 앉아갈 수 있어요!"
+      },
+      "content": {
+        "thumbnail_title": "긴테쓰 좌석 지정 💺 6/1부터!",
+        "cards": [
+          {
+            "title": "새로운 좌석 서비스",
+            "content": "긴테쓰가 일반 차량 최초로 유료 좌석 지정 서비스 '스와레~루'를 6월 1일부터 시작합니다. 이제 서서 가는 불편함 없이 편안하게 여행하세요!",
+            "alt_text": "긴테쓰 일반 열차 좌석에 앉아있는 승객 이미지"
+          },
+          {
+            "title": "운행 구간",
+            "content": "이 서비스는 오사카 아베노바시 역에서 후루이치 역까지 운행하는 일반 차량에서 이용 가능합니다. 여행 동선에 맞는지 확인해보세요.",
+            "alt_text": "일본 오사카 아베노바시 역 전경 이미지"
+          },
+          {
+            "title": "이용 방법",
+            "content": "정확한 이용 방법 및 요금은 추후 공지될 예정입니다. 긴테쓰 공식 발표를 기다려주세요!",
+            "alt_text": "긴테쓰 열차 시간표를 확인하는 승객 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "만약 이 구간을 이용하신다면, '스와레~루' 서비스를 통해 좀 더 여유로운 여행을 즐길 수 있습니다. 특히 짐이 많거나 이동 거리가 길 때 유용할 거예요.",
+            "alt_text": "열차 창밖 풍경을 바라보는 여행객 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "모든 일반 차량에 적용되는 것은 아니며, 특정 구간 및 열차에 한정될 수 있습니다. 이용 전 반드시 확인하시고, 예약이 필요한지 미리 알아보세요.",
+            "alt_text": "열차 좌석에 부착된 안내문 이미지"
+          }
+        ],
+        "caption": "✨일본 긴테쓰 여행객 주목!✨\n\n6월 1일부터 긴테쓰 일반 열차에서 '스와레~루' 유료 좌석 지정 서비스가 시작됩니다! 💺\n\n오사카 아베노바시 ~ 후루이치 구간에서 이용 가능하며, 이제 서서 가는 불편함 없이 편안하게 여행할 수 있어요.\n\n자세한 이용 방법은 추후 공지될 예정이니, 긴테쓰 소식을 계속 주목해주세요! 😉\n\n#긴테쓰 #일본교통 #좌석지정 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#긴테쓰",
+          "#긴테쓰열차",
+          "#일본교통",
+          "#좌석지정",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#오사카여행",
+          "#간사이여행",
+          "#편안한여행",
+          "#6월여행",
+          "#일본기차",
+          "#여행스타그램",
+          "#플라잉재팬",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "긴테쓰 일반 열차 좌석에 앉아있는 승객 이미지",
+          "일본 오사카 아베노바시 역 전경 이미지",
+          "긴테쓰 열차 시간표를 확인하는 승객 이미지",
+          "열차 창밖 풍경을 바라보는 여행객 이미지",
+          "열차 좌석에 부착된 안내문 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 긴테쓰 이용 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 획득 및 공유, 서비스 이용 고려 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공, 여행 편의성 증대",
+      "image": {
+        "keyword": "Kintetsu train seat reservation, Osaka Abenobashi station, Japanese railway service, Travel in Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Kintetsu-train-seat-reservation,-Osaka-Abenobashi-station,-Japanese-railway-service,-Travel-in-Japan",
+        "pexels_url": "https://www.pexels.com/search/Kintetsu%20train%20seat%20reservation,%20Osaka%20Abenobashi%20station,%20Japanese%20railway%20service,%20Travel%20in%20Japan/"
+      }
+    },
     {
       "id": "plan_647bb32c",
       "created_at": "2026-04-20T03:47:13.677739",
@@ -923,160 +1077,6 @@
         "keyword": "Uniqlo Mario UT collaboration Japan limited edition",
         "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Mario-UT-collaboration-Japan-limited-edition",
         "pexels_url": "https://www.pexels.com/search/Uniqlo%20Mario%20UT%20collaboration%20Japan%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_baddd085",
-      "created_at": "2026-04-17T03:37:24.904782",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】博多駅「博多の贅沢 海苔弁」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2102350.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 기차역에서 맛보는 특별한 한정 도시락 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🚄博多역 한정! 🍱",
-        "cards": [
-          {
-            "title": "✨博多の贅沢海苔弁",
-            "content": "JR 하카타역에서만 맛볼 수 있는 '하카타의 사치 김 도시락'이 출시되었습니다. 평범한 김 도시락과는 다른 특별함을 기대하게 합니다.",
-            "alt_text": "하카타역 한정 김 도시락 이미지"
-          },
-          {
-            "title": "지역성 & 자신감",
-            "content": "상품명에 '하카타의 사치'라는 문구를 사용하고, 하카타역 한정이라는 문구가 적힌 포장지로 지역적 특색과 맛에 대한 자신감을 엿볼 수 있습니다.",
-            "alt_text": "도시락 포장지에 적힌 '하카타역 한정' 문구"
-          },
-          {
-            "title": "여행 중 든든한 한 끼",
-            "content": "기차 여행의 동반자로 제격인 도시락입니다. 역에서 간편하게 구매하여 이동 중에도 편안하게 식사를 즐길 수 있습니다.",
-            "alt_text": "기차 안에서 도시락을 먹는 사람 모습"
-          },
-          {
-            "title": "새로운 맛 경험",
-            "content": "전국적으로 판매되는 김 도시락 중 하나이지만, 하카타역의 명성과 함께 특별한 맛을 선사할 것으로 기대됩니다.",
-            "alt_text": "다양한 종류의 도시락이 진열된 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "하카타역 방문 시, 이 한정 도시락을 꼭 맛보세요! 기차역 내 도시락 판매 코너에서 구매 가능하며, 판매 시간은 역마다 상이할 수 있습니다.",
-            "alt_text": "역 내 도시락 판매 코너 안내 표지판"
-          }
-        ],
-        "caption": "일본 기차 여행의 묘미! 🍱 JR 하카타역에서만 맛볼 수 있는 '하카타의 사치 김 도시락'을 소개합니다. 지역 특색과 맛에 대한 자신감을 담은 특별한 한 끼를 경험해보세요! 🚄\n\n#일본여행 #하카타역 #기차도시락 #일본음식 #현지맛집 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하카타역",
-          "#후쿠오카",
-          "#일본기차여행",
-          "#일본도시락",
-          "#에키벤",
-          "#일본음식",
-          "#여행꿀팁",
-          "#현지맛집",
-          "#일본쇼핑",
-          "#먹스타그램",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "하카타역 한정 김 도시락 이미지",
-          "도시락 포장지에 적힌 '하카타역 한정' 문구",
-          "기차 안에서 도시락을 먹는 사람 모습",
-          "다양한 종류의 도시락이 진열된 모습",
-          "역 내 도시락 판매 코너 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카(하카타)를 방문하는 한국인 여행자 / 최적 게시 시간: 오후 3시~5시 (점심 식사 후 여행 계획 세우는 시간) / 기대 반응: 정보 획득, 구매 욕구 자극, 공유 / 이 콘텐츠의 강점: 특정 역의 한정 상품으로 희소성 강조, 여행 중 식사 해결 팁 제공",
-      "image": {
-        "keyword": "Hakata station bento, Japanese train lunch box, Limited edition bento",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakata-station-bento,-Japanese-train-lunch-box,-Limited-edition-bento",
-        "pexels_url": "https://www.pexels.com/search/Hakata%20station%20bento,%20Japanese%20train%20lunch%20box,%20Limited%20edition%20bento/"
-      }
-    },
-    {
-      "id": "plan_2708ce7f",
-      "created_at": "2026-04-17T03:37:19.051235",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーのパーク外パレード、GWの横浜に来るぞ！　山下公園～万国橋の「ザ よこはまパレード」で",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102465.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "골든위크, 디즈니 스페셜 퍼레이드가 요코하마에 상륙! 특별한 추억 만들기!"
-      },
-      "content": {
-        "thumbnail_title": "✨요코하마 디즈니 퍼레이드✨",
-        "cards": [
-          {
-            "title": "퍼레이드 개최!",
-            "content": "도쿄 디즈니리조트의 특별 퍼레이드가 요코하마에서 열립니다. 전국 축제에 참여하는 '도쿄 디즈니리조트 스페셜 퍼레이드'를 놓치지 마세요!",
-            "alt_text": "요코하마 산시타 공원 풍경"
-          },
-          {
-            "title": "퍼레이드 구간",
-            "content": "퍼레이드는 야마시타 공원에서 반코쿠바시까지 이어집니다. 요코하마의 아름다운 해안가를 따라 펼쳐질 예정입니다.",
-            "alt_text": "요코하마 반코쿠바시 근처 지도"
-          },
-          {
-            "title": "골든위크 기간",
-            "content": "골든위크 기간 동안 진행될 예정입니다. 정확한 날짜와 시간은 추후 공개될 예정이니, 공식 발표를 기다려주세요!",
-            "alt_text": "골든위크 캘린더 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "여행 중 특별한 경험을 원하신다면, 이번 요코하마 디즈니 퍼레이드는 절호의 기회입니다. 아이와 함께, 연인과 함께 즐거운 시간을 계획해보세요!",
-            "alt_text": "즐거워하는 가족의 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "퍼레이드 명당 자리를 잡으려면 행사 시작 시간보다 일찍 도착하는 것을 추천합니다. 편안한 신발과 간식, 음료를 미리 준비해가세요!",
-            "alt_text": "퍼레이드 명당을 기다리는 사람들"
-          }
-        ],
-        "caption": "💖 골든위크, 요코하마에서 특별한 디즈니를 만나세요! 💖\n\n도쿄 디즈니리조트 스페셜 퍼레이드가 드디어 요코하마에 상륙합니다! ✨\n\n야마시타 공원에서 반코쿠바시까지 이어지는 환상적인 퍼레이드를 골든위크 기간 동안 즐길 수 있어요.\n\n여행 계획에 특별한 추억을 더할 절호의 찬스! 놓치지 마세요! 🤩\n\n#일본여행 #플라잉재팬 #요코하마 #디즈니퍼레이드 #골든위크 #일본축제 #요코하마여행 #디즈니 #특별이벤트 #여행정보 #여행꿀팁 #일본정보 #여행스타그램 #해외여행 #퍼레이드",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#요코하마",
-          "#디즈니퍼레이드",
-          "#골든위크",
-          "#일본축제",
-          "#요코하마여행",
-          "#디즈니",
-          "#특별이벤트",
-          "#여행정보",
-          "#여행꿀팁",
-          "#일본정보",
-          "#여행스타그램",
-          "#해외여행",
-          "#퍼레이드"
-        ],
-        "alt_texts": [
-          "요코하마 산시타 공원 풍경",
-          "요코하마 반코쿠바시 근처 지도",
-          "골든위크 캘린더 이미지",
-          "즐거워하는 가족의 모습",
-          "퍼레이드 명당을 기다리는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 골든위크 기간 일본 여행 예정인 한국인 가족 및 커플 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 높은 관심과 공유, 여행 계획 문의 증가 / 이 콘텐츠의 강점: 시의성 높은 이벤트 정보, 매력적인 디즈니 콘텐츠, 구체적인 장소 명시",
-      "image": {
-        "keyword": "Yokohama, Yamashita Park, parade, Disney, Golden Week, event, travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Yokohama,-Yamashita-Park,-parade,-Disney,-Golden-Week,-event,-travel",
-        "pexels_url": "https://www.pexels.com/search/Yokohama,%20Yamashita%20Park,%20parade,%20Disney,%20Golden%20Week,%20event,%20travel/"
       }
     }
   ]
