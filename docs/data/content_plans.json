@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-20T23:59:00.489265",
+  "last_updated": "2026-04-21T03:38:59.665263",
   "plans": [
+    {
+      "id": "plan_a8e9b910",
+      "created_at": "2026-04-21T03:38:57.665085",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、GWセール対象品を一部公開。UVカットカーデやUNIQLO：Cスウェットパンツが1000円引きに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103186.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템 쇼핑 찬스! 유니클로 GW 세일 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "유니클로 GW 세일 꿀템 득템! 🛍️",
+        "cards": [
+          {
+            "title": "GW 세일 시작!",
+            "content": "유니클로가 4월 24일부터 GW(골든위크) 세일을 시작합니다. '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク'라는 테마로 진행됩니다.",
+            "alt_text": "유니클로 GW 세일 시작 알림"
+          },
+          {
+            "title": "1000엔 할인 품목",
+            "content": "이번 세일에서 UV컷 가디건과 UNIQLO:C 스웨트 팬츠를 각각 1000엔 할인된 가격으로 만나볼 수 있습니다.",
+            "alt_text": "UV컷 가디건 및 스웨트 팬츠 할인 정보"
+          },
+          {
+            "title": "다양한 할인 상품",
+            "content": "이 외에도 다양한 상품들이 할인 대상에 포함될 예정이니, 가까운 유니클로 매장을 방문해 보세요.",
+            "alt_text": "다양한 유니클로 할인 상품 이미지"
+          },
+          {
+            "title": "쇼핑 계획 세우기",
+            "content": "일본 여행 중 쇼핑 계획이 있다면, 유니클로 GW 세일 기간을 활용하여 합리적인 가격으로 쇼핑을 즐기세요.",
+            "alt_text": "일본 유니클로 매장 쇼핑 모습"
+          },
+          {
+            "title": "세일 기간 확인!",
+            "content": "세일 기간은 4월 24일부터 시작되니, 여행 일정에 맞춰 방문 계획을 세우는 것이 중요합니다. (정확한 종료일은 추후 공개될 수 있습니다)",
+            "alt_text": "달력에 표시된 4월 24일 날짜"
+          }
+        ],
+        "caption": "일본 여행 필수 쇼핑! 🇯🇵 유니클로 GW 세일이 4월 24일부터 시작됩니다! UV컷 가디건, UNIQLO:C 스웨트 팬츠 등 인기 상품을 1000엔 할인된 가격으로 득템할 기회! 놓치지 말고 알뜰 쇼핑하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#일본유니클로",
+          "#GW세일",
+          "#골든위크",
+          "#일본쇼핑",
+          "#득템찬스",
+          "#일본여행꿀팁",
+          "#여행준비",
+          "#할인정보",
+          "#쇼핑스타그램",
+          "#여행스타그램",
+          "#일본생활",
+          "#가성비쇼핑"
+        ],
+        "alt_texts": [
+          "유니클로 GW 세일 시작 알림",
+          "UV컷 가디건 및 스웨트 팬츠 할인 정보",
+          "다양한 유니클로 할인 상품 이미지",
+          "일본 유니클로 매장 쇼핑 모습",
+          "달력에 표시된 4월 24일 날짜"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-9시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 구체적인 할인 품목 언급",
+      "image": {
+        "keyword": "Uniqlo GW Sale Japan, Uniqlo discount, Japan shopping, Golden Week sale",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-GW-Sale-Japan,-Uniqlo-discount,-Japan-shopping,-Golden-Week-sale",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20GW%20Sale%20Japan,%20Uniqlo%20discount,%20Japan%20shopping,%20Golden%20Week%20sale/"
+      }
+    },
+    {
+      "id": "plan_a3d840bc",
+      "created_at": "2026-04-21T03:38:52.200200",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本橋一丁目に「東京ミッドタウン日本橋」誕生。39～47階にヒルトン最上位・ウォルドーフ・アストリア東京日本橋が入居",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103225.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년 도쿄에 새로운 랜드마크가 탄생! 럭셔리 호텔과 함께 일본 여행의 새로운 경험을 기대하세요."
+      },
+      "content": {
+        "thumbnail_title": "✨2027년 도쿄 새 명소✨",
+        "cards": [
+          {
+            "title": "도쿄 미드타운",
+            "content": "일본교 1정목에 '도쿄 미드타운 일본교'가 새로 생깁니다. 2026년 9월 말 완공 예정이며, 2027년 가을에 전면 개장합니다.",
+            "alt_text": "일본교 지역에 건설 중인 도쿄 미드타운 일본교 조감도"
+          },
+          {
+            "title": "최상급 호텔",
+            "content": "39층부터 47층까지는 힐튼의 최상위 브랜드인 '월도프 아스토리아 도쿄 일본교'가 들어섭니다. 럭셔리한 숙박을 경험할 수 있습니다.",
+            "alt_text": "고급스러운 객실 내부를 연상시키는 이미지"
+          },
+          {
+            "title": "교통 편리",
+            "content": "일본교는 도쿄의 중심부로, 도쿄역과도 가깝습니다. 대중교통을 이용한 접근성이 뛰어날 것으로 예상됩니다.",
+            "alt_text": "도쿄 시내를 가로지르는 지하철 노선도"
+          },
+          {
+            "title": "관광 기대",
+            "content": "새로운 랜드마크의 탄생으로 주변 상업 시설 및 관광 명소에도 활기가 불어넣어질 것으로 기대됩니다.",
+            "alt_text": "일본 전통 가옥과 현대식 건물이 어우러진 거리 풍경"
+          },
+          {
+            "title": "여행 팁",
+            "content": "개장 시점에 맞춰 도쿄 여행 계획을 세우면 새로운 명소와 함께 더욱 특별한 추억을 만들 수 있습니다. 최신 정보는 계속 업데이트될 예정입니다.",
+            "alt_text": "여행 가방과 지도, 카메라가 놓여 있는 모습"
+          }
+        ],
+        "caption": "✨2027년 가을, 도쿄 일본교에 새로운 랜드마크가 탄생합니다!✨\n\n'도쿄 미드타운 일본교'가 2027년 가을 전면 개장을 앞두고 있어요.\n특히 39~47층에는 힐튼의 최상위 브랜드 '월도프 아스토리아 도쿄 일본교'가 들어선다고 하니, 럭셔리한 숙박을 꿈꾸는 분이라면 주목!\n도쿄의 중심부 일본교에서 새로운 경험을 기대해 보세요.\n\n여행 계획에 참고하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄",
+          "#일본교",
+          "#도쿄미드타운",
+          "#월도프아스토리아",
+          "#일본호텔",
+          "#신규개장",
+          "#2027년",
+          "#도쿄여행",
+          "#일본관광",
+          "#여행정보",
+          "#해외여행",
+          "#일본",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "일본교 지역에 건설 중인 도쿄 미드타운 일본교 조감도",
+          "고급스러운 객실 내부를 연상시키는 이미지",
+          "도쿄 시내를 가로지르는 지하철 노선도",
+          "일본 전통 가옥과 현대식 건물이 어우러진 거리 풍경",
+          "여행 가방과 지도, 카메라가 놓여 있는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 2030대 여성, 럭셔리 여행 선호층 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 기대감 표현, 저장 및 공유 / 이 콘텐츠의 강점: 최신 정보, 구체적인 개장 시기 및 시설 정보 제공, 럭셔리 숙소에 대한 호기심 자극",
+      "image": {
+        "keyword": "Tokyo Midtown Hibiya, Waldorf Astoria Tokyo Nihonbashi, construction site, luxury hotel, cityscape",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Midtown-Hibiya,-Waldorf-Astoria-Tokyo-Nihonbashi,-construction-site,-luxury-hotel,-cityscape",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Midtown%20Hibiya,%20Waldorf%20Astoria%20Tokyo%20Nihonbashi,%20construction%20site,%20luxury%20hotel,%20cityscape/"
+      }
+    },
     {
       "id": "plan_962c304d",
       "created_at": "2026-04-20T23:58:58.489100",
@@ -923,160 +1077,6 @@
         "keyword": "Iwatani Yakimaru BIG, Yakiniku grill, Costco Japan, Home dining, Japanese food, Indoor barbecue",
         "unsplash_url": "https://unsplash.com/s/photos/Iwatani-Yakimaru-BIG,-Yakiniku-grill,-Costco-Japan,-Home-dining,-Japanese-food,-Indoor-barbecue",
         "pexels_url": "https://www.pexels.com/search/Iwatani%20Yakimaru%20BIG,%20Yakiniku%20grill,%20Costco%20Japan,%20Home%20dining,%20Japanese%20food,%20Indoor%20barbecue/"
-      }
-    },
-    {
-      "id": "plan_29d3d5e1",
-      "created_at": "2026-04-17T23:56:01.896562",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーリゾート、駐車場料金を改定。普通車3000円→4000円に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102695.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드 방문 예정이라면 꼭 확인해야 할 주차 요금 인상 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 주차비 1000엔 인상!✨",
-        "cards": [
-          {
-            "title": "주차 요금 인상",
-            "content": "도쿄 디즈니랜드/디즈니씨 주차 요금이 2024년 6월 16일부터 변경됩니다. 기존 3,000엔에서 4,000엔으로 1,000엔 인상됩니다.",
-            "alt_text": "도쿄 디즈니랜드 주차장 표지판"
-          },
-          {
-            "title": "언제부터?",
-            "content": "새로운 주차 요금은 2024년 6월 16일 0시부터 적용됩니다. 해당 날짜 이후 방문 시 인상된 요금이 적용되니 참고하세요.",
-            "alt_text": "달력에 6월 16일 표시"
-          },
-          {
-            "title": "총 1,000엔 인상",
-            "content": "기존 3,000엔이었던 보통차 주차 요금이 4,000엔으로 변경됩니다. 1,000엔의 추가 비용이 발생하게 됩니다.",
-            "alt_text": "숫자 3000과 4000이 비교되는 그래픽"
-          },
-          {
-            "title": "방문 계획 시 참고",
-            "content": "디즈니랜드/디즈니씨 방문 예정이라면, 주차 요금 인상분을 고려하여 예산을 계획하는 것이 좋습니다. 특히 자차 이용 시 필수 확인!",
-            "alt_text": "도쿄 디즈니랜드 입구 모습"
-          },
-          {
-            "title": "대중교통 이용 팁",
-            "content": "주차 요금 인상으로 인해 대중교통 이용객이 늘어날 수 있습니다. JR 게이요선, 무사시노선 마이하마역에서 도보 이동이 가능하니 참고하세요.",
-            "alt_text": "일본 철도 노선도"
-          }
-        ],
-        "caption": "🚨속보🚨 도쿄 디즈니랜드/디즈니씨 주차 요금이 6월 16일부터 1,000엔 인상됩니다! 🚗 기존 3,000엔 → 4,000엔으로 변경. 자차 이용 예정이라면 꼭 확인하고 예산 계획하세요! 🗓️\n\n#일본여행 #도쿄디즈니랜드 #도쿄디즈니씨 #주차요금인상 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#디즈니랜드",
-          "#디즈니씨",
-          "#주차요금",
-          "#여행정보",
-          "#일본교통",
-          "#해외여행",
-          "#여행스타그램",
-          "#도쿄",
-          "#일본",
-          "#여행준비",
-          "#필수정보",
-          "#2024년6월"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 주차장 표지판",
-          "달력에 6월 16일 표시",
-          "숫자 3000과 4000이 비교되는 그래픽",
-          "도쿄 디즈니랜드 입구 모습",
-          "일본 철도 노선도"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 저녁 또는 주말 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 시의성 있는 정보, 구체적인 수치 포함",
-      "image": {
-        "keyword": "Tokyo Disneyland parking fee increase",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-parking-fee-increase",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20parking%20fee%20increase/"
-      }
-    },
-    {
-      "id": "plan_4010a3a0",
-      "created_at": "2026-04-17T23:55:56.636029",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、マリオUTは4月24日発売。「宇宙」が舞台の全8種、ヨッシーも初登場！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102693.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 만날 수 있는 마리오 콜라보 UT 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨마리오 UT 4/24 출시✨",
-        "cards": [
-          {
-            "title": "마리오 UT 출시!",
-            "content": "유니클로에서 영화 '슈퍼 마리오 브라더스' 개봉 기념 콜라보 UT를 4월 24일에 발매합니다.",
-            "alt_text": "마리오 캐릭터가 그려진 유니클로 UT 이미지"
-          },
-          {
-            "title": "다양한 디자인",
-            "content": "이번 콜라보 UT는 '우주'를 테마로 한 총 8가지 디자인으로 출시됩니다.",
-            "alt_text": "우주 배경의 다양한 마리오 UT 디자인 모음"
-          },
-          {
-            "title": "요시도 첫 등장!",
-            "content": "귀여운 요시 캐릭터도 이번 UT 디자인에 새롭게 등장하여 소장 가치를 높였습니다.",
-            "alt_text": "요시 캐릭터가 그려진 마리오 UT 디자인"
-          },
-          {
-            "title": "일본에서 득템!",
-            "content": "일본 전국의 유니클로 매장에서 만나볼 수 있으며, 한국에서는 출시되지 않는 한정판입니다.",
-            "alt_text": "일본 유니클로 매장 전경"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "한정판인 만큼 조기 품절될 수 있으니, 일본 여행 계획 중이라면 4월 24일 출시일에 맞춰 서둘러 방문하세요!",
-            "alt_text": "마리오 UT를 구매하려는 여행객들 모습"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수 쇼핑템! 4월 24일, 일본 유니클로에서 마리오 콜라보 UT가 드디어 출시됩니다! ✨\n\n'슈퍼 마리오 브라더스' 영화 개봉 기념으로, 우주를 테마로 한 8가지 디자인과 귀여운 요시 캐릭터까지! 🍄\n\n한국에서는 만나볼 수 없는 특별한 디자인이니, 일본 여행 중이라면 절대 놓치지 마세요! 득템 찬스는 지금뿐! 🚀\n\n#일본여행 #플라잉재팬 #유니클로 #마리오UT #일본쇼핑 #득템찬스 #여행스타그램 #일본한정 #쇼핑리스트 #여행정보 #필수템 #개봉기념 #요시 #슈퍼마리오 #콜라보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#마리오UT",
-          "#일본쇼핑",
-          "#득템찬스",
-          "#여행스타그램",
-          "#일본한정",
-          "#쇼핑리스트",
-          "#여행정보",
-          "#필수템",
-          "#개봉기념",
-          "#요시",
-          "#슈퍼마리오",
-          "#콜라보"
-        ],
-        "alt_texts": [
-          "마리오 캐릭터가 그려진 유니클로 UT 이미지",
-          "우주 배경의 다양한 마리오 UT 디자인 모음",
-          "요시 캐릭터가 그려진 마리오 UT 디자인",
-          "일본 유니클로 매장 전경",
-          "마리오 UT를 구매하려는 여행객들 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시 - 9시 / 기대 반응: 높은 관심과 공유, 실제 구매 인증 후기 / 이 콘텐츠의 강점: 최신 출시 정보, 일본에서만 구매 가능한 희소성, 인기 캐릭터 IP 활용",
-      "image": {
-        "keyword": "Uniqlo Mario UT collaboration Japan limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Mario-UT-collaboration-Japan-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Mario%20UT%20collaboration%20Japan%20limited%20edition/"
       }
     }
   ]
