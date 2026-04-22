@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-21T23:52:33.381609",
+  "last_updated": "2026-04-22T03:35:53.731056",
   "plans": [
+    {
+      "id": "plan_85053aae",
+      "created_at": "2026-04-22T03:35:51.730869",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーシー「アクアトピア」25年の歴史に幕！　夏には最後の“びしょ濡れ”バージョンに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103424.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 팬이라면 꼭 알아야 할 도쿄 디즈니씨 명물 어트랙션 종료 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니씨 아쿠아토피아 9/14 종료!",
+        "cards": [
+          {
+            "title": "아쿠아토피아 종료",
+            "content": "도쿄 디즈니씨의 인기 어트랙션 '아쿠아토피아'가 25년의 역사를 뒤로하고 2024년 9월 14일(토)에 영구적으로 운영을 종료합니다.",
+            "alt_text": "도쿄 디즈니씨의 아쿠아토피아 어트랙션 모습"
+          },
+          {
+            "title": "마지막 젖은 체험",
+            "content": "종료 전까지 '아쿠아토피아'에서는 마지막 '젖게 되는' 특별한 체험을 즐길 수 있습니다. 여름 시즌, 시원하게 젖을 준비하세요!",
+            "alt_text": "아쿠아토피아에서 물벼락을 맞는 사람들의 모습"
+          },
+          {
+            "title": "포트 디스커버리",
+            "content": "아쿠아토피아는 포트 디스커버리 지역에 위치한 어트랙션으로, 독특한 운행 시스템으로 많은 사랑을 받아왔습니다.",
+            "alt_text": "포트 디스커버리 지역의 풍경"
+          },
+          {
+            "title": "미래의 디즈니씨",
+            "content": "아쿠아토피아의 종료는 디즈니씨의 새로운 변화를 예고하며, 앞으로 어떤 새로운 어트랙션이 등장할지 기대됩니다.",
+            "alt_text": "디즈니씨의 미래적인 풍경 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "아쿠아토피아에서의 마지막 추억을 만들고 싶다면, 9월 14일 이전에 도쿄 디즈니씨 방문 계획을 세워보세요! 온라인 예약은 필수입니다.",
+            "alt_text": "도쿄 디즈니씨 방문을 계획하는 사람들의 모습"
+          }
+        ],
+        "caption": "🚨속보🚨 도쿄 디즈니씨 인기 명물 '아쿠아토피아'가 25년 만에 역사 속으로 사라집니다. 😭\n\n✨ 2024년 9월 14일(토)부로 운영 종료!\n✨ 마지막까지 시원하게 젖을 수 있는 '젖은 체험' 놓치지 마세요!\n\n디즈니씨 방문 예정이라면, 아쿠아토피아에서의 마지막 추억을 꼭 만들어보세요! 💖\n\n#디즈니씨 #아쿠아토피아 #도쿄여행 #일본여행 #디즈니랜드 #도쿄디즈니씨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨",
+          "#아쿠아토피아",
+          "#디즈니",
+          "#도쿄여행",
+          "#일본자유여행",
+          "#디즈니여행",
+          "#해외여행",
+          "#여행정보",
+          "#일본놀거리",
+          "#도쿄",
+          "#주말여행",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨의 아쿠아토피아 어트랙션 모습",
+          "아쿠아토피아에서 물벼락을 맞는 사람들의 모습",
+          "포트 디스커버리 지역의 풍경",
+          "디즈니씨의 미래적인 풍경 이미지",
+          "도쿄 디즈니씨 방문을 계획하는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 공유 및 관심 집중, 방문 계획 변경 / 이 콘텐츠의 강점: 시기적절한 종료 정보 제공으로 긴급성과 희소성 부각",
+      "image": {
+        "keyword": "Tokyo DisneySea, Aquatopia, attraction closure, water ride, summer experience, Port Discovery",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Aquatopia,-attraction-closure,-water-ride,-summer-experience,-Port-Discovery",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Aquatopia,%20attraction%20closure,%20water%20ride,%20summer%20experience,%20Port%20Discovery/"
+      }
+    },
+    {
+      "id": "plan_dd275a6b",
+      "created_at": "2026-04-22T03:35:45.611357",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーリゾート、夏期限定アフター3/アフター5パスポートを発売。ランドとシーに入園できる1デーパークホッパーも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103464.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름 한정! 도쿄 디즈니랜드 & 디즈니씨 3시 이후 입장 가능한 특별권 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 여름 한정권 개봉✨",
+        "cards": [
+          {
+            "title": "특별권 출시!",
+            "content": "도쿄 디즈니랜드와 디즈니씨에서 여름 시즌 한정으로 '애프터 3' 및 '애프터 5' 패스포트가 출시됩니다. 늦은 오후부터 파크를 즐길 수 있어요.",
+            "alt_text": "도쿄 디즈니랜드 성곽 이미지"
+          },
+          {
+            "title": "파크 호퍼 가능",
+            "content": "이번 특별권은 1일 동안 랜드와 씨 두 곳 모두 입장이 가능한 '1데이 파크 호퍼' 옵션도 포함됩니다. 하루에 두 곳을 모두 경험해보세요!",
+            "alt_text": "도쿄 디즈니씨 신비로운 분위기 이미지"
+          },
+          {
+            "title": "여름 시즌 한정",
+            "content": "본 패스포트는 여름 시즌 입장을 대상으로 판매되며, 자세한 판매 기간 및 이용 가능 날짜는 추후 공개될 예정입니다. 여름 휴가 계획에 참고하세요!",
+            "alt_text": "디즈니랜드 여름 축제 장식 이미지"
+          },
+          {
+            "title": "개장 시간 확인!",
+            "content": "애프터 3는 오후 3시, 애프터 5는 오후 5시부터 입장이 가능합니다. 각 파크의 폐장 시간을 미리 확인하고 효율적인 방문 계획을 세우는 것이 좋습니다.",
+            "alt_text": "디즈니랜드 야경 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "여름밤의 불꽃놀이와 특별한 이벤트를 즐길 수 있는 기회! 한정 판매이니만큼 서둘러 정보를 확인하고 예매를 준비하세요.",
+            "alt_text": "디즈니랜드 불꽃놀이 이미지"
+          }
+        ],
+        "caption": "☀️여름밤의 마법, 놓치지 마세요!☀️\n도쿄 디즈니리조트에서 여름 시즌 한정 '애프터 3' & '애프터 5' 패스포트가 출시됩니다! 🏰✨\n하루에 랜드와 씨를 모두 즐길 수 있는 파크 호퍼 옵션까지! 🤩\n\n여름 휴가, 디즈니에서 특별한 추억을 만들어보세요! 💖\n\n#플라잉재팬 #일본여행 #도쿄디즈니랜드 #도쿄디즈니씨 #디즈니패스포트 #여름여행 #일본축제 #도쿄여행 #디즈니랜드 #디즈니씨 #일본이벤트 #여행정보 #여름휴가 #도쿄",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니패스포트",
+          "#여름여행",
+          "#일본축제",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#디즈니씨",
+          "#일본이벤트",
+          "#여행정보",
+          "#여름휴가",
+          "#도쿄",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 성곽 이미지",
+          "도쿄 디즈니씨 신비로운 분위기 이미지",
+          "디즈니랜드 여름 축제 장식 이미지",
+          "디즈니랜드 야경 이미지",
+          "디즈니랜드 불꽃놀이 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심 및 공유 / 이 콘텐츠의 강점: 여름 시즌 한정 정보로 시의성이 높고, 파크 호퍼 옵션 등 구체적인 혜택 강조",
+      "image": {
+        "keyword": "Tokyo Disneyland, Tokyo DisneySea, summer passport, after 3, after 5, park hopper, limited time offer, fireworks, night view",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Tokyo-DisneySea,-summer-passport,-after-3,-after-5,-park-hopper,-limited-time-offer,-fireworks,-night-view",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Tokyo%20DisneySea,%20summer%20passport,%20after%203,%20after%205,%20park%20hopper,%20limited%20time%20offer,%20fireworks,%20night%20view/"
+      }
+    },
     {
       "id": "plan_aec3fa65",
       "created_at": "2026-04-21T23:52:31.381419",
@@ -923,160 +1077,6 @@
         "keyword": "Osaka travel pass, ancient burial mounds, Japan train ticket, city exploration",
         "unsplash_url": "https://unsplash.com/s/photos/Osaka-travel-pass,-ancient-burial-mounds,-Japan-train-ticket,-city-exploration",
         "pexels_url": "https://www.pexels.com/search/Osaka%20travel%20pass,%20ancient%20burial%20mounds,%20Japan%20train%20ticket,%20city%20exploration/"
-      }
-    },
-    {
-      "id": "plan_180fe21f",
-      "created_at": "2026-04-18T23:51:35.453823",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "GWの新幹線「のぞみ」は自由席なし、指定席の予約必須につき要注意。4月24日～5月6日",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102527.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "골든위크 신칸센 '노조미' 전 좌석 지정제! 예약 필수, 놓치면 낭패!"
-      },
-      "content": {
-        "thumbnail_title": "✈️GW 신칸센 '노조미' 🚨필수 체크!",
-        "cards": [
-          {
-            "title": "운행 기간",
-            "content": "2024년 4월 24일(수)부터 5월 6일(월)까지, 골든위크 기간 동안 동해도산요 신칸센 '노조미' 전 좌석이 지정석으로만 운영됩니다.",
-            "alt_text": "골든위크 기간 동안 신칸센 노조미 열차 운행 정보"
-          },
-          {
-            "title": "좌석 타입",
-            "content": "자유석은 운영되지 않으며, 모든 좌석은 지정석으로 판매됩니다. 잔여석이 없을 경우 입석도 불가하니 미리 예약하셔야 합니다.",
-            "alt_text": "자유석 없이 지정석만 운영되는 신칸센 좌석"
-          },
-          {
-            "title": "예약 방법",
-            "content": "JR 공식 홈페이지, 역 창구, 여행사 등 지정석 발권이 가능한 모든 채널을 통해 사전 예약을 하셔야 합니다. 특히 인기 노선은 조기 마감될 수 있습니다.",
-            "alt_text": "신칸센 지정석 예약 방법 안내"
-          },
-          {
-            "title": "주의 사항",
-            "content": "여행 계획 시, 반드시 '노조미' 호의 전 좌석 지정제 운행 기간을 숙지하시고, 출발 최소 1~2주 전에는 예약을 완료하시는 것을 추천합니다.",
-            "alt_text": "신칸센 예약 시 주의사항 안내"
-          },
-          {
-            "title": "대안 노선",
-            "content": "'히카리', '코다마' 등 다른 등급의 신칸센은 자유석이 운영될 수 있습니다. 하지만 운행 간격이나 소요 시간이 다를 수 있으니, 예약 시 꼼꼼히 확인하세요.",
-            "alt_text": "신칸센 등급별 운행 정보 비교"
-          }
-        ],
-        "caption": "✈️ 2024년 골든위크 일본 여행 예정이라면 주목! 🚄 동해도산요 신칸센 '노조미' 호가 4/24(수)~5/6(월)까지 전 좌석 지정석으로만 운행됩니다. 자유석은 아예 없으니, 미리 예약하지 않으면 탑승이 어려울 수 있어요! 😭\n\nJR 공식 홈페이지나 역 창구에서 서둘러 예약하세요! #플라잉재팬 과 함께 안전하고 즐거운 일본 여행 준비하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본신칸센",
-          "#노조미",
-          "#골든위크",
-          "#GW",
-          "#일본교통",
-          "#여행필수",
-          "#일본여행준비",
-          "#신칸센예약",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "골든위크 기간 동안 신칸센 노조미 열차 운행 정보",
-          "자유석 없이 지정석만 운영되는 신칸센 좌석",
-          "신칸센 지정석 예약 방법 안내",
-          "신칸센 예약 시 주의사항 안내",
-          "신칸센 등급별 운행 정보 비교"
-        ]
-      },
-      "marketer_analysis": "타겟: 4월 말~5월 초 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 8시 ~ 10시 / 기대 반응: 높은 정보 습득 및 예약 행동 유도, 공유 / 이 콘텐츠의 강점: 시기적절하고 필수적인 교통 정보 제공으로 여행 불편 최소화",
-      "image": {
-        "keyword": "Shinkansen Nozomi reserved seat, Golden Week Japan travel, Japan train ticket booking",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Nozomi-reserved-seat,-Golden-Week-Japan-travel,-Japan-train-ticket-booking",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Nozomi%20reserved%20seat,%20Golden%20Week%20Japan%20travel,%20Japan%20train%20ticket%20booking/"
-      }
-    },
-    {
-      "id": "plan_d1ead06c",
-      "created_at": "2026-04-18T23:51:29.929680",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "北海道銘菓「生ノースマン」がJR東京駅にオープン。新商品「生ノースマン 抹茶」も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102639.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 맛보는 홋카이도 한정 디저트! 놓치면 후회할 기회!"
-      },
-      "content": {
-        "thumbnail_title": "홋카이도 명물 🍓 도쿄 상륙!",
-        "cards": [
-          {
-            "title": "생 노스만",
-            "content": "홋카이도에서만 맛볼 수 있던 '생 노스만'이 도쿄역에 상륙했어요! 4월 24일부터 9월 중순까지 기간 한정으로 만날 수 있습니다.",
-            "alt_text": "홋카이도 명물 '생 노스만'이 도쿄역에 오픈했다는 안내문"
-          },
-          {
-            "title": "신상 '녹차맛'",
-            "content": "이번 도쿄점에서는 신상품 '생 노스만 녹차맛'도 새롭게 출시되었습니다. 홋카이도의 풍미를 그대로 담았어요.",
-            "alt_text": "새롭게 출시된 '생 노스만 녹차맛'의 먹음직스러운 모습"
-          },
-          {
-            "title": "도쿄역JR",
-            "content": "오픈 장소는 JR 도쿄역입니다. 홋카이도 여행을 가지 않아도 도쿄에서 인기 디저트를 맛볼 수 있는 절호의 찬스입니다.",
-            "alt_text": "JR 도쿄역 외관 사진"
-          },
-          {
-            "title": "기간 한정!",
-            "content": "아쉽게도 이 특별한 맛은 9월 중순까지만 판매됩니다. 여행 계획 중이라면 꼭 참고하세요!",
-            "alt_text": "기간 한정 판매임을 알리는 팝업 배너"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "달콤한 디저트와 함께 즐거운 도쿄 여행을 만끽하세요! 홋카이도 명물을 도쿄에서 맛볼 수 있는 흔치 않은 기회, 절대 놓치지 마세요!",
-            "alt_text": "생 노스만을 맛있게 먹는 사람의 모습"
-          }
-        ],
-        "caption": "홋카이도 명물 '생 노스만'이 4월 24일부터 9월 중순까지 JR 도쿄역에서 기간 한정으로 판매됩니다! 💖\n\n특히 이번에는 신상품 '생 노스만 녹차맛'도 함께 만날 수 있다는 사실! 🍵\n\n홋카이도까지 가지 않아도 도쿄에서 홋카이도의 맛을 그대로 느낄 수 있는 절호의 찬스! ✈️\n\n여행 중 도쿄역에 들를 예정이라면 꼭 방문해서 특별한 디저트를 맛보세요! 😋\n\n#일본여행 #도쿄여행 #홋카이도디저트 #생노스만 #기간한정 #도쿄역맛집 #디저트그램 #여행꿀팁 #플라잉재팬 #여행정보 #먹스타그램 #일본디저트 #녹차맛 #필수코스 #놓치지마세요",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#홋카이도디저트",
-          "#생노스만",
-          "#기간한정",
-          "#도쿄역맛집",
-          "#디저트그램",
-          "#여행꿀팁",
-          "#일본디저트",
-          "#녹차맛",
-          "#여행스타그램",
-          "#먹스타그램",
-          "#필수코스",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "홋카이도 명물 '생 노스만'이 도쿄역에 오픈했다는 안내문",
-          "새롭게 출시된 '생 노스만 녹차맛'의 먹음직스러운 모습",
-          "JR 도쿄역 외관 사진",
-          "기간 한정 판매임을 알리는 팝업 배너",
-          "생 노스만을 맛있게 먹는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 목요일 19시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장), 도쿄 여행 시 방문 의사 표현 / 이 콘텐츠의 강점: 홋카이도 한정 디저트의 도쿄 상륙이라는 희소성, 구체적인 기간 및 장소 정보 제공, 신상품 출시 소식 포함",
-      "image": {
-        "keyword": "Japanese dessert, Tokyo Station, limited edition, matcha cream puff, Hokkaido specialty",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-dessert,-Tokyo-Station,-limited-edition,-matcha-cream-puff,-Hokkaido-specialty",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20dessert,%20Tokyo%20Station,%20limited%20edition,%20matcha%20cream%20puff,%20Hokkaido%20specialty/"
       }
     }
   ]
