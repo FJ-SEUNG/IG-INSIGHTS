@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-22T03:35:53.731056",
+  "last_updated": "2026-04-23T00:02:28.431063",
   "plans": [
+    {
+      "id": "plan_dacaf58e",
+      "created_at": "2026-04-23T00:02:26.430846",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スマートフォンと顔認証で国際線を乗り継ぐ世界初の実証実験、JALとTIATが実施",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103766.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 입국/환승 시, 앞으로 더 편리해질 최첨단 기술을 미리 알아두세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 입국/환승 꿀팁!🤖",
+        "cards": [
+          {
+            "title": "세계 최초!",
+            "content": "JAL과 도쿄 국제공항(TIAT)이 스마트폰과 얼굴 인증만으로 국제선 탑승 및 환승이 가능한 세계 최초 실증 실험을 성공적으로 마쳤습니다.",
+            "alt_text": "스마트폰과 얼굴 인증을 활용한 일본 공항 탑승 및 환승 모습"
+          },
+          {
+            "title": "얼굴 인증만으로 OK",
+            "content": "앞으로는 별도의 서류나 실물 티켓 없이, 스마트폰 앱과 얼굴 인증만으로 항공기 탑승 및 환승 절차를 간편하게 진행할 수 있게 될 전망입니다.",
+            "alt_text": "얼굴 인식 기술로 항공기 탑승권을 인증하는 모습"
+          },
+          {
+            "title": "입국/환승 시간 단축",
+            "content": "이 기술이 상용화되면, 번거로운 탑승 수속 과정이 대폭 간소화되어 공항에서의 대기 시간을 줄이고 더욱 빠르고 편리한 여행을 즐길 수 있습니다.",
+            "alt_text": "빠르게 공항 게이트를 통과하는 여행객 모습"
+          },
+          {
+            "title": "미래의 여행 경험",
+            "content": "여행의 시작부터 끝까지, 최첨단 기술이 접목된 스마트한 경험을 할 수 있게 될 것으로 기대됩니다. 곧 여러분의 여행에서도 만나볼 수 있을 거예요!",
+            "alt_text": "미래적인 느낌의 공항 라운지 모습"
+          },
+          {
+            "title": "미리 알아두세요!",
+            "content": "현재는 실증 실험 단계이지만, 앞으로 일본 여행 시 공항에서 더욱 스마트한 경험을 할 수 있다는 점! 미리 알아두고 다음 일본 여행 계획에 참고하세요.",
+            "alt_text": "일본 공항 안내 표지판을 보며 스마트폰을 확인하는 여행객"
+          }
+        ],
+        "caption": "✈️일본 입국/환승, 미래를 만나다!🤖\nJAL과 도쿄 국제공항(TIAT)이 스마트폰과 얼굴 인증만으로 국제선 탑승 및 환승이 가능한 세계 최초 실증 실험을 성공적으로 마쳤다는 소식입니다!\n\n앞으로는 별도 서류 없이 얼굴 인증만으로 간편하게 탑승 및 환승이 가능해져, 공항 대기 시간이 획기적으로 단축될 것으로 예상됩니다.\n\n기술 상용화가 된다면 더욱 스마트하고 편리한 일본 여행이 가능해지겠죠? 😉\n\n#일본여행 #플라잉재팬 #일본공항 #JAL #TIAT #얼굴인증 #스마트여행 #여행꿀팁 #일본입국 #환승정보 #미래여행 #공항팁 #일본정보 #여행스타그램 #항공정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본공항",
+          "#JAL",
+          "#TIAT",
+          "#얼굴인증",
+          "#스마트여행",
+          "#여행꿀팁",
+          "#일본입국",
+          "#환승정보",
+          "#미래여행",
+          "#공항팁",
+          "#일본정보",
+          "#여행스타그램",
+          "#항공정보"
+        ],
+        "alt_texts": [
+          "스마트폰과 얼굴 인증을 활용한 일본 공항 탑승 및 환승 모습",
+          "얼굴 인식 기술로 항공기 탑승권을 인증하는 모습",
+          "빠르게 공항 게이트를 통과하는 여행객 모습",
+          "미래적인 느낌의 공항 라운지 모습",
+          "일본 공항 안내 표지판을 보며 스마트폰을 확인하는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행객 / 최적 게시 시간: 평일 오후 3-5시 / 기대 반응: 정보 습득 및 다음 여행에 대한 기대감 / 이 콘텐츠의 강점: 아직 상용화되지 않았지만 미래에 대한 기대감을 높여주는 최신 기술 정보",
+      "image": {
+        "keyword": "Japan airport, facial recognition, boarding pass, smart technology, future travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-airport,-facial-recognition,-boarding-pass,-smart-technology,-future-travel",
+        "pexels_url": "https://www.pexels.com/search/Japan%20airport,%20facial%20recognition,%20boarding%20pass,%20smart%20technology,%20future%20travel/"
+      }
+    },
+    {
+      "id": "plan_0d06caa8",
+      "created_at": "2026-04-23T00:02:20.288550",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "山陽新幹線「ONE PIECE新幹線」デザインのマフラータオルと御朱印帳",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2103852.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "원피스 팬이라면 놓칠 수 없는 한정판 굿즈 출시 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨원피스 신칸센 굿즈 출시✨",
+        "cards": [
+          {
+            "title": "원피스 신칸센",
+            "content": "JR 서일본 산요 신칸센 '원피스 신칸센' 디자인의 마후라 타월과 고슈인 초가 2024년 4월 28일에 출시됩니다.",
+            "alt_text": "원피스 신칸센 디자인 마후라 타월 이미지"
+          },
+          {
+            "title": "마후라 타월",
+            "content": "가격은 2,420엔이며, 원피스 신칸센의 특별한 디자인이 새겨져 있습니다.",
+            "alt_text": "다양한 원피스 캐릭터가 그려진 마후라 타월 이미지"
+          },
+          {
+            "title": "고슈인 초",
+            "content": "가격은 3,520엔으로, 일본 사찰이나 신사를 방문할 때 스탬프를 찍는 기념품입니다.",
+            "alt_text": "원피스 신칸센 디자인의 고슈인 초 이미지"
+          },
+          {
+            "title": "구매 정보",
+            "content": "이번 굿즈는 아사미즈 컴퍼니를 통해 판매될 예정입니다. 자세한 구매처는 추후 공개될 수 있습니다.",
+            "alt_text": "굿즈 판매처를 안내하는 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "원피스 팬이라면 여행 계획에 이 굿즈 구매 일정을 꼭 포함하세요! 특별한 기념품이 될 거예요.",
+            "alt_text": "원피스 신칸센 굿즈를 들고 있는 여행객 이미지"
+          }
+        ],
+        "caption": "🇯🇵 원피스 팬들 주목! 🇯🇵\nJR 서일본 산요 신칸센에서 특별한 '원피스 신칸센' 굿즈가 출시됩니다! \n\n✨ 마후라 타월 (2,420엔)\n✨ 고슈인 초 (3,520엔)\n\n4월 28일부터 구매 가능하며, 원피스 팬에게는 잊지 못할 기념품이 될 거예요! \n\n#일본여행 #원피스신칸센 #한정판굿즈 #여행준비 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#원피스",
+          "#신칸센",
+          "#일본굿즈",
+          "#한정판",
+          "#여행스타그램",
+          "#일본쇼핑",
+          "#JR서일본",
+          "#산요신칸센",
+          "#원피스굿즈",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#인스타여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "원피스 신칸센 디자인 마후라 타월 이미지",
+          "다양한 원피스 캐릭터가 그려진 마후라 타월 이미지",
+          "원피스 신칸센 디자인의 고슈인 초 이미지",
+          "굿즈 판매처를 안내하는 이미지",
+          "원피스 신칸센 굿즈를 들고 있는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 애니메이션, 특히 원피스 팬인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 높은 관심과 구매 문의, 친구 태그를 통한 공유 확산 / 이 콘텐츠의 강점: 명확한 타겟층, 한정판 굿즈라는 희소성, 구체적인 가격 및 출시일 정보 제공",
+      "image": {
+        "keyword": "One Piece Shinkansen goods, muffler towel, goshuincho, Japan travel souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/One-Piece-Shinkansen-goods,-muffler-towel,-goshuincho,-Japan-travel-souvenir",
+        "pexels_url": "https://www.pexels.com/search/One%20Piece%20Shinkansen%20goods,%20muffler%20towel,%20goshuincho,%20Japan%20travel%20souvenir/"
+      }
+    },
     {
       "id": "plan_85053aae",
       "created_at": "2026-04-22T03:35:51.730869",
@@ -923,160 +1077,6 @@
         "keyword": "japanese soft serve ice cream, Tohoku rest stop, regional flavors, travel map, dessert collection",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-soft-serve-ice-cream,-Tohoku-rest-stop,-regional-flavors,-travel-map,-dessert-collection",
         "pexels_url": "https://www.pexels.com/search/japanese%20soft%20serve%20ice%20cream,%20Tohoku%20rest%20stop,%20regional%20flavors,%20travel%20map,%20dessert%20collection/"
-      }
-    },
-    {
-      "id": "plan_6f5ccb6d",
-      "created_at": "2026-04-19T03:44:58.583083",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、ボーイングと内装刷新で契約　ボーイング787型機37機対象",
-        "url": "https://www.traicy.com/posts/20260418368384/",
-        "date": "Sat, 18 Apr 2026 11:37:30 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 항공, 보잉 787기 내/외장 새 단장! 일본 여행 준비 중이라면 주목하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ ANA 787기 새 옷 입는다!",
-        "cards": [
-          {
-            "title": "기종 변경",
-            "content": "ANA, 보잉 787기 37대 내/외장 리뉴얼 계약 체결! 앞으로 ANA 보잉 787기를 이용할 때 더욱 쾌적한 비행을 기대할 수 있어요.",
-            "alt_text": "ANA 보잉 787 항공기 이미지"
-          },
-          {
-            "title": "새로운 경험",
-            "content": "이번 리뉴얼은 단순히 좌석 변경을 넘어, 최신 기술이 적용된 새로운 내/외장 디자인으로 업그레이드될 예정입니다.",
-            "alt_text": "항공기 내부 좌석 이미지"
-          },
-          {
-            "title": "국내/국제선",
-            "content": "리뉴얼 대상은 ANA의 국내선 및 국제선 노선에 투입되는 보잉 787기입니다. 어떤 노선에 먼저 적용될지 기대되네요!",
-            "alt_text": "전 세계 지도 이미지"
-          },
-          {
-            "title": "비행 경험 UP",
-            "content": "더욱 편안하고 세련된 공간에서 일본 여행을 시작할 수 있게 되었어요. ANA 이용 예정이라면 주목하세요!",
-            "alt_text": "창밖으로 보이는 구름 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "항공권 예약 시, 이용하는 항공기가 리뉴얼된 787기인지 확인해보세요. 더욱 업그레이드된 비행 경험을 할 수 있을 거예요!",
-            "alt_text": "여권과 항공권 이미지"
-          }
-        ],
-        "caption": "✈️ ANA, 보잉 787기 37대 리뉴얼 계약 체결! ✈️\n\n곧 일본 여행을 떠나신다면, ANA 항공 이용 시 더욱 쾌적한 비행을 기대해도 좋겠어요!\n\nANA가 보잉 787기 37대의 내/외장 디자인을 새롭게 단장하는 계약을 체결했습니다.\n\n국내선, 국제선 모두 운항하는 787기에 최신 기술이 적용된 새로운 디자인이 적용될 예정이라고 하니, 일본 여행 준비 중이라면 주목하세요! 😉\n\n#일본여행 #플라잉재팬 #ANA #항공권 #보잉787 #일본항공 #여행준비 #꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#항공권",
-          "#보잉787",
-          "#일본항공",
-          "#여행준비",
-          "#꿀팁",
-          "#ANA항공",
-          "#항공기",
-          "#일본",
-          "#여행정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본가는길"
-        ],
-        "alt_texts": [
-          "ANA 보잉 787 항공기 이미지",
-          "항공기 내부 좌석 이미지",
-          "전 세계 지도 이미지",
-          "창밖으로 보이는 구름 이미지",
-          "여권과 항공권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 - 9시 / 기대 반응: 정보 습득 및 공유, 항공권 예약 시 고려 요소 추가 / 이 콘텐츠의 강점: 실질적인 항공 정보 제공으로 여행 준비에 도움",
-      "image": {
-        "keyword": "ANA Boeing 787 interior renovation",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-Boeing-787-interior-renovation",
-        "pexels_url": "https://www.pexels.com/search/ANA%20Boeing%20787%20interior%20renovation/"
-      }
-    },
-    {
-      "id": "plan_60598364",
-      "created_at": "2026-04-19T03:44:50.101667",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR/南海/阪堺電車が乗り放題「堺おでかけフリーパス」。世界遺産「百舌鳥・古市古墳群」もお得に周遊",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2102574.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 여행 필수템! 고대 유적 탐험부터 시내 이동까지 한 번에 해결하는 특급 패스 등장!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 갓성비 패스✨",
-        "cards": [
-          {
-            "title": "새로운 패스 출시!",
-            "content": "JR 니시니혼과 난카이 전기철도가 '사카이 오데카케 프리 패스'를 4월 24일부터 6월 30일까지 판매합니다. 한국에서 오사카 여행 계획 중이라면 주목해주세요!",
-            "alt_text": "일본 철도 회사 로고와 패스 이름이 보이는 이미지"
-          },
-          {
-            "title": "가격은 단돈 1500엔!",
-            "content": "어른 기준 1500엔으로 JR, 난카이, 한카이 전철을 마음껏 이용할 수 있습니다. KANSAI MaaS 사이트에서 구매 가능하니, 여행 전 미리 확인하세요!",
-            "alt_text": "1500엔이 강조된 티켓 이미지"
-          },
-          {
-            "title": "세계유산도 OK!",
-            "content": "이 패스를 이용하면 유네스코 세계유산인 '모즈후루이치 고분군'까지 편리하게 다녀올 수 있습니다. 복잡한 교통 걱정 없이 일본의 역사를 만끽해보세요.",
-            "alt_text": "웅장한 고분군 사진"
-          },
-          {
-            "title": "사카이시 완전 정복!",
-            "content": "패스 하나로 사카이시의 다양한 명소와 맛집, 카페까지 알차게 둘러볼 수 있습니다. 이동 시간을 절약하고 더 많은 곳을 경험해보세요.",
-            "alt_text": "사카이시 시내 풍경 사진"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "한정 기간 판매이니, 오사카 여행 날짜와 맞춰 꼭 구매하시길 바랍니다. 디지털 티켓이라 더욱 간편하게 이용할 수 있습니다.",
-            "alt_text": "스마트폰으로 티켓을 보여주는 손 이미지"
-          }
-        ],
-        "caption": "🇯🇵 오사카 여행 필수템 등장! 🇯🇵\n\nJR, 난카이, 한카이 전철 무제한 탑승 가능한 '사카이 오데카케 프리 패스'가 4월 24일부터 6월 30일까지 한정 판매됩니다! ✨\n\n단돈 1500엔으로 세계유산 '모즈후루이치 고분군'까지 편하게 둘러볼 수 있어요. 🤩\n\n오사카 여행 계획 중이라면 이 꿀패스 절대 놓치지 마세요! ✈️\n\n#일본여행 #오사카여행 #사카이오데카케프리패스 #JR패스 #난카이전철 #일본교통 #오사카필수템 #여행꿀팁 #일본자유여행 #효도여행 #우정여행 #커플여행 #혼여 #여행정보 #가성비여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#사카이오데카케프리패스",
-          "#JR패스",
-          "#난카이전철",
-          "#일본교통",
-          "#오사카필수템",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#고분군",
-          "#효도여행",
-          "#우정여행",
-          "#커플여행",
-          "#혼여"
-        ],
-        "alt_texts": [
-          "일본 철도 회사 로고와 패스 이름이 보이는 이미지",
-          "1500엔이 강조된 티켓 이미지",
-          "웅장한 고분군 사진",
-          "사카이시 시내 풍경 사진",
-          "스마트폰으로 티켓을 보여주는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 패스 구매 정보에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 이용 범위 명시로 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Osaka travel pass, ancient burial mounds, Japan train ticket, city exploration",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-travel-pass,-ancient-burial-mounds,-Japan-train-ticket,-city-exploration",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20travel%20pass,%20ancient%20burial%20mounds,%20Japan%20train%20ticket,%20city%20exploration/"
       }
     }
   ]
