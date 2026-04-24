@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-24T00:03:30.085714",
+  "last_updated": "2026-04-24T03:42:47.500022",
   "plans": [
+    {
+      "id": "plan_ec6d7613",
+      "created_at": "2026-04-24T03:42:45.499848",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーストアが二子玉川ライズに開業。限定アイテムは全11種類、ぬいキーやチャーム、うるぽちゃちゃんなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2104374.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 스토어 신규 오픈! 도쿄 여행 필수 코스 확정!"
+      },
+      "content": {
+        "thumbnail_title": "💖니코타마 디즈니 스토어 오픈!💖",
+        "cards": [
+          {
+            "title": "오픈 정보",
+            "content": "디즈니 스토어 '니코타마 라이즈 S.C.점'이 2024년 5월 27일 문을 엽니다. 도쿄 세타가야구 니코타마 라이즈 쇼핑센터에 위치합니다.",
+            "alt_text": "디즈니 스토어 니코타마 라이즈 S.C.점 외관 이미지"
+          },
+          {
+            "title": "한정 아이템",
+            "content": "오픈 기념으로 총 11가지의 매력적인 한정 아이템을 만나볼 수 있습니다. ぬい키, 참, 그리고 귀여운 '우루포차' 인형도 포함됩니다.",
+            "alt_text": "디즈니 스토어 한정판 ぬい키 이미지"
+          },
+          {
+            "title": "오픈 캠페인",
+            "content": "매장 오픈과 함께 특별한 기념 캠페인이 진행될 예정입니다. 자세한 내용은 추후 공개될 예정이니 기대해주세요!",
+            "alt_text": "디즈니 스토어 오픈 기념 캠페인 안내 이미지"
+          },
+          {
+            "title": "위치",
+            "content": "도쿄도 세타가야구 타마가와 2-21-1, 니코타마 라이즈 쇼핑센터 내에 위치하고 있어 접근성이 좋습니다.",
+            "alt_text": "니코타마 라이즈 쇼핑센터 지도 이미지"
+          },
+          {
+            "title": "여행 팁",
+            "content": "도쿄 여행 계획 중이라면, 니코타마 라이즈 S.C.점 방문을 일정에 꼭 넣어보세요! 특별한 기념품을 득템할 기회입니다.",
+            "alt_text": "일본 디즈니 스토어 쇼핑하는 모습 이미지"
+          }
+        ],
+        "caption": "✨디즈니 팬 주목!✨ 도쿄 니코타마 라이즈에 새로운 디즈니 스토어가 5월 27일 오픈합니다! 💖 11가지 한정판 아이템과 특별 캠페인까지! 도쿄 여행 필수 코스로 찜해두세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니스토어",
+          "#니코타마",
+          "#니코타마라이즈",
+          "#도쿄쇼핑",
+          "#일본쇼핑",
+          "#디즈니",
+          "#여행정보",
+          "#일본신상",
+          "#한정판",
+          "#기념품",
+          "#도쿄",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "디즈니 스토어 니코타마 라이즈 S.C.점 외관 이미지",
+          "디즈니 스토어 한정판 ぬい키 이미지",
+          "디즈니 스토어 오픈 기념 캠페인 안내 이미지",
+          "니코타마 라이즈 쇼핑센터 지도 이미지",
+          "일본 디즈니 스토어 쇼핑하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-30대 여성 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 관심, 공유 및 저장 / 이 콘텐츠의 강점: 최신 쇼핑 정보, 희소성 있는 한정 아이템 소개",
+      "image": {
+        "keyword": "Tokyo Disneyland Store, Futakotamagawa Rise, Disney limited edition plush, Disney charm, new store opening Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Store,-Futakotamagawa-Rise,-Disney-limited-edition-plush,-Disney-charm,-new-store-opening-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Store,%20Futakotamagawa%20Rise,%20Disney%20limited%20edition%20plush,%20Disney%20charm,%20new%20store%20opening%20Japan/"
+      }
+    },
+    {
+      "id": "plan_79db17ae",
+      "created_at": "2026-04-24T03:42:39.677977",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "無印良品、GWはポイント還元率が5倍にアップ。アプリ会員限定、買い物/レビュー/お気に入りなど対象",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2104385.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 꼭 들르는 무인양품, 골든위크에 5배 포인트 적립 기회를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "무인양품 5배 득템 찬스!✨",
+        "cards": [
+          {
+            "title": "포인트 5배!",
+            "content": "일본 여행 중 쇼핑 필수코스 무인양품에서 4월 29일부터 5월 6일까지 'GOOD POINT WEEK'를 진행해요. 행사 기간 동안 멤버 대상 포인트가 무려 5배 적립됩니다.",
+            "alt_text": "무인양품 매장 전경"
+          },
+          {
+            "title": "대상 품목",
+            "content": "구매 금액뿐만 아니라 앱 회원 대상 리뷰 작성, 상품 찜하기 등 다양한 활동에 포인트가 적립되니, 평소 눈여겨봤던 상품이 있다면 절호의 찬스입니다.",
+            "alt_text": "무인양품 상품 진열 모습"
+          },
+          {
+            "title": "행사 기간",
+            "content": "골든위크 황금 연휴 기간인 2024년 4월 29일(월)부터 5월 6일(월)까지 진행되니, 이 기간에 일본 여행 계획이 있다면 꼭 확인하세요.",
+            "alt_text": "캘린더에 표시된 4월 29일 ~ 5월 6일"
+          },
+          {
+            "title": "앱 회원 혜택",
+            "content": "이 혜택은 무인양품 앱 회원에게만 제공되므로, 미리 앱을 설치하고 회원가입을 해두는 것이 좋아요. 일본 현지에서 바로 활용 가능합니다.",
+            "alt_text": "스마트폰으로 무인양품 앱을 사용하는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "평소 사고 싶었던 무인양품 상품 리스트를 미리 작성하고, 쇼핑 목록을 효율적으로 관리해서 포인트 적립 혜택을 최대한 누려보세요. 인기 상품은 조기 품절될 수 있습니다.",
+            "alt_text": "쇼핑 리스트를 작성하는 손"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 중 무인양품 쇼핑 계획 있다면 주목! ✨\n골든위크 기간, 무인양품에서 포인트 5배 적립 찬스가 찾아왔어요! 🤩\n4월 29일부터 5월 6일까지, 앱 회원이라면 구매뿐 아니라 리뷰 작성, 찜하기 등으로도 5배 포인트를 받을 수 있답니다. 🛍️\n쇼핑 리스트 미리 챙겨서 알뜰하게 득템하세요! 😉\n\n#일본여행 #무인양품 #골든위크 #일본쇼핑 #포인트적립 #득템찬스 #여행꿀팁 #플라잉재팬 #MUJI #일본직구 #일본생활 #여행정보 #쇼핑정보 #일본여행준비 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#무인양품",
+          "#MUJI",
+          "#골든위크",
+          "#일본쇼핑",
+          "#포인트적립",
+          "#득템찬스",
+          "#여행꿀팁",
+          "#일본여행정보",
+          "#쇼핑정보",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#일본생활",
+          "#일본직구"
+        ],
+        "alt_texts": [
+          "무인양품 매장 전경",
+          "무인양품 상품 진열 모습",
+          "캘린더에 표시된 4월 29일 ~ 5월 6일",
+          "스마트폰으로 무인양품 앱을 사용하는 모습",
+          "쇼핑 리스트를 작성하는 손"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 시기적절한 쇼핑 혜택 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "MUJI, Japan, Golden Week, shopping, points, app, discount, sale, travel, souvenir, lifestyle",
+        "unsplash_url": "https://unsplash.com/s/photos/MUJI,-Japan,-Golden-Week,-shopping,-points,-app,-discount,-sale,-travel,-souvenir,-lifestyle",
+        "pexels_url": "https://www.pexels.com/search/MUJI,%20Japan,%20Golden%20Week,%20shopping,%20points,%20app,%20discount,%20sale,%20travel,%20souvenir,%20lifestyle/"
+      }
+    },
     {
       "id": "plan_aa53b42b",
       "created_at": "2026-04-24T00:03:28.085519",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Midtown Hibiya, Waldorf Astoria Tokyo Nihonbashi, construction site, luxury hotel, cityscape",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Midtown-Hibiya,-Waldorf-Astoria-Tokyo-Nihonbashi,-construction-site,-luxury-hotel,-cityscape",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Midtown%20Hibiya,%20Waldorf%20Astoria%20Tokyo%20Nihonbashi,%20construction%20site,%20luxury%20hotel,%20cityscape/"
-      }
-    },
-    {
-      "id": "plan_962c304d",
-      "created_at": "2026-04-20T23:58:58.489100",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "都内でネモフィラ楽しめる「舎人公園」ライトアップは4月26日まで。新作フォトスポットや青いソフトも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2103096.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 네모필라 만끽! 4월 26일까지 특별한 야간 라이트업과 포토 스팟, 한정 메뉴까지 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "🌸도쿄 네모필라 만끽🌸",
-        "cards": [
-          {
-            "title": "네모필라 축제",
-            "content": "도쿄 도립 '舎人公園(토네리 공원)'에서 네모필라와 다양한 꽃들을 만날 수 있는 '꽃과 빛의 무브먼트'가 4월 26일까지 열립니다.",
-            "alt_text": "도쿄 토네리 공원에서 네모필라 꽃밭이 펼쳐진 모습"
-          },
-          {
-            "title": "야간 라이트업",
-            "content": "저녁에는 아름다운 조명과 함께 네모필라가 연출하는 환상적인 야경을 감상할 수 있습니다. 잊지 못할 추억을 만들어 보세요.",
-            "alt_text": "야간 조명 아래 빛나는 네모필라 꽃밭"
-          },
-          {
-            "title": "신규 포토 스팟",
-            "content": "이번 행사에서는 새롭게 마련된 포토 스팟에서 인생샷을 남길 수 있습니다. 인생샷 남길 준비되셨나요?",
-            "alt_text": "네모필라를 배경으로 사진을 찍을 수 있는 예쁜 포토 스팟"
-          },
-          {
-            "title": "청량한 네모필라",
-            "content": "푸른 네모필라를 닮은 특별한 파란색 소프트 아이스크림도 맛볼 수 있습니다. 눈과 입이 모두 즐거운 경험!",
-            "alt_text": "푸른 네모필라 색의 소프트 아이스크림"
-          },
-          {
-            "title": "방문 꿀팁",
-            "content": "4월 26일까지 진행되니 서두르세요! 저녁 시간대 방문 시 라이트업도 함께 즐길 수 있습니다. 공원 정보는 미리 확인하시는 것이 좋습니다.",
-            "alt_text": "공원 방문객들이 즐겁게 네모필라를 감상하는 모습"
-          }
-        ],
-        "caption": "🌸도쿄 여행 중이라면 놓칠 수 없는 네모필라 명소!🌸\n\n도쿄 토네리 공원에서 4월 26일까지 펼쳐지는 '꽃과 빛의 무브먼트'에 참여하세요! 💙\n\n✨ 네모필라 야간 라이트업\n📸 인생샷 보장! 신규 포토 스팟\n🍦 눈과 입이 즐거운 네모필라 아이스크림\n\n지금 바로 도쿄 토네리 공원으로 떠나보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#네모필라",
-          "#토네리공원",
-          "#도쿄가볼만한곳",
-          "#일본축제",
-          "#4월여행",
-          "#도쿄",
-          "#일본정보",
-          "#여행꿀팁",
-          "#인생샷",
-          "#야경",
-          "#꽃구경",
-          "#일본"
-        ],
-        "alt_texts": [
-          "도쿄 토네리 공원에서 네모필라 꽃밭이 펼쳐진 모습",
-          "야간 조명 아래 빛나는 네모필라 꽃밭",
-          "네모필라를 배경으로 사진을 찍을 수 있는 예쁜 포토 스팟",
-          "푸른 네모필라 색의 소프트 아이스크림",
-          "공원 방문객들이 즐겁게 네모필라를 감상하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 근교 봄꽃 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: '꼭 가봐야겠다', '정보 감사해요' 등의 긍정적인 댓글 및 저장 / 이 콘텐츠의 강점: 시기 적절한 시즌 정보와 구체적인 행사 내용, 그리고 매력적인 비주얼 요소를 갖추고 있어 즉각적인 여행 계획에 반영될 가능성이 높음.",
-      "image": {
-        "keyword": "Nemophila, Toneri Park, Tokyo, light-up, flower festival, spring, travel, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Nemophila,-Toneri-Park,-Tokyo,-light-up,-flower-festival,-spring,-travel,-Japan",
-        "pexels_url": "https://www.pexels.com/search/Nemophila,%20Toneri%20Park,%20Tokyo,%20light-up,%20flower%20festival,%20spring,%20travel,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_45b3b24a",
-      "created_at": "2026-04-20T23:58:52.671795",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "近鉄、一般車両で初の有料座席指定サービス「すわれ～る」。大阪阿部野橋～古市間で6月1日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2103104.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "이제 긴테쓰 일반 차량에서도 편하게 앉아갈 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "긴테쓰 좌석 지정 💺 6/1부터!",
-        "cards": [
-          {
-            "title": "새로운 좌석 서비스",
-            "content": "긴테쓰가 일반 차량 최초로 유료 좌석 지정 서비스 '스와레~루'를 6월 1일부터 시작합니다. 이제 서서 가는 불편함 없이 편안하게 여행하세요!",
-            "alt_text": "긴테쓰 일반 열차 좌석에 앉아있는 승객 이미지"
-          },
-          {
-            "title": "운행 구간",
-            "content": "이 서비스는 오사카 아베노바시 역에서 후루이치 역까지 운행하는 일반 차량에서 이용 가능합니다. 여행 동선에 맞는지 확인해보세요.",
-            "alt_text": "일본 오사카 아베노바시 역 전경 이미지"
-          },
-          {
-            "title": "이용 방법",
-            "content": "정확한 이용 방법 및 요금은 추후 공지될 예정입니다. 긴테쓰 공식 발표를 기다려주세요!",
-            "alt_text": "긴테쓰 열차 시간표를 확인하는 승객 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "만약 이 구간을 이용하신다면, '스와레~루' 서비스를 통해 좀 더 여유로운 여행을 즐길 수 있습니다. 특히 짐이 많거나 이동 거리가 길 때 유용할 거예요.",
-            "alt_text": "열차 창밖 풍경을 바라보는 여행객 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "모든 일반 차량에 적용되는 것은 아니며, 특정 구간 및 열차에 한정될 수 있습니다. 이용 전 반드시 확인하시고, 예약이 필요한지 미리 알아보세요.",
-            "alt_text": "열차 좌석에 부착된 안내문 이미지"
-          }
-        ],
-        "caption": "✨일본 긴테쓰 여행객 주목!✨\n\n6월 1일부터 긴테쓰 일반 열차에서 '스와레~루' 유료 좌석 지정 서비스가 시작됩니다! 💺\n\n오사카 아베노바시 ~ 후루이치 구간에서 이용 가능하며, 이제 서서 가는 불편함 없이 편안하게 여행할 수 있어요.\n\n자세한 이용 방법은 추후 공지될 예정이니, 긴테쓰 소식을 계속 주목해주세요! 😉\n\n#긴테쓰 #일본교통 #좌석지정 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#긴테쓰",
-          "#긴테쓰열차",
-          "#일본교통",
-          "#좌석지정",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#오사카여행",
-          "#간사이여행",
-          "#편안한여행",
-          "#6월여행",
-          "#일본기차",
-          "#여행스타그램",
-          "#플라잉재팬",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "긴테쓰 일반 열차 좌석에 앉아있는 승객 이미지",
-          "일본 오사카 아베노바시 역 전경 이미지",
-          "긴테쓰 열차 시간표를 확인하는 승객 이미지",
-          "열차 창밖 풍경을 바라보는 여행객 이미지",
-          "열차 좌석에 부착된 안내문 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 긴테쓰 이용 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 획득 및 공유, 서비스 이용 고려 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공, 여행 편의성 증대",
-      "image": {
-        "keyword": "Kintetsu train seat reservation, Osaka Abenobashi station, Japanese railway service, Travel in Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Kintetsu-train-seat-reservation,-Osaka-Abenobashi-station,-Japanese-railway-service,-Travel-in-Japan",
-        "pexels_url": "https://www.pexels.com/search/Kintetsu%20train%20seat%20reservation,%20Osaka%20Abenobashi%20station,%20Japanese%20railway%20service,%20Travel%20in%20Japan/"
       }
     }
   ]
