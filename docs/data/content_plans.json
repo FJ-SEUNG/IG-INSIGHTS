@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-25T03:27:15.245682",
+  "last_updated": "2026-04-25T23:55:20.155147",
   "plans": [
+    {
+      "id": "plan_796fa3c7",
+      "created_at": "2026-04-25T23:55:18.154949",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、国内線航空券タイムセールはじまる。夏休み対象、座席指定制限など新運賃の変更点を解説",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2104458.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 국내선 최대 75% 할인! 여름휴가 일본 여행 득템 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ANA 초특가 득템 찬스!",
+        "cards": [
+          {
+            "title": "타임세일 기간",
+            "content": "ANA 국내선 항공권 타임세일이 4월 30일 23시 59분까지 진행됩니다. 서두르세요!",
+            "alt_text": "ANA 항공권 타임세일 기간 안내"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "할인 대상 탑승 기간은 5월 23일부터 8월 31일까지입니다. 여름휴가 계획에 딱 맞아요!",
+            "alt_text": "ANA 항공권 할인 탑승 기간 안내"
+          },
+          {
+            "title": "할인율",
+            "content": "이번 타임세일에서는 최대 75%까지 할인된 가격으로 항공권을 구매할 수 있습니다.",
+            "alt_text": "ANA 항공권 최대 75% 할인율 안내"
+          },
+          {
+            "title": "새로운 운임",
+            "content": "새로운 운임에는 좌석 지정 제한 등의 변경점이 있으니, 자세한 내용은 예약 시 확인해주세요.",
+            "alt_text": "ANA 항공권 새 운임 변경점 안내"
+          },
+          {
+            "title": "꿀팁",
+            "content": "서둘러 예약할수록 좋은 좌석과 저렴한 가격을 얻을 확률이 높습니다. 지금 바로 ANA 홈페이지를 확인하세요!",
+            "alt_text": "ANA 항공권 예약 꿀팁 안내"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? ✈️ ANA 국내선 항공권 타임세일이 4월 30일까지 진행됩니다! 최대 75% 할인된 가격으로 5월 23일부터 8월 31일까지 탑승 가능한 항공권을 득템할 기회! 여름휴가 일본 여행, ANA와 함께 알뜰하게 다녀오세요! 😉\n\n지금 바로 ANA 홈페이지에서 특별 할인가를 확인하세요! ➡️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA항공권",
+          "#일본항공권",
+          "#항공권할인",
+          "#여름휴가",
+          "#일본국내선",
+          "#여행꿀팁",
+          "#ANA",
+          "#일본교통",
+          "#여행정보",
+          "#알뜰여행",
+          "#일본",
+          "#타임세일",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "ANA 항공권 타임세일 기간 안내",
+          "ANA 항공권 할인 탑승 기간 안내",
+          "ANA 항공권 최대 75% 할인율 안내",
+          "ANA 항공권 새 운임 변경점 안내",
+          "ANA 항공권 예약 꿀팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 기간 명시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "ANA domestic flight sale, Japanese summer vacation, discount airfare Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-domestic-flight-sale,-Japanese-summer-vacation,-discount-airfare-Japan",
+        "pexels_url": "https://www.pexels.com/search/ANA%20domestic%20flight%20sale,%20Japanese%20summer%20vacation,%20discount%20airfare%20Japan/"
+      }
+    },
+    {
+      "id": "plan_805f21f4",
+      "created_at": "2026-04-25T23:55:11.668735",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スティッチ尽くしの新作グッズ、カチューシャやショルダーバッグほか身につけアイテム中心",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2104550.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후들 주목! 6월 4일 스티치 신상 굿즈 쏟아진다!"
+      },
+      "content": {
+        "thumbnail_title": "✨6/4 스티치 신상 굿즈 대공개✨",
+        "cards": [
+          {
+            "title": "스티치 & 엔젤",
+            "content": "도쿄 디즈니리조트에서 영화 '리로&스티치'의 인기 캐릭터 스티치와 엔젤을 테마로 한 신규 굿즈를 2024년 6월 4일 출시합니다.",
+            "alt_text": "스티치와 엔젤 캐릭터 일러스트"
+          },
+          {
+            "title": "다양한 아이템",
+            "content": "이번 신상 굿즈는 귀여운 헤어밴드와 숄더백을 포함하여 일상에서 착용하기 좋은 다양한 아이템들로 구성될 예정입니다.",
+            "alt_text": "스티치 헤어밴드와 숄더백 이미지"
+          },
+          {
+            "title": "디즈니 덕후 필수템",
+            "content": "스티치 팬이라면 놓칠 수 없는 이번 신상 굿즈는 디즈니랜드와 디즈니씨에서 만나볼 수 있으며, 인기 상품은 조기 품절될 수 있습니다.",
+            "alt_text": "스티치 굿즈 진열 모습"
+          },
+          {
+            "title": "여행 쇼핑 리스트",
+            "content": "일본 여행 중 디즈니 방문 계획이 있다면, 6월 4일 출시되는 스티치 신상 굿즈를 쇼핑 리스트에 추가해보세요!",
+            "alt_text": "다양한 스티치 굿즈 모음 사진"
+          },
+          {
+            "title": "방문 전 확인!",
+            "content": "정확한 판매 매장 및 재고 현황은 방문 전 도쿄 디즈니리조트 공식 홈페이지를 통해 확인하는 것이 좋습니다. (공식 홈페이지는 직접 검색 필요)",
+            "alt_text": "도쿄 디즈니리조트 지도 이미지"
+          }
+        ],
+        "caption": "💙스티치 덕후들 심쿵 준비!💙\n\n6월 4일, 도쿄 디즈니리조트에서 스티치와 엔젤 신상 굿즈가 쏟아져 나와요!\n\n헤어밴드, 숄더백 등 귀여움 가득한 아이템들로 여행의 추억을 더해보세요✨\n\n#스티치 #디즈니굿즈 #일본디즈니",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#스티치굿즈",
+          "#디즈니신상",
+          "#디즈니쇼핑",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#6월여행",
+          "#일본쇼핑",
+          "#캐릭터굿즈",
+          "#도쿄여행",
+          "#디즈니덕후",
+          "#스티치사랑해"
+        ],
+        "alt_texts": [
+          "스티치와 엔젤 캐릭터 일러스트",
+          "스티치 헤어밴드와 숄더백 이미지",
+          "스티치 굿즈 진열 모습",
+          "다양한 스티치 굿즈 모음 사진",
+          "도쿄 디즈니리조트 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 디즈니랜드/디즈니씨 방문 예정인 스티치 팬, 굿즈 컬렉터 / 최적 게시 시간: 여행 전 주말 오후 2시~4시 / 기대 반응: 높은 관심과 공유, '나도 사야지!' 댓글 / 이 콘텐츠의 강점: 시기 적절한 신상 정보, 구체적인 출시일과 상품 종류 명시",
+      "image": {
+        "keyword": "stitch, angel, disney resort, new merchandise, japan trip",
+        "unsplash_url": "https://unsplash.com/s/photos/stitch,-angel,-disney-resort,-new-merchandise,-japan-trip",
+        "pexels_url": "https://www.pexels.com/search/stitch,%20angel,%20disney%20resort,%20new%20merchandise,%20japan%20trip/"
+      }
+    },
     {
       "id": "plan_beb6bd32",
       "created_at": "2026-04-25T03:27:13.245495",
@@ -923,160 +1077,6 @@
         "keyword": "One Piece Shinkansen goods, muffler towel, goshuincho, Japan travel souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/One-Piece-Shinkansen-goods,-muffler-towel,-goshuincho,-Japan-travel-souvenir",
         "pexels_url": "https://www.pexels.com/search/One%20Piece%20Shinkansen%20goods,%20muffler%20towel,%20goshuincho,%20Japan%20travel%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_85053aae",
-      "created_at": "2026-04-22T03:35:51.730869",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーシー「アクアトピア」25年の歴史に幕！　夏には最後の“びしょ濡れ”バージョンに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2103424.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 팬이라면 꼭 알아야 할 도쿄 디즈니씨 명물 어트랙션 종료 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니씨 아쿠아토피아 9/14 종료!",
-        "cards": [
-          {
-            "title": "아쿠아토피아 종료",
-            "content": "도쿄 디즈니씨의 인기 어트랙션 '아쿠아토피아'가 25년의 역사를 뒤로하고 2024년 9월 14일(토)에 영구적으로 운영을 종료합니다.",
-            "alt_text": "도쿄 디즈니씨의 아쿠아토피아 어트랙션 모습"
-          },
-          {
-            "title": "마지막 젖은 체험",
-            "content": "종료 전까지 '아쿠아토피아'에서는 마지막 '젖게 되는' 특별한 체험을 즐길 수 있습니다. 여름 시즌, 시원하게 젖을 준비하세요!",
-            "alt_text": "아쿠아토피아에서 물벼락을 맞는 사람들의 모습"
-          },
-          {
-            "title": "포트 디스커버리",
-            "content": "아쿠아토피아는 포트 디스커버리 지역에 위치한 어트랙션으로, 독특한 운행 시스템으로 많은 사랑을 받아왔습니다.",
-            "alt_text": "포트 디스커버리 지역의 풍경"
-          },
-          {
-            "title": "미래의 디즈니씨",
-            "content": "아쿠아토피아의 종료는 디즈니씨의 새로운 변화를 예고하며, 앞으로 어떤 새로운 어트랙션이 등장할지 기대됩니다.",
-            "alt_text": "디즈니씨의 미래적인 풍경 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "아쿠아토피아에서의 마지막 추억을 만들고 싶다면, 9월 14일 이전에 도쿄 디즈니씨 방문 계획을 세워보세요! 온라인 예약은 필수입니다.",
-            "alt_text": "도쿄 디즈니씨 방문을 계획하는 사람들의 모습"
-          }
-        ],
-        "caption": "🚨속보🚨 도쿄 디즈니씨 인기 명물 '아쿠아토피아'가 25년 만에 역사 속으로 사라집니다. 😭\n\n✨ 2024년 9월 14일(토)부로 운영 종료!\n✨ 마지막까지 시원하게 젖을 수 있는 '젖은 체험' 놓치지 마세요!\n\n디즈니씨 방문 예정이라면, 아쿠아토피아에서의 마지막 추억을 꼭 만들어보세요! 💖\n\n#디즈니씨 #아쿠아토피아 #도쿄여행 #일본여행 #디즈니랜드 #도쿄디즈니씨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#아쿠아토피아",
-          "#디즈니",
-          "#도쿄여행",
-          "#일본자유여행",
-          "#디즈니여행",
-          "#해외여행",
-          "#여행정보",
-          "#일본놀거리",
-          "#도쿄",
-          "#주말여행",
-          "#여행팁"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니씨의 아쿠아토피아 어트랙션 모습",
-          "아쿠아토피아에서 물벼락을 맞는 사람들의 모습",
-          "포트 디스커버리 지역의 풍경",
-          "디즈니씨의 미래적인 풍경 이미지",
-          "도쿄 디즈니씨 방문을 계획하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 공유 및 관심 집중, 방문 계획 변경 / 이 콘텐츠의 강점: 시기적절한 종료 정보 제공으로 긴급성과 희소성 부각",
-      "image": {
-        "keyword": "Tokyo DisneySea, Aquatopia, attraction closure, water ride, summer experience, Port Discovery",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Aquatopia,-attraction-closure,-water-ride,-summer-experience,-Port-Discovery",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Aquatopia,%20attraction%20closure,%20water%20ride,%20summer%20experience,%20Port%20Discovery/"
-      }
-    },
-    {
-      "id": "plan_dd275a6b",
-      "created_at": "2026-04-22T03:35:45.611357",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーリゾート、夏期限定アフター3/アフター5パスポートを発売。ランドとシーに入園できる1デーパークホッパーも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2103464.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여름 한정! 도쿄 디즈니랜드 & 디즈니씨 3시 이후 입장 가능한 특별권 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 여름 한정권 개봉✨",
-        "cards": [
-          {
-            "title": "특별권 출시!",
-            "content": "도쿄 디즈니랜드와 디즈니씨에서 여름 시즌 한정으로 '애프터 3' 및 '애프터 5' 패스포트가 출시됩니다. 늦은 오후부터 파크를 즐길 수 있어요.",
-            "alt_text": "도쿄 디즈니랜드 성곽 이미지"
-          },
-          {
-            "title": "파크 호퍼 가능",
-            "content": "이번 특별권은 1일 동안 랜드와 씨 두 곳 모두 입장이 가능한 '1데이 파크 호퍼' 옵션도 포함됩니다. 하루에 두 곳을 모두 경험해보세요!",
-            "alt_text": "도쿄 디즈니씨 신비로운 분위기 이미지"
-          },
-          {
-            "title": "여름 시즌 한정",
-            "content": "본 패스포트는 여름 시즌 입장을 대상으로 판매되며, 자세한 판매 기간 및 이용 가능 날짜는 추후 공개될 예정입니다. 여름 휴가 계획에 참고하세요!",
-            "alt_text": "디즈니랜드 여름 축제 장식 이미지"
-          },
-          {
-            "title": "개장 시간 확인!",
-            "content": "애프터 3는 오후 3시, 애프터 5는 오후 5시부터 입장이 가능합니다. 각 파크의 폐장 시간을 미리 확인하고 효율적인 방문 계획을 세우는 것이 좋습니다.",
-            "alt_text": "디즈니랜드 야경 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "여름밤의 불꽃놀이와 특별한 이벤트를 즐길 수 있는 기회! 한정 판매이니만큼 서둘러 정보를 확인하고 예매를 준비하세요.",
-            "alt_text": "디즈니랜드 불꽃놀이 이미지"
-          }
-        ],
-        "caption": "☀️여름밤의 마법, 놓치지 마세요!☀️\n도쿄 디즈니리조트에서 여름 시즌 한정 '애프터 3' & '애프터 5' 패스포트가 출시됩니다! 🏰✨\n하루에 랜드와 씨를 모두 즐길 수 있는 파크 호퍼 옵션까지! 🤩\n\n여름 휴가, 디즈니에서 특별한 추억을 만들어보세요! 💖\n\n#플라잉재팬 #일본여행 #도쿄디즈니랜드 #도쿄디즈니씨 #디즈니패스포트 #여름여행 #일본축제 #도쿄여행 #디즈니랜드 #디즈니씨 #일본이벤트 #여행정보 #여름휴가 #도쿄",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니패스포트",
-          "#여름여행",
-          "#일본축제",
-          "#도쿄여행",
-          "#디즈니랜드",
-          "#디즈니씨",
-          "#일본이벤트",
-          "#여행정보",
-          "#여름휴가",
-          "#도쿄",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 성곽 이미지",
-          "도쿄 디즈니씨 신비로운 분위기 이미지",
-          "디즈니랜드 여름 축제 장식 이미지",
-          "디즈니랜드 야경 이미지",
-          "디즈니랜드 불꽃놀이 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심 및 공유 / 이 콘텐츠의 강점: 여름 시즌 한정 정보로 시의성이 높고, 파크 호퍼 옵션 등 구체적인 혜택 강조",
-      "image": {
-        "keyword": "Tokyo Disneyland, Tokyo DisneySea, summer passport, after 3, after 5, park hopper, limited time offer, fireworks, night view",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Tokyo-DisneySea,-summer-passport,-after-3,-after-5,-park-hopper,-limited-time-offer,-fireworks,-night-view",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Tokyo%20DisneySea,%20summer%20passport,%20after%203,%20after%205,%20park%20hopper,%20limited%20time%20offer,%20fireworks,%20night%20view/"
       }
     }
   ]
