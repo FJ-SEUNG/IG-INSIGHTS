@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-25T23:55:20.155147",
+  "last_updated": "2026-04-26T03:50:45.747441",
   "plans": [
+    {
+      "id": "plan_fbc1d501",
+      "created_at": "2026-04-26T03:50:43.747254",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヤフートラベル、「GoGoセール」開催中　4月25日まで",
+        "url": "https://www.traicy.com/posts/20260425368792/",
+        "date": "Sat, 25 Apr 2026 05:15:01 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 인기 숙소 최대 10% 이상 할인! 36시간 한정 초특가 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️야후재팬 36시간 특가! 🇯🇵",
+        "cards": [
+          {
+            "title": "⚡️GoGo세일",
+            "content": "일본 인기 숙박시설 최대 10% 이상 할인! 36시간 한정 특별 세일이 시작됩니다.",
+            "alt_text": "할인율이 강조된 세일 배너 이미지"
+          },
+          {
+            "title": "⏰기간",
+            "content": "2024년 4월 24일 정오부터 4월 25일까지 단 36시간 동안만 진행됩니다.",
+            "alt_text": "시계 아이콘과 함께 세일 기간을 알리는 이미지"
+          },
+          {
+            "title": "💰추가 혜택",
+            "content": "온라인 카드 결제 시 추가 할인 혜택이 제공될 예정이니, 결제 방법도 꼼꼼히 확인하세요!",
+            "alt_text": "카드 결제 할인 혜택을 나타내는 이미지"
+          },
+          {
+            "title": "🎯대상",
+            "content": "일본 여행을 계획 중이신 모든 분들께 추천! 인기 지역의 숙소를 합리적인 가격으로 예약할 기회입니다.",
+            "alt_text": "일본 지도 위에 숙소 핀이 꽂힌 이미지"
+          },
+          {
+            "title": "💡꿀팁",
+            "content": "세일 시작 시간 전에 미리 접속해서 원하는 숙소를 찜해두면 성공 확률 UP! 알림 설정은 필수입니다.",
+            "alt_text": "성공을 기원하는 엄지척 이모티콘과 함께 팁을 주는 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 체크! ✈️ 야후재팬에서 36시간 한정 'GoGo세일'을 진행합니다! 🇯🇵 인기 숙소 최대 10% 이상 할인에 온라인 카드 결제 추가 혜택까지! 💰\n\n여행 계획 중이라면 절대 놓치지 마세요! 😉\n\n#일본여행 #야후재팬 #숙소할인 #36시간한정 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#야후재팬",
+          "#GoGo세일",
+          "#일본숙소",
+          "#일본호텔",
+          "#일본숙박",
+          "#해외여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#일본온천",
+          "#일본온천여행",
+          "#일본자유여행",
+          "#일본할인"
+        ],
+        "alt_texts": [
+          "할인율이 강조된 세일 배너 이미지",
+          "시계 아이콘과 함께 세일 기간을 알리는 이미지",
+          "카드 결제 할인 혜택을 나타내는 이미지",
+          "일본 지도 위에 숙소 핀이 꽂힌 이미지",
+          "성공을 기원하는 엄지척 이모티콘과 함께 팁을 주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 화요일, 수요일 오후 7-9시 / 기대 반응: 세일 정보에 대한 즉각적인 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 명확한 혜택 안내로 즉각적인 행동 유발 가능",
+      "image": {
+        "keyword": "Japan travel sale, hotel discount, limited time offer, Yahoo Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-hotel-discount,-limited-time-offer,-Yahoo-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20hotel%20discount,%20limited%20time%20offer,%20Yahoo%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_7af90aa9",
+      "created_at": "2026-04-26T03:50:34.506560",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヤフートラベル、「JAL限定早期予約クーポン」を追加配布　最大5,000円割引",
+        "url": "https://www.traicy.com/posts/20260425368881/",
+        "date": "Sat, 25 Apr 2026 12:15:29 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 항공권 특가 찬스! JAL 항공권+호텔 최대 5,000엔 할인받으세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ JAL 항공권 5천엔 할인!",
+        "cards": [
+          {
+            "title": "할인 쿠폰",
+            "content": "일본항공(JAL) 항공권과 호텔을 함께 예약하는 '야후팩' 상품에 대해 최대 5,000엔 할인 쿠폰을 제공합니다.",
+            "alt_text": "JAL 항공권과 호텔 묶음 상품 할인 쿠폰 안내"
+          },
+          {
+            "title": "할인 대상",
+            "content": "JAL 항공권과 호텔을 묶어 예약하는 '야후팩' 상품이 쿠폰 적용 대상입니다.",
+            "alt_text": "JAL 야후팩 상품 이미지"
+          },
+          {
+            "title": "쿠폰 배포",
+            "content": "4월 25일부터 야후 트래블에서 추가 배포를 시작했습니다. 서둘러 확인하세요!",
+            "alt_text": "쿠폰 배포 시작 알림"
+          },
+          {
+            "title": "할인 금액",
+            "content": "최대 5,000엔까지 할인받을 수 있어 알뜰한 일본 여행 계획에 큰 도움이 됩니다.",
+            "alt_text": "5,000엔 할인 금액 강조"
+          },
+          {
+            "title": "꿀팁",
+            "content": "연휴나 성수기 여행 시 항공권과 숙소를 미리 예약하면 더욱 큰 할인 혜택을 받을 수 있습니다. 지금 바로 야후 트래블에서 확인해보세요!",
+            "alt_text": "여행 계획 팁 및 예약 권유"
+          }
+        ],
+        "caption": "일본 여행 준비 중이신가요? ✈️ JAL 항공권과 호텔을 함께 예약하면 최대 5,000엔까지 할인받을 수 있는 절호의 찬스! 🤩\n\n✅ 대상: JAL 항공권 + 호텔 '야후팩' 상품\n✅ 할인: 최대 5,000엔\n✅ 기간: 4월 25일부터 (한정 수량)\n\n지금 바로 야후 트래블에서 확인하고 저렴하게 일본 여행 다녀오세요! 💖\n\n#일본여행 #플라잉재팬 #JAL #일본항공권 #일본호텔 #야후트래블 #일본여행할인 #일본여행꿀팁 #여행스타그램 #해외여행 #일본자유여행 #여행정보 #항공권특가 #호텔할인 #알뜰여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공권",
+          "#일본호텔",
+          "#야후트래블",
+          "#일본여행할인",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본자유여행",
+          "#여행정보",
+          "#항공권특가",
+          "#호텔할인",
+          "#알뜰여행"
+        ],
+        "alt_texts": [
+          "JAL 항공권과 호텔 묶음 상품 할인 쿠폰 안내",
+          "JAL 야후팩 상품 이미지",
+          "쿠폰 배포 시작 알림",
+          "5,000엔 할인 금액 강조",
+          "여행 계획 팁 및 예약 권유"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 할인 정보에 대한 높은 관심과 실제 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 대상 상품 명시로 즉각적인 구매 전환 유도 가능",
+      "image": {
+        "keyword": "JAL airplane window view, Japan city skyline, travel booking app screenshot, discount coupon, happy traveler",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane-window-view,-Japan-city-skyline,-travel-booking-app-screenshot,-discount-coupon,-happy-traveler",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane%20window%20view,%20Japan%20city%20skyline,%20travel%20booking%20app%20screenshot,%20discount%20coupon,%20happy%20traveler/"
+      }
+    },
     {
       "id": "plan_796fa3c7",
       "created_at": "2026-04-25T23:55:18.154949",
@@ -923,160 +1077,6 @@
         "keyword": "Hakone ryokan, Onsen villa, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Hakone-ryokan,-Onsen-villa,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Hakone%20ryokan,%20Onsen%20villa,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_dacaf58e",
-      "created_at": "2026-04-23T00:02:26.430846",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スマートフォンと顔認証で国際線を乗り継ぐ世界初の実証実験、JALとTIATが実施",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2103766.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 입국/환승 시, 앞으로 더 편리해질 최첨단 기술을 미리 알아두세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 입국/환승 꿀팁!🤖",
-        "cards": [
-          {
-            "title": "세계 최초!",
-            "content": "JAL과 도쿄 국제공항(TIAT)이 스마트폰과 얼굴 인증만으로 국제선 탑승 및 환승이 가능한 세계 최초 실증 실험을 성공적으로 마쳤습니다.",
-            "alt_text": "스마트폰과 얼굴 인증을 활용한 일본 공항 탑승 및 환승 모습"
-          },
-          {
-            "title": "얼굴 인증만으로 OK",
-            "content": "앞으로는 별도의 서류나 실물 티켓 없이, 스마트폰 앱과 얼굴 인증만으로 항공기 탑승 및 환승 절차를 간편하게 진행할 수 있게 될 전망입니다.",
-            "alt_text": "얼굴 인식 기술로 항공기 탑승권을 인증하는 모습"
-          },
-          {
-            "title": "입국/환승 시간 단축",
-            "content": "이 기술이 상용화되면, 번거로운 탑승 수속 과정이 대폭 간소화되어 공항에서의 대기 시간을 줄이고 더욱 빠르고 편리한 여행을 즐길 수 있습니다.",
-            "alt_text": "빠르게 공항 게이트를 통과하는 여행객 모습"
-          },
-          {
-            "title": "미래의 여행 경험",
-            "content": "여행의 시작부터 끝까지, 최첨단 기술이 접목된 스마트한 경험을 할 수 있게 될 것으로 기대됩니다. 곧 여러분의 여행에서도 만나볼 수 있을 거예요!",
-            "alt_text": "미래적인 느낌의 공항 라운지 모습"
-          },
-          {
-            "title": "미리 알아두세요!",
-            "content": "현재는 실증 실험 단계이지만, 앞으로 일본 여행 시 공항에서 더욱 스마트한 경험을 할 수 있다는 점! 미리 알아두고 다음 일본 여행 계획에 참고하세요.",
-            "alt_text": "일본 공항 안내 표지판을 보며 스마트폰을 확인하는 여행객"
-          }
-        ],
-        "caption": "✈️일본 입국/환승, 미래를 만나다!🤖\nJAL과 도쿄 국제공항(TIAT)이 스마트폰과 얼굴 인증만으로 국제선 탑승 및 환승이 가능한 세계 최초 실증 실험을 성공적으로 마쳤다는 소식입니다!\n\n앞으로는 별도 서류 없이 얼굴 인증만으로 간편하게 탑승 및 환승이 가능해져, 공항 대기 시간이 획기적으로 단축될 것으로 예상됩니다.\n\n기술 상용화가 된다면 더욱 스마트하고 편리한 일본 여행이 가능해지겠죠? 😉\n\n#일본여행 #플라잉재팬 #일본공항 #JAL #TIAT #얼굴인증 #스마트여행 #여행꿀팁 #일본입국 #환승정보 #미래여행 #공항팁 #일본정보 #여행스타그램 #항공정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본공항",
-          "#JAL",
-          "#TIAT",
-          "#얼굴인증",
-          "#스마트여행",
-          "#여행꿀팁",
-          "#일본입국",
-          "#환승정보",
-          "#미래여행",
-          "#공항팁",
-          "#일본정보",
-          "#여행스타그램",
-          "#항공정보"
-        ],
-        "alt_texts": [
-          "스마트폰과 얼굴 인증을 활용한 일본 공항 탑승 및 환승 모습",
-          "얼굴 인식 기술로 항공기 탑승권을 인증하는 모습",
-          "빠르게 공항 게이트를 통과하는 여행객 모습",
-          "미래적인 느낌의 공항 라운지 모습",
-          "일본 공항 안내 표지판을 보며 스마트폰을 확인하는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행객 / 최적 게시 시간: 평일 오후 3-5시 / 기대 반응: 정보 습득 및 다음 여행에 대한 기대감 / 이 콘텐츠의 강점: 아직 상용화되지 않았지만 미래에 대한 기대감을 높여주는 최신 기술 정보",
-      "image": {
-        "keyword": "Japan airport, facial recognition, boarding pass, smart technology, future travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-airport,-facial-recognition,-boarding-pass,-smart-technology,-future-travel",
-        "pexels_url": "https://www.pexels.com/search/Japan%20airport,%20facial%20recognition,%20boarding%20pass,%20smart%20technology,%20future%20travel/"
-      }
-    },
-    {
-      "id": "plan_0d06caa8",
-      "created_at": "2026-04-23T00:02:20.288550",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "山陽新幹線「ONE PIECE新幹線」デザインのマフラータオルと御朱印帳",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2103852.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "원피스 팬이라면 놓칠 수 없는 한정판 굿즈 출시 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨원피스 신칸센 굿즈 출시✨",
-        "cards": [
-          {
-            "title": "원피스 신칸센",
-            "content": "JR 서일본 산요 신칸센 '원피스 신칸센' 디자인의 마후라 타월과 고슈인 초가 2024년 4월 28일에 출시됩니다.",
-            "alt_text": "원피스 신칸센 디자인 마후라 타월 이미지"
-          },
-          {
-            "title": "마후라 타월",
-            "content": "가격은 2,420엔이며, 원피스 신칸센의 특별한 디자인이 새겨져 있습니다.",
-            "alt_text": "다양한 원피스 캐릭터가 그려진 마후라 타월 이미지"
-          },
-          {
-            "title": "고슈인 초",
-            "content": "가격은 3,520엔으로, 일본 사찰이나 신사를 방문할 때 스탬프를 찍는 기념품입니다.",
-            "alt_text": "원피스 신칸센 디자인의 고슈인 초 이미지"
-          },
-          {
-            "title": "구매 정보",
-            "content": "이번 굿즈는 아사미즈 컴퍼니를 통해 판매될 예정입니다. 자세한 구매처는 추후 공개될 수 있습니다.",
-            "alt_text": "굿즈 판매처를 안내하는 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "원피스 팬이라면 여행 계획에 이 굿즈 구매 일정을 꼭 포함하세요! 특별한 기념품이 될 거예요.",
-            "alt_text": "원피스 신칸센 굿즈를 들고 있는 여행객 이미지"
-          }
-        ],
-        "caption": "🇯🇵 원피스 팬들 주목! 🇯🇵\nJR 서일본 산요 신칸센에서 특별한 '원피스 신칸센' 굿즈가 출시됩니다! \n\n✨ 마후라 타월 (2,420엔)\n✨ 고슈인 초 (3,520엔)\n\n4월 28일부터 구매 가능하며, 원피스 팬에게는 잊지 못할 기념품이 될 거예요! \n\n#일본여행 #원피스신칸센 #한정판굿즈 #여행준비 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#원피스",
-          "#신칸센",
-          "#일본굿즈",
-          "#한정판",
-          "#여행스타그램",
-          "#일본쇼핑",
-          "#JR서일본",
-          "#산요신칸센",
-          "#원피스굿즈",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#인스타여행",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "원피스 신칸센 디자인 마후라 타월 이미지",
-          "다양한 원피스 캐릭터가 그려진 마후라 타월 이미지",
-          "원피스 신칸센 디자인의 고슈인 초 이미지",
-          "굿즈 판매처를 안내하는 이미지",
-          "원피스 신칸센 굿즈를 들고 있는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 애니메이션, 특히 원피스 팬인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 높은 관심과 구매 문의, 친구 태그를 통한 공유 확산 / 이 콘텐츠의 강점: 명확한 타겟층, 한정판 굿즈라는 희소성, 구체적인 가격 및 출시일 정보 제공",
-      "image": {
-        "keyword": "One Piece Shinkansen goods, muffler towel, goshuincho, Japan travel souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/One-Piece-Shinkansen-goods,-muffler-towel,-goshuincho,-Japan-travel-souvenir",
-        "pexels_url": "https://www.pexels.com/search/One%20Piece%20Shinkansen%20goods,%20muffler%20towel,%20goshuincho,%20Japan%20travel%20souvenir/"
       }
     }
   ]
