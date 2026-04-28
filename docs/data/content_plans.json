@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-27T03:54:38.645402",
+  "last_updated": "2026-04-28T00:06:59.972037",
   "plans": [
+    {
+      "id": "plan_e9a62bd7",
+      "created_at": "2026-04-28T00:06:57.971805",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "熱海に温泉グランピング「THE BASE GLAMPING」開業。全5棟に源泉かけ流し露天風呂/サウナ/BBQディナー付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105111.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천과 글램핑을 동시에! 프라이빗한 힐링을 꿈꾸는 여행객에게 딱!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 글램핑 개장!",
+        "cards": [
+          {
+            "title": "신규 오픈!",
+            "content": "일본 시즈오카현 아타미시에 'THE BASE GLAMPING ATAMI PREMIER'가 3월 17일 오픈했습니다. 총 5개의 객실 모두 프라이빗한 온천을 즐길 수 있습니다.",
+            "alt_text": "아타미 글램핑장 외관 사진"
+          },
+          {
+            "title": "온천 & 사우나",
+            "content": "각 객실에는 원천 100%의 노천탕과 사우나가 완비되어 있어 언제든지 나만의 온천을 즐길 수 있습니다. 료칸의 고급스러움과 캠핑의 자유로움을 동시에 느껴보세요.",
+            "alt_text": "객실 내 노천탕 사진"
+          },
+          {
+            "title": "BBQ 디너 포함",
+            "content": "글램핑의 꽃! 신선한 재료로 구성된 BBQ 디너가 포함되어 있습니다. 아름다운 아타미의 밤하늘 아래 로맨틱한 식사를 즐겨보세요.",
+            "alt_text": "글램핑장에서 즐기는 BBQ 사진"
+          },
+          {
+            "title": "아타미 명소",
+            "content": "아타미는 온천으로 유명하며, 바다와 산이 어우러진 아름다운 자연을 자랑합니다. 글램핑 후 아타미 해변 산책이나 관광도 추천합니다.",
+            "alt_text": "아타미 해변 풍경 사진"
+          },
+          {
+            "title": "예약 팁!",
+            "content": "인기가 많을 것으로 예상되니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 자세한 예약 정보는 공식 홈페이지를 확인하세요.",
+            "alt_text": "글램핑장 예약 페이지 캡처 이미지"
+          }
+        ],
+        "caption": "♨️일본 아타미에 온천 글램핑장이 새로 문을 열었어요! 3월 17일 오픈한 'THE BASE GLAMPING ATAMI PREMIER'는 전 객실에 원천 100% 노천탕과 사우나, BBQ 디너까지 포함되어 있답니다. 프라이빗한 힐링을 원하는 분들께 강력 추천! 💖\n\n지금 바로 예약하고 꿈같은 일본 여행을 만들어보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#아타미",
+          "#온천",
+          "#글램핑",
+          "#일본숙소",
+          "#일본온천",
+          "#일본글램핑",
+          "#일본신상",
+          "#일본여행정보",
+          "#프라이빗온천",
+          "#일본가볼만한곳",
+          "#료칸",
+          "#캠핑",
+          "#힐링여행"
+        ],
+        "alt_texts": [
+          "아타미 글램핑장 외관 사진",
+          "객실 내 노천탕 사진",
+          "글램핑장에서 즐기는 BBQ 사진",
+          "아타미 해변 풍경 사진",
+          "글램핑장 예약 페이지 캡처 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 힐링을 추구하는 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 7시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 신규 오픈 정보, 프라이빗 온천이라는 매력적인 키워드",
+      "image": {
+        "keyword": "japan hot spring glamping atami",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-hot-spring-glamping-atami",
+        "pexels_url": "https://www.pexels.com/search/japan%20hot%20spring%20glamping%20atami/"
+      }
+    },
+    {
+      "id": "plan_96e8d0fc",
+      "created_at": "2026-04-28T00:06:44.115603",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "富士登山「吉田ルート」の通行予約が開始。開山は7月10日、通行料1人4000円",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105115.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올여름, 웅장한 후지산 등반 계획 세우세요!"
+      },
+      "content": {
+        "thumbnail_title": "🗻 후지산吉田루트 예약 시작!",
+        "cards": [
+          {
+            "title": "예약 시작!",
+            "content": "후지산 등반의 가장 인기 있는 '요시다 루트'의 통행 예약이 4월 27일부터 시작되었습니다. 7월 10일 개산을 앞두고 미리 준비하세요!",
+            "alt_text": "후지산 요시다 루트 등반 예약 시작 알림"
+          },
+          {
+            "title": "개산일",
+            "content": "2024년 후지산 개산일은 7월 10일입니다. 본격적인 등반 시즌에 맞춰 계획을 세우시면 됩니다.",
+            "alt_text": "후지산 개산일 7월 10일"
+          },
+          {
+            "title": "통행료",
+            "content": "요시다 루트 통행료는 1인당 4,000엔입니다. 등반 준비물과 함께 미리 예산을 고려해 주세요.",
+            "alt_text": "후지산 요시다 루트 통행료 4000엔"
+          },
+          {
+            "title": "예약 방법",
+            "content": "예약은 '후지토잔 오피셜 사이트'에서 가능합니다. 지금 바로 방문하여 원하는 날짜를 선점하세요!",
+            "alt_text": "후지토잔 오피셜 사이트 안내"
+          },
+          {
+            "title": "주의사항",
+            "content": "후지산 등반은 철저한 준비가 필요합니다. 고산병 예방, 충분한 식수 및 간식, 방한 용품을 꼭 챙기세요!",
+            "alt_text": "후지산 등반 준비물 및 안전 수칙"
+          }
+        ],
+        "caption": "올여름, 버킷리스트에 후지산 등반을 추가하세요! 🗻✨\n\n가장 인기 있는 '요시다 루트'의 통행 예약이 4월 27일부터 시작되었습니다. 7월 10일 개산을 앞두고 미리 예약하고 웅장한 경험을 준비하세요!\n\n✅ 예약 시작: 4월 27일\n✅ 개산일: 7월 10일\n✅ 통행료: 1인 4,000엔\n✅ 예약처: 후지토잔 오피셜 사이트\n\n철저한 준비로 안전하고 멋진 후지산 등반 되시길 바랍니다! ⛰️\n\n#후지산 #후지산등반 #요시다루트 #일본여행 #후지토잔 #일본등반 #여름휴가 #버킷리스트 #여행준비 #자연 #풍경 #일본자연 #등산 #여행스타그램 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후지산",
+          "#후지산등반",
+          "#요시다루트",
+          "#일본등반",
+          "#개산",
+          "#여름휴가",
+          "#버킷리스트",
+          "#여행정보",
+          "#여행팁",
+          "#일본관광",
+          "#등산",
+          "#자연",
+          "#풍경"
+        ],
+        "alt_texts": [
+          "후지산 요시다 루트 등반 예약 시작 알림",
+          "후지산 개산일 7월 10일",
+          "후지산 요시다 루트 통행료 4000엔",
+          "후지토잔 오피셜 사이트 안내",
+          "후지산 등반 준비물 및 안전 수칙"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 예약 정보에 대한 관심, 후지산 등반에 대한 기대감 증폭 / 이 콘텐츠의 강점: 최신 예약 정보와 구체적인 수치 제공으로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Mount Fuji Yoshida Trail reservation start",
+        "unsplash_url": "https://unsplash.com/s/photos/Mount-Fuji-Yoshida-Trail-reservation-start",
+        "pexels_url": "https://www.pexels.com/search/Mount%20Fuji%20Yoshida%20Trail%20reservation%20start/"
+      }
+    },
     {
       "id": "plan_6b736c96",
       "created_at": "2026-04-27T03:54:36.645211",
@@ -923,160 +1077,6 @@
         "keyword": "Japan zoo aquarium guide book family travel",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-zoo-aquarium-guide-book-family-travel",
         "pexels_url": "https://www.pexels.com/search/Japan%20zoo%20aquarium%20guide%20book%20family%20travel/"
-      }
-    },
-    {
-      "id": "plan_ec6d7613",
-      "created_at": "2026-04-24T03:42:45.499848",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストアが二子玉川ライズに開業。限定アイテムは全11種類、ぬいキーやチャーム、うるぽちゃちゃんなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104374.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 스토어 신규 오픈! 도쿄 여행 필수 코스 확정!"
-      },
-      "content": {
-        "thumbnail_title": "💖니코타마 디즈니 스토어 오픈!💖",
-        "cards": [
-          {
-            "title": "오픈 정보",
-            "content": "디즈니 스토어 '니코타마 라이즈 S.C.점'이 2024년 5월 27일 문을 엽니다. 도쿄 세타가야구 니코타마 라이즈 쇼핑센터에 위치합니다.",
-            "alt_text": "디즈니 스토어 니코타마 라이즈 S.C.점 외관 이미지"
-          },
-          {
-            "title": "한정 아이템",
-            "content": "오픈 기념으로 총 11가지의 매력적인 한정 아이템을 만나볼 수 있습니다. ぬい키, 참, 그리고 귀여운 '우루포차' 인형도 포함됩니다.",
-            "alt_text": "디즈니 스토어 한정판 ぬい키 이미지"
-          },
-          {
-            "title": "오픈 캠페인",
-            "content": "매장 오픈과 함께 특별한 기념 캠페인이 진행될 예정입니다. 자세한 내용은 추후 공개될 예정이니 기대해주세요!",
-            "alt_text": "디즈니 스토어 오픈 기념 캠페인 안내 이미지"
-          },
-          {
-            "title": "위치",
-            "content": "도쿄도 세타가야구 타마가와 2-21-1, 니코타마 라이즈 쇼핑센터 내에 위치하고 있어 접근성이 좋습니다.",
-            "alt_text": "니코타마 라이즈 쇼핑센터 지도 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "도쿄 여행 계획 중이라면, 니코타마 라이즈 S.C.점 방문을 일정에 꼭 넣어보세요! 특별한 기념품을 득템할 기회입니다.",
-            "alt_text": "일본 디즈니 스토어 쇼핑하는 모습 이미지"
-          }
-        ],
-        "caption": "✨디즈니 팬 주목!✨ 도쿄 니코타마 라이즈에 새로운 디즈니 스토어가 5월 27일 오픈합니다! 💖 11가지 한정판 아이템과 특별 캠페인까지! 도쿄 여행 필수 코스로 찜해두세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#디즈니스토어",
-          "#니코타마",
-          "#니코타마라이즈",
-          "#도쿄쇼핑",
-          "#일본쇼핑",
-          "#디즈니",
-          "#여행정보",
-          "#일본신상",
-          "#한정판",
-          "#기념품",
-          "#도쿄",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "디즈니 스토어 니코타마 라이즈 S.C.점 외관 이미지",
-          "디즈니 스토어 한정판 ぬい키 이미지",
-          "디즈니 스토어 오픈 기념 캠페인 안내 이미지",
-          "니코타마 라이즈 쇼핑센터 지도 이미지",
-          "일본 디즈니 스토어 쇼핑하는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-30대 여성 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 관심, 공유 및 저장 / 이 콘텐츠의 강점: 최신 쇼핑 정보, 희소성 있는 한정 아이템 소개",
-      "image": {
-        "keyword": "Tokyo Disneyland Store, Futakotamagawa Rise, Disney limited edition plush, Disney charm, new store opening Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Store,-Futakotamagawa-Rise,-Disney-limited-edition-plush,-Disney-charm,-new-store-opening-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Store,%20Futakotamagawa%20Rise,%20Disney%20limited%20edition%20plush,%20Disney%20charm,%20new%20store%20opening%20Japan/"
-      }
-    },
-    {
-      "id": "plan_79db17ae",
-      "created_at": "2026-04-24T03:42:39.677977",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "無印良品、GWはポイント還元率が5倍にアップ。アプリ会員限定、買い物/レビュー/お気に入りなど対象",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104385.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 꼭 들르는 무인양품, 골든위크에 5배 포인트 적립 기회를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "무인양품 5배 득템 찬스!✨",
-        "cards": [
-          {
-            "title": "포인트 5배!",
-            "content": "일본 여행 중 쇼핑 필수코스 무인양품에서 4월 29일부터 5월 6일까지 'GOOD POINT WEEK'를 진행해요. 행사 기간 동안 멤버 대상 포인트가 무려 5배 적립됩니다.",
-            "alt_text": "무인양품 매장 전경"
-          },
-          {
-            "title": "대상 품목",
-            "content": "구매 금액뿐만 아니라 앱 회원 대상 리뷰 작성, 상품 찜하기 등 다양한 활동에 포인트가 적립되니, 평소 눈여겨봤던 상품이 있다면 절호의 찬스입니다.",
-            "alt_text": "무인양품 상품 진열 모습"
-          },
-          {
-            "title": "행사 기간",
-            "content": "골든위크 황금 연휴 기간인 2024년 4월 29일(월)부터 5월 6일(월)까지 진행되니, 이 기간에 일본 여행 계획이 있다면 꼭 확인하세요.",
-            "alt_text": "캘린더에 표시된 4월 29일 ~ 5월 6일"
-          },
-          {
-            "title": "앱 회원 혜택",
-            "content": "이 혜택은 무인양품 앱 회원에게만 제공되므로, 미리 앱을 설치하고 회원가입을 해두는 것이 좋아요. 일본 현지에서 바로 활용 가능합니다.",
-            "alt_text": "스마트폰으로 무인양품 앱을 사용하는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "평소 사고 싶었던 무인양품 상품 리스트를 미리 작성하고, 쇼핑 목록을 효율적으로 관리해서 포인트 적립 혜택을 최대한 누려보세요. 인기 상품은 조기 품절될 수 있습니다.",
-            "alt_text": "쇼핑 리스트를 작성하는 손"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 중 무인양품 쇼핑 계획 있다면 주목! ✨\n골든위크 기간, 무인양품에서 포인트 5배 적립 찬스가 찾아왔어요! 🤩\n4월 29일부터 5월 6일까지, 앱 회원이라면 구매뿐 아니라 리뷰 작성, 찜하기 등으로도 5배 포인트를 받을 수 있답니다. 🛍️\n쇼핑 리스트 미리 챙겨서 알뜰하게 득템하세요! 😉\n\n#일본여행 #무인양품 #골든위크 #일본쇼핑 #포인트적립 #득템찬스 #여행꿀팁 #플라잉재팬 #MUJI #일본직구 #일본생활 #여행정보 #쇼핑정보 #일본여행준비 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무인양품",
-          "#MUJI",
-          "#골든위크",
-          "#일본쇼핑",
-          "#포인트적립",
-          "#득템찬스",
-          "#여행꿀팁",
-          "#일본여행정보",
-          "#쇼핑정보",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#일본생활",
-          "#일본직구"
-        ],
-        "alt_texts": [
-          "무인양품 매장 전경",
-          "무인양품 상품 진열 모습",
-          "캘린더에 표시된 4월 29일 ~ 5월 6일",
-          "스마트폰으로 무인양품 앱을 사용하는 모습",
-          "쇼핑 리스트를 작성하는 손"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 시기적절한 쇼핑 혜택 정보로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "MUJI, Japan, Golden Week, shopping, points, app, discount, sale, travel, souvenir, lifestyle",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI,-Japan,-Golden-Week,-shopping,-points,-app,-discount,-sale,-travel,-souvenir,-lifestyle",
-        "pexels_url": "https://www.pexels.com/search/MUJI,%20Japan,%20Golden%20Week,%20shopping,%20points,%20app,%20discount,%20sale,%20travel,%20souvenir,%20lifestyle/"
       }
     }
   ]
