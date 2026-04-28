@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-28T00:06:59.972037",
+  "last_updated": "2026-04-28T03:59:09.706697",
   "plans": [
+    {
+      "id": "plan_67ac60db",
+      "created_at": "2026-04-28T03:59:07.706524",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "無印良品、GWは不揃いバウム・日焼け止めが10％オフ。涼感Tシャツは最大1000円引き、アプリ提示でポイント5倍貯まる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2104675.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템, 무인양품 10% 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "무인양품 10% 할인! 🇯🇵✨",
+        "cards": [
+          {
+            "title": "GW 할인!",
+            "content": "일본 무인양품에서 4월 29일부터 5월 6일까지 'GOOD POINT WEEK'를 진행해요. 불균형 바움과 선크림을 10% 할인된 가격으로 만나보세요!",
+            "alt_text": "무인양품 GW 할인 행사 안내"
+          },
+          {
+            "title": "시원한 여름옷",
+            "content": "더불어 시원한 촉감의 티셔츠는 최대 1,000엔까지 할인된답니다. 여름 시즌을 겨냥한 60가지 상품이 특별가로 판매될 예정이에요.",
+            "alt_text": "무인양품 여름 티셔츠 할인 정보"
+          },
+          {
+            "title": "앱으로 포인트 UP!",
+            "content": "무인양품 앱을 제시하면 포인트가 5배 적립되는 특별한 혜택도 놓치지 마세요. 여행 중 쇼핑하면 더욱 쏠쏠하겠죠?",
+            "alt_text": "무인양품 앱 포인트 5배 적립 안내"
+          },
+          {
+            "title": "선공개 상품",
+            "content": "공식 홈페이지에서는 이미 12가지 상품의 한정 할인 가격을 미리 공개했으니, 방문 전 확인해보세요!",
+            "alt_text": "무인양품 할인 상품 미리보기 안내"
+          },
+          {
+            "title": "쇼핑 팁!",
+            "content": "여행 일정 중 무인양품 방문 계획이 있다면, 이 기간을 활용해보세요! 인기 상품은 조기 품절될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "무인양품 쇼핑 팁 안내"
+          }
+        ],
+        "caption": "일본 여행 필수템 쇼핑 찬스! 🇯🇵✨\n무인양품에서 GW 기간 동안 불균형 바움, 선크림 10% 할인 및 여름 티셔츠 최대 1,000엔 할인 혜택을 제공해요.\n무인양품 앱 제시 시 포인트 5배 적립은 덤!\n여행 전 미리 할인 상품 확인하고 알뜰 쇼핑하세요! 🛍️\n#일본여행 #무인양품 #쇼핑찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#무인양품",
+          "#일본쇼핑",
+          "#일본할인",
+          "#GW할인",
+          "#일본여행팁",
+          "#여행준비",
+          "#해외여행",
+          "#일본생활",
+          "#여행꿀팁",
+          "#일본쇼핑리스트",
+          "#무인양품쇼핑",
+          "#바움쿠헨",
+          "#선크림"
+        ],
+        "alt_texts": [
+          "무인양품 GW 할인 행사 안내",
+          "무인양품 여름 티셔츠 할인 정보",
+          "무인양품 앱 포인트 5배 적립 안내",
+          "무인양품 할인 상품 미리보기 안내",
+          "무인양품 쇼핑 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 쇼핑 정보에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 구체적인 혜택 내용으로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "MUJI Japan GW sale, Muji Baumkuchen discount, Muji sunscreen sale, Japan travel shopping tips",
+        "unsplash_url": "https://unsplash.com/s/photos/MUJI-Japan-GW-sale,-Muji-Baumkuchen-discount,-Muji-sunscreen-sale,-Japan-travel-shopping-tips",
+        "pexels_url": "https://www.pexels.com/search/MUJI%20Japan%20GW%20sale,%20Muji%20Baumkuchen%20discount,%20Muji%20sunscreen%20sale,%20Japan%20travel%20shopping%20tips/"
+      }
+    },
+    {
+      "id": "plan_a7ed9724",
+      "created_at": "2026-04-28T03:59:02.792135",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "赤沢温泉でグランピングと伊豆最大級のプレイエリアを家族で満喫してきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105113.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 여행과 아이와 함께 즐길 수 있는 최신 액티비티를 한 번에!"
+      },
+      "content": {
+        "thumbnail_title": "♨️伊豆 최대 🌴글램핑 오픈!",
+        "cards": [
+          {
+            "title": "伊豆赤沢温泉郷",
+            "content": "2025년 12월 대규모 리뉴얼을 거친 '伊豆赤沢温泉郷'이 'プレジャーリゾート 伊豆赤沢温泉'으로 새롭게 개장했습니다. 2024년 4월 27일 오픈!",
+            "alt_text": "일본 이즈 지역의 아름다운 온천 마을 전경"
+          },
+          {
+            "title": "4가지 테마 파크",
+            "content": "새로운 글램핑 에리어와 플레이 에리어를 포함한 총 4가지 테마의 종합 리조트로 재탄생했습니다. 가족 모두가 즐길 수 있는 공간!",
+            "alt_text": "다양한 액티비티 시설이 보이는 리조트 전경"
+          },
+          {
+            "title": "글램핑 & 플레이",
+            "content": "프리미엄 글램핑 시설에서 편안한 휴식을, 이즈 최대 규모의 플레이 에리어에서 신나는 시간을 보낼 수 있습니다.",
+            "alt_text": "감성적인 글램핑 텐트와 아이들이 뛰어놀 수 있는 넓은 놀이터"
+          },
+          {
+            "title": "온천은 기본!",
+            "content": "온천으로 유명한 곳인 만큼, 따뜻한 온천에서 여행의 피로를 풀며 힐링하기에도 완벽한 곳입니다.",
+            "alt_text": "김이 모락모락 나는 일본 전통 온천탕"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "새롭게 오픈하여 인기가 많을 것으로 예상되니, 방문 전 공식 홈페이지를 통해 예약 및 운영 시간을 미리 확인하는 것을 추천합니다. (주소: 静岡県伊東市赤沢字浮山163-1)",
+            "alt_text": "방문객들이 시설을 이용하는 모습"
+          }
+        ],
+        "caption": "일본 여행 중 온천과 액티비티를 동시에 즐기고 싶다면? ♨️伊豆赤沢温泉郷이 2024년 4월 27일, 'プレジャーリゾート 伊豆赤沢温泉'으로 새롭게 오픈했습니다! ✨\n\n이번 리뉴얼로 글램핑 에리어와 이즈 최대 규모의 플레이 에리어를 포함한 4가지 테마의 종합 리조트로 변신했는데요. 👨‍👩‍👧‍👦 가족 모두가 만족할 만한 최고의 휴양지가 될 거예요!\n\n온천으로 유명한 곳이니만큼, 따뜻한 온천에서 힐링도 놓치지 마세요. 💖\n\n지금 바로 일본 온천 여행 계획에 추가해보세요! ✈️\n\n#일본온천 #이즈여행 #가족여행 #글램핑 #일본신상 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#이즈",
+          "#가족여행",
+          "#일본글램핑",
+          "#일본신상",
+          "#여행정보",
+          "#일본숙소",
+          "#온천여행",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#아이와일본여행",
+          "#이즈여행",
+          "#일본리조트"
+        ],
+        "alt_texts": [
+          "일본 이즈 지역의 아름다운 온천 마을 전경",
+          "다양한 액티비티 시설이 보이는 리조트 전경",
+          "감성적인 글램핑 텐트와 아이들이 뛰어놀 수 있는 넓은 놀이터",
+          "김이 모락모락 나는 일본 전통 온천탕",
+          "방문객들이 시설을 이용하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 아이 동반 가족 여행객, 일본 온천 및 액티비티 경험 희망자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 오픈 정보, 가족 모두를 만족시키는 구체적인 시설 정보 포함",
+      "image": {
+        "keyword": "Izu Akazawa Onsen, Glamping, Family Resort, Japan Travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Izu-Akazawa-Onsen,-Glamping,-Family-Resort,-Japan-Travel",
+        "pexels_url": "https://www.pexels.com/search/Izu%20Akazawa%20Onsen,%20Glamping,%20Family%20Resort,%20Japan%20Travel/"
+      }
+    },
     {
       "id": "plan_e9a62bd7",
       "created_at": "2026-04-28T00:06:57.971805",
@@ -923,160 +1077,6 @@
         "keyword": "JR East train pass, Japan travel, autumn leaves, calendar, Japanese Yen",
         "unsplash_url": "https://unsplash.com/s/photos/JR-East-train-pass,-Japan-travel,-autumn-leaves,-calendar,-Japanese-Yen",
         "pexels_url": "https://www.pexels.com/search/JR%20East%20train%20pass,%20Japan%20travel,%20autumn%20leaves,%20calendar,%20Japanese%20Yen/"
-      }
-    },
-    {
-      "id": "plan_6328afe0",
-      "created_at": "2026-04-24T23:55:57.598426",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "赤富士に和装ミッキーをデザイン。浮世絵・水墨画タッチのトートバッグやTシャツ、マグカップ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104558.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 캐릭터가 전통 일본 스타일로! 특별한 기념품 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "和(와)디즈니 굿즈 6/4 출시! 🌸",
-        "cards": [
-          {
-            "title": "전통 디자인",
-            "content": "도쿄 디즈니리조트에서 6월 4일부터 일본 전통 스타일의 굿즈를 새롭게 출시합니다. 미키와 미니가 일본 전통 의상을 입은 모습이 포인트입니다.",
-            "alt_text": "일본 전통 의상을 입은 미키와 미니 마우스 일러스트"
-          },
-          {
-            "title": "아트 스타일",
-            "content": "이번 굿즈는 마치 붓으로 그린 듯한 수묵화와 옛날 그림 같은 浮世絵(우키요에) 스타일로 디자인되어 특별한 감성을 더했습니다.",
-            "alt_text": "수묵화와 우키요에 스타일의 아트워크"
-          },
-          {
-            "title": "판매 상품",
-            "content": "토트백, 티셔츠, 머그컵 등 다양한 상품으로 만나볼 수 있으며, 일본 여행 기념품으로도 제격입니다.",
-            "alt_text": "다양한 상품 라인업 이미지 (토트백, 티셔츠, 머그컵 등)"
-          },
-          {
-            "title": "출시일",
-            "content": "2024년 6월 4일부터 도쿄 디즈니리조트 내 일부 샵에서 판매될 예정입니다.",
-            "alt_text": "달력에 6월 4일이 표시된 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "한정판으로 출시될 가능성이 높으니, 방문 계획이 있다면 서둘러 구매하는 것을 추천합니다. 현지에서도 인기가 많을 것으로 예상됩니다.",
-            "alt_text": "일본 디즈니랜드 또는 디즈니씨에서 쇼핑하는 사람들의 모습"
-          }
-        ],
-        "caption": "🌸 도쿄 디즈니리조트에서 특별한 굿즈가 찾아옵니다! 🌸\n\n6월 4일부터 일본 전통 스타일로 재해석된 미키와 미니 굿즈를 만나보세요! 👘\n\n수묵화 & 우키요에 감성을 담은 토트백, 티셔츠, 머그컵 등! 🖼️\n\n일본 여행 중 특별한 추억과 기념품을 만들고 싶다면 놓치지 마세요! ✨\n\n#일본여행 #플라잉재팬 #도쿄디즈니리조트 #디즈니굿즈 #미키마우스 #미니마우스 #일본한정 #여행기념품 #쇼핑정보 #디즈니콜라보 #우키요에 #수묵화 #여행꿀팁 #일본쇼핑 #6월여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니리조트",
-          "#디즈니굿즈",
-          "#미키마우스",
-          "#미니마우스",
-          "#일본한정",
-          "#여행기념품",
-          "#쇼핑정보",
-          "#디즈니콜라보",
-          "#우키요에",
-          "#수묵화",
-          "#여행꿀팁",
-          "#일본쇼핑",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "일본 전통 의상을 입은 미키와 미니 마우스 일러스트",
-          "수묵화와 우키요에 스타일의 아트워크",
-          "다양한 상품 라인업 이미지 (토트백, 티셔츠, 머그컵 등)",
-          "달력에 6월 4일이 표시된 이미지",
-          "일본 디즈니랜드 또는 디즈니씨에서 쇼핑하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 디즈니랜드/디즈니씨 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 한정판 굿즈 정보, 특별한 디자인, 실용적인 기념품 가능성",
-      "image": {
-        "keyword": "Japanese traditional Mickey Minnie merchandise Tokyo Disney Resort",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-traditional-Mickey-Minnie-merchandise-Tokyo-Disney-Resort",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20traditional%20Mickey%20Minnie%20merchandise%20Tokyo%20Disney%20Resort/"
-      }
-    },
-    {
-      "id": "plan_f754686d",
-      "created_at": "2026-04-24T23:55:50.291629",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "宝島社「もっと楽しむ！ 癒やされる！ 動物園＆水族館」。GW・夏に行きたい全国スポット、上野のパンダ特集も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104627.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "성수기 일본 여행! 가족과 함께 가기 좋은 동물원&수족관 특별 가이드북 출시!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵일본 동물원&수족관 꿀팁! 🐼",
-        "cards": [
-          {
-            "title": "신간 발매!",
-            "content": "일본 동물원과 수족관을 더욱 알차게 즐길 수 있는 특별 가이드북이 4월 30일에 발매되었습니다. 가족 여행 계획에 딱이에요!",
-            "alt_text": "일본 동물원&수족관 가이드북 표지 이미지"
-          },
-          {
-            "title": "다양한 정보",
-            "content": "전국 각지의 동물원과 수족관 정보를 담고 있으며, 특히 인기 만점인 우에노 동물원 판다 특집도 포함되어 있습니다.",
-            "alt_text": "가이드북 목차 또는 판다 사진"
-          },
-          {
-            "title": "추천 시즌",
-            "content": "골든위크(GW)와 여름 휴가 시즌에 맞춰 여행 계획을 세우는 분들에게 유용한 정보를 제공합니다.",
-            "alt_text": "일본의 푸른 하늘과 자연 풍경 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "이 책의 가격은 1650엔으로, 일본 현지 서점에서 구매하실 수 있습니다.",
-            "alt_text": "엔화 지폐 또는 동전 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "아이들과 함께하는 일본 여행 시, 방문할 동물원이나 수족관을 미리 조사하여 동선과 체험 프로그램을 계획하면 더욱 즐거운 추억을 만들 수 있습니다.",
-            "alt_text": "아이와 함께 일본 동물원을 즐기는 가족 모습"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 준비 중이신가요? 👨‍👩‍👧‍👦 5월 황금연휴와 여름 휴가 시즌, 아이들과 함께 즐거운 시간을 보낼 수 있는 일본 동물원&수족관 가이드북이 출시되었어요! 🐼 전국 명소 정보와 인기 동물원 판다 특집까지! 1650엔으로 알찬 여행 계획 세워보세요! ✨\n\n#일본여행 #플라잉재팬 #일본동물원 #일본수족관 #일본가볼만한곳 #가족여행 #일본정보 #골든위크 #여름휴가 #일본책 #여행준비 #아이와함께 #힐링여행 #일본자유여행 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본동물원",
-          "#일본수족관",
-          "#일본가볼만한곳",
-          "#가족여행",
-          "#일본정보",
-          "#골든위크",
-          "#여름휴가",
-          "#일본책",
-          "#여행준비",
-          "#아이와함께",
-          "#힐링여행",
-          "#일본자유여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본 동물원&수족관 가이드북 표지 이미지",
-          "가이드북 목차 또는 판다 사진",
-          "일본의 푸른 하늘과 자연 풍경 이미지",
-          "엔화 지폐 또는 동전 이미지",
-          "아이와 함께 일본 동물원을 즐기는 가족 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 가족 단위 여행객 / 최적 게시 시간: 오후 7시~9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 공유 및 저장, 가족 여행 계획 관련 댓글 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 가족 여행이라는 구체적인 타겟 설정",
-      "image": {
-        "keyword": "Japan zoo aquarium guide book family travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-zoo-aquarium-guide-book-family-travel",
-        "pexels_url": "https://www.pexels.com/search/Japan%20zoo%20aquarium%20guide%20book%20family%20travel/"
       }
     }
   ]
