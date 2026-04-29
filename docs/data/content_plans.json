@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-29T00:07:41.451250",
+  "last_updated": "2026-04-29T03:56:25.526601",
   "plans": [
+    {
+      "id": "plan_d2704e25",
+      "created_at": "2026-04-29T03:56:23.526413",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "IHGのホリデイ・イン エクスプレス、札幌すすきのに国内2軒目開業。駅徒歩5分に223室",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105325.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "삿포로 여행 계획 중이라면 주목! 7월, 스스키노에 새 호텔이 오픈합니다."
+      },
+      "content": {
+        "thumbnail_title": "삿포로 스스키노 신상 호텔 오픈! 🏨",
+        "cards": [
+          {
+            "title": "신규 호텔 오픈",
+            "content": "IHG 호텔즈 앤 리조트에서 '호리데이 인 익스프레스 삿포로 스스키노'를 7월에 개장합니다.",
+            "alt_text": "호리데이 인 익스프레스 삿포로 스스키노 호텔 외관 이미지"
+          },
+          {
+            "title": "위치",
+            "content": "삿포로 시내 중심가, 스스키노에 위치하며 지하철역에서 도보 5분 거리에 있어 접근성이 뛰어납니다.",
+            "alt_text": "삿포로 스스키노 거리 지도 이미지"
+          },
+          {
+            "title": "객실 규모",
+            "content": "총 223개의 객실을 갖추고 있어 넉넉한 숙박 공간을 제공할 예정입니다.",
+            "alt_text": "호텔 객실 내부 이미지"
+          },
+          {
+            "title": "삿포로 여행",
+            "content": "삿포로 스스키노는 맛집, 쇼핑, 즐길 거리가 풍부한 지역으로, 새로운 호텔 개장으로 더욱 편리한 여행이 가능해집니다.",
+            "alt_text": "삿포로 스스키노 밤거리 풍경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "7월 오픈 예정이니, 삿포로 여행 계획 시 새로운 숙소 옵션으로 고려해보세요. 예약은 오픈 후 빠르게 마감될 수 있습니다.",
+            "alt_text": "여행 계획 세우는 모습 일러스트"
+          }
+        ],
+        "caption": "삿포로 여행 계획 중이신가요? ✈️ 7월, 삿포로 스스키노에 '호리데이 인 익스프레스 삿포로 스스키노'가 새롭게 문을 엽니다! 지하철역 도보 5분 거리, 총 223개의 객실을 갖춘 이곳은 삿포로 시내를 즐기기에 최적의 위치입니다. 🍜🛍️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#삿포로",
+          "#삿포로여행",
+          "#스스키노",
+          "#일본숙소",
+          "#호텔",
+          "#신상호텔",
+          "#삿포로호텔",
+          "#일본정보",
+          "#여행정보",
+          "#홋카이도",
+          "#IHG",
+          "#호리데이인익스프레스",
+          "#7월여행"
+        ],
+        "alt_texts": [
+          "호리데이 인 익스프레스 삿포로 스스키노 호텔 외관 이미지",
+          "삿포로 스스키노 거리 지도 이미지",
+          "호텔 객실 내부 이미지",
+          "삿포로 스스키노 밤거리 풍경 이미지",
+          "여행 계획 세우는 모습 일러스트"
+        ]
+      },
+      "marketer_analysis": "타겟: 삿포로 여행 예정인 한국인 관광객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 삿포로 여행 정보에 대한 관심 증대, 숙소 예약 고려 / 이 콘텐츠의 강점: 신규 오픈 정보로 희소성 있으며, 삿포로 여행객에게 직접적인 숙소 정보를 제공",
+      "image": {
+        "keyword": "Sapporo Susukino hotel opening, Holiday Inn Express Sapporo Susukino, New hotel Japan, Hokkaido travel accommodation",
+        "unsplash_url": "https://unsplash.com/s/photos/Sapporo-Susukino-hotel-opening,-Holiday-Inn-Express-Sapporo-Susukino,-New-hotel-Japan,-Hokkaido-travel-accommodation",
+        "pexels_url": "https://www.pexels.com/search/Sapporo%20Susukino%20hotel%20opening,%20Holiday%20Inn%20Express%20Sapporo%20Susukino,%20New%20hotel%20Japan,%20Hokkaido%20travel%20accommodation/"
+      }
+    },
+    {
+      "id": "plan_55b0bf56",
+      "created_at": "2026-04-29T03:56:16.511379",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "表参道駅直結のホテル・商業施設が開発へ。地下3階～地上14階で2032年竣工予定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105341.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 오모테산도역 직결! 2032년 완공될 초역세권 복합시설 정보"
+      },
+      "content": {
+        "thumbnail_title": "✨오모테산도역 직결✨2032년 완공!",
+        "cards": [
+          {
+            "title": "오모테산도역 직결",
+            "content": "도쿄 메트로와 산케이 빌딩이 협력하여 오모테산도역과 바로 연결되는 복합시설 개발을 시작합니다. 2032년 완공을 목표로 하고 있습니다.",
+            "alt_text": "오모테산도역 인근 지도"
+          },
+          {
+            "title": "지하 3층 ~ 지상 14층",
+            "content": "지하 3층부터 지상 14층까지 총 17개 층으로 이루어진 대규모 복합시설이 들어설 예정입니다. 이곳에는 쇼핑, 식사, 숙박 등 다양한 시설이 포함될 것으로 예상됩니다.",
+            "alt_text": "복합시설 예상 조감도 (상상)"
+          },
+          {
+            "title": "2032년 완공 예정",
+            "content": "개발은 2032년도에 완공을 목표로 진행됩니다. 완공 시, 오모테산도 지역의 새로운 랜드마크가 될 것으로 기대됩니다.",
+            "alt_text": "공사 시작을 알리는 현수막"
+          },
+          {
+            "title": "쇼핑 & 다이닝 기대",
+            "content": "새로운 복합시설에는 최신 트렌드를 반영한 쇼핑 공간과 다양한 맛집, 카페 등이 입점할 것으로 예상됩니다. 오모테산도에서의 쇼핑과 식사가 더욱 편리하고 풍성해질 것입니다.",
+            "alt_text": "오모테산도 거리 쇼핑객들"
+          },
+          {
+            "title": "미리 체크하세요!",
+            "content": "아직 완공까지 시간이 많이 남았지만, 오모테산도 방문 계획이 있다면 참고해두시면 좋습니다. 완공 후에는 더욱 편리하고 다채로운 경험을 할 수 있을 거예요!",
+            "alt_text": "도쿄 오모테산도 거리 풍경"
+          }
+        ],
+        "caption": "✨도쿄 오모테산도역 직결! 2032년 완공 예정 복합시설 개발 소식✨\n\n도쿄 메트로와 산케이 빌딩이 오모테산도역과 바로 연결되는 대규모 복합시설 개발에 착수했습니다. 2032년 완공을 목표로 하는 이 시설은 지하 3층부터 지상 14층까지 들어서며, 쇼핑, 식사, 숙박 등 다양한 즐길 거리를 제공할 예정입니다.\n\n오모테산도 지역의 새로운 랜드마크가 될 이곳! 완공 후 방문 계획이 있다면 미리 알아두세요!\n\n#오모테산도 #도쿄여행 #일본신축 #복합시설 #2032년완공 #일본쇼핑 #일본맛집 #도쿄핫플 #플라잉재팬 #일본여행정보 #도쿄쇼핑 #일본건축 #오모테산도카페 #도쿄여행준비 #일본새소식",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오모테산도",
+          "#도쿄여행",
+          "#일본신축",
+          "#복합시설",
+          "#2032년완공",
+          "#일본쇼핑",
+          "#일본맛집",
+          "#도쿄핫플",
+          "#일본여행정보",
+          "#도쿄쇼핑",
+          "#일본건축",
+          "#오모테산도카페",
+          "#도쿄여행준비"
+        ],
+        "alt_texts": [
+          "오모테산도역 인근 지도",
+          "복합시설 예상 조감도 (상상)",
+          "공사 시작을 알리는 현수막",
+          "오모테산도 거리 쇼핑객들",
+          "도쿄 오모테산도 거리 풍경"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 오모테산도 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 기대감 표현 / 이 콘텐츠의 강점: 최신 개발 정보와 미래의 관광 편의성을 연결하여 흥미 유발",
+      "image": {
+        "keyword": "Omotesando station direct complex facility under development Tokyo",
+        "unsplash_url": "https://unsplash.com/s/photos/Omotesando-station-direct-complex-facility-under-development-Tokyo",
+        "pexels_url": "https://www.pexels.com/search/Omotesando%20station%20direct%20complex%20facility%20under%20development%20Tokyo/"
+      }
+    },
     {
       "id": "plan_b592f2bc",
       "created_at": "2026-04-29T00:07:39.451041",
@@ -923,160 +1077,6 @@
         "keyword": "JAL airplane window view, Japan city skyline, travel booking app screenshot, discount coupon, happy traveler",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane-window-view,-Japan-city-skyline,-travel-booking-app-screenshot,-discount-coupon,-happy-traveler",
         "pexels_url": "https://www.pexels.com/search/JAL%20airplane%20window%20view,%20Japan%20city%20skyline,%20travel%20booking%20app%20screenshot,%20discount%20coupon,%20happy%20traveler/"
-      }
-    },
-    {
-      "id": "plan_796fa3c7",
-      "created_at": "2026-04-25T23:55:18.154949",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、国内線航空券タイムセールはじまる。夏休み対象、座席指定制限など新運賃の変更点を解説",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104458.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 국내선 최대 75% 할인! 여름휴가 일본 여행 득템 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 초특가 득템 찬스!",
-        "cards": [
-          {
-            "title": "타임세일 기간",
-            "content": "ANA 국내선 항공권 타임세일이 4월 30일 23시 59분까지 진행됩니다. 서두르세요!",
-            "alt_text": "ANA 항공권 타임세일 기간 안내"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "할인 대상 탑승 기간은 5월 23일부터 8월 31일까지입니다. 여름휴가 계획에 딱 맞아요!",
-            "alt_text": "ANA 항공권 할인 탑승 기간 안내"
-          },
-          {
-            "title": "할인율",
-            "content": "이번 타임세일에서는 최대 75%까지 할인된 가격으로 항공권을 구매할 수 있습니다.",
-            "alt_text": "ANA 항공권 최대 75% 할인율 안내"
-          },
-          {
-            "title": "새로운 운임",
-            "content": "새로운 운임에는 좌석 지정 제한 등의 변경점이 있으니, 자세한 내용은 예약 시 확인해주세요.",
-            "alt_text": "ANA 항공권 새 운임 변경점 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "서둘러 예약할수록 좋은 좌석과 저렴한 가격을 얻을 확률이 높습니다. 지금 바로 ANA 홈페이지를 확인하세요!",
-            "alt_text": "ANA 항공권 예약 꿀팁 안내"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? ✈️ ANA 국내선 항공권 타임세일이 4월 30일까지 진행됩니다! 최대 75% 할인된 가격으로 5월 23일부터 8월 31일까지 탑승 가능한 항공권을 득템할 기회! 여름휴가 일본 여행, ANA와 함께 알뜰하게 다녀오세요! 😉\n\n지금 바로 ANA 홈페이지에서 특별 할인가를 확인하세요! ➡️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA항공권",
-          "#일본항공권",
-          "#항공권할인",
-          "#여름휴가",
-          "#일본국내선",
-          "#여행꿀팁",
-          "#ANA",
-          "#일본교통",
-          "#여행정보",
-          "#알뜰여행",
-          "#일본",
-          "#타임세일",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "ANA 항공권 타임세일 기간 안내",
-          "ANA 항공권 할인 탑승 기간 안내",
-          "ANA 항공권 최대 75% 할인율 안내",
-          "ANA 항공권 새 운임 변경점 안내",
-          "ANA 항공권 예약 꿀팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 기간 명시로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "ANA domestic flight sale, Japanese summer vacation, discount airfare Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-domestic-flight-sale,-Japanese-summer-vacation,-discount-airfare-Japan",
-        "pexels_url": "https://www.pexels.com/search/ANA%20domestic%20flight%20sale,%20Japanese%20summer%20vacation,%20discount%20airfare%20Japan/"
-      }
-    },
-    {
-      "id": "plan_805f21f4",
-      "created_at": "2026-04-25T23:55:11.668735",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スティッチ尽くしの新作グッズ、カチューシャやショルダーバッグほか身につけアイテム中心",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104550.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후들 주목! 6월 4일 스티치 신상 굿즈 쏟아진다!"
-      },
-      "content": {
-        "thumbnail_title": "✨6/4 스티치 신상 굿즈 대공개✨",
-        "cards": [
-          {
-            "title": "스티치 & 엔젤",
-            "content": "도쿄 디즈니리조트에서 영화 '리로&스티치'의 인기 캐릭터 스티치와 엔젤을 테마로 한 신규 굿즈를 2024년 6월 4일 출시합니다.",
-            "alt_text": "스티치와 엔젤 캐릭터 일러스트"
-          },
-          {
-            "title": "다양한 아이템",
-            "content": "이번 신상 굿즈는 귀여운 헤어밴드와 숄더백을 포함하여 일상에서 착용하기 좋은 다양한 아이템들로 구성될 예정입니다.",
-            "alt_text": "스티치 헤어밴드와 숄더백 이미지"
-          },
-          {
-            "title": "디즈니 덕후 필수템",
-            "content": "스티치 팬이라면 놓칠 수 없는 이번 신상 굿즈는 디즈니랜드와 디즈니씨에서 만나볼 수 있으며, 인기 상품은 조기 품절될 수 있습니다.",
-            "alt_text": "스티치 굿즈 진열 모습"
-          },
-          {
-            "title": "여행 쇼핑 리스트",
-            "content": "일본 여행 중 디즈니 방문 계획이 있다면, 6월 4일 출시되는 스티치 신상 굿즈를 쇼핑 리스트에 추가해보세요!",
-            "alt_text": "다양한 스티치 굿즈 모음 사진"
-          },
-          {
-            "title": "방문 전 확인!",
-            "content": "정확한 판매 매장 및 재고 현황은 방문 전 도쿄 디즈니리조트 공식 홈페이지를 통해 확인하는 것이 좋습니다. (공식 홈페이지는 직접 검색 필요)",
-            "alt_text": "도쿄 디즈니리조트 지도 이미지"
-          }
-        ],
-        "caption": "💙스티치 덕후들 심쿵 준비!💙\n\n6월 4일, 도쿄 디즈니리조트에서 스티치와 엔젤 신상 굿즈가 쏟아져 나와요!\n\n헤어밴드, 숄더백 등 귀여움 가득한 아이템들로 여행의 추억을 더해보세요✨\n\n#스티치 #디즈니굿즈 #일본디즈니",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#스티치굿즈",
-          "#디즈니신상",
-          "#디즈니쇼핑",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#6월여행",
-          "#일본쇼핑",
-          "#캐릭터굿즈",
-          "#도쿄여행",
-          "#디즈니덕후",
-          "#스티치사랑해"
-        ],
-        "alt_texts": [
-          "스티치와 엔젤 캐릭터 일러스트",
-          "스티치 헤어밴드와 숄더백 이미지",
-          "스티치 굿즈 진열 모습",
-          "다양한 스티치 굿즈 모음 사진",
-          "도쿄 디즈니리조트 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 디즈니랜드/디즈니씨 방문 예정인 스티치 팬, 굿즈 컬렉터 / 최적 게시 시간: 여행 전 주말 오후 2시~4시 / 기대 반응: 높은 관심과 공유, '나도 사야지!' 댓글 / 이 콘텐츠의 강점: 시기 적절한 신상 정보, 구체적인 출시일과 상품 종류 명시",
-      "image": {
-        "keyword": "stitch, angel, disney resort, new merchandise, japan trip",
-        "unsplash_url": "https://unsplash.com/s/photos/stitch,-angel,-disney-resort,-new-merchandise,-japan-trip",
-        "pexels_url": "https://www.pexels.com/search/stitch,%20angel,%20disney%20resort,%20new%20merchandise,%20japan%20trip/"
       }
     }
   ]
