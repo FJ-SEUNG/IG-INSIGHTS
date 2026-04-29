@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-28T03:59:09.706697",
+  "last_updated": "2026-04-29T00:07:41.451250",
   "plans": [
+    {
+      "id": "plan_b592f2bc",
+      "created_at": "2026-04-29T00:07:39.451041",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ジンエアー、釜山行き航空券が4000円引きになるクーポン配布",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105437.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "부산-일본 노선 항공권 최대 4,000엔 할인 쿠폰으로 일본 여행 경비 절약 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 4천엔 할인! ✈️",
+        "cards": [
+          {
+            "title": "진에어 특가",
+            "content": "진에어가 일본 출발 한국 부산행 항공권에 대해 최대 4,000엔 할인 쿠폰을 제공합니다. 곧 다가올 일본 여행을 계획 중이라면 꼭 확인하세요!",
+            "alt_text": "진에어 항공기 출발 준비 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "이번 프로모션을 통해 부산행 항공권을 구매하시면 최대 4,000엔까지 즉시 할인받을 수 있습니다. 일본 여행의 시작을 알뜰하게 준비해 보세요.",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "프로모션 대상",
+            "content": "본 프로모션은 일본에서 출발하여 한국 부산으로 향하는 항공편에 적용됩니다. 자세한 내용은 진에어 공식 채널을 확인해 보세요.",
+            "alt_text": "일본 지도와 부산 위치 표시 이미지"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "할인 쿠폰을 활용하여 항공권 가격을 낮추고, 절약된 예산으로 일본 현지 맛집 탐방이나 쇼핑을 더욱 풍성하게 즐기세요!",
+            "alt_text": "여행 가방과 일본 관광지 엽서 이미지"
+          },
+          {
+            "title": "이용 시 유의사항",
+            "content": "쿠폰 사용 조건 및 유효 기간을 반드시 확인하시고, 예약 시 쿠폰 적용 여부를 꼼꼼히 체크하세요. 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "체크리스트와 펜 이미지"
+          }
+        ],
+        "caption": "🚨 일본 여행 필수 정보! 🚨\n\n진에어가 일본 출발 부산행 항공권에 대해 최대 4,000엔 할인 쿠폰을 제공한다는 소식이에요! ✈️\n\n곧 있을 일본 여행, 항공권 특가로 더욱 알뜰하게 준비해 보세요. 💖\n\n#진에어 #일본여행 #부산행 #항공권할인 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#진에어",
+          "#일본항공권",
+          "#부산여행",
+          "#여행정보",
+          "#일본할인",
+          "#해외여행",
+          "#여행스타그램",
+          "#여행계획",
+          "#알뜰여행",
+          "#일본",
+          "#항공권특가",
+          "#여행팁",
+          "#일본가자"
+        ],
+        "alt_texts": [
+          "진에어 항공기 출발 준비 이미지",
+          "할인 쿠폰 이미지",
+          "일본 지도와 부산 위치 표시 이미지",
+          "여행 가방과 일본 관광지 엽서 이미지",
+          "체크리스트와 펜 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 높은 클릭률 및 정보 공유 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제시하여 높은 관심 유도",
+      "image": {
+        "keyword": "jin air, japan to busan, flight ticket discount, travel coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/jin-air,-japan-to-busan,-flight-ticket-discount,-travel-coupon",
+        "pexels_url": "https://www.pexels.com/search/jin%20air,%20japan%20to%20busan,%20flight%20ticket%20discount,%20travel%20coupon/"
+      }
+    },
+    {
+      "id": "plan_57e1279e",
+      "created_at": "2026-04-29T00:07:32.338759",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、GWセール第2弾。UVカットパーカとUNIQLO:C ボクシーニットTが2日間限定で1000円引き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105496.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 최대 쇼핑 시즌! 유니클로 1000엔 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "유니클로 1000엔 할인! 🇯🇵",
+        "cards": [
+          {
+            "title": "GW 세일 2탄!",
+            "content": "일본 유니클로에서 골든위크(GW) 세일 2탄이 시작됩니다! 4월 26일부터 5월 6일까지 진행되는 이번 세일에서 특별한 할인을 만나보세요.",
+            "alt_text": "유니클로 일본 골든위크 세일 안내 이미지"
+          },
+          {
+            "title": "인기 상품 할인!",
+            "content": "인기 상품인 UV 컷 파카와 UNIQLO:C 보더리스 니트 티가 2일간 한정으로 1000엔 할인됩니다. 4월 26일부터 4월 27일까지 이 특별한 기회를 꼭 잡으세요!",
+            "alt_text": "유니클로 UV 컷 파카 및 니트 티 할인 이미지"
+          },
+          {
+            "title": "2일간 한정!",
+            "content": "UV 컷 파카와 보더리스 니트 티는 단 2일간만 1000엔 할인된 가격으로 구매 가능합니다. 놓치기 쉬우니 방문 계획이 있다면 서두르세요!",
+            "alt_text": "유니클로 1000엔 할인 기간 안내 이미지"
+          },
+          {
+            "title": "합리적인 쇼핑!",
+            "content": "이번 GW 세일은 '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク'라는 슬로건 아래 진행됩니다. 일본 여행 중 합리적인 가격으로 쇼핑할 수 있는 좋은 기회입니다.",
+            "alt_text": "유니클로 GW 세일 슬로건 이미지"
+          },
+          {
+            "title": "쇼핑 꿀팁!",
+            "content": "할인 기간을 잘 확인하여 원하는 상품을 최적의 가격으로 구매하세요. 특히 2일 한정 상품은 품절될 수 있으니 서둘러 방문하는 것을 추천합니다.",
+            "alt_text": "유니클로 매장 쇼핑 모습 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 코스! 🇯🇵 유니클로 GW 세일 2탄이 시작됩니다!\n\n✨ UV 컷 파카 & UNIQLO:C 니트 티 1000엔 할인 (4/26~4/27, 2일 한정!)\n✨ 다양한 인기 상품 할인 혜택!\n\n일본 여행 중 득템 찬스, 놓치지 마세요! 😉\n\n#일본여행 #유니클로 #GW세일 #일본쇼핑 #득템찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#일본유니클로",
+          "#GW세일",
+          "#골든위크",
+          "#일본쇼핑",
+          "#할인정보",
+          "#여행꿀팁",
+          "#일본직구",
+          "#패션",
+          "#데일리룩",
+          "#쇼핑",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "유니클로 일본 골든위크 세일 안내 이미지",
+          "유니클로 UV 컷 파카 및 니트 티 할인 이미지",
+          "유니클로 1000엔 할인 기간 안내 이미지",
+          "유니클로 GW 세일 슬로건 이미지",
+          "유니클로 매장 쇼핑 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 할인 정보에 대한 높은 관심 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 구체적인 할인 상품 및 기간 명시",
+      "image": {
+        "keyword": "Uniqlo Japan GW Sale, Uniqlo UV Cut Parka, Uniqlo U collection, Japanese shopping discount, Golden Week sale event",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Japan-GW-Sale,-Uniqlo-UV-Cut-Parka,-Uniqlo-U-collection,-Japanese-shopping-discount,-Golden-Week-sale-event",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Japan%20GW%20Sale,%20Uniqlo%20UV%20Cut%20Parka,%20Uniqlo%20U%20collection,%20Japanese%20shopping%20discount,%20Golden%20Week%20sale%20event/"
+      }
+    },
     {
       "id": "plan_67ac60db",
       "created_at": "2026-04-28T03:59:07.706524",
@@ -923,160 +1077,6 @@
         "keyword": "stitch, angel, disney resort, new merchandise, japan trip",
         "unsplash_url": "https://unsplash.com/s/photos/stitch,-angel,-disney-resort,-new-merchandise,-japan-trip",
         "pexels_url": "https://www.pexels.com/search/stitch,%20angel,%20disney%20resort,%20new%20merchandise,%20japan%20trip/"
-      }
-    },
-    {
-      "id": "plan_beb6bd32",
-      "created_at": "2026-04-25T03:27:13.245495",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "関西国際空港T1に、英国パビリオンの「赤い電話ボックス」　大阪・関西万博会場から移設",
-        "url": "https://www.traicy.com/posts/20260424366540/",
-        "date": "Fri, 24 Apr 2026 08:59:34 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "간사이 공항에서 만나는 특별한 추억! 2025 오사카-간사이 엑스포의 흔적을 직접 만나보세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️간사이 공항의 영국 🇬🇧 빨간 전화부스!",
-        "cards": [
-          {
-            "title": "영국 빨간 전화부스",
-            "content": "2025 오사카-간사이 엑스포에서 사용되었던 영국 파빌리온의 '빨간 전화부스'가 간사이 국제공항 제1터미널에 설치되었습니다.",
-            "alt_text": "간사이 국제공항 제1터미널에 설치된 빨간색 영국 전화부스"
-          },
-          {
-            "title": "엑스포 유산 계승",
-            "content": "이 전화부스는 엑스포 기간 동안 각국의 문화와 지속가능성에 대한 메시지를 전달했던 상징으로, 엑스포 이후에도 공항을 통해 그 의미를 이어가기 위해 마련되었습니다.",
-            "alt_text": "빨간 전화부스 앞에서 사진을 찍고 있는 여행객"
-          },
-          {
-            "title": "특별한 포토존",
-            "content": "여행의 시작과 끝을 책임지는 간사이 공항에서, 엑스포의 특별한 유산을 배경으로 잊지 못할 인생샷을 남겨보세요!",
-            "alt_text": "빨간 전화부스를 배경으로 웃고 있는 한국인 여행객"
-          },
-          {
-            "title": "공항 이용 팁",
-            "content": "간사이 국제공항 제1터미널 도착층에 위치하고 있으니, 출국 또는 입국 시 잠시 시간을 내어 방문해보세요.",
-            "alt_text": "간사이 국제공항 제1터미널 내부 안내 지도"
-          },
-          {
-            "title": "방문 시 유의사항",
-            "content": "많은 여행객들이 찾는 인기 스팟이니, 여유로운 시간대에 방문하거나 대기 시간을 고려하는 것이 좋습니다. 엑스포의 의미를 되새기며 즐겨주세요!",
-            "alt_text": "빨간 전화부스 앞에서 대기하고 있는 여행객들"
-          }
-        ],
-        "caption": "✨ 한국에서 일본으로 떠나는 당신을 위한 특별한 소식! \n✈️ 간사이 국제공항 제1터미널에 2025 오사카-간사이 엑스포의 영국 파빌리온 '빨간 전화부스'가 설치되었습니다! \n🇬🇧 엑스포의 메시지를 공항에서 이어가는 특별한 공간에서 인생샷 남기고, 여행의 설렘을 더해보세요! \n📍 간사이 공항 이용 시 꼭 들러야 할 필수 코스! \n#일본여행 #간사이공항 #오사카여행 #엑스포 #빨간전화부스 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#간사이공항",
-          "#오사카여행",
-          "#간사이국제공항",
-          "#오사카",
-          "#일본",
-          "#여행정보",
-          "#여행꿀팁",
-          "#공항",
-          "#포토존",
-          "#인생샷",
-          "#엑스포",
-          "#빨간전화부스",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "간사이 국제공항 제1터미널에 설치된 빨간색 영국 전화부스",
-          "빨간 전화부스 앞에서 사진을 찍고 있는 여행객",
-          "빨간 전화부스를 배경으로 웃고 있는 한국인 여행객",
-          "간사이 국제공항 제1터미널 내부 안내 지도",
-          "빨간 전화부스 앞에서 대기하고 있는 여행객들"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 간사이 지역 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 공항 도착/출발 전후 방문 인증샷, 정보 공유 / 이 콘텐츠의 강점: 실제 공항에 설치된 실물 콘텐츠로 여행객의 즉각적인 관심 유발, 특별한 경험 제공",
-      "image": {
-        "keyword": "Kansai International Airport T1, red telephone box, UK pavilion, Osaka-Kansai Expo legacy, travel photo spot",
-        "unsplash_url": "https://unsplash.com/s/photos/Kansai-International-Airport-T1,-red-telephone-box,-UK-pavilion,-Osaka-Kansai-Expo-legacy,-travel-photo-spot",
-        "pexels_url": "https://www.pexels.com/search/Kansai%20International%20Airport%20T1,%20red%20telephone%20box,%20UK%20pavilion,%20Osaka-Kansai%20Expo%20legacy,%20travel%20photo%20spot/"
-      }
-    },
-    {
-      "id": "plan_fe309dd3",
-      "created_at": "2026-04-25T03:27:04.454830",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR、連続5日間乗り放題「大人の休日倶楽部パス」2026年度も発売決定。東日本は値上げ、第2回発売分は11月→8月に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104482.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 동일본, 5일간 무제한 탑승 가능한 '대인의 휴일 클럽 패스' 2026년에도 출시 확정! 이용 기간 변경 및 동향 체크 필수!"
-      },
-      "content": {
-        "thumbnail_title": "JR 5일 무제한 패스 🎫",
-        "cards": [
-          {
-            "title": "패스 출시",
-            "content": "JR 동일본에서 '대인의 휴일 클럽 패스'를 2026년에도 계속 판매합니다. 만 50세 이상 회원 대상이며, 5일 동안 JR 동일본 지역 열차를 무제한으로 이용할 수 있습니다.",
-            "alt_text": "JR 동일본 열차 노선도 이미지"
-          },
-          {
-            "title": "이용 기간 변경",
-            "content": "2026년도에는 판매 및 이용 기간이 총 3회로 나뉩니다. 특히 제2회차 이용 기간이 기존 11월 말~12월 초에서 8월 말~9월 초로 대폭 앞당겨졌으니 주의하세요.",
-            "alt_text": "달력에 8월, 9월, 11월, 12월 표시된 이미지"
-          },
-          {
-            "title": "동일본 가격",
-            "content": "올해부터 JR 동일본 구간의 '대인의 휴일 클럽 패스' 가격이 인상되었습니다. 정확한 가격 변동 사항은 JR 동일본 공식 발표를 확인해야 합니다.",
-            "alt_text": "일본 엔화 지폐 이미지"
-          },
-          {
-            "title": "이용 대상",
-            "content": "이 패스는 '대인의 휴일 클럽' 회원만 구매 및 이용 가능합니다. 여행 전 회원 가입 여부를 확인하시거나, 미리 가입하는 것이 좋습니다.",
-            "alt_text": "50대 이상으로 보이는 커플이 기차역에서 웃는 모습"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "이용 기간 변경으로 인해 여름 휴가 시즌(8월 말~9월 초)에도 패스 이용이 가능해졌습니다. 단풍 시즌(10월~11월) 등 다른 기간 이용 시에도 변경된 일정을 꼭 확인하세요.",
-            "alt_text": "일본의 아름다운 가을 단풍 이미지"
-          }
-        ],
-        "caption": "✨JR 동일본 '대인의 휴일 클럽 패스' 2026년에도 출시!✨\n\n만 50세 이상이라면 주목! JR 동일본 지역을 5일간 무제한으로 누빌 수 있는 '대인의 휴일 클럽 패스'가 2026년에도 계속 판매됩니다.\n\n✅ 2026년도 판매/이용 기간 총 3회\n✅ 제2회차 이용 기간: 8월 말 ~ 9월 초로 변경 (기존 11월 말~12월 초)\n✅ JR 동일본 구간 가격 인상\n\n여름 휴가 시즌에도 활용 가능해진 패스! 하지만 이용 기간 변경과 가격 인상 소식에 미리 대비하세요.\n\n#플라잉재팬 #일본여행 #JR동일본 #대인의휴일클럽패스 #일본교통 #일본패스 #여행정보 #일본자유여행 #2026년여행 #일본기차여행 #가성비여행 #여행꿀팁 #일본여행준비 #일본여행정보 #일본철도",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#대인의휴일클럽패스",
-          "#일본교통",
-          "#일본패스",
-          "#여행정보",
-          "#일본자유여행",
-          "#2026년여행",
-          "#일본기차여행",
-          "#가성비여행",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#일본여행정보",
-          "#일본철도"
-        ],
-        "alt_texts": [
-          "JR 동일본 열차 노선도 이미지",
-          "달력에 8월, 9월, 11월, 12월 표시된 이미지",
-          "일본 엔화 지폐 이미지",
-          "50대 이상으로 보이는 커플이 기차역에서 웃는 모습",
-          "일본의 아름다운 가을 단풍 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 50대 이상 일본 여행 예정자, JR 동일본 지역 여행 계획자 / 최적 게시 시간: 저녁 8시 ~ 10시 / 기대 반응: 패스 정보에 대한 관심 및 문의 증가 / 이 콘텐츠의 강점: 시의성 있는 패스 정보와 함께 이용 기간 변경이라는 구체적이고 중요한 정보를 명확하게 전달.",
-      "image": {
-        "keyword": "JR East train pass, Japan travel, autumn leaves, calendar, Japanese Yen",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-East-train-pass,-Japan-travel,-autumn-leaves,-calendar,-Japanese-Yen",
-        "pexels_url": "https://www.pexels.com/search/JR%20East%20train%20pass,%20Japan%20travel,%20autumn%20leaves,%20calendar,%20Japanese%20Yen/"
       }
     }
   ]
