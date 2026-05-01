@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-04-30T03:57:14.543681",
+  "last_updated": "2026-05-01T00:05:52.761103",
   "plans": [
+    {
+      "id": "plan_810da8fc",
+      "created_at": "2026-05-01T00:05:50.760794",
+      "category": "hotplace",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、「モンチッチ」UTは本日発売！　昭和～平成のレトロかわいい全8種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105728.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "귀여운 캐릭터 굿즈를 저렴하게 득템할 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨유니클로x몽치치 UT 출시!✨",
+        "cards": [
+          {
+            "title": "오늘 출시!",
+            "content": "유니클로에서 인기 캐릭터 '몽치치'와 협업한 새로운 UT 컬렉션이 5월 1일 오늘 출시되었습니다! 昭和부터 平成 시대까지 추억을 담은 레트로 감성의 귀여운 디자인을 만나보세요.",
+            "alt_text": "유니클로와 몽치치가 협업한 UT 컬렉션 출시를 알리는 이미지"
+          },
+          {
+            "title": "총 8종 디자인",
+            "content": "이번 컬렉션은 총 8가지의 다양한 몽치치 디자인으로 구성되어 있습니다. 추억의 캐릭터를 좋아하는 분들에게는 놓칠 수 없는 기회입니다.",
+            "alt_text": "8가지 몽치치 UT 디자인 중 일부를 보여주는 이미지"
+          },
+          {
+            "title": "레트로 감성 UP!",
+            "content": "昭和와 平成 시대를 추억하는 분들에게는 더욱 특별한 아이템이 될 것입니다. 귀여움과 레트로 감성을 동시에 잡은 UT로 개성있는 스타일을 연출해보세요.",
+            "alt_text": "레트로한 분위기의 몽치치 캐릭터 이미지"
+          },
+          {
+            "title": "일본에서 득템!",
+            "content": "일본 유니클로 매장에서만 구매 가능하며, 여행 중 쇼핑 아이템으로 추천합니다. 가격 부담 없이 귀여운 굿즈를 득템할 수 있습니다.",
+            "alt_text": "일본 유니클로 매장 내부 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 마음에 드는 디자인이 있다면 서둘러 방문하시는 것을 추천합니다. 여행 일정 중 가까운 유니클로 매장을 미리 확인해보세요.",
+            "alt_text": "유니클로 쇼핑백 이미지"
+          }
+        ],
+        "caption": "💖오늘부터 일본 유니클로에서 몽치치 UT 컬렉션 만나요!💖\n\n昭和부터 平成까지, 추억의 캐릭터 몽치치가 유니클로 UT로 돌아왔어요!\n총 8가지의 귀여운 레트로 디자인으로 출시되어 취향대로 고르는 재미가 쏠쏠!\n여행 중 특별한 기념품이나 나만의 개성있는 스타일을 완성하고 싶다면, 지금 바로 일본 유니클로 매장으로 달려가세요!\n\n✅ 5월 1일 출시!\n✅ 총 8가지 디자인!\n✅ 일본 유니클로에서 만나보세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#몽치치",
+          "#UT",
+          "#일본쇼핑",
+          "#캐릭터굿즈",
+          "#레트로",
+          "#여행준비",
+          "#오늘의신상",
+          "#득템찬스",
+          "#일본쇼핑리스트",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#패션스타그램"
+        ],
+        "alt_texts": [
+          "유니클로와 몽치치가 협업한 UT 컬렉션 출시를 알리는 이미지",
+          "8가지 몽치치 UT 디자인 중 일부를 보여주는 이미지",
+          "레트로한 분위기의 몽치치 캐릭터 이미지",
+          "일본 유니클로 매장 내부 이미지",
+          "유니클로 쇼핑백 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 7시 - 9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 시기적절한 신상품 정보와 합리적인 가격의 쇼핑 아이템 제안",
+      "image": {
+        "keyword": "Uniqlo, Monchhichi, UT collection, Japan, collaboration, character goods, retro, t-shirt",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Monchhichi,-UT-collection,-Japan,-collaboration,-character-goods,-retro,-t-shirt",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Monchhichi,%20UT%20collection,%20Japan,%20collaboration,%20character%20goods,%20retro,%20t-shirt/"
+      }
+    },
+    {
+      "id": "plan_589a28ec",
+      "created_at": "2026-05-01T00:05:41.716734",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "そのスーツケース大丈夫？　新幹線の「特大荷物」持ち込みは専用スペースつき座席の予約必須",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105735.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센 이용 시 캐리어 보관 공간 예약 필수! 놓치면 곤란해요 😱"
+      },
+      "content": {
+        "thumbnail_title": "🚄신칸센 캐리어 🧳필수 예약!",
+        "cards": [
+          {
+            "title": "특대 짐 규정",
+            "content": "도카이도, 산요, 큐슈, 니시큐슈 신칸센에서 3변의 합이 160cm 초과하는 '특대 짐'은 반드시 '특대 짐 공간 부착 좌석' 사전 예약이 필수예요.",
+            "alt_text": "신칸센 좌석 옆에 마련된 특대형 짐 보관 공간 이미지"
+          },
+          {
+            "title": "예약 필수 구간",
+            "content": "도카이도, 산요, 큐슈, 니시큐슈 신칸센 구간에서만 적용됩니다. 이 구간을 이용하신다면 미리 꼭 확인하세요!",
+            "alt_text": "일본 신칸센 노선도 이미지 (해당 구간 강조)"
+          },
+          {
+            "title": "미예약 시 불이익",
+            "content": "사전 예약 없이 특대 짐을 가지고 탑승할 경우, 차내에서 짐을 다른 곳으로 옮기거나 추가 요금을 지불해야 할 수 있어요.",
+            "alt_text": "신칸센 좌석에 큰 캐리어를 둔 승객 이미지 (난처한 표정)"
+          },
+          {
+            "title": "예약 방법",
+            "content": "JR 공식 웹사이트나 역 창구에서 예약 가능하며, 예약 시 '특대 짐 공간 부착 좌석'을 선택해야 합니다. (예약 수수료는 별도)",
+            "alt_text": "JR 예약 웹사이트 화면 캡쳐 (특대 짐 좌석 선택 부분)"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "일본 연휴 기간(골든위크 등)에는 특히 좌석이 빨리 마감될 수 있으니, 여행 계획 시 미리 예약하는 것을 강력 추천해요!",
+            "alt_text": "골든위크 일본 여행 관련 이미지 (인파 묘사)"
+          }
+        ],
+        "caption": "일본 신칸센 이용 예정인 분들 주목! 🚄 캐리어 크기가 크다면 '특대 짐 공간 부착 좌석' 사전 예약이 필수라는 사실, 알고 계셨나요? 😱\n\n도카이도, 산요, 큐슈, 니시큐슈 신칸센 구간에서 3변의 합이 160cm를 초과하는 짐은 반드시 예약해야 해요. 예약 없이 탑승 시 추가 요금이나 짐 이동이 필요할 수 있으니, 여행 계획 시 꼭 미리 예약하세요! ✈️\n\n#일본여행 #신칸센 #캐리어 #짐보관 #필수정보 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본교통",
+          "#여행정보",
+          "#캐리어",
+          "#짐보관",
+          "#일본자유여행",
+          "#여행필수",
+          "#일본여행준비",
+          "#알아두면좋은",
+          "#일본",
+          "#여행팁",
+          "#골든위크",
+          "#JR패스"
+        ],
+        "alt_texts": [
+          "신칸센 좌석 옆에 마련된 특대형 짐 보관 공간 이미지",
+          "일본 신칸센 노선도 이미지 (해당 구간 강조)",
+          "신칸센 좌석에 큰 캐리어를 둔 승객 이미지 (난처한 표정)",
+          "JR 예약 웹사이트 화면 캡쳐 (특대 짐 좌석 선택 부분)",
+          "골든위크 일본 여행 관련 이미지 (인파 묘사)"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 9시~11시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 규정 정보와 사전 예약의 중요성을 명확히 전달하여 여행 중 발생할 수 있는 불편함을 예방",
+      "image": {
+        "keyword": "Shinkansen, large luggage, reserved seat, Japan travel, train",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-large-luggage,-reserved-seat,-Japan-travel,-train",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20large%20luggage,%20reserved%20seat,%20Japan%20travel,%20train/"
+      }
+    },
     {
       "id": "plan_272b5727",
       "created_at": "2026-04-30T03:57:12.543498",
@@ -923,160 +1077,6 @@
         "keyword": "Mount Fuji Yoshida Trail reservation start",
         "unsplash_url": "https://unsplash.com/s/photos/Mount-Fuji-Yoshida-Trail-reservation-start",
         "pexels_url": "https://www.pexels.com/search/Mount%20Fuji%20Yoshida%20Trail%20reservation%20start/"
-      }
-    },
-    {
-      "id": "plan_6b736c96",
-      "created_at": "2026-04-27T03:54:36.645211",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "TENTIAL、東北初進出で仙台PARCOにオープン。疲労回復ウェア「BAKUNE」など",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104637.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 피로 회복 꿀템, 센다이에 첫 상륙!"
-      },
-      "content": {
-        "thumbnail_title": "센다이 쇼핑 꿀템 득템! ✨",
-        "cards": [
-          {
-            "title": "센다이 첫 상륙!",
-            "content": "일본 여행 중 피로 회복에 도움 되는 'BAKUNE' 웨어가 센다이 파르코에 상륙했습니다. 4월 24일, 센다이 파르코 1 4층에 TENTIAL 센다이 파르코 매장이 오픈했어요.",
-            "alt_text": "센다이 파르코 건물 외관 사진"
-          },
-          {
-            "title": "피로 회복 웨어",
-            "content": "'BAKUNE' 웨어는 편안한 착용감과 함께 숙면을 유도하고 피로 회복을 돕는 기능성 의류입니다. 일본 여행 중 쌓인 피로를 풀어보세요.",
-            "alt_text": "BAKUNE 웨어 착용 모습 사진"
-          },
-          {
-            "title": "센다이 파르코 위치",
-            "content": "매장 주소는宮城県仙台市青葉区中央1-2-3 仙台PARCO1 4층입니다. 센다이역에서 도보로 이동 가능해요.",
-            "alt_text": "센다이 파르코 내부 매장 사진"
-          },
-          {
-            "title": "쇼핑 팁!",
-            "content": "TENTIAL 센다이 파르코 매장에서는 다양한 사이즈와 디자인의 'BAKUNE' 웨어를 직접 만나볼 수 있습니다. 여행 기념품으로도 추천해요.",
-            "alt_text": "매장에서 판매 중인 다양한 BAKUNE 웨어 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "구매 후 바로 착용하고 여행을 즐겨보세요! 특히 장시간 이동이나 활동 후 숙면을 도와 다음 날 여행을 더욱 상쾌하게 만들어 줄 거예요.",
-            "alt_text": "여행 중 BAKUNE 웨어를 착용하고 편안하게 휴식을 취하는 모습 사진"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 중 피로 회복템 득템 찬스! \n\n센다이 파르코에 TENTIAL 매장이 오픈했어요! \n\n✅ 'BAKUNE' 피로 회복 웨어 \n✅ 4월 24일 오픈 \n✅ 센다이 파르코 1 4층 \n\n일본 여행 중 쌓인 피로, 'BAKUNE' 웨어로 시원하게 풀어봐요! \n\n#일본여행 #센다이 #센다이여행 #일본쇼핑 #피로회복 #BAKUNE #TENTIAL #센다이파르코 #일본쇼핑리스트 #여행꿀템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#센다이",
-          "#센다이여행",
-          "#일본쇼핑",
-          "#피로회복",
-          "#BAKUNE",
-          "#TENTIAL",
-          "#센다이파르코",
-          "#일본쇼핑리스트",
-          "#여행꿀템",
-          "#일본자유여행",
-          "#일본정보",
-          "#일본생활",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "센다이 파르코 건물 외관 사진",
-          "BAKUNE 웨어 착용 모습 사진",
-          "센다이 파르코 내부 매장 사진",
-          "매장에서 판매 중인 다양한 BAKUNE 웨어 사진",
-          "여행 중 BAKUNE 웨어를 착용하고 편안하게 휴식을 취하는 모습 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 센다이 지역을 방문하는 한국인 여행자 / 최적 게시 시간: 오후 1시 ~ 3시 / 기대 반응: 쇼핑 정보에 대한 높은 관심, 매장 방문 의사 증가 / 이 콘텐츠의 강점: 여행 중 실질적인 피로 회복 도움을 줄 수 있는 아이템 소개, 신규 오픈 정보로 희소성 부여",
-      "image": {
-        "keyword": "Sendai Parco, TENTIAL, BAKUNE wear, Japan shopping, travel fatigue recovery",
-        "unsplash_url": "https://unsplash.com/s/photos/Sendai-Parco,-TENTIAL,-BAKUNE-wear,-Japan-shopping,-travel-fatigue-recovery",
-        "pexels_url": "https://www.pexels.com/search/Sendai%20Parco,%20TENTIAL,%20BAKUNE%20wear,%20Japan%20shopping,%20travel%20fatigue%20recovery/"
-      }
-    },
-    {
-      "id": "plan_24948a94",
-      "created_at": "2026-04-27T03:54:30.707700",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本×山形庄内、列車＋宿泊が7000円引き。夏の旅行キャンペーン「す――――――っと心の深呼吸。いざ、庄内。」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2104895.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여름 휴가철, 일본 북부 지역의 알찬 기차+숙박 할인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 7천엔 할인! ✈️ 여름 일본 여행 꿀팁!",
-        "cards": [
-          {
-            "title": "여름 캠페인",
-            "content": "JR 동일본과 야마가타현 쇼나이 지역이 함께하는 여름 관광 캠페인 '마음 깊은 곳까지 심호흡, 쇼나이로 떠나요!'가 7월 1일부터 시작됩니다.",
-            "alt_text": "여름 하늘 아래 펼쳐진 일본 쇼나이 지역의 아름다운 풍경"
-          },
-          {
-            "title": "파격 할인",
-            "content": "이번 캠페인을 통해 열차와 숙박을 묶어 구매하면 최대 7000엔까지 할인을 받을 수 있습니다. 알뜰한 여름 여행을 계획해보세요!",
-            "alt_text": "할인율이 표시된 쇼핑백과 기차 티켓 이미지"
-          },
-          {
-            "title": "지역 특색",
-            "content": "쇼나이 지역은 아름다운 자연과 풍부한 문화유산을 자랑하며, 이번 캠페인은 방문객들에게 심신을 치유하는 특별한 경험을 선사할 예정입니다.",
-            "alt_text": "쇼나이 지역의 전통 가옥과 푸른 산이 어우러진 모습"
-          },
-          {
-            "title": "여행 시기",
-            "content": "캠페인은 여름 시즌에 맞춰 진행되므로, 시원한 여름 휴가를 일본 북부에서 보내고 싶으신 분들에게 절호의 기회입니다.",
-            "alt_text": "여름 햇살 아래 반짝이는 일본 해변 또는 산"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "할인 혜택과 자세한 내용은 JR 동일본 공식 홈페이지 또는 관련 여행 정보를 통해 확인하세요. 조기 마감될 수 있으니 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "달력에 표시된 '7월 1일'과 '할인' 스티커"
-          }
-        ],
-        "caption": "✈️ 여름 일본 여행, 역대급 할인 찬스! ✈️\n\nJR 동일본과 야마가타현 쇼나이 지역이 함께하는 여름 캠페인으로, 기차+숙박 패키지를 무려 7000엔까지 할인받을 수 있어요! 🤩\n\n아름다운 쇼나이 지역에서 심신을 치유하는 특별한 여름 휴가를 계획해보세요. 힐링과 절약, 두 마리 토끼를 잡을 수 있는 기회!  놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #일본할인 #여름휴가 #쇼나이 #야마가타 #JR동일본 #일본교통 #여행꿀팁 #알뜰여행 #일본소도시 #일본북부 #여행정보 #일본여름 #가성비여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본할인",
-          "#여름휴가",
-          "#쇼나이",
-          "#야마가타",
-          "#JR동일본",
-          "#일본교통",
-          "#여행꿀팁",
-          "#알뜰여행",
-          "#일본소도시",
-          "#일본북부",
-          "#여행정보",
-          "#일본여름",
-          "#가성비여행"
-        ],
-        "alt_texts": [
-          "여름 하늘 아래 펼쳐진 일본 쇼나이 지역의 아름다운 풍경",
-          "할인율이 표시된 쇼핑백과 기차 티켓 이미지",
-          "쇼나이 지역의 전통 가옥과 푸른 산이 어우러진 모습",
-          "여름 햇살 아래 반짝이는 일본 해변 또는 산",
-          "달력에 표시된 '7월 1일'과 '할인' 스티커"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 휴가 시즌에 일본 여행을 계획하는 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오후 1시-3시 / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액 제시, 여름 시즌 특화 정보",
-      "image": {
-        "keyword": "japan summer travel discount train hotel shonai yamagata",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-travel-discount-train-hotel-shonai-yamagata",
-        "pexels_url": "https://www.pexels.com/search/japan%20summer%20travel%20discount%20train%20hotel%20shonai%20yamagata/"
       }
     }
   ]
