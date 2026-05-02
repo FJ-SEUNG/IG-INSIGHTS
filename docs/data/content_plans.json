@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-02T00:06:03.443236",
+  "last_updated": "2026-05-02T03:42:51.192513",
   "plans": [
+    {
+      "id": "plan_e56c9af1",
+      "created_at": "2026-05-02T03:42:49.192329",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "三井アウトレットパーク、GWセールは5月10日まで。夏服やアウトドア用品が最大80％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105755.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 쇼핑 찬스! 최대 80% 할인 득템 기회를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨일본 아울렛 득템 찬스!✨",
+        "cards": [
+          {
+            "title": "GW 세일",
+            "content": "일본 전역 14개 미츠이 아울렛 파크에서 GW(골든위크) 특별 세일이 진행 중입니다. 여름 의류와 아웃도어 용품을 최대 80% 할인된 가격으로 만나보세요!",
+            "alt_text": "미츠이 아울렛 파크 간판 이미지"
+          },
+          {
+            "title": "할인 기간",
+            "content": "이번 GW 세일은 5월 10일까지 진행됩니다. 놓치기 전에 서둘러 방문하세요!",
+            "alt_text": "달력에 5월 10일이 표시된 이미지"
+          },
+          {
+            "title": "할인 품목",
+            "content": "여름철 필수템인 시원한 여름옷부터 캠핑, 등산 등 야외 활동에 필요한 아웃도어 용품까지 다양한 상품을 파격적인 할인가로 구매할 수 있습니다.",
+            "alt_text": "다양한 여름 의류와 아웃도어 용품이 진열된 매장 이미지"
+          },
+          {
+            "title": "전국 14개 지점",
+            "content": "도쿄 근교의 키사라즈, 요코하마, 시즈오카 등 전국 14개 미츠이 아울렛 파크에서 동시 진행되니 가까운 곳으로 방문하시면 됩니다.",
+            "alt_text": "일본 지도에 14개 아울렛 파크 위치가 표시된 이미지"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "방문 전 각 아울렛 파크의 공식 홈페이지에서 입점 브랜드와 상세 할인 정보를 미리 확인하면 더욱 알찬 쇼핑 계획을 세울 수 있습니다. 득템 찬스를 놓치지 마세요!",
+            "alt_text": "쇼핑백을 들고 즐거워하는 사람들의 모습"
+          }
+        ],
+        "caption": "일본 여행 중이라면 놓칠 수 없는 쇼핑 찬스! 🛍️\n미츠이 아울렛 파크 GW 세일이 5월 10일까지 진행됩니다.\n여름옷, 아웃도어 용품 등 최대 80% 할인 득템 기회!\n전국 14개 지점에서 만나보세요!\n\n지금 바로 가까운 미츠이 아울렛 파크로 GOGO! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#아울렛",
+          "#미츠이아울렛",
+          "#GW세일",
+          "#골든위크",
+          "#일본득템",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#여름휴가",
+          "#쇼핑스타그램",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "미츠이 아울렛 파크 간판 이미지",
+          "달력에 5월 10일이 표시된 이미지",
+          "다양한 여름 의류와 아웃도어 용품이 진열된 매장 이미지",
+          "일본 지도에 14개 아울렛 파크 위치가 표시된 이미지",
+          "쇼핑백을 들고 즐거워하는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 쇼핑 정보에 대한 높은 관심과 공유, 실제 방문 계획으로 이어질 가능성 높음 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 장소 정보 제공으로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Mitsui Outlet Park, Japan, GW SALE, discount, summer fashion, outdoor gear",
+        "unsplash_url": "https://unsplash.com/s/photos/Mitsui-Outlet-Park,-Japan,-GW-SALE,-discount,-summer-fashion,-outdoor-gear",
+        "pexels_url": "https://www.pexels.com/search/Mitsui%20Outlet%20Park,%20Japan,%20GW%20SALE,%20discount,%20summer%20fashion,%20outdoor%20gear/"
+      }
+    },
+    {
+      "id": "plan_ef906107",
+      "created_at": "2026-05-02T03:42:41.955534",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ペットと一緒に電車に乗るときは「手回り品きっぷ」購入を。GW帰省に備えよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105778.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "반려동물 동반 일본 기차 여행 시 필수 정보! '수하물 티켓' 규정 완벽 정리"
+      },
+      "content": {
+        "thumbnail_title": "🐾반려동물과 일본 기차 여행 꿀팁!",
+        "cards": [
+          {
+            "title": "수하물 티켓 필수!",
+            "content": "일본 JR 열차에 반려동물과 함께 탑승 시, '수하물 티켓(手回り品きっぷ)' 구매가 필수입니다. 신칸센뿐만 아니라 일반 열차에도 동일하게 적용됩니다.",
+            "alt_text": "반려동물과 함께 기차에 탑승하는 모습"
+          },
+          {
+            "title": "티켓 가격은?",
+            "content": "수하물 티켓의 가격은 290엔입니다. 반려동물의 종류와 상관없이 모든 반려동물에게 적용됩니다.",
+            "alt_text": "수하물 티켓 이미지"
+          },
+          {
+            "title": "티켓 구매 방법",
+            "content": "역 창구나 자동 발매기에서 구매할 수 있습니다. 미리 구매해두면 당황하지 않고 편리하게 탑승할 수 있습니다.",
+            "alt_text": "일본 기차역 창구"
+          },
+          {
+            "title": "반려동물 규정",
+            "content": "반려동물은 반드시 길이 70cm 이하, 세로/높이 합계 90cm 이하의 가방에 넣어야 합니다. 무게는 10kg 이하로 제한됩니다.",
+            "alt_text": "반려동물 전용 이동 가방"
+          },
+          {
+            "title": "여행 전 확인 필수!",
+            "content": "반려동물과 함께하는 일본 기차 여행 시, '수하물 티켓' 구매 규정을 꼭 확인하세요. 즐겁고 안전한 여행을 위한 필수 정보입니다.",
+            "alt_text": "반려동물과 함께 기차역에서 기다리는 모습"
+          }
+        ],
+        "caption": "🇯🇵 반려동물과 함께하는 일본 기차 여행, 설레는 마음으로 준비하시나요? JR 열차 이용 시 꼭 필요한 '수하물 티켓' 구매 규정을 알려드려요! 🐾\n\n✅ '수하물 티켓' 필수 구매 (290엔)\n✅ 신칸센 & 일반 열차 모두 적용\n✅ 가방 크기, 무게 규정 확인 필수!\n\n반려동물과 함께하는 일본 여행, 꼼꼼하게 준비해서 잊지 못할 추억 만드세요! ✨\n\n#일본여행 #반려동물동반여행 #JR패스 #일본기차 #여행준비 #일본정보 #플라잉재팬 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본기차",
+          "#반려동물동반여행",
+          "#일본교통",
+          "#JR",
+          "#수하물티켓",
+          "#일본여행팁",
+          "#여행정보",
+          "#해외여행",
+          "#일본",
+          "#여행스타그램",
+          "#펫스타그램",
+          "#골든위크",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "반려동물과 함께 기차에 탑승하는 모습",
+          "수하물 티켓 이미지",
+          "일본 기차역 창구",
+          "반려동물 전용 이동 가방",
+          "반려동물과 함께 기차역에서 기다리는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 반려동물과 함께 일본을 여행하는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 습득, 댓글 문의 / 이 콘텐츠의 강점: 실제 여행에 꼭 필요한 구체적인 규정 정보 제공",
+      "image": {
+        "keyword": "pet on train japan, japan railway, hand baggage ticket, pet travel japan, JR train rules",
+        "unsplash_url": "https://unsplash.com/s/photos/pet-on-train-japan,-japan-railway,-hand-baggage-ticket,-pet-travel-japan,-JR-train-rules",
+        "pexels_url": "https://www.pexels.com/search/pet%20on%20train%20japan,%20japan%20railway,%20hand%20baggage%20ticket,%20pet%20travel%20japan,%20JR%20train%20rules/"
+      }
+    },
     {
       "id": "plan_8c1237f7",
       "created_at": "2026-05-02T00:06:01.443028",
@@ -923,160 +1077,6 @@
         "keyword": "Omotesando station direct complex facility under development Tokyo",
         "unsplash_url": "https://unsplash.com/s/photos/Omotesando-station-direct-complex-facility-under-development-Tokyo",
         "pexels_url": "https://www.pexels.com/search/Omotesando%20station%20direct%20complex%20facility%20under%20development%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_b592f2bc",
-      "created_at": "2026-04-29T00:07:39.451041",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジンエアー、釜山行き航空券が4000円引きになるクーポン配布",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105437.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "부산-일본 노선 항공권 최대 4,000엔 할인 쿠폰으로 일본 여행 경비 절약 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 4천엔 할인! ✈️",
-        "cards": [
-          {
-            "title": "진에어 특가",
-            "content": "진에어가 일본 출발 한국 부산행 항공권에 대해 최대 4,000엔 할인 쿠폰을 제공합니다. 곧 다가올 일본 여행을 계획 중이라면 꼭 확인하세요!",
-            "alt_text": "진에어 항공기 출발 준비 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "이번 프로모션을 통해 부산행 항공권을 구매하시면 최대 4,000엔까지 즉시 할인받을 수 있습니다. 일본 여행의 시작을 알뜰하게 준비해 보세요.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "프로모션 대상",
-            "content": "본 프로모션은 일본에서 출발하여 한국 부산으로 향하는 항공편에 적용됩니다. 자세한 내용은 진에어 공식 채널을 확인해 보세요.",
-            "alt_text": "일본 지도와 부산 위치 표시 이미지"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "할인 쿠폰을 활용하여 항공권 가격을 낮추고, 절약된 예산으로 일본 현지 맛집 탐방이나 쇼핑을 더욱 풍성하게 즐기세요!",
-            "alt_text": "여행 가방과 일본 관광지 엽서 이미지"
-          },
-          {
-            "title": "이용 시 유의사항",
-            "content": "쿠폰 사용 조건 및 유효 기간을 반드시 확인하시고, 예약 시 쿠폰 적용 여부를 꼼꼼히 체크하세요. 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
-            "alt_text": "체크리스트와 펜 이미지"
-          }
-        ],
-        "caption": "🚨 일본 여행 필수 정보! 🚨\n\n진에어가 일본 출발 부산행 항공권에 대해 최대 4,000엔 할인 쿠폰을 제공한다는 소식이에요! ✈️\n\n곧 있을 일본 여행, 항공권 특가로 더욱 알뜰하게 준비해 보세요. 💖\n\n#진에어 #일본여행 #부산행 #항공권할인 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#진에어",
-          "#일본항공권",
-          "#부산여행",
-          "#여행정보",
-          "#일본할인",
-          "#해외여행",
-          "#여행스타그램",
-          "#여행계획",
-          "#알뜰여행",
-          "#일본",
-          "#항공권특가",
-          "#여행팁",
-          "#일본가자"
-        ],
-        "alt_texts": [
-          "진에어 항공기 출발 준비 이미지",
-          "할인 쿠폰 이미지",
-          "일본 지도와 부산 위치 표시 이미지",
-          "여행 가방과 일본 관광지 엽서 이미지",
-          "체크리스트와 펜 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 높은 클릭률 및 정보 공유 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제시하여 높은 관심 유도",
-      "image": {
-        "keyword": "jin air, japan to busan, flight ticket discount, travel coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/jin-air,-japan-to-busan,-flight-ticket-discount,-travel-coupon",
-        "pexels_url": "https://www.pexels.com/search/jin%20air,%20japan%20to%20busan,%20flight%20ticket%20discount,%20travel%20coupon/"
-      }
-    },
-    {
-      "id": "plan_57e1279e",
-      "created_at": "2026-04-29T00:07:32.338759",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、GWセール第2弾。UVカットパーカとUNIQLO:C ボクシーニットTが2日間限定で1000円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105496.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 쇼핑 시즌! 유니클로 1000엔 할인 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "유니클로 1000엔 할인! 🇯🇵",
-        "cards": [
-          {
-            "title": "GW 세일 2탄!",
-            "content": "일본 유니클로에서 골든위크(GW) 세일 2탄이 시작됩니다! 4월 26일부터 5월 6일까지 진행되는 이번 세일에서 특별한 할인을 만나보세요.",
-            "alt_text": "유니클로 일본 골든위크 세일 안내 이미지"
-          },
-          {
-            "title": "인기 상품 할인!",
-            "content": "인기 상품인 UV 컷 파카와 UNIQLO:C 보더리스 니트 티가 2일간 한정으로 1000엔 할인됩니다. 4월 26일부터 4월 27일까지 이 특별한 기회를 꼭 잡으세요!",
-            "alt_text": "유니클로 UV 컷 파카 및 니트 티 할인 이미지"
-          },
-          {
-            "title": "2일간 한정!",
-            "content": "UV 컷 파카와 보더리스 니트 티는 단 2일간만 1000엔 할인된 가격으로 구매 가능합니다. 놓치기 쉬우니 방문 계획이 있다면 서두르세요!",
-            "alt_text": "유니클로 1000엔 할인 기간 안내 이미지"
-          },
-          {
-            "title": "합리적인 쇼핑!",
-            "content": "이번 GW 세일은 '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク'라는 슬로건 아래 진행됩니다. 일본 여행 중 합리적인 가격으로 쇼핑할 수 있는 좋은 기회입니다.",
-            "alt_text": "유니클로 GW 세일 슬로건 이미지"
-          },
-          {
-            "title": "쇼핑 꿀팁!",
-            "content": "할인 기간을 잘 확인하여 원하는 상품을 최적의 가격으로 구매하세요. 특히 2일 한정 상품은 품절될 수 있으니 서둘러 방문하는 것을 추천합니다.",
-            "alt_text": "유니클로 매장 쇼핑 모습 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 🇯🇵 유니클로 GW 세일 2탄이 시작됩니다!\n\n✨ UV 컷 파카 & UNIQLO:C 니트 티 1000엔 할인 (4/26~4/27, 2일 한정!)\n✨ 다양한 인기 상품 할인 혜택!\n\n일본 여행 중 득템 찬스, 놓치지 마세요! 😉\n\n#일본여행 #유니클로 #GW세일 #일본쇼핑 #득템찬스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#일본유니클로",
-          "#GW세일",
-          "#골든위크",
-          "#일본쇼핑",
-          "#할인정보",
-          "#여행꿀팁",
-          "#일본직구",
-          "#패션",
-          "#데일리룩",
-          "#쇼핑",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "유니클로 일본 골든위크 세일 안내 이미지",
-          "유니클로 UV 컷 파카 및 니트 티 할인 이미지",
-          "유니클로 1000엔 할인 기간 안내 이미지",
-          "유니클로 GW 세일 슬로건 이미지",
-          "유니클로 매장 쇼핑 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 할인 정보에 대한 높은 관심 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 구체적인 할인 상품 및 기간 명시",
-      "image": {
-        "keyword": "Uniqlo Japan GW Sale, Uniqlo UV Cut Parka, Uniqlo U collection, Japanese shopping discount, Golden Week sale event",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Japan-GW-Sale,-Uniqlo-UV-Cut-Parka,-Uniqlo-U-collection,-Japanese-shopping-discount,-Golden-Week-sale-event",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Japan%20GW%20Sale,%20Uniqlo%20UV%20Cut%20Parka,%20Uniqlo%20U%20collection,%20Japanese%20shopping%20discount,%20Golden%20Week%20sale%20event/"
       }
     }
   ]
