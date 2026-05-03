@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-02T03:42:51.192513",
+  "last_updated": "2026-05-03T00:01:21.200978",
   "plans": [
+    {
+      "id": "plan_880e8051",
+      "created_at": "2026-05-03T00:01:19.200789",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "デカ盛り海鮮丼に「深海のなかまたち」ガチャ当たり2倍も！　新東名 NEOPASA駿河湾沼津でGWイベント、5月10日まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2105966.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신동해 고속도로 휴게소에서 맛볼 수 있는 특별한 해산물 덮밥과 한정 이벤트!"
+      },
+      "content": {
+        "thumbnail_title": "🍣駿河湾 꿀맛 해산물 덮밥🍣",
+        "cards": [
+          {
+            "title": "특별한 해산물 덮밥",
+            "content": "신동해 고속도로 NEOPASA 스루가만 누마즈 상행선 '누마즈 마을의 역'에서 GW 기간 한정으로 특별한 해산물 덮밥을 맛볼 수 있습니다. '깊은 바다의 친구들' 가챠 이벤트도 함께 즐겨보세요!",
+            "alt_text": "푸짐하게 담긴 먹음직스러운 해산물 덮밥 이미지"
+          },
+          {
+            "title": "GW 기간 한정",
+            "content": "이 특별한 이벤트는 5월 10일까지 진행됩니다. GW 기간 동안 일본 여행 중이라면 놓치지 마세요!",
+            "alt_text": "이벤트 기간을 나타내는 캘린더 이미지"
+          },
+          {
+            "title": "신동해 고속도로",
+            "content": "이벤트 장소는 신동해 고속도로(E1A)의 NEOPASA 스루가만 누마즈 상행선입니다. 차량으로 이동 시 편리하게 방문할 수 있습니다.",
+            "alt_text": "일본 고속도로 표지판 이미지"
+          },
+          {
+            "title": "가챠 이벤트",
+            "content": "'깊은 바다의 친구들'이라는 이름의 가챠 이벤트도 함께 진행됩니다. 2배 당첨 확률의 기회를 잡으세요!",
+            "alt_text": "다양한 캐릭터가 그려진 가챠 뽑기 기계 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 중 고속도로 휴게소를 이용할 계획이라면, 이곳에서 특별한 미식 경험과 함께 즐거운 추억을 만들어 보세요. (이벤트 기간: ~5월 10일까지)",
+            "alt_text": "휴게소 내 레스토랑 또는 이벤트 부스 이미지"
+          }
+        ],
+        "caption": "일본 여행 중이라면 주목! 🇯🇵 신동해 고속도로 휴게소에서 GW 기간 한정으로 특별한 해산물 덮밥을 맛볼 기회! 🍣\n\n'깊은 바다의 친구들' 가챠 이벤트도 함께 즐기며 2배 당첨의 행운까지! 🍀\n\n✅ 이벤트 기간: ~ 5월 10일까지\n\n일본 드라이브 여행 계획 중이라면 꼭 들러보세요! 😉\n\n#일본여행 #플라잉재팬 #일본맛집 #일본휴게소 #해산물덮밥 #GW이벤트 #신동해고속도로 #누마즈 #일본먹방 #일본축제 #여행정보 #일본자유여행 #여행스타그램 #먹스타그램 #이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#일본휴게소",
+          "#해산물덮밥",
+          "#GW이벤트",
+          "#신동해고속도로",
+          "#누마즈",
+          "#일본먹방",
+          "#일본축제",
+          "#여행정보",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#먹스타그램",
+          "#이벤트"
+        ],
+        "alt_texts": [
+          "푸짐하게 담긴 먹음직스러운 해산물 덮밥 이미지",
+          "이벤트 기간을 나타내는 캘린더 이미지",
+          "일본 고속도로 표지판 이미지",
+          "다양한 캐릭터가 그려진 가챠 뽑기 기계 이미지",
+          "휴게소 내 레스토랑 또는 이벤트 부스 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 고속도로를 이용하는 한국인 여행자 / 최적 게시 시간: 여행객들이 정보를 탐색하는 오후 2시 ~ 4시 / 기대 반응: 즉각적인 방문 계획, 친구 태그 / 이 콘텐츠의 강점: 기간 한정 이벤트와 특별한 먹거리에 대한 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Japanese seafood donburi, highway rest stop event, limited time offer, gourmet travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-seafood-donburi,-highway-rest-stop-event,-limited-time-offer,-gourmet-travel",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20seafood%20donburi,%20highway%20rest%20stop%20event,%20limited%20time%20offer,%20gourmet%20travel/"
+      }
+    },
+    {
+      "id": "plan_d4a94690",
+      "created_at": "2026-05-03T00:01:11.021629",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【車中泊の拠点 RVパークを訪ねる】西伊豆の海辺の小さい街でゆっくり過ごす。美術館跡地のRVパークに泊まってみた RVパーク キャンピングカーBASE Atelier41",
+        "url": "https://travel.watch.impress.co.jp/docs/series/rvpark/2106404.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 서쪽 해변의 숨겨진 보석, RV 파크에서 특별한 숙박 경험!"
+      },
+      "content": {
+        "thumbnail_title": "✨서이즈 RV파크✨",
+        "cards": [
+          {
+            "title": "RV파크 신규 오픈!",
+            "content": "2026년 3월, 일본 서이즈 지역에 'RV파크 캠핑카BASE Atelier41'이 새롭게 문을 열었습니다. 2014년까지 운영되었던 미술관 부지를 활용한 특별한 공간입니다.",
+            "alt_text": "RV파크 캠핑카BASE Atelier41 외부 전경"
+          },
+          {
+            "title": "서이즈, RV 명소",
+            "content": "RV 차량 여행객들에게 인기 있는 서이즈 지역에 위치하며, 이곳에서 여유로운 시간을 보내기 좋습니다. 다양한 RV 파크가 있어 선택의 폭이 넓습니다.",
+            "alt_text": "서이즈 지역 풍경과 RV 차량"
+          },
+          {
+            "title": "미술관 터의 매력",
+            "content": "과거 미술관으로 사용되었던 부지에 조성되어, 독특한 분위기를 자아냅니다. 자연 속에서 예술적인 감성을 느낄 수 있는 특별한 경험을 선사합니다.",
+            "alt_text": "과거 미술관 터의 흔적과 자연 풍경"
+          },
+          {
+            "title": "특별한 캠핑",
+            "content": "RV 차량을 이용한 캠핑을 즐기며 서이즈의 아름다운 해변을 만끽할 수 있습니다. 조용하고 한적한 곳에서 나만의 시간을 보낼 수 있습니다.",
+            "alt_text": "RV 차량에서 바라본 서이즈 해변 풍경"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "RV파크 예약은 필수이며, 특히 성수기에는 서둘러야 합니다. 미술관 터의 역사와 함께하는 특별한 숙박을 계획해 보세요.",
+            "alt_text": "RV파크 예약 정보 안내 이미지"
+          }
+        ],
+        "caption": "🇯🇵 서이즈 지역에 2026년 3월, 신규 RV 파크 오픈! ✨\n미술관 부지를 활용한 특별한 공간에서 RV 캠핑을 즐겨보세요.\n아름다운 해변과 함께 여유로운 시간을 보낼 수 있습니다.\nRV 여행객이라면 주목! 🤩\n#일본RV파크 #서이즈여행 #RV캠핑 #일본숙소 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본RV파크",
+          "#서이즈",
+          "#RV파크",
+          "#캠핑카",
+          "#일본숙소",
+          "#자동차여행",
+          "#일본자유여행",
+          "#일본신상",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본캠핑",
+          "#아트스테이",
+          "#2026년오픈"
+        ],
+        "alt_texts": [
+          "RV파크 캠핑카BASE Atelier41 외부 전경",
+          "서이즈 지역 풍경과 RV 차량",
+          "과거 미술관 터의 흔적과 자연 풍경",
+          "RV 차량에서 바라본 서이즈 해변 풍경",
+          "RV파크 예약 정보 안내 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 캠핑카 또는 RV 차량을 이용한 일본 여행을 계획하는 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시 ~ 9시 / 기대 반응: RV 여행에 대한 관심 증가, 신규 숙소 정보에 대한 문의 / 이 콘텐츠의 강점: 국내에 잘 알려지지 않은 새로운 형태의 일본 숙박 정보를 제공하여 차별화",
+      "image": {
+        "keyword": "RV park, Japan, West Izu, seaside, camping car, art museum site, new opening, travel",
+        "unsplash_url": "https://unsplash.com/s/photos/RV-park,-Japan,-West-Izu,-seaside,-camping-car,-art-museum-site,-new-opening,-travel",
+        "pexels_url": "https://www.pexels.com/search/RV%20park,%20Japan,%20West%20Izu,%20seaside,%20camping%20car,%20art%20museum%20site,%20new%20opening,%20travel/"
+      }
+    },
     {
       "id": "plan_e56c9af1",
       "created_at": "2026-05-02T03:42:49.192329",
@@ -923,160 +1077,6 @@
         "keyword": "ANA Pay, Japan travel, cashback, Apple Pay, event, mobile payment, travel discount, Japanese convenience store, shopping, tourism",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-Pay,-Japan-travel,-cashback,-Apple-Pay,-event,-mobile-payment,-travel-discount,-Japanese-convenience-store,-shopping,-tourism",
         "pexels_url": "https://www.pexels.com/search/ANA%20Pay,%20Japan%20travel,%20cashback,%20Apple%20Pay,%20event,%20mobile%20payment,%20travel%20discount,%20Japanese%20convenience%20store,%20shopping,%20tourism/"
-      }
-    },
-    {
-      "id": "plan_d2704e25",
-      "created_at": "2026-04-29T03:56:23.526413",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "IHGのホリデイ・イン エクスプレス、札幌すすきのに国内2軒目開業。駅徒歩5分に223室",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105325.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "삿포로 여행 계획 중이라면 주목! 7월, 스스키노에 새 호텔이 오픈합니다."
-      },
-      "content": {
-        "thumbnail_title": "삿포로 스스키노 신상 호텔 오픈! 🏨",
-        "cards": [
-          {
-            "title": "신규 호텔 오픈",
-            "content": "IHG 호텔즈 앤 리조트에서 '호리데이 인 익스프레스 삿포로 스스키노'를 7월에 개장합니다.",
-            "alt_text": "호리데이 인 익스프레스 삿포로 스스키노 호텔 외관 이미지"
-          },
-          {
-            "title": "위치",
-            "content": "삿포로 시내 중심가, 스스키노에 위치하며 지하철역에서 도보 5분 거리에 있어 접근성이 뛰어납니다.",
-            "alt_text": "삿포로 스스키노 거리 지도 이미지"
-          },
-          {
-            "title": "객실 규모",
-            "content": "총 223개의 객실을 갖추고 있어 넉넉한 숙박 공간을 제공할 예정입니다.",
-            "alt_text": "호텔 객실 내부 이미지"
-          },
-          {
-            "title": "삿포로 여행",
-            "content": "삿포로 스스키노는 맛집, 쇼핑, 즐길 거리가 풍부한 지역으로, 새로운 호텔 개장으로 더욱 편리한 여행이 가능해집니다.",
-            "alt_text": "삿포로 스스키노 밤거리 풍경 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "7월 오픈 예정이니, 삿포로 여행 계획 시 새로운 숙소 옵션으로 고려해보세요. 예약은 오픈 후 빠르게 마감될 수 있습니다.",
-            "alt_text": "여행 계획 세우는 모습 일러스트"
-          }
-        ],
-        "caption": "삿포로 여행 계획 중이신가요? ✈️ 7월, 삿포로 스스키노에 '호리데이 인 익스프레스 삿포로 스스키노'가 새롭게 문을 엽니다! 지하철역 도보 5분 거리, 총 223개의 객실을 갖춘 이곳은 삿포로 시내를 즐기기에 최적의 위치입니다. 🍜🛍️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#삿포로",
-          "#삿포로여행",
-          "#스스키노",
-          "#일본숙소",
-          "#호텔",
-          "#신상호텔",
-          "#삿포로호텔",
-          "#일본정보",
-          "#여행정보",
-          "#홋카이도",
-          "#IHG",
-          "#호리데이인익스프레스",
-          "#7월여행"
-        ],
-        "alt_texts": [
-          "호리데이 인 익스프레스 삿포로 스스키노 호텔 외관 이미지",
-          "삿포로 스스키노 거리 지도 이미지",
-          "호텔 객실 내부 이미지",
-          "삿포로 스스키노 밤거리 풍경 이미지",
-          "여행 계획 세우는 모습 일러스트"
-        ]
-      },
-      "marketer_analysis": "타겟: 삿포로 여행 예정인 한국인 관광객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 삿포로 여행 정보에 대한 관심 증대, 숙소 예약 고려 / 이 콘텐츠의 강점: 신규 오픈 정보로 희소성 있으며, 삿포로 여행객에게 직접적인 숙소 정보를 제공",
-      "image": {
-        "keyword": "Sapporo Susukino hotel opening, Holiday Inn Express Sapporo Susukino, New hotel Japan, Hokkaido travel accommodation",
-        "unsplash_url": "https://unsplash.com/s/photos/Sapporo-Susukino-hotel-opening,-Holiday-Inn-Express-Sapporo-Susukino,-New-hotel-Japan,-Hokkaido-travel-accommodation",
-        "pexels_url": "https://www.pexels.com/search/Sapporo%20Susukino%20hotel%20opening,%20Holiday%20Inn%20Express%20Sapporo%20Susukino,%20New%20hotel%20Japan,%20Hokkaido%20travel%20accommodation/"
-      }
-    },
-    {
-      "id": "plan_55b0bf56",
-      "created_at": "2026-04-29T03:56:16.511379",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "表参道駅直結のホテル・商業施設が開発へ。地下3階～地上14階で2032年竣工予定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105341.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 오모테산도역 직결! 2032년 완공될 초역세권 복합시설 정보"
-      },
-      "content": {
-        "thumbnail_title": "✨오모테산도역 직결✨2032년 완공!",
-        "cards": [
-          {
-            "title": "오모테산도역 직결",
-            "content": "도쿄 메트로와 산케이 빌딩이 협력하여 오모테산도역과 바로 연결되는 복합시설 개발을 시작합니다. 2032년 완공을 목표로 하고 있습니다.",
-            "alt_text": "오모테산도역 인근 지도"
-          },
-          {
-            "title": "지하 3층 ~ 지상 14층",
-            "content": "지하 3층부터 지상 14층까지 총 17개 층으로 이루어진 대규모 복합시설이 들어설 예정입니다. 이곳에는 쇼핑, 식사, 숙박 등 다양한 시설이 포함될 것으로 예상됩니다.",
-            "alt_text": "복합시설 예상 조감도 (상상)"
-          },
-          {
-            "title": "2032년 완공 예정",
-            "content": "개발은 2032년도에 완공을 목표로 진행됩니다. 완공 시, 오모테산도 지역의 새로운 랜드마크가 될 것으로 기대됩니다.",
-            "alt_text": "공사 시작을 알리는 현수막"
-          },
-          {
-            "title": "쇼핑 & 다이닝 기대",
-            "content": "새로운 복합시설에는 최신 트렌드를 반영한 쇼핑 공간과 다양한 맛집, 카페 등이 입점할 것으로 예상됩니다. 오모테산도에서의 쇼핑과 식사가 더욱 편리하고 풍성해질 것입니다.",
-            "alt_text": "오모테산도 거리 쇼핑객들"
-          },
-          {
-            "title": "미리 체크하세요!",
-            "content": "아직 완공까지 시간이 많이 남았지만, 오모테산도 방문 계획이 있다면 참고해두시면 좋습니다. 완공 후에는 더욱 편리하고 다채로운 경험을 할 수 있을 거예요!",
-            "alt_text": "도쿄 오모테산도 거리 풍경"
-          }
-        ],
-        "caption": "✨도쿄 오모테산도역 직결! 2032년 완공 예정 복합시설 개발 소식✨\n\n도쿄 메트로와 산케이 빌딩이 오모테산도역과 바로 연결되는 대규모 복합시설 개발에 착수했습니다. 2032년 완공을 목표로 하는 이 시설은 지하 3층부터 지상 14층까지 들어서며, 쇼핑, 식사, 숙박 등 다양한 즐길 거리를 제공할 예정입니다.\n\n오모테산도 지역의 새로운 랜드마크가 될 이곳! 완공 후 방문 계획이 있다면 미리 알아두세요!\n\n#오모테산도 #도쿄여행 #일본신축 #복합시설 #2032년완공 #일본쇼핑 #일본맛집 #도쿄핫플 #플라잉재팬 #일본여행정보 #도쿄쇼핑 #일본건축 #오모테산도카페 #도쿄여행준비 #일본새소식",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오모테산도",
-          "#도쿄여행",
-          "#일본신축",
-          "#복합시설",
-          "#2032년완공",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#도쿄핫플",
-          "#일본여행정보",
-          "#도쿄쇼핑",
-          "#일본건축",
-          "#오모테산도카페",
-          "#도쿄여행준비"
-        ],
-        "alt_texts": [
-          "오모테산도역 인근 지도",
-          "복합시설 예상 조감도 (상상)",
-          "공사 시작을 알리는 현수막",
-          "오모테산도 거리 쇼핑객들",
-          "도쿄 오모테산도 거리 풍경"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 오모테산도 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 기대감 표현 / 이 콘텐츠의 강점: 최신 개발 정보와 미래의 관광 편의성을 연결하여 흥미 유발",
-      "image": {
-        "keyword": "Omotesando station direct complex facility under development Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/Omotesando-station-direct-complex-facility-under-development-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/Omotesando%20station%20direct%20complex%20facility%20under%20development%20Tokyo/"
       }
     }
   ]
