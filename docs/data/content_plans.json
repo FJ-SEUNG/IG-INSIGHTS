@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-04T00:03:37.455022",
+  "last_updated": "2026-05-04T04:01:46.643673",
   "plans": [
+    {
+      "id": "plan_31658f4d",
+      "created_at": "2026-05-04T04:01:44.643490",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "フェイラー「ポムポムプリン」コラボ、最後の再販が決定。オンライン抽選のみ、顔型ポーチ/おしりハンカチなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106375.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여움 끝판왕! 포근한 포근이와 페이러의 마지막 만남, 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "💖포근이X페이러 마지막 콜라보💖",
+        "cards": [
+          {
+            "title": "마지막 재판매!",
+            "content": "페이러의 인기 콜라보, 포근한 포근이(ポムポムプリン)와 함께한 제품들이 마지막 재판매를 결정했어요. 이번 기회를 놓치면 정말 다시 만나기 어려워요!",
+            "alt_text": "포근이와 페이러 콜라보 제품들을 보여주는 이미지"
+          },
+          {
+            "title": "온라인 추첨만!",
+            "content": "이번 재판매는 오직 페이러 공식 온라인 샵에서만 진행되며, 추첨을 통해 구매 기회가 주어져요. 원하는 상품을 얻으려면 서둘러 응모해야 해요!",
+            "alt_text": "온라인 추첨 방식으로 진행됨을 알리는 안내 이미지"
+          },
+          {
+            "title": "다양한 굿즈",
+            "content": "인기 상품인 얼굴형 파우치와 엉덩이 모양 수건 등 귀여운 포근이 디자인의 다양한 제품들을 만나볼 수 있어요. 지인 선물용으로도 딱!",
+            "alt_text": "얼굴형 파우치와 엉덩이 모양 수건 등 다양한 콜라보 제품 이미지"
+          },
+          {
+            "title": "언제까지?",
+            "content": "정확한 응모 기간과 당첨자 발표일은 페이러 공식 온라인 샵에서 확인해주세요. 재판매 일정은 변동될 수 있으니 수시로 체크하는 센스!",
+            "alt_text": "날짜 정보를 확인할 수 있는 캘린더 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 여행 중이라면, 일본 공식 온라인 샵을 통해 응모하는 것이 배송비를 절약하는 방법이 될 수 있어요. 하지만 국내 거주자의 경우, 배송 주소지 확인이 필수!",
+            "alt_text": "일본 여행 중 온라인 쇼핑 팁을 알려주는 이미지"
+          }
+        ],
+        "caption": "귀여움 폭발! 💖 포근이와 페이러의 마지막 콜라보가 온라인 추첨으로 다시 돌아왔어요! 😍 얼굴형 파우치, 엉덩이 수건 등 놓치면 후회할 귀염뽀짝템들을 득템할 기회! ✨ 이번이 마지막이니 꼭 응모하세요! ✍️\n\n#일본여행 #플라잉재팬 #포근이 #포무포무푸린 #페이러 #페이러콜라보 #인기템 #한정판 #온라인추첨 #쇼핑정보 #여행준비 #일본쇼핑 #득템찬스 #귀여운거 #콜라보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#포근이",
+          "#포무포무푸린",
+          "#페이러",
+          "#페이러콜라보",
+          "#인기템",
+          "#한정판",
+          "#온라인추첨",
+          "#쇼핑정보",
+          "#여행준비",
+          "#일본쇼핑",
+          "#득템찬스",
+          "#귀여운거",
+          "#콜라보"
+        ],
+        "alt_texts": [
+          "포근이와 페이러 콜라보 제품들을 보여주는 이미지",
+          "온라인 추첨 방식으로 진행됨을 알리는 안내 이미지",
+          "얼굴형 파우치와 엉덩이 모양 수건 등 다양한 콜라보 제품 이미지",
+          "날짜 정보를 확인할 수 있는 캘린더 이미지",
+          "일본 여행 중 온라인 쇼핑 팁을 알려주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 8-10시 / 기대 반응: 높은 관심과 참여율, 구매 문의 증가 / 이 콘텐츠의 강점: 귀여운 캐릭터와 유명 브랜드의 콜라보, 한정판이라는 희소성",
+      "image": {
+        "keyword": "Pompompurin, Feiler, collaboration, limited edition, online lottery, cute pouch, handkerchief",
+        "unsplash_url": "https://unsplash.com/s/photos/Pompompurin,-Feiler,-collaboration,-limited-edition,-online-lottery,-cute-pouch,-handkerchief",
+        "pexels_url": "https://www.pexels.com/search/Pompompurin,%20Feiler,%20collaboration,%20limited%20edition,%20online%20lottery,%20cute%20pouch,%20handkerchief/"
+      }
+    },
+    {
+      "id": "plan_9c54585b",
+      "created_at": "2026-05-04T04:01:36.506512",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、GWセール最終弾は「感動パンツ」「スーパーノンアイロンシャツ」など特価に。5月7日まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106421.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유니클로 GW 세일 마지막 기회! 인기 상품 특가 찬스를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "유니클로 GW 세일 막차! 👖👕",
+        "cards": [
+          {
+            "title": "세일 기간",
+            "content": "일본 유니클로 골든위크(GW) 세일이 5월 7일까지 연장됩니다! 마지막 기회를 놓치지 마세요.",
+            "alt_text": "유니클로 GW 세일 안내 배너"
+          },
+          {
+            "title": "인기 상품",
+            "content": "세일 대상 품목에는 '감동 팬츠'와 '슈퍼 논아이론 셔츠' 등 인기 상품이 포함됩니다.",
+            "alt_text": "유니클로 감동 팬츠와 슈퍼 논아이론 셔츠 이미지"
+          },
+          {
+            "title": "특가 찬스",
+            "content": "이번 세일은 '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク' 캠페인의 마지막 특별 할인이 적용됩니다.",
+            "alt_text": "유니클로 세일 홍보 이미지"
+          },
+          {
+            "title": "놓치지 마세요",
+            "content": "여행 중 편안하고 스타일리시한 의류를 합리적인 가격으로 구매할 수 있는 좋은 기회입니다.",
+            "alt_text": "유니클로 매장 내부 모습"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "일본 유니클로 매장 방문 시, 세일 기간과 대상 상품을 미리 확인하고 쇼핑 계획을 세우는 것이 좋습니다.",
+            "alt_text": "쇼핑백을 들고 있는 사람 이미지"
+          }
+        ],
+        "caption": "일본 여행 중이라면 주목! 🇯🇵 유니클로 골든위크 세일이 5월 7일까지 연장되었어요! '감동 팬츠', '슈퍼 논아이론 셔츠' 등 인기 상품을 특별 할인가로 만날 수 있는 마지막 기회! 득템 찬스를 놓치지 마세요! 😉\n\n#일본여행 #유니클로 #GW세일 #일본쇼핑 #득템찬스 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#일본쇼핑",
+          "#GW세일",
+          "#골든위크",
+          "#일본여행정보",
+          "#여행필수템",
+          "#할인정보",
+          "#일본생활",
+          "#여행팁",
+          "#쇼핑스타그램",
+          "#일본직구",
+          "#가성비템",
+          "#득템"
+        ],
+        "alt_texts": [
+          "유니클로 GW 세일 안내 배너",
+          "유니클로 감동 팬츠와 슈퍼 논아이론 셔츠 이미지",
+          "유니클로 세일 홍보 이미지",
+          "유니클로 매장 내부 모습",
+          "쇼핑백을 들고 있는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중인 한국인 관광객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 정보성 콘텐츠로 높은 관심과 공유 / 이 콘텐츠의 강점: 시의성 있는 할인 정보와 구체적인 상품 언급으로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "Uniqlo GW Sale Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-GW-Sale-Japan",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20GW%20Sale%20Japan/"
+      }
+    },
     {
       "id": "plan_0881199d",
       "created_at": "2026-05-04T00:03:35.454839",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Station, Ekiben, Seafood bento, Shinagawa, Japanese train food, Premium bento",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station,-Ekiben,-Seafood-bento,-Shinagawa,-Japanese-train-food,-Premium-bento",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Station,%20Ekiben,%20Seafood%20bento,%20Shinagawa,%20Japanese%20train%20food,%20Premium%20bento/"
-      }
-    },
-    {
-      "id": "plan_810da8fc",
-      "created_at": "2026-05-01T00:05:50.760794",
-      "category": "hotplace",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、「モンチッチ」UTは本日発売！　昭和～平成のレトロかわいい全8種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105728.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "귀여운 캐릭터 굿즈를 저렴하게 득템할 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨유니클로x몽치치 UT 출시!✨",
-        "cards": [
-          {
-            "title": "오늘 출시!",
-            "content": "유니클로에서 인기 캐릭터 '몽치치'와 협업한 새로운 UT 컬렉션이 5월 1일 오늘 출시되었습니다! 昭和부터 平成 시대까지 추억을 담은 레트로 감성의 귀여운 디자인을 만나보세요.",
-            "alt_text": "유니클로와 몽치치가 협업한 UT 컬렉션 출시를 알리는 이미지"
-          },
-          {
-            "title": "총 8종 디자인",
-            "content": "이번 컬렉션은 총 8가지의 다양한 몽치치 디자인으로 구성되어 있습니다. 추억의 캐릭터를 좋아하는 분들에게는 놓칠 수 없는 기회입니다.",
-            "alt_text": "8가지 몽치치 UT 디자인 중 일부를 보여주는 이미지"
-          },
-          {
-            "title": "레트로 감성 UP!",
-            "content": "昭和와 平成 시대를 추억하는 분들에게는 더욱 특별한 아이템이 될 것입니다. 귀여움과 레트로 감성을 동시에 잡은 UT로 개성있는 스타일을 연출해보세요.",
-            "alt_text": "레트로한 분위기의 몽치치 캐릭터 이미지"
-          },
-          {
-            "title": "일본에서 득템!",
-            "content": "일본 유니클로 매장에서만 구매 가능하며, 여행 중 쇼핑 아이템으로 추천합니다. 가격 부담 없이 귀여운 굿즈를 득템할 수 있습니다.",
-            "alt_text": "일본 유니클로 매장 내부 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 마음에 드는 디자인이 있다면 서둘러 방문하시는 것을 추천합니다. 여행 일정 중 가까운 유니클로 매장을 미리 확인해보세요.",
-            "alt_text": "유니클로 쇼핑백 이미지"
-          }
-        ],
-        "caption": "💖오늘부터 일본 유니클로에서 몽치치 UT 컬렉션 만나요!💖\n\n昭和부터 平成까지, 추억의 캐릭터 몽치치가 유니클로 UT로 돌아왔어요!\n총 8가지의 귀여운 레트로 디자인으로 출시되어 취향대로 고르는 재미가 쏠쏠!\n여행 중 특별한 기념품이나 나만의 개성있는 스타일을 완성하고 싶다면, 지금 바로 일본 유니클로 매장으로 달려가세요!\n\n✅ 5월 1일 출시!\n✅ 총 8가지 디자인!\n✅ 일본 유니클로에서 만나보세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#몽치치",
-          "#UT",
-          "#일본쇼핑",
-          "#캐릭터굿즈",
-          "#레트로",
-          "#여행준비",
-          "#오늘의신상",
-          "#득템찬스",
-          "#일본쇼핑리스트",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#패션스타그램"
-        ],
-        "alt_texts": [
-          "유니클로와 몽치치가 협업한 UT 컬렉션 출시를 알리는 이미지",
-          "8가지 몽치치 UT 디자인 중 일부를 보여주는 이미지",
-          "레트로한 분위기의 몽치치 캐릭터 이미지",
-          "일본 유니클로 매장 내부 이미지",
-          "유니클로 쇼핑백 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 7시 - 9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 시기적절한 신상품 정보와 합리적인 가격의 쇼핑 아이템 제안",
-      "image": {
-        "keyword": "Uniqlo, Monchhichi, UT collection, Japan, collaboration, character goods, retro, t-shirt",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Monchhichi,-UT-collection,-Japan,-collaboration,-character-goods,-retro,-t-shirt",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Monchhichi,%20UT%20collection,%20Japan,%20collaboration,%20character%20goods,%20retro,%20t-shirt/"
-      }
-    },
-    {
-      "id": "plan_589a28ec",
-      "created_at": "2026-05-01T00:05:41.716734",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "そのスーツケース大丈夫？　新幹線の「特大荷物」持ち込みは専用スペースつき座席の予約必須",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105735.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센 이용 시 캐리어 보관 공간 예약 필수! 놓치면 곤란해요 😱"
-      },
-      "content": {
-        "thumbnail_title": "🚄신칸센 캐리어 🧳필수 예약!",
-        "cards": [
-          {
-            "title": "특대 짐 규정",
-            "content": "도카이도, 산요, 큐슈, 니시큐슈 신칸센에서 3변의 합이 160cm 초과하는 '특대 짐'은 반드시 '특대 짐 공간 부착 좌석' 사전 예약이 필수예요.",
-            "alt_text": "신칸센 좌석 옆에 마련된 특대형 짐 보관 공간 이미지"
-          },
-          {
-            "title": "예약 필수 구간",
-            "content": "도카이도, 산요, 큐슈, 니시큐슈 신칸센 구간에서만 적용됩니다. 이 구간을 이용하신다면 미리 꼭 확인하세요!",
-            "alt_text": "일본 신칸센 노선도 이미지 (해당 구간 강조)"
-          },
-          {
-            "title": "미예약 시 불이익",
-            "content": "사전 예약 없이 특대 짐을 가지고 탑승할 경우, 차내에서 짐을 다른 곳으로 옮기거나 추가 요금을 지불해야 할 수 있어요.",
-            "alt_text": "신칸센 좌석에 큰 캐리어를 둔 승객 이미지 (난처한 표정)"
-          },
-          {
-            "title": "예약 방법",
-            "content": "JR 공식 웹사이트나 역 창구에서 예약 가능하며, 예약 시 '특대 짐 공간 부착 좌석'을 선택해야 합니다. (예약 수수료는 별도)",
-            "alt_text": "JR 예약 웹사이트 화면 캡쳐 (특대 짐 좌석 선택 부분)"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "일본 연휴 기간(골든위크 등)에는 특히 좌석이 빨리 마감될 수 있으니, 여행 계획 시 미리 예약하는 것을 강력 추천해요!",
-            "alt_text": "골든위크 일본 여행 관련 이미지 (인파 묘사)"
-          }
-        ],
-        "caption": "일본 신칸센 이용 예정인 분들 주목! 🚄 캐리어 크기가 크다면 '특대 짐 공간 부착 좌석' 사전 예약이 필수라는 사실, 알고 계셨나요? 😱\n\n도카이도, 산요, 큐슈, 니시큐슈 신칸센 구간에서 3변의 합이 160cm를 초과하는 짐은 반드시 예약해야 해요. 예약 없이 탑승 시 추가 요금이나 짐 이동이 필요할 수 있으니, 여행 계획 시 꼭 미리 예약하세요! ✈️\n\n#일본여행 #신칸센 #캐리어 #짐보관 #필수정보 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#일본교통",
-          "#여행정보",
-          "#캐리어",
-          "#짐보관",
-          "#일본자유여행",
-          "#여행필수",
-          "#일본여행준비",
-          "#알아두면좋은",
-          "#일본",
-          "#여행팁",
-          "#골든위크",
-          "#JR패스"
-        ],
-        "alt_texts": [
-          "신칸센 좌석 옆에 마련된 특대형 짐 보관 공간 이미지",
-          "일본 신칸센 노선도 이미지 (해당 구간 강조)",
-          "신칸센 좌석에 큰 캐리어를 둔 승객 이미지 (난처한 표정)",
-          "JR 예약 웹사이트 화면 캡쳐 (특대 짐 좌석 선택 부분)",
-          "골든위크 일본 여행 관련 이미지 (인파 묘사)"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 9시~11시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 규정 정보와 사전 예약의 중요성을 명확히 전달하여 여행 중 발생할 수 있는 불편함을 예방",
-      "image": {
-        "keyword": "Shinkansen, large luggage, reserved seat, Japan travel, train",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-large-luggage,-reserved-seat,-Japan-travel,-train",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20large%20luggage,%20reserved%20seat,%20Japan%20travel,%20train/"
       }
     }
   ]
