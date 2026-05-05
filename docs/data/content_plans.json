@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-05T00:08:37.000205",
+  "last_updated": "2026-05-05T03:42:38.624056",
   "plans": [
+    {
+      "id": "plan_0cf29653",
+      "created_at": "2026-05-05T03:42:36.623883",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "トラベロカ、「5.5 EPIC SALE」を開催中　韓国行き航空券最大55％オフ",
+        "url": "https://www.traicy.com/posts/20260504369651/",
+        "date": "Mon, 04 May 2026 13:23:52 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "한국행 항공권 최대 55% 할인 프로모션 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✈️한국행 특가 찬스!✈️",
+        "cards": [
+          {
+            "title": "5.5 에픽 세일",
+            "content": "일본 여행 플랫폼 '트래블로카'에서 5월 4일부터 8일까지 '5.5 에픽 세일'을 진행해요. 한국행 항공권을 최대 55% 할인된 가격으로 만나볼 수 있습니다.",
+            "alt_text": "항공권 할인 프로모션 배너 이미지"
+          },
+          {
+            "title": "다양한 혜택",
+            "content": "한국행 항공권 외에도, 한국 외 다른 목적지 항공권은 5,500엔 할인, 5성급 호텔도 5,500엔 할인 혜택을 제공합니다.",
+            "alt_text": "호텔 할인 프로모션 이미지"
+          },
+          {
+            "title": "프로모션 기간",
+            "content": "이번 '5.5 에픽 세일'은 5월 4일부터 5월 8일까지 단 5일간 진행되니 서둘러야 해요!",
+            "alt_text": "달력에 표시된 5월 4일부터 8일까지의 날짜 이미지"
+          },
+          {
+            "title": "항공권 꿀팁",
+            "content": "일본 여행 계획 중이시라면, 한국으로 돌아오는 항공권을 저렴하게 구매할 수 있는 절호의 찬스입니다. 미리 확인하고 예약하세요!",
+            "alt_text": "비행기 창밖으로 보이는 풍경 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "할인율 및 적용 조건은 프로모션 상세 페이지에서 반드시 확인해야 합니다. 조기 마감될 수 있으니 신속한 결정이 중요해요.",
+            "alt_text": "주의 문구가 있는 경고 표시 이미지"
+          }
+        ],
+        "caption": "일본 여행 후 한국으로 돌아올 때, 항공권 부담을 확 줄여줄 절호의 찬스! ✈️ 트래블로카 '5.5 에픽 세일'에서 한국행 항공권을 최대 55% 할인받으세요! 💸 5월 4일부터 8일까지 진행되니, 지금 바로 확인하고 득템하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본항공권",
+          "#항공권할인",
+          "#트래블로카",
+          "#5.5에픽세일",
+          "#일본여행준비",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#특가항공권",
+          "#일본",
+          "#여행스타그램",
+          "#여행정보",
+          "#할인정보",
+          "#프로모션"
+        ],
+        "alt_texts": [
+          "항공권 할인 프로모션 배너 이미지",
+          "호텔 할인 프로모션 이미지",
+          "달력에 표시된 5월 4일부터 8일까지의 날짜 이미지",
+          "비행기 창밖으로 보이는 풍경 이미지",
+          "주의 문구가 있는 경고 표시 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 후 한국으로 귀국 예정인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "flight discount, traveloka sale, korea flight ticket, travel promotion, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/flight-discount,-traveloka-sale,-korea-flight-ticket,-travel-promotion,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/flight%20discount,%20traveloka%20sale,%20korea%20flight%20ticket,%20travel%20promotion,%20limited%20time%20offer/"
+      }
+    },
+    {
+      "id": "plan_6993b9c8",
+      "created_at": "2026-05-05T03:42:30.279533",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Visa、全国の鉄道でタッチ決済乗車すると30％キャッシュバック「タッチでVisa割」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106236.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전국 철도 30% 캐시백! 비자 터치 결제로 잊지 말고 챙기세요!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵비자 터치 30% 캐시백! 💳",
+        "cards": [
+          {
+            "title": "이벤트 기간",
+            "content": "5월 1일부터 5월 31일까지, 한 달간 진행됩니다. 이 기간을 놓치지 마세요!",
+            "alt_text": "달력에 5월 1일부터 31일까지 표시된 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "일본 전국 철도에서 비자 터치 결제로 승차 시 자동으로 30% 캐시백 혜택을 받을 수 있습니다.",
+            "alt_text": "신용카드를 태그하는 모습의 이미지"
+          },
+          {
+            "title": "캐시백 혜택",
+            "content": "결제 금액의 30%를 캐시백으로 돌려받아 더욱 알뜰한 일본 여행을 즐길 수 있습니다.",
+            "alt_text": "돈이 쌓이는 모습의 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "터치 결제 기능이 있는 비자 카드로만 참여 가능하며, 일부 노선은 제외될 수 있습니다. 미리 확인하세요!",
+            "alt_text": "주의 표시와 함께 카드 이미지가 있는 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "환전 부담 없이, 교통비 절약까지! 일본 여행 중 현지 교통비를 비자 터치 결제로 해결해 보세요.",
+            "alt_text": "여행 가방과 교통카드 이미지가 함께 있는 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 교통비 절약 찬스! ✈️ 5월 한 달간, 비자 터치 결제로 일본 전국 철도 탑승 시 30% 캐시백 혜택을 드려요! 💳\n\n✨ 기간: 5/1 ~ 5/31\n✨ 혜택: 비자 터치 결제 시 30% 캐시백\n\n일본 여행 계획 중이라면, 이 꿀팁 꼭 챙기세요! 😉\n\n#일본여행 #플라잉재팬 #비자카드 #터치결제 #교통비할인 #일본교통 #여행꿀팁 #일본정복 #5월여행 #알뜰여행 #해외여행 #여행스타그램 #비자 #일본 #캐시백",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#비자카드",
+          "#터치결제",
+          "#교통비할인",
+          "#일본교통",
+          "#여행꿀팁",
+          "#일본정복",
+          "#5월여행",
+          "#알뜰여행",
+          "#해외여행",
+          "#여행스타그램",
+          "#비자",
+          "#일본",
+          "#캐시백"
+        ],
+        "alt_texts": [
+          "달력에 5월 1일부터 31일까지 표시된 이미지",
+          "신용카드를 태그하는 모습의 이미지",
+          "돈이 쌓이는 모습의 이미지",
+          "주의 표시와 함께 카드 이미지가 있는 이미지",
+          "여행 가방과 교통카드 이미지가 함께 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 오후 6시~9시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 참여율과 정보 공유, 여행 계획에 즉각적인 도움 제공 / 이 콘텐츠의 강점: 실질적인 교통비 절약 정보, 명확한 기간 및 혜택 명시",
+      "image": {
+        "keyword": "Japan train, Visa contactless payment, cashback, travel discount, May campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-train,-Visa-contactless-payment,-cashback,-travel-discount,-May-campaign",
+        "pexels_url": "https://www.pexels.com/search/Japan%20train,%20Visa%20contactless%20payment,%20cashback,%20travel%20discount,%20May%20campaign/"
+      }
+    },
     {
       "id": "plan_71ba7ec6",
       "created_at": "2026-05-05T00:08:35.000016",
@@ -923,160 +1077,6 @@
         "keyword": "pet on train japan, japan railway, hand baggage ticket, pet travel japan, JR train rules",
         "unsplash_url": "https://unsplash.com/s/photos/pet-on-train-japan,-japan-railway,-hand-baggage-ticket,-pet-travel-japan,-JR-train-rules",
         "pexels_url": "https://www.pexels.com/search/pet%20on%20train%20japan,%20japan%20railway,%20hand%20baggage%20ticket,%20pet%20travel%20japan,%20JR%20train%20rules/"
-      }
-    },
-    {
-      "id": "plan_8c1237f7",
-      "created_at": "2026-05-02T00:06:01.443028",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【若林直樹のトラベルフォトギャラリー】富士芝桜まつり（山梨県）",
-        "url": "https://travel.watch.impress.co.jp/docs/series/wakabayashi/2105985.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "5월 연휴에도 벚꽃을 볼 수 있는 절호의 찬스! 분홍빛 융단과 후지산의 환상적인 콜라보를 놓치지 마세요."
-      },
-      "content": {
-        "thumbnail_title": "🌸5월에도 벚꽃🌸 후지산 芝桜まつ리",
-        "cards": [
-          {
-            "title": "개화 시기",
-            "content": "매년 4월 중순부터 5월 말까지 芝桜(시바자쿠라)가 만개합니다. 5월 연휴 기간인 5월 초중순에 방문하면 절정을 이룬 분홍빛 芝桜을 감상할 수 있습니다.",
-            "alt_text": "분홍색 芝桜 꽃이 드넓게 펼쳐진 풍경"
-          },
-          {
-            "title": "후지산 뷰",
-            "content": "해발 1000m 고지에서 약 50만 송이의 芝桜이 후지산의 웅장한 풍경과 어우러져 환상적인 뷰를 선사합니다. 최고의 포토 스팟을 놓치지 마세요.",
-            "alt_text": "분홍색 芝桜 꽃밭 너머로 보이는 후지산"
-          },
-          {
-            "title": "입장료",
-            "content": "성인 기준 600엔입니다. 사전 예약 시 할인 혜택이 있는지 확인해 보세요. (2023년 기준, 변동 가능성 있음)",
-            "alt_text": "芝桜まつ리 입장권 이미지"
-          },
-          {
-            "title": "교통 정보",
-            "content": "가와구치코역 또는 가시와기역에서 셔틀버스를 이용하는 것이 가장 편리합니다. 약 20-30분 소요됩니다.",
-            "alt_text": "셔틀버스 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "날씨가 좋으면 더욱 아름다운 풍경을 볼 수 있습니다. 방문 전 일기 예보를 꼭 확인하세요. 5월 초 연휴 기간에는 매우 혼잡할 수 있으니 오전에 일찍 방문하는 것을 추천합니다.",
-            "alt_text": "芝桜 앞에서 사진 찍는 관광객"
-          }
-        ],
-        "caption": "🌸5월에도 벚꽃을 볼 수 있다면?🌸 야마나시현 후지모토스 리조트에서 열리는 '후지 芝桜まつ리'로 떠나요! 💖\n\n해발 1000m 고지에서 약 50만 송이의 芝桜이 후지산과 어우러져 장관을 이룹니다. 5월 연휴 기간, 분홍빛 융단 위에서 인생샷 남겨보세요! 📸\n\n🗓️ 기간: 4월 중순 ~ 5월 말\n📍 위치: 야마나시현 후지모토스 리조트\n💰 입장료: 성인 600엔 (변동 가능)\n🚗 교통: 가와구치코/가시와기역 셔틀버스 이용\n\n#일본여행 #후지산 #芝桜まつり #야마나시 #5월여행 #일본축제 #후지芝桜まつり #플라잉재팬 #여행정보 #일본꿀팁 #여행스타그램 #일본가볼만한곳 #벚꽃명소 #인생샷명소 #일본자유여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후지산",
-          "#芝桜まつり",
-          "#야마나시",
-          "#5월여행",
-          "#일본축제",
-          "#후지芝桜まつり",
-          "#여행정보",
-          "#일본꿀팁",
-          "#여행스타그램",
-          "#일본가볼만한곳",
-          "#벚꽃명소",
-          "#인생샷명소",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "분홍색 芝桜 꽃이 드넓게 펼쳐진 풍경",
-          "분홍색 芝桜 꽃밭 너머로 보이는 후지산",
-          "芝桜まつ리 입장권 이미지",
-          "셔틀버스 이미지",
-          "芝桜 앞에서 사진 찍는 관광객"
-        ]
-      },
-      "marketer_analysis": "타겟: 5월 황금연휴 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 월~금 10시, 14시 / 기대 반응: '와 진짜 예쁘다!', '꼭 가봐야겠다'는 댓글 및 저장 수 증가 / 이 콘텐츠의 강점: 5월 연휴 시즌에 맞춰 희소성 있는 벚꽃 시즌 정보를 제공하며, 후지산과의 콜라보로 시각적 매력이 매우 높음.",
-      "image": {
-        "keyword": "Fuji Shibazakura Festival, Mount Fuji, Pink carpet of flowers, Yamanashi, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Fuji-Shibazakura-Festival,-Mount-Fuji,-Pink-carpet-of-flowers,-Yamanashi,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Fuji%20Shibazakura%20Festival,%20Mount%20Fuji,%20Pink%20carpet%20of%20flowers,%20Yamanashi,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_2cd87689",
-      "created_at": "2026-05-02T00:05:54.895232",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "心斎橋にエリア最大級の複合商業施設「クオーツ心斎橋」誕生！　商業テナント、6月オープンのホテルなど全容を見てきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106350.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 신사이바시 최대 규모 복합 시설 오픈! 쇼핑, 호텔까지 한 번에 해결!"
-      },
-      "content": {
-        "thumbnail_title": "✨신사이바시 신상 쇼핑몰✨",
-        "cards": [
-          {
-            "title": "신규 시설 오픈",
-            "content": "오사카 신사이바시에 지역 최대 규모의 복합 시설 '쿼츠 신사이바시'가 새롭게 문을 열었습니다. 쇼핑, 호텔, 오피스가 결합된 곳입니다.",
-            "alt_text": "오사카 신사이바시에 새롭게 오픈한 복합 시설 '쿼츠 신사이바시' 외관"
-          },
-          {
-            "title": "쇼핑 & 호텔",
-            "content": "다양한 상업 시설과 함께 6월에는 호텔도 오픈 예정입니다. 쇼핑과 숙박을 한 곳에서 해결할 수 있어 편리합니다.",
-            "alt_text": "'쿼츠 신사이바시' 내부의 쇼핑 공간 모습"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 오사카부 오사카시 추오구 미나미센바 3-12-14입니다. 신사이바시역에서 도보로 이동 가능합니다.",
-            "alt_text": "'쿼츠 신사이바시' 위치를 보여주는 지도 이미지"
-          },
-          {
-            "title": "여행 계획 UP!",
-            "content": "새로운 복합 시설 오픈으로 신사이바시 여행이 더욱 풍성해질 전망입니다. 방문 전 어떤 시설이 있는지 미리 확인해보세요.",
-            "alt_text": "오사카 신사이바시의 활기찬 거리 풍경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "호텔 오픈 일정(6월 예정)을 확인하여 숙박 계획을 세우면 더욱 알찬 여행이 될 수 있습니다. 오픈 이벤트나 프로모션도 기대해볼 만합니다.",
-            "alt_text": "여행 계획을 세우는 모습"
-          }
-        ],
-        "caption": "🇯🇵 오사카 신사이바시 쇼핑 성지 예약! ✨\n\n지역 최대 규모 복합 시설 '쿼츠 신사이바시' 오픈 소식! 🤩\n다양한 쇼핑 시설과 함께 6월에는 호텔까지 오픈 예정이라고 해요. 🏨\n\n오사카 여행 계획 중이라면 신사이바시의 새로운 랜드마크를 놓치지 마세요! 😉\n\n#일본여행 #오사카여행 #신사이바시 #플라잉재팬 #일본쇼핑 #일본신상 #일본호텔 #여행정보 #여행필수템 #해외여행 #일본자유여행 #일본가볼만한곳 #여행스타그램 #오사카쇼핑 #쿼츠신사이바시",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#신사이바시",
-          "#쿼츠신사이바시",
-          "#일본쇼핑",
-          "#일본신상",
-          "#일본호텔",
-          "#여행정보",
-          "#해외여행",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#오사카쇼핑",
-          "#일본"
-        ],
-        "alt_texts": [
-          "오사카 신사이바시에 새롭게 오픈한 복합 시설 '쿼츠 신사이바시' 외관",
-          "'쿼츠 신사이바시' 내부의 쇼핑 공간 모습",
-          "'쿼츠 신사이바시' 위치를 보여주는 지도 이미지",
-          "오사카 신사이바시의 활기찬 거리 풍경",
-          "여행 계획을 세우는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 신규 시설 오픈에 대한 관심 및 정보 공유, 오사카 여행 계획에 대한 기대감 고조 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 시설 및 위치 정보 제공으로 여행 계획에 직접적인 도움 제공",
-      "image": {
-        "keyword": "Osaka Shinsaibashi new shopping mall, Quartz Shinsaibashi exterior, Quartz Shinsaibashi interior shopping, map of Shinsaibashi, vibrant street in Osaka Shinsaibashi, planning a trip",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Shinsaibashi-new-shopping-mall,-Quartz-Shinsaibashi-exterior,-Quartz-Shinsaibashi-interior-shopping,-map-of-Shinsaibashi,-vibrant-street-in-Osaka-Shinsaibashi,-planning-a-trip",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Shinsaibashi%20new%20shopping%20mall,%20Quartz%20Shinsaibashi%20exterior,%20Quartz%20Shinsaibashi%20interior%20shopping,%20map%20of%20Shinsaibashi,%20vibrant%20street%20in%20Osaka%20Shinsaibashi,%20planning%20a%20trip/"
       }
     }
   ]
