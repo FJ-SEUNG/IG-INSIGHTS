@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-07T00:05:06.589335",
+  "last_updated": "2026-05-07T03:57:10.776206",
   "plans": [
+    {
+      "id": "plan_9b3a9ffd",
+      "created_at": "2026-05-07T03:57:08.776012",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ミャクミャクぬいぐるみくじ、黒バージョンになって復活！　東京・大阪で5月18日から開催決定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106754.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2025 오사카/간사이 엑스포 공식 굿즈 '미야쿠미야쿠' 인형 뽑기, 블랙 버전으로 재등장! 놓치면 후회할 한정판 굿즈!"
+      },
+      "content": {
+        "thumbnail_title": "✨미야쿠미야쿠 🖤블랙 인형✨",
+        "cards": [
+          {
+            "title": "블랙 버전 등장!",
+            "content": "2025 오사카/간사이 엑스포에서 인기였던 '미야쿠미야쿠' 인형 뽑기가 더욱 특별한 '블랙 버전'으로 돌아왔어요. 엑스포 기간 동안 현장에서만 만날 수 있었던 귀여운 친구들을 다시 만날 기회!",
+            "alt_text": "검은색 바탕에 귀여운 미야쿠미야쿠 캐릭터가 그려진 인형 뽑기 기계 이미지"
+          },
+          {
+            "title": "개최 기간",
+            "content": "2024년 5월 18일부터 시작됩니다. 정확한 종료일은 추후 공지될 예정이니, 여행 계획에 참고하세요!",
+            "alt_text": "달력에 5월 18일이 표시된 이미지"
+          },
+          {
+            "title": "개최 장소",
+            "content": "도쿄와 오사카 두 곳에서 진행됩니다. 엑스포 공식 스토어인 '준크도 서점'에서 만날 수 있어요.",
+            "alt_text": "도쿄와 오사카 지도를 보여주는 이미지"
+          },
+          {
+            "title": "인기 굿즈",
+            "content": "엑스포 현장에서 엄청난 인기를 누렸던 '미야쿠미야쿠' 굿즈! 이번 블랙 버전도 조기 품절될 수 있으니 서두르세요.",
+            "alt_text": "여러 개의 미야쿠미야쿠 인형이 쌓여있는 모습"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "엑스포 기간에 방문하지 못했거나, 블랙 버전을 꼭 갖고 싶은 분이라면 이번 기회를 놓치지 마세요! 특별한 기념품이 될 거예요.",
+            "alt_text": "여행자가 미야쿠미야쿠 인형을 들고 행복해하는 모습"
+          }
+        ],
+        "caption": "✈️ 2025 오사카/간사이 엑스포 공식 굿즈, '미야쿠미야쿠' 인형 뽑기가 블랙 버전으로 돌아왔어요!🖤\n\n📍 도쿄 & 오사카\n🗓️ 5월 18일 ~ (종료일 미정)\n\n엑스포 현장에서 엄청난 인기를 자랑했던 미야쿠미야쿠! 이번엔 시크한 블랙 버전으로 만날 수 있답니다. 엑스포 방문 못했던 분들, 블랙 버전 굿즈를 원했던 분들은 절대 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #오사카여행 #도쿄여행 #2025오사카엑스포 #미야쿠미야쿠 #인형뽑기 #일본굿즈 #여행필수템 #한정판 #여행정보 #일본쇼핑 #여행꿀팁 #엑스포굿즈 #일본한정",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#도쿄여행",
+          "#2025오사카엑스포",
+          "#미야쿠미야쿠",
+          "#인형뽑기",
+          "#일본굿즈",
+          "#여행필수템",
+          "#한정판",
+          "#여행정보",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#엑스포굿즈",
+          "#일본한정"
+        ],
+        "alt_texts": [
+          "검은색 바탕에 귀여운 미야쿠미야쿠 캐릭터가 그려진 인형 뽑기 기계 이미지",
+          "달력에 5월 18일이 표시된 이미지",
+          "도쿄와 오사카 지도를 보여주는 이미지",
+          "여러 개의 미야쿠미야쿠 인형이 쌓여있는 모습",
+          "여행자가 미야쿠미야쿠 인형을 들고 행복해하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 2025 오사카/간사이 엑스포에 관심 있는 한국인 여행자, 귀여운 캐릭터 굿즈 수집가 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 굿즈 획득 인증샷 기대 / 이 콘텐츠의 강점: 엑스포 관련 희소성 있는 굿즈 정보, 놓치면 후회할 만한 한정판 소식",
+      "image": {
+        "keyword": "Myak Myak plush toy crane game black version Osaka Expo Tokyo event",
+        "unsplash_url": "https://unsplash.com/s/photos/Myak-Myak-plush-toy-crane-game-black-version-Osaka-Expo-Tokyo-event",
+        "pexels_url": "https://www.pexels.com/search/Myak%20Myak%20plush%20toy%20crane%20game%20black%20version%20Osaka%20Expo%20Tokyo%20event/"
+      }
+    },
+    {
+      "id": "plan_4b2b0ae4",
+      "created_at": "2026-05-07T03:57:01.806281",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ニトリ、ハンズフリーで涼しい“小型ボックスファン”1990円。腰ベルトやバッグに装着",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106755.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 더위를 시원하게 날려줄 꿀템 발견! ☀️"
+      },
+      "content": {
+        "thumbnail_title": "일본에서 1990엔 득템! 쿨링템 💨",
+        "cards": [
+          {
+            "title": "니토리 신상템",
+            "content": "일본 니토리에서 '벨트에 착용 가능한 소형 박스 팬'을 출시했어요. 더운 날씨에 휴대하며 시원함을 유지할 수 있는 아이템입니다.",
+            "alt_text": "니토리에서 판매하는 휴대용 선풍기 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 1990엔으로, 부담 없이 구매하기 좋은 가격대입니다. 일본 여행 중 예상치 못한 더위에 대비하기 좋아요.",
+            "alt_text": "휴대용 선풍기 가격표 이미지"
+          },
+          {
+            "title": "활용 팁",
+            "content": "벨트나 가방에 간편하게 착용 가능하며, 손을 자유롭게 사용할 수 있어 관광이나 쇼핑 중에도 편리하게 사용할 수 있습니다.",
+            "alt_text": "벨트에 휴대용 선풍기를 착용한 사람 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "일부 니토리 매장 및 니토리 공식 온라인 스토어에서 구매 가능합니다. 현지에서 직접 보고 구매하는 재미도 놓치지 마세요!",
+            "alt_text": "니토리 매장 외관 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여름철 일본 여행 시 필수템으로 추천! 특히 야외 활동이 많거나 대중교통 이용 시 유용할 거예요. 짐이 많다면 더욱 추천합니다.",
+            "alt_text": "여름철 일본 거리에서 휴대용 선풍기를 사용하는 사람 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 더위와의 싸움은 이제 그만! ✋ 니토리에서 새롭게 출시된 1990엔짜리 휴대용 박스 팬으로 시원하게 여행하세요! 💨 벨트나 가방에 착용 가능해서 양손이 자유롭답니다. 여름철 일본 여행 필수템으로 찜콩! ✨\n\n#일본여행 #플라잉재팬 #일본쇼핑 #니토리 #휴대용선풍기 #여름필수템 #일본득템 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#니토리",
+          "#휴대용선풍기",
+          "#여름필수템",
+          "#일본여행꿀팁",
+          "#일본생활",
+          "#일본쇼핑리스트",
+          "#가성비템",
+          "#여행준비",
+          "#일본자유여행",
+          "#일본스타그램",
+          "#일본정보",
+          "#일본쇼핑추천"
+        ],
+        "alt_texts": [
+          "니토리에서 판매하는 휴대용 선풍기 이미지",
+          "휴대용 선풍기 가격표 이미지",
+          "벨트에 휴대용 선풍기를 착용한 사람 이미지",
+          "니토리 매장 외관 이미지",
+          "여름철 일본 거리에서 휴대용 선풍기를 사용하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름철 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실용적인 아이템, 저렴한 가격, 즉각적인 더위 해소 효과",
+      "image": {
+        "keyword": "Nitori belt fan, portable fan Japan, summer travel essential Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Nitori-belt-fan,-portable-fan-Japan,-summer-travel-essential-Japan",
+        "pexels_url": "https://www.pexels.com/search/Nitori%20belt%20fan,%20portable%20fan%20Japan,%20summer%20travel%20essential%20Japan/"
+      }
+    },
     {
       "id": "plan_be41379c",
       "created_at": "2026-05-07T00:05:04.589110",
@@ -923,160 +1077,6 @@
         "keyword": "Uniqlo GW Sale Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-GW-Sale-Japan",
         "pexels_url": "https://www.pexels.com/search/Uniqlo%20GW%20Sale%20Japan/"
-      }
-    },
-    {
-      "id": "plan_0881199d",
-      "created_at": "2026-05-04T00:03:35.454839",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】2026年度新任JALふるさとアンバサダーを6名ご紹介！",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2104646.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 승무원이 직접 추천하는 일본 지역 명소와 숨은 매력 발견!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 승무원이 추천하는 일본 숨은 명소✈️",
-        "cards": [
-          {
-            "title": "JAL 지역 활성화",
-            "content": "JAL은 'JALふるさとプロジェクト'를 통해 지역 활성화에 힘쓰고 있습니다. 2020년 8월부터는 객실 승무원이 직접 지역으로 이주하는 'JALふるさとアンバサダー'를 운영 중입니다.",
-            "alt_text": "JAL 비행기 이미지"
-          },
-          {
-            "title": "지역 명소 추천",
-            "content": "이들은 객실 승무원으로서 쌓은 경험과 지식을 바탕으로 각 지역의 숨은 매력을 발굴하고, 지역 특산품 개발 및 지역 문제 해결에 기여하고 있습니다.",
-            "alt_text": "일본 지역 풍경 이미지"
-          },
-          {
-            "title": "응원대 활동",
-            "content": "또한, 2020년 12월부터는 승무 업무를 병행하며 지역 활성화에 참여하는 'JALふるさと応援隊'도 임명되었습니다.",
-            "alt_text": "JAL 승무원 이미지"
-          },
-          {
-            "title": "새로운 여행지 발굴",
-            "content": "2026년도 신임 JALふるさとアンバサダー 6명이 새롭게 활동을 시작하며, 더욱 다채로운 일본 지역의 매력을 소개할 예정입니다.",
-            "alt_text": "새로운 JAL 승무원 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "JAL 공식 채널이나 관련 뉴스를 통해 이들이 추천하는 숨겨진 맛집, 명소, 체험 활동 정보를 미리 확인하면 더욱 특별한 일본 여행을 계획할 수 있습니다.",
-            "alt_text": "여행 계획하는 사람 이미지"
-          }
-        ],
-        "caption": "✈️ JAL 승무원들이 직접 추천하는 일본 숨은 명소! ✈️\n2026년도 신임 JALふるさとアンバサ더 6명이 새롭게 합류하며, 일본 각 지역의 다채로운 매력을 소개합니다.\n지역 활성화를 위해 객실 승무원들이 직접 나서 추천하는 특별한 여행 정보를 놓치지 마세요! 😉\n#일본여행 #JAL #일본숨은명소 #지역활성화 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#일본가볼만한곳",
-          "#일본여행정보",
-          "#일본현지",
-          "#일본숨은명소",
-          "#지역특산품",
-          "#일본문화",
-          "#여행스타그램",
-          "#해외여행",
-          "#JAL승무원",
-          "#일본로컬",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "JAL 비행기 이미지",
-          "일본 지역 풍경 이미지",
-          "JAL 승무원 이미지",
-          "새로운 JAL 승무원 이미지",
-          "여행 계획하는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 1-3시 / 기대 반응: 일본 현지인 추천 정보에 대한 높은 관심, 특별한 여행지 발굴에 대한 기대감 / 이 콘텐츠의 강점: 항공사 승무원의 직접적인 추천이라는 신뢰도 높은 정보, 일반적인 관광 정보에서 벗어난 차별화된 콘텐츠",
-      "image": {
-        "keyword": "JAL flight attendant recommending local Japanese spots",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-attendant-recommending-local-Japanese-spots",
-        "pexels_url": "https://www.pexels.com/search/JAL%20flight%20attendant%20recommending%20local%20Japanese%20spots/"
-      }
-    },
-    {
-      "id": "plan_48d9fa82",
-      "created_at": "2026-05-04T00:03:28.381131",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "首都高、羽田線下り48時間通行止は9日0時から。芝浦→勝島間",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105861.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 시 하네다 공항 이동 시 필수 확인!"
-      },
-      "content": {
-        "thumbnail_title": "✈️하네다선 48시간 통제!",
-        "cards": [
-          {
-            "title": "통제 구간",
-            "content": "수도고속도로 1호 하네다선(동시나가와교~사메즈매립부) 구간에서 통행이 전면 금지됩니다.",
-            "alt_text": "수도고속도로 1호 하네다선 공사 구간 지도"
-          },
-          {
-            "title": "통제 시간",
-            "content": "5월 9일 0시부터 5월 10일 24시까지 총 48시간 동안 통제됩니다. (2일간)",
-            "alt_text": "통제 시작 및 종료 시간 표시"
-          },
-          {
-            "title": "하행선 통제",
-            "content": "芝浦(시바우라) ~ 勝島(카츠시마) 구간 하행선 통행이 불가합니다.",
-            "alt_text": "하행선 통제 방향 표시"
-          },
-          {
-            "title": "진입 제한",
-            "content": "芝浦(시바우라) 입구(하행)가 폐쇄되므로 해당 구간으로 진입할 수 없습니다.",
-            "alt_text": "시바우라 입구 폐쇄 안내"
-          },
-          {
-            "title": "대체 경로",
-            "content": "해당 기간 도쿄 시내 및 하네다 공항 이동 시, 통제 구간 및 시간을 반드시 확인하시고 우회 경로를 미리 파악해두세요!",
-            "alt_text": "대체 경로 안내 지도"
-          }
-        ],
-        "caption": "✈️ 도쿄 여행 시 필수 확인! 5월 9일 0시부터 5월 10일 24시까지, 수도고속도로 1호 하네다선 芝浦(시바우라) ~ 勝島(카츠시마) 구간 하행선이 48시간 동안 통제됩니다. 🚨 芝浦(시바우라) 입구도 폐쇄되니, 해당 기간 하네다 공항 이동 시 반드시 대체 경로를 확인하세요! 꼼꼼하게 미리 준비해서 즐거운 도쿄 여행 되세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#하네다공항",
-          "#일본교통",
-          "#수도고속도로",
-          "#교통통제",
-          "#일본정보",
-          "#여행꿀팁",
-          "#5월여행",
-          "#도쿄",
-          "#일본",
-          "#여행",
-          "#필수정보",
-          "#안전여행"
-        ],
-        "alt_texts": [
-          "수도고속도로 1호 하네다선 공사 구간 지도",
-          "통제 시작 및 종료 시간 표시",
-          "하행선 통제 방향 표시",
-          "시바우라 입구 폐쇄 안내",
-          "대체 경로 안내 지도"
-        ]
-      },
-      "marketer_analysis": "타겟: 5월 중 도쿄 하네다 공항을 이용하는 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 주말 저녁 또는 여행 직전 평일 저녁 / 기대 반응: 정보 확인 및 공유, 우회 경로 문의 / 이 콘텐츠의 강점: 구체적인 시간, 구간, 진입 제한 정보를 명확히 제공하여 실제적인 도움 제공",
-      "image": {
-        "keyword": "Tokyo highway traffic control, Haneda Airport access, Japan road closure, Shuto Expressway construction",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-highway-traffic-control,-Haneda-Airport-access,-Japan-road-closure,-Shuto-Expressway-construction",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20highway%20traffic%20control,%20Haneda%20Airport%20access,%20Japan%20road%20closure,%20Shuto%20Expressway%20construction/"
       }
     }
   ]
