@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-06T03:58:23.245759",
+  "last_updated": "2026-05-07T00:05:06.589335",
   "plans": [
+    {
+      "id": "plan_be41379c",
+      "created_at": "2026-05-07T00:05:04.589110",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "旅行アプリ「NEWT」でメガサマーセール。韓国3日間1万9800円〜ほか、LINE友だち追加で1万円クーポンも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106420.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행, 역대급 할인 찬스! 1만 9800엔부터 시작하는 특가 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 최저가 19,800엔부터!",
+        "cards": [
+          {
+            "title": "역대급 세일!",
+            "content": "일본 여행 앱 'NEWT'에서 '여름 여행 찬스, 개막! NEWT 메가 서머 세일'을 진행합니다. 3일권이 1만 9800엔부터 시작하는 파격적인 가격으로 만나보세요!",
+            "alt_text": "여름 휴가를 떠나는 젊은 커플의 모습"
+          },
+          {
+            "title": "기간 확인 필수!",
+            "content": "이번 메가 서머 세일은 5월 9일 오후 12시부터 6월 20일 오전 11시 59분까지 진행됩니다. 서두르지 않으면 품절될 수 있어요!",
+            "alt_text": "달력에 표시된 세일 기간"
+          },
+          {
+            "title": "추가 1만원 쿠폰!",
+            "content": "LINE 친구 추가 시 1만 엔 할인 쿠폰을 추가로 증정합니다. 이 기회를 놓치면 정말 후회할 거예요!",
+            "alt_text": "LINE 앱 로고와 할인 쿠폰 이미지"
+          },
+          {
+            "title": "초특가 일본행",
+            "content": "이번 프로모션을 통해 한국 출발 3일 기준 1만 9800엔부터 시작하는 놀라운 가격으로 일본 여행을 계획할 수 있습니다.",
+            "alt_text": "비행기 창밖으로 보이는 일본 도시의 풍경"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "저렴한 가격으로 꿈꿔왔던 일본 여행을 떠날 절호의 찬스! 지금 바로 'NEWT' 앱에서 확인하고 예약하세요. 한정 수량으로 조기 마감될 수 있습니다.",
+            "alt_text": "환하게 웃으며 일본 여행을 즐기는 여행객"
+          }
+        ],
+        "caption": "✈️ 역대급 여름 할인 찬스! ✈️\n일본 여행 앱 'NEWT'에서 '메가 서머 세일'을 진행합니다!\n\n✅ 한국 출발 3일권 19,800엔부터!\n✅ 5월 9일 12시 ~ 6월 20일 11시 59분까지\n✅ LINE 친구 추가 시 1만 엔 추가 할인 쿠폰 증정!\n\n꿈꿔왔던 일본 여행, 가장 저렴하게 떠날 기회! 지금 바로 'NEWT' 앱에서 확인하세요! 🤩\n\n#일본여행 #플라잉재팬 #일본할인 #여행특가 #여름휴가 #일본여행준비 #NEWT #해외여행 #일본여행어디까지가봤니 #일본항공권 #일본숙소 #일본여행꿀팁 #가성비여행 #여행스타그램 #일본행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본할인",
+          "#여행특가",
+          "#여름휴가",
+          "#일본여행준비",
+          "#NEWT",
+          "#해외여행",
+          "#일본여행어디까지가봤니",
+          "#일본항공권",
+          "#일본숙소",
+          "#일본여행꿀팁",
+          "#가성비여행",
+          "#여행스타그램",
+          "#일본행"
+        ],
+        "alt_texts": [
+          "여름 휴가를 떠나는 젊은 커플의 모습",
+          "달력에 표시된 세일 기간",
+          "LINE 앱 로고와 할인 쿠폰 이미지",
+          "비행기 창밖으로 보이는 일본 도시의 풍경",
+          "환하게 웃으며 일본 여행을 즐기는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 높은 클릭률 및 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 가격 정보로 즉각적인 관심 유발 및 구매 전환 가능성 높음",
+      "image": {
+        "keyword": "japanese summer sale, travel app discount, cheap flights to japan, limited time offer, line coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-summer-sale,-travel-app-discount,-cheap-flights-to-japan,-limited-time-offer,-line-coupon",
+        "pexels_url": "https://www.pexels.com/search/japanese%20summer%20sale,%20travel%20app%20discount,%20cheap%20flights%20to%20japan,%20limited%20time%20offer,%20line%20coupon/"
+      }
+    },
+    {
+      "id": "plan_f3128237",
+      "created_at": "2026-05-07T00:04:52.408462",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルニューオータニ大阪で「シナモロール」スイーツビュッフェ。限定コースター付きドリンク＆食事メニューも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106423.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카에서만 만날 수 있는 귀여운 시나모롤 디저트 파티!"
+      },
+      "content": {
+        "thumbnail_title": "💖오사카 시나모롤 디저트 뷔페💖",
+        "cards": [
+          {
+            "title": "기간 한정!",
+            "content": "호텔 뉴오타니 오사카에서 7월 1일부터 8월 16일까지 '시나모롤 서머 스카이 트립' 스위츠 뷔페가 열려요. 귀여운 시나모롤과 함께 여름을 만끽할 기회!",
+            "alt_text": "시나모롤 캐릭터가 그려진 뷔페 안내 이미지"
+          },
+          {
+            "title": "달콤한 메뉴",
+            "content": "시나모롤을 테마로 한 다채로운 스위츠와 함께, 특별한 코스터가 포함된 음료와 식사 메뉴도 준비되어 있어요. 눈과 입이 모두 즐거운 경험!",
+            "alt_text": "다양한 시나모롤 테마 디저트 사진"
+          },
+          {
+            "title": "특별한 추억",
+            "content": "사진 찍기 좋은 예쁜 디저트와 음료들이 가득! 친구, 연인, 가족과 함께 잊지 못할 추억을 만들어 보세요.",
+            "alt_text": "시나모롤 디저트와 함께 즐거워하는 사람들 사진"
+          },
+          {
+            "title": "위치 정보",
+            "content": "장소는 오사카 중앙구 성견 1-4-1에 위치한 호텔 뉴오타니 오사카입니다. 오사카 여행 중이라면 꼭 방문해보세요!",
+            "alt_text": "호텔 뉴오타니 오사카 건물 외관 사진"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기가 많을 것으로 예상되니, 방문 전 호텔에 문의하여 예약 가능 여부 및 시간을 확인하는 것을 추천해요. 늦기 전에 서두르세요!",
+            "alt_text": "달력에 표시된 7월 1일부터 8월 16일까지 날짜"
+          }
+        ],
+        "caption": "💖오사카에서 펼쳐지는 시나모롤 천국!💖\n\n호텔 뉴오타니 오사카에서 7월 1일부터 8월 16일까지 단기간 진행되는 '시나모롤 서머 스카이 트립' 스위츠 뷔페 소식이에요! 🍰✨\n\n귀여운 시나모롤 테마의 스위츠와 특별한 음료, 식사 메뉴까지! 잊지 못할 여름 추억을 만들고 싶다면 지금 바로 오사카로 떠나세요! ✈️🇯🇵\n\n#오사카여행 #시나모롤 #스위츠뷔페 #일본디저트 #기간한정 #호텔뉴오타니 #여름휴가 #여행스타그램 #플라잉재팬 #일본축제 #오사카맛집 #이벤트 #디저트그램 #여행정보 #필수코스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#시나모롤",
+          "#스위츠뷔페",
+          "#일본디저트",
+          "#기간한정",
+          "#호텔뉴오타니",
+          "#여름휴가",
+          "#여행스타그램",
+          "#오사카맛집",
+          "#이벤트",
+          "#디저트그램",
+          "#여행정보",
+          "#필수코스"
+        ],
+        "alt_texts": [
+          "시나모롤 캐릭터가 그려진 뷔페 안내 이미지",
+          "다양한 시나모롤 테마 디저트 사진",
+          "시나모롤 디저트와 함께 즐거워하는 사람들 사진",
+          "호텔 뉴오타니 오사카 건물 외관 사진",
+          "달력에 표시된 7월 1일부터 8월 16일까지 날짜"
+        ]
+      },
+      "marketer_analysis": "타겟: 20-30대 여성 여행객, 시나모롤 팬 / 최적 게시 시간: 오후 6시-8시 / 기대 반응: 높은 관심과 공유, 방문 예약 문의 / 이 콘텐츠의 강점: 귀여운 캐릭터와 기간 한정 이벤트로 즉각적인 흥미 유발",
+      "image": {
+        "keyword": "Cinnamoroll sweets buffet Osaka hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Cinnamoroll-sweets-buffet-Osaka-hotel",
+        "pexels_url": "https://www.pexels.com/search/Cinnamoroll%20sweets%20buffet%20Osaka%20hotel/"
+      }
+    },
     {
       "id": "plan_7578cfd7",
       "created_at": "2026-05-06T03:58:21.245580",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo highway traffic control, Haneda Airport access, Japan road closure, Shuto Expressway construction",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-highway-traffic-control,-Haneda-Airport-access,-Japan-road-closure,-Shuto-Expressway-construction",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20highway%20traffic%20control,%20Haneda%20Airport%20access,%20Japan%20road%20closure,%20Shuto%20Expressway%20construction/"
-      }
-    },
-    {
-      "id": "plan_9a9ca80f",
-      "created_at": "2026-05-03T04:04:29.927582",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "横浜のディズニースペシャルパレードは10時45分から。山下ふ頭～伊勢佐木町6丁目で交通規制あり",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105775.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 스페셜 퍼레이드 놓치지 마세요! 요코하마에서 펼쳐지는 특별한 경험."
-      },
-      "content": {
-        "thumbnail_title": "✨요코하마 디즈니 퍼레이드✨",
-        "cards": [
-          {
-            "title": "퍼레이드 안내",
-            "content": "5월 3일, 요코하마에서 '제74회 더 요코하마 퍼레이드'가 열립니다. 이 퍼레이드에서 도쿄 디즈니 리조트 스페셜 퍼레이드가 펼쳐질 예정입니다.",
-            "alt_text": "디즈니 캐릭터들이 퍼레이드카에 올라 환하게 웃고 있는 모습"
-          },
-          {
-            "title": "시간 확인!",
-            "content": "퍼레이드는 오전 10시 45분부터 시작됩니다. 놓치지 않도록 미리 시간을 확인하세요!",
-            "alt_text": "시계 모양 이모지와 함께 시간 정보가 표시된 이미지"
-          },
-          {
-            "title": "교통 통제",
-            "content": "퍼레이드 구간인 야마시타 부두 ~ 이세자키초 6초메 일대에서는 교통 통제가 실시됩니다. 대중교통 이용을 권장합니다.",
-            "alt_text": "차량 통제 표지판 이미지"
-          },
-          {
-            "title": "디즈니 스페셜",
-            "content": "디즈니 캐릭터들과 함께하는 특별한 퍼레이드를 요코하마에서 즐겨보세요! 잊지 못할 추억을 만들 수 있을 거예요.",
-            "alt_text": "다양한 디즈니 캐릭터들이 등장하는 퍼레이드 장면"
-          },
-          {
-            "title": "꿀팁",
-            "content": "퍼레이드 시작 전, 명당 자리를 미리 잡는 것을 추천합니다. 편안한 복장으로 방문하여 축제를 만끽하세요!",
-            "alt_text": "퍼레이드 관람객들이 즐겁게 웃으며 응원하는 모습"
-          }
-        ],
-        "caption": "✨5월 3일, 요코하마에서 펼쳐지는 디즈니 스페셜 퍼레이드를 놓치지 마세요!✨\n\n오전 10시 45분부터 야마시타 부두 ~ 이세자키초 6초메 구간에서 화려한 퍼레이드가 펼쳐집니다.\n\n퍼레이드 구간 교통 통제가 있으니 대중교통 이용은 필수! 잊지 못할 디즈니 추억을 요코하마에서 만들어보세요! 💖\n\n#요코하마디즈니퍼레이드 #디즈니퍼레이드 #요코하마여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#요코하마",
-          "#디즈니",
-          "#퍼레이드",
-          "#일본축제",
-          "#5월여행",
-          "#요코하마여행",
-          "#디즈니스페셜",
-          "#일본이벤트",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본행사",
-          "#요코하마데이트",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "디즈니 캐릭터들이 퍼레이드카에 올라 환하게 웃고 있는 모습",
-          "시계 모양 이모지와 함께 시간 정보가 표시된 이미지",
-          "차량 통제 표지판 이미지",
-          "다양한 디즈니 캐릭터들이 등장하는 퍼레이드 장면",
-          "퍼레이드 관람객들이 즐겁게 웃으며 응원하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 참여 유도 (댓글, 저장) / 이 콘텐츠의 강점: 시기적절한 이벤트 정보 제공, 구체적인 시간 및 장소 명시",
-      "image": {
-        "keyword": "Yokohama Disney Parade, Japan event, May 3rd, Special parade, Yokohama street",
-        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-Disney-Parade,-Japan-event,-May-3rd,-Special-parade,-Yokohama-street",
-        "pexels_url": "https://www.pexels.com/search/Yokohama%20Disney%20Parade,%20Japan%20event,%20May%203rd,%20Special%20parade,%20Yokohama%20street/"
-      }
-    },
-    {
-      "id": "plan_d42b45de",
-      "created_at": "2026-05-03T04:04:24.725540",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東北地方のSA・PAで「ソフトクリーム」1個無料のスクラッチ、5月末まで実施中",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2105855.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 동북 지방 드라이브 중이라면 놓칠 수 없는 꿀팁! 소프트크림 무료 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🍦동북 드라이브 100% 즐기기🍦",
-        "cards": [
-          {
-            "title": "무료 소프트크림",
-            "content": "일본 동북 지방의 휴게소(SA)와 주차장(PA)에서 소프트크림 1개를 무료로 받을 수 있는 스크래치 이벤트가 진행 중이에요.",
-            "alt_text": "동북 지방 휴게소 간판 이미지"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "이벤트는 '소프트크림 컬렉션 2026' 캠페인의 일환으로, 2024년 5월 31일까지 진행됩니다.",
-            "alt_text": "달력에 5월 31일 표시된 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "해당 휴게소/주차장에서 소프트크림을 구매하거나 특정 조건을 충족하면 스크래치 카드를 받을 수 있습니다.",
-            "alt_text": "스크래치 카드와 소프트크림 이미지"
-          },
-          {
-            "title": "대상 지역",
-            "content": "이번 이벤트는 NEXCO 동일본(NEXCO East) 관할의 동북 지방 휴게소 및 주차장에서만 참여 가능합니다.",
-            "alt_text": "일본 지도에서 동북 지방 표시된 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "여름철 동북 지방 드라이브 계획이 있다면, 이벤트를 활용하여 시원하고 맛있는 소프트크림을 무료로 즐겨보세요! 🚗🍦",
-            "alt_text": "드라이브 중 소프트크림을 즐기는 사람 이미지"
-          }
-        ],
-        "caption": "일본 동북 지방으로 드라이브 갈 계획이라면 주목! 🤩\n\n'소프트크림 컬렉션 2026' 캠페인 1탄으로, 5월 31일까지 동북 지방 휴게소(SA)와 주차장(PA)에서 소프트크림 1개를 무료로 받을 수 있는 스크래치 이벤트를 진행해요! 🍦✨\n\nNEXCO 동일본 관할 지역에서 진행되니, 동북 드라이브 중이라면 꼭 참여해서 시원한 소프트크림 득템하세요! 🚗💨\n\n#일본여행 #플라잉재팬 #동북여행 #일본드라이브 #소프트크림 #무료이벤트 #일본휴게소 #꿀팁 #여행정보 #일본자유여행 #일본가볼만한곳 #여행스타그램 #일본축제 #여름휴가 #일본맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#동북여행",
-          "#일본드라이브",
-          "#소프트크림",
-          "#무료이벤트",
-          "#일본휴게소",
-          "#꿀팁",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본축제",
-          "#여름휴가",
-          "#일본맛집"
-        ],
-        "alt_texts": [
-          "동북 지방 휴게소 간판 이미지",
-          "달력에 5월 31일 표시된 이미지",
-          "스크래치 카드와 소프트크림 이미지",
-          "일본 지도에서 동북 지방 표시된 이미지",
-          "드라이브 중 소프트크림을 즐기는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 동북 지방 드라이브 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시-7시 / 기대 반응: 정보성 높음, 참여율 기대 / 이 콘텐츠의 강점: 실질적인 혜택 제공, 특정 지역 여행자에게 매우 유용",
-      "image": {
-        "keyword": "japan東北 highway rest stop soft serve ice cream free scratch card",
-        "unsplash_url": "https://unsplash.com/s/photos/japan東北-highway-rest-stop-soft-serve-ice-cream-free-scratch-card",
-        "pexels_url": "https://www.pexels.com/search/japan東北%20highway%20rest%20stop%20soft%20serve%20ice%20cream%20free%20scratch%20card/"
       }
     }
   ]
