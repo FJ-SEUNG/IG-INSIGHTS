@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-07T03:57:10.776206",
+  "last_updated": "2026-05-08T00:06:57.924920",
   "plans": [
+    {
+      "id": "plan_0aab0821",
+      "created_at": "2026-05-08T00:06:55.924740",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "HIS、半期に一度の大セール本日スタート。ソウル3日間1万9800円/沖縄3日間1万7800円ほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106928.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 확 줄일 수 있는 역대급 특가 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 초특가 1만9800엔부터!✈️",
+        "cards": [
+          {
+            "title": "역대급 세일!",
+            "content": "HIS에서 여름, 가을 여행 예약을 위한 'SUPER SUMMER SALE! 2026'을 시작했어요. 최대 할인 혜택을 놓치지 마세요!",
+            "alt_text": "HIS 여름/가을 여행 최대 할인 프로모션 시작 알림"
+          },
+          {
+            "title": "서울 3일 19800엔!",
+            "content": "가장 인기 있는 코스 중 하나인 서울 3일 여행이 단돈 19,800엔부터 시작합니다. 저렴한 가격으로 일본 여행을 즐길 기회예요.",
+            "alt_text": "서울 3일 여행 19,800엔 특가 상품 안내"
+          },
+          {
+            "title": "오키나와 3일 17800엔!",
+            "content": "아름다운 해변의 오키나와 3일 여행 역시 17,800엔이라는 놀라운 가격으로 만나볼 수 있어요. 여름 휴가 계획은 이걸로 끝!",
+            "alt_text": "오키나와 3일 여행 17,800엔 특가 상품 안내"
+          },
+          {
+            "title": "세일 기간 확인!",
+            "content": "이번 역대급 세일은 6월 29일까지 진행됩니다. 원하는 날짜와 상품을 미리 확인하고 서둘러 예약하세요!",
+            "alt_text": "HIS SUPER SUMMER SALE 2026 기간 안내 (6월 29일까지)"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "여행 상품은 조기 마감될 수 있으니, 원하는 일정이 있다면 지금 바로 HIS 공식 웹사이트를 확인하세요! (참고: HIS 웹사이트는 외부 링크로 직접 언급은 불가합니다.)",
+            "alt_text": "여행 상품 조기 마감 주의 및 빠른 예약 권장"
+          }
+        ],
+        "caption": "여러분! 일본 여행 경비를 확 줄일 수 있는 역대급 찬스가 찾아왔어요! ✈️\n\nHIS에서 여름, 가을 여행 예약을 위한 'SUPER SUMMER SALE! 2026'을 시작했습니다.\n\n✨ 서울 3일 19,800엔부터!\n✨ 오키나와 3일 17,800엔부터!\n\n이 기회 놓치면 후회할지도 몰라요! 😭 세일 기간은 6월 29일까지이니, 지금 바로 확인하고 알찬 여름/가을 일본 여행 계획 세워보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#HIS",
+          "#일본특가",
+          "#여행세일",
+          "#여름휴가",
+          "#가을여행",
+          "#일본항공권",
+          "#일본숙소",
+          "#해외여행",
+          "#여행정보",
+          "#가성비여행",
+          "#일본",
+          "#초특가",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "HIS 여름/가을 여행 최대 할인 프로모션 시작 알림",
+          "서울 3일 여행 19,800엔 특가 상품 안내",
+          "오키나와 3일 여행 17,800엔 특가 상품 안내",
+          "HIS SUPER SUMMER SALE 2026 기간 안내 (6월 29일까지)",
+          "여행 상품 조기 마감 주의 및 빠른 예약 권장"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 클릭률 및 문의 증가, 즉각적인 예약 전환 / 이 콘텐츠의 강점: 명확하고 구체적인 가격 정보 제시로 여행객의 즉각적인 관심 유발 및 행동 촉구",
+      "image": {
+        "keyword": "Japan travel sale, discount flight, cheap hotel Japan, summer vacation deal, autumn travel promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-discount-flight,-cheap-hotel-Japan,-summer-vacation-deal,-autumn-travel-promotion",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20discount%20flight,%20cheap%20hotel%20Japan,%20summer%20vacation%20deal,%20autumn%20travel%20promotion/"
+      }
+    },
+    {
+      "id": "plan_48176f12",
+      "created_at": "2026-05-08T00:06:46.839194",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "じゃらん、最大1万5000円引き「旅応援クーポン」。お盆や3連休も対象、大江戸温泉物語やグランドメルキュールなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106965.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 확 줄여주는 1만 5천엔 할인 쿠폰 정보!"
+      },
+      "content": {
+        "thumbnail_title": "💸일본 여행 1.5만엔 할인!💸",
+        "cards": [
+          {
+            "title": "여행 지원 쿠폰",
+            "content": "일본 최대 여행 예약 플랫폼 '자란(じゃらん)'에서 국내 호텔/숙박에 사용할 수 있는 최대 1만 5천엔 할인 쿠폰을 선착순 95만 명에게 배포합니다. 8월 명절 연휴 및 3연휴 기간에도 사용 가능합니다.",
+            "alt_text": "자란(じゃらん) 여행 지원 쿠폰 배너 이미지"
+          },
+          {
+            "title": "할인 쿠폰",
+            "content": "이번 쿠폰은 다른 자란 쿠폰, 지역 쿠폰, 특별 쿠폰과 중복 사용이 가능하여, 기존 할인 혜택에 추가적인 할인을 받을 수 있습니다. 숙박 예약 시 쿠폰 적용 여부를 꼭 확인하세요.",
+            "alt_text": "여러 할인 쿠폰이 쌓이는 모습의 일러스트"
+          },
+          {
+            "title": "사용 가능 기간",
+            "content": "이번 '여행 지원 쿠폰'은 8월 명절 연휴와 3연휴 기간에도 사용할 수 있도록 대상 기간이 확대되었습니다. 연휴 기간 일본 여행 계획 중이라면 놓치지 마세요.",
+            "alt_text": "달력에 표시된 8월 연휴 기간 이미지"
+          },
+          {
+            "title": "인기 숙소",
+            "content": "대에도온천물어보관(大江戸温泉物語)이나 그랜드머큐르(グランドメルキュール) 등 인기 있는 호텔 및 료칸 예약 시에도 이 쿠폰을 적용할 수 있습니다. 다양한 숙소 옵션을 비교해보세요.",
+            "alt_text": "일본의 고급 호텔 및 료칸 외관 사진"
+          },
+          {
+            "title": "쿠폰 활용 꿀팁",
+            "content": "쿠폰은 한정 수량으로 조기 마감될 수 있으니, 여행 계획을 세우자마자 바로 예약하고 쿠폰을 확보하는 것이 중요합니다. 자란 앱 또는 웹사이트에서 쿠폰 정보를 확인하세요.",
+            "alt_text": "스마트폰으로 여행 앱을 사용하는 모습"
+          }
+        ],
+        "caption": "일본 여행 경비 절약 찬스! 💸\n\n일본 여행 예약 플랫폼 '자란(じゃらん)'에서 최대 1만 5천엔 할인 쿠폰을 선착순 95만 명에게 배포 중이에요! 🤩\n\n8월 명절 연휴, 3연휴 기간에도 사용 가능하며, 다른 쿠폰과 중복 적용까지 된다는 사실! 💯\n\n인기 호텔, 료칸 예약 시 꼭 활용해서 알뜰한 일본 여행 계획 세우세요! ✈️\n\n#일본여행 #자란쿠폰 #일본숙소 #여행경비절약 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#자란",
+          "#일본할인",
+          "#여행쿠폰",
+          "#일본숙소",
+          "#호텔예약",
+          "#료칸",
+          "#일본여행팁",
+          "#알뜰여행",
+          "#일본여행준비",
+          "#여행정보",
+          "#8월여행",
+          "#연휴여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "자란(じゃらん) 여행 지원 쿠폰 배너 이미지",
+          "여러 할인 쿠폰이 쌓이는 모습의 일러스트",
+          "달력에 표시된 8월 연휴 기간 이미지",
+          "일본의 고급 호텔 및 료칸 외관 사진",
+          "스마트폰으로 여행 앱을 사용하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 쿠폰 정보에 대한 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 경비 절감 정보 제공, 즉각적인 행동 유발",
+      "image": {
+        "keyword": "Japan travel discount coupon, Jalan, hotel booking, ryokan, travel savings, August holiday",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount-coupon,-Jalan,-hotel-booking,-ryokan,-travel-savings,-August-holiday",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount%20coupon,%20Jalan,%20hotel%20booking,%20ryokan,%20travel%20savings,%20August%20holiday/"
+      }
+    },
     {
       "id": "plan_9b3a9ffd",
       "created_at": "2026-05-07T03:57:08.776012",
@@ -923,160 +1077,6 @@
         "keyword": "Skymark Airlines Boeing 737 MAX, Haneda Airport arrival",
         "unsplash_url": "https://unsplash.com/s/photos/Skymark-Airlines-Boeing-737-MAX,-Haneda-Airport-arrival",
         "pexels_url": "https://www.pexels.com/search/Skymark%20Airlines%20Boeing%20737%20MAX,%20Haneda%20Airport%20arrival/"
-      }
-    },
-    {
-      "id": "plan_31658f4d",
-      "created_at": "2026-05-04T04:01:44.643490",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "フェイラー「ポムポムプリン」コラボ、最後の再販が決定。オンライン抽選のみ、顔型ポーチ/おしりハンカチなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106375.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여움 끝판왕! 포근한 포근이와 페이러의 마지막 만남, 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "💖포근이X페이러 마지막 콜라보💖",
-        "cards": [
-          {
-            "title": "마지막 재판매!",
-            "content": "페이러의 인기 콜라보, 포근한 포근이(ポムポムプリン)와 함께한 제품들이 마지막 재판매를 결정했어요. 이번 기회를 놓치면 정말 다시 만나기 어려워요!",
-            "alt_text": "포근이와 페이러 콜라보 제품들을 보여주는 이미지"
-          },
-          {
-            "title": "온라인 추첨만!",
-            "content": "이번 재판매는 오직 페이러 공식 온라인 샵에서만 진행되며, 추첨을 통해 구매 기회가 주어져요. 원하는 상품을 얻으려면 서둘러 응모해야 해요!",
-            "alt_text": "온라인 추첨 방식으로 진행됨을 알리는 안내 이미지"
-          },
-          {
-            "title": "다양한 굿즈",
-            "content": "인기 상품인 얼굴형 파우치와 엉덩이 모양 수건 등 귀여운 포근이 디자인의 다양한 제품들을 만나볼 수 있어요. 지인 선물용으로도 딱!",
-            "alt_text": "얼굴형 파우치와 엉덩이 모양 수건 등 다양한 콜라보 제품 이미지"
-          },
-          {
-            "title": "언제까지?",
-            "content": "정확한 응모 기간과 당첨자 발표일은 페이러 공식 온라인 샵에서 확인해주세요. 재판매 일정은 변동될 수 있으니 수시로 체크하는 센스!",
-            "alt_text": "날짜 정보를 확인할 수 있는 캘린더 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "일본 여행 중이라면, 일본 공식 온라인 샵을 통해 응모하는 것이 배송비를 절약하는 방법이 될 수 있어요. 하지만 국내 거주자의 경우, 배송 주소지 확인이 필수!",
-            "alt_text": "일본 여행 중 온라인 쇼핑 팁을 알려주는 이미지"
-          }
-        ],
-        "caption": "귀여움 폭발! 💖 포근이와 페이러의 마지막 콜라보가 온라인 추첨으로 다시 돌아왔어요! 😍 얼굴형 파우치, 엉덩이 수건 등 놓치면 후회할 귀염뽀짝템들을 득템할 기회! ✨ 이번이 마지막이니 꼭 응모하세요! ✍️\n\n#일본여행 #플라잉재팬 #포근이 #포무포무푸린 #페이러 #페이러콜라보 #인기템 #한정판 #온라인추첨 #쇼핑정보 #여행준비 #일본쇼핑 #득템찬스 #귀여운거 #콜라보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#포근이",
-          "#포무포무푸린",
-          "#페이러",
-          "#페이러콜라보",
-          "#인기템",
-          "#한정판",
-          "#온라인추첨",
-          "#쇼핑정보",
-          "#여행준비",
-          "#일본쇼핑",
-          "#득템찬스",
-          "#귀여운거",
-          "#콜라보"
-        ],
-        "alt_texts": [
-          "포근이와 페이러 콜라보 제품들을 보여주는 이미지",
-          "온라인 추첨 방식으로 진행됨을 알리는 안내 이미지",
-          "얼굴형 파우치와 엉덩이 모양 수건 등 다양한 콜라보 제품 이미지",
-          "날짜 정보를 확인할 수 있는 캘린더 이미지",
-          "일본 여행 중 온라인 쇼핑 팁을 알려주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 8-10시 / 기대 반응: 높은 관심과 참여율, 구매 문의 증가 / 이 콘텐츠의 강점: 귀여운 캐릭터와 유명 브랜드의 콜라보, 한정판이라는 희소성",
-      "image": {
-        "keyword": "Pompompurin, Feiler, collaboration, limited edition, online lottery, cute pouch, handkerchief",
-        "unsplash_url": "https://unsplash.com/s/photos/Pompompurin,-Feiler,-collaboration,-limited-edition,-online-lottery,-cute-pouch,-handkerchief",
-        "pexels_url": "https://www.pexels.com/search/Pompompurin,%20Feiler,%20collaboration,%20limited%20edition,%20online%20lottery,%20cute%20pouch,%20handkerchief/"
-      }
-    },
-    {
-      "id": "plan_9c54585b",
-      "created_at": "2026-05-04T04:01:36.506512",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、GWセール最終弾は「感動パンツ」「スーパーノンアイロンシャツ」など特価に。5月7日まで",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106421.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니클로 GW 세일 마지막 기회! 인기 상품 특가 찬스를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "유니클로 GW 세일 막차! 👖👕",
-        "cards": [
-          {
-            "title": "세일 기간",
-            "content": "일본 유니클로 골든위크(GW) 세일이 5월 7일까지 연장됩니다! 마지막 기회를 놓치지 마세요.",
-            "alt_text": "유니클로 GW 세일 안내 배너"
-          },
-          {
-            "title": "인기 상품",
-            "content": "세일 대상 품목에는 '감동 팬츠'와 '슈퍼 논아이론 셔츠' 등 인기 상품이 포함됩니다.",
-            "alt_text": "유니클로 감동 팬츠와 슈퍼 논아이론 셔츠 이미지"
-          },
-          {
-            "title": "특가 찬스",
-            "content": "이번 세일은 '休みイロイロ！服はユニクロ！きたぜ！ゴールデンウィーク' 캠페인의 마지막 특별 할인이 적용됩니다.",
-            "alt_text": "유니클로 세일 홍보 이미지"
-          },
-          {
-            "title": "놓치지 마세요",
-            "content": "여행 중 편안하고 스타일리시한 의류를 합리적인 가격으로 구매할 수 있는 좋은 기회입니다.",
-            "alt_text": "유니클로 매장 내부 모습"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "일본 유니클로 매장 방문 시, 세일 기간과 대상 상품을 미리 확인하고 쇼핑 계획을 세우는 것이 좋습니다.",
-            "alt_text": "쇼핑백을 들고 있는 사람 이미지"
-          }
-        ],
-        "caption": "일본 여행 중이라면 주목! 🇯🇵 유니클로 골든위크 세일이 5월 7일까지 연장되었어요! '감동 팬츠', '슈퍼 논아이론 셔츠' 등 인기 상품을 특별 할인가로 만날 수 있는 마지막 기회! 득템 찬스를 놓치지 마세요! 😉\n\n#일본여행 #유니클로 #GW세일 #일본쇼핑 #득템찬스 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#일본쇼핑",
-          "#GW세일",
-          "#골든위크",
-          "#일본여행정보",
-          "#여행필수템",
-          "#할인정보",
-          "#일본생활",
-          "#여행팁",
-          "#쇼핑스타그램",
-          "#일본직구",
-          "#가성비템",
-          "#득템"
-        ],
-        "alt_texts": [
-          "유니클로 GW 세일 안내 배너",
-          "유니클로 감동 팬츠와 슈퍼 논아이론 셔츠 이미지",
-          "유니클로 세일 홍보 이미지",
-          "유니클로 매장 내부 모습",
-          "쇼핑백을 들고 있는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중인 한국인 관광객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 정보성 콘텐츠로 높은 관심과 공유 / 이 콘텐츠의 강점: 시의성 있는 할인 정보와 구체적인 상품 언급으로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "Uniqlo GW Sale Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-GW-Sale-Japan",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20GW%20Sale%20Japan/"
       }
     }
   ]
