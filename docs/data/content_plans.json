@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-09T00:10:29.015796",
+  "last_updated": "2026-05-09T03:49:38.365196",
   "plans": [
+    {
+      "id": "plan_dbcf702c",
+      "created_at": "2026-05-09T03:49:36.365019",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "HIS、「スーパーサマーセール」はきょうから　成田発ソウル3日間19,800円など",
+        "url": "https://www.traicy.com/posts/20260508369946/",
+        "date": "Fri, 08 May 2026 09:15:42 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "성수기 일본 여행, 최대 19,800엔부터 시작하는 역대급 특가 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 특가 19,800엔부터!",
+        "cards": [
+          {
+            "title": "HIS 세일 시작!",
+            "content": "HIS가 'SUPER SUMMER SALE! 2026'을 5월 8일부터 6월 29일까지 진행합니다. 11년 만의 5연휴인 실버위크와 여름 휴가 시즌을 겨냥한 파격적인 할인입니다.",
+            "alt_text": "HIS 슈퍼 서머 세일 배너 이미지"
+          },
+          {
+            "title": "인천-서울 3일 19,800엔",
+            "content": "이번 세일의 가장 눈에 띄는 특가는 성인 기준 나리타 출발 서울 3일 항공권이 19,800엔부터 시작한다는 점입니다. (세금 및 수수료 별도)",
+            "alt_text": "인천-서울 3일 특가 항공권 가격 정보 이미지"
+          },
+          {
+            "title": "여행 수요 겨냥",
+            "content": "원유가 상승으로 인한 여행 경비 인상 우려 속에서도, HIS는 5월 8일부터 6월 29일까지 진행되는 이번 세일을 통해 여행 수요를 적극 공략할 계획입니다.",
+            "alt_text": "여행객들이 즐겁게 여행하는 모습 이미지"
+          },
+          {
+            "title": "실버위크 황금연휴",
+            "content": "특히 올해는 11년 만에 찾아오는 5일간의 실버위크 황금연휴가 있어, 이번 세일 상품을 활용하면 더욱 알찬 연휴 여행이 가능합니다.",
+            "alt_text": "황금연휴를 나타내는 달력 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "저렴한 가격으로 일본 근교 또는 한국 여행을 계획 중이라면, HIS 슈퍼 서머 세일 기간을 놓치지 마세요! 자세한 상품 정보는 HIS 공식 홈페이지를 확인하세요.",
+            "alt_text": "달력에 표시된 세일 기간 이미지"
+          }
+        ],
+        "caption": "🚨긴급 속보! 일본 여행 준비 중이라면 주목!🚨\nHIS에서 역대급 '슈퍼 서머 세일'을 시작했어요! 🤩\n나리타 출발 서울 3일 항공권이 무려 19,800엔부터! (세금/수수료 별도)\n11년 만의 5연휴 실버위크, 여름휴가를 위한 절호의 기회! 🏖️\n지금 바로 HIS에서 파격적인 특가를 확인해보세요! ✈️✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#HIS",
+          "#일본항공권",
+          "#일본특가",
+          "#일본세일",
+          "#서울여행",
+          "#나리타공항",
+          "#실버위크",
+          "#여름휴가",
+          "#여행꿀팁",
+          "#항공권할인",
+          "#일본여행준비",
+          "#해외여행",
+          "#가성비여행"
+        ],
+        "alt_texts": [
+          "HIS 슈퍼 서머 세일 배너 이미지",
+          "인천-서울 3일 특가 항공권 가격 정보 이미지",
+          "여행객들이 즐겁게 여행하는 모습 이미지",
+          "황금연휴를 나타내는 달력 이미지",
+          "달력에 표시된 세일 기간 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 클릭률 및 공유율, 특가 상품 문의 증가 / 이 콘텐츠의 강점: 파격적인 가격 정보로 즉각적인 흥미 유발, 실질적인 여행 계획에 도움",
+      "image": {
+        "keyword": "HIS Super Summer Sale, Narita to Seoul flight deal, Japan travel discount, Silver Week holiday, Summer vacation sale",
+        "unsplash_url": "https://unsplash.com/s/photos/HIS-Super-Summer-Sale,-Narita-to-Seoul-flight-deal,-Japan-travel-discount,-Silver-Week-holiday,-Summer-vacation-sale",
+        "pexels_url": "https://www.pexels.com/search/HIS%20Super%20Summer%20Sale,%20Narita%20to%20Seoul%20flight%20deal,%20Japan%20travel%20discount,%20Silver%20Week%20holiday,%20Summer%20vacation%20sale/"
+      }
+    },
+    {
+      "id": "plan_ca36d00d",
+      "created_at": "2026-05-09T03:49:28.738948",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ミャクミャク文具缶BOOKがAmazonと楽天で在庫復活。マイドオオキニ缶コラボの文具6点セット",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107197.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2025 오사카 엑스포 공식 굿즈, 품절 대란템 문구 세트 재입고!"
+      },
+      "content": {
+        "thumbnail_title": "오사카 엑스포 굿즈 2탄 💖",
+        "cards": [
+          {
+            "title": "문구 세트",
+            "content": "2025 오사카 엑스포 공식 라이선스 상품 '미야쿠미야쿠 문구 세트 북'이 재입고되었습니다. 6월 3일 출시 후 품절 대란을 일으켰던 상품입니다.",
+            "alt_text": "오사카 엑스포 마스코트 '미야쿠미야쿠'가 그려진 문구 세트 북 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 3,290엔입니다. 현재 온라인에서 구매 가능하며, 여행 전 미리 준비하는 것도 좋은 방법입니다.",
+            "alt_text": "문구 세트 북 가격 정보 (3,290엔)"
+          },
+          {
+            "title": "구매처",
+            "content": "아마존, 라쿠텐, 보물섬사 공식 온라인 스토어에서 재고가 확보되었습니다. 품절 전에 서둘러 구매하세요!",
+            "alt_text": "온라인 쇼핑몰 로고 (아마존, 라쿠텐)와 보물섬사 로고"
+          },
+          {
+            "title": "재입고",
+            "content": "7월 초 재입고가 결정되어 현재 온라인에서 다시 구매할 수 있습니다. 놓치면 후회할지도 몰라요!",
+            "alt_text": "재고 확보 및 재입고 알림 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "오사카 여행 계획 중이라면, 엑스포 관련 특별한 기념품을 미리 챙겨가세요! 현지에서는 구하기 어려울 수 있습니다.",
+            "alt_text": "여행 가방에 문구 세트 북을 넣는 모습"
+          }
+        ],
+        "caption": "✨ 2025 오사카 엑스포 공식 굿즈, '미야쿠미야쿠 문구 세트 북'이 드디어 재입고되었어요! 💖\n\n6월 3일 출시 후 순식간에 품절되었던 인기템이 7월 초 재입고되어 현재 아마존, 라쿠텐 등에서 구매 가능합니다.\n\n귀여운 미야쿠미야쿠가 그려진 문구 세트 (3,290엔)로 오사카 여행의 특별한 추억을 만들어보세요!\n\n#일본여행 #오사카여행 #엑스포굿즈 #미야쿠미야쿠 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카엑스포",
+          "#미야쿠미야쿠",
+          "#일본굿즈",
+          "#여행준비",
+          "#쇼핑정보",
+          "#한정판",
+          "#재입고",
+          "#일본기념품",
+          "#여행꿀팁",
+          "#일본쇼핑",
+          "#여행스타그램",
+          "#일본필수템"
+        ],
+        "alt_texts": [
+          "오사카 엑스포 마스코트 '미야쿠미야쿠'가 그려진 문구 세트 북 이미지",
+          "문구 세트 북 가격 정보 (3,290엔)",
+          "온라인 쇼핑몰 로고 (아마존, 라쿠텐)와 보물섬사 로고",
+          "재고 확보 및 재입고 알림 이미지",
+          "여행 가방에 문구 세트 북을 넣는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 2030 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 구매 정보 공유 및 문의 증가, 공유 및 저장 / 이 콘텐츠의 강점: 희소성 있는 공식 굿즈 정보, 구체적인 구매처 및 가격 명시, 여행 준비에 실질적인 도움",
+      "image": {
+        "keyword": "Miyakumiya, Expo 2025 Osaka, stationery set, collaboration, limited edition, souvenir, Japan travel, online shopping, restock",
+        "unsplash_url": "https://unsplash.com/s/photos/Miyakumiya,-Expo-2025-Osaka,-stationery-set,-collaboration,-limited-edition,-souvenir,-Japan-travel,-online-shopping,-restock",
+        "pexels_url": "https://www.pexels.com/search/Miyakumiya,%20Expo%202025%20Osaka,%20stationery%20set,%20collaboration,%20limited%20edition,%20souvenir,%20Japan%20travel,%20online%20shopping,%20restock/"
+      }
+    },
     {
       "id": "plan_29679902",
       "created_at": "2026-05-09T00:10:27.015621",
@@ -923,160 +1077,6 @@
         "keyword": "JAL airplane, in-flight Wi-Fi, A350, B787, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-in-flight-Wi-Fi,-A350,-B787,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20in-flight%20Wi-Fi,%20A350,%20B787,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_24d04a12",
-      "created_at": "2026-05-06T00:04:05.144828",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エティハド航空、ビジネスクラスが最大30％オフのセール開催　東京・大阪発往復32.7万円から",
-        "url": "https://www.traicy.com/posts/20260505369693/",
-        "date": "Tue, 05 May 2026 08:15:21 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 비즈니스석 초특가 찬스! 도쿄/오사카 출발 최대 30% 할인받고 편안하게 일본 여행 떠나요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 비즈니스석 30% OFF!✈️",
-        "cards": [
-          {
-            "title": "✨최대 30% 할인✨",
-            "content": "에티하드항공이 도쿄(나리타) 및 오사카(간사이) 출발 비즈니스 클래스 왕복/편도 운임을 최대 30% 할인하는 특별 세일을 진행해요. 최대 할인율 적용 시 32.7만 원부터 시작합니다.",
-            "alt_text": "항공권 가격 할인율 표시 이미지"
-          },
-          {
-            "title": "📅세일 기간",
-            "content": "세일 기간은 5월 3일부터 5월 7일까지 진행됩니다. 망설이는 순간 놓칠 수 있으니 서둘러 확인하세요!",
-            "alt_text": "달력에 세일 기간 표시 이미지"
-          },
-          {
-            "title": "✈️탑승 기간",
-            "content": "할인된 요금으로 탑승 가능한 기간은 8월 31일까지입니다. 여름 휴가나 연휴 기간 일본 여행 계획에 활용해 보세요.",
-            "alt_text": "비행기 이륙하는 모습 이미지"
-          },
-          {
-            "title": "💸할인 적용",
-            "content": "할인은 항공 운임 부분에만 적용되며, 유류할증료 및 공항세 등은 별도입니다. 최종 결제 금액은 운임 외 추가 비용을 고려해야 합니다.",
-            "alt_text": "동전과 지폐가 쌓여있는 이미지"
-          },
-          {
-            "title": "💡꿀팁",
-            "content": "비즈니스석 특가로 일본을 편안하게 여행할 수 있는 절호의 기회! 늦은 여름 휴가나 가을 여행을 계획 중이라면 지금 바로 에티하드항공 웹사이트를 확인해 보세요.",
-            "alt_text": "편안하게 비즈니스석에 앉아있는 모습 이미지"
-          }
-        ],
-        "caption": "일본 여행, 비즈니스석으로 더욱 특별하게! ✨\n에티하드항공에서 도쿄/오사카 출발 비즈니스 클래스 특가 세일이 진행 중이에요! ✈️\n최대 30% 할인받고 32.7만 원부터 편안하게 일본으로 떠날 수 있는 기회!\n5월 7일까지 진행되니 서둘러 예약하고 8월 31일까지 탑승하세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #에티하드항공 #비즈니스석 #항공권특가 #일본항공권 #도쿄여행 #오사카여행 #일본할인 #여행스타그램 #항공권세일 #여름휴가 #가을여행 #일본가고싶다 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#에티하드항공",
-          "#비즈니스석",
-          "#항공권특가",
-          "#일본항공권",
-          "#도쿄여행",
-          "#오사카여행",
-          "#일본할인",
-          "#여행스타그램",
-          "#항공권세일",
-          "#여름휴가",
-          "#가을여행",
-          "#일본가고싶다",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "항공권 가격 할인율 표시 이미지",
-          "달력에 세일 기간 표시 이미지",
-          "비행기 이륙하는 모습 이미지",
-          "동전과 지폐가 쌓여있는 이미지",
-          "편안하게 비즈니스석에 앉아있는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 30-50대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 출발지 정보 제공으로 구매 결정 유도",
-      "image": {
-        "keyword": "Etihad Airways business class sale Tokyo Osaka",
-        "unsplash_url": "https://unsplash.com/s/photos/Etihad-Airways-business-class-sale-Tokyo-Osaka",
-        "pexels_url": "https://www.pexels.com/search/Etihad%20Airways%20business%20class%20sale%20Tokyo%20Osaka/"
-      }
-    },
-    {
-      "id": "plan_5d9c805e",
-      "created_at": "2026-05-06T00:03:51.157279",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【井上孝司の「鉄道旅行のヒント」】改札を入場しても、目的のホームに行けない？",
-        "url": "https://travel.watch.impress.co.jp/docs/series/inoue/2106471.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 철도 이용 시 꼭 알아야 할 필수 정보!"
-      },
-      "content": {
-        "thumbnail_title": "일본 철도 꿀팁 🚆",
-        "cards": [
-          {
-            "title": "개찰구 밖/안",
-            "content": "일본 철도역은 개찰구(라치)를 기준으로 '개찰구 밖'과 '개찰구 안'이 명확히 구분됩니다. 개찰구를 통과하면 대부분의 경우 플랫폼 간 이동이 자유롭습니다.",
-            "alt_text": "일본 철도역 개찰구 모습"
-          },
-          {
-            "title": "주의점",
-            "content": "하지만 일부 역이나 특정 구간에서는 개찰구 안에서도 다른 플랫폼으로 이동이 제한될 수 있습니다. 예를 들어, JR선과 사철이 분리된 경우입니다.",
-            "alt_text": "일본 철도 노선도"
-          },
-          {
-            "title": "티켓 확인",
-            "content": "개찰구를 통과하기 전, 목적지로 가는 열차가 출발하는 플랫폼을 미리 확인하는 것이 중요합니다. 역내 안내 표지판을 꼼꼼히 확인하세요.",
-            "alt_text": "일본 철도역 플랫폼 안내 표지판"
-          },
-          {
-            "title": "환승 시",
-            "content": "다른 회사 노선으로 환승할 경우, 개찰구를 다시 통과해야 할 수도 있습니다. 환승 티켓 구매 방법을 미리 알아두면 좋습니다.",
-            "alt_text": "일본 철도 환승 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "만약 길을 잃거나 플랫폼 이동에 어려움이 있다면, 역무원에게 도움을 요청하는 것을 망설이지 마세요. 친절하게 안내해 줄 것입니다.",
-            "alt_text": "일본 철도 역무원"
-          }
-        ],
-        "caption": "일본 철도 여행, 개찰구 통과 후 헤매지 마세요! 🙅‍♀️\n\n일본 철도역은 개찰구를 기준으로 '밖'과 '안'이 명확히 구분되며, 개찰구 안에서는 보통 플랫폼 간 이동이 자유롭습니다. 하지만 일부 역에서는 다른 회사 노선 환승 시 개찰구를 다시 통과해야 하거나, 플랫폼 이동이 제한될 수 있으니 주의가 필요합니다. 🧐\n\n여행 전 목적지 플랫폼을 미리 확인하고, 헷갈릴 때는 역무원에게 꼭 문의하세요! \n\n#일본여행 #플라잉재팬 #일본철도 #일본교통 #철도여행 #일본역 #개찰구 #환승 #여행꿀팁 #여행정보 #일본여행준비 #일본자유여행 #일본스타그램 #일본생활 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본철도",
-          "#일본교통",
-          "#철도여행",
-          "#일본역",
-          "#개찰구",
-          "#환승",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본여행준비",
-          "#일본자유여행",
-          "#일본스타그램",
-          "#일본생활",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본 철도역 개찰구 모습",
-          "일본 철도 노선도",
-          "일본 철도역 플랫폼 안내 표지판",
-          "일본 철도 환승 안내",
-          "일본 철도 역무원"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 철도 이용 예정인 모든 한국인 여행자 / 최적 게시 시간: 평일 오후 6~8시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 댓글을 통한 추가 질문 / 이 콘텐츠의 강점: 일본 철도 이용 시 흔히 겪을 수 있는 상황에 대한 구체적이고 실질적인 해결책 제시",
-      "image": {
-        "keyword": "Japan train station ticket gate",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-station-ticket-gate",
-        "pexels_url": "https://www.pexels.com/search/Japan%20train%20station%20ticket%20gate/"
       }
     }
   ]
