@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-09T03:49:38.365196",
+  "last_updated": "2026-05-10T00:04:47.474600",
   "plans": [
+    {
+      "id": "plan_46eb725c",
+      "created_at": "2026-05-10T00:04:45.474443",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "マンゴツリーキッチン、海老の旨みたっぷり！　トムヤムクン×冷麺の「トムヤム冷麺」限定販売",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2107121.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "태국 대표 메뉴 '톰얌꿍'을 시원한 냉면에? 일본에서만 맛볼 수 있는 특별한 여름 한정 메뉴!"
+      },
+      "content": {
+        "thumbnail_title": "💖톰얌꿍냉면💖 일본 한정!",
+        "cards": [
+          {
+            "title": "새로운 맛!",
+            "content": "일본 '망고트리 키친'에서 5월 13일부터 '톰얌냉면'을 기간 한정으로 판매해요. 새우의 깊은 감칠맛이 일품인 톰얌꿍을 시원한 냉면으로 즐길 수 있어요.",
+            "alt_text": "일본 망고트리 키친에서 판매하는 톰얌냉면 이미지"
+          },
+          {
+            "title": "기간 한정",
+            "content": "이번 여름, 일본에서만 특별하게 맛볼 수 있는 메뉴이니 놓치지 마세요! 정확한 판매 종료일은 매장에 확인해주세요.",
+            "alt_text": "기간 한정 메뉴임을 알리는 안내문 이미지"
+          },
+          {
+            "title": "망고트리 키친",
+            "content": "태국 현지 요리를 맛볼 수 있는 망고트리 키친에서 선보이는 창의적인 메뉴예요. 일본 내 여러 지점에서 판매될 예정입니다.",
+            "alt_text": "망고트리 키친 매장 외부 또는 내부 이미지"
+          },
+          {
+            "title": "여름 별미",
+            "content": "더운 여름, 시원하면서도 이국적인 풍미를 원한다면 톰얌냉면이 완벽한 선택이 될 거예요. 태국 본연의 맛을 살린 특별한 경험을 선사합니다.",
+            "alt_text": "톰얌냉면을 맛있게 먹는 사람의 모습 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "방문 전, 가까운 망고트리 키친 지점의 영업 시간과 톰얌냉면 재고 여부를 미리 확인하는 것이 좋아요. 현지에서 인기 있을 수 있으니 서두르세요!",
+            "alt_text": "일본 여행 중 맛집 정보를 검색하는 모습 이미지"
+          }
+        ],
+        "caption": "🍜 태국 대표 메뉴 톰얌꿍이 시원한 냉면으로 변신! 🍜\n일본 '망고트리 키친'에서 5월 13일부터 기간 한정으로 '톰얌냉면'을 판매해요.\n새우의 깊은 감칠맛과 태국의 이국적인 풍미를 시원하게 즐길 수 있는 특별한 여름 메뉴! ☀️\n일본 여행 중이라면 꼭 한번 맛보세요!\n\n#플라잉재팬 #일본여행 #일본맛집 #망고트리키친 #톰얌냉면 #일본한정 #여름메뉴",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#망고트리키친",
+          "#톰얌냉면",
+          "#일본한정",
+          "#여름메뉴",
+          "#일본음식",
+          "#도쿄맛집",
+          "#오사카맛집",
+          "#일본여행꿀팁",
+          "#해외여행",
+          "#냉면",
+          "#태국음식",
+          "#기간한정"
+        ],
+        "alt_texts": [
+          "일본 망고트리 키친에서 판매하는 톰얌냉면 이미지",
+          "기간 한정 메뉴임을 알리는 안내문 이미지",
+          "망고트리 키친 매장 외부 또는 내부 이미지",
+          "톰얌냉면을 맛있게 먹는 사람의 모습 이미지",
+          "일본 여행 중 맛집 정보를 검색하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 미식 경험을 중시하는 20-30대 한국인 여행자 / 최적 게시 시간: 오후 7시 - 9시 (여행 계획 세우는 시간) / 기대 반응: '오! 이건 먹어야 해!'라는 반응, 맛집 탐방 계획에 추가 / 이 콘텐츠의 강점: 희소성 있는 일본 한정 메뉴, 익숙한 맛과 새로운 조합의 흥미 유발",
+      "image": {
+        "keyword": "Tom Yum Noodle, Japan limited menu, Mango Tree Kitchen, Korean traveler, Summer food, Spicy noodle soup, Thai fusion",
+        "unsplash_url": "https://unsplash.com/s/photos/Tom-Yum-Noodle,-Japan-limited-menu,-Mango-Tree-Kitchen,-Korean-traveler,-Summer-food,-Spicy-noodle-soup,-Thai-fusion",
+        "pexels_url": "https://www.pexels.com/search/Tom%20Yum%20Noodle,%20Japan%20limited%20menu,%20Mango%20Tree%20Kitchen,%20Korean%20traveler,%20Summer%20food,%20Spicy%20noodle%20soup,%20Thai%20fusion/"
+      }
+    },
+    {
+      "id": "plan_2f5ea021",
+      "created_at": "2026-05-10T00:04:30.732709",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "近畿日本ツーリスト、「近ツー感謝ウィーク」開催　交通＋宿泊が最大2万円割引、宿泊限定プランも",
+        "url": "https://www.traicy.com/posts/20260509370007/",
+        "date": "Sat, 09 May 2026 11:15:42 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 확 줄일 수 있는 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨최대 2만엔 할인 찬스!✨",
+        "cards": [
+          {
+            "title": "할인 찬스!",
+            "content": "일본 여행 필수템! 교통+숙박 묶음 상품이 최대 20,000엔까지 할인됩니다.",
+            "alt_text": "교통+숙박 묶음 할인 쿠폰 이미지"
+          },
+          {
+            "title": "언제까지?",
+            "content": "2024년 5월 8일 정오부터 5월 21일 정오까지, 딱 2주간 진행되는 특별 이벤트입니다.",
+            "alt_text": "이벤트 기간 표시 이미지"
+          },
+          {
+            "title": "누가?",
+            "content": "일본 여행 전문 '킨키 닛폰 투어리스트'에서 진행하는 '킨투 감사 위크'입니다.",
+            "alt_text": "여행사 로고 또는 이름 이미지"
+          },
+          {
+            "title": "어떤 혜택?",
+            "content": "여행 경비에 따라 할인 금액이 달라지며, 숙박만 가능한 한정 플랜도 준비되어 있어요.",
+            "alt_text": "할인 금액별 혜택 안내 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "할인 혜택을 최대한 활용하여 알뜰하고 풍성한 일본 여행 계획을 세워보세요!",
+            "alt_text": "여행 계획 세우는 모습 이미지"
+          }
+        ],
+        "caption": "일본 여행 경비 절약할 절호의 찬스! ✈️\n\n'킨키 닛폰 투어리스트'에서 진행하는 '킨투 감사 위크'를 놓치지 마세요!\n\n교통+숙박 묶음 상품을 최대 20,000엔까지 할인받을 수 있어요. (5/8 ~ 5/21)\n\n지금 바로 확인하고 역대급 할인가로 알찬 일본 여행 준비하세요! 💖\n\n#일본여행 #일본할인 #여행팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본여행팁",
+          "#일본할인",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본쇼핑",
+          "#일본숙소",
+          "#일본교통",
+          "#일본맛집",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본",
+          "#여행경비절약"
+        ],
+        "alt_texts": [
+          "교통+숙박 묶음 할인 쿠폰 이미지",
+          "이벤트 기간 표시 이미지",
+          "여행사 로고 또는 이름 이미지",
+          "할인 금액별 혜택 안내 이미지",
+          "여행 계획 세우는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 정보 탐색이 활발한 평일 저녁 7-9시 / 기대 반응: 높은 클릭률 및 문의 증가 / 이 콘텐츠의 강점: 즉각적인 금전적 혜택 제공으로 높은 관심 유도",
+      "image": {
+        "keyword": "Japan travel discount, transportation and accommodation package, limited time offer, travel savings",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-transportation-and-accommodation-package,-limited-time-offer,-travel-savings",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20transportation%20and%20accommodation%20package,%20limited%20time%20offer,%20travel%20savings/"
+      }
+    },
     {
       "id": "plan_dbcf702c",
       "created_at": "2026-05-09T03:49:36.365019",
@@ -923,160 +1077,6 @@
         "keyword": "Cinnamoroll sweets buffet Osaka hotel",
         "unsplash_url": "https://unsplash.com/s/photos/Cinnamoroll-sweets-buffet-Osaka-hotel",
         "pexels_url": "https://www.pexels.com/search/Cinnamoroll%20sweets%20buffet%20Osaka%20hotel/"
-      }
-    },
-    {
-      "id": "plan_7578cfd7",
-      "created_at": "2026-05-06T03:58:21.245580",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JRバス2社、東京・新宿〜京阪神線で6月1日ダイヤ改正　一部便の運休も",
-        "url": "https://www.traicy.com/posts/20260505369633/",
-        "date": "Tue, 05 May 2026 03:45:42 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄-오사카/교토 버스 노선, 도쿄 디즈니씨 경유 편 증편!"
-      },
-      "content": {
-        "thumbnail_title": "🚌 도쿄-오사카/교토 버스 🚗",
-        "cards": [
-          {
-            "title": "6월 1일 변경",
-            "content": "JR 버스 2개 회사가 도쿄 신주쿠-게이한신 노선의 다이어를 6월 1일부로 개정합니다. 일부 편은 운휴될 예정이니 미리 확인하세요.",
-            "alt_text": "JR 버스 시간표 변경 안내"
-          },
-          {
-            "title": "디즈니씨 경유편",
-            "content": "도쿄 디즈니 씨를 경유하는 편이 1왕복 증편됩니다. 그랜드 드림 8/11호가 새롭게 도쿄 디즈니 씨에 정차합니다. 디즈니 방문 시 참고하세요!",
-            "alt_text": "도쿄 디즈니 씨 정차 버스 노선 안내"
-          },
-          {
-            "title": "운휴편 확인 필수",
-            "content": "일부 편이 운휴될 예정이므로, 이용하시는 노선 및 시간대의 운행 여부를 반드시 사전에 확인하시기 바랍니다.",
-            "alt_text": "운휴 안내문"
-          },
-          {
-            "title": "편리한 이동",
-            "content": "도쿄에서 오사카, 교토 등 간사이 지역으로 이동 시 편리한 JR 버스 노선 변경 소식을 놓치지 마세요.",
-            "alt_text": "일본 고속버스 풍경"
-          },
-          {
-            "title": "알아두면 꿀팁",
-            "content": "JR 버스 예약은 미리 하는 것이 좋으며, 특히 주말이나 공휴일에는 매진될 수 있으니 서두르세요. 변경된 시간표를 꼼꼼히 확인하세요!",
-            "alt_text": "일본 고속버스 예약 화면"
-          }
-        ],
-        "caption": "✈️ 도쿄-오사카/교토 버스 이용객 주목! 🚌\n\n6월 1일부터 JR 버스 2개 회사가 도쿄 신주쿠-게이한신 노선의 다이어를 개정합니다.\n\n✅ 도쿄 디즈니 씨 경유편 1왕복 증편!\n✅ 그랜드 드림 8/11호, 도쿄 디즈니 씨 신규 정차!\n\n일부 편은 운휴될 예정이니, 이용 전 반드시 시간표를 확인하세요!\n\n#일본여행 #JR버스 #도쿄여행 #오사카여행 #교토여행 #디즈니씨 #교통정보 #일본교통 #플라잉재팬 #여행정보 #일본여행준비 #도쿄 #오사카 #교토 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR버스",
-          "#도쿄",
-          "#오사카",
-          "#교토",
-          "#도쿄디즈니씨",
-          "#일본교통",
-          "#교통정보",
-          "#여행정보",
-          "#일본여행준비",
-          "#신주쿠",
-          "#게이한신",
-          "#여행팁",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "JR 버스 시간표 변경 안내",
-          "도쿄 디즈니 씨 정차 버스 노선 안내",
-          "운휴 안내문",
-          "일본 고속버스 풍경",
-          "일본 고속버스 예약 화면"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄에서 오사카/교토로 이동하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보 습득, 예약 정보 문의 / 이 콘텐츠의 강점: 구체적인 변경 내용 및 디즈니씨 연계 정보 제공",
-      "image": {
-        "keyword": "Japan bus, Tokyo to Osaka bus, Tokyo Disneyland bus, Japan transportation, highway bus",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-bus,-Tokyo-to-Osaka-bus,-Tokyo-Disneyland-bus,-Japan-transportation,-highway-bus",
-        "pexels_url": "https://www.pexels.com/search/Japan%20bus,%20Tokyo%20to%20Osaka%20bus,%20Tokyo%20Disneyland%20bus,%20Japan%20transportation,%20highway%20bus/"
-      }
-    },
-    {
-      "id": "plan_24ba7dca",
-      "created_at": "2026-05-06T03:58:12.987376",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、SESのマルチオービット機内接続システムを長距離国際線機材に導入　A350と787に搭載へ",
-        "url": "https://www.traicy.com/posts/20260505369691/",
-        "date": "Tue, 05 May 2026 06:29:14 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 항공 여행 시 기내 와이파이 속도 UP! JAL 장거리 노선 A350, B787 기종 탑승 예정이라면 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 기내 와이파이 속도 UP!🚀",
-        "cards": [
-          {
-            "title": "JAL, 기내 와이파이 도입",
-            "content": "일본항공(JAL)이 SES의 멀티 오빗 기내 연결 시스템을 도입합니다. 장거리 국제선 노선에 탑재될 예정입니다.",
-            "alt_text": "일본항공(JAL) 로고와 비행기 이미지"
-          },
-          {
-            "title": "탑재 기종은?",
-            "content": "에어버스 A350-900 20대와 보잉 787-9 10대에 우선적으로 탑재됩니다. 제조 시부터 적용될 예정입니다.",
-            "alt_text": "A350과 B787 비행기 이미지"
-          },
-          {
-            "title": "장거리 노선 혜택",
-            "content": "장시간 비행 시 기내에서 인터넷을 더욱 빠르고 안정적으로 이용할 수 있게 됩니다. 업무, 엔터테인먼트 등 활용도 UP!",
-            "alt_text": "기내에서 노트북을 사용하는 승객 이미지"
-          },
-          {
-            "title": "어떤 서비스?",
-            "content": "위성 통신 기술을 활용한 최신 기내 인터넷 시스템으로, 기존보다 향상된 속도와 안정성을 제공할 것으로 기대됩니다.",
-            "alt_text": "위성 안테나와 비행기가 연결되는 그래픽"
-          },
-          {
-            "title": "탑승 전 체크!",
-            "content": "JAL을 이용하여 일본 장거리 국제선 노선 (A350, B787 기종) 탑승 예정이라면, 기내 와이파이 혜택을 미리 확인하고 더욱 편리한 여행을 준비하세요!",
-            "alt_text": "일본 여행 준비물 목록 이미지"
-          }
-        ],
-        "caption": "✈️JAL 탑승 예정이라면 주목! 🚀\n일본항공(JAL)이 장거리 국제선 노선에 최신 기내 와이파이 시스템을 도입합니다.\n\n✅ 대상 기종: A350-900 (20대), B787-9 (10대)\n✅ 혜택: 더욱 빠르고 안정적인 기내 인터넷!\n\n일본 여행 시 JAL 장거리 노선 이용하신다면, 비행 중에도 끊김 없이 인터넷을 즐겨보세요! 😉\n\n#일본항공 #JAL #기내와이파이 #일본여행준비 #비행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#기내와이파이",
-          "#A350",
-          "#B787",
-          "#일본여행준비",
-          "#비행정보",
-          "#해외여행",
-          "#여행꿀팁",
-          "#일본",
-          "#여행스타그램",
-          "#항공정보",
-          "#일본에서뭐하지"
-        ],
-        "alt_texts": [
-          "일본항공(JAL) 로고와 비행기 이미지",
-          "A350과 B787 비행기 이미지",
-          "기내에서 노트북을 사용하는 승객 이미지",
-          "위성 안테나와 비행기가 연결되는 그래픽",
-          "일본 여행 준비물 목록 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL을 이용하여 일본 장거리 국제선 노선을 이용하는 한국인 여행자 / 최적 게시 시간: 여행 계획을 많이 세우는 평일 저녁 8-10시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심 및 저장, 공유 / 이 콘텐츠의 강점: 실제 여행객에게 직접적인 혜택을 주는 구체적인 항공 정보 제공",
-      "image": {
-        "keyword": "JAL airplane, in-flight Wi-Fi, A350, B787, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-in-flight-Wi-Fi,-A350,-B787,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20in-flight%20Wi-Fi,%20A350,%20B787,%20Japan%20travel/"
       }
     }
   ]
