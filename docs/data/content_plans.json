@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-11T00:09:13.346613",
+  "last_updated": "2026-05-11T04:17:52.651441",
   "plans": [
+    {
+      "id": "plan_a8e90a14",
+      "created_at": "2026-05-11T04:17:50.651263",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ニトリ、100段階風量調節・冷却プレートを搭載したハンディファン。卓上モードも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2106856.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올여름 일본 여행 필수템! 시원함과 편리함을 동시에 잡은 니토리 신상 핸디팬 득템 찬스! 🌬️"
+      },
+      "content": {
+        "thumbnail_title": "니토리 핸디팬 3990엔!",
+        "cards": [
+          {
+            "title": "신상 핸디팬",
+            "content": "니토리에서 4월 하순, 100단계 풍량 조절과 냉각 플레이트가 탑재된 '강풍 냉각 플레이트 페르체 핸디팬'을 출시했어요. 가격은 3990엔입니다.",
+            "alt_text": "니토리 신상 핸디팬 제품 이미지"
+          },
+          {
+            "title": "시원함 UP!",
+            "content": "특히 냉각 플레이트 기능으로 더욱 시원한 바람을 느낄 수 있어, 올여름 일본 여행 시 더위를 식히는 데 큰 도움이 될 거예요.",
+            "alt_text": "핸디팬에서 나오는 시원한 바람을 표현하는 이미지"
+          },
+          {
+            "title": "탁상 모드 지원",
+            "content": "휴대용으로도 좋지만, 탁상 모드로도 활용 가능하여 숙소나 카페 등에서도 편리하게 사용할 수 있습니다.",
+            "alt_text": "핸디팬이 탁상 모드로 거치된 이미지"
+          },
+          {
+            "title": "전국 매장 판매",
+            "content": "일본 전국 니토리 매장 및 직판 사이트에서 구매 가능합니다. 여행 전 또는 현지에서 구매를 고려해보세요!",
+            "alt_text": "니토리 매장 외관 또는 쇼핑백 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 중 갑자기 더워질 때를 대비해 미리 준비하면 유용해요! 특히 야외 활동이 많은 분들께 강력 추천합니다.",
+            "alt_text": "핸디팬을 들고 즐겁게 여행하는 사람 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템 예감! ☀️ 니토리에서 100단계 풍량 조절과 냉각 플레이트 기능까지 갖춘 신상 핸디팬을 3990엔에 출시했어요! 휴대용은 물론 탁상 모드까지 가능해서 더욱 편리하게 사용할 수 있답니다. 올여름, 시원한 일본 여행을 위한 준비물로 찜콩하세요! 😉\n\n지금 바로 니토리 매장 또는 온라인 스토어에서 만나보세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#니토리",
+          "#니토리핸디팬",
+          "#일본쇼핑",
+          "#일본필수템",
+          "#여름휴가",
+          "#일본자유여행",
+          "#일본생활",
+          "#여행준비",
+          "#일본쇼핑리스트",
+          "#일본가볼만한곳",
+          "#일본여행팁",
+          "#일본정보",
+          "#핸디팬"
+        ],
+        "alt_texts": [
+          "니토리 신상 핸디팬 제품 이미지",
+          "핸디팬에서 나오는 시원한 바람을 표현하는 이미지",
+          "핸디팬이 탁상 모드로 거치된 이미지",
+          "니토리 매장 외관 또는 쇼핑백 이미지",
+          "핸디팬을 들고 즐겁게 여행하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 준비 중이거나 일본에 체류 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시, 주말 오후 1시 ~ 3시 / 기대 반응: 구매 정보에 대한 높은 관심, 여행 준비물 관련 공유 / 이 콘텐츠의 강점: 실용적인 신상품 정보, 합리적인 가격 제시, 즉각적인 구매 가능성",
+      "image": {
+        "keyword": "Nitori handy fan, cooling fan, portable fan, Japan shopping, summer travel essential",
+        "unsplash_url": "https://unsplash.com/s/photos/Nitori-handy-fan,-cooling-fan,-portable-fan,-Japan-shopping,-summer-travel-essential",
+        "pexels_url": "https://www.pexels.com/search/Nitori%20handy%20fan,%20cooling%20fan,%20portable%20fan,%20Japan%20shopping,%20summer%20travel%20essential/"
+      }
+    },
+    {
+      "id": "plan_ed414d4c",
+      "created_at": "2026-05-11T04:17:43.294909",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、「ポケモン」のゲームドット用いた新作Tシャツ全8種。7月下旬発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107520.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬 덕후들 주목! 유니클로에서 30주년 기념 특별 티셔츠가 7월 말 출시돼요!"
+      },
+      "content": {
+        "thumbnail_title": "⚡️포켓몬 UT 2탄 7월 말 출시!",
+        "cards": [
+          {
+            "title": "포켓몬 UT 2탄",
+            "content": "유니클로에서 포켓몬 30주년 기념 UT 컬렉션 2탄을 7월 말에 출시합니다. 이번 컬렉션은 게임 도트를 활용한 디자인이 특징입니다.",
+            "alt_text": "유니클로 포켓몬 30주년 기념 UT 컬렉션 2탄 출시 정보"
+          },
+          {
+            "title": "총 8가지 디자인",
+            "content": "이번 2탄 컬렉션에서는 총 8가지의 다양한 디자인으로 포켓몬 팬들의 마음을 사로잡을 예정입니다. 어떤 포켓몬이 나올지 기대해주세요!",
+            "alt_text": "유니클로 포켓몬 UT 2탄 디자인 8종"
+          },
+          {
+            "title": "7월 하순 발매",
+            "content": "정확한 발매일은 7월 하순이며, 일본 전국의 유니클로 매장 및 온라인 스토어에서 만나볼 수 있습니다.",
+            "alt_text": "유니클로 포켓몬 UT 2탄 발매 시기 정보"
+          },
+          {
+            "title": "여행 중 득템 찬스",
+            "content": "일본 여행을 계획 중이라면, 이번 포켓몬 UT 컬렉션을 놓치지 마세요! 기념품으로도, 여행 패션 아이템으로도 최고입니다.",
+            "alt_text": "일본 여행 중 유니클로 포켓몬 UT 득템 찬스"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 발매일에 맞춰 서둘러 방문하는 것을 추천합니다. 온라인 스토어에서도 동시 판매될 가능성이 높아요!",
+            "alt_text": "유니클로 포켓몬 UT 구매 꿀팁"
+          }
+        ],
+        "caption": "✨포켓몬 팬들 주목!✨\n\n유니클로에서 포켓몬 30주년 기념 UT 컬렉션 2탄을 7월 말에 출시합니다!\n\n이번 컬렉션은 추억의 게임 도트 디자인으로, 총 8가지의 특별한 티셔츠가 선보일 예정이에요. 🤩\n\n일본 여행 계획 있다면, 7월 하순 유니클로에서 특별한 기념품 득템하세요! 🛍️\n\n#일본여행 #플라잉재팬 #유니클로 #포켓몬 #UT컬렉션 #일본쇼핑 #여행정보 #7월여행 #포켓몬굿즈 #일본직구 #여행필수템 #득템찬스 #일본여행팁 #포켓몬스터 #쇼핑스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#포켓몬",
+          "#UT컬렉션",
+          "#일본쇼핑",
+          "#여행정보",
+          "#7월여행",
+          "#포켓몬굿즈",
+          "#일본직구",
+          "#여행필수템",
+          "#득템찬스",
+          "#일본여행팁",
+          "#포켓몬스터",
+          "#쇼핑스타그램"
+        ],
+        "alt_texts": [
+          "유니클로 포켓몬 30주년 기념 UT 컬렉션 2탄 출시 정보",
+          "유니클로 포켓몬 UT 2탄 디자인 8종",
+          "유니클로 포켓몬 UT 2탄 발매 시기 정보",
+          "일본 여행 중 유니클로 포켓몬 UT 득템 찬스",
+          "유니클로 포켓몬 UT 구매 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 포켓몬 팬 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 시의성 있는 신상품 정보와 타겟층의 높은 관심사를 결합",
+      "image": {
+        "keyword": "Uniqlo, Pokemon UT, 30th anniversary, game sprite, t-shirt, Japan, new release, July",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Pokemon-UT,-30th-anniversary,-game-sprite,-t-shirt,-Japan,-new-release,-July",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Pokemon%20UT,%2030th%20anniversary,%20game%20sprite,%20t-shirt,%20Japan,%20new%20release,%20July/"
+      }
+    },
     {
       "id": "plan_e8d4f103",
       "created_at": "2026-05-11T00:09:11.346334",
@@ -923,160 +1077,6 @@
         "keyword": "Nagoya station bento box, Hitsumabushi bento, Tenmusu bento, Japanese train bento, Japanese food travel",
         "unsplash_url": "https://unsplash.com/s/photos/Nagoya-station-bento-box,-Hitsumabushi-bento,-Tenmusu-bento,-Japanese-train-bento,-Japanese-food-travel",
         "pexels_url": "https://www.pexels.com/search/Nagoya%20station%20bento%20box,%20Hitsumabushi%20bento,%20Tenmusu%20bento,%20Japanese%20train%20bento,%20Japanese%20food%20travel/"
-      }
-    },
-    {
-      "id": "plan_0aab0821",
-      "created_at": "2026-05-08T00:06:55.924740",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "HIS、半期に一度の大セール本日スタート。ソウル3日間1万9800円/沖縄3日間1万7800円ほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106928.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 확 줄일 수 있는 역대급 특가 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 초특가 1만9800엔부터!✈️",
-        "cards": [
-          {
-            "title": "역대급 세일!",
-            "content": "HIS에서 여름, 가을 여행 예약을 위한 'SUPER SUMMER SALE! 2026'을 시작했어요. 최대 할인 혜택을 놓치지 마세요!",
-            "alt_text": "HIS 여름/가을 여행 최대 할인 프로모션 시작 알림"
-          },
-          {
-            "title": "서울 3일 19800엔!",
-            "content": "가장 인기 있는 코스 중 하나인 서울 3일 여행이 단돈 19,800엔부터 시작합니다. 저렴한 가격으로 일본 여행을 즐길 기회예요.",
-            "alt_text": "서울 3일 여행 19,800엔 특가 상품 안내"
-          },
-          {
-            "title": "오키나와 3일 17800엔!",
-            "content": "아름다운 해변의 오키나와 3일 여행 역시 17,800엔이라는 놀라운 가격으로 만나볼 수 있어요. 여름 휴가 계획은 이걸로 끝!",
-            "alt_text": "오키나와 3일 여행 17,800엔 특가 상품 안내"
-          },
-          {
-            "title": "세일 기간 확인!",
-            "content": "이번 역대급 세일은 6월 29일까지 진행됩니다. 원하는 날짜와 상품을 미리 확인하고 서둘러 예약하세요!",
-            "alt_text": "HIS SUPER SUMMER SALE 2026 기간 안내 (6월 29일까지)"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "여행 상품은 조기 마감될 수 있으니, 원하는 일정이 있다면 지금 바로 HIS 공식 웹사이트를 확인하세요! (참고: HIS 웹사이트는 외부 링크로 직접 언급은 불가합니다.)",
-            "alt_text": "여행 상품 조기 마감 주의 및 빠른 예약 권장"
-          }
-        ],
-        "caption": "여러분! 일본 여행 경비를 확 줄일 수 있는 역대급 찬스가 찾아왔어요! ✈️\n\nHIS에서 여름, 가을 여행 예약을 위한 'SUPER SUMMER SALE! 2026'을 시작했습니다.\n\n✨ 서울 3일 19,800엔부터!\n✨ 오키나와 3일 17,800엔부터!\n\n이 기회 놓치면 후회할지도 몰라요! 😭 세일 기간은 6월 29일까지이니, 지금 바로 확인하고 알찬 여름/가을 일본 여행 계획 세워보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#HIS",
-          "#일본특가",
-          "#여행세일",
-          "#여름휴가",
-          "#가을여행",
-          "#일본항공권",
-          "#일본숙소",
-          "#해외여행",
-          "#여행정보",
-          "#가성비여행",
-          "#일본",
-          "#초특가",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "HIS 여름/가을 여행 최대 할인 프로모션 시작 알림",
-          "서울 3일 여행 19,800엔 특가 상품 안내",
-          "오키나와 3일 여행 17,800엔 특가 상품 안내",
-          "HIS SUPER SUMMER SALE 2026 기간 안내 (6월 29일까지)",
-          "여행 상품 조기 마감 주의 및 빠른 예약 권장"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 클릭률 및 문의 증가, 즉각적인 예약 전환 / 이 콘텐츠의 강점: 명확하고 구체적인 가격 정보 제시로 여행객의 즉각적인 관심 유발 및 행동 촉구",
-      "image": {
-        "keyword": "Japan travel sale, discount flight, cheap hotel Japan, summer vacation deal, autumn travel promotion",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-discount-flight,-cheap-hotel-Japan,-summer-vacation-deal,-autumn-travel-promotion",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20discount%20flight,%20cheap%20hotel%20Japan,%20summer%20vacation%20deal,%20autumn%20travel%20promotion/"
-      }
-    },
-    {
-      "id": "plan_48176f12",
-      "created_at": "2026-05-08T00:06:46.839194",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "じゃらん、最大1万5000円引き「旅応援クーポン」。お盆や3連休も対象、大江戸温泉物語やグランドメルキュールなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106965.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 확 줄여주는 1만 5천엔 할인 쿠폰 정보!"
-      },
-      "content": {
-        "thumbnail_title": "💸일본 여행 1.5만엔 할인!💸",
-        "cards": [
-          {
-            "title": "여행 지원 쿠폰",
-            "content": "일본 최대 여행 예약 플랫폼 '자란(じゃらん)'에서 국내 호텔/숙박에 사용할 수 있는 최대 1만 5천엔 할인 쿠폰을 선착순 95만 명에게 배포합니다. 8월 명절 연휴 및 3연휴 기간에도 사용 가능합니다.",
-            "alt_text": "자란(じゃらん) 여행 지원 쿠폰 배너 이미지"
-          },
-          {
-            "title": "할인 쿠폰",
-            "content": "이번 쿠폰은 다른 자란 쿠폰, 지역 쿠폰, 특별 쿠폰과 중복 사용이 가능하여, 기존 할인 혜택에 추가적인 할인을 받을 수 있습니다. 숙박 예약 시 쿠폰 적용 여부를 꼭 확인하세요.",
-            "alt_text": "여러 할인 쿠폰이 쌓이는 모습의 일러스트"
-          },
-          {
-            "title": "사용 가능 기간",
-            "content": "이번 '여행 지원 쿠폰'은 8월 명절 연휴와 3연휴 기간에도 사용할 수 있도록 대상 기간이 확대되었습니다. 연휴 기간 일본 여행 계획 중이라면 놓치지 마세요.",
-            "alt_text": "달력에 표시된 8월 연휴 기간 이미지"
-          },
-          {
-            "title": "인기 숙소",
-            "content": "대에도온천물어보관(大江戸温泉物語)이나 그랜드머큐르(グランドメルキュール) 등 인기 있는 호텔 및 료칸 예약 시에도 이 쿠폰을 적용할 수 있습니다. 다양한 숙소 옵션을 비교해보세요.",
-            "alt_text": "일본의 고급 호텔 및 료칸 외관 사진"
-          },
-          {
-            "title": "쿠폰 활용 꿀팁",
-            "content": "쿠폰은 한정 수량으로 조기 마감될 수 있으니, 여행 계획을 세우자마자 바로 예약하고 쿠폰을 확보하는 것이 중요합니다. 자란 앱 또는 웹사이트에서 쿠폰 정보를 확인하세요.",
-            "alt_text": "스마트폰으로 여행 앱을 사용하는 모습"
-          }
-        ],
-        "caption": "일본 여행 경비 절약 찬스! 💸\n\n일본 여행 예약 플랫폼 '자란(じゃらん)'에서 최대 1만 5천엔 할인 쿠폰을 선착순 95만 명에게 배포 중이에요! 🤩\n\n8월 명절 연휴, 3연휴 기간에도 사용 가능하며, 다른 쿠폰과 중복 적용까지 된다는 사실! 💯\n\n인기 호텔, 료칸 예약 시 꼭 활용해서 알뜰한 일본 여행 계획 세우세요! ✈️\n\n#일본여행 #자란쿠폰 #일본숙소 #여행경비절약 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#자란",
-          "#일본할인",
-          "#여행쿠폰",
-          "#일본숙소",
-          "#호텔예약",
-          "#료칸",
-          "#일본여행팁",
-          "#알뜰여행",
-          "#일본여행준비",
-          "#여행정보",
-          "#8월여행",
-          "#연휴여행",
-          "#일본"
-        ],
-        "alt_texts": [
-          "자란(じゃらん) 여행 지원 쿠폰 배너 이미지",
-          "여러 할인 쿠폰이 쌓이는 모습의 일러스트",
-          "달력에 표시된 8월 연휴 기간 이미지",
-          "일본의 고급 호텔 및 료칸 외관 사진",
-          "스마트폰으로 여행 앱을 사용하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 쿠폰 정보에 대한 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 경비 절감 정보 제공, 즉각적인 행동 유발",
-      "image": {
-        "keyword": "Japan travel discount coupon, Jalan, hotel booking, ryokan, travel savings, August holiday",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount-coupon,-Jalan,-hotel-booking,-ryokan,-travel-savings,-August-holiday",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount%20coupon,%20Jalan,%20hotel%20booking,%20ryokan,%20travel%20savings,%20August%20holiday/"
       }
     }
   ]
