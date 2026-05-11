@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-10T04:07:16.418518",
+  "last_updated": "2026-05-11T00:09:13.346613",
   "plans": [
+    {
+      "id": "plan_e8d4f103",
+      "created_at": "2026-05-11T00:09:11.346334",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "PASMOのチャージ、16日夜不能に。再発行・払い戻しも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107188.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "갑작스러운 PASMO/Suica 서비스 중단! 일본 여행 중 카드 사용에 차질 없도록 미리 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚨PASMO/Suica 멈춤🚨",
+        "cards": [
+          {
+            "title": "서비스 중단",
+            "content": "5월 16일 밤 9시부터 종일차편 운행 종료 시까지 PASMO 및 Suica 일부 서비스가 중단됩니다. 시스템 전환 작업으로 인한 일시적인 중단이니 여행 중 불편함이 없도록 미리 대비하세요.",
+            "alt_text": "PASMO 카드와 Suica 카드를 든 손"
+          },
+          {
+            "title": "충전 불가",
+            "content": "특히, 카드 충전이 불가능한 시간대이니 여행 전에 충분히 잔액을 확인하거나 미리 충전해두는 것이 좋습니다. 현금 준비도 잊지 마세요!",
+            "alt_text": "동전과 지폐가 담긴 지갑"
+          },
+          {
+            "title": "재발행/환불",
+            "content": "서비스 중단 기간 동안에는 PASMO 및 Suica 카드 재발행 또는 환불 서비스 역시 제한될 수 있습니다. 중요한 카드라면 미리 확인하시기 바랍니다.",
+            "alt_text": "환불 또는 재발행을 의미하는 아이콘"
+          },
+          {
+            "title": "이용 가능 여부",
+            "content": "정확히 어떤 서비스가 중단되는지는 변동될 수 있으니, 여행 직전 공식 발표를 다시 한번 확인하는 것이 가장 안전합니다. (단, 현재까지 발표된 내용은 충전, 재발행, 환불 관련 제한입니다.)",
+            "alt_text": "물음표와 정보 아이콘"
+          },
+          {
+            "title": "대체 교통",
+            "content": "만약 PASMO/Suica 카드 사용이 어렵다면, 현금 결제가 가능한 교통편을 이용하거나 다른 교통카드를 준비하는 것을 고려해볼 수 있습니다. 일본 여행 중 교통은 필수!",
+            "alt_text": "버스, 지하철, 택시 아이콘"
+          }
+        ],
+        "caption": "⚠️긴급 공지⚠️\n일본 여행 필수템 PASMO/Suica, 5월 16일 밤부터 서비스 중단 소식! 🚨\n갑작스러운 충전 불가, 재발행/환불 제한까지! 😱\n여행 중 불편함 없도록 미리 대비하세요! ✈️\n#PASMO #Suica #일본교통 #여행필수템 #긴급공지",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#PASMO",
+          "#Suica",
+          "#일본교통",
+          "#일본여행준비",
+          "#여행정보",
+          "#도쿄여행",
+          "#오사카여행",
+          "#일본카드",
+          "#여행꿀팁",
+          "#해외여행",
+          "#교통카드",
+          "#일본생활",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "PASMO 카드와 Suica 카드를 든 손",
+          "동전과 지폐가 담긴 지갑",
+          "환불 또는 재발행을 의미하는 아이콘",
+          "물음표와 정보 아이콘",
+          "버스, 지하철, 택시 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 저녁 7~9시 (출발 전 정보 확인하는 시간) / 기대 반응: 정보 공유 및 주의 환기, 댓글 문의 / 이 콘텐츠의 강점: 시의성 높고 즉각적인 여행 계획 수정에 필요한 핵심 정보 제공",
+      "image": {
+        "keyword": "Japan travel, PASMO card, Suica card, transportation, emergency notice, travel inconvenience",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-PASMO-card,-Suica-card,-transportation,-emergency-notice,-travel-inconvenience",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20PASMO%20card,%20Suica%20card,%20transportation,%20emergency%20notice,%20travel%20inconvenience/"
+      }
+    },
+    {
+      "id": "plan_473fe7b9",
+      "created_at": "2026-05-11T00:09:04.515399",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京～沖縄の航空券＋宿泊が9900円、東京・福岡・那覇のホテルが1泊5900円に。Trip.com 初夏のセール、本日から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107285.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 확 줄일 수 있는 파격적인 특가 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 숙박 5,900엔부터!💸",
+        "cards": [
+          {
+            "title": "초여름 특가!",
+            "content": "Trip.com에서 5월 11일부터 17일까지 '초여름 감사 SALE'을 진행해요. 항공권+숙박 패키지 또는 호텔 1박을 파격적인 가격에 만나볼 수 있어요.",
+            "alt_text": "Trip.com 초여름 감사 SALE 배너 이미지"
+          },
+          {
+            "title": "파격적인 가격!",
+            "content": "도쿄-오키나와 왕복 항공권과 숙박이 포함된 패키지가 단돈 9,900엔! 도쿄, 후쿠오카, 나하 지역 호텔은 1박에 5,900엔부터 시작해요.",
+            "alt_text": "일본 호텔 1박 5,900엔 가격표 이미지"
+          },
+          {
+            "title": "여행 기간 확인",
+            "content": "이번 특가 프로모션은 5월 11일부터 8월 31일까지 여행하는 일정에 적용돼요. 여름 휴가 계획 중이라면 놓치지 마세요!",
+            "alt_text": "달력에 5월 11일부터 8월 31일까지 표시된 이미지"
+          },
+          {
+            "title": "어디서 예약할까?",
+            "content": "Trip.com 웹사이트 또는 앱에서 '초여름 감사 SALE'을 검색하여 해당 프로모션 상품을 확인하고 예약할 수 있습니다.",
+            "alt_text": "Trip.com 웹사이트 또는 앱 예약 화면 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 노선 및 숙소는 조기 마감될 수 있으니, 여행 날짜를 정했다면 서둘러 예약하는 것을 추천해요. 꼼꼼히 비교하고 최저가 찬스를 잡으세요!",
+            "alt_text": "손으로 가리키며 팁을 주는 이모티콘 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중인 분들 주목! ✨\nTrip.com에서 역대급 초특가 세일이 시작됐어요! ✈️\n도쿄-오키나와 항공권+숙박이 9,900엔, 호텔 1박은 5,900엔부터! 💸\n여행 기간은 5월 11일부터 8월 31일까지니, 여름 휴가 계획 있다면 절대 놓치지 마세요! ☀️\n지금 바로 Trip.com에서 확인하고 알뜰하게 일본 여행 준비하세요! 🇯🇵",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본특가",
+          "#일본항공권",
+          "#일본호텔",
+          "#트립닷컴",
+          "#일본여행준비",
+          "#여름휴가",
+          "#가성비여행",
+          "#일본자유여행",
+          "#일본쇼핑",
+          "#일본맛집",
+          "#일본축제",
+          "#일본생활",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "Trip.com 초여름 감사 SALE 배너 이미지",
+          "일본 호텔 1박 5,900엔 가격표 이미지",
+          "달력에 5월 11일부터 8월 31일까지 표시된 이미지",
+          "Trip.com 웹사이트 또는 앱 예약 화면 이미지",
+          "손으로 가리키며 팁을 주는 이모티콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오전 10시-12시 / 기대 반응: 높은 클릭률 및 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제공하는 파격적인 할인 정보",
+      "image": {
+        "keyword": "Japan travel sale, cheap flights Japan, Japan hotel deals, Trip.com promo, summer vacation Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-cheap-flights-Japan,-Japan-hotel-deals,-Trip.com-promo,-summer-vacation-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20cheap%20flights%20Japan,%20Japan%20hotel%20deals,%20Trip.com%20promo,%20summer%20vacation%20Japan/"
+      }
+    },
     {
       "id": "plan_82f0cb14",
       "created_at": "2026-05-10T04:07:14.418330",
@@ -923,160 +1077,6 @@
         "keyword": "Japan travel discount coupon, Jalan, hotel booking, ryokan, travel savings, August holiday",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount-coupon,-Jalan,-hotel-booking,-ryokan,-travel-savings,-August-holiday",
         "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount%20coupon,%20Jalan,%20hotel%20booking,%20ryokan,%20travel%20savings,%20August%20holiday/"
-      }
-    },
-    {
-      "id": "plan_9b3a9ffd",
-      "created_at": "2026-05-07T03:57:08.776012",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ミャクミャクぬいぐるみくじ、黒バージョンになって復活！　東京・大阪で5月18日から開催決定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106754.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2025 오사카/간사이 엑스포 공식 굿즈 '미야쿠미야쿠' 인형 뽑기, 블랙 버전으로 재등장! 놓치면 후회할 한정판 굿즈!"
-      },
-      "content": {
-        "thumbnail_title": "✨미야쿠미야쿠 🖤블랙 인형✨",
-        "cards": [
-          {
-            "title": "블랙 버전 등장!",
-            "content": "2025 오사카/간사이 엑스포에서 인기였던 '미야쿠미야쿠' 인형 뽑기가 더욱 특별한 '블랙 버전'으로 돌아왔어요. 엑스포 기간 동안 현장에서만 만날 수 있었던 귀여운 친구들을 다시 만날 기회!",
-            "alt_text": "검은색 바탕에 귀여운 미야쿠미야쿠 캐릭터가 그려진 인형 뽑기 기계 이미지"
-          },
-          {
-            "title": "개최 기간",
-            "content": "2024년 5월 18일부터 시작됩니다. 정확한 종료일은 추후 공지될 예정이니, 여행 계획에 참고하세요!",
-            "alt_text": "달력에 5월 18일이 표시된 이미지"
-          },
-          {
-            "title": "개최 장소",
-            "content": "도쿄와 오사카 두 곳에서 진행됩니다. 엑스포 공식 스토어인 '준크도 서점'에서 만날 수 있어요.",
-            "alt_text": "도쿄와 오사카 지도를 보여주는 이미지"
-          },
-          {
-            "title": "인기 굿즈",
-            "content": "엑스포 현장에서 엄청난 인기를 누렸던 '미야쿠미야쿠' 굿즈! 이번 블랙 버전도 조기 품절될 수 있으니 서두르세요.",
-            "alt_text": "여러 개의 미야쿠미야쿠 인형이 쌓여있는 모습"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "엑스포 기간에 방문하지 못했거나, 블랙 버전을 꼭 갖고 싶은 분이라면 이번 기회를 놓치지 마세요! 특별한 기념품이 될 거예요.",
-            "alt_text": "여행자가 미야쿠미야쿠 인형을 들고 행복해하는 모습"
-          }
-        ],
-        "caption": "✈️ 2025 오사카/간사이 엑스포 공식 굿즈, '미야쿠미야쿠' 인형 뽑기가 블랙 버전으로 돌아왔어요!🖤\n\n📍 도쿄 & 오사카\n🗓️ 5월 18일 ~ (종료일 미정)\n\n엑스포 현장에서 엄청난 인기를 자랑했던 미야쿠미야쿠! 이번엔 시크한 블랙 버전으로 만날 수 있답니다. 엑스포 방문 못했던 분들, 블랙 버전 굿즈를 원했던 분들은 절대 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #오사카여행 #도쿄여행 #2025오사카엑스포 #미야쿠미야쿠 #인형뽑기 #일본굿즈 #여행필수템 #한정판 #여행정보 #일본쇼핑 #여행꿀팁 #엑스포굿즈 #일본한정",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#도쿄여행",
-          "#2025오사카엑스포",
-          "#미야쿠미야쿠",
-          "#인형뽑기",
-          "#일본굿즈",
-          "#여행필수템",
-          "#한정판",
-          "#여행정보",
-          "#일본쇼핑",
-          "#여행꿀팁",
-          "#엑스포굿즈",
-          "#일본한정"
-        ],
-        "alt_texts": [
-          "검은색 바탕에 귀여운 미야쿠미야쿠 캐릭터가 그려진 인형 뽑기 기계 이미지",
-          "달력에 5월 18일이 표시된 이미지",
-          "도쿄와 오사카 지도를 보여주는 이미지",
-          "여러 개의 미야쿠미야쿠 인형이 쌓여있는 모습",
-          "여행자가 미야쿠미야쿠 인형을 들고 행복해하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 2025 오사카/간사이 엑스포에 관심 있는 한국인 여행자, 귀여운 캐릭터 굿즈 수집가 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 굿즈 획득 인증샷 기대 / 이 콘텐츠의 강점: 엑스포 관련 희소성 있는 굿즈 정보, 놓치면 후회할 만한 한정판 소식",
-      "image": {
-        "keyword": "Myak Myak plush toy crane game black version Osaka Expo Tokyo event",
-        "unsplash_url": "https://unsplash.com/s/photos/Myak-Myak-plush-toy-crane-game-black-version-Osaka-Expo-Tokyo-event",
-        "pexels_url": "https://www.pexels.com/search/Myak%20Myak%20plush%20toy%20crane%20game%20black%20version%20Osaka%20Expo%20Tokyo%20event/"
-      }
-    },
-    {
-      "id": "plan_4b2b0ae4",
-      "created_at": "2026-05-07T03:57:01.806281",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ニトリ、ハンズフリーで涼しい“小型ボックスファン”1990円。腰ベルトやバッグに装着",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2106755.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 더위를 시원하게 날려줄 꿀템 발견! ☀️"
-      },
-      "content": {
-        "thumbnail_title": "일본에서 1990엔 득템! 쿨링템 💨",
-        "cards": [
-          {
-            "title": "니토리 신상템",
-            "content": "일본 니토리에서 '벨트에 착용 가능한 소형 박스 팬'을 출시했어요. 더운 날씨에 휴대하며 시원함을 유지할 수 있는 아이템입니다.",
-            "alt_text": "니토리에서 판매하는 휴대용 선풍기 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 1990엔으로, 부담 없이 구매하기 좋은 가격대입니다. 일본 여행 중 예상치 못한 더위에 대비하기 좋아요.",
-            "alt_text": "휴대용 선풍기 가격표 이미지"
-          },
-          {
-            "title": "활용 팁",
-            "content": "벨트나 가방에 간편하게 착용 가능하며, 손을 자유롭게 사용할 수 있어 관광이나 쇼핑 중에도 편리하게 사용할 수 있습니다.",
-            "alt_text": "벨트에 휴대용 선풍기를 착용한 사람 이미지"
-          },
-          {
-            "title": "구매처",
-            "content": "일부 니토리 매장 및 니토리 공식 온라인 스토어에서 구매 가능합니다. 현지에서 직접 보고 구매하는 재미도 놓치지 마세요!",
-            "alt_text": "니토리 매장 외관 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여름철 일본 여행 시 필수템으로 추천! 특히 야외 활동이 많거나 대중교통 이용 시 유용할 거예요. 짐이 많다면 더욱 추천합니다.",
-            "alt_text": "여름철 일본 거리에서 휴대용 선풍기를 사용하는 사람 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 더위와의 싸움은 이제 그만! ✋ 니토리에서 새롭게 출시된 1990엔짜리 휴대용 박스 팬으로 시원하게 여행하세요! 💨 벨트나 가방에 착용 가능해서 양손이 자유롭답니다. 여름철 일본 여행 필수템으로 찜콩! ✨\n\n#일본여행 #플라잉재팬 #일본쇼핑 #니토리 #휴대용선풍기 #여름필수템 #일본득템 #여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#니토리",
-          "#휴대용선풍기",
-          "#여름필수템",
-          "#일본여행꿀팁",
-          "#일본생활",
-          "#일본쇼핑리스트",
-          "#가성비템",
-          "#여행준비",
-          "#일본자유여행",
-          "#일본스타그램",
-          "#일본정보",
-          "#일본쇼핑추천"
-        ],
-        "alt_texts": [
-          "니토리에서 판매하는 휴대용 선풍기 이미지",
-          "휴대용 선풍기 가격표 이미지",
-          "벨트에 휴대용 선풍기를 착용한 사람 이미지",
-          "니토리 매장 외관 이미지",
-          "여름철 일본 거리에서 휴대용 선풍기를 사용하는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름철 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실용적인 아이템, 저렴한 가격, 즉각적인 더위 해소 효과",
-      "image": {
-        "keyword": "Nitori belt fan, portable fan Japan, summer travel essential Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Nitori-belt-fan,-portable-fan-Japan,-summer-travel-essential-Japan",
-        "pexels_url": "https://www.pexels.com/search/Nitori%20belt%20fan,%20portable%20fan%20Japan,%20summer%20travel%20essential%20Japan/"
       }
     }
   ]
