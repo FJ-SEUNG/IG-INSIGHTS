@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-11T04:17:52.651441",
+  "last_updated": "2026-05-12T00:10:32.232062",
   "plans": [
+    {
+      "id": "plan_f4d5038d",
+      "created_at": "2026-05-12T00:10:30.231883",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宮崎市内JRと路線バスが500円で乗り放題「みやざきマルっと1Dayフリーパス」が2026年度も発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107721.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 여행 시 교통비 절약 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️미야자키 1일 무제한 교통권!✈️",
+        "cards": [
+          {
+            "title": "미야자키 1일권",
+            "content": "미야자키 시내 JR과 노선버스를 하루 종일 500엔에 무제한 이용 가능한 '미야자키 마루토 1Day 프리패스'가 출시됩니다.",
+            "alt_text": "미야자키 시내를 달리는 JR 열차 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "2024년 5월 22일부터 12월 7일까지 이용 가능하며, 2026년도까지 계속 발매될 예정입니다.",
+            "alt_text": "달력에 5월 22일과 12월 7일이 표시된 이미지"
+          },
+          {
+            "title": "이용 범위",
+            "content": "미야자키 시내의 JR 노선과 미야자키 교통이 운영하는 버스 노선을 자유롭게 이용할 수 있습니다.",
+            "alt_text": "미야자키 시내 지도에 버스 노선과 JR 노선이 표시된 이미지"
+          },
+          {
+            "title": "가격 혜택",
+            "content": "단돈 500엔으로 교통비를 크게 절약할 수 있어 미야자키 시내 관광에 매우 유용합니다.",
+            "alt_text": "500엔 동전과 함께 교통 패스가 놓인 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "미야자키 시내 명소를 여러 곳 방문할 계획이라면 이 패스를 활용하는 것이 경제적입니다. 여행 동선을 미리 계획하여 효율적으로 사용하세요!",
+            "alt_text": "미야자키 타워와 같이 시내 명소를 방문하는 관광객 이미지"
+          }
+        ],
+        "caption": "🇯🇵미야자키 여행 필수템 등장!🇯🇵\n\n미야자키 시내 JR과 버스를 하루 종일 500엔에 무제한 이용할 수 있는 '미야자키 마루토 1Day 프리패스'가 출시되었습니다! 🤩\n\n✅ 이용 기간: 2024년 5월 22일 ~ 12월 7일 (2026년까지 발매 예정)\n✅ 가격: 단돈 500엔!\n✅ 이용 범위: 미야자키 시내 JR + 미야자키 교통 버스\n\n미야자키 시내를 알차게 돌아다니고 싶다면 이 패스를 놓치지 마세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#미야자키",
+          "#미야자키여행",
+          "#규슈",
+          "#규슈여행",
+          "#일본교통",
+          "#일본패스",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#미야자키마루토1Day프리패스",
+          "#JR",
+          "#버스",
+          "#여행정보",
+          "#가성비여행"
+        ],
+        "alt_texts": [
+          "미야자키 시내를 달리는 JR 열차 이미지",
+          "달력에 5월 22일과 12월 7일이 표시된 이미지",
+          "미야자키 시내 지도에 버스 노선과 JR 노선이 표시된 이미지",
+          "500엔 동전과 함께 교통 패스가 놓인 이미지",
+          "미야자키 타워와 같이 시내 명소를 방문하는 관광객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 저렴한 가격으로 교통비를 절약할 수 있는 구체적인 정보 제공",
+      "image": {
+        "keyword": "Miyazaki city, JR train, bus, transportation pass, 500 yen, travel icon",
+        "unsplash_url": "https://unsplash.com/s/photos/Miyazaki-city,-JR-train,-bus,-transportation-pass,-500-yen,-travel-icon",
+        "pexels_url": "https://www.pexels.com/search/Miyazaki%20city,%20JR%20train,%20bus,%20transportation%20pass,%20500%20yen,%20travel%20icon/"
+      }
+    },
+    {
+      "id": "plan_2db697ea",
+      "created_at": "2026-05-12T00:10:22.852021",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉の絶景リゾート「TAOYA日光霧降」に半露天風呂付客室オープン。7月10日宿泊分から予約受付スタート",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107722.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "닛코의 아름다운 자연 속에서 반노천탕을 즐길 수 있는 새로운 객실이 오픈했어요!"
+      },
+      "content": {
+        "thumbnail_title": "닛코 TAOYA, 반노천탕 객실 오픈♨️",
+        "cards": [
+          {
+            "title": "신규 객실 오픈",
+            "content": "대에도온천 리조트 'TAOYA 닛코 키리후리'가 7월 10일부터 4가지 타입, 총 7개의 신규 객실을 오픈합니다.",
+            "alt_text": "TAOYA 닛코 키리후리 호텔 외관"
+          },
+          {
+            "title": "반노천탕 완비",
+            "content": "새롭게 선보이는 객실에는 프라이빗하게 온천을 즐길 수 있는 반노천탕이 마련되어 있습니다. 닛코의 절경을 감상하며 힐링하세요.",
+            "alt_text": "반노천탕이 있는 객실 내부 모습"
+          },
+          {
+            "title": "예약 시작",
+            "content": "신규 객실은 7월 10일 숙박 예약부터 접수가 시작됩니다. 서둘러 예약하세요!",
+            "alt_text": "예약 안내 문구가 적힌 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "호텔 주소는 栃木県日光市所野1535-1입니다. 닛코의 아름다운 자연 속에서 특별한 휴식을 경험할 수 있습니다.",
+            "alt_text": "호텔 위치를 나타내는 지도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 있는 객실은 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천합니다. 닛코 여행 시 잊지 못할 추억을 만들어보세요!",
+            "alt_text": "여행 팁을 보여주는 이미지"
+          }
+        ],
+        "caption": "♨️닛코에서 즐기는 힐링 스테이!♨️\n\n대에도온천 리조트 'TAOYA 닛코 키리후리'에서 7월 10일부터 반노천탕이 있는 새로운 객실을 오픈해요!\n\n닛코의 아름다운 자연을 감상하며 프라이빗 온천을 즐길 수 있는 기회! ✨\n\n지금 바로 예약하고 특별한 닛코 여행을 계획해보세요! ✈️\n\n#닛코여행 #일본온천 #TAOYA닛코키리후리 #호텔추천",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#닛코여행",
+          "#TAOYA닛코키리후리",
+          "#일본온천",
+          "#반노천탕",
+          "#일본호텔",
+          "#닛코가볼만한곳",
+          "#일본숙소",
+          "#호텔추천",
+          "#여행정보",
+          "#일본자유여행",
+          "#여름휴가",
+          "#호캉스",
+          "#일본힐링"
+        ],
+        "alt_texts": [
+          "TAOYA 닛코 키리후리 호텔 외관",
+          "반노천탕이 있는 객실 내부 모습",
+          "예약 안내 문구가 적힌 이미지",
+          "호텔 위치를 나타내는 지도 이미지",
+          "여행 팁을 보여주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 닛코 지역 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 예약 문의 증가, 숙소 정보 공유 활발 / 이 콘텐츠의 강점: 신규 오픈 정보와 구체적인 혜택(반노천탕)을 명확히 제시하여 직접적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Nikko Onsen Hotel Room with Open-air Bath",
+        "unsplash_url": "https://unsplash.com/s/photos/Nikko-Onsen-Hotel-Room-with-Open-air-Bath",
+        "pexels_url": "https://www.pexels.com/search/Nikko%20Onsen%20Hotel%20Room%20with%20Open-air%20Bath/"
+      }
+    },
     {
       "id": "plan_a8e90a14",
       "created_at": "2026-05-11T04:17:50.651263",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen Gran Class discount ticket",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Gran-Class-discount-ticket",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20Gran%20Class%20discount%20ticket/"
-      }
-    },
-    {
-      "id": "plan_af4e4f1c",
-      "created_at": "2026-05-08T03:47:46.300034",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "クレカ所有者なら山陽新幹線が最大65％オフ「J-WESTカード会員限定 WESTERポイント超特典きっぷ」利用スタート",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2107074.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센 최대 65% 할인받고 일본 여행 즐기자! 🚄"
-      },
-      "content": {
-        "thumbnail_title": "신칸센 65% 할인 꿀팁! 🚄",
-        "cards": [
-          {
-            "title": "J-WEST 카드",
-            "content": "신용카드 소지자라면 주목! J-WEST 카드 회원만을 위한 특별 혜택이 시작됩니다.",
-            "alt_text": "J-WEST 카드 로고"
-          },
-          {
-            "title": "최대 65% 할인",
-            "content": "산요 신칸센 구간을 최대 65% 할인된 가격으로 이용할 수 있어요. 망설이면 품절!",
-            "alt_text": "할인율이 표시된 신칸센 티켓 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "2024년 5월 7일부터 6월 30일까지 이용 가능합니다. 지금 바로 예약하세요!",
-            "alt_text": "달력에 표시된 5월, 6월 날짜"
-          },
-          {
-            "title": "예약 방법",
-            "content": "JR 서일본 공식 예약 사이트 'e5489'에서 'WESTER 포인트 초특전 티켓'으로 검색하여 예약하세요.",
-            "alt_text": "e5489 웹사이트 예약 화면 캡처"
-          },
-          {
-            "title": "주의사항",
-            "content": "이 혜택은 J-WEST 카드 회원 전용이며, 예약 사이트에서만 이용 가능합니다. 기간 내 서둘러 예약하세요!",
-            "alt_text": "주의사항을 알리는 경고 표시"
-          }
-        ],
-        "caption": "일본 여행 필수 코스, 신칸센! 🚄 J-WEST 카드 회원이라면 산요 신칸센을 최대 65% 할인받을 수 있는 절호의 기회! 🤩\n\n✅ 혜택: 산요 신칸센 최대 65% 할인\n✅ 대상: J-WEST 카드 회원 한정\n✅ 예약 기간: 4월 7일부터 시작 (조기 마감 가능성 있음!)\n✅ 이용 기간: 5월 7일 ~ 6월 30일\n✅ 예약 방법: JR 서일본 'e5489' 사이트\n\n지금 바로 J-WEST 카드를 확인하고, 할인받아 알찬 일본 여행 계획 세워보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#일본교통",
-          "#JWEST카드",
-          "#JR서일본",
-          "#산요신칸센",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#알뜰여행",
-          "#일본",
-          "#여행정보",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "J-WEST 카드 로고",
-          "할인율이 표시된 신칸센 티켓 이미지",
-          "달력에 표시된 5월, 6월 날짜",
-          "e5489 웹사이트 예약 화면 캡처",
-          "주의사항을 알리는 경고 표시"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시, 주말 오후 1시~3시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 파격적인 할인율과 실질적인 교통비 절감 효과",
-      "image": {
-        "keyword": "Shinkansen discount ticket, J-WEST card, Japan travel transportation, discount offer, reservation website",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-discount-ticket,-J-WEST-card,-Japan-travel-transportation,-discount-offer,-reservation-website",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20discount%20ticket,%20J-WEST%20card,%20Japan%20travel%20transportation,%20discount%20offer,%20reservation%20website/"
-      }
-    },
-    {
-      "id": "plan_4450fa2c",
-      "created_at": "2026-05-08T03:47:36.727734",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】名古屋駅「松浦のひつまぶし天むす」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2106803.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나고야역에서 즐기는 특별한 맛! 히츠마부시와 텐무스를 한번에 맛볼 수 있는 역도시락 등장 🍱✨"
-      },
-      "content": {
-        "thumbnail_title": "나고야 역도시락 🍱",
-        "cards": [
-          {
-            "title": "신상 도시락",
-            "content": "나고야역에서 새롭게 선보이는 '마츠우라의 히츠마부시 텐무스' 도시락을 소개합니다. 히츠마부시와 텐무스를 동시에 즐길 수 있는 특별한 메뉴예요.",
-            "alt_text": "나고야역에서 판매하는 히츠마부시 텐무스 도시락의 패키지 이미지"
-          },
-          {
-            "title": "구성",
-            "content": "도시락은 김으로 감싼 히츠마부시 주먹밥 5개와 텐무스 2개로 구성되어 있습니다. 히츠마부시 주먹밥 3개는 장어구이가 보이며, 2개는 텐무스입니다.",
-            "alt_text": "도시락 속 히츠마부시 주먹밥과 텐무스의 클로즈업 이미지"
-          },
-          {
-            "title": "맛",
-            "content": "간단하면서도 알찬 구성으로, 히츠마부시의 풍미와 텐무스의 바삭함을 동시에 느낄 수 있는 매력적인 도시락입니다.",
-            "alt_text": "히츠마부시 주먹밥의 장어구이 단면을 보여주는 이미지"
-          },
-          {
-            "title": "선택의 폭",
-            "content": "나고야역에서는 다양한 히츠마부시 도시락을 판매하고 있어, 그날의 기분과 식욕에 따라 다채롭게 선택할 수 있습니다.",
-            "alt_text": "다양한 종류의 히츠마부시 도시락이 진열된 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "기차 안에서 간편하게 나고야의 명물 히츠마부시를 맛보고 싶다면 이 도시락을 추천해요! 간단한 구성이라 부담 없이 즐기기 좋습니다. ",
-            "alt_text": "기차 창밖 풍경과 함께 놓인 히츠마부시 텐무스 도시락 이미지"
-          }
-        ],
-        "caption": "✈️ 한국 여행자 주목! 나고야역에서 만나는 특별한 도시락 🍱\n\n나고야역에서만 맛볼 수 있는 '마츠우라의 히츠마부시 텐무스' 도시락을 소개합니다! 🍚\n\n김으로 감싼 히츠마부시 주먹밥 5개와 바삭한 텐무스 2개로 구성되어 있어, 나고야의 명물을 한 번에 즐길 수 있어요. 😋\n\n간단하면서도 든든한 한 끼 식사로, 기차 여행 중에도 완벽! 🚄\n\n나고야 방문 예정이라면 꼭 놓치지 마세요! 😉\n\n#일본여행 #나고야여행 #나고야역 #도시락 #역도시락 #히츠마부시 #텐무스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나고야여행",
-          "#나고야역",
-          "#일본도시락",
-          "#일본역도시락",
-          "#히츠마부시",
-          "#텐무스",
-          "#일본음식",
-          "#일본맛집",
-          "#여행꿀팁",
-          "#일본기차여행",
-          "#나고야",
-          "#먹스타그램",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "나고야역에서 판매하는 히츠마부시 텐무스 도시락의 패키지 이미지",
-          "도시락 속 히츠마부시 주먹밥과 텐무스의 클로즈업 이미지",
-          "히츠마부시 주먹밥의 장어구이 단면을 보여주는 이미지",
-          "다양한 종류의 히츠마부시 도시락이 진열된 이미지",
-          "기차 창밖 풍경과 함께 놓인 히츠마부시 텐무스 도시락 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 나고야를 방문하는 한국인 여행객, 기차 이동이 많은 여행객 / 최적 게시 시간: 오후 7시 ~ 9시 (저녁 식사 시간대) / 기대 반응: '맛있겠다', '꼭 먹어봐야지' 등의 긍정적인 반응, 저장 및 공유 / 이 콘텐츠의 강점: 일본 현지에서만 맛볼 수 있는 특별한 메뉴 소개, 구체적인 메뉴 구성 및 특징 설명으로 실질적인 정보 제공",
-      "image": {
-        "keyword": "Nagoya station bento box, Hitsumabushi bento, Tenmusu bento, Japanese train bento, Japanese food travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagoya-station-bento-box,-Hitsumabushi-bento,-Tenmusu-bento,-Japanese-train-bento,-Japanese-food-travel",
-        "pexels_url": "https://www.pexels.com/search/Nagoya%20station%20bento%20box,%20Hitsumabushi%20bento,%20Tenmusu%20bento,%20Japanese%20train%20bento,%20Japanese%20food%20travel/"
       }
     }
   ]
