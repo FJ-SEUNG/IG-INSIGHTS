@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-12T00:10:32.232062",
+  "last_updated": "2026-05-12T04:00:26.665098",
   "plans": [
+    {
+      "id": "plan_e850a61d",
+      "created_at": "2026-05-12T04:00:24.664918",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "長崎県の観光体験が最大30％オフ「長崎ぐるっと割キャンペーン」。軍艦島上陸ツアーやミュージアム入場などお得に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107716.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "나가사키 여행 경비를 최대 30%까지 아낄 수 있는 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🚢나가사키 30% 할인 찬스!",
+        "cards": [
+          {
+            "title": "나가사키 ぐるっと割",
+            "content": "나가사키현에서 관광 액티비티 및 교통 티켓을 최대 30% 할인해주는 '나가사키 ぐるっと割 캠페인'을 진행해요.",
+            "alt_text": "나가사키 ぐるっと割 캠페인 로고"
+          },
+          {
+            "title": "할인 기간",
+            "content": "2024년 5월 11일부터 2027년 2월 28일까지 진행되니, 장기간 여행 계획에 참고하세요!",
+            "alt_text": "캘린더에 표시된 캠페인 기간"
+          },
+          {
+            "title": "할인 대상",
+            "content": "군함도 상륙 투어, 각종 박물관 입장권 등 나가사키의 다채로운 관광 체험을 할인된 가격으로 즐길 수 있어요.",
+            "alt_text": "군함도와 박물관 이미지"
+          },
+          {
+            "title": "최대 30% 할인",
+            "content": "여행 경비를 절약하고 싶다면 놓칠 수 없는 기회! 최대 30% 할인 혜택을 꼭 챙기세요.",
+            "alt_text": "할인율 30% 표시 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "캠페인 대상 상품 및 예약 방법은 나가사키현 공식 관광 사이트를 참고하여 미리 확인하는 것이 좋아요. 조기 마감될 수 있으니 서두르세요!",
+            "alt_text": "나가사키 여행 계획을 세우는 모습"
+          }
+        ],
+        "caption": "나가사키 여행 계획 중이신 분들 주목! 📢\n'나가사키 ぐるっと割 캠페인'으로 최대 30% 할인받고 알차게 여행하세요!\n군함도 투어부터 박물관까지, 다양한 체험을 저렴하게 즐길 기회! 놓치지 마세요! 😉\n\n🗓️ 기간: 2024년 5월 11일 ~ 2027년 2월 28일\n💰 할인율: 최대 30%\n\n#나가사키여행 #일본할인 #여행꿀팁 #나가사키ぐるっと割",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나가사키",
+          "#나가사키여행",
+          "#일본할인",
+          "#여행정보",
+          "#여행꿀팁",
+          "#군함도",
+          "#나가사키관광",
+          "#일본자유여행",
+          "#가성비여행",
+          "#일본여행준비",
+          "#일본여행추천",
+          "#여행스타그램",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "나가사키 ぐるっと割 캠페인 로고",
+          "캘린더에 표시된 캠페인 기간",
+          "군함도와 박물관 이미지",
+          "할인율 30% 표시 이미지",
+          "나가사키 여행 계획을 세우는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 나가사키 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 금요일 오후 6시 (여행 계획 세우는 시간) / 기대 반응: 할인 정보에 대한 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 대상 정보를 명확히 제시하여 실질적인 도움 제공",
+      "image": {
+        "keyword": "Nagasaki discount campaign, Gunkanjima tour, Nagasaki museum, travel discount, Japan travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-discount-campaign,-Gunkanjima-tour,-Nagasaki-museum,-travel-discount,-Japan-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki%20discount%20campaign,%20Gunkanjima%20tour,%20Nagasaki%20museum,%20travel%20discount,%20Japan%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_dc0f6d24",
+      "created_at": "2026-05-12T04:00:16.594851",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "神戸「UCCコーヒー博物館」が6年ぶり再開。焙煎体験や3Dラテアート体験、ラボなど新設して7月1日オープン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2107843.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "커피 애호가라면 놓칠 수 없는! 고베 UCC 커피 박물관 6년 만에 재개장 소식!"
+      },
+      "content": {
+        "thumbnail_title": "☕️고베 UCC 커피 박물관 재개장!",
+        "cards": [
+          {
+            "title": "재개장 정보",
+            "content": "일본 고베에 위치한 UCC 커피 박물관이 6년간의 휴관을 마치고 2024년 7월 1일 새롭게 문을 엽니다.",
+            "alt_text": "UCC 커피 박물관 외관 이미지"
+          },
+          {
+            "title": "새로운 체험",
+            "content": "이번 리뉴얼 오픈에서는 직접 커피를 로스팅하는 체험, 3D 라떼 아트 체험, 그리고 커피 연구소(랩) 등 더욱 풍성해진 콘텐츠를 만나볼 수 있습니다.",
+            "alt_text": "3D 라떼 아트 체험 모습 이미지"
+          },
+          {
+            "title": "커피의 모든 것",
+            "content": "커피의 역사부터 제조 과정, 다양한 문화까지 커피에 대한 모든 것을 보고 배우고 체험할 수 있는 특별한 공간입니다.",
+            "alt_text": "커피 생산 과정 전시 이미지"
+          },
+          {
+            "title": "방문 정보",
+            "content": "주소는 효고현 고베시 주오구 미나토지마나카마치 6-6-2이며, 새로운 모습으로 여러분을 기다립니다.",
+            "alt_text": "박물관 위치를 나타내는 지도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "커피를 좋아하신다면 이번 고베 여행 코스에 꼭 넣어보세요! 로스팅 체험 등은 사전 예약이 필요할 수 있으니 방문 전 공식 홈페이지를 확인하는 것이 좋습니다.",
+            "alt_text": "커피콩이 담긴 봉투 이미지"
+          }
+        ],
+        "caption": "☕️ 고베 UCC 커피 박물관이 6년 만에 7월 1일 재개장합니다! \n직접 로스팅하고 3D 라떼 아트도 체험해 보세요. \n커피 덕후라면 놓칠 수 없는 필수 코스! \n새로운 UCC 커피 박물관에서 특별한 경험을 만들어보세요. \n#일본여행 #고베여행 #커피박물관 #UCC커피",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#고베여행",
+          "#UCC커피박물관",
+          "#커피체험",
+          "#일본카페",
+          "#고베가볼만한곳",
+          "#여행정보",
+          "#일본신상",
+          "#7월여행",
+          "#커피러버",
+          "#일본축제",
+          "#여행팁",
+          "#재개장",
+          "#일본핫플"
+        ],
+        "alt_texts": [
+          "UCC 커피 박물관 외관 이미지",
+          "3D 라떼 아트 체험 모습 이미지",
+          "커피 생산 과정 전시 이미지",
+          "박물관 위치를 나타내는 지도 이미지",
+          "커피콩이 담긴 봉투 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 커피를 좋아하고 체험형 관광을 선호하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 정보 공유 및 저장, 여행 계획에 반영 / 이 콘텐츠의 강점: 6년 만의 재개장이라는 희소성과 직접 체험 가능한 콘텐츠 구성",
+      "image": {
+        "keyword": "UCC Coffee Museum Kobe Japan reopened July 1st new exhibits coffee roasting 3D latte art",
+        "unsplash_url": "https://unsplash.com/s/photos/UCC-Coffee-Museum-Kobe-Japan-reopened-July-1st-new-exhibits-coffee-roasting-3D-latte-art",
+        "pexels_url": "https://www.pexels.com/search/UCC%20Coffee%20Museum%20Kobe%20Japan%20reopened%20July%201st%20new%20exhibits%20coffee%20roasting%203D%20latte%20art/"
+      }
+    },
     {
       "id": "plan_f4d5038d",
       "created_at": "2026-05-12T00:10:30.231883",
@@ -923,160 +1077,6 @@
         "keyword": "Miyakumiya, Expo 2025 Osaka, stationery set, collaboration, limited edition, souvenir, Japan travel, online shopping, restock",
         "unsplash_url": "https://unsplash.com/s/photos/Miyakumiya,-Expo-2025-Osaka,-stationery-set,-collaboration,-limited-edition,-souvenir,-Japan-travel,-online-shopping,-restock",
         "pexels_url": "https://www.pexels.com/search/Miyakumiya,%20Expo%202025%20Osaka,%20stationery%20set,%20collaboration,%20limited%20edition,%20souvenir,%20Japan%20travel,%20online%20shopping,%20restock/"
-      }
-    },
-    {
-      "id": "plan_29679902",
-      "created_at": "2026-05-09T00:10:27.015621",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "FDA、会員限定「メンバーズプライス」を全路線で販売　片道7,000円から",
-        "url": "https://www.traicy.com/posts/20260508369934/",
-        "date": "Fri, 08 May 2026 07:15:41 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 항공권 특가 찬스! 놓치면 후회할 역대급 할인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 항공권 7천원부터?!",
-        "cards": [
-          {
-            "title": "타임세일 정보",
-            "content": "후지드림항공(FDA)에서 회원 전용 '멤버즈 프라이스'를 5월 12일 오전 11시부터 14일까지 판매합니다. 🚨이번 기회를 놓치지 마세요!",
-            "alt_text": "항공권 타임세일 기간 안내"
-          },
-          {
-            "title": "최저가 확인",
-            "content": "가장 저렴한 노선은 편도 7,000엔부터 시작합니다. 💰부담 없이 일본 여행을 계획할 수 있는 절호의 찬스입니다.",
-            "alt_text": "최저 7,000엔부터 시작하는 일본 항공권"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "해당 항공권의 탑승 기간은 6월 22일부터 7월 31일까지입니다. 📅여름 휴가 시즌 일본 여행을 저렴하게 다녀오세요!",
-            "alt_text": "6월 22일부터 7월 31일까지 탑승 가능한 항공권"
-          },
-          {
-            "title": "회원 전용 혜택",
-            "content": "이 특별 운임은 FDA 멤버즈 회원에게만 제공됩니다. 👨‍👩‍👧‍👦 아직 회원이 아니라면 지금 바로 가입하세요!",
-            "alt_text": "FDA 멤버즈 회원 전용 혜택 안내"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "원하는 날짜와 노선을 미리 확인하고, 판매 시작 시간에 맞춰 빠르게 예약하는 것이 중요합니다. 🚀서둘러야 원하는 좌석을 get 할 수 있어요!",
-            "alt_text": "일본 항공권 저렴하게 구매하는 꿀팁"
-          }
-        ],
-        "caption": "일본 여행 준비 중이신가요? 🇯🇵 후지드림항공(FDA)에서 회원 전용 '멤버즈 프라이스' 타임세일을 진행해요! 편도 7,000엔부터 시작하는 역대급 할인으로 부담 없이 일본을 다녀올 수 있는 기회! ✈️ 탑승 기간은 6월 22일부터 7월 31일까지이니, 여름 휴가 계획이 있다면 지금 바로 확인하세요! 🚨\n\n#일본여행 #플라잉재팬 #일본항공권 #항공권특가 #FDA #후지드림항공 #일본여행준비 #해외여행 #여행정보 #초특가항공권 #여행꿀팁 #여름휴가 #일본가자 #할인정보 #타임세일",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공권",
-          "#항공권특가",
-          "#FDA",
-          "#후지드림항공",
-          "#일본여행준비",
-          "#해외여행",
-          "#여행정보",
-          "#초특가항공권",
-          "#여행꿀팁",
-          "#여름휴가",
-          "#일본가자",
-          "#할인정보",
-          "#타임세일"
-        ],
-        "alt_texts": [
-          "항공권 타임세일 기간 안내",
-          "최저 7,000엔부터 시작하는 일본 항공권",
-          "6월 22일부터 7월 31일까지 탑승 가능한 항공권",
-          "FDA 멤버즈 회원 전용 혜택 안내",
-          "일본 항공권 저렴하게 구매하는 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 클릭률과 공유율, 댓글 문의 증가 / 이 콘텐츠의 강점: 파격적인 가격 제시와 명확한 기간 정보로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Japan airline ticket sale, cheap flight Japan, Fujidream Airlines special offer, travel deals Japan, limited time sale flight",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-airline-ticket-sale,-cheap-flight-Japan,-Fujidream-Airlines-special-offer,-travel-deals-Japan,-limited-time-sale-flight",
-        "pexels_url": "https://www.pexels.com/search/Japan%20airline%20ticket%20sale,%20cheap%20flight%20Japan,%20Fujidream%20Airlines%20special%20offer,%20travel%20deals%20Japan,%20limited%20time%20sale%20flight/"
-      }
-    },
-    {
-      "id": "plan_133e6c22",
-      "created_at": "2026-05-09T00:10:17.585158",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "北陸新幹線グランクラスが約75％オフ「WESTERポイント超特典きっぷ」利用スタート。大阪～金沢は片道4400ポイント",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2107104.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센 그란클래스를 파격적인 가격으로 이용할 수 있는 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨그란클래스 75% OFF!✨",
-        "cards": [
-          {
-            "title": "핵인싸 특가!",
-            "content": "JR 서일본이 'WESTER 포인트 초특전 티켓'을 4월 7일부터 판매 시작했어요. 이 티켓으로 신칸센 그란클래스를 약 75% 할인된 가격으로 이용할 수 있습니다.",
-            "alt_text": "JR 서일본에서 판매하는 'WESTER 포인트 초특전 티켓' 안내 이미지"
-          },
-          {
-            "title": "파격 할인율",
-            "content": "오사카에서 가나자와까지 가는 편도 티켓이 단 4400포인트로 가능해요. 평소 비싸서 망설였던 그란클래스를 부담 없이 경험해 보세요!",
-            "alt_text": "오사카-가나자와 구간 신칸센 티켓 가격 정보 이미지"
-          },
-          {
-            "title": "이용 기간 확인!",
-            "content": "티켓 이용 기간은 2024년 5월 7일부터 7월 17일까지입니다. 이 기간 안에 일본 여행 계획이 있다면 놓치지 마세요!",
-            "alt_text": "티켓 이용 가능 기간 안내 이미지 (5월 7일 ~ 7월 17일)"
-          },
-          {
-            "title": "예약 방법",
-            "content": "해당 티켓은 JR 서일본 공식 온라인 예약 사이트 'e5489'에서만 구매 가능합니다. 사전 예약은 필수!",
-            "alt_text": "JR 서일본 온라인 예약 사이트 'e5489' 로고 또는 화면 캡처"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "포인트 부족 시 충전이 필요할 수 있으니 미리 확인하세요. 인기 구간은 조기 마감될 수 있으니 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "일본 신칸센 그란클래스 좌석 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 럭셔리한 경험을 원한다면? 🚄 JR 서일본에서 'WESTER 포인트 초특전 티켓'을 출시했어요! \n\n✨ 신칸센 그란클래스를 무려 75% 할인된 가격으로 이용할 수 있는 절호의 찬스! \n\n✅ 오사카 ↔️ 가나자와 편도 4400포인트!\n✅ 이용 기간: 5월 7일 ~ 7월 17일\n✅ 예약은 'e5489'에서만!\n\n지금 바로 예약하고 특별한 일본 여행을 만들어보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #신칸센 #그란클래스 #JR서일본 #일본교통 #여행정보 #일본여행팁 #가나자와 #오사카",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#그란클래스",
-          "#JR서일본",
-          "#일본교통",
-          "#여행정보",
-          "#일본여행팁",
-          "#가나자와",
-          "#오사카",
-          "#일본특가",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본철도",
-          "#꿀팁"
-        ],
-        "alt_texts": [
-          "JR 서일본에서 판매하는 'WESTER 포인트 초특전 티켓' 안내 이미지",
-          "오사카-가나자와 구간 신칸센 티켓 가격 정보 이미지",
-          "티켓 이용 가능 기간 안내 이미지 (5월 7일 ~ 7월 17일)",
-          "JR 서일본 온라인 예약 사이트 'e5489' 로고 또는 화면 캡처",
-          "일본 신칸센 그란클래스 좌석 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 2040 한국인 / 최적 게시 시간: 평일 오후 5-7시, 주말 오후 1-3시 / 기대 반응: 높은 관심, 예약 문의 증가, 정보 공유 / 이 콘텐츠의 강점: 파격적인 할인율, 구체적인 가격 및 기간 정보 제공, 실질적인 여행 경비 절감 효과",
-      "image": {
-        "keyword": "Shinkansen Gran Class discount ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Gran-Class-discount-ticket",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Gran%20Class%20discount%20ticket/"
       }
     }
   ]
