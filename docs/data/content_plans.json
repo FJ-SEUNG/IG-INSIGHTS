@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-13T00:13:54.470860",
+  "last_updated": "2026-05-13T04:08:48.618393",
   "plans": [
+    {
+      "id": "plan_1745a6a5",
+      "created_at": "2026-05-13T04:08:46.618214",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、5月15日に「国内航空券タイムセール」。夏搭乗の羽田線が伊丹9130円～/沖縄1万1440円～ほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2108009.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 국내선 항공권, 그것도 JAL에서 초특가로 득템할 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "JAL ✈️ 5/15 타임세일!",
+        "cards": [
+          {
+            "title": "타임세일 안내",
+            "content": "JAL이 5월 15일 단 하루! '국내 항공권 타임세일'을 실시합니다. 놓치면 후회할 특가 찬스!",
+            "alt_text": "JAL 항공권 타임세일 안내 이미지"
+          },
+          {
+            "title": "판매 시간",
+            "content": "5월 15일 00시부터 23시 59분까지! 딱 24시간 동안만 판매되니 시간 엄수 필수!",
+            "alt_text": "타임세일 판매 시간 안내 이미지"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "6월 15일부터 7월 31일까지 탑승하는 항공편이 대상입니다. 여름휴가 계획 미리 세우세요!",
+            "alt_text": "타임세일 탑승 기간 안내 이미지"
+          },
+          {
+            "title": "주요 노선 특가",
+            "content": "도쿄(하네다) ↔ 오사카(이타미) 노선이 9,130엔부터! 오키나와 노선도 11,440엔부터 시작합니다.",
+            "alt_text": "JAL 특가 항공권 노선 및 가격 정보 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "인기 노선은 조기 마감될 수 있으니, 원하는 시간대가 있다면 오픈 시간에 맞춰 바로 예매하세요! 6월 15일 이후 탑승권입니다.",
+            "alt_text": "JAL 항공권 예매 꿀팁 및 주의사항 이미지"
+          }
+        ],
+        "caption": "일본 국내선 항공권, JAL 초특가 찬스! ✈️\n\n✅ 5월 15일 단 하루! 00시~23시 59분까지\n✅ 6월 15일~7월 31일 탑승권 특가\n✅ 하네다↔이타미 9,130엔~, 오키나와 11,440엔~\n\n여름휴가, JAL 특가로 알뜰하게 계획해 보세요! 🗓️\n\n#JAL #일본항공권 #국내선할인 #타임세일 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공권",
+          "#국내선",
+          "#타임세일",
+          "#일본항공",
+          "#여름휴가",
+          "#일본여행준비",
+          "#항공권특가",
+          "#여행정보",
+          "#일본",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본가자"
+        ],
+        "alt_texts": [
+          "JAL 항공권 타임세일 안내 이미지",
+          "타임세일 판매 시간 안내 이미지",
+          "타임세일 탑승 기간 안내 이미지",
+          "JAL 특가 항공권 노선 및 가격 정보 이미지",
+          "JAL 항공권 예매 꿀팁 및 주의사항 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 저녁 8시~10시 / 기대 반응: 특가 정보에 대한 높은 관심과 문의, 즉각적인 예약 시도 / 이 콘텐츠의 강점: 시의성 높은 파격적인 할인 정보, 구체적인 가격과 날짜 제시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "JAL domestic flight sale, Japan travel discount, Japanese airline ticket, time sale promotion, summer vacation flight deals",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-domestic-flight-sale,-Japan-travel-discount,-Japanese-airline-ticket,-time-sale-promotion,-summer-vacation-flight-deals",
+        "pexels_url": "https://www.pexels.com/search/JAL%20domestic%20flight%20sale,%20Japan%20travel%20discount,%20Japanese%20airline%20ticket,%20time%20sale%20promotion,%20summer%20vacation%20flight%20deals/"
+      }
+    },
+    {
+      "id": "plan_01776cb6",
+      "created_at": "2026-05-13T04:08:39.067868",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "1等は5万円分クーポン。東海道・山陽・九州新幹線「EXサービス」2000万人感謝キャンペーン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2108017.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센 이용 시 최대 5만엔 쿠폰 당첨 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🚅 5만엔 쿠폰 찬스! 신칸센 2천만명 감사 캠페인",
+        "cards": [
+          {
+            "title": "캠페인 기간",
+            "content": "EX 서비스 회원 2천만명 돌파 기념 감사 캠페인이 5월 19일부터 6월 1일까지 진행됩니다. 잊지 말고 참여하세요!",
+            "alt_text": "달력에 표시된 5월 19일부터 6월 1일까지의 날짜"
+          },
+          {
+            "title": "참여 방법",
+            "content": "JR 도카이, JR 니시니혼, JR 큐슈에서 제공하는 'EX 서비스' 회원이라면 누구나 참여 가능합니다. 회원 가입은 필수!",
+            "alt_text": "EX 서비스 회원 가입 페이지 이미지"
+          },
+          {
+            "title": "경품 내용",
+            "content": "1등에게는 무려 5만엔 상당의 신칸센 이용 쿠폰이 증정됩니다. 이 외에도 다양한 경품이 준비되어 있으니 기대해도 좋아요!",
+            "alt_text": "5만엔 쿠폰 이미지"
+          },
+          {
+            "title": "이용 노선",
+            "content": "이번 캠페인은 도카이도, 산요, 큐슈 신칸센 노선을 이용하시는 분들을 대상으로 합니다. 일본 전국 여행 계획 중이라면 꼭 확인하세요!",
+            "alt_text": "일본 신칸센 노선도"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 일정을 신칸센 이용 계획에 맞춰 이 기간에 맞춰보세요. 5만엔 쿠폰의 행운을 잡을 수 있는 절호의 기회입니다! 🍀",
+            "alt_text": "행운의 네잎클로버 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템! 신칸센 이용 계획 있으신가요? 🚄\n\nJR 도카이, JR 니시니혼, JR 큐슈에서 EX 서비스 회원 2천만명 돌파 기념 감사 캠페인을 진행합니다! 🥳\n\n✅ 캠페인 기간: 5월 19일 ~ 6월 1일\n✅ 1등 경품: 5만엔 상당 신칸센 이용 쿠폰!\n\n도카이도, 산요, 큐슈 신칸센 이용 예정이라면 절대 놓치지 마세요! ✈️\n\n#일본여행 #플라잉재팬 #신칸센 #일본교통 #EX서비스 #일본할인 #일본쿠폰 #일본여행팁 #일본여행준비 #여행스타그램 #일본정보 #여행이벤트 #일본자유여행 #일본여행정보 #신칸센여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본교통",
+          "#EX서비스",
+          "#일본할인",
+          "#일본쿠폰",
+          "#일본여행팁",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#일본정보",
+          "#여행이벤트",
+          "#일본자유여행",
+          "#일본여행정보",
+          "#신칸센여행"
+        ],
+        "alt_texts": [
+          "달력에 표시된 5월 19일부터 6월 1일까지의 날짜",
+          "EX 서비스 회원 가입 페이지 이미지",
+          "5만엔 쿠폰 이미지",
+          "일본 신칸센 노선도",
+          "행운의 네잎클로버 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행객 / 최적 게시 시간: 여행 계획을 세우는 주말 저녁 또는 평일 점심 시간 / 기대 반응: 높은 참여율과 정보 공유 / 이 콘텐츠의 강점: 실질적인 금전적 혜택을 제공하는 이벤트 정보",
+      "image": {
+        "keyword": "shinkansen, japan train, travel coupon, event, discount",
+        "unsplash_url": "https://unsplash.com/s/photos/shinkansen,-japan-train,-travel-coupon,-event,-discount",
+        "pexels_url": "https://www.pexels.com/search/shinkansen,%20japan%20train,%20travel%20coupon,%20event,%20discount/"
+      }
+    },
     {
       "id": "plan_1a0cca22",
       "created_at": "2026-05-13T00:13:52.470669",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese restaurant kids meal, Kobitozukans pouch gift, Matsuya food, Family trip Japan, Limited time offer Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-restaurant-kids-meal,-Kobitozukans-pouch-gift,-Matsuya-food,-Family-trip-Japan,-Limited-time-offer-Japan",
         "pexels_url": "https://www.pexels.com/search/Japanese%20restaurant%20kids%20meal,%20Kobitozukans%20pouch%20gift,%20Matsuya%20food,%20Family%20trip%20Japan,%20Limited%20time%20offer%20Japan/"
-      }
-    },
-    {
-      "id": "plan_46eb725c",
-      "created_at": "2026-05-10T00:04:45.474443",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "マンゴツリーキッチン、海老の旨みたっぷり！　トムヤムクン×冷麺の「トムヤム冷麺」限定販売",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2107121.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "태국 대표 메뉴 '톰얌꿍'을 시원한 냉면에? 일본에서만 맛볼 수 있는 특별한 여름 한정 메뉴!"
-      },
-      "content": {
-        "thumbnail_title": "💖톰얌꿍냉면💖 일본 한정!",
-        "cards": [
-          {
-            "title": "새로운 맛!",
-            "content": "일본 '망고트리 키친'에서 5월 13일부터 '톰얌냉면'을 기간 한정으로 판매해요. 새우의 깊은 감칠맛이 일품인 톰얌꿍을 시원한 냉면으로 즐길 수 있어요.",
-            "alt_text": "일본 망고트리 키친에서 판매하는 톰얌냉면 이미지"
-          },
-          {
-            "title": "기간 한정",
-            "content": "이번 여름, 일본에서만 특별하게 맛볼 수 있는 메뉴이니 놓치지 마세요! 정확한 판매 종료일은 매장에 확인해주세요.",
-            "alt_text": "기간 한정 메뉴임을 알리는 안내문 이미지"
-          },
-          {
-            "title": "망고트리 키친",
-            "content": "태국 현지 요리를 맛볼 수 있는 망고트리 키친에서 선보이는 창의적인 메뉴예요. 일본 내 여러 지점에서 판매될 예정입니다.",
-            "alt_text": "망고트리 키친 매장 외부 또는 내부 이미지"
-          },
-          {
-            "title": "여름 별미",
-            "content": "더운 여름, 시원하면서도 이국적인 풍미를 원한다면 톰얌냉면이 완벽한 선택이 될 거예요. 태국 본연의 맛을 살린 특별한 경험을 선사합니다.",
-            "alt_text": "톰얌냉면을 맛있게 먹는 사람의 모습 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "방문 전, 가까운 망고트리 키친 지점의 영업 시간과 톰얌냉면 재고 여부를 미리 확인하는 것이 좋아요. 현지에서 인기 있을 수 있으니 서두르세요!",
-            "alt_text": "일본 여행 중 맛집 정보를 검색하는 모습 이미지"
-          }
-        ],
-        "caption": "🍜 태국 대표 메뉴 톰얌꿍이 시원한 냉면으로 변신! 🍜\n일본 '망고트리 키친'에서 5월 13일부터 기간 한정으로 '톰얌냉면'을 판매해요.\n새우의 깊은 감칠맛과 태국의 이국적인 풍미를 시원하게 즐길 수 있는 특별한 여름 메뉴! ☀️\n일본 여행 중이라면 꼭 한번 맛보세요!\n\n#플라잉재팬 #일본여행 #일본맛집 #망고트리키친 #톰얌냉면 #일본한정 #여름메뉴",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본맛집",
-          "#망고트리키친",
-          "#톰얌냉면",
-          "#일본한정",
-          "#여름메뉴",
-          "#일본음식",
-          "#도쿄맛집",
-          "#오사카맛집",
-          "#일본여행꿀팁",
-          "#해외여행",
-          "#냉면",
-          "#태국음식",
-          "#기간한정"
-        ],
-        "alt_texts": [
-          "일본 망고트리 키친에서 판매하는 톰얌냉면 이미지",
-          "기간 한정 메뉴임을 알리는 안내문 이미지",
-          "망고트리 키친 매장 외부 또는 내부 이미지",
-          "톰얌냉면을 맛있게 먹는 사람의 모습 이미지",
-          "일본 여행 중 맛집 정보를 검색하는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 미식 경험을 중시하는 20-30대 한국인 여행자 / 최적 게시 시간: 오후 7시 - 9시 (여행 계획 세우는 시간) / 기대 반응: '오! 이건 먹어야 해!'라는 반응, 맛집 탐방 계획에 추가 / 이 콘텐츠의 강점: 희소성 있는 일본 한정 메뉴, 익숙한 맛과 새로운 조합의 흥미 유발",
-      "image": {
-        "keyword": "Tom Yum Noodle, Japan limited menu, Mango Tree Kitchen, Korean traveler, Summer food, Spicy noodle soup, Thai fusion",
-        "unsplash_url": "https://unsplash.com/s/photos/Tom-Yum-Noodle,-Japan-limited-menu,-Mango-Tree-Kitchen,-Korean-traveler,-Summer-food,-Spicy-noodle-soup,-Thai-fusion",
-        "pexels_url": "https://www.pexels.com/search/Tom%20Yum%20Noodle,%20Japan%20limited%20menu,%20Mango%20Tree%20Kitchen,%20Korean%20traveler,%20Summer%20food,%20Spicy%20noodle%20soup,%20Thai%20fusion/"
-      }
-    },
-    {
-      "id": "plan_2f5ea021",
-      "created_at": "2026-05-10T00:04:30.732709",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "近畿日本ツーリスト、「近ツー感謝ウィーク」開催　交通＋宿泊が最大2万円割引、宿泊限定プランも",
-        "url": "https://www.traicy.com/posts/20260509370007/",
-        "date": "Sat, 09 May 2026 11:15:42 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 확 줄일 수 있는 역대급 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨최대 2만엔 할인 찬스!✨",
-        "cards": [
-          {
-            "title": "할인 찬스!",
-            "content": "일본 여행 필수템! 교통+숙박 묶음 상품이 최대 20,000엔까지 할인됩니다.",
-            "alt_text": "교통+숙박 묶음 할인 쿠폰 이미지"
-          },
-          {
-            "title": "언제까지?",
-            "content": "2024년 5월 8일 정오부터 5월 21일 정오까지, 딱 2주간 진행되는 특별 이벤트입니다.",
-            "alt_text": "이벤트 기간 표시 이미지"
-          },
-          {
-            "title": "누가?",
-            "content": "일본 여행 전문 '킨키 닛폰 투어리스트'에서 진행하는 '킨투 감사 위크'입니다.",
-            "alt_text": "여행사 로고 또는 이름 이미지"
-          },
-          {
-            "title": "어떤 혜택?",
-            "content": "여행 경비에 따라 할인 금액이 달라지며, 숙박만 가능한 한정 플랜도 준비되어 있어요.",
-            "alt_text": "할인 금액별 혜택 안내 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "할인 혜택을 최대한 활용하여 알뜰하고 풍성한 일본 여행 계획을 세워보세요!",
-            "alt_text": "여행 계획 세우는 모습 이미지"
-          }
-        ],
-        "caption": "일본 여행 경비 절약할 절호의 찬스! ✈️\n\n'킨키 닛폰 투어리스트'에서 진행하는 '킨투 감사 위크'를 놓치지 마세요!\n\n교통+숙박 묶음 상품을 최대 20,000엔까지 할인받을 수 있어요. (5/8 ~ 5/21)\n\n지금 바로 확인하고 역대급 할인가로 알찬 일본 여행 준비하세요! 💖\n\n#일본여행 #일본할인 #여행팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본여행팁",
-          "#일본할인",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본쇼핑",
-          "#일본숙소",
-          "#일본교통",
-          "#일본맛집",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본",
-          "#여행경비절약"
-        ],
-        "alt_texts": [
-          "교통+숙박 묶음 할인 쿠폰 이미지",
-          "이벤트 기간 표시 이미지",
-          "여행사 로고 또는 이름 이미지",
-          "할인 금액별 혜택 안내 이미지",
-          "여행 계획 세우는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 정보 탐색이 활발한 평일 저녁 7-9시 / 기대 반응: 높은 클릭률 및 문의 증가 / 이 콘텐츠의 강점: 즉각적인 금전적 혜택 제공으로 높은 관심 유도",
-      "image": {
-        "keyword": "Japan travel discount, transportation and accommodation package, limited time offer, travel savings",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-transportation-and-accommodation-package,-limited-time-offer,-travel-savings",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20transportation%20and%20accommodation%20package,%20limited%20time%20offer,%20travel%20savings/"
       }
     }
   ]
