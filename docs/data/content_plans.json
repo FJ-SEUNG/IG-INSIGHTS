@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-14T00:15:03.812688",
+  "last_updated": "2026-05-14T04:08:23.334380",
   "plans": [
+    {
+      "id": "plan_5f1dfdfd",
+      "created_at": "2026-05-14T04:08:21.334219",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR京浜東北・根岸線、来週の平日3日間は快速運転を中止。振替輸送なし、田端～田町は山手線の線路で運転",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2108298.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 필수! JR 특정 노선 운행 변경 정보 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚨JR 5/19~21 운행 변경🚨",
+        "cards": [
+          {
+            "title": "운행 중지",
+            "content": "JR京浜東北・根岸線(게이힌도호쿠・네기시선)의 쾌속 운전이 중지됩니다. 평일 3일간, 오전 10시 30분부터 오후 3시 30분까지입니다.",
+            "alt_text": "JR京浜東北・根岸線 열차 운행 중지 안내"
+          },
+          {
+            "title": "운행 구간",
+            "content": "대행 운행은 없습니다. 다만, 다바타(田端)역 ~ 다마치(田町)역 구간은 야마노테선(山手線) 선로를 이용하여 운행될 예정입니다.",
+            "alt_text": "JR京浜東北・根岸線 운행 노선도"
+          },
+          {
+            "title": "정확한 날짜",
+            "content": "운행 변경이 적용되는 날짜는 5월 19일 (일), 20일 (월), 21일 (화)입니다. 이 기간 중 해당 시간대에 여행 계획이 있다면 꼭 확인하세요.",
+            "alt_text": "JR京浜東北・根岸線 운행 변경 날짜"
+          },
+          {
+            "title": "대체 교통",
+            "content": "해당 시간대에 쾌속 운행이 중지되므로, 일반 열차를 이용하거나 다른 교통수단으로의 환승을 고려해야 합니다. 도쿄 도심 이동 시 참고하세요.",
+            "alt_text": "도쿄 지하철 노선도"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 전 JR 동일본 공식 웹사이트나 앱을 통해 최신 운행 정보를 다시 한번 확인하는 것을 추천합니다. 예상치 못한 지연이나 변경에 대비하세요!",
+            "alt_text": "스마트폰으로 JR 앱 확인하는 모습"
+          }
+        ],
+        "caption": "🚨 도쿄 여행 필수 정보 🚨\nJR 게이힌도호쿠・네기시선, 5월 19일(일)부터 21일(화)까지 평일 낮 시간대(10:30~15:30)에 쾌속 운행을 중지합니다.\n다바타~다마치 구간은 야마노테선 선로를 이용하며, 별도의 대체 운송은 제공되지 않습니다.\n해당 기간 도쿄 여행 예정이신 분들은 꼭! 꼭! 확인하시고, 여유로운 여행 계획 세우세요! ✈️\n#일본여행 #도쿄여행 #JR #게이힌도호쿠선 #운행정보 #여행필수",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#JR",
+          "#게이힌도호쿠선",
+          "#네기시선",
+          "#운행정보",
+          "#교통정보",
+          "#여행꿀팁",
+          "#일본교통",
+          "#일본소식",
+          "#여행스타그램",
+          "#일본",
+          "#도쿄",
+          "#안전여행"
+        ],
+        "alt_texts": [
+          "JR京浜東北・根岸線 열차 운행 중지 안내",
+          "JR京浜東北・根岸線 운행 노선도",
+          "JR京浜東北・根岸線 운행 변경 날짜",
+          "도쿄 지하철 노선도",
+          "스마트폰으로 JR 앱 확인하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 5월 중순 도쿄 여행 예정인 한국인 여행객 / 최적 게시 시간: 여행 전날 오후 8시, 당일 오전 9시 / 기대 반응: 정보 확인 및 공유 / 이 콘텐츠의 강점: 시기적절하고 실질적인 교통 정보 제공",
+      "image": {
+        "keyword": "JR train, Tokyo subway map, Japan travel alert",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train,-Tokyo-subway-map,-Japan-travel-alert",
+        "pexels_url": "https://www.pexels.com/search/JR%20train,%20Tokyo%20subway%20map,%20Japan%20travel%20alert/"
+      }
+    },
+    {
+      "id": "plan_195ee7ad",
+      "created_at": "2026-05-14T04:08:13.106677",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京11島の旅で使える「しまぽ通貨」本日販売スタート。3000円分助成のプレミアム付き商品券",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2108303.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 근교 섬 여행 시 최대 3,000엔 할인받는 꿀팁! 💸"
+      },
+      "content": {
+        "thumbnail_title": "✨3천엔 할인! 도쿄 섬 여행권✨",
+        "cards": [
+          {
+            "title": "✅しまぽ通貨",
+            "content": "도쿄관광재단에서 판매하는 'しまぽ通貨'는 숙박 여행에 사용할 수 있는 프리미엄 상품권입니다. 3,000엔 상당의 상품권을 할인된 가격으로 구매할 수 있어요.",
+            "alt_text": "프리미엄 상품권 이미지"
+          },
+          {
+            "title": "🗓️판매 기간",
+            "content": "2024년 5월 14일부터 2027년 3월 31일까지 판매됩니다. 조기 소진될 수 있으니 서둘러 구매하세요!",
+            "alt_text": "달력에 표시된 날짜 이미지"
+          },
+          {
+            "title": "💰할인 혜택",
+            "content": "3,000엔 상당의 상품권을 할인된 가격으로 구매 가능하며, 도쿄 11개 섬 지역의 숙박 시설 및 관광지에서 사용할 수 있습니다.",
+            "alt_text": "돈이 쌓여있는 이미지"
+          },
+          {
+            "title": "📍사용 가능 지역",
+            "content": "이즈 제도(오시마, 고즈시마, 미야케지마, 하치조지마 등)와 오가사와라 제도 등 도쿄 11개 섬 지역에서 사용 가능합니다.",
+            "alt_text": "일본 지도에 도쿄 11개 섬 표시 이미지"
+          },
+          {
+            "title": "💡이용 꿀팁",
+            "content": "여행 계획 시 'しまぽ通貨' 사용 가능 숙소나 관광지를 미리 확인하고, 현지에서 더욱 알차게 활용해 보세요! 잊지 말고 꼭 챙기세요!",
+            "alt_text": "전구 모양의 아이디어 이미지"
+          }
+        ],
+        "caption": "✈️ 도쿄 근교 섬 여행 계획 중이신가요? \n\n✨'しまぽ通貨'로 최대 3,000엔 할인받고 알뜰하게 여행하세요!✨\n\n✅ 판매 기간: 2024년 5월 14일 ~ 2027년 3월 31일\n✅ 혜택: 3,000엔 상당 상품권 할인 구매\n✅ 사용처: 도쿄 11개 섬 지역 숙박, 관광지\n\n일본 섬 여행, 'しまぽ通貨'와 함께라면 더욱 즐거워져요! 🏝️\n\n#일본여행 #도쿄여행 #도쿄근교 #섬여행 #할인정보 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄근교",
+          "#도쿄섬여행",
+          "#しまぽ通貨",
+          "#일본할인",
+          "#여행정보",
+          "#일본숙소",
+          "#일본관광",
+          "#알뜰여행",
+          "#여행스타그램",
+          "#일본꿀팁",
+          "#여행준비",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "프리미엄 상품권 이미지",
+          "달력에 표시된 날짜 이미지",
+          "돈이 쌓여있는 이미지",
+          "일본 지도에 도쿄 11개 섬 표시 이미지",
+          "전구 모양의 아이디어 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교 섬 여행을 계획하고 있거나 관심 있는 한국인 여행자 / 최적 게시 시간: 여행 계획 시즌인 주말 오후 5-7시 / 기대 반응: 높은 관심과 정보 공유, 상품권 구매 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액, 판매 기간, 사용처까지 명확히 제시하여 실질적인 여행 계획에 바로 적용 가능",
+      "image": {
+        "keyword": "Tokyo island travel voucher discount 3000 yen",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-island-travel-voucher-discount-3000-yen",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20island%20travel%20voucher%20discount%203000%20yen/"
+      }
+    },
     {
       "id": "plan_1f016252",
       "created_at": "2026-05-14T00:15:01.812454",
@@ -923,160 +1077,6 @@
         "keyword": "Uniqlo, Pokemon UT, 30th anniversary, game sprite, t-shirt, Japan, new release, July",
         "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Pokemon-UT,-30th-anniversary,-game-sprite,-t-shirt,-Japan,-new-release,-July",
         "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Pokemon%20UT,%2030th%20anniversary,%20game%20sprite,%20t-shirt,%20Japan,%20new%20release,%20July/"
-      }
-    },
-    {
-      "id": "plan_e8d4f103",
-      "created_at": "2026-05-11T00:09:11.346334",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "PASMOのチャージ、16日夜不能に。再発行・払い戻しも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2107188.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "갑작스러운 PASMO/Suica 서비스 중단! 일본 여행 중 카드 사용에 차질 없도록 미리 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚨PASMO/Suica 멈춤🚨",
-        "cards": [
-          {
-            "title": "서비스 중단",
-            "content": "5월 16일 밤 9시부터 종일차편 운행 종료 시까지 PASMO 및 Suica 일부 서비스가 중단됩니다. 시스템 전환 작업으로 인한 일시적인 중단이니 여행 중 불편함이 없도록 미리 대비하세요.",
-            "alt_text": "PASMO 카드와 Suica 카드를 든 손"
-          },
-          {
-            "title": "충전 불가",
-            "content": "특히, 카드 충전이 불가능한 시간대이니 여행 전에 충분히 잔액을 확인하거나 미리 충전해두는 것이 좋습니다. 현금 준비도 잊지 마세요!",
-            "alt_text": "동전과 지폐가 담긴 지갑"
-          },
-          {
-            "title": "재발행/환불",
-            "content": "서비스 중단 기간 동안에는 PASMO 및 Suica 카드 재발행 또는 환불 서비스 역시 제한될 수 있습니다. 중요한 카드라면 미리 확인하시기 바랍니다.",
-            "alt_text": "환불 또는 재발행을 의미하는 아이콘"
-          },
-          {
-            "title": "이용 가능 여부",
-            "content": "정확히 어떤 서비스가 중단되는지는 변동될 수 있으니, 여행 직전 공식 발표를 다시 한번 확인하는 것이 가장 안전합니다. (단, 현재까지 발표된 내용은 충전, 재발행, 환불 관련 제한입니다.)",
-            "alt_text": "물음표와 정보 아이콘"
-          },
-          {
-            "title": "대체 교통",
-            "content": "만약 PASMO/Suica 카드 사용이 어렵다면, 현금 결제가 가능한 교통편을 이용하거나 다른 교통카드를 준비하는 것을 고려해볼 수 있습니다. 일본 여행 중 교통은 필수!",
-            "alt_text": "버스, 지하철, 택시 아이콘"
-          }
-        ],
-        "caption": "⚠️긴급 공지⚠️\n일본 여행 필수템 PASMO/Suica, 5월 16일 밤부터 서비스 중단 소식! 🚨\n갑작스러운 충전 불가, 재발행/환불 제한까지! 😱\n여행 중 불편함 없도록 미리 대비하세요! ✈️\n#PASMO #Suica #일본교통 #여행필수템 #긴급공지",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#PASMO",
-          "#Suica",
-          "#일본교통",
-          "#일본여행준비",
-          "#여행정보",
-          "#도쿄여행",
-          "#오사카여행",
-          "#일본카드",
-          "#여행꿀팁",
-          "#해외여행",
-          "#교통카드",
-          "#일본생활",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "PASMO 카드와 Suica 카드를 든 손",
-          "동전과 지폐가 담긴 지갑",
-          "환불 또는 재발행을 의미하는 아이콘",
-          "물음표와 정보 아이콘",
-          "버스, 지하철, 택시 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 저녁 7~9시 (출발 전 정보 확인하는 시간) / 기대 반응: 정보 공유 및 주의 환기, 댓글 문의 / 이 콘텐츠의 강점: 시의성 높고 즉각적인 여행 계획 수정에 필요한 핵심 정보 제공",
-      "image": {
-        "keyword": "Japan travel, PASMO card, Suica card, transportation, emergency notice, travel inconvenience",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-PASMO-card,-Suica-card,-transportation,-emergency-notice,-travel-inconvenience",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20PASMO%20card,%20Suica%20card,%20transportation,%20emergency%20notice,%20travel%20inconvenience/"
-      }
-    },
-    {
-      "id": "plan_473fe7b9",
-      "created_at": "2026-05-11T00:09:04.515399",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京～沖縄の航空券＋宿泊が9900円、東京・福岡・那覇のホテルが1泊5900円に。Trip.com 初夏のセール、本日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2107285.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 확 줄일 수 있는 파격적인 특가 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 숙박 5,900엔부터!💸",
-        "cards": [
-          {
-            "title": "초여름 특가!",
-            "content": "Trip.com에서 5월 11일부터 17일까지 '초여름 감사 SALE'을 진행해요. 항공권+숙박 패키지 또는 호텔 1박을 파격적인 가격에 만나볼 수 있어요.",
-            "alt_text": "Trip.com 초여름 감사 SALE 배너 이미지"
-          },
-          {
-            "title": "파격적인 가격!",
-            "content": "도쿄-오키나와 왕복 항공권과 숙박이 포함된 패키지가 단돈 9,900엔! 도쿄, 후쿠오카, 나하 지역 호텔은 1박에 5,900엔부터 시작해요.",
-            "alt_text": "일본 호텔 1박 5,900엔 가격표 이미지"
-          },
-          {
-            "title": "여행 기간 확인",
-            "content": "이번 특가 프로모션은 5월 11일부터 8월 31일까지 여행하는 일정에 적용돼요. 여름 휴가 계획 중이라면 놓치지 마세요!",
-            "alt_text": "달력에 5월 11일부터 8월 31일까지 표시된 이미지"
-          },
-          {
-            "title": "어디서 예약할까?",
-            "content": "Trip.com 웹사이트 또는 앱에서 '초여름 감사 SALE'을 검색하여 해당 프로모션 상품을 확인하고 예약할 수 있습니다.",
-            "alt_text": "Trip.com 웹사이트 또는 앱 예약 화면 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 노선 및 숙소는 조기 마감될 수 있으니, 여행 날짜를 정했다면 서둘러 예약하는 것을 추천해요. 꼼꼼히 비교하고 최저가 찬스를 잡으세요!",
-            "alt_text": "손으로 가리키며 팁을 주는 이모티콘 이미지"
-          }
-        ],
-        "caption": "일본 여행 계획 중인 분들 주목! ✨\nTrip.com에서 역대급 초특가 세일이 시작됐어요! ✈️\n도쿄-오키나와 항공권+숙박이 9,900엔, 호텔 1박은 5,900엔부터! 💸\n여행 기간은 5월 11일부터 8월 31일까지니, 여름 휴가 계획 있다면 절대 놓치지 마세요! ☀️\n지금 바로 Trip.com에서 확인하고 알뜰하게 일본 여행 준비하세요! 🇯🇵",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본특가",
-          "#일본항공권",
-          "#일본호텔",
-          "#트립닷컴",
-          "#일본여행준비",
-          "#여름휴가",
-          "#가성비여행",
-          "#일본자유여행",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#일본축제",
-          "#일본생활",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "Trip.com 초여름 감사 SALE 배너 이미지",
-          "일본 호텔 1박 5,900엔 가격표 이미지",
-          "달력에 5월 11일부터 8월 31일까지 표시된 이미지",
-          "Trip.com 웹사이트 또는 앱 예약 화면 이미지",
-          "손으로 가리키며 팁을 주는 이모티콘 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오전 10시-12시 / 기대 반응: 높은 클릭률 및 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제공하는 파격적인 할인 정보",
-      "image": {
-        "keyword": "Japan travel sale, cheap flights Japan, Japan hotel deals, Trip.com promo, summer vacation Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-cheap-flights-Japan,-Japan-hotel-deals,-Trip.com-promo,-summer-vacation-Japan",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20cheap%20flights%20Japan,%20Japan%20hotel%20deals,%20Trip.com%20promo,%20summer%20vacation%20Japan/"
       }
     }
   ]
