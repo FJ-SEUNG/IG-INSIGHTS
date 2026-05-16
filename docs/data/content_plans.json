@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-15T04:12:43.840680",
+  "last_updated": "2026-05-16T00:06:44.494612",
   "plans": [
+    {
+      "id": "plan_8c66438d",
+      "created_at": "2026-05-16T00:06:42.494407",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ファミマで商品買うと「ヨッシー」豆皿もらえる！　ぬいぐるみ当たる抽選や一番くじも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109067.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 편의점 최애템, 놓치면 후회할 요시! 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨패밀리마트 요시 득템 찬스✨",
+        "cards": [
+          {
+            "title": "요시 豆皿 증정!",
+            "content": "5월 19일부터 일본 전역 패밀리마트에서 닌텐도 스위치 소프트 '요시와 불가사의한 도감' 캠페인이 시작됩니다. 캠페인 대상 상품을 구매하면 귀여운 '요시 豆皿'을 받을 수 있어요.",
+            "alt_text": "요시 豆皿 이미지"
+          },
+          {
+            "title": "추첨 & 제일복권",
+            "content": "豆皿 증정 외에도 '요시' 인형 추첨 이벤트와 제일복권도 함께 진행됩니다. 행운의 주인공이 되어 멋진 상품들을 만나보세요!",
+            "alt_text": "요시 인형 및 제일복권 상품 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "캠페인은 2024년 5월 19일부터 시작됩니다. 豆皿 및 제일복권 상품은 소진 시 조기 종료될 수 있으니 서둘러 방문하세요!",
+            "alt_text": "캠페인 기간 안내 이미지"
+          },
+          {
+            "title": "패밀리마트 방문 필수",
+            "content": "일본 여행 중 패밀리마트에 들를 계획이라면, 이번 캠페인을 절대 놓치지 마세요! 요시 팬이라면 꼭 득템해야 할 기회입니다.",
+            "alt_text": "패밀리마트 매장 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "캠페인 대상 상품 확인은 매장 내 POP를 참고하거나 점원에게 문의하세요. 한정 수량이니 관심 있다면 여행 첫날 방문을 추천합니다!",
+            "alt_text": "패밀리마트 상품 진열 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수 코스, 패밀리마트! 🇯🇵\n\n5월 19일부터 시작되는 '요시와 불가사의한 도감' 캠페인으로 귀여운 요시 豆皿을 득템하세요! ✨\n\n추첨 이벤트와 제일복권도 놓치지 마세요! 🍀\n\n#요시 #패밀리마트 #일본편의점 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본편의점",
+          "#패밀리마트",
+          "#요시",
+          "#닌텐도",
+          "#요시와불가사의한도감",
+          "#일본쇼핑",
+          "#일본득템",
+          "#일본여행꿀팁",
+          "#일본여행정보",
+          "#가마쿠라",
+          "#도쿄",
+          "#오사카",
+          "#후쿠오카"
+        ],
+        "alt_texts": [
+          "요시 豆皿 이미지",
+          "요시 인형 및 제일복권 상품 이미지",
+          "캠페인 기간 안내 이미지",
+          "패밀리마트 매장 이미지",
+          "패밀리마트 상품 진열 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 편의점 쇼핑을 즐기는 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 / 기대 반응: 높은 관심 및 공유, 실제 방문 인증 후기 / 이 콘텐츠의 강점: 한정판 굿즈 정보로 즉각적인 구매 욕구 자극, 실질적인 혜택 제공",
+      "image": {
+        "keyword": "Yoshi, Family Mart, Japan convenience store, limited edition goods, campaign, Nintendo Switch",
+        "unsplash_url": "https://unsplash.com/s/photos/Yoshi,-Family-Mart,-Japan-convenience-store,-limited-edition-goods,-campaign,-Nintendo-Switch",
+        "pexels_url": "https://www.pexels.com/search/Yoshi,%20Family%20Mart,%20Japan%20convenience%20store,%20limited%20edition%20goods,%20campaign,%20Nintendo%20Switch/"
+      }
+    },
+    {
+      "id": "plan_b6dc68fb",
+      "created_at": "2026-05-16T00:06:35.828473",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "焼津のディズニースペシャルパレードは11時から。旧魚市場でダッフィーバス展示も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109092.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서 펼쳐지는 특별한 디즈니 퍼레이드와 전시 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 in 시즈오카! 11시 퍼레이드!",
+        "cards": [
+          {
+            "title": "시즈오카에서 만나요!",
+            "content": "도쿄 디즈니 리조트 스페셜 퍼레이드가 5월 17일, 시즈오카현 야이즈시에서 열립니다. 야이즈시 시제 75주년 기념 항구 축제의 하이라이트가 될 예정이에요.",
+            "alt_text": "시즈오카현 야이즈시에서 열리는 디즈니 스페셜 퍼레이드 안내 이미지"
+          },
+          {
+            "title": "퍼레이드 시간 확인!",
+            "content": "퍼레이드는 오전 11시에 시작됩니다. 특별한 디즈니 캐릭터들을 만날 수 있는 기회를 놓치지 마세요!",
+            "alt_text": "퍼레이드 시작 시간인 오전 11시를 알리는 이미지"
+          },
+          {
+            "title": "덕후들 모여라!",
+            "content": "구 어시장에서 다키마쿠라(Duffy) 버스 전시도 함께 진행됩니다. 귀여운 다키마쿠라 버스를 직접 볼 수 있어요.",
+            "alt_text": "다키마쿠라(Duffy) 버스가 전시되는 구 어시장 이미지"
+          },
+          {
+            "title": "축제도 즐겨요!",
+            "content": "이번 행사는 야이즈시 시제 75주년을 기념하는 '항구 축제'의 일환으로 개최됩니다. 퍼레이드와 함께 축제 분위기를 만끽해보세요.",
+            "alt_text": "야이즈시 항구 축제 분위기를 담은 이미지"
+          },
+          {
+            "title": "여행 꿀팁!",
+            "content": "시즈오카 야이즈시 방문 예정이라면 5월 17일 오전 11시를 꼭 기억하세요! 현지 교통편과 행사 정보를 미리 확인하면 더욱 알찬 여행이 될 거예요.",
+            "alt_text": "일본 여행 계획을 세우는 사람들을 위한 꿀팁 이미지"
+          }
+        ],
+        "caption": "🇯🇵 시즈오카 야이즈시에서 펼쳐지는 특별한 디즈니 퍼레이드 소식! 💖 5월 17일 오전 11시, 야이즈시 시제 75주년 기념 항구 축제에서 도쿄 디즈니 리조트 스페셜 퍼레이드를 만나보세요! 🚌 구 어시장에서는 귀여운 다키마쿠라(Duffy) 버스 전시도 준비되어 있답니다. 일본 여행 중이라면 특별한 추억을 만들 기회! 놓치지 마세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#시즈오카",
+          "#야이즈시",
+          "#디즈니퍼레이드",
+          "#다키마쿠라",
+          "#일본축제",
+          "#5월여행",
+          "#여행정보",
+          "#일본이벤트",
+          "#특별한경험",
+          "#디즈니",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#항공권특가"
+        ],
+        "alt_texts": [
+          "시즈오카현 야이즈시에서 열리는 디즈니 스페셜 퍼레이드 안내 이미지",
+          "퍼레이드 시작 시간인 오전 11시를 알리는 이미지",
+          "다키마쿠라(Duffy) 버스가 전시되는 구 어시장 이미지",
+          "야이즈시 항구 축제 분위기를 담은 이미지",
+          "일본 여행 계획을 세우는 사람들을 위한 꿀팁 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 월요일 14시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 한국에서 쉽게 접하기 힘든 일본 현지 특별 이벤트 정보",
+      "image": {
+        "keyword": "Disney parade, Shizuoka, Yaizu city, Duffy bus, Japan festival, travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-parade,-Shizuoka,-Yaizu-city,-Duffy-bus,-Japan-festival,-travel-information",
+        "pexels_url": "https://www.pexels.com/search/Disney%20parade,%20Shizuoka,%20Yaizu%20city,%20Duffy%20bus,%20Japan%20festival,%20travel%20information/"
+      }
+    },
     {
       "id": "plan_d9bc371d",
       "created_at": "2026-05-15T04:12:41.840494",
@@ -923,160 +1077,6 @@
         "keyword": "japan curry marathon, stamp rally, tokyo metro area, food event japan, travel japan",
         "unsplash_url": "https://unsplash.com/s/photos/japan-curry-marathon,-stamp-rally,-tokyo-metro-area,-food-event-japan,-travel-japan",
         "pexels_url": "https://www.pexels.com/search/japan%20curry%20marathon,%20stamp%20rally,%20tokyo%20metro%20area,%20food%20event%20japan,%20travel%20japan/"
-      }
-    },
-    {
-      "id": "plan_e850a61d",
-      "created_at": "2026-05-12T04:00:24.664918",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "長崎県の観光体験が最大30％オフ「長崎ぐるっと割キャンペーン」。軍艦島上陸ツアーやミュージアム入場などお得に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2107716.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나가사키 여행 경비를 최대 30%까지 아낄 수 있는 역대급 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🚢나가사키 30% 할인 찬스!",
-        "cards": [
-          {
-            "title": "나가사키 ぐるっと割",
-            "content": "나가사키현에서 관광 액티비티 및 교통 티켓을 최대 30% 할인해주는 '나가사키 ぐるっと割 캠페인'을 진행해요.",
-            "alt_text": "나가사키 ぐるっと割 캠페인 로고"
-          },
-          {
-            "title": "할인 기간",
-            "content": "2024년 5월 11일부터 2027년 2월 28일까지 진행되니, 장기간 여행 계획에 참고하세요!",
-            "alt_text": "캘린더에 표시된 캠페인 기간"
-          },
-          {
-            "title": "할인 대상",
-            "content": "군함도 상륙 투어, 각종 박물관 입장권 등 나가사키의 다채로운 관광 체험을 할인된 가격으로 즐길 수 있어요.",
-            "alt_text": "군함도와 박물관 이미지"
-          },
-          {
-            "title": "최대 30% 할인",
-            "content": "여행 경비를 절약하고 싶다면 놓칠 수 없는 기회! 최대 30% 할인 혜택을 꼭 챙기세요.",
-            "alt_text": "할인율 30% 표시 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "캠페인 대상 상품 및 예약 방법은 나가사키현 공식 관광 사이트를 참고하여 미리 확인하는 것이 좋아요. 조기 마감될 수 있으니 서두르세요!",
-            "alt_text": "나가사키 여행 계획을 세우는 모습"
-          }
-        ],
-        "caption": "나가사키 여행 계획 중이신 분들 주목! 📢\n'나가사키 ぐるっと割 캠페인'으로 최대 30% 할인받고 알차게 여행하세요!\n군함도 투어부터 박물관까지, 다양한 체험을 저렴하게 즐길 기회! 놓치지 마세요! 😉\n\n🗓️ 기간: 2024년 5월 11일 ~ 2027년 2월 28일\n💰 할인율: 최대 30%\n\n#나가사키여행 #일본할인 #여행꿀팁 #나가사키ぐるっと割",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나가사키",
-          "#나가사키여행",
-          "#일본할인",
-          "#여행정보",
-          "#여행꿀팁",
-          "#군함도",
-          "#나가사키관광",
-          "#일본자유여행",
-          "#가성비여행",
-          "#일본여행준비",
-          "#일본여행추천",
-          "#여행스타그램",
-          "#할인정보"
-        ],
-        "alt_texts": [
-          "나가사키 ぐるっと割 캠페인 로고",
-          "캘린더에 표시된 캠페인 기간",
-          "군함도와 박물관 이미지",
-          "할인율 30% 표시 이미지",
-          "나가사키 여행 계획을 세우는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 나가사키 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 금요일 오후 6시 (여행 계획 세우는 시간) / 기대 반응: 할인 정보에 대한 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 대상 정보를 명확히 제시하여 실질적인 도움 제공",
-      "image": {
-        "keyword": "Nagasaki discount campaign, Gunkanjima tour, Nagasaki museum, travel discount, Japan travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-discount-campaign,-Gunkanjima-tour,-Nagasaki-museum,-travel-discount,-Japan-travel-deal",
-        "pexels_url": "https://www.pexels.com/search/Nagasaki%20discount%20campaign,%20Gunkanjima%20tour,%20Nagasaki%20museum,%20travel%20discount,%20Japan%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_dc0f6d24",
-      "created_at": "2026-05-12T04:00:16.594851",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "神戸「UCCコーヒー博物館」が6年ぶり再開。焙煎体験や3Dラテアート体験、ラボなど新設して7月1日オープン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2107843.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "커피 애호가라면 놓칠 수 없는! 고베 UCC 커피 박물관 6년 만에 재개장 소식!"
-      },
-      "content": {
-        "thumbnail_title": "☕️고베 UCC 커피 박물관 재개장!",
-        "cards": [
-          {
-            "title": "재개장 정보",
-            "content": "일본 고베에 위치한 UCC 커피 박물관이 6년간의 휴관을 마치고 2024년 7월 1일 새롭게 문을 엽니다.",
-            "alt_text": "UCC 커피 박물관 외관 이미지"
-          },
-          {
-            "title": "새로운 체험",
-            "content": "이번 리뉴얼 오픈에서는 직접 커피를 로스팅하는 체험, 3D 라떼 아트 체험, 그리고 커피 연구소(랩) 등 더욱 풍성해진 콘텐츠를 만나볼 수 있습니다.",
-            "alt_text": "3D 라떼 아트 체험 모습 이미지"
-          },
-          {
-            "title": "커피의 모든 것",
-            "content": "커피의 역사부터 제조 과정, 다양한 문화까지 커피에 대한 모든 것을 보고 배우고 체험할 수 있는 특별한 공간입니다.",
-            "alt_text": "커피 생산 과정 전시 이미지"
-          },
-          {
-            "title": "방문 정보",
-            "content": "주소는 효고현 고베시 주오구 미나토지마나카마치 6-6-2이며, 새로운 모습으로 여러분을 기다립니다.",
-            "alt_text": "박물관 위치를 나타내는 지도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "커피를 좋아하신다면 이번 고베 여행 코스에 꼭 넣어보세요! 로스팅 체험 등은 사전 예약이 필요할 수 있으니 방문 전 공식 홈페이지를 확인하는 것이 좋습니다.",
-            "alt_text": "커피콩이 담긴 봉투 이미지"
-          }
-        ],
-        "caption": "☕️ 고베 UCC 커피 박물관이 6년 만에 7월 1일 재개장합니다! \n직접 로스팅하고 3D 라떼 아트도 체험해 보세요. \n커피 덕후라면 놓칠 수 없는 필수 코스! \n새로운 UCC 커피 박물관에서 특별한 경험을 만들어보세요. \n#일본여행 #고베여행 #커피박물관 #UCC커피",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#고베여행",
-          "#UCC커피박물관",
-          "#커피체험",
-          "#일본카페",
-          "#고베가볼만한곳",
-          "#여행정보",
-          "#일본신상",
-          "#7월여행",
-          "#커피러버",
-          "#일본축제",
-          "#여행팁",
-          "#재개장",
-          "#일본핫플"
-        ],
-        "alt_texts": [
-          "UCC 커피 박물관 외관 이미지",
-          "3D 라떼 아트 체험 모습 이미지",
-          "커피 생산 과정 전시 이미지",
-          "박물관 위치를 나타내는 지도 이미지",
-          "커피콩이 담긴 봉투 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 커피를 좋아하고 체험형 관광을 선호하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 정보 공유 및 저장, 여행 계획에 반영 / 이 콘텐츠의 강점: 6년 만의 재개장이라는 희소성과 직접 체험 가능한 콘텐츠 구성",
-      "image": {
-        "keyword": "UCC Coffee Museum Kobe Japan reopened July 1st new exhibits coffee roasting 3D latte art",
-        "unsplash_url": "https://unsplash.com/s/photos/UCC-Coffee-Museum-Kobe-Japan-reopened-July-1st-new-exhibits-coffee-roasting-3D-latte-art",
-        "pexels_url": "https://www.pexels.com/search/UCC%20Coffee%20Museum%20Kobe%20Japan%20reopened%20July%201st%20new%20exhibits%20coffee%20roasting%203D%20latte%20art/"
       }
     }
   ]
