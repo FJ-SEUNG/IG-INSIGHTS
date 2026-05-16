@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-16T00:06:44.494612",
+  "last_updated": "2026-05-16T03:54:57.304384",
   "plans": [
+    {
+      "id": "plan_0baeffb4",
+      "created_at": "2026-05-16T03:54:55.304202",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本びゅう、大人の休日俱楽部パス×宿だけプラン利用で1万ポイント当たる。えきねっと限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109053.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JR 동일본 대사철 이용 시 놓치면 후회할 포인트 혜택!"
+      },
+      "content": {
+        "thumbnail_title": "JR 동일본 1만 포인트 득템 찬스!💰",
+        "cards": [
+          {
+            "title": "캠페인 기간",
+            "content": "JR 동일본 '어른의 휴일 클럽 패스 × 숙박만 플랜' 이용 시 JRE POINT 1만 점 증정 캠페인이 7월 4일까지 진행됩니다.",
+            "alt_text": "캠페인 기간 안내 캘린더 이미지"
+          },
+          {
+            "title": "숙박 대상 기간",
+            "content": "숙박은 6월 22일부터 7월 4일까지 가능하며, '어른의 휴일 클럽' 회원(미들 회원, 지팡구 회원)만 참여 가능합니다.",
+            "alt_text": "숙박 기간 안내 이미지"
+          },
+          {
+            "title": "JRE POINT 혜택",
+            "content": "해당 플랜 이용 시 1만 JRE POINT를 받을 수 있으며, 이 포인트는 JR 동일본 관련 서비스 이용 시 현금처럼 사용할 수 있습니다.",
+            "alt_text": "JRE POINT 로고 및 혜택 설명 이미지"
+          },
+          {
+            "title": "이용 방법",
+            "content": "JR 동일본 공식 웹사이트 '에키네트'에서 '어른의 휴일 클럽 패스 × 숙박만 플랜'을 예약 및 결제하면 자동으로 응모됩니다.",
+            "alt_text": "에키네트 웹사이트 예약 화면 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본 내에서 JR 동일본 지역을 여행 계획 중이라면, 숙박과 함께 포인트 혜택까지 챙길 수 있는 절호의 기회입니다. 서둘러 예약하세요!",
+            "alt_text": "일본 기차 여행 이미지"
+          }
+        ],
+        "caption": "JR 동일본 여행 계획 중이신가요? 🚄\n\n'어른의 휴일 클럽 패스 × 숙박만 플랜' 이용 시 7월 4일까지 JRE POINT 1만 점을 받을 수 있는 특별한 캠페인이 진행 중입니다! 🤩\n\n6월 22일부터 7월 4일까지의 숙박이 대상이며, '어른의 휴일 클럽' 회원이라면 누구나 참여 가능해요.\n\n에키네트에서 예약하고 포인트 혜택도 놓치지 마세요! 😉\n\n#일본여행 #JR동일본 #어른의휴일클럽 #JREPOINT #일본숙박 #일본교통 #에키네트 #여행혜택 #일본여행정보 #일본여행꿀팁 #여행스타그램 #플라잉재팬 #일본자유여행 #일본패스 #여행이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#어른의휴일클럽",
+          "#JREPOINT",
+          "#일본숙박",
+          "#일본교통",
+          "#에키네트",
+          "#여행혜택",
+          "#일본여행정보",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본패스",
+          "#여행이벤트"
+        ],
+        "alt_texts": [
+          "캠페인 기간 안내 캘린더 이미지",
+          "숙박 기간 안내 이미지",
+          "JRE POINT 로고 및 혜택 설명 이미지",
+          "에키네트 웹사이트 예약 화면 이미지",
+          "일본 기차 여행 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: JR 동일본 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 획득 및 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 금전적 혜택 제공, 예약 마감 임박 정보로 긴급성 부여",
+      "image": {
+        "keyword": "JR East, adult holiday club pass, accommodation plan, JRE POINT campaign, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-East,-adult-holiday-club-pass,-accommodation-plan,-JRE-POINT-campaign,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/JR%20East,%20adult%20holiday%20club%20pass,%20accommodation%20plan,%20JRE%20POINT%20campaign,%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_3b025797",
+      "created_at": "2026-05-16T03:54:47.932006",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "関越道で渋滞回避キャンペーン。「軽井沢・プリンスショッピングプラザ」18時以降の出発で最大1000円分ポイント",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109170.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 예상치 못한 교통 체증을 피하고 쇼핑 혜택까지 받을 수 있는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "🚗🛣️1000엔 득템! 渋滞回避",
+        "cards": [
+          {
+            "title": "핵심 정보",
+            "content": "일본 NEXCO 동일본에서 6월, 7월 주말 및 공휴일에 간에츠 자동차도 혼잡 완화를 위한 캠페인을 진행합니다.",
+            "alt_text": "간에츠 자동차도 혼잡 완화 캠페인 안내 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "총 17일간, 2024년 6월 1일(토)부터 7월 21일(일)까지 주말 및 공휴일에 실시됩니다.",
+            "alt_text": "캠페인 기간을 나타내는 달력 이미지"
+          },
+          {
+            "title": "혜택 내용",
+            "content": "오후 6시 이후에 출발하는 경우, '카루이자와 프린스 쇼핑 플라자'에서 최대 1,000엔 상당의 포인트(이용 금액의 10%, 최대 1,000엔)를 증정합니다.",
+            "alt_text": "1,000엔 상당 포인트 증정 혜택 이미지"
+          },
+          {
+            "title": "이용 방법",
+            "content": "캠페인 참여는 사전 등록이 필요하며, 캠페인 웹사이트에서 자세한 내용을 확인하고 신청할 수 있습니다.",
+            "alt_text": "캠페인 참여 방법 안내 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "카루이자와 지역으로 이동 계획이 있다면, 이 캠페인을 활용하여 교통 체증을 피하고 쇼핑 혜택까지 누리세요! 늦은 오후 출발 시 더욱 유용합니다.",
+            "alt_text": "카루이자와 지역 쇼핑 플라자 전경 이미지"
+          }
+        ],
+        "caption": "일본 카루이자와 여행 계획 중이신가요? 🚗🛣️\n\n6월, 7월 주말 및 공휴일에 간에츠 자동차도 혼잡 완화를 위한 특별 캠페인이 진행됩니다!\n\n✅ 오후 6시 이후 출발 시, 카루이자와 프린스 쇼핑 플라자에서 최대 1,000엔 상당의 포인트 증정!\n\n교통 체증도 피하고 쇼핑 혜택까지 챙길 수 있는 절호의 기회! 놓치지 마세요 😉\n\n#일본여행 #카루이자와 #프린스쇼핑플라자 #간에츠자동차도 #교통정보 #일본쇼핑 #여행꿀팁 #플라잉재팬 #일본정복 #일본생활 #일본정보 #여행스타그램 #일본자유여행 #해외여행 #일본교통",
+        "hashtags": [
+          "#일본여행",
+          "#카루이자와",
+          "#프린스쇼핑플라자",
+          "#간에츠자동차도",
+          "#교통정보",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#플라잉재팬",
+          "#일본정복",
+          "#일본생활",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#해외여행",
+          "#일본교통"
+        ],
+        "alt_texts": [
+          "간에츠 자동차도 혼잡 완화 캠페인 안내 이미지",
+          "캠페인 기간을 나타내는 달력 이미지",
+          "1,000엔 상당 포인트 증정 혜택 이미지",
+          "캠페인 참여 방법 안내 이미지",
+          "카루이자와 지역 쇼핑 플라자 전경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 카루이자와 지역 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 교통 체증 회피 정보와 쇼핑 혜택을 동시에 제공하여 여행 만족도를 높일 수 있음.",
+      "image": {
+        "keyword": "Karuizawa Prince Shopping Plaza, Kanetsu Expressway, traffic jam avoidance campaign, Japan travel tips, shopping discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Karuizawa-Prince-Shopping-Plaza,-Kanetsu-Expressway,-traffic-jam-avoidance-campaign,-Japan-travel-tips,-shopping-discount",
+        "pexels_url": "https://www.pexels.com/search/Karuizawa%20Prince%20Shopping%20Plaza,%20Kanetsu%20Expressway,%20traffic%20jam%20avoidance%20campaign,%20Japan%20travel%20tips,%20shopping%20discount/"
+      }
+    },
     {
       "id": "plan_8c66438d",
       "created_at": "2026-05-16T00:06:42.494407",
@@ -923,160 +1077,6 @@
         "keyword": "shinkansen, japan train, travel coupon, event, discount",
         "unsplash_url": "https://unsplash.com/s/photos/shinkansen,-japan-train,-travel-coupon,-event,-discount",
         "pexels_url": "https://www.pexels.com/search/shinkansen,%20japan%20train,%20travel%20coupon,%20event,%20discount/"
-      }
-    },
-    {
-      "id": "plan_1a0cca22",
-      "created_at": "2026-05-13T00:13:52.470669",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「Suicaのペンギン」数量限定ペンケース、5月13日12時から予約販売。フェイス柄/ハーフ柄の2種類",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2108022.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템, 귀여운 'Suica의 펭귄' 굿즈 한정 판매 소식!"
-      },
-      "content": {
-        "thumbnail_title": "🐧Suica 펭귄 굿즈 🐧",
-        "cards": [
-          {
-            "title": "한정 펜케이스",
-            "content": "인기 캐릭터 'Suica의 펭귄' 굿즈가 수량 한정으로 출시됩니다. 이번에는 귀여운 펜케이스를 만나볼 수 있어요.",
-            "alt_text": "Suica의 펭귄 캐릭터가 그려진 펜케이스 이미지"
-          },
-          {
-            "title": "두 가지 디자인",
-            "content": "이번 펜케이스는 '페이스柄'과 '하프柄' 두 가지 디자인으로 출시됩니다. 취향에 따라 선택 가능해요.",
-            "alt_text": "Suica의 펭귄 페이스 패턴 펜케이스와 하프 패턴 펜케이스 이미지"
-          },
-          {
-            "title": "예약 판매 시작",
-            "content": "예약 판매는 5월 13일 오후 12시부터 시작됩니다. 놓치지 않도록 미리 알림 설정해두세요!",
-            "alt_text": "날짜와 시간이 표시된 예약 판매 안내 이미지"
-          },
-          {
-            "title": "구매처 확인",
-            "content": "EC 스토어 'TOY TIME JRE몰점'에서 예약 판매가 진행됩니다. 온라인으로 편리하게 구매하세요.",
-            "alt_text": "TOY TIME JRE몰점 로고 또는 온라인 스토어 화면 캡쳐 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "수량 한정 상품이니 서둘러야 할 수도 있어요! 일본 여행 중 기념품으로도, 실용적인 선물로도 최고랍니다.",
-            "alt_text": "Suica의 펭귄 펜케이스를 들고 있는 손 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템 득템 찬스! 🐧💖\n귀여운 'Suica의 펭귄' 펜케이스가 수량 한정으로 출시됩니다!\n\n✅ 5월 13일 오후 12시 예약 판매 시작!\n✅ 페이스柄 / 하프柄 2가지 디자인\n✅ TOY TIME JRE몰점에서 구매 가능\n\n일본 여행 기념품으로, 혹은 실용적인 선물로 딱이에요! ✨\n\n#Suica펭귄 #일본굿즈 #한정판 #일본여행준비 #여행필수템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica펭귄",
-          "#일본굿즈",
-          "#한정판",
-          "#펜케이스",
-          "#일본쇼핑",
-          "#여행준비",
-          "#일본기념품",
-          "#JR",
-          "#TOYTIME",
-          "#JRE몰",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#인싸템"
-        ],
-        "alt_texts": [
-          "Suica의 펭귄 캐릭터가 그려진 펜케이스 이미지",
-          "Suica의 펭귄 페이스 패턴 펜케이스와 하프 패턴 펜케이스 이미지",
-          "날짜와 시간이 표시된 예약 판매 안내 이미지",
-          "TOY TIME JRE몰점 로고 또는 온라인 스토어 화면 캡쳐 이미지",
-          "Suica의 펭귄 펜케이스를 들고 있는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 관심 있는 20-30대 한국인 / 최적 게시 시간: 평일 오후 5-7시 또는 주말 오후 2-4시 / 기대 반응: 높은 관심과 구매 문의, 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터 상품의 희소성 및 한정 판매 정보로 구매 욕구 자극",
-      "image": {
-        "keyword": "Suica Penguin pen case, limited edition, Japanese character goods, TOY TIME JRE mall",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-pen-case,-limited-edition,-Japanese-character-goods,-TOY-TIME-JRE-mall",
-        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20pen%20case,%20limited%20edition,%20Japanese%20character%20goods,%20TOY%20TIME%20JRE%20mall/"
-      }
-    },
-    {
-      "id": "plan_40980592",
-      "created_at": "2026-05-13T00:13:45.924006",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "7つの街の21店舗を巡る「首都圏横断カレーマラソンスタンプラリー」。週末レジャー感覚で制覇目指す、賞品グッズも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2108028.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 수도권 7개 도시를 아우르는 미식 챌린지! 짜릿한 카레 마라톤으로 맛과 재미 모두 잡으세요!"
-      },
-      "content": {
-        "thumbnail_title": "🍛 도쿄 근교 카레 마라톤 🏃‍♂️",
-        "cards": [
-          {
-            "title": "카레 마라톤 개최",
-            "content": "2026년 5월 16일부터 11월 1일까지 '수도권 횡단 카레 마라톤 스탬프 랠리'가 개최됩니다. 수도권 7개 도시, 총 21개 점포를 방문하게 됩니다.",
-            "alt_text": "일본 수도권 지도와 7개 도시를 나타내는 아이콘"
-          },
-          {
-            "title": "참여 방법",
-            "content": "각 도시별 지정된 21개의 카레 가게를 방문하여 스탬프를 획득하는 방식입니다. 단순한 식사를 넘어, 랠리 완주를 목표로 하는 재미를 더했습니다.",
-            "alt_text": "카레 가게에서 스탬프를 찍는 손 이미지"
-          },
-          {
-            "title": "다양한 상품",
-            "content": "랠리 완주자에게는 특별한 상품 굿즈가 제공될 예정입니다. 어떤 상품이 기다릴지 기대해 주세요!",
-            "alt_text": "일본어로 된 상품 굿즈 이미지"
-          },
-          {
-            "title": "주말 레저로 딱!",
-            "content": "이번 '수도권 횡단 카레 마라톤'은 주말 레저 활동으로도 완벽합니다. 맛있는 카레와 함께 일본의 다양한 도시를 탐험해 보세요.",
-            "alt_text": "가족이나 친구와 함께 일본 카레 가게에서 즐거운 시간을 보내는 모습"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "참여 전, 각 도시별 스탬프 랠리 대상 점포와 운영 시간을 반드시 확인하세요. 21개 점포를 모두 방문해야 하므로, 동선을 미리 계획하는 것이 좋습니다.",
-            "alt_text": "일본어로 된 행사 안내문 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 경험을 원한다면? 🍛\n2026년 5월 16일부터 11월 1일까지, 일본 수도권 7개 도시 21개 점포를 누비는 '수도권 횡단 카레 마라톤 스탬프 랠리'가 개최됩니다! 🏃‍♂️\n주말 레저 삼아 맛있는 카레도 즐기고, 특별한 굿즈도 받아가세요! 🎁\n여행 계획에 꼭 넣어보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본카레",
-          "#카레마라톤",
-          "#도쿄근교",
-          "#일본맛집",
-          "#일본이벤트",
-          "#일본축제",
-          "#스탬프랠리",
-          "#2026년이벤트",
-          "#일본미식",
-          "#여행꿀팁",
-          "#일본생활",
-          "#일본정보",
-          "#일본어플"
-        ],
-        "alt_texts": [
-          "일본 수도권 지도와 7개 도시를 나타내는 아이콘",
-          "카레 가게에서 스탬프를 찍는 손 이미지",
-          "일본어로 된 상품 굿즈 이미지",
-          "가족이나 친구와 함께 일본 카레 가게에서 즐거운 시간을 보내는 모습",
-          "일본어로 된 행사 안내문 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 일본 현지에서 즐길 수 있는 독특한 이벤트에 대한 높은 관심, 참여 의지 / 이 콘텐츠의 강점: 구체적인 날짜, 장소, 참여 방법, 상품 정보까지 제공하여 실질적인 여행 계획에 도움을 줄 수 있음",
-      "image": {
-        "keyword": "japan curry marathon, stamp rally, tokyo metro area, food event japan, travel japan",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-curry-marathon,-stamp-rally,-tokyo-metro-area,-food-event-japan,-travel-japan",
-        "pexels_url": "https://www.pexels.com/search/japan%20curry%20marathon,%20stamp%20rally,%20tokyo%20metro%20area,%20food%20event%20japan,%20travel%20japan/"
       }
     }
   ]
