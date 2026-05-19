@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-19T00:18:35.611674",
+  "last_updated": "2026-05-19T04:20:44.510221",
   "plans": [
+    {
+      "id": "plan_864e68ef",
+      "created_at": "2026-05-19T04:20:42.510056",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ムーミンバレーパーク」であじさいが見頃。屋内アクティビティも充実、雨の日は限定ポストカードもらえる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109648.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 만날 수 있는 무민 테마파크의 특별한 수국 시즌 정보!"
+      },
+      "content": {
+        "thumbnail_title": "☔️ 무민파크 수국 시즌 개막!",
+        "cards": [
+          {
+            "title": "수국 만개",
+            "content": "사이타마현  ভবিষ্যতে市에 위치한 무민바레이파크에서 약 1,000그루의 수국이 아름다운 '엄브렐라스카이와 수국 로드'를 5월 16일부터 개최해요. 🌸",
+            "alt_text": "무민바레이파크의 아름다운 수국이 핀 풍경"
+          },
+          {
+            "title": "우천 시 혜택",
+            "content": "비 오는 날 방문하면 무민바레이파크에서만 받을 수 있는 한정판 엽서를 증정한다고 해요! 🌧️",
+            "alt_text": "무민 캐릭터가 그려진 한정판 엽서"
+          },
+          {
+            "title": "다양한 즐길거리",
+            "content": "수국 시즌 외에도 실내 액티비티 시설이 잘 갖춰져 있어 날씨에 상관없이 즐거운 시간을 보낼 수 있어요. 🎪",
+            "alt_text": "무민바레이파크의 실내 액티비티 시설"
+          },
+          {
+            "title": "방문 정보",
+            "content": "무민바레이파크는 사이타마현  भविष्य市 미야자와 327-6에 위치하고 있으며, 가족 단위 여행객에게 특히 추천해요. 👨‍👩‍👧‍👦",
+            "alt_text": "무민바레이파크의 귀여운 입구"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "수국 시즌은 6월까지 이어질 예정이니, 방문 전 공식 홈페이지에서 정확한 운영 시간과 이벤트 정보를 다시 한번 확인하는 것이 좋아요! 🗓️",
+            "alt_text": "무민바레이파크 방문 안내 표지판"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 경험을 찾는다면? ☔️ 사이타마현 무민바레이파크에서 아름다운 수국과 함께 힐링하세요! 🌸 비 오는 날엔 귀여운 한정판 엽서까지 받을 수 있답니다. 🎁\n\n#무민바레이파크 #일본수국 #사이타마여행 #일본테마파크 #가족여행 #일본감성",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#무민바레이파크",
+          "#일본여행정보",
+          "#일본테마파크",
+          "#사이타마",
+          "#수국",
+          "#일본축제",
+          "#일본가볼만한곳",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#무민",
+          "#일본현지",
+          "#일본이벤트",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "무민바레이파크의 아름다운 수국이 핀 풍경",
+          "무민 캐릭터가 그려진 한정판 엽서",
+          "무민바레이파크의 실내 액티비티 시설",
+          "무민바레이파크의 귀여운 입구",
+          "무민바레이파크 방문 안내 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 테마파크 및 이색적인 경험을 선호하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보성, 흥미 유발, 저장 및 공유 / 이 콘텐츠의 강점: 일본에서만 경험할 수 있는 시즌성 이벤트와 특별한 혜택 정보 제공",
+      "image": {
+        "keyword": "Moominvalley Park, hydrangea, Japan theme park, Saitama travel, seasonal event, limited edition postcard, family trip",
+        "unsplash_url": "https://unsplash.com/s/photos/Moominvalley-Park,-hydrangea,-Japan-theme-park,-Saitama-travel,-seasonal-event,-limited-edition-postcard,-family-trip",
+        "pexels_url": "https://www.pexels.com/search/Moominvalley%20Park,%20hydrangea,%20Japan%20theme%20park,%20Saitama%20travel,%20seasonal%20event,%20limited%20edition%20postcard,%20family%20trip/"
+      }
+    },
+    {
+      "id": "plan_a448dd1b",
+      "created_at": "2026-05-19T04:20:25.366624",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スカイマークの新型機737-8は羽田～福岡線に投入。初便は5月28日",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109783.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "스카이마크 신형기 도입으로 일본 국내선 이동이 더욱 편리해질 예정입니다!"
+      },
+      "content": {
+        "thumbnail_title": "✈️스카이마크 신형기 뜬다!",
+        "cards": [
+          {
+            "title": "신형기 투입",
+            "content": "스카이마크의 신형기 보잉 737-8 첫 호기(등록기호: JA738A)가 2024년 5월 28일부터 운항을 시작합니다.",
+            "alt_text": "스카이마크 항공사의 신형기 보잉 737-8 항공기 이미지"
+          },
+          {
+            "title": "첫 운항 노선",
+            "content": "신형기가 처음 투입되는 노선은 하네다(羽田) 출발 후쿠오카(福岡)행 노선입니다.",
+            "alt_text": "일본 하네다 공항과 후쿠오카 공항을 잇는 노선 지도"
+          },
+          {
+            "title": "기종 상세",
+            "content": "새로운 보잉 737-8 기종은 더 편안하고 효율적인 비행 경험을 제공할 것으로 기대됩니다.",
+            "alt_text": "보잉 737-8 항공기의 내부 좌석 모습"
+          },
+          {
+            "title": "이용 팁",
+            "content": "하네다-후쿠오카 노선 이용 시, 스카이마크 신형기 탑승 기회를 놓치지 마세요! 미리 예약하면 더 좋은 좌석 확보 가능합니다.",
+            "alt_text": "항공권 예약 웹사이트 화면 캡처"
+          },
+          {
+            "title": "추가 정보",
+            "content": "향후 다른 노선으로 확대될 가능성도 있으니, 스카이마크 공식 홈페이지에서 최신 운항 정보를 확인하는 것이 좋습니다.",
+            "alt_text": "스카이마크 항공사 공식 웹사이트 로고"
+          }
+        ],
+        "caption": "✈️ 스카이마크, 신형기 보잉 737-8 도입! ✈️\n\n드디어 스카이마크의 새로운 보잉 737-8 기종이 5월 28일부터 첫 운항을 시작합니다!\n\n첫 취항 노선은 하네다 ↔️ 후쿠오카 구간이며, 더욱 쾌적한 일본 국내선 이동이 가능해질 예정입니다.\n\n일본 여행 중 국내선 이동 계획이 있다면, 신형기 탑승 기회를 잡아보세요! ✨\n\n#일본여행 #스카이마크 #항공정보 #일본국내선 #하네다공항 #후쿠오카 #여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스카이마크",
+          "#일본항공",
+          "#보잉737",
+          "#일본국내선",
+          "#하네다공항",
+          "#후쿠오카",
+          "#일본여행정보",
+          "#항공권",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#일본교통",
+          "#신형기"
+        ],
+        "alt_texts": [
+          "스카이마크 항공사의 신형기 보잉 737-8 항공기 이미지",
+          "일본 하네다 공항과 후쿠오카 공항을 잇는 노선 지도",
+          "보잉 737-8 항공기의 내부 좌석 모습",
+          "항공권 예약 웹사이트 화면 캡처",
+          "스카이마크 항공사 공식 웹사이트 로고"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 국내선 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 일본 국내선 이용 정보에 대한 관심 증대, 스카이마크 이용률 증가 / 이 콘텐츠의 강점: 구체적인 도입 날짜, 노선 정보 제공으로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Skymark Airlines new Boeing 737-8 aircraft on Haneda to Fukuoka route",
+        "unsplash_url": "https://unsplash.com/s/photos/Skymark-Airlines-new-Boeing-737-8-aircraft-on-Haneda-to-Fukuoka-route",
+        "pexels_url": "https://www.pexels.com/search/Skymark%20Airlines%20new%20Boeing%20737-8%20aircraft%20on%20Haneda%20to%20Fukuoka%20route/"
+      }
+    },
     {
       "id": "plan_3e88a907",
       "created_at": "2026-05-19T00:18:33.611488",
@@ -923,160 +1077,6 @@
         "keyword": "Karuizawa Prince Shopping Plaza, Kanetsu Expressway, traffic jam avoidance campaign, Japan travel tips, shopping discount",
         "unsplash_url": "https://unsplash.com/s/photos/Karuizawa-Prince-Shopping-Plaza,-Kanetsu-Expressway,-traffic-jam-avoidance-campaign,-Japan-travel-tips,-shopping-discount",
         "pexels_url": "https://www.pexels.com/search/Karuizawa%20Prince%20Shopping%20Plaza,%20Kanetsu%20Expressway,%20traffic%20jam%20avoidance%20campaign,%20Japan%20travel%20tips,%20shopping%20discount/"
-      }
-    },
-    {
-      "id": "plan_8c66438d",
-      "created_at": "2026-05-16T00:06:42.494407",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ファミマで商品買うと「ヨッシー」豆皿もらえる！　ぬいぐるみ当たる抽選や一番くじも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109067.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 편의점 최애템, 놓치면 후회할 요시! 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨패밀리마트 요시 득템 찬스✨",
-        "cards": [
-          {
-            "title": "요시 豆皿 증정!",
-            "content": "5월 19일부터 일본 전역 패밀리마트에서 닌텐도 스위치 소프트 '요시와 불가사의한 도감' 캠페인이 시작됩니다. 캠페인 대상 상품을 구매하면 귀여운 '요시 豆皿'을 받을 수 있어요.",
-            "alt_text": "요시 豆皿 이미지"
-          },
-          {
-            "title": "추첨 & 제일복권",
-            "content": "豆皿 증정 외에도 '요시' 인형 추첨 이벤트와 제일복권도 함께 진행됩니다. 행운의 주인공이 되어 멋진 상품들을 만나보세요!",
-            "alt_text": "요시 인형 및 제일복권 상품 이미지"
-          },
-          {
-            "title": "캠페인 기간",
-            "content": "캠페인은 2024년 5월 19일부터 시작됩니다. 豆皿 및 제일복권 상품은 소진 시 조기 종료될 수 있으니 서둘러 방문하세요!",
-            "alt_text": "캠페인 기간 안내 이미지"
-          },
-          {
-            "title": "패밀리마트 방문 필수",
-            "content": "일본 여행 중 패밀리마트에 들를 계획이라면, 이번 캠페인을 절대 놓치지 마세요! 요시 팬이라면 꼭 득템해야 할 기회입니다.",
-            "alt_text": "패밀리마트 매장 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "캠페인 대상 상품 확인은 매장 내 POP를 참고하거나 점원에게 문의하세요. 한정 수량이니 관심 있다면 여행 첫날 방문을 추천합니다!",
-            "alt_text": "패밀리마트 상품 진열 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수 코스, 패밀리마트! 🇯🇵\n\n5월 19일부터 시작되는 '요시와 불가사의한 도감' 캠페인으로 귀여운 요시 豆皿을 득템하세요! ✨\n\n추첨 이벤트와 제일복권도 놓치지 마세요! 🍀\n\n#요시 #패밀리마트 #일본편의점 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본편의점",
-          "#패밀리마트",
-          "#요시",
-          "#닌텐도",
-          "#요시와불가사의한도감",
-          "#일본쇼핑",
-          "#일본득템",
-          "#일본여행꿀팁",
-          "#일본여행정보",
-          "#가마쿠라",
-          "#도쿄",
-          "#오사카",
-          "#후쿠오카"
-        ],
-        "alt_texts": [
-          "요시 豆皿 이미지",
-          "요시 인형 및 제일복권 상품 이미지",
-          "캠페인 기간 안내 이미지",
-          "패밀리마트 매장 이미지",
-          "패밀리마트 상품 진열 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 편의점 쇼핑을 즐기는 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 / 기대 반응: 높은 관심 및 공유, 실제 방문 인증 후기 / 이 콘텐츠의 강점: 한정판 굿즈 정보로 즉각적인 구매 욕구 자극, 실질적인 혜택 제공",
-      "image": {
-        "keyword": "Yoshi, Family Mart, Japan convenience store, limited edition goods, campaign, Nintendo Switch",
-        "unsplash_url": "https://unsplash.com/s/photos/Yoshi,-Family-Mart,-Japan-convenience-store,-limited-edition-goods,-campaign,-Nintendo-Switch",
-        "pexels_url": "https://www.pexels.com/search/Yoshi,%20Family%20Mart,%20Japan%20convenience%20store,%20limited%20edition%20goods,%20campaign,%20Nintendo%20Switch/"
-      }
-    },
-    {
-      "id": "plan_b6dc68fb",
-      "created_at": "2026-05-16T00:06:35.828473",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "焼津のディズニースペシャルパレードは11時から。旧魚市場でダッフィーバス展示も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109092.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서 펼쳐지는 특별한 디즈니 퍼레이드와 전시 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 in 시즈오카! 11시 퍼레이드!",
-        "cards": [
-          {
-            "title": "시즈오카에서 만나요!",
-            "content": "도쿄 디즈니 리조트 스페셜 퍼레이드가 5월 17일, 시즈오카현 야이즈시에서 열립니다. 야이즈시 시제 75주년 기념 항구 축제의 하이라이트가 될 예정이에요.",
-            "alt_text": "시즈오카현 야이즈시에서 열리는 디즈니 스페셜 퍼레이드 안내 이미지"
-          },
-          {
-            "title": "퍼레이드 시간 확인!",
-            "content": "퍼레이드는 오전 11시에 시작됩니다. 특별한 디즈니 캐릭터들을 만날 수 있는 기회를 놓치지 마세요!",
-            "alt_text": "퍼레이드 시작 시간인 오전 11시를 알리는 이미지"
-          },
-          {
-            "title": "덕후들 모여라!",
-            "content": "구 어시장에서 다키마쿠라(Duffy) 버스 전시도 함께 진행됩니다. 귀여운 다키마쿠라 버스를 직접 볼 수 있어요.",
-            "alt_text": "다키마쿠라(Duffy) 버스가 전시되는 구 어시장 이미지"
-          },
-          {
-            "title": "축제도 즐겨요!",
-            "content": "이번 행사는 야이즈시 시제 75주년을 기념하는 '항구 축제'의 일환으로 개최됩니다. 퍼레이드와 함께 축제 분위기를 만끽해보세요.",
-            "alt_text": "야이즈시 항구 축제 분위기를 담은 이미지"
-          },
-          {
-            "title": "여행 꿀팁!",
-            "content": "시즈오카 야이즈시 방문 예정이라면 5월 17일 오전 11시를 꼭 기억하세요! 현지 교통편과 행사 정보를 미리 확인하면 더욱 알찬 여행이 될 거예요.",
-            "alt_text": "일본 여행 계획을 세우는 사람들을 위한 꿀팁 이미지"
-          }
-        ],
-        "caption": "🇯🇵 시즈오카 야이즈시에서 펼쳐지는 특별한 디즈니 퍼레이드 소식! 💖 5월 17일 오전 11시, 야이즈시 시제 75주년 기념 항구 축제에서 도쿄 디즈니 리조트 스페셜 퍼레이드를 만나보세요! 🚌 구 어시장에서는 귀여운 다키마쿠라(Duffy) 버스 전시도 준비되어 있답니다. 일본 여행 중이라면 특별한 추억을 만들 기회! 놓치지 마세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#시즈오카",
-          "#야이즈시",
-          "#디즈니퍼레이드",
-          "#다키마쿠라",
-          "#일본축제",
-          "#5월여행",
-          "#여행정보",
-          "#일본이벤트",
-          "#특별한경험",
-          "#디즈니",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#항공권특가"
-        ],
-        "alt_texts": [
-          "시즈오카현 야이즈시에서 열리는 디즈니 스페셜 퍼레이드 안내 이미지",
-          "퍼레이드 시작 시간인 오전 11시를 알리는 이미지",
-          "다키마쿠라(Duffy) 버스가 전시되는 구 어시장 이미지",
-          "야이즈시 항구 축제 분위기를 담은 이미지",
-          "일본 여행 계획을 세우는 사람들을 위한 꿀팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 월요일 14시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 한국에서 쉽게 접하기 힘든 일본 현지 특별 이벤트 정보",
-      "image": {
-        "keyword": "Disney parade, Shizuoka, Yaizu city, Duffy bus, Japan festival, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-parade,-Shizuoka,-Yaizu-city,-Duffy-bus,-Japan-festival,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Disney%20parade,%20Shizuoka,%20Yaizu%20city,%20Duffy%20bus,%20Japan%20festival,%20travel%20information/"
       }
     }
   ]
