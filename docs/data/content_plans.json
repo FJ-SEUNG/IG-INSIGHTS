@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-18T04:25:05.843542",
+  "last_updated": "2026-05-19T00:18:35.611674",
   "plans": [
+    {
+      "id": "plan_3e88a907",
+      "created_at": "2026-05-19T00:18:33.611488",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福井県、1泊最大5000円分の地域通貨もらえる。第1弾の予約受付中「いいとこ、掘りだくさん。」宿泊キャンペーン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109638.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 절약할 수 있는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "💰후쿠오카 숙박비 5000엔 지원!🎉",
+        "cards": [
+          {
+            "title": "숙박 지원 캠페인",
+            "content": "일본 후쿠오카현에서 '후쿠오카에 머물자! 좋은 곳, 많이 발견하자.' 숙박 캠페인을 진행합니다. 총 3회에 걸쳐 실시됩니다.",
+            "alt_text": "후쿠오카현 지도와 캠페인 로고 이미지"
+          },
+          {
+            "title": "최대 5000엔 지원",
+            "content": "1박당 최대 5000엔 상당의 지역 통화를 지원받을 수 있습니다. 숙박 요금 할인 혜택을 받을 수 있는 기회입니다.",
+            "alt_text": "5000엔 지폐 이미지와 할인율 표시"
+          },
+          {
+            "title": "제1탄 예약 접수 중",
+            "content": "현재 캠페인의 제1탄 예약 접수를 받고 있습니다. 관심 있는 여행객이라면 서둘러 예약하세요.",
+            "alt_text": "달력에 표시된 예약 접수 기간 이미지"
+          },
+          {
+            "title": "다양한 혜택",
+            "content": "이 캠페인을 통해 후쿠오카현의 숨겨진 명소와 매력을 더욱 풍성하게 경험할 수 있습니다.",
+            "alt_text": "후쿠오카의 아름다운 풍경 사진"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "숙박 예약 시 캠페인 참여 숙소인지 꼭 확인하세요. 자세한 내용은 후쿠오카현 공식 정보를 참고하세요.",
+            "alt_text": "체크리스트 이미지와 돋보기 아이콘"
+          }
+        ],
+        "caption": "✨일본 후쿠오카 여행 계획 중이신가요?✨\n\n후쿠오카현에서 진행하는 '후쿠오카에 머물자! 좋은 곳, 많이 발견하자.' 숙박 캠페인에 주목해주세요!\n\n✅ 1박당 최대 5000엔 상당 지역 통화 지원!\n✅ 총 3회에 걸쳐 진행 (현재 1탄 예약 접수 중)\n\n숨겨진 후쿠오카의 매력을 저렴하게 즐길 수 있는 절호의 찬스! 놓치지 마세요!\n\n#후쿠오카여행 #일본숙박 #여행경비절약 #후쿠오카캠페인",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#후쿠오카여행",
+          "#일본숙박",
+          "#숙박할인",
+          "#여행팁",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본자유여행",
+          "#일본엔저",
+          "#엔화환율",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "후쿠오카현 지도와 캠페인 로고 이미지",
+          "5000엔 지폐 이미지와 할인율 표시",
+          "달력에 표시된 예약 접수 기간 이미지",
+          "후쿠오카의 아름다운 풍경 사진",
+          "체크리스트 이미지와 돋보기 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 경비 절감 정보 제공",
+      "image": {
+        "keyword": "Fukuoka accommodation campaign, Japan travel discount, regional currency, travel savings",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-accommodation-campaign,-Japan-travel-discount,-regional-currency,-travel-savings",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20accommodation%20campaign,%20Japan%20travel%20discount,%20regional%20currency,%20travel%20savings/"
+      }
+    },
+    {
+      "id": "plan_5898fd27",
+      "created_at": "2026-05-19T00:18:22.777967",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "この夏開業「TAOYA熱海」1泊2食プランが最大25％オフに。インフィニティ温泉と海鮮グルメのオールインクルーシブ宿",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109656.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름 성수기 일본 숙소 최대 25% 할인받고 떠나자!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 숙소 25% 할인♨️",
+        "cards": [
+          {
+            "title": "최대 25% 할인",
+            "content": "일본 료칸 및 호텔 예약 시 최대 25% 할인 혜택을 받을 수 있는 '얼리 서머 페어'가 진행 중입니다. 6월 1일까지 진행되니 서둘러 예약하세요!",
+            "alt_text": "일본 료칸에서 할인 혜택을 받는 모습"
+          },
+          {
+            "title": "쿠폰 활용법",
+            "content": "라쿠텐 트래블에서 제공하는 라쿠텐 쿠폰과 숙소 자체 쿠폰을 함께 사용하면 할인율이 더욱 커집니다. 두 쿠폰 모두 적용 가능한지 꼭 확인하세요.",
+            "alt_text": "스마트폰으로 할인 쿠폰을 확인하는 모습"
+          },
+          {
+            "title": "인피니티 온천",
+            "content": "특히 이번 프로모션 대상 숙소 중 하나인 'TAOYA 아타미'는 아름다운 인피니티 온천과 신선한 해산물 요리를 즐길 수 있는 올인클루시브 숙소입니다.",
+            "alt_text": "아타미의 아름다운 인피니티 온천"
+          },
+          {
+            "title": "가성비 숙소",
+            "content": "여름 휴가철 성수기, 미리 예약하면 최대 25% 할인된 가격으로 멋진 일본 숙소에서 잊지 못할 추억을 만들 수 있습니다.",
+            "alt_text": "해변가에 위치한 멋진 일본 숙소"
+          },
+          {
+            "title": "여행 팁",
+            "content": "할인 혜택을 최대한 활용하려면 라쿠텐 트래블 앱 또는 웹사이트에서 프로모션 내용을 꼼꼼히 확인하고, 원하는 숙소의 쿠폰 적용 여부를 미리 체크하는 것이 좋습니다.",
+            "alt_text": "일본 여행 계획을 세우는 모습"
+          }
+        ],
+        "caption": "올여름, 일본 여행 계획 중이라면 주목!✨\n\n지금 라쿠텐 트래블에서 진행하는 '얼리 서머 페어'를 통해 최대 25% 할인된 가격으로 일본 숙소를 예약할 수 있다는 사실!\n\n6월 1일까지 진행되는 이번 프로모션 기간에 라쿠텐 쿠폰과 숙소 쿠폰을 함께 사용하면 더욱 알뜰하게 이용 가능해요.\n\n특히 'TAOYA 아타미' 같은 곳에서는 인피니티 온천과 맛있는 해산물까지 즐길 수 있다고 하니, 이번 여름 휴가는 일본으로 떠나보는 건 어떨까요?\n\n#일본숙소 #일본여행 #료칸 #얼리버드 #일본할인 #플라잉재팬 #일본온천 #여름휴가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본료칸",
+          "#일본호텔",
+          "#일본할인",
+          "#라쿠텐트래블",
+          "#얼리버드",
+          "#여름휴가",
+          "#일본가볼만한곳",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본온천",
+          "#TAOYA아타미"
+        ],
+        "alt_texts": [
+          "일본 료칸에서 할인 혜택을 받는 모습",
+          "스마트폰으로 할인 쿠폰을 확인하는 모습",
+          "아타미의 아름다운 인피니티 온천",
+          "해변가에 위치한 멋진 일본 숙소",
+          "일본 여행 계획을 세우는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 숙소 할인 정보에 대한 관심 증가, 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 인기 숙소 정보 포함",
+      "image": {
+        "keyword": "Japan ryokan discount, infinity onsen, Japanese seafood, travel deal, early bird booking",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-ryokan-discount,-infinity-onsen,-Japanese-seafood,-travel-deal,-early-bird-booking",
+        "pexels_url": "https://www.pexels.com/search/Japan%20ryokan%20discount,%20infinity%20onsen,%20Japanese%20seafood,%20travel%20deal,%20early%20bird%20booking/"
+      }
+    },
     {
       "id": "plan_f9ed5cb4",
       "created_at": "2026-05-18T04:25:03.843362",
@@ -923,160 +1077,6 @@
         "keyword": "Disney parade, Shizuoka, Yaizu city, Duffy bus, Japan festival, travel information",
         "unsplash_url": "https://unsplash.com/s/photos/Disney-parade,-Shizuoka,-Yaizu-city,-Duffy-bus,-Japan-festival,-travel-information",
         "pexels_url": "https://www.pexels.com/search/Disney%20parade,%20Shizuoka,%20Yaizu%20city,%20Duffy%20bus,%20Japan%20festival,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_d9bc371d",
-      "created_at": "2026-05-15T04:12:41.840494",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】横浜駅「横濱チャーハン」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2108829.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 현지 맛집 특화! 한국인이 사랑하는 꿀맛 역대급 도시락 등장!"
-      },
-      "content": {
-        "thumbnail_title": "Yokohama チャーハン 도시락 🍱",
-        "cards": [
-          {
-            "title": "崎陽軒 신메뉴?",
-            "content": "일본 요코하마역의 명물, 崎陽軒에서 '横濱チャーハン' 도시락을 선보입니다. 시우마이 도시락과 함께 꾸준히 사랑받는 스테디셀러 메뉴입니다.",
-            "alt_text": "요코하마역 崎陽軒 매장 전경"
-          },
-          {
-            "title": "' 横濱チャーハン' 메뉴",
-            "content": "풍부한 맛의 볶음밥과 곁들여 먹기 좋은 다양한 반찬들로 구성되어 있습니다. 든든하고 맛있는 한 끼 식사로 제격입니다.",
-            "alt_text": "横濱チャーハン 도시락의 먹음직스러운 비주얼"
-          },
-          {
-            "title": "추천 대상",
-            "content": "일본 현지에서 특별한 식사를 경험하고 싶은 여행객, 든든한 점심/저녁 식사를 찾는 분들에게 강력 추천합니다.",
-            "alt_text": "도시락을 맛있게 먹고 있는 여행객 모습"
-          },
-          {
-            "title": "구매 팁",
-            "content": "요코하마역 내 崎陽軒 매장에서 구매 가능하며, 여행 중 기차 안에서 즐기기에도 안성맞춤입니다.",
-            "alt_text": "요코하마역 崎陽軒 매장 내부"
-          },
-          {
-            "title": "꿀팁",
-            "content": "崎陽軒의 다른 인기 도시락인 '시우마이弁当'와 비교하며 맛보는 재미도 쏠쏠합니다. 현지인처럼 즐겨보세요!",
-            "alt_text": "시우마이弁当와 横濱チャーハン 도시락을 함께 놓은 모습"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 🇯🇵 요코하마역에서 꼭 맛봐야 할 '横濱チャーハン' 도시락을 소개합니다. 崎陽軒의 시그니처 메뉴로, 든든하고 맛있는 한 끼를 책임질 거예요! 🍱\n\n여행 중 간편하지만 특별한 식사를 원한다면 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#요코하마",
-          "#요코하마역",
-          "#崎陽軒",
-          "#도시락",
-          "#일본맛집",
-          "#일본음식",
-          "#일본여행꿀팁",
-          "#여행에미치다",
-          "#일본현지",
-          "#혼행",
-          "#커플여행",
-          "#가족여행",
-          "#먹방여행"
-        ],
-        "alt_texts": [
-          "요코하마역 崎陽軒 매장 전경",
-          "横濱チャーハン 도시락의 먹음직스러운 비주얼",
-          "도시락을 맛있게 먹고 있는 여행객 모습",
-          "요코하마역 崎陽軒 매장 내부",
-          "시우마이弁当와 横濱チャーハン 도시락을 함께 놓은 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 요코하마 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (저녁 식사 시간대) / 기대 반응: 도시락 구매 욕구 자극, 요코하마 여행 계획 시 맛집 탐방 리스트 포함 / 이 콘텐츠의 강점: 일본 현지 인기 맛집의 특화된 메뉴 소개로 타겟의 즉각적인 관심 유도",
-      "image": {
-        "keyword": "Yokohama train station bento box, Kiyoken restaurant, Japanese lunch box, fried rice bento, Yokohama food",
-        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-train-station-bento-box,-Kiyoken-restaurant,-Japanese-lunch-box,-fried-rice-bento,-Yokohama-food",
-        "pexels_url": "https://www.pexels.com/search/Yokohama%20train%20station%20bento%20box,%20Kiyoken%20restaurant,%20Japanese%20lunch%20box,%20fried%20rice%20bento,%20Yokohama%20food/"
-      }
-    },
-    {
-      "id": "plan_48a9cb4e",
-      "created_at": "2026-05-15T04:12:33.909218",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "鹿児島市で1泊最大6000円引きに。西郷どんに「愛にいこう、かごしま。」宿泊クーポン第2期スタート",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2108992.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가고시마 숙박비 최대 6,000엔 할인! 놓치면 후회할 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🌸가고시마 6천엔 할인쿠폰!🌸",
-        "cards": [
-          {
-            "title": "숙박 할인 쿠폰",
-            "content": "가고시마시에서 '서이공, 가고시마' 숙박 할인 캠페인 2기 판매를 시작했습니다. 1박당 최대 6,000엔까지 할인받을 수 있어요.",
-            "alt_text": "할인 쿠폰 이미지를 보여주는 사진"
-          },
-          {
-            "title": "할인 기간",
-            "content": "5월 15일부터 2기 판매가 시작되었으며, 선착순으로 진행되니 서둘러 신청하세요!",
-            "alt_text": "달력에 표시된 5월 15일 날짜"
-          },
-          {
-            "title": "쿠폰 사용처",
-            "content": "가고시마시 내 등록된 숙박 시설에서 이용 가능하며, 자세한 숙소 목록은 공식 홈페이지를 확인하세요.",
-            "alt_text": "다양한 호텔과 료칸 이미지를 보여주는 콜라주"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "1박당 최대 6,000엔 할인은 물론, 지역 특산품이나 체험권 증정 등 추가 혜택이 있을 수 있습니다.",
-            "alt_text": "고가의 숙박권이 할인되는 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "가고시마 여행 계획 중이라면 이번 기회를 놓치지 마세요! 숙박비 절약하고 더욱 풍성한 여행을 즐길 수 있습니다.",
-            "alt_text": "즐겁게 여행하는 사람들의 모습"
-          }
-        ],
-        "caption": "🎉가고시마 여행 필수 정보!🎉\n\n1박 최대 6,000엔 할인받고 가고시마 알뜰하게 여행하세요!\n'서이공, 가고시마' 숙박 할인 캠페인 2기가 시작되었습니다.\n\n📅 5월 15일부터 판매 시작 (선착순)\n💰 1박당 최대 6,000엔 할인\n\n가고시마 여행 계획 있다면 지금 바로 확인하세요!\n\n#일본여행 #가고시마 #숙박할인 #여행꿀팁 #가고시마여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#가고시마",
-          "#가고시마여행",
-          "#일본숙박",
-          "#숙박할인",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#할인정보",
-          "#여행꿀팁",
-          "#일본추천"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지를 보여주는 사진",
-          "달력에 표시된 5월 15일 날짜",
-          "다양한 호텔과 료칸 이미지를 보여주는 콜라주",
-          "고가의 숙박권이 할인되는 이미지",
-          "즐겁게 여행하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 가고시마 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 7시~9시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 즉각적으로 활용 가능한 구체적인 할인 정보 제공",
-      "image": {
-        "keyword": "Kagoshima accommodation discount coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Kagoshima-accommodation-discount-coupon",
-        "pexels_url": "https://www.pexels.com/search/Kagoshima%20accommodation%20discount%20coupon/"
       }
     }
   ]
