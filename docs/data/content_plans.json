@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-19T04:20:44.510221",
+  "last_updated": "2026-05-20T00:18:14.682263",
   "plans": [
+    {
+      "id": "plan_1e3c5eb8",
+      "created_at": "2026-05-20T00:18:12.682089",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "京都の老舗ロースター「小川珈琲」無印良品の宿に新店オープン。おばんざい×食パンが斬新な限定モーニングを食べてきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109211.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토 여행 중 놓치면 후회할 역대급 신상 모닝 메뉴!"
+      },
+      "content": {
+        "thumbnail_title": "☕️교토 신상카페 오픈!",
+        "cards": [
+          {
+            "title": "오픈 정보",
+            "content": "2024년 5월 20일, 교토 기요미즈데라 근처에 '무인양품 숙소'와 함께 '오가와 커피' 신규 지점이 문을 엽니다. 교토의 명소인 기요미즈데라를 방문할 예정이라면 꼭 들러보세요!",
+            "alt_text": "교토에 새롭게 오픈하는 오가와 커피와 무인양품 숙소 외관 이미지"
+          },
+          {
+            "title": "특별한 메뉴",
+            "content": "오가와 커피의 새로운 거점이 되는 이곳에서는 '오반자이(일본식 반찬)'와 '식빵'을 결합한 독창적인 한정 모닝 메뉴를 선보입니다. 익숙하면서도 새로운 맛의 조화를 경험해 보세요.",
+            "alt_text": "오반자이와 식빵이 함께 나오는 독특한 모닝 메뉴 이미지"
+          },
+          {
+            "title": "교토의 맛",
+            "content": "1952년부터 이어져 온 교토의 유명 로스터리 카페 '오가와 커피'가 선보이는 특별한 아침 식사입니다. 교토의 전통과 현대적인 감각이 어우러진 맛을 즐길 수 있습니다.",
+            "alt_text": "오가와 커피의 시그니처 커피와 디저트 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "주소는 일본 교토시 히가시야마구 기요미즈 4-171입니다. 기요미즈데라에서 도보로 이동 가능한 가까운 거리에 위치해 있어 관광 중 편리하게 방문할 수 있습니다.",
+            "alt_text": "기요미즈데라와 오가와 커피 신규 지점 위치를 표시한 지도 이미지"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "오픈 초기에는 많은 방문객으로 붐빌 수 있으니, 조금 이른 시간에 방문하는 것을 추천합니다. 한정 모닝 메뉴는 기간 한정일 수 있으니, 방문 전 SNS 등을 통해 확인하는 것이 좋습니다.",
+            "alt_text": "커피와 함께 여유로운 아침 시간을 보내는 사람들의 모습 이미지"
+          }
+        ],
+        "caption": "🇯🇵 교토 여행 필수 코스 등장! 5월 20일, 기요미즈데라 근처에 '무인양품 숙소'와 함께 '오가와 커피' 신규 지점이 오픈합니다. 🍵 교토의 유명 로스터리가 선보이는 '오반자이 x 식빵' 한정 모닝 메뉴를 절대 놓치지 마세요!  ✨ 교토의 새로운 맛집, 지금 바로 확인하세요! #교토여행 #오가와커피 #무인양품숙소 #교토카페 #일본신상",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#교토카페",
+          "#오가와커피",
+          "#무인양품숙소",
+          "#일본신상",
+          "#교토맛집",
+          "#일본카페",
+          "#오반자이",
+          "#교토가볼만한곳",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#카페투어",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "교토에 새롭게 오픈하는 오가와 커피와 무인양품 숙소 외관 이미지",
+          "오반자이와 식빵이 함께 나오는 독특한 모닝 메뉴 이미지",
+          "오가와 커피의 시그니처 커피와 디저트 이미지",
+          "기요미즈데라와 오가와 커피 신규 지점 위치를 표시한 지도 이미지",
+          "커피와 함께 여유로운 아침 시간을 보내는 사람들의 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 교토 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 정보 공유 및 저장, 방문 계획 문의 / 이 콘텐츠의 강점: 교토의 최신 핫플레이스 정보와 독특한 메뉴 소개로 호기심 자극",
+      "image": {
+        "keyword": "Kyoto new cafe opening, Ogawa Coffee MUJI BASE KYOTO kiyomizu, unique morning set, traditional Japanese breakfast, Kiyomizu-dera area",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-new-cafe-opening,-Ogawa-Coffee-MUJI-BASE-KYOTO-kiyomizu,-unique-morning-set,-traditional-Japanese-breakfast,-Kiyomizu-dera-area",
+        "pexels_url": "https://www.pexels.com/search/Kyoto%20new%20cafe%20opening,%20Ogawa%20Coffee%20MUJI%20BASE%20KYOTO%20kiyomizu,%20unique%20morning%20set,%20traditional%20Japanese%20breakfast,%20Kiyomizu-dera%20area/"
+      }
+    },
+    {
+      "id": "plan_65e067dc",
+      "created_at": "2026-05-20T00:18:03.892002",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ニトリ最小のハンディファン。ポケットに入るクリアボディの2色",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2109961.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템! 니토리 신상 휴대용 선풍기로 시원하게 여름을 대비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "니토리 휴대용 선풍기 출시! 💨",
+        "cards": [
+          {
+            "title": "니토리 신상",
+            "content": "니토리에서 '미니 고속 팬(MN07NR)'을 5월 초 출시했어요. 주머니에 쏙 들어가는 컴팩트한 사이즈가 특징입니다.",
+            "alt_text": "니토리 미니 고속 팬 제품 이미지"
+          },
+          {
+            "title": "가격 확인",
+            "content": "가격은 1,990엔으로, 부담 없이 구매할 수 있어요. 여름철 일본 여행 시 유용할 거예요.",
+            "alt_text": "니토리 미니 고속 팬 가격 정보"
+          },
+          {
+            "title": "투명 디자인",
+            "content": "클리어 바디 디자인으로 2가지 색상으로 출시되었어요. 시원하고 세련된 느낌을 줍니다.",
+            "alt_text": "니토리 미니 고속 팬 투명 바디 디자인"
+          },
+          {
+            "title": "휴대성 최고",
+            "content": "최소형 사이즈로 제작되어 가방이나 주머니에 간편하게 휴대할 수 있습니다. 더운 날씨에도 시원함을 유지하세요.",
+            "alt_text": "휴대용으로 사용 중인 니토리 미니 고속 팬"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "일본 편의점이나 드럭스토어에서도 휴대용 선풍기를 쉽게 구할 수 있지만, 미리 준비해가면 더 좋겠죠? 특히 7-8월 일본은 매우 더워요!",
+            "alt_text": "일본 편의점 쇼핑 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템! ☀️ 니토리에서 초소형 휴대용 선풍기가 출시되었어요!\n\n주머니에 쏙 들어가는 컴팩트한 사이즈에 1,990엔이라는 합리적인 가격으로 만나볼 수 있답니다.\n\n투명 바디 디자인으로 2가지 색상이 나왔으니, 취향에 맞게 골라보세요!\n\n올여름, 시원한 일본 여행을 위한 완벽한 준비!\n\n#니토리 #휴대용선풍기 #일본쇼핑 #여름준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#니토리",
+          "#휴대용선풍기",
+          "#일본쇼핑",
+          "#일본여름",
+          "#일본필수템",
+          "#여행준비",
+          "#일본생활",
+          "#엔저",
+          "#일본꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여름휴가",
+          "#일본직구"
+        ],
+        "alt_texts": [
+          "니토리 미니 고속 팬 제품 이미지",
+          "니토리 미니 고속 팬 가격 정보",
+          "니토리 미니 고속 팬 투명 바디 디자인",
+          "휴대용으로 사용 중인 니토리 미니 고속 팬",
+          "일본 편의점 쇼핑 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 구매 의욕 고취 / 이 콘텐츠의 강점: 실용적인 정보와 합리적인 가격 제시",
+      "image": {
+        "keyword": "Nitori mini portable fan, clear body, travel essential, Japan summer",
+        "unsplash_url": "https://unsplash.com/s/photos/Nitori-mini-portable-fan,-clear-body,-travel-essential,-Japan-summer",
+        "pexels_url": "https://www.pexels.com/search/Nitori%20mini%20portable%20fan,%20clear%20body,%20travel%20essential,%20Japan%20summer/"
+      }
+    },
     {
       "id": "plan_864e68ef",
       "created_at": "2026-05-19T04:20:42.510056",
@@ -923,160 +1077,6 @@
         "keyword": "hotel, Japan, Hamamatsu, Shizuoka, new hotel, onsen, sauna, travel, 2027",
         "unsplash_url": "https://unsplash.com/s/photos/hotel,-Japan,-Hamamatsu,-Shizuoka,-new-hotel,-onsen,-sauna,-travel,-2027",
         "pexels_url": "https://www.pexels.com/search/hotel,%20Japan,%20Hamamatsu,%20Shizuoka,%20new%20hotel,%20onsen,%20sauna,%20travel,%202027/"
-      }
-    },
-    {
-      "id": "plan_0baeffb4",
-      "created_at": "2026-05-16T03:54:55.304202",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本びゅう、大人の休日俱楽部パス×宿だけプラン利用で1万ポイント当たる。えきねっと限定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109053.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 동일본 대사철 이용 시 놓치면 후회할 포인트 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "JR 동일본 1만 포인트 득템 찬스!💰",
-        "cards": [
-          {
-            "title": "캠페인 기간",
-            "content": "JR 동일본 '어른의 휴일 클럽 패스 × 숙박만 플랜' 이용 시 JRE POINT 1만 점 증정 캠페인이 7월 4일까지 진행됩니다.",
-            "alt_text": "캠페인 기간 안내 캘린더 이미지"
-          },
-          {
-            "title": "숙박 대상 기간",
-            "content": "숙박은 6월 22일부터 7월 4일까지 가능하며, '어른의 휴일 클럽' 회원(미들 회원, 지팡구 회원)만 참여 가능합니다.",
-            "alt_text": "숙박 기간 안내 이미지"
-          },
-          {
-            "title": "JRE POINT 혜택",
-            "content": "해당 플랜 이용 시 1만 JRE POINT를 받을 수 있으며, 이 포인트는 JR 동일본 관련 서비스 이용 시 현금처럼 사용할 수 있습니다.",
-            "alt_text": "JRE POINT 로고 및 혜택 설명 이미지"
-          },
-          {
-            "title": "이용 방법",
-            "content": "JR 동일본 공식 웹사이트 '에키네트'에서 '어른의 휴일 클럽 패스 × 숙박만 플랜'을 예약 및 결제하면 자동으로 응모됩니다.",
-            "alt_text": "에키네트 웹사이트 예약 화면 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "일본 내에서 JR 동일본 지역을 여행 계획 중이라면, 숙박과 함께 포인트 혜택까지 챙길 수 있는 절호의 기회입니다. 서둘러 예약하세요!",
-            "alt_text": "일본 기차 여행 이미지"
-          }
-        ],
-        "caption": "JR 동일본 여행 계획 중이신가요? 🚄\n\n'어른의 휴일 클럽 패스 × 숙박만 플랜' 이용 시 7월 4일까지 JRE POINT 1만 점을 받을 수 있는 특별한 캠페인이 진행 중입니다! 🤩\n\n6월 22일부터 7월 4일까지의 숙박이 대상이며, '어른의 휴일 클럽' 회원이라면 누구나 참여 가능해요.\n\n에키네트에서 예약하고 포인트 혜택도 놓치지 마세요! 😉\n\n#일본여행 #JR동일본 #어른의휴일클럽 #JREPOINT #일본숙박 #일본교통 #에키네트 #여행혜택 #일본여행정보 #일본여행꿀팁 #여행스타그램 #플라잉재팬 #일본자유여행 #일본패스 #여행이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#어른의휴일클럽",
-          "#JREPOINT",
-          "#일본숙박",
-          "#일본교통",
-          "#에키네트",
-          "#여행혜택",
-          "#일본여행정보",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#일본패스",
-          "#여행이벤트"
-        ],
-        "alt_texts": [
-          "캠페인 기간 안내 캘린더 이미지",
-          "숙박 기간 안내 이미지",
-          "JRE POINT 로고 및 혜택 설명 이미지",
-          "에키네트 웹사이트 예약 화면 이미지",
-          "일본 기차 여행 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: JR 동일본 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 획득 및 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 금전적 혜택 제공, 예약 마감 임박 정보로 긴급성 부여",
-      "image": {
-        "keyword": "JR East, adult holiday club pass, accommodation plan, JRE POINT campaign, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-East,-adult-holiday-club-pass,-accommodation-plan,-JRE-POINT-campaign,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/JR%20East,%20adult%20holiday%20club%20pass,%20accommodation%20plan,%20JRE%20POINT%20campaign,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_3b025797",
-      "created_at": "2026-05-16T03:54:47.932006",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "関越道で渋滞回避キャンペーン。「軽井沢・プリンスショッピングプラザ」18時以降の出発で最大1000円分ポイント",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109170.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 예상치 못한 교통 체증을 피하고 쇼핑 혜택까지 받을 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "🚗🛣️1000엔 득템! 渋滞回避",
-        "cards": [
-          {
-            "title": "핵심 정보",
-            "content": "일본 NEXCO 동일본에서 6월, 7월 주말 및 공휴일에 간에츠 자동차도 혼잡 완화를 위한 캠페인을 진행합니다.",
-            "alt_text": "간에츠 자동차도 혼잡 완화 캠페인 안내 이미지"
-          },
-          {
-            "title": "캠페인 기간",
-            "content": "총 17일간, 2024년 6월 1일(토)부터 7월 21일(일)까지 주말 및 공휴일에 실시됩니다.",
-            "alt_text": "캠페인 기간을 나타내는 달력 이미지"
-          },
-          {
-            "title": "혜택 내용",
-            "content": "오후 6시 이후에 출발하는 경우, '카루이자와 프린스 쇼핑 플라자'에서 최대 1,000엔 상당의 포인트(이용 금액의 10%, 최대 1,000엔)를 증정합니다.",
-            "alt_text": "1,000엔 상당 포인트 증정 혜택 이미지"
-          },
-          {
-            "title": "이용 방법",
-            "content": "캠페인 참여는 사전 등록이 필요하며, 캠페인 웹사이트에서 자세한 내용을 확인하고 신청할 수 있습니다.",
-            "alt_text": "캠페인 참여 방법 안내 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "카루이자와 지역으로 이동 계획이 있다면, 이 캠페인을 활용하여 교통 체증을 피하고 쇼핑 혜택까지 누리세요! 늦은 오후 출발 시 더욱 유용합니다.",
-            "alt_text": "카루이자와 지역 쇼핑 플라자 전경 이미지"
-          }
-        ],
-        "caption": "일본 카루이자와 여행 계획 중이신가요? 🚗🛣️\n\n6월, 7월 주말 및 공휴일에 간에츠 자동차도 혼잡 완화를 위한 특별 캠페인이 진행됩니다!\n\n✅ 오후 6시 이후 출발 시, 카루이자와 프린스 쇼핑 플라자에서 최대 1,000엔 상당의 포인트 증정!\n\n교통 체증도 피하고 쇼핑 혜택까지 챙길 수 있는 절호의 기회! 놓치지 마세요 😉\n\n#일본여행 #카루이자와 #프린스쇼핑플라자 #간에츠자동차도 #교통정보 #일본쇼핑 #여행꿀팁 #플라잉재팬 #일본정복 #일본생활 #일본정보 #여행스타그램 #일본자유여행 #해외여행 #일본교통",
-        "hashtags": [
-          "#일본여행",
-          "#카루이자와",
-          "#프린스쇼핑플라자",
-          "#간에츠자동차도",
-          "#교통정보",
-          "#일본쇼핑",
-          "#여행꿀팁",
-          "#플라잉재팬",
-          "#일본정복",
-          "#일본생활",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#해외여행",
-          "#일본교통"
-        ],
-        "alt_texts": [
-          "간에츠 자동차도 혼잡 완화 캠페인 안내 이미지",
-          "캠페인 기간을 나타내는 달력 이미지",
-          "1,000엔 상당 포인트 증정 혜택 이미지",
-          "캠페인 참여 방법 안내 이미지",
-          "카루이자와 지역 쇼핑 플라자 전경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 카루이자와 지역 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 교통 체증 회피 정보와 쇼핑 혜택을 동시에 제공하여 여행 만족도를 높일 수 있음.",
-      "image": {
-        "keyword": "Karuizawa Prince Shopping Plaza, Kanetsu Expressway, traffic jam avoidance campaign, Japan travel tips, shopping discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Karuizawa-Prince-Shopping-Plaza,-Kanetsu-Expressway,-traffic-jam-avoidance-campaign,-Japan-travel-tips,-shopping-discount",
-        "pexels_url": "https://www.pexels.com/search/Karuizawa%20Prince%20Shopping%20Plaza,%20Kanetsu%20Expressway,%20traffic%20jam%20avoidance%20campaign,%20Japan%20travel%20tips,%20shopping%20discount/"
       }
     }
   ]
