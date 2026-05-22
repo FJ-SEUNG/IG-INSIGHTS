@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-21T04:38:53.099665",
+  "last_updated": "2026-05-22T00:15:55.625737",
   "plans": [
+    {
+      "id": "plan_51c02dff",
+      "created_at": "2026-05-22T00:15:53.625491",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "3COINS、初夏のWeb限定タイムセール。猛暑対策グッズが20％オフ、手のひらサイズのトイカメラも2475円～に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2110746.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 쇼핑 필수템, 3COINS 꿀템 20% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "3COINS 20% 할인! 🛍️",
+        "cards": [
+          {
+            "title": "3COINS 세일",
+            "content": "일본 3COINS 온라인 스토어에서 '얼리 서머 세일' 진행 중! 猛暑対策グッズ(폭염 대책 용품) 및 인기 상품 20% 할인.",
+            "alt_text": "3COINS 매장 전경"
+          },
+          {
+            "title": "세일 기간",
+            "content": "세일은 5월 21일 12시부터 5월 25일 13시까지 진행됩니다. 실물 매장은 할인 대상이 아니니 주의하세요!",
+            "alt_text": "달력에 표시된 세일 기간"
+          },
+          {
+            "title": "할인 품목",
+            "content": "특히 여름철 필수템인 猛暑対策グッズ(폭염 대책 용품)를 20% 할인된 가격으로 만나볼 수 있습니다.",
+            "alt_text": "여름철 3COINS 상품 이미지"
+          },
+          {
+            "title": "추가 상품",
+            "content": "귀여운 손바닥 크기의 토이 카메라도 2475엔부터 구매 가능합니다. 여행 기념품으로도 좋아요!",
+            "alt_text": "3COINS 토이 카메라 이미지"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "일본 여행 중 3COINS 방문 예정이라면, 온라인 스토어에서 미리 할인 품목을 확인하고 방문하면 더욱 알찬 쇼핑이 가능합니다. (단, 세일은 온라인 한정!)",
+            "alt_text": "쇼핑백을 들고 있는 사람 이미지"
+          }
+        ],
+        "caption": "일본 3COINS에서 여름맞이 특별 할인! ☀️\n\n5월 21일 12시부터 5월 25일 13시까지, 3COINS 공식 온라인 스토어에서 '얼리 서머 세일'이 진행됩니다.\n\n특히 여름 필수템인 폭염 대책 용품을 20% 할인된 가격으로 득템할 기회! 💯\n\n여행 중 꼭 들러야 할 3COINS, 온라인으로 미리 핫딜 확인하고 알찬 쇼핑하세요! ✈️\n\n#일본여행 #3COINS #일본쇼핑 #할인정보 #온라인세일 #폭염대책 #여행필수템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#3COINS",
+          "#일본쇼핑",
+          "#일본쇼핑리스트",
+          "#일본직구",
+          "#일본핫딜",
+          "#일본생활용품",
+          "#일본가성비",
+          "#일본여행꿀팁",
+          "#일본여행정보",
+          "#일본여행준비",
+          "#일본여행스타그램",
+          "#일본드럭스토어",
+          "#일본쇼핑찬스"
+        ],
+        "alt_texts": [
+          "3COINS 매장 전경",
+          "달력에 표시된 세일 기간",
+          "여름철 3COINS 상품 이미지",
+          "3COINS 토이 카메라 이미지",
+          "쇼핑백을 들고 있는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 여성 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 세일 정보에 대한 높은 관심, 쇼핑 관련 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 기간 명시, 구매 욕구 자극",
+      "image": {
+        "keyword": "3COINS, Japan, sale, summer goods, discount, online store, shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/3COINS,-Japan,-sale,-summer-goods,-discount,-online-store,-shopping",
+        "pexels_url": "https://www.pexels.com/search/3COINS,%20Japan,%20sale,%20summer%20goods,%20discount,%20online%20store,%20shopping/"
+      }
+    },
+    {
+      "id": "plan_08ff66c0",
+      "created_at": "2026-05-22T00:15:35.819246",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "TAOYA下呂、1泊2食バイキングが最大25％オフ。南飛騨の眺望が美しいオールインクルーシブ温泉宿",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2110752.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 최대 25% 할인 찬스! 료칸 숙박 비용 절약 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "일본 료칸 25% 할인! ♨️",
+        "cards": [
+          {
+            "title": "얼리 서머 페어",
+            "content": "일본 료칸 숙박비 최대 25% 할인을 받을 수 있는 '얼리 서머 페어'가 6월 1일까지 진행됩니다.",
+            "alt_text": "일본 료칸 숙박 할인 행사 포스터"
+          },
+          {
+            "title": "할인 받는 법",
+            "content": "여행 예약 사이트에서 제공하는 '숙소 쿠폰'과 '할인 쿠폰'을 함께 사용하면 최대 25%까지 할인 혜택을 누릴 수 있습니다.",
+            "alt_text": "할인 쿠폰 사용 방법 안내 이미지"
+          },
+          {
+            "title": "TAOYA下呂",
+            "content": "이번 페어 대상 숙소 중 하나인 TAOYA下呂는 남 히다 지역의 아름다운 전망을 자랑하는 올인클루시브 온천 료칸입니다.",
+            "alt_text": "TAOYA下呂 료칸 외관 및 전경 사진"
+          },
+          {
+            "title": "객실 및 식사",
+            "content": "모든 객실에서 온천을 즐길 수 있으며, 1박 2식 뷔페가 포함된 플랜으로 만족스러운 식사를 경험할 수 있습니다.",
+            "alt_text": "TAOYA下呂 료칸 객실 내부 및 뷔페 음식 사진"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "여름 휴가철 일본 온천 여행을 계획 중이라면, 이번 할인 기간을 놓치지 말고 미리 예약하여 알뜰하게 여행하세요!",
+            "alt_text": "일본 온천 여행 계획을 세우는 사람 이미지"
+          }
+        ],
+        "caption": "일본 온천 료칸 숙박비 최대 25% 할인 찬스! ♨️\n\n6월 1일까지 진행되는 '얼리 서머 페어' 기간 동안, 특별 할인 쿠폰을 활용하면 TAOYA下呂 등 아름다운 료칸을 더욱 저렴하게 예약할 수 있어요!\n\n여름 휴가철 일본 온천 여행, 놓치지 마세요! ✈️\n\n#일본여행 #료칸할인 #온천여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본료칸",
+          "#온천여행",
+          "#일본숙소",
+          "#료칸추천",
+          "#일본온천",
+          "#일본여행준비",
+          "#얼리버드할인",
+          "#여름휴가",
+          "#TAOYA下呂",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "일본 료칸 숙박 할인 행사 포스터",
+          "할인 쿠폰 사용 방법 안내 이미지",
+          "TAOYA下呂 료칸 외관 및 전경 사진",
+          "TAOYA下呂 료칸 객실 내부 및 뷔페 음식 사진",
+          "일본 온천 여행 계획을 세우는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가철 일본 온천 여행을 계획하는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 활발 / 이 콘텐츠의 강점: 구체적인 할인율과 마감일 명시, 타겟에게 직접적인 혜택 제공",
+      "image": {
+        "keyword": "japan ryokan discount, onsen hotel summer sale, TAOYA Gero, early summer fair japan",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-ryokan-discount,-onsen-hotel-summer-sale,-TAOYA-Gero,-early-summer-fair-japan",
+        "pexels_url": "https://www.pexels.com/search/japan%20ryokan%20discount,%20onsen%20hotel%20summer%20sale,%20TAOYA%20Gero,%20early%20summer%20fair%20japan/"
+      }
+    },
     {
       "id": "plan_fbb1cc46",
       "created_at": "2026-05-21T04:38:51.099468",
@@ -923,160 +1077,6 @@
         "keyword": "Japan ryokan discount, infinity onsen, Japanese seafood, travel deal, early bird booking",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-ryokan-discount,-infinity-onsen,-Japanese-seafood,-travel-deal,-early-bird-booking",
         "pexels_url": "https://www.pexels.com/search/Japan%20ryokan%20discount,%20infinity%20onsen,%20Japanese%20seafood,%20travel%20deal,%20early%20bird%20booking/"
-      }
-    },
-    {
-      "id": "plan_f9ed5cb4",
-      "created_at": "2026-05-18T04:25:03.843362",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "京都・清水に誕生した無印良品のホテル「MUJI BASE」に泊まってみた。全4タイプの客室と館内サービスをまるごと紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109244.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "무인양품이 만든 교토 숙소, 지금 바로 예약하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵교토 무인양품 호텔 오픈!🏨",
-        "cards": [
-          {
-            "title": "MUJI BASE 오픈!",
-            "content": "교토 기요미즈에 무인양품 호텔 'MUJI BASE KYOTO kiyomizu'가 5월 20일에 문을 열어요. 무인양품만의 감성을 담은 특별한 숙소를 경험할 수 있습니다.",
-            "alt_text": "교토 기요미즈에 오픈한 MUJI BASE KYOTO kiyomizu 외관"
-          },
-          {
-            "title": "4가지 객실",
-            "content": "총 4가지 타입의 객실이 준비되어 있으며, 각 객실은 무인양품 특유의 미니멀하고 편안한 디자인으로 꾸며져 있습니다. 나에게 맞는 객실을 선택해보세요.",
-            "alt_text": "MUJI BASE KYOTO kiyomizu 내부 객실 모습"
-          },
-          {
-            "title": "특별한 부대시설",
-            "content": "단순히 숙박만 제공하는 것이 아니라, 무인양품의 제품들을 체험하고 구매할 수 있는 공간과 함께 다양한 편의시설을 갖추고 있습니다.",
-            "alt_text": "MUJI BASE KYOTO kiyomizu 내 무인양품 제품 진열 모습"
-          },
-          {
-            "title": "교토 명소 접근성",
-            "content": "유네스코 세계문화유산인 기요미즈데라와 인접해 있어 관광하기에 최적의 위치를 자랑합니다. 교토의 아름다움을 만끽할 수 있습니다.",
-            "alt_text": "MUJI BASE KYOTO kiyomizu에서 보이는 교토 거리 풍경"
-          },
-          {
-            "title": "예약 꿀팁",
-            "content": "인기가 많을 것으로 예상되니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 공식 웹사이트를 통해 예약 가능합니다.",
-            "alt_text": "MUJI BASE KYOTO kiyomizu 예약 페이지 캡쳐 화면"
-          }
-        ],
-        "caption": "✨교토 여행 필수 코스 등장!✨ \n무인양품이 직접 만든 호텔 'MUJI BASE KYOTO kiyomizu'가 5월 20일 오픈했어요!\n\n✅ 4가지 타입의 객실\n✅ 무인양품 제품 체험 & 구매 가능\n✅ 기요미즈데라 도보 거리\n\n교토에서 특별한 경험을 원한다면, 지금 바로 예약하세요! ✈️\n\n#MUJIBASE #교토숙소 #일본호텔",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토",
-          "#교토여행",
-          "#무인양품",
-          "#MUJIHOTEL",
-          "#MUJIBASEKYOTO",
-          "#일본숙소",
-          "#교토숙소추천",
-          "#기요미즈데라",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여행정보",
-          "#신상호텔",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "교토 기요미즈에 오픈한 MUJI BASE KYOTO kiyomizu 외관",
-          "MUJI BASE KYOTO kiyomizu 내부 객실 모습",
-          "MUJI BASE KYOTO kiyomizu 내 무인양품 제품 진열 모습",
-          "MUJI BASE KYOTO kiyomizu에서 보이는 교토 거리 풍경",
-          "MUJI BASE KYOTO kiyomizu 예약 페이지 캡쳐 화면"
-        ]
-      },
-      "marketer_analysis": "타겟: 교토를 방문하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 1-3시 / 기대 반응: 높은 예약 문의 및 공유 / 이 콘텐츠의 강점: 신규 오픈 호텔 정보, 브랜드 인지도 활용, 교토 핵심 관광지 접근성 강조",
-      "image": {
-        "keyword": "MUJI BASE KYOTO kiyomizu, Kyoto hotel, Japan travel, minimalist hotel room, Kiyomizu-dera",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI-BASE-KYOTO-kiyomizu,-Kyoto-hotel,-Japan-travel,-minimalist-hotel-room,-Kiyomizu-dera",
-        "pexels_url": "https://www.pexels.com/search/MUJI%20BASE%20KYOTO%20kiyomizu,%20Kyoto%20hotel,%20Japan%20travel,%20minimalist%20hotel%20room,%20Kiyomizu-dera/"
-      }
-    },
-    {
-      "id": "plan_fcce6417",
-      "created_at": "2026-05-18T04:24:58.091427",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "仙台市、1泊最大3000円助成「仙台プロスポ割」スタート。楽天イーグルスなど観戦＆宿泊で",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109461.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 최대 3000엔 숙박비 지원받는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "仙台 1박 3000엔 🏨",
-        "cards": [
-          {
-            "title": "프로스포 할인",
-            "content": "일본  Sendai 시에서 '센다이 프로스포 할인' 캠페인을 진행 중입니다. 1박 최대 3,000엔의 숙박비를 지원받을 수 있어요.",
-            "alt_text": "센다이 시에서 프로스포 할인 캠페인을 진행하고 있다는 안내 이미지"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "이 캠페인은 2027년 2월 28일까지 진행됩니다. 아직 2년 이상 남았으니 여유롭게 계획해 보세요!",
-            "alt_text": "캠페인 종료일까지 2년 이상 남았음을 알리는 달력 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "라쿠텐 이글스 등 프로 스포츠 경기 관람 티켓과 함께 숙박을 예약하면 할인을 받을 수 있습니다.",
-            "alt_text": "스포츠 경기 티켓과 호텔 숙박을 함께 예약하는 모습"
-          },
-          {
-            "title": "지원 대상",
-            "content": "센다이 시 내 숙박 시설 이용 시 적용되며, 스포츠 경기 관람과 연계된 특별 혜택입니다.",
-            "alt_text": "센다이 시 내 호텔에서 프로스포 할인이 적용됨을 나타내는 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "센다이 여행 계획 중이라면, 이 프로스포 할인을 활용하여 숙박비를 절약해 보세요! 스포츠 경기 일정 확인도 필수!",
-            "alt_text": "센다이 여행 시 프로스포 할인을 통해 숙박비를 절약하는 꿀팁 이미지"
-          }
-        ],
-        "caption": "일본 센다이 여행 계획 중이신가요? 🇯🇵\n\n무려 1박에 최대 3,000엔까지 숙박비를 지원해 주는 '센다이 프로스포 할인' 캠페인이 2027년 2월 28일까지 진행됩니다! 😮\n\n라쿠텐 이글스 등 프로 스포츠 경기 관람 티켓과 숙박을 함께 예약하면 혜택을 받을 수 있어요. 센다이 여행 시 꼭 활용해서 알뜰하게 다녀오세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#센다이",
-          "#센다이여행",
-          "#일본숙소",
-          "#숙박할인",
-          "#프로스포할인",
-          "#일본여행꿀팁",
-          "#일본여행정보",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#꿀팁"
-        ],
-        "alt_texts": [
-          "센다이 시에서 프로스포 할인 캠페인을 진행하고 있다는 안내 이미지",
-          "캠페인 종료일까지 2년 이상 남았음을 알리는 달력 이미지",
-          "스포츠 경기 티켓과 호텔 숙박을 함께 예약하는 모습",
-          "센다이 시 내 호텔에서 프로스포 할인이 적용됨을 나타내는 이미지",
-          "센다이 여행 시 프로스포 할인을 통해 숙박비를 절약하는 꿀팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 센다이 지역 여행 예정인 한국인 여행객 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 숙박비 절약에 대한 높은 관심, 센다이 여행 계획 재검토 / 이 콘텐츠의 강점: 구체적인 할인 금액, 명확한 종료 시점, 스포츠 경기 연계라는 흥미로운 혜택",
-      "image": {
-        "keyword": "Sendai, Japan, hotel discount, sports ticket, travel savings",
-        "unsplash_url": "https://unsplash.com/s/photos/Sendai,-Japan,-hotel-discount,-sports-ticket,-travel-savings",
-        "pexels_url": "https://www.pexels.com/search/Sendai,%20Japan,%20hotel%20discount,%20sports%20ticket,%20travel%20savings/"
       }
     }
   ]
