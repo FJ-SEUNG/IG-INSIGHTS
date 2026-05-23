@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-22T04:23:42.665350",
+  "last_updated": "2026-05-23T00:16:14.493727",
   "plans": [
+    {
+      "id": "plan_1da5c7c8",
+      "created_at": "2026-05-23T00:16:12.493522",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スカイマーク、ボーイング 737-8就航記念マグカップとバゲージタグを機内限定販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111034.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "새로운 일본 여행 필수템! 스카이마크 신기재 기념 굿즈 출시 정보"
+      },
+      "content": {
+        "thumbnail_title": "✈️스카이마크 신상 굿즈 공개!",
+        "cards": [
+          {
+            "title": "신규 기재",
+            "content": "스카이마크가 보잉 737-8 신규 기재 도입을 기념하여 특별한 굿즈를 선보입니다. ✈️",
+            "alt_text": "스카이마크 보잉 737-8 항공기 이미지"
+          },
+          {
+            "title": "한정 판매",
+            "content": "이번 기념 굿즈는 6월 1일부터 순차적으로 기내에서만 한정 판매될 예정입니다. 🛍️",
+            "alt_text": "항공기 내부에서 판매되는 기념품 이미지"
+          },
+          {
+            "title": "굿즈 종류",
+            "content": "기념 굿즈로는 '보잉 737-8 취항 기념 머그컵'과 '러기지 태그'가 준비되어 있습니다. 🎁",
+            "alt_text": "머그컵과 러기지 태그 이미지"
+          },
+          {
+            "title": "구매 찬스",
+            "content": "스카이마크 이용 예정이라면, 신기재 취항 기념 특별한 굿즈를 놓치지 마세요! ✈️",
+            "alt_text": "항공기 창밖으로 보이는 풍경 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "여행 기념품으로도 좋고, 일본 여행 추억을 간직하기에 안성맞춤입니다. 수량 한정으로 조기 품절될 수 있으니 서두르세요! 🏃‍♀️",
+            "alt_text": "여행 가방과 기념품이 함께 있는 이미지"
+          }
+        ],
+        "caption": "스카이마크에서 보잉 737-8 신규 기재 취항 기념 특별 굿즈를 선보입니다! ✈️ \n6월 1일부터 기내에서만 한정 판매되는 머그컵과 러기지 태그로 일본 여행의 특별한 추억을 만들어보세요. 🎁\n여행 기념품으로도 완벽! 서둘러 득템하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스카이마크",
+          "#일본항공",
+          "#항공굿즈",
+          "#여행필수템",
+          "#일본쇼핑",
+          "#기념품",
+          "#여행스타그램",
+          "#일본항공사",
+          "#보잉737",
+          "#여행정보",
+          "#일본",
+          "#해외여행",
+          "#굿즈"
+        ],
+        "alt_texts": [
+          "스카이마크 보잉 737-8 항공기 이미지",
+          "항공기 내부에서 판매되는 기념품 이미지",
+          "머그컵과 러기지 태그 이미지",
+          "항공기 창밖으로 보이는 풍경 이미지",
+          "여행 가방과 기념품이 함께 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 스카이마크 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 한정판 굿즈 정보로 희소성 강조",
+      "image": {
+        "keyword": "skymark airlines boeing 737-8 aircraft cabin souvenir mug luggage tag",
+        "unsplash_url": "https://unsplash.com/s/photos/skymark-airlines-boeing-737-8-aircraft-cabin-souvenir-mug-luggage-tag",
+        "pexels_url": "https://www.pexels.com/search/skymark%20airlines%20boeing%20737-8%20aircraft%20cabin%20souvenir%20mug%20luggage%20tag/"
+      }
+    },
+    {
+      "id": "plan_49b9e9c4",
+      "created_at": "2026-05-23T00:16:05.458652",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本初リニア・フォイトジェット採用！　広島～松山間の新船「AIVINT」乗船してきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111101.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "히로시마-마쓰야마 잇는 신규 페리 '아이빈트' 취항! 5월 24일부터!"
+      },
+      "content": {
+        "thumbnail_title": "🚢5/24 🚢히로시마-마쓰야마 신규 페리",
+        "cards": [
+          {
+            "title": "신규 페리 취항",
+            "content": "히로시마와 마쓰야마를 잇는 역사적인 항로에 새로운 여객선 '아이빈트(AIVINT)'가 5월 24일 취항합니다. 이 노선은 메이지 시대부터 이어져 온 깊은 역사를 자랑합니다.",
+            "alt_text": "새로운 일본 페리 '아이빈트'의 외관 모습"
+          },
+          {
+            "title": "첫 리니어・포이트젯",
+            "content": "새로운 여객선 '아이빈트'에는 일본 최초로 리니어・포이트젯 기술이 채택되었습니다. 더욱 빠르고 쾌적한 항해를 경험할 수 있습니다.",
+            "alt_text": "페리 내부에 설치된 첨단 기술 장비 이미지"
+          },
+          {
+            "title": "운항 구간",
+            "content": "이번에 새롭게 취항하는 '아이빈트'는 히로시마와 마쓰야마 구간을 운항합니다. 아름다운 세토내해의 풍경을 감상하며 이동할 수 있습니다.",
+            "alt_text": "일본 세토내해의 아름다운 바다 풍경"
+          },
+          {
+            "title": "페리 이름의 의미",
+            "content": "'아이빈트(AIVINT)'는 항구 도시인 히로시마의 옛 지명 '아키(安芸)'의 'A'와 마쓰야마가 속한 이요(伊予) 지역의 'I'를 따서 지어졌습니다. 두 지역의 연결을 상징합니다.",
+            "alt_text": "페리 이름 'AIVINT'가 새겨진 모습"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "히로시마와 마쓰야마를 잇는 새로운 교통수단으로, 두 도시를 묶어 여행 계획을 세우기 좋습니다. 새로운 페리를 타고 특별한 경험을 해보세요!",
+            "alt_text": "일본 페리에서 창밖을 바라보는 여행객의 모습"
+          }
+        ],
+        "caption": "🚢 5월 24일, 히로시마-마쓰야마 항로에 신규 페리 '아이빈트'가 취항합니다! 🚢\n일본 최초 리니어・포이트젯 기술 탑재로 더욱 빠르고 쾌적한 항해를 선사할 예정이에요.\n메이지 시대부터 이어진 역사적인 항로에서 아름다운 세토내해 풍경과 함께 특별한 추억을 만들어보세요! ✨\n#일본여행 #플라잉재팬 #히로시마여행 #마쓰야마여행 #일본교통 #세토내해 #신규취항 #페리여행 #여행정보 #일본소식 #아이빈트 #AIVINT #5월여행 #여행스타그램 #일본페리",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#히로시마여행",
+          "#마쓰야마여행",
+          "#일본교통",
+          "#세토내해",
+          "#신규취항",
+          "#페리여행",
+          "#여행정보",
+          "#일본소식",
+          "#아이빈트",
+          "#AIVINT",
+          "#5월여행",
+          "#여행스타그램",
+          "#일본페리"
+        ],
+        "alt_texts": [
+          "새로운 일본 페리 '아이빈트'의 외관 모습",
+          "페리 내부에 설치된 첨단 기술 장비 이미지",
+          "일본 세토내해의 아름다운 바다 풍경",
+          "페리 이름 'AIVINT'가 새겨진 모습",
+          "일본 페리에서 창밖을 바라보는 여행객의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시-9시 / 기대 반응: 새로운 교통 정보에 대한 관심 및 여행 계획 반영 / 이 콘텐츠의 강점: 구체적인 취항일, 항로, 기술 정보 제공으로 실질적인 도움",
+      "image": {
+        "keyword": "Japan ferry, Hiroshima, Matsuyama, Seto Inland Sea, AIVINT, new route, travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Hiroshima,-Matsuyama,-Seto-Inland-Sea,-AIVINT,-new-route,-travel-information",
+        "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Hiroshima,%20Matsuyama,%20Seto%20Inland%20Sea,%20AIVINT,%20new%20route,%20travel%20information/"
+      }
+    },
     {
       "id": "plan_aa8158fc",
       "created_at": "2026-05-22T04:23:40.665146",
@@ -923,160 +1077,6 @@
         "keyword": "Nitori mini portable fan, clear body, travel essential, Japan summer",
         "unsplash_url": "https://unsplash.com/s/photos/Nitori-mini-portable-fan,-clear-body,-travel-essential,-Japan-summer",
         "pexels_url": "https://www.pexels.com/search/Nitori%20mini%20portable%20fan,%20clear%20body,%20travel%20essential,%20Japan%20summer/"
-      }
-    },
-    {
-      "id": "plan_864e68ef",
-      "created_at": "2026-05-19T04:20:42.510056",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ムーミンバレーパーク」であじさいが見頃。屋内アクティビティも充実、雨の日は限定ポストカードもらえる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109648.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 만날 수 있는 무민 테마파크의 특별한 수국 시즌 정보!"
-      },
-      "content": {
-        "thumbnail_title": "☔️ 무민파크 수국 시즌 개막!",
-        "cards": [
-          {
-            "title": "수국 만개",
-            "content": "사이타마현  ভবিষ্যতে市에 위치한 무민바레이파크에서 약 1,000그루의 수국이 아름다운 '엄브렐라스카이와 수국 로드'를 5월 16일부터 개최해요. 🌸",
-            "alt_text": "무민바레이파크의 아름다운 수국이 핀 풍경"
-          },
-          {
-            "title": "우천 시 혜택",
-            "content": "비 오는 날 방문하면 무민바레이파크에서만 받을 수 있는 한정판 엽서를 증정한다고 해요! 🌧️",
-            "alt_text": "무민 캐릭터가 그려진 한정판 엽서"
-          },
-          {
-            "title": "다양한 즐길거리",
-            "content": "수국 시즌 외에도 실내 액티비티 시설이 잘 갖춰져 있어 날씨에 상관없이 즐거운 시간을 보낼 수 있어요. 🎪",
-            "alt_text": "무민바레이파크의 실내 액티비티 시설"
-          },
-          {
-            "title": "방문 정보",
-            "content": "무민바레이파크는 사이타마현  भविष्य市 미야자와 327-6에 위치하고 있으며, 가족 단위 여행객에게 특히 추천해요. 👨‍👩‍👧‍👦",
-            "alt_text": "무민바레이파크의 귀여운 입구"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "수국 시즌은 6월까지 이어질 예정이니, 방문 전 공식 홈페이지에서 정확한 운영 시간과 이벤트 정보를 다시 한번 확인하는 것이 좋아요! 🗓️",
-            "alt_text": "무민바레이파크 방문 안내 표지판"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 경험을 찾는다면? ☔️ 사이타마현 무민바레이파크에서 아름다운 수국과 함께 힐링하세요! 🌸 비 오는 날엔 귀여운 한정판 엽서까지 받을 수 있답니다. 🎁\n\n#무민바레이파크 #일본수국 #사이타마여행 #일본테마파크 #가족여행 #일본감성",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무민바레이파크",
-          "#일본여행정보",
-          "#일본테마파크",
-          "#사이타마",
-          "#수국",
-          "#일본축제",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#무민",
-          "#일본현지",
-          "#일본이벤트",
-          "#여행팁"
-        ],
-        "alt_texts": [
-          "무민바레이파크의 아름다운 수국이 핀 풍경",
-          "무민 캐릭터가 그려진 한정판 엽서",
-          "무민바레이파크의 실내 액티비티 시설",
-          "무민바레이파크의 귀여운 입구",
-          "무민바레이파크 방문 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 테마파크 및 이색적인 경험을 선호하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보성, 흥미 유발, 저장 및 공유 / 이 콘텐츠의 강점: 일본에서만 경험할 수 있는 시즌성 이벤트와 특별한 혜택 정보 제공",
-      "image": {
-        "keyword": "Moominvalley Park, hydrangea, Japan theme park, Saitama travel, seasonal event, limited edition postcard, family trip",
-        "unsplash_url": "https://unsplash.com/s/photos/Moominvalley-Park,-hydrangea,-Japan-theme-park,-Saitama-travel,-seasonal-event,-limited-edition-postcard,-family-trip",
-        "pexels_url": "https://www.pexels.com/search/Moominvalley%20Park,%20hydrangea,%20Japan%20theme%20park,%20Saitama%20travel,%20seasonal%20event,%20limited%20edition%20postcard,%20family%20trip/"
-      }
-    },
-    {
-      "id": "plan_a448dd1b",
-      "created_at": "2026-05-19T04:20:25.366624",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スカイマークの新型機737-8は羽田～福岡線に投入。初便は5月28日",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109783.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "스카이마크 신형기 도입으로 일본 국내선 이동이 더욱 편리해질 예정입니다!"
-      },
-      "content": {
-        "thumbnail_title": "✈️스카이마크 신형기 뜬다!",
-        "cards": [
-          {
-            "title": "신형기 투입",
-            "content": "스카이마크의 신형기 보잉 737-8 첫 호기(등록기호: JA738A)가 2024년 5월 28일부터 운항을 시작합니다.",
-            "alt_text": "스카이마크 항공사의 신형기 보잉 737-8 항공기 이미지"
-          },
-          {
-            "title": "첫 운항 노선",
-            "content": "신형기가 처음 투입되는 노선은 하네다(羽田) 출발 후쿠오카(福岡)행 노선입니다.",
-            "alt_text": "일본 하네다 공항과 후쿠오카 공항을 잇는 노선 지도"
-          },
-          {
-            "title": "기종 상세",
-            "content": "새로운 보잉 737-8 기종은 더 편안하고 효율적인 비행 경험을 제공할 것으로 기대됩니다.",
-            "alt_text": "보잉 737-8 항공기의 내부 좌석 모습"
-          },
-          {
-            "title": "이용 팁",
-            "content": "하네다-후쿠오카 노선 이용 시, 스카이마크 신형기 탑승 기회를 놓치지 마세요! 미리 예약하면 더 좋은 좌석 확보 가능합니다.",
-            "alt_text": "항공권 예약 웹사이트 화면 캡처"
-          },
-          {
-            "title": "추가 정보",
-            "content": "향후 다른 노선으로 확대될 가능성도 있으니, 스카이마크 공식 홈페이지에서 최신 운항 정보를 확인하는 것이 좋습니다.",
-            "alt_text": "스카이마크 항공사 공식 웹사이트 로고"
-          }
-        ],
-        "caption": "✈️ 스카이마크, 신형기 보잉 737-8 도입! ✈️\n\n드디어 스카이마크의 새로운 보잉 737-8 기종이 5월 28일부터 첫 운항을 시작합니다!\n\n첫 취항 노선은 하네다 ↔️ 후쿠오카 구간이며, 더욱 쾌적한 일본 국내선 이동이 가능해질 예정입니다.\n\n일본 여행 중 국내선 이동 계획이 있다면, 신형기 탑승 기회를 잡아보세요! ✨\n\n#일본여행 #스카이마크 #항공정보 #일본국내선 #하네다공항 #후쿠오카 #여행팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스카이마크",
-          "#일본항공",
-          "#보잉737",
-          "#일본국내선",
-          "#하네다공항",
-          "#후쿠오카",
-          "#일본여행정보",
-          "#항공권",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#일본교통",
-          "#신형기"
-        ],
-        "alt_texts": [
-          "스카이마크 항공사의 신형기 보잉 737-8 항공기 이미지",
-          "일본 하네다 공항과 후쿠오카 공항을 잇는 노선 지도",
-          "보잉 737-8 항공기의 내부 좌석 모습",
-          "항공권 예약 웹사이트 화면 캡처",
-          "스카이마크 항공사 공식 웹사이트 로고"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 국내선 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 일본 국내선 이용 정보에 대한 관심 증대, 스카이마크 이용률 증가 / 이 콘텐츠의 강점: 구체적인 도입 날짜, 노선 정보 제공으로 실질적인 도움 제공",
-      "image": {
-        "keyword": "Skymark Airlines new Boeing 737-8 aircraft on Haneda to Fukuoka route",
-        "unsplash_url": "https://unsplash.com/s/photos/Skymark-Airlines-new-Boeing-737-8-aircraft-on-Haneda-to-Fukuoka-route",
-        "pexels_url": "https://www.pexels.com/search/Skymark%20Airlines%20new%20Boeing%20737-8%20aircraft%20on%20Haneda%20to%20Fukuoka%20route/"
       }
     }
   ]
