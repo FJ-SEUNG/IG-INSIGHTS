@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-23T00:16:14.493727",
+  "last_updated": "2026-05-23T04:03:24.591205",
   "plans": [
+    {
+      "id": "plan_d58bbe01",
+      "created_at": "2026-05-23T04:03:22.591026",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "千葉開府900年を祝う「幕張ビーチ花火フェスタ2026」、有料観覧席のチケット発売。国内最大級の2万4000発",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2110997.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 최대 규모 불꽃축제! 2만 4천 발의 황홀경을 놓치지 마세요! 🎆"
+      },
+      "content": {
+        "thumbnail_title": "✨2만 4천 발! 치바 불꽃축제✨",
+        "cards": [
+          {
+            "title": "축제 정보",
+            "content": "2026년 8월 1일, 치바현 마쿠하리 해변공원에서 '마쿠하리 비치 불꽃축제 2026 (제48회 치바 시민 불꽃축제)'가 개최됩니다. 치바 개항 900주년을 기념하는 역대급 규모의 불꽃축제입니다.",
+            "alt_text": "치바현 마쿠하리 해변공원에서 열리는 불꽃축제 개최 정보"
+          },
+          {
+            "title": "불꽃 개수",
+            "content": "무려 2만 4천 발의 불꽃이 밤하늘을 수놓을 예정입니다. 국내 최대 규모를 자랑하며, 잊지 못할 감동을 선사할 것입니다.",
+            "alt_text": "2만 4천 발의 불꽃이 밤하늘을 가득 채우는 모습"
+          },
+          {
+            "title": "개최 장소",
+            "content": "치바현 치바시 미하마구 히비노 2-116에 위치한 마쿠하리 해변공원에서 열립니다. 도쿄에서 접근성도 좋습니다.",
+            "alt_text": "마쿠하리 해변공원 전경"
+          },
+          {
+            "title": "티켓 정보",
+            "content": "유료 관람석 티켓이 현재 판매 중입니다. 최고의 자리에서 불꽃축제를 즐기고 싶다면 서둘러 예매하세요!",
+            "alt_text": "불꽃축제 유료 관람석 티켓 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "축제 당일은 매우 혼잡할 것으로 예상되니, 대중교통 이용을 추천합니다. 또한, 돗자리와 간식을 미리 준비하면 더욱 편안하게 축제를 즐길 수 있습니다.",
+            "alt_text": "불꽃축제를 즐기는 관람객들의 모습"
+          }
+        ],
+        "caption": "✨2026년 여름, 일본 최대 규모의 불꽃축제를 경험하세요!✨\n\n치바현에서 열리는 '마쿠하리 비치 불꽃축제 2026'에서 2만 4천 발의 화려한 불꽃과 함께 잊지 못할 추억을 만들어 보세요! 🎆\n\n✅ 개최일: 2026년 8월 1일\n✅ 장소: 치바현 마쿠하리 해변공원\n✅ 불꽃 개수: 2만 4천 발 (국내 최대 규모)\n\n지금 바로 유료 관람석 티켓을 확인하고, 최고의 여름밤을 예약하세요! 🗓️\n\n#일본여행 #치바여행 #불꽃축제 #마쿠하리 #여름축제 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#치바여행",
+          "#마쿠하리비치불꽃축제",
+          "#불꽃축제",
+          "#일본축제",
+          "#여름축제",
+          "#2026년여행",
+          "#일본정보",
+          "#여행꿀팁",
+          "#치바",
+          "#일본관광",
+          "#여행스타그램",
+          "#해외여행",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "치바현 마쿠하리 해변공원에서 열리는 불꽃축제 개최 정보",
+          "2만 4천 발의 불꽃이 밤하늘을 가득 채우는 모습",
+          "마쿠하리 해변공원 전경",
+          "불꽃축제 유료 관람석 티켓 이미지",
+          "불꽃축제를 즐기는 관람객들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 관광객 / 최적 게시 시간: 목요일 오후 7시 (여행 계획 시기) / 기대 반응: 높은 관심, 티켓 예매 문의 증가, 정보 공유 / 이 콘텐츠의 강점: 일본 최대 규모 불꽃축제라는 희소성, 구체적인 날짜 및 장소 정보 제공",
+      "image": {
+        "keyword": "Japan fireworks festival, Chiba fireworks, Makuhari Beach Fireworks Festival, 24000 fireworks, summer festival Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-fireworks-festival,-Chiba-fireworks,-Makuhari-Beach-Fireworks-Festival,-24000-fireworks,-summer-festival-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japan%20fireworks%20festival,%20Chiba%20fireworks,%20Makuhari%20Beach%20Fireworks%20Festival,%2024000%20fireworks,%20summer%20festival%20Japan/"
+      }
+    },
+    {
+      "id": "plan_97f612f0",
+      "created_at": "2026-05-23T04:03:16.536568",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東海道・山陽新幹線、ひかり号に「弱冷房車」。7月1日から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111018.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센 탑승객이라면 꼭 알아야 할 쾌적함 UP 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨신칸센 꿀팁! 약냉방차 도입✨",
+        "cards": [
+          {
+            "title": "약냉방차 도입!",
+            "content": "7월 1일부터 도카이도·산요 신칸센 일부 열차(16량 편성)에 '약냉방차'가 시범 도입됩니다. 더위를 많이 타는 분들에게 희소식!",
+            "alt_text": "신칸센 열차 내부 좌석 이미지"
+          },
+          {
+            "title": "어떤 열차?",
+            "content": "대상 열차는 도카이도·산요 신칸센이며, 16량 편성으로 운행되는 열차 중 일부에 해당됩니다. 정확한 편성 정보는 탑승 시 확인이 필요합니다.",
+            "alt_text": "신칸센 노선도 이미지"
+          },
+          {
+            "title": "쾌적한 여행!",
+            "content": "일본 여름, 신칸센 안에서 시원하게 이동하세요! 특히 더위에 민감한 분들은 약냉방차를 이용하면 더욱 쾌적한 여행을 즐길 수 있습니다.",
+            "alt_text": "창밖으로 보이는 일본 풍경 이미지"
+          },
+          {
+            "title": "JR東海/서일본",
+            "content": "이번 약냉방차 도입은 JR東海와 JR 서일본이 함께 진행하는 시범 운영입니다. 앞으로 확대될 가능성도 기대해볼 수 있습니다.",
+            "alt_text": "JR 로고 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "약냉방차는 지정 좌석 및 자유석 모두 운영될 예정입니다. 탑승 시 약냉방차 표시를 확인하시고, 혹시 추위를 느낀다면 얇은 겉옷을 준비하는 것도 좋습니다.",
+            "alt_text": "신칸센 좌석에 앉아있는 여행객 이미지"
+          }
+        ],
+        "caption": "일본 신칸센 여행, 더위를 많이 타는 당신을 위한 희소식! 🚄\n7월 1일부터 도카이도·산요 신칸센 일부 열차에 '약냉방차'가 시범 도입됩니다.\n더욱 쾌적하고 시원한 신칸센 탑승으로 즐거운 일본 여행을 만끽하세요!\n\n#신칸센 #일본교통 #약냉방차 #JR #일본여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본교통",
+          "#약냉방차",
+          "#JR",
+          "#도카이도신칸센",
+          "#산요신칸센",
+          "#일본여름",
+          "#여행정보",
+          "#일본",
+          "#교통정보",
+          "#여행팁",
+          "#일본스타그램",
+          "#여행"
+        ],
+        "alt_texts": [
+          "신칸센 열차 내부 좌석 이미지",
+          "신칸센 노선도 이미지",
+          "창밖으로 보이는 일본 풍경 이미지",
+          "JR 로고 이미지",
+          "신칸센 좌석에 앉아있는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 정보 획득 만족, 공유/저장 / 이 콘텐츠의 강점: 실질적인 편의 정보 제공, 시의성",
+      "image": {
+        "keyword": "Shinkansen train interior, Japanese train, cool air conditioning, travel convenience, bullet train",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-train-interior,-Japanese-train,-cool-air-conditioning,-travel-convenience,-bullet-train",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20train%20interior,%20Japanese%20train,%20cool%20air%20conditioning,%20travel%20convenience,%20bullet%20train/"
+      }
+    },
     {
       "id": "plan_1da5c7c8",
       "created_at": "2026-05-23T00:16:12.493522",
@@ -923,160 +1077,6 @@
         "keyword": "japan travel discount coupon",
         "unsplash_url": "https://unsplash.com/s/photos/japan-travel-discount-coupon",
         "pexels_url": "https://www.pexels.com/search/japan%20travel%20discount%20coupon/"
-      }
-    },
-    {
-      "id": "plan_1e3c5eb8",
-      "created_at": "2026-05-20T00:18:12.682089",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "京都の老舗ロースター「小川珈琲」無印良品の宿に新店オープン。おばんざい×食パンが斬新な限定モーニングを食べてきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109211.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토 여행 중 놓치면 후회할 역대급 신상 모닝 메뉴!"
-      },
-      "content": {
-        "thumbnail_title": "☕️교토 신상카페 오픈!",
-        "cards": [
-          {
-            "title": "오픈 정보",
-            "content": "2024년 5월 20일, 교토 기요미즈데라 근처에 '무인양품 숙소'와 함께 '오가와 커피' 신규 지점이 문을 엽니다. 교토의 명소인 기요미즈데라를 방문할 예정이라면 꼭 들러보세요!",
-            "alt_text": "교토에 새롭게 오픈하는 오가와 커피와 무인양품 숙소 외관 이미지"
-          },
-          {
-            "title": "특별한 메뉴",
-            "content": "오가와 커피의 새로운 거점이 되는 이곳에서는 '오반자이(일본식 반찬)'와 '식빵'을 결합한 독창적인 한정 모닝 메뉴를 선보입니다. 익숙하면서도 새로운 맛의 조화를 경험해 보세요.",
-            "alt_text": "오반자이와 식빵이 함께 나오는 독특한 모닝 메뉴 이미지"
-          },
-          {
-            "title": "교토의 맛",
-            "content": "1952년부터 이어져 온 교토의 유명 로스터리 카페 '오가와 커피'가 선보이는 특별한 아침 식사입니다. 교토의 전통과 현대적인 감각이 어우러진 맛을 즐길 수 있습니다.",
-            "alt_text": "오가와 커피의 시그니처 커피와 디저트 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 일본 교토시 히가시야마구 기요미즈 4-171입니다. 기요미즈데라에서 도보로 이동 가능한 가까운 거리에 위치해 있어 관광 중 편리하게 방문할 수 있습니다.",
-            "alt_text": "기요미즈데라와 오가와 커피 신규 지점 위치를 표시한 지도 이미지"
-          },
-          {
-            "title": "방문 꿀팁",
-            "content": "오픈 초기에는 많은 방문객으로 붐빌 수 있으니, 조금 이른 시간에 방문하는 것을 추천합니다. 한정 모닝 메뉴는 기간 한정일 수 있으니, 방문 전 SNS 등을 통해 확인하는 것이 좋습니다.",
-            "alt_text": "커피와 함께 여유로운 아침 시간을 보내는 사람들의 모습 이미지"
-          }
-        ],
-        "caption": "🇯🇵 교토 여행 필수 코스 등장! 5월 20일, 기요미즈데라 근처에 '무인양품 숙소'와 함께 '오가와 커피' 신규 지점이 오픈합니다. 🍵 교토의 유명 로스터리가 선보이는 '오반자이 x 식빵' 한정 모닝 메뉴를 절대 놓치지 마세요!  ✨ 교토의 새로운 맛집, 지금 바로 확인하세요! #교토여행 #오가와커피 #무인양품숙소 #교토카페 #일본신상",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#교토카페",
-          "#오가와커피",
-          "#무인양품숙소",
-          "#일본신상",
-          "#교토맛집",
-          "#일본카페",
-          "#오반자이",
-          "#교토가볼만한곳",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#카페투어",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "교토에 새롭게 오픈하는 오가와 커피와 무인양품 숙소 외관 이미지",
-          "오반자이와 식빵이 함께 나오는 독특한 모닝 메뉴 이미지",
-          "오가와 커피의 시그니처 커피와 디저트 이미지",
-          "기요미즈데라와 오가와 커피 신규 지점 위치를 표시한 지도 이미지",
-          "커피와 함께 여유로운 아침 시간을 보내는 사람들의 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 교토 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 정보 공유 및 저장, 방문 계획 문의 / 이 콘텐츠의 강점: 교토의 최신 핫플레이스 정보와 독특한 메뉴 소개로 호기심 자극",
-      "image": {
-        "keyword": "Kyoto new cafe opening, Ogawa Coffee MUJI BASE KYOTO kiyomizu, unique morning set, traditional Japanese breakfast, Kiyomizu-dera area",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-new-cafe-opening,-Ogawa-Coffee-MUJI-BASE-KYOTO-kiyomizu,-unique-morning-set,-traditional-Japanese-breakfast,-Kiyomizu-dera-area",
-        "pexels_url": "https://www.pexels.com/search/Kyoto%20new%20cafe%20opening,%20Ogawa%20Coffee%20MUJI%20BASE%20KYOTO%20kiyomizu,%20unique%20morning%20set,%20traditional%20Japanese%20breakfast,%20Kiyomizu-dera%20area/"
-      }
-    },
-    {
-      "id": "plan_65e067dc",
-      "created_at": "2026-05-20T00:18:03.892002",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ニトリ最小のハンディファン。ポケットに入るクリアボディの2色",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2109961.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템! 니토리 신상 휴대용 선풍기로 시원하게 여름을 대비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "니토리 휴대용 선풍기 출시! 💨",
-        "cards": [
-          {
-            "title": "니토리 신상",
-            "content": "니토리에서 '미니 고속 팬(MN07NR)'을 5월 초 출시했어요. 주머니에 쏙 들어가는 컴팩트한 사이즈가 특징입니다.",
-            "alt_text": "니토리 미니 고속 팬 제품 이미지"
-          },
-          {
-            "title": "가격 확인",
-            "content": "가격은 1,990엔으로, 부담 없이 구매할 수 있어요. 여름철 일본 여행 시 유용할 거예요.",
-            "alt_text": "니토리 미니 고속 팬 가격 정보"
-          },
-          {
-            "title": "투명 디자인",
-            "content": "클리어 바디 디자인으로 2가지 색상으로 출시되었어요. 시원하고 세련된 느낌을 줍니다.",
-            "alt_text": "니토리 미니 고속 팬 투명 바디 디자인"
-          },
-          {
-            "title": "휴대성 최고",
-            "content": "최소형 사이즈로 제작되어 가방이나 주머니에 간편하게 휴대할 수 있습니다. 더운 날씨에도 시원함을 유지하세요.",
-            "alt_text": "휴대용으로 사용 중인 니토리 미니 고속 팬"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 편의점이나 드럭스토어에서도 휴대용 선풍기를 쉽게 구할 수 있지만, 미리 준비해가면 더 좋겠죠? 특히 7-8월 일본은 매우 더워요!",
-            "alt_text": "일본 편의점 쇼핑 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템! ☀️ 니토리에서 초소형 휴대용 선풍기가 출시되었어요!\n\n주머니에 쏙 들어가는 컴팩트한 사이즈에 1,990엔이라는 합리적인 가격으로 만나볼 수 있답니다.\n\n투명 바디 디자인으로 2가지 색상이 나왔으니, 취향에 맞게 골라보세요!\n\n올여름, 시원한 일본 여행을 위한 완벽한 준비!\n\n#니토리 #휴대용선풍기 #일본쇼핑 #여름준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#니토리",
-          "#휴대용선풍기",
-          "#일본쇼핑",
-          "#일본여름",
-          "#일본필수템",
-          "#여행준비",
-          "#일본생활",
-          "#엔저",
-          "#일본꿀팁",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여름휴가",
-          "#일본직구"
-        ],
-        "alt_texts": [
-          "니토리 미니 고속 팬 제품 이미지",
-          "니토리 미니 고속 팬 가격 정보",
-          "니토리 미니 고속 팬 투명 바디 디자인",
-          "휴대용으로 사용 중인 니토리 미니 고속 팬",
-          "일본 편의점 쇼핑 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 구매 의욕 고취 / 이 콘텐츠의 강점: 실용적인 정보와 합리적인 가격 제시",
-      "image": {
-        "keyword": "Nitori mini portable fan, clear body, travel essential, Japan summer",
-        "unsplash_url": "https://unsplash.com/s/photos/Nitori-mini-portable-fan,-clear-body,-travel-essential,-Japan-summer",
-        "pexels_url": "https://www.pexels.com/search/Nitori%20mini%20portable%20fan,%20clear%20body,%20travel%20essential,%20Japan%20summer/"
       }
     }
   ]
