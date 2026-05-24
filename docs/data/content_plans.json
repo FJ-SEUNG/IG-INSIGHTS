@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-23T04:03:24.591205",
+  "last_updated": "2026-05-24T00:12:43.650899",
   "plans": [
+    {
+      "id": "plan_9c8f2507",
+      "created_at": "2026-05-24T00:12:41.650712",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "名古屋発着、3日間乗り放題「近鉄伊勢志摩フリーパス」。新幹線の利用者限定で3500円～",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2110929.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "나고야 출발! 이세시마 3일 무제한 교통패스로 알뜰하게 여행하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨나고야발 이세시마 3일 무제한 교통권✨",
+        "cards": [
+          {
+            "title": "이세시마 프리패스",
+            "content": "5월 22일부터 JR 도카이와 긴키 닛폰 철도가 'EX 료코 요야쿠'에서 '근테츠 이세시마 프리패스(EX 전용)'를 판매합니다. 이용 시작일로부터 3일간 유효합니다.",
+            "alt_text": "일본 철도 패스 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "디지털 QR 승차권은 3,500엔, 종이 티켓은 5,800엔입니다. 신칸센 이용 고객만 구매 가능합니다.",
+            "alt_text": "일본 열차 티켓 가격 비교 이미지"
+          },
+          {
+            "title": "구매 방법",
+            "content": "오직 'EX 료코 요야쿠' 웹사이트에서만 구매할 수 있습니다. 미리 예약하여 편리하게 여행을 준비하세요.",
+            "alt_text": "일본 온라인 예약 사이트 화면 캡처 이미지"
+          },
+          {
+            "title": "이용 범위",
+            "content": "나고야를 출발/도착지로 하여 이세시마 지역의 긴키 닛폰 철도 노선을 3일간 자유롭게 이용할 수 있습니다.",
+            "alt_text": "일본 이세시마 지역 지도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "디지털 QR 승차권이 2,300엔 더 저렴합니다. 스마트폰으로 간편하게 승하차하세요! 나고야 출발 시 신칸센 이용 필수입니다.",
+            "alt_text": "일본 여행 꿀팁 아이콘 이미지"
+          }
+        ],
+        "caption": "✈️ 나고야에서 출발하는 이세시마 여행 꿀팁! ✈️\nJR 도카이와 긴키 닛폰 철도가 신칸센 이용객을 위한 '근테츠 이세시마 프리패스(EX 전용)'를 출시했어요! 🤩\n\n✅ 이용 기간: 3일권\n✅ 가격: 디지털 QR 3,500엔 / 종이 티켓 5,800엔\n✅ 구매처: 'EX 료코 요야쿠' 웹사이트 ONLY!\n\n나고야에서 이세시마까지 3일간 마음껏 누비고 싶다면 놓치지 마세요! 💖\n\n#일본여행 #플라잉재팬 #이세시마 #나고야 #근테츠 #교통패스 #일본교통 #여행정보 #알뜰여행 #일본자유여행 #JR도카이 #EX료코요야쿠",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#이세시마",
+          "#나고야",
+          "#근테츠",
+          "#교통패스",
+          "#일본교통",
+          "#여행정보",
+          "#알뜰여행",
+          "#일본자유여행",
+          "#JR도카이",
+          "#EX료코요야쿠",
+          "#일본신칸센",
+          "#나고야여행",
+          "#이세시마여행"
+        ],
+        "alt_texts": [
+          "일본 철도 패스 이미지",
+          "일본 열차 티켓 가격 비교 이미지",
+          "일본 온라인 예약 사이트 화면 캡처 이미지",
+          "일본 이세시마 지역 지도 이미지",
+          "일본 여행 꿀팁 아이콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 나고야를 거점으로 이세시마 지역을 여행하려는 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시, 주말 오전 10시 ~ 12시 / 기대 반응: 정보 습득 및 구매 고려, 공유 / 이 콘텐츠의 강점: 명확한 가격 및 구매 정보, 알뜰 여행 팁 제공",
+      "image": {
+        "keyword": "Kintetsu Ise-Shima Free Pass, Nagoya to Ise-Shima train, Japan railway pass, QR ticket, travel booking website, Japan transportation, travel budget",
+        "unsplash_url": "https://unsplash.com/s/photos/Kintetsu-Ise-Shima-Free-Pass,-Nagoya-to-Ise-Shima-train,-Japan-railway-pass,-QR-ticket,-travel-booking-website,-Japan-transportation,-travel-budget",
+        "pexels_url": "https://www.pexels.com/search/Kintetsu%20Ise-Shima%20Free%20Pass,%20Nagoya%20to%20Ise-Shima%20train,%20Japan%20railway%20pass,%20QR%20ticket,%20travel%20booking%20website,%20Japan%20transportation,%20travel%20budget/"
+      }
+    },
+    {
+      "id": "plan_e0e1e897",
+      "created_at": "2026-05-24T00:12:28.731143",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【車中泊の拠点 RVパークを訪ねる】千葉・いすみ市のグランピング施設にオープンした、連泊したくなるRVパークに泊まってみた RVパーク ISUMI Glamping Resort＆Spa SOLAS",
+        "url": "https://travel.watch.impress.co.jp/docs/series/rvpark/2111156.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 소도시에서 즐기는 캠핑카 숙박, RV파크 정보를 한눈에!"
+      },
+      "content": {
+        "thumbnail_title": "🚗千葉 RV파크 숙박기🚗",
+        "cards": [
+          {
+            "title": "RV파크 ISUMI",
+            "content": "일본 치바현 이스미시에 새롭게 오픈한 RV파크 'ISUMI Glamping Resort＆Spa SOLAS'에 다녀왔어요. 이곳은 캠핑카 숙박을 위한 최적의 장소입니다.",
+            "alt_text": "RV파크 ISUMI Glamping Resort＆Spa SOLAS 외관 모습"
+          },
+          {
+            "title": "숙박 정보",
+            "content": "주소는 치바현 이스미시 샤카다니 1610-1이며, 글램핑 리조트 & 스파 솔라스 내에 위치하고 있습니다. 장기 숙박에도 적합하도록 설계되었습니다.",
+            "alt_text": "RV파크 ISUMI의 시설 안내 간판"
+          },
+          {
+            "title": "주변 관광",
+            "content": "고요한 자연 속에서 캠핑카와 함께 편안한 휴식을 즐길 수 있으며, 주변의 아름다운 풍경을 만끽하기에 좋습니다.",
+            "alt_text": "RV파크 ISUMI 주변의 푸른 자연 풍경"
+          },
+          {
+            "title": "캠핑카 여행",
+            "content": "일본에서 캠핑카를 이용한 새로운 형태의 여행을 계획 중이시라면 주목해주세요. RV파크는 캠핑카 여행자들에게 필수적인 시설을 제공합니다.",
+            "alt_text": "RV파크에 주차된 캠핑카 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "RV파크 이용 시, 사전에 예약은 필수입니다. 특히 주말이나 성수기에는 예약이 빠르게 마감될 수 있으니 미리 확인하는 것이 좋습니다.",
+            "alt_text": "RV파크 예약 안내 페이지 예시 이미지"
+          }
+        ],
+        "caption": "일본 소도시에서 특별한 경험! 🏕️ 치바현 이스미시에 위치한 'RV파크 ISUMI Glamping Resort＆Spa SOLAS'를 소개합니다. 캠핑카를 좋아하신다면 꼭 방문해보세요! 🚗✨ #일본캠핑카여행 #RV파크 #치바여행 #일본숙소 #캠핑라이프",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#RV파크",
+          "#치바현",
+          "#이스미시",
+          "#글램핑",
+          "#캠핑카",
+          "#일본숙소",
+          "#일본캠핑",
+          "#일본소도시",
+          "#일본자동차여행",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#여행꿀팁",
+          "#일본감성"
+        ],
+        "alt_texts": [
+          "RV파크 ISUMI Glamping Resort＆Spa SOLAS 외관 모습",
+          "RV파크 ISUMI의 시설 안내 간판",
+          "RV파크 ISUMI 주변의 푸른 자연 풍경",
+          "RV파크에 주차된 캠핑카 모습",
+          "RV파크 예약 안내 페이지 예시 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 캠핑카 여행에 관심 있는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 캠핑카 여행에 대한 관심 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 새로운 형태의 일본 숙박 정보 제공, 구체적인 장소 및 정보 포함",
+      "image": {
+        "keyword": "RV park Japan, Chiba, Isumi, Glamping, Motorhome, Camping car",
+        "unsplash_url": "https://unsplash.com/s/photos/RV-park-Japan,-Chiba,-Isumi,-Glamping,-Motorhome,-Camping-car",
+        "pexels_url": "https://www.pexels.com/search/RV%20park%20Japan,%20Chiba,%20Isumi,%20Glamping,%20Motorhome,%20Camping%20car/"
+      }
+    },
     {
       "id": "plan_d58bbe01",
       "created_at": "2026-05-23T04:03:22.591026",
@@ -923,160 +1077,6 @@
         "keyword": "Sapporo Station renovation, Hokkaido travel, Japan shopping, new stores, future landmark",
         "unsplash_url": "https://unsplash.com/s/photos/Sapporo-Station-renovation,-Hokkaido-travel,-Japan-shopping,-new-stores,-future-landmark",
         "pexels_url": "https://www.pexels.com/search/Sapporo%20Station%20renovation,%20Hokkaido%20travel,%20Japan%20shopping,%20new%20stores,%20future%20landmark/"
-      }
-    },
-    {
-      "id": "plan_51def684",
-      "created_at": "2026-05-20T04:22:07.033006",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "岩手県、「おでんせ！いわて旅割キャンペーン」実施　最大50％割引",
-        "url": "https://www.traicy.com/posts/20260520370628/",
-        "date": "Wed, 20 May 2026 03:35:56 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 숙박비 최대 50% 할인 찬스! 이와테현 여행 시 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "이와테 숙박 50% 할인! 🇯🇵",
-        "cards": [
-          {
-            "title": "할인 캠페인",
-            "content": "이와테현에서 '오데세! 이와테 여행 할인 캠페인'을 6월 1일부터 2027년 2월 27일까지 진행합니다. 최대 50% 할인 혜택을 받을 수 있어요.",
-            "alt_text": "일본 이와테현 지도와 할인 혜택을 나타내는 이미지"
-          },
-          {
-            "title": "할인 대상",
-            "content": "일본 숙박 예약 사이트에서 이와테현 내 숙박 시설을 예약하는 모든 이용자가 대상입니다. 1인 1박 숙박 요금의 절반을 할인해주는 쿠폰이 배포됩니다.",
-            "alt_text": "숙박 예약 사이트 화면과 할인 쿠폰 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "1인 1박당 숙박 요금의 최대 50%까지 할인받을 수 있습니다. 예를 들어 10만원 숙박 시 5만원 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "금액 계산기를 사용하여 50% 할인을 보여주는 이미지"
-          },
-          {
-            "title": "캠페인 기간",
-            "content": "2024년 6월 1일부터 2027년 2월 27일까지 약 3년 가까이 진행되는 장기 캠페인입니다. 여유롭게 여행 계획을 세울 수 있어요.",
-            "alt_text": "캘린더에 캠페인 시작일과 종료일이 표시된 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "이와테현 여행을 계획 중이라면, 숙박 예약 시 이 캠페인을 꼭 확인하세요! 특히 장기 투숙 시 할인 혜택이 커집니다.",
-            "alt_text": "여행 가방과 할인 쿠폰을 들고 있는 사람 이미지"
-          }
-        ],
-        "caption": "🇯🇵 이와테현에서 역대급 숙박 할인 찬스가 찾아왔어요! \n'오데세! 이와테 여행 할인 캠페인'으로 최대 50%까지 숙박비를 절약할 수 있답니다. \n2027년 2월 27일까지 진행되니, 지금 바로 이와테 여행 계획 세워보세요! \n\n#이와테현 #일본숙박 #여행할인",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이와테",
-          "#이와테여행",
-          "#일본숙박",
-          "#숙박할인",
-          "#여행꿀팁",
-          "#일본여행정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#가성비여행",
-          "#할인정보",
-          "#여행",
-          "#일본소도시"
-        ],
-        "alt_texts": [
-          "일본 이와테현 지도와 할인 혜택을 나타내는 이미지",
-          "숙박 예약 사이트 화면과 할인 쿠폰 이미지",
-          "금액 계산기를 사용하여 50% 할인을 보여주는 이미지",
-          "캘린더에 캠페인 시작일과 종료일이 표시된 이미지",
-          "여행 가방과 할인 쿠폰을 들고 있는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 이와테현 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 6-9시 / 기대 반응: 높은 관심과 공유, 이와테 여행 계획 유도 / 이 콘텐츠의 강점: 매우 구체적인 할인율 및 기간 명시, 한국인이 선호하는 실질적 혜택 정보",
-      "image": {
-        "keyword": "Iwate Japan travel discount 50% accommodation coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Iwate-Japan-travel-discount-50%-accommodation-coupon",
-        "pexels_url": "https://www.pexels.com/search/Iwate%20Japan%20travel%20discount%2050%%20accommodation%20coupon/"
-      }
-    },
-    {
-      "id": "plan_a6dbef6e",
-      "created_at": "2026-05-20T04:21:56.181912",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、旅行予約が最大30％オフ「スペシャルクーポンWEEK」。フジロック/ハウステンボスなどお得に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110154.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 예약 시 최대 30% 할인받을 수 있는 역대급 쿠폰 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 최대 30% 할인쿠폰!",
-        "cards": [
-          {
-            "title": "쿠폰 기간",
-            "content": "일본 료칸, 호텔, 액티비티 예약 시 최대 30% 할인받을 수 있는 '스페셜 쿠폰 위크'가 6월 1일 오전 9시 59분까지 진행돼요.",
-            "alt_text": "일본 여행 예약 할인 쿠폰 기간 안내"
-          },
-          {
-            "title": "쿠폰 종류",
-            "content": "국내 숙박, 교통+숙박 결합 상품(락파쿠), 관광 체험(액티비티 예약)에 사용할 수 있는 수량 한정 쿠폰이 배포 중입니다.",
-            "alt_text": "일본 여행 예약 가능한 쿠폰 종류 설명"
-          },
-          {
-            "title": "할인율",
-            "content": "최대 30% 할인을 받을 수 있으며, 인기 있는 후지락 페스티벌, 하우스텐보스 등 관련 예약에도 적용될 수 있습니다.",
-            "alt_text": "일본 여행 예약 최대 30% 할인율 안내"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기 상품은 쿠폰 소진이 빠를 수 있으니, 원하는 숙소나 액티비티가 있다면 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "일본 여행 예약 팁 제공"
-          },
-          {
-            "title": "주의사항",
-            "content": "쿠폰은 수량 한정이므로, 예약 시 쿠폰 적용 가능 여부를 반드시 확인해야 합니다. 자세한 내용은 楽天トラベル 앱 또는 웹사이트에서 확인하세요.",
-            "alt_text": "일본 여행 예약 시 주의사항 안내"
-          }
-        ],
-        "caption": "일본 여행 준비 중이라면 주목! 📢 楽天 트래블에서 최대 30% 할인받을 수 있는 '스페셜 쿠폰 위크'가 6월 1일까지 진행돼요! 🏨✈️ 숙박, 교통+숙박, 액티비티까지 알뜰하게 예약하고 즐거운 일본 여행 떠나세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본할인",
-          "#일본쿠폰",
-          "#일본숙소",
-          "#일본액티비티",
-          "#일본여행준비",
-          "#일본여행팁",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#일본",
-          "#여행",
-          "#할인정보",
-          "#일본온천",
-          "#일본쇼핑"
-        ],
-        "alt_texts": [
-          "일본 여행 예약 할인 쿠폰 기간 안내",
-          "일본 여행 예약 가능한 쿠폰 종류 설명",
-          "일본 여행 예약 최대 30% 할인율 안내",
-          "일본 여행 예약 팁 제공",
-          "일본 여행 예약 시 주의사항 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 여행 예약이 활발한 저녁 시간 (19-21시) 또는 주말 / 기대 반응: 쿠폰 사용 관련 문의 증가, 예약률 증대 / 이 콘텐츠의 강점: 시기적절한 할인 정보 제공으로 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "japan travel discount coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-discount-coupon",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20discount%20coupon/"
       }
     }
   ]
