@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-24T00:12:43.650899",
+  "last_updated": "2026-05-24T04:24:22.062457",
   "plans": [
+    {
+      "id": "plan_5256e477",
+      "created_at": "2026-05-24T04:24:20.062283",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "トリップドットコム、海外航空券でタイムセール　ソウル行き6,900円、シンガポール行き10,900円など",
+        "url": "https://www.traicy.com/posts/20260523371130/",
+        "date": "Sat, 23 May 2026 09:25:35 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가성비 최고! 일본 항공권 특가 찬스를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 왕복 6,900원부터!✈️",
+        "cards": [
+          {
+            "title": "타임 세일!",
+            "content": "Trip.com에서 인기 해외 항공권 타임 세일을 진행합니다. 5월 25일 오전 10시부터 오후 11시 59분까지 단 하루!\n\n✅ 서울(인천)행 편도 6,900원부터",
+            "alt_text": "타임 세일 배너 이미지"
+          },
+          {
+            "title": "부산도 저렴!",
+            "content": "일본으로 가는 항공권, 정말 저렴하게 득템할 기회!\n\n✅ 부산행 편도 7,900원부터",
+            "alt_text": "항공권 가격표 이미지"
+          },
+          {
+            "title": "기간 한정",
+            "content": "이번 타임 세일은 긴급 편성된 만큼, 기회를 놓치면 아쉬울 수 있어요.\n\n✅ 5월 25일 단 하루, 10:00 AM - 11:59 PM",
+            "alt_text": "시계 이미지"
+          },
+          {
+            "title": "인기 노선",
+            "content": "서울, 부산 외에도 다양한 인기 노선이 초특가로!\n\n✅ 대만(타이베이)행 등도 특가 진행",
+            "alt_text": "지도에 표시된 인기 여행지 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "저렴한 항공권은 빠르게 소진될 수 있으니, 미리 Trip.com 앱/웹사이트를 확인하고 준비하세요. 위탁 수하물, 좌석 지정 등 추가 옵션은 별도 금액이 발생할 수 있습니다.",
+            "alt_text": "여행 가방과 여권 이미지"
+          }
+        ],
+        "caption": "🔥역대급 초특가 등장!🔥\nTrip.com에서 5월 25일 단 하루, 일본행 항공권 타임 세일을 진행해요!\n\n▫️ 서울(인천)행 편도 6,900원부터\n▫️ 부산행 편도 7,900원부터\n\n이벤트 기간: 5/25(토) 10:00 ~ 23:59\n\n놓치면 후회할 역대급 기회! 지금 바로 확인하고 일본 여행 계획 세워보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#항공권특가",
+          "#일본항공권",
+          "#타임세일",
+          "#Tripcom",
+          "#가성비여행",
+          "#일본자유여행",
+          "#여행정보",
+          "#초특가항공권",
+          "#여행팁",
+          "#일본",
+          "#여행",
+          "#할인정보",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "타임 세일 배너 이미지",
+          "항공권 가격표 이미지",
+          "시계 이미지",
+          "지도에 표시된 인기 여행지 이미지",
+          "여행 가방과 여권 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 모든 한국인 여행자 / 최적 게시 시간: 이벤트 시작 전날 저녁 또는 이벤트 당일 오전 / 기대 반응: 높은 클릭률 및 공유, 즉각적인 예약 문의 / 이 콘텐츠의 강점: 매우 구체적인 가격 정보와 명확한 이벤트 기간 제시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japan flight ticket sale, cheap flights to Japan, time sale, travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-flight-ticket-sale,-cheap-flights-to-Japan,-time-sale,-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Japan%20flight%20ticket%20sale,%20cheap%20flights%20to%20Japan,%20time%20sale,%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_bbe06da5",
+      "created_at": "2026-05-24T04:23:32.973750",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本初フォイト・リニアジェット採用！　広島～松山間の新船「AIVINT」乗船してきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111101.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 히로시마-마쓰야마 구간, 5월 24일부터 신형 고속선 '아이빈트' 운항!"
+      },
+      "content": {
+        "thumbnail_title": "✨히로시마-마쓰야마 신규 🚢",
+        "cards": [
+          {
+            "title": "새로운 항해 시작",
+            "content": "전통의 히로시마-마쓰야마 항로에 5월 24일부터 신형 고속선 '아이빈트(AIVINT)'가 취항합니다. 일본 최초로 포이트 리니어 제트 기술을 채용했습니다.",
+            "alt_text": "새로운 고속선 '아이빈트'의 모습"
+          },
+          {
+            "title": "놀라운 속도",
+            "content": "포이트 리니어 제트 기술로 더욱 빠르고 쾌적한 항해가 가능해질 것으로 기대됩니다. 기존 항해 시간 단축으로 여행 효율성을 높일 수 있습니다.",
+            "alt_text": "고속으로 이동하는 선박의 모습"
+          },
+          {
+            "title": "편안한 승선 경험",
+            "content": "최신 기술이 적용된 선박으로, 瀬戸内海(세토내해)의 아름다운 풍경을 감상하며 편안하게 이동할 수 있습니다.",
+            "alt_text": "세토내해 바다 풍경과 선박의 모습"
+          },
+          {
+            "title": "여행 계획 UP!",
+            "content": "히로시마와 마쓰야마를 잇는 새로운 교통수단이 생긴 만큼, 두 도시를 묶는 여행 계획을 세우기에 더욱 좋아졌습니다. 5월 24일 이후 여행 시 참고하세요.",
+            "alt_text": "지도에 히로시마와 마쓰야마를 표시한 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "취항 초기에는 인기가 많을 수 있으니, 미리 예약 정보를 확인하고 예약하는 것을 추천합니다. 공식 홈페이지나 예약 사이트를 주시하세요.",
+            "alt_text": "예약 버튼을 누르는 손 이미지"
+          }
+        ],
+        "caption": "🚢 히로시마 ↔ 마쓰야마 여행 필수템 등장! 5월 24일부터 일본 최초 포이트 리니어 제트 신형 고속선 '아이빈트'가 운항을 시작합니다! ✨\n\n세토내해를 더욱 빠르고 쾌적하게 건널 수 있게 되었어요. 히로시마와 마쓰야마 여행 계획 중이라면 놓치지 마세요! 😉\n\n✅ 취항일: 5월 24일\n✅ 새로운 교통수단으로 여행 계획 UP! ✈️\n\n#일본여행 #플라잉재팬 #히로시마여행 #마쓰야마여행 #세토내해 #신규취항 #고속선 #아이빈트 #일본교통 #여행정보 #5월여행 #일본신상 #여행스타그램 #일본스타그램 #현지정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#히로시마여행",
+          "#마쓰야마여행",
+          "#세토내해",
+          "#신규취항",
+          "#고속선",
+          "#아이빈트",
+          "#일본교통",
+          "#여행정보",
+          "#5월여행",
+          "#일본신상",
+          "#여행스타그램",
+          "#일본스타그램",
+          "#현지정보"
+        ],
+        "alt_texts": [
+          "새로운 고속선 '아이빈트'의 모습",
+          "고속으로 이동하는 선박의 모습",
+          "세토내해 바다 풍경과 선박의 모습",
+          "지도에 히로시마와 마쓰야마를 표시한 이미지",
+          "예약 버튼을 누르는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 히로시마 또는 마쓰야마를 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 8시~10시 / 기대 반응: 새로운 교통 정보에 대한 높은 관심, 여행 계획 수정 및 정보 공유 / 이 콘텐츠의 강점: 구체적인 취항일과 기술 정보를 담아 신뢰도를 높이고, 여행 계획에 직접적인 도움을 줄 수 있다는 점.",
+      "image": {
+        "keyword": "new ferry Japan Hiroshima Matsuyama",
+        "unsplash_url": "https://unsplash.com/s/photos/new-ferry-Japan-Hiroshima-Matsuyama",
+        "pexels_url": "https://www.pexels.com/search/new%20ferry%20Japan%20Hiroshima%20Matsuyama/"
+      }
+    },
     {
       "id": "plan_9c8f2507",
       "created_at": "2026-05-24T00:12:41.650712",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese onsen hotel discount",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-hotel-discount",
         "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20hotel%20discount/"
-      }
-    },
-    {
-      "id": "plan_74c2af82",
-      "created_at": "2026-05-21T00:18:40.833401",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR、連続5日間乗り放題「大人の休日倶楽部パス」初夏分は明日発売。東京～新青森往復のみでも1万4400円お得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110368.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 동일본 5일 무제한 탑승! 여름철 일본 여행 필수템 '대어른의 휴일 클럽 패스' 출시!"
-      },
-      "content": {
-        "thumbnail_title": "JR 5일 무제한 패스 ✈️",
-        "cards": [
-          {
-            "title": "패스 정보",
-            "content": "JR 동일본에서 '대어른의 휴일 클럽 패스' 2026년도 제1회를 5월 22일에 발매합니다. 이 패스는 5일 동안 JR 동일본 지역 내 열차를 무제한으로 탈 수 있는 특별 이용권입니다.",
-            "alt_text": "JR 동일본 대어른의 휴일 클럽 패스 공식 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "패스 이용 기간은 6월 22일부터 7월 4일까지입니다. 여름철 일본 동북 지역 여행을 계획 중이라면 이 기간을 놓치지 마세요!",
-            "alt_text": "캘린더에 6월 22일 ~ 7월 4일 표시"
-          },
-          {
-            "title": "핵심 혜택",
-            "content": "예를 들어, 도쿄에서 신아오모리까지 왕복하는 경우만으로도 약 14,400엔의 비용을 절약할 수 있습니다. 장거리 이동 시 매우 경제적입니다.",
-            "alt_text": "동일본 지도에 도쿄-신아오모리 노선 표시"
-          },
-          {
-            "title": "이용 대상",
-            "content": "이 패스는 '대어른의 휴일 클럽' 회원 한정으로 판매됩니다. 아직 회원이 아니라면 가입 후 패스를 구매할 수 있습니다.",
-            "alt_text": "'대어른의 휴일 클럽' 회원 카드 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "동북 지역의 아름다운 여름 풍경을 만끽할 수 있는 절호의 기회! 5일 동안 자유롭게 JR 열차를 이용해 숨겨진 명소를 탐험해보세요.",
-            "alt_text": "일본 동북 지역의 푸른 여름 풍경 이미지"
-          }
-        ],
-        "caption": "JR 동일본 5일 무제한 탑승권 '대어른의 휴일 클럽 패스'가 돌아왔습니다! 🤩\n\n✅ 발매일: 5월 22일\n✅ 이용 기간: 6월 22일 ~ 7월 4일\n\n동북 지역 여행을 계획 중이라면, 이 패스로 교통비 절약하고 알찬 여행 즐기세요! 🚄\n\n#일본여행 #JR패스 #대어른의휴일클럽패스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR패스",
-          "#대어른의휴일클럽패스",
-          "#일본교통",
-          "#일본기차여행",
-          "#동일본",
-          "#여름휴가",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#가성비여행",
-          "#여행정보",
-          "#일본철도",
-          "#일본가볼만한곳",
-          "#일본현지정보"
-        ],
-        "alt_texts": [
-          "JR 동일본 대어른의 휴일 클럽 패스 공식 이미지",
-          "캘린더에 6월 22일 ~ 7월 4일 표시",
-          "동일본 지도에 도쿄-신아오모리 노선 표시",
-          "'대어른의 휴일 클럽' 회원 카드 이미지",
-          "일본 동북 지역의 푸른 여름 풍경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름철 일본 동북 지역 여행을 계획하는 40대 이상 한국인 여행자 / 최적 게시 시간: 20시 / 기대 반응: 패스 구매 정보에 대한 높은 관심 및 문의 / 이 콘텐츠의 강점: 명확한 혜택과 구체적인 기간 제시로 여행 계획에 직접적인 도움을 줌",
-      "image": {
-        "keyword": "JR East, Otona no Kyujitsu Club Pass, Japan train, summer travel, Tohoku region",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-East,-Otona-no-Kyujitsu-Club-Pass,-Japan-train,-summer-travel,-Tohoku-region",
-        "pexels_url": "https://www.pexels.com/search/JR%20East,%20Otona%20no%20Kyujitsu%20Club%20Pass,%20Japan%20train,%20summer%20travel,%20Tohoku%20region/"
-      }
-    },
-    {
-      "id": "plan_dde47332",
-      "created_at": "2026-05-21T00:18:35.102380",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR札幌駅、2029年度までに大幅リニューアル。エキナカ商業施設は1.5倍に拡大・約30店舗が27年度末開業へ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110369.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2029년까지 삿포로역이 1.5배 커진다니, 쇼핑과 식당 즐길 거리가 훨씬 늘어날 예정이에요!"
-      },
-      "content": {
-        "thumbnail_title": "삿포로역, 2029년까지 1.5배 확장! 🛍️",
-        "cards": [
-          {
-            "title": "삿포로역 리뉴얼",
-            "content": "JR삿포로역이 2029년 1분기까지 대규모 리뉴얼 공사를 진행합니다. 공사가 완료되면 역 공간이 현재의 1.5배로 확장될 예정입니다.",
-            "alt_text": "JR삿포로역 전경"
-          },
-          {
-            "title": "쇼핑몰 확대",
-            "content": "새롭게 확장될 에키나카(역 안) 상업 시설에는 약 30개의 점포가 들어설 예정입니다. 이 중 일부는 2027년 말부터 순차적으로 개점합니다.",
-            "alt_text": "확장될 삿포로역 상업 시설 조감도"
-          },
-          {
-            "title": "여행 편의 증진",
-            "content": "리뉴얼을 통해 쇼핑, 식사 등 다양한 즐길 거리가 늘어나 삿포로 여행객들의 편의와 만족도가 더욱 높아질 것으로 기대됩니다.",
-            "alt_text": "삿포로역 이용객들의 모습"
-          },
-          {
-            "title": "새로운 랜드마크",
-            "content": "2029년 완공 시, 삿포로역은 더욱 현대적이고 편리한 복합 공간으로 거듭나 삿포로의 새로운 랜드마크가 될 것입니다.",
-            "alt_text": "미래의 삿포로역 모습 상상도"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "2027년 말부터 순차적으로 오픈하는 상점들을 고려하여 삿포로 여행 계획을 세우면 더욱 알찬 쇼핑과 미식 경험을 할 수 있습니다. 공사 기간 중에도 역 이용에는 큰 불편이 없을 것으로 예상됩니다.",
-            "alt_text": "여행 계획을 세우는 사람의 손"
-          }
-        ],
-        "caption": "홋카이도 삿포로 여행 예정이라면 주목! ✈️ JR삿포로역이 2029년까지 1.5배 규모로 확장됩니다. 2027년 말부터 약 30개의 신규 상점들이 순차적으로 문을 열 예정이니, 쇼핑과 맛집 탐방을 더욱 풍성하게 즐길 수 있겠어요. 삿포로 여행 계획에 참고하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#삿포로",
-          "#삿포로역",
-          "#홋카이도",
-          "#삿포로여행",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#일본건축",
-          "#역사",
-          "#여행정보",
-          "#일본뉴스",
-          "#여행스타그램",
-          "#홋카이도여행",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "JR삿포로역 전경",
-          "확장될 삿포로역 상업 시설 조감도",
-          "삿포로역 이용객들의 모습",
-          "미래의 삿포로역 모습 상상도",
-          "여행 계획을 세우는 사람의 손"
-        ]
-      },
-      "marketer_analysis": "타겟: 삿포로 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 삿포로 여행 계획에 대한 관심 증폭, 정보 공유 활발 / 이 콘텐츠의 강점: 구체적인 완공 시점과 점포 수 등 실질적인 정보 제공",
-      "image": {
-        "keyword": "Sapporo Station renovation, Hokkaido travel, Japan shopping, new stores, future landmark",
-        "unsplash_url": "https://unsplash.com/s/photos/Sapporo-Station-renovation,-Hokkaido-travel,-Japan-shopping,-new-stores,-future-landmark",
-        "pexels_url": "https://www.pexels.com/search/Sapporo%20Station%20renovation,%20Hokkaido%20travel,%20Japan%20shopping,%20new%20stores,%20future%20landmark/"
       }
     }
   ]
