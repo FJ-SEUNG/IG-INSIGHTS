@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-24T04:24:22.062457",
+  "last_updated": "2026-05-25T00:13:20.526079",
   "plans": [
+    {
+      "id": "plan_974c2aa7",
+      "created_at": "2026-05-25T00:13:18.525892",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR西日本×A SCENE、「弱冷車」など車内案内ステッカーをモチーフにしたコラボアイテム",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111053.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수품! '약냉차' 스티커가 힙한 굿즈로 재탄생했어요!"
+      },
+      "content": {
+        "thumbnail_title": "JR西日本 🤝 A SCENE 굿즈✨",
+        "cards": [
+          {
+            "title": "콜라보 굿즈",
+            "content": "JR 서일본과 A SCENE이 협력하여 '약냉차' 등 열차 내 안내 스티커를 모티브로 한 콜라보레이션 아이템을 출시했습니다.",
+            "alt_text": "일본 열차 내 안내 스티커 이미지"
+          },
+          {
+            "title": "판매처",
+            "content": "이번 콜라보 굿즈는 A SCENE 루쿠아 오사카점(오사카부 오사카시 기타구 우메다 3-1-3)과 tabiwa에서 순차적으로 판매될 예정입니다.",
+            "alt_text": "A SCENE 루쿠아 오사카점 매장 전경"
+          },
+          {
+            "title": "디자인",
+            "content": "일본 열차에서 흔히 볼 수 있는 '약냉차' 스티커의 디자인을 감각적으로 재해석하여 소장 가치를 높였습니다.",
+            "alt_text": "'약냉차' 스티커를 모티브로 한 굿즈 디자인 이미지"
+          },
+          {
+            "title": "여행 기념품",
+            "content": "일본 여행의 특별한 추억을 간직하고 싶다면, 독특하고 실용적인 이 콜라보 굿즈를 기념품으로 추천합니다.",
+            "alt_text": "다양한 디자인의 콜라보 굿즈 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "한정 수량으로 제작될 가능성이 있으니, 관심 있다면 판매 시작 일정과 장소를 미리 확인하고 서둘러 구매하는 것이 좋습니다.",
+            "alt_text": "일본 기차역에서 쇼핑하는 모습"
+          }
+        ],
+        "caption": "일본 여행 필수품! 🇯🇵 JR 서일본과 A SCENE이 만나 '약냉차' 스티커가 힙한 굿즈로 재탄생했어요! ✨\n\n오사카 루쿠아점에서 만날 수 있는 이 특별한 콜라보 아이템으로 당신의 일본 여행을 더욱 특별하게 기록해보세요. 🚄\n\n#일본여행 #플라잉재팬 #JR서일본 #A_SCENE #오사카여행 #일본굿즈 #여행기념품 #약냉차",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR서일본",
+          "#ASCENE",
+          "#오사카여행",
+          "#일본굿즈",
+          "#여행기념품",
+          "#약냉차",
+          "#일본쇼핑",
+          "#일본한정",
+          "#여행필수템",
+          "#일본감성",
+          "#여행스타그램",
+          "#일본정보",
+          "#도쿄여행"
+        ],
+        "alt_texts": [
+          "일본 열차 내 안내 스티커 이미지",
+          "A SCENE 루쿠아 오사카점 매장 전경",
+          "'약냉차' 스티커를 모티브로 한 굿즈 디자인 이미지",
+          "다양한 디자인의 콜라보 굿즈 이미지",
+          "일본 기차역에서 쇼핑하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 관심, 구매 문의 증가 / 이 콘텐츠의 강점: 독특하고 희소성 있는 굿즈 정보로 시선을 사로잡으며, 실질적인 구매 정보까지 제공",
+      "image": {
+        "keyword": "JR West Japan A SCENE collaboration goods, Japanese train sticker, Osaka shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-West-Japan-A-SCENE-collaboration-goods,-Japanese-train-sticker,-Osaka-shopping",
+        "pexels_url": "https://www.pexels.com/search/JR%20West%20Japan%20A%20SCENE%20collaboration%20goods,%20Japanese%20train%20sticker,%20Osaka%20shopping/"
+      }
+    },
+    {
+      "id": "plan_482719e5",
+      "created_at": "2026-05-25T00:13:12.989112",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "和歌山県、航空券＋宿泊が最大1万5000円引き「熊野白浜リゾート空港 旅トクキャンペーン」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111104.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 최대 1만 5천 엔까지 절약할 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "💰와카야마 여행 지원! 1.5만엔 할인!",
+        "cards": [
+          {
+            "title": "여행 지원 캠페인",
+            "content": "일본 와카야마현에서 '熊野白浜リゾート空港 旅トクキャンペーン'을 실시합니다. 항공권과 숙박을 묶어 최대 1만 5천 엔 할인 혜택을 제공합니다.",
+            "alt_text": "와카야마현 여행 지원 캠페인 안내"
+          },
+          {
+            "title": "할인 금액",
+            "content": "본 캠페인을 통해 항공권과 숙박을 함께 예약하면 최대 1만 5천 엔까지 할인받을 수 있어, 여행 경비를 크게 절약할 수 있습니다.",
+            "alt_text": "여행 경비 할인 금액 표시"
+          },
+          {
+            "title": "참여 방법",
+            "content": "와카야마현 熊野白浜リゾート空港 지역 진흥 위원회에서 주관하는 캠페인입니다. 자세한 참여 방법은 해당 위원회의 공지를 확인하세요.",
+            "alt_text": "캠페인 주관 기관 안내"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "본 '旅トクキャンペーン'은 2024년 7월 16일까지 진행됩니다. 기간 내에 예약을 완료해야 혜택을 받을 수 있습니다.",
+            "alt_text": "캠페인 종료 날짜 표시"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "와카야마의 아름다운 자연과 문화를 더욱 저렴하게 즐길 수 있는 기회입니다. 서둘러 예약하고 알뜰한 일본 여행 계획하세요!",
+            "alt_text": "일본 와카야마 여행지 풍경"
+          }
+        ],
+        "caption": "✈️ 와카야마 여행 계획 중이라면 주목! ✈️\n\n일본 와카야마현에서 7월 16일까지 '熊野白浜リゾート空港 旅トクキャンペーン'을 진행합니다! 🎉\n\n항공권 + 숙박을 함께 예약하면 최대 1만 5천 엔 할인 혜택을 받을 수 있다는 사실! 🤩\n\n알뜰하게 와카야마 여행을 즐길 수 있는 절호의 찬스! 놓치지 말고 지금 바로 확인해보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#와카야마",
+          "#와카야마여행",
+          "#일본할인",
+          "#여행지원",
+          "#여행꿀팁",
+          "#일본항공권",
+          "#일본숙소",
+          "#일본여행정보",
+          "#해외여행",
+          "#여름휴가",
+          "#여행스타그램",
+          "#일본",
+          "#旅トクキャンペーン"
+        ],
+        "alt_texts": [
+          "와카야마현 여행 지원 캠페인 안내",
+          "여행 경비 할인 금액 표시",
+          "캠페인 주관 기관 안내",
+          "캠페인 종료 날짜 표시",
+          "일본 와카야마 여행지 풍경"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 와카야마 지역 여행을 계획하거나 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (퇴근 후 정보 탐색 시간) / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 기간 명시로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Wakayama travel discount campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/Wakayama-travel-discount-campaign",
+        "pexels_url": "https://www.pexels.com/search/Wakayama%20travel%20discount%20campaign/"
+      }
+    },
     {
       "id": "plan_5256e477",
       "created_at": "2026-05-24T04:24:20.062283",
@@ -923,160 +1077,6 @@
         "keyword": "japan ryokan discount, onsen hotel summer sale, TAOYA Gero, early summer fair japan",
         "unsplash_url": "https://unsplash.com/s/photos/japan-ryokan-discount,-onsen-hotel-summer-sale,-TAOYA-Gero,-early-summer-fair-japan",
         "pexels_url": "https://www.pexels.com/search/japan%20ryokan%20discount,%20onsen%20hotel%20summer%20sale,%20TAOYA%20Gero,%20early%20summer%20fair%20japan/"
-      }
-    },
-    {
-      "id": "plan_fbb1cc46",
-      "created_at": "2026-05-21T04:38:51.099468",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ダッフィーの夏メニュー＆スーベニアが「ケープコッド・クックオフ」で発売！　ディズニーホテルでも限定ランチ提供",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110307.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후들 주목! 도쿄디즈니씨 한정 신메뉴를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니씨 여름 한정✨",
-        "cards": [
-          {
-            "title": "신메뉴 출시!",
-            "content": "도쿄디즈니씨에서 '다니엘&프렌즈의 파인드 유어 뷰티풀 블루!'와 연계된 여름 한정 메뉴가 7월 7일부터 발매됩니다.",
-            "alt_text": "도쿄디즈니씨 여름 한정 메뉴 이미지"
-          },
-          {
-            "title": "다니엘&프렌즈",
-            "content": "이번 한정 메뉴는 다채로운 바다를 테마로 한 '다니엘&프렌즈의 파인드 유어 뷰티풀 블루!' 프로그램의 일환으로 선보입니다.",
-            "alt_text": "다니엘&프렌즈 캐릭터 이미지"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "특별한 여름 시즌을 맞아 디자인된 한정 메뉴와 함께 잊지 못할 디즈니씨 추억을 만들어보세요.",
-            "alt_text": "도쿄디즈니씨 풍경 이미지"
-          },
-          {
-            "title": "디즈니 호텔",
-            "content": "디즈니 호텔에서도 이 기간 동안 특별한 한정 런치 메뉴를 제공할 예정입니다.",
-            "alt_text": "디즈니 호텔 외관 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기가 많을 것으로 예상되니, 방문 전 공식 홈페이지를 통해 메뉴 및 운영 시간을 다시 한번 확인하는 것이 좋습니다. 특히, 호텔 런치 메뉴는 사전 예약이 필요할 수 있습니다.",
-            "alt_text": "디즈니씨 지도 이미지"
-          }
-        ],
-        "caption": "💙도쿄디즈니씨 여름 한정 신메뉴가 7월 7일부터 시작됩니다!💙\n\n'다니엘&프렌즈의 파인드 유어 뷰티풀 블루!' 프로그램과 함께하는 특별한 메뉴들을 만나보세요.\n디즈니 호텔에서도 한정 런치 메뉴가 제공될 예정이니, 디즈니 덕후라면 절대 놓치지 마세요!\n\n#일본여행 #도쿄디즈니씨 #다니엘앤프렌즈 #디즈니신메뉴 #일본여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#다니엘앤프렌즈",
-          "#디즈니신메뉴",
-          "#여름한정",
-          "#일본축제",
-          "#도쿄여행",
-          "#디즈니호텔",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#디즈니랜드",
-          "#일본쇼핑",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "도쿄디즈니씨 여름 한정 메뉴 이미지",
-          "다니엘&프렌즈 캐릭터 이미지",
-          "도쿄디즈니씨 풍경 이미지",
-          "디즈니 호텔 외관 이미지",
-          "디즈니씨 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄디즈니씨 방문 예정인 한국인 여행자, 디즈니 팬 / 최적 게시 시간: 평일 오후 5~7시 / 기대 반응: 높은 관심과 정보 공유, 방문 계획에 대한 기대감 상승 / 이 콘텐츠의 강점: 시의성 있는 한정 메뉴 정보, 디즈니 팬들의 니즈 충족",
-      "image": {
-        "keyword": "Tokyo DisneySea Duffy and Friends summer menu",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Duffy-and-Friends-summer-menu",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Duffy%20and%20Friends%20summer%20menu/"
-      }
-    },
-    {
-      "id": "plan_7ab308a9",
-      "created_at": "2026-05-21T04:38:42.018063",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 伊東ホテルニュー岡部、1泊2食プランが最大25％オフ。金目鯛＆あわびも食べ放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110371.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 할인 정보, 최대 25% 저렴하게 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 25% 할인!♨️",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "일본 온천 숙소 '오에도 온천 이야기 프리미엄 이토 호텔 뉴 오카베'에서 1박 2식 플랜이 최대 25% 할인됩니다.",
-            "alt_text": "일본 온천 호텔 할인 배너"
-          },
-          {
-            "title": "할인 기간",
-            "content": "할인 혜택은 6월 1일까지 진행되는 '얼리 서머 페어' 기간 동안 적용됩니다. 서둘러 예약하세요!",
-            "alt_text": "할인 기간 표시"
-          },
-          {
-            "title": "할인 방법",
-            "content": "라쿠텐 트래블 쿠폰과 숙소 쿠폰을 함께 사용하면 할인율이 극대화됩니다. 중복 할인을 꼭 챙기세요!",
-            "alt_text": "쿠폰 중복 사용 이미지"
-          },
-          {
-            "title": "포함 메뉴",
-            "content": "1박 2식 플랜에는 금눈돔과 전복이 포함된 뷔페가 제공됩니다. 신선한 해산물을 마음껏 즐기세요!",
-            "alt_text": "금눈돔과 전복 요리 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 온천 숙소는 조기 마감될 수 있으니, 여행 계획이 있다면 지금 바로 예약하는 것을 추천합니다.",
-            "alt_text": "온천 여행 짐 싸는 모습"
-          }
-        ],
-        "caption": "일본 온천 여행 계획 중이신가요? ♨️\n\n'오에도 온천 이야기 프리미엄 이토 호텔 뉴 오카베'에서 1박 2식 플랜을 최대 25% 할인된 가격으로 만나보세요! 🤩\n\n6월 1일까지 진행되는 '얼리 서머 페어' 기간에 라쿠텐 트래블 쿠폰과 숙소 쿠폰을 중복 사용하면 더욱 저렴하게 이용 가능합니다.\n\n맛있는 금눈돔과 전복이 포함된 뷔페도 놓치지 마세요! 🦀\n\n지금 바로 예약하고 알찬 일본 온천 여행을 떠나세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#온천여행",
-          "#일본숙소",
-          "#호텔할인",
-          "#이토",
-          "#오에도온천",
-          "#라쿠텐트래블",
-          "#얼리서머페어",
-          "#일본자유여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본여행팁",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본 온천 호텔 할인 배너",
-          "할인 기간 표시",
-          "쿠폰 중복 사용 이미지",
-          "금눈돔과 전복 요리 이미지",
-          "온천 여행 짐 싸는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시, 토요일 오전 10시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율과 기간, 포함 메뉴까지 명확하게 제시하여 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "Japanese onsen hotel discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-hotel-discount",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20hotel%20discount/"
       }
     }
   ]
