@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-25T04:45:58.079585",
+  "last_updated": "2026-05-26T00:15:57.959360",
   "plans": [
+    {
+      "id": "plan_98bb49a0",
+      "created_at": "2026-05-26T00:15:55.959111",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "全国で旅行キャンペーン続々、最大1万5000円オフも！　いまお得な自治体まとめ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111492.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 최대 1만 5천 엔까지 절약할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 최대 1.5만엔 할인! 일본 여행 찬스",
+        "cards": [
+          {
+            "title": "여행 할인 찬스",
+            "content": "2026년에도 일본 전국 지자체에서 다양한 여행 캠페인을 진행합니다. 숙박 할인부터 시작해 음식, 기념품 구매 시 사용할 수 있는 쿠폰도 제공됩니다.",
+            "alt_text": "일본 지도 위에 할인 쿠폰 아이콘이 표시된 이미지"
+          },
+          {
+            "title": "관광 혜택",
+            "content": "일부 지자체에서는 관광 시설 입장료 할인이나 특별 체험 액티비티를 저렴하게 이용할 수 있는 혜택도 제공합니다. 놓치지 마세요!",
+            "alt_text": "일본 유명 관광지 풍경과 할인 혜택 아이콘이 함께 있는 이미지"
+          },
+          {
+            "title": "지역별 맞춤 혜택",
+            "content": "각 지자체마다 독자적인 캠페인으로 여행객을 맞이할 준비를 하고 있습니다. 방문하려는 지역의 특별 혜택을 미리 확인해보세요.",
+            "alt_text": "다양한 일본 지역 특색을 담은 사진 모음"
+          },
+          {
+            "title": "최대 1만 5천엔 할인",
+            "content": "잘 활용하면 최대 1만 5천 엔 상당의 여행 경비를 절약할 수 있습니다. 알뜰한 일본 여행을 계획하는 분들에게 최고의 기회입니다.",
+            "alt_text": "금액 할인 표시와 일본 엔화 지폐 이미지가 함께 있는 디자인"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획 시, 각 지자체의 공식 홈페이지나 관련 정보를 미리 찾아보는 것이 좋습니다. 예상치 못한 꿀팁을 발견할 수도 있습니다!",
+            "alt_text": "돋보기로 일본 지도와 할인 정보를 찾는 일러스트"
+          }
+        ],
+        "caption": "일본 여행, 더 알뜰하게 즐기자! 🇯🇵 \n2026년에도 일본 전국 지자체에서 최대 1만 5천 엔 할인 혜택을 제공하는 여행 캠페인이 계속됩니다.\n숙박 할인, 음식/기념품 쿠폰, 관광지 입장료 할인 등 다양한 혜택을 놓치지 마세요!\n지금 바로 여러분의 여행 계획에 맞춰 혜택을 확인하고 알찬 일본 여행을 준비하세요! ✨\n\n#일본여행 #플라잉재팬 #일본할인 #여행꿀팁 #일본자유여행 #여행정보 #일본생활 #일본정보 #일본축제 #일본맛집 #일본쇼핑 #일본교통 #일본숙소 #여행스타그램 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본할인",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#여행정보",
+          "#일본생활",
+          "#일본정보",
+          "#일본축제",
+          "#일본맛집",
+          "#일본쇼핑",
+          "#일본교통",
+          "#일본숙소",
+          "#여행스타그램",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "일본 지도 위에 할인 쿠폰 아이콘이 표시된 이미지",
+          "일본 유명 관광지 풍경과 할인 혜택 아이콘이 함께 있는 이미지",
+          "다양한 일본 지역 특색을 담은 사진 모음",
+          "금액 할인 표시와 일본 엔화 지폐 이미지가 함께 있는 디자인",
+          "돋보기로 일본 지도와 할인 정보를 찾는 일러스트"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 (특히 비용 절감에 관심 있는 그룹) / 최적 게시 시간: 오후 7시~9시 (여행 계획을 세우는 시간) / 기대 반응: 높은 참여율 (정보 공유, 댓글 문의), 저장 및 공유 수 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액 명시, 미래까지 이어지는 혜택 정보 제공, 실질적인 여행 경비 절감 효과 강조",
+      "image": {
+        "keyword": "Japan travel discount coupon, Japanese local government campaign, save money on Japan trip",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount-coupon,-Japanese-local-government-campaign,-save-money-on-Japan-trip",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount%20coupon,%20Japanese%20local%20government%20campaign,%20save%20money%20on%20Japan%20trip/"
+      }
+    },
+    {
+      "id": "plan_8a491e57",
+      "created_at": "2026-05-26T00:15:48.030929",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社「今こそ行きたい 日本の絶景宿」。美しい大判写真とともに厳選ガイド",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111501.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본의 숨겨진 절경 숙소 정보, 놓치면 후회할 거예요!"
+      },
+      "content": {
+        "thumbnail_title": "✨일본 절경 숙소 100곳✨",
+        "cards": [
+          {
+            "title": "절경 숙소 가이드북",
+            "content": "일본의 아름다운 풍경을 만끽할 수 있는 '절경 숙소' 가이드북이 5월 29일 출시됩니다. 📸  무크 '今こそ行きたい 日本の絶景宿'에서 엄선된 숙소 정보를 만나보세요.",
+            "alt_text": "일본 절경 숙소 가이드북 표지 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "이번 가이드북의 가격은 1499엔입니다.  여행 경비 계획에 참고하세요! 💰",
+            "alt_text": "일본 엔화 지폐 이미지"
+          },
+          {
+            "title": "엄선된 정보",
+            "content": "사진작가들이 직접 선정한 아름다운 풍경을 자랑하는 숙소들만 담았습니다.  잊지 못할 추억을 만들 수 있는 곳들을 찾아보세요. 🏞️",
+            "alt_text": "아름다운 일본 자연 풍경 이미지"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "가이드북을 활용하여 나만의 특별한 일본 여행 계획을 세워보세요.  아직 알려지지 않은 숨은 명소를 발견할 기회! 🗺️",
+            "alt_text": "일본 지도 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "여행 전, 이 가이드북으로 최고의 일본 숙소를 미리 찜하세요!  예약은 필수인 곳이 많으니 서두르는 것이 좋습니다. 👍",
+            "alt_text": "여행 가방과 여권 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수템 등장! 🇯🇵\n\n숨 막히는 절경을 품은 일본 숙소 100곳을 엄선한 가이드북이 5월 29일 출시됩니다.\n\n'今こそ行きたい 日本の絶景宿' (이마 코소 이키타이 니혼노 젯케이 야도)는 1499엔으로 만나볼 수 있으며, 아름다운 사진과 함께 최고의 휴식을 선사할 숙소들을 소개합니다.\n\n나만의 특별한 일본 여행, 이 가이드북으로 시작하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본절경",
+          "#여행가이드북",
+          "#일본자유여행",
+          "#일본여행정보",
+          "#일본숙소추천",
+          "#여행준비",
+          "#일본여행계획",
+          "#일본명소",
+          "#절경숙소",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본 절경 숙소 가이드북 표지 이미지",
+          "일본 엔화 지폐 이미지",
+          "아름다운 일본 자연 풍경 이미지",
+          "일본 지도 이미지",
+          "여행 가방과 여권 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 여행의 질을 높여줄 실용적인 정보와 기대감 조성",
+      "image": {
+        "keyword": "japan scenic hotel guide book",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-scenic-hotel-guide-book",
+        "pexels_url": "https://www.pexels.com/search/japan%20scenic%20hotel%20guide%20book/"
+      }
+    },
     {
       "id": "plan_283f2307",
       "created_at": "2026-05-25T04:45:56.079421",
@@ -923,160 +1077,6 @@
         "keyword": "Japan ferry, Hiroshima, Matsuyama, Seto Inland Sea, AIVINT, new route, travel information",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Hiroshima,-Matsuyama,-Seto-Inland-Sea,-AIVINT,-new-route,-travel-information",
         "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Hiroshima,%20Matsuyama,%20Seto%20Inland%20Sea,%20AIVINT,%20new%20route,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_aa8158fc",
-      "created_at": "2026-05-22T04:23:40.665146",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ぴよりんTOICA」本日発売。約40万枚限定・駅券売機は2000円、どこで買える？",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110870.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템! '삐요링' 디자인 교통카드로 간편하게 결제하세요!"
-      },
-      "content": {
-        "thumbnail_title": "삐요링 교통카드 💖",
-        "cards": [
-          {
-            "title": "오늘부터 발매!",
-            "content": "귀여운 '삐요링' 캐릭터 디자인의 JR도카이 교통계 IC카드 '삐요링TOICA'가 드디어 오늘 발매됩니다. 15주년 기념 한정판이에요!",
-            "alt_text": "삐요링TOICA 카드 이미지"
-          },
-          {
-            "title": "약 40만 장 한정",
-            "content": "총 약 40만 장만 한정 판매되니 서둘러야 해요. 마음에 드는 디자인이라면 여행 기념품으로도 좋아요.",
-            "alt_text": "삐요링TOICA 카드 디자인 디테일 컷"
-          },
-          {
-            "title": "가격 정보",
-            "content": "JR도카이 역 판매기에서는 2000엔에 구매 가능하며, 충전 금액은 별도입니다. 자세한 구매처는 추가 확인이 필요해요.",
-            "alt_text": "삐요링TOICA 카드 가격 정보 표시"
-          },
-          {
-            "title": "어디서 살 수 있나요?",
-            "content": "JR도카이 교통계 IC카드 '삐요링TOICA'는 JR도카이 주요 역의 판매기에서 구매할 수 있습니다. (추후 판매처 정보 업데이트 예정)",
-            "alt_text": "일본 JR 역 승차권 판매기 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "일본 현지에서 대중교통 이용 시 매우 유용하며, 편의점 등에서도 결제 가능해요. 여행 전 미리 준비하면 편리하게 이용할 수 있습니다.",
-            "alt_text": "일본 대중교통 이용객 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템 등장! 💖 귀여운 '삐요링' 디자인의 한정판 교통카드 '삐요링TOICA'가 오늘부터 발매됩니다! ✈️ 약 40만 장 한정 수량이니 서두르세요! 💳 JR도카이 주요 역 판매기에서 2000엔에 구매 가능하며, 일본 여행 중 대중교통 이용 및 편의점 결제까지 한 번에 해결 가능! 😉\n\n#일본여행 #삐요링TOICA #교통카드 #한정판 #일본필수템 #JR도카이 #여행준비 #일본쇼핑 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#삐요링TOICA",
-          "#일본교통카드",
-          "#한정판",
-          "#일본여행준비",
-          "#JR도카이",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#일본필수템",
-          "#여행꿀팁",
-          "#일본",
-          "#삐요링",
-          "#IC카드"
-        ],
-        "alt_texts": [
-          "삐요링TOICA 카드 이미지",
-          "삐요링TOICA 카드 디자인 디테일 컷",
-          "삐요링TOICA 카드 가격 정보 표시",
-          "일본 JR 역 승차권 판매기 이미지",
-          "일본 대중교통 이용객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 구매 욕구 자극 / 이 콘텐츠의 강점: 실용적인 정보와 귀여운 디자인으로 소장 욕구 자극",
-      "image": {
-        "keyword": "Piyorin TOICA card, Japan train ticket machine, cute Japanese character, limited edition IC card, travel essential Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Piyorin-TOICA-card,-Japan-train-ticket-machine,-cute-Japanese-character,-limited-edition-IC-card,-travel-essential-Japan",
-        "pexels_url": "https://www.pexels.com/search/Piyorin%20TOICA%20card,%20Japan%20train%20ticket%20machine,%20cute%20Japanese%20character,%20limited%20edition%20IC%20card,%20travel%20essential%20Japan/"
-      }
-    },
-    {
-      "id": "plan_9c728804",
-      "created_at": "2026-05-22T04:23:31.309532",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "坂崎千春の羽田空港限定ペンギングッズ。「空・旅・日本」をテーマにトートバッグやハンドタオルなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110893.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템! 하네다 공항 한정 굿즈 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🐧하네다 공항 한정 펭귄 굿즈🐧",
-        "cards": [
-          {
-            "title": "한정 굿즈 출시!",
-            "content": "일러스트레이터 坂崎千春(사카자키 치하루) 작가의 사랑스러운 펭귄 굿즈가 하네다 공항에 상륙했어요! ✈️",
-            "alt_text": "귀여운 펭귄 일러스트가 그려진 상품 이미지"
-          },
-          {
-            "title": "테마는 '하늘・여행・일본'",
-            "content": "이번 굿즈 컬렉션은 '하늘, 여행, 일본'을 테마로 제작되었답니다. 🇯🇵",
-            "alt_text": "하늘과 일본을 상징하는 요소들이 담긴 굿즈 이미지"
-          },
-          {
-            "title": "다양한 상품 구성",
-            "content": "여행 가방에 쏙 들어가는 토트백부터 매일 사용하기 좋은 핸드타월까지, 실용적인 아이템들로 구성되어 있어요. 👜",
-            "alt_text": "토트백, 핸드타월 등 다양한 굿즈 이미지"
-          },
-          {
-            "title": "구매처는 여기!",
-            "content": "하네다 공항 공식 온라인 쇼핑몰 'HANEDA Shopping'과 제2터미널 3층 'Tokyo's Tokyo'에서 구매 가능합니다.",
-            "alt_text": "하네다 공항 쇼핑몰 안내 이미지"
-          },
-          {
-            "title": "여행 기념품으로 딱!",
-            "content": "일본 여행의 추억을 간직하고 싶다면, 하네다 공항에서만 만날 수 있는 특별한 펭귄 굿즈를 놓치지 마세요! 🎁",
-            "alt_text": "굿즈를 들고 웃고 있는 여행객 이미지"
-          }
-        ],
-        "caption": "✈️일본 여행 필수 득템 찬스!✈️\n하네다 공항에서만 만날 수 있는 坂崎千春 작가의 펭귄 굿즈가 출시되었습니다! 🐧\n'하늘・여행・일본' 테마로 제작된 토트백, 핸드타월 등 실용적인 아이템들을 만나보세요.\nHANEDA Shopping 온라인몰과 제2터미널 'Tokyo's Tokyo'에서 구매 가능합니다! 🇯🇵\n#하네다공항 #일본여행굿즈 #한정판 #펭귄굿즈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하네다공항",
-          "#도쿄여행",
-          "#일본쇼핑",
-          "#여행기념품",
-          "#일본한정판",
-          "#펭귄굿즈",
-          "#坂崎千春",
-          "#HANEDA",
-          "#도쿄쇼핑",
-          "#일본쇼핑리스트",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#도쿄쇼핑리스트"
-        ],
-        "alt_texts": [
-          "귀여운 펭귄 일러스트가 그려진 상품 이미지",
-          "하늘과 일본을 상징하는 요소들이 담긴 굿즈 이미지",
-          "토트백, 핸드타월 등 다양한 굿즈 이미지",
-          "하네다 공항 쇼핑몰 안내 이미지",
-          "굿즈를 들고 웃고 있는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6시-8시 / 기대 반응: 구매 욕구 자극, 여행 준비 정보 획득 / 이 콘텐츠의 강점: 희소성 높은 한정판 굿즈 정보, 구체적인 구매처 안내",
-      "image": {
-        "keyword": "Haneda Airport limited edition penguin goods, Chiharu Sakazaki illustration",
-        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport-limited-edition-penguin-goods,-Chiharu-Sakazaki-illustration",
-        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport%20limited%20edition%20penguin%20goods,%20Chiharu%20Sakazaki%20illustration/"
       }
     }
   ]
