@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-26T00:15:57.959360",
+  "last_updated": "2026-05-26T04:20:37.288968",
   "plans": [
+    {
+      "id": "plan_02dc409a",
+      "created_at": "2026-05-26T04:20:35.288791",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「長崎しま旅割引キャンペーン」で体験付き宿泊プランが1泊最大3000円引き。対馬や壱岐など6つの島々",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111607.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 나가사키 6개 섬에서 최대 3000엔 할인받고 숙박+체험 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "나가사키 섬 여행 3000엔 할인!✈️",
+        "cards": [
+          {
+            "title": "할인 캠페인",
+            "content": "나가사키현에서 '나가사키 시마타비 할인 캠페인'을 5월부터 진행합니다. 체험 포함 숙박 플랜 이용 시 1박당 최대 3,000엔까지 할인받을 수 있어요.",
+            "alt_text": "나가사키 섬 여행 할인 캠페인 안내 이미지"
+          },
+          {
+            "title": "할인 대상 섬",
+            "content": "이번 캠페인은 대마도(쓰시마), 이키 등 나가사키현의 6개 섬을 대상으로 합니다. 아름다운 섬들을 더 저렴하게 여행할 기회입니다.",
+            "alt_text": "나가사키현 6개 섬 지도 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "숙박 플랜에 따라 다르지만, 1박 기준으로 최대 3,000엔까지 숙박비를 절약할 수 있습니다. 여행 경비를 줄일 수 있는 좋은 기회예요.",
+            "alt_text": "할인 금액 표시 이미지"
+          },
+          {
+            "title": "체험 포함 플랜",
+            "content": "단순 숙박뿐만 아니라, 각 섬에서 즐길 수 있는 특별한 체험 프로그램이 포함된 플랜도 할인 대상입니다. 잊지 못할 추억을 만들어보세요.",
+            "alt_text": "일본 섬에서 체험 활동하는 모습 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "캠페인 기간 및 자세한 할인 적용 방법은 나가사키현 관광청 공식 발표를 꼭 확인하세요. 조기 마감될 수 있으니 서둘러 예약하는 것이 좋습니다.",
+            "alt_text": "여행 예약 확인하는 이미지"
+          }
+        ],
+        "caption": "✨나가사키 섬 여행, 최대 3000엔 할인받자!✨\n\n일본 나가사키현에서 '나가사키 시마타비 할인 캠페인'을 시작했어요! 🤩\n\n대마도, 이키 등 6개 섬에서 체험 포함 숙박 플랜을 이용하면 1박당 최대 3,000엔까지 할인이 가능하답니다. 💸\n\n아름다운 나가사키의 섬들을 저렴하게 여행할 절호의 찬스! 놓치지 마세요! 😉\n\n#나가사키여행 #일본여행 #섬여행 #할인정보 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나가사키",
+          "#나가사키여행",
+          "#쓰시마",
+          "#이키",
+          "#일본숙소",
+          "#일본할인",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본축제",
+          "#일본이벤트",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "나가사키 섬 여행 할인 캠페인 안내 이미지",
+          "나가사키현 6개 섬 지도 이미지",
+          "할인 금액 표시 이미지",
+          "일본 섬에서 체험 활동하는 모습 이미지",
+          "여행 예약 확인하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 나가사키 지역 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 7시~9시 / 기대 반응: 할인 정보에 대한 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 대상 지역 명시, 실질적인 여행 경비 절감 정보 제공",
+      "image": {
+        "keyword": "Nagasaki island trip discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-island-trip-discount",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki%20island%20trip%20discount/"
+      }
+    },
+    {
+      "id": "plan_92bde46b",
+      "created_at": "2026-05-26T04:20:29.550829",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "秋田県、最大1万2000円引き「得旅キャンペーン」追加決定。じゃらん/楽天/一休で宿泊予約受付",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111625.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비 확 줄여주는 아키타현 숙박 할인 쿠폰 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨아키타 1만2천엔 할인!✨",
+        "cards": [
+          {
+            "title": "할인 쿠폰",
+            "content": "아키타현에서 최대 1만 2천엔 할인되는 '득旅 캠페인'이 추가로 결정되었습니다. 놓치면 후회할 절호의 기회입니다!",
+            "alt_text": "아키타현 득旅 캠페인 할인 쿠폰 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "일본 여행 예약 사이트인 자란, 라쿠텐 트래블, 잇큐에서 숙박 예약 시 쿠폰을 사용할 수 있습니다.",
+            "alt_text": "자란, 라쿠텐 트래블, 잇큐 로고 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "현재 진행 중인 '아직 알려지지 않은 아키타현. 득旅 캠페인 제1탄'에 대한 추가 지원입니다. 정확한 종료일은 확인이 필요합니다.",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "인기 요인",
+            "content": "예상보다 훨씬 뜨거운 반응으로 추가 쿠폰 배포가 결정될 만큼, 아키타현의 매력과 이번 캠페인의 인기를 실감할 수 있습니다.",
+            "alt_text": "인기 급증을 나타내는 그래프 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "아키타현의 숨겨진 매력을 발견하고 싶다면, 이번 기회에 저렴하게 숙박하며 알찬 여행을 계획해보세요!",
+            "alt_text": "아키타현 아름다운 풍경 사진"
+          }
+        ],
+        "caption": "✈️ 일본 여행 경비 절약 꿀팁! ✈️\n\n아키타현에서 최대 1만 2천엔 할인받고 숙박할 수 있는 '득旅 캠페인'이 추가 결정되었어요! 🎉\n\n자란, 라쿠텐 트래블, 잇큐에서 예약 가능하니, 아키타의 숨겨진 매력을 저렴하게 경험할 절호의 기회를 놓치지 마세요! 😉\n\n#아키타여행 #일본숙박할인 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#아키타현",
+          "#일본숙박",
+          "#일본여행정보",
+          "#일본할인",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본여행준비",
+          "#득旅캠페인",
+          "#자란",
+          "#라쿠텐트래블",
+          "#잇큐",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "아키타현 득旅 캠페인 할인 쿠폰 이미지",
+          "자란, 라쿠텐 트래블, 잇큐 로고 이미지",
+          "달력 이미지",
+          "인기 급증을 나타내는 그래프 이미지",
+          "아키타현 아름다운 풍경 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 직접적인 경비 절감 정보로 높은 관심 유도",
+      "image": {
+        "keyword": "Akita prefecture travel discount coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/Akita-prefecture-travel-discount-coupon",
+        "pexels_url": "https://www.pexels.com/search/Akita%20prefecture%20travel%20discount%20coupon/"
+      }
+    },
     {
       "id": "plan_98bb49a0",
       "created_at": "2026-05-26T00:15:55.959111",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen train interior, Japanese train, cool air conditioning, travel convenience, bullet train",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-train-interior,-Japanese-train,-cool-air-conditioning,-travel-convenience,-bullet-train",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20train%20interior,%20Japanese%20train,%20cool%20air%20conditioning,%20travel%20convenience,%20bullet%20train/"
-      }
-    },
-    {
-      "id": "plan_1da5c7c8",
-      "created_at": "2026-05-23T00:16:12.493522",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スカイマーク、ボーイング 737-8就航記念マグカップとバゲージタグを機内限定販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2111034.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "새로운 일본 여행 필수템! 스카이마크 신기재 기념 굿즈 출시 정보"
-      },
-      "content": {
-        "thumbnail_title": "✈️스카이마크 신상 굿즈 공개!",
-        "cards": [
-          {
-            "title": "신규 기재",
-            "content": "스카이마크가 보잉 737-8 신규 기재 도입을 기념하여 특별한 굿즈를 선보입니다. ✈️",
-            "alt_text": "스카이마크 보잉 737-8 항공기 이미지"
-          },
-          {
-            "title": "한정 판매",
-            "content": "이번 기념 굿즈는 6월 1일부터 순차적으로 기내에서만 한정 판매될 예정입니다. 🛍️",
-            "alt_text": "항공기 내부에서 판매되는 기념품 이미지"
-          },
-          {
-            "title": "굿즈 종류",
-            "content": "기념 굿즈로는 '보잉 737-8 취항 기념 머그컵'과 '러기지 태그'가 준비되어 있습니다. 🎁",
-            "alt_text": "머그컵과 러기지 태그 이미지"
-          },
-          {
-            "title": "구매 찬스",
-            "content": "스카이마크 이용 예정이라면, 신기재 취항 기념 특별한 굿즈를 놓치지 마세요! ✈️",
-            "alt_text": "항공기 창밖으로 보이는 풍경 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "여행 기념품으로도 좋고, 일본 여행 추억을 간직하기에 안성맞춤입니다. 수량 한정으로 조기 품절될 수 있으니 서두르세요! 🏃‍♀️",
-            "alt_text": "여행 가방과 기념품이 함께 있는 이미지"
-          }
-        ],
-        "caption": "스카이마크에서 보잉 737-8 신규 기재 취항 기념 특별 굿즈를 선보입니다! ✈️ \n6월 1일부터 기내에서만 한정 판매되는 머그컵과 러기지 태그로 일본 여행의 특별한 추억을 만들어보세요. 🎁\n여행 기념품으로도 완벽! 서둘러 득템하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스카이마크",
-          "#일본항공",
-          "#항공굿즈",
-          "#여행필수템",
-          "#일본쇼핑",
-          "#기념품",
-          "#여행스타그램",
-          "#일본항공사",
-          "#보잉737",
-          "#여행정보",
-          "#일본",
-          "#해외여행",
-          "#굿즈"
-        ],
-        "alt_texts": [
-          "스카이마크 보잉 737-8 항공기 이미지",
-          "항공기 내부에서 판매되는 기념품 이미지",
-          "머그컵과 러기지 태그 이미지",
-          "항공기 창밖으로 보이는 풍경 이미지",
-          "여행 가방과 기념품이 함께 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 스카이마크 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 한정판 굿즈 정보로 희소성 강조",
-      "image": {
-        "keyword": "skymark airlines boeing 737-8 aircraft cabin souvenir mug luggage tag",
-        "unsplash_url": "https://unsplash.com/s/photos/skymark-airlines-boeing-737-8-aircraft-cabin-souvenir-mug-luggage-tag",
-        "pexels_url": "https://www.pexels.com/search/skymark%20airlines%20boeing%20737-8%20aircraft%20cabin%20souvenir%20mug%20luggage%20tag/"
-      }
-    },
-    {
-      "id": "plan_49b9e9c4",
-      "created_at": "2026-05-23T00:16:05.458652",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "日本初リニア・フォイトジェット採用！　広島～松山間の新船「AIVINT」乗船してきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2111101.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "히로시마-마쓰야마 잇는 신규 페리 '아이빈트' 취항! 5월 24일부터!"
-      },
-      "content": {
-        "thumbnail_title": "🚢5/24 🚢히로시마-마쓰야마 신규 페리",
-        "cards": [
-          {
-            "title": "신규 페리 취항",
-            "content": "히로시마와 마쓰야마를 잇는 역사적인 항로에 새로운 여객선 '아이빈트(AIVINT)'가 5월 24일 취항합니다. 이 노선은 메이지 시대부터 이어져 온 깊은 역사를 자랑합니다.",
-            "alt_text": "새로운 일본 페리 '아이빈트'의 외관 모습"
-          },
-          {
-            "title": "첫 리니어・포이트젯",
-            "content": "새로운 여객선 '아이빈트'에는 일본 최초로 리니어・포이트젯 기술이 채택되었습니다. 더욱 빠르고 쾌적한 항해를 경험할 수 있습니다.",
-            "alt_text": "페리 내부에 설치된 첨단 기술 장비 이미지"
-          },
-          {
-            "title": "운항 구간",
-            "content": "이번에 새롭게 취항하는 '아이빈트'는 히로시마와 마쓰야마 구간을 운항합니다. 아름다운 세토내해의 풍경을 감상하며 이동할 수 있습니다.",
-            "alt_text": "일본 세토내해의 아름다운 바다 풍경"
-          },
-          {
-            "title": "페리 이름의 의미",
-            "content": "'아이빈트(AIVINT)'는 항구 도시인 히로시마의 옛 지명 '아키(安芸)'의 'A'와 마쓰야마가 속한 이요(伊予) 지역의 'I'를 따서 지어졌습니다. 두 지역의 연결을 상징합니다.",
-            "alt_text": "페리 이름 'AIVINT'가 새겨진 모습"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "히로시마와 마쓰야마를 잇는 새로운 교통수단으로, 두 도시를 묶어 여행 계획을 세우기 좋습니다. 새로운 페리를 타고 특별한 경험을 해보세요!",
-            "alt_text": "일본 페리에서 창밖을 바라보는 여행객의 모습"
-          }
-        ],
-        "caption": "🚢 5월 24일, 히로시마-마쓰야마 항로에 신규 페리 '아이빈트'가 취항합니다! 🚢\n일본 최초 리니어・포이트젯 기술 탑재로 더욱 빠르고 쾌적한 항해를 선사할 예정이에요.\n메이지 시대부터 이어진 역사적인 항로에서 아름다운 세토내해 풍경과 함께 특별한 추억을 만들어보세요! ✨\n#일본여행 #플라잉재팬 #히로시마여행 #마쓰야마여행 #일본교통 #세토내해 #신규취항 #페리여행 #여행정보 #일본소식 #아이빈트 #AIVINT #5월여행 #여행스타그램 #일본페리",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#히로시마여행",
-          "#마쓰야마여행",
-          "#일본교통",
-          "#세토내해",
-          "#신규취항",
-          "#페리여행",
-          "#여행정보",
-          "#일본소식",
-          "#아이빈트",
-          "#AIVINT",
-          "#5월여행",
-          "#여행스타그램",
-          "#일본페리"
-        ],
-        "alt_texts": [
-          "새로운 일본 페리 '아이빈트'의 외관 모습",
-          "페리 내부에 설치된 첨단 기술 장비 이미지",
-          "일본 세토내해의 아름다운 바다 풍경",
-          "페리 이름 'AIVINT'가 새겨진 모습",
-          "일본 페리에서 창밖을 바라보는 여행객의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시-9시 / 기대 반응: 새로운 교통 정보에 대한 관심 및 여행 계획 반영 / 이 콘텐츠의 강점: 구체적인 취항일, 항로, 기술 정보 제공으로 실질적인 도움",
-      "image": {
-        "keyword": "Japan ferry, Hiroshima, Matsuyama, Seto Inland Sea, AIVINT, new route, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Hiroshima,-Matsuyama,-Seto-Inland-Sea,-AIVINT,-new-route,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Hiroshima,%20Matsuyama,%20Seto%20Inland%20Sea,%20AIVINT,%20new%20route,%20travel%20information/"
       }
     }
   ]
