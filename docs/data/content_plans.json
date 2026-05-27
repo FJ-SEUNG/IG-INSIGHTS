@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-26T04:20:37.288968",
+  "last_updated": "2026-05-27T00:18:17.759321",
   "plans": [
+    {
+      "id": "plan_129045cd",
+      "created_at": "2026-05-27T00:18:15.759098",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルニューアカオ、夏限定パフェはマンゴー＆オレンジ。絶景カフェ「花の妖精」で6月1日から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111845.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 지역의 뷰 맛집 카페에서 즐기는 여름 한정 망고&오렌지 파르페!"
+      },
+      "content": {
+        "thumbnail_title": "✨여름 한정! 뷰 맛집 파르페✨",
+        "cards": [
+          {
+            "title": "여름 한정 파르페",
+            "content": "호텔 뉴 아카오의 '꽃의 요정' 카페에서 6월 1일부터 여름 한정 망고&오렌지 파르페를 판매합니다. 아름다운 바다 전망과 함께 달콤한 디저트를 즐겨보세요.",
+            "alt_text": "망고와 오렌지가 듬뿍 올라간 여름 한정 파르페 이미지"
+          },
+          {
+            "title": "장소 정보",
+            "content": "호텔 뉴 아카오 (静岡県熱海市熱海1993-250) 내 'Restaurant ＆ Sweets 花の妖精' 카페에서 맛볼 수 있습니다. 도쿄에서 신칸센으로 약 40분 거리에 위치한 열해(아타미)에 있습니다.",
+            "alt_text": "호텔 뉴 아카오의 외관 및 바다 전망 이미지"
+          },
+          {
+            "title": "판매 시작일",
+            "content": "2024년 6월 1일부터 판매 시작입니다. 여름 시즌 동안 한정으로 판매되니 서둘러 방문해보세요!",
+            "alt_text": "달력에 6월 1일이 표시된 이미지"
+          },
+          {
+            "title": "추천 메뉴",
+            "content": "망고와 오렌지를 활용한 두 종류의 파르페가 준비되어 있습니다. 상큼함과 달콤함의 조화가 여름 더위를 잊게 해줄 거예요.",
+            "alt_text": "다양한 종류의 파르페 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "파르페와 함께 멋진 바다 전망을 감상하며 인생샷을 남겨보세요. 카페 이용객은 호텔 내 다른 시설도 일부 이용 가능할 수 있으니 확인해보세요.",
+            "alt_text": "파르페를 들고 바다를 배경으로 사진 찍는 모습 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 디저트 경험을 원하신다면? 🤩\n\n열해(아타미)에 위치한 호텔 뉴 아카오의 '꽃의 요정' 카페에서 6월 1일부터 여름 한정 망고&오렌지 파르페를 선보입니다! 🥭🍊\n\n아름다운 바다 전망과 함께 달콤한 파르페를 즐기며 잊지 못할 추억을 만들어보세요. 💖\n\n#일본여행 #플라잉재팬 #열해여행 #아타미 #호텔뉴아카오 #여름디저트 #파르페 #일본카페 #일본맛집 #여행스타그램 #인스타여행 #일본소식 #신상메뉴 #여름휴가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#열해",
+          "#아타미",
+          "#호텔뉴아카오",
+          "#여름한정",
+          "#망고파르페",
+          "#오렌지파르페",
+          "#일본카페",
+          "#일본맛집",
+          "#여행정보",
+          "#인스타여행",
+          "#디저트맛집",
+          "#일본온천",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "망고와 오렌지가 듬뿍 올라간 여름 한정 파르페 이미지",
+          "호텔 뉴 아카오의 외관 및 바다 전망 이미지",
+          "달력에 6월 1일이 표시된 이미지",
+          "다양한 종류의 파르페 이미지",
+          "파르페를 들고 바다를 배경으로 사진 찍는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 지역 방문을 계획 중인 20-30대 여성 여행객 / 최적 게시 시간: 금요일 오후 5시 (여행 계획 시점) / 기대 반응: 높은 관심과 공유, 특히 여성 여행객들의 '가고 싶다'는 반응 예상 / 이 콘텐츠의 강점: 시각적으로 매력적인 여름 한정 메뉴와 아름다운 뷰를 결합하여 즉각적인 흥미 유발",
+      "image": {
+        "keyword": "japan summer parfait, atami cafe view, hotel new acao dessert",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-parfait,-atami-cafe-view,-hotel-new-acao-dessert",
+        "pexels_url": "https://www.pexels.com/search/japan%20summer%20parfait,%20atami%20cafe%20view,%20hotel%20new%20acao%20dessert/"
+      }
+    },
+    {
+      "id": "plan_588936b6",
+      "created_at": "2026-05-27T00:18:08.696757",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "平日限定「あいち・なごや周遊観光パスポート」。4500円で愛知県内40施設が楽しめる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2111850.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "엔화 부담 줄여주는 나고야/아이치 현 40곳 무제한 즐기기!"
+      },
+      "content": {
+        "thumbnail_title": "✨나고야/아이치 40곳 4500엔!✨",
+        "cards": [
+          {
+            "title": "평일 한정 찬스!",
+            "content": "일본 아이치현 관광협회에서 '아이치・나고야 주유 관광 패스포트' 2026년 판을 출시했어요. 평일에만 이용 가능하며, 4500엔(어른/어린이 동일)으로 아이치현 내 40곳의 관광지를 자유롭게 이용할 수 있습니다.",
+            "alt_text": "평일 한정 아이치 나고야 관광 패스포트 안내 이미지"
+          },
+          {
+            "title": "이용 기간은?",
+            "content": "2024년 5월 18일부터 2027년 3월 12일까지 이용 가능해요. 넉넉한 기간 동안 알차게 여행 계획을 세워보세요!",
+            "alt_text": "패스포트 이용 가능 기간 안내 이미지"
+          },
+          {
+            "title": "40곳을 마음껏!",
+            "content": "나고야 시내 명소는 물론, 아이치현 전역의 박물관, 미술관, 전망대 등 40곳의 다채로운 관광지를 모두 이용할 수 있습니다. 입장료 부담 없이 알찬 여행을 즐겨보세요.",
+            "alt_text": "아이치현 주요 관광지 사진 모음"
+          },
+          {
+            "title": "가성비 끝판왕!",
+            "content": "평소 개별적으로 방문 시 부담스러웠던 여러 관광지를 이 패스포트 하나로 해결할 수 있어요. 특히 여러 곳을 방문할 계획이라면 필수템이 될 거예요!",
+            "alt_text": "가성비 좋은 여행 상품 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "평일에만 사용 가능하니 여행 일정을 잘 확인하세요! 40곳의 리스트는 공식 홈페이지에서 확인 가능하며, 방문 전 운영 시간 및 휴무일을 꼭 체크하는 것이 좋습니다.",
+            "alt_text": "여행 꿀팁과 주의사항 아이콘"
+          }
+        ],
+        "caption": "🇯🇵 엔화 부담은 줄이고, 즐거움은 두 배로! 🇯🇵\n\n일본 나고야 & 아이치현 여행 예정이라면 주목하세요! \n평일 한정 '아이치・나고야 주유 관광 패스포트'가 출시되었어요. \n단돈 4500엔으로 40곳의 관광지를 무제한 이용 가능!\n\n지금 바로 여행 계획에 이 꿀템을 추가해보세요! 🤩\n\n#일본여행 #나고야여행 #아이치현 #주유패스 #가성비여행 #여행꿀팁 #일본자유여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나고야여행",
+          "#아이치현",
+          "#주유패스",
+          "#일본교통",
+          "#일본관광",
+          "#여행정보",
+          "#일본할인",
+          "#나고야",
+          "#아이치",
+          "#가성비여행",
+          "#일본자유여행",
+          "#여행필수템",
+          "#평일여행"
+        ],
+        "alt_texts": [
+          "평일 한정 아이치 나고야 관광 패스포트 안내 이미지",
+          "패스포트 이용 가능 기간 안내 이미지",
+          "아이치현 주요 관광지 사진 모음",
+          "가성비 좋은 여행 상품 이미지",
+          "여행 꿀팁과 주의사항 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 나고야/아이치현 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 정보 공유 및 저장, 여행 계획에 반영 / 이 콘텐츠의 강점: 구체적인 가격, 이용 기간, 방문 가능 장소 수 등 실질적인 정보 제공으로 즉각적인 여행 계획 활용 가능",
+      "image": {
+        "keyword": "Nagoya Aichi tourism pass",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagoya-Aichi-tourism-pass",
+        "pexels_url": "https://www.pexels.com/search/Nagoya%20Aichi%20tourism%20pass/"
+      }
+    },
     {
       "id": "plan_02dc409a",
       "created_at": "2026-05-26T04:20:35.288791",
@@ -923,160 +1077,6 @@
         "keyword": "RV park Japan, Chiba, Isumi, Glamping, Motorhome, Camping car",
         "unsplash_url": "https://unsplash.com/s/photos/RV-park-Japan,-Chiba,-Isumi,-Glamping,-Motorhome,-Camping-car",
         "pexels_url": "https://www.pexels.com/search/RV%20park%20Japan,%20Chiba,%20Isumi,%20Glamping,%20Motorhome,%20Camping%20car/"
-      }
-    },
-    {
-      "id": "plan_d58bbe01",
-      "created_at": "2026-05-23T04:03:22.591026",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "千葉開府900年を祝う「幕張ビーチ花火フェスタ2026」、有料観覧席のチケット発売。国内最大級の2万4000発",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2110997.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 규모 불꽃축제! 2만 4천 발의 황홀경을 놓치지 마세요! 🎆"
-      },
-      "content": {
-        "thumbnail_title": "✨2만 4천 발! 치바 불꽃축제✨",
-        "cards": [
-          {
-            "title": "축제 정보",
-            "content": "2026년 8월 1일, 치바현 마쿠하리 해변공원에서 '마쿠하리 비치 불꽃축제 2026 (제48회 치바 시민 불꽃축제)'가 개최됩니다. 치바 개항 900주년을 기념하는 역대급 규모의 불꽃축제입니다.",
-            "alt_text": "치바현 마쿠하리 해변공원에서 열리는 불꽃축제 개최 정보"
-          },
-          {
-            "title": "불꽃 개수",
-            "content": "무려 2만 4천 발의 불꽃이 밤하늘을 수놓을 예정입니다. 국내 최대 규모를 자랑하며, 잊지 못할 감동을 선사할 것입니다.",
-            "alt_text": "2만 4천 발의 불꽃이 밤하늘을 가득 채우는 모습"
-          },
-          {
-            "title": "개최 장소",
-            "content": "치바현 치바시 미하마구 히비노 2-116에 위치한 마쿠하리 해변공원에서 열립니다. 도쿄에서 접근성도 좋습니다.",
-            "alt_text": "마쿠하리 해변공원 전경"
-          },
-          {
-            "title": "티켓 정보",
-            "content": "유료 관람석 티켓이 현재 판매 중입니다. 최고의 자리에서 불꽃축제를 즐기고 싶다면 서둘러 예매하세요!",
-            "alt_text": "불꽃축제 유료 관람석 티켓 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "축제 당일은 매우 혼잡할 것으로 예상되니, 대중교통 이용을 추천합니다. 또한, 돗자리와 간식을 미리 준비하면 더욱 편안하게 축제를 즐길 수 있습니다.",
-            "alt_text": "불꽃축제를 즐기는 관람객들의 모습"
-          }
-        ],
-        "caption": "✨2026년 여름, 일본 최대 규모의 불꽃축제를 경험하세요!✨\n\n치바현에서 열리는 '마쿠하리 비치 불꽃축제 2026'에서 2만 4천 발의 화려한 불꽃과 함께 잊지 못할 추억을 만들어 보세요! 🎆\n\n✅ 개최일: 2026년 8월 1일\n✅ 장소: 치바현 마쿠하리 해변공원\n✅ 불꽃 개수: 2만 4천 발 (국내 최대 규모)\n\n지금 바로 유료 관람석 티켓을 확인하고, 최고의 여름밤을 예약하세요! 🗓️\n\n#일본여행 #치바여행 #불꽃축제 #마쿠하리 #여름축제 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#치바여행",
-          "#마쿠하리비치불꽃축제",
-          "#불꽃축제",
-          "#일본축제",
-          "#여름축제",
-          "#2026년여행",
-          "#일본정보",
-          "#여행꿀팁",
-          "#치바",
-          "#일본관광",
-          "#여행스타그램",
-          "#해외여행",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "치바현 마쿠하리 해변공원에서 열리는 불꽃축제 개최 정보",
-          "2만 4천 발의 불꽃이 밤하늘을 가득 채우는 모습",
-          "마쿠하리 해변공원 전경",
-          "불꽃축제 유료 관람석 티켓 이미지",
-          "불꽃축제를 즐기는 관람객들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 관광객 / 최적 게시 시간: 목요일 오후 7시 (여행 계획 시기) / 기대 반응: 높은 관심, 티켓 예매 문의 증가, 정보 공유 / 이 콘텐츠의 강점: 일본 최대 규모 불꽃축제라는 희소성, 구체적인 날짜 및 장소 정보 제공",
-      "image": {
-        "keyword": "Japan fireworks festival, Chiba fireworks, Makuhari Beach Fireworks Festival, 24000 fireworks, summer festival Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-fireworks-festival,-Chiba-fireworks,-Makuhari-Beach-Fireworks-Festival,-24000-fireworks,-summer-festival-Japan",
-        "pexels_url": "https://www.pexels.com/search/Japan%20fireworks%20festival,%20Chiba%20fireworks,%20Makuhari%20Beach%20Fireworks%20Festival,%2024000%20fireworks,%20summer%20festival%20Japan/"
-      }
-    },
-    {
-      "id": "plan_97f612f0",
-      "created_at": "2026-05-23T04:03:16.536568",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海道・山陽新幹線、ひかり号に「弱冷房車」。7月1日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2111018.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센 탑승객이라면 꼭 알아야 할 쾌적함 UP 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨신칸센 꿀팁! 약냉방차 도입✨",
-        "cards": [
-          {
-            "title": "약냉방차 도입!",
-            "content": "7월 1일부터 도카이도·산요 신칸센 일부 열차(16량 편성)에 '약냉방차'가 시범 도입됩니다. 더위를 많이 타는 분들에게 희소식!",
-            "alt_text": "신칸센 열차 내부 좌석 이미지"
-          },
-          {
-            "title": "어떤 열차?",
-            "content": "대상 열차는 도카이도·산요 신칸센이며, 16량 편성으로 운행되는 열차 중 일부에 해당됩니다. 정확한 편성 정보는 탑승 시 확인이 필요합니다.",
-            "alt_text": "신칸센 노선도 이미지"
-          },
-          {
-            "title": "쾌적한 여행!",
-            "content": "일본 여름, 신칸센 안에서 시원하게 이동하세요! 특히 더위에 민감한 분들은 약냉방차를 이용하면 더욱 쾌적한 여행을 즐길 수 있습니다.",
-            "alt_text": "창밖으로 보이는 일본 풍경 이미지"
-          },
-          {
-            "title": "JR東海/서일본",
-            "content": "이번 약냉방차 도입은 JR東海와 JR 서일본이 함께 진행하는 시범 운영입니다. 앞으로 확대될 가능성도 기대해볼 수 있습니다.",
-            "alt_text": "JR 로고 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "약냉방차는 지정 좌석 및 자유석 모두 운영될 예정입니다. 탑승 시 약냉방차 표시를 확인하시고, 혹시 추위를 느낀다면 얇은 겉옷을 준비하는 것도 좋습니다.",
-            "alt_text": "신칸센 좌석에 앉아있는 여행객 이미지"
-          }
-        ],
-        "caption": "일본 신칸센 여행, 더위를 많이 타는 당신을 위한 희소식! 🚄\n7월 1일부터 도카이도·산요 신칸센 일부 열차에 '약냉방차'가 시범 도입됩니다.\n더욱 쾌적하고 시원한 신칸센 탑승으로 즐거운 일본 여행을 만끽하세요!\n\n#신칸센 #일본교통 #약냉방차 #JR #일본여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#일본교통",
-          "#약냉방차",
-          "#JR",
-          "#도카이도신칸센",
-          "#산요신칸센",
-          "#일본여름",
-          "#여행정보",
-          "#일본",
-          "#교통정보",
-          "#여행팁",
-          "#일본스타그램",
-          "#여행"
-        ],
-        "alt_texts": [
-          "신칸센 열차 내부 좌석 이미지",
-          "신칸센 노선도 이미지",
-          "창밖으로 보이는 일본 풍경 이미지",
-          "JR 로고 이미지",
-          "신칸센 좌석에 앉아있는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 정보 획득 만족, 공유/저장 / 이 콘텐츠의 강점: 실질적인 편의 정보 제공, 시의성",
-      "image": {
-        "keyword": "Shinkansen train interior, Japanese train, cool air conditioning, travel convenience, bullet train",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-train-interior,-Japanese-train,-cool-air-conditioning,-travel-convenience,-bullet-train",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20train%20interior,%20Japanese%20train,%20cool%20air%20conditioning,%20travel%20convenience,%20bullet%20train/"
       }
     }
   ]
