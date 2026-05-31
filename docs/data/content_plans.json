@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-31T00:14:17.591960",
+  "last_updated": "2026-05-31T04:46:40.688419",
   "plans": [
+    {
+      "id": "plan_8afca8c6",
+      "created_at": "2026-05-31T04:46:38.688224",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「楽天トラベル スーパーSALE」6月4日から。USJ家族向けホテル最大33％オフ、フジロックのチケットも割引対象に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2113146.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수 앱! 楽天 트래블 역대급 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚀楽天 트래블 역대급 할인!",
+        "cards": [
+          {
+            "title": "할인 기간",
+            "content": "6월 4일 20시부터 6월 20일 23시 59분까지! 楽天 트래블 슈퍼 세일이 시작됩니다.",
+            "alt_text": "달력에 표시된 6월 4일과 6월 20일"
+          },
+          {
+            "title": "USJ 가족 특가",
+            "content": "USJ 근처 가족 여행 호텔이 최대 33% 할인! 아이와 함께하는 일본 여행을 더욱 알뜰하게 계획해 보세요.",
+            "alt_text": "유니버설 스튜디오 재팬 로고와 가족이 웃는 모습"
+          },
+          {
+            "title": "후지락 티켓 할인",
+            "content": "인기 일본 페스티벌 '후지 록 페스티벌' 티켓도 할인 대상! 음악과 함께하는 특별한 여행을 준비하세요.",
+            "alt_text": "음악 페스티벌 무대와 환호하는 관객들"
+          },
+          {
+            "title": "다양한 할인",
+            "content": "호텔, 항공권 등 다양한 일본 여행 상품을 특별 할인가로 만나볼 수 있는 절호의 기회입니다.",
+            "alt_text": "여행 가방, 비행기, 호텔 아이콘"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "지금 바로 楽天 트래블 앱 또는 웹사이트에서 역대급 할인 정보를 확인하고, 일본 여행 계획을 미리 세워보세요!",
+            "alt_text": "스마트폰으로 楽天 트래블 앱을 보는 사람"
+          }
+        ],
+        "caption": "일본 여행 필수 쇼핑 찬스! 🇯🇵 6월 4일부터 20일까지 楽天 트래블 슈퍼 세일이 시작됩니다! \n\n✨ USJ 가족 호텔 최대 33% 할인\n✨ 후지 락 페스티벌 티켓 할인\n\n일본 여행 준비 중이라면 절대 놓치지 마세요! 지금 바로 楽天 트래블에서 최저가 찬스를 잡아보세요! ✈️\n\n#일본여행 #楽天트래블 #일본쇼핑 #일본호텔 #USJ #후지락페스티벌 #여행할인 #슈퍼세일 #일본자유여행 #여행정보 #플라잉재팬 #여행꿀팁 #일본가족여행 #가성비여행 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#楽天트래블",
+          "#일본쇼핑",
+          "#일본호텔",
+          "#USJ",
+          "#후지락페스티벌",
+          "#여행할인",
+          "#슈퍼세일",
+          "#일본자유여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#일본가족여행",
+          "#가성비여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "달력에 표시된 6월 4일과 6월 20일",
+          "유니버설 스튜디오 재팬 로고와 가족이 웃는 모습",
+          "음악 페스티벌 무대와 환호하는 관객들",
+          "여행 가방, 비행기, 호텔 아이콘",
+          "스마트폰으로 楽天 트래블 앱을 보는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오전 10-12시 / 기대 반응: 높은 클릭률 및 정보 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 실제 여행객에게 직접적인 혜택을 주는 '할인' 정보로 즉각적인 관심 유도, 구체적인 할인율과 대상 명시",
+      "image": {
+        "keyword": "Rakuten Travel, Japan travel sale, Universal Studios Japan hotel discount, Fuji Rock Festival ticket offer, travel deals",
+        "unsplash_url": "https://unsplash.com/s/photos/Rakuten-Travel,-Japan-travel-sale,-Universal-Studios-Japan-hotel-discount,-Fuji-Rock-Festival-ticket-offer,-travel-deals",
+        "pexels_url": "https://www.pexels.com/search/Rakuten%20Travel,%20Japan%20travel%20sale,%20Universal%20Studios%20Japan%20hotel%20discount,%20Fuji%20Rock%20Festival%20ticket%20offer,%20travel%20deals/"
+      }
+    },
+    {
+      "id": "plan_c2c75158",
+      "created_at": "2026-05-31T04:46:33.288618",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "夏の連休もお得な「じゃらんスペシャルウィーク」。ホテル・温泉宿の半額プラン、最大1.5万円引きクーポン登場",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2113147.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름 휴가철 일본 여행, 최대 1.5만 엔 할인 쿠폰으로 알뜰하게 준비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🔥여름 휴가 일본 반값 득템!🔥",
+        "cards": [
+          {
+            "title": "특가 시작!",
+            "content": "일본 최대 여행 예약 사이트 '자란(じゃらん)넷'에서 '자란 스페셜 위크' 빅 세일을 6월 1일부터 시작해요. 여름 휴가 시즌 숙소 예약 시 큰 혜택을 받을 수 있어요.",
+            "alt_text": "자란넷 스페셜 위크 할인 행사 시작 안내"
+          },
+          {
+            "title": "사전 쿠폰 배포",
+            "content": "본격적인 세일 시작 전, 5월 27일부터 할인 쿠폰 사전 배포가 진행됩니다. 미리 쿠폰을 받아두면 원하는 숙소를 더 저렴하게 예약할 수 있어요.",
+            "alt_text": "자란넷 할인 쿠폰 사전 배포 안내"
+          },
+          {
+            "title": "최대 1.5만엔 할인",
+            "content": "이번 '자란 스페셜 위크'에서는 호텔 및 온천 숙박 요금을 최대 반값까지 할인해주며, 최대 1.5만 엔 할인 쿠폰도 제공합니다. 알뜰한 일본 여행을 계획해보세요.",
+            "alt_text": "일본 숙소 반값 할인 및 최대 1.5만 엔 쿠폰 제공 정보"
+          },
+          {
+            "title": "여름 휴가 찬스!",
+            "content": "여름 연휴 기간에도 동일하게 할인 혜택이 적용됩니다. 지금 바로 자란넷에서 여름휴가 일본 여행 숙소를 미리 예약하고 파격적인 할인을 놓치지 마세요!",
+            "alt_text": "여름 휴가철 일본 숙소 예약 시 할인 혜택 적용 안내"
+          },
+          {
+            "title": "꿀팁",
+            "content": "쿠폰은 수량이 한정되어 있으니, 5월 27일 사전 배포 시작일에 맞춰 빠르게 확보하는 것이 중요해요. 인기 숙소는 조기 마감될 수 있으니 서두르세요!",
+            "alt_text": "할인 쿠폰 조기 마감 및 인기 숙소 조기 예약 필요 안내"
+          }
+        ],
+        "caption": "🇯🇵 여름 휴가 일본 여행, 최대 1.5만 엔 할인받고 떠나요! 🇯🇵\n\n일본 최대 여행 예약 사이트 '자란(じゃらん)넷'에서 여름 휴가 시즌을 맞아 '자란 스페셜 위크'를 진행합니다! ✨\n\n✅ 6월 1일부터 빅 세일 시작!\n✅ 5월 27일부터 할인 쿠폰 사전 배포!\n✅ 호텔 & 온천 숙박 최대 반값 할인 + 최대 1.5만 엔 쿠폰!\n\n지금 바로 자란넷에서 여름휴가 숙소 예약하고 역대급 할인 혜택 잡으세요! ✈️\n\n#일본여행 #자란넷 #일본숙소 #반값할인 #여름휴가 #일본여행준비 #할인쿠폰 #여행스타그램 #플라잉재팬 #일본호텔 #온천여행 #일본가볼만한곳 #알뜰여행 #여행정보 #일본특가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#자란넷",
+          "#일본숙소",
+          "#반값할인",
+          "#여름휴가",
+          "#일본여행준비",
+          "#할인쿠폰",
+          "#여행스타그램",
+          "#일본호텔",
+          "#온천여행",
+          "#일본가볼만한곳",
+          "#알뜰여행",
+          "#여행정보",
+          "#일본특가"
+        ],
+        "alt_texts": [
+          "자란넷 스페셜 위크 할인 행사 시작 안내",
+          "자란넷 할인 쿠폰 사전 배포 안내",
+          "일본 숙소 반값 할인 및 최대 1.5만 엔 쿠폰 제공 정보",
+          "여름 휴가철 일본 숙소 예약 시 할인 혜택 적용 안내",
+          "할인 쿠폰 조기 마감 및 인기 숙소 조기 예약 필요 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌 일본 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감에 대한 강력한 메시지 전달",
+      "image": {
+        "keyword": "japan travel sale, japan hotel discount coupon, summer vacation japan, jalan net campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-sale,-japan-hotel-discount-coupon,-summer-vacation-japan,-jalan-net-campaign",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20sale,%20japan%20hotel%20discount%20coupon,%20summer%20vacation%20japan,%20jalan%20net%20campaign/"
+      }
+    },
     {
       "id": "plan_227cad0d",
       "created_at": "2026-05-31T00:14:15.591783",
@@ -923,160 +1077,6 @@
         "keyword": "Narita Airport P2 parking, free parking campaign, Japan travel, airport transportation, discount coupon",
         "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-P2-parking,-free-parking-campaign,-Japan-travel,-airport-transportation,-discount-coupon",
         "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20P2%20parking,%20free%20parking%20campaign,%20Japan%20travel,%20airport%20transportation,%20discount%20coupon/"
-      }
-    },
-    {
-      "id": "plan_02f884a7",
-      "created_at": "2026-05-28T00:14:17.888197",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "リーガロイヤルホテル大阪、フェルメール展コラボ宿泊プラン。限定ミッフィー、復刻フェイラー確約も！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2112277.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "페르메르 전시와 함께 특별한 추억을 만들 수 있는 오사카 숙박 플랜!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 페르메르 전시 숙박✨",
-        "cards": [
-          {
-            "title": "전시 & 숙박",
-            "content": "오사카 중노시마 미술관에서 열리는 '진주 귀걸이를 한 소녀' 페르메르전과 연계한 특별 숙박 플랜이 출시됩니다. 8월 21일부터 9월 27일까지 이용 가능합니다.",
-            "alt_text": "진주 귀걸이를 한 소녀 그림과 호텔 로고가 함께 있는 이미지"
-          },
-          {
-            "title": "예약 시작!",
-            "content": "6월 5일 오후 12시부터 예약이 시작됩니다. 서둘러 예약하지 않으면 원하는 날짜에 숙박하기 어려울 수 있습니다.",
-            "alt_text": "달력에 6월 5일이 표시된 이미지"
-          },
-          {
-            "title": "특별 혜택",
-            "content": "플랜 이용 시 한정판 미피(Miffy) 굿즈와 복각 페이퍼(Feiler) 제품을 확약받을 수 있습니다. 여행 기념품으로도 좋습니다.",
-            "alt_text": "미피 캐릭터와 페이퍼 제품 이미지"
-          },
-          {
-            "title": "숙박 장소",
-            "content": "해당 숙박 플랜은 리가 로열 호텔 오사카 비니에트 컬렉션 (우편번호 530-0001, 오사카부 오사카시 기타구 나카노시마 5-3-68)에서 제공됩니다.",
-            "alt_text": "리가 로열 호텔 오사카 외관 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "전시 티켓과 숙박을 한 번에 해결할 수 있어 편리합니다. 전시 관람 계획이 있다면 이 플랜을 적극 활용해보세요!",
-            "alt_text": "티켓과 호텔 키를 들고 있는 손 이미지"
-          }
-        ],
-        "caption": "🖼️오사카에서 특별한 경험을! '진주 귀걸이를 한 소녀' 페르메르전과 함께하는 리가 로열 호텔 숙박 플랜이 8월 21일부터 시작됩니다. 6월 5일 12시부터 예약 가능하며, 한정판 미피 굿즈와 페이퍼 제품도 증정된다고 해요! 페르메르전을 관람할 계획이라면 놓치지 마세요! ✨\n\n#페르메르전 #진주귀걸이를한소녀 #오사카여행 #리가로열호텔 #일본숙소 #일본호텔 #오사카호텔 #여행스타그램 #일본여행정보 #플라잉재팬 #여행꿀팁 #한정판굿즈 #문화생활 #오사카가볼만한곳 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#페르메르",
-          "#진주귀걸이를한소녀",
-          "#리가로열호텔",
-          "#일본숙소",
-          "#오사카숙소",
-          "#일본호텔",
-          "#여행정보",
-          "#여행꿀팁",
-          "#한정판굿즈",
-          "#미피",
-          "#페이퍼",
-          "#일본문화"
-        ],
-        "alt_texts": [
-          "진주 귀걸이를 한 소녀 그림과 호텔 로고가 함께 있는 이미지",
-          "달력에 6월 5일이 표시된 이미지",
-          "미피 캐릭터와 페이퍼 제품 이미지",
-          "리가 로열 호텔 오사카 외관 이미지",
-          "티켓과 호텔 키를 들고 있는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 3-5시 / 기대 반응: 정보성 콘텐츠에 대한 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 유명 전시와 연계된 숙박 플랜으로 높은 관심 유도, 구체적인 예약 정보 제공",
-      "image": {
-        "keyword": "Vermeer exhibition Osaka hotel package Miffy Feiler limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka-hotel-package-Miffy-Feiler-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka%20hotel%20package%20Miffy%20Feiler%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_2e069084",
-      "created_at": "2026-05-28T00:14:10.183920",
-      "category": "tips",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "「Suicaのペンギン」ポストカードブック2冊同時発売。各24枚入り、ペンギンいっぱい編/みんななかま編",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2112286.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "귀여운 'Suica의 펭귄' 굿즈로 여행 추억 남기기!"
-      },
-      "content": {
-        "thumbnail_title": "Suica 펭귄 엽서북 🐧💖",
-        "cards": [
-          {
-            "title": "신상 엽서북",
-            "content": "귀여운 'Suica의 펭귄' 엽서북 2종이 7월 16일에 동시 발매됩니다. 각 권당 24장의 엽서로 구성되어 있어요.",
-            "alt_text": "Suica 펭귄 엽서북 표지 이미지"
-          },
-          {
-            "title": "두 가지 테마",
-            "content": "'펭귄 가득편'과 '모두 친구편' 두 가지 테마로 출시되어 취향에 따라 선택 가능합니다. 여행 중 소중한 사람에게 엽서를 보내보세요!",
-            "alt_text": "Suica 펭귄 엽서북 '펭귄 가득편' 이미지"
-          },
-          {
-            "title": "가격 & 구성",
-            "content": "각 엽서북의 가격은 1760엔이며, 총 56페이지로 구성되어 있습니다. 엽서 크기는 일반 엽서 사이즈입니다.",
-            "alt_text": "Suica 펭귄 엽서북 '모두 친구편' 이미지"
-          },
-          {
-            "title": "구매 정보",
-            "content": "전국 서점 및 Amazon, 라쿠텐 북스 등 온라인 서점에서 예약 구매 가능합니다. 일본 여행 전에 미리 준비하면 좋아요!",
-            "alt_text": "온라인 서점 구매 페이지 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "여행지의 풍경을 담은 사진과 함께 이 엽서북에 나만의 메시지를 적어보세요. 잊지 못할 특별한 기념품이 될 거예요!",
-            "alt_text": "Suica 펭귄 엽서에 글씨 쓰는 손 이미지"
-          }
-        ],
-        "caption": "일본 여행 기념품으로 딱! 🐧💖\n귀여운 'Suica의 펭귄' 엽서북 2종이 7월 16일에 발매됩니다.\n각 24장씩, 총 56페이지 구성에 가격은 1760엔!\n여행 중 소중한 사람에게 특별한 손편지를 보내거나, 나만의 추억을 간직해보세요.\n지금 바로 온라인 서점에서 예약하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica펭귄",
-          "#일본굿즈",
-          "#일본기념품",
-          "#여행선물",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#엽서",
-          "#문구덕후",
-          "#여행준비",
-          "#일본감성",
-          "#한정판",
-          "#7월신상",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "Suica 펭귄 엽서북 표지 이미지",
-          "Suica 펭귄 엽서북 '펭귄 가득편' 이미지",
-          "Suica 펭귄 엽서북 '모두 친구편' 이미지",
-          "온라인 서점 구매 페이지 이미지",
-          "Suica 펭귄 엽서에 글씨 쓰는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터 상품으로 인한 높은 관심도, 실질적인 구매 정보 제공",
-      "image": {
-        "keyword": "Suica Penguin postcard book",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-postcard-book",
-        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20postcard%20book/"
       }
     }
   ]
