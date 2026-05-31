@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-30T04:12:06.088927",
+  "last_updated": "2026-05-31T00:14:17.591960",
   "plans": [
+    {
+      "id": "plan_227cad0d",
+      "created_at": "2026-05-31T00:14:15.591783",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、台風6号で特別対応　5月31日〜6月2日の沖縄・九州発着便",
+        "url": "https://www.traicy.com/posts/20260530371973/",
+        "date": "Sat, 30 May 2026 13:32:46 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 예상치 못한 항공편 취소, 미리 알고 대비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 태풍6호 특별대응!",
+        "cards": [
+          {
+            "title": "태풍6호 영향",
+            "content": "ANA는 제6호 태풍의 영향으로 특별 대응을 실시합니다. 5월 31일 정오부터 6월 2일 마지막 항공편까지 운항하는 항공편이 대상입니다.",
+            "alt_text": "태풍이 몰아치는 일본 지도 이미지"
+          },
+          {
+            "title": "운항 지역",
+            "content": "특별 대응이 적용되는 지역은 오키나와(나하, 미야코, 이시가키) 및 규슈 지역 발착 항공편입니다. 해당 지역 여행 예정이라면 꼭 확인하세요.",
+            "alt_text": "오키나와와 규슈 지역 지도 이미지"
+          },
+          {
+            "title": "특별 대응 내용",
+            "content": "정확한 특별 대응 내용은 ANA 공식 발표를 참고해야 합니다. 일반적으로 항공편 변경, 환불, 대체편 제공 등의 조치가 포함될 수 있습니다.",
+            "alt_text": "항공권 이미지와 함께 '특별 대응' 문구가 적힌 이미지"
+          },
+          {
+            "title": "여행 계획 시",
+            "content": "여행 출발 전 ANA 공식 홈페이지나 앱을 통해 항공편 운항 정보를 실시간으로 확인하는 것이 중요합니다. 예상치 못한 상황에 대비하세요.",
+            "alt_text": "스마트폰으로 항공편 정보를 확인하는 사람 이미지"
+          },
+          {
+            "title": "추가 팁",
+            "content": "항공편 취소/지연 시에는 ANA 고객센터에 문의하여 정확한 안내를 받으세요. 여행자 보험 적용 여부도 미리 확인해두면 좋습니다.",
+            "alt_text": "전화기를 들고 상담하는 사람 이미지"
+          }
+        ],
+        "caption": "✈️ ANA, 태풍 6호 영향으로 특별 대응 실시! 5월 31일 ~ 6월 2일, 오키나와/규슈 발착편 대상입니다. ⚠️ 갑작스러운 항공편 취소나 지연에 당황하지 않도록, 미리 운항 정보를 확인하고 대비하세요! 여행 계획에 차질이 없도록 ANA 공식 발표를 꼭 확인하시길 바랍니다. #일본여행 #ANA #태풍대응 #항공편정보 #여행필수템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#태풍6호",
+          "#항공편",
+          "#일본항공",
+          "#오키나와여행",
+          "#규슈여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#항공권",
+          "#일본날씨",
+          "#안전여행",
+          "#여행준비",
+          "#일본"
+        ],
+        "alt_texts": [
+          "태풍이 몰아치는 일본 지도 이미지",
+          "오키나와와 규슈 지역 지도 이미지",
+          "항공권 이미지와 함께 '특별 대응' 문구가 적힌 이미지",
+          "스마트폰으로 항공편 정보를 확인하는 사람 이미지",
+          "전화기를 들고 상담하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 재난 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "ANA, typhoon, Japan, flight cancellation, Okinawa, Kyushu, travel warning",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA,-typhoon,-Japan,-flight-cancellation,-Okinawa,-Kyushu,-travel-warning",
+        "pexels_url": "https://www.pexels.com/search/ANA,%20typhoon,%20Japan,%20flight%20cancellation,%20Okinawa,%20Kyushu,%20travel%20warning/"
+      }
+    },
+    {
+      "id": "plan_7cc5c2a5",
+      "created_at": "2026-05-31T00:14:10.376002",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、台風6号で特別対応　5月31日〜6月2日の奄美・沖縄発着便",
+        "url": "https://www.traicy.com/posts/20260531371982/",
+        "date": "Sat, 30 May 2026 15:05:57 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 갑작스러운 태풍으로 항공편이 결항될 경우, JAL의 특별 대응 방법을 미리 알아두세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 태풍 6호 특별대응! ✈️",
+        "cards": [
+          {
+            "title": "대상 노선",
+            "content": "일본항공(JAL) 그룹은 태풍 6호 접근으로 인한 악천후를 예상하여 특별 대응을 실시합니다. 5월 31일부터 6월 2일까지 喜界島(키카이지마), 奄美大島(아마미오시마), 徳之島(토쿠노시마), 沖永良部(오키에라부) 등 4개 섬과 오키나와를 출발 및 도착하는 JAL 그룹 항공편이 대상입니다.",
+            "alt_text": "일본 지도에 대상 섬과 오키나와 지역 표시"
+          },
+          {
+            "title": "특별 대응 내용",
+            "content": "해당 기간 동안 태풍으로 인해 항공편이 결항되거나 지연될 경우, JAL은 승객의 편의를 위해 특별 대응을 제공합니다. 정확한 대응 내용은 JAL 공식 홈페이지 또는 고객센터를 통해 확인하시는 것이 좋습니다.",
+            "alt_text": "항공기 출발/도착 정보 안내판"
+          },
+          {
+            "title": "출발/도착일",
+            "content": "특별 대응이 적용되는 기간은 2024년 5월 31일 (금)부터 2024년 6월 2일 (일)까지입니다. 이 기간 동안 해당 지역을 여행하시는 분들은 항공편 운항 정보를 미리 확인하시기 바랍니다.",
+            "alt_text": "달력에 5월 31일, 6월 1일, 6월 2일 표시"
+          },
+          {
+            "title": "여행 전 확인 필수!",
+            "content": "여행 전 반드시 JAL 공식 홈페이지나 앱을 통해 최신 항공편 운항 정보를 확인하세요. 태풍의 영향으로 운항 스케줄이 변경될 수 있으니, 실시간 정보를 놓치지 않는 것이 중요합니다.",
+            "alt_text": "스마트폰으로 항공편 정보 확인하는 모습"
+          },
+          {
+            "title": "꿀팁/주의사항",
+            "content": "태풍 예보 시에는 미리 항공편을 변경하거나 취소하는 것을 고려해 보세요. JAL의 특별 대응 규정을 숙지하고, 필요하다면 항공사에 직접 문의하여 자세한 안내를 받으시길 바랍니다. 안전한 여행을 위해 날씨 변화에 항상 주의하세요!",
+            "alt_text": "우산을 쓴 여행자가 공항에서 안내문을 보고 있는 모습"
+          }
+        ],
+        "caption": "✈️ 일본 여행 중 갑작스러운 태풍 6호로 인한 항공편 결항 걱정은 NO! ✈️\n\n일본항공(JAL) 그룹은 5월 31일부터 6월 2일까지 奄美諸島(아마미 제도) 및 오키나와 발착편에 대해 태풍 6호로 인한 특별 대응을 실시합니다.\n\n✅ 대상 기간: 2024년 5월 31일(금) ~ 6월 2일(일)\n✅ 대상 노선: 喜界島, 奄美大島, 徳之島, 沖永良部, 오키나와 발착편\n\n여행 전 JAL 공식 홈페이지에서 최신 운항 정보를 꼭 확인하시고, 변동 사항 발생 시 항공사의 안내에 따라 침착하게 대처하세요! 💨\n\n#플라잉재팬 #일본여행 #JAL #일본항공 #태풍정보 #일본날씨 #여행필수정보 #항공권 #여행꿀팁 #안전여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#태풍6호",
+          "#일본날씨",
+          "#여행정보",
+          "#항공편결항",
+          "#일본교통",
+          "#여행꿀팁",
+          "#안전여행",
+          "#일본",
+          "#여행스타그램",
+          "#일본행",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "일본 지도에 대상 섬과 오키나와 지역 표시",
+          "항공기 출발/도착 정보 안내판",
+          "달력에 5월 31일, 6월 1일, 6월 2일 표시",
+          "스마트폰으로 항공편 정보 확인하는 모습",
+          "우산을 쓴 여행자가 공항에서 안내문을 보고 있는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 5월 말 ~ 6월 초 일본 奄美諸島 및 오키나와 여행 예정인 한국인 여행객 / 최적 게시 시간: 여행 출발 전날 또는 당일 오전 9시~11시 / 기대 반응: 정보 습득 및 공유, 안심 / 이 콘텐츠의 강점: 시기적절하고 구체적인 정보 제공으로 실제 여행에 큰 도움을 줄 수 있음",
+      "image": {
+        "keyword": "JAL airplane, typhoon weather, Japan map, airport information board, traveler checking phone",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-typhoon-weather,-Japan-map,-airport-information-board,-traveler-checking-phone",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20typhoon%20weather,%20Japan%20map,%20airport%20information%20board,%20traveler%20checking%20phone/"
+      }
+    },
     {
       "id": "plan_8df46406",
       "created_at": "2026-05-30T04:12:04.088736",
@@ -923,160 +1077,6 @@
         "keyword": "Suica Penguin postcard book",
         "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-postcard-book",
         "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20postcard%20book/"
-      }
-    },
-    {
-      "id": "plan_4dbac18f",
-      "created_at": "2026-05-27T04:43:39.361577",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「東横INN岐阜」開業で全県庁所在地へ出店完了。名鉄岐阜駅徒歩3分に207室",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2112020.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 전역을 커버하는 비즈니스호텔 체인이 모든 현청 소재지에 진출! 숙소 선택의 폭이 넓어졌어요."
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 전역 숙박 OK!✈️",
-        "cards": [
-          {
-            "title": "동화군 숙박",
-            "content": "도요코인호텔이 7월 31일 '도요코인 기후'를 개업하며 일본 전역의 모든 현청 소재지에 지점을 갖추게 됩니다. 총 207개의 객실을 제공합니다.",
-            "alt_text": "도요코인호텔 기후점 외관"
-          },
-          {
-            "title": "위치 굿!",
-            "content": "새롭게 오픈하는 도요코인 기후점은 메이테츠 기후역에서 도보 3분 거리에 위치하여 교통이 매우 편리합니다. 짐을 맡기고 바로 관광을 시작할 수 있어요.",
-            "alt_text": "메이테츠 기후역에서 도요코인호텔 기후점까지의 거리 표시"
-          },
-          {
-            "title": "전국망 확보",
-            "content": "이번 기후점 오픈으로 도요코인호텔은 47개 모든 도도부현의 현청 소재지에 출점을 완료했습니다. 어느 지역을 여행하든 숙소 걱정을 덜 수 있습니다.",
-            "alt_text": "일본 지도에 도요코인호텔 지점 표시"
-          },
-          {
-            "title": "예약 시작",
-            "content": "도요코인 기후점의 숙박 예약은 5월 28일부터 시작됩니다. 여행 계획이 있다면 서둘러 예약하세요!",
-            "alt_text": "달력에 5월 28일 표시"
-          },
-          {
-            "title": "꿀팁",
-            "content": "전국망이 촘촘해진 도요코인호텔은 출장객은 물론, 일본 전국을 종단하는 여행자에게도 유용한 숙박 옵션이 될 것입니다. 특히 JR패스 등 교통패스를 이용한 장기 여행 시 고려해볼 만합니다.",
-            "alt_text": "여행 가방과 지도"
-          }
-        ],
-        "caption": "✈️일본 전역 어디든 숙소 걱정 끝!✈️\n\n일본 전역의 모든 현청 소재지에 호텔 체인이 촘촘하게 깔렸어요!\n\n✨7월 31일, 메이테츠 기후역 도보 3분 거리에 '도요코인 기후'가 새롭게 오픈합니다. (207실)\n✨이로써 도요코인호텔은 일본 47개 모든 현청 소재지에 진출 완료!\n✨5월 28일부터 예약 시작이니, 일본 여행 계획 중이라면 서둘러 찜하세요!\n\n#일본전역 #도요코인호텔 #기후여행 #일본숙소 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#도요코인호텔",
-          "#기후",
-          "#일본전역",
-          "#여행정보",
-          "#일본호텔",
-          "#여행팁",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#일본숙박",
-          "#일본국내여행",
-          "#여행스타그램",
-          "#도쿄여행"
-        ],
-        "alt_texts": [
-          "도요코인호텔 기후점 외관",
-          "메이테츠 기후역에서 도요코인호텔 기후점까지의 거리 표시",
-          "일본 지도에 도요코인호텔 지점 표시",
-          "달력에 5월 28일 표시",
-          "여행 가방과 지도"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 전 지역을 여행하거나, 교통이 편리한 숙소를 선호하는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 숙소 정보에 대한 즉각적인 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 일본 전역의 숙박 옵션을 넓혀주는 실질적인 정보 제공",
-      "image": {
-        "keyword": "Toyoko Inn Gifu, Japan hotel, Gifu station, travel Japan, accommodation Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Toyoko-Inn-Gifu,-Japan-hotel,-Gifu-station,-travel-Japan,-accommodation-Japan",
-        "pexels_url": "https://www.pexels.com/search/Toyoko%20Inn%20Gifu,%20Japan%20hotel,%20Gifu%20station,%20travel%20Japan,%20accommodation%20Japan/"
-      }
-    },
-    {
-      "id": "plan_df4d5c98",
-      "created_at": "2026-05-27T04:43:33.306157",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "フェイラー「ドラゴンクエスト」コラボ決定！　12商品のデザイン公開、本日16時から抽選受付開始",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2112055.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "드래곤퀘스트X페이퍼 콜라보! 한정판 굿즈 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "드퀘X페이퍼 콜라보! 🐉💖",
-        "cards": [
-          {
-            "title": "콜라보 상품",
-            "content": "페이러X드래곤퀘스트 콜라보 상품이 출시됩니다. 총 12가지의 디자인으로 만나볼 수 있습니다.",
-            "alt_text": "페이러와 드래곤퀘스트가 콜라보한 상품 이미지"
-          },
-          {
-            "title": "판매 방식",
-            "content": "이번 콜라보 상품은 럭키백 형태로, 16시부터 추첨 접수가 시작됩니다. 당첨자는 개별 통보됩니다.",
-            "alt_text": "추첨 접수 시작을 알리는 안내문"
-          },
-          {
-            "title": "구매 채널",
-            "content": "페이러 공식 온라인샵과 LOVERARY BY FEILER 매장에서만 구매 가능합니다. 방문 전 재고 확인은 필수!",
-            "alt_text": "페이러 온라인샵 로고와 매장 이미지"
-          },
-          {
-            "title": "인기 예상",
-            "content": "드래곤퀘스트 팬과 페이러 콜렉터들의 뜨거운 관심이 예상됩니다. 빠른 접수가 중요해요!",
-            "alt_text": "많은 사람들이 상품을 구매하기 위해 줄 서 있는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "추첨 결과는 당일 20시에 발표될 예정입니다. 공식 홈페이지를 통해 확인하세요!",
-            "alt_text": "시간별 추첨 결과 발표 일정을 보여주는 달력 이미지"
-          }
-        ],
-        "caption": "✨ 드래곤퀘스트와 페이러의 역대급 콜라보! ✨\n\n인기 게임 '드래곤クエスト'와 감성적인 브랜드 '페이러'가 만났어요!\n총 12가지의 귀여운 디자인 상품을 만나보세요. 💖\n\n📍 판매 방식: 추첨 판매\n📍 접수 시작: 오늘 오후 4시\n📍 구매 채널: 페이러 공식 온라인샵 & LOVERARY BY FEILER 매장\n\n드퀘 팬이라면 놓칠 수 없는 기회! 지금 바로 응모하세요! 🏃‍♀️💨\n\n#드래곤퀘스트 #페이러 #콜라보 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#드래곤퀘스트",
-          "#페이러",
-          "#콜라보",
-          "#한정판",
-          "#일본쇼핑",
-          "#일본굿즈",
-          "#도쿄여행",
-          "#오사카여행",
-          "#일본직구",
-          "#일본쇼핑리스트",
-          "#쇼핑정보",
-          "#여행필수템",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "페이러와 드래곤퀘스트가 콜라보한 상품 이미지",
-          "추첨 접수 시작을 알리는 안내문",
-          "페이러 온라인샵 로고와 매장 이미지",
-          "많은 사람들이 상품을 구매하기 위해 줄 서 있는 모습",
-          "시간별 추첨 결과 발표 일정을 보여주는 달력 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 드래곤퀘스트 팬, 페이러 애호가, 한정판 굿즈 구매 희망자 / 최적 게시 시간: 15시 (추첨 접수 시작 전) / 기대 반응: 높은 관심과 참여율, 상품 정보 공유 확산 / 이 콘텐츠의 강점: 최신 콜라보 소식, 구체적인 구매 정보 제공, 타겟층 명확",
-      "image": {
-        "keyword": "Dragon Quest x Feiler collaboration goods, limited edition, lottery sale, official online shop, LOVERARY BY FEILER store",
-        "unsplash_url": "https://unsplash.com/s/photos/Dragon-Quest-x-Feiler-collaboration-goods,-limited-edition,-lottery-sale,-official-online-shop,-LOVERARY-BY-FEILER-store",
-        "pexels_url": "https://www.pexels.com/search/Dragon%20Quest%20x%20Feiler%20collaboration%20goods,%20limited%20edition,%20lottery%20sale,%20official%20online%20shop,%20LOVERARY%20BY%20FEILER%20store/"
       }
     }
   ]
