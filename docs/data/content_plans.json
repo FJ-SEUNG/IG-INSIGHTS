@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-31T04:46:40.688419",
+  "last_updated": "2026-06-01T00:15:59.545082",
   "plans": [
+    {
+      "id": "plan_8abc9ce9",
+      "created_at": "2026-06-01T00:15:57.544892",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "アパートメントホテル「RHUMB LINE TOKYO」開業。東京駅八重洲口から徒歩1分、1室最大8名まで対応",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2112879.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역 바로 앞! 최대 8인까지 가능한 신규 아파트형 호텔 오픈 정보"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄역 1분 거리 호텔 오픈!✨",
+        "cards": [
+          {
+            "title": "신규 호텔 오픈",
+            "content": "도쿄역 야에스구치에서 도보 1분 거리에 'RHUMB LINE TOKYO' 아파트형 호텔이 새로 문을 열었어요. 최대 8명까지 투숙 가능해 가족, 친구 단위 여행객에게 딱이에요!",
+            "alt_text": "도쿄역 야에스구치에서 도보 1분 거리에 위치한 'RHUMB LINE TOKYO' 호텔 외관"
+          },
+          {
+            "title": "위치 최고!",
+            "content": "주소는 도쿄도 주오구 야에스 1-8-3으로, 도쿄역에서 정말 가까워요. 짐이 많거나 이동이 잦은 여행객에게 최고의 위치입니다.",
+            "alt_text": "호텔에서 도쿄역까지의 짧은 도보 거리를 보여주는 지도 이미지"
+          },
+          {
+            "title": "단체 여행에 최적",
+            "content": "1개의 객실에 최대 8명까지 머물 수 있어 여러 명이 함께 여행할 때 숙박비 부담을 줄이고 편안하게 지낼 수 있어요.",
+            "alt_text": "8명이 함께 편안하게 쉴 수 있는 넓은 호텔 객실 내부 모습"
+          },
+          {
+            "title": "새로운 도쿄 숙소",
+            "content": "깔끔하고 현대적인 시설을 갖춘 신규 호텔로, 도쿄 여행의 편안함을 더해줄 거예요. 미리 예약하고 좋은 가격으로 이용해보세요!",
+            "alt_text": "호텔 객실 내부의 깔끔하고 모던한 인테리어"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "도쿄역 주변에는 쇼핑몰, 맛집, 교통 허브가 밀집해 있어 여행 시작과 마무리로 최적의 장소입니다. 조기 예약 시 할인 혜택을 노려보세요!",
+            "alt_text": "도쿄역 주변의 다양한 쇼핑몰과 맛집, 교통 시설 안내"
+          }
+        ],
+        "caption": "🇯🇵 도쿄역 1분 거리, 초역세권 신규 호텔 오픈! ✨\n\n최대 8인까지 수용 가능한 'RHUMB LINE TOKYO' 아파트형 호텔이 문을 열었어요.\n가족, 친구와 함께 편안하고 넓은 공간에서 잊지 못할 도쿄 여행을 만들어보세요!\n\n지금 바로 예약하고 특별한 추억을 남기세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄숙소",
+          "#도쿄호텔",
+          "#신규호텔",
+          "#아파트형호텔",
+          "#RHUMBLINETOKYO",
+          "#도쿄역",
+          "#가족여행",
+          "#친구랑여행",
+          "#일본숙소",
+          "#도쿄",
+          "#여행정보",
+          "#일본"
+        ],
+        "alt_texts": [
+          "도쿄역 야에스구치에서 도보 1분 거리에 위치한 'RHUMB LINE TOKYO' 호텔 외관",
+          "호텔에서 도쿄역까지의 짧은 도보 거리를 보여주는 지도 이미지",
+          "8명이 함께 편안하게 쉴 수 있는 넓은 호텔 객실 내부 모습",
+          "호텔 객실 내부의 깔끔하고 모던한 인테리어",
+          "도쿄역 주변의 다양한 쇼핑몰과 맛집, 교통 시설 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 단체 여행객, 가족 여행객, 친구와 함께하는 여행객 / 최적 게시 시간: 저녁 8시-10시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 초역세권 신규 호텔 정보로 시의성 높음, 단체 여행객에게 매력적인 조건 제시",
+      "image": {
+        "keyword": "RHUMB LINE TOKYO hotel exterior, Tokyo Station Yaesu exit, spacious hotel room for 8 people, modern apartment hotel interior, Tokyo travel accommodation",
+        "unsplash_url": "https://unsplash.com/s/photos/RHUMB-LINE-TOKYO-hotel-exterior,-Tokyo-Station-Yaesu-exit,-spacious-hotel-room-for-8-people,-modern-apartment-hotel-interior,-Tokyo-travel-accommodation",
+        "pexels_url": "https://www.pexels.com/search/RHUMB%20LINE%20TOKYO%20hotel%20exterior,%20Tokyo%20Station%20Yaesu%20exit,%20spacious%20hotel%20room%20for%208%20people,%20modern%20apartment%20hotel%20interior,%20Tokyo%20travel%20accommodation/"
+      }
+    },
+    {
+      "id": "plan_dfeab5f0",
+      "created_at": "2026-06-01T00:15:51.647104",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "グランドメルキュール別府湾、「ハローキティ ルーム」宿泊で限定グッズ3点セットをプレゼント",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2112987.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 여행 필수! 하이라이트가 가득한 헬로키티 특별 객실 정보!"
+      },
+      "content": {
+        "thumbnail_title": "💖헬로키티 객실 OPEN💖",
+        "cards": [
+          {
+            "title": "키티 객실",
+            "content": "일본 오이타현 벳푸만 리조트에서 헬로키티 특별 객실을 오픈했어요. 💖 헬로키티 테마로 꾸며진 특별한 경험을 선사합니다.",
+            "alt_text": "헬로키티 테마로 꾸며진 객실 내부 이미지"
+          },
+          {
+            "title": "한정 굿즈",
+            "content": "헬로키티 객실 숙박객에게는 오리지널 디자인의 한정 굿즈 3종 세트를 선물로 드려요. 🎁 소중한 추억을 간직할 수 있는 기회!",
+            "alt_text": "헬로키티 한정 굿즈 3종 세트 이미지"
+          },
+          {
+            "title": "숙박 기간",
+            "content": "이 특별한 혜택은 2024년 7월 1일부터 2028년 3월 말까지 (예정) 진행됩니다. 📅 놓치기 전에 서둘러 예약하세요!",
+            "alt_text": "달력에 표시된 7월 1일 날짜 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "그랜드 머큐어 벳푸만 리조트 & 스파 (大分県速見郡日出町大字平道字入江1825)에서 만나보실 수 있어요. 📍 벳푸만의 아름다운 풍경과 함께 힐링하세요.",
+            "alt_text": "벳푸만 리조트 전경 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기가 많을 것으로 예상되니, 여행 계획이 있다면 미리 예약하는 것을 추천해요. ✈️ 잊지 못할 헬로키티 추억을 만들어보세요!",
+            "alt_text": "예약 완료 화면 이미지"
+          }
+        ],
+        "caption": "일본 벳푸에서 만나는 헬로키티 세상! 💖\n그랜드 머큐어 벳푸만 리조트에서 헬로키티 특별 객실 숙박 시, 오리지널 굿즈 3종 세트를 증정합니다. 🎁\n2024년 7월 1일부터 2028년 3월 말까지 진행되니, 벳푸 여행 계획 중이라면 놓치지 마세요! ✨\n\n#헬로키티 #벳푸여행 #일본온천",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#헬로키티",
+          "#벳푸",
+          "#벳푸여행",
+          "#오이타",
+          "#일본숙소",
+          "#일본호텔",
+          "#리조트",
+          "#한정판",
+          "#특별한경험",
+          "#온천여행",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#굿즈"
+        ],
+        "alt_texts": [
+          "헬로키티 테마로 꾸며진 객실 내부 이미지",
+          "헬로키티 한정 굿즈 3종 세트 이미지",
+          "달력에 표시된 7월 1일 날짜 이미지",
+          "벳푸만 리조트 전경 이미지",
+          "예약 완료 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 헬로키티 팬, 가족 여행객, 특별한 숙소 경험을 원하는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 귀여운 캐릭터를 활용한 높은 흥미 유발, 구체적인 혜택 정보 제공",
+      "image": {
+        "keyword": "Hello Kitty room, Grand Mercure Beppu Bay, Japan travel, limited edition goods, Oita prefecture",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-room,-Grand-Mercure-Beppu-Bay,-Japan-travel,-limited-edition-goods,-Oita-prefecture",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20room,%20Grand%20Mercure%20Beppu%20Bay,%20Japan%20travel,%20limited%20edition%20goods,%20Oita%20prefecture/"
+      }
+    },
     {
       "id": "plan_8afca8c6",
       "created_at": "2026-05-31T04:46:38.688224",
@@ -923,160 +1077,6 @@
         "keyword": "Kinokuniya cooler bag, Japanese supermarket, shopping haul, travel essentials, new design",
         "unsplash_url": "https://unsplash.com/s/photos/Kinokuniya-cooler-bag,-Japanese-supermarket,-shopping-haul,-travel-essentials,-new-design",
         "pexels_url": "https://www.pexels.com/search/Kinokuniya%20cooler%20bag,%20Japanese%20supermarket,%20shopping%20haul,%20travel%20essentials,%20new%20design/"
-      }
-    },
-    {
-      "id": "plan_fefb773c",
-      "created_at": "2026-05-28T04:23:43.708803",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR九州、博多～由布院がおトクな「こっちでも行けるよ！ゆふいんきっぷ」をリニューアル。QRチケレス対応で発券不要に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2112418.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 규슈, 하카타-유후인 구간 '유후인 티켓' 리뉴얼! QR 발권으로 더욱 편리해졌어요!"
-      },
-      "content": {
-        "thumbnail_title": "JR 규슈 🎟️ 유후인 티켓 리뉴얼!",
-        "cards": [
-          {
-            "title": "유후인 티켓 리뉴얼",
-            "content": "JR 규슈에서 'こっちでも行けるよ！ゆふいんきっぷ(이쪽으로도 갈 수 있어! 유후인 티켓)'을 새롭게 단장했습니다. 이제 더욱 편리하게 유후인으로 떠날 수 있어요.",
-            "alt_text": "JR 규슈 열차와 유후인 지역 풍경 일러스트"
-          },
-          {
-            "title": "QR 티켓리스",
-            "content": "가장 큰 변화는 QR 티켓리스 시스템 도입입니다. 이제 별도의 발권 없이 스마트폰 QR 코드로 바로 탑승 가능해요. 번거로운 발권 절차가 사라졌습니다.",
-            "alt_text": "스마트폰 화면에 QR 코드가 표시된 모습"
-          },
-          {
-            "title": "하카타-유후인 구간",
-            "content": "이 티켓은 하카타역에서 유후인역까지의 JR 열차 구간을 이용할 수 있습니다. 유후인으로 가는 가장 인기 있는 방법 중 하나죠.",
-            "alt_text": "하카타역에서 유후인으로 가는 JR 열차 노선도"
-          },
-          {
-            "title": "리뉴얼 내용",
-            "content": "이번 리뉴얼을 통해 발권 과정이 간소화되었으며, 여행객들이 더욱 쾌적하게 유후인을 방문할 수 있도록 개선되었습니다. 자세한 내용은 JR 규슈 홈페이지에서 확인하세요.",
-            "alt_text": "JR 규슈 열차와 유후인 관광지 이미지를 합성한 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "QR 티켓리스 시스템을 이용하려면 미리 JR 규슈 앱 또는 웹사이트에서 티켓을 구매하고 QR 코드를 받아두는 것이 좋습니다. 여행 전 미리 준비해서 시간 절약하세요!",
-            "alt_text": "여행 가방과 스마트폰을 들고 있는 사람의 뒷모습"
-          }
-        ],
-        "caption": "일본 여행 필수템! JR 규슈 '유후인 티켓'이 리뉴얼되었어요! 🚂✨\n\n이제 QR 티켓리스 시스템으로 발권 없이 스마트폰으로 바로 탑승 가능! 하카타에서 유후인까지 더욱 쉽고 빠르게 떠날 수 있습니다. 💨\n\n여행 전 미리 준비해서 편안한 유후인 여행 즐기세요! 💖\n\n#일본여행 #JR큐슈 #유후인 #일본교통 #여행꿀팁 #플라잉재팬 #JR패스 #규슈여행 #티켓리스 #일본기차 #여행정보 #편리한여행 #일본소도시 #여행스타그램 #큐슈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR큐슈",
-          "#유후인",
-          "#일본교통",
-          "#여행꿀팁",
-          "#JR패스",
-          "#규슈여행",
-          "#티켓리스",
-          "#일본기차",
-          "#여행정보",
-          "#편리한여행",
-          "#일본소도시",
-          "#여행스타그램",
-          "#큐슈"
-        ],
-        "alt_texts": [
-          "JR 규슈 열차와 유후인 지역 풍경 일러스트",
-          "스마트폰 화면에 QR 코드가 표시된 모습",
-          "하카타역에서 유후인으로 가는 JR 열차 노선도",
-          "JR 규슈 열차와 유후인 관광지 이미지를 합성한 사진",
-          "여행 가방과 스마트폰을 들고 있는 사람의 뒷모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈, 특히 유후인 방문 예정인 한국인 여행객 / 최적 게시 시간: 주중 오후 6시 ~ 8시 / 기대 반응: 티켓 구매 문의 증가, 유후인 여행 계획 관심 증폭 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공, QR 티켓리스라는 최신 기능으로 편리함 강조",
-      "image": {
-        "keyword": "JR Kyushu Yufuin Ticket QR code boarding",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Kyushu-Yufuin-Ticket-QR-code-boarding",
-        "pexels_url": "https://www.pexels.com/search/JR%20Kyushu%20Yufuin%20Ticket%20QR%20code%20boarding/"
-      }
-    },
-    {
-      "id": "plan_e6da9657",
-      "created_at": "2026-05-28T04:23:38.036389",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "成田空港、P2駐車場が3時間無料に。第1～第3ターミナルで計1000円使うだけ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2112462.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나리타 공항 주차비 3시간 무료! 여행 시작 전 교통비 절약 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✈️나리타 공항 3시간 무료 주차!",
-        "cards": [
-          {
-            "title": "P2 주차장",
-            "content": "나리타 공항 P2 주차장에서 3시간 무료 이용이 가능해요. 제2터미널과 바로 연결되어 있어 편리해요.",
-            "alt_text": "나리타 공항 P2 주차장 입구 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "이 혜택은 2024년 6월 1일부터 6월 30일까지 한 달간 제공됩니다. 기간을 꼭 확인하세요!",
-            "alt_text": "달력에 6월 1일부터 30일까지 표시된 이미지"
-          },
-          {
-            "title": "주차비 절약",
-            "content": "제1~3터미널에서 총 1000엔 이상 쇼핑하면 P2 주차장을 3시간 무료로 이용할 수 있어요. 여행 시작 전 꿀팁!",
-            "alt_text": "쇼핑백과 주차권이 함께 있는 이미지"
-          },
-          {
-            "title": "교통비 절감",
-            "content": "일본 여행 시작 전, 나리타 공항 주차비 절약으로 여행 경비를 조금이라도 줄여보세요.",
-            "alt_text": "동전 지갑에서 동전이 나오는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "공항 도착 후 바로 쇼핑 계획이 있다면 P2 주차장을 이용해 보세요. 3시간 무료 혜택으로 여유롭게 다음 일정을 준비할 수 있습니다.",
-            "alt_text": "여행 가방과 함께 있는 주차권 이미지"
-          }
-        ],
-        "caption": "✈️ 나리타 공항 이용 예정이라면 주목! ✈️\n\n6월 한 달간 나리타 공항 P2 주차장에서 3시간 무료 캠페인을 진행해요!\n제2터미널 바로 옆이라 접근성도 최고👍\n제1~3터미널에서 1000엔 이상 쇼핑하면 3시간 무료 주차가 가능하니, 여행 시작 전 쇼핑도 하고 주차비도 아끼세요! 💰\n\n#일본여행 #나리타공항 #주차팁 #교통정보 #6월여행 #여행꿀팁 #플라잉재팬 #일본입국 #나리타 #주차할인",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나리타공항",
-          "#나리타",
-          "#주차팁",
-          "#교통정보",
-          "#일본교통",
-          "#6월여행",
-          "#여행꿀팁",
-          "#일본입국",
-          "#주차할인",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#해외여행",
-          "#공항주차"
-        ],
-        "alt_texts": [
-          "나리타 공항 P2 주차장 입구 이미지",
-          "달력에 6월 1일부터 30일까지 표시된 이미지",
-          "쇼핑백과 주차권이 함께 있는 이미지",
-          "동전 지갑에서 동전이 나오는 이미지",
-          "여행 가방과 함께 있는 주차권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 나리타 공항을 통해 일본으로 입국하는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 습득 및 공유, 저장 / 이 콘텐츠의 강점: 실질적인 비용 절감 정보, 명확한 기간 명시",
-      "image": {
-        "keyword": "Narita Airport P2 parking, free parking campaign, Japan travel, airport transportation, discount coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-P2-parking,-free-parking-campaign,-Japan-travel,-airport-transportation,-discount-coupon",
-        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20P2%20parking,%20free%20parking%20campaign,%20Japan%20travel,%20airport%20transportation,%20discount%20coupon/"
       }
     }
   ]
