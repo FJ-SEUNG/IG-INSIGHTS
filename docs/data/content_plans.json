@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-02T04:55:47.268024",
+  "last_updated": "2026-06-03T01:46:59.122777",
   "plans": [
+    {
+      "id": "plan_06961770",
+      "created_at": "2026-06-03T01:46:57.122595",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「第54回 真岡市夏祭大花火大会」有料観覧席は6月7日まで申込受付。大迫力の約1万5000発、7月25日開催",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2113900.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여름밤을 화려하게 수놓을 1만 5천 발의 불꽃놀이!"
+      },
+      "content": {
+        "thumbnail_title": "🔥일본 최대급 불꽃놀이!🔥",
+        "cards": [
+          {
+            "title": "불꽃놀이 날짜",
+            "content": "제54회 모오카시 여름 축제 대불꽃대회가 7월 25일에 개최됩니다. 🎆",
+            "alt_text": "화려한 불꽃놀이 사진"
+          },
+          {
+            "title": "불꽃 개수",
+            "content": "약 1만 5천 발의 엄청난 규모의 불꽃이 밤하늘을 수놓을 예정입니다. 🎇",
+            "alt_text": "밤하늘을 가득 채운 불꽃놀이"
+          },
+          {
+            "title": "유료 관람석",
+            "content": "좋은 자리에서 편안하게 불꽃놀이를 즐기고 싶다면 유료 관람석 신청을 서두르세요!",
+            "alt_text": "불꽃놀이 관람석 안내 이미지"
+          },
+          {
+            "title": "신청 마감일",
+            "content": "유료 관람석 신청은 6월 7일까지 가능하니 놓치지 마세요! ⏰",
+            "alt_text": "달력에 표시된 날짜"
+          },
+          {
+            "title": "꿀팁",
+            "content": "불꽃놀이 당일은 교통이 매우 혼잡할 수 있으니, 대중교통 이용 및 사전 준비를 추천합니다. 팁: 근처 숙소 예약도 필수!",
+            "alt_text": "일본 여름 축제 풍경"
+          }
+        ],
+        "caption": "일본 여름밤을 뜨겁게 달굴 초대형 불꽃축제 소식! 🔥\n\n📍 제54회 모오카시 여름 축제 대불꽃대회\n📅 7월 25일 개최\n✨ 약 1만 5천 발의 압도적인 불꽃!\n\n최고의 불꽃놀이를 만끽하고 싶다면, 6월 7일까지 유료 관람석 신청 잊지 마세요! ✍️\n\n#일본여행 #불꽃놀이 #여름축제 #모오카시 #일본축제 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본불꽃놀이",
+          "#여름축제",
+          "#모오카시",
+          "#일본축제",
+          "#일본여행정보",
+          "#일본여름",
+          "#여행준비",
+          "#해외여행",
+          "#일본관광",
+          "#여행꿀팁",
+          "#불꽃축제",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "화려한 불꽃놀이 사진",
+          "밤하늘을 가득 채운 불꽃놀이",
+          "불꽃놀이 관람석 안내 이미지",
+          "달력에 표시된 날짜",
+          "일본 여름 축제 풍경"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여름 축제 및 불꽃놀이에 관심 있는 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 정보 공유 및 문의 댓글 / 이 콘텐츠의 강점: 구체적인 날짜, 수량, 신청 마감일 등 실질적인 정보 제공",
+      "image": {
+        "keyword": "japan summer festival fireworks",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-festival-fireworks",
+        "pexels_url": "https://www.pexels.com/search/japan%20summer%20festival%20fireworks/"
+      }
+    },
+    {
+      "id": "plan_d68a57b5",
+      "created_at": "2026-06-03T01:46:50.655607",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR西日本、台風6号に伴い近畿・北陸・中国エリアで終日運休。新幹線乗り換えにも影響",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2113958.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "태풍으로 인한 일본 열차 운행 중단 정보, 미리 확인하고 여행 계획 세우세요!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵태풍 6호! JR 서일본 운휴🚨",
+        "cards": [
+          {
+            "title": "JR 서일본 운휴",
+            "content": "태풍 6호 영향으로 JR 서일본의 긴키, 호쿠리쿠, 주고쿠 지역에서 6월 3일 첫차부터 일부 재래선 운행이 중단되거나 종일 운휴합니다.",
+            "alt_text": "JR 서일본 열차 운행 정보 안내 표지판"
+          },
+          {
+            "title": "운휴 지역 확인",
+            "content": "현재 발표된 운휴 대상 지역은 긴키, 호쿠리쿠, 주고쿠 지역이며, 상세 노선은 JR 서일본 공식 발표를 참고해야 합니다.",
+            "alt_text": "일본 지도에 표시된 긴키, 호쿠리쿠, 주고쿠 지역"
+          },
+          {
+            "title": "신칸센 영향",
+            "content": "이번 운휴는 신칸센 환승에도 영향을 줄 수 있으므로, 해당 지역을 여행 중이거나 예정이라면 미리 운행 상황을 확인해야 합니다.",
+            "alt_text": "신칸센 열차와 재래선 열차가 연결되는 모습"
+          },
+          {
+            "title": "여행 계획 필수",
+            "content": "갑작스러운 운휴로 인해 여행 일정에 차질이 생기지 않도록, 출발 전 JR 서일본 홈페이지 또는 관련 앱을 통해 최신 운행 정보를 반드시 확인하세요.",
+            "alt_text": "여행 가방과 열차 시간표를 들고 있는 여행객"
+          },
+          {
+            "title": "대체 교통편",
+            "content": "운휴 노선이 있다면 버스 등 대체 교통편 정보를 사전에 알아보거나, 현지에서 역무원에게 문의하여 최적의 이동 방법을 찾아야 합니다.",
+            "alt_text": "일본 버스 정류장과 안내 표지판"
+          }
+        ],
+        "caption": "🚨일본 여행 중이라면 꼭 확인하세요!🚨\n태풍 6호로 인해 JR 서일본의 긴키, 호쿠리쿠, 주고쿠 지역에서 6월 3일 첫차부터 열차 운행이 중단됩니다. 신칸센 환승에도 영향을 줄 수 있으니, 해당 지역 여행 계획이 있다면 반드시 최신 운행 정보를 확인하고, 필요시 대체 교통편을 미리 알아보세요!\n\n#일본여행 #JR서일본 #태풍 #열차운휴 #일본교통 #여행정보 #플라잉재팬 #일본날씨 #안전여행 #효고현 #오사카 #교토 #나라 #칸사이 # 주고쿠",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR서일본",
+          "#태풍6호",
+          "#열차운휴",
+          "#일본교통",
+          "#여행정보",
+          "#일본날씨",
+          "#안전여행",
+          "#일본여행준비",
+          "#여행꿀팁",
+          "#일본전철",
+          "#긴키",
+          "#호쿠리쿠",
+          "#주고쿠"
+        ],
+        "alt_texts": [
+          "JR 서일본 열차 운행 정보 안내 표지판",
+          "일본 지도에 표시된 긴키, 호쿠리쿠, 주고쿠 지역",
+          "신칸센 열차와 재래선 열차가 연결되는 모습",
+          "여행 가방과 열차 시간표를 들고 있는 여행객",
+          "일본 버스 정류장과 안내 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오전 9시~11시 / 기대 반응: 정보 확인 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 시의성 높은 재난 관련 교통 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Japan train, typhoon, JR West Japan, transportation disruption, weather alert, travel advisory, Osaka, Kyoto, Hokuriku, Chugoku",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-train,-typhoon,-JR-West-Japan,-transportation-disruption,-weather-alert,-travel-advisory,-Osaka,-Kyoto,-Hokuriku,-Chugoku",
+        "pexels_url": "https://www.pexels.com/search/Japan%20train,%20typhoon,%20JR%20West%20Japan,%20transportation%20disruption,%20weather%20alert,%20travel%20advisory,%20Osaka,%20Kyoto,%20Hokuriku,%20Chugoku/"
+      }
+    },
     {
       "id": "plan_9adc43a8",
       "created_at": "2026-06-02T04:55:45.267840",
@@ -923,160 +1077,6 @@
         "keyword": "JAL airplane, typhoon weather, Japan map, airport information board, traveler checking phone",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-typhoon-weather,-Japan-map,-airport-information-board,-traveler-checking-phone",
         "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20typhoon%20weather,%20Japan%20map,%20airport%20information%20board,%20traveler%20checking%20phone/"
-      }
-    },
-    {
-      "id": "plan_8df46406",
-      "created_at": "2026-05-30T04:12:04.088736",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海汽船、夜行日帰り「当日行先決定！ミステリーきっぷ」7月復活。伊豆大島/神津島など5島からランダムで決まる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113008.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "당일 결정! 일본 5개 섬 랜덤 여행, 14,800엔의 신비로운 경험!"
-      },
-      "content": {
-        "thumbnail_title": "✨당일 결정! 일본 5섬 미스터리 여행✨",
-        "cards": [
-          {
-            "title": "7월 운항!",
-            "content": "일본 동해기선에서 7월 5일부터 15일까지 '당일 결정! 미스터리 킷푸'를 운항합니다. 🚢",
-            "alt_text": "일본 동해기선 7월 운항 안내"
-          },
-          {
-            "title": "5개 섬 중 랜덤!",
-            "content": "이즈오시마, 코즈시마 등 5개의 아름다운 섬 중 당일 목적지가 랜덤으로 결정됩니다. 어떤 섬이 나올까요? 🏝️",
-            "alt_text": "랜덤으로 결정되는 일본 5개 섬 이미지"
-          },
-          {
-            "title": "14,800엔!",
-            "content": "성인 14,800엔, 어린이 7,400엔으로 왕복 여행을 즐길 수 있습니다. 💰",
-            "alt_text": "여행 상품 가격 정보"
-          },
-          {
-            "title": "당일 결정의 묘미!",
-            "content": "미리 정해지지 않는 목적지 덕분에 더욱 짜릿하고 특별한 일본 여행을 경험할 수 있습니다. 🤩",
-            "alt_text": "여행의 설렘을 나타내는 이미지"
-          },
-          {
-            "title": "예매 팁!",
-            "content": "7월 중순까지 한정 운항이니 서둘러 예매하세요! 자세한 운항 일정과 예매 방법은 동해기선 공식 홈페이지를 확인하세요. 📲",
-            "alt_text": "달력과 스마트폰으로 예매하는 모습"
-          }
-        ],
-        "caption": "✈️ 7월, 일본에서 펼쳐지는 역대급 미스터리 여행! ✈️\n당일 결정되는 5개의 섬 중 한 곳으로 떠나는 특별한 경험을 14,800엔에 즐겨보세요! 🚢\n이즈오시마, 코즈시마 등 숨겨진 보석 같은 섬들을 만날 기회! ✨\n놓치면 후회할 단 10일간의 기회, 지금 바로 준비하세요! 🤩\n#일본여행 #미스터리여행 #동해기선 #섬여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본섬여행",
-          "#일본교통",
-          "#7월일본여행",
-          "#일본관광",
-          "#일본자유여행",
-          "#이즈오시마",
-          "#코즈시마",
-          "#일본페리",
-          "#여행스타그램",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#미스터리킷푸"
-        ],
-        "alt_texts": [
-          "일본 동해기선 7월 운항 안내",
-          "랜덤으로 결정되는 일본 5개 섬 이미지",
-          "여행 상품 가격 정보",
-          "여행의 설렘을 나타내는 이미지",
-          "달력과 스마트폰으로 예매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 특별하고 새로운 경험을 추구하는 20-30대 한국인 여행자 / 최적 게시 시간: 화요일/목요일 오후 7-9시 / 기대 반응: 높은 관심과 문의, 실제 예약 전환 / 이 콘텐츠의 강점: 국내에 잘 알려지지 않은 독특한 여행 상품 정보, 합리적인 가격",
-      "image": {
-        "keyword": "japan island hopping mystery ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-island-hopping-mystery-ticket",
-        "pexels_url": "https://www.pexels.com/search/japan%20island%20hopping%20mystery%20ticket/"
-      }
-    },
-    {
-      "id": "plan_ee1fcbbb",
-      "created_at": "2026-05-30T04:11:57.501130",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーリゾート、40周年記念プライオリティパスを8月末で終了",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113064.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 디즈니랜드 40주년 특별 혜택 종료 예정! 마지막 기회를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 40주년 혜택 종료 임박!✨",
-        "cards": [
-          {
-            "title": "프라이오리티 패스",
-            "content": "도쿄 디즈니랜드 40주년 기념으로 제공되던 '프라이오리티 패스'가 2023년 8월 31일부로 종료됩니다. 해당 기간 동안 운영되었던 특별 혜택을 더 이상 이용할 수 없으니 참고하세요.",
-            "alt_text": "도쿄 디즈니랜드 40주년 기념 프라이오리티 패스 종료 안내 배너"
-          },
-          {
-            "title": "종료일 확인",
-            "content": "프라이오리티 패스 이용 가능 마지막 날은 2023년 8월 31일 목요일입니다. 이 날짜 이후로는 해당 패스를 발급받거나 사용할 수 없습니다.",
-            "alt_text": "달력에 8월 31일이 표시된 이미지"
-          },
-          {
-            "title": "기존 혜택",
-            "content": "해당 패스는 특정 어트랙션의 대기 시간을 단축시켜주는 서비스였습니다. 40주년 기간 동안 디즈니를 더욱 편리하게 즐길 수 있도록 제공되었습니다.",
-            "alt_text": "디즈니랜드 어트랙션 줄이 짧은 모습"
-          },
-          {
-            "title": "향후 계획",
-            "content": "40주년 기념 특별 혜택 종료 후, 도쿄 디즈니랜드는 새로운 시즌과 이벤트로 방문객들을 맞이할 예정입니다. 공식 홈페이지를 통해 최신 정보를 확인하세요.",
-            "alt_text": "디즈니랜드 성 야경 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "8월 31일 이전에 도쿄 디즈니랜드 방문 계획이 있다면, 프라이오리티 패스 이용 가능 여부를 미리 확인하고 효율적인 동선 계획을 세우는 것이 좋습니다. 종료 후에는 일반 대기 시간을 이용해야 합니다.",
-            "alt_text": "디즈니랜드 지도와 함께 계획을 세우는 여행객 모습"
-          }
-        ],
-        "caption": "🚨도쿄 디즈니랜드 40주년 기념 '프라이오리티 패스' 8월 31일 종료 예정!🚨\n\n더 이상 이 특별한 혜택을 이용할 수 없게 됩니다. 😭\n\n8월 말까지 방문하시는 분들은 마지막 기회를 꼭 잡으세요!\n\n#디즈니랜드 #도쿄디즈니랜드 #프라이오리티패스 #일본여행정보 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니랜드",
-          "#도쿄여행",
-          "#일본여행정보",
-          "#프라이오리티패스",
-          "#디즈니",
-          "#여행꿀팁",
-          "#8월여행",
-          "#일본가볼만한곳",
-          "#놀이공원",
-          "#테마파크",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 40주년 기념 프라이오리티 패스 종료 안내 배너",
-          "달력에 8월 31일이 표시된 이미지",
-          "디즈니랜드 어트랙션 줄이 짧은 모습",
-          "디즈니랜드 성 야경 이미지",
-          "디즈니랜드 지도와 함께 계획을 세우는 여행객 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 습득 및 공유, 방문 계획 수정 / 이 콘텐츠의 강점: 종료 임박 정보로 긴급성 부여, 구체적인 종료일 명시",
-      "image": {
-        "keyword": "Tokyo Disneyland, Priority Pass, Event End",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Priority-Pass,-Event-End",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Priority%20Pass,%20Event%20End/"
       }
     }
   ]
