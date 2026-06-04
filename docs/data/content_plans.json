@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-03T05:05:29.272436",
+  "last_updated": "2026-06-04T01:48:30.259113",
   "plans": [
+    {
+      "id": "plan_8919f99a",
+      "created_at": "2026-06-04T01:48:28.258926",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "CHUMS、夏の新作ボトル/トートバッグ/ドリンクホルダーほか。直営店とロフト限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114258.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올여름 일본 여행 필수템! CHUMS 신상 굿즈 득템 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "CHUMS 여름 신상 득템! ☀️",
+        "cards": [
+          {
+            "title": "CHUMS 신상 출시!",
+            "content": "아웃도어 브랜드 CHUMS가 '나만의 보틀과 여름을 즐기자' 컨셉의 Summer Bottle 시리즈를 6월 12일에 출시했어요. 여름 여행 필수템으로 딱이겠죠?",
+            "alt_text": "CHUMS 브랜드 로고와 여름 느낌의 일러스트"
+          },
+          {
+            "title": "보틀/토트백",
+            "content": "이번 신상에는 다양한 디자인의 보틀과 함께 실용적인 토트백도 포함되어 있어요. 일본 직영점과 로프트에서만 한정 판매한다고 하니 서둘러야 해요!",
+            "alt_text": "다양한 디자인의 CHUMS 보틀과 토트백 이미지"
+          },
+          {
+            "title": "드링크 홀더",
+            "content": "뜨거운 여름, 음료를 시원하게 유지해 줄 드링크 홀더도 함께 출시됩니다. 가볍고 휴대하기 좋아 캠핑이나 피크닉에도 유용할 거예요.",
+            "alt_text": "CHUMS 드링크 홀더 이미지"
+          },
+          {
+            "title": "한정 판매!",
+            "content": "이번 Summer Bottle 시리즈는 일본 CHUMS 직영점과 로프트(LOFT) 매장에서만 구매 가능해요. 여행 중에 꼭 방문해서 득템하세요!",
+            "alt_text": "일본 로프트(LOFT) 매장 외관 또는 내부 이미지"
+          },
+          {
+            "title": "쇼핑 꿀팁!",
+            "content": "여행 전, 로프트 매장 위치를 미리 확인하고 방문하면 시간을 절약할 수 있어요. 일본 현지에서만 구할 수 있는 특별한 기념품이 될 거예요!",
+            "alt_text": "일본 지도 앱에서 로프트 매장을 검색하는 모습"
+          }
+        ],
+        "caption": "🇯🇵 여름 일본 여행 D-Day! CHUMS에서 역대급 신상 굿즈가 쏟아져 나와요! ☀️\n\n'나만의 보틀과 여름을 즐기자'는 컨셉으로 6월 12일부터 한정 출시되는 Summer Bottle 시리즈! 🤩\n\n보틀, 토트백, 드링크 홀더까지! 여름 여행 필수템으로 딱인 CHUMS 신상, 일본 직영점과 로프트에서만 만날 수 있다는 사실!\n\n지금 바로 일본 여행 계획 세우고, 힙스터템 득템 찬스 놓치지 마세요! 😎\n\n#플라잉재팬 #일본여행 #CHUMS #차이나는클라스 #일본쇼핑 #로프트 #여름휴가 #일본굿즈 #여행준비 #일본직구 #여행스타그램 #필수템 #득템찬스 #일본한정판 #인싸템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#CHUMS",
+          "#차이나는클라스",
+          "#일본쇼핑",
+          "#로프트",
+          "#여름휴가",
+          "#일본굿즈",
+          "#여행준비",
+          "#일본직구",
+          "#여행스타그램",
+          "#필수템",
+          "#득템찬스",
+          "#일본한정판",
+          "#인싸템"
+        ],
+        "alt_texts": [
+          "CHUMS 브랜드 로고와 여름 느낌의 일러스트",
+          "다양한 디자인의 CHUMS 보틀과 토트백 이미지",
+          "CHUMS 드링크 홀더 이미지",
+          "일본 로프트(LOFT) 매장 외관 또는 내부 이미지",
+          "일본 지도 앱에서 로프트 매장을 검색하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 시기적절한 신상 정보, 한정판이라는 희소성 강조, 실용적인 쇼핑 팁 제공",
+      "image": {
+        "keyword": "CHUMS summer collection, japan travel shopping, loft store japan, summer bottle, tote bag, drink holder",
+        "unsplash_url": "https://unsplash.com/s/photos/CHUMS-summer-collection,-japan-travel-shopping,-loft-store-japan,-summer-bottle,-tote-bag,-drink-holder",
+        "pexels_url": "https://www.pexels.com/search/CHUMS%20summer%20collection,%20japan%20travel%20shopping,%20loft%20store%20japan,%20summer%20bottle,%20tote%20bag,%20drink%20holder/"
+      }
+    },
+    {
+      "id": "plan_cdcc3754",
+      "created_at": "2026-06-04T01:48:22.077648",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALディズニーシー25周年の特別塗装機が熊本へ出発！　初便は横断幕を持ってお見送り",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114298.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니와 JAL이 만났다! 25주년 특별 도색기 타고 떠나는 일본 여행!"
+      },
+      "content": {
+        "thumbnail_title": "✨JAL 디즈니 25주년 특별 도색기✨",
+        "cards": [
+          {
+            "title": "특별 도색기 운항!",
+            "content": "JAL에서 도쿄 디즈니씨 25주년을 기념하여 특별 도색기 'JAL Jubilee Express'를 취항했습니다! ✈️",
+            "alt_text": "JAL 디즈니 25주년 특별 도색기 항공기 이미지"
+          },
+          {
+            "title": "운항 기간",
+            "content": "이 특별한 비행기는 2027년 4월경까지 운항될 예정입니다. 🗓️",
+            "alt_text": "달력 아이콘과 함께 운항 기간을 나타내는 이미지"
+          },
+          {
+            "title": "운항 노선",
+            "content": "하네다(도쿄)와 신치토세(삿포로)를 오가는 국내선에서 만나볼 수 있습니다. 🇯🇵",
+            "alt_text": "일본 지도 위에 하네다와 신치토세 공항을 표시한 이미지"
+          },
+          {
+            "title": "탑승 찬스!",
+            "content": "디즈니 팬이라면 놓칠 수 없는 특별한 경험! 잊지 못할 추억을 만들어보세요. 💖",
+            "alt_text": "디즈니랜드 성 앞에서 환호하는 사람들의 모습"
+          },
+          {
+            "title": "예약 팁",
+            "content": "특별 도색기 탑승을 원하시면, 예약 시 항공편 정보를 꼼꼼히 확인하시는 것이 좋습니다. 📲",
+            "alt_text": "스마트폰으로 항공권 예약하는 모습을 보여주는 이미지"
+          }
+        ],
+        "caption": "디즈니 덕후들 주목! ✨ JAL에서 도쿄 디즈니씨 25주년을 기념해 특별 도색기 'JAL Jubilee Express'를 운항합니다! ✈️ 2027년 4월까지 하네다-신치토세 노선에서 만날 수 있어요. 💖 특별한 비행으로 잊지 못할 일본 여행을 만들어보세요! 🇯🇵",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#도쿄디즈니씨",
+          "#디즈니25주년",
+          "#특별도색기",
+          "#일본항공",
+          "#해외여행",
+          "#여행정보",
+          "#일본항공권",
+          "#디즈니",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#JubileeExpress"
+        ],
+        "alt_texts": [
+          "JAL 디즈니 25주년 특별 도색기 항공기 이미지",
+          "달력 아이콘과 함께 운항 기간을 나타내는 이미지",
+          "일본 지도 위에 하네다와 신치토세 공항을 표시한 이미지",
+          "디즈니랜드 성 앞에서 환호하는 사람들의 모습",
+          "스마트폰으로 항공권 예약하는 모습을 보여주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 디즈니랜드 방문 계획이 있는 20-30대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 공유, 디즈니 관련 콘텐츠에 대한 높은 참여율 / 이 콘텐츠의 강점: 디즈니와 항공이라는 두 가지 매력적인 요소 결합, 명확한 운항 정보 제공",
+      "image": {
+        "keyword": "JAL Disney 25th Anniversary special livery plane, Tokyo Disneyland, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Disney-25th-Anniversary-special-livery-plane,-Tokyo-Disneyland,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Disney%2025th%20Anniversary%20special%20livery%20plane,%20Tokyo%20Disneyland,%20Japan%20travel/"
+      }
+    },
     {
       "id": "plan_b6c7b5e0",
       "created_at": "2026-06-03T05:05:27.272197",
@@ -923,160 +1077,6 @@
         "keyword": "Hello Kitty room, Grand Mercure Beppu Bay, Japan travel, limited edition goods, Oita prefecture",
         "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-room,-Grand-Mercure-Beppu-Bay,-Japan-travel,-limited-edition-goods,-Oita-prefecture",
         "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20room,%20Grand%20Mercure%20Beppu%20Bay,%20Japan%20travel,%20limited%20edition%20goods,%20Oita%20prefecture/"
-      }
-    },
-    {
-      "id": "plan_8afca8c6",
-      "created_at": "2026-05-31T04:46:38.688224",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「楽天トラベル スーパーSALE」6月4日から。USJ家族向けホテル最大33％オフ、フジロックのチケットも割引対象に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113146.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수 앱! 楽天 트래블 역대급 할인 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚀楽天 트래블 역대급 할인!",
-        "cards": [
-          {
-            "title": "할인 기간",
-            "content": "6월 4일 20시부터 6월 20일 23시 59분까지! 楽天 트래블 슈퍼 세일이 시작됩니다.",
-            "alt_text": "달력에 표시된 6월 4일과 6월 20일"
-          },
-          {
-            "title": "USJ 가족 특가",
-            "content": "USJ 근처 가족 여행 호텔이 최대 33% 할인! 아이와 함께하는 일본 여행을 더욱 알뜰하게 계획해 보세요.",
-            "alt_text": "유니버설 스튜디오 재팬 로고와 가족이 웃는 모습"
-          },
-          {
-            "title": "후지락 티켓 할인",
-            "content": "인기 일본 페스티벌 '후지 록 페스티벌' 티켓도 할인 대상! 음악과 함께하는 특별한 여행을 준비하세요.",
-            "alt_text": "음악 페스티벌 무대와 환호하는 관객들"
-          },
-          {
-            "title": "다양한 할인",
-            "content": "호텔, 항공권 등 다양한 일본 여행 상품을 특별 할인가로 만나볼 수 있는 절호의 기회입니다.",
-            "alt_text": "여행 가방, 비행기, 호텔 아이콘"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "지금 바로 楽天 트래블 앱 또는 웹사이트에서 역대급 할인 정보를 확인하고, 일본 여행 계획을 미리 세워보세요!",
-            "alt_text": "스마트폰으로 楽天 트래블 앱을 보는 사람"
-          }
-        ],
-        "caption": "일본 여행 필수 쇼핑 찬스! 🇯🇵 6월 4일부터 20일까지 楽天 트래블 슈퍼 세일이 시작됩니다! \n\n✨ USJ 가족 호텔 최대 33% 할인\n✨ 후지 락 페스티벌 티켓 할인\n\n일본 여행 준비 중이라면 절대 놓치지 마세요! 지금 바로 楽天 트래블에서 최저가 찬스를 잡아보세요! ✈️\n\n#일본여행 #楽天트래블 #일본쇼핑 #일본호텔 #USJ #후지락페스티벌 #여행할인 #슈퍼세일 #일본자유여행 #여행정보 #플라잉재팬 #여행꿀팁 #일본가족여행 #가성비여행 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#楽天트래블",
-          "#일본쇼핑",
-          "#일본호텔",
-          "#USJ",
-          "#후지락페스티벌",
-          "#여행할인",
-          "#슈퍼세일",
-          "#일본자유여행",
-          "#여행정보",
-          "#여행꿀팁",
-          "#일본가족여행",
-          "#가성비여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "달력에 표시된 6월 4일과 6월 20일",
-          "유니버설 스튜디오 재팬 로고와 가족이 웃는 모습",
-          "음악 페스티벌 무대와 환호하는 관객들",
-          "여행 가방, 비행기, 호텔 아이콘",
-          "스마트폰으로 楽天 트래블 앱을 보는 사람"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오전 10-12시 / 기대 반응: 높은 클릭률 및 정보 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 실제 여행객에게 직접적인 혜택을 주는 '할인' 정보로 즉각적인 관심 유도, 구체적인 할인율과 대상 명시",
-      "image": {
-        "keyword": "Rakuten Travel, Japan travel sale, Universal Studios Japan hotel discount, Fuji Rock Festival ticket offer, travel deals",
-        "unsplash_url": "https://unsplash.com/s/photos/Rakuten-Travel,-Japan-travel-sale,-Universal-Studios-Japan-hotel-discount,-Fuji-Rock-Festival-ticket-offer,-travel-deals",
-        "pexels_url": "https://www.pexels.com/search/Rakuten%20Travel,%20Japan%20travel%20sale,%20Universal%20Studios%20Japan%20hotel%20discount,%20Fuji%20Rock%20Festival%20ticket%20offer,%20travel%20deals/"
-      }
-    },
-    {
-      "id": "plan_c2c75158",
-      "created_at": "2026-05-31T04:46:33.288618",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "夏の連休もお得な「じゃらんスペシャルウィーク」。ホテル・温泉宿の半額プラン、最大1.5万円引きクーポン登場",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113147.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여름 휴가철 일본 여행, 최대 1.5만 엔 할인 쿠폰으로 알뜰하게 준비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🔥여름 휴가 일본 반값 득템!🔥",
-        "cards": [
-          {
-            "title": "특가 시작!",
-            "content": "일본 최대 여행 예약 사이트 '자란(じゃらん)넷'에서 '자란 스페셜 위크' 빅 세일을 6월 1일부터 시작해요. 여름 휴가 시즌 숙소 예약 시 큰 혜택을 받을 수 있어요.",
-            "alt_text": "자란넷 스페셜 위크 할인 행사 시작 안내"
-          },
-          {
-            "title": "사전 쿠폰 배포",
-            "content": "본격적인 세일 시작 전, 5월 27일부터 할인 쿠폰 사전 배포가 진행됩니다. 미리 쿠폰을 받아두면 원하는 숙소를 더 저렴하게 예약할 수 있어요.",
-            "alt_text": "자란넷 할인 쿠폰 사전 배포 안내"
-          },
-          {
-            "title": "최대 1.5만엔 할인",
-            "content": "이번 '자란 스페셜 위크'에서는 호텔 및 온천 숙박 요금을 최대 반값까지 할인해주며, 최대 1.5만 엔 할인 쿠폰도 제공합니다. 알뜰한 일본 여행을 계획해보세요.",
-            "alt_text": "일본 숙소 반값 할인 및 최대 1.5만 엔 쿠폰 제공 정보"
-          },
-          {
-            "title": "여름 휴가 찬스!",
-            "content": "여름 연휴 기간에도 동일하게 할인 혜택이 적용됩니다. 지금 바로 자란넷에서 여름휴가 일본 여행 숙소를 미리 예약하고 파격적인 할인을 놓치지 마세요!",
-            "alt_text": "여름 휴가철 일본 숙소 예약 시 할인 혜택 적용 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "쿠폰은 수량이 한정되어 있으니, 5월 27일 사전 배포 시작일에 맞춰 빠르게 확보하는 것이 중요해요. 인기 숙소는 조기 마감될 수 있으니 서두르세요!",
-            "alt_text": "할인 쿠폰 조기 마감 및 인기 숙소 조기 예약 필요 안내"
-          }
-        ],
-        "caption": "🇯🇵 여름 휴가 일본 여행, 최대 1.5만 엔 할인받고 떠나요! 🇯🇵\n\n일본 최대 여행 예약 사이트 '자란(じゃらん)넷'에서 여름 휴가 시즌을 맞아 '자란 스페셜 위크'를 진행합니다! ✨\n\n✅ 6월 1일부터 빅 세일 시작!\n✅ 5월 27일부터 할인 쿠폰 사전 배포!\n✅ 호텔 & 온천 숙박 최대 반값 할인 + 최대 1.5만 엔 쿠폰!\n\n지금 바로 자란넷에서 여름휴가 숙소 예약하고 역대급 할인 혜택 잡으세요! ✈️\n\n#일본여행 #자란넷 #일본숙소 #반값할인 #여름휴가 #일본여행준비 #할인쿠폰 #여행스타그램 #플라잉재팬 #일본호텔 #온천여행 #일본가볼만한곳 #알뜰여행 #여행정보 #일본특가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#자란넷",
-          "#일본숙소",
-          "#반값할인",
-          "#여름휴가",
-          "#일본여행준비",
-          "#할인쿠폰",
-          "#여행스타그램",
-          "#일본호텔",
-          "#온천여행",
-          "#일본가볼만한곳",
-          "#알뜰여행",
-          "#여행정보",
-          "#일본특가"
-        ],
-        "alt_texts": [
-          "자란넷 스페셜 위크 할인 행사 시작 안내",
-          "자란넷 할인 쿠폰 사전 배포 안내",
-          "일본 숙소 반값 할인 및 최대 1.5만 엔 쿠폰 제공 정보",
-          "여름 휴가철 일본 숙소 예약 시 할인 혜택 적용 안내",
-          "할인 쿠폰 조기 마감 및 인기 숙소 조기 예약 필요 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 휴가 시즌 일본 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감에 대한 강력한 메시지 전달",
-      "image": {
-        "keyword": "japan travel sale, japan hotel discount coupon, summer vacation japan, jalan net campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-sale,-japan-hotel-discount-coupon,-summer-vacation-japan,-jalan-net-campaign",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20sale,%20japan%20hotel%20discount%20coupon,%20summer%20vacation%20japan,%20jalan%20net%20campaign/"
       }
     }
   ]
