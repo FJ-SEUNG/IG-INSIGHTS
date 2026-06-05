@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-05T00:21:03.019237",
+  "last_updated": "2026-06-05T04:41:27.942317",
   "plans": [
+    {
+      "id": "plan_aff24f2e",
+      "created_at": "2026-06-05T04:41:25.942133",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "夏メニューになったJALの機内食を食べてきた。ハワイ路線「JAL Hawaiian Table」にはガツンとニンニクの効いたガーリックシュリンプも！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114550.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 항공사 JAL, 6월 1일부터 시작되는 여름 한정 기내식으로 일본 여행의 설렘을 더하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 여름 기내식 6/1부터!",
+        "cards": [
+          {
+            "title": "여름 시즌 시작",
+            "content": "JAL 국제선 및 국내선 기내식이 6월 1일부터 여름 메뉴로 변경됩니다. 새로운 메뉴로 즐거운 비행을 경험하세요!",
+            "alt_text": "JAL 항공기에서 제공되는 여름 시즌 기내식 이미지"
+          },
+          {
+            "title": "하와이 노선 특별 메뉴",
+            "content": "도쿄 발 호놀룰루 행 프리미엄 이코노미 및 이코노미 클래스에서는 'JAL Hawaiian Table'이 제공됩니다. 현지 인기 메뉴를 JAL 스타일로 재해석했습니다.",
+            "alt_text": "하와이안 테이블 메뉴 일러스트 또는 사진"
+          },
+          {
+            "title": "가릭 쉬림프 & 포키",
+            "content": "특히 'JAL Hawaiian Table'에는 마늘 풍미가 가득한 가릭 쉬림프와 신선한 포키 등 현지에서 사랑받는 메뉴가 포함됩니다.",
+            "alt_text": "가릭 쉬림프와 포키 메뉴 클로즈업 사진"
+          },
+          {
+            "title": "전 노선 여름 메뉴",
+            "content": "하와이 노선 외에도 다양한 국제선 및 국내선에서 여름 시즌에 맞춰 특별히 준비된 기내식을 맛볼 수 있습니다.",
+            "alt_text": "다양한 JAL 기내식 이미지"
+          },
+          {
+            "title": "여행의 시작!",
+            "content": "일본 도착 전, JAL의 맛있는 여름 기내식으로 여행의 즐거움을 미리 느껴보세요! 6월 1일 이후 탑승 시 기대해도 좋습니다.",
+            "alt_text": "행복하게 기내식을 먹는 승객 이미지"
+          }
+        ],
+        "caption": "✈️ JAL이 6월 1일부터 여름 한정 기내식을 선보입니다! 특히 도쿄-호놀룰루 노선에서는 하와이 로컬 메뉴를 재해석한 'JAL Hawaiian Table'을 맛볼 수 있어요. 가릭 쉬림프와 포키 등 놓칠 수 없는 메뉴들! 🌴\n\n새로운 기내식과 함께 더욱 특별한 일본 여행을 계획해보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#기내식",
+          "#여름휴가",
+          "#여행정보",
+          "#일본항공권",
+          "#도쿄",
+          "#호놀룰루",
+          "#하와이안테이블",
+          "#가릭쉬림프",
+          "#포키",
+          "#기내식추천",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "JAL 항공기에서 제공되는 여름 시즌 기내식 이미지",
+          "하와이안 테이블 메뉴 일러스트 또는 사진",
+          "가릭 쉬림프와 포키 메뉴 클로즈업 사진",
+          "다양한 JAL 기내식 이미지",
+          "행복하게 기내식을 먹는 승객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 공유 및 기대감 상승 / 이 콘텐츠의 강점: 최신 항공사 메뉴 정보로 여행 계획에 실질적인 도움 제공",
+      "image": {
+        "keyword": "JAL summer in-flight meal, Hawaiian Table, garlic shrimp, poke, airplane food",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-summer-in-flight-meal,-Hawaiian-Table,-garlic-shrimp,-poke,-airplane-food",
+        "pexels_url": "https://www.pexels.com/search/JAL%20summer%20in-flight%20meal,%20Hawaiian%20Table,%20garlic%20shrimp,%20poke,%20airplane%20food/"
+      }
+    },
+    {
+      "id": "plan_7396c8ad",
+      "created_at": "2026-06-05T04:41:18.978563",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルニューアカオ、1泊2食ビュッフェが最大30％オフ。絶景温泉に熱海海上花火大会も楽しめる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114784.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 최대 30% 할인! 료칸 예약 시 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "료칸 30% 할인 찬스! ♨️",
+        "cards": [
+          {
+            "title": "특급 할인",
+            "content": "일본 료칸 예약 시 최대 30% 할인 혜택을 받을 수 있는 '라쿠텐 트래블 슈퍼 세일'이 6월 20일까지 진행됩니다. 인기 온천 숙소 예약 시 놓치지 마세요!",
+            "alt_text": "일본 료칸 할인 30% 안내"
+          },
+          {
+            "title": "할인 적용법",
+            "content": "전국 호텔 및 온천 숙소에서 세일 플랜을 판매 중이며, 발급된 쿠폰을 함께 사용하면 최대 30% 할인이 적용됩니다. 지금 바로 예약하세요!",
+            "alt_text": "쿠폰 사용 방법 안내"
+          },
+          {
+            "title": "추천 여행지",
+            "content": "특히, 아름다운 바다 전망을 자랑하는 '호텔 뉴 아카오'에서는 1박 2식 뷔페를 할인된 가격으로 즐길 수 있습니다. 아타미 해상 불꽃놀이도 감상 가능합니다.",
+            "alt_text": "호텔 뉴 아카오 료칸 소개"
+          },
+          {
+            "title": "온천 즐기기",
+            "content": "멋진 온천에서 힐링하고, 맛있는 뷔페 식사까지! 일본 여행에서 잊지 못할 추억을 만들어보세요. 료칸 할인으로 더욱 알찬 여행이 가능합니다.",
+            "alt_text": "일본 온천 여행 모습"
+          },
+          {
+            "title": "예약 팁",
+            "content": "세일 기간이 얼마 남지 않았으니, 원하는 날짜와 숙소를 미리 확인하고 예약하는 것이 좋습니다. 인기 숙소는 조기 마감될 수 있습니다.",
+            "alt_text": "일본 료칸 예약 팁 안내"
+          }
+        ],
+        "caption": "일본 온천 여행 계획 중이신가요? ♨️\n\n지금 바로 라쿠텐 트래블에서 최대 30% 할인받고 료칸 예약하세요! 🤩\n\n6월 20일까지 진행되는 '슈퍼 세일' 기간에 인기 숙소들을 특별한 가격으로 만나볼 수 있습니다.\n\n✨ 1박 2식 뷔페 할인 & 불꽃놀이 명소도 놓치지 마세요!\n\n지금 바로 프로필 링크에서 확인하고 알찬 일본 여행 준비하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본료칸",
+          "#온천여행",
+          "#일본숙소",
+          "#라쿠텐트래블",
+          "#일본할인",
+          "#여행정보",
+          "#일본가고싶다",
+          "#호텔뉴아카오",
+          "#아타미",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#일본온천",
+          "#료칸추천"
+        ],
+        "alt_texts": [
+          "일본 료칸 할인 30% 안내",
+          "쿠폰 사용 방법 안내",
+          "호텔 뉴 아카오 료칸 소개",
+          "일본 온천 여행 모습",
+          "일본 료칸 예약 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 숙소 방문 계획이 있는 한국인 여행자 / 최적 게시 시간: 저녁 8시~10시 (여행 정보 탐색 시간) / 기대 반응: 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 추천 숙소 정보 제공으로 즉각적인 예약 유도",
+      "image": {
+        "keyword": "Japanese ryokan discount, hot spring hotel Japan, Rakuten Travel sale, Atami fireworks",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-ryokan-discount,-hot-spring-hotel-Japan,-Rakuten-Travel-sale,-Atami-fireworks",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20ryokan%20discount,%20hot%20spring%20hotel%20Japan,%20Rakuten%20Travel%20sale,%20Atami%20fireworks/"
+      }
+    },
     {
       "id": "plan_4bce1e31",
       "created_at": "2026-06-05T00:21:01.019051",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo fireworks festival, Jingu Gaien, summer event, Japan travel, August 8th, charity event, artist collaboration",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-fireworks-festival,-Jingu-Gaien,-summer-event,-Japan-travel,-August-8th,-charity-event,-artist-collaboration",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20fireworks%20festival,%20Jingu%20Gaien,%20summer%20event,%20Japan%20travel,%20August%208th,%20charity%20event,%20artist%20collaboration/"
-      }
-    },
-    {
-      "id": "plan_c86b20fc",
-      "created_at": "2026-06-02T01:36:44.442743",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東豊線さっぽろ駅徒歩約3分「リージョニア by クインテッサ 札幌駅前」開業。ウェルカムサービスと朝食ビュッフェで北海道の味覚を提供",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113494.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "삿포로역 도보 3분!北海道의 맛을 느낄 수 있는 신상 호텔 오픈!"
-      },
-      "content": {
-        "thumbnail_title": "삿포로 신상 호텔 오픈! 🏨",
-        "cards": [
-          {
-            "title": "신규 호텔 오픈!",
-            "content": "삿포로역에서 도보 약 3분 거리에 '리조니아 by 퀸텟사 삿포로역 앞'이 새롭게 문을 열었습니다. 2024년 3월 28일부로 영업을 시작했습니다.",
-            "alt_text": "삿포로역 근처에 위치한 신축 호텔 외관 이미지"
-          },
-          {
-            "title": "환영 서비스",
-            "content": "체크인 시 웰컴 서비스로北海道의 맛을 담은 특별한 음료나 디저트를 제공합니다. 여행의 피로를 풀고 기분 좋게 여행을 시작하세요.",
-            "alt_text": "호텔 웰컴 서비스로 제공되는 음료나 디저트 이미지"
-          },
-          {
-            "title": "조식 뷔페",
-            "content": "호텔 내 조식 뷔페에서는 北海道의 신선한 식재료를 활용한 다양한 메뉴를 맛볼 수 있습니다. 현지 특산물을 활용한 요리를 즐겨보세요.",
-            "alt_text": "뷔페식으로 차려진 다양한 조식 메뉴 이미지"
-          },
-          {
-            "title": "위치 최고!",
-            "content": "삿포로역에서 매우 가까워 삿포로 시내 관광은 물론, 다른 지역으로 이동하기에도 편리합니다. 삿포로 여행의 거점으로 추천합니다.",
-            "alt_text": "호텔에서 삿포로역까지의 도보 경로를 보여주는 지도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "새롭게 오픈한 호텔인 만큼, 조기 예약 시 특별한 혜택이 있을 수 있습니다. 공식 홈페이지를 확인하여 최신 정보를 놓치지 마세요.",
-            "alt_text": "호텔 예약 사이트 화면을 캡처한 이미지"
-          }
-        ],
-        "caption": "삿포로 여행 필수 코스! 🇯🇵\n삿포로역 도보 3분 거리에 '리조니아 by 퀸텟사 삿포로역 앞'이 오픈했어요! ✨\n웰컴 서비스와北海道의 맛을 담은 조식 뷔페로 즐거운 여행을 시작하세요. 😋\n삿포로 여행 계획 중이라면 주목! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#삿포로여행",
-          "#삿포로",
-          "#홋카이도",
-          "#일본신상호텔",
-          "#삿포로호텔",
-          "#삿포로역",
-          "#일본숙소",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#삿포로맛집",
-          "#홋카이도여행",
-          "#일본자유여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "삿포로역 근처에 위치한 신축 호텔 외관 이미지",
-          "호텔 웰컴 서비스로 제공되는 음료나 디저트 이미지",
-          "뷔페식으로 차려진 다양한 조식 메뉴 이미지",
-          "호텔에서 삿포로역까지의 도보 경로를 보여주는 지도 이미지",
-          "호텔 예약 사이트 화면을 캡처한 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 삿포로 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오전 9-11시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 삿포로역 초역세권 신규 호텔 정보로 즉각적인 여행 계획 반영 가능",
-      "image": {
-        "keyword": "Sapporo new hotel, Hokkaido food, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Sapporo-new-hotel,-Hokkaido-food,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Sapporo%20new%20hotel,%20Hokkaido%20food,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_fc8434c8",
-      "created_at": "2026-06-02T01:36:38.326877",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ファミマでも発売「ムーミン」ジャンプ式ビニール傘。淡いブルーの大人デザイン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113528.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 편의점 한정판 무민 우산 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "☔️일본 파미마 무민 우산!",
-        "cards": [
-          {
-            "title": "무민 우산 출시!",
-            "content": "일본 패밀리마트와 온라인 스토어에서만 만날 수 있는 '무민 UMBRELLA BOOK Forest ver.'가 6월 4일에 발매됩니다.",
-            "alt_text": "무민 캐릭터가 그려진 파란색 투명 우산 이미지"
-          },
-          {
-            "title": "성인 취향 저격",
-            "content": "은은한 파란색에 무민 캐릭터가 디자인된 어른스러운 감성의 우산으로, 일상에 특별함을 더해줄 거예요.",
-            "alt_text": "무민 우산의 디테일 디자인을 보여주는 클로즈업 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 3,619엔이며, 일반 서점에서는 판매되지 않습니다.",
-            "alt_text": "무민 우산의 가격표가 함께 표시된 이미지"
-          },
-          {
-            "title": "구매 방법",
-            "content": "일본 현지 패밀리마트 또는 온라인 스토어를 통해 구매 가능합니다. (6월 4일 발매)",
-            "alt_text": "패밀리마트 편의점 외관과 무민 우산 진열 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 중 예상치 못한 비를 대비해, 디자인까지 예쁜 무민 우산을 기념품으로 구매해보는 건 어떠세요?",
-            "alt_text": "일본 편의점에서 우산을 구매하는 여행객 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템! ☔️\n\n6월 4일부터 일본 패밀리마트와 온라인 스토어에서만 한정 판매하는 '무민 UMBRELLA BOOK Forest ver.'를 만나보세요!\n\n어른스러운 디자인의 무민 우산으로 일본 여행의 추억을 더해보세요.\n\n여행 중 비 소식에 당황하지 않도록 미리 준비하세요! 😉\n\n#일본여행 #플라잉재팬 #무민 #일본편의점 #파미마 #한정판 #일본쇼핑 #여행준비 #일본기념품",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무민",
-          "#일본편의점",
-          "#파미마",
-          "#한정판",
-          "#일본쇼핑",
-          "#여행준비",
-          "#일본기념품",
-          "#무민우산",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본쇼핑리스트",
-          "#일본필수템",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "무민 캐릭터가 그려진 파란색 투명 우산 이미지",
-          "무민 우산의 디테일 디자인을 보여주는 클로즈업 이미지",
-          "무민 우산의 가격표가 함께 표시된 이미지",
-          "패밀리마트 편의점 외관과 무민 우산 진열 이미지",
-          "일본 편의점에서 우산을 구매하는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 관심, 구매 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 일본 현지에서만 구매 가능한 한정판 아이템 정보, 실용성과 디자인을 모두 갖춘 아이템 소개",
-      "image": {
-        "keyword": "Moomin umbrella, Family Mart Japan, limited edition, Japan travel shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Moomin-umbrella,-Family-Mart-Japan,-limited-edition,-Japan-travel-shopping",
-        "pexels_url": "https://www.pexels.com/search/Moomin%20umbrella,%20Family%20Mart%20Japan,%20limited%20edition,%20Japan%20travel%20shopping/"
       }
     }
   ]
