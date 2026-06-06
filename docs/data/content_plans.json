@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-05T04:41:27.942317",
+  "last_updated": "2026-06-06T00:20:04.049814",
   "plans": [
+    {
+      "id": "plan_4f1d3cd6",
+      "created_at": "2026-06-06T00:20:02.049621",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "モノレール浜松町、3階の新改札を一足早く見てきた。6月13日運用開始、大門駅からのアクセス改善",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114991.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 浜松町역 이용이 훨씬 편리해져요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️浜松町역 신개찰구 오픈!",
+        "cards": [
+          {
+            "title": "신개찰구 오픈",
+            "content": "도쿄 모노레일 浜松町역 서쪽 출구에 새로운 개찰구가 6월 13일 운영을 시작합니다. 앞으로 浜松町역 이용이 더욱 편리해질 전망입니다.",
+            "alt_text": "도쿄 모노레일 浜松町역 신규 개찰구 모습"
+          },
+          {
+            "title": "대문역 접근성 개선",
+            "content": "이번 신규 개찰구 설치로 대문역(Daimon Station)과의 접근성이 크게 향상되었습니다. 환승 및 이동 시간이 단축될 것으로 기대됩니다.",
+            "alt_text": "대문역과 浜松町역 연결 지도"
+          },
+          {
+            "title": "편리한 이동",
+            "content": "새로운 개찰구를 통해 도쿄 중심부 및 주요 관광지로의 이동이 더욱 수월해집니다. 특히 하네다 공항 이용객에게 희소식입니다.",
+            "alt_text": "도쿄 모노레일 노선도"
+          },
+          {
+            "title": "향후 기대 효과",
+            "content": "浜松町역 서쪽 출구 개발 사업의 일환으로, 지역 활성화와 관광객 편의 증진에 기여할 것으로 보입니다.",
+            "alt_text": "浜松町역 주변 개발 계획 조감도"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "6월 13일 이후 浜松町역을 이용하신다면, 새로 생긴 개찰구를 활용하여 더욱 빠르고 편리하게 이동하세요. 대문역 환승 시 동선을 미리 확인하는 것도 좋습니다.",
+            "alt_text": "새로운 개찰구 이용 안내 표지판"
+          }
+        ],
+        "caption": "✈️ 도쿄 여행 필수 정보! 浜松町역 신개찰구 오픈 소식! ✈️\n\n6월 13일부터 浜松町역 서쪽 출구에 새로운 개찰구가 운영됩니다. 대문역과의 접근성이 개선되어 도쿄 시내 및 하네다 공항 이동이 훨씬 편리해져요! 🗼\n\n도쿄 여행 계획 중이라면 꼭 알아두세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#浜松町역",
+          "#도쿄모노레일",
+          "#일본교통",
+          "#일본정보",
+          "#도쿄",
+          "#여행팁",
+          "#개찰구",
+          "#대문역",
+          "#하네다공항",
+          "#일본",
+          "#자유여행",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "도쿄 모노레일 浜松町역 신규 개찰구 모습",
+          "대문역과 浜松町역 연결 지도",
+          "도쿄 모노레일 노선도",
+          "浜松町역 주변 개발 계획 조감도",
+          "새로운 개찰구 이용 안내 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 9시~11시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 구체적인 날짜와 역 이름을 명시하여 실질적인 도움 제공",
+      "image": {
+        "keyword": "Tokyo Monorail Hamamatsucho Station new ticket gate",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Monorail-Hamamatsucho-Station-new-ticket-gate",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Monorail%20Hamamatsucho%20Station%20new%20ticket%20gate/"
+      }
+    },
+    {
+      "id": "plan_52a638db",
+      "created_at": "2026-06-06T00:19:54.811443",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "SL大樹「土津」試乗してきた。温泉にモグラ駅やダム湖、鬼怒川～会津ルートの見どころは？",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2115014.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "SL 기관차 타고 떠나는 일본 소도시 감성 여행!"
+      },
+      "content": {
+        "thumbnail_title": "🚂 SL 기관차 타고 힐링! 🇯🇵",
+        "cards": [
+          {
+            "title": "SL大樹(다이쥬)",
+            "content": "6월 27일부터 28일까지, SL大樹 '츠치' 열차가 특별 운행됩니다. 이번 특별 운행은 아이즈와카마츠까지 이어지는 특별한 루트입니다.",
+            "alt_text": "SL 기관차 '츠치' 열차 외관 이미지"
+          },
+          {
+            "title": "운행 구간",
+            "content": "도부 철도, 야노 철도, 아이즈 철도, JR 동일본이 협력하여 운행하는 이번 열차는 鬼怒川(키누가와)에서 会津(아이즈)까지 특별한 경험을 선사합니다.",
+            "alt_text": "열차 노선도 이미지"
+          },
+          {
+            "title": "주요 볼거리",
+            "content": "모가라역, 댐 호수 등 자연 경관과 함께 온천 마을의 매력을 느낄 수 있는 구간입니다. 일본의 숨겨진 아름다움을 발견하세요.",
+            "alt_text": "일본의 아름다운 댐 호수 풍경 이미지"
+          },
+          {
+            "title": "특별 티켓",
+            "content": "이 특별한 여행을 위한 티켓 정보는 공식 발표를 기다려주세요. 놓치기 아까운 기회이니 꼭 확인하세요!",
+            "alt_text": "열차 티켓 디자인 이미지"
+          },
+          {
+            "title": "여행 팁",
+            "content": "SL 기관차는 일반 열차와 속도 및 운행 방식이 다를 수 있습니다. 여유로운 마음으로 풍경을 즐기며 특별한 추억을 만들어보세요.",
+            "alt_text": "열차 창밖으로 보이는 일본 시골 풍경 이미지"
+          }
+        ],
+        "caption": "🚂 SL 기관차 타고 떠나는 힐링 여행! 🇯🇵\n\n6월 27일~28일, SL大樹 '츠치' 열차가 아이즈와카마츠까지 특별 운행됩니다! 🚄\n\n鬼怒川(키누가와)부터 会津(아이즈)까지, 모가라역, 댐 호수, 온천 마을 등 일본의 숨겨진 아름다움을 만끽할 수 있는 특별한 경험을 놓치지 마세요! ✨\n\n자세한 티켓 정보는 추후 공개될 예정이니, @flyingjapan 팔로우하고 최신 소식을 받아보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#SL대수",
+          "#아이즈",
+          "#키누가와",
+          "#일본기차여행",
+          "#특별운행",
+          "#일본소도시",
+          "#여행정보",
+          "#6월여행",
+          "#기차여행",
+          "#일본감성",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본철도"
+        ],
+        "alt_texts": [
+          "SL 기관차 '츠치' 열차 외관 이미지",
+          "열차 노선도 이미지",
+          "일본의 아름다운 댐 호수 풍경 이미지",
+          "열차 티켓 디자인 이미지",
+          "열차 창밖으로 보이는 일본 시골 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본의 특별한 기차 여행 경험을 원하는 2040 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 관심과 공유, 티켓 정보 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 특별 운행 정보, 감성적인 테마와 구체적인 정보 결합",
+      "image": {
+        "keyword": "SL train Japan, Aizu Wakamatsu, Kinugawa Onsen, Japanese countryside, steam locomotive",
+        "unsplash_url": "https://unsplash.com/s/photos/SL-train-Japan,-Aizu-Wakamatsu,-Kinugawa-Onsen,-Japanese-countryside,-steam-locomotive",
+        "pexels_url": "https://www.pexels.com/search/SL%20train%20Japan,%20Aizu%20Wakamatsu,%20Kinugawa%20Onsen,%20Japanese%20countryside,%20steam%20locomotive/"
+      }
+    },
     {
       "id": "plan_aff24f2e",
       "created_at": "2026-06-05T04:41:25.942133",
@@ -923,160 +1077,6 @@
         "keyword": "Japan train, typhoon, JR West Japan, transportation disruption, weather alert, travel advisory, Osaka, Kyoto, Hokuriku, Chugoku",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-train,-typhoon,-JR-West-Japan,-transportation-disruption,-weather-alert,-travel-advisory,-Osaka,-Kyoto,-Hokuriku,-Chugoku",
         "pexels_url": "https://www.pexels.com/search/Japan%20train,%20typhoon,%20JR%20West%20Japan,%20transportation%20disruption,%20weather%20alert,%20travel%20advisory,%20Osaka,%20Kyoto,%20Hokuriku,%20Chugoku/"
-      }
-    },
-    {
-      "id": "plan_9adc43a8",
-      "created_at": "2026-06-02T04:55:45.267840",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「第51回 江戸川区花火大会」有料観覧席の販売スタート。名物“富士の大仕掛け”など約1万4000発、8月1日開催",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113535.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "올여름 도쿄에서 펼쳐질 14,000발의 화려한 불꽃놀이!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 도쿄 불꽃축제 8/1 개최!",
-        "cards": [
-          {
-            "title": "축제 정보",
-            "content": "제51회 에도가와구 불꽃축제가 8월 1일에 개최됩니다. 약 14,000발의 불꽃이 밤하늘을 수놓을 예정입니다.",
-            "alt_text": "에도가와구 불꽃축제 포스터 이미지"
-          },
-          {
-            "title": "개최 장소",
-            "content": "도쿄도 에도가와구 에도가와 강변에서 열립니다. 정확한 위치는 에도가와구 카미시노자키 1-25-1입니다.",
-            "alt_text": "에도가와 강변 지도 이미지"
-          },
-          {
-            "title": "시간",
-            "content": "불꽃축제는 19시 15분에 시작하여 20시 20분에 종료됩니다. 한 시간가량의 멋진 쇼를 즐길 수 있습니다.",
-            "alt_text": "불꽃축제 시간 안내 이미지"
-          },
-          {
-            "title": "특징",
-            "content": "명물인 '후지노 오시카케'를 포함한 다채로운 불꽃 연출이 기대됩니다. 놓치지 마세요!",
-            "alt_text": "불꽃놀이 연출 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "악천후 시에는 예고 없이 취소될 수 있으며, 순연은 없습니다. 방문 전 날씨 확인은 필수입니다.",
-            "alt_text": "날씨 주의 안내 이미지"
-          }
-        ],
-        "caption": "🔥 2024년 8월 1일, 도쿄 에도가와구에서 펼쳐지는 제51회 에도가와구 불꽃축제를 놓치지 마세요! 19:15부터 20:20까지 약 1시간 동안 14,000발의 화려한 불꽃이 밤하늘을 가득 채울 거예요. 특히 '후지노 오시카케'의 웅장함을 기대해 보세요! 🎆\n\n📍 장소: 도쿄도 에도가와구 에도가와 강변 (카미시노자키 1-25-1)\n⏰ 시간: 19:15 ~ 20:20\n\n⚠️ 악천후 시 취소, 순연 없음!\n\n올여름, 잊지 못할 도쿄의 밤을 만들어 보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#에도코",
-          "#불꽃축제",
-          "#여름축제",
-          "#일본축제",
-          "#도쿄불꽃놀이",
-          "#8월여행",
-          "#여행정보",
-          "#일본정보",
-          "#여행필수",
-          "#여름휴가",
-          "#일본관광",
-          "#플라잉재팬추천"
-        ],
-        "alt_texts": [
-          "에도가와구 불꽃축제 포스터 이미지",
-          "에도가와 강변 지도 이미지",
-          "불꽃축제 시간 안내 이미지",
-          "불꽃놀이 연출 이미지",
-          "날씨 주의 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 도쿄 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 정보 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 장소 정보와 함께 한정적인 축제 정보를 제공하여 시의성이 높음.",
-      "image": {
-        "keyword": "Tokyo fireworks festival, Edogawa River fireworks, Japanese summer festival, Japanese fireworks display",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-fireworks-festival,-Edogawa-River-fireworks,-Japanese-summer-festival,-Japanese-fireworks-display",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20fireworks%20festival,%20Edogawa%20River%20fireworks,%20Japanese%20summer%20festival,%20Japanese%20fireworks%20display/"
-      }
-    },
-    {
-      "id": "plan_48e581da",
-      "created_at": "2026-06-02T04:55:37.388149",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「2026 神宮外苑花火大会」8月8日開催決定。今年もアーティストコラボに注目",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2113684.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "8월 도쿄 여행 계획 중이라면 놓칠 수 없는 신나는 불꽃축제 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 8월 8일 도쿄 불꽃축제!",
-        "cards": [
-          {
-            "title": "축제 일정",
-            "content": "2026년 8월 8일 '신궁외원 불꽃놀이 대회' 개최 확정! 매년 화려한 아티스트 콜라보로 주목받는 여름밤의 하이라이트입니다.",
-            "alt_text": "2026년 8월 8일 신궁외원 불꽃놀이 대회 개최 안내 캘린더 이미지"
-          },
-          {
-            "title": "축제 장소",
-            "content": "도쿄의 상징적인 장소인 신궁외원에서 열립니다. 도심 속에서 펼쳐지는 환상적인 불꽃을 감상할 수 있어요.",
-            "alt_text": "도쿄 신궁외원 전경 사진"
-          },
-          {
-            "title": "특별한 이유",
-            "content": "동일본 대지진 및 규슈 재해 복구를 위한 자선 행사로 개최됩니다. 의미 있는 불꽃 축제에 참여해보세요.",
-            "alt_text": "하트 모양 불꽃놀이 이미지"
-          },
-          {
-            "title": "주요 볼거리",
-            "content": "매년 유명 아티스트와의 협업으로 특별한 무대를 선보입니다. 올해 어떤 아티스트가 참여할지 기대해주세요!",
-            "alt_text": "화려한 불꽃놀이와 함께 공연하는 아티스트 실루엣 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인파가 몰릴 것으로 예상되니, 미리 티켓을 예매하거나 일찍 방문하는 것을 추천합니다. 도쿄 여행 중 특별한 추억을 만들 기회!",
-            "alt_text": "축제 장소로 향하는 많은 사람들의 모습"
-          }
-        ],
-        "caption": "🎆 2026년 8월 8일, 도쿄에서 펼쳐지는 '신궁외원 불꽃놀이 대회' 개최 확정! 🎆\n\n올해도 어김없이 여름밤을 화려하게 장식할 불꽃 축제가 돌아옵니다! 8월 도쿄 여행을 계획 중이라면 놓칠 수 없는 빅 이벤트죠.\n\n✅ 2026년 8월 8일 개최\n✅ 도쿄 신궁외원에서 진행\n✅ 동일본 대지진 및 규슈 재해 복구 자선 행사\n\n매년 유명 아티스트와의 콜라보 무대로도 큰 화제를 모으니, 올해는 어떤 특별함이 있을지 기대해도 좋아요! 💖\n\n지금 바로 8월 도쿄 여행 계획에 추가하고, 잊지 못할 추억을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#일본축제",
-          "#불꽃축제",
-          "#신궁외원",
-          "#도쿄",
-          "#8월여행",
-          "#일본관광",
-          "#여행정보",
-          "#일본이벤트",
-          "#여름축제",
-          "#자선행사",
-          "#도쿄가볼만한곳",
-          "#일본필수코스"
-        ],
-        "alt_texts": [
-          "2026년 8월 8일 신궁외원 불꽃놀이 대회 개최 안내 캘린더 이미지",
-          "도쿄 신궁외원 전경 사진",
-          "하트 모양 불꽃놀이 이미지",
-          "화려한 불꽃놀이와 함께 공연하는 아티스트 실루엣 이미지",
-          "축제 장소로 향하는 많은 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 7~9월 도쿄 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 6시~8시 / 기대 반응: 정보 공유 및 저장, 여행 계획 업데이트 / 이 콘텐츠의 강점: 구체적인 날짜와 장소, 특별한 의미를 담아 정보 전달력 높음",
-      "image": {
-        "keyword": "Tokyo fireworks festival, Jingu Gaien, summer event, Japan travel, August 8th, charity event, artist collaboration",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-fireworks-festival,-Jingu-Gaien,-summer-event,-Japan-travel,-August-8th,-charity-event,-artist-collaboration",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20fireworks%20festival,%20Jingu%20Gaien,%20summer%20event,%20Japan%20travel,%20August%208th,%20charity%20event,%20artist%20collaboration/"
       }
     }
   ]
