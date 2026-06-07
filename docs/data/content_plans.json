@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-07T00:17:06.193313",
+  "last_updated": "2026-06-07T04:51:02.810265",
   "plans": [
+    {
+      "id": "plan_df848518",
+      "created_at": "2026-06-07T04:51:00.810062",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "沖縄ハーバービューホテル、6月1日リニューアルオープン",
+        "url": "https://www.traicy.com/posts/20260607370695/",
+        "date": "Sun, 07 Jun 2026 02:55:44 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오키나와 여행 필수! 온수풀로 사계절 수영 가능한 호텔 리뉴얼 오픈 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨오키나와 호텔 리뉴얼!✨",
+        "cards": [
+          {
+            "title": "리뉴얼 오픈!",
+            "content": "오키나와 하버뷰 호텔이 6월 1일 전면 리뉴얼 오픈했습니다. 이제 더 쾌적한 환경에서 투숙할 수 있어요.",
+            "alt_text": "오키나와 하버뷰 호텔 외관 전경"
+          },
+          {
+            "title": "온수풀 개장!",
+            "content": "넓어진 가든 풀이 온수풀로 변경되어 3월부터 다음 해 1월 3일까지, 낮과 밤, 계절에 상관없이 언제든 수영을 즐길 수 있습니다.",
+            "alt_text": "따뜻한 물이 채워진 호텔 수영장 모습"
+          },
+          {
+            "title": "야간 수영 가능!",
+            "content": "저녁에는 은은한 조명과 함께 환상적인 분위기 속에서 야간 수영을 만끽할 수 있습니다.",
+            "alt_text": "조명이 켜진 밤의 호텔 수영장"
+          },
+          {
+            "title": "사계절 이용!",
+            "content": "더 이상 날씨 걱정 없이 오키나와에서 즐거운 물놀이를 계획해 보세요. 3월부터 1월까지 이용 가능합니다.",
+            "alt_text": "다양한 날씨 속 호텔 수영장 이용 모습"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "리뉴얼 오픈 기념 프로모션이 있는지 확인해 보세요! 사계절 온수풀 덕분에 오키나와 여행 시 숙소 선택에 큰 메리트가 될 거예요.",
+            "alt_text": "호텔 수영장에서 휴식을 취하는 여행객"
+          }
+        ],
+        "caption": "✈️ 오키나와 여행 예정이라면 주목! ✈️\n\n오키나와 하버뷰 호텔이 6월 1일, 전면 리뉴얼 오픈했어요! 🎉\n\n가장 큰 변화는 바로 사계절 온수풀! 🏊‍♀️ 3월부터 다음 해 1월 3일까지, 낮과 밤 언제든 따뜻한 물에서 수영을 즐길 수 있답니다. 🌙\n\n오키나와에서 잊지 못할 물놀이 추억을 만들어보세요! ✨\n\n#오키나와여행 #오키나와호텔 #호텔리뉴얼 #온수풀 #사계절수영 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오키나와",
+          "#오키나와여행",
+          "#오키나와호텔",
+          "#하버뷰호텔",
+          "#호텔리뉴얼",
+          "#온수풀",
+          "#사계절수영",
+          "#일본숙소",
+          "#여행정보",
+          "#일본소식",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "오키나와 하버뷰 호텔 외관 전경",
+          "따뜻한 물이 채워진 호텔 수영장 모습",
+          "조명이 켜진 밤의 호텔 수영장",
+          "다양한 날씨 속 호텔 수영장 이용 모습",
+          "호텔 수영장에서 휴식을 취하는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 오키나와 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 숙소 정보 탐색, 예약 문의 증가 / 이 콘텐츠의 강점: 오키나와 여행의 핵심 시설인 호텔의 최신 리뉴얼 정보를 빠르게 제공하며, 사계절 온수풀이라는 매력적인 포인트를 강조.",
+      "image": {
+        "keyword": "Okinawa Harborview Hotel, renovated, indoor pool, year-round swimming, luxury resort",
+        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-Harborview-Hotel,-renovated,-indoor-pool,-year-round-swimming,-luxury-resort",
+        "pexels_url": "https://www.pexels.com/search/Okinawa%20Harborview%20Hotel,%20renovated,%20indoor%20pool,%20year-round%20swimming,%20luxury%20resort/"
+      }
+    },
+    {
+      "id": "plan_8883c625",
+      "created_at": "2026-06-07T04:50:54.525657",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本旅行、「夏旅2026 サマーセール」を開始　国内最大1万円・海外最大4万円のクーポン配布",
+        "url": "https://www.traicy.com/posts/20260607372857/",
+        "date": "Sun, 07 Jun 2026 03:15:57 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 준비 중이라면 놓치면 후회할 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "일본 여행 ✈️ 최대 4만원 할인!",
+        "cards": [
+          {
+            "title": "역대급 할인!",
+            "content": "일본 여행 준비 중이신가요? '여름 여행 2026 서머 세일'이 시작됩니다! 최대 4만원까지 할인받을 수 있는 절호의 기회예요.",
+            "alt_text": "일본 여행 할인 쿠폰 이미지"
+          },
+          {
+            "title": "할인 기간 확인!",
+            "content": "할인 쿠폰은 2026년 6월 4일부터 9월 28일까지 배포됩니다. 서둘러서 혜택을 챙기세요!",
+            "alt_text": "달력에 표시된 할인 기간"
+          },
+          {
+            "title": "국내/해외 동시 진행",
+            "content": "이번 세일은 국내 여행과 해외 여행 모두를 대상으로 합니다. 일본 여행 시에도 적용 가능하니 꼼꼼히 확인해보세요.",
+            "alt_text": "여행 가방과 비행기 아이콘"
+          },
+          {
+            "title": "할인 금액",
+            "content": "해외 여행 시 최대 40,000엔 할인 혜택을 제공합니다. (국내 여행 시 최대 10,000엔)",
+            "alt_text": "할인율이 표시된 영수증"
+          },
+          {
+            "title": "여행 계획 세우기",
+            "content": "할인 기간과 금액을 고려하여 알찬 일본 여행 계획을 세워보세요! 미리 준비하면 더 큰 혜택을 누릴 수 있습니다.",
+            "alt_text": "여행 계획을 세우는 사람"
+          }
+        ],
+        "caption": "일본 여행 계획 중이라면 주목! 📢 '여름 여행 2026 서머 세일'에서 최대 40,000엔 할인 쿠폰을 만나보세요! ✈️ 2026년 6월 4일부터 9월 28일까지 진행되니, 여행 경비를 절약할 수 있는 절호의 기회를 놓치지 마세요! 😉\n\n지금 바로 여행 계획 세우고 할인 혜택 챙겨가세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본할인",
+          "#여행쿠폰",
+          "#일본여행준비",
+          "#여름휴가",
+          "#2026년여행",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#일본쇼핑",
+          "#일본항공권",
+          "#일본숙소",
+          "#일본축제",
+          "#효도여행"
+        ],
+        "alt_texts": [
+          "일본 여행 할인 쿠폰 이미지",
+          "달력에 표시된 할인 기간",
+          "여행 가방과 비행기 아이콘",
+          "할인율이 표시된 영수증",
+          "여행 계획을 세우는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 클릭률 및 저장률, 댓글 문의 증가 / 이 콘텐츠의 강점: 즉각적인 금전적 혜택 제공으로 높은 관심 유도, 구체적인 할인 금액과 기간 명시",
+      "image": {
+        "keyword": "Japan travel discount coupon, summer sale, airplane, travel planning",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount-coupon,-summer-sale,-airplane,-travel-planning",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount%20coupon,%20summer%20sale,%20airplane,%20travel%20planning/"
+      }
+    },
     {
       "id": "plan_e7d21218",
       "created_at": "2026-06-07T00:17:04.193143",
@@ -923,160 +1077,6 @@
         "keyword": "Kura Sushi official plate and teacup book, Japan travel souvenir, Japanese bookstore",
         "unsplash_url": "https://unsplash.com/s/photos/Kura-Sushi-official-plate-and-teacup-book,-Japan-travel-souvenir,-Japanese-bookstore",
         "pexels_url": "https://www.pexels.com/search/Kura%20Sushi%20official%20plate%20and%20teacup%20book,%20Japan%20travel%20souvenir,%20Japanese%20bookstore/"
-      }
-    },
-    {
-      "id": "plan_8919f99a",
-      "created_at": "2026-06-04T01:48:28.258926",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "CHUMS、夏の新作ボトル/トートバッグ/ドリンクホルダーほか。直営店とロフト限定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114258.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "올여름 일본 여행 필수템! CHUMS 신상 굿즈 득템 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "CHUMS 여름 신상 득템! ☀️",
-        "cards": [
-          {
-            "title": "CHUMS 신상 출시!",
-            "content": "아웃도어 브랜드 CHUMS가 '나만의 보틀과 여름을 즐기자' 컨셉의 Summer Bottle 시리즈를 6월 12일에 출시했어요. 여름 여행 필수템으로 딱이겠죠?",
-            "alt_text": "CHUMS 브랜드 로고와 여름 느낌의 일러스트"
-          },
-          {
-            "title": "보틀/토트백",
-            "content": "이번 신상에는 다양한 디자인의 보틀과 함께 실용적인 토트백도 포함되어 있어요. 일본 직영점과 로프트에서만 한정 판매한다고 하니 서둘러야 해요!",
-            "alt_text": "다양한 디자인의 CHUMS 보틀과 토트백 이미지"
-          },
-          {
-            "title": "드링크 홀더",
-            "content": "뜨거운 여름, 음료를 시원하게 유지해 줄 드링크 홀더도 함께 출시됩니다. 가볍고 휴대하기 좋아 캠핑이나 피크닉에도 유용할 거예요.",
-            "alt_text": "CHUMS 드링크 홀더 이미지"
-          },
-          {
-            "title": "한정 판매!",
-            "content": "이번 Summer Bottle 시리즈는 일본 CHUMS 직영점과 로프트(LOFT) 매장에서만 구매 가능해요. 여행 중에 꼭 방문해서 득템하세요!",
-            "alt_text": "일본 로프트(LOFT) 매장 외관 또는 내부 이미지"
-          },
-          {
-            "title": "쇼핑 꿀팁!",
-            "content": "여행 전, 로프트 매장 위치를 미리 확인하고 방문하면 시간을 절약할 수 있어요. 일본 현지에서만 구할 수 있는 특별한 기념품이 될 거예요!",
-            "alt_text": "일본 지도 앱에서 로프트 매장을 검색하는 모습"
-          }
-        ],
-        "caption": "🇯🇵 여름 일본 여행 D-Day! CHUMS에서 역대급 신상 굿즈가 쏟아져 나와요! ☀️\n\n'나만의 보틀과 여름을 즐기자'는 컨셉으로 6월 12일부터 한정 출시되는 Summer Bottle 시리즈! 🤩\n\n보틀, 토트백, 드링크 홀더까지! 여름 여행 필수템으로 딱인 CHUMS 신상, 일본 직영점과 로프트에서만 만날 수 있다는 사실!\n\n지금 바로 일본 여행 계획 세우고, 힙스터템 득템 찬스 놓치지 마세요! 😎\n\n#플라잉재팬 #일본여행 #CHUMS #차이나는클라스 #일본쇼핑 #로프트 #여름휴가 #일본굿즈 #여행준비 #일본직구 #여행스타그램 #필수템 #득템찬스 #일본한정판 #인싸템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#CHUMS",
-          "#차이나는클라스",
-          "#일본쇼핑",
-          "#로프트",
-          "#여름휴가",
-          "#일본굿즈",
-          "#여행준비",
-          "#일본직구",
-          "#여행스타그램",
-          "#필수템",
-          "#득템찬스",
-          "#일본한정판",
-          "#인싸템"
-        ],
-        "alt_texts": [
-          "CHUMS 브랜드 로고와 여름 느낌의 일러스트",
-          "다양한 디자인의 CHUMS 보틀과 토트백 이미지",
-          "CHUMS 드링크 홀더 이미지",
-          "일본 로프트(LOFT) 매장 외관 또는 내부 이미지",
-          "일본 지도 앱에서 로프트 매장을 검색하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 시기적절한 신상 정보, 한정판이라는 희소성 강조, 실용적인 쇼핑 팁 제공",
-      "image": {
-        "keyword": "CHUMS summer collection, japan travel shopping, loft store japan, summer bottle, tote bag, drink holder",
-        "unsplash_url": "https://unsplash.com/s/photos/CHUMS-summer-collection,-japan-travel-shopping,-loft-store-japan,-summer-bottle,-tote-bag,-drink-holder",
-        "pexels_url": "https://www.pexels.com/search/CHUMS%20summer%20collection,%20japan%20travel%20shopping,%20loft%20store%20japan,%20summer%20bottle,%20tote%20bag,%20drink%20holder/"
-      }
-    },
-    {
-      "id": "plan_cdcc3754",
-      "created_at": "2026-06-04T01:48:22.077648",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALディズニーシー25周年の特別塗装機が熊本へ出発！　初便は横断幕を持ってお見送り",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114298.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니와 JAL이 만났다! 25주년 특별 도색기 타고 떠나는 일본 여행!"
-      },
-      "content": {
-        "thumbnail_title": "✨JAL 디즈니 25주년 특별 도색기✨",
-        "cards": [
-          {
-            "title": "특별 도색기 운항!",
-            "content": "JAL에서 도쿄 디즈니씨 25주년을 기념하여 특별 도색기 'JAL Jubilee Express'를 취항했습니다! ✈️",
-            "alt_text": "JAL 디즈니 25주년 특별 도색기 항공기 이미지"
-          },
-          {
-            "title": "운항 기간",
-            "content": "이 특별한 비행기는 2027년 4월경까지 운항될 예정입니다. 🗓️",
-            "alt_text": "달력 아이콘과 함께 운항 기간을 나타내는 이미지"
-          },
-          {
-            "title": "운항 노선",
-            "content": "하네다(도쿄)와 신치토세(삿포로)를 오가는 국내선에서 만나볼 수 있습니다. 🇯🇵",
-            "alt_text": "일본 지도 위에 하네다와 신치토세 공항을 표시한 이미지"
-          },
-          {
-            "title": "탑승 찬스!",
-            "content": "디즈니 팬이라면 놓칠 수 없는 특별한 경험! 잊지 못할 추억을 만들어보세요. 💖",
-            "alt_text": "디즈니랜드 성 앞에서 환호하는 사람들의 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "특별 도색기 탑승을 원하시면, 예약 시 항공편 정보를 꼼꼼히 확인하시는 것이 좋습니다. 📲",
-            "alt_text": "스마트폰으로 항공권 예약하는 모습을 보여주는 이미지"
-          }
-        ],
-        "caption": "디즈니 덕후들 주목! ✨ JAL에서 도쿄 디즈니씨 25주년을 기념해 특별 도색기 'JAL Jubilee Express'를 운항합니다! ✈️ 2027년 4월까지 하네다-신치토세 노선에서 만날 수 있어요. 💖 특별한 비행으로 잊지 못할 일본 여행을 만들어보세요! 🇯🇵",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#도쿄디즈니씨",
-          "#디즈니25주년",
-          "#특별도색기",
-          "#일본항공",
-          "#해외여행",
-          "#여행정보",
-          "#일본항공권",
-          "#디즈니",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#JubileeExpress"
-        ],
-        "alt_texts": [
-          "JAL 디즈니 25주년 특별 도색기 항공기 이미지",
-          "달력 아이콘과 함께 운항 기간을 나타내는 이미지",
-          "일본 지도 위에 하네다와 신치토세 공항을 표시한 이미지",
-          "디즈니랜드 성 앞에서 환호하는 사람들의 모습",
-          "스마트폰으로 항공권 예약하는 모습을 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 디즈니랜드 방문 계획이 있는 20-30대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 공유, 디즈니 관련 콘텐츠에 대한 높은 참여율 / 이 콘텐츠의 강점: 디즈니와 항공이라는 두 가지 매력적인 요소 결합, 명확한 운항 정보 제공",
-      "image": {
-        "keyword": "JAL Disney 25th Anniversary special livery plane, Tokyo Disneyland, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Disney-25th-Anniversary-special-livery-plane,-Tokyo-Disneyland,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Disney%2025th%20Anniversary%20special%20livery%20plane,%20Tokyo%20Disneyland,%20Japan%20travel/"
       }
     }
   ]
