@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-08T01:34:31.461538",
+  "last_updated": "2026-06-08T04:56:58.865405",
   "plans": [
+    {
+      "id": "plan_3a0d4fda",
+      "created_at": "2026-06-08T04:56:56.865217",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium あたみ、1泊2食のバイキング付きで1万4000円から。イチオシのローストビーフや夏限定メニューが食べ放題",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2115243.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "1만 4천엔부터 시작하는 갓성비 온천 숙박! 1박 2식 뷔페에 로스트비프 무제한까지 즐겨보세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️1만4천엔부터! 갓성비 온천♨️",
+        "cards": [
+          {
+            "title": "오에도 온천 프리미엄",
+            "content": "아타미에 위치한 오에도 온천 프리미엄에서 1박 2식 뷔페 포함 숙박을 1만 4천엔부터 즐길 수 있습니다. 지금 바로 예약하세요!",
+            "alt_text": "일본 아타미에 위치한 오에도 온천 프리미엄 호텔 외관"
+          },
+          {
+            "title": "무제한 로스트비프",
+            "content": "특히 신선하고 맛있는 로스트비프가 무제한으로 제공됩니다. 여름 한정 메뉴도 놓치지 마세요!",
+            "alt_text": "뷔페에서 제공되는 먹음직스러운 로스트비프"
+          },
+          {
+            "title": "라쿠텐 슈퍼세일",
+            "content": "6월 20일까지 진행되는 라쿠텐 슈퍼세일을 통해 최대 30% 할인 쿠폰을 받을 수 있습니다. 이 기회를 놓치지 마세요!",
+            "alt_text": "라쿠텐 트래블 슈퍼세일 할인 배너"
+          },
+          {
+            "title": "온천 & 뷔페",
+            "content": "온천욕과 함께 맛있는 뷔페를 즐길 수 있는 완벽한 휴가를 계획해보세요. 1박 2식 포함으로 더욱 알찬 여행이 될 거예요.",
+            "alt_text": "온천탕과 뷔페 식사 공간이 함께 있는 호텔 내부"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "지금 바로 라쿠텐 트래블에서 '오에도 온천 프리미엄'을 검색하고 슈퍼세일 쿠폰을 챙겨 예약하세요. 조기 마감될 수 있으니 서두르세요!",
+            "alt_text": "스마트폰으로 라쿠텐 트래블 앱을 이용하는 모습"
+          }
+        ],
+        "caption": "일본 여행 중 갓성비 숙소를 찾는다면 주목! ♨️\n아타미 '오에도 온천 프리미엄'에서 1박 2식 뷔페 포함 숙박을 1만 4천엔부터 즐길 수 있어요.\n특히 부드러운 로스트비프와 여름 한정 메뉴가 무제한! 🤩\n6월 20일까지 진행되는 라쿠텐 슈퍼세일 기간에 예약하면 최대 30% 할인까지!\n지금 바로 라쿠텐 트래블에서 확인하고 특별한 온천 여행을 계획해보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#아타미",
+          "#오에도온천",
+          "#일본숙소",
+          "#일본가성비숙소",
+          "#라쿠텐트래블",
+          "#일본자유여행",
+          "#일본여행꿀팁",
+          "#로스트비프",
+          "#온천여행",
+          "#일본맛집",
+          "#해외여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "일본 아타미에 위치한 오에도 온천 프리미엄 호텔 외관",
+          "뷔페에서 제공되는 먹음직스러운 로스트비프",
+          "라쿠텐 트래블 슈퍼세일 할인 배너",
+          "온천탕과 뷔페 식사 공간이 함께 있는 호텔 내부",
+          "스마트폰으로 라쿠텐 트래블 앱을 이용하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 가성비 좋은 일본 온천 숙소를 찾는 한국인 여행자 / 최적 게시 시간: 저녁 8시~10시 / 기대 반응: 예약 문의 증가, 정보 공유 / 이 콘텐츠의 강점: 명확한 가격 정보, 매력적인 특전(로스트비프, 할인) 강조",
+      "image": {
+        "keyword": "Oedo Onsen Premium Atami, buffet, roast beef, hot spring, Japan travel, discount coupon, Rakuten Travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Oedo-Onsen-Premium-Atami,-buffet,-roast-beef,-hot-spring,-Japan-travel,-discount-coupon,-Rakuten-Travel",
+        "pexels_url": "https://www.pexels.com/search/Oedo%20Onsen%20Premium%20Atami,%20buffet,%20roast%20beef,%20hot%20spring,%20Japan%20travel,%20discount%20coupon,%20Rakuten%20Travel/"
+      }
+    },
+    {
+      "id": "plan_024bf0df",
+      "created_at": "2026-06-08T04:56:50.395269",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 伊香保、1泊2食バイキングが最大30％オフ。上州グルメと石段街さんぽを満喫",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2115263.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 최대 30% 할인받고 미식 여행 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️온천 숙소 30% 할인!♨️",
+        "cards": [
+          {
+            "title": "특급 할인!",
+            "content": "일본 료칸 예약 시 최대 30% 할인 혜택을 받을 수 있어요. 6월 20일까지 진행되는 '라쿠텐 트래블 슈퍼 세일'을 놓치지 마세요!",
+            "alt_text": "온천 숙소 할인 쿠폰 이미지"
+          },
+          {
+            "title": "미식 천국",
+            "content": "이번 할인 프로모션은 '오오에도 온천 이야기 프리미엄 이카호' 등 인기 온천 숙소를 포함합니다. 맛있는 뷔페식으로 조식과 석식을 즐겨보세요.",
+            "alt_text": "맛있는 뷔페 음식 이미지"
+          },
+          {
+            "title": "이카호 온천",
+            "content": "일본 군마현 이카호 온천 지역에서 아름다운 '이시단가이(돌계단 거리)' 산책과 함께 온천 여행을 만끽할 수 있습니다.",
+            "alt_text": "이카호 온천 돌계단 거리 풍경 이미지"
+          },
+          {
+            "title": "할인 꿀팁",
+            "content": "라쿠텐 트래블에서 제공하는 쿠폰을 함께 사용하면 할인율이 더욱 높아집니다. 지금 바로 예약하고 알뜰하게 여행 계획을 세워보세요.",
+            "alt_text": "스마트폰으로 예약하는 모습 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "인기 온천 숙소는 조기 마감될 수 있으니 서둘러 예약하는 것을 추천합니다. 6월 20일까지 진행되니 늦지 않게 확인하세요!",
+            "alt_text": "달력에 6월 20일 표시된 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? ♨️ 지금 라쿠텐 트래블에서 인기 온천 숙소를 최대 30% 할인받을 수 있는 기회! 6월 20일까지 진행되는 '슈퍼 세일'과 쿠폰을 활용해 더욱 알찬 온천 미식 여행을 즐겨보세요. 🍣 특히 이카호 온천 지역의 '오오에도 온천 이야기 프리미엄 이카호'에서 맛있는 뷔페와 함께 돌계단 거리 산책까지! 🚶‍♀️ 놓치기 전에 서둘러 예약하세요! #일본온천 #료칸할인 #이카호온천 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#료칸",
+          "#온천여행",
+          "#일본숙소",
+          "#일본할인",
+          "#라쿠텐트래블",
+          "#이카호온천",
+          "#일본먹방",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본자유여행",
+          "#여행정보",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "온천 숙소 할인 쿠폰 이미지",
+          "맛있는 뷔페 음식 이미지",
+          "이카호 온천 돌계단 거리 풍경 이미지",
+          "스마트폰으로 예약하는 모습 이미지",
+          "달력에 6월 20일 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 예약률, 할인 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 숙소, 지역 정보 제공",
+      "image": {
+        "keyword": "japan onsen ryokan discount sale",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-ryokan-discount-sale",
+        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20ryokan%20discount%20sale/"
+      }
+    },
     {
       "id": "plan_43f94534",
       "created_at": "2026-06-08T01:34:29.461345",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese ryokan discount, hot spring hotel Japan, Rakuten Travel sale, Atami fireworks",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-ryokan-discount,-hot-spring-hotel-Japan,-Rakuten-Travel-sale,-Atami-fireworks",
         "pexels_url": "https://www.pexels.com/search/Japanese%20ryokan%20discount,%20hot%20spring%20hotel%20Japan,%20Rakuten%20Travel%20sale,%20Atami%20fireworks/"
-      }
-    },
-    {
-      "id": "plan_4bce1e31",
-      "created_at": "2026-06-05T00:21:01.019051",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「輪島市民まつり」ディズニースペシャルパレードは11時から。シー25周年仕様のダッフィーバスも展示",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114616.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 현지에서 펼쳐지는 디즈니 스페셜 퍼레이드를 직접 만날 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니X일본 현지 축제✨",
-        "cards": [
-          {
-            "title": "디즈니 스페셜 퍼레이드",
-            "content": "2026년 6월 6일, 일본 이시카와현 와지마시에서 열리는 '와지마 시민 축제 2026'에서 도쿄 디즈니리조트 스페셜 퍼레이드가 펼쳐집니다. 잊지 못할 추억을 만들어보세요!",
-            "alt_text": "와지마 시민 축제에서 펼쳐지는 디즈니 스페셜 퍼레이드 이미지"
-          },
-          {
-            "title": "특별 전시",
-            "content": "디즈니 씨 25주년 기념 디자인의 더피 버스도 전시될 예정입니다. 귀여운 더피 버스와 함께 특별한 인증샷을 남겨보세요!",
-            "alt_text": "디즈니 씨 25주년 기념 더피 버스 전시 이미지"
-          },
-          {
-            "title": "축제 정보",
-            "content": "와지마 시민 축제는 지역 주민들과 관광객이 함께 즐길 수 있는 다양한 행사로 구성됩니다. 자세한 행사 내용은 추후 발표될 예정입니다.",
-            "alt_text": "다양한 볼거리가 있는 와지마 시민 축제 현장 이미지"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "해당 축제는 6월 6일에 열리므로, 일본 여행 계획 시 이 날짜를 고려하여 와지마 방문 일정을 잡아보는 것을 추천합니다.",
-            "alt_text": "일본 와지마 지역 지도 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "축제 당일에는 많은 인파가 몰릴 수 있으니, 이동 시에는 대중교통 이용을 권장하며 소지품 관리에 유의하시기 바랍니다.",
-            "alt_text": "축제 현장에서 질서 정연하게 이동하는 사람들 이미지"
-          }
-        ],
-        "caption": "✨일본 여행 중 특별한 경험을 원한다면?✨\n\n2026년 6월 6일, 이시카와현 와지마시에서 열리는 '와지마 시민 축제'에서 도쿄 디즈니리조트 스페셜 퍼레이드를 만날 수 있어요! 🤩\n\n디즈니 씨 25주년 기념 더피 버스 전시까지! 🚌\n\n일본 여행 계획에 특별한 추억을 더해보세요! 💖\n\n#와지마시민축제 #디즈니스페셜퍼레이드 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니",
-          "#와지마",
-          "#이시카와현",
-          "#일본축제",
-          "#여행정보",
-          "#2026년여행",
-          "#특별한경험",
-          "#더피",
-          "#디즈니퍼레이드",
-          "#일본가볼만한곳",
-          "#여행팁",
-          "#일본이벤트",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "와지마 시민 축제에서 펼쳐지는 디즈니 스페셜 퍼레이드 이미지",
-          "디즈니 씨 25주년 기념 더피 버스 전시 이미지",
-          "다양한 볼거리가 있는 와지마 시민 축제 현장 이미지",
-          "일본 와지마 지역 지도 이미지",
-          "축제 현장에서 질서 정연하게 이동하는 사람들 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 디즈니 팬, 특별한 일본 현지 축제를 경험하고 싶은 한국인 여행객 / 최적 게시 시간: 여행 계획 시즌인 2~3개월 전, 또는 축제 1개월 전 / 기대 반응: 일본 현지 디즈니 이벤트를 접할 수 있다는 희소성에 대한 높은 관심, 와지마 방문 계획 고려 / 이 콘텐츠의 강점: 한국에서 접하기 어려운 일본 현지 디즈니 관련 이벤트 정보를 최초로 제공",
-      "image": {
-        "keyword": "Wajima citizen festival, Disney special parade, Duffy bus exhibition, Ishikawa prefecture Japan, Japanese local festival, Tokyo Disney Resort",
-        "unsplash_url": "https://unsplash.com/s/photos/Wajima-citizen-festival,-Disney-special-parade,-Duffy-bus-exhibition,-Ishikawa-prefecture-Japan,-Japanese-local-festival,-Tokyo-Disney-Resort",
-        "pexels_url": "https://www.pexels.com/search/Wajima%20citizen%20festival,%20Disney%20special%20parade,%20Duffy%20bus%20exhibition,%20Ishikawa%20prefecture%20Japan,%20Japanese%20local%20festival,%20Tokyo%20Disney%20Resort/"
-      }
-    },
-    {
-      "id": "plan_827c8784",
-      "created_at": "2026-06-05T00:20:54.198605",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "海洋堂「黒ミャクミャク」カプセルフィギュア発売決定。赤青・反転バージョン再販含む全12種類をランダムで展開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114651.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2025 오사카 엑스포 마스코트 '미야쿠미야쿠' 피규어가 한정판 컬러로 출시돼요! 🤩"
-      },
-      "content": {
-        "thumbnail_title": "✨엑스포 마스코트 피규어 신상✨",
-        "cards": [
-          {
-            "title": "미야쿠미야쿠 피규어",
-            "content": "2025 오사카 엑스포 공식 라이선스 상품인 '미야쿠미야쿠' 캡슐 피규어 신색상이 10월에 출시됩니다. 🇯🇵",
-            "alt_text": "2025 오사카 엑스포 마스코트 '미야쿠미야쿠' 캡슐 피규어 이미지"
-          },
-          {
-            "title": "신규 컬러 출시",
-            "content": "이번 신규 컬러는 '모노크롬 컬러'로, 노멀 버전과 리버스 버전 두 가지가 랜덤으로 제공됩니다.",
-            "alt_text": "새롭게 출시되는 모노크롬 컬러 미야쿠미야쿠 피규어 (노멀/리버스) 이미지"
-          },
-          {
-            "title": "총 12가지 종류",
-            "content": "기존 컬러 포함 총 12가지 종류의 피규어가 랜덤으로 발매되니, 어떤 아이가 나올지 기대해보세요!",
-            "alt_text": "다양한 색상의 미야쿠미야쿠 피규어들이 진열된 모습"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 1회 캡슐당 400엔입니다. 💸",
-            "alt_text": "미야쿠미야쿠 피규어 캡슐 가격표"
-          },
-          {
-            "title": "여행 기념품 득템!",
-            "content": "오사카 여행 계획 중이라면, 2025 엑스포 마스코트 피규어를 특별한 기념품으로 챙겨보세요! 🎁",
-            "alt_text": "일본 여행 중 기념품샵에서 미야쿠미야쿠 피규어를 구매하는 모습"
-          }
-        ],
-        "caption": "✨2025 오사카 엑스포 마스코트 '미야쿠미야쿠' 캡슐 피규어 신상 출시!✨\n\n10월, 스페셜 모노크롬 컬러로 만나요! 🖤🤍\n총 12가지 랜덤 디자인, 1회 400엔!\n오사카 여행 기념품으로 딱이에요!  souvenir\n\n#일본여행 #오사카여행 #엑스포2025 #미야쿠미야쿠 #피규어 #기념품 #여행꿀팁 #플라잉재팬 #일본쇼핑 #해외여행 #여행스타그램 #일본굿즈 #캡슐토이 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#엑스포2025",
-          "#미야쿠미야쿠",
-          "#피규어",
-          "#기념품",
-          "#여행꿀팁",
-          "#일본쇼핑",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본굿즈",
-          "#캡슐토이",
-          "#한정판",
-          "#JapanTravel"
-        ],
-        "alt_texts": [
-          "2025 오사카 엑스포 마스코트 '미야쿠미야쿠' 캡슐 피규어 이미지",
-          "새롭게 출시되는 모노크롬 컬러 미야쿠미야쿠 피규어 (노멀/리버스) 이미지",
-          "다양한 색상의 미야쿠미야쿠 피규어들이 진열된 모습",
-          "미야쿠미야쿠 피규어 캡슐 가격표",
-          "일본 여행 중 기념품샵에서 미야쿠미야쿠 피규어를 구매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본, 특히 오사카 여행 예정인 2030 한국인 / 최적 게시 시간: 화요일, 목요일 오후 6시-8시 / 기대 반응: '귀엽다', '사고 싶다', '여행 가고 싶다' 등의 긍정적 반응 및 정보 공유 / 이 콘텐츠의 강점: 최신 출시 정보와 실용적인 구매 팁을 결합하여 여행객에게 직접적인 도움 제공",
-      "image": {
-        "keyword": "Expo 2025 Osaka mascot Myaku Myaku capsule toy monochrome color release Japan travel souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/Expo-2025-Osaka-mascot-Myaku-Myaku-capsule-toy-monochrome-color-release-Japan-travel-souvenir",
-        "pexels_url": "https://www.pexels.com/search/Expo%202025%20Osaka%20mascot%20Myaku%20Myaku%20capsule%20toy%20monochrome%20color%20release%20Japan%20travel%20souvenir/"
       }
     }
   ]
