@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-07T04:51:02.810265",
+  "last_updated": "2026-06-08T01:34:31.461538",
   "plans": [
+    {
+      "id": "plan_43f94534",
+      "created_at": "2026-06-08T01:34:29.461345",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、サンリオ「リラコ」本日発売。ビーチでくつろぐ日焼けキティなど全4種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114850.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "유니클로와 산리오의 역대급 콜라보! 여름 필수템 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "유니클로X산리오 🏖️6/8출시",
+        "cards": [
+          {
+            "title": "콜라보 출시!",
+            "content": "유니클로와 산리오가 만났다! 6월 8일, 'SANRIO CHARACTERS ON THE BEACH' UT 컬렉션이 드디어 출시됩니다.",
+            "alt_text": "유니클로와 산리오 로고가 함께 있는 콜라보레이션 이미지"
+          },
+          {
+            "title": "썸머 아이템!",
+            "content": "해변에서 여유롭게 쉬는 키티 등, 총 4가지 디자인으로 구성된 '리라코'는 올여름 필수템이 될 거예요.",
+            "alt_text": "해변에서 쉬고 있는 키티 캐릭터가 그려진 리라코 팬츠 이미지"
+          },
+          {
+            "title": "귀여움 가득!",
+            "content": "어릴 적 추억을 소환하는 산리오 캐릭터들이 시원한 여름 일러스트와 함께 돌아왔습니다.",
+            "alt_text": "다양한 산리오 캐릭터들이 여름을 즐기는 일러스트 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "유니클로 매장에서 직접 확인하고 올여름 시원하고 귀엽게 보내세요!",
+            "alt_text": "유니클로 매장 디스플레이에 전시된 산리오 콜라보 상품 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 출시일인 6월 8일 오픈 시간에 맞춰 방문하는 것을 추천합니다.",
+            "alt_text": "유니클로 매장 앞에서 줄 서서 기다리는 사람들의 모습"
+          }
+        ],
+        "caption": "🏖️ 유니클로X산리오 역대급 콜라보! 6월 8일, 'SANRIO CHARACTERS ON THE BEACH' UT 컬렉션 출시! ☀️\n\n해변에서 여유롭게 쉬는 키티 등 총 4가지 디자인의 '리라코'로 올여름 시원하게 보내세요! 💖\n\n귀여운 산리오 캐릭터와 함께하는 특별한 여름, 유니클로에서 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #유니클로 #산리오 #콜라보 #리라코 #여름필수템 #신상 #쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#산리오",
+          "#콜라보",
+          "#리라코",
+          "#여름필수템",
+          "#신상",
+          "#쇼핑",
+          "#일본쇼핑",
+          "#일본득템",
+          "#키티",
+          "#산리오캐릭터",
+          "#UT컬렉션",
+          "#6월8일출시"
+        ],
+        "alt_texts": [
+          "유니클로와 산리오 로고가 함께 있는 콜라보레이션 이미지",
+          "해변에서 쉬고 있는 키티 캐릭터가 그려진 리라코 팬츠 이미지",
+          "다양한 산리오 캐릭터들이 여름을 즐기는 일러스트 이미지",
+          "유니클로 매장 디스플레이에 전시된 산리오 콜라보 상품 이미지",
+          "유니클로 매장 앞에서 줄 서서 기다리는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 유니클로 및 산리오에 관심 있는 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 구매 전환율, 친구 태그 및 정보 공유 / 이 콘텐츠의 강점: 최신 출시 정보, 즉각적인 구매 욕구 자극, 높은 화제성",
+      "image": {
+        "keyword": "uniqlo sanrio collaboration rilakkuma beach summer kitty",
+        "unsplash_url": "https://unsplash.com/s/photos/uniqlo-sanrio-collaboration-rilakkuma-beach-summer-kitty",
+        "pexels_url": "https://www.pexels.com/search/uniqlo%20sanrio%20collaboration%20rilakkuma%20beach%20summer%20kitty/"
+      }
+    },
+    {
+      "id": "plan_0d805486",
+      "created_at": "2026-06-08T01:34:23.454055",
+      "category": "hotplace",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "北海道 洞爺湖温泉に新ラグジュアリーホテル「別邸 蝦夷富士」開業。2027年12月予定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2114856.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "2027년 말, 홋카이도 도야호수에 새로운 럭셔리 호텔이 문을 엽니다!"
+      },
+      "content": {
+        "thumbnail_title": "✨홋카이도 새 럭셔리 호텔✨",
+        "cards": [
+          {
+            "title": "신규 호텔 정보",
+            "content": "홋카이도 도야호 온천에 '별채 에조후지'라는 이름의 새로운 럭셔리 호텔이 2027년 12월 말 오픈 예정입니다. 기존과는 다른 특별한 숙박 경험을 제공할 것으로 기대됩니다.",
+            "alt_text": "홋카이도 도야호수의 아름다운 풍경"
+          },
+          {
+            "title": "브랜드 소개",
+            "content": "그란벨 홋카이도에서 새롭게 선보이는 숙박 브랜드 '별채 에조후지'는 웅장한 에조후지(요테이산)의 경치를 감상하며 휴식을 취할 수 있는 공간으로 꾸며질 예정입니다.",
+            "alt_text": "호텔의 고급스러운 디자인을 연상시키는 이미지"
+          },
+          {
+            "title": "개장 예정 시기",
+            "content": "호텔은 2027년 12월 하순 완공을 목표로 하고 있습니다. 2027년 연말연시 일본 여행을 계획 중이라면 주목해볼 만한 소식입니다.",
+            "alt_text": "달력에 12월이 표시된 이미지"
+          },
+          {
+            "title": "도야호 온천",
+            "content": "도야호 온천은 아름다운 호수 경관과 함께 다양한 온천 시설을 즐길 수 있는 홋카이도의 대표적인 휴양지입니다.",
+            "alt_text": "김이 모락모락 나는 온천과 호수가 보이는 풍경"
+          },
+          {
+            "title": "여행 팁",
+            "content": "새로운 호텔 개장 소식과 함께 도야호 주변의 숨겨진 맛집이나 액티비티 정보를 미리 알아두면 더욱 알찬 여행 계획을 세울 수 있습니다. 2027년 이후 홋카이도 여행 시 고려해보세요!",
+            "alt_text": "여행 계획을 세우는 사람의 모습"
+          }
+        ],
+        "caption": "홋카이도 여행 예정이라면 주목! 🤩\n2027년 12월 말, 웅장한 에조후지 산 전망을 자랑하는 럭셔리 호텔 '별채 에조후지'가 도야호 온천에 새롭게 문을 엽니다. 🏔️\n\n새로운 럭셔리 숙소에서 특별한 휴식을 경험해보세요!\n\n#일본여행 #홋카이도 #도야호 #신규호텔 #럭셔리여행 #2027년개장",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도여행",
+          "#도야호",
+          "#호텔오픈",
+          "#일본숙소",
+          "#럭셔리호텔",
+          "#여행정보",
+          "#홋카이도",
+          "#일본온천",
+          "#여행스타그램",
+          "#2027년",
+          "#일본신상",
+          "#겨울여행",
+          "#여행계획"
+        ],
+        "alt_texts": [
+          "홋카이도 도야호수의 아름다운 풍경",
+          "호텔의 고급스러운 디자인을 연상시키는 이미지",
+          "달력에 12월이 표시된 이미지",
+          "김이 모락모락 나는 온천과 호수가 보이는 풍경",
+          "여행 계획을 세우는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 2027년 이후 일본, 특히 홋카이도 지역 여행을 고려하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보성 콘텐츠로서의 관심, 향후 여행 계획에 대한 기대감 / 이 콘텐츠의 강점: 구체적인 개장 시기와 장소를 명시하여 실질적인 여행 계획 수립에 도움을 줌",
+      "image": {
+        "keyword": "Lake Toya luxury hotel under construction Hokkaido Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Lake-Toya-luxury-hotel-under-construction-Hokkaido-Japan",
+        "pexels_url": "https://www.pexels.com/search/Lake%20Toya%20luxury%20hotel%20under%20construction%20Hokkaido%20Japan/"
+      }
+    },
     {
       "id": "plan_df848518",
       "created_at": "2026-06-07T04:51:00.810062",
@@ -923,160 +1077,6 @@
         "keyword": "Expo 2025 Osaka mascot Myaku Myaku capsule toy monochrome color release Japan travel souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/Expo-2025-Osaka-mascot-Myaku-Myaku-capsule-toy-monochrome-color-release-Japan-travel-souvenir",
         "pexels_url": "https://www.pexels.com/search/Expo%202025%20Osaka%20mascot%20Myaku%20Myaku%20capsule%20toy%20monochrome%20color%20release%20Japan%20travel%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_95abd0f7",
-      "created_at": "2026-06-04T04:59:14.952902",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「長岡まつり大花火大会」観覧チケットは6月8日まで一次抽選販売。信濃川の夜空に約2万発、8月2日・3日開催",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114396.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "올여름, 일본에서 펼쳐질 압도적인 불꽃 향연을 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 8월 일본 최대 불꽃축제!",
-        "cards": [
-          {
-            "title": "나가오카 불꽃축제",
-            "content": "일본 니가타현 나가오카시에서 매년 8월 2일과 3일, 2일간 펼쳐지는 '나가오카 마츠리 다이 하나비 타이카이'가 올해도 개최됩니다. 신노강변에서 약 2만 발의 불꽃이 밤하늘을 수놓을 예정입니다.",
-            "alt_text": "나가오카 불꽃축제 밤하늘을 화려하게 수놓는 불꽃 이미지"
-          },
-          {
-            "title": "개최일 및 시간",
-            "content": "2024년 8월 2일 (금), 8월 3일 (토) 양일간 진행됩니다. 관람 시간은 매일 19시 20분부터 21시 10분까지입니다. 늦지 않게 도착하여 최고의 순간을 만끽하세요!",
-            "alt_text": "달력에 표시된 8월 2일, 3일 날짜와 시계 이미지"
-          },
-          {
-            "title": "관람 티켓 정보",
-            "content": "1차 추첨 판매가 6월 8일까지 진행됩니다. 티켓 구매를 원하시는 분들은 서둘러 신청하세요! 자세한 판매 일정 및 방법은 추후 공지될 예정입니다.",
-            "alt_text": "불꽃축제 티켓 이미지와 함께 '추첨 판매' 표시"
-          },
-          {
-            "title": "장소 안내",
-            "content": "니가타현 나가오카시 신노강변 일대에서 개최됩니다. 도쿄에서 신칸센 이용 시 약 2시간 소요되며, 현지 교통편 확인은 필수입니다.",
-            "alt_text": "일본 지도에서 니가타현 나가오카시 위치 표시"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "인기 축제인 만큼, 교통편과 숙소는 미리 예약하는 것이 좋습니다. 축제 당일 인파가 매우 많으니 소지품 관리에 유의하고, 편안한 신발 착용을 추천합니다.",
-            "alt_text": "불꽃축제 관람객들이 모여 있는 모습과 주의사항 아이콘"
-          }
-        ],
-        "caption": "✨ 올여름, 잊지 못할 추억을 만들 일본 여행! ✨ \n\n일본 최대 규모의 불꽃축제 중 하나인 '나가오카 마츠리 다이 하나비 타이카이'가 8월 2일, 3일 개최됩니다! 🎆 니가타현 나가오카시 신노강변에서 펼쳐질 약 2만 발의 압도적인 불꽃 향연을 직접 경험해보세요.\n\n✅ 1차 추첨 티켓 판매는 6월 8일까지! \n\n지금 바로 flyingjapan에서 상세 정보를 확인하고, 올여름 최고의 불꽃축제 여행 계획을 세워보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나가오카불꽃축제",
-          "#일본축제",
-          "#니가타여행",
-          "#불꽃놀이",
-          "#여름휴가",
-          "#일본가볼만한곳",
-          "#여행정보",
-          "#일본이벤트",
-          "#하나비",
-          "#일본문화",
-          "#여행계획",
-          "#해외여행",
-          "#일본"
-        ],
-        "alt_texts": [
-          "나가오카 불꽃축제 밤하늘을 화려하게 수놓는 불꽃 이미지",
-          "달력에 표시된 8월 2일, 3일 날짜와 시계 이미지",
-          "불꽃축제 티켓 이미지와 함께 '추첨 판매' 표시",
-          "일본 지도에서 니가타현 나가오카시 위치 표시",
-          "불꽃축제 관람객들이 모여 있는 모습과 주의사항 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 티켓 구매 및 여행 계획 관련 문의 증가 / 이 콘텐츠의 강점: 일본 최대 규모 불꽃축제 정보와 구체적인 일정, 티켓 구매 시점 안내로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Nagaoka fireworks festival, Japan summer festival, Fireworks over river, Japanese travel event, Niigata tourism",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagaoka-fireworks-festival,-Japan-summer-festival,-Fireworks-over-river,-Japanese-travel-event,-Niigata-tourism",
-        "pexels_url": "https://www.pexels.com/search/Nagaoka%20fireworks%20festival,%20Japan%20summer%20festival,%20Fireworks%20over%20river,%20Japanese%20travel%20event,%20Niigata%20tourism/"
-      }
-    },
-    {
-      "id": "plan_71eeb954",
-      "created_at": "2026-06-04T04:59:06.552754",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「くら寿司」お皿＆湯呑みが付録に！　公式ブランドムック、7月16日発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114413.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 대표 회전초밥 '쿠라스시' 굿즈가 일본에서 출시돼요! 🍣"
-      },
-      "content": {
-        "thumbnail_title": "🍣 쿠라스시 굿즈 7/16 출시!",
-        "cards": [
-          {
-            "title": "쿠라스시 굿즈",
-            "content": "일본에서 '쿠라스시 공식 접시&찻잔BOOK'이 7월 16일에 발매됩니다. 📚",
-            "alt_text": "쿠라스시 로고와 함께 책 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "이 굿즈북의 가격은 2,299엔입니다. 💸",
-            "alt_text": "일본 엔화 지폐와 동전 이미지"
-          },
-          {
-            "title": "포함 굿즈",
-            "content": "책에는 쿠라스시의 시그니처 접시와 귀여운 찻잔이 포함되어 있어요. ☕️",
-            "alt_text": "쿠라스시 접시와 찻잔 디자인 이미지"
-          },
-          {
-            "title": "구매 방법",
-            "content": "일본 서점이나 온라인 몰에서 구매 가능할 것으로 예상됩니다. (정확한 판매처는 추후 확인 필요) 🛍️",
-            "alt_text": "일본 서점 내부 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "일본 여행 중 쿠라스시를 방문할 예정이라면, 이 굿즈북을 기념품으로 구매해보는 건 어떨까요? 🎁",
-            "alt_text": "일본 여행 기념품을 고르는 사람 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 🍣 쿠라스시 팬이라면 놓칠 수 없는 굿즈가 출시됩니다! \n\n✅ '쿠라스시 공식 접시&찻잔BOOK' 7월 16일 발매\n✅ 가격: 2,299엔\n\n일본 현지에서만 구매 가능한 특별한 기념품이 될 거예요! 🇯🇵\n\n#일본여행 #플라잉재팬 #쿠라스시 #일본굿즈 #여행준비 #여행꿀팁 #일본쇼핑 #여행스타그램 #일본한정 #여행에미치다 #일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#쿠라스시",
-          "#일본굿즈",
-          "#여행준비",
-          "#여행꿀팁",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#일본한정",
-          "#여행에미치다",
-          "#일본",
-          "#회전초밥",
-          "#일본기념품",
-          "#여행정보",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "쿠라스시 로고와 함께 책 이미지",
-          "일본 엔화 지폐와 동전 이미지",
-          "쿠라스시 접시와 찻잔 디자인 이미지",
-          "일본 서점 내부 이미지",
-          "일본 여행 기념품을 고르는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 3-5시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 최신 일본 현지 굿즈 출시 정보로 즉각적인 여행 욕구 자극",
-      "image": {
-        "keyword": "Kura Sushi official plate and teacup book, Japan travel souvenir, Japanese bookstore",
-        "unsplash_url": "https://unsplash.com/s/photos/Kura-Sushi-official-plate-and-teacup-book,-Japan-travel-souvenir,-Japanese-bookstore",
-        "pexels_url": "https://www.pexels.com/search/Kura%20Sushi%20official%20plate%20and%20teacup%20book,%20Japan%20travel%20souvenir,%20Japanese%20bookstore/"
       }
     }
   ]
