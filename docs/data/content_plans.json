@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-08T04:56:58.865405",
+  "last_updated": "2026-06-09T00:15:54.348351",
   "plans": [
+    {
+      "id": "plan_320e741d",
+      "created_at": "2026-06-09T00:15:52.348166",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALモバイル、100円で5マイル貯まる海外eSIM開始。世界100か国、日本語サポート対応",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2115409.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중에도 마일리지 쌓고 싶다면 주목!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL eSIM 100엔=5마일!",
+        "cards": [
+          {
+            "title": "JAL eSIM 출시",
+            "content": "JAL 모바일에서 6월 1일부터 해외 e심 서비스를 시작했어요. 일본 여행 중에도 간편하게 이용 가능합니다.",
+            "alt_text": "JAL 모바일 해외 e심 서비스 출시 알림"
+          },
+          {
+            "title": "마일리지 적립",
+            "content": "JAL 모바일 회원은 이용 요금 100엔당 5마일을 적립받아요. 비회원은 100엔당 3마일이 적립됩니다.",
+            "alt_text": "100엔당 5마일 적립되는 e심 혜택"
+          },
+          {
+            "title": "지원 국가",
+            "content": "총 100개 국가에서 이용 가능하며, 일본 여행 시에도 문제없이 사용할 수 있습니다.",
+            "alt_text": "전 세계 100개국 지원 e심 서비스"
+          },
+          {
+            "title": "한국어 지원",
+            "content": "일본 현지에서 발생하는 문제나 궁금한 점은 한국어 고객센터를 통해 문의할 수 있어 편리합니다.",
+            "alt_text": "일본 여행자를 위한 한국어 고객 지원"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 여행 전에 미리 e심을 구매하고 설치하면 현지에서 데이터 걱정 없이 바로 사용할 수 있어요. JAL 마일리지 회원이라면 더욱 득템!",
+            "alt_text": "일본 여행 전 e심 미리 설치 꿀팁"
+          }
+        ],
+        "caption": "일본 여행 갈 때 데이터 걱정 끝! 🇯🇵\n\nJAL 모바일에서 6월 1일부터 시작한 해외 e심 서비스! \n\n✨JAL 모바일 회원이라면 100엔당 무려 5마일 적립!\n✨비회원도 100엔당 3마일 적립!\n✨전 세계 100개국 지원, 한국어 고객센터 운영!\n\n일본 여행 중에도 알뜰하게 마일리지 쌓고 싶다면 이번 기회 놓치지 마세요! ✈️\n\n#일본여행 #JAL #eSIM #해외여행 #마일리지",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#JAL모바일",
+          "#eSIM",
+          "#해외eSIM",
+          "#일본데이터",
+          "#일본여행준비",
+          "#마일리지",
+          "#항공권할인",
+          "#여행꿀팁",
+          "#일본",
+          "#동경",
+          "#오사카",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "JAL 모바일 해외 e심 서비스 출시 알림",
+          "100엔당 5마일 적립되는 e심 혜택",
+          "전 세계 100개국 지원 e심 서비스",
+          "일본 여행자를 위한 한국어 고객 지원",
+          "일본 여행 전 e심 미리 설치 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자, JAL 마일리지 회원 / 최적 게시 시간: 평일 오전 9-11시, 오후 1-3시 / 기대 반응: 정보 공유 및 문의 증가, JAL 이용 관심도 상승 / 이 콘텐츠의 강점: 실질적인 비용 절감 및 혜택 정보 제공, 한국어 지원 강조",
+      "image": {
+        "keyword": "Japan travel eSIM JAL mileage",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-eSIM-JAL-mileage",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20eSIM%20JAL%20mileage/"
+      }
+    },
+    {
+      "id": "plan_4599bd43",
+      "created_at": "2026-06-09T00:15:46.720814",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 山下家、1泊2食が最大30％オフ。加賀随一の天空露天風呂＆カニづくしバイキング",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2115411.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 할인 정보 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️온천 30% 할인 찬스!",
+        "cards": [
+          {
+            "title": "오오에도 온천",
+            "content": "일본 온천 여행 계획 중이라면 주목! 오오에도 온천 이야기 프리미엄 야마시타가 1박 2식 포함 최대 30% 할인 프로모션을 진행해요.",
+            "alt_text": "일본 온천 호텔 외관 이미지"
+          },
+          {
+            "title": "파격 할인",
+            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 슈퍼 세일' 기간에 해당하며, 6월 20일까지 예약 가능해요. 쿠폰까지 사용하면 할인율은 더 커진답니다.",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "특별한 경험",
+            "content": "카가 지역 최고의 하늘 노천탕과 신선한 게 요리 뷔페를 즐길 수 있는 기회! 잊지 못할 온천 여행을 만들어 보세요.",
+            "alt_text": "일본 온천 노천탕 이미지"
+          },
+          {
+            "title": "할인 꿀팁",
+            "content": "본래 가격에서 최대 30%까지 할인받을 수 있으니, 숙박 예약 시 할인 쿠폰 적용 여부를 꼭 확인하세요.",
+            "alt_text": "가격 할인율 표시 이미지"
+          },
+          {
+            "title": "여행 준비",
+            "content": "일본 온천 여행을 계획하신다면, 지금 바로 라쿠텐 트래블에서 할인 혜택을 확인하고 예약하세요!",
+            "alt_text": "여행 가방과 지도 이미지"
+          }
+        ],
+        "caption": "♨️일본 온천 숙소, 최대 30% 할인받고 예약하세요!♨️\n\n오오에도 온천 이야기 프리미엄 야마시타에서 1박 2식 포함 최대 30% 할인 프로모션을 진행 중이에요! 🦀\n\n라쿠텐 트래블 슈퍼 세일 기간에 예약하면 추가 할인도 가능하니, 일본 온천 여행 계획 중이라면 절대 놓치지 마세요! ✨\n\n지금 바로 예약하고 일본 최고의 하늘 노천탕과 게 요리 뷔페를 즐겨보세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#오오에도온천",
+          "#라쿠텐트래블",
+          "#일본숙소",
+          "#온천여행",
+          "#일본할인",
+          "#일본자유여행",
+          "#일본여행정보",
+          "#일본가볼만한곳",
+          "#일본온천추천",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본 온천 호텔 외관 이미지",
+          "할인 쿠폰 이미지",
+          "일본 온천 노천탕 이미지",
+          "가격 할인율 표시 이미지",
+          "여행 가방과 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 숙소 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 실질적인 할인율과 구체적인 숙소 정보 제공",
+      "image": {
+        "keyword": "japanese hot spring ryokan discount",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan-discount",
+        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan%20discount/"
+      }
+    },
     {
       "id": "plan_3a0d4fda",
       "created_at": "2026-06-08T04:56:56.865217",
@@ -923,160 +1077,6 @@
         "keyword": "SL train Japan, Aizu Wakamatsu, Kinugawa Onsen, Japanese countryside, steam locomotive",
         "unsplash_url": "https://unsplash.com/s/photos/SL-train-Japan,-Aizu-Wakamatsu,-Kinugawa-Onsen,-Japanese-countryside,-steam-locomotive",
         "pexels_url": "https://www.pexels.com/search/SL%20train%20Japan,%20Aizu%20Wakamatsu,%20Kinugawa%20Onsen,%20Japanese%20countryside,%20steam%20locomotive/"
-      }
-    },
-    {
-      "id": "plan_aff24f2e",
-      "created_at": "2026-06-05T04:41:25.942133",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "夏メニューになったJALの機内食を食べてきた。ハワイ路線「JAL Hawaiian Table」にはガツンとニンニクの効いたガーリックシュリンプも！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114550.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 항공사 JAL, 6월 1일부터 시작되는 여름 한정 기내식으로 일본 여행의 설렘을 더하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 여름 기내식 6/1부터!",
-        "cards": [
-          {
-            "title": "여름 시즌 시작",
-            "content": "JAL 국제선 및 국내선 기내식이 6월 1일부터 여름 메뉴로 변경됩니다. 새로운 메뉴로 즐거운 비행을 경험하세요!",
-            "alt_text": "JAL 항공기에서 제공되는 여름 시즌 기내식 이미지"
-          },
-          {
-            "title": "하와이 노선 특별 메뉴",
-            "content": "도쿄 발 호놀룰루 행 프리미엄 이코노미 및 이코노미 클래스에서는 'JAL Hawaiian Table'이 제공됩니다. 현지 인기 메뉴를 JAL 스타일로 재해석했습니다.",
-            "alt_text": "하와이안 테이블 메뉴 일러스트 또는 사진"
-          },
-          {
-            "title": "가릭 쉬림프 & 포키",
-            "content": "특히 'JAL Hawaiian Table'에는 마늘 풍미가 가득한 가릭 쉬림프와 신선한 포키 등 현지에서 사랑받는 메뉴가 포함됩니다.",
-            "alt_text": "가릭 쉬림프와 포키 메뉴 클로즈업 사진"
-          },
-          {
-            "title": "전 노선 여름 메뉴",
-            "content": "하와이 노선 외에도 다양한 국제선 및 국내선에서 여름 시즌에 맞춰 특별히 준비된 기내식을 맛볼 수 있습니다.",
-            "alt_text": "다양한 JAL 기내식 이미지"
-          },
-          {
-            "title": "여행의 시작!",
-            "content": "일본 도착 전, JAL의 맛있는 여름 기내식으로 여행의 즐거움을 미리 느껴보세요! 6월 1일 이후 탑승 시 기대해도 좋습니다.",
-            "alt_text": "행복하게 기내식을 먹는 승객 이미지"
-          }
-        ],
-        "caption": "✈️ JAL이 6월 1일부터 여름 한정 기내식을 선보입니다! 특히 도쿄-호놀룰루 노선에서는 하와이 로컬 메뉴를 재해석한 'JAL Hawaiian Table'을 맛볼 수 있어요. 가릭 쉬림프와 포키 등 놓칠 수 없는 메뉴들! 🌴\n\n새로운 기내식과 함께 더욱 특별한 일본 여행을 계획해보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#기내식",
-          "#여름휴가",
-          "#여행정보",
-          "#일본항공권",
-          "#도쿄",
-          "#호놀룰루",
-          "#하와이안테이블",
-          "#가릭쉬림프",
-          "#포키",
-          "#기내식추천",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "JAL 항공기에서 제공되는 여름 시즌 기내식 이미지",
-          "하와이안 테이블 메뉴 일러스트 또는 사진",
-          "가릭 쉬림프와 포키 메뉴 클로즈업 사진",
-          "다양한 JAL 기내식 이미지",
-          "행복하게 기내식을 먹는 승객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 공유 및 기대감 상승 / 이 콘텐츠의 강점: 최신 항공사 메뉴 정보로 여행 계획에 실질적인 도움 제공",
-      "image": {
-        "keyword": "JAL summer in-flight meal, Hawaiian Table, garlic shrimp, poke, airplane food",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-summer-in-flight-meal,-Hawaiian-Table,-garlic-shrimp,-poke,-airplane-food",
-        "pexels_url": "https://www.pexels.com/search/JAL%20summer%20in-flight%20meal,%20Hawaiian%20Table,%20garlic%20shrimp,%20poke,%20airplane%20food/"
-      }
-    },
-    {
-      "id": "plan_7396c8ad",
-      "created_at": "2026-06-05T04:41:18.978563",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルニューアカオ、1泊2食ビュッフェが最大30％オフ。絶景温泉に熱海海上花火大会も楽しめる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114784.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 최대 30% 할인! 료칸 예약 시 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "료칸 30% 할인 찬스! ♨️",
-        "cards": [
-          {
-            "title": "특급 할인",
-            "content": "일본 료칸 예약 시 최대 30% 할인 혜택을 받을 수 있는 '라쿠텐 트래블 슈퍼 세일'이 6월 20일까지 진행됩니다. 인기 온천 숙소 예약 시 놓치지 마세요!",
-            "alt_text": "일본 료칸 할인 30% 안내"
-          },
-          {
-            "title": "할인 적용법",
-            "content": "전국 호텔 및 온천 숙소에서 세일 플랜을 판매 중이며, 발급된 쿠폰을 함께 사용하면 최대 30% 할인이 적용됩니다. 지금 바로 예약하세요!",
-            "alt_text": "쿠폰 사용 방법 안내"
-          },
-          {
-            "title": "추천 여행지",
-            "content": "특히, 아름다운 바다 전망을 자랑하는 '호텔 뉴 아카오'에서는 1박 2식 뷔페를 할인된 가격으로 즐길 수 있습니다. 아타미 해상 불꽃놀이도 감상 가능합니다.",
-            "alt_text": "호텔 뉴 아카오 료칸 소개"
-          },
-          {
-            "title": "온천 즐기기",
-            "content": "멋진 온천에서 힐링하고, 맛있는 뷔페 식사까지! 일본 여행에서 잊지 못할 추억을 만들어보세요. 료칸 할인으로 더욱 알찬 여행이 가능합니다.",
-            "alt_text": "일본 온천 여행 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "세일 기간이 얼마 남지 않았으니, 원하는 날짜와 숙소를 미리 확인하고 예약하는 것이 좋습니다. 인기 숙소는 조기 마감될 수 있습니다.",
-            "alt_text": "일본 료칸 예약 팁 안내"
-          }
-        ],
-        "caption": "일본 온천 여행 계획 중이신가요? ♨️\n\n지금 바로 라쿠텐 트래블에서 최대 30% 할인받고 료칸 예약하세요! 🤩\n\n6월 20일까지 진행되는 '슈퍼 세일' 기간에 인기 숙소들을 특별한 가격으로 만나볼 수 있습니다.\n\n✨ 1박 2식 뷔페 할인 & 불꽃놀이 명소도 놓치지 마세요!\n\n지금 바로 프로필 링크에서 확인하고 알찬 일본 여행 준비하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본료칸",
-          "#온천여행",
-          "#일본숙소",
-          "#라쿠텐트래블",
-          "#일본할인",
-          "#여행정보",
-          "#일본가고싶다",
-          "#호텔뉴아카오",
-          "#아타미",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#일본온천",
-          "#료칸추천"
-        ],
-        "alt_texts": [
-          "일본 료칸 할인 30% 안내",
-          "쿠폰 사용 방법 안내",
-          "호텔 뉴 아카오 료칸 소개",
-          "일본 온천 여행 모습",
-          "일본 료칸 예약 팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 숙소 방문 계획이 있는 한국인 여행자 / 최적 게시 시간: 저녁 8시~10시 (여행 정보 탐색 시간) / 기대 반응: 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 추천 숙소 정보 제공으로 즉각적인 예약 유도",
-      "image": {
-        "keyword": "Japanese ryokan discount, hot spring hotel Japan, Rakuten Travel sale, Atami fireworks",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-ryokan-discount,-hot-spring-hotel-Japan,-Rakuten-Travel-sale,-Atami-fireworks",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20ryokan%20discount,%20hot%20spring%20hotel%20Japan,%20Rakuten%20Travel%20sale,%20Atami%20fireworks/"
       }
     }
   ]
