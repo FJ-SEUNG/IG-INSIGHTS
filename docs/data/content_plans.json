@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-11T01:39:46.525537",
+  "last_updated": "2026-06-11T04:55:40.886979",
   "plans": [
+    {
+      "id": "plan_9f326e7b",
+      "created_at": "2026-06-11T04:55:38.886779",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "グランスタ東京「地下 丸の内改札内エリア」9月中旬オープン。東京駅限定や新ブランド含む26店舗発表",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116039.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역 쇼핑 성지, 9월 중순 오픈 예정! 도쿄역 한정템 득템 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 도쿄역 9월 오픈! 🛍️",
+        "cards": [
+          {
+            "title": "✨ 새롭게 오픈!",
+            "content": "JR 도쿄역의 에키나카 상업 시설 '그란스타 도쿄'의 일부 구역이 '지하 마루노우치 개찰구 내 구역'으로 9월 중순 리뉴얼 오픈합니다.",
+            "alt_text": "도쿄역 내부의 쇼핑몰 이미지"
+          },
+          {
+            "title": "🛒 26개 점포 입점",
+            "content": "도쿄역 한정 상품을 판매하는 매장과 새로운 브랜드 포함 총 26개 점포가 새롭게 선보일 예정입니다.",
+            "alt_text": "다양한 쇼핑백이 쌓여있는 이미지"
+          },
+          {
+            "title": "🎁 도쿄 한정템",
+            "content": "여행 기념품이나 선물로 딱 좋은 도쿄역에서만 구매 가능한 특별한 상품들을 만날 수 있습니다.",
+            "alt_text": "일본 기념품 가게 진열대 이미지"
+          },
+          {
+            "title": "📍 위치 확인 필수",
+            "content": "새로운 구역은 '지하 마루노우치 개찰구 내'에 위치하며, 오픈 시기에 맞춰 방문 계획을 세우는 것이 좋습니다.",
+            "alt_text": "도쿄역 안내 표지판 이미지"
+          },
+          {
+            "title": "💡 꿀팁!",
+            "content": "오픈 직후에는 사람이 몰릴 수 있으니, 조금 이른 시간이나 평일에 방문하면 여유롭게 쇼핑을 즐길 수 있습니다.",
+            "alt_text": "쇼핑하는 사람들의 모습"
+          }
+        ],
+        "caption": "🇯🇵 도쿄 여행 필수 코스! 도쿄역이 더욱 새롭게 태어납니다! 🛍️\n9월 중순, 도쿄역 '그란스타 도쿄' 지하 마루노우치 개찰구 내 구역이 26개 점포와 함께 리뉴얼 오픈 예정!\n도쿄 한정템 득템 찬스를 놓치지 마세요! ✨\n\n✅ 지금 바로 일본 여행 계획에 추가하세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄역",
+          "#그란스타도쿄",
+          "#일본쇼핑",
+          "#도쿄쇼핑",
+          "#일본한정",
+          "#여행정보",
+          "#일본신상",
+          "#도쿄",
+          "#여행꿀팁",
+          "#9월일본",
+          "#에키나카",
+          "#JR동일본"
+        ],
+        "alt_texts": [
+          "도쿄역 내부의 쇼핑몰 이미지",
+          "다양한 쇼핑백이 쌓여있는 이미지",
+          "일본 기념품 가게 진열대 이미지",
+          "도쿄역 안내 표지판 이미지",
+          "쇼핑하는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 8시 / 기대 반응: 높은 관심과 공유, 실제 방문 계획 수립 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 점포 수, 도쿄 한정템이라는 매력 포인트 강조",
+      "image": {
+        "keyword": "Tokyo Station shopping mall, Japanese souvenirs, new store opening Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-shopping-mall,-Japanese-souvenirs,-new-store-opening-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20shopping%20mall,%20Japanese%20souvenirs,%20new%20store%20opening%20Japan/"
+      }
+    },
+    {
+      "id": "plan_da2d3f00",
+      "created_at": "2026-06-11T04:55:30.260439",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "高速バス 岡山～神戸・三宮線、神戸空港1タミまで延伸。所要時間は2時50分～3時間30分",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116120.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오카야마-고베 공항 직통 버스 개통으로 일본 여행 동선이 더 편리해져요!"
+      },
+      "content": {
+        "thumbnail_title": "✨오카야마-고베공항 직통 버스 개통!✨",
+        "cards": [
+          {
+            "title": "운행 시작!",
+            "content": "2024년 7월 18일부터 오카야마-고베/산노미야 노선 일부가 고베 공항 제1터미널까지 연장 운행됩니다.",
+            "alt_text": "버스가 고속도로를 달리는 모습"
+          },
+          {
+            "title": "이동 시간",
+            "content": "이번 연장으로 오카야마에서 고베 공항까지 환승 없이 한 번에 이동 가능하며, 예상 소요 시간은 2시간 50분에서 3시간 30분입니다.",
+            "alt_text": "지도에 표시된 오카야마와 고베 공항 구간"
+          },
+          {
+            "title": "새로운 노선",
+            "content": "료비 버스, 중철 버스, 신키 버스가 공동 운행하며, 오카야마 현에서 고베 공항까지 더욱 편리하게 접근할 수 있습니다.",
+            "alt_text": "버스 회사 로고 모음"
+          },
+          {
+            "title": "여행 동선 UP!",
+            "content": "일본 중부 지역 여행 시 오카야마에서 고베 공항으로 이동하는 여행객들에게 매우 유용한 정보가 될 것입니다.",
+            "alt_text": "캐리어를 끄는 여행객의 뒷모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "출발 전 각 버스 회사의 공식 홈페이지에서 정확한 운행 시간표와 예약 정보를 확인하는 것을 추천합니다.",
+            "alt_text": "스마트폰으로 버스 티켓을 예매하는 모습"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 중 이동이 훨씬 편리해져요! 🇯🇵\n\n7월 18일부터 오카야마-고베/산노미야 고속버스가 고베 공항 제1터미널까지 연장 운행됩니다.\n\n이제 오카야마에서 고베 공항까지 환승 없이 한 번에 이동 가능! (예상 소요 시간: 2시간 50분 ~ 3시간 30분)\n\n일본 중부 여행 계획 중이시라면, 이 새로운 교통 정보를 꼭 기억하세요! 😉\n\n#일본여행 #플라잉재팬 #고베여행 #오카야마여행 #일본교통 #고속버스 #여행꿀팁 #일본자유여행 #여행정보 #일본정보 #여행스타그램 #일본 #고베공항 #오카야마 #버스노선",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#고베여행",
+          "#오카야마여행",
+          "#일본교통",
+          "#고속버스",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#여행정보",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본",
+          "#고베공항",
+          "#오카야마",
+          "#버스노선"
+        ],
+        "alt_texts": [
+          "버스가 고속도로를 달리는 모습",
+          "지도에 표시된 오카야마와 고베 공항 구간",
+          "버스 회사 로고 모음",
+          "캐리어를 끄는 여행객의 뒷모습",
+          "스마트폰으로 버스 티켓을 예매하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 중부 지역(오카야마 등)을 방문하거나, 오카야마를 거쳐 고베 공항을 이용하려는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 시간과 경비를 절약할 수 있는 실질적인 교통 정보 제공",
+      "image": {
+        "keyword": "japan bus, highway bus, kobe airport, okayama, travel, transportation, convenience",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-bus,-highway-bus,-kobe-airport,-okayama,-travel,-transportation,-convenience",
+        "pexels_url": "https://www.pexels.com/search/japan%20bus,%20highway%20bus,%20kobe%20airport,%20okayama,%20travel,%20transportation,%20convenience/"
+      }
+    },
     {
       "id": "plan_87a18b1a",
       "created_at": "2026-06-11T01:39:44.525347",
@@ -923,160 +1077,6 @@
         "keyword": "japan onsen ryokan discount sale",
         "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-ryokan-discount-sale",
         "pexels_url": "https://www.pexels.com/search/japan%20onsen%20ryokan%20discount%20sale/"
-      }
-    },
-    {
-      "id": "plan_43f94534",
-      "created_at": "2026-06-08T01:34:29.461345",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、サンリオ「リラコ」本日発売。ビーチでくつろぐ日焼けキティなど全4種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114850.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "유니클로와 산리오의 역대급 콜라보! 여름 필수템 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "유니클로X산리오 🏖️6/8출시",
-        "cards": [
-          {
-            "title": "콜라보 출시!",
-            "content": "유니클로와 산리오가 만났다! 6월 8일, 'SANRIO CHARACTERS ON THE BEACH' UT 컬렉션이 드디어 출시됩니다.",
-            "alt_text": "유니클로와 산리오 로고가 함께 있는 콜라보레이션 이미지"
-          },
-          {
-            "title": "썸머 아이템!",
-            "content": "해변에서 여유롭게 쉬는 키티 등, 총 4가지 디자인으로 구성된 '리라코'는 올여름 필수템이 될 거예요.",
-            "alt_text": "해변에서 쉬고 있는 키티 캐릭터가 그려진 리라코 팬츠 이미지"
-          },
-          {
-            "title": "귀여움 가득!",
-            "content": "어릴 적 추억을 소환하는 산리오 캐릭터들이 시원한 여름 일러스트와 함께 돌아왔습니다.",
-            "alt_text": "다양한 산리오 캐릭터들이 여름을 즐기는 일러스트 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "유니클로 매장에서 직접 확인하고 올여름 시원하고 귀엽게 보내세요!",
-            "alt_text": "유니클로 매장 디스플레이에 전시된 산리오 콜라보 상품 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 출시일인 6월 8일 오픈 시간에 맞춰 방문하는 것을 추천합니다.",
-            "alt_text": "유니클로 매장 앞에서 줄 서서 기다리는 사람들의 모습"
-          }
-        ],
-        "caption": "🏖️ 유니클로X산리오 역대급 콜라보! 6월 8일, 'SANRIO CHARACTERS ON THE BEACH' UT 컬렉션 출시! ☀️\n\n해변에서 여유롭게 쉬는 키티 등 총 4가지 디자인의 '리라코'로 올여름 시원하게 보내세요! 💖\n\n귀여운 산리오 캐릭터와 함께하는 특별한 여름, 유니클로에서 놓치지 마세요!\n\n#일본여행 #플라잉재팬 #유니클로 #산리오 #콜라보 #리라코 #여름필수템 #신상 #쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#산리오",
-          "#콜라보",
-          "#리라코",
-          "#여름필수템",
-          "#신상",
-          "#쇼핑",
-          "#일본쇼핑",
-          "#일본득템",
-          "#키티",
-          "#산리오캐릭터",
-          "#UT컬렉션",
-          "#6월8일출시"
-        ],
-        "alt_texts": [
-          "유니클로와 산리오 로고가 함께 있는 콜라보레이션 이미지",
-          "해변에서 쉬고 있는 키티 캐릭터가 그려진 리라코 팬츠 이미지",
-          "다양한 산리오 캐릭터들이 여름을 즐기는 일러스트 이미지",
-          "유니클로 매장 디스플레이에 전시된 산리오 콜라보 상품 이미지",
-          "유니클로 매장 앞에서 줄 서서 기다리는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 유니클로 및 산리오에 관심 있는 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 구매 전환율, 친구 태그 및 정보 공유 / 이 콘텐츠의 강점: 최신 출시 정보, 즉각적인 구매 욕구 자극, 높은 화제성",
-      "image": {
-        "keyword": "uniqlo sanrio collaboration rilakkuma beach summer kitty",
-        "unsplash_url": "https://unsplash.com/s/photos/uniqlo-sanrio-collaboration-rilakkuma-beach-summer-kitty",
-        "pexels_url": "https://www.pexels.com/search/uniqlo%20sanrio%20collaboration%20rilakkuma%20beach%20summer%20kitty/"
-      }
-    },
-    {
-      "id": "plan_0d805486",
-      "created_at": "2026-06-08T01:34:23.454055",
-      "category": "hotplace",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "北海道 洞爺湖温泉に新ラグジュアリーホテル「別邸 蝦夷富士」開業。2027年12月予定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2114856.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "2027년 말, 홋카이도 도야호수에 새로운 럭셔리 호텔이 문을 엽니다!"
-      },
-      "content": {
-        "thumbnail_title": "✨홋카이도 새 럭셔리 호텔✨",
-        "cards": [
-          {
-            "title": "신규 호텔 정보",
-            "content": "홋카이도 도야호 온천에 '별채 에조후지'라는 이름의 새로운 럭셔리 호텔이 2027년 12월 말 오픈 예정입니다. 기존과는 다른 특별한 숙박 경험을 제공할 것으로 기대됩니다.",
-            "alt_text": "홋카이도 도야호수의 아름다운 풍경"
-          },
-          {
-            "title": "브랜드 소개",
-            "content": "그란벨 홋카이도에서 새롭게 선보이는 숙박 브랜드 '별채 에조후지'는 웅장한 에조후지(요테이산)의 경치를 감상하며 휴식을 취할 수 있는 공간으로 꾸며질 예정입니다.",
-            "alt_text": "호텔의 고급스러운 디자인을 연상시키는 이미지"
-          },
-          {
-            "title": "개장 예정 시기",
-            "content": "호텔은 2027년 12월 하순 완공을 목표로 하고 있습니다. 2027년 연말연시 일본 여행을 계획 중이라면 주목해볼 만한 소식입니다.",
-            "alt_text": "달력에 12월이 표시된 이미지"
-          },
-          {
-            "title": "도야호 온천",
-            "content": "도야호 온천은 아름다운 호수 경관과 함께 다양한 온천 시설을 즐길 수 있는 홋카이도의 대표적인 휴양지입니다.",
-            "alt_text": "김이 모락모락 나는 온천과 호수가 보이는 풍경"
-          },
-          {
-            "title": "여행 팁",
-            "content": "새로운 호텔 개장 소식과 함께 도야호 주변의 숨겨진 맛집이나 액티비티 정보를 미리 알아두면 더욱 알찬 여행 계획을 세울 수 있습니다. 2027년 이후 홋카이도 여행 시 고려해보세요!",
-            "alt_text": "여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "홋카이도 여행 예정이라면 주목! 🤩\n2027년 12월 말, 웅장한 에조후지 산 전망을 자랑하는 럭셔리 호텔 '별채 에조후지'가 도야호 온천에 새롭게 문을 엽니다. 🏔️\n\n새로운 럭셔리 숙소에서 특별한 휴식을 경험해보세요!\n\n#일본여행 #홋카이도 #도야호 #신규호텔 #럭셔리여행 #2027년개장",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도여행",
-          "#도야호",
-          "#호텔오픈",
-          "#일본숙소",
-          "#럭셔리호텔",
-          "#여행정보",
-          "#홋카이도",
-          "#일본온천",
-          "#여행스타그램",
-          "#2027년",
-          "#일본신상",
-          "#겨울여행",
-          "#여행계획"
-        ],
-        "alt_texts": [
-          "홋카이도 도야호수의 아름다운 풍경",
-          "호텔의 고급스러운 디자인을 연상시키는 이미지",
-          "달력에 12월이 표시된 이미지",
-          "김이 모락모락 나는 온천과 호수가 보이는 풍경",
-          "여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 2027년 이후 일본, 특히 홋카이도 지역 여행을 고려하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보성 콘텐츠로서의 관심, 향후 여행 계획에 대한 기대감 / 이 콘텐츠의 강점: 구체적인 개장 시기와 장소를 명시하여 실질적인 여행 계획 수립에 도움을 줌",
-      "image": {
-        "keyword": "Lake Toya luxury hotel under construction Hokkaido Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Lake-Toya-luxury-hotel-under-construction-Hokkaido-Japan",
-        "pexels_url": "https://www.pexels.com/search/Lake%20Toya%20luxury%20hotel%20under%20construction%20Hokkaido%20Japan/"
       }
     }
   ]
