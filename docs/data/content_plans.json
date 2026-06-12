@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-12T01:39:54.053928",
+  "last_updated": "2026-06-12T04:56:55.310307",
   "plans": [
+    {
+      "id": "plan_ad4b122b",
+      "created_at": "2026-06-12T04:56:53.310121",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、羽田～南紀白浜線が7月16日まで片道1万2700円～。直行便で70分、白砂ビーチや温泉すぐ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116690.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 남부 백사장을 직항으로 70분 만에! JAL 특별 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 특가! 하네다-남기 백사 비행기표 1만2천원대!🏖️",
+        "cards": [
+          {
+            "title": "JAL 초특가",
+            "content": "일본항공(JAL)이 하네다-남기 백사장 노선을 특별 가격으로 판매합니다. 편도 12,480엔부터 시작하는 이번 특가는 7월 16일까지 진행됩니다.",
+            "alt_text": "일본항공(JAL) 로고와 비행기"
+          },
+          {
+            "title": "70분 직항",
+            "content": "도쿄 하네다 공항에서 남기 백사장 공항까지 직항으로 단 70분이면 도착합니다. 이동 시간을 크게 단축하여 여행을 더욱 여유롭게 즐길 수 있습니다.",
+            "alt_text": "비행기 창밖으로 보이는 하늘 풍경"
+          },
+          {
+            "title": "백사장 & 온천",
+            "content": "남기 백사장은 아름다운 백사장과 유명 온천으로 알려진 휴양지입니다. 공항에서 가까워 도착 후 바로 관광과 휴식을 즐기기 좋습니다.",
+            "alt_text": "하얀 모래사장이 펼쳐진 해변"
+          },
+          {
+            "title": "특별 가격",
+            "content": "일반적인 항공권 가격보다 훨씬 저렴하게 제공되는 이번 기회를 통해 알뜰한 일본 여행을 계획해 보세요.",
+            "alt_text": "할인율이 표시된 항공권 이미지"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "7월 16일 마감이니 서둘러 예약하세요! JAL 공식 홈페이지나 항공권 예매 사이트에서 '하네다-남기 백사장' 노선을 검색하면 됩니다.",
+            "alt_text": "달력에 표시된 7월 16일 날짜"
+          }
+        ],
+        "caption": "✈️ 도쿄에서 남기 백사장까지 70분 컷! JAL 특가로 1만2천원대 득템하세요! 🏖️\n\n일본항공(JAL)이 7월 16일까지 하네다-남기 백사장 노선을 편도 12,480엔부터 판매하는 특별 프로모션을 진행합니다.\n\n바쁜 여행 일정, 이동 시간 줄이고 싶다면 이 기회를 놓치지 마세요! 🤩\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #하네다공항 #남기백사장 #일본특가 #항공권 #여행정보 #일본휴양 #온천여행 #여름휴가 #일본남부 #가성비여행 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#하네다공항",
+          "#남기백사장",
+          "#일본특가",
+          "#항공권",
+          "#여행정보",
+          "#일본휴양",
+          "#온천여행",
+          "#여름휴가",
+          "#일본남부",
+          "#가성비여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "일본항공(JAL) 로고와 비행기",
+          "비행기 창밖으로 보이는 하늘 풍경",
+          "하얀 모래사장이 펼쳐진 해변",
+          "할인율이 표시된 항공권 이미지",
+          "달력에 표시된 7월 16일 날짜"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌을 맞아 일본 남부 지역 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 특가 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 가격, 노선, 기간 정보와 함께 매력적인 여행지의 장점을 명확하게 제시하여 즉각적인 행동 유도",
+      "image": {
+        "keyword": "JAL airplane, Haneda Airport, Nanki Shirahama Beach, discount airline ticket, summer vacation Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-Haneda-Airport,-Nanki-Shirahama-Beach,-discount-airline-ticket,-summer-vacation-Japan",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20Haneda%20Airport,%20Nanki%20Shirahama%20Beach,%20discount%20airline%20ticket,%20summer%20vacation%20Japan/"
+      }
+    },
+    {
+      "id": "plan_f00def7d",
+      "created_at": "2026-06-12T04:56:46.452836",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALカードとJAL Pay、チャージ＆スマホ決済で毎月「Life Status ポイント」たまる新プログラム",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116743.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 마일리지와 더불어 새로운 포인트 적립 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨JAL 카드/페이 새 포인트 프로그램!✨",
+        "cards": [
+          {
+            "title": "새 포인트 프로그램",
+            "content": "JAL 카드와 JAL Pay가 'JAL Pay・JAL 카드 충전 프로그램'을 6월 10일 시작했어요. 마일리지와 더불어 'Life Status 포인트(LSP)'를 추가로 쌓을 수 있습니다.",
+            "alt_text": "JAL 카드와 JAL Pay 로고"
+          },
+          {
+            "title": "적립 대상",
+            "content": "JAL Pay에 JAL 카드로 충전하거나, JAL Pay로 결제 시 LSP가 적립됩니다. 충전 금액과 결제 금액에 따라 포인트가 쌓여요.",
+            "alt_text": "스마트폰으로 JAL Pay 앱을 사용하는 모습"
+          },
+          {
+            "title": "프로그램 기간",
+            "content": "이 프로그램은 2027년 3월 31일까지 진행됩니다. 장기간 혜택을 받을 수 있어요.",
+            "alt_text": "달력에 2027년 3월 31일 표시"
+          },
+          {
+            "title": "간편한 참여",
+            "content": "별도의 사전 신청 없이 자동으로 참여됩니다. JAL 카드를 가지고 계신다면 지금 바로 혜택을 누리세요!",
+            "alt_text": "체크 표시가 있는 신청서 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "JAL 마일리지와 LSP를 함께 적립할 수 있어 더욱 유용해요. 일본 여행 시 JAL을 이용하신다면 꼭 챙기세요!",
+            "alt_text": "마일리지와 포인트 아이콘이 합쳐진 이미지"
+          }
+        ],
+        "caption": "✈️JAL 이용객 주목! JAL 카드/페이 신규 포인트 프로그램 출시!✈️\n\n6월 10일부터 JAL 카드와 JAL Pay로 충전하거나 결제하면, 마일리지 외에 'Life Status 포인트(LSP)'까지 추가 적립 가능! 🤩\n\n2027년 3월 31일까지 진행되는 이 프로그램은 별도 신청 없이 자동 참여! 👍\n\n일본 여행 시 JAL을 자주 이용하신다면, 놓치지 말고 혜택 챙기세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#JAL카드",
+          "#JALPay",
+          "#일본항공",
+          "#마일리지",
+          "#포인트적립",
+          "#일본교통",
+          "#여행꿀팁",
+          "#일본정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본생활",
+          "#JAL마일리지"
+        ],
+        "alt_texts": [
+          "JAL 카드와 JAL Pay 로고",
+          "스마트폰으로 JAL Pay 앱을 사용하는 모습",
+          "달력에 2027년 3월 31일 표시",
+          "체크 표시가 있는 신청서 이미지",
+          "마일리지와 포인트 아이콘이 합쳐진 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: JAL 항공권을 이용하는 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: JAL 이용객의 관심 증대, 프로그램 참여율 증가 / 이 콘텐츠의 강점: 실질적인 혜택 정보, 명확한 기간 및 참여 방법 안내",
+      "image": {
+        "keyword": "JAL Card, JAL Pay, mileage points, travel benefits, Japan trip",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Card,-JAL-Pay,-mileage-points,-travel-benefits,-Japan-trip",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Card,%20JAL%20Pay,%20mileage%20points,%20travel%20benefits,%20Japan%20trip/"
+      }
+    },
     {
       "id": "plan_e7c5ddb7",
       "created_at": "2026-06-12T01:39:52.053736",
@@ -923,160 +1077,6 @@
         "keyword": "Sendai Station DisneySea 25th anniversary photo spot Magical Jubilee Shinkansen",
         "unsplash_url": "https://unsplash.com/s/photos/Sendai-Station-DisneySea-25th-anniversary-photo-spot-Magical-Jubilee-Shinkansen",
         "pexels_url": "https://www.pexels.com/search/Sendai%20Station%20DisneySea%2025th%20anniversary%20photo%20spot%20Magical%20Jubilee%20Shinkansen/"
-      }
-    },
-    {
-      "id": "plan_320e741d",
-      "created_at": "2026-06-09T00:15:52.348166",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALモバイル、100円で5マイル貯まる海外eSIM開始。世界100か国、日本語サポート対応",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115409.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중에도 마일리지 쌓고 싶다면 주목!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL eSIM 100엔=5마일!",
-        "cards": [
-          {
-            "title": "JAL eSIM 출시",
-            "content": "JAL 모바일에서 6월 1일부터 해외 e심 서비스를 시작했어요. 일본 여행 중에도 간편하게 이용 가능합니다.",
-            "alt_text": "JAL 모바일 해외 e심 서비스 출시 알림"
-          },
-          {
-            "title": "마일리지 적립",
-            "content": "JAL 모바일 회원은 이용 요금 100엔당 5마일을 적립받아요. 비회원은 100엔당 3마일이 적립됩니다.",
-            "alt_text": "100엔당 5마일 적립되는 e심 혜택"
-          },
-          {
-            "title": "지원 국가",
-            "content": "총 100개 국가에서 이용 가능하며, 일본 여행 시에도 문제없이 사용할 수 있습니다.",
-            "alt_text": "전 세계 100개국 지원 e심 서비스"
-          },
-          {
-            "title": "한국어 지원",
-            "content": "일본 현지에서 발생하는 문제나 궁금한 점은 한국어 고객센터를 통해 문의할 수 있어 편리합니다.",
-            "alt_text": "일본 여행자를 위한 한국어 고객 지원"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 여행 전에 미리 e심을 구매하고 설치하면 현지에서 데이터 걱정 없이 바로 사용할 수 있어요. JAL 마일리지 회원이라면 더욱 득템!",
-            "alt_text": "일본 여행 전 e심 미리 설치 꿀팁"
-          }
-        ],
-        "caption": "일본 여행 갈 때 데이터 걱정 끝! 🇯🇵\n\nJAL 모바일에서 6월 1일부터 시작한 해외 e심 서비스! \n\n✨JAL 모바일 회원이라면 100엔당 무려 5마일 적립!\n✨비회원도 100엔당 3마일 적립!\n✨전 세계 100개국 지원, 한국어 고객센터 운영!\n\n일본 여행 중에도 알뜰하게 마일리지 쌓고 싶다면 이번 기회 놓치지 마세요! ✈️\n\n#일본여행 #JAL #eSIM #해외여행 #마일리지",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#JAL모바일",
-          "#eSIM",
-          "#해외eSIM",
-          "#일본데이터",
-          "#일본여행준비",
-          "#마일리지",
-          "#항공권할인",
-          "#여행꿀팁",
-          "#일본",
-          "#동경",
-          "#오사카",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JAL 모바일 해외 e심 서비스 출시 알림",
-          "100엔당 5마일 적립되는 e심 혜택",
-          "전 세계 100개국 지원 e심 서비스",
-          "일본 여행자를 위한 한국어 고객 지원",
-          "일본 여행 전 e심 미리 설치 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자, JAL 마일리지 회원 / 최적 게시 시간: 평일 오전 9-11시, 오후 1-3시 / 기대 반응: 정보 공유 및 문의 증가, JAL 이용 관심도 상승 / 이 콘텐츠의 강점: 실질적인 비용 절감 및 혜택 정보 제공, 한국어 지원 강조",
-      "image": {
-        "keyword": "Japan travel eSIM JAL mileage",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-eSIM-JAL-mileage",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20eSIM%20JAL%20mileage/"
-      }
-    },
-    {
-      "id": "plan_4599bd43",
-      "created_at": "2026-06-09T00:15:46.720814",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 山下家、1泊2食が最大30％オフ。加賀随一の天空露天風呂＆カニづくしバイキング",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115411.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 할인 정보 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️온천 30% 할인 찬스!",
-        "cards": [
-          {
-            "title": "오오에도 온천",
-            "content": "일본 온천 여행 계획 중이라면 주목! 오오에도 온천 이야기 프리미엄 야마시타가 1박 2식 포함 최대 30% 할인 프로모션을 진행해요.",
-            "alt_text": "일본 온천 호텔 외관 이미지"
-          },
-          {
-            "title": "파격 할인",
-            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 슈퍼 세일' 기간에 해당하며, 6월 20일까지 예약 가능해요. 쿠폰까지 사용하면 할인율은 더 커진답니다.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "카가 지역 최고의 하늘 노천탕과 신선한 게 요리 뷔페를 즐길 수 있는 기회! 잊지 못할 온천 여행을 만들어 보세요.",
-            "alt_text": "일본 온천 노천탕 이미지"
-          },
-          {
-            "title": "할인 꿀팁",
-            "content": "본래 가격에서 최대 30%까지 할인받을 수 있으니, 숙박 예약 시 할인 쿠폰 적용 여부를 꼭 확인하세요.",
-            "alt_text": "가격 할인율 표시 이미지"
-          },
-          {
-            "title": "여행 준비",
-            "content": "일본 온천 여행을 계획하신다면, 지금 바로 라쿠텐 트래블에서 할인 혜택을 확인하고 예약하세요!",
-            "alt_text": "여행 가방과 지도 이미지"
-          }
-        ],
-        "caption": "♨️일본 온천 숙소, 최대 30% 할인받고 예약하세요!♨️\n\n오오에도 온천 이야기 프리미엄 야마시타에서 1박 2식 포함 최대 30% 할인 프로모션을 진행 중이에요! 🦀\n\n라쿠텐 트래블 슈퍼 세일 기간에 예약하면 추가 할인도 가능하니, 일본 온천 여행 계획 중이라면 절대 놓치지 마세요! ✨\n\n지금 바로 예약하고 일본 최고의 하늘 노천탕과 게 요리 뷔페를 즐겨보세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#오오에도온천",
-          "#라쿠텐트래블",
-          "#일본숙소",
-          "#온천여행",
-          "#일본할인",
-          "#일본자유여행",
-          "#일본여행정보",
-          "#일본가볼만한곳",
-          "#일본온천추천",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "일본 온천 호텔 외관 이미지",
-          "할인 쿠폰 이미지",
-          "일본 온천 노천탕 이미지",
-          "가격 할인율 표시 이미지",
-          "여행 가방과 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 숙소 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 실질적인 할인율과 구체적인 숙소 정보 제공",
-      "image": {
-        "keyword": "japanese hot spring ryokan discount",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan-discount",
-        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan%20discount/"
       }
     }
   ]
