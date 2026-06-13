@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-12T04:56:55.310307",
+  "last_updated": "2026-06-13T01:34:33.510031",
   "plans": [
+    {
+      "id": "plan_5bfeff13",
+      "created_at": "2026-06-13T01:34:31.509804",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、7～8月発券分の燃油サーチャージ値上げ。韓国6500円→7400円、ハワイ3万4700円→4万400円、北米欧州5万6000円→6万5000円に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116904.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본행 항공권, 7~8월 발권 시 유류할증료 인상 예정!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 유류할증료 인상! ✈️",
+        "cards": [
+          {
+            "title": "유류할증료 인상",
+            "content": "JAL은 2024년 7월 1일부터 8월 31일까지 발권하는 국제선 항공권에 적용되는 유류할증료를 인상합니다. 한국 노선도 예외가 아닙니다.",
+            "alt_text": "JAL 항공기 이미지"
+          },
+          {
+            "title": "한국 노선 가격",
+            "content": "현재 6,500원인 한국 노선 유류할증료가 7,400원으로 인상됩니다. 약 900원 정도의 추가 비용이 발생합니다.",
+            "alt_text": "한국 지도와 비행기 아이콘"
+          },
+          {
+            "title": "발권 시기 중요!",
+            "content": "7월 1일 이전에 발권하면 기존 요금이 적용되지만, 7월 1일 이후 발권 시 인상된 요금이 적용됩니다. 여행 계획을 미리 세우세요!",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "기타 노선 인상",
+            "content": "하와이 노선은 34,700원에서 40,400원으로, 북미/유럽 노선은 56,000원에서 65,000원으로 인상됩니다.",
+            "alt_text": "다양한 국가 국기 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인상 전에 미리 항공권을 발권하거나, 다른 항공사의 요금을 비교해보는 것을 추천합니다. 또한, LCC(저비용항공사)는 유류할증료 변동이 적거나 없는 경우가 많으니 함께 확인해보세요!",
+            "alt_text": "동전과 지폐 이미지"
+          }
+        ],
+        "caption": "🚨 JAL 유류할증료 인상 예정! 🚨\n\n7월 1일부터 8월 31일까지 발권하는 JAL 항공권, 유류할증료가 오른다는 소식입니다!\n\n✈️ 한국 노선: 6,500원 → 7,400원\n\n인상 전에 미리 발권하시거나, 다른 항공사 및 LCC 가격 비교는 필수! \n\n#일본여행 #항공권 #유류할증료 #JAL #플라잉재팬 #여행정보 #일본항공권 #여행꿀팁 #7월여행 #8월여행 #여행준비 #항공권예약 #해외여행 #여행스타그램 #여행에미치다",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#유류할증료",
+          "#항공권",
+          "#일본항공권",
+          "#여행정보",
+          "#여행꿀팁",
+          "#7월여행",
+          "#8월여행",
+          "#여행준비",
+          "#항공권예약",
+          "#해외여행",
+          "#여행스타그램",
+          "#여행에미치다"
+        ],
+        "alt_texts": [
+          "JAL 항공기 이미지",
+          "한국 지도와 비행기 아이콘",
+          "달력 이미지",
+          "다양한 국가 국기 이미지",
+          "동전과 지폐 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시~9시, 주말 오후 1시~3시 / 기대 반응: 항공권 가격 변동에 대한 관심과 정보 습득 / 이 콘텐츠의 강점: 시기적절한 정보 제공으로 여행 계획에 실질적인 도움 제공",
+      "image": {
+        "keyword": "JAL airplane, fuel surcharge increase, flight ticket price, Japan travel, Korean tourist",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-fuel-surcharge-increase,-flight-ticket-price,-Japan-travel,-Korean-tourist",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20fuel%20surcharge%20increase,%20flight%20ticket%20price,%20Japan%20travel,%20Korean%20tourist/"
+      }
+    },
+    {
+      "id": "plan_b0bf0241",
+      "created_at": "2026-06-13T01:34:25.158304",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語、全国17か所でプール夏季営業。全天候型の流れるプールや巨大スライダー、大人のリゾート風も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116926.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "시원하게 즐기는 일본 여름, 17곳 온천 테마파크에서 수영 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 여름 수영 17곳!♨️",
+        "cards": [
+          {
+            "title": "여름 한정 개장!",
+            "content": "오에도 온천 이야기 그룹에서 전국 17개 지점에서 수영장 여름 영업을 시작합니다. 시원한 물놀이를 즐길 수 있는 절호의 찬스!",
+            "alt_text": "일본 온천 리조트에서 여름 수영장 개장 안내 이미지"
+          },
+          {
+            "title": "다양한 즐길 거리",
+            "content": "실내에서 즐기는 유수풀과 짜릿한 대형 슬라이더, 어른들을 위한 리조트풍 공간까지! 온 가족 모두 만족할 수 있는 시설이 준비되어 있습니다.",
+            "alt_text": "일본 테마파크 수영장의 유수풀과 슬라이더 이미지"
+          },
+          {
+            "title": "전국 17개 지점",
+            "content": "도쿄를 비롯한 전국 각지의 오에도 온천 이야기 시설에서 여름 수영장을 운영합니다. 여행 계획에 맞춰 가까운 곳을 선택해 보세요.",
+            "alt_text": "일본 지도에 17개 지점 표시된 이미지"
+          },
+          {
+            "title": "여름 휴가 만끽",
+            "content": "더운 여름, 일본 여행 중 시원한 물놀이를 찾고 있다면 이곳이 정답! 잊지 못할 여름 추억을 만들어 보세요.",
+            "alt_text": "일본 온천 테마파크에서 즐겁게 물놀이하는 가족 이미지"
+          },
+          {
+            "title": "방문 전 확인!",
+            "content": "정확한 영업 기간, 운영 시간, 입장료 등은 방문 전 각 지점의 공식 정보를 꼭 확인하시기 바랍니다. 예약이 필요한 경우도 있으니 미리 체크하세요!",
+            "alt_text": "일본 온천 수영장 이용 안내 및 주의사항 아이콘 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 시원한 여름을 즐기고 싶다면? ☀️\n오에도 온천 이야기에서 전국 17개 지점에서 여름 한정 수영장 영업을 시작했어요! 🏊‍♀️\n실내 유수풀, 대형 슬라이더, 리조트풍 공간까지! 🤩\n어른부터 아이까지 모두 즐거운 시간을 보낼 수 있답니다. 👨‍👩‍👧‍👦\n이번 여름, 일본에서 시원한 추억을 만들어 보세요! ✨\n\n#일본여행 #플라잉재팬 #일본여름 #여름휴가 #온천 #수영장 #테마파크 #일본축제 #가족여행 #일본정보 #여행꿀팁 #오에도온천이야기 #물놀이 #여름여행 #일본가볼만한곳",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본여름",
+          "#여름휴가",
+          "#온천",
+          "#수영장",
+          "#테마파크",
+          "#일본축제",
+          "#가족여행",
+          "#일본정보",
+          "#여행꿀팁",
+          "#오에도온천이야기",
+          "#물놀이",
+          "#여름여행",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "일본 온천 리조트에서 여름 수영장 개장 안내 이미지",
+          "일본 테마파크 수영장의 유수풀과 슬라이더 이미지",
+          "일본 지도에 17개 지점 표시된 이미지",
+          "일본 온천 테마파크에서 즐겁게 물놀이하는 가족 이미지",
+          "일본 온천 수영장 이용 안내 및 주의사항 아이콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시~7시 (주말 여행 계획 시점) / 기대 반응: 수영장 정보에 대한 높은 관심, 방문 문의 증가 / 이 콘텐츠의 강점: 일본 내 여러 지역에서 이용 가능한 여름 시즌 한정 특별 정보",
+      "image": {
+        "keyword": "japan summer pool, onsen theme park, waterslide, indoor pool, resort style, family fun, travel japan",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-pool,-onsen-theme-park,-waterslide,-indoor-pool,-resort-style,-family-fun,-travel-japan",
+        "pexels_url": "https://www.pexels.com/search/japan%20summer%20pool,%20onsen%20theme%20park,%20waterslide,%20indoor%20pool,%20resort%20style,%20family%20fun,%20travel%20japan/"
+      }
+    },
     {
       "id": "plan_ad4b122b",
       "created_at": "2026-06-12T04:56:53.310121",
@@ -923,160 +1077,6 @@
         "keyword": "Moominvalley Park, discount campaign, summer vacation, family travel, Saitama",
         "unsplash_url": "https://unsplash.com/s/photos/Moominvalley-Park,-discount-campaign,-summer-vacation,-family-travel,-Saitama",
         "pexels_url": "https://www.pexels.com/search/Moominvalley%20Park,%20discount%20campaign,%20summer%20vacation,%20family%20travel,%20Saitama/"
-      }
-    },
-    {
-      "id": "plan_a3f3e304",
-      "created_at": "2026-06-09T04:19:17.210756",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "羽田空港にUber/GO/DiDiなど「配車アプリ専用乗り場」設置。第3ターミナルのP5駐車場で",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115562.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 필수! 하네다 공항에서 택시 잡는 법이 완전히 달라졌어요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️하네다 공항 택시 꿀팁!",
-        "cards": [
-          {
-            "title": "전용 승차장!",
-            "content": "2024년 6월 9일부터 도쿄 하네다 공항 제3터미널에 '배차 앱 전용 승차장'이 생겼어요. 이제 택시 잡기가 훨씬 수월해질 거예요.",
-            "alt_text": "하네다 공항 제3터미널에 설치된 배차 앱 전용 승차장 안내 표지판"
-          },
-          {
-            "title": "이용 가능 앱",
-            "content": "Uber, GO, DiDi 등 주요 배차 앱 서비스를 이용할 수 있습니다. 한국에서 미리 앱을 설치하고 결제 수단을 등록해두면 편리해요.",
-            "alt_text": "Uber, GO, DiDi 로고가 함께 표시된 배차 앱 서비스 안내 이미지"
-          },
-          {
-            "title": "P5 주차장에 위치",
-            "content": "전용 승차장은 제3터미널의 P5 주차장에 마련되었습니다. 공항 도착 후 안내 표지판을 따라 이동하시면 쉽게 찾으실 수 있어요.",
-            "alt_text": "하네다 공항 제3터미널 P5 주차장 안내 지도"
-          },
-          {
-            "title": "시험 운영 중",
-            "content": "현재는 시험 운영 기간입니다. 운영 시간이나 세부 사항은 변경될 수 있으니, 이용 전 앱에서 다시 한번 확인하는 것이 좋아요.",
-            "alt_text": "시험 운영 중임을 알리는 안내문이 붙어있는 승차장 모습"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "한국에서 미리 앱을 다운받고 회원가입, 결제 수단 등록까지 완료하면 현지에서 바로 이용 가능! 돌아올 때도 유용하게 쓸 수 있답니다.",
-            "alt_text": "스마트폰으로 배차 앱을 이용하는 모습"
-          }
-        ],
-        "caption": "✈️ 도쿄 하네다 공항에서 택시 잡기 쉬워진다! 🚖\n\n2024년 6월 9일부터 하네다 공항 제3터미널에 '배차 앱 전용 승차장'이 시범 운영을 시작했어요!\n\nUber, GO, DiDi 등 한국에서도 익숙한 배차 앱을 이용해 편리하게 택시를 부를 수 있습니다. P5 주차장에 위치해 있으니, 공항 도착 후 안내 표지판을 따라 이동해보세요!\n\n여행 마지막 날, 혹은 짐이 많을 때 정말 유용할 거예요! 😉\n\n#일본여행 #하네다공항 #도쿄여행 #배차앱 #Uber #GO #DiDi #택시 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하네다공항",
-          "#도쿄여행",
-          "#배차앱",
-          "#Uber",
-          "#GO",
-          "#DiDi",
-          "#일본택시",
-          "#여행정보",
-          "#도쿄",
-          "#일본",
-          "#여행준비",
-          "#꿀팁",
-          "#공항정보"
-        ],
-        "alt_texts": [
-          "하네다 공항 제3터미널에 설치된 배차 앱 전용 승차장 안내 표지판",
-          "Uber, GO, DiDi 로고가 함께 표시된 배차 앱 서비스 안내 이미지",
-          "하네다 공항 제3터미널 P5 주차장 안내 지도",
-          "시험 운영 중임을 알리는 안내문이 붙어있는 승차장 모습",
-          "스마트폰으로 배차 앱을 이용하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 7시 / 기대 반응: 정보 유용성에 대한 긍정적인 댓글, 저장 및 공유 증가 / 이 콘텐츠의 강점: 한국 여행객에게 실질적으로 도움이 되는 최신 공항 교통 정보, 구체적인 앱 명칭 및 위치 정보 제공",
-      "image": {
-        "keyword": "Haneda Airport Terminal 3, ride-hailing app pick-up zone, P5 parking lot, transportation, taxi booking, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport-Terminal-3,-ride-hailing-app-pick-up-zone,-P5-parking-lot,-transportation,-taxi-booking,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport%20Terminal%203,%20ride-hailing%20app%20pick-up%20zone,%20P5%20parking%20lot,%20transportation,%20taxi%20booking,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_f11092cd",
-      "created_at": "2026-06-09T04:19:09.821114",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "仙台駅にディズニーシー25周年フォトスポット登場。「Magical Jubilee Shinkansen」運行開始にあわせ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115572.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 도쿄 디즈니씨 25주년 기념 포토존과 특별 신칸센 등장!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 씨 25주년 포토존✨",
-        "cards": [
-          {
-            "title": "포토존 등장!",
-            "content": "도쿄 디즈니 씨 25주년 'Magical Jubilee'를 기념하는 특별 포토존이 센다이역에 설치됩니다. 신칸센과 함께 디즈니 추억을 남겨보세요!",
-            "alt_text": "센다이역에 설치된 도쿄 디즈니 씨 25주년 기념 포토존 이미지"
-          },
-          {
-            "title": "특별 신칸센",
-            "content": "도호쿠・홋카이도 신칸센 일부 구간에서 'Magical Jubilee Shinkansen' 특별 차량을 운행합니다. 디즈니 테마로 꾸며진 신칸센을 만날 수 있어요.",
-            "alt_text": "도쿄 디즈니 씨 25주년 테마로 꾸며진 신칸센 내부 또는 외부 이미지"
-          },
-          {
-            "title": "운행 구간",
-            "content": "특별 신칸센은 도호쿠・홋카이도 신칸센 일부 역을 경유하며, 센다이역에는 포토존이 설치됩니다. 정확한 운행 구간과 역은 추후 공지될 예정입니다.",
-            "alt_text": "도호쿠・홋카이도 신칸센 노선도 이미지"
-          },
-          {
-            "title": "운행 시기",
-            "content": "25주년 'Magical Jubilee' 기간 동안 특별 신칸센이 운행될 예정입니다. 정확한 운행 시작일과 종료일은 JR동일본 공지를 확인해주세요.",
-            "alt_text": "도쿄 디즈니 씨 25주년 기념 행사 관련 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "센다이역 방문 계획이 있다면, 디즈니 25주년 기념 포토존에서 특별한 추억을 꼭 남겨보세요! 신칸센 이용 시 특별 차량인지 미리 확인하는 센스!",
-            "alt_text": "센다이역에서 디즈니 굿즈를 들고 포즈를 취하는 여행자 이미지"
-          }
-        ],
-        "caption": "✨디즈니 덕후 주목!✨\n도쿄 디즈니 씨 25주년을 기념하여 센다이역에 특별 포토존이 설치되고, 'Magical Jubilee Shinkansen' 특별 차량이 운행됩니다! 🚄\n일본 여행 중 센다이역에 방문한다면 잊지 말고 인증샷 남기기! 📸\n#도쿄디즈니씨25주년 #센다이역 #신칸센 #일본여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니25주년",
-          "#센다이",
-          "#센다이역",
-          "#신칸센",
-          "#일본기차",
-          "#일본축제",
-          "#일본이벤트",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#디즈니덕후",
-          "#일본자유여행",
-          "#일본필수템"
-        ],
-        "alt_texts": [
-          "센다이역에 설치된 도쿄 디즈니 씨 25주년 기념 포토존 이미지",
-          "도쿄 디즈니 씨 25주년 테마로 꾸며진 신칸센 내부 또는 외부 이미지",
-          "도호쿠・홋카이도 신칸센 노선도 이미지",
-          "도쿄 디즈니 씨 25주년 기념 행사 관련 이미지",
-          "센다이역에서 디즈니 굿즈를 들고 포즈를 취하는 여행자 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니 씨 방문 예정인 한국인 여행자, 디즈니 팬 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 관심과 공유, 센다이역 방문 계획 변경 가능성 / 이 콘텐츠의 강점: 시기적절한 디즈니 관련 정보, 구체적인 장소와 이벤트 명시",
-      "image": {
-        "keyword": "Sendai Station DisneySea 25th anniversary photo spot Magical Jubilee Shinkansen",
-        "unsplash_url": "https://unsplash.com/s/photos/Sendai-Station-DisneySea-25th-anniversary-photo-spot-Magical-Jubilee-Shinkansen",
-        "pexels_url": "https://www.pexels.com/search/Sendai%20Station%20DisneySea%2025th%20anniversary%20photo%20spot%20Magical%20Jubilee%20Shinkansen/"
       }
     }
   ]
