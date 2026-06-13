@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-13T01:34:33.510031",
+  "last_updated": "2026-06-13T04:43:40.389583",
   "plans": [
+    {
+      "id": "plan_ff9db454",
+      "created_at": "2026-06-13T04:43:38.389400",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "歴史めぐりがお得「（ICOCAでGO）和歌山市って何？周遊パス」。鉄道・バス乗り放題、ラーメン店で特典も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116846.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 간사이 지역 여행 시 교통비 절약 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "JR 서일본 & 난카이 전철 꿀딜! 🤩",
+        "cards": [
+          {
+            "title": "새로운 디지털 티켓!",
+            "content": "JR 서일본, 난카이 전철, 와카야마 전철, 와카야마 버스, 와카야마시 관광협회가 함께 'ICOCA로 GO 와카야마시란 무엇? 주유 패스'를 출시합니다. 6월 15일부터 KANSAI MaaS 웹사이트 및 앱에서 구매 가능합니다.",
+            "alt_text": "와카야마 지역 지도와 교통수단 아이콘"
+          },
+          {
+            "title": "교통 무제한!",
+            "content": "이 패스를 이용하면 와카야마 시내의 철도와 버스를 자유롭게 이용할 수 있습니다. 여러 교통수단을 갈아타며 여행할 때 매우 유용합니다.",
+            "alt_text": "다양한 교통수단(기차, 버스)을 이용하는 사람들의 모습"
+          },
+          {
+            "title": "식사 혜택까지!",
+            "content": "단순히 교통만 해결되는 것이 아닙니다. 와카야마 지역의 특정 라멘 가게에서도 특별한 혜택을 받을 수 있습니다.",
+            "alt_text": "맛있어 보이는 라멘 사진"
+          },
+          {
+            "title": "스마트한 여행!",
+            "content": "디지털 티켓이라 편리하게 이용 가능하며, 앱을 통해 구매 및 사용이 가능합니다. 여행 계획 시 꼭 확인해보세요.",
+            "alt_text": "스마트폰으로 앱을 이용하는 모습"
+          },
+          {
+            "title": "여행 꿀팁!",
+            "content": "와카야마 지역을 중심으로 여행할 계획이라면 이 패스가 교통비를 크게 절약해 줄 수 있습니다. 꼭 구매해서 알찬 여행 즐기세요!",
+            "alt_text": "와카야마 성 또는 아름다운 풍경 사진"
+          }
+        ],
+        "caption": "일본 간사이 여행 중 와카야마 지역 방문 예정이라면 주목! 🤩\nJR 서일본과 난카이 전철 등에서 'ICOCA로 GO 와카야마시 주유 패스'를 6월 15일부터 출시합니다.\n철도, 버스 무제한 이용은 물론, 특정 라멘 가게 할인 혜택까지! 🍜\n앱에서 간편하게 구매하고 와카야마에서 알찬 여행 즐겨보세요! 🚄\n\n#일본여행 #와카야마 #간사이여행 #교통패스 #ICOCA",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#와카야마",
+          "#간사이여행",
+          "#교통패스",
+          "#ICOCA",
+          "#JR서일본",
+          "#난카이전철",
+          "#와카야마여행",
+          "#일본교통",
+          "#여행꿀팁",
+          "#주유패스",
+          "#일본자유여행",
+          "#여행정보",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "와카야마 지역 지도와 교통수단 아이콘",
+          "다양한 교통수단(기차, 버스)을 이용하는 사람들의 모습",
+          "맛있어 보이는 라멘 사진",
+          "스마트폰으로 앱을 이용하는 모습",
+          "와카야마 성 또는 아름다운 풍경 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 간사이 지역(오사카, 교토 등)을 중심으로 여행하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (여행 계획을 세우는 시간) / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 가격 정보는 없지만, 교통비 절약이라는 명확한 혜택과 함께 구매 방법, 혜택까지 상세하게 안내하여 실질적인 도움을 줄 수 있음.",
+      "image": {
+        "keyword": "Wakayama City, Japan, transportation pass, train, bus, ramen, KANSAI MaaS, digital ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/Wakayama-City,-Japan,-transportation-pass,-train,-bus,-ramen,-KANSAI-MaaS,-digital-ticket",
+        "pexels_url": "https://www.pexels.com/search/Wakayama%20City,%20Japan,%20transportation%20pass,%20train,%20bus,%20ramen,%20KANSAI%20MaaS,%20digital%20ticket/"
+      }
+    },
+    {
+      "id": "plan_631506ed",
+      "created_at": "2026-06-13T04:43:32.920754",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "明日から変わるモノレール浜松町、コンコース内部を紹介。改札は3階に集約",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2115334.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 필수! 하마마츠초역 모노레일 이용객 필독!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 하마마츠초역, 모노레일 변경! 6/13부터!",
+        "cards": [
+          {
+            "title": "모노레일 변경",
+            "content": "도쿄 모노레일 하마마츠초역이 서쪽 출구 개발 사업으로 변경됩니다. 6월 13일부터 새로운 북쪽 개찰구와 중앙 개찰구가 3층에 새로 개시됩니다.",
+            "alt_text": "변경된 도쿄 모노레일 하마마츠초역 안내 이미지"
+          },
+          {
+            "title": "개찰구 통합",
+            "content": "기존의 개찰구가 3층으로 집약되어 이용이 더욱 편리해질 예정입니다. 기존 역사와는 다른 새로운 동선에 주의하세요.",
+            "alt_text": "3층으로 통합되는 개찰구 안내 이미지"
+          },
+          {
+            "title": "하네다 공항 접근",
+            "content": "하마마츠초역은 하네다 공항으로 가는 도쿄 모노레일의 주요 환승역입니다. 공항 이용 시 꼭 알아두세요.",
+            "alt_text": "하네다 공항 가는 도쿄 모노레일 노선도 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "새로운 개찰구 운영 시작일인 6월 13일 당일에는 혼잡이 예상됩니다. 미리 역 안내를 확인하여 당황하지 않도록 대비하세요.",
+            "alt_text": "도쿄 모노레일 승강장 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "변경된 개찰구 위치를 미리 파악해두면 시간을 절약할 수 있습니다. 여행 계획 시 참고하여 여유롭게 이동하세요.",
+            "alt_text": "여행객이 역에서 길을 찾는 모습 이미지"
+          }
+        ],
+        "caption": "✈️ 도쿄 여행 필수 정보! 6월 13일부터 도쿄 모노레일 하마마츠초역이 변경됩니다! 3층에 새로운 북쪽 개찰구와 중앙 개찰구가 통합 운영되니, 하네다 공항 이동 시 꼭 미리 확인하세요! 🧳\n\n#일본여행 #도쿄여행 #도쿄모노레일 #하마마츠초역 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄",
+          "#도쿄모노레일",
+          "#하마마츠초역",
+          "#일본교통",
+          "#여행꿀팁",
+          "#일본생활",
+          "#도쿄여행준비",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본",
+          "#하네다공항",
+          "#안내",
+          "#필수정보"
+        ],
+        "alt_texts": [
+          "변경된 도쿄 모노레일 하마마츠초역 안내 이미지",
+          "3층으로 통합되는 개찰구 안내 이미지",
+          "하네다 공항 가는 도쿄 모노레일 노선도 이미지",
+          "도쿄 모노레일 승강장 이미지",
+          "여행객이 역에서 길을 찾는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 하마마츠초역을 이용하는 한국인 여행객 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 정보 습득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 여행 직전 필수적인 실질 정보 제공",
+      "image": {
+        "keyword": "Tokyo Monorail Hamamatsucho Station renovation",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Monorail-Hamamatsucho-Station-renovation",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Monorail%20Hamamatsucho%20Station%20renovation/"
+      }
+    },
     {
       "id": "plan_5bfeff13",
       "created_at": "2026-06-13T01:34:31.509804",
@@ -923,160 +1077,6 @@
         "keyword": "japan onsen hotel, yukata, kaiseki, onsen town, budget travel japan",
         "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-hotel,-yukata,-kaiseki,-onsen-town,-budget-travel-japan",
         "pexels_url": "https://www.pexels.com/search/japan%20onsen%20hotel,%20yukata,%20kaiseki,%20onsen%20town,%20budget%20travel%20japan/"
-      }
-    },
-    {
-      "id": "plan_7dd41092",
-      "created_at": "2026-06-10T01:31:11.035517",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「第73回戸田橋花火大会」有料席は6月11日から販売。対岸のいたばし花火大会と同時開催で約1万5000発",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115738.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 근교에서 펼쳐지는 8월 1일 불꽃축제! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 8월 1일 도쿄 불꽃축제!",
-        "cards": [
-          {
-            "title": "불꽃축제 안내",
-            "content": "제73회 토다바시 불꽃축제가 8월 1일 개최됩니다. 토다하시 아라카와 강변에서 열리며, 19시부터 20시 30분까지 약 1만 5천 발의 불꽃이 밤하늘을 수놓을 예정입니다.",
-            "alt_text": "토다바시 불꽃축제 개최 안내"
-          },
-          {
-            "title": "동시 개최!",
-            "content": "같은 날, 강 건너편에서는 '이타바시 불꽃축제'도 함께 개최됩니다. 두 곳의 불꽃축제를 동시에 즐길 수 있는 특별한 기회입니다.",
-            "alt_text": "이타바시 불꽃축제와 동시 개최 안내"
-          },
-          {
-            "title": "유료 좌석 판매",
-            "content": "인기 만점인 유료 좌석은 6월 11일부터 판매 시작합니다. 좋은 자리에서 편안하게 불꽃을 감상하고 싶다면 서둘러 예매하세요!",
-            "alt_text": "불꽃축제 유료 좌석 판매 시작 안내"
-          },
-          {
-            "title": "우천 시",
-            "content": "만약 날씨가 좋지 않으면 행사는 취소되며, 순연되지 않습니다. 방문 전 날씨 예보를 꼭 확인하세요.",
-            "alt_text": "우천 시 불꽃축제 취소 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "도쿄 도심에서 대중교통으로 이동 가능하며, 축제 당일은 인파가 매우 몰릴 수 있으니 여유롭게 출발하는 것을 추천합니다. 근처 맛집 탐방도 잊지 마세요!",
-            "alt_text": "불꽃축제 관람 꿀팁"
-          }
-        ],
-        "caption": "✨ 8월 1일, 도쿄에서 펼쳐지는 환상적인 불꽃축제! 🎆\n토다바시 불꽃축제와 이타바시 불꽃축제가 동시에 개최되어 더욱 풍성한 볼거리를 선사합니다. 1만 5천 발의 불꽃이 밤하늘을 아름답게 장식할 예정이니, 일본 여행 중이라면 놓치지 마세요!\n\n✅ 8월 1일 19:00~20:30\n✅ 유료 좌석 6월 11일 판매 시작\n\n지금 바로 일정 확인하고 일본의 여름밤을 만끽하세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#불꽃축제",
-          "#토다바시불꽃축제",
-          "#이타바시불꽃축제",
-          "#일본축제",
-          "#여름여행",
-          "#8월여행",
-          "#일본이벤트",
-          "#도쿄불꽃놀이",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#일본여름",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "토다바시 불꽃축제 개최 안내",
-          "이타바시 불꽃축제와 동시 개최 안내",
-          "불꽃축제 유료 좌석 판매 시작 안내",
-          "우천 시 불꽃축제 취소 안내",
-          "불꽃축제 관람 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 근교 여름 시즌 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 관심 및 정보 공유 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 유료 좌석 판매 정보 포함",
-      "image": {
-        "keyword": "japan fireworks festival tokyo summer night sky",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-fireworks-festival-tokyo-summer-night-sky",
-        "pexels_url": "https://www.pexels.com/search/japan%20fireworks%20festival%20tokyo%20summer%20night%20sky/"
-      }
-    },
-    {
-      "id": "plan_7e7668ed",
-      "created_at": "2026-06-10T01:31:04.888547",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ムーミンバレーパーク、高校生以下の1デーパス500円に。7月3日～9月30日「こども応援キャンペーン」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115750.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 무민 테마파크, 청소년 대상 파격 할인! 여름방학 필수 코스 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "무민 파크 500엔! 🉐",
-        "cards": [
-          {
-            "title": "역대급 할인!",
-            "content": "무민 테마파크에서 '어린이 응원 캠페인'을 진행해요. 2024년 7월 3일부터 9월 30일까지, 고등학생 이하 모든 방문객에게 1일권을 단돈 500엔에 판매합니다.",
-            "alt_text": "무민 테마파크 할인 캠페인 안내 배너"
-          },
-          {
-            "title": "기간 한정",
-            "content": "이번 특별 할인은 여름방학 기간에 맞춰 진행되니, 놓치지 마세요! 9월 30일까지 진행되니 여행 계획에 꼭 넣어두세요.",
-            "alt_text": "할인 기간을 나타내는 달력 이미지"
-          },
-          {
-            "title": "위치 확인",
-            "content": "무민 테마파크는 일본 사이타마현에 위치하고 있어요. 주소는 미야자와 327-6입니다. 도쿄에서 당일치기 여행으로도 충분히 다녀올 수 있습니다.",
-            "alt_text": "무민 테마파크 위치를 표시하는 지도 이미지"
-          },
-          {
-            "title": "누가 혜택받나요?",
-            "content": "할인 대상은 고등학생 이하 모든 방문객입니다. 자녀 동반 가족 여행객에게는 더할 나위 없이 좋은 기회입니다.",
-            "alt_text": "어린이와 함께 즐거워하는 가족 모습"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "할인 혜택을 받기 위해선 학생증 등 연령을 증명할 수 있는 신분증 지참이 필수일 수 있습니다. 방문 전 공식 홈페이지에서 정확한 이용 조건을 확인하세요.",
-            "alt_text": "학생증을 보여주며 웃는 사람의 모습"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 💖 무민 테마파크에서 역대급 할인 소식이 도착했어요! 📢 2024년 7월 3일부터 9월 30일까지, 고등학생 이하 방문객이라면 단돈 500엔으로 1일권을 구매할 수 있다는 사실! 😱 여름방학, 아이들과 함께하는 여행이라면 절대 놓칠 수 없는 기회입니다! 📍 사이타마현에 위치한 무민 테마파크에서 잊지 못할 추억을 만들어보세요! ✨\n\n👉 지금 바로 여행 계획 세우고 할인 찬스 잡으세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무민테마파크",
-          "#무민밸리",
-          "#사이타마",
-          "#일본어린이",
-          "#일본할인",
-          "#여름휴가",
-          "#가족여행",
-          "#일본가볼만한곳",
-          "#여행꿀팁",
-          "#일본축제",
-          "#일본이벤트",
-          "#해외여행",
-          "#일본여행정보"
-        ],
-        "alt_texts": [
-          "무민 테마파크 할인 캠페인 안내 배너",
-          "할인 기간을 나타내는 달력 이미지",
-          "무민 테마파크 위치를 표시하는 지도 이미지",
-          "어린이와 함께 즐거워하는 가족 모습",
-          "학생증을 보여주며 웃는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 자녀 동반 가족 여행객, 청소년 그룹 / 최적 게시 시간: 금요일 오후 5시, 토요일 오전 10시 / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 할인율, 명확한 대상, 시의성 높은 정보",
-      "image": {
-        "keyword": "Moominvalley Park, discount campaign, summer vacation, family travel, Saitama",
-        "unsplash_url": "https://unsplash.com/s/photos/Moominvalley-Park,-discount-campaign,-summer-vacation,-family-travel,-Saitama",
-        "pexels_url": "https://www.pexels.com/search/Moominvalley%20Park,%20discount%20campaign,%20summer%20vacation,%20family%20travel,%20Saitama/"
       }
     }
   ]
