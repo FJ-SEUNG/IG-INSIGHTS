@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-15T01:40:58.675388",
+  "last_updated": "2026-06-15T05:21:20.196415",
   "plans": [
+    {
+      "id": "plan_c8f444fc",
+      "created_at": "2026-06-15T05:21:18.196199",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーリゾート、夏限定「1デーパークホッパーパスポート」でファンタジースプリングス・エントランス利用可能に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2117121.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후라면 놓칠 수 없는 팬타지 스プリング스 입장 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✨팬타지 스プリング스 입장 UP!",
+        "cards": [
+          {
+            "title": "파격 혜택!",
+            "content": "도쿄 디즈니랜드, 2024년 7월 1일부터 9월 14일까지 '1데이 파크 호퍼 패스포트' 구매 시, 인기 어트랙션이 가득한 '팬타지 스プリング스' 입장이 가능해져요!",
+            "alt_text": "도쿄 디즈니랜드 성 앞에서 웃고 있는 가족"
+          },
+          {
+            "title": "이용 방법",
+            "content": "기간 내 '1데이 파크 호퍼 패스포트'를 구매하면 별도의 예약 없이 '팬타지 스プリング스 엔트런스'를 통해 입장할 수 있어요. (기존에는 별도 예약 필수)",
+            "alt_text": "디즈니랜드 지도에 팬타지 스プリング스 구역 표시"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "올여름, 도쿄 디즈니랜드에서 가장 핫한 '팬타지 스プリング스'를 여유롭게 즐길 수 있는 절호의 기회! 7월 1일~9월 14일 기간 한정 혜택이니 서두르세요!",
+            "alt_text": "팬타지 스プリング스 어트랙션 모습"
+          },
+          {
+            "title": "추가 팁",
+            "content": "팬타지 스プリング스는 '라푼젤의 탑', '피터팬의 네버랜드', '겨울왕국' 등 인기 어트랙션으로 구성되어 있어요. 방문 전 운영 시간 및 어트랙션별 대기 시간을 미리 확인하면 더욱 알찬 여행이 가능해요.",
+            "alt_text": "겨울왕국 테마 구역 모습"
+          },
+          {
+            "title": "꼭 알아두기!",
+            "content": "이 혜택은 '1데이 파크 호퍼 패스포트'에 한정되며, 일반 '1데이 패스포트'로는 팬타지 스プリング스 입장이 불가해요. 정확한 티켓 종류를 확인하고 구매하세요!",
+            "alt_text": "디즈니랜드 티켓 이미지"
+          }
+        ],
+        "caption": "✨여름 일본 여행 필수 코스! 도쿄 디즈니랜드 '팬타지 스プリング스' 입장 꿀팁 대공개!✨\n\n✅ 기간: 2024년 7월 1일 ~ 9월 14일\n✅ 혜택: '1데이 파크 호퍼 패스포트' 구매 시 팬타지 스プリング스 입장 가능!\n\n올여름, 디즈니 덕후라면 놓칠 수 없는 특별한 기회! 💖\n지금 바로 @flyingjapan 팔로우하고 더 많은 일본 여행 정보를 얻어가세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#팬타지스프링스",
+          "#디즈니랜드",
+          "#디즈니",
+          "#일본여행정보",
+          "#여름휴가",
+          "#여행꿀팁",
+          "#도쿄",
+          "#일본",
+          "#디즈니덕후",
+          "#여행스타그램",
+          "#해외여행",
+          "#티켓정보"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 성 앞에서 웃고 있는 가족",
+          "디즈니랜드 지도에 팬타지 스プリング스 구역 표시",
+          "팬타지 스プリング스 어트랙션 모습",
+          "겨울왕국 테마 구역 모습",
+          "디즈니랜드 티켓 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 1시 ~ 3시 (점심 시간 이후 또는 오후 업무 시간 중) / 기대 반응: 정보 공유 및 저장, 친구 태그 / 이 콘텐츠의 강점: 시기적절한 기간 한정 혜택 정보, 팬들의 관심도가 높은 디즈니 관련 이슈",
+      "image": {
+        "keyword": "Tokyo Disneyland, Fantasyland, Disney Castle, Summer Travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Fantasyland,-Disney-Castle,-Summer-Travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Fantasyland,%20Disney%20Castle,%20Summer%20Travel%20Japan/"
+      }
+    },
+    {
+      "id": "plan_fc6d663a",
+      "created_at": "2026-06-15T05:21:11.043955",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA Mall、全品対象「全額マイル利用で10％マイル還元」6月末まで。うなぎや特選ワイン、Apple製品も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2117135.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 마일로 일본 쇼핑 10% 추가 할인받는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ANA마일 10% 추가還元!",
+        "cards": [
+          {
+            "title": "ANA Mall 10%",
+            "content": "ANA Mall 전 품목 대상, 전액 마일리지 결제 시 10% 마일리지 추가 적립 이벤트!",
+            "alt_text": "ANA Mall 로고와 함께 10% 할인 문구가 강조된 이미지"
+          },
+          {
+            "title": "이벤트 기간",
+            "content": "2024년 6월 15일 (토) ~ 6월 30일 (일) 23시 59분까지 진행됩니다.",
+            "alt_text": "달력에 6월 15일부터 30일까지 표시된 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "이벤트 참여를 위해선 반드시 특설 페이지에서 사전 등록이 필요해요.",
+            "alt_text": "등록 버튼을 누르는 손 모양 이미지"
+          },
+          {
+            "title": "구매 품목",
+            "content": "장어, 특선 와인, 애플 제품 등 ANA Mall에서 판매하는 모든 상품에 적용 가능합니다.",
+            "alt_text": "다양한 쇼핑 품목 (장어, 와인, 아이폰 등)을 보여주는 콜라주 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "ANA 마일리지가 있다면 이번 기회에 알뜰하게 쇼핑하고 10% 추가 혜택까지 챙겨가세요!",
+            "alt_text": "마일리지 카드와 쇼핑백을 들고 웃는 사람 이미지"
+          }
+        ],
+        "caption": "✨ANA 마일리지, 똑똑하게 사용하는 법!✨\n\nANA Mall에서 전액 마일리지 결제 시, 무려 10% 마일리지를 추가로 돌려주는 역대급 이벤트가 시작됐어요!\n\n✈️ 대상: ANA Mall 전 품목\n📅 기간: 6월 15일 ~ 6월 30일\n\n평소 눈여겨봤던 일본 쇼핑 리스트, 이번 기회에 마일리지로 알뜰하게 구매하고 10% 추가 혜택까지 꼭 챙기세요! 💖\n\n👉 프로필 링크에서 자세한 내용 확인하고 사전 등록 잊지 마세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#ANA마일",
+          "#ANA마일리지",
+          "#일본쇼핑",
+          "#일본직구",
+          "#ANA항공",
+          "#일본여행꿀팁",
+          "#해외여행",
+          "#여행정보",
+          "#마일리지활용",
+          "#쇼핑스타그램",
+          "#일본",
+          "#득템찬스"
+        ],
+        "alt_texts": [
+          "ANA Mall 로고와 함께 10% 할인 문구가 강조된 이미지",
+          "달력에 6월 15일부터 30일까지 표시된 이미지",
+          "등록 버튼을 누르는 손 모양 이미지",
+          "다양한 쇼핑 품목 (장어, 와인, 아이폰 등)을 보여주는 콜라주 이미지",
+          "마일리지 카드와 쇼핑백을 들고 웃는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: ANA 마일리지를 보유하고 있거나 일본 쇼핑에 관심 있는 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 인스타그램 활동 증가 시간) / 기대 반응: 이벤트 참여율 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 할인 혜택 제공, 구체적인 기간 및 참여 방법 명시",
+      "image": {
+        "keyword": "ANA Mall, Japan shopping, mileage, discount, event, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-Mall,-Japan-shopping,-mileage,-discount,-event,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/ANA%20Mall,%20Japan%20shopping,%20mileage,%20discount,%20event,%20limited%20time%20offer/"
+      }
+    },
     {
       "id": "plan_11eb74b0",
       "created_at": "2026-06-15T01:40:56.675183",
@@ -923,160 +1077,6 @@
         "keyword": "JAL Card, JAL Pay, mileage points, travel benefits, Japan trip",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-Card,-JAL-Pay,-mileage-points,-travel-benefits,-Japan-trip",
         "pexels_url": "https://www.pexels.com/search/JAL%20Card,%20JAL%20Pay,%20mileage%20points,%20travel%20benefits,%20Japan%20trip/"
-      }
-    },
-    {
-      "id": "plan_e7c5ddb7",
-      "created_at": "2026-06-12T01:39:52.053736",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "本日発売「スヌーピー」の超ボリュームふせんセット。大小21種類・全420枚入り",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116530.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 만날 수 있는 스누피 굿즈, 역대급 양으로 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "스누피 덕후 심쿵! 💖",
-        "cards": [
-          {
-            "title": "스누피 굿즈 출시",
-            "content": "역대급 볼륨! 스누피 초특대 사이즈 떡메모지 세트가 6월 12일 오늘 출시됐어요. 무려 21가지 디자인에 총 420매가 들어있답니다.",
-            "alt_text": "다양한 디자인의 스누피 떡메모지 세트 이미지"
-          },
-          {
-            "title": "가격 & 구매처",
-            "content": "가격은 1089엔으로, 일본 전국 서점 및 온라인 쇼핑몰에서 구매 가능해요. 한국에서 구하기 힘든 한정판이니 여행 중 꼭 득템하세요!",
-            "alt_text": "스누피 떡메모지 세트 가격 정보 및 구매처 안내 이미지"
-          },
-          {
-            "title": "여행 기념품으로 딱!",
-            "content": "귀여운 스누피 떡메모지는 일본 여행 기념품으로도 최고예요. 친구들에게 선물하기도 좋고, 직접 사용하기도 좋답니다.",
-            "alt_text": "스누피 떡메모지를 활용한 선물 포장 아이디어 이미지"
-          },
-          {
-            "title": "놓치면 후회할 양!",
-            "content": "420매라는 엄청난 양으로 두고두고 사용할 수 있어요. 스누피 팬이라면 이번 기회를 절대 놓치지 마세요!",
-            "alt_text": "스누피 떡메모지 세트의 넉넉한 양을 보여주는 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "일본 현지 서점 방문 시, 다른 귀여운 문구류도 함께 살펴보세요. 의외의 득템 찬스를 만날 수 있답니다!",
-            "alt_text": "일본 서점 문구 코너를 둘러보는 이미지"
-          }
-        ],
-        "caption": "🇯🇵 스누피 덕후들 주목! 🇯🇵\n오늘 (6월 12일)부터 일본에서 '스누피 초특대 사이즈 떡메모지 세트'가 발매되었어요! 🤩\n\n✨ 총 21가지 디자인, 420매 대용량!\n💰 가격: 1089엔\n📍 구매처: 일본 전국 서점 및 온라인 쇼핑몰\n\n여행 중 득템하기 좋은 스누피 굿즈! 기념품으로도, 직접 사용하기에도 최고랍니다. 놓치지 말고 꼭 겟하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#스누피",
-          "#스누피굿즈",
-          "#일본한정",
-          "#일본기념품",
-          "#떡메모지",
-          "#문구덕후",
-          "#여행필수템",
-          "#일본여행정보",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#쇼핑스타그램",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "다양한 디자인의 스누피 떡메모지 세트 이미지",
-          "스누피 떡메모지 세트 가격 정보 및 구매처 안내 이미지",
-          "스누피 떡메모지를 활용한 선물 포장 아이디어 이미지",
-          "스누피 떡메모지 세트의 넉넉한 양을 보여주는 이미지",
-          "일본 서점 문구 코너를 둘러보는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 스누피 팬 / 최적 게시 시간: 평일 오후 7-9시 / 기대 반응: 스누피 굿즈에 대한 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 최신 출시 정보와 구체적인 구매 정보 제공",
-      "image": {
-        "keyword": "snoopy stationery set japan",
-        "unsplash_url": "https://unsplash.com/s/photos/snoopy-stationery-set-japan",
-        "pexels_url": "https://www.pexels.com/search/snoopy%20stationery%20set%20japan/"
-      }
-    },
-    {
-      "id": "plan_6a95ba69",
-      "created_at": "2026-06-12T01:39:45.140032",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "TAOYA箱根、1泊2食が最大30％オフ。フォレストビューの露天風呂が爽快、季節のラウンジスイーツも食べ放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116533.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가성비 최고! 료칸 숙박 최대 30% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "료칸 30% 할인 꿀팁! 🤩",
-        "cards": [
-          {
-            "title": "TAOYA箱根",
-            "content": "TAOYA箱根 료칸에서 1박 2식 특가 프로모션이 진행 중이에요. 최대 30% 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "TAOYA箱根 료칸 외관 이미지"
-          },
-          {
-            "title": "할인 기간",
-            "content": "본 프로모션은 6월 20일까지 진행되는 '라쿠텐 트래블 슈퍼 세일'의 일환으로, 지금 바로 예약하시면 할인 혜택을 받을 수 있어요.",
-            "alt_text": "라쿠텐 트래블 슈퍼 세일 배너 이미지"
-          },
-          {
-            "title": "할인 방법",
-            "content": "라쿠텐 트래블에서 제공하는 쿠폰을 활용하면 최대 30%까지 할인이 가능합니다. 료칸 예약 시 쿠폰 적용을 잊지 마세요!",
-            "alt_text": "쿠폰 적용 화면 이미지"
-          },
-          {
-            "title": "매력 포인트",
-            "content": "포레스트 뷰가 멋진 노천탕과 제철 라운지 스위츠 뷔페를 즐길 수 있는 절호의 기회입니다. 힐링 여행을 계획 중이라면 놓치지 마세요!",
-            "alt_text": "료칸 노천탕 및 스위츠 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 날짜를 미리 확정하고 서둘러 예약하는 것이 좋아요. 인기 있는 료칸은 조기 마감될 수 있으니 서두르세요!",
-            "alt_text": "달력에 표시된 날짜와 료칸 예약 버튼 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 료칸에서 특별한 추억을 만들고 싶다면? ✨\nTAOYA箱根 료칸에서 1박 2식 특가 프로모션이 진행 중이에요!\n최대 30% 할인받고 힐링 가득한 시간을 보내세요. 🛀🍰\n\n👉 자세한 내용은 라쿠텐 트래블에서 확인하세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본료칸",
-          "#료칸추천",
-          "#일본숙소",
-          "#TAOYA箱根",
-          "#라쿠텐트래블",
-          "#일본온천",
-          "#가성비여행",
-          "#일본여행꿀팁",
-          "#일본여행정보",
-          "#여행할인",
-          "#일본자유여행",
-          "#해외여행",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "TAOYA箱根 료칸 외관 이미지",
-          "라쿠텐 트래블 슈퍼 세일 배너 이미지",
-          "쿠폰 적용 화면 이미지",
-          "료칸 노천탕 및 스위츠 이미지",
-          "달력에 표시된 날짜와 료칸 예약 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 료칸 숙박을 고려하는 한국인 여행자 / 최적 게시 시간: 저녁 7시 ~ 9시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율과 마감일 제시, 매력적인 료칸 특징 강조",
-      "image": {
-        "keyword": "Japanese Ryokan, Onsen, Forest View, Sweets Buffet, Discount Coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-Ryokan,-Onsen,-Forest-View,-Sweets-Buffet,-Discount-Coupon",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20Ryokan,%20Onsen,%20Forest%20View,%20Sweets%20Buffet,%20Discount%20Coupon/"
       }
     }
   ]
