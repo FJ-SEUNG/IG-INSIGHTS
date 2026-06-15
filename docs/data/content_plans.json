@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-14T05:01:22.791953",
+  "last_updated": "2026-06-15T01:40:58.675388",
   "plans": [
+    {
+      "id": "plan_11eb74b0",
+      "created_at": "2026-06-15T01:40:56.675183",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "アドベンチャーワールド、2027年3月末まで何度でも入園できる無限パス。1日券に＋3000円で",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116908.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 무제한으로 즐길 수 있는 특별한 패스 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨무제한 입장권 찬스!✨",
+        "cards": [
+          {
+            "title": "무제한 어드벤처",
+            "content": "와카야마현 시라하마에 위치한 어드벤처 월드에서 '무제한 어드벤처 패스'를 판매합니다. 2027년 3월 말까지 횟수 제한 없이 입장이 가능해요.",
+            "alt_text": "어드벤처 월드 입구와 다양한 동물들을 상징하는 이미지"
+          },
+          {
+            "title": "가격 및 기간",
+            "content": "기존 1일권 가격에 3,000엔만 추가하면 무제한 이용이 가능합니다. 이 특별한 패스는 7월 17일까지 구매할 수 있으니 서두르세요!",
+            "alt_text": "가격표와 달력이 함께 표시된 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "여러 번 방문하여 다양한 동물들을 만나고 싶거나, 장기 체류 여행자에게는 정말 매력적인 기회입니다. 3,000엔 추가로 여행의 즐거움을 무한대로 늘려보세요!",
+            "alt_text": "아이와 함께 동물을 관람하는 행복한 가족의 모습"
+          },
+          {
+            "title": "주요 어트랙션",
+            "content": "팬더를 비롯한 희귀 동물들을 만날 수 있으며, 신나는 놀이기구와 쇼까지 즐길 수 있는 복합 테마파크입니다.",
+            "alt_text": "어드벤처 월드의 대표적인 판다 캐릭터 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "패스 판매 기간과 이용 가능 기간을 꼭 확인하세요. 2027년 3월 말까지 이용 가능하지만, 구매는 7월 17일까지입니다.",
+            "alt_text": "캘린더에 7월 17일과 2027년 3월 31일이 표시된 이미지"
+          }
+        ],
+        "caption": "일본 여행 중이라면 주목! 🤩 와카야마 어드벤처 월드에서 2027년 3월 말까지 무제한 입장이 가능한 '무제한 어드벤처 패스'를 1일권에 3,000엔만 추가하면 구매할 수 있다는 사실! 🐼 7월 17일까지 판매하니, 일본 장기 여행 계획 중이거나 여러 번 방문하고 싶다면 절대 놓치지 마세요! ✈️\n\n#무제한패스 #어드벤처월드 #와카야마여행 #일본테마파크 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#어드벤처월드",
+          "#와카야마",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#일본여행준비",
+          "#일본정보",
+          "#여행꿀팁",
+          "#무제한입장권",
+          "#테마파크",
+          "#일본동물원",
+          "#여름휴가",
+          "#2027년까지"
+        ],
+        "alt_texts": [
+          "어드벤처 월드 입구와 다양한 동물들을 상징하는 이미지",
+          "가격표와 달력이 함께 표시된 이미지",
+          "아이와 함께 동물을 관람하는 행복한 가족의 모습",
+          "어드벤처 월드의 대표적인 판다 캐릭터 이미지",
+          "캘린더에 7월 17일과 2027년 3월 31일이 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 장기 체류 여행객, 여러 번 방문 희망하는 여행객 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 기간 한정 및 파격적인 혜택을 담은 실질적이고 매력적인 정보",
+      "image": {
+        "keyword": "Adventure World, Wakayama, Japan, unlimited pass, panda, theme park, travel deal, limited time offer, 2027",
+        "unsplash_url": "https://unsplash.com/s/photos/Adventure-World,-Wakayama,-Japan,-unlimited-pass,-panda,-theme-park,-travel-deal,-limited-time-offer,-2027",
+        "pexels_url": "https://www.pexels.com/search/Adventure%20World,%20Wakayama,%20Japan,%20unlimited%20pass,%20panda,%20theme%20park,%20travel%20deal,%20limited%20time%20offer,%202027/"
+      }
+    },
+    {
+      "id": "plan_eeb6da20",
+      "created_at": "2026-06-15T01:40:50.108495",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡～山口の高速バス「萩・長門おとずれ号」が片道最大1500円引き、8月末まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2116922.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카-야마구치 구간 고속버스 최대 1500엔 할인 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "🚌후쿠오카-야마구치 1500엔 할인!🚌",
+        "cards": [
+          {
+            "title": "특별 할인",
+            "content": "후쿠오카와 야마구치를 잇는 고속버스 '萩・長門おとずれ号'가 특별 할인 캠페인을 진행해요. 여름 한정으로 최대 1500엔까지 할인받을 수 있습니다.",
+            "alt_text": "고속버스 할인 정보"
+          },
+          {
+            "title": "할인 기간",
+            "content": "이 특별 할인은 7월 13일부터 8월 31일까지 진행됩니다. 여행 계획 세우실 때 꼭 참고하세요!",
+            "alt_text": "할인 기간 표시"
+          },
+          {
+            "title": "운행 구간",
+            "content": "할인 대상은 후쿠오카와 야마구치(나가토/하기)를 오가는 '萩・長門おとずれ号' 노선입니다.",
+            "alt_text": "버스 노선도"
+          },
+          {
+            "title": "할인 금액",
+            "content": "할인 금액은 구간에 따라 다르지만, 최대 1500엔까지 할인 혜택을 받을 수 있어요. 자세한 내용은 현장에서 확인해보세요.",
+            "alt_text": "할인 금액 예시"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여름 성수기 기간이라 좌석이 빠르게 매진될 수 있으니, 미리 예매하시는 것을 추천합니다. 후쿠오카에서 야마구치로 이동 시 유용한 정보가 될 거예요!",
+            "alt_text": "여행 꿀팁"
+          }
+        ],
+        "caption": "✈️일본 여행 필수 정보!✈️\n후쿠오카에서 야마구치(나가토/하기)로 가는 고속버스 '萩・長門おとずれ号'를 최대 1500엔 할인된 가격으로 이용할 수 있는 여름 특별 캠페인이 시작되었어요! 🤩\n\n✅ 기간: 7월 13일 ~ 8월 31일\n✅ 할인: 최대 1500엔\n✅ 노선: 후쿠오카 ⇔ 나가토/하기\n\n지금 바로 여름 여행 계획에 추가해보세요! ☀️\n\n#일본여행 #후쿠오카여행 #야마구치여행 #고속버스할인 #일본교통 #여름휴가 #플라잉재팬 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#야마구치",
+          "#萩長門おとずれ号",
+          "#일본교통",
+          "#고속버스",
+          "#여름휴가",
+          "#일본할인",
+          "#여행정보",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본버스",
+          "#여행필수템"
+        ],
+        "alt_texts": [
+          "고속버스 할인 정보",
+          "할인 기간 표시",
+          "버스 노선도",
+          "할인 금액 예시",
+          "여행 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 또는 야마구치 지역을 여행하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 정보 유용성에 대한 긍정적 반응, 저장 및 공유 증가 / 이 콘텐츠의 강점: 구체적인 할인 정보와 기간을 명확히 제시하여 실질적인 도움을 제공함",
+      "image": {
+        "keyword": "japan highway bus discount",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-bus-discount",
+        "pexels_url": "https://www.pexels.com/search/japan%20highway%20bus%20discount/"
+      }
+    },
     {
       "id": "plan_193dd1ee",
       "created_at": "2026-06-14T05:01:20.791796",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese Ryokan, Onsen, Forest View, Sweets Buffet, Discount Coupon",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-Ryokan,-Onsen,-Forest-View,-Sweets-Buffet,-Discount-Coupon",
         "pexels_url": "https://www.pexels.com/search/Japanese%20Ryokan,%20Onsen,%20Forest%20View,%20Sweets%20Buffet,%20Discount%20Coupon/"
-      }
-    },
-    {
-      "id": "plan_9f326e7b",
-      "created_at": "2026-06-11T04:55:38.886779",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "グランスタ東京「地下 丸の内改札内エリア」9月中旬オープン。東京駅限定や新ブランド含む26店舗発表",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116039.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역 쇼핑 성지, 9월 중순 오픈 예정! 도쿄역 한정템 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 도쿄역 9월 오픈! 🛍️",
-        "cards": [
-          {
-            "title": "✨ 새롭게 오픈!",
-            "content": "JR 도쿄역의 에키나카 상업 시설 '그란스타 도쿄'의 일부 구역이 '지하 마루노우치 개찰구 내 구역'으로 9월 중순 리뉴얼 오픈합니다.",
-            "alt_text": "도쿄역 내부의 쇼핑몰 이미지"
-          },
-          {
-            "title": "🛒 26개 점포 입점",
-            "content": "도쿄역 한정 상품을 판매하는 매장과 새로운 브랜드 포함 총 26개 점포가 새롭게 선보일 예정입니다.",
-            "alt_text": "다양한 쇼핑백이 쌓여있는 이미지"
-          },
-          {
-            "title": "🎁 도쿄 한정템",
-            "content": "여행 기념품이나 선물로 딱 좋은 도쿄역에서만 구매 가능한 특별한 상품들을 만날 수 있습니다.",
-            "alt_text": "일본 기념품 가게 진열대 이미지"
-          },
-          {
-            "title": "📍 위치 확인 필수",
-            "content": "새로운 구역은 '지하 마루노우치 개찰구 내'에 위치하며, 오픈 시기에 맞춰 방문 계획을 세우는 것이 좋습니다.",
-            "alt_text": "도쿄역 안내 표지판 이미지"
-          },
-          {
-            "title": "💡 꿀팁!",
-            "content": "오픈 직후에는 사람이 몰릴 수 있으니, 조금 이른 시간이나 평일에 방문하면 여유롭게 쇼핑을 즐길 수 있습니다.",
-            "alt_text": "쇼핑하는 사람들의 모습"
-          }
-        ],
-        "caption": "🇯🇵 도쿄 여행 필수 코스! 도쿄역이 더욱 새롭게 태어납니다! 🛍️\n9월 중순, 도쿄역 '그란스타 도쿄' 지하 마루노우치 개찰구 내 구역이 26개 점포와 함께 리뉴얼 오픈 예정!\n도쿄 한정템 득템 찬스를 놓치지 마세요! ✨\n\n✅ 지금 바로 일본 여행 계획에 추가하세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄역",
-          "#그란스타도쿄",
-          "#일본쇼핑",
-          "#도쿄쇼핑",
-          "#일본한정",
-          "#여행정보",
-          "#일본신상",
-          "#도쿄",
-          "#여행꿀팁",
-          "#9월일본",
-          "#에키나카",
-          "#JR동일본"
-        ],
-        "alt_texts": [
-          "도쿄역 내부의 쇼핑몰 이미지",
-          "다양한 쇼핑백이 쌓여있는 이미지",
-          "일본 기념품 가게 진열대 이미지",
-          "도쿄역 안내 표지판 이미지",
-          "쇼핑하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 8시 / 기대 반응: 높은 관심과 공유, 실제 방문 계획 수립 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 점포 수, 도쿄 한정템이라는 매력 포인트 강조",
-      "image": {
-        "keyword": "Tokyo Station shopping mall, Japanese souvenirs, new store opening Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-shopping-mall,-Japanese-souvenirs,-new-store-opening-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20shopping%20mall,%20Japanese%20souvenirs,%20new%20store%20opening%20Japan/"
-      }
-    },
-    {
-      "id": "plan_da2d3f00",
-      "created_at": "2026-06-11T04:55:30.260439",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "高速バス 岡山～神戸・三宮線、神戸空港1タミまで延伸。所要時間は2時50分～3時間30分",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116120.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오카야마-고베 공항 직통 버스 개통으로 일본 여행 동선이 더 편리해져요!"
-      },
-      "content": {
-        "thumbnail_title": "✨오카야마-고베공항 직통 버스 개통!✨",
-        "cards": [
-          {
-            "title": "운행 시작!",
-            "content": "2024년 7월 18일부터 오카야마-고베/산노미야 노선 일부가 고베 공항 제1터미널까지 연장 운행됩니다.",
-            "alt_text": "버스가 고속도로를 달리는 모습"
-          },
-          {
-            "title": "이동 시간",
-            "content": "이번 연장으로 오카야마에서 고베 공항까지 환승 없이 한 번에 이동 가능하며, 예상 소요 시간은 2시간 50분에서 3시간 30분입니다.",
-            "alt_text": "지도에 표시된 오카야마와 고베 공항 구간"
-          },
-          {
-            "title": "새로운 노선",
-            "content": "료비 버스, 중철 버스, 신키 버스가 공동 운행하며, 오카야마 현에서 고베 공항까지 더욱 편리하게 접근할 수 있습니다.",
-            "alt_text": "버스 회사 로고 모음"
-          },
-          {
-            "title": "여행 동선 UP!",
-            "content": "일본 중부 지역 여행 시 오카야마에서 고베 공항으로 이동하는 여행객들에게 매우 유용한 정보가 될 것입니다.",
-            "alt_text": "캐리어를 끄는 여행객의 뒷모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "출발 전 각 버스 회사의 공식 홈페이지에서 정확한 운행 시간표와 예약 정보를 확인하는 것을 추천합니다.",
-            "alt_text": "스마트폰으로 버스 티켓을 예매하는 모습"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 중 이동이 훨씬 편리해져요! 🇯🇵\n\n7월 18일부터 오카야마-고베/산노미야 고속버스가 고베 공항 제1터미널까지 연장 운행됩니다.\n\n이제 오카야마에서 고베 공항까지 환승 없이 한 번에 이동 가능! (예상 소요 시간: 2시간 50분 ~ 3시간 30분)\n\n일본 중부 여행 계획 중이시라면, 이 새로운 교통 정보를 꼭 기억하세요! 😉\n\n#일본여행 #플라잉재팬 #고베여행 #오카야마여행 #일본교통 #고속버스 #여행꿀팁 #일본자유여행 #여행정보 #일본정보 #여행스타그램 #일본 #고베공항 #오카야마 #버스노선",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#고베여행",
-          "#오카야마여행",
-          "#일본교통",
-          "#고속버스",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#여행정보",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본",
-          "#고베공항",
-          "#오카야마",
-          "#버스노선"
-        ],
-        "alt_texts": [
-          "버스가 고속도로를 달리는 모습",
-          "지도에 표시된 오카야마와 고베 공항 구간",
-          "버스 회사 로고 모음",
-          "캐리어를 끄는 여행객의 뒷모습",
-          "스마트폰으로 버스 티켓을 예매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 중부 지역(오카야마 등)을 방문하거나, 오카야마를 거쳐 고베 공항을 이용하려는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 시간과 경비를 절약할 수 있는 실질적인 교통 정보 제공",
-      "image": {
-        "keyword": "japan bus, highway bus, kobe airport, okayama, travel, transportation, convenience",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-bus,-highway-bus,-kobe-airport,-okayama,-travel,-transportation,-convenience",
-        "pexels_url": "https://www.pexels.com/search/japan%20bus,%20highway%20bus,%20kobe%20airport,%20okayama,%20travel,%20transportation,%20convenience/"
       }
     }
   ]
