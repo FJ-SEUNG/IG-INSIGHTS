@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-16T01:46:43.294161",
+  "last_updated": "2026-06-16T05:25:18.064373",
   "plans": [
+    {
+      "id": "plan_05810a74",
+      "created_at": "2026-06-16T05:25:16.064188",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "徳島県、7月19日「ブルーインパルス」飛行ルート発表。蒲生田岬から大鳴門橋へ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2117311.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 볼 수 있는 특별한 하늘 쇼, 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 7/19 徳島 블루인팔스 ✈️",
+        "cards": [
+          {
+            "title": "블루인팔스 ✈️",
+            "content": "일본 항공자위대 특수 비행팀 '블루인팔스'가 7월 19일 徳島현에서 특별 비행을 선보입니다. ✈️",
+            "alt_text": "하늘을 나는 파란색 전투기 편대"
+          },
+          {
+            "title": "비행 경로 📍",
+            "content": "주요 비행 경로는 蒲生田岬에서 시작하여 大鳴門橋 상공까지 이어집니다. 🌊",
+            "alt_text": "일본 지도에 표시된 비행 경로"
+          },
+          {
+            "title": "행사 정보 🗓️",
+            "content": "이번 비행은 '小松島港まつり2026' 75주년 기념 사업의 일환으로 진행됩니다. 🎆",
+            "alt_text": "축제 포스터 이미지"
+          },
+          {
+            "title": "시간 및 장소 ⏰",
+            "content": "정확한 비행 시간은 추후 발표될 예정이며, 徳島현 남동부 연안 지역에서 관람 가능합니다. 📍",
+            "alt_text": "시간과 장소를 나타내는 아이콘"
+          },
+          {
+            "title": "꿀팁! 📸",
+            "content": "최적의 촬영 장소를 미리 파악하고, 날씨 변화에 대비하세요. 徳島현의 아름다운 풍경과 함께 멋진 사진을 남길 수 있습니다! 🤩",
+            "alt_text": "블루인팔스 비행을 촬영하는 사람"
+          }
+        ],
+        "caption": "✈️ 7월 19일, 徳島에서 펼쳐지는 환상적인 하늘 쇼! ✈️\n일본 항공자위대의 '블루인팔스'가 徳島현 하늘을 수놓습니다. 🌊蒲生田岬에서 大鳴門橋까지 이어지는 특별한 비행을 놓치지 마세요! 🎆\n#小松島港まつり 기념으로 펼쳐지는 이번 행사는 徳島현 남동부 연안에서 관람 가능합니다.\n자세한 시간은 추후 발표되니, 최신 정보를 꼭 확인하세요! 🤩\n#일본여행 #徳島 #블루인팔스 #하늘쇼 #이벤트 #축제 #여행정보 #플라잉재팬 #일본이벤트 #항공쇼 #일본축제 #여행꿀팁 #일본관광 #특별한경험",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#徳島",
+          "#블루인팔스",
+          "#하늘쇼",
+          "#이벤트",
+          "#축제",
+          "#여행정보",
+          "#일본이벤트",
+          "#항공쇼",
+          "#일본축제",
+          "#여행꿀팁",
+          "#일본관광",
+          "#특별한경험",
+          "#7월여행"
+        ],
+        "alt_texts": [
+          "하늘을 나는 파란색 전투기 편대",
+          "일본 지도에 표시된 비행 경로",
+          "축제 포스터 이미지",
+          "시간과 장소를 나타내는 아이콘",
+          "블루인팔스 비행을 촬영하는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 한국에서는 보기 힘든 특별한 이벤트 정보로 희소성 높음",
+      "image": {
+        "keyword": "Blue Impulse air show in Japan, Tokushima, Gamo-da Cape, O-naruto Bridge, air festival",
+        "unsplash_url": "https://unsplash.com/s/photos/Blue-Impulse-air-show-in-Japan,-Tokushima,-Gamo-da-Cape,-O-naruto-Bridge,-air-festival",
+        "pexels_url": "https://www.pexels.com/search/Blue%20Impulse%20air%20show%20in%20Japan,%20Tokushima,%20Gamo-da%20Cape,%20O-naruto%20Bridge,%20air%20festival/"
+      }
+    },
+    {
+      "id": "plan_8a97ef64",
+      "created_at": "2026-06-16T05:25:06.611651",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "USJ、夏の屋台メニュー登場！　金魚レモンサイダーにチョコバナナチュリトスなど6月29日発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2117505.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "USJ 여름 한정 메뉴로 시원하고 달콤하게! 🎆"
+      },
+      "content": {
+        "thumbnail_title": "USJ 여름 한정 메뉴 ⛱️",
+        "cards": [
+          {
+            "title": "여름 한정 메뉴",
+            "content": "유니버설 스튜디오 재팬에서 7월 1일 시작되는 여름 이벤트와 함께 특별한 여름 메뉴를 선보입니다. 6월 29일부터 만나볼 수 있어요!",
+            "alt_text": "유니버설 스튜디오 재팬 여름 축제 테마의 음식과 음료"
+          },
+          {
+            "title": "시원한 음료",
+            "content": "눈길을 사로잡는 '금붕어 레몬 사이더'는 물론, 여름 분위기를 물씬 풍기는 다양한 음료가 준비되어 있습니다. 더위를 식혀줄 거예요!",
+            "alt_text": "반짝이는 금붕어 모양이 들어간 상큼한 레몬 사이더 음료"
+          },
+          {
+            "title": "달콤한 간식",
+            "content": "인기 메뉴인 '초코 바나나 츄리토스'도 여름 한정으로 새롭게 선보입니다. USJ에서의 즐거움을 더해줄 완벽한 간식이에요.",
+            "alt_text": "달콤한 초콜릿과 바나나 토핑이 올라간 츄리토스"
+          },
+          {
+            "title": "다양한 메뉴",
+            "content": "총 6가지 종류의 여름 한정 푸드 메뉴가 출시됩니다. 방문 전에 어떤 메뉴를 먹을지 미리 계획해 보세요!",
+            "alt_text": "다양한 종류의 USJ 여름 한정 푸드 메뉴 사진 모음"
+          },
+          {
+            "title": "방문 팁",
+            "content": "6월 29일부터 판매 시작이니, 여름 이벤트 기간에 맞춰 방문하신다면 놓치지 말고 꼭 맛보세요! 사진 찍기에도 좋은 메뉴들이랍니다.",
+            "alt_text": "USJ 여름 한정 메뉴를 즐기는 관광객들의 모습"
+          }
+        ],
+        "caption": "✨ USJ에서 펼쳐지는 시원하고 달콤한 여름! ✨\n\n7월 1일부터 시작되는 USJ 여름 이벤트 '유니버설・서머・마츠리・나이트 ～네온・그로우업～'에 맞춰, 6월 29일부터 특별한 여름 한정 메뉴들이 출시됩니다! 🎆\n\n눈이 즐거운 '금붕어 레몬 사이더'부터 달콤한 '초코 바나나 츄리토스'까지! 6가지 다채로운 메뉴들로 USJ에서의 여름 추억을 더욱 특별하게 만들어 보세요. 💖\n\n#USJ #유니버설스튜디오재팬 #일본여행 #오사카여행 #여름휴가 #일본축제 #플라잉재팬 #해외여행 #여행꿀팁 #먹스타그램 #디저트 #한정메뉴 #여름음식 #일본맛집 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#USJ",
+          "#유니버설스튜디오재팬",
+          "#오사카여행",
+          "#여름휴가",
+          "#일본축제",
+          "#해외여행",
+          "#여행꿀팁",
+          "#먹스타그램",
+          "#디저트",
+          "#한정메뉴",
+          "#여름음식",
+          "#일본맛집",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "유니버설 스튜디오 재팬 여름 축제 테마의 음식과 음료",
+          "반짝이는 금붕어 모양이 들어간 상큼한 레몬 사이더 음료",
+          "달콤한 초콜릿과 바나나 토핑이 올라간 츄리토스",
+          "다양한 종류의 USJ 여름 한정 푸드 메뉴 사진 모음",
+          "USJ 여름 한정 메뉴를 즐기는 관광객들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 USJ 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 메뉴 정보 공유, 방문 욕구 자극 / 이 콘텐츠의 강점: USJ라는 인기 테마파크의 최신 한정 메뉴 정보로 즉각적인 관심 유도, 시각적으로 매력적인 메뉴 소개",
+      "image": {
+        "keyword": "USJ summer limited food menu, goldfish lemon cider, chocolate banana churritos, Universal Studios Japan summer festival",
+        "unsplash_url": "https://unsplash.com/s/photos/USJ-summer-limited-food-menu,-goldfish-lemon-cider,-chocolate-banana-churritos,-Universal-Studios-Japan-summer-festival",
+        "pexels_url": "https://www.pexels.com/search/USJ%20summer%20limited%20food%20menu,%20goldfish%20lemon%20cider,%20chocolate%20banana%20churritos,%20Universal%20Studios%20Japan%20summer%20festival/"
+      }
+    },
     {
       "id": "plan_e8b2dc1e",
       "created_at": "2026-06-16T01:46:41.293970",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Monorail Hamamatsucho Station renovation",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Monorail-Hamamatsucho-Station-renovation",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Monorail%20Hamamatsucho%20Station%20renovation/"
-      }
-    },
-    {
-      "id": "plan_5bfeff13",
-      "created_at": "2026-06-13T01:34:31.509804",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、7～8月発券分の燃油サーチャージ値上げ。韓国6500円→7400円、ハワイ3万4700円→4万400円、北米欧州5万6000円→6万5000円に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116904.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본행 항공권, 7~8월 발권 시 유류할증료 인상 예정!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 유류할증료 인상! ✈️",
-        "cards": [
-          {
-            "title": "유류할증료 인상",
-            "content": "JAL은 2024년 7월 1일부터 8월 31일까지 발권하는 국제선 항공권에 적용되는 유류할증료를 인상합니다. 한국 노선도 예외가 아닙니다.",
-            "alt_text": "JAL 항공기 이미지"
-          },
-          {
-            "title": "한국 노선 가격",
-            "content": "현재 6,500원인 한국 노선 유류할증료가 7,400원으로 인상됩니다. 약 900원 정도의 추가 비용이 발생합니다.",
-            "alt_text": "한국 지도와 비행기 아이콘"
-          },
-          {
-            "title": "발권 시기 중요!",
-            "content": "7월 1일 이전에 발권하면 기존 요금이 적용되지만, 7월 1일 이후 발권 시 인상된 요금이 적용됩니다. 여행 계획을 미리 세우세요!",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "기타 노선 인상",
-            "content": "하와이 노선은 34,700원에서 40,400원으로, 북미/유럽 노선은 56,000원에서 65,000원으로 인상됩니다.",
-            "alt_text": "다양한 국가 국기 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인상 전에 미리 항공권을 발권하거나, 다른 항공사의 요금을 비교해보는 것을 추천합니다. 또한, LCC(저비용항공사)는 유류할증료 변동이 적거나 없는 경우가 많으니 함께 확인해보세요!",
-            "alt_text": "동전과 지폐 이미지"
-          }
-        ],
-        "caption": "🚨 JAL 유류할증료 인상 예정! 🚨\n\n7월 1일부터 8월 31일까지 발권하는 JAL 항공권, 유류할증료가 오른다는 소식입니다!\n\n✈️ 한국 노선: 6,500원 → 7,400원\n\n인상 전에 미리 발권하시거나, 다른 항공사 및 LCC 가격 비교는 필수! \n\n#일본여행 #항공권 #유류할증료 #JAL #플라잉재팬 #여행정보 #일본항공권 #여행꿀팁 #7월여행 #8월여행 #여행준비 #항공권예약 #해외여행 #여행스타그램 #여행에미치다",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#유류할증료",
-          "#항공권",
-          "#일본항공권",
-          "#여행정보",
-          "#여행꿀팁",
-          "#7월여행",
-          "#8월여행",
-          "#여행준비",
-          "#항공권예약",
-          "#해외여행",
-          "#여행스타그램",
-          "#여행에미치다"
-        ],
-        "alt_texts": [
-          "JAL 항공기 이미지",
-          "한국 지도와 비행기 아이콘",
-          "달력 이미지",
-          "다양한 국가 국기 이미지",
-          "동전과 지폐 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시~9시, 주말 오후 1시~3시 / 기대 반응: 항공권 가격 변동에 대한 관심과 정보 습득 / 이 콘텐츠의 강점: 시기적절한 정보 제공으로 여행 계획에 실질적인 도움 제공",
-      "image": {
-        "keyword": "JAL airplane, fuel surcharge increase, flight ticket price, Japan travel, Korean tourist",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-fuel-surcharge-increase,-flight-ticket-price,-Japan-travel,-Korean-tourist",
-        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20fuel%20surcharge%20increase,%20flight%20ticket%20price,%20Japan%20travel,%20Korean%20tourist/"
-      }
-    },
-    {
-      "id": "plan_b0bf0241",
-      "created_at": "2026-06-13T01:34:25.158304",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語、全国17か所でプール夏季営業。全天候型の流れるプールや巨大スライダー、大人のリゾート風も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116926.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "시원하게 즐기는 일본 여름, 17곳 온천 테마파크에서 수영 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 여름 수영 17곳!♨️",
-        "cards": [
-          {
-            "title": "여름 한정 개장!",
-            "content": "오에도 온천 이야기 그룹에서 전국 17개 지점에서 수영장 여름 영업을 시작합니다. 시원한 물놀이를 즐길 수 있는 절호의 찬스!",
-            "alt_text": "일본 온천 리조트에서 여름 수영장 개장 안내 이미지"
-          },
-          {
-            "title": "다양한 즐길 거리",
-            "content": "실내에서 즐기는 유수풀과 짜릿한 대형 슬라이더, 어른들을 위한 리조트풍 공간까지! 온 가족 모두 만족할 수 있는 시설이 준비되어 있습니다.",
-            "alt_text": "일본 테마파크 수영장의 유수풀과 슬라이더 이미지"
-          },
-          {
-            "title": "전국 17개 지점",
-            "content": "도쿄를 비롯한 전국 각지의 오에도 온천 이야기 시설에서 여름 수영장을 운영합니다. 여행 계획에 맞춰 가까운 곳을 선택해 보세요.",
-            "alt_text": "일본 지도에 17개 지점 표시된 이미지"
-          },
-          {
-            "title": "여름 휴가 만끽",
-            "content": "더운 여름, 일본 여행 중 시원한 물놀이를 찾고 있다면 이곳이 정답! 잊지 못할 여름 추억을 만들어 보세요.",
-            "alt_text": "일본 온천 테마파크에서 즐겁게 물놀이하는 가족 이미지"
-          },
-          {
-            "title": "방문 전 확인!",
-            "content": "정확한 영업 기간, 운영 시간, 입장료 등은 방문 전 각 지점의 공식 정보를 꼭 확인하시기 바랍니다. 예약이 필요한 경우도 있으니 미리 체크하세요!",
-            "alt_text": "일본 온천 수영장 이용 안내 및 주의사항 아이콘 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 시원한 여름을 즐기고 싶다면? ☀️\n오에도 온천 이야기에서 전국 17개 지점에서 여름 한정 수영장 영업을 시작했어요! 🏊‍♀️\n실내 유수풀, 대형 슬라이더, 리조트풍 공간까지! 🤩\n어른부터 아이까지 모두 즐거운 시간을 보낼 수 있답니다. 👨‍👩‍👧‍👦\n이번 여름, 일본에서 시원한 추억을 만들어 보세요! ✨\n\n#일본여행 #플라잉재팬 #일본여름 #여름휴가 #온천 #수영장 #테마파크 #일본축제 #가족여행 #일본정보 #여행꿀팁 #오에도온천이야기 #물놀이 #여름여행 #일본가볼만한곳",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본여름",
-          "#여름휴가",
-          "#온천",
-          "#수영장",
-          "#테마파크",
-          "#일본축제",
-          "#가족여행",
-          "#일본정보",
-          "#여행꿀팁",
-          "#오에도온천이야기",
-          "#물놀이",
-          "#여름여행",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "일본 온천 리조트에서 여름 수영장 개장 안내 이미지",
-          "일본 테마파크 수영장의 유수풀과 슬라이더 이미지",
-          "일본 지도에 17개 지점 표시된 이미지",
-          "일본 온천 테마파크에서 즐겁게 물놀이하는 가족 이미지",
-          "일본 온천 수영장 이용 안내 및 주의사항 아이콘 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시~7시 (주말 여행 계획 시점) / 기대 반응: 수영장 정보에 대한 높은 관심, 방문 문의 증가 / 이 콘텐츠의 강점: 일본 내 여러 지역에서 이용 가능한 여름 시즌 한정 특별 정보",
-      "image": {
-        "keyword": "japan summer pool, onsen theme park, waterslide, indoor pool, resort style, family fun, travel japan",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-pool,-onsen-theme-park,-waterslide,-indoor-pool,-resort-style,-family-fun,-travel-japan",
-        "pexels_url": "https://www.pexels.com/search/japan%20summer%20pool,%20onsen%20theme%20park,%20waterslide,%20indoor%20pool,%20resort%20style,%20family%20fun,%20travel%20japan/"
       }
     }
   ]
