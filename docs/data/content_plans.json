@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-16T05:25:18.064373",
+  "last_updated": "2026-06-17T01:41:50.847128",
   "plans": [
+    {
+      "id": "plan_774224cc",
+      "created_at": "2026-06-17T01:41:48.846945",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "学生限定、ディズニーまでの往復「こだま」号が半額になる「静岡ユース★おでかけきっぷ」。2026年も発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2117670.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "학생이라면 놓칠 수 없는 도쿄 디즈니랜드 왕복 교통비 반값 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "학생 도쿄 디즈니 50% 할인!✈️",
+        "cards": [
+          {
+            "title": "교통권 정보",
+            "content": "JR 도카이에서 '시즈오카 유스★오데카케 킷푸'를 6월 18일부터 8월 28일까지 판매합니다. 이 티켓은 학생들을 대상으로 도쿄 디즈니랜드까지 가는 '고다마'호 왕복 운임을 반값에 제공합니다.",
+            "alt_text": "JR 도카이 열차 티켓 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "이용 가능 기간은 7월 18일부터 8월 6일, 그리고 8월 17일부터 30일까지입니다. 작년보다 14일에서 34일로 이용 기간이 대폭 확대되었습니다.",
+            "alt_text": "달력에 표시된 이용 가능 기간"
+          },
+          {
+            "title": "판매 방식",
+            "content": "이용 시작일별로 판매 매수에 제한이 있습니다. 인기 있는 날짜는 조기 매진될 수 있으니 서둘러 구매하는 것이 좋습니다.",
+            "alt_text": "매진 임박 표시"
+          },
+          {
+            "title": "대상",
+            "content": "일본 학생증을 소지한 학생이라면 누구나 이용 가능합니다. (외국인 학생은 해당되지 않을 수 있으니 상세 규정 확인 필요)",
+            "alt_text": "학생증 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획이 있다면 지금 바로 JR 도카이 공식 웹사이트를 확인하세요! 여름방학 기간 동안 도쿄 디즈니랜드를 저렴하게 방문할 절호의 기회입니다.",
+            "alt_text": "디즈니랜드 성 이미지"
+          }
+        ],
+        "caption": "일본 거주 학생이라면 주목! 🤩\nJR 도카이에서 '시즈오카 유스★오데카케 킷푸'를 판매해요.\n도쿄 디즈니랜드까지 가는 '고다마'호 왕복 운임이 무려 반값! 💰\n이용 기간도 7월 18일~8월 6일, 8월 17일~30일까지로 넉넉해요.\n학생이라면 놓치지 마세요! 🏃‍♀️💨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#JR",
+          "#도쿄디즈니랜드",
+          "#학생할인",
+          "#일본생활",
+          "#여행정보",
+          "#여름방학",
+          "#일본자유여행",
+          "#디즈니",
+          "#일본",
+          "#여행꿀팁",
+          "#할인정보",
+          "#시즈오카"
+        ],
+        "alt_texts": [
+          "JR 도카이 열차 티켓 이미지",
+          "달력에 표시된 이용 가능 기간",
+          "매진 임박 표시",
+          "학생증 이미지",
+          "디즈니랜드 성 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 거주 학생 여행객 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 정보 공유 및 문의 폭증 / 이 콘텐츠의 강점: 특정 대상에게 매우 매력적인 파격 할인 정보",
+      "image": {
+        "keyword": "JR train, Tokyo Disneyland, student discount ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train,-Tokyo-Disneyland,-student-discount-ticket",
+        "pexels_url": "https://www.pexels.com/search/JR%20train,%20Tokyo%20Disneyland,%20student%20discount%20ticket/"
+      }
+    },
+    {
+      "id": "plan_30c1eee3",
+      "created_at": "2026-06-17T01:41:40.909261",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "北海道グルメが抽選100名に当たる。「HOKKAIDO LOVE！」LINE公式アカウントで応募",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2117681.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "홋카이도 인기 먹거리 100명에게 쏜다! 놓치면 후회할 기회!"
+      },
+      "content": {
+        "thumbnail_title": "홋카이도 미식 찬스 🎁",
+        "cards": [
+          {
+            "title": "이벤트 참여!",
+            "content": "홋카이도 관광기구가 'HOKKAIDO LOVE! LINE 공식 계정' 리뉴얼 기념으로 특별한 선물을 준비했어요. 홋카이도의 맛있는 먹거리를 100명에게 선물합니다!",
+            "alt_text": "홋카이도 먹거리 선물 이벤트 안내 이미지"
+          },
+          {
+            "title": "참여 방법은?",
+            "content": "'HOKKAIDO LOVE! LINE 공식 계정'에서 진행되는 선물 캠페인에 참여하시면 됩니다. 자세한 참여 방법은 해당 계정에서 확인하세요.",
+            "alt_text": "LINE 앱에서 HOKKAIDO LOVE! 계정 검색 화면"
+          },
+          {
+            "title": "누가 참여 가능?",
+            "content": "일본 여행을 계획 중이거나 홋카이도에 관심 있는 누구나 참여 가능합니다. 100명 한정 기회를 놓치지 마세요!",
+            "alt_text": "다양한 홋카이도 음식 사진 콜라주"
+          },
+          {
+            "title": "홋카이도 맛집 탐방!",
+            "content": "이번 기회를 통해 홋카이도의 신선한 해산물, 라멘, 디저트 등 다양한 미식을 경험해보세요. 여행 계획에 특별한 즐거움을 더할 수 있습니다.",
+            "alt_text": "홋카이도 대표 음식 사진 (예: 털게, 라멘)"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "이벤트 기간 및 자세한 참여 방법은 'HOKKAIDO LOVE! LINE 공식 계정'을 통해 꼭 확인하시고, 홋카이도 미식을 맛볼 수 있는 행운의 주인공이 되세요!",
+            "alt_text": "LINE 앱에서 이벤트 참여 버튼 강조 이미지"
+          }
+        ],
+        "caption": "홋카이도 여행 계획 중이신가요? ✈️\n\n지금 홋카이도에서 특별한 미식 이벤트를 진행 중이에요! 🎁\n\n'HOKKAIDO LOVE! LINE 공식 계정' 리뉴얼 기념으로 홋카이도의 맛있는 먹거리를 무려 100명에게 선물한다고 합니다! 🤩\n\n여행 계획 세우면서 꿀정보 얻어가세요! ✨\n\n#홋카이도 #홋카이도여행 #일본여행 #이벤트 #선물 #맛집 #먹스타그램 #여행스타그램 #플라잉재팬 #여행정보 #일본음식 #LINE이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도",
+          "#홋카이도여행",
+          "#홋카이도맛집",
+          "#일본이벤트",
+          "#LINE이벤트",
+          "#홋카이도음식",
+          "#일본먹거리",
+          "#여행꿀팁",
+          "#여행정보",
+          "#일본자유여행",
+          "#여행준비",
+          "#인스타여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "홋카이도 먹거리 선물 이벤트 안내 이미지",
+          "LINE 앱에서 HOKKAIDO LOVE! 계정 검색 화면",
+          "다양한 홋카이도 음식 사진 콜라주",
+          "홋카이도 대표 음식 사진 (예: 털게, 라멘)",
+          "LINE 앱에서 이벤트 참여 버튼 강조 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 여행 예정인 한국인 여행자 / 최적 게시 시간: 금요일 오후 7시 / 기대 반응: 이벤트 참여율 증가, 홋카이도 여행 관심도 상승 / 이 콘텐츠의 강점: 실질적인 혜택 제공, 참여 방법 명확 안내",
+      "image": {
+        "keyword": "Hokkaido food giveaway LINE campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-food-giveaway-LINE-campaign",
+        "pexels_url": "https://www.pexels.com/search/Hokkaido%20food%20giveaway%20LINE%20campaign/"
+      }
+    },
     {
       "id": "plan_05810a74",
       "created_at": "2026-06-16T05:25:16.064188",
@@ -923,160 +1077,6 @@
         "keyword": "japan highway pass, fukushima travel, northeast japan, toll discount, travel deal",
         "unsplash_url": "https://unsplash.com/s/photos/japan-highway-pass,-fukushima-travel,-northeast-japan,-toll-discount,-travel-deal",
         "pexels_url": "https://www.pexels.com/search/japan%20highway%20pass,%20fukushima%20travel,%20northeast%20japan,%20toll%20discount,%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_ff9db454",
-      "created_at": "2026-06-13T04:43:38.389400",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "歴史めぐりがお得「（ICOCAでGO）和歌山市って何？周遊パス」。鉄道・バス乗り放題、ラーメン店で特典も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2116846.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 간사이 지역 여행 시 교통비 절약 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "JR 서일본 & 난카이 전철 꿀딜! 🤩",
-        "cards": [
-          {
-            "title": "새로운 디지털 티켓!",
-            "content": "JR 서일본, 난카이 전철, 와카야마 전철, 와카야마 버스, 와카야마시 관광협회가 함께 'ICOCA로 GO 와카야마시란 무엇? 주유 패스'를 출시합니다. 6월 15일부터 KANSAI MaaS 웹사이트 및 앱에서 구매 가능합니다.",
-            "alt_text": "와카야마 지역 지도와 교통수단 아이콘"
-          },
-          {
-            "title": "교통 무제한!",
-            "content": "이 패스를 이용하면 와카야마 시내의 철도와 버스를 자유롭게 이용할 수 있습니다. 여러 교통수단을 갈아타며 여행할 때 매우 유용합니다.",
-            "alt_text": "다양한 교통수단(기차, 버스)을 이용하는 사람들의 모습"
-          },
-          {
-            "title": "식사 혜택까지!",
-            "content": "단순히 교통만 해결되는 것이 아닙니다. 와카야마 지역의 특정 라멘 가게에서도 특별한 혜택을 받을 수 있습니다.",
-            "alt_text": "맛있어 보이는 라멘 사진"
-          },
-          {
-            "title": "스마트한 여행!",
-            "content": "디지털 티켓이라 편리하게 이용 가능하며, 앱을 통해 구매 및 사용이 가능합니다. 여행 계획 시 꼭 확인해보세요.",
-            "alt_text": "스마트폰으로 앱을 이용하는 모습"
-          },
-          {
-            "title": "여행 꿀팁!",
-            "content": "와카야마 지역을 중심으로 여행할 계획이라면 이 패스가 교통비를 크게 절약해 줄 수 있습니다. 꼭 구매해서 알찬 여행 즐기세요!",
-            "alt_text": "와카야마 성 또는 아름다운 풍경 사진"
-          }
-        ],
-        "caption": "일본 간사이 여행 중 와카야마 지역 방문 예정이라면 주목! 🤩\nJR 서일본과 난카이 전철 등에서 'ICOCA로 GO 와카야마시 주유 패스'를 6월 15일부터 출시합니다.\n철도, 버스 무제한 이용은 물론, 특정 라멘 가게 할인 혜택까지! 🍜\n앱에서 간편하게 구매하고 와카야마에서 알찬 여행 즐겨보세요! 🚄\n\n#일본여행 #와카야마 #간사이여행 #교통패스 #ICOCA",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#와카야마",
-          "#간사이여행",
-          "#교통패스",
-          "#ICOCA",
-          "#JR서일본",
-          "#난카이전철",
-          "#와카야마여행",
-          "#일본교통",
-          "#여행꿀팁",
-          "#주유패스",
-          "#일본자유여행",
-          "#여행정보",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "와카야마 지역 지도와 교통수단 아이콘",
-          "다양한 교통수단(기차, 버스)을 이용하는 사람들의 모습",
-          "맛있어 보이는 라멘 사진",
-          "스마트폰으로 앱을 이용하는 모습",
-          "와카야마 성 또는 아름다운 풍경 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 간사이 지역(오사카, 교토 등)을 중심으로 여행하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (여행 계획을 세우는 시간) / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 가격 정보는 없지만, 교통비 절약이라는 명확한 혜택과 함께 구매 방법, 혜택까지 상세하게 안내하여 실질적인 도움을 줄 수 있음.",
-      "image": {
-        "keyword": "Wakayama City, Japan, transportation pass, train, bus, ramen, KANSAI MaaS, digital ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/Wakayama-City,-Japan,-transportation-pass,-train,-bus,-ramen,-KANSAI-MaaS,-digital-ticket",
-        "pexels_url": "https://www.pexels.com/search/Wakayama%20City,%20Japan,%20transportation%20pass,%20train,%20bus,%20ramen,%20KANSAI%20MaaS,%20digital%20ticket/"
-      }
-    },
-    {
-      "id": "plan_631506ed",
-      "created_at": "2026-06-13T04:43:32.920754",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "明日から変わるモノレール浜松町、コンコース内部を紹介。改札は3階に集約",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2115334.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 시 필수! 하마마츠초역 모노레일 이용객 필독!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 하마마츠초역, 모노레일 변경! 6/13부터!",
-        "cards": [
-          {
-            "title": "모노레일 변경",
-            "content": "도쿄 모노레일 하마마츠초역이 서쪽 출구 개발 사업으로 변경됩니다. 6월 13일부터 새로운 북쪽 개찰구와 중앙 개찰구가 3층에 새로 개시됩니다.",
-            "alt_text": "변경된 도쿄 모노레일 하마마츠초역 안내 이미지"
-          },
-          {
-            "title": "개찰구 통합",
-            "content": "기존의 개찰구가 3층으로 집약되어 이용이 더욱 편리해질 예정입니다. 기존 역사와는 다른 새로운 동선에 주의하세요.",
-            "alt_text": "3층으로 통합되는 개찰구 안내 이미지"
-          },
-          {
-            "title": "하네다 공항 접근",
-            "content": "하마마츠초역은 하네다 공항으로 가는 도쿄 모노레일의 주요 환승역입니다. 공항 이용 시 꼭 알아두세요.",
-            "alt_text": "하네다 공항 가는 도쿄 모노레일 노선도 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "새로운 개찰구 운영 시작일인 6월 13일 당일에는 혼잡이 예상됩니다. 미리 역 안내를 확인하여 당황하지 않도록 대비하세요.",
-            "alt_text": "도쿄 모노레일 승강장 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "변경된 개찰구 위치를 미리 파악해두면 시간을 절약할 수 있습니다. 여행 계획 시 참고하여 여유롭게 이동하세요.",
-            "alt_text": "여행객이 역에서 길을 찾는 모습 이미지"
-          }
-        ],
-        "caption": "✈️ 도쿄 여행 필수 정보! 6월 13일부터 도쿄 모노레일 하마마츠초역이 변경됩니다! 3층에 새로운 북쪽 개찰구와 중앙 개찰구가 통합 운영되니, 하네다 공항 이동 시 꼭 미리 확인하세요! 🧳\n\n#일본여행 #도쿄여행 #도쿄모노레일 #하마마츠초역 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄",
-          "#도쿄모노레일",
-          "#하마마츠초역",
-          "#일본교통",
-          "#여행꿀팁",
-          "#일본생활",
-          "#도쿄여행준비",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본",
-          "#하네다공항",
-          "#안내",
-          "#필수정보"
-        ],
-        "alt_texts": [
-          "변경된 도쿄 모노레일 하마마츠초역 안내 이미지",
-          "3층으로 통합되는 개찰구 안내 이미지",
-          "하네다 공항 가는 도쿄 모노레일 노선도 이미지",
-          "도쿄 모노레일 승강장 이미지",
-          "여행객이 역에서 길을 찾는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 하마마츠초역을 이용하는 한국인 여행객 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 정보 습득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 여행 직전 필수적인 실질 정보 제공",
-      "image": {
-        "keyword": "Tokyo Monorail Hamamatsucho Station renovation",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Monorail-Hamamatsucho-Station-renovation",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Monorail%20Hamamatsucho%20Station%20renovation/"
       }
     }
   ]
