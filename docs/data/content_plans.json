@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-17T05:04:59.833941",
+  "last_updated": "2026-06-18T01:42:00.068206",
   "plans": [
+    {
+      "id": "plan_8d46bb54",
+      "created_at": "2026-06-18T01:41:58.067967",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "7月25日「水戸偕楽園花火大会」観覧席付き宿泊プラン、駅徒歩1分のホテルテラスザガーデン水戸で発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118038.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 불꽃축제 시즌! 숙소와 함께 예약하면 더 편리한 특별 플랜!"
+      },
+      "content": {
+        "thumbnail_title": "🔥7/25 미토 불꽃놀이🔥",
+        "cards": [
+          {
+            "title": "불꽃놀이 정보",
+            "content": "7월 25일, 제66회 미토 황문 축제 미토 가이라쿠엔 불꽃대회가 개최됩니다. 매년 여름밤을 화려하게 수놓는 명성 높은 불꽃놀이를 놓치지 마세요!",
+            "alt_text": "미토 가이라쿠엔 불꽃놀이 축제의 밤하늘을 수놓는 화려한 불꽃 이미지"
+          },
+          {
+            "title": "숙박 플랜 출시",
+            "content": "호텔 테라스 더 가든 미토에서 불꽃놀이 관람석이 포함된 특별 숙박 플랜을 출시했습니다. 편리하게 축제를 즐길 수 있는 기회입니다.",
+            "alt_text": "호텔 테라스 더 가든 미토 외관 이미지"
+          },
+          {
+            "title": "호텔 위치",
+            "content": "호텔 테라스 더 가든 미토는 미토시 미야초 1-7-20에 위치하고 있으며, JR 미토역에서 도보 1분 거리에 있어 접근성이 매우 뛰어납니다.",
+            "alt_text": "JR 미토역에서 호텔까지의 도보 경로를 나타내는 지도 이미지"
+          },
+          {
+            "title": "특별 혜택",
+            "content": "이 숙박 플랜을 이용하면 불꽃놀이 명당에서 편안하게 축제를 즐길 수 있습니다. 여름밤의 낭만을 만끽하세요!",
+            "alt_text": "호텔 객실 창문에서 불꽃놀이를 감상하는 사람들의 모습"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기가 많을 것으로 예상되니, 관심 있다면 서둘러 예약하시는 것을 추천합니다. 정확한 예약 방법 및 문의는 호텔 공식 채널을 확인하세요.",
+            "alt_text": "예약 확인 버튼을 누르는 손 이미지"
+          }
+        ],
+        "caption": "✨일본 여름밤의 하이라이트! 7월 25일 미토 가이라쿠엔 불꽃놀이 축제✨\nJR 미토역 도보 1분, 호텔 테라스 더 가든 미토에서 불꽃놀이 관람석 포함 숙박 플랜이 출시되었습니다! 🎆\n올여름, 잊지 못할 추억을 만들어보세요! 💖\n\n#일본여행 #미토불꽃놀이 #여름축제 #호텔플랜 #일본숙소 #미토여행 #가이라쿠엔 #불꽃축제 #일본핫플 #플라잉재팬 #일본정보 #여행꿀팁 #여름휴가 #일본축제 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#미토불꽃놀이",
+          "#여름축제",
+          "#호텔플랜",
+          "#일본숙소",
+          "#미토여행",
+          "#가이라쿠엔",
+          "#불꽃축제",
+          "#일본핫플",
+          "#일본정보",
+          "#여행꿀팁",
+          "#여름휴가",
+          "#일본축제",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "미토 가이라쿠엔 불꽃놀이 축제의 밤하늘을 수놓는 화려한 불꽃 이미지",
+          "호텔 테라스 더 가든 미토 외관 이미지",
+          "JR 미토역에서 호텔까지의 도보 경로를 나타내는 지도 이미지",
+          "호텔 객실 창문에서 불꽃놀이를 감상하는 사람들의 모습",
+          "예약 확인 버튼을 누르는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행 예정인 2030 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 시기 적절한 축제 정보와 편리한 숙박 솔루션을 함께 제공",
+      "image": {
+        "keyword": "Mito Kairakuen Fireworks Festival, Hotel Terrace the Garden Mito, Japan summer festival, fireworks view from hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Mito-Kairakuen-Fireworks-Festival,-Hotel-Terrace-the-Garden-Mito,-Japan-summer-festival,-fireworks-view-from-hotel",
+        "pexels_url": "https://www.pexels.com/search/Mito%20Kairakuen%20Fireworks%20Festival,%20Hotel%20Terrace%20the%20Garden%20Mito,%20Japan%20summer%20festival,%20fireworks%20view%20from%20hotel/"
+      }
+    },
+    {
+      "id": "plan_702f405e",
+      "created_at": "2026-06-18T01:41:50.688408",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "セブン限定「エスターバニー」ふわふわバニティ＆チャームポーチ、7月21日発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118041.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "세븐일레븐 한정! 귀여움 폭발 에스터버니 굿즈 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨세븐한정 에스터버니✨",
+        "cards": [
+          {
+            "title": "7월 21일 출시!",
+            "content": "세븐일레븐에서만 만날 수 있는 에스터버니 신상 굿즈가 7월 21일에 동시 발매됩니다.",
+            "alt_text": "에스터버니 굿즈 출시일 안내"
+          },
+          {
+            "title": "파우치 2종",
+            "content": "부드러운 촉감의 '에스터버니 퍼지 파우치' (3,498엔)와 가방에 달 수 있는 '에스터버니 페이스 파우치' (3,289엔)를 만나보세요.",
+            "alt_text": "에스터버니 퍼지 파우치와 페이스 파우치 이미지"
+          },
+          {
+            "title": "한정 판매",
+            "content": "이번 신상은 寶島社 채널, 세븐일레븐, 세븐넷 쇼핑에서만 구매 가능합니다.",
+            "alt_text": "세븐일레븐, 세븐넷 쇼핑 등 구매처 안내"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본 여행 중 귀여운 기념품이나 선물용으로 딱! 서둘러 득템하세요.",
+            "alt_text": "여행 중 기념품으로 좋은 에스터버니 굿즈"
+          },
+          {
+            "title": "환율 체크 필수!",
+            "content": "엔화 환율 변동에 따라 실제 구매 가격은 달라질 수 있으니, 환율을 미리 확인하는 것이 좋습니다.",
+            "alt_text": "엔화 환율 확인 안내"
+          }
+        ],
+        "caption": "일본 여행 필수 코스! 💖 7월 21일, 세븐일레븐에서만 만날 수 있는 귀염뽀짝 에스터버니 굿즈가 출시됩니다! 🐰✨ 부드러운 퍼지 파우치와 가방에 달 수 있는 페이스 파우치까지! 💸 3,498엔 / 3,289엔. 宝島社 채널, 세븐일레븐, 세븐넷 쇼핑에서 한정 판매되니, 일본 여행 계획 있다면 놓치지 마세요! 😉\n\n#일본여행 #세븐일레븐 #에스터버니 #한정판 #일본쇼핑 #일본굿즈 #여행필수템 #일본여행정보 #플라잉재팬 #일본득템 #여행스타그램 #일본편의점 #여행준비 #귀여운거 #쇼핑스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#세븐일레븐",
+          "#에스터버니",
+          "#일본한정",
+          "#일본쇼핑",
+          "#일본굿즈",
+          "#여행필수템",
+          "#일본여행정보",
+          "#일본득템",
+          "#여행스타그램",
+          "#일본편의점",
+          "#여행준비",
+          "#귀여운거",
+          "#쇼핑스타그램"
+        ],
+        "alt_texts": [
+          "에스터버니 굿즈 출시일 안내",
+          "에스터버니 퍼지 파우치와 페이스 파우치 이미지",
+          "세븐일레븐, 세븐넷 쇼핑 등 구매처 안내",
+          "여행 중 기념품으로 좋은 에스터버니 굿즈",
+          "엔화 환율 확인 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 6시 - 9시 / 기대 반응: 구매 욕구 자극, 정보 공유/저장 / 이 콘텐츠의 강점: 최신 한정판 정보, 구체적인 가격 및 구매처 명시, 귀여운 캐릭터로 인한 높은 관심 유도",
+      "image": {
+        "keyword": "Esther Bunny, Seven Eleven, Japan limited edition, fluffy pouch, charm pouch, cute goods, travel souvenir, Japan convenience store",
+        "unsplash_url": "https://unsplash.com/s/photos/Esther-Bunny,-Seven-Eleven,-Japan-limited-edition,-fluffy-pouch,-charm-pouch,-cute-goods,-travel-souvenir,-Japan-convenience-store",
+        "pexels_url": "https://www.pexels.com/search/Esther%20Bunny,%20Seven%20Eleven,%20Japan%20limited%20edition,%20fluffy%20pouch,%20charm%20pouch,%20cute%20goods,%20travel%20souvenir,%20Japan%20convenience%20store/"
+      }
+    },
     {
       "id": "plan_cd57f04e",
       "created_at": "2026-06-17T05:04:57.833760",
@@ -923,160 +1077,6 @@
         "keyword": "japan highway bus discount",
         "unsplash_url": "https://unsplash.com/s/photos/japan-highway-bus-discount",
         "pexels_url": "https://www.pexels.com/search/japan%20highway%20bus%20discount/"
-      }
-    },
-    {
-      "id": "plan_193dd1ee",
-      "created_at": "2026-06-14T05:01:20.791796",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、羽田空港にランディングギアの新整備工場　2027年3月竣工",
-        "url": "https://www.traicy.com/posts/20260613373038/",
-        "date": "Sat, 13 Jun 2026 08:15:08 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행의 시작과 끝, 공항에서의 편안함을 책임질 JAL 신규 시설!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ JAL, 하네다 공항에 새 공장 건설! 2027년 3월 완공 예정",
-        "cards": [
-          {
-            "title": "JAL 신 공장",
-            "content": "일본항공(JAL)이 하네다 공항 정비 지구에 랜딩기어(착륙 장치) 신규 정비 공장 건설을 시작했습니다. 2027년 3월 완공 예정입니다.",
-            "alt_text": "JAL이 건설 중인 하네다 공항 신규 정비 공장 조감도"
-          },
-          {
-            "title": "정비 기능 통합",
-            "content": "기존에 분산되어 있던 랜딩기어 정비 기능을 한 곳으로 모아 효율성을 높일 계획입니다. 최신 자동화 설비 도입으로 더욱 신속하고 정확한 정비가 가능해집니다.",
-            "alt_text": "정비 시설 내부에서 작업 중인 로봇 팔 이미지"
-          },
-          {
-            "title": "일본 최초 설비",
-            "content": "일본에서 최초로 도입되는 최첨단 설비들이 다수 설치될 예정입니다. 이를 통해 JAL 항공기의 안전 운항을 더욱 강화할 것으로 기대됩니다.",
-            "alt_text": "최첨단 항공기 정비 장비 이미지"
-          },
-          {
-            "title": "여행객 편의 증진",
-            "content": "신 공장 건설은 장기적으로 JAL 항공편의 정시 운항률을 높여 한국인 여행객들의 일본 입출국 시 불편함을 줄이는 데 기여할 수 있습니다.",
-            "alt_text": "하네다 공항에서 이륙하는 JAL 항공기 이미지"
-          },
-          {
-            "title": "미래 기대",
-            "content": "2027년 3월 완공 후, JAL은 하네다 공항에서의 항공기 정비 역량을 한 단계 업그레이드할 것입니다. 앞으로 더 쾌적하고 안정적인 일본 여행을 기대해 볼 수 있겠네요!",
-            "alt_text": "하네다 공항 전경과 JAL 항공기 이미지"
-          }
-        ],
-        "caption": "✈️ JAL, 하네다 공항에 최첨단 랜딩기어 정비 공장 건설 시작! 2027년 3월 완공 예정으로, 항공기 정비 효율성을 높여 더욱 안정적인 운항을 제공할 것으로 기대됩니다. 한국에서 일본으로 오가는 여러분의 편안한 여행을 위해 JAL이 준비하고 있어요! 👍\n\n#일본여행 #플라잉재팬 #JAL #일본항공 #하네다공항 #항공정보 #여행꿀팁 #안전여행 #일본출장 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#하네다공항",
-          "#항공정보",
-          "#여행꿀팁",
-          "#안전여행",
-          "#일본출장",
-          "#일본여행준비",
-          "#공항정보",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#항공기"
-        ],
-        "alt_texts": [
-          "JAL이 건설 중인 하네다 공항 신규 정비 공장 조감도",
-          "정비 시설 내부에서 작업 중인 로봇 팔 이미지",
-          "최첨단 항공기 정비 장비 이미지",
-          "하네다 공항에서 이륙하는 JAL 항공기 이미지",
-          "하네다 공항 전경과 JAL 항공기 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 / 최적 게시 시간: 저녁 8-10시 (여행 계획 세우는 시간) / 기대 반응: 정보 습득 및 긍정적 인식 / 이 콘텐츠의 강점: 일본 여행의 시작과 끝인 공항 및 항공사 관련 실질적인 미래 정보 제공",
-      "image": {
-        "keyword": "JAL, Haneda Airport, aircraft maintenance, new factory, 2027",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Haneda-Airport,-aircraft-maintenance,-new-factory,-2027",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Haneda%20Airport,%20aircraft%20maintenance,%20new%20factory,%202027/"
-      }
-    },
-    {
-      "id": "plan_95b348ac",
-      "created_at": "2026-06-14T05:01:13.565228",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ニフティライフスタイル、温浴サブスク「おふろパス」提供開始　月額330円で限定割引クーポン配布",
-        "url": "https://www.traicy.com/posts/20260613370514/",
-        "date": "Sat, 13 Jun 2026 14:18:02 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "월 330엔으로 일본 온천/사우나 무제한 할인받는 꿀팁! ♨️"
-      },
-      "content": {
-        "thumbnail_title": "일본 온천 ♨️ 월 330엔 무제한 할인!",
-        "cards": [
-          {
-            "title": "오후로패스 출시",
-            "content": "일본 온천, 사우나, 슈퍼센토 등에서 회원 전용 할인 쿠폰을 이용할 수 있는 월정액 서비스 '오후로패스'가 5월 12일부터 시작되었습니다.",
-            "alt_text": "온천 시설에서 할인 쿠폰을 사용하는 이미지"
-          },
-          {
-            "title": "월 330엔",
-            "content": "월 330엔(약 3,300원)의 합리적인 가격으로 이용 가능하며, 제공되는 할인 쿠폰만 잘 활용해도 월정액 요금을 상회하는 혜택을 받을 수 있습니다.",
-            "alt_text": "330엔 동전과 할인 쿠폰이 함께 있는 이미지"
-          },
-          {
-            "title": "다양한 시설",
-            "content": "온천, 사우나뿐만 아니라 슈퍼센토(대중목욕탕)까지 폭넓은 시설에서 할인을 적용받을 수 있어 일본 여행 중 목욕 문화를 즐기기에 좋습니다.",
-            "alt_text": "다양한 일본 온천 및 대중목욕탕 시설 사진 모음"
-          },
-          {
-            "title": "일본 여행 필수템?",
-            "content": "일본 여행 중 피로를 풀기 위해 온천이나 사우나를 자주 이용하는 여행자라면, '오후로패스'가 여행 경비를 절약하는 데 큰 도움이 될 수 있습니다.",
-            "alt_text": "온천에서 편안하게 휴식하는 여행자 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "방문하려는 온천이나 사우나 시설이 '오후로패스' 제휴인지 미리 확인하고, 어떤 할인 쿠폰이 제공되는지 파악하여 계획적으로 이용하는 것이 좋습니다.",
-            "alt_text": "스마트폰으로 할인 정보를 검색하는 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템 등장! ♨️\n월 330엔으로 일본 온천, 사우나, 슈퍼센토를 무제한 할인받으세요!\n여행 중 피로 풀고 싶다면 '오후로패스'로 알뜰하게 즐기세요!\n\n#일본여행 #온천 #사우나 #할인 #꿀팁 #오후로패스 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#일본사우나",
-          "#일본여행팁",
-          "#일본여행준비",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#일본할인",
-          "#일본생활",
-          "#일본정보",
-          "#여행꿀팁",
-          "#온천여행",
-          "#가성비여행",
-          "#일본숙소"
-        ],
-        "alt_texts": [
-          "온천 시설에서 할인 쿠폰을 사용하는 이미지",
-          "330엔 동전과 할인 쿠폰이 함께 있는 이미지",
-          "다양한 일본 온천 및 대중목욕탕 시설 사진 모음",
-          "온천에서 편안하게 휴식하는 여행자 이미지",
-          "스마트폰으로 할인 정보를 검색하는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: '대박 정보', '당장 알아봐야지' 등 긍정적 반응 및 정보 공유 / 이 콘텐츠의 강점: 합리적인 가격으로 일본 여행의 질을 높일 수 있는 실질적인 할인 정보 제공",
-      "image": {
-        "keyword": "japanese onsen discount coupon subscription",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-onsen-discount-coupon-subscription",
-        "pexels_url": "https://www.pexels.com/search/japanese%20onsen%20discount%20coupon%20subscription/"
       }
     }
   ]
