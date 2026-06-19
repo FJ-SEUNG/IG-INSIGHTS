@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-18T04:55:05.937236",
+  "last_updated": "2026-06-19T02:06:01.546399",
   "plans": [
+    {
+      "id": "plan_7ccb15f2",
+      "created_at": "2026-06-19T02:05:59.546210",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、夏の「mofusand」Tシャツは本日発売。アウトドア楽しむにゃんこたち4種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118313.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "인기 캐릭터 'mofusand'와 유니클로의 여름 콜라보 UT가 6월 19일 출시되어 일본 쇼핑 리스트에 추가할 만한 아이템입니다."
+      },
+      "content": {
+        "thumbnail_title": "유니클로xmofusand 💖 UT 출시!",
+        "cards": [
+          {
+            "title": "콜라보 UT 출시",
+            "content": "인기 캐릭터 'mofusand'와 유니클로의 여름 UT 컬렉션이 2024년 6월 19일(수)에 발매됩니다.",
+            "alt_text": "유니클로와 mofusand 캐릭터가 콜라보한 티셔츠 이미지"
+          },
+          {
+            "title": "4가지 디자인",
+            "content": "이번 컬렉션은 여름을 즐기는 귀여운 고양이 'mofusand' 캐릭터가 담긴 총 4가지 디자인으로 출시됩니다.",
+            "alt_text": "mofusand 캐릭터가 등장하는 유니클로 티셔츠 디자인 4종"
+          },
+          {
+            "title": "일본 쇼핑 팁",
+            "content": "일본 여행 중 유니클로 매장에서 귀여운 여름 티셔츠를 득템할 기회입니다. 한정판일 수 있으니 서두르세요!",
+            "alt_text": "일본 유니클로 매장 내부 또는 쇼핑하는 모습"
+          },
+          {
+            "title": "다양한 활용",
+            "content": "일상복은 물론, 가볍게 입고 일본의 여름 축제나 여행지를 돌아다니기에도 좋습니다.",
+            "alt_text": "mofusand 티셔츠를 입고 일본 여행지에서 즐기는 모습"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "출시일인 6월 19일 이후 품절될 수 있으니, 관심 있다면 여행 일정에 맞춰 방문해보세요.",
+            "alt_text": "유니클로 매장에서 mofusand 티셔츠를 고르는 모습"
+          }
+        ],
+        "caption": "귀여움 폭발! 💖 유니클로xmofusand 여름 UT 컬렉션이 6월 19일 출시됩니다! 🐱\n일본 여행 가신다면 꼭 득템하세요! 4가지 디자인으로 여름을 더욱 특별하게 만들어줄 거예요.\n여행 기념품으로도 최고! 👍\n#유니클로 #mofusand #일본쇼핑 #득템찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#mofusand",
+          "#일본쇼핑",
+          "#여름휴가",
+          "#여행준비",
+          "#일본쇼핑리스트",
+          "#한정판",
+          "#캐릭터굿즈",
+          "#일본패션",
+          "#여행스타그램",
+          "#쇼핑스타그램",
+          "#일본자유여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "유니클로와 mofusand 캐릭터가 콜라보한 티셔츠 이미지",
+          "mofusand 캐릭터가 등장하는 유니클로 티셔츠 디자인 4종",
+          "일본 유니클로 매장 내부 또는 쇼핑하는 모습",
+          "mofusand 티셔츠를 입고 일본 여행지에서 즐기는 모습",
+          "유니클로 매장에서 mofusand 티셔츠를 고르는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 최신 유행 및 귀여운 캐릭터 상품에 관심 있는 20-30대 여성 여행객 / 최적 게시 시간: 오후 5-7시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 인기 캐릭터와 글로벌 브랜드의 콜라보, 시의성 높은 신상품 정보",
+      "image": {
+        "keyword": "uniqlo mofusand t-shirt japan launch",
+        "unsplash_url": "https://unsplash.com/s/photos/uniqlo-mofusand-t-shirt-japan-launch",
+        "pexels_url": "https://www.pexels.com/search/uniqlo%20mofusand%20t-shirt%20japan%20launch/"
+      }
+    },
+    {
+      "id": "plan_f9af55fe",
+      "created_at": "2026-06-19T02:05:50.879637",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR「北海道＆東日本パス」夏季分は明日発売。普通列車が7日間乗り放題",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118426.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "홋카이도와 동북부 지역을 7일간 무제한으로 여행할 수 있는 JR 패스가 곧 발매됩니다!"
+      },
+      "content": {
+        "thumbnail_title": "JR 7일 무제한 패스 ✈️",
+        "cards": [
+          {
+            "title": "발매일 확인!",
+            "content": "JR北海道와 JR동일본에서 제공하는 '홋카이도 & 동일본 패스' 여름 시즌권이 6월 20일에 발매됩니다. 놓치지 마세요!",
+            "alt_text": "JR 패스 발매일 안내"
+          },
+          {
+            "title": "7일 무제한!",
+            "content": "이 패스를 사용하면 7일 동안 JR 홋카이도와 JR동일본 지역의 보통 열차를 무제한으로 이용할 수 있습니다. 여행 계획을 세워보세요!",
+            "alt_text": "JR 열차 무제한 탑승 이미지"
+          },
+          {
+            "title": "여름 시즌권",
+            "content": "특히 여름 시즌을 겨냥한 특별권이니, 여름 휴가철 일본 북부 지역 여행을 계획하고 있다면 필수템입니다.",
+            "alt_text": "여름 시즌 일본 북부 풍경"
+          },
+          {
+            "title": "실속 교통권",
+            "content": "홋카이도와 동북부 지역을 여러 도시 이동하며 여행할 계획이라면, 개별적으로 티켓을 구매하는 것보다 훨씬 경제적입니다.",
+            "alt_text": "일본 철도 노선도"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "패스 구매 전, 이용 기간 및 지역 범위를 정확히 확인하시고, 신칸센 등 일부 열차는 이용이 제한될 수 있으니 꼭 확인하세요!",
+            "alt_text": "JR 패스 이용 주의사항 안내"
+          }
+        ],
+        "caption": "홋카이도 & 동일본 패스, 여름 시즌권 7월 20일 발매! 🚄\n7일간 JR 보통 열차 무제한 탑승으로 북쪽 끝까지 시원하게 여행하세요! ❄️\n\n✅ 발매일: 6월 20일\n✅ 이용 기간: 7일 무제한\n\n올여름, JR 패스로 일본 북부를 정복하세요! 🇯🇵\n\n#일본여행 #홋카이도여행 #동일본여행 #JR패스 #일본교통 #여름휴가 #여행준비 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#홋카이도여행",
+          "#동일본여행",
+          "#JR패스",
+          "#일본교통",
+          "#여름휴가",
+          "#여행준비",
+          "#플라잉재팬",
+          "#일본자유여행",
+          "#일본철도",
+          "#여행정보",
+          "#해외여행",
+          "#일본가볼만한곳",
+          "#북해도",
+          "#일본"
+        ],
+        "alt_texts": [
+          "JR 패스 발매일 안내",
+          "JR 열차 무제한 탑승 이미지",
+          "여름 시즌 일본 북부 풍경",
+          "일본 철도 노선도",
+          "JR 패스 이용 주의사항 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 북부 지역 장거리 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 패스 구매 정보에 대한 높은 관심과 문의 / 이 콘텐츠의 강점: 구체적인 발매일과 이용 혜택을 명확히 제시하여 여행 계획에 즉각적인 도움 제공",
+      "image": {
+        "keyword": "JR Hokkaido and East Japan Pass, Japanese train, Hokkaido landscape, train ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-Hokkaido-and-East-Japan-Pass,-Japanese-train,-Hokkaido-landscape,-train-ticket",
+        "pexels_url": "https://www.pexels.com/search/JR%20Hokkaido%20and%20East%20Japan%20Pass,%20Japanese%20train,%20Hokkaido%20landscape,%20train%20ticket/"
+      }
+    },
     {
       "id": "plan_478b8322",
       "created_at": "2026-06-18T04:55:03.937060",
@@ -923,160 +1077,6 @@
         "keyword": "japan autumn train travel seafood gourmet",
         "unsplash_url": "https://unsplash.com/s/photos/japan-autumn-train-travel-seafood-gourmet",
         "pexels_url": "https://www.pexels.com/search/japan%20autumn%20train%20travel%20seafood%20gourmet/"
-      }
-    },
-    {
-      "id": "plan_c8f444fc",
-      "created_at": "2026-06-15T05:21:18.196199",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーリゾート、夏限定「1デーパークホッパーパスポート」でファンタジースプリングス・エントランス利用可能に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2117121.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 팬타지 스プリング스 입장 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✨팬타지 스プリング스 입장 UP!",
-        "cards": [
-          {
-            "title": "파격 혜택!",
-            "content": "도쿄 디즈니랜드, 2024년 7월 1일부터 9월 14일까지 '1데이 파크 호퍼 패스포트' 구매 시, 인기 어트랙션이 가득한 '팬타지 스プリング스' 입장이 가능해져요!",
-            "alt_text": "도쿄 디즈니랜드 성 앞에서 웃고 있는 가족"
-          },
-          {
-            "title": "이용 방법",
-            "content": "기간 내 '1데이 파크 호퍼 패스포트'를 구매하면 별도의 예약 없이 '팬타지 스プリング스 엔트런스'를 통해 입장할 수 있어요. (기존에는 별도 예약 필수)",
-            "alt_text": "디즈니랜드 지도에 팬타지 스プリング스 구역 표시"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "올여름, 도쿄 디즈니랜드에서 가장 핫한 '팬타지 스プリング스'를 여유롭게 즐길 수 있는 절호의 기회! 7월 1일~9월 14일 기간 한정 혜택이니 서두르세요!",
-            "alt_text": "팬타지 스プリング스 어트랙션 모습"
-          },
-          {
-            "title": "추가 팁",
-            "content": "팬타지 스プリング스는 '라푼젤의 탑', '피터팬의 네버랜드', '겨울왕국' 등 인기 어트랙션으로 구성되어 있어요. 방문 전 운영 시간 및 어트랙션별 대기 시간을 미리 확인하면 더욱 알찬 여행이 가능해요.",
-            "alt_text": "겨울왕국 테마 구역 모습"
-          },
-          {
-            "title": "꼭 알아두기!",
-            "content": "이 혜택은 '1데이 파크 호퍼 패스포트'에 한정되며, 일반 '1데이 패스포트'로는 팬타지 스プリング스 입장이 불가해요. 정확한 티켓 종류를 확인하고 구매하세요!",
-            "alt_text": "디즈니랜드 티켓 이미지"
-          }
-        ],
-        "caption": "✨여름 일본 여행 필수 코스! 도쿄 디즈니랜드 '팬타지 스プリング스' 입장 꿀팁 대공개!✨\n\n✅ 기간: 2024년 7월 1일 ~ 9월 14일\n✅ 혜택: '1데이 파크 호퍼 패스포트' 구매 시 팬타지 스プリング스 입장 가능!\n\n올여름, 디즈니 덕후라면 놓칠 수 없는 특별한 기회! 💖\n지금 바로 @flyingjapan 팔로우하고 더 많은 일본 여행 정보를 얻어가세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#팬타지스프링스",
-          "#디즈니랜드",
-          "#디즈니",
-          "#일본여행정보",
-          "#여름휴가",
-          "#여행꿀팁",
-          "#도쿄",
-          "#일본",
-          "#디즈니덕후",
-          "#여행스타그램",
-          "#해외여행",
-          "#티켓정보"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 성 앞에서 웃고 있는 가족",
-          "디즈니랜드 지도에 팬타지 스プリング스 구역 표시",
-          "팬타지 스プリング스 어트랙션 모습",
-          "겨울왕국 테마 구역 모습",
-          "디즈니랜드 티켓 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 1시 ~ 3시 (점심 시간 이후 또는 오후 업무 시간 중) / 기대 반응: 정보 공유 및 저장, 친구 태그 / 이 콘텐츠의 강점: 시기적절한 기간 한정 혜택 정보, 팬들의 관심도가 높은 디즈니 관련 이슈",
-      "image": {
-        "keyword": "Tokyo Disneyland, Fantasyland, Disney Castle, Summer Travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Fantasyland,-Disney-Castle,-Summer-Travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Fantasyland,%20Disney%20Castle,%20Summer%20Travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_fc6d663a",
-      "created_at": "2026-06-15T05:21:11.043955",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA Mall、全品対象「全額マイル利用で10％マイル還元」6月末まで。うなぎや特選ワイン、Apple製品も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2117135.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 마일로 일본 쇼핑 10% 추가 할인받는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA마일 10% 추가還元!",
-        "cards": [
-          {
-            "title": "ANA Mall 10%",
-            "content": "ANA Mall 전 품목 대상, 전액 마일리지 결제 시 10% 마일리지 추가 적립 이벤트!",
-            "alt_text": "ANA Mall 로고와 함께 10% 할인 문구가 강조된 이미지"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "2024년 6월 15일 (토) ~ 6월 30일 (일) 23시 59분까지 진행됩니다.",
-            "alt_text": "달력에 6월 15일부터 30일까지 표시된 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "이벤트 참여를 위해선 반드시 특설 페이지에서 사전 등록이 필요해요.",
-            "alt_text": "등록 버튼을 누르는 손 모양 이미지"
-          },
-          {
-            "title": "구매 품목",
-            "content": "장어, 특선 와인, 애플 제품 등 ANA Mall에서 판매하는 모든 상품에 적용 가능합니다.",
-            "alt_text": "다양한 쇼핑 품목 (장어, 와인, 아이폰 등)을 보여주는 콜라주 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "ANA 마일리지가 있다면 이번 기회에 알뜰하게 쇼핑하고 10% 추가 혜택까지 챙겨가세요!",
-            "alt_text": "마일리지 카드와 쇼핑백을 들고 웃는 사람 이미지"
-          }
-        ],
-        "caption": "✨ANA 마일리지, 똑똑하게 사용하는 법!✨\n\nANA Mall에서 전액 마일리지 결제 시, 무려 10% 마일리지를 추가로 돌려주는 역대급 이벤트가 시작됐어요!\n\n✈️ 대상: ANA Mall 전 품목\n📅 기간: 6월 15일 ~ 6월 30일\n\n평소 눈여겨봤던 일본 쇼핑 리스트, 이번 기회에 마일리지로 알뜰하게 구매하고 10% 추가 혜택까지 꼭 챙기세요! 💖\n\n👉 프로필 링크에서 자세한 내용 확인하고 사전 등록 잊지 마세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#ANA마일",
-          "#ANA마일리지",
-          "#일본쇼핑",
-          "#일본직구",
-          "#ANA항공",
-          "#일본여행꿀팁",
-          "#해외여행",
-          "#여행정보",
-          "#마일리지활용",
-          "#쇼핑스타그램",
-          "#일본",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "ANA Mall 로고와 함께 10% 할인 문구가 강조된 이미지",
-          "달력에 6월 15일부터 30일까지 표시된 이미지",
-          "등록 버튼을 누르는 손 모양 이미지",
-          "다양한 쇼핑 품목 (장어, 와인, 아이폰 등)을 보여주는 콜라주 이미지",
-          "마일리지 카드와 쇼핑백을 들고 웃는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: ANA 마일리지를 보유하고 있거나 일본 쇼핑에 관심 있는 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 인스타그램 활동 증가 시간) / 기대 반응: 이벤트 참여율 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 할인 혜택 제공, 구체적인 기간 및 참여 방법 명시",
-      "image": {
-        "keyword": "ANA Mall, Japan shopping, mileage, discount, event, limited time offer",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-Mall,-Japan-shopping,-mileage,-discount,-event,-limited-time-offer",
-        "pexels_url": "https://www.pexels.com/search/ANA%20Mall,%20Japan%20shopping,%20mileage,%20discount,%20event,%20limited%20time%20offer/"
       }
     }
   ]
