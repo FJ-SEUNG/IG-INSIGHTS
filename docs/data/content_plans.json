@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-20T00:20:05.270083",
+  "last_updated": "2026-06-20T04:36:31.842709",
   "plans": [
+    {
+      "id": "plan_05904b9c",
+      "created_at": "2026-06-20T04:36:29.842516",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "焼津グランドホテル、1泊2食ビュッフェプラン。富士山を一望できる露天風呂やラウンジがオールインクルーシブで楽しめる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118574.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후지산 뷰 온천 호텔, 2식 뷔페 포함 올인클루시브 특가 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🗻후지산 뷰 료칸 특가!✨",
+        "cards": [
+          {
+            "title": "특가 찬스!",
+            "content": "6월 20일까지 楽天 트래블 슈퍼 세일 진행 중! 전국 호텔/온천 숙소 파격 할인 적용됩니다.",
+            "alt_text": "楽天 트래블 슈퍼 세일 배너 이미지"
+          },
+          {
+            "title": "최대 30% 할인",
+            "content": "현재 발행된 쿠폰을 함께 사용하면 최대 30%까지 추가 할인이 가능합니다. 놓치지 마세요!",
+            "alt_text": "할인율을 나타내는 그래픽 이미지"
+          },
+          {
+            "title": "1박 2식 뷔페",
+            "content": "오후 6시부터 9시까지 뷔페식으로 제공되는 저녁 식사와 다음날 아침 식사가 포함된 플랜입니다.",
+            "alt_text": "맛있는 뷔페 음식 사진"
+          },
+          {
+            "title": "올인클루시브 혜택",
+            "content": "후지산을 조망할 수 있는 노천온천과 라운지를 추가 비용 없이 올인클루시브로 즐길 수 있습니다.",
+            "alt_text": "후지산이 보이는 멋진 온천 사진"
+          },
+          {
+            "title": "예약 팁!",
+            "content": "슈퍼 세일 기간 한정 혜택이므로, 희망하시는 날짜가 있다면 서둘러 예약하는 것을 추천합니다.",
+            "alt_text": "달력과 예약 버튼 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 정보! 焼津 그랜드 호텔에서 후지산 뷰를 즐기며 1박 2식 뷔페와 올인클루시브 혜택까지 누릴 수 있는 절호의 찬스! 楽天 트래블 슈퍼 세일이 6월 20일까지 진행됩니다. 최대 30% 할인 혜택도 놓치지 마세요! 지금 바로 예약하고 잊지 못할 일본 여행을 만들어보세요! ✈️\n\n👉 더 많은 일본 여행 정보는 @flyingjapan 팔로우!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본호텔",
+          "#일본온천",
+          "#후지산",
+          "#일본할인",
+          "#楽天트래블",
+          "#슈퍼세일",
+          "#일본여행정보",
+          "#일본가볼만한곳",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "楽天 트래블 슈퍼 세일 배너 이미지",
+          "할인율을 나타내는 그래픽 이미지",
+          "맛있는 뷔페 음식 사진",
+          "후지산이 보이는 멋진 온천 사진",
+          "달력과 예약 버튼 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 금요일 저녁 7시, 주말 오후 2시 / 기대 반응: 예약 문의 증가, 스크랩 및 공유 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 숙소 특징 결합",
+      "image": {
+        "keyword": "Mt. Fuji view hotel buffet all-inclusive Japan travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Mt.-Fuji-view-hotel-buffet-all-inclusive-Japan-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Mt.%20Fuji%20view%20hotel%20buffet%20all-inclusive%20Japan%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_571e79ba",
+      "created_at": "2026-06-20T04:36:18.112217",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【2026年7月版】全国の花火大会を一挙紹介！　隅田川など大規模イベント目白押し、観覧チケットは早めに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118548.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2026년 여름, 일본 전국에서 펼쳐지는 초대형 불꽃축제 정보를 미리 알고 떠나세요!"
+      },
+      "content": {
+        "thumbnail_title": "🎆2026 일본 불꽃놀이 명소🔥",
+        "cards": [
+          {
+            "title": "7월 불꽃축제",
+            "content": "2026년 7월, 일본 전역에서 다채로운 불꽃축제가 펼쳐집니다. 隅田川(스미다가와) 불꽃축제를 포함한 대규모 행사들이 준비되어 있습니다.",
+            "alt_text": "일본 여름 밤하늘을 수놓는 화려한 불꽃놀이 이미지"
+          },
+          {
+            "title": "주요 불꽃축제",
+            "content": "전국 각지에서 개최되는 주목할 만한 불꽃축제 정보를 한눈에 담았습니다. 여름 시즌 일본 여행 계획에 꼭 참고하세요.",
+            "alt_text": "일본 지도 위에 불꽃축제 개최지를 표시한 이미지"
+          },
+          {
+            "title": "티켓 사전 구매",
+            "content": "인기 있는 불꽃축제는 관람 티켓이 조기 매진될 수 있습니다. 특히 隅田川(스미다가와)와 같은 대규모 행사는 서둘러 예매하는 것이 좋습니다.",
+            "alt_text": "불꽃축제 티켓 예매 안내 문구가 적힌 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본의 여름밤을 만끽할 수 있는 절호의 기회! 2026년 여름, 잊지 못할 추억을 선사할 불꽃축제 정보 놓치지 마세요.",
+            "alt_text": "연인이나 가족이 함께 불꽃놀이를 즐기는 모습의 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "불꽃축제 당일에는 교통 체증이 심할 수 있으니 대중교통 이용을 추천합니다. 행사 시작 시간 및 장소를 미리 확인하여 여유롭게 도착하세요.",
+            "alt_text": "일본 대중교통 이용 안내 및 행사 시간표 이미지"
+          }
+        ],
+        "caption": "✨2026년 여름, 일본에서 펼쳐지는 환상적인 불꽃축제들을 소개합니다!🎆\n\n7월부터 전국 각지에서 열리는 대규모 불꽃놀이 정보를 미리 확인하고, 최고의 자리를 선점하세요!\n\n隅田川(스미다가와) 불꽃축제 등 놓치면 후회할 이벤트가 가득! 잊지 못할 여름밤 추억을 만들어보세요.\n\n📌 지금 바로 2026년 여름 일본 불꽃축제 일정을 확인하고 여행 계획을 세워보세요!\n\n#일본여행 #플라잉재팬 #일본불꽃축제 #여름축제 #2026일본여행 #일본관광 #불꽃놀이 #隅田川 #일본여름 #여행정보 #일본축제 #여행계획 #일본가볼만한곳 #여름휴가 #필수정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본불꽃축제",
+          "#여름축제",
+          "#2026일본여행",
+          "#일본관광",
+          "#불꽃놀이",
+          "#隅田川",
+          "#일본여름",
+          "#여행정보",
+          "#일본축제",
+          "#여행계획",
+          "#일본가볼만한곳",
+          "#여름휴가",
+          "#필수정보"
+        ],
+        "alt_texts": [
+          "일본 여름 밤하늘을 수놓는 화려한 불꽃놀이 이미지",
+          "일본 지도 위에 불꽃축제 개최지를 표시한 이미지",
+          "불꽃축제 티켓 예매 안내 문구가 적힌 이미지",
+          "연인이나 가족이 함께 불꽃놀이를 즐기는 모습의 이미지",
+          "일본 대중교통 이용 안내 및 행사 시간표 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 2026년 여름 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 목요일 오후 7시 (여행 계획을 세우는 시간) / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 구체적인 행사 정보 포함, 사전 준비를 위한 실질적 팁 제공",
+      "image": {
+        "keyword": "japan summer fireworks festival",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-fireworks-festival",
+        "pexels_url": "https://www.pexels.com/search/japan%20summer%20fireworks%20festival/"
+      }
+    },
     {
       "id": "plan_6f0c4a0b",
       "created_at": "2026-06-20T00:20:03.269896",
@@ -923,160 +1077,6 @@
         "keyword": "japan ryokan discount, onsen hotel sale, japan travel deals",
         "unsplash_url": "https://unsplash.com/s/photos/japan-ryokan-discount,-onsen-hotel-sale,-japan-travel-deals",
         "pexels_url": "https://www.pexels.com/search/japan%20ryokan%20discount,%20onsen%20hotel%20sale,%20japan%20travel%20deals/"
-      }
-    },
-    {
-      "id": "plan_774224cc",
-      "created_at": "2026-06-17T01:41:48.846945",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "学生限定、ディズニーまでの往復「こだま」号が半額になる「静岡ユース★おでかけきっぷ」。2026年も発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2117670.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "학생이라면 놓칠 수 없는 도쿄 디즈니랜드 왕복 교통비 반값 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "학생 도쿄 디즈니 50% 할인!✈️",
-        "cards": [
-          {
-            "title": "교통권 정보",
-            "content": "JR 도카이에서 '시즈오카 유스★오데카케 킷푸'를 6월 18일부터 8월 28일까지 판매합니다. 이 티켓은 학생들을 대상으로 도쿄 디즈니랜드까지 가는 '고다마'호 왕복 운임을 반값에 제공합니다.",
-            "alt_text": "JR 도카이 열차 티켓 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "이용 가능 기간은 7월 18일부터 8월 6일, 그리고 8월 17일부터 30일까지입니다. 작년보다 14일에서 34일로 이용 기간이 대폭 확대되었습니다.",
-            "alt_text": "달력에 표시된 이용 가능 기간"
-          },
-          {
-            "title": "판매 방식",
-            "content": "이용 시작일별로 판매 매수에 제한이 있습니다. 인기 있는 날짜는 조기 매진될 수 있으니 서둘러 구매하는 것이 좋습니다.",
-            "alt_text": "매진 임박 표시"
-          },
-          {
-            "title": "대상",
-            "content": "일본 학생증을 소지한 학생이라면 누구나 이용 가능합니다. (외국인 학생은 해당되지 않을 수 있으니 상세 규정 확인 필요)",
-            "alt_text": "학생증 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 계획이 있다면 지금 바로 JR 도카이 공식 웹사이트를 확인하세요! 여름방학 기간 동안 도쿄 디즈니랜드를 저렴하게 방문할 절호의 기회입니다.",
-            "alt_text": "디즈니랜드 성 이미지"
-          }
-        ],
-        "caption": "일본 거주 학생이라면 주목! 🤩\nJR 도카이에서 '시즈오카 유스★오데카케 킷푸'를 판매해요.\n도쿄 디즈니랜드까지 가는 '고다마'호 왕복 운임이 무려 반값! 💰\n이용 기간도 7월 18일~8월 6일, 8월 17일~30일까지로 넉넉해요.\n학생이라면 놓치지 마세요! 🏃‍♀️💨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#JR",
-          "#도쿄디즈니랜드",
-          "#학생할인",
-          "#일본생활",
-          "#여행정보",
-          "#여름방학",
-          "#일본자유여행",
-          "#디즈니",
-          "#일본",
-          "#여행꿀팁",
-          "#할인정보",
-          "#시즈오카"
-        ],
-        "alt_texts": [
-          "JR 도카이 열차 티켓 이미지",
-          "달력에 표시된 이용 가능 기간",
-          "매진 임박 표시",
-          "학생증 이미지",
-          "디즈니랜드 성 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 거주 학생 여행객 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 정보 공유 및 문의 폭증 / 이 콘텐츠의 강점: 특정 대상에게 매우 매력적인 파격 할인 정보",
-      "image": {
-        "keyword": "JR train, Tokyo Disneyland, student discount ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-train,-Tokyo-Disneyland,-student-discount-ticket",
-        "pexels_url": "https://www.pexels.com/search/JR%20train,%20Tokyo%20Disneyland,%20student%20discount%20ticket/"
-      }
-    },
-    {
-      "id": "plan_30c1eee3",
-      "created_at": "2026-06-17T01:41:40.909261",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "北海道グルメが抽選100名に当たる。「HOKKAIDO LOVE！」LINE公式アカウントで応募",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2117681.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "홋카이도 인기 먹거리 100명에게 쏜다! 놓치면 후회할 기회!"
-      },
-      "content": {
-        "thumbnail_title": "홋카이도 미식 찬스 🎁",
-        "cards": [
-          {
-            "title": "이벤트 참여!",
-            "content": "홋카이도 관광기구가 'HOKKAIDO LOVE! LINE 공식 계정' 리뉴얼 기념으로 특별한 선물을 준비했어요. 홋카이도의 맛있는 먹거리를 100명에게 선물합니다!",
-            "alt_text": "홋카이도 먹거리 선물 이벤트 안내 이미지"
-          },
-          {
-            "title": "참여 방법은?",
-            "content": "'HOKKAIDO LOVE! LINE 공식 계정'에서 진행되는 선물 캠페인에 참여하시면 됩니다. 자세한 참여 방법은 해당 계정에서 확인하세요.",
-            "alt_text": "LINE 앱에서 HOKKAIDO LOVE! 계정 검색 화면"
-          },
-          {
-            "title": "누가 참여 가능?",
-            "content": "일본 여행을 계획 중이거나 홋카이도에 관심 있는 누구나 참여 가능합니다. 100명 한정 기회를 놓치지 마세요!",
-            "alt_text": "다양한 홋카이도 음식 사진 콜라주"
-          },
-          {
-            "title": "홋카이도 맛집 탐방!",
-            "content": "이번 기회를 통해 홋카이도의 신선한 해산물, 라멘, 디저트 등 다양한 미식을 경험해보세요. 여행 계획에 특별한 즐거움을 더할 수 있습니다.",
-            "alt_text": "홋카이도 대표 음식 사진 (예: 털게, 라멘)"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "이벤트 기간 및 자세한 참여 방법은 'HOKKAIDO LOVE! LINE 공식 계정'을 통해 꼭 확인하시고, 홋카이도 미식을 맛볼 수 있는 행운의 주인공이 되세요!",
-            "alt_text": "LINE 앱에서 이벤트 참여 버튼 강조 이미지"
-          }
-        ],
-        "caption": "홋카이도 여행 계획 중이신가요? ✈️\n\n지금 홋카이도에서 특별한 미식 이벤트를 진행 중이에요! 🎁\n\n'HOKKAIDO LOVE! LINE 공식 계정' 리뉴얼 기념으로 홋카이도의 맛있는 먹거리를 무려 100명에게 선물한다고 합니다! 🤩\n\n여행 계획 세우면서 꿀정보 얻어가세요! ✨\n\n#홋카이도 #홋카이도여행 #일본여행 #이벤트 #선물 #맛집 #먹스타그램 #여행스타그램 #플라잉재팬 #여행정보 #일본음식 #LINE이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도",
-          "#홋카이도여행",
-          "#홋카이도맛집",
-          "#일본이벤트",
-          "#LINE이벤트",
-          "#홋카이도음식",
-          "#일본먹거리",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본자유여행",
-          "#여행준비",
-          "#인스타여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "홋카이도 먹거리 선물 이벤트 안내 이미지",
-          "LINE 앱에서 HOKKAIDO LOVE! 계정 검색 화면",
-          "다양한 홋카이도 음식 사진 콜라주",
-          "홋카이도 대표 음식 사진 (예: 털게, 라멘)",
-          "LINE 앱에서 이벤트 참여 버튼 강조 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 여행 예정인 한국인 여행자 / 최적 게시 시간: 금요일 오후 7시 / 기대 반응: 이벤트 참여율 증가, 홋카이도 여행 관심도 상승 / 이 콘텐츠의 강점: 실질적인 혜택 제공, 참여 방법 명확 안내",
-      "image": {
-        "keyword": "Hokkaido food giveaway LINE campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-food-giveaway-LINE-campaign",
-        "pexels_url": "https://www.pexels.com/search/Hokkaido%20food%20giveaway%20LINE%20campaign/"
       }
     }
   ]
