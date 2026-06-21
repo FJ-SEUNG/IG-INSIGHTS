@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-21T01:40:00.161315",
+  "last_updated": "2026-06-21T05:10:35.138946",
   "plans": [
+    {
+      "id": "plan_ee3aeb85",
+      "created_at": "2026-06-21T05:10:33.138791",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "HIS、「国内タイムセール」開催中　6月30日午前10時まで",
+        "url": "https://www.traicy.com/posts/20260620374201/",
+        "date": "Sat, 20 Jun 2026 09:15:13 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 떠나기 전, 꼭 확인해야 할 HIS 역대급 타임 세일 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✈️HIS 타임세일 놓치지 마세요!",
+        "cards": [
+          {
+            "title": "타임세일 기간",
+            "content": "HIS에서 '국내 타임세일'을 6월 19일 정오부터 6월 30일 오전 10시까지 진행해요. 짧은 기간이니 서둘러야 해요!",
+            "alt_text": "달력에 표시된 6월 19일부터 6월 30일까지의 기간"
+          },
+          {
+            "title": "파격 특가 상품",
+            "content": "특히 도쿄/하네다 출발 오키나와 3일 여행 상품이 19,800엔부터 시작하는 놀라운 가격으로 나왔어요. 이 외에도 오사카, 교토, 나라 등 다양한 지역 상품이 준비되어 있어요.",
+            "alt_text": "일본 지도와 함께 다양한 도시 아이콘이 표시된 이미지"
+          },
+          {
+            "title": "슈퍼 서머 세일",
+            "content": "이번 타임세일은 HIS의 '슈퍼 서머 세일'의 일환으로 진행되는 특별 할인 행사예요. 여름 휴가 계획 중이라면 절호의 기회!",
+            "alt_text": "화려한 세일 문구가 적힌 배너 이미지"
+          },
+          {
+            "title": "여행 상품 확인",
+            "content": "자세한 상품 내용과 예약은 HIS 공식 홈페이지에서 직접 확인하실 수 있어요. 출발일, 포함 내역 등을 꼼꼼히 비교해보세요.",
+            "alt_text": "여행 상품 목록이 보이는 컴퓨터 화면 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "타임세일 상품은 조기 마감될 수 있으니 관심 있는 상품은 빠르게 예약하는 것이 좋아요. 또한, 출발일과 포함 사항을 다시 한번 확인하는 센스!",
+            "alt_text": "체크리스트와 함께 '예약 필수!' 문구가 강조된 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 여행 계획 중이라면 주목! ✈️\nHIS에서 역대급 '국내 타임세일'을 진행해요!\n✅ 기간: 6/19(정오) ~ 6/30(오전 10시)\n✅ 특가 상품: 오키나와 3일 19,800엔부터!\n\n여름 휴가, 저렴하게 다녀올 절호의 찬스! 놓치지 마세요! ✨\n\n#일본여행 #HIS #타임세일 #여행특가 #일본항공권 #일본숙소 #오키나와여행 #오사카여행 #교토여행 #나라여행 #여름휴가 #여행스타그램 #플라잉재팬 #일본정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#HIS",
+          "#타임세일",
+          "#일본여행특가",
+          "#일본항공권",
+          "#일본숙소",
+          "#오키나와",
+          "#오사카",
+          "#교토",
+          "#나라",
+          "#여름휴가",
+          "#여행정보",
+          "#일본자유여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "달력에 표시된 6월 19일부터 6월 30일까지의 기간",
+          "일본 지도와 함께 다양한 도시 아이콘이 표시된 이미지",
+          "화려한 세일 문구가 적힌 배너 이미지",
+          "여행 상품 목록이 보이는 컴퓨터 화면 이미지",
+          "체크리스트와 함께 '예약 필수!' 문구가 강조된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌을 맞아 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 또는 주말 오후 / 기대 반응: 높은 클릭률과 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 가격 정보와 짧은 기간 한정이라는 긴급성을 부각하여 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japan travel sale, limited time offer, cheap flights Japan, Okinawa travel deal, Osaka travel discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-limited-time-offer,-cheap-flights-Japan,-Okinawa-travel-deal,-Osaka-travel-discount",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20limited%20time%20offer,%20cheap%20flights%20Japan,%20Okinawa%20travel%20deal,%20Osaka%20travel%20discount/"
+      }
+    },
+    {
+      "id": "plan_c73a85d0",
+      "created_at": "2026-06-21T05:10:23.383889",
+      "category": "transport",
+      "priority": "low",
+      "status": "new",
+      "source": {
+        "title": "JR東海ツアーズ、EX旅先予約で「旅する井上和ステッカー」を配布",
+        "url": "https://www.traicy.com/posts/20260620372119/",
+        "date": "Sat, 20 Jun 2026 12:15:00 +0000"
+      },
+      "relevance": {
+        "interest": "하",
+        "appeal": "일본 여행 중 예상치 못한 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨일본 여행 중 득템찬스✨",
+        "cards": [
+          {
+            "title": "스티커 증정",
+            "content": "JR 도카이 투어에서 'EX 여행지 예약'을 이용하면 '여행하는 이노우에 와카' 스티커를 받을 수 있습니다. NHK 대하드라마 '도요토미 형제!' 후편 홍보 기념으로 진행됩니다.",
+            "alt_text": "여행하는 이노우에 와카 스티커 이미지"
+          },
+          {
+            "title": "이벤트 기간",
+            "content": "이벤트는 2024년 5월 29일부터 2024년 12월 31일까지 진행됩니다. 놓치지 마세요!",
+            "alt_text": "달력에 표시된 5월 29일과 12월 31일"
+          },
+          {
+            "title": "참여 방법",
+            "content": "'EX 여행지 예약' 서비스를 통해 예약하면 스티커를 받을 수 있습니다. 구체적인 예약 방법은 JR 도카이 투어 웹사이트를 참고하세요.",
+            "alt_text": "스마트폰으로 예약하는 모습"
+          },
+          {
+            "title": "기념품 득템",
+            "content": "일본 드라마 팬이라면 더욱 반가울 특별한 기념품이 될 수 있습니다. 여행 중 뜻밖의 즐거움을 더해보세요.",
+            "alt_text": "스티커를 들고 환하게 웃는 사람"
+          },
+          {
+            "title": "주의사항",
+            "content": "스티커는 한정 수량으로 조기 소진될 수 있습니다. 방문 전 JR 도카이 투어에 문의하여 재고 여부를 확인하는 것이 좋습니다.",
+            "alt_text": "품절 표시가 있는 상품 진열대"
+          }
+        ],
+        "caption": "일본 여행 중 예상치 못한 득템 찬스! 🤩 JR 도카이 투어에서 'EX 여행지 예약' 시 '여행하는 이노우에 와카' 스티커를 증정하는 이벤트를 진행합니다. 2024년 12월 31일까지 진행되니, 일본 드라마 팬이라면 꼭 챙겨보세요! 🎁\n\n#일본여행 #플라잉재팬 #일본이벤트 #JR도카이투어 #스티커 #한정판 #일본여행꿀팁 #일본기념품",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본이벤트",
+          "#JR도카이투어",
+          "#스티커",
+          "#한정판",
+          "#일본여행꿀팁",
+          "#일본기념품",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본정보",
+          "#여행에미치다",
+          "#일본쇼핑",
+          "#일본드라마",
+          "#이노우에와카"
+        ],
+        "alt_texts": [
+          "여행하는 이노우에 와카 스티커 이미지",
+          "달력에 표시된 5월 29일과 12월 31일",
+          "스마트폰으로 예약하는 모습",
+          "스티커를 들고 환하게 웃는 사람",
+          "품절 표시가 있는 상품 진열대"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 드라마 팬, 한정판 굿즈 수집가 / 최적 게시 시간: 평일 오전 9시, 저녁 7시 / 기대 반응: 정보 공유 및 이벤트 참여 문의 / 이 콘텐츠의 강점: 한국인이 직접 참여 가능한 일본 현지 이벤트 정보 제공",
+      "image": {
+        "keyword": "traveler, sticker, Japan, event, limited edition, souvenir, J-drama",
+        "unsplash_url": "https://unsplash.com/s/photos/traveler,-sticker,-Japan,-event,-limited-edition,-souvenir,-J-drama",
+        "pexels_url": "https://www.pexels.com/search/traveler,%20sticker,%20Japan,%20event,%20limited%20edition,%20souvenir,%20J-drama/"
+      }
+    },
     {
       "id": "plan_3984e710",
       "created_at": "2026-06-21T01:39:58.161167",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen train interior, mobile ordering, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-train-interior,-mobile-ordering,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20train%20interior,%20mobile%20ordering,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_8d46bb54",
-      "created_at": "2026-06-18T01:41:58.067967",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "7月25日「水戸偕楽園花火大会」観覧席付き宿泊プラン、駅徒歩1分のホテルテラスザガーデン水戸で発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118038.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 불꽃축제 시즌! 숙소와 함께 예약하면 더 편리한 특별 플랜!"
-      },
-      "content": {
-        "thumbnail_title": "🔥7/25 미토 불꽃놀이🔥",
-        "cards": [
-          {
-            "title": "불꽃놀이 정보",
-            "content": "7월 25일, 제66회 미토 황문 축제 미토 가이라쿠엔 불꽃대회가 개최됩니다. 매년 여름밤을 화려하게 수놓는 명성 높은 불꽃놀이를 놓치지 마세요!",
-            "alt_text": "미토 가이라쿠엔 불꽃놀이 축제의 밤하늘을 수놓는 화려한 불꽃 이미지"
-          },
-          {
-            "title": "숙박 플랜 출시",
-            "content": "호텔 테라스 더 가든 미토에서 불꽃놀이 관람석이 포함된 특별 숙박 플랜을 출시했습니다. 편리하게 축제를 즐길 수 있는 기회입니다.",
-            "alt_text": "호텔 테라스 더 가든 미토 외관 이미지"
-          },
-          {
-            "title": "호텔 위치",
-            "content": "호텔 테라스 더 가든 미토는 미토시 미야초 1-7-20에 위치하고 있으며, JR 미토역에서 도보 1분 거리에 있어 접근성이 매우 뛰어납니다.",
-            "alt_text": "JR 미토역에서 호텔까지의 도보 경로를 나타내는 지도 이미지"
-          },
-          {
-            "title": "특별 혜택",
-            "content": "이 숙박 플랜을 이용하면 불꽃놀이 명당에서 편안하게 축제를 즐길 수 있습니다. 여름밤의 낭만을 만끽하세요!",
-            "alt_text": "호텔 객실 창문에서 불꽃놀이를 감상하는 사람들의 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기가 많을 것으로 예상되니, 관심 있다면 서둘러 예약하시는 것을 추천합니다. 정확한 예약 방법 및 문의는 호텔 공식 채널을 확인하세요.",
-            "alt_text": "예약 확인 버튼을 누르는 손 이미지"
-          }
-        ],
-        "caption": "✨일본 여름밤의 하이라이트! 7월 25일 미토 가이라쿠엔 불꽃놀이 축제✨\nJR 미토역 도보 1분, 호텔 테라스 더 가든 미토에서 불꽃놀이 관람석 포함 숙박 플랜이 출시되었습니다! 🎆\n올여름, 잊지 못할 추억을 만들어보세요! 💖\n\n#일본여행 #미토불꽃놀이 #여름축제 #호텔플랜 #일본숙소 #미토여행 #가이라쿠엔 #불꽃축제 #일본핫플 #플라잉재팬 #일본정보 #여행꿀팁 #여름휴가 #일본축제 #여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#미토불꽃놀이",
-          "#여름축제",
-          "#호텔플랜",
-          "#일본숙소",
-          "#미토여행",
-          "#가이라쿠엔",
-          "#불꽃축제",
-          "#일본핫플",
-          "#일본정보",
-          "#여행꿀팁",
-          "#여름휴가",
-          "#일본축제",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "미토 가이라쿠엔 불꽃놀이 축제의 밤하늘을 수놓는 화려한 불꽃 이미지",
-          "호텔 테라스 더 가든 미토 외관 이미지",
-          "JR 미토역에서 호텔까지의 도보 경로를 나타내는 지도 이미지",
-          "호텔 객실 창문에서 불꽃놀이를 감상하는 사람들의 모습",
-          "예약 확인 버튼을 누르는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행 예정인 2030 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 시기 적절한 축제 정보와 편리한 숙박 솔루션을 함께 제공",
-      "image": {
-        "keyword": "Mito Kairakuen Fireworks Festival, Hotel Terrace the Garden Mito, Japan summer festival, fireworks view from hotel",
-        "unsplash_url": "https://unsplash.com/s/photos/Mito-Kairakuen-Fireworks-Festival,-Hotel-Terrace-the-Garden-Mito,-Japan-summer-festival,-fireworks-view-from-hotel",
-        "pexels_url": "https://www.pexels.com/search/Mito%20Kairakuen%20Fireworks%20Festival,%20Hotel%20Terrace%20the%20Garden%20Mito,%20Japan%20summer%20festival,%20fireworks%20view%20from%20hotel/"
-      }
-    },
-    {
-      "id": "plan_702f405e",
-      "created_at": "2026-06-18T01:41:50.688408",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "セブン限定「エスターバニー」ふわふわバニティ＆チャームポーチ、7月21日発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118041.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "세븐일레븐 한정! 귀여움 폭발 에스터버니 굿즈 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨세븐한정 에스터버니✨",
-        "cards": [
-          {
-            "title": "7월 21일 출시!",
-            "content": "세븐일레븐에서만 만날 수 있는 에스터버니 신상 굿즈가 7월 21일에 동시 발매됩니다.",
-            "alt_text": "에스터버니 굿즈 출시일 안내"
-          },
-          {
-            "title": "파우치 2종",
-            "content": "부드러운 촉감의 '에스터버니 퍼지 파우치' (3,498엔)와 가방에 달 수 있는 '에스터버니 페이스 파우치' (3,289엔)를 만나보세요.",
-            "alt_text": "에스터버니 퍼지 파우치와 페이스 파우치 이미지"
-          },
-          {
-            "title": "한정 판매",
-            "content": "이번 신상은 寶島社 채널, 세븐일레븐, 세븐넷 쇼핑에서만 구매 가능합니다.",
-            "alt_text": "세븐일레븐, 세븐넷 쇼핑 등 구매처 안내"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "일본 여행 중 귀여운 기념품이나 선물용으로 딱! 서둘러 득템하세요.",
-            "alt_text": "여행 중 기념품으로 좋은 에스터버니 굿즈"
-          },
-          {
-            "title": "환율 체크 필수!",
-            "content": "엔화 환율 변동에 따라 실제 구매 가격은 달라질 수 있으니, 환율을 미리 확인하는 것이 좋습니다.",
-            "alt_text": "엔화 환율 확인 안내"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 💖 7월 21일, 세븐일레븐에서만 만날 수 있는 귀염뽀짝 에스터버니 굿즈가 출시됩니다! 🐰✨ 부드러운 퍼지 파우치와 가방에 달 수 있는 페이스 파우치까지! 💸 3,498엔 / 3,289엔. 宝島社 채널, 세븐일레븐, 세븐넷 쇼핑에서 한정 판매되니, 일본 여행 계획 있다면 놓치지 마세요! 😉\n\n#일본여행 #세븐일레븐 #에스터버니 #한정판 #일본쇼핑 #일본굿즈 #여행필수템 #일본여행정보 #플라잉재팬 #일본득템 #여행스타그램 #일본편의점 #여행준비 #귀여운거 #쇼핑스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#세븐일레븐",
-          "#에스터버니",
-          "#일본한정",
-          "#일본쇼핑",
-          "#일본굿즈",
-          "#여행필수템",
-          "#일본여행정보",
-          "#일본득템",
-          "#여행스타그램",
-          "#일본편의점",
-          "#여행준비",
-          "#귀여운거",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "에스터버니 굿즈 출시일 안내",
-          "에스터버니 퍼지 파우치와 페이스 파우치 이미지",
-          "세븐일레븐, 세븐넷 쇼핑 등 구매처 안내",
-          "여행 중 기념품으로 좋은 에스터버니 굿즈",
-          "엔화 환율 확인 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 6시 - 9시 / 기대 반응: 구매 욕구 자극, 정보 공유/저장 / 이 콘텐츠의 강점: 최신 한정판 정보, 구체적인 가격 및 구매처 명시, 귀여운 캐릭터로 인한 높은 관심 유도",
-      "image": {
-        "keyword": "Esther Bunny, Seven Eleven, Japan limited edition, fluffy pouch, charm pouch, cute goods, travel souvenir, Japan convenience store",
-        "unsplash_url": "https://unsplash.com/s/photos/Esther-Bunny,-Seven-Eleven,-Japan-limited-edition,-fluffy-pouch,-charm-pouch,-cute-goods,-travel-souvenir,-Japan-convenience-store",
-        "pexels_url": "https://www.pexels.com/search/Esther%20Bunny,%20Seven%20Eleven,%20Japan%20limited%20edition,%20fluffy%20pouch,%20charm%20pouch,%20cute%20goods,%20travel%20souvenir,%20Japan%20convenience%20store/"
       }
     }
   ]
