@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-20T04:36:31.842709",
+  "last_updated": "2026-06-21T01:40:00.161315",
   "plans": [
+    {
+      "id": "plan_3984e710",
+      "created_at": "2026-06-21T01:39:58.161167",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東海ツアーズ、新幹線＋ホテル予約がお得な「日～木曜出発限定！夏旅売り尽くしセール」開催",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118643.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름 일본 여행, 신칸센+호텔 묶어서 알뜰하게 즐기자!"
+      },
+      "content": {
+        "thumbnail_title": "☀️여름 일본여행 특가찬스!",
+        "cards": [
+          {
+            "title": "특가 기간",
+            "content": "JR도카이 투어에서 '일~목요일 출발 한정! 여름 여행 마무리 세일'을 진행해요. 6월 19일 13시부터 29일 20시까지 딱 10일간 진행되니 서둘러야 해요!",
+            "alt_text": "달력에 6월 19일부터 29일까지 표시된 이미지"
+          },
+          {
+            "title": "핵심 혜택",
+            "content": "이번 세일은 신칸센과 호텔을 함께 예약할 때 특별 할인이 적용되는 상품이에요. 알뜰하게 일본 여행을 계획할 수 있는 절호의 기회랍니다.",
+            "alt_text": "신칸센 티켓과 호텔 키 이미지가 합쳐진 이미지"
+          },
+          {
+            "title": "출발일 확인",
+            "content": "세일 기간 중에도 출발 요일에 따라 혜택이 달라질 수 있어요. 반드시 일요일부터 목요일 사이에 출발하는 상품인지 확인하세요!",
+            "alt_text": "요일별로 아이콘이 표시된 이미지 (일~목 강조)"
+          },
+          {
+            "title": "추천 여행지",
+            "content": "도쿄, 오사카, 나고야 등 주요 도시를 중심으로 다양한 상품이 준비되어 있을 것으로 예상돼요. 상세 상품은 JR도카이 투어에서 직접 확인해보세요!",
+            "alt_text": "일본 주요 도시들의 랜드마크 일러스트 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여름 휴가 시즌을 앞두고 있어 인기가 많을 것으로 예상됩니다. 마음에 드는 상품이 있다면 미리 예약하는 것이 좋아요!",
+            "alt_text": "여행 가방을 든 사람이 엄지척하는 이미지"
+          }
+        ],
+        "caption": "☀️JR도카이 투어에서 여름 여행 마무리 특가 세일을 시작합니다! 6월 19일~29일, 일~목요일 출발 한정으로 신칸센+호텔을 특별 할인가에 예약할 수 있어요. 알뜰하게 일본 여행을 계획할 절호의 기회! 놓치지 마세요! ✈️\n\n#일본여행 #JR도카이투어 #신칸센할인 #호텔특가 #여름휴가 #일본여행준비 #여행스타그램 #일본소식 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR도카이투어",
+          "#신칸센",
+          "#일본호텔",
+          "#여름여행",
+          "#여행특가",
+          "#일본교통",
+          "#여행정보",
+          "#일본자유여행",
+          "#가성비여행",
+          "#여행팁",
+          "#일본",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "달력에 6월 19일부터 29일까지 표시된 이미지",
+          "신칸센 티켓과 호텔 키 이미지가 합쳐진 이미지",
+          "요일별로 아이콘이 표시된 이미지 (일~목 강조)",
+          "일본 주요 도시들의 랜드마크 일러스트 이미지",
+          "여행 가방을 든 사람이 엄지척하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 일본 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오후 1시-3시 / 기대 반응: 높은 관심과 예약 문의, 정보 공유 / 이 콘텐츠의 강점: 구체적인 기간, 혜택, 추천 여행지 제시로 여행 계획에 즉각적인 도움 제공",
+      "image": {
+        "keyword": "Japan summer travel sale, Shinkansen and hotel package deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-summer-travel-sale,-Shinkansen-and-hotel-package-deal",
+        "pexels_url": "https://www.pexels.com/search/Japan%20summer%20travel%20sale,%20Shinkansen%20and%20hotel%20package%20deal/"
+      }
+    },
+    {
+      "id": "plan_bbadd829",
+      "created_at": "2026-06-21T01:39:50.521778",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ぴよりん」15周年メモリアルブック発売。ぬいぐるみチャーム＆ぷにぷにシール付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118732.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "나고야 명물 '삐요링' 15주년 기념 특별 굿즈 출시!"
+      },
+      "content": {
+        "thumbnail_title": "삐요링 15주년 기념 굿즈 💖",
+        "cards": [
+          {
+            "title": "기념 북 출시",
+            "content": "나고야의 인기 디저트 '삐요링'이 출시 15주년을 맞아 특별 기념 북을 발매합니다. JR 도카이 푸드 서비스가 감수하여 삐요링의 모든 것을 담았어요.",
+            "alt_text": "삐요링 15주년 기념 메모리얼 북 표지 이미지"
+          },
+          {
+            "title": "특별 부록",
+            "content": "이번 기념 북에는 귀여운 삐요링 ぬいぐるみ 참과 쫀득한 삐요링 스티커가 포함되어 있습니다. 소장 가치가 높은 한정판 굿즈예요.",
+            "alt_text": "삐요링 ぬいぐるみ 참과 삐요링 스티커 이미지"
+          },
+          {
+            "title": "출시일 및 가격",
+            "content": "기념 북은 2024년 7월 27일에 발매되며, 가격은 3160엔입니다. 여행 전에 미리 확인하고 준비하세요!",
+            "alt_text": "삐요링 기념 북 출시일 및 가격 정보 이미지"
+          },
+          {
+            "title": "나고야 필수템",
+            "content": "나고야 여행 필수 코스로 꼽히는 삐요링! 이번 기념 북으로 삐요링의 매력을 더욱 깊이 느껴보세요.",
+            "alt_text": "다양한 삐요링 디저트 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "일본 현지 서점이나 온라인 판매처를 통해 구매 가능하며, 품절될 수 있으니 서둘러 예약하는 것을 추천합니다.",
+            "alt_text": "삐요링 굿즈를 구매하는 손 이미지"
+          }
+        ],
+        "caption": "나고야의 귀염둥이 '삐요링'이 15주년을 맞이했어요! 🐥\n\nJR 도카이 푸드 서비스가 감수한 15주년 기념 메모리얼 북이 7월 27일 출시됩니다. 📖\n\n귀여운 삐요링 ぬいぐるみ 참과 쫀득한 삐요링 스티커가 포함된 한정판 굿즈! 💖\n\n나고야 여행 필수템, 삐요링의 모든 것을 담은 특별한 기념 북을 놓치지 마세요!\n\n#삐요링 #나고야여행 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#삐요링",
+          "#나고야",
+          "#나고야여행",
+          "#일본디저트",
+          "#일본한정",
+          "#여행정보",
+          "#일본굿즈",
+          "#기념품",
+          "#여행필수템",
+          "#여행스타그램",
+          "#일본쇼핑",
+          "#해외여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "삐요링 15주년 기념 메모리얼 북 표지 이미지",
+          "삐요링 ぬいぐるみ 참과 삐요링 스티커 이미지",
+          "삐요링 기념 북 출시일 및 가격 정보 이미지",
+          "다양한 삐요링 디저트 이미지",
+          "삐요링 굿즈를 구매하는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 나고야 여행 예정인 2040 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 나고야의 인기 디저트 관련 신상 굿즈 정보로 즉각적인 여행 계획 반영 가능",
+      "image": {
+        "keyword": "piyorin 15th anniversary memorial book plush charm sticker nagoya japan",
+        "unsplash_url": "https://unsplash.com/s/photos/piyorin-15th-anniversary-memorial-book-plush-charm-sticker-nagoya-japan",
+        "pexels_url": "https://www.pexels.com/search/piyorin%2015th%20anniversary%20memorial%20book%20plush%20charm%20sticker%20nagoya%20japan/"
+      }
+    },
     {
       "id": "plan_05904b9c",
       "created_at": "2026-06-20T04:36:29.842516",
@@ -923,160 +1077,6 @@
         "keyword": "Esther Bunny, Seven Eleven, Japan limited edition, fluffy pouch, charm pouch, cute goods, travel souvenir, Japan convenience store",
         "unsplash_url": "https://unsplash.com/s/photos/Esther-Bunny,-Seven-Eleven,-Japan-limited-edition,-fluffy-pouch,-charm-pouch,-cute-goods,-travel-souvenir,-Japan-convenience-store",
         "pexels_url": "https://www.pexels.com/search/Esther%20Bunny,%20Seven%20Eleven,%20Japan%20limited%20edition,%20fluffy%20pouch,%20charm%20pouch,%20cute%20goods,%20travel%20souvenir,%20Japan%20convenience%20store/"
-      }
-    },
-    {
-      "id": "plan_cd57f04e",
-      "created_at": "2026-06-17T05:04:57.833760",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "全国SA・PAで「ポケモン」コラボ。伝説・幻も登場するスタンプラリーやグッズ販売、7月1日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2117657.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "전국 고속도로 휴게소에서 포켓몬과 함께하는 특별한 일본 여행!"
-      },
-      "content": {
-        "thumbnail_title": "⚡️일본 고속도로 휴게소 포켓몬 이벤트⚡️",
-        "cards": [
-          {
-            "title": "포켓몬 스탬프 랠리",
-            "content": "7월 1일부터 일본 전국 고속도로 휴게소(SA/PA)에서 '포켓몬 30주년 기념' 특별 캠페인이 시작돼요. 전국 150곳 이상 휴게소에서 포켓몬 스탬프 랠리에 참여할 수 있습니다.",
-            "alt_text": "일본 고속도로 휴게소에서 포켓몬 스탬프 랠리를 즐기는 모습"
-          },
-          {
-            "title": "레전드 포켓몬 등장!",
-            "content": "이번 캠페인에는 특별히 전설의 포켓몬과 환상의 포켓몬들도 등장한다고 해요. 어떤 포켓몬을 만날 수 있을지 기대해주세요!",
-            "alt_text": "일본 고속도로 휴게소 이벤트에 등장하는 전설의 포켓몬 이미지"
-          },
-          {
-            "title": "한정 굿즈 판매",
-            "content": "캠페인 기간 동안 휴게소에서는 포켓몬 30주년 기념 한정판 굿즈도 판매될 예정입니다. 여행 기념품으로 특별한 선물을 득템할 기회예요.",
-            "alt_text": "일본 고속도로 휴게소에서 판매되는 포켓몬 한정판 굿즈 진열 모습"
-          },
-          {
-            "title": "운전 중 휴식 꿀팁",
-            "content": "일본에서 렌터카 여행을 계획 중이라면, 전국 고속도로 휴게소를 적극 활용해보세요. 맛있는 음식과 함께 포켓몬 이벤트까지 즐길 수 있어 더욱 즐거운 여행이 될 거예요.",
-            "alt_text": "일본 고속도로 휴게소에서 휴식을 취하며 포켓몬 굿즈를 구경하는 여행객"
-          },
-          {
-            "title": "이벤트 기간 확인!",
-            "content": "이벤트는 7월 1일부터 시작되며, 종료일은 별도 공지될 예정입니다. 출발 전에 이벤트 상세 내용을 꼭 확인하시고, 놓치지 마세요!",
-            "alt_text": "일본 고속도로 휴게소 포켓몬 이벤트 안내 배너 이미지"
-          }
-        ],
-        "caption": "🚗일본 렌터카 여행 필수코스!🚗\n전국 고속도로 휴게소에서 포켓몬 30주년 기념 특별 캠페인이 7월 1일부터 시작됩니다! ⚡️\n전설/환상의 포켓몬도 만날 수 있고, 한정판 굿즈까지 득템 가능! 🤩\n일본 드라이브 여행 계획 있다면, 놓칠 수 없는 꿀정보 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본휴게소",
-          "#포켓몬",
-          "#포켓몬30주년",
-          "#일본렌터카",
-          "#일본드라이브",
-          "#일본이벤트",
-          "#일본여행꿀팁",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본",
-          "#포켓몬스터",
-          "#7월일본여행",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "일본 고속도로 휴게소에서 포켓몬 스탬프 랠리를 즐기는 모습",
-          "일본 고속도로 휴게소 이벤트에 등장하는 전설의 포켓몬 이미지",
-          "일본 고속도로 휴게소에서 판매되는 포켓몬 한정판 굿즈 진열 모습",
-          "일본 고속도로 휴게소에서 휴식을 취하며 포켓몬 굿즈를 구경하는 여행객",
-          "일본 고속도로 휴게소 포켓몬 이벤트 안내 배너 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 렌터카 여행 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 렌터카 여행 계획에 대한 긍정적 영향 / 이 콘텐츠의 강점: 포켓몬이라는 대중적인 소재와 일본 렌터카 여행이라는 구체적인 상황을 결합하여 실질적인 여행 계획에 도움을 주는 정보 제공",
-      "image": {
-        "keyword": "japan highway rest stop, pokemon collaboration, stamp rally, limited edition goods, travel event",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-rest-stop,-pokemon-collaboration,-stamp-rally,-limited-edition-goods,-travel-event",
-        "pexels_url": "https://www.pexels.com/search/japan%20highway%20rest%20stop,%20pokemon%20collaboration,%20stamp%20rally,%20limited%20edition%20goods,%20travel%20event/"
-      }
-    },
-    {
-      "id": "plan_a7ba6f72",
-      "created_at": "2026-06-17T05:04:50.311547",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "プレジャーリゾート伊豆赤沢温泉、1泊2食付き最大30％オフ。絶景露天風呂や海洋深層水プール、ゲーム施設も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2117648.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 최대 30% 할인 찬스! 료칸 예약 전 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 료칸 최대 30% 할인!",
-        "cards": [
-          {
-            "title": "특급 할인!",
-            "content": "일본 료칸 예약 시 최대 30% 할인 혜택을 받을 수 있는 절호의 기회! 6월 20일까지 진행되는 楽天 트래블 슈퍼 세일을 놓치지 마세요.",
-            "alt_text": "일본 료칸 할인 배너 이미지"
-          },
-          {
-            "title": "할인 방법",
-            "content": "楽天 트래블에서 제공하는 할인 쿠폰을 적용하면 추가 할인이 가능합니다. 이미 판매 중인 세일 플랜과 쿠폰을 함께 사용하면 최대 30%까지 할인받을 수 있습니다.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "인기 온천지",
-            "content": "이번 세일에는 이즈 아카자와 온천 등 유명 온천 지역의 숙소가 포함됩니다. 멋진 노천탕과 해양 심층수 풀, 게임 시설까지 갖춘 곳을 특별한 가격으로 즐겨보세요.",
-            "alt_text": "일본 온천 마을 풍경 이미지"
-          },
-          {
-            "title": "포함 내역",
-            "content": "대부분의 할인 플랜은 1박 2식(조식, 석식)이 포함되어 있어 더욱 알찬 여행을 계획할 수 있습니다. 맛있는 일본 전통 요리를 맛보며 휴식을 만끽하세요.",
-            "alt_text": "일본 전통 가이세키 요리 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 있는 숙소는 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 楽天 트래블 앱 또는 웹사이트에서 자세한 내용을 확인하세요.",
-            "alt_text": "일본 료칸 예약 화면 이미지"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? ♨️\n\n지금 楽天 트래블에서 슈퍼 세일 중! 🤩\n\n인기 료칸 최대 30% 할인받고\n1박 2식 포함 혜택까지 누리세요! 🍣\n\n6월 20일까지 진행되니 놓치지 마세요!\n\n#일본여행 #료칸할인 #온천여행 #일본숙소 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본료칸",
-          "#온천여행",
-          "#일본숙소",
-          "#료칸",
-          "#일본온천",
-          "#일본할인",
-          "#여행정보",
-          "#일본여행준비",
-          "#해외여행",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#일본특가",
-          "#가성비여행"
-        ],
-        "alt_texts": [
-          "일본 료칸 할인 배너 이미지",
-          "할인 쿠폰 이미지",
-          "일본 온천 마을 풍경 이미지",
-          "일본 전통 가이세키 요리 이미지",
-          "일본 료칸 예약 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 숙소 이용을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 1박 2식 포함 정보 제공으로 실질적 도움",
-      "image": {
-        "keyword": "japan ryokan discount, onsen hotel sale, japan travel deals",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-ryokan-discount,-onsen-hotel-sale,-japan-travel-deals",
-        "pexels_url": "https://www.pexels.com/search/japan%20ryokan%20discount,%20onsen%20hotel%20sale,%20japan%20travel%20deals/"
       }
     }
   ]
