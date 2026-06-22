@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-22T01:41:14.056682",
+  "last_updated": "2026-06-22T05:23:26.702087",
   "plans": [
+    {
+      "id": "plan_166daff0",
+      "created_at": "2026-06-22T05:23:24.701885",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "しまむら、6月24日から「超サプライズセール!!!」。超特価品やノベルティ配布、ハッピーバッグも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118906.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 인기 SPA 브랜드 '시마무라'의 역대급 초특가 세일 소식!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 시마무라 6/24 초특가 세일!",
+        "cards": [
+          {
+            "title": "역대급 세일!",
+            "content": "일본 전국의 패션센터 시마무라에서 6월 24일부터 '초 서프라이즈 세일!!!'을 개최합니다. 평소 눈여겨봤던 상품을 놀라운 가격에 득템할 절호의 기회!",
+            "alt_text": "시마무라 매장에서 쇼핑하는 사람들"
+          },
+          {
+            "title": "다양한 혜택",
+            "content": "이번 세일에서는 파격적인 초특가 상품은 물론, 기간 한정 노벨티 증정 및 특별한 해피백까지 만나볼 수 있습니다. 어떤 상품이 기다릴지 기대되네요!",
+            "alt_text": "세일 홍보 현수막"
+          },
+          {
+            "title": "쇼핑 찬스",
+            "content": "일본 여행 중이라면 절대 놓쳐서는 안 될 시마무라의 특별 세일! 의류, 잡화 등 다양한 상품을 저렴하게 구매할 수 있는 좋은 기회입니다.",
+            "alt_text": "다양한 의류와 잡화가 진열된 시마무라 매장"
+          },
+          {
+            "title": "여행 전 체크!",
+            "content": "세일 시작일은 6월 24일입니다. 여행 일정에 맞춰 시마무라 방문 계획을 세워보세요! (매장별 재고 상황은 다를 수 있습니다.)",
+            "alt_text": "달력에 6월 24일이 표시된 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "세일 기간 동안 인기 상품은 빠르게 소진될 수 있으니, 오픈 시간에 맞춰 방문하는 것을 추천합니다. 원하는 상품을 득템할 확률이 높아져요!",
+            "alt_text": "시마무라 매장 앞에서 줄 서 있는 사람들"
+          }
+        ],
+        "caption": "일본 여행 필수 코스! 인기 SPA 브랜드 '시마무라'의 역대급 '초 서프라이즈 세일!!!'이 6월 24일부터 시작됩니다! 🤩\n\n놀라운 초특가 상품, 한정판 노벨티, 특별한 해피백까지! 일본 여행 중이라면 이 기회를 절대 놓치지 마세요!\n\n지금 바로 여행 계획 세우고 시마무라에서 득템 찬스 잡으세요! ✈️🇯🇵\n\n#플라잉재팬 #일본여행 #시마무라 #일본쇼핑 #득템찬스 #일본패션 #일본직구 #해외여행 #여행정보 #세일정보 #6월여행 #일본생활 #일본쇼핑리스트 #패션스타그램 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#시마무라",
+          "#일본쇼핑",
+          "#득템찬스",
+          "#일본패션",
+          "#일본직구",
+          "#해외여행",
+          "#여행정보",
+          "#세일정보",
+          "#6월여행",
+          "#일본생활",
+          "#일본쇼핑리스트",
+          "#패션스타그램",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "시마무라 매장에서 쇼핑하는 사람들",
+          "세일 홍보 현수막",
+          "다양한 의류와 잡화가 진열된 시마무라 매장",
+          "달력에 6월 24일이 표시된 모습",
+          "시마무라 매장 앞에서 줄 서 있는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 관심과 공유, 실제 방문으로 이어질 가능성 높음 / 이 콘텐츠의 강점: 시기적절한 쇼핑 정보, 구체적인 세일 시작일 명시",
+      "image": {
+        "keyword": "Shimamura fashion, Japanese shopping sale, discount clothing store Japan, limited edition goods, happy bag promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/Shimamura-fashion,-Japanese-shopping-sale,-discount-clothing-store-Japan,-limited-edition-goods,-happy-bag-promotion",
+        "pexels_url": "https://www.pexels.com/search/Shimamura%20fashion,%20Japanese%20shopping%20sale,%20discount%20clothing%20store%20Japan,%20limited%20edition%20goods,%20happy%20bag%20promotion/"
+      }
+    },
+    {
+      "id": "plan_6e6974f8",
+      "created_at": "2026-06-22T05:23:18.480629",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「大江戸温泉物語 ながやま」8月1日リニューアル。追加料金なしで遊び放題＆くつろぎエンタメリゾートに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2118933.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "온천 리뉴얼로 더욱 즐겁고 편안하게 즐길 수 있는 일본 온천 여행 정보!"
+      },
+      "content": {
+        "thumbnail_title": "♨️ 8/1 일본 온천 리뉴얼!",
+        "cards": [
+          {
+            "title": "온천 리뉴얼",
+            "content": "일본 이시카와현 가가시에 위치한 '오에도 온천 이야기 나가야마'가 8월 1일 새롭게 리뉴얼 오픈합니다.",
+            "alt_text": "일본 온천 리뉴얼 오픈 안내"
+          },
+          {
+            "title": "추가 요금 없이!",
+            "content": "리뉴얼 후에는 추가 요금 없이 온천 시설을 무제한으로 이용할 수 있습니다.",
+            "alt_text": "추가 요금 없이 즐기는 온천"
+          },
+          {
+            "title": "다양한 즐길 거리",
+            "content": "온천뿐만 아니라 엔터테인먼트 시설까지 갖춘 리조트에서 편안한 휴식을 즐겨보세요.",
+            "alt_text": "온천과 함께 즐기는 엔터테인먼트"
+          },
+          {
+            "title": "가장 빠른 정보",
+            "content": "새롭게 단장한 온천에서 잊지 못할 추억을 만들 수 있도록, 가장 먼저 소식을 전해드립니다.",
+            "alt_text": "새로운 추억을 위한 온천 여행"
+          },
+          {
+            "title": "꿀팁",
+            "content": "리뉴얼 오픈 직후에는 사람이 몰릴 수 있으니, 방문 전 운영 시간 및 예약 가능 여부를 확인하는 것이 좋습니다.",
+            "alt_text": "방문 전 확인 필수!"
+          }
+        ],
+        "caption": "♨️ 일본 온천 여행 계획 중이시라면 주목! ♨️\n\n이시카와현 가가시에 위치한 '오에도 온천 이야기 나가야마'가 8월 1일, 더욱 새롭고 풍성하게 리뉴얼 오픈합니다! 🎉\n\n이번 리뉴얼을 통해 추가 요금 없이 온천을 마음껏 즐길 수 있으며, 다양한 엔터테인먼트 시설까지 갖춘 복합 리조트로 재탄생했어요. 🤩\n\n여름 휴가철, 시원한 온천과 함께 특별한 추억을 만들고 싶다면 이곳을 추천합니다! 💯\n\n#일본온천 #오에도온천 #온천여행 #이시카와현 #사가시 #일본여행정보 #여름휴가 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#오에도온천",
+          "#온천여행",
+          "#이시카와현",
+          "#가가시",
+          "#일본여행정보",
+          "#여름휴가",
+          "#여행꿀팁",
+          "#일본숙소",
+          "#일본가볼만한곳",
+          "#해외여행",
+          "#일본온천추천",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "일본 온천 리뉴얼 오픈 안내",
+          "추가 요금 없이 즐기는 온천",
+          "온천과 함께 즐기는 엔터테인먼트",
+          "새로운 추억을 위한 온천 여행",
+          "방문 전 확인 필수!"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획하는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 최신 리뉴얼 정보로 시의성이 높고, 추가 요금 없이 즐길 수 있다는 점이 매력적.",
+      "image": {
+        "keyword": "japanese onsen, hot spring resort, renovated spa, ishikawa prefecture, kaga city, travel japan",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-onsen,-hot-spring-resort,-renovated-spa,-ishikawa-prefecture,-kaga-city,-travel-japan",
+        "pexels_url": "https://www.pexels.com/search/japanese%20onsen,%20hot%20spring%20resort,%20renovated%20spa,%20ishikawa%20prefecture,%20kaga%20city,%20travel%20japan/"
+      }
+    },
     {
       "id": "plan_63aae4ca",
       "created_at": "2026-06-22T01:41:12.056525",
@@ -923,160 +1077,6 @@
         "keyword": "Sendai station gyutan bento",
         "unsplash_url": "https://unsplash.com/s/photos/Sendai-station-gyutan-bento",
         "pexels_url": "https://www.pexels.com/search/Sendai%20station%20gyutan%20bento/"
-      }
-    },
-    {
-      "id": "plan_7ccb15f2",
-      "created_at": "2026-06-19T02:05:59.546210",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、夏の「mofusand」Tシャツは本日発売。アウトドア楽しむにゃんこたち4種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118313.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "인기 캐릭터 'mofusand'와 유니클로의 여름 콜라보 UT가 6월 19일 출시되어 일본 쇼핑 리스트에 추가할 만한 아이템입니다."
-      },
-      "content": {
-        "thumbnail_title": "유니클로xmofusand 💖 UT 출시!",
-        "cards": [
-          {
-            "title": "콜라보 UT 출시",
-            "content": "인기 캐릭터 'mofusand'와 유니클로의 여름 UT 컬렉션이 2024년 6월 19일(수)에 발매됩니다.",
-            "alt_text": "유니클로와 mofusand 캐릭터가 콜라보한 티셔츠 이미지"
-          },
-          {
-            "title": "4가지 디자인",
-            "content": "이번 컬렉션은 여름을 즐기는 귀여운 고양이 'mofusand' 캐릭터가 담긴 총 4가지 디자인으로 출시됩니다.",
-            "alt_text": "mofusand 캐릭터가 등장하는 유니클로 티셔츠 디자인 4종"
-          },
-          {
-            "title": "일본 쇼핑 팁",
-            "content": "일본 여행 중 유니클로 매장에서 귀여운 여름 티셔츠를 득템할 기회입니다. 한정판일 수 있으니 서두르세요!",
-            "alt_text": "일본 유니클로 매장 내부 또는 쇼핑하는 모습"
-          },
-          {
-            "title": "다양한 활용",
-            "content": "일상복은 물론, 가볍게 입고 일본의 여름 축제나 여행지를 돌아다니기에도 좋습니다.",
-            "alt_text": "mofusand 티셔츠를 입고 일본 여행지에서 즐기는 모습"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "출시일인 6월 19일 이후 품절될 수 있으니, 관심 있다면 여행 일정에 맞춰 방문해보세요.",
-            "alt_text": "유니클로 매장에서 mofusand 티셔츠를 고르는 모습"
-          }
-        ],
-        "caption": "귀여움 폭발! 💖 유니클로xmofusand 여름 UT 컬렉션이 6월 19일 출시됩니다! 🐱\n일본 여행 가신다면 꼭 득템하세요! 4가지 디자인으로 여름을 더욱 특별하게 만들어줄 거예요.\n여행 기념품으로도 최고! 👍\n#유니클로 #mofusand #일본쇼핑 #득템찬스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#mofusand",
-          "#일본쇼핑",
-          "#여름휴가",
-          "#여행준비",
-          "#일본쇼핑리스트",
-          "#한정판",
-          "#캐릭터굿즈",
-          "#일본패션",
-          "#여행스타그램",
-          "#쇼핑스타그램",
-          "#일본자유여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "유니클로와 mofusand 캐릭터가 콜라보한 티셔츠 이미지",
-          "mofusand 캐릭터가 등장하는 유니클로 티셔츠 디자인 4종",
-          "일본 유니클로 매장 내부 또는 쇼핑하는 모습",
-          "mofusand 티셔츠를 입고 일본 여행지에서 즐기는 모습",
-          "유니클로 매장에서 mofusand 티셔츠를 고르는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 최신 유행 및 귀여운 캐릭터 상품에 관심 있는 20-30대 여성 여행객 / 최적 게시 시간: 오후 5-7시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 인기 캐릭터와 글로벌 브랜드의 콜라보, 시의성 높은 신상품 정보",
-      "image": {
-        "keyword": "uniqlo mofusand t-shirt japan launch",
-        "unsplash_url": "https://unsplash.com/s/photos/uniqlo-mofusand-t-shirt-japan-launch",
-        "pexels_url": "https://www.pexels.com/search/uniqlo%20mofusand%20t-shirt%20japan%20launch/"
-      }
-    },
-    {
-      "id": "plan_f9af55fe",
-      "created_at": "2026-06-19T02:05:50.879637",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR「北海道＆東日本パス」夏季分は明日発売。普通列車が7日間乗り放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118426.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "홋카이도와 동북부 지역을 7일간 무제한으로 여행할 수 있는 JR 패스가 곧 발매됩니다!"
-      },
-      "content": {
-        "thumbnail_title": "JR 7일 무제한 패스 ✈️",
-        "cards": [
-          {
-            "title": "발매일 확인!",
-            "content": "JR北海道와 JR동일본에서 제공하는 '홋카이도 & 동일본 패스' 여름 시즌권이 6월 20일에 발매됩니다. 놓치지 마세요!",
-            "alt_text": "JR 패스 발매일 안내"
-          },
-          {
-            "title": "7일 무제한!",
-            "content": "이 패스를 사용하면 7일 동안 JR 홋카이도와 JR동일본 지역의 보통 열차를 무제한으로 이용할 수 있습니다. 여행 계획을 세워보세요!",
-            "alt_text": "JR 열차 무제한 탑승 이미지"
-          },
-          {
-            "title": "여름 시즌권",
-            "content": "특히 여름 시즌을 겨냥한 특별권이니, 여름 휴가철 일본 북부 지역 여행을 계획하고 있다면 필수템입니다.",
-            "alt_text": "여름 시즌 일본 북부 풍경"
-          },
-          {
-            "title": "실속 교통권",
-            "content": "홋카이도와 동북부 지역을 여러 도시 이동하며 여행할 계획이라면, 개별적으로 티켓을 구매하는 것보다 훨씬 경제적입니다.",
-            "alt_text": "일본 철도 노선도"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "패스 구매 전, 이용 기간 및 지역 범위를 정확히 확인하시고, 신칸센 등 일부 열차는 이용이 제한될 수 있으니 꼭 확인하세요!",
-            "alt_text": "JR 패스 이용 주의사항 안내"
-          }
-        ],
-        "caption": "홋카이도 & 동일본 패스, 여름 시즌권 7월 20일 발매! 🚄\n7일간 JR 보통 열차 무제한 탑승으로 북쪽 끝까지 시원하게 여행하세요! ❄️\n\n✅ 발매일: 6월 20일\n✅ 이용 기간: 7일 무제한\n\n올여름, JR 패스로 일본 북부를 정복하세요! 🇯🇵\n\n#일본여행 #홋카이도여행 #동일본여행 #JR패스 #일본교통 #여름휴가 #여행준비 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#홋카이도여행",
-          "#동일본여행",
-          "#JR패스",
-          "#일본교통",
-          "#여름휴가",
-          "#여행준비",
-          "#플라잉재팬",
-          "#일본자유여행",
-          "#일본철도",
-          "#여행정보",
-          "#해외여행",
-          "#일본가볼만한곳",
-          "#북해도",
-          "#일본"
-        ],
-        "alt_texts": [
-          "JR 패스 발매일 안내",
-          "JR 열차 무제한 탑승 이미지",
-          "여름 시즌 일본 북부 풍경",
-          "일본 철도 노선도",
-          "JR 패스 이용 주의사항 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 북부 지역 장거리 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 패스 구매 정보에 대한 높은 관심과 문의 / 이 콘텐츠의 강점: 구체적인 발매일과 이용 혜택을 명확히 제시하여 여행 계획에 즉각적인 도움 제공",
-      "image": {
-        "keyword": "JR Hokkaido and East Japan Pass, Japanese train, Hokkaido landscape, train ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Hokkaido-and-East-Japan-Pass,-Japanese-train,-Hokkaido-landscape,-train-ticket",
-        "pexels_url": "https://www.pexels.com/search/JR%20Hokkaido%20and%20East%20Japan%20Pass,%20Japanese%20train,%20Hokkaido%20landscape,%20train%20ticket/"
       }
     }
   ]
