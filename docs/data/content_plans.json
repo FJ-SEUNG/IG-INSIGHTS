@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-23T04:15:56.309941",
+  "last_updated": "2026-06-24T00:11:52.264016",
   "plans": [
+    {
+      "id": "plan_2238e348",
+      "created_at": "2026-06-24T00:11:50.263824",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "露天風呂付きの和洋室も備える「ラビスタ南阿蘇」開業。プレオープン記念の格安プラン提供も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2119445.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 큐슈, 아소산 근처 신규 온천 호텔 오픈! 특별 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨아소산 신상 온천 호텔 오픈!✨",
+        "cards": [
+          {
+            "title": "신규 호텔 오픈",
+            "content": "일본 구마모토현 아소군 남아소촌에 '라비스타 남아소'가 8월 3일 그랜드 오픈합니다. 객실에는 노천탕이 딸린 화양실도 마련되어 있습니다.",
+            "alt_text": "새롭게 오픈하는 일본 온천 호텔 외관"
+          },
+          {
+            "title": "특별 할인",
+            "content": "그랜드 오픈 기념으로 파격적인 가격의 특별 플랜을 제공합니다. 오픈 기념 할인을 놓치지 마세요!",
+            "alt_text": "호텔 할인 프로모션 배너 이미지"
+          },
+          {
+            "title": "예약 가능",
+            "content": "이미 숙박 예약이 가능하며, 특히 노천탕이 있는 객실은 인기가 많을 것으로 예상됩니다. 서둘러 예약하세요!",
+            "alt_text": "호텔 예약 페이지 스크린샷"
+          },
+          {
+            "title": "위치 정보",
+            "content": "주소: 구마모토현 아소군 남아소촌 히사이치 4411-9. 아름다운 아소산의 풍경을 즐길 수 있는 곳에 위치합니다.",
+            "alt_text": "일본 아소산의 아름다운 풍경 사진"
+          },
+          {
+            "title": "꿀팁",
+            "content": "오픈 기념 특별 플랜은 한정 수량이니 서둘러 예약하는 것이 좋습니다. 큐슈 여행 계획 중이라면 눈여겨보세요!",
+            "alt_text": "여행 가방과 일본 지도 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 큐슈 여행 계획 중이라면 주목! 🇯🇵\n\n아름다운 아소산 근처에 신규 온천 호텔 '라비스타 남아소'가 8월 3일 오픈합니다! ✨\n\n노천탕이 딸린 화양실까지 갖춘 이곳에서 특별한 휴식을 즐겨보세요. ♨️\n\n지금 바로 예약하고 오픈 기념 특별 할인 플랜도 놓치지 마세요! 💰\n\n#일본여행 #큐슈여행 #아소산 #온천호텔 #신규오픈 #라비스타남아소 #일본숙소 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#큐슈여행",
+          "#아소산",
+          "#일본온천",
+          "#신규호텔",
+          "#라비스타남아소",
+          "#일본숙소",
+          "#여행스타그램",
+          "#일본여행정보",
+          "#일본자유여행",
+          "#여름휴가",
+          "#가을여행",
+          "#호텔추천",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "새롭게 오픈하는 일본 온천 호텔 외관",
+          "호텔 할인 프로모션 배너 이미지",
+          "호텔 예약 페이지 스크린샷",
+          "일본 아소산의 아름다운 풍경 사진",
+          "여행 가방과 일본 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 큐슈 지역 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 신규 오픈이라는 시의성과 파격적인 할인 정보 제공",
+      "image": {
+        "keyword": "Japanese onsen hotel, Aso mountain, new hotel opening, hot spring bath, Japanese luxury hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-hotel,-Aso-mountain,-new-hotel-opening,-hot-spring-bath,-Japanese-luxury-hotel",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20hotel,%20Aso%20mountain,%20new%20hotel%20opening,%20hot%20spring%20bath,%20Japanese%20luxury%20hotel/"
+      }
+    },
+    {
+      "id": "plan_d889d1bb",
+      "created_at": "2026-06-24T00:11:44.438652",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "箱根ホテル小涌園、1泊2食プランが最大30％オフ。ユネッサン＆森の湯に入り放題、豪華ビュッフェは飲み放題付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2119453.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 리조트 1박 2식 최대 30% 할인 찬스! 료칸 숙박과 온천, 뷔페까지 한 번에 즐겨보세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️하코네 호텔 30% 할인!",
+        "cards": [
+          {
+            "title": "최대 30% 할인",
+            "content": "일본 하코네의 '호텔 쇼우코엔'에서 1박 2식 플랜을 최대 30% 할인된 가격으로 예약할 수 있어요. 6월 30일까지 진행되는 '스페셜 쿠폰 위크'를 활용하세요!",
+            "alt_text": "호텔 쇼우코엔 30% 할인 배너"
+          },
+          {
+            "title": "온천 무제한",
+            "content": "하코네의 유명 온천 시설인 '유네상'과 '모리노유'를 숙박 기간 동안 무제한으로 이용 가능합니다. 다양한 테마의 온천을 즐겨보세요.",
+            "alt_text": "유네상 온천 시설 내부"
+          },
+          {
+            "title": "럭셔리 뷔페",
+            "content": "신선한 해산물과 현지 요리를 맛볼 수 있는 뷔페가 포함되어 있으며, 음료까지 무제한으로 제공됩니다. 풍성한 식사를 경험하세요.",
+            "alt_text": "다양한 음식이 차려진 뷔페 테이블"
+          },
+          {
+            "title": "쿠폰 활용법",
+            "content": "라쿠텐 트래블에서 제공하는 스페셜 쿠폰을 여러 개 중복 사용하여 할인율을 높일 수 있습니다. 예약 시 쿠폰 적용을 꼭 확인하세요.",
+            "alt_text": "라쿠텐 트래블 앱에서 쿠폰을 선택하는 모습"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기 있는 숙소이므로 서둘러 예약하는 것이 좋습니다. 특히 주말이나 성수기에는 조기 마감될 수 있으니 미리 계획하세요.",
+            "alt_text": "달력에서 6월 30일을 표시한 모습"
+          }
+        ],
+        "caption": "일본 하코네 여행 계획 중이라면 주목! ♨️ 호텔 쇼우코엔 1박 2식 플랜이 최대 30% 할인된 가격으로 나왔어요! 6월 30일까지 진행되는 스페셜 쿠폰 위크를 놓치지 마세요. ✨ 유네상 & 모리노유 온천 무제한 이용에 럭셔리 뷔페, 음료 무제한까지! 🍽️ 지금 바로 라쿠텐 트래블에서 혜택 확인하고 알뜰하게 예약하세요! 😉\n\n#일본여행 #하코네 #호텔쇼우코엔 #온천여행 #료칸 #일본할인 #라쿠텐트래블 #일본숙소 #여행꿀팁 #플라잉재팬 #일본온천 #해외여행 #가성비여행 #일본자유여행 #6월여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하코네",
+          "#호텔쇼우코엔",
+          "#온천여행",
+          "#료칸",
+          "#일본할인",
+          "#라쿠텐트래블",
+          "#일본숙소",
+          "#여행꿀팁",
+          "#일본온천",
+          "#해외여행",
+          "#가성비여행",
+          "#일본자유여행",
+          "#6월여행"
+        ],
+        "alt_texts": [
+          "호텔 쇼우코엔 30% 할인 배너",
+          "유네상 온천 시설 내부",
+          "다양한 음식이 차려진 뷔페 테이블",
+          "라쿠텐 트래블 앱에서 쿠폰을 선택하는 모습",
+          "달력에서 6월 30일을 표시한 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 명확한 할인 정보와 포함된 혜택(온천, 뷔페)을 강조하여 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Hakone hotel discount, Yunessun hot spring, Japanese buffet, Rakuten Travel coupon, Japanese ryokan",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone-hotel-discount,-Yunessun-hot-spring,-Japanese-buffet,-Rakuten-Travel-coupon,-Japanese-ryokan",
+        "pexels_url": "https://www.pexels.com/search/Hakone%20hotel%20discount,%20Yunessun%20hot%20spring,%20Japanese%20buffet,%20Rakuten%20Travel%20coupon,%20Japanese%20ryokan/"
+      }
+    },
     {
       "id": "plan_82c15c6a",
       "created_at": "2026-06-23T04:15:54.309721",
@@ -923,160 +1077,6 @@
         "keyword": "piyorin 15th anniversary memorial book plush charm sticker nagoya japan",
         "unsplash_url": "https://unsplash.com/s/photos/piyorin-15th-anniversary-memorial-book-plush-charm-sticker-nagoya-japan",
         "pexels_url": "https://www.pexels.com/search/piyorin%2015th%20anniversary%20memorial%20book%20plush%20charm%20sticker%20nagoya%20japan/"
-      }
-    },
-    {
-      "id": "plan_05904b9c",
-      "created_at": "2026-06-20T04:36:29.842516",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "焼津グランドホテル、1泊2食ビュッフェプラン。富士山を一望できる露天風呂やラウンジがオールインクルーシブで楽しめる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118574.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후지산 뷰 온천 호텔, 2식 뷔페 포함 올인클루시브 특가 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🗻후지산 뷰 료칸 특가!✨",
-        "cards": [
-          {
-            "title": "특가 찬스!",
-            "content": "6월 20일까지 楽天 트래블 슈퍼 세일 진행 중! 전국 호텔/온천 숙소 파격 할인 적용됩니다.",
-            "alt_text": "楽天 트래블 슈퍼 세일 배너 이미지"
-          },
-          {
-            "title": "최대 30% 할인",
-            "content": "현재 발행된 쿠폰을 함께 사용하면 최대 30%까지 추가 할인이 가능합니다. 놓치지 마세요!",
-            "alt_text": "할인율을 나타내는 그래픽 이미지"
-          },
-          {
-            "title": "1박 2식 뷔페",
-            "content": "오후 6시부터 9시까지 뷔페식으로 제공되는 저녁 식사와 다음날 아침 식사가 포함된 플랜입니다.",
-            "alt_text": "맛있는 뷔페 음식 사진"
-          },
-          {
-            "title": "올인클루시브 혜택",
-            "content": "후지산을 조망할 수 있는 노천온천과 라운지를 추가 비용 없이 올인클루시브로 즐길 수 있습니다.",
-            "alt_text": "후지산이 보이는 멋진 온천 사진"
-          },
-          {
-            "title": "예약 팁!",
-            "content": "슈퍼 세일 기간 한정 혜택이므로, 희망하시는 날짜가 있다면 서둘러 예약하는 것을 추천합니다.",
-            "alt_text": "달력과 예약 버튼 이미지"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수 정보! 焼津 그랜드 호텔에서 후지산 뷰를 즐기며 1박 2식 뷔페와 올인클루시브 혜택까지 누릴 수 있는 절호의 찬스! 楽天 트래블 슈퍼 세일이 6월 20일까지 진행됩니다. 최대 30% 할인 혜택도 놓치지 마세요! 지금 바로 예약하고 잊지 못할 일본 여행을 만들어보세요! ✈️\n\n👉 더 많은 일본 여행 정보는 @flyingjapan 팔로우!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#일본호텔",
-          "#일본온천",
-          "#후지산",
-          "#일본할인",
-          "#楽天트래블",
-          "#슈퍼세일",
-          "#일본여행정보",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "楽天 트래블 슈퍼 세일 배너 이미지",
-          "할인율을 나타내는 그래픽 이미지",
-          "맛있는 뷔페 음식 사진",
-          "후지산이 보이는 멋진 온천 사진",
-          "달력과 예약 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 금요일 저녁 7시, 주말 오후 2시 / 기대 반응: 예약 문의 증가, 스크랩 및 공유 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 숙소 특징 결합",
-      "image": {
-        "keyword": "Mt. Fuji view hotel buffet all-inclusive Japan travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/Mt.-Fuji-view-hotel-buffet-all-inclusive-Japan-travel-deal",
-        "pexels_url": "https://www.pexels.com/search/Mt.%20Fuji%20view%20hotel%20buffet%20all-inclusive%20Japan%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_571e79ba",
-      "created_at": "2026-06-20T04:36:18.112217",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【2026年7月版】全国の花火大会を一挙紹介！　隅田川など大規模イベント目白押し、観覧チケットは早めに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118548.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2026년 여름, 일본 전국에서 펼쳐지는 초대형 불꽃축제 정보를 미리 알고 떠나세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆2026 일본 불꽃놀이 명소🔥",
-        "cards": [
-          {
-            "title": "7월 불꽃축제",
-            "content": "2026년 7월, 일본 전역에서 다채로운 불꽃축제가 펼쳐집니다. 隅田川(스미다가와) 불꽃축제를 포함한 대규모 행사들이 준비되어 있습니다.",
-            "alt_text": "일본 여름 밤하늘을 수놓는 화려한 불꽃놀이 이미지"
-          },
-          {
-            "title": "주요 불꽃축제",
-            "content": "전국 각지에서 개최되는 주목할 만한 불꽃축제 정보를 한눈에 담았습니다. 여름 시즌 일본 여행 계획에 꼭 참고하세요.",
-            "alt_text": "일본 지도 위에 불꽃축제 개최지를 표시한 이미지"
-          },
-          {
-            "title": "티켓 사전 구매",
-            "content": "인기 있는 불꽃축제는 관람 티켓이 조기 매진될 수 있습니다. 특히 隅田川(스미다가와)와 같은 대규모 행사는 서둘러 예매하는 것이 좋습니다.",
-            "alt_text": "불꽃축제 티켓 예매 안내 문구가 적힌 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "일본의 여름밤을 만끽할 수 있는 절호의 기회! 2026년 여름, 잊지 못할 추억을 선사할 불꽃축제 정보 놓치지 마세요.",
-            "alt_text": "연인이나 가족이 함께 불꽃놀이를 즐기는 모습의 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "불꽃축제 당일에는 교통 체증이 심할 수 있으니 대중교통 이용을 추천합니다. 행사 시작 시간 및 장소를 미리 확인하여 여유롭게 도착하세요.",
-            "alt_text": "일본 대중교통 이용 안내 및 행사 시간표 이미지"
-          }
-        ],
-        "caption": "✨2026년 여름, 일본에서 펼쳐지는 환상적인 불꽃축제들을 소개합니다!🎆\n\n7월부터 전국 각지에서 열리는 대규모 불꽃놀이 정보를 미리 확인하고, 최고의 자리를 선점하세요!\n\n隅田川(스미다가와) 불꽃축제 등 놓치면 후회할 이벤트가 가득! 잊지 못할 여름밤 추억을 만들어보세요.\n\n📌 지금 바로 2026년 여름 일본 불꽃축제 일정을 확인하고 여행 계획을 세워보세요!\n\n#일본여행 #플라잉재팬 #일본불꽃축제 #여름축제 #2026일본여행 #일본관광 #불꽃놀이 #隅田川 #일본여름 #여행정보 #일본축제 #여행계획 #일본가볼만한곳 #여름휴가 #필수정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본불꽃축제",
-          "#여름축제",
-          "#2026일본여행",
-          "#일본관광",
-          "#불꽃놀이",
-          "#隅田川",
-          "#일본여름",
-          "#여행정보",
-          "#일본축제",
-          "#여행계획",
-          "#일본가볼만한곳",
-          "#여름휴가",
-          "#필수정보"
-        ],
-        "alt_texts": [
-          "일본 여름 밤하늘을 수놓는 화려한 불꽃놀이 이미지",
-          "일본 지도 위에 불꽃축제 개최지를 표시한 이미지",
-          "불꽃축제 티켓 예매 안내 문구가 적힌 이미지",
-          "연인이나 가족이 함께 불꽃놀이를 즐기는 모습의 이미지",
-          "일본 대중교통 이용 안내 및 행사 시간표 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 2026년 여름 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 목요일 오후 7시 (여행 계획을 세우는 시간) / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 구체적인 행사 정보 포함, 사전 준비를 위한 실질적 팁 제공",
-      "image": {
-        "keyword": "japan summer fireworks festival",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-fireworks-festival",
-        "pexels_url": "https://www.pexels.com/search/japan%20summer%20fireworks%20festival/"
       }
     }
   ]
