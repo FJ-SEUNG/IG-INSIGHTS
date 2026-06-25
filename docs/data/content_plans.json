@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-25T01:27:05.439133",
+  "last_updated": "2026-06-25T04:18:58.879670",
   "plans": [
+    {
+      "id": "plan_6b37708b",
+      "created_at": "2026-06-25T04:18:56.879483",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「JR東海☆夏の乗り放題きっぷ」2026年も発売決定。新幹線の予約者限定で在来線が2日間お得に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2119724.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센도 탈 수 있는 JR東海 2일 무제한 승차권 정보!"
+      },
+      "content": {
+        "thumbnail_title": "JR東海 2일권! 🚄",
+        "cards": [
+          {
+            "title": "2026년도 발매",
+            "content": "JR東海에서 'JR東海☆여름 승차권'을 2026년에도 발매합니다. 작년에 이어 올해도 많은 분들이 이용할 것으로 예상됩니다.",
+            "alt_text": "JR東海 여름 승차권 2026년 발매 안내"
+          },
+          {
+            "title": "발매 & 이용 기간",
+            "content": "발매 기간은 2026년 7월 3일부터 9월 6일까지이며, 이용 기간은 7월 18일부터 9월 7일까지입니다. 여름 휴가 계획에 참고하세요!",
+            "alt_text": "JR東海 여름 승차권 발매 및 이용 기간"
+          },
+          {
+            "title": "한정 혜택",
+            "content": "신칸센 예약자에게만 제공되는 특별 혜택으로, 신칸센 이용 시 재래선을 2일간 무제한으로 탈 수 있습니다.",
+            "alt_text": "신칸센 예약자 대상 재래선 2일 무제한 승차 혜택"
+          },
+          {
+            "title": "알뜰 여행 팁",
+            "content": "JR 도카이 노선 내의 다양한 지역을 저렴하게 여행할 수 있는 좋은 기회입니다. 신칸센과 재래선을 모두 이용하며 일본을 누벼보세요!",
+            "alt_text": "JR 도카이 노선 알뜰 여행 팁"
+          },
+          {
+            "title": "주의사항",
+            "content": "이용 가능한 구간 및 상세 조건은 JR東海 공식 발표를 반드시 확인하세요. 신칸센 예약이 필수이니 미리 준비하는 것이 좋습니다.",
+            "alt_text": "JR東海 여름 승차권 이용 시 주의사항"
+          }
+        ],
+        "caption": "일본 여행 필수 정보! 🇯🇵 JR東海에서 2026년에도 'JR東海☆여름 승차권'을 발매합니다! 신칸센 예약자라면 재래선을 2일간 무제한으로 이용 가능해요. 여름 휴가, 알뜰하게 일본 여행 계획 세우세요! ✈️\n\n✅ 발매: 2026년 7월 3일 ~ 9월 6일\n✅ 이용: 2026년 7월 18일 ~ 9월 7일\n\n더 자세한 내용은 JR東海 홈페이지를 참고하세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR東海",
+          "#여름승차권",
+          "#일본교통",
+          "#신칸센",
+          "#여행팁",
+          "#일본자유여행",
+          "#알뜰여행",
+          "#일본패스",
+          "#여행정보",
+          "#JR패스",
+          "#일본여름",
+          "#일본기차",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "JR東海 여름 승차권 2026년 발매 안내",
+          "JR東海 여름 승차권 발매 및 이용 기간",
+          "신칸센 예약자 대상 재래선 2일 무제한 승차 혜택",
+          "JR 도카이 노선 알뜰 여행 팁",
+          "JR東海 여름 승차권 이용 시 주의사항"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여름 시즌 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획 시즌인 6월~7월 중 오후 6시 ~ 8시 / 기대 반응: 높은 관심 및 정보 공유 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보 제공",
+      "image": {
+        "keyword": "JR東海 여름 승차권, 신칸센, 일본 기차, 여름 여행",
+        "unsplash_url": "https://unsplash.com/s/photos/JR東海-여름-승차권,-신칸센,-일본-기차,-여름-여행",
+        "pexels_url": "https://www.pexels.com/search/JR東海%20여름%20승차권,%20신칸센,%20일본%20기차,%20여름%20여행/"
+      }
+    },
+    {
+      "id": "plan_818ea22a",
+      "created_at": "2026-06-25T04:18:45.823708",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京サマーランド、屋外プール7月4日全面オープン。スリル満点「モンスターストリーム」「デカスラ」など17種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2119818.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 시원한 여름을 즐길 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "도쿄 서머랜드 🌊 7/4 오픈!",
+        "cards": [
+          {
+            "title": "풀장 전면 개방",
+            "content": "도쿄 서머랜드의 야외 풀장 구역이 7월 4일 전면 오픈합니다. 시원한 여름을 만끽할 준비 되셨나요?",
+            "alt_text": "도쿄 서머랜드 야외 풀장 전경"
+          },
+          {
+            "title": "스릴 만점 어트랙션",
+            "content": "'몬스터 스트림', '데카슬라' 등 스릴 넘치는 17가지의 다양한 풀장 어트랙션을 즐길 수 있습니다. 짜릿한 경험을 선사할 거예요!",
+            "alt_text": "도쿄 서머랜드의 인기 워터 슬라이드"
+          },
+          {
+            "title": "위치 정보",
+            "content": "도쿄 서머랜드는 도쿄도 아키루노시 상다이츠기 600번지에 위치하고 있습니다. 도심에서 벗어나 자연 속에서 즐기는 물놀이!",
+            "alt_text": "도쿄 서머랜드 지도 정보"
+          },
+          {
+            "title": "운영 기간",
+            "content": "야외 풀장은 7월 4일부터 운영을 시작하며, 여름 시즌 동안 시원한 물놀이를 제공할 예정입니다. 자세한 운영 시간은 홈페이지를 확인하세요.",
+            "alt_text": "도쿄 서머랜드 여름 시즌 운영 안내"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "성수기에는 사람이 많을 수 있으니, 오픈 시간 맞춰 방문하거나 평일을 노려보세요! 돗자리와 간단한 간식을 챙기면 더욱 알찬 시간을 보낼 수 있습니다.",
+            "alt_text": "도쿄 서머랜드 방문객을 위한 꿀팁"
+          }
+        ],
+        "caption": "올여름, 도쿄에서 시원하게! 🌊 도쿄 서머랜드 야외 풀장이 7월 4일 전면 오픈합니다! 스릴 넘치는 '몬스터 스트림', '데카슬라' 등 17가지의 다양한 어트랙션을 즐기며 잊지 못할 여름 추억을 만들어보세요! 🎶\n\n📍 위치: 도쿄도 아키루노시 상다이츠기 600번지\n🗓️ 오픈일: 7월 4일\n\n지금 바로 여름휴가 계획 세우세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄서머랜드",
+          "#여름휴가",
+          "#일본워터파크",
+          "#도쿄가볼만한곳",
+          "#일본온천",
+          "#일본온천여행",
+          "#도쿄근교",
+          "#여름필수템",
+          "#일본축제",
+          "#일본정보",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "도쿄 서머랜드 야외 풀장 전경",
+          "도쿄 서머랜드의 인기 워터 슬라이드",
+          "도쿄 서머랜드 지도 정보",
+          "도쿄 서머랜드 여름 시즌 운영 안내",
+          "도쿄 서머랜드 방문객을 위한 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 도쿄 여행 예정인 한국인 관광객 / 최적 게시 시간: 금요일 오후 6시 또는 주말 오후 2시 / 기대 반응: 여름 물놀이 장소에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 여름 시즌에 맞춰 꼭 필요한 최신 개장 정보와 구체적인 즐길 거리 소개",
+      "image": {
+        "keyword": "Tokyo Summerland, outdoor pool, water slides, summer vacation, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Summerland,-outdoor-pool,-water-slides,-summer-vacation,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Summerland,%20outdoor%20pool,%20water%20slides,%20summer%20vacation,%20Japan%20travel/"
+      }
+    },
     {
       "id": "plan_3bc8ffc3",
       "created_at": "2026-06-25T01:27:03.438938",
@@ -923,160 +1077,6 @@
         "keyword": "japanese onsen, hot spring resort, renovated spa, ishikawa prefecture, kaga city, travel japan",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-onsen,-hot-spring-resort,-renovated-spa,-ishikawa-prefecture,-kaga-city,-travel-japan",
         "pexels_url": "https://www.pexels.com/search/japanese%20onsen,%20hot%20spring%20resort,%20renovated%20spa,%20ishikawa%20prefecture,%20kaga%20city,%20travel%20japan/"
-      }
-    },
-    {
-      "id": "plan_63aae4ca",
-      "created_at": "2026-06-22T01:41:12.056525",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR、連続5日間乗り放題「大人の休日倶楽部パス」初夏分は本日利用スタート。東京～新青森往復のみでも1万4400円お得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118741.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 동일본 인기 패스로 최대 14,400엔 절약! 도쿄-신아오모리 왕복만 해도 이득! 🚄"
-      },
-      "content": {
-        "thumbnail_title": "JR 5일 무제한 패스 JR동일본",
-        "cards": [
-          {
-            "title": "패스 정보",
-            "content": "JR 동일본 '대인의 휴일 클럽 패스' 2026년도 제1회 판매 시작! 5일 연속 무제한 탑승 가능해요.",
-            "alt_text": "JR 동일본 '대인의 휴일 클럽 패스' 로고 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "2024년 6월 22일부터 7월 4일까지 이용 가능해요. 여행 계획 세우기 딱 좋죠?",
-            "alt_text": "달력에 6월 22일부터 7월 4일까지 표시된 이미지"
-          },
-          {
-            "title": "가격 혜택",
-            "content": "도쿄에서 신아오모리 왕복만 해도 무려 14,400엔을 절약할 수 있어요! 💰",
-            "alt_text": "돈이 쌓여있는 이미지"
-          },
-          {
-            "title": "이용 대상",
-            "content": "이 패스는 '대인의 휴일 클럽' 회원만 구매 가능해요. 회원 가입 후 이용해주세요.",
-            "alt_text": "회원 카드 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "패스 구매 및 상세 정보는 JR 동일본 공식 홈페이지를 확인하세요. 서둘러야 원하는 날짜에 이용 가능해요!",
-            "alt_text": "스마트폰으로 JR 동일본 홈페이지를 보는 이미지"
-          }
-        ],
-        "caption": "일본 동북 지역 여행 계획 중이라면 주목! 👀 JR 동일본의 '대인의 휴일 클럽 패스'를 이용하면 5일 연속 무제한으로 JR 열차를 탈 수 있어요. 특히 도쿄-신아오모리 왕복만으로도 14,400엔이나 절약된다는 사실! 😮 2024년 6월 22일부터 7월 4일까지 이용 가능하니, 꿀 같은 기회 놓치지 마세요! (회원 전용 상품입니다) ✈️\n\n#일본여행 #JR동일본 #대인의휴일클럽패스 #일본교통 #여행꿀팁 #가성비여행 #동북여행 #일본철도 #여행정보 #플라잉재팬 #알뜰여행 #일본자유여행 #여행스타그램 #일본패스 #해외여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#대인의휴일클럽패스",
-          "#일본교통",
-          "#일본철도",
-          "#여행꿀팁",
-          "#가성비여행",
-          "#동북여행",
-          "#일본자유여행",
-          "#여행정보",
-          "#알뜰여행",
-          "#일본패스",
-          "#해외여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JR 동일본 '대인의 휴일 클럽 패스' 로고 이미지",
-          "달력에 6월 22일부터 7월 4일까지 표시된 이미지",
-          "돈이 쌓여있는 이미지",
-          "회원 카드 이미지",
-          "스마트폰으로 JR 동일본 홈페이지를 보는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 동북 지역 여행을 계획 중인 40대 이상 시니어층 및 JR 패스 활용 고수 여행객 / 최적 게시 시간: 오후 7시 ~ 9시 (퇴근 후 여행 정보 검색 시간) / 기대 반응: 패스 구매 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 절약 금액과 명확한 이용 기간 제시로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "JR East, adult holiday club pass, Japan train, travel discount, Tohoku region",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-East,-adult-holiday-club-pass,-Japan-train,-travel-discount,-Tohoku-region",
-        "pexels_url": "https://www.pexels.com/search/JR%20East,%20adult%20holiday%20club%20pass,%20Japan%20train,%20travel%20discount,%20Tohoku%20region/"
-      }
-    },
-    {
-      "id": "plan_db4bfd9d",
-      "created_at": "2026-06-22T01:41:06.143011",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Suicaのペンギン撮影会や新作グッズ販売も。東京駅で「Suicaの夏まつり」開催",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118794.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역에서 열리는 귀여운 'Suica의 여름 축제' 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "Suica 여름 축제 in 도쿄역!🐧",
-        "cards": [
-          {
-            "title": "축제 기간",
-            "content": "JR 도쿄역에서 7월 24일부터 26일까지 'Suica의 여름 축제'가 열립니다. 3일간 진행되니 여행 계획에 맞춰 방문해보세요!",
-            "alt_text": "Suica의 여름 축제가 열리는 JR 도쿄역의 모습"
-          },
-          {
-            "title": "행사 장소",
-            "content": "JR 도쿄역 지하 1층에서 진행되며, 개찰구 안쪽 '그란스타 도쿄 스퀘어 제로'와 개찰구 바깥쪽 '동륜의 광장'에서 만나볼 수 있습니다.",
-            "alt_text": "도쿄역 지하 1층 행사장 안내 지도"
-          },
-          {
-            "title": "주요 이벤트",
-            "content": "인기 캐릭터 'Suica의 펭귄' 촬영회와 함께 신상품 굿즈 판매도 진행됩니다. Suica 팬이라면 절대 놓칠 수 없겠죠?",
-            "alt_text": "'Suica의 펭귄' 캐릭터 촬영회 모습"
-          },
-          {
-            "title": "굿즈 구매",
-            "content": "한정판 굿즈를 구매할 수 있는 기회! 어떤 귀여운 상품들이 기다리고 있을지 기대되네요.",
-            "alt_text": "Suica 굿즈 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "도쿄역은 교통의 요지이므로, 여행 동선에 맞춰 방문하면 더욱 효율적입니다. 특히 Suica 카드 사용자라면 더욱 즐거운 경험이 될 거예요!",
-            "alt_text": "도쿄역 내부 모습"
-          }
-        ],
-        "caption": "🐧 도쿄역에서 펼쳐지는 귀염뽀짝 'Suica의 여름 축제'!🐧\n\nJR 도쿄역에서 7월 24일부터 26일까지 3일간 'Suica의 여름 축제'가 열립니다.\n\n귀여운 'Suica의 펭귄' 촬영회와 특별한 신상품 굿즈 판매까지! 🤩\n\n도쿄 여행 중이라면 놓칠 수 없는 즐거운 이벤트이니, 꼭 방문해보세요!\n\n#플라잉재팬 #일본여행 #도쿄여행 #Suica #Suica펭귄 #도쿄역 #여름축제 #일본이벤트 #여행정보 #일본쇼핑 #도쿄명소 #여행스타그램 #필수코스 #일본생활 #여름휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#Suica",
-          "#Suica펭귄",
-          "#도쿄역",
-          "#여름축제",
-          "#일본이벤트",
-          "#여행정보",
-          "#일본쇼핑",
-          "#도쿄명소",
-          "#여행스타그램",
-          "#필수코스",
-          "#일본생활",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "Suica의 여름 축제가 열리는 JR 도쿄역의 모습",
-          "도쿄역 지하 1층 행사장 안내 지도",
-          "'Suica의 펭귄' 캐릭터 촬영회 모습",
-          "Suica 굿즈 이미지",
-          "도쿄역 내부 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 이벤트 참여 욕구 자극, 정보 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터와 한정판 굿즈라는 매력적인 요소, 구체적인 날짜와 장소 정보 제공",
-      "image": {
-        "keyword": "Tokyo Station Suica Summer Festival penguin event goods",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Suica-Summer-Festival-penguin-event-goods",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Suica%20Summer%20Festival%20penguin%20event%20goods/"
       }
     }
   ]
