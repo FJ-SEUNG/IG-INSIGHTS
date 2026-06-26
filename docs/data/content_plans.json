@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-26T01:30:44.797242",
+  "last_updated": "2026-06-26T04:25:57.982933",
   "plans": [
+    {
+      "id": "plan_98cf4ab1",
+      "created_at": "2026-06-26T04:25:55.982755",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「スターバックス コーヒー アトレ吉祥寺店（B1）」オープン。吉祥寺エリア初「My フルーツ フラペチーノ」を展開",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2120298.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 키치조지에서만 맛볼 수 있는 스타벅스 신메뉴!"
+      },
+      "content": {
+        "thumbnail_title": "✨키치조지 스타벅스 한정 플라페!",
+        "cards": [
+          {
+            "title": "신규 오픈!",
+            "content": "스타벅스 커피 아틀레 키치조지점 B1이 7월 29일에 오픈합니다. 키치조지 지역에서는 처음으로 'My 프루트 프라푸치노'를 즐길 수 있어요.",
+            "alt_text": "스타벅스 커피 아틀레 키치조지점 B1 외부 전경"
+          },
+          {
+            "title": "특별 메뉴",
+            "content": "이번 신규 매장에서는 나만의 취향대로 과일을 선택하여 만들 수 있는 'My 프루트 프라푸치노'를 단독으로 제공합니다. 상큼한 여름을 즐겨보세요!",
+            "alt_text": "'My 프루트 프라푸치노' 메뉴 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "아틀레 키치조지점은 총 2개이며, 새로 오픈하는 B1 매장은 기존 매장과는 다른 특별한 경험을 선사할 예정입니다.",
+            "alt_text": "아틀레 키치조지 건물 외관"
+          },
+          {
+            "title": "방문 팁",
+            "content": "오픈 초기에는 많은 인파가 몰릴 수 있으니, 평일 오전에 방문하거나 오픈 시간보다 조금 일찍 도착하는 것을 추천합니다.",
+            "alt_text": "스타벅스 매장 내부 모습"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 스타벅스에서는 리유저블 컵 사용 시 할인 혜택을 제공하는 경우가 많으니, 개인 컵을 챙겨가 환경도 보호하고 할인도 받으세요!",
+            "alt_text": "다양한 스타벅스 굿즈 이미지"
+          }
+        ],
+        "caption": "일본 도쿄 여행 중이라면 주목! 🇯🇵\n키치조지 스타벅스에 'My 프루트 프라푸치노'가 상륙했어요!\n나만의 개성 가득한 프라푸치노를 맛볼 기회! ✨\n7월 29일 오픈이니 여행 계획에 꼭 넣어두세요!\n\n#스타벅스 #일본스타벅스 #키치조지 #도쿄카페 #신메뉴 #프라푸치노 #일본여행 #플라잉재팬 #도쿄여행 #카페투어 #여행정보 #한정메뉴 #JMT #신상카페 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#키치조지",
+          "#스타벅스",
+          "#일본스타벅스",
+          "#신메뉴",
+          "#프라푸치노",
+          "#한정메뉴",
+          "#카페스타그램",
+          "#도쿄카페",
+          "#여행스타그램",
+          "#일본생활",
+          "#여행꿀팁",
+          "#먹스타그램"
+        ],
+        "alt_texts": [
+          "스타벅스 커피 아틀레 키치조지점 B1 외부 전경",
+          "'My 프루트 프라푸치노' 메뉴 이미지",
+          "아틀레 키치조지 건물 외관",
+          "스타벅스 매장 내부 모습",
+          "다양한 스타벅스 굿즈 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 방문 예정인 20-30대 여성 여행객 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장) / 이 콘텐츠의 강점: 일본 현지에서만 즐길 수 있는 특별한 메뉴 정보 제공",
+      "image": {
+        "keyword": "Starbucks, Kichijoji, My Fruit Frappuccino, limited menu, Tokyo cafe, new opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Starbucks,-Kichijoji,-My-Fruit-Frappuccino,-limited-menu,-Tokyo-cafe,-new-opening",
+        "pexels_url": "https://www.pexels.com/search/Starbucks,%20Kichijoji,%20My%20Fruit%20Frappuccino,%20limited%20menu,%20Tokyo%20cafe,%20new%20opening/"
+      }
+    },
+    {
+      "id": "plan_2ed81e22",
+      "created_at": "2026-06-26T04:25:28.370816",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "淡路屋、ドクターイエロー＆500系新幹線の引退記念駅弁。専用サイトで事前予約も受付",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120188.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "추억의 신칸센을 담은 특별한 도시락을 맛볼 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 추억 소환! 🚅 도쿄 여행 필수템 🍱",
+        "cards": [
+          {
+            "title": "특별한 도시락",
+            "content": "2027년 은퇴 예정인 JR 서일본의 '닥터 옐로우(T5 편성)'와 '500계 신칸센'을 기념하는 특별한 도시락이 7월 1일에 출시됩니다.",
+            "alt_text": "닥터 옐로우와 500계 신칸센 디자인 도시락 이미지"
+          },
+          {
+            "title": "두 가지 맛",
+            "content": "각각의 신칸센을 테마로 한 두 가지 종류의 도시락이 선보이며, 가격은 각 1680엔입니다.",
+            "alt_text": "두 가지 도시락을 나란히 놓은 이미지"
+          },
+          {
+            "title": "사전 예약 가능",
+            "content": "도시락은 전용 사이트에서 사전 예약 접수를 받고 있어, 원하는 분들은 미리 준비하실 수 있습니다.",
+            "alt_text": "도시락 예약 웹사이트 화면 캡처 이미지"
+          },
+          {
+            "title": "한정판 굿즈",
+            "content": "이번 도시락은 은퇴하는 신칸센에 대한 추억을 되새길 수 있는 특별한 기념품이 될 것입니다.",
+            "alt_text": "도시락과 함께 신칸센 모형을 찍은 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본 여행 중 특별한 경험과 맛을 동시에 즐기고 싶다면, 이 한정판 도시락을 꼭 경험해보세요!",
+            "alt_text": "도시락을 맛있게 먹고 있는 사람의 모습"
+          }
+        ],
+        "caption": "JR 서일본의 추억 속 신칸센 🚄, '닥터 옐로우'와 '500계 신칸센'을 기념하는 특별한 도시락이 7월 1일부터 판매됩니다! 🍱 각 1680엔으로 만나볼 수 있으며, 전용 사이트에서 사전 예약도 가능해요. 잊지 못할 일본 여행의 맛있는 추억을 만들어보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#닥터옐로우",
+          "#500계",
+          "#일본맛집",
+          "#도시락",
+          "#한정판",
+          "#JR서일본",
+          "#일본음식",
+          "#일본기차",
+          "#여행필수템",
+          "#7월여행",
+          "#일본기념품",
+          "#먹스타그램"
+        ],
+        "alt_texts": [
+          "닥터 옐로우와 500계 신칸센 디자인 도시락 이미지",
+          "두 가지 도시락을 나란히 놓은 이미지",
+          "도시락 예약 웹사이트 화면 캡처 이미지",
+          "도시락과 함께 신칸센 모형을 찍은 이미지",
+          "도시락을 맛있게 먹고 있는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 신칸센에 대한 추억이 있거나 특별한 일본 음식을 경험하고 싶은 한국인 여행자 / 최적 게시 시간: 점심시간 또는 저녁 식사 시간 (11:30-13:00, 18:00-20:00) / 기대 반응: 구매 문의, 예약 정보 공유, 추억 공유 / 이 콘텐츠의 강점: 향수를 자극하는 아이템과 실용적인 정보(가격, 출시일, 예약 방법)를 결합하여 높은 관심 유도",
+      "image": {
+        "keyword": "Shinkansen bento box, Doctor Yellow, 500 series, Japanese train food, limited edition bento",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-bento-box,-Doctor-Yellow,-500-series,-Japanese-train-food,-limited-edition-bento",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20bento%20box,%20Doctor%20Yellow,%20500%20series,%20Japanese%20train%20food,%20limited%20edition%20bento/"
+      }
+    },
     {
       "id": "plan_c1ae4178",
       "created_at": "2026-06-26T01:30:42.797015",
@@ -923,160 +1077,6 @@
         "keyword": "Uniqlo Chiikawa collaboration t-shirt Japan July release",
         "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Chiikawa-collaboration-t-shirt-Japan-July-release",
         "pexels_url": "https://www.pexels.com/search/Uniqlo%20Chiikawa%20collaboration%20t-shirt%20Japan%20July%20release/"
-      }
-    },
-    {
-      "id": "plan_1a823d26",
-      "created_at": "2026-06-23T01:23:29.915655",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "TAOYA日光霧降、1泊2食が最大30％オフ。高原の絶景温泉と栃木グルメ、日中は大型温水プールで夏レジャー満喫！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2119117.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "엔화 급등 시기에 최대 30% 할인받는 일본 온천 숙소 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "♨️TAOYA 최대 30% OFF♨️",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "일본 료칸 TAOYA에서 1박 2식 특가를 최대 30%까지 할인받을 수 있어요. 6월 30일까지 진행되는 '스페셜 쿠폰 위크'를 활용하세요!",
-            "alt_text": "TAOYA 료칸 숙박권 할인 배너"
-          },
-          {
-            "title": "할인 꿀팁",
-            "content": "라쿠텐 트래블에서 제공하는 쿠폰을 여러 개 중복해서 사용하면 더 큰 할인을 받을 수 있습니다. 놓치지 말고 꼭 챙기세요!",
-            "alt_text": "쿠폰 중복 할인 안내 이미지"
-          },
-          {
-            "title": "여행지 추천",
-            "content": "이번 특가 대상 숙소인 TAOYA 닛코 키리후는 고원에서의 아름다운 온천과 도치기현의 맛있는 음식을 즐길 수 있습니다. 료칸 내 대형 온수 풀장도 있어 여름 레저를 만끽하기 좋아요.",
-            "alt_text": "TAOYA 료칸에서 바라본 아름다운 자연 풍경"
-          },
-          {
-            "title": "주요 시설",
-            "content": "온천, 맛있는 식사, 대형 온수 풀장까지! TAOYA 닛코 키리후에서 편안하고 즐거운 휴가를 보내세요.",
-            "alt_text": "TAOYA 료칸의 온천 시설 이미지"
-          },
-          {
-            "title": "예약 팁",
-            "content": "할인 기간이 6월 30일까지로 얼마 남지 않았어요! 서둘러서 원하는 날짜의 객실을 확보하세요. 조기 마감될 수 있습니다.",
-            "alt_text": "달력에 6월 30일 표시와 함께 '예약 필수' 문구"
-          }
-        ],
-        "caption": "🇯🇵엔화 급등 시기, 일본 여행 비용 절약 꿀팁! 🇯🇵\n\n일본 료칸 TAOYA에서 '스페셜 쿠폰 위크'를 통해 최대 30% 할인된 가격으로 숙박할 수 있다는 소식이에요! 🤩\n\n6월 30일까지 진행되는 이 특별한 기회를 놓치지 마세요. 라쿠텐 트래블에서 제공하는 쿠폰을 중복 사용하여 더욱 알뜰하게 예약할 수 있답니다!\n\n아름다운 자연 속 온천과 맛있는 현지 음식, 그리고 여름 레저를 즐길 수 있는 TAOYA 닛코 키리후에서 잊지 못할 추억을 만들어보세요. ♨️\n\n지금 바로 예약하고 엔화 걱정 없이 일본 여행을 떠나요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#일본료칸",
-          "#TAOYA",
-          "#닛코",
-          "#키리후",
-          "#일본숙소",
-          "#일본할인",
-          "#일본여행꿀팁",
-          "#엔화환율",
-          "#라쿠텐트래블",
-          "#일본자유여행",
-          "#일본가성비숙소",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "TAOYA 료칸 숙박권 할인 배너",
-          "쿠폰 중복 할인 안내 이미지",
-          "TAOYA 료칸에서 바라본 아름다운 자연 풍경",
-          "TAOYA 료칸의 온천 시설 이미지",
-          "달력에 6월 30일 표시와 함께 '예약 필수' 문구"
-        ]
-      },
-      "marketer_analysis": "타겟: 엔화 급등으로 일본 여행 비용 부담을 느끼는 한국인 여행자 / 최적 게시 시간: 오후 7-9시 (퇴근 후 정보 탐색 시간) / 기대 반응: 높은 클릭률과 예약 문의, 공유 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 예약 마감일 제시",
-      "image": {
-        "keyword": "Japanese ryokan, onsen, discount coupon, travel deal, summer vacation, hot spring pool, nature view, Tochigi prefecture",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-ryokan,-onsen,-discount-coupon,-travel-deal,-summer-vacation,-hot-spring-pool,-nature-view,-Tochigi-prefecture",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20ryokan,%20onsen,%20discount%20coupon,%20travel%20deal,%20summer%20vacation,%20hot%20spring%20pool,%20nature%20view,%20Tochigi%20prefecture/"
-      }
-    },
-    {
-      "id": "plan_54304e06",
-      "created_at": "2026-06-23T01:23:19.927711",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語 ホテルレオマの森、1泊2食バイキングが最大30％オフ。中四国最大級のウォーターランドで遊び尽くせる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2119119.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대급 워터랜드 숙박, 최대 30% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨워터랜드 숙박 30% OFF!✨",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "오에도 온천 이야기 호텔 레오마노모리에서 1박 2식 뷔페 이용 시 최대 30% 할인 혜택을 제공합니다. 6월 30일까지 진행되는 '스페셜 쿠폰 위크'를 활용하세요.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "할인 방법",
-            "content": "라쿠텐 트래블에서 제공하는 스페셜 쿠폰을 여러 개 중복 사용하여 더욱 저렴하게 예약할 수 있습니다. 전국 대상 호텔 및 온천 숙소에 적용 가능합니다.",
-            "alt_text": "라쿠텐 트래블 웹사이트 화면 캡처"
-          },
-          {
-            "title": "숙소 특징",
-            "content": "중시코쿠(주고쿠/시코쿠) 최대 규모 워터랜드와 함께 즐길 수 있는 숙박입니다. 온천과 맛있는 뷔페를 동시에 즐길 수 있는 특별한 경험을 선사합니다.",
-            "alt_text": "호텔 레오마노모리 워터랜드 전경"
-          },
-          {
-            "title": "예약 팁",
-            "content": "할인 기간이 6월 30일까지로 한정되어 있으니, 서둘러 예약하시는 것을 추천합니다. 인기 있는 숙소는 조기 마감될 수 있습니다.",
-            "alt_text": "캘린더에 6월 30일 표시"
-          },
-          {
-            "title": "주의사항",
-            "content": "쿠폰 적용 가능 여부 및 상세 조건은 라쿠텐 트래블에서 반드시 확인하시기 바랍니다. 환불 규정도 미리 숙지하는 것이 좋습니다.",
-            "alt_text": "주의사항 아이콘"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 휴식을 계획 중이신가요? 🤩\n중시코쿠 최대 규모 워터랜드와 맛있는 뷔페를 즐길 수 있는 '오에도 온천 이야기 호텔 레오마노모리'에서 최대 30% 할인 혜택을 놓치지 마세요! 🌊🍽️\n6월 30일까지 진행되는 라쿠텐 트래블 '스페셜 쿠폰 위크'를 활용해 보세요. 꿀같은 휴가를 알뜰하게 즐길 기회! 😉\n#일본여행 #오에도온천이야기 #호텔레오마노모리 #일본숙소 #워터랜드 #할인정보 #라쿠텐트래블 #일본가족여행 #일본온천 #꿀팁 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#일본호텔",
-          "#오에도온천이야기",
-          "#호텔레오마노모리",
-          "#일본워터랜드",
-          "#일본할인",
-          "#라쿠텐트래블",
-          "#일본가족여행",
-          "#일본온천",
-          "#일본여행꿀팁",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본여행추천"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지",
-          "라쿠텐 트래블 웹사이트 화면 캡처",
-          "호텔 레오마노모리 워터랜드 전경",
-          "캘린더에 6월 30일 표시",
-          "주의사항 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 가족 단위 여행객, 휴식을 중요시하는 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시, 주말 오후 2시 ~ 4시 / 기대 반응: 숙박 예약 문의 증가, 할인 정보 공유 활발 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 실질적인 숙박 정보 제공",
-      "image": {
-        "keyword": "japan hotel discount, water park, onsen, buffet, travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount,-water-park,-onsen,-buffet,-travel-deal",
-        "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount,%20water%20park,%20onsen,%20buffet,%20travel%20deal/"
       }
     }
   ]
