@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-25T04:18:58.879670",
+  "last_updated": "2026-06-26T01:30:44.797242",
   "plans": [
+    {
+      "id": "plan_c1ae4178",
+      "created_at": "2026-06-26T01:30:42.797015",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "コメダ珈琲店、東日本・東海限定の「もも太郎氷」や西日本限定の「黒蜜きなこのぜんざい氷」などかき氷5種発売",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2120021.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 시원한 여름, 코메다 커피 한정 빙수 맛보기!"
+      },
+      "content": {
+        "thumbnail_title": "🍧코메다 여름 한정 빙수 개시!",
+        "cards": [
+          {
+            "title": "전국 5종 빙수 출시",
+            "content": "코메다 커피에서 7월 1일부터 전국 일부 매장에서 시원한 여름 한정 빙수 5종을 판매합니다. (소진 시 종료)",
+            "alt_text": "다양한 종류의 빙수가 담긴 코메다 커피 매장 메뉴판 이미지"
+          },
+          {
+            "title": "지역별 특별 메뉴",
+            "content": "동일본·도카이 지역에서는 '모모타로 빙수'를, 서일본 지역에서는 '흑설탕 키나코 젠자이 빙수'를 맛볼 수 있어요.",
+            "alt_text": "복숭아 토핑이 올라간 '모모타로 빙수' 클로즈업 이미지"
+          },
+          {
+            "title": "전국 공통 메뉴",
+            "content": "그 외에도 전국에서 즐길 수 있는 3가지 종류의 빙수가 함께 출시됩니다.",
+            "alt_text": "팥과 떡이 올라간 젠자이 빙수 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "여름 시즌 한정으로 판매되는 만큼, 기간 내 방문하여 특별한 빙수를 꼭 경험해보세요.",
+            "alt_text": "코메다 커피 매장 내부에서 빙수를 즐기는 사람들 이미지"
+          },
+          {
+            "title": "방문 전 확인!",
+            "content": "매장별 판매 메뉴가 다를 수 있으니, 방문 전에 코메다 커피 공식 홈페이지나 매장에 문의하여 확인하는 것을 추천합니다.",
+            "alt_text": "코메다 커피 로고와 함께 '확인 필수!' 문구가 적힌 이미지"
+          }
+        ],
+        "caption": "일본 여름 여행, 시원함은 필수! ☀️\n코메다 커피에서 7월 1일부터 전국적으로 여름 한정 빙수 5종을 출시했어요! 🍧\n동일본/도카이 '모모타로 빙수', 서일본 '흑설탕 키나코 젠자이 빙수' 등 지역별 특별 메뉴와 전국 공통 메뉴까지! \n여행 중 시원한 디저트 타임을 계획 중이라면, 놓치지 말고 코메다 커피에서 특별한 빙수를 맛보세요! 💖\n\n#일본여름 #코메다커피 #빙수맛집",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#코메다커피",
+          "#일본카페",
+          "#여름한정",
+          "#빙수",
+          "#일본디저트",
+          "#일본맛집",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본생활",
+          "#코메다",
+          "#여름휴가",
+          "#일본여행꿀팁",
+          "#일본쇼핑"
+        ],
+        "alt_texts": [
+          "다양한 종류의 빙수가 담긴 코메다 커피 매장 메뉴판 이미지",
+          "복숭아 토핑이 올라간 '모모타로 빙수' 클로즈업 이미지",
+          "팥과 떡이 올라간 젠자이 빙수 이미지",
+          "코메다 커피 매장 내부에서 빙수를 즐기는 사람들 이미지",
+          "코메다 커피 로고와 함께 '확인 필수!' 문구가 적힌 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 정보성 콘텐츠로 인한 저장 및 공유 / 이 콘텐츠의 강점: 일본 현지에서만 맛볼 수 있는 시즌 한정 메뉴 정보로 여행 계획에 실질적인 도움 제공",
+      "image": {
+        "keyword": "Komeda Coffee, shaved ice, Japan summer, limited menu, dessert",
+        "unsplash_url": "https://unsplash.com/s/photos/Komeda-Coffee,-shaved-ice,-Japan-summer,-limited-menu,-dessert",
+        "pexels_url": "https://www.pexels.com/search/Komeda%20Coffee,%20shaved%20ice,%20Japan%20summer,%20limited%20menu,%20dessert/"
+      }
+    },
+    {
+      "id": "plan_2608708a",
+      "created_at": "2026-06-26T01:30:05.085103",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "箱根海賊船「ロワイヤルII」リニューアル就航。抽選950名を無料クルーズに招待、応募は7月12日まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120189.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수 코스, 하코네 해적선 무료 탑승 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨하코네 해적선 무료 탑승✨",
+        "cards": [
+          {
+            "title": "무료 크루즈!",
+            "content": "7월 18일부터 20일까지 3일간, 리뉴얼된 하코네 해적선 '로와얄 II' 특별 무료 크루즈에 총 950명을 초대합니다.",
+            "alt_text": "하코네 해적선 '로와얄 II'의 새로운 모습"
+          },
+          {
+            "title": "응모 기간",
+            "content": "무료 크루즈 응모는 7월 12일까지입니다. 서둘러 신청하세요!",
+            "alt_text": "달력에 표시된 7월 12일"
+          },
+          {
+            "title": "리뉴얼",
+            "content": "오다큐 하코네에서 운행하는 아시노코(芦ノ湖) 관광 유람선 '하코네 해적선' 중 '로와얄 II'가 새롭게 단장하여 7월 18일 취항합니다.",
+            "alt_text": "새롭게 단장한 하코네 해적선 내부 모습"
+          },
+          {
+            "title": "탑승 장소",
+            "content": "아시노코(芦ノ湖)에서 아름다운 풍경을 감상하며 특별한 경험을 즐길 수 있습니다.",
+            "alt_text": "아시노코 호수와 후지산 풍경"
+          },
+          {
+            "title": "꿀팁",
+            "content": "하코네 여행 계획 중이라면, 무료 크루즈 기회를 놓치지 마세요! 당첨되지 않더라도 리뉴얼된 해적선을 이용해보세요.",
+            "alt_text": "하코네 지역 지도"
+          }
+        ],
+        "caption": "일본 하코네 여행 꿀팁! 🚢✨\n7월 18일, 새롭게 태어나는 하코네 해적선 '로와얄 II'를 만나보세요!\n7월 18일부터 20일까지, 총 950명을 대상으로 특별 무료 크루즈를 진행합니다. 🤩\n응모 마감일은 7월 12일이니, 지금 바로 신청하세요!\n#하코네여행 #일본여행 #무료크루즈 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하코네",
+          "#하코네해적선",
+          "#무료크루즈",
+          "#일본이벤트",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본축제",
+          "#여행꿀팁",
+          "#관광",
+          "#일본"
+        ],
+        "alt_texts": [
+          "하코네 해적선 '로와얄 II'의 새로운 모습",
+          "달력에 표시된 7월 12일",
+          "새롭게 단장한 하코네 해적선 내부 모습",
+          "아시노코 호수와 후지산 풍경",
+          "하코네 지역 지도"
+        ]
+      },
+      "marketer_analysis": "타겟: 하코네 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 참여율 및 정보 공유 / 이 콘텐츠의 강점: 한정적인 무료 탑승 기회 제공으로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Hakone Pirate Ship, Lake Ashi, Fuji Mountain",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Pirate-Ship,-Lake-Ashi,-Fuji-Mountain",
+        "pexels_url": "https://www.pexels.com/search/Hakone%20Pirate%20Ship,%20Lake%20Ashi,%20Fuji%20Mountain/"
+      }
+    },
     {
       "id": "plan_6b37708b",
       "created_at": "2026-06-25T04:18:56.879483",
@@ -923,160 +1077,6 @@
         "keyword": "japan hotel discount, water park, onsen, buffet, travel deal",
         "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount,-water-park,-onsen,-buffet,-travel-deal",
         "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount,%20water%20park,%20onsen,%20buffet,%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_166daff0",
-      "created_at": "2026-06-22T05:23:24.701885",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "しまむら、6月24日から「超サプライズセール!!!」。超特価品やノベルティ配布、ハッピーバッグも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118906.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 인기 SPA 브랜드 '시마무라'의 역대급 초특가 세일 소식!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 시마무라 6/24 초특가 세일!",
-        "cards": [
-          {
-            "title": "역대급 세일!",
-            "content": "일본 전국의 패션센터 시마무라에서 6월 24일부터 '초 서프라이즈 세일!!!'을 개최합니다. 평소 눈여겨봤던 상품을 놀라운 가격에 득템할 절호의 기회!",
-            "alt_text": "시마무라 매장에서 쇼핑하는 사람들"
-          },
-          {
-            "title": "다양한 혜택",
-            "content": "이번 세일에서는 파격적인 초특가 상품은 물론, 기간 한정 노벨티 증정 및 특별한 해피백까지 만나볼 수 있습니다. 어떤 상품이 기다릴지 기대되네요!",
-            "alt_text": "세일 홍보 현수막"
-          },
-          {
-            "title": "쇼핑 찬스",
-            "content": "일본 여행 중이라면 절대 놓쳐서는 안 될 시마무라의 특별 세일! 의류, 잡화 등 다양한 상품을 저렴하게 구매할 수 있는 좋은 기회입니다.",
-            "alt_text": "다양한 의류와 잡화가 진열된 시마무라 매장"
-          },
-          {
-            "title": "여행 전 체크!",
-            "content": "세일 시작일은 6월 24일입니다. 여행 일정에 맞춰 시마무라 방문 계획을 세워보세요! (매장별 재고 상황은 다를 수 있습니다.)",
-            "alt_text": "달력에 6월 24일이 표시된 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "세일 기간 동안 인기 상품은 빠르게 소진될 수 있으니, 오픈 시간에 맞춰 방문하는 것을 추천합니다. 원하는 상품을 득템할 확률이 높아져요!",
-            "alt_text": "시마무라 매장 앞에서 줄 서 있는 사람들"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 인기 SPA 브랜드 '시마무라'의 역대급 '초 서프라이즈 세일!!!'이 6월 24일부터 시작됩니다! 🤩\n\n놀라운 초특가 상품, 한정판 노벨티, 특별한 해피백까지! 일본 여행 중이라면 이 기회를 절대 놓치지 마세요!\n\n지금 바로 여행 계획 세우고 시마무라에서 득템 찬스 잡으세요! ✈️🇯🇵\n\n#플라잉재팬 #일본여행 #시마무라 #일본쇼핑 #득템찬스 #일본패션 #일본직구 #해외여행 #여행정보 #세일정보 #6월여행 #일본생활 #일본쇼핑리스트 #패션스타그램 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#시마무라",
-          "#일본쇼핑",
-          "#득템찬스",
-          "#일본패션",
-          "#일본직구",
-          "#해외여행",
-          "#여행정보",
-          "#세일정보",
-          "#6월여행",
-          "#일본생활",
-          "#일본쇼핑리스트",
-          "#패션스타그램",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "시마무라 매장에서 쇼핑하는 사람들",
-          "세일 홍보 현수막",
-          "다양한 의류와 잡화가 진열된 시마무라 매장",
-          "달력에 6월 24일이 표시된 모습",
-          "시마무라 매장 앞에서 줄 서 있는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 관심과 공유, 실제 방문으로 이어질 가능성 높음 / 이 콘텐츠의 강점: 시기적절한 쇼핑 정보, 구체적인 세일 시작일 명시",
-      "image": {
-        "keyword": "Shimamura fashion, Japanese shopping sale, discount clothing store Japan, limited edition goods, happy bag promotion",
-        "unsplash_url": "https://unsplash.com/s/photos/Shimamura-fashion,-Japanese-shopping-sale,-discount-clothing-store-Japan,-limited-edition-goods,-happy-bag-promotion",
-        "pexels_url": "https://www.pexels.com/search/Shimamura%20fashion,%20Japanese%20shopping%20sale,%20discount%20clothing%20store%20Japan,%20limited%20edition%20goods,%20happy%20bag%20promotion/"
-      }
-    },
-    {
-      "id": "plan_6e6974f8",
-      "created_at": "2026-06-22T05:23:18.480629",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「大江戸温泉物語 ながやま」8月1日リニューアル。追加料金なしで遊び放題＆くつろぎエンタメリゾートに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118933.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "온천 리뉴얼로 더욱 즐겁고 편안하게 즐길 수 있는 일본 온천 여행 정보!"
-      },
-      "content": {
-        "thumbnail_title": "♨️ 8/1 일본 온천 리뉴얼!",
-        "cards": [
-          {
-            "title": "온천 리뉴얼",
-            "content": "일본 이시카와현 가가시에 위치한 '오에도 온천 이야기 나가야마'가 8월 1일 새롭게 리뉴얼 오픈합니다.",
-            "alt_text": "일본 온천 리뉴얼 오픈 안내"
-          },
-          {
-            "title": "추가 요금 없이!",
-            "content": "리뉴얼 후에는 추가 요금 없이 온천 시설을 무제한으로 이용할 수 있습니다.",
-            "alt_text": "추가 요금 없이 즐기는 온천"
-          },
-          {
-            "title": "다양한 즐길 거리",
-            "content": "온천뿐만 아니라 엔터테인먼트 시설까지 갖춘 리조트에서 편안한 휴식을 즐겨보세요.",
-            "alt_text": "온천과 함께 즐기는 엔터테인먼트"
-          },
-          {
-            "title": "가장 빠른 정보",
-            "content": "새롭게 단장한 온천에서 잊지 못할 추억을 만들 수 있도록, 가장 먼저 소식을 전해드립니다.",
-            "alt_text": "새로운 추억을 위한 온천 여행"
-          },
-          {
-            "title": "꿀팁",
-            "content": "리뉴얼 오픈 직후에는 사람이 몰릴 수 있으니, 방문 전 운영 시간 및 예약 가능 여부를 확인하는 것이 좋습니다.",
-            "alt_text": "방문 전 확인 필수!"
-          }
-        ],
-        "caption": "♨️ 일본 온천 여행 계획 중이시라면 주목! ♨️\n\n이시카와현 가가시에 위치한 '오에도 온천 이야기 나가야마'가 8월 1일, 더욱 새롭고 풍성하게 리뉴얼 오픈합니다! 🎉\n\n이번 리뉴얼을 통해 추가 요금 없이 온천을 마음껏 즐길 수 있으며, 다양한 엔터테인먼트 시설까지 갖춘 복합 리조트로 재탄생했어요. 🤩\n\n여름 휴가철, 시원한 온천과 함께 특별한 추억을 만들고 싶다면 이곳을 추천합니다! 💯\n\n#일본온천 #오에도온천 #온천여행 #이시카와현 #사가시 #일본여행정보 #여름휴가 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#오에도온천",
-          "#온천여행",
-          "#이시카와현",
-          "#가가시",
-          "#일본여행정보",
-          "#여름휴가",
-          "#여행꿀팁",
-          "#일본숙소",
-          "#일본가볼만한곳",
-          "#해외여행",
-          "#일본온천추천",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본 온천 리뉴얼 오픈 안내",
-          "추가 요금 없이 즐기는 온천",
-          "온천과 함께 즐기는 엔터테인먼트",
-          "새로운 추억을 위한 온천 여행",
-          "방문 전 확인 필수!"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획하는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 최신 리뉴얼 정보로 시의성이 높고, 추가 요금 없이 즐길 수 있다는 점이 매력적.",
-      "image": {
-        "keyword": "japanese onsen, hot spring resort, renovated spa, ishikawa prefecture, kaga city, travel japan",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-onsen,-hot-spring-resort,-renovated-spa,-ishikawa-prefecture,-kaga-city,-travel-japan",
-        "pexels_url": "https://www.pexels.com/search/japanese%20onsen,%20hot%20spring%20resort,%20renovated%20spa,%20ishikawa%20prefecture,%20kaga%20city,%20travel%20japan/"
       }
     }
   ]
