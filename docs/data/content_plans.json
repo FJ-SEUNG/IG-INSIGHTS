@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-27T00:20:40.984698",
+  "last_updated": "2026-06-27T04:11:45.868047",
   "plans": [
+    {
+      "id": "plan_c759424f",
+      "created_at": "2026-06-27T04:11:43.867842",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本びゅうツーリズム＆セールス、夜行団体臨時列車で大曲・長岡・村上へ向かう旅行商品を発売　花火大会シーズンに上野・新宿発で運行",
+        "url": "https://www.traicy.com/posts/20260627374771/",
+        "date": "Fri, 26 Jun 2026 23:15:21 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름밤, 일본 불꽃축제 명당으로 가는 야간 열차 특급 상품 등장! 🎆"
+      },
+      "content": {
+        "thumbnail_title": "🎆 야간 열차 타고 불꽃축제 슝! ✨",
+        "cards": [
+          {
+            "title": "야간 열차 상품",
+            "content": "JR 동일본에서 여름 불꽃축제 시즌을 맞아 야간 임시 열차를 이용한 특별 여행 상품을 출시했어요. 8월 2일 출발하는 2일간의 '나가오카 불꽃축제호' 나가오카 프리 플랜이 대표적입니다.",
+            "alt_text": "JR 동일본 야간 임시 열차 상품 안내 이미지"
+          },
+          {
+            "title": "출발역",
+            "content": "이 상품은 우에노역과 신주쿠역에서 출발하며, 나가오카, 오마가리, 무라카미 등 불꽃축제로 유명한 지역으로 향합니다.",
+            "alt_text": "도쿄 주요 기차역 출발 안내 이미지"
+          },
+          {
+            "title": "주요 불꽃축제",
+            "content": "특히 8월 2일~3일 열리는 나가오카 불꽃축제를 즐길 수 있는 플랜이 포함되어 있어, 여름밤의 낭만을 만끽하기 좋습니다.",
+            "alt_text": "나가오카 불꽃축제 밤하늘을 수놓는 불꽃 이미지"
+          },
+          {
+            "title": "상품 특징",
+            "content": "밤에 출발하여 다음 날 목적지에 도착하는 일정으로, 이동 시간을 활용해 불꽃축제 현장에서 여유로운 시간을 보낼 수 있습니다.",
+            "alt_text": "밤 기차 안에서 창밖을 보는 여행객 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "불꽃축제 시즌 열차는 인기가 많으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 공식 홈페이지에서 자세한 일정 및 요금을 확인하세요!",
+            "alt_text": "예약 버튼을 누르는 손 이미지"
+          }
+        ],
+        "caption": "일본 여름밤, 놓칠 수 없는 불꽃축제! 🎆\nJR 동일본에서 특별한 야간 열차 상품을 출시했어요.\n8월 2일 출발, 우에노/신주쿠 출발로 나가오카 등 불꽃축제 명소까지!\n이동 시간은 줄이고, 축제 즐길 시간은 늘리는 최고의 선택! ✨\n지금 바로 Flying Japan에서 자세한 정보를 확인하고 여름밤의 추억을 만들어보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본불꽃축제",
+          "#나가오카불꽃축제",
+          "#야간열차",
+          "#JR동일본",
+          "#여름여행",
+          "#일본축제",
+          "#여행상품",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#여름밤",
+          "#불꽃놀이"
+        ],
+        "alt_texts": [
+          "JR 동일본 야간 임시 열차 상품 안내 이미지",
+          "도쿄 주요 기차역 출발 안내 이미지",
+          "나가오카 불꽃축제 밤하늘을 수놓는 불꽃 이미지",
+          "밤 기차 안에서 창밖을 보는 여행객 이미지",
+          "예약 버튼을 누르는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 불꽃축제 관람을 희망하는 2030 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시~7시 (주말 여행 계획 시점) / 기대 반응: 상품 정보에 대한 문의 증가, 예약 문의 / 이 콘텐츠의 강점: 시기적절한 시즌 정보와 특별한 교통편 연계로 높은 관심 유도",
+      "image": {
+        "keyword": "japan summer festival night train fireworks",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-summer-festival-night-train-fireworks",
+        "pexels_url": "https://www.pexels.com/search/japan%20summer%20festival%20night%20train%20fireworks/"
+      }
+    },
+    {
+      "id": "plan_70c0c99c",
+      "created_at": "2026-06-27T04:11:31.234387",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "淡路屋、シリーズ5弾「国鉄コンテナ弁当」。中身はガッツリとんかつ、新金型で“戸口から戸口へ”も完全再現",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120491.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 철도 마니아와 미식가를 모두 사로잡을 특별한 도시락 등장!"
+      },
+      "content": {
+        "thumbnail_title": "🚄국철 컨테이너 도시락 출시🚄",
+        "cards": [
+          {
+            "title": "신상 도시락!",
+            "content": "일본 철도 애호가들의 마음을 사로잡을 '국철 컨테이너 도시락' 시리즈 5탄이 7월 1일 출시됩니다.",
+            "alt_text": "일본 철도 컨테이너 모양의 도시락 이미지"
+          },
+          {
+            "title": "도쿄 돈까스 편",
+            "content": "이번 신상품은 '도쿄 돈까스 편'으로, 푸짐한 돈까스를 메인으로 구성했습니다.",
+            "alt_text": "도시락 안에 담긴 먹음직스러운 돈까스 이미지"
+          },
+          {
+            "title": "완벽 재현!",
+            "content": "새로운 금형을 사용하여 '문 앞에서 문 앞까지' 운송을 상징하는 컨테이너의 특징을 완벽하게 재현했습니다.",
+            "alt_text": "컨테이너 도시락의 디테일한 디자인 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 1680엔입니다. 일본 여행 중 특별한 식사를 경험하고 싶다면 놓치지 마세요!",
+            "alt_text": "도시락 가격표 또는 상품 가격 정보 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "JR 패스를 이용하는 여행자라면, 기차 안에서 특별한 식사를 즐기며 여행의 낭만을 더해보세요. 한정판일 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "일본 기차 안에서 도시락을 먹는 모습 또는 도시락 이미지"
+          }
+        ],
+        "caption": "일본 철도 덕후들 주목! 🚄 '국철 컨테이너 도시락' 시리즈 5탄, '도쿄 돈까스 편'이 7월 1일 출시됩니다! 🚚 푸짐한 돈까스와 함께 완벽하게 재현된 컨테이너 디테일은 덤! 가격은 1680엔. 🍛 일본 여행 중 특별한 추억을 만들고 싶다면 꼭 맛보세요! #일본여행 #플라잉재팬 #국철컨테이너도시락 #돈까스 #일본미식",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#국철컨테이너도시락",
+          "#돈까스",
+          "#일본미식",
+          "#일본철도",
+          "#도시락",
+          "#여행필수템",
+          "#일본음식",
+          "#여행정보",
+          "#일본한정",
+          "#7월여행",
+          "#간사이여행",
+          "#도쿄여행",
+          "#큐슈여행"
+        ],
+        "alt_texts": [
+          "일본 철도 컨테이너 모양의 도시락 이미지",
+          "도시락 안에 담긴 먹음직스러운 돈까스 이미지",
+          "컨테이너 도시락의 디테일한 디자인 이미지",
+          "도시락 가격표 또는 상품 가격 정보 이미지",
+          "일본 기차 안에서 도시락을 먹는 모습 또는 도시락 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 철도 마니아, 독특한 식도락 경험을 원하는 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (저녁 식사 시간대) / 기대 반응: 높은 관심과 공유, 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 아이템, 시각적 매력, 구체적인 정보 제공",
+      "image": {
+        "keyword": "Japanese train bento, bento box, tonkatsu, Japan travel, food, limited edition, train container, Tokyo food",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-train-bento,-bento-box,-tonkatsu,-Japan-travel,-food,-limited-edition,-train-container,-Tokyo-food",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20train%20bento,%20bento%20box,%20tonkatsu,%20Japan%20travel,%20food,%20limited%20edition,%20train%20container,%20Tokyo%20food/"
+      }
+    },
     {
       "id": "plan_d820d8e8",
       "created_at": "2026-06-27T00:20:38.984520",
@@ -923,160 +1077,6 @@
         "keyword": "japan summer cooling vest, work man cooling clothing, japanese travel heatwave solution",
         "unsplash_url": "https://unsplash.com/s/photos/japan-summer-cooling-vest,-work-man-cooling-clothing,-japanese-travel-heatwave-solution",
         "pexels_url": "https://www.pexels.com/search/japan%20summer%20cooling%20vest,%20work%20man%20cooling%20clothing,%20japanese%20travel%20heatwave%20solution/"
-      }
-    },
-    {
-      "id": "plan_2238e348",
-      "created_at": "2026-06-24T00:11:50.263824",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "露天風呂付きの和洋室も備える「ラビスタ南阿蘇」開業。プレオープン記念の格安プラン提供も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2119445.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 큐슈, 아소산 근처 신규 온천 호텔 오픈! 특별 할인 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨아소산 신상 온천 호텔 오픈!✨",
-        "cards": [
-          {
-            "title": "신규 호텔 오픈",
-            "content": "일본 구마모토현 아소군 남아소촌에 '라비스타 남아소'가 8월 3일 그랜드 오픈합니다. 객실에는 노천탕이 딸린 화양실도 마련되어 있습니다.",
-            "alt_text": "새롭게 오픈하는 일본 온천 호텔 외관"
-          },
-          {
-            "title": "특별 할인",
-            "content": "그랜드 오픈 기념으로 파격적인 가격의 특별 플랜을 제공합니다. 오픈 기념 할인을 놓치지 마세요!",
-            "alt_text": "호텔 할인 프로모션 배너 이미지"
-          },
-          {
-            "title": "예약 가능",
-            "content": "이미 숙박 예약이 가능하며, 특히 노천탕이 있는 객실은 인기가 많을 것으로 예상됩니다. 서둘러 예약하세요!",
-            "alt_text": "호텔 예약 페이지 스크린샷"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소: 구마모토현 아소군 남아소촌 히사이치 4411-9. 아름다운 아소산의 풍경을 즐길 수 있는 곳에 위치합니다.",
-            "alt_text": "일본 아소산의 아름다운 풍경 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "오픈 기념 특별 플랜은 한정 수량이니 서둘러 예약하는 것이 좋습니다. 큐슈 여행 계획 중이라면 눈여겨보세요!",
-            "alt_text": "여행 가방과 일본 지도 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 큐슈 여행 계획 중이라면 주목! 🇯🇵\n\n아름다운 아소산 근처에 신규 온천 호텔 '라비스타 남아소'가 8월 3일 오픈합니다! ✨\n\n노천탕이 딸린 화양실까지 갖춘 이곳에서 특별한 휴식을 즐겨보세요. ♨️\n\n지금 바로 예약하고 오픈 기념 특별 할인 플랜도 놓치지 마세요! 💰\n\n#일본여행 #큐슈여행 #아소산 #온천호텔 #신규오픈 #라비스타남아소 #일본숙소 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#큐슈여행",
-          "#아소산",
-          "#일본온천",
-          "#신규호텔",
-          "#라비스타남아소",
-          "#일본숙소",
-          "#여행스타그램",
-          "#일본여행정보",
-          "#일본자유여행",
-          "#여름휴가",
-          "#가을여행",
-          "#호텔추천",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "새롭게 오픈하는 일본 온천 호텔 외관",
-          "호텔 할인 프로모션 배너 이미지",
-          "호텔 예약 페이지 스크린샷",
-          "일본 아소산의 아름다운 풍경 사진",
-          "여행 가방과 일본 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 큐슈 지역 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 신규 오픈이라는 시의성과 파격적인 할인 정보 제공",
-      "image": {
-        "keyword": "Japanese onsen hotel, Aso mountain, new hotel opening, hot spring bath, Japanese luxury hotel",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-onsen-hotel,-Aso-mountain,-new-hotel-opening,-hot-spring-bath,-Japanese-luxury-hotel",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20onsen%20hotel,%20Aso%20mountain,%20new%20hotel%20opening,%20hot%20spring%20bath,%20Japanese%20luxury%20hotel/"
-      }
-    },
-    {
-      "id": "plan_d889d1bb",
-      "created_at": "2026-06-24T00:11:44.438652",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "箱根ホテル小涌園、1泊2食プランが最大30％オフ。ユネッサン＆森の湯に入り放題、豪華ビュッフェは飲み放題付き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2119453.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 리조트 1박 2식 최대 30% 할인 찬스! 료칸 숙박과 온천, 뷔페까지 한 번에 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️하코네 호텔 30% 할인!",
-        "cards": [
-          {
-            "title": "최대 30% 할인",
-            "content": "일본 하코네의 '호텔 쇼우코엔'에서 1박 2식 플랜을 최대 30% 할인된 가격으로 예약할 수 있어요. 6월 30일까지 진행되는 '스페셜 쿠폰 위크'를 활용하세요!",
-            "alt_text": "호텔 쇼우코엔 30% 할인 배너"
-          },
-          {
-            "title": "온천 무제한",
-            "content": "하코네의 유명 온천 시설인 '유네상'과 '모리노유'를 숙박 기간 동안 무제한으로 이용 가능합니다. 다양한 테마의 온천을 즐겨보세요.",
-            "alt_text": "유네상 온천 시설 내부"
-          },
-          {
-            "title": "럭셔리 뷔페",
-            "content": "신선한 해산물과 현지 요리를 맛볼 수 있는 뷔페가 포함되어 있으며, 음료까지 무제한으로 제공됩니다. 풍성한 식사를 경험하세요.",
-            "alt_text": "다양한 음식이 차려진 뷔페 테이블"
-          },
-          {
-            "title": "쿠폰 활용법",
-            "content": "라쿠텐 트래블에서 제공하는 스페셜 쿠폰을 여러 개 중복 사용하여 할인율을 높일 수 있습니다. 예약 시 쿠폰 적용을 꼭 확인하세요.",
-            "alt_text": "라쿠텐 트래블 앱에서 쿠폰을 선택하는 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기 있는 숙소이므로 서둘러 예약하는 것이 좋습니다. 특히 주말이나 성수기에는 조기 마감될 수 있으니 미리 계획하세요.",
-            "alt_text": "달력에서 6월 30일을 표시한 모습"
-          }
-        ],
-        "caption": "일본 하코네 여행 계획 중이라면 주목! ♨️ 호텔 쇼우코엔 1박 2식 플랜이 최대 30% 할인된 가격으로 나왔어요! 6월 30일까지 진행되는 스페셜 쿠폰 위크를 놓치지 마세요. ✨ 유네상 & 모리노유 온천 무제한 이용에 럭셔리 뷔페, 음료 무제한까지! 🍽️ 지금 바로 라쿠텐 트래블에서 혜택 확인하고 알뜰하게 예약하세요! 😉\n\n#일본여행 #하코네 #호텔쇼우코엔 #온천여행 #료칸 #일본할인 #라쿠텐트래블 #일본숙소 #여행꿀팁 #플라잉재팬 #일본온천 #해외여행 #가성비여행 #일본자유여행 #6월여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하코네",
-          "#호텔쇼우코엔",
-          "#온천여행",
-          "#료칸",
-          "#일본할인",
-          "#라쿠텐트래블",
-          "#일본숙소",
-          "#여행꿀팁",
-          "#일본온천",
-          "#해외여행",
-          "#가성비여행",
-          "#일본자유여행",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "호텔 쇼우코엔 30% 할인 배너",
-          "유네상 온천 시설 내부",
-          "다양한 음식이 차려진 뷔페 테이블",
-          "라쿠텐 트래블 앱에서 쿠폰을 선택하는 모습",
-          "달력에서 6월 30일을 표시한 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 명확한 할인 정보와 포함된 혜택(온천, 뷔페)을 강조하여 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Hakone hotel discount, Yunessun hot spring, Japanese buffet, Rakuten Travel coupon, Japanese ryokan",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakone-hotel-discount,-Yunessun-hot-spring,-Japanese-buffet,-Rakuten-Travel-coupon,-Japanese-ryokan",
-        "pexels_url": "https://www.pexels.com/search/Hakone%20hotel%20discount,%20Yunessun%20hot%20spring,%20Japanese%20buffet,%20Rakuten%20Travel%20coupon,%20Japanese%20ryokan/"
       }
     }
   ]
