@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-26T04:25:57.982933",
+  "last_updated": "2026-06-27T00:20:40.984698",
   "plans": [
+    {
+      "id": "plan_d820d8e8",
+      "created_at": "2026-06-27T00:20:38.984520",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ユニクロJR新大阪店」7月3日増床リニューアル。JR西日本・がんこ寿司とのコラボTシャツ発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120448.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신사이바시에서 유니클로 쇼핑 찬스! JR 신오사카역점 증축 리뉴얼 및 한정 협업 티셔츠 출시 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨신오사카 유니클로 증축!",
+        "cards": [
+          {
+            "title": "7월 3일 리뉴얼!",
+            "content": "유니클로 JR 신오사카점이 7월 3일, 매장 면적을 기존 약 81평에서 약 135평으로 확장하여 새롭게 오픈합니다. 더욱 넓어진 공간에서 편안하게 쇼핑을 즐겨보세요!",
+            "alt_text": "유니클로 JR 신오사카점 외관 전경"
+          },
+          {
+            "title": "키즈 상품 추가!",
+            "content": "이번 리뉴얼을 통해 기존 남성, 여성 의류에 더해 일부 키즈 상품 라인도 새롭게 선보입니다. 가족 단위 여행객에게도 더욱 매력적인 쇼핑 스팟이 될 예정입니다.",
+            "alt_text": "다양한 아동복이 진열된 유니클로 매장 내부"
+          },
+          {
+            "title": "편리한 쇼핑 환경",
+            "content": "셀프 계산대는 2대에서 4대로, 피팅룸은 2실에서 4실로 각각 증설됩니다. 쇼핑 대기 시간을 줄여 더욱 쾌적한 쇼핑 경험을 제공합니다.",
+            "alt_text": "깔끔하게 정돈된 유니클로 셀프 계산대 모습"
+          },
+          {
+            "title": "JR 서일본 협업!",
+            "content": "JR 서일본과의 콜라보레이션으로 제작된 한정 티셔츠도 발매될 예정입니다. 신오사카점에서만 만날 수 있는 특별한 기념품이 될 것입니다.",
+            "alt_text": "JR 서일본과 유니클로 로고가 함께 디자인된 티셔츠 이미지"
+          },
+          {
+            "title": "쇼핑 팁!",
+            "content": "JR 신오사카역은 신칸센 이용객이 많으니, 열차 시간 확인 후 여유롭게 방문하는 것을 추천합니다. 한정판 티셔츠는 조기 품절될 수 있으니 서두르세요!",
+            "alt_text": "신오사카역 내부 안내 표시판"
+          }
+        ],
+        "caption": "JR 신오사카역 유니클로가 7월 3일, 더 넓어진 공간과 함께 새롭게 오픈해요!✨\n키즈 상품도 추가되고 셀프 계산대와 피팅룸도 늘어나 더욱 편리하게 쇼핑할 수 있답니다.\nJR 서일본과의 콜라보 한정 티셔츠도 놓치지 마세요! 🚄\n\n#일본여행 #플라잉재팬 #유니클로 #신오사카 #JR신오사카역 #일본쇼핑 #여행정보 #일본여행꿀팁 #여행스타그램 #일본쇼핑리스트 #가족여행 #일본자유여행 #신사이바시 #쇼핑찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#신오사카",
+          "#JR신오사카역",
+          "#일본쇼핑",
+          "#여행정보",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본쇼핑리스트",
+          "#가족여행",
+          "#일본자유여행",
+          "#신사이바시",
+          "#쇼핑찬스",
+          "#한정판"
+        ],
+        "alt_texts": [
+          "유니클로 JR 신오사카점 외관 전경",
+          "다양한 아동복이 진열된 유니클로 매장 내부",
+          "깔끔하게 정돈된 유니클로 셀프 계산대 모습",
+          "JR 서일본과 유니클로 로고가 함께 디자인된 티셔츠 이미지",
+          "신오사카역 내부 안내 표시판"
+        ]
+      },
+      "marketer_analysis": "타겟: 신오사카를 방문하는 한국인 여행객 (특히 가족 단위, 쇼핑 선호층) / 최적 게시 시간: 평일 오후 6시~8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 습득, 공유, 저장 / 이 콘텐츠의 강점: 구체적인 날짜, 장소, 수치 정보 제공 및 실질적인 쇼핑 팁 포함",
+      "image": {
+        "keyword": "Uniqlo JR Shin-Osaka Store renovation, collaboration t-shirt, Osaka shopping, Japan travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-JR-Shin-Osaka-Store-renovation,-collaboration-t-shirt,-Osaka-shopping,-Japan-travel-information",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20JR%20Shin-Osaka%20Store%20renovation,%20collaboration%20t-shirt,%20Osaka%20shopping,%20Japan%20travel%20information/"
+      }
+    },
+    {
+      "id": "plan_693cff60",
+      "created_at": "2026-06-27T00:20:22.685881",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーランドで初のドローン演出。「Reach for the Stars: Everlasting Dreams」で期間限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120546.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드에서 펼쳐지는 별빛 향연, 놓치면 후회할 특별한 경험!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니랜드, 별빛 드론쇼!✨",
+        "cards": [
+          {
+            "title": "역대급 드론쇼",
+            "content": "도쿄 디즈니랜드에서 최초로 드론 연출 쇼를 선보입니다. 'Reach for the Stars: Everlasting Dreams'라는 이름으로 진행됩니다.",
+            "alt_text": "도쿄 디즈니랜드의 밤하늘을 수놓는 화려한 드론 쇼 이미지"
+          },
+          {
+            "title": "기간 한정!",
+            "content": "이 특별한 드론 쇼는 2024년 7월 2일부터 9월 14일까지 아주 짧은 기간 동안만 볼 수 있습니다.",
+            "alt_text": "기간 한정 이벤트임을 나타내는 달력 이미지"
+          },
+          {
+            "title": "놓치지 마세요",
+            "content": "일본 여름밤, 별처럼 쏟아지는 드론과 함께 잊지 못할 추억을 만들어보세요. 디즈니랜드의 마법이 더욱 특별해집니다.",
+            "alt_text": "디즈니랜드의 상징적인 건축물과 밤하늘이 어우러진 풍경"
+          },
+          {
+            "title": "디즈니랜드 필수 코스",
+            "content": "꿈과 환상의 세계, 디즈니랜드에서 펼쳐지는 환상적인 야경을 직접 경험할 수 있는 절호의 기회입니다.",
+            "alt_text": "디즈니랜드의 밤 풍경을 즐기는 사람들의 모습"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "쇼 시간 및 장소는 디즈니랜드 공식 앱 또는 웹사이트에서 미리 확인하는 것이 좋습니다. 인기 있는 관람 명당은 서둘러 자리 잡으세요!",
+            "alt_text": "스마트폰으로 디즈니랜드 앱을 확인하는 모습"
+          }
+        ],
+        "caption": "도쿄 디즈니랜드에서 펼쳐지는 꿈 같은 순간! ✨\n역대급 규모의 드론 연출 쇼 'Reach for the Stars: Everlasting Dreams'가\n7월 2일부터 9월 14일까지 기간 한정으로 열립니다. 🤩\n일본 여행 중이라면 절대 놓치지 마세요! ✈️\n\n#도쿄디즈니랜드 #디즈니랜드 #드론쇼 #기간한정 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#도쿄디즈니랜드",
+          "#디즈니",
+          "#드론쇼",
+          "#기간한정",
+          "#일본축제",
+          "#일본이벤트",
+          "#여름휴가",
+          "#여행정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본어디까지가봤니"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드의 밤하늘을 수놓는 화려한 드론 쇼 이미지",
+          "기간 한정 이벤트임을 나타내는 달력 이미지",
+          "디즈니랜드의 상징적인 건축물과 밤하늘이 어우러진 풍경",
+          "디즈니랜드의 밤 풍경을 즐기는 사람들의 모습",
+          "스마트폰으로 디즈니랜드 앱을 확인하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 공유, 디즈니랜드 방문 계획에 직접적인 영향 / 이 콘텐츠의 강점: 최초 드론 쇼라는 희소성, 기간 한정 정보로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Tokyo Disneyland drone show, Reach for the Stars Everlasting Dreams, Japan summer event",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-drone-show,-Reach-for-the-Stars-Everlasting-Dreams,-Japan-summer-event",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20drone%20show,%20Reach%20for%20the%20Stars%20Everlasting%20Dreams,%20Japan%20summer%20event/"
+      }
+    },
     {
       "id": "plan_98cf4ab1",
       "created_at": "2026-06-26T04:25:55.982755",
@@ -923,160 +1077,6 @@
         "keyword": "Hakone hotel discount, Yunessun hot spring, Japanese buffet, Rakuten Travel coupon, Japanese ryokan",
         "unsplash_url": "https://unsplash.com/s/photos/Hakone-hotel-discount,-Yunessun-hot-spring,-Japanese-buffet,-Rakuten-Travel-coupon,-Japanese-ryokan",
         "pexels_url": "https://www.pexels.com/search/Hakone%20hotel%20discount,%20Yunessun%20hot%20spring,%20Japanese%20buffet,%20Rakuten%20Travel%20coupon,%20Japanese%20ryokan/"
-      }
-    },
-    {
-      "id": "plan_82c15c6a",
-      "created_at": "2026-06-23T04:15:54.309721",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "熱海後楽園ホテル、大迫力の花火観賞プランが1泊2食で最大30％オフ。絶景スパや熱海プリンも楽しめる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2119102.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "지금 예약하면 최대 30% 할인! 오션뷰 스파와 함께 즐기는 불꽃놀이 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🔥30% 할인! 불꽃놀이 숙소🔥",
-        "cards": [
-          {
-            "title": "최대 30% 할인!",
-            "content": "일본 료칸/호텔 예약 시 최대 30% 할인되는 '스페셜 쿠폰 WEEK'이 6월 30일까지 진행됩니다. 여러 쿠폰을 중복 사용하여 더욱 저렴하게 예약하세요.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "열해 후라쿠엔 호텔",
-            "content": "특히 열해 후라쿠엔 호텔은 대형 불꽃놀이 관람 플랜을 1박 2식 포함하여 최대 30% 할인된 가격으로 제공합니다. 아름다운 불꽃놀이와 함께 특별한 추억을 만들어보세요.",
-            "alt_text": "불꽃놀이와 호텔이 함께 보이는 야경 이미지"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "호텔 내 절경 스파와 '열해 푸딩'도 함께 즐길 수 있습니다. 료칸에서의 휴식과 다채로운 즐길 거리를 동시에 경험하세요.",
-            "alt_text": "호텔 스파 시설 이미지"
-          },
-          {
-            "title": "쿠폰 활용 꿀팁",
-            "content": "라쿠텐 트래블에서 진행하는 이번 프로모션은 중복 할인이 가능하니, 보유하고 있는 쿠폰을 모두 확인하여 최대로 할인받는 것이 중요합니다.",
-            "alt_text": "쿠폰 사용 방법 안내 이미지"
-          },
-          {
-            "title": "예약 전 확인!",
-            "content": "할인 적용 여부 및 상세 내용은 예약 페이지에서 반드시 다시 한번 확인하시기 바랍니다. 6월 30일 마감이니 서두르세요!",
-            "alt_text": "달력에 6월 30일 표시된 이미지"
-          }
-        ],
-        "caption": "일본 여행 예정이라면 주목! 👀\n라쿠텐 트래블에서 최대 30% 할인되는 '스페셜 쿠폰 WEEK'이 6월 30일까지 진행돼요!\n특히 열해 후라쿠엔 호텔에서는 멋진 불꽃놀이를 1박 2식 포함, 최대 30% 할인된 가격으로 즐길 수 있답니다. 🎆\n오션뷰 스파와 맛있는 디저트까지! 💖\n놓치면 후회할 역대급 할인 찬스, 지금 바로 예약하세요! 👇\n\n#일본여행 #플라잉재팬 #일본숙소 #일본호텔 #일본료칸 #할인정보 #불꽃놀이 #열해 #열해여행 #일본온천 #일본여행꿀팁 #여행스타그램 #여행 #휴가 #일본자유여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#일본호텔",
-          "#일본료칸",
-          "#할인정보",
-          "#불꽃놀이",
-          "#열해",
-          "#열해여행",
-          "#일본온천",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#여행",
-          "#휴가",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지",
-          "불꽃놀이와 호텔이 함께 보이는 야경 이미지",
-          "호텔 스파 시설 이미지",
-          "쿠폰 사용 방법 안내 이미지",
-          "달력에 6월 30일 표시된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 즉각적인 할인 혜택과 특별한 경험(불꽃놀이, 스파)을 결합하여 높은 구매 전환율 기대",
-      "image": {
-        "keyword": "japan fireworks hotel discount spa",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-fireworks-hotel-discount-spa",
-        "pexels_url": "https://www.pexels.com/search/japan%20fireworks%20hotel%20discount%20spa/"
-      }
-    },
-    {
-      "id": "plan_32f031b6",
-      "created_at": "2026-06-23T04:15:44.729819",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、ちいかわTシャツ＆スウェットを7月発売。「映画ちいかわ 人魚の島のひみつ」公開記念",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2119228.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "인기 캐릭터 '치이카와'와 유니클로의 만남! 일본 여행 중 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨치이카와X유니클로 7월 출시!",
-        "cards": [
-          {
-            "title": "신상 UT 출시!",
-            "content": "일본 유니클로에서 '치이카와'와 콜라보한 신상 UT가 7월 중순 출시됩니다. '영화 치이카와: 인어 섬의 비밀' 개봉 기념으로 출시되는 이번 콜라보 상품을 놓치지 마세요!",
-            "alt_text": "유니클로와 치이카와의 콜라보 신상 UT 출시 예고 이미지"
-          },
-          {
-            "title": "영화 기념!",
-            "content": "이번 콜라보는 '영화 치이카와: 인어 섬의 비밀' 개봉을 기념하여 진행됩니다. 영화를 재미있게 보셨다면 더욱 특별한 추억이 될 거예요.",
-            "alt_text": "'영화 치이카와: 인어 섬의 비밀' 포스터 이미지"
-          },
-          {
-            "title": "어디서 살 수 있나요?",
-            "content": "일본 전국의 유니클로 매장에서 만나볼 수 있습니다. 정확한 출시일은 7월 중순이며, 품절되기 전에 서둘러 방문하는 것을 추천합니다.",
-            "alt_text": "일본 유니클로 매장 외관 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "평소 치이카와를 좋아하거나, 귀여운 캐릭터 상품에 관심 있다면 이번 기회를 꼭 잡으세요. 일본 여행 중 특별한 기념품이 될 수 있습니다.",
-            "alt_text": "치이카와 캐릭터 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 여행 일정 중 유니클로 방문을 미리 계획해두는 것이 좋습니다. 매장별 재고 확인은 방문 전 필수!",
-            "alt_text": "쇼핑백에 담긴 유니클로 상품 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 득템 찬스!✨ 7월 중순, 일본 유니클로에서 인기 캐릭터 '치이카와'와 콜라보한 신상 UT와 스웨트셔츠가 출시됩니다! 💖 '영화 치이카와: 인어 섬의 비밀' 개봉 기념으로 나오는 특별한 컬렉션이니, 치이카와 팬이라면 절대 놓치지 마세요! 🇯🇵 귀여운 아이템으로 일본 여행의 추억을 더해보세요! 😉 #일본여행 #플라잉재팬 #치이카와 #유니클로 #일본쇼핑 #한정판 #여행정보 #일본득템 #캐릭터상품 #여행꿀팁 #7월일본 #일본쇼핑리스트 #일본직구 #인싸템 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#치이카와",
-          "#유니클로",
-          "#일본쇼핑",
-          "#한정판",
-          "#여행정보",
-          "#일본득템",
-          "#캐릭터상품",
-          "#여행꿀팁",
-          "#7월일본",
-          "#일본쇼핑리스트",
-          "#일본직구",
-          "#인싸템",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "유니클로와 치이카와의 콜라보 신상 UT 출시 예고 이미지",
-          "'영화 치이카와: 인어 섬의 비밀' 포스터 이미지",
-          "일본 유니클로 매장 외관 이미지",
-          "치이카와 캐릭터 이미지",
-          "쇼핑백에 담긴 유니클로 상품 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 여성 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 트렌드와 실용적인 쇼핑 정보를 결합하여 여행객의 구매 욕구를 자극",
-      "image": {
-        "keyword": "Uniqlo Chiikawa collaboration t-shirt Japan July release",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Chiikawa-collaboration-t-shirt-Japan-July-release",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Chiikawa%20collaboration%20t-shirt%20Japan%20July%20release/"
       }
     }
   ]
