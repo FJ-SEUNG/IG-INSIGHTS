@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-29T00:19:29.802197",
+  "last_updated": "2026-06-29T04:54:20.122102",
   "plans": [
+    {
+      "id": "plan_876b8b94",
+      "created_at": "2026-06-29T04:54:18.121916",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニー×レモン牛乳再び！　今年はカモノハシペリーのぬい＆ポシェット付きラムネが仲間入り",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120718.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니와 레몬우유의 만남! 귀여운 페리 굿즈와 함께 특별한 일본 디저트를 즐겨보세요!"
+      },
+      "content": {
+        "thumbnail_title": "💖디즈니X레몬우유💖",
+        "cards": [
+          {
+            "title": "콜라보 출시!",
+            "content": "디즈니 스토어가 매년 진행하는 레몬우유와의 특별한 콜라보레이션 상품이 2024년 6월 30일에 출시됩니다.",
+            "alt_text": "디즈니 스토어와 레몬우유 콜라보레이션 상품 출시 안내"
+          },
+          {
+            "title": "새로운 굿즈!",
+            "content": "올해는 귀여운 카모시 페리의 인형과 포켓이 달린 라무네(사탕)가 새롭게 출시될 예정입니다.",
+            "alt_text": "카모시 페리 인형과 라무네 상품 이미지"
+          },
+          {
+            "title": "일본 한정!",
+            "content": "일본 디즈니 스토어에서만 만날 수 있는 특별한 콜라보 상품으로, 여행 중 특별한 기념품이 될 거예요.",
+            "alt_text": "일본 디즈니 스토어 매장 이미지"
+          },
+          {
+            "title": "디저트 타임!",
+            "content": "달콤한 레몬우유 맛과 디즈니 캐릭터의 만남! 여행 중 디저트 타임을 더욱 특별하게 만들어 줄 거예요.",
+            "alt_text": "레몬우유 맛 디저트 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 원하시는 상품이 있다면 출시 당일 또는 직후 방문을 추천합니다.",
+            "alt_text": "일본 디즈니 스토어 방문객 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 디저트를 찾는다면 주목! 💖 디즈니 스토어와 레몬우유의 만남! 6월 30일, 귀여운 카모시 페리 굿즈와 라무네가 포함된 콜라보 상품이 출시됩니다. 일본에서만 만날 수 있는 특별한 경험, 놓치지 마세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니스토어",
+          "#레몬우유",
+          "#일본한정",
+          "#카모시페리",
+          "#일본디저트",
+          "#여행선물",
+          "#일본쇼핑",
+          "#여행정보",
+          "#6월일본",
+          "#콜라보",
+          "#디즈니굿즈",
+          "#여행꿀팁",
+          "#일본"
+        ],
+        "alt_texts": [
+          "디즈니 스토어와 레몬우유 콜라보레이션 상품 출시 안내",
+          "카모시 페리 인형과 라무네 상품 이미지",
+          "일본 디즈니 스토어 매장 이미지",
+          "레몬우유 맛 디저트 이미지",
+          "일본 디즈니 스토어 방문객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 상품 구매 인증샷, 정보 공유 댓글 / 이 콘텐츠의 강점: 귀여운 캐릭터와 한정판 상품이라는 매력 포인트",
+      "image": {
+        "keyword": "Disney Lemon Milk collaboration Japan, Perry the Platypus plush, Ramune candy, Japan Disney Store, limited edition sweets",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-Lemon-Milk-collaboration-Japan,-Perry-the-Platypus-plush,-Ramune-candy,-Japan-Disney-Store,-limited-edition-sweets",
+        "pexels_url": "https://www.pexels.com/search/Disney%20Lemon%20Milk%20collaboration%20Japan,%20Perry%20the%20Platypus%20plush,%20Ramune%20candy,%20Japan%20Disney%20Store,%20limited%20edition%20sweets/"
+      }
+    },
+    {
+      "id": "plan_11d687ee",
+      "created_at": "2026-06-29T04:54:10.955417",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大阪・淀川区の河川敷「ミナモ十三」に屋台エリアオープン。淀川花火大会も特等席",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2120728.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 요도강 불꽃놀이 명당! 현지인처럼 즐기는 야타이 체험!"
+      },
+      "content": {
+        "thumbnail_title": "🎆 오사카 불꽃놀이 명당 오픈!",
+        "cards": [
+          {
+            "title": "야타이 에리어 오픈!",
+            "content": "오사카 요도강변 '미나모十三'에 8월 초, 새로운 야타이(포장마차) 에리어가 문을 엽니다. 다양한 먹거리를 즐기며 축제를 만끽하세요.",
+            "alt_text": "오사카 요도강변에 새롭게 오픈하는 야타이(포장마차) 에리어 전경"
+          },
+          {
+            "title": "불꽃놀이 특등석!",
+            "content": "오는 8월 15일에 열리는 '요도강 불꽃놀이 대회'를 최고의 명당에서 감상할 수 있습니다. 시원한 강바람과 함께 화려한 불꽃을 즐겨보세요.",
+            "alt_text": "요도강 불꽃놀이 대회의 화려한 불꽃이 밤하늘을 수놓는 모습"
+          },
+          {
+            "title": "十三역 근처",
+            "content": "장소는 오사카 주소인 '요도츠츠미이치 미나모十三'이며, 특히十三(주소)역에서 가깝습니다. 교통이 편리하여 접근성이 좋습니다.",
+            "alt_text": "十三(주소)역에서 야타이 에리어까지 가는 길 안내"
+          },
+          {
+            "title": "8월 초 개업",
+            "content": "야타이 에리어는 8월 초에 정식으로 개업 예정입니다. 정확한 오픈일은 추후 공지될 예정이니 참고하세요.",
+            "alt_text": "개업 예정인 야타이 에리어에 설치된 간판 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "불꽃놀이 당일은 인파가 몰릴 수 있으니, 미리 방문하여 좋은 자리를 잡는 것을 추천합니다. 야타이 음식은 현금 결제가 가능한 곳이 많으니 준비해주세요.",
+            "alt_text": "불꽃놀이를 즐기는 사람들과 야타이 음식을 보여주는 이미지"
+          }
+        ],
+        "caption": "🎆 오사카 여행 예정이라면 주목! 8월 초, 오사카 요도강변 '미나모十三'에 새로운 야타이(포장마차) 에리어가 오픈해요! 특히 8월 15일 요도강 불꽃놀이 대회의 환상적인 불꽃을 최고의 명당에서 즐길 수 있다고 합니다.十三(주소)역에서도 가까워 접근성도 최고! 현지인처럼 맛있는 음식과 함께 불꽃놀이를 즐겨보세요! ✨\n\n#일본여행 #오사카여행 #요도강불꽃놀이 #미나모十三 #야타이 #일본축제 #여행정보 #플라잉재팬 #오사카맛집 #여름축제 #일본생활 #여행꿀팁 #일본이벤트 #여름휴가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#요도강불꽃놀이",
+          "#미나모十三",
+          "#야타이",
+          "#일본축제",
+          "#여행정보",
+          "#오사카맛집",
+          "#여름축제",
+          "#일본생활",
+          "#여행꿀팁",
+          "#일본이벤트",
+          "#여름휴가",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "오사카 요도강변에 새롭게 오픈하는 야타이(포장마차) 에리어 전경",
+          "요도강 불꽃놀이 대회의 화려한 불꽃이 밤하늘을 수놓는 모습",
+          "十三(주소)역에서 야타이 에리어까지 가는 길 안내",
+          "개업 예정인 야타이 에리어에 설치된 간판 이미지",
+          "불꽃놀이를 즐기는 사람들과 야타이 음식을 보여주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 7월 말 ~ 8월 초 오사카 여행 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 불꽃놀이 명당 정보에 대한 높은 관심, 야타이 음식에 대한 호기심 / 이 콘텐츠의 강점: 시기적절한 불꽃놀이 정보와 함께 새로운 명소 오픈 소식을 결합하여 여행 계획에 실질적인 도움을 줌",
+      "image": {
+        "keyword": "Osaka Yodogawa Fireworks Festival Yatai area",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodogawa-Fireworks-Festival-Yatai-area",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20Yodogawa%20Fireworks%20Festival%20Yatai%20area/"
+      }
+    },
     {
       "id": "plan_cf1f6e2e",
       "created_at": "2026-06-29T00:19:27.801981",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen bento box, Doctor Yellow, 500 series, Japanese train food, limited edition bento",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-bento-box,-Doctor-Yellow,-500-series,-Japanese-train-food,-limited-edition-bento",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20bento%20box,%20Doctor%20Yellow,%20500%20series,%20Japanese%20train%20food,%20limited%20edition%20bento/"
-      }
-    },
-    {
-      "id": "plan_c1ae4178",
-      "created_at": "2026-06-26T01:30:42.797015",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "コメダ珈琲店、東日本・東海限定の「もも太郎氷」や西日本限定の「黒蜜きなこのぜんざい氷」などかき氷5種発売",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2120021.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 시원한 여름, 코메다 커피 한정 빙수 맛보기!"
-      },
-      "content": {
-        "thumbnail_title": "🍧코메다 여름 한정 빙수 개시!",
-        "cards": [
-          {
-            "title": "전국 5종 빙수 출시",
-            "content": "코메다 커피에서 7월 1일부터 전국 일부 매장에서 시원한 여름 한정 빙수 5종을 판매합니다. (소진 시 종료)",
-            "alt_text": "다양한 종류의 빙수가 담긴 코메다 커피 매장 메뉴판 이미지"
-          },
-          {
-            "title": "지역별 특별 메뉴",
-            "content": "동일본·도카이 지역에서는 '모모타로 빙수'를, 서일본 지역에서는 '흑설탕 키나코 젠자이 빙수'를 맛볼 수 있어요.",
-            "alt_text": "복숭아 토핑이 올라간 '모모타로 빙수' 클로즈업 이미지"
-          },
-          {
-            "title": "전국 공통 메뉴",
-            "content": "그 외에도 전국에서 즐길 수 있는 3가지 종류의 빙수가 함께 출시됩니다.",
-            "alt_text": "팥과 떡이 올라간 젠자이 빙수 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "여름 시즌 한정으로 판매되는 만큼, 기간 내 방문하여 특별한 빙수를 꼭 경험해보세요.",
-            "alt_text": "코메다 커피 매장 내부에서 빙수를 즐기는 사람들 이미지"
-          },
-          {
-            "title": "방문 전 확인!",
-            "content": "매장별 판매 메뉴가 다를 수 있으니, 방문 전에 코메다 커피 공식 홈페이지나 매장에 문의하여 확인하는 것을 추천합니다.",
-            "alt_text": "코메다 커피 로고와 함께 '확인 필수!' 문구가 적힌 이미지"
-          }
-        ],
-        "caption": "일본 여름 여행, 시원함은 필수! ☀️\n코메다 커피에서 7월 1일부터 전국적으로 여름 한정 빙수 5종을 출시했어요! 🍧\n동일본/도카이 '모모타로 빙수', 서일본 '흑설탕 키나코 젠자이 빙수' 등 지역별 특별 메뉴와 전국 공통 메뉴까지! \n여행 중 시원한 디저트 타임을 계획 중이라면, 놓치지 말고 코메다 커피에서 특별한 빙수를 맛보세요! 💖\n\n#일본여름 #코메다커피 #빙수맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#코메다커피",
-          "#일본카페",
-          "#여름한정",
-          "#빙수",
-          "#일본디저트",
-          "#일본맛집",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본생활",
-          "#코메다",
-          "#여름휴가",
-          "#일본여행꿀팁",
-          "#일본쇼핑"
-        ],
-        "alt_texts": [
-          "다양한 종류의 빙수가 담긴 코메다 커피 매장 메뉴판 이미지",
-          "복숭아 토핑이 올라간 '모모타로 빙수' 클로즈업 이미지",
-          "팥과 떡이 올라간 젠자이 빙수 이미지",
-          "코메다 커피 매장 내부에서 빙수를 즐기는 사람들 이미지",
-          "코메다 커피 로고와 함께 '확인 필수!' 문구가 적힌 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 정보성 콘텐츠로 인한 저장 및 공유 / 이 콘텐츠의 강점: 일본 현지에서만 맛볼 수 있는 시즌 한정 메뉴 정보로 여행 계획에 실질적인 도움 제공",
-      "image": {
-        "keyword": "Komeda Coffee, shaved ice, Japan summer, limited menu, dessert",
-        "unsplash_url": "https://unsplash.com/s/photos/Komeda-Coffee,-shaved-ice,-Japan-summer,-limited-menu,-dessert",
-        "pexels_url": "https://www.pexels.com/search/Komeda%20Coffee,%20shaved%20ice,%20Japan%20summer,%20limited%20menu,%20dessert/"
-      }
-    },
-    {
-      "id": "plan_2608708a",
-      "created_at": "2026-06-26T01:30:05.085103",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "箱根海賊船「ロワイヤルII」リニューアル就航。抽選950名を無料クルーズに招待、応募は7月12日まで",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120189.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수 코스, 하코네 해적선 무료 탑승 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨하코네 해적선 무료 탑승✨",
-        "cards": [
-          {
-            "title": "무료 크루즈!",
-            "content": "7월 18일부터 20일까지 3일간, 리뉴얼된 하코네 해적선 '로와얄 II' 특별 무료 크루즈에 총 950명을 초대합니다.",
-            "alt_text": "하코네 해적선 '로와얄 II'의 새로운 모습"
-          },
-          {
-            "title": "응모 기간",
-            "content": "무료 크루즈 응모는 7월 12일까지입니다. 서둘러 신청하세요!",
-            "alt_text": "달력에 표시된 7월 12일"
-          },
-          {
-            "title": "리뉴얼",
-            "content": "오다큐 하코네에서 운행하는 아시노코(芦ノ湖) 관광 유람선 '하코네 해적선' 중 '로와얄 II'가 새롭게 단장하여 7월 18일 취항합니다.",
-            "alt_text": "새롭게 단장한 하코네 해적선 내부 모습"
-          },
-          {
-            "title": "탑승 장소",
-            "content": "아시노코(芦ノ湖)에서 아름다운 풍경을 감상하며 특별한 경험을 즐길 수 있습니다.",
-            "alt_text": "아시노코 호수와 후지산 풍경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "하코네 여행 계획 중이라면, 무료 크루즈 기회를 놓치지 마세요! 당첨되지 않더라도 리뉴얼된 해적선을 이용해보세요.",
-            "alt_text": "하코네 지역 지도"
-          }
-        ],
-        "caption": "일본 하코네 여행 꿀팁! 🚢✨\n7월 18일, 새롭게 태어나는 하코네 해적선 '로와얄 II'를 만나보세요!\n7월 18일부터 20일까지, 총 950명을 대상으로 특별 무료 크루즈를 진행합니다. 🤩\n응모 마감일은 7월 12일이니, 지금 바로 신청하세요!\n#하코네여행 #일본여행 #무료크루즈 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하코네",
-          "#하코네해적선",
-          "#무료크루즈",
-          "#일본이벤트",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본축제",
-          "#여행꿀팁",
-          "#관광",
-          "#일본"
-        ],
-        "alt_texts": [
-          "하코네 해적선 '로와얄 II'의 새로운 모습",
-          "달력에 표시된 7월 12일",
-          "새롭게 단장한 하코네 해적선 내부 모습",
-          "아시노코 호수와 후지산 풍경",
-          "하코네 지역 지도"
-        ]
-      },
-      "marketer_analysis": "타겟: 하코네 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 참여율 및 정보 공유 / 이 콘텐츠의 강점: 한정적인 무료 탑승 기회 제공으로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Hakone Pirate Ship, Lake Ashi, Fuji Mountain",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Pirate-Ship,-Lake-Ashi,-Fuji-Mountain",
-        "pexels_url": "https://www.pexels.com/search/Hakone%20Pirate%20Ship,%20Lake%20Ashi,%20Fuji%20Mountain/"
       }
     }
   ]
