@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-30T00:19:18.147439",
+  "last_updated": "2026-06-30T04:20:38.944306",
   "plans": [
+    {
+      "id": "plan_b5dd6e17",
+      "created_at": "2026-06-30T04:20:36.944113",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハイアット セントリック 銀座 東京、ラテンアメリカ料理の「NAMIKI667 Beer Terrace」を提供　7月1日から9月30日まで",
+        "url": "https://www.traicy.com/posts/20260630375021/",
+        "date": "Mon, 29 Jun 2026 21:15:12 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "긴자 하얏트에서 즐기는 특별한 여름, 라틴 아메리카 미식과 맥주 무제한!"
+      },
+      "content": {
+        "thumbnail_title": "긴자 하얏트 여름 맥주 테라스 🍺",
+        "cards": [
+          {
+            "title": "기간 확인",
+            "content": "2024년 7월 1일부터 9월 30일까지, 여름 시즌 한정으로 운영됩니다.",
+            "alt_text": "달력에 7월, 8월, 9월이 표시된 이미지"
+          },
+          {
+            "title": "메뉴 특징",
+            "content": "라틴 아메리카의 다채로운 식문화를 맛볼 수 있는 특별 메뉴가 준비되어 있습니다. 멕시코의 '멕시칸 스파이스 나초' 등 이국적인 맛을 경험하세요.",
+            "alt_text": "다양한 라틴 아메리카 음식 사진"
+          },
+          {
+            "title": "장소",
+            "content": "하이얏트 센트릭 긴자 도쿄에서 열립니다. 도쿄 중심부에서 특별한 여름 밤을 만끽하세요.",
+            "alt_text": "하이얏트 센트릭 긴자 도쿄 외관 사진"
+          },
+          {
+            "title": "음료",
+            "content": "테라스에서는 시원한 맥주를 포함한 다양한 음료를 즐길 수 있습니다. 여름 더위를 식혀줄 완벽한 선택입니다.",
+            "alt_text": "시원하게 맥주를 따르는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 있는 여름 한정 이벤트이므로, 방문 전 예약 가능 여부를 확인하는 것이 좋습니다. 특히 주말이나 저녁 시간대는 미리 예약하세요.",
+            "alt_text": "스마트폰으로 예약하는 손 이미지"
+          }
+        ],
+        "caption": "✨ 도쿄 긴자에서 즐기는 특별한 여름! ✨\n하이얏트 센트릭 긴자 도쿄에서 7월 1일부터 9월 30일까지 'NAMIKI667 비어 테라스'를 운영해요.\n라틴 아메리카의 이색적인 미식과 시원한 맥주를 함께 즐길 수 있는 여름 한정 꿀찬스! 🇲🇽🍻\n긴자에서 잊지 못할 여름 밤을 만들어보세요!\n\n#긴자맛집 #도쿄여행 #여름휴가 #호텔테라스 #일본축제",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#긴자",
+          "#하이얏트센트릭긴자",
+          "#도쿄맛집",
+          "#여름휴가",
+          "#일본호텔",
+          "#비어테라스",
+          "#한정메뉴",
+          "#라틴아메리카",
+          "#도쿄핫플",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#도쿄"
+        ],
+        "alt_texts": [
+          "달력에 7월, 8월, 9월이 표시된 이미지",
+          "다양한 라틴 아메리카 음식 사진",
+          "하이얏트 센트릭 긴자 도쿄 외관 사진",
+          "시원하게 맥주를 따르는 모습",
+          "스마트폰으로 예약하는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 긴자에서 특별한 경험을 원하는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 고급스러운 호텔 경험, 여름 시즌 한정, 이색적인 메뉴 조합",
+      "image": {
+        "keyword": "Hyatt Centric Ginza Tokyo beer terrace Latin American food summer",
+        "unsplash_url": "https://unsplash.com/s/photos/Hyatt-Centric-Ginza-Tokyo-beer-terrace-Latin-American-food-summer",
+        "pexels_url": "https://www.pexels.com/search/Hyatt%20Centric%20Ginza%20Tokyo%20beer%20terrace%20Latin%20American%20food%20summer/"
+      }
+    },
+    {
+      "id": "plan_89da3818",
+      "created_at": "2026-06-30T04:20:28.158110",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "関東自動車と京成バス千葉イースト、マロニエ号の運賃改定　7月1日付けで",
+        "url": "https://www.traicy.com/posts/20260630374810/",
+        "date": "Tue, 30 Jun 2026 00:15:57 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "나리타 공항에서 우츠노미야/마시코 방면 이동 시 필독! 마로니에호 요금 인상 정보"
+      },
+      "content": {
+        "thumbnail_title": "✈️마로니에호 요금 인상!🚨",
+        "cards": [
+          {
+            "title": "운행 노선",
+            "content": "나리타 공항 ↔️ 境古河 버스터미널, 우츠노미야역, 마시코 방면을 운행하는 '마로니에호' 버스 요금이 인상됩니다.",
+            "alt_text": "마로니에호 버스 노선도 이미지"
+          },
+          {
+            "title": "인상 시점",
+            "content": "2024년 7월 1일(월)부터 새로운 요금이 적용됩니다. 미리 확인하시고 여행 계획에 참고하세요!",
+            "alt_text": "달력에 7월 1일 표시된 이미지"
+          },
+          {
+            "title": "주요 구간 요금",
+            "content": "나리타 공항 ↔️ 境古河 버스터미널 구간 성인 요금이 기존 3,300엔에서 3,500엔으로 인상됩니다. (상세 요금 변동은 추가 확인 필요)",
+            "alt_text": "요금 인상 전후 비교 텍스트 이미지"
+          },
+          {
+            "title": "운행사",
+            "content": "이번 요금 인상은 간토 자동차와 게이세이 버스 치바 이스트에서 공동 운행하는 마로니에호에 해당됩니다.",
+            "alt_text": "간토 자동차, 게이세이 버스 로고 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "나리타 공항에서 우츠노미야, 마시코 방면으로 이동하시는 분들은 인상 전 요금을 확인하시거나, 다른 교통편(기차 등)의 요금도 함께 비교해보는 것을 추천합니다.",
+            "alt_text": "나리타 공항 교통편 안내 이미지"
+          }
+        ],
+        "caption": "🚨나리타 공항 이용객 주목!🚨\n\n'마로니에호' 버스 요금이 7월 1일부터 인상됩니다. ✈️\n\n나리타 공항 ↔️ 境古河 버스터미널 구간은 3,300엔 → 3,500엔으로 변경! 💸\n\n우츠노미야, 마시코 방면 이동 시 꼭 확인하시고, 다른 교통편과 비교해보세요! 🤔\n\n#일본여행 #플라잉재팬 #나리타공항 #마로니에호 #버스요금인상 #일본교통 #여행정보 #우츠노미야 #마시코 #일본여행꿀팁 #여행준비 #해외여행 #7월여행 #일본정보 #항공권 #숙소",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나리타공항",
+          "#마로니에호",
+          "#버스요금인상",
+          "#일본교통",
+          "#여행정보",
+          "#우츠노미야",
+          "#마시코",
+          "#일본여행꿀팁",
+          "#여행준비",
+          "#해외여행",
+          "#7월여행",
+          "#일본정보",
+          "#교통정보"
+        ],
+        "alt_texts": [
+          "마로니에호 버스 노선도 이미지",
+          "달력에 7월 1일 표시된 이미지",
+          "요금 인상 전후 비교 텍스트 이미지",
+          "간토 자동차, 게이세이 버스 로고 이미지",
+          "나리타 공항 교통편 안내 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 나리타 공항을 통해 우츠노미야, 마시코 등 지역으로 이동하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 노선, 인상 시점, 요금 정보를 명확하게 제공하여 실질적인 도움 제공",
+      "image": {
+        "keyword": "Narita Airport bus fare increase",
+        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-bus-fare-increase",
+        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20bus%20fare%20increase/"
+      }
+    },
     {
       "id": "plan_67a9dd16",
       "created_at": "2026-06-30T00:19:16.147249",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese train bento, bento box, tonkatsu, Japan travel, food, limited edition, train container, Tokyo food",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-train-bento,-bento-box,-tonkatsu,-Japan-travel,-food,-limited-edition,-train-container,-Tokyo-food",
         "pexels_url": "https://www.pexels.com/search/Japanese%20train%20bento,%20bento%20box,%20tonkatsu,%20Japan%20travel,%20food,%20limited%20edition,%20train%20container,%20Tokyo%20food/"
-      }
-    },
-    {
-      "id": "plan_d820d8e8",
-      "created_at": "2026-06-27T00:20:38.984520",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ユニクロJR新大阪店」7月3日増床リニューアル。JR西日本・がんこ寿司とのコラボTシャツ発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120448.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신사이바시에서 유니클로 쇼핑 찬스! JR 신오사카역점 증축 리뉴얼 및 한정 협업 티셔츠 출시 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨신오사카 유니클로 증축!",
-        "cards": [
-          {
-            "title": "7월 3일 리뉴얼!",
-            "content": "유니클로 JR 신오사카점이 7월 3일, 매장 면적을 기존 약 81평에서 약 135평으로 확장하여 새롭게 오픈합니다. 더욱 넓어진 공간에서 편안하게 쇼핑을 즐겨보세요!",
-            "alt_text": "유니클로 JR 신오사카점 외관 전경"
-          },
-          {
-            "title": "키즈 상품 추가!",
-            "content": "이번 리뉴얼을 통해 기존 남성, 여성 의류에 더해 일부 키즈 상품 라인도 새롭게 선보입니다. 가족 단위 여행객에게도 더욱 매력적인 쇼핑 스팟이 될 예정입니다.",
-            "alt_text": "다양한 아동복이 진열된 유니클로 매장 내부"
-          },
-          {
-            "title": "편리한 쇼핑 환경",
-            "content": "셀프 계산대는 2대에서 4대로, 피팅룸은 2실에서 4실로 각각 증설됩니다. 쇼핑 대기 시간을 줄여 더욱 쾌적한 쇼핑 경험을 제공합니다.",
-            "alt_text": "깔끔하게 정돈된 유니클로 셀프 계산대 모습"
-          },
-          {
-            "title": "JR 서일본 협업!",
-            "content": "JR 서일본과의 콜라보레이션으로 제작된 한정 티셔츠도 발매될 예정입니다. 신오사카점에서만 만날 수 있는 특별한 기념품이 될 것입니다.",
-            "alt_text": "JR 서일본과 유니클로 로고가 함께 디자인된 티셔츠 이미지"
-          },
-          {
-            "title": "쇼핑 팁!",
-            "content": "JR 신오사카역은 신칸센 이용객이 많으니, 열차 시간 확인 후 여유롭게 방문하는 것을 추천합니다. 한정판 티셔츠는 조기 품절될 수 있으니 서두르세요!",
-            "alt_text": "신오사카역 내부 안내 표시판"
-          }
-        ],
-        "caption": "JR 신오사카역 유니클로가 7월 3일, 더 넓어진 공간과 함께 새롭게 오픈해요!✨\n키즈 상품도 추가되고 셀프 계산대와 피팅룸도 늘어나 더욱 편리하게 쇼핑할 수 있답니다.\nJR 서일본과의 콜라보 한정 티셔츠도 놓치지 마세요! 🚄\n\n#일본여행 #플라잉재팬 #유니클로 #신오사카 #JR신오사카역 #일본쇼핑 #여행정보 #일본여행꿀팁 #여행스타그램 #일본쇼핑리스트 #가족여행 #일본자유여행 #신사이바시 #쇼핑찬스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#신오사카",
-          "#JR신오사카역",
-          "#일본쇼핑",
-          "#여행정보",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본쇼핑리스트",
-          "#가족여행",
-          "#일본자유여행",
-          "#신사이바시",
-          "#쇼핑찬스",
-          "#한정판"
-        ],
-        "alt_texts": [
-          "유니클로 JR 신오사카점 외관 전경",
-          "다양한 아동복이 진열된 유니클로 매장 내부",
-          "깔끔하게 정돈된 유니클로 셀프 계산대 모습",
-          "JR 서일본과 유니클로 로고가 함께 디자인된 티셔츠 이미지",
-          "신오사카역 내부 안내 표시판"
-        ]
-      },
-      "marketer_analysis": "타겟: 신오사카를 방문하는 한국인 여행객 (특히 가족 단위, 쇼핑 선호층) / 최적 게시 시간: 평일 오후 6시~8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 습득, 공유, 저장 / 이 콘텐츠의 강점: 구체적인 날짜, 장소, 수치 정보 제공 및 실질적인 쇼핑 팁 포함",
-      "image": {
-        "keyword": "Uniqlo JR Shin-Osaka Store renovation, collaboration t-shirt, Osaka shopping, Japan travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-JR-Shin-Osaka-Store-renovation,-collaboration-t-shirt,-Osaka-shopping,-Japan-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20JR%20Shin-Osaka%20Store%20renovation,%20collaboration%20t-shirt,%20Osaka%20shopping,%20Japan%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_693cff60",
-      "created_at": "2026-06-27T00:20:22.685881",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーランドで初のドローン演出。「Reach for the Stars: Everlasting Dreams」で期間限定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120546.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드에서 펼쳐지는 별빛 향연, 놓치면 후회할 특별한 경험!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 디즈니랜드, 별빛 드론쇼!✨",
-        "cards": [
-          {
-            "title": "역대급 드론쇼",
-            "content": "도쿄 디즈니랜드에서 최초로 드론 연출 쇼를 선보입니다. 'Reach for the Stars: Everlasting Dreams'라는 이름으로 진행됩니다.",
-            "alt_text": "도쿄 디즈니랜드의 밤하늘을 수놓는 화려한 드론 쇼 이미지"
-          },
-          {
-            "title": "기간 한정!",
-            "content": "이 특별한 드론 쇼는 2024년 7월 2일부터 9월 14일까지 아주 짧은 기간 동안만 볼 수 있습니다.",
-            "alt_text": "기간 한정 이벤트임을 나타내는 달력 이미지"
-          },
-          {
-            "title": "놓치지 마세요",
-            "content": "일본 여름밤, 별처럼 쏟아지는 드론과 함께 잊지 못할 추억을 만들어보세요. 디즈니랜드의 마법이 더욱 특별해집니다.",
-            "alt_text": "디즈니랜드의 상징적인 건축물과 밤하늘이 어우러진 풍경"
-          },
-          {
-            "title": "디즈니랜드 필수 코스",
-            "content": "꿈과 환상의 세계, 디즈니랜드에서 펼쳐지는 환상적인 야경을 직접 경험할 수 있는 절호의 기회입니다.",
-            "alt_text": "디즈니랜드의 밤 풍경을 즐기는 사람들의 모습"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "쇼 시간 및 장소는 디즈니랜드 공식 앱 또는 웹사이트에서 미리 확인하는 것이 좋습니다. 인기 있는 관람 명당은 서둘러 자리 잡으세요!",
-            "alt_text": "스마트폰으로 디즈니랜드 앱을 확인하는 모습"
-          }
-        ],
-        "caption": "도쿄 디즈니랜드에서 펼쳐지는 꿈 같은 순간! ✨\n역대급 규모의 드론 연출 쇼 'Reach for the Stars: Everlasting Dreams'가\n7월 2일부터 9월 14일까지 기간 한정으로 열립니다. 🤩\n일본 여행 중이라면 절대 놓치지 마세요! ✈️\n\n#도쿄디즈니랜드 #디즈니랜드 #드론쇼 #기간한정 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#디즈니랜드",
-          "#도쿄디즈니랜드",
-          "#디즈니",
-          "#드론쇼",
-          "#기간한정",
-          "#일본축제",
-          "#일본이벤트",
-          "#여름휴가",
-          "#여행정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본어디까지가봤니"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드의 밤하늘을 수놓는 화려한 드론 쇼 이미지",
-          "기간 한정 이벤트임을 나타내는 달력 이미지",
-          "디즈니랜드의 상징적인 건축물과 밤하늘이 어우러진 풍경",
-          "디즈니랜드의 밤 풍경을 즐기는 사람들의 모습",
-          "스마트폰으로 디즈니랜드 앱을 확인하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 공유, 디즈니랜드 방문 계획에 직접적인 영향 / 이 콘텐츠의 강점: 최초 드론 쇼라는 희소성, 기간 한정 정보로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Tokyo Disneyland drone show, Reach for the Stars Everlasting Dreams, Japan summer event",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-drone-show,-Reach-for-the-Stars-Everlasting-Dreams,-Japan-summer-event",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20drone%20show,%20Reach%20for%20the%20Stars%20Everlasting%20Dreams,%20Japan%20summer%20event/"
       }
     }
   ]
