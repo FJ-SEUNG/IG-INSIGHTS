@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-01T01:33:13.058706",
+  "last_updated": "2026-07-01T04:48:57.225678",
   "plans": [
+    {
+      "id": "plan_d0609303",
+      "created_at": "2026-07-01T04:48:55.225512",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "モスバーガー×たまごっち、保冷バッグ/ポーチ/5000円分の食事券などが入った「2026サマーラッキーバッグ」を発売",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2121387.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 버거 맛집 '모스버거'와 인기 캐릭터 '다마고치'의 특별한 만남!"
+      },
+      "content": {
+        "thumbnail_title": "🍔 다마고치X모스버거 럭키백! 🎁",
+        "cards": [
+          {
+            "title": "콜라보 소식",
+            "content": "일본의 인기 버거 체인점 '모스버거'가 추억의 캐릭터 '다마고치'와 특별한 콜라보를 진행합니다. 7월 1일부터 한정판 럭키백을 선보입니다.",
+            "alt_text": "다마고치와 모스버거 로고가 함께 있는 콜라보 이미지"
+          },
+          {
+            "title": "럭키백 구성",
+            "content": "이번 럭키백에는 보냉백, 파우치, 그리고 5,000엔 상당의 모스버거 식사권이 포함될 예정입니다. 실용적인 구성으로 여행 중에도 유용하게 사용할 수 있습니다.",
+            "alt_text": "보냉백, 파우치, 식사권이 포함된 럭키백 예상 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "온라인 예약만 가능하며, 2026년 7월 1일 15시부터 7월 30일까지 예약 접수를 받습니다. 기간을 놓치지 않도록 미리 확인하세요.",
+            "alt_text": "온라인 예약 페이지 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "럭키백의 가격은 5,000엔입니다. 한정 수량으로 판매되니 서둘러 예약하는 것이 좋습니다.",
+            "alt_text": "5,000엔 가격표 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 여행 중 맛있는 식사를 계획하고 있다면, 이번 모스버거 럭키백을 통해 특별한 경험과 함께 식사권까지 챙겨보세요! 여행 경비를 절약하는 좋은 기회가 될 수 있습니다.",
+            "alt_text": "모스버거에서 식사하는 즐거운 모습의 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 놓칠 수 없는 꿀정보! 🇯🇵\n\n추억의 다마고치와 모스버거의 특별한 만남! 🍔✨\n\n✔ 2026년 7월, 한정판 '서머 럭키백' 출시!\n✔ 보냉백, 파우치, 5,000엔 식사권 포함!\n✔ 7월 1일 15시 ~ 30일 온라인 예약 필수!\n\n여행 중 맛있는 식사와 특별한 기념품까지 챙길 절호의 기회! 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#모스버거",
+          "#다마고치",
+          "#일본맛집",
+          "#일본쇼핑",
+          "#일본한정",
+          "#럭키백",
+          "#여행꿀팁",
+          "#일본여행준비",
+          "#2026년여름",
+          "#일본음식",
+          "#버거맛집",
+          "#캐릭터콜라보",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "다마고치와 모스버거 로고가 함께 있는 콜라보 이미지",
+          "보냉백, 파우치, 식사권이 포함된 럭키백 예상 이미지",
+          "온라인 예약 페이지 이미지",
+          "5,000엔 가격표 이미지",
+          "모스버거에서 식사하는 즐거운 모습의 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 8-10시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 인기 캐릭터와의 콜라보, 실용적인 구성, 구체적인 예약 정보 제공",
+      "image": {
+        "keyword": "Tamagotchi Mos Burger collaboration lucky bag Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-Mos-Burger-collaboration-lucky-bag-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tamagotchi%20Mos%20Burger%20collaboration%20lucky%20bag%20Japan/"
+      }
+    },
+    {
+      "id": "plan_f4a6be52",
+      "created_at": "2026-07-01T04:48:44.424605",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ドムドムハンバーガー×銚子電気鉄道が異色のコラボ。ぬれ煎餅バーガーやコラボ電車、限定ぬいぐるみ/チャームが登場",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2121483.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지에서만 맛볼 수 있는 특별한 콜라보 메뉴를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🍔銚전철X돔돔버거🍣",
+        "cards": [
+          {
+            "title": "이색 버거 등장!",
+            "content": "일본 돔돔버거와 銚자 전기 철도가 특별한 콜라보를 진행합니다. 명물 '젖은 전병'을 활용한 '젖은 전병 버거'를 맛볼 수 있어요.",
+            "alt_text": "젖은 전병 버거 이미지"
+          },
+          {
+            "title": "콜라보 열차 운행",
+            "content": "7월 19일 '銚전제 2026'에 맞춰 헤드마크를 변경한 '돔돔 전차'가 운행됩니다. 특별한 디자인의 열차를 만나보세요.",
+            "alt_text": "돔돔 전차 이미지"
+          },
+          {
+            "title": "한정 굿즈 판매",
+            "content": "콜라보 기념으로 한정판 ぬいぐるみ와 굿즈도 판매될 예정입니다. 여행 기념품으로 좋을 거예요.",
+            "alt_text": "콜라보 굿즈 이미지"
+          },
+          {
+            "title": "이벤트 정보",
+            "content": "이번 콜라보는 7월 19일에 개최되는 '銚전제 2026'에서 만나볼 수 있습니다. 銚자 전기 철도 관련 행사도 함께 즐겨보세요.",
+            "alt_text": "銚전제 2026 행사 포스터 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "銚자 지역은 도쿄에서 당일치기 또는 1박 2일로 다녀오기 좋은 곳입니다. 젖은 전병 버거와 함께 특별한 추억을 만들어보세요.",
+            "alt_text": "銚자 지역 풍경 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 놓칠 수 없는 특별한 미식 경험! 🍔🍣\n돔돔버거와 銚자 전기 철도의 이색 콜라보 소식을 전해드려요.\n\n✨ 젖은 전병 버거 출시\n✨ 콜라보 열차 '돔돔 전차' 운행\n✨ 한정판 굿즈 판매\n\n7월 19일 '銚전제 2026'에서 만나요!\n\n#일본여행 #도쿄근교 #銚자여행 #돔돔버거 #銚자전철 #콜라보 #한정메뉴",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#도쿄근교",
+          "#銚자여행",
+          "#돔돔버거",
+          "#銚자전철",
+          "#이색버거",
+          "#한정판",
+          "#일본축제",
+          "#여행정보",
+          "#일본음식",
+          "#먹스타그램",
+          "#여행스타그램",
+          "#일본음식추천"
+        ],
+        "alt_texts": [
+          "젖은 전병 버거 이미지",
+          "돔돔 전차 이미지",
+          "콜라보 굿즈 이미지",
+          "銚전제 2026 행사 포스터 이미지",
+          "銚자 지역 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 현지 특별한 경험을 원하는 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시 / 기대 반응: 높은 관심과 공유 / 이 콘텐츠의 강점: 일본 현지에서만 경험 가능한 독특한 콜라보 정보",
+      "image": {
+        "keyword": "domdom burger, choshi electric railway, collaboration, unique burger, limited edition goods, japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/domdom-burger,-choshi-electric-railway,-collaboration,-unique-burger,-limited-edition-goods,-japan-travel",
+        "pexels_url": "https://www.pexels.com/search/domdom%20burger,%20choshi%20electric%20railway,%20collaboration,%20unique%20burger,%20limited%20edition%20goods,%20japan%20travel/"
+      }
+    },
     {
       "id": "plan_0ec45163",
       "created_at": "2026-07-01T01:33:11.058490",
@@ -923,160 +1077,6 @@
         "keyword": "Starflyer airplane, Tokyo Haneda Airport, Fukuoka Airport, flight schedule, travel ticket",
         "unsplash_url": "https://unsplash.com/s/photos/Starflyer-airplane,-Tokyo-Haneda-Airport,-Fukuoka-Airport,-flight-schedule,-travel-ticket",
         "pexels_url": "https://www.pexels.com/search/Starflyer%20airplane,%20Tokyo%20Haneda%20Airport,%20Fukuoka%20Airport,%20flight%20schedule,%20travel%20ticket/"
-      }
-    },
-    {
-      "id": "plan_ee1fa047",
-      "created_at": "2026-06-28T00:14:32.065527",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、夏直前特大セール。1枚で決まる人気Tシャツが990円、蒸し暑さ軽減エアリズムや涼感ワンピも超特価に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120471.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니클로 여름맞이 역대급 할인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨유니클로 여름 세일 시작!✨",
-        "cards": [
-          {
-            "title": "세일 기간",
-            "content": "유니클로 여름맞이 특대 세일이 오늘 5월 26일부터 7월 2일까지 진행됩니다. 여름 준비를 알뜰하게 할 절호의 기회!",
-            "alt_text": "유니클로 여름 세일 기간 안내"
-          },
-          {
-            "title": "인기 티셔츠",
-            "content": "한 장으로 코디 끝! 유니클로 인기 티셔츠가 단돈 990엔에 판매됩니다. 다양한 디자인으로 여름 데일리룩을 완성해보세요.",
-            "alt_text": "990엔에 판매되는 유니클로 인기 티셔츠"
-          },
-          {
-            "title": "에어리즘/원피스",
-            "content": "무더운 여름을 시원하게! 땀을 빠르게 흡수하고 건조시키는 에어리즘 라인과 시원한 쿨링 원피스도 초특가로 만나보세요.",
-            "alt_text": "에어리즘 제품과 쿨링 원피스"
-          },
-          {
-            "title": "쇼핑 팁",
-            "content": "세일 기간 동안 인기 상품은 빠르게 품절될 수 있습니다. 원하는 상품이 있다면 서둘러 방문하세요!",
-            "alt_text": "유니클로 매장 쇼핑 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 현지 유니클로 매장에서만 진행되는 세일입니다. 한국보다 저렴한 가격으로 득템할 수 있는 기회를 놓치지 마세요!",
-            "alt_text": "일본 유니클로 매장 내부"
-          }
-        ],
-        "caption": "일본 여행 중이라면 놓칠 수 없는 꿀정보! 🇯🇵\n\n유니클로에서 여름맞이 역대급 세일이 시작되었습니다! 🤩\n\n인기 티셔츠 990엔, 시원한 에어리즘과 쿨링 원피스까지 초특가로 득템할 찬스!\n\n오늘부터 7월 2일까지, 일본 여행 계획 중이라면 꼭 방문해보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#유니클로",
-          "#유니클로세일",
-          "#일본쇼핑리스트",
-          "#일본득템",
-          "#여름세일",
-          "#일본여행정보",
-          "#일본생활",
-          "#일본꿀팁",
-          "#여행",
-          "#쇼핑",
-          "#일본",
-          "#유니클로일본"
-        ],
-        "alt_texts": [
-          "유니클로 여름 세일 기간 안내",
-          "990엔에 판매되는 유니클로 인기 티셔츠",
-          "에어리즘 제품과 쿨링 원피스",
-          "유니클로 매장 쇼핑 모습",
-          "일본 유니클로 매장 내부"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 확인) / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 쇼핑 정보, 명확한 가격 및 기간 제시",
-      "image": {
-        "keyword": "Uniqlo summer sale Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-summer-sale-Japan",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20summer%20sale%20Japan/"
-      }
-    },
-    {
-      "id": "plan_17ff6f2e",
-      "created_at": "2026-06-28T00:14:26.056728",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "白浜古賀の井リゾート＆スパ 1泊2食ビュッフェプランが最大30％オフ。オープンテラス付き屋内プールや夏限定のガーデンプール",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120500.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여름 휴가철, 일본 온천 리조트 1박 2식 뷔페 최대 30% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "일본 온천 ♨️ 30% 할인!",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "일본 료칸 예약 시 최대 30% 할인 혜택을 받을 수 있는 '스페셜 쿠폰 위크'가 6월 30일까지 진행됩니다. 楽天トラベル에서 쿠폰을 활용해보세요.",
-            "alt_text": "일본 료칸 할인 쿠폰 이미지"
-          },
-          {
-            "title": "숙소 추천",
-            "content": "시라하마 코가노이 리조트&스파는 1박 2식 뷔페 플랜을 최대 30% 할인된 가격으로 제공합니다. 특히 오픈 테라스가 있는 실내 수영장과 여름 한정 가든 풀이 매력적입니다.",
-            "alt_text": "시라하마 코가노이 리조트&스파 수영장 이미지"
-          },
-          {
-            "title": "할인 적용법",
-            "content": "여러 개의 쿠폰을 동시에 적용하여 더욱 큰 할인을 받을 수 있습니다. 일본 전역의 대상 호텔 및 온천 숙소 예약에 활용 가능합니다.",
-            "alt_text": "다양한 할인 쿠폰 이미지"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기 숙소는 조기 마감될 수 있으니 서둘러 예약하는 것이 좋습니다. 6월 30일 마감 전 혜택을 놓치지 마세요!",
-            "alt_text": "달력에 표시된 6월 30일 이미지"
-          },
-          {
-            "title": "추가 혜택",
-            "content": "할인 쿠폰 외에도 각 숙소별 특별 프로모션이 있는지 확인해보면 더욱 알찬 여행 계획을 세울 수 있습니다.",
-            "alt_text": "여행 짐을 싸는 모습 이미지"
-          }
-        ],
-        "caption": "여름 휴가, 일본 온천 여행 계획 중이신가요? ♨️\n시라하마 코가노이 리조트&스파에서 1박 2식 뷔페 플랜을 최대 30% 할인된 가격으로 즐길 수 있는 기회!\n6월 30일까지 진행되는 '스페셜 쿠폰 위크'를 놓치지 마세요!\n여러 쿠폰을 중복 적용하면 더 큰 할인이 가능합니다. 지금 바로 楽天トラベル에서 확인하세요! 😉\n\n#일본온천여행 #일본료칸 #시라하마 #할인정보 #여름휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#료칸추천",
-          "#일본숙소",
-          "#일본여행정보",
-          "#일본자유여행",
-          "#일본할인",
-          "#여름휴가",
-          "#온천여행",
-          "#시라하마코가노이",
-          "#楽天トラベル",
-          "#일본여행팁",
-          "#여행스타그램",
-          "#힐링여행"
-        ],
-        "alt_texts": [
-          "일본 료칸 할인 쿠폰 이미지",
-          "시라하마 코가노이 리조트&스파 수영장 이미지",
-          "다양한 할인 쿠폰 이미지",
-          "달력에 표시된 6월 30일 이미지",
-          "여행 짐을 싸는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 휴가 시즌을 맞아 일본 온천 여행을 계획하는 2040 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시-9시, 주말 오후 2시-5시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 구체적인 숙소 혜택을 명확히 제시하여 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "japan onsen resort discount buffet pool summer",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-resort-discount-buffet-pool-summer",
-        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20resort%20discount%20buffet%20pool%20summer/"
       }
     }
   ]
