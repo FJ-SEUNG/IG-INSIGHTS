@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-02T00:21:02.023840",
+  "last_updated": "2026-07-02T04:15:36.053050",
   "plans": [
+    {
+      "id": "plan_b55deb48",
+      "created_at": "2026-07-02T04:15:34.052860",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、国内線「ポケモンジェット 赤」7月29日就航。お披露目イベントに抽選80名招待、応募は12日まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2121700.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬 덕후라면 절대 놓칠 수 없는 특별한 일본 여행 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 포켓몬 비행기 뜬다!",
+        "cards": [
+          {
+            "title": "포켓몬 비행기",
+            "content": "ANA, 포켓몬 30주년 기념 특별 도색기 '포켓몬 제트 적' 7월 29일 취항! 일본 국내선에서 만나요.",
+            "alt_text": "ANA 항공기 외부에 포켓몬 캐릭터가 그려져 있는 모습"
+          },
+          {
+            "title": "특별 이벤트",
+            "content": "취항 전날인 7월 28일, 하네다 공항 ANA 격납고에서 기체 공개 이벤트 개최. 80명 추첨 초청!",
+            "alt_text": "항공기 격납고에서 포켓몬 제트기를 배경으로 한 이벤트 모습"
+          },
+          {
+            "title": "응모 방법",
+            "content": "이벤트 응모는 7월 12일까지 가능. ANA 공식 홈페이지에서 신청하세요.",
+            "alt_text": "ANA 공식 홈페이지 이벤트 응모 페이지 캡처"
+          },
+          {
+            "title": "일본 여행 꿀팁",
+            "content": "포켓몬 제트기 운항 노선은 미정. ANA 국내선 예약 시 특별한 경험을 기대해 보세요!",
+            "alt_text": "일본 국내선 항공편 예약 화면"
+          },
+          {
+            "title": "주의사항",
+            "content": "이벤트 당첨자는 80명으로 경쟁이 치열할 수 있습니다. 예약 변경 및 취소 규정을 미리 확인하세요.",
+            "alt_text": "ANA 항공권 예약 변경/취소 안내 페이지"
+          }
+        ],
+        "caption": "✈️ ANA에서 포켓몬 30주년을 기념하여 특별 도색기 '포켓몬 제트 적'을 공개합니다! 7월 29일부터 일본 국내선에서 운항 예정이며, 취항 전날인 7월 28일에는 하네다 공항에서 특별 공개 이벤트도 열린다고 해요. 이벤트는 80명 추첨으로 진행되며, 7월 12일까지 응모 가능! 포켓몬 팬이라면 놓칠 수 없는 특별한 일본 여행이 될 거예요. 🤩\n\n#포켓몬제트 #ANA항공 #일본국내선 #특별이벤트 #포켓몬30주년 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#포켓몬",
+          "#포켓몬제트",
+          "#일본항공",
+          "#일본국내선",
+          "#여행정보",
+          "#이벤트",
+          "#일본축제",
+          "#항공권",
+          "#여행꿀팁",
+          "#일본",
+          "#여행스타그램",
+          "#포켓몬고"
+        ],
+        "alt_texts": [
+          "ANA 항공기 외부에 포켓몬 캐릭터가 그려져 있는 모습",
+          "항공기 격납고에서 포켓몬 제트기를 배경으로 한 이벤트 모습",
+          "ANA 공식 홈페이지 이벤트 응모 페이지 캡처",
+          "일본 국내선 항공편 예약 화면",
+          "ANA 항공권 예약 변경/취소 안내 페이지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 포켓몬 팬, 특별한 경험을 중시하는 20-30대 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 공유, 이벤트 참여 문의 / 이 콘텐츠의 강점: 최신 항공 정보와 인기 캐릭터의 콜라보로 높은 화제성 예상",
+      "image": {
+        "keyword": "ANA Pokemon Jet, Japan domestic flight, event, airplane livery",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-Pokemon-Jet,-Japan-domestic-flight,-event,-airplane-livery",
+        "pexels_url": "https://www.pexels.com/search/ANA%20Pokemon%20Jet,%20Japan%20domestic%20flight,%20event,%20airplane%20livery/"
+      }
+    },
+    {
+      "id": "plan_90413f07",
+      "created_at": "2026-07-02T04:15:22.043080",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーランド初のドローンショー開幕。どの位置が見やすい？　Dオタが注目ポイントを解説",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2121714.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드 최초 드론쇼! 최적의 관람 명당과 꿀팁까지 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니랜드 드론쇼✨",
+        "cards": [
+          {
+            "title": "드론쇼 시작!",
+            "content": "도쿄 디즈니랜드에서 'Reach for the Stars：Everlasting Dreams' 드론쇼가 7월 2일부터 9월 14일까지 펼쳐집니다. 7월 1일에는 언론 시사회가 열렸습니다.",
+            "alt_text": "도쿄 디즈니랜드의 밤하늘을 수놓는 화려한 드론쇼 이미지"
+          },
+          {
+            "title": "공연 기간",
+            "content": "드론쇼는 2024년 7월 2일부터 9월 14일까지 진행됩니다. 여름 방학 기간 동안 특별한 추억을 만들 수 있습니다.",
+            "alt_text": "달력에 표시된 7월 2일부터 9월 14일까지의 기간"
+          },
+          {
+            "title": "최적 관람 명당",
+            "content": "워터 트라 에리어, 신데렐라 성 앞 광장, 투모로우랜드 등에서 환상적인 드론쇼를 감상할 수 있습니다. 각 장소마다 다른 각도와 시야로 즐길 수 있습니다.",
+            "alt_text": "신데렐라 성 앞에서 드론쇼를 관람하는 사람들 모습"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "디즈니 캐릭터들이 드론으로 표현되는 장관을 놓치지 마세요! 잊지 못할 밤을 선사할 것입니다.",
+            "alt_text": "하늘에 그려진 디즈니 캐릭터 모양의 드론 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 스팟은 일찍 마감될 수 있으니, 공연 시작 1-2시간 전부터 자리를 잡는 것을 추천합니다. 편안한 복장과 함께 카메라를 준비하세요!",
+            "alt_text": "돗자리를 펴고 드론쇼를 기다리는 가족의 모습"
+          }
+        ],
+        "caption": "✨도쿄 디즈니랜드에서 펼쳐지는 최초의 드론쇼!✨\n7월 2일부터 9월 14일까지, 밤하늘을 가득 채울 환상적인 'Reach for the Stars：Everlasting Dreams'를 만나보세요!\n최적의 관람 명당과 꿀팁까지 모두 알려드릴게요! ✈️\n\n#도쿄디즈니랜드 #드론쇼 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#도쿄디즈니랜드",
+          "#드론쇼",
+          "#일본축제",
+          "#여름휴가",
+          "#여행꿀팁",
+          "#디즈니",
+          "#도쿄",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드의 밤하늘을 수놓는 화려한 드론쇼 이미지",
+          "달력에 표시된 7월 2일부터 9월 14일까지의 기간",
+          "신데렐라 성 앞에서 드론쇼를 관람하는 사람들 모습",
+          "하늘에 그려진 디즈니 캐릭터 모양의 드론 이미지",
+          "돗자리를 펴고 드론쇼를 기다리는 가족의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문할 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 (여행 계획 세우는 시간) / 기대 반응: 정보성 높음, 저장 및 공유율 높음 / 이 콘텐츠의 강점: 일본 여행 중 특별한 경험을 할 수 있는 최신 이벤트 정보, 구체적인 관람 팁 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland drone show, best viewing spots, summer event, night sky, magical experience",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-drone-show,-best-viewing-spots,-summer-event,-night-sky,-magical-experience",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20drone%20show,%20best%20viewing%20spots,%20summer%20event,%20night%20sky,%20magical%20experience/"
+      }
+    },
     {
       "id": "plan_199b1514",
       "created_at": "2026-07-02T00:21:00.023684",
@@ -923,160 +1077,6 @@
         "keyword": "Osaka Yodogawa Fireworks Festival Yatai area",
         "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodogawa-Fireworks-Festival-Yatai-area",
         "pexels_url": "https://www.pexels.com/search/Osaka%20Yodogawa%20Fireworks%20Festival%20Yatai%20area/"
-      }
-    },
-    {
-      "id": "plan_cf1f6e2e",
-      "created_at": "2026-06-29T00:19:27.801981",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "三島駅～富士宮口五合目の直通バス「富嶽ライナー」夏季運行。サファリパーク・ぐりんぱ経由便も新設",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120440.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후지산 등반 준비 꿀팁! 미시마역에서 5합목까지 직통 버스가 운행돼요!"
-      },
-      "content": {
-        "thumbnail_title": "🗻 후지산 5합목 직통 버스 개시!",
-        "cards": [
-          {
-            "title": "운행 기간",
-            "content": "후지산 등반 시즌에 맞춰 7월 10일부터 9월 10일까지 운행돼요. 이 기간 동안 후지산 5합목까지 편리하게 이동할 수 있습니다.",
-            "alt_text": "후지산 5합목 직통 버스 운행 기간 안내"
-          },
-          {
-            "title": "이동 시간",
-            "content": "미시마역에서 후지노미야口 5합목까지 약 90분이면 도착! 이동 시간을 절약해서 등반 준비에 더 집중할 수 있어요.",
-            "alt_text": "미시마역에서 후지산 5합목까지 약 90분 소요"
-          },
-          {
-            "title": "운행 노선",
-            "content": "기존 노선 외에 사파리 파크와 그링파를 경유하는 새로운 노선도 신설되었습니다. 이동 중 관광도 즐겨보세요!",
-            "alt_text": "사파리 파크, 그링파 경유 신규 노선 추가"
-          },
-          {
-            "title": "요금 정보",
-            "content": "성인 편도 3500엔, 소아/유아 편도 1750엔입니다. 미리 예매하면 더욱 편리해요.",
-            "alt_text": "성인 3500엔, 소아/유아 1750엔 편도 요금"
-          },
-          {
-            "title": "예약 방법",
-            "content": "발차오~라이넷(発車オーライネット)에서 예약 가능합니다. 인기 노선이니 미리 예약하는 것을 추천해요!",
-            "alt_text": "발차오~라이넷에서 예약하세요!"
-          }
-        ],
-        "caption": "올여름, 후지산 5합목까지 편하게 가고 싶다면 주목! 🗻\n미시마역에서 후지노미야口 5합목까지 약 90분이면 도착하는 '후가쿠 라이너' 직통 버스가 7월 10일부터 9월 10일까지 운행됩니다.\n새롭게 신설된 사파리 파크, 그링파 경유 노선도 놓치지 마세요! 🤩\n\n후지산 등반 계획 중이라면 지금 바로 예약하세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후지산",
-          "#후지산등반",
-          "#미시마",
-          "#일본교통",
-          "#여름휴가",
-          "#일본버스",
-          "#여행꿀팁",
-          "#후지산5합목",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#후가쿠라이너",
-          "#일본여름"
-        ],
-        "alt_texts": [
-          "후지산 5합목 직통 버스 운행 기간 안내",
-          "미시마역에서 후지산 5합목까지 약 90분 소요",
-          "사파리 파크, 그링파 경유 신규 노선 추가",
-          "성인 3500엔, 소아/유아 1750엔 편도 요금",
-          "발차오~라이넷에서 예약하세요!"
-        ]
-      },
-      "marketer_analysis": "타겟: 후지산 등반 또는 주변 관광 계획이 있는 한국인 여행자 / 최적 게시 시간: 오후 2-4시 / 기대 반응: 정보 유용성, 예약 문의 증가 / 이 콘텐츠의 강점: 후지산 접근성 개선 정보, 구체적인 운행 정보 제공",
-      "image": {
-        "keyword": "Fuji mountain, bus, travel, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Fuji-mountain,-bus,-travel,-Japan",
-        "pexels_url": "https://www.pexels.com/search/Fuji%20mountain,%20bus,%20travel,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_d9455126",
-      "created_at": "2026-06-29T00:19:19.154762",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「浅草花やしき」に水遊び広場オープン。迷路や水鉄砲ゲームなど800円で遊び放題、水かけ隊も出動でびしょ濡れに！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120536.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 아사쿠사에서 즐기는 여름 한정 물놀이!"
-      },
-      "content": {
-        "thumbnail_title": "💧아사쿠사에서 물놀이!🌊",
-        "cards": [
-          {
-            "title": "물놀이 광장 오픈!",
-            "content": "일본 최초의 놀이공원 '아사쿠사 하나야시키'에 여름 한정 '물놀이 광장'이 오픈해요. 시원한 물놀이를 즐길 수 있는 새로운 공간이랍니다.",
-            "alt_text": "아사쿠사 하나야시키의 물놀이 광장 전경"
-          },
-          {
-            "title": "놀이와 게임!",
-            "content": "미로 찾기, 물총 게임 등 다양한 물놀이 활동과 놀이기구를 800엔으로 무제한 즐길 수 있어요. 아이들과 함께라면 정말 좋아할 거예요!",
-            "alt_text": "아이들이 물총 게임을 즐기는 모습"
-          },
-          {
-            "title": "물총대 출동!",
-            "content": "신나는 물총대도 출동해서 시원하게 물을 뿌려준다고 해요! 옷이 흠뻑 젖을 각오 단단히 하세요! 😎",
-            "alt_text": "물총대원들이 물을 뿌리는 역동적인 모습"
-          },
-          {
-            "title": "이용 기간",
-            "content": "7월 19일부터 9월 14일까지 여름 동안만 운영되니, 기간 놓치지 말고 꼭 방문해보세요!",
-            "alt_text": "물놀이 광장 운영 기간 안내 텍스트"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여벌 옷과 수건을 꼭 챙기세요! 물놀이 후 갈아입을 옷과 닦을 수건은 필수랍니다. 젖은 옷을 담을 비닐봉투도 준비하면 좋아요.",
-            "alt_text": "여벌 옷, 수건, 비닐봉투가 담긴 가방"
-          }
-        ],
-        "caption": "☀️올여름, 도쿄 아사쿠사에서 시원하게! ☀️\n일본 최고(最古)의 놀이공원 '아사쿠사 하나야시키'에 여름 한정 '물놀이 광장'이 오픈했어요!\n7월 19일부터 9월 14일까지, 800엔으로 물놀이와 게임을 무제한 즐길 수 있답니다. 💦\n아이들과 함께라면 잊지 못할 추억을 만들 수 있을 거예요! 👨‍👩‍👧‍👦\n#일본여행 #도쿄여행 #아사쿠사 #하나야시키 #여름축제 #물놀이 #가족여행 #아이와함께 #여행꿀팁 #일본놀이공원 #도쿄가볼만한곳 #여름휴가 #도쿄데이트 #일본체험 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#아사쿠사",
-          "#하나야시키",
-          "#여름축제",
-          "#물놀이",
-          "#가족여행",
-          "#아이와함께",
-          "#여행꿀팁",
-          "#일본놀이공원",
-          "#도쿄가볼만한곳",
-          "#여름휴가",
-          "#도쿄데이트",
-          "#일본체험"
-        ],
-        "alt_texts": [
-          "아사쿠사 하나야시키의 물놀이 광장 전경",
-          "아이들이 물총 게임을 즐기는 모습",
-          "물총대원들이 물을 뿌리는 역동적인 모습",
-          "물놀이 광장 운영 기간 안내 텍스트",
-          "여벌 옷, 수건, 비닐봉투가 담긴 가방"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름철 도쿄 여행을 계획 중인 가족 단위 여행객 또는 아이 동반 여행객 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 높은 관심과 공유, 여름철 도쿄 여행 시 방문 고려 / 이 콘텐츠의 강점: 여름 시즌 한정 이벤트로 시의성이 높고, 아이들과 함께 즐길 수 있는 구체적인 정보 제공",
-      "image": {
-        "keyword": "Asakusa Hanayashiki water play area, Tokyo summer festival, family fun Japan, kids water games, amusement park event",
-        "unsplash_url": "https://unsplash.com/s/photos/Asakusa-Hanayashiki-water-play-area,-Tokyo-summer-festival,-family-fun-Japan,-kids-water-games,-amusement-park-event",
-        "pexels_url": "https://www.pexels.com/search/Asakusa%20Hanayashiki%20water%20play%20area,%20Tokyo%20summer%20festival,%20family%20fun%20Japan,%20kids%20water%20games,%20amusement%20park%20event/"
       }
     }
   ]
