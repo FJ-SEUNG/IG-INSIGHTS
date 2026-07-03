@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-02T04:15:36.053050",
+  "last_updated": "2026-07-03T00:19:10.142230",
   "plans": [
+    {
+      "id": "plan_04c09dc7",
+      "created_at": "2026-07-03T00:19:08.142049",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "サンリオの体験展示「ホテルフローリア」グッズが公開。いよいよ東京で7月15日開幕！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2122051.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "산리오 팬이라면 놓칠 수 없는 도쿄 호텔 컨셉 체험 전시!"
+      },
+      "content": {
+        "thumbnail_title": "💖산리오 호텔 도쿄 상륙!💖",
+        "cards": [
+          {
+            "title": "전시명",
+            "content": "산리오 캐릭터즈 체험형 전시 '호텔 플로리아 도쿄'가 드디어 도쿄에 상륙합니다. 🏨",
+            "alt_text": "호텔 플로리아 도쿄 전시 로고"
+          },
+          {
+            "title": "개최 기간",
+            "content": "2024년 7월 15일부터 2027년 5월 31일까지 약 3년 가까이 진행됩니다. 🗓️",
+            "alt_text": "전시 기간 달력 이미지"
+          },
+          {
+            "title": "장소",
+            "content": "도쿄 신주쿠에 위치한 '도큐 가부키초 타워' 4층에서 열립니다. 📍",
+            "alt_text": "도큐 가부키초 타워 외관 이미지"
+          },
+          {
+            "title": "주요 콘텐츠",
+            "content": "호텔을 테마로 한 다채로운 산리오 캐릭터 체험 공간과 한정 굿즈 판매가 준비될 예정입니다. ✨",
+            "alt_text": "산리오 캐릭터들이 호텔 컨셉으로 꾸며진 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "전시 기간이 긴 만큼 여유롭게 계획하세요. 자세한 티켓 정보 및 굿즈 리스트는 추후 공개될 예정이니 계속 주목해주세요! 💖",
+            "alt_text": "산리오 캐릭터 굿즈 이미지"
+          }
+        ],
+        "caption": "💖 산리오 팬들 주목! 💖 도쿄에서 '호텔 플로리아' 체험 전시가 7월 15일부터 시작됩니다! 🏨 약 3년간 진행되니 여유롭게 방문 계획 세우세요. 도큐 가부키초 타워 4층에서 만나요! ✨ #산리오 #호텔플로리아 #도쿄여행 #체험전시 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#산리오",
+          "#산리오전시",
+          "#호텔플로리아",
+          "#도큐가부키초타워",
+          "#체험전시",
+          "#일본이벤트",
+          "#도쿄가볼만한곳",
+          "#여행정보",
+          "#한국인필수",
+          "#일본핫플",
+          "#7월일본",
+          "#2027년까지"
+        ],
+        "alt_texts": [
+          "호텔 플로리아 도쿄 전시 로고",
+          "전시 기간 달력 이미지",
+          "도큐 가부키초 타워 외관 이미지",
+          "산리오 캐릭터들이 호텔 컨셉으로 꾸며진 이미지",
+          "산리오 캐릭터 굿즈 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 산리오 캐릭터를 좋아하는 20-30대 한국인 여성 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 공유, 전시 방문 계획 문의 증가 / 이 콘텐츠의 강점: 긴 전시 기간과 명확한 장소, 시기별 정보 업데이트 가능성",
+      "image": {
+        "keyword": "Sanrio Hotel Floria Tokyo exhibition, Sanrio characters, Tokyu Kabukicho Tower, Tokyo travel event",
+        "unsplash_url": "https://unsplash.com/s/photos/Sanrio-Hotel-Floria-Tokyo-exhibition,-Sanrio-characters,-Tokyu-Kabukicho-Tower,-Tokyo-travel-event",
+        "pexels_url": "https://www.pexels.com/search/Sanrio%20Hotel%20Floria%20Tokyo%20exhibition,%20Sanrio%20characters,%20Tokyu%20Kabukicho%20Tower,%20Tokyo%20travel%20event/"
+      }
+    },
+    {
+      "id": "plan_5f131b0a",
+      "created_at": "2026-07-03T00:19:02.075461",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR乗り放題「青春18きっぷ」夏季は本日発売。連続3日間/5日間、利用条件を確認しよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2122058.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전국 JR선을 무제한으로 탈 수 있는 '청춘 18 티켓' 여름 시즌권 판매 시작! 3일권/5일권으로 알뜰하게 일본 여행 계획하세요! 🚄"
+      },
+      "content": {
+        "thumbnail_title": "JR청춘18티켓 여름권 개시! 🎫",
+        "cards": [
+          {
+            "title": "판매 시작!",
+            "content": "JR 그룹이 '청춘 18 티켓' 여름 시즌권을 2026년 7월 3일부터 판매합니다. 이 티켓은 일본 전국 JR 노선을 무제한으로 이용할 수 있는 특별 승차권입니다.",
+            "alt_text": "청춘 18 티켓 판매 시작을 알리는 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "연속 3일권 또는 5일권으로 구매 가능하며, 여름 시즌 기간 동안 자유롭게 사용할 수 있습니다. 자세한 이용 가능 날짜는 JR 공식 발표를 확인하세요.",
+            "alt_text": "3일권 또는 5일권 옵션을 보여주는 이미지"
+          },
+          {
+            "title": "홋카이도 신칸센",
+            "content": "홋카이도 신칸센 옵션권도 함께 판매될 예정입니다. '청춘 18 티켓'과 함께 구매하면 홋카이도 신칸센 구간도 이용 가능합니다.",
+            "alt_text": "홋카이도 신칸센 열차 이미지"
+          },
+          {
+            "title": "알뜰 여행 꿀팁",
+            "content": "장거리 이동이나 여러 도시를 방문할 계획이라면 '청춘 18 티켓'을 활용해 교통비를 대폭 절감할 수 있습니다. 여행 일정을 잘 짜서 알차게 이용해 보세요!",
+            "alt_text": "일본 지도와 열차 노선을 보여주는 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "이 티켓은 지정석이 아닌 자유석만 이용 가능하며, JR 노선 외 다른 교통수단은 이용할 수 없습니다. 이용 조건 및 제한 사항을 꼼꼼히 확인하세요.",
+            "alt_text": "주의 문구가 있는 티켓 이미지"
+          }
+        ],
+        "caption": "일본 전국 JR 무제한 탑승! 🚄 '청춘 18 티켓' 여름 시즌권이 7월 3일부터 판매 시작됩니다! 3일권/5일권으로 일본 곳곳을 누벼보세요. 🗺️ 홋카이도 신칸센 옵션권도 놓치지 마세요! #일본여행 #청춘18티켓 #JR패스 #일본교통 #여행꿀팁 #가성비여행 #일본종단 #여름휴가 #일본기차여행 #알뜰여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#청춘18티켓",
+          "#JR패스",
+          "#일본교통",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본철도",
+          "#이색체험",
+          "#여름여행",
+          "#일본여행준비",
+          "#교통패스",
+          "#여행스타그램",
+          "#일본여행꿀팁"
+        ],
+        "alt_texts": [
+          "청춘 18 티켓 판매 시작을 알리는 이미지",
+          "3일권 또는 5일권 옵션을 보여주는 이미지",
+          "홋카이도 신칸센 열차 이미지",
+          "일본 지도와 열차 노선을 보여주는 이미지",
+          "주의 문구가 있는 티켓 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 전국을 기차로 여행하고 싶은 한국인 배낭여행객 및 가성비 여행 선호자 / 최적 게시 시간: 오후 7시~9시 (저녁 식사 후 여행 계획 시간) / 기대 반응: 티켓 구매 정보에 대한 높은 관심, 댓글을 통한 질문 폭주 / 이 콘텐츠의 강점: 구체적인 판매 시작일과 옵션 정보를 명확히 제시하여 실질적인 여행 계획에 도움을 줌",
+      "image": {
+        "keyword": "JR Seishun 18 Ticket summer sale, Japan train pass, unlimited JR travel, Hokkaido Shinkansen option, budget travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-Seishun-18-Ticket-summer-sale,-Japan-train-pass,-unlimited-JR-travel,-Hokkaido-Shinkansen-option,-budget-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/JR%20Seishun%2018%20Ticket%20summer%20sale,%20Japan%20train%20pass,%20unlimited%20JR%20travel,%20Hokkaido%20Shinkansen%20option,%20budget%20travel%20Japan/"
+      }
+    },
     {
       "id": "plan_b55deb48",
       "created_at": "2026-07-02T04:15:34.052860",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disneyland student discount ticket",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-student-discount-ticket",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20student%20discount%20ticket/"
-      }
-    },
-    {
-      "id": "plan_876b8b94",
-      "created_at": "2026-06-29T04:54:18.121916",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニー×レモン牛乳再び！　今年はカモノハシペリーのぬい＆ポシェット付きラムネが仲間入り",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120718.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니와 레몬우유의 만남! 귀여운 페리 굿즈와 함께 특별한 일본 디저트를 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "💖디즈니X레몬우유💖",
-        "cards": [
-          {
-            "title": "콜라보 출시!",
-            "content": "디즈니 스토어가 매년 진행하는 레몬우유와의 특별한 콜라보레이션 상품이 2024년 6월 30일에 출시됩니다.",
-            "alt_text": "디즈니 스토어와 레몬우유 콜라보레이션 상품 출시 안내"
-          },
-          {
-            "title": "새로운 굿즈!",
-            "content": "올해는 귀여운 카모시 페리의 인형과 포켓이 달린 라무네(사탕)가 새롭게 출시될 예정입니다.",
-            "alt_text": "카모시 페리 인형과 라무네 상품 이미지"
-          },
-          {
-            "title": "일본 한정!",
-            "content": "일본 디즈니 스토어에서만 만날 수 있는 특별한 콜라보 상품으로, 여행 중 특별한 기념품이 될 거예요.",
-            "alt_text": "일본 디즈니 스토어 매장 이미지"
-          },
-          {
-            "title": "디저트 타임!",
-            "content": "달콤한 레몬우유 맛과 디즈니 캐릭터의 만남! 여행 중 디저트 타임을 더욱 특별하게 만들어 줄 거예요.",
-            "alt_text": "레몬우유 맛 디저트 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 원하시는 상품이 있다면 출시 당일 또는 직후 방문을 추천합니다.",
-            "alt_text": "일본 디즈니 스토어 방문객 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 디저트를 찾는다면 주목! 💖 디즈니 스토어와 레몬우유의 만남! 6월 30일, 귀여운 카모시 페리 굿즈와 라무네가 포함된 콜라보 상품이 출시됩니다. 일본에서만 만날 수 있는 특별한 경험, 놓치지 마세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#레몬우유",
-          "#일본한정",
-          "#카모시페리",
-          "#일본디저트",
-          "#여행선물",
-          "#일본쇼핑",
-          "#여행정보",
-          "#6월일본",
-          "#콜라보",
-          "#디즈니굿즈",
-          "#여행꿀팁",
-          "#일본"
-        ],
-        "alt_texts": [
-          "디즈니 스토어와 레몬우유 콜라보레이션 상품 출시 안내",
-          "카모시 페리 인형과 라무네 상품 이미지",
-          "일본 디즈니 스토어 매장 이미지",
-          "레몬우유 맛 디저트 이미지",
-          "일본 디즈니 스토어 방문객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 상품 구매 인증샷, 정보 공유 댓글 / 이 콘텐츠의 강점: 귀여운 캐릭터와 한정판 상품이라는 매력 포인트",
-      "image": {
-        "keyword": "Disney Lemon Milk collaboration Japan, Perry the Platypus plush, Ramune candy, Japan Disney Store, limited edition sweets",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Lemon-Milk-collaboration-Japan,-Perry-the-Platypus-plush,-Ramune-candy,-Japan-Disney-Store,-limited-edition-sweets",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Lemon%20Milk%20collaboration%20Japan,%20Perry%20the%20Platypus%20plush,%20Ramune%20candy,%20Japan%20Disney%20Store,%20limited%20edition%20sweets/"
-      }
-    },
-    {
-      "id": "plan_11d687ee",
-      "created_at": "2026-06-29T04:54:10.955417",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大阪・淀川区の河川敷「ミナモ十三」に屋台エリアオープン。淀川花火大会も特等席",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2120728.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 요도강 불꽃놀이 명당! 현지인처럼 즐기는 야타이 체험!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 오사카 불꽃놀이 명당 오픈!",
-        "cards": [
-          {
-            "title": "야타이 에리어 오픈!",
-            "content": "오사카 요도강변 '미나모十三'에 8월 초, 새로운 야타이(포장마차) 에리어가 문을 엽니다. 다양한 먹거리를 즐기며 축제를 만끽하세요.",
-            "alt_text": "오사카 요도강변에 새롭게 오픈하는 야타이(포장마차) 에리어 전경"
-          },
-          {
-            "title": "불꽃놀이 특등석!",
-            "content": "오는 8월 15일에 열리는 '요도강 불꽃놀이 대회'를 최고의 명당에서 감상할 수 있습니다. 시원한 강바람과 함께 화려한 불꽃을 즐겨보세요.",
-            "alt_text": "요도강 불꽃놀이 대회의 화려한 불꽃이 밤하늘을 수놓는 모습"
-          },
-          {
-            "title": "十三역 근처",
-            "content": "장소는 오사카 주소인 '요도츠츠미이치 미나모十三'이며, 특히十三(주소)역에서 가깝습니다. 교통이 편리하여 접근성이 좋습니다.",
-            "alt_text": "十三(주소)역에서 야타이 에리어까지 가는 길 안내"
-          },
-          {
-            "title": "8월 초 개업",
-            "content": "야타이 에리어는 8월 초에 정식으로 개업 예정입니다. 정확한 오픈일은 추후 공지될 예정이니 참고하세요.",
-            "alt_text": "개업 예정인 야타이 에리어에 설치된 간판 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "불꽃놀이 당일은 인파가 몰릴 수 있으니, 미리 방문하여 좋은 자리를 잡는 것을 추천합니다. 야타이 음식은 현금 결제가 가능한 곳이 많으니 준비해주세요.",
-            "alt_text": "불꽃놀이를 즐기는 사람들과 야타이 음식을 보여주는 이미지"
-          }
-        ],
-        "caption": "🎆 오사카 여행 예정이라면 주목! 8월 초, 오사카 요도강변 '미나모十三'에 새로운 야타이(포장마차) 에리어가 오픈해요! 특히 8월 15일 요도강 불꽃놀이 대회의 환상적인 불꽃을 최고의 명당에서 즐길 수 있다고 합니다.十三(주소)역에서도 가까워 접근성도 최고! 현지인처럼 맛있는 음식과 함께 불꽃놀이를 즐겨보세요! ✨\n\n#일본여행 #오사카여행 #요도강불꽃놀이 #미나모十三 #야타이 #일본축제 #여행정보 #플라잉재팬 #오사카맛집 #여름축제 #일본생활 #여행꿀팁 #일본이벤트 #여름휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#요도강불꽃놀이",
-          "#미나모十三",
-          "#야타이",
-          "#일본축제",
-          "#여행정보",
-          "#오사카맛집",
-          "#여름축제",
-          "#일본생활",
-          "#여행꿀팁",
-          "#일본이벤트",
-          "#여름휴가",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "오사카 요도강변에 새롭게 오픈하는 야타이(포장마차) 에리어 전경",
-          "요도강 불꽃놀이 대회의 화려한 불꽃이 밤하늘을 수놓는 모습",
-          "十三(주소)역에서 야타이 에리어까지 가는 길 안내",
-          "개업 예정인 야타이 에리어에 설치된 간판 이미지",
-          "불꽃놀이를 즐기는 사람들과 야타이 음식을 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 7월 말 ~ 8월 초 오사카 여행 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 불꽃놀이 명당 정보에 대한 높은 관심, 야타이 음식에 대한 호기심 / 이 콘텐츠의 강점: 시기적절한 불꽃놀이 정보와 함께 새로운 명소 오픈 소식을 결합하여 여행 계획에 실질적인 도움을 줌",
-      "image": {
-        "keyword": "Osaka Yodogawa Fireworks Festival Yatai area",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodogawa-Fireworks-Festival-Yatai-area",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Yodogawa%20Fireworks%20Festival%20Yatai%20area/"
       }
     }
   ]
