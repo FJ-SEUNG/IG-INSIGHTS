@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-07-03T04:02:11.639111",
+  "last_updated": "2026-07-04T00:16:57.647204",
   "plans": [
+    {
+      "id": "plan_13f79509",
+      "created_at": "2026-07-04T00:16:45.372218",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "さんふらわあトラベル、片道フェリー運賃と船内の夕朝食付きプラン「まる得パック」。大阪～志布志1万6000円から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2122274.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카-가고시마 구간 페리 특가! 1박 2일 알찬 여행 준비하세요! 🚢"
+      },
+      "content": {
+        "thumbnail_title": "🚢 오사카↔가고시마 1.6만부터! 꿀딜",
+        "cards": [
+          {
+            "title": "기간 한정 특가",
+            "content": "오사카에서 志布志(시부시)로 향하는 'まる得パック' 플랜이 16,000엔부터 시작해요. 7월 17일부터 8월 2일까지 출발하는 일정에 적용됩니다.",
+            "alt_text": "페리 표와 함께 할인 가격이 표시된 이미지"
+          },
+          {
+            "title": "포함 내역 확인",
+            "content": "편도 페리 운임에 선내 석식과 조식이 포함된 알찬 구성이에요. 1박 2일 짧은 여행에도 부담 없이 이용 가능합니다.",
+            "alt_text": "페리 안에서 식사하는 모습 또는 객실 내부 이미지"
+          },
+          {
+            "title": "예약 마감 임박",
+            "content": "각 출발일 기준 5영업일 전까지만 신청 가능하니, 여름 휴가 계획에 있다면 서둘러야 해요!",
+            "alt_text": "달력에 표시된 마감일 또는 시계 이미지"
+          },
+          {
+            "title": "페리로 즐기는 여행",
+            "content": "뱃멀미 걱정은 NO! 넓은 객실과 편의시설을 갖춘 쾌적한 페리에서 휴식을 취하며 일본 남쪽의 매력을 만끽해보세요.",
+            "alt_text": "넓고 깨끗한 페리 객실 또는 휴게 공간 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "본격적인 여름 시즌이라 예약이 빨리 마감될 수 있어요. 출발 1~2주 전에는 예약하는 것을 추천합니다. 志布志(시부시) 도착 후 렌터카 이용 시 편리해요.",
+            "alt_text": "지도 앱에서 志布志(시부시)를 검색하는 모습 또는 렌터카 이미지"
+          }
+        ],
+        "caption": "✈️ 오사카에서 가고시마까지, 페리로 떠나는 알찬 여행! \n\n🚢 'まる得パック' 플랜으로 편도 16,000엔부터! \n✅ 석식 & 조식 포함!\n📅 7/17~8/2 출발 한정, 5영업일 전 마감!\n\n여름 휴가, 색다른 방법으로 일본 남쪽을 경험해보세요! \n지금 바로 예약하고 잊지 못할 추억을 만들어보세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본페리",
+          "#오사카여행",
+          "#가고시마여행",
+          "#시부시",
+          "#일본교통",
+          "#일본가성비여행",
+          "#여름휴가",
+          "#일본자유여행",
+          "#여행정보",
+          "#해외여행",
+          "#일본",
+          "#여행스타그램",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "페리 표와 함께 할인 가격이 표시된 이미지",
+          "페리 안에서 식사하는 모습 또는 객실 내부 이미지",
+          "달력에 표시된 마감일 또는 시계 이미지",
+          "넓고 깨끗한 페리 객실 또는 휴게 공간 이미지",
+          "지도 앱에서 志布志(시부시)를 검색하는 모습 또는 렌터카 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌 일본 남부 지역 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 포함 내역 정보로 즉각적인 여행 계획 수립 지원",
+      "image": {
+        "keyword": "Japan ferry, Osaka to Kagoshima, discount ferry ticket, travel package, summer vacation",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Osaka-to-Kagoshima,-discount-ferry-ticket,-travel-package,-summer-vacation",
+        "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Osaka%20to%20Kagoshima,%20discount%20ferry%20ticket,%20travel%20package,%20summer%20vacation/"
+      }
+    },
     {
       "id": "plan_641896ab",
       "created_at": "2026-07-03T04:02:09.638928",
@@ -1000,83 +1077,6 @@
         "keyword": "Hyatt Centric Ginza Tokyo beer terrace Latin American food summer",
         "unsplash_url": "https://unsplash.com/s/photos/Hyatt-Centric-Ginza-Tokyo-beer-terrace-Latin-American-food-summer",
         "pexels_url": "https://www.pexels.com/search/Hyatt%20Centric%20Ginza%20Tokyo%20beer%20terrace%20Latin%20American%20food%20summer/"
-      }
-    },
-    {
-      "id": "plan_89da3818",
-      "created_at": "2026-06-30T04:20:28.158110",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "関東自動車と京成バス千葉イースト、マロニエ号の運賃改定　7月1日付けで",
-        "url": "https://www.traicy.com/posts/20260630374810/",
-        "date": "Tue, 30 Jun 2026 00:15:57 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나리타 공항에서 우츠노미야/마시코 방면 이동 시 필독! 마로니에호 요금 인상 정보"
-      },
-      "content": {
-        "thumbnail_title": "✈️마로니에호 요금 인상!🚨",
-        "cards": [
-          {
-            "title": "운행 노선",
-            "content": "나리타 공항 ↔️ 境古河 버스터미널, 우츠노미야역, 마시코 방면을 운행하는 '마로니에호' 버스 요금이 인상됩니다.",
-            "alt_text": "마로니에호 버스 노선도 이미지"
-          },
-          {
-            "title": "인상 시점",
-            "content": "2024년 7월 1일(월)부터 새로운 요금이 적용됩니다. 미리 확인하시고 여행 계획에 참고하세요!",
-            "alt_text": "달력에 7월 1일 표시된 이미지"
-          },
-          {
-            "title": "주요 구간 요금",
-            "content": "나리타 공항 ↔️ 境古河 버스터미널 구간 성인 요금이 기존 3,300엔에서 3,500엔으로 인상됩니다. (상세 요금 변동은 추가 확인 필요)",
-            "alt_text": "요금 인상 전후 비교 텍스트 이미지"
-          },
-          {
-            "title": "운행사",
-            "content": "이번 요금 인상은 간토 자동차와 게이세이 버스 치바 이스트에서 공동 운행하는 마로니에호에 해당됩니다.",
-            "alt_text": "간토 자동차, 게이세이 버스 로고 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "나리타 공항에서 우츠노미야, 마시코 방면으로 이동하시는 분들은 인상 전 요금을 확인하시거나, 다른 교통편(기차 등)의 요금도 함께 비교해보는 것을 추천합니다.",
-            "alt_text": "나리타 공항 교통편 안내 이미지"
-          }
-        ],
-        "caption": "🚨나리타 공항 이용객 주목!🚨\n\n'마로니에호' 버스 요금이 7월 1일부터 인상됩니다. ✈️\n\n나리타 공항 ↔️ 境古河 버스터미널 구간은 3,300엔 → 3,500엔으로 변경! 💸\n\n우츠노미야, 마시코 방면 이동 시 꼭 확인하시고, 다른 교통편과 비교해보세요! 🤔\n\n#일본여행 #플라잉재팬 #나리타공항 #마로니에호 #버스요금인상 #일본교통 #여행정보 #우츠노미야 #마시코 #일본여행꿀팁 #여행준비 #해외여행 #7월여행 #일본정보 #항공권 #숙소",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나리타공항",
-          "#마로니에호",
-          "#버스요금인상",
-          "#일본교통",
-          "#여행정보",
-          "#우츠노미야",
-          "#마시코",
-          "#일본여행꿀팁",
-          "#여행준비",
-          "#해외여행",
-          "#7월여행",
-          "#일본정보",
-          "#교통정보"
-        ],
-        "alt_texts": [
-          "마로니에호 버스 노선도 이미지",
-          "달력에 7월 1일 표시된 이미지",
-          "요금 인상 전후 비교 텍스트 이미지",
-          "간토 자동차, 게이세이 버스 로고 이미지",
-          "나리타 공항 교통편 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 나리타 공항을 통해 우츠노미야, 마시코 등 지역으로 이동하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 노선, 인상 시점, 요금 정보를 명확하게 제공하여 실질적인 도움 제공",
-      "image": {
-        "keyword": "Narita Airport bus fare increase",
-        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-bus-fare-increase",
-        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20bus%20fare%20increase/"
       }
     }
   ]
