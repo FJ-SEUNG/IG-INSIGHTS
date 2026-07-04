@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-04T00:16:57.647204",
+  "last_updated": "2026-07-04T03:56:07.909673",
   "plans": [
+    {
+      "id": "plan_4131fe1f",
+      "created_at": "2026-07-04T03:56:05.909453",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "中部国際空港、「クオリアラウンジ」を9月30日で閉鎖",
+        "url": "https://www.traicy.com/posts/20260704375278/",
+        "date": "Fri, 03 Jul 2026 23:15:08 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수! 중부 국제공항 라운지 변경 정보, 미리 알고 헛걸음 방지하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️센트레아 공항 라운지 9/30까지만!",
+        "cards": [
+          {
+            "title": "라운지 폐쇄",
+            "content": "나고야 중부 국제공항(센트레아)의 'クオリアラウンジ(쿠오리아 라운지)'가 2024년 9월 30일까지만 운영됩니다. 공항 내 라운지 리뉴얼 공사 때문입니다.",
+            "alt_text": "일본 나고야 중부 국제공항(센트레아) 전경"
+          },
+          {
+            "title": "새로운 라운지",
+            "content": "10월 1일부터는 'プレミアムラウンジ セントレア(프리미엄 라운지 센트레아)'와 '第2プレミアムラウンジ セントレア(제2 프리미엄 라운지 센트레아)'를 이용하실 수 있습니다.",
+            "alt_text": "프리미엄 라운지 센트레아 내부 이미지"
+          },
+          {
+            "title": "이용 가능한 라운지",
+            "content": "기존 '쿠오리아 라운지'를 이용하려던 여행객들은 10월 1일 이후 '프리미엄 라운지 센트레아' 또는 '제2 프리미엄 라운지 센트레아'로 방문 계획을 변경해야 합니다.",
+            "alt_text": "센트레아 공항 안내 사인"
+          },
+          {
+            "title": "미리 확인 필수!",
+            "content": "여행 계획 중 센트레아 공항 이용 예정이라면, 변경된 라운지 정보를 미리 확인하여 공항에서 혼란을 겪지 않도록 주의하세요.",
+            "alt_text": "여행객이 공항에서 정보를 확인하는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "라운지 운영 시간, 이용 조건 등은 각 라운지별로 다를 수 있으니, 방문 전 공식 홈페이지를 통해 최신 정보를 확인하는 것을 추천합니다.",
+            "alt_text": "스마트폰으로 공항 정보를 검색하는 모습"
+          }
+        ],
+        "caption": "✈️ 나고야 중부 국제공항(센트레아) 이용 예정이라면 주목! ✈️\n\n기존 '쿠오리아 라운지'가 2024년 9월 30일까지만 운영됩니다. 😢\n10월 1일부터는 '프리미엄 라운지 센트레아'와 '제2 프리미엄 라운지 센트레아'를 이용하실 수 있어요.\n\n공항 이용 전, 변경된 라운지 정보를 꼭 확인하시고 헛걸음하는 일 없도록 미리 계획 세우세요! ✅\n\n#일본여행 #나고야여행 #센트레아공항 #공항정보 #라운지 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나고야여행",
+          "#센트레아공항",
+          "#중부국제공항",
+          "#공항정보",
+          "#라운지",
+          "#여행준비",
+          "#일본생활",
+          "#여행꿀팁",
+          "#여행필수",
+          "#일본",
+          "#여행스타그램",
+          "#나고야",
+          "#일본항공"
+        ],
+        "alt_texts": [
+          "일본 나고야 중부 국제공항(센트레아) 전경",
+          "프리미엄 라운지 센트레아 내부 이미지",
+          "센트레아 공항 안내 사인",
+          "여행객이 공항에서 정보를 확인하는 모습",
+          "스마트폰으로 공항 정보를 검색하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 나고야 중부 국제공항을 이용하는 한국인 여행객 / 최적 게시 시간: 여행 준비가 활발한 저녁 시간(19시~21시) 또는 주말 오전 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 일본 여행 직전 필수 정보 제공으로 실질적 도움, 시기성 강조",
+      "image": {
+        "keyword": "Nagoya Chubu Centrair International Airport lounge closure",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagoya-Chubu-Centrair-International-Airport-lounge-closure",
+        "pexels_url": "https://www.pexels.com/search/Nagoya%20Chubu%20Centrair%20International%20Airport%20lounge%20closure/"
+      }
+    },
+    {
+      "id": "plan_4bb82d07",
+      "created_at": "2026-07-04T03:55:50.895239",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "佐野勇斗ら、アドリブに大苦戦？　「トイ・ストーリー5」公開記念トークショーに出演",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2122404.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드 특별 이벤트! 토이 스토리 팬이라면 놓칠 수 없는 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니랜드 7/3 특별 파티✨",
+        "cards": [
+          {
+            "title": "특별 파티 개최",
+            "content": "도쿄 디즈니랜드에서 7월 3일, '토이 스토리 5' 개봉 기념 특별 이벤트가 열립니다. 낮 12시부터 오후 3시까지, 파크를 통째로 빌려 즐기는 프라이빗 파티입니다.",
+            "alt_text": "도쿄 디즈니랜드 풍경"
+          },
+          {
+            "title": "참여 대상",
+            "content": "이 특별 영업은 '토이 스토리 5'의 개봉을 기념하는 'ファンタイム・ウィズ・トイ・ストーリー5' 프라이빗 이브닝 파티의 일부로 진행됩니다. 이벤트 참여 관련 자세한 내용은 공식 발표를 기다려주세요.",
+            "alt_text": "토이 스토리 캐릭터 이미지"
+          },
+          {
+            "title": "티켓 정보",
+            "content": "현재 티켓 가격 및 구매 방법에 대한 구체적인 정보는 공개되지 않았습니다. 공식 홈페이지를 통해 업데이트되는 정보를 주시해야 합니다.",
+            "alt_text": "디즈니랜드 티켓 이미지"
+          },
+          {
+            "title": "예상 이벤트",
+            "content": "토이 스토리 테마의 특별 공연, 캐릭터 그리팅, 포토존 등 다양한 즐길 거리가 마련될 것으로 예상됩니다.",
+            "alt_text": "디즈니랜드 퍼레이드 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "티켓은 매우 한정적일 가능성이 높으니, 관심 있다면 도쿄 디즈니랜드 공식 홈페이지를 수시로 확인하고 빠르게 예약하는 것이 중요합니다. 7월 초 일본 여행 계획 중이라면 필수 체크!",
+            "alt_text": "디즈니랜드 지도 이미지"
+          }
+        ],
+        "caption": "💖디즈니랜드 7월 3일, 토이 스토리 팬들을 위한 특별한 밤!💖\n'토이 스토리 5' 개봉 기념, 도쿄 디즈니랜드에서 낮 12시부터 오후 3시까지 파크 전체를 빌려 즐기는 프라이빗 이브닝 파티가 열립니다! 🤩\n\n티켓 정보는 곧 업데이트될 예정이니, 공식 홈페이지를 주목해주세요! 7월 초 일본 여행 계획이라면 절대 놓치지 마세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#토이스토리5",
+          "#디즈니랜드",
+          "#일본",
+          "#여행정보",
+          "#이벤트",
+          "#도쿄",
+          "#여행",
+          "#일본여행정보",
+          "#디즈니",
+          "#7월여행",
+          "#프라이빗파티",
+          "#놓치면후회"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 풍경",
+          "토이 스토리 캐릭터 이미지",
+          "디즈니랜드 티켓 이미지",
+          "디즈니랜드 퍼레이드 이미지",
+          "디즈니랜드 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문할 예정인 한국인 여행객, 특히 토이 스토리 팬 / 최적 게시 시간: 오후 6시~8시 (여행 계획을 세우는 저녁 시간대) / 기대 반응: 높은 관심과 정보 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 날짜와 이벤트 내용, 희소성 있는 정보 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland, Toy Story 5, Private Evening Party, July 3rd, Disney characters",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Toy-Story-5,-Private-Evening-Party,-July-3rd,-Disney-characters",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Toy%20Story%205,%20Private%20Evening%20Party,%20July%203rd,%20Disney%20characters/"
+      }
+    },
     {
       "id": "plan_13f79509",
       "created_at": "2026-07-04T00:16:45.372218",
@@ -923,160 +1077,6 @@
         "keyword": "Japan summer resort, natural seawater pool, Atami, Hotel New Akao, ocean pool, scenic view",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-summer-resort,-natural-seawater-pool,-Atami,-Hotel-New-Akao,-ocean-pool,-scenic-view",
         "pexels_url": "https://www.pexels.com/search/Japan%20summer%20resort,%20natural%20seawater%20pool,%20Atami,%20Hotel%20New%20Akao,%20ocean%20pool,%20scenic%20view/"
-      }
-    },
-    {
-      "id": "plan_cc54b07c",
-      "created_at": "2026-07-01T01:32:54.347125",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、パスポート申請費用引き下げに合わせて最大15万マイルが当たるキャンペーン。グアム線の小児運賃55％オフなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2121183.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 계획 중이라면 꼭 봐야 할 JAL의 역대급 마일리지 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ JAL 최대 15만 마일 획득 찬스!",
-        "cards": [
-          {
-            "title": "JAL 마일리지 캠페인",
-            "content": "JAL이 7월 1일부터 인하되는 여권 발급 수수료에 맞춰 '더! 해외로' 캠페인과 연계된 특별 프로모션을 진행해요. 최대 15만 마일리지까지 획득할 수 있는 기회입니다!",
-            "alt_text": "JAL 로고와 함께 마일리지 혜택을 강조하는 이미지"
-          },
-          {
-            "title": "괌 노선 특가",
-            "content": "특히 괌 노선에서는 소아 운임을 최대 55% 할인하는 혜택도 제공합니다. 가족 여행 계획 중이라면 놓치지 마세요!",
-            "alt_text": "괌의 아름다운 해변 사진과 함께 소아 할인 55% 문구"
-          },
-          {
-            "title": "마일리지 활용법",
-            "content": "획득한 마일리지는 JAL 항공권 구매는 물론, 다양한 제휴사에서도 활용 가능합니다. 다음 일본 여행 경비를 절약할 절호의 찬스!",
-            "alt_text": "다양한 항공권과 제휴사 로고가 겹쳐진 이미지"
-          },
-          {
-            "title": "캠페인 기간 확인",
-            "content": "자세한 캠페인 기간 및 참여 방법은 JAL 공식 홈페이지를 참고해주세요. 7월 1일부터 시작되는 이번 기회를 꼭 잡으세요!",
-            "alt_text": "달력에 7월 1일 표시와 함께 JAL 홈페이지 주소 힌트"
-          },
-          {
-            "title": "꿀팁",
-            "content": "항공권 예약 시점에 따라 마일리지 적립률이 달라질 수 있으니, 프로모션 내용을 꼼꼼히 확인하고 예약하는 것이 좋아요. 또한, JAL 마일리지 외 다른 항공사 마일리지도 함께 비교해보세요!",
-            "alt_text": "돋보기를 들고 JAL 웹사이트를 보는 사람 이미지"
-          }
-        ],
-        "caption": "✈️ JAL에서 역대급 마일리지 혜택을 쏩니다! ✈️\n\n7월 1일부터 시작되는 JAL의 '더! 해외로' 캠페인과 함께 최대 15만 마일리지 획득 기회를 잡으세요!\n\n괌 노선 소아 운임 55% 할인까지! 🤩\n\n다음 일본 여행, JAL 마일리지로 알뜰하게 다녀오세요!\n\n#JAL #일본항공 #마일리지 #항공권할인 #여행혜택",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#마일리지",
-          "#항공권",
-          "#여행정보",
-          "#일본",
-          "#해외여행",
-          "#여권",
-          "#괌",
-          "#프로모션",
-          "#여행꿀팁",
-          "#항공사",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JAL 로고와 함께 마일리지 혜택을 강조하는 이미지",
-          "괌의 아름다운 해변 사진과 함께 소아 할인 55% 문구",
-          "다양한 항공권과 제휴사 로고가 겹쳐진 이미지",
-          "달력에 7월 1일 표시와 함께 JAL 홈페이지 주소 힌트",
-          "돋보기를 들고 JAL 웹사이트를 보는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20~40대 한국인 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 높은 클릭률 및 공유율, 마일리지 혜택에 대한 관심 집중 / 이 콘텐츠의 강점: 구체적인 금액 할인율과 최대 마일리지 혜택을 명시하여 즉각적인 행동 유도",
-      "image": {
-        "keyword": "JAL airplane miles discount Guam",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane-miles-discount-Guam",
-        "pexels_url": "https://www.pexels.com/search/JAL%20airplane%20miles%20discount%20Guam/"
-      }
-    },
-    {
-      "id": "plan_b5dd6e17",
-      "created_at": "2026-06-30T04:20:36.944113",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ハイアット セントリック 銀座 東京、ラテンアメリカ料理の「NAMIKI667 Beer Terrace」を提供　7月1日から9月30日まで",
-        "url": "https://www.traicy.com/posts/20260630375021/",
-        "date": "Mon, 29 Jun 2026 21:15:12 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "긴자 하얏트에서 즐기는 특별한 여름, 라틴 아메리카 미식과 맥주 무제한!"
-      },
-      "content": {
-        "thumbnail_title": "긴자 하얏트 여름 맥주 테라스 🍺",
-        "cards": [
-          {
-            "title": "기간 확인",
-            "content": "2024년 7월 1일부터 9월 30일까지, 여름 시즌 한정으로 운영됩니다.",
-            "alt_text": "달력에 7월, 8월, 9월이 표시된 이미지"
-          },
-          {
-            "title": "메뉴 특징",
-            "content": "라틴 아메리카의 다채로운 식문화를 맛볼 수 있는 특별 메뉴가 준비되어 있습니다. 멕시코의 '멕시칸 스파이스 나초' 등 이국적인 맛을 경험하세요.",
-            "alt_text": "다양한 라틴 아메리카 음식 사진"
-          },
-          {
-            "title": "장소",
-            "content": "하이얏트 센트릭 긴자 도쿄에서 열립니다. 도쿄 중심부에서 특별한 여름 밤을 만끽하세요.",
-            "alt_text": "하이얏트 센트릭 긴자 도쿄 외관 사진"
-          },
-          {
-            "title": "음료",
-            "content": "테라스에서는 시원한 맥주를 포함한 다양한 음료를 즐길 수 있습니다. 여름 더위를 식혀줄 완벽한 선택입니다.",
-            "alt_text": "시원하게 맥주를 따르는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 있는 여름 한정 이벤트이므로, 방문 전 예약 가능 여부를 확인하는 것이 좋습니다. 특히 주말이나 저녁 시간대는 미리 예약하세요.",
-            "alt_text": "스마트폰으로 예약하는 손 이미지"
-          }
-        ],
-        "caption": "✨ 도쿄 긴자에서 즐기는 특별한 여름! ✨\n하이얏트 센트릭 긴자 도쿄에서 7월 1일부터 9월 30일까지 'NAMIKI667 비어 테라스'를 운영해요.\n라틴 아메리카의 이색적인 미식과 시원한 맥주를 함께 즐길 수 있는 여름 한정 꿀찬스! 🇲🇽🍻\n긴자에서 잊지 못할 여름 밤을 만들어보세요!\n\n#긴자맛집 #도쿄여행 #여름휴가 #호텔테라스 #일본축제",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#긴자",
-          "#하이얏트센트릭긴자",
-          "#도쿄맛집",
-          "#여름휴가",
-          "#일본호텔",
-          "#비어테라스",
-          "#한정메뉴",
-          "#라틴아메리카",
-          "#도쿄핫플",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#도쿄"
-        ],
-        "alt_texts": [
-          "달력에 7월, 8월, 9월이 표시된 이미지",
-          "다양한 라틴 아메리카 음식 사진",
-          "하이얏트 센트릭 긴자 도쿄 외관 사진",
-          "시원하게 맥주를 따르는 모습",
-          "스마트폰으로 예약하는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 긴자에서 특별한 경험을 원하는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 고급스러운 호텔 경험, 여름 시즌 한정, 이색적인 메뉴 조합",
-      "image": {
-        "keyword": "Hyatt Centric Ginza Tokyo beer terrace Latin American food summer",
-        "unsplash_url": "https://unsplash.com/s/photos/Hyatt-Centric-Ginza-Tokyo-beer-terrace-Latin-American-food-summer",
-        "pexels_url": "https://www.pexels.com/search/Hyatt%20Centric%20Ginza%20Tokyo%20beer%20terrace%20Latin%20American%20food%20summer/"
       }
     }
   ]
