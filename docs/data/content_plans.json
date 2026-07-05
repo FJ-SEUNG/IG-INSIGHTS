@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-04T03:56:07.909673",
+  "last_updated": "2026-07-05T00:13:19.192411",
   "plans": [
+    {
+      "id": "plan_1912709f",
+      "created_at": "2026-07-05T00:13:17.192233",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京メトロ、「ちいかわ」探しの謎解き脱出ゲーム。限定デザイン24時間券も発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2122310.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "인기 캐릭터 '치이카와'와 함께하는 도쿄 메트로 탈출 게임! 특별한 추억 만들기 딱이에요!"
+      },
+      "content": {
+        "thumbnail_title": "✨치이카와 도쿄 메트로 탈출 게임✨",
+        "cards": [
+          {
+            "title": "이벤트 기간",
+            "content": "2024년 7월 24일부터 11월 3일까지 도쿄 메트로에서 '치이카와'와 함께하는 특별한 탈출 게임이 열립니다.",
+            "alt_text": "도쿄 메트로 탈출 게임 이벤트 기간 안내"
+          },
+          {
+            "title": "이벤트 내용",
+            "content": "인기 캐릭터 '치이카와'와 협업한 순회형 이벤트로, '치이카와,さがしてます。 『映画ちいかわ』東京メトロ脱出ゲーム'이라는 이름으로 진행됩니다.",
+            "alt_text": "치이카와와 함께하는 도쿄 메트로 탈출 게임 내용"
+          },
+          {
+            "title": "특별 24시간권",
+            "content": "이벤트 기간 동안 '치이카와' 디자인의 한정 24시간권도 함께 판매될 예정이니 놓치지 마세요!",
+            "alt_text": "치이카와 디자인 특별 24시간권"
+          },
+          {
+            "title": "참여 방법",
+            "content": "도쿄 메트로 지하철을 이용하며 숨겨진 단서를 찾아 탈출하는 방식으로, 영화 '극장판 치이카와: 인어 섬의 비밀' 개봉과 함께 진행됩니다.",
+            "alt_text": "도쿄 메트로 탈출 게임 참여 방법 설명"
+          },
+          {
+            "title": "꿀팁",
+            "content": "영화 관람 후 이벤트에 참여하면 더욱 즐거운 경험이 될 거예요! 아이들과 함께하는 가족 여행객에게도 강력 추천합니다.",
+            "alt_text": "치이카와 도쿄 메트로 탈출 게임 꿀팁"
+          }
+        ],
+        "caption": "💖 도쿄 여행 필수 코스 등장! 💖\n인기 캐릭터 '치이카와'와 함께하는 도쿄 메트로 탈출 게임이 7월 24일부터 11월 3일까지 개최돼요! 🕵️‍♀️\n특별한 24시간권도 놓치지 마세요! 🎟️\n친구, 연인, 가족과 함께 잊지 못할 추억을 만들어보세요! ✨\n\n#일본여행 #도쿄여행 #치이카와 #도쿄메트로 #탈출게임 #이벤트 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#도쿄여행",
+          "#치이카와",
+          "#도쿄메트로",
+          "#탈출게임",
+          "#이벤트",
+          "#여행정보",
+          "#일본이벤트",
+          "#일본축제",
+          "#여행스타그램",
+          "#플라잉재팬",
+          "#일본자유여행",
+          "#도쿄",
+          "#여행",
+          "#인스타여행"
+        ],
+        "alt_texts": [
+          "도쿄 메트로 탈출 게임 이벤트 기간 안내",
+          "치이카와와 함께하는 도쿄 메트로 탈출 게임 내용",
+          "치이카와 디자인 특별 24시간권",
+          "도쿄 메트로 탈출 게임 참여 방법 설명",
+          "치이카와 도쿄 메트로 탈출 게임 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 애니메이션 및 캐릭터 팬, 도쿄 여행 예정인 20-30대, 아이 동반 가족 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 높은 관심과 참여 문의, 이벤트 정보 공유 확산 / 이 콘텐츠의 강점: 인기 캐릭터 활용으로 인한 높은 화제성, 참여형 이벤트로 인한 재미 요소 강조",
+      "image": {
+        "keyword": "chiikawa tokyo metro escape game limited ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/chiikawa-tokyo-metro-escape-game-limited-ticket",
+        "pexels_url": "https://www.pexels.com/search/chiikawa%20tokyo%20metro%20escape%20game%20limited%20ticket/"
+      }
+    },
+    {
+      "id": "plan_af9703f7",
+      "created_at": "2026-07-05T00:13:07.331775",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヨドバシ池袋で「油がたぎる」「藁で焼く」「炭火が燃える」！　大リニューアル・グルメ専門街を食べてきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2122429.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 쇼핑 성지 요도바시카메라에 역대급 맛집 거리 오픈!"
+      },
+      "content": {
+        "thumbnail_title": "池袋 요도바시 🍔🍜✨",
+        "cards": [
+          {
+            "title": "역대급 맛집 거리",
+            "content": "도쿄 최대 가전매장 '요도바시카메라 멀티미디어 이케부로' 8층에 'LINKS DINING＆淀橋横丁'가 새롭게 오픈했어요. 쇼핑과 함께 즐길 수 있는 거대한 식당가가 탄생했답니다!",
+            "alt_text": "요도바시카메라 이케부로 외관"
+          },
+          {
+            "title": "다양한 메뉴",
+            "content": "기름이 끓고, 짚불로 굽고, 숯불이 타오르는 등 다채로운 조리 방식의 음식들을 맛볼 수 있어요. 오픈 직후부터 엄청난 인기를 누리고 있답니다.",
+            "alt_text": "다양한 요리가 준비된 식당가 모습"
+          },
+          {
+            "title": "쇼핑 후 필수 코스",
+            "content": "가전제품 쇼핑 후 출출함을 달래기 딱 좋아요. 6월 30일 오픈 이후 많은 사람들이 방문하며 활기를 띠고 있습니다.",
+            "alt_text": "식사를 즐기는 사람들 모습"
+          },
+          {
+            "title": "이케부로 핫플레이스",
+            "content": "새롭게 떠오르는 이케부로의 핫플레이스에서 특별한 미식 경험을 놓치지 마세요. 앞으로도 계속해서 매력적인 가게들이 추가될 예정입니다.",
+            "alt_text": "새로운 식당가 내부 모습"
+          },
+          {
+            "title": "방문 팁",
+            "content": "주말이나 저녁 시간대에는 웨이팅이 길 수 있으니, 오픈 시간에 맞춰 방문하거나 식사 시간을 살짝 피하는 것을 추천해요. 인기 메뉴는 조기 소진될 수 있으니 서두르세요!",
+            "alt_text": "식당가 안내 표지판"
+          }
+        ],
+        "caption": "도쿄 이케부로 쇼핑 필수 코스 탄생! 🛍️✨\n\n국내 최대 규모 가전매장 요도바시카메라 이케부로점에 엄청난 규모의 미식 거리 'LINKS DINING＆淀橋横丁'가 오픈했어요! 🤩\n\n쇼핑 후 바로 즐길 수 있는 다채로운 메뉴와 활기찬 분위기까지! 🍜🔥\n\n지금 바로 이케부로에서 특별한 미식 여행을 시작해 보세요! ✈️🇯🇵\n\n#플라잉재팬 #일본여행 #도쿄여행 #이케부로 #요도바시카메라 #일본맛집 #도쿄맛집 #이케부로맛집 #LINKS_DINING #淀橋横丁 #일본쇼핑 #가전제품 #먹스타그램 #여행스타그램 #일본생활",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#이케부로",
+          "#요도바시카메라",
+          "#일본맛집",
+          "#도쿄맛집",
+          "#이케부로맛집",
+          "#LINKS_DINING",
+          "#淀橋横丁",
+          "#일본쇼핑",
+          "#가전제품",
+          "#먹스타그램",
+          "#여행스타그램",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "요도바시카메라 이케부로 외관",
+          "다양한 요리가 준비된 식당가 모습",
+          "식사를 즐기는 사람들 모습",
+          "새로운 식당가 내부 모습",
+          "식당가 안내 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6시, 주말 오후 1시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 맛집 방문 인증 후기 / 이 콘텐츠의 강점: 최신 오픈 정보, 쇼핑과 미식을 결합한 매력적인 스토리텔링",
+      "image": {
+        "keyword": "Yodobashi Camera Ikebukuro food court, LINKS DINING Yodobashi Yokocho",
+        "unsplash_url": "https://unsplash.com/s/photos/Yodobashi-Camera-Ikebukuro-food-court,-LINKS-DINING-Yodobashi-Yokocho",
+        "pexels_url": "https://www.pexels.com/search/Yodobashi%20Camera%20Ikebukuro%20food%20court,%20LINKS%20DINING%20Yodobashi%20Yokocho/"
+      }
+    },
     {
       "id": "plan_4131fe1f",
       "created_at": "2026-07-04T03:56:05.909453",
@@ -923,160 +1077,6 @@
         "keyword": "Tamagotchi Mos Burger collaboration lucky bag Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-Mos-Burger-collaboration-lucky-bag-Japan",
         "pexels_url": "https://www.pexels.com/search/Tamagotchi%20Mos%20Burger%20collaboration%20lucky%20bag%20Japan/"
-      }
-    },
-    {
-      "id": "plan_f4a6be52",
-      "created_at": "2026-07-01T04:48:44.424605",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ドムドムハンバーガー×銚子電気鉄道が異色のコラボ。ぬれ煎餅バーガーやコラボ電車、限定ぬいぐるみ/チャームが登場",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2121483.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 현지에서만 맛볼 수 있는 특별한 콜라보 메뉴를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🍔銚전철X돔돔버거🍣",
-        "cards": [
-          {
-            "title": "이색 버거 등장!",
-            "content": "일본 돔돔버거와 銚자 전기 철도가 특별한 콜라보를 진행합니다. 명물 '젖은 전병'을 활용한 '젖은 전병 버거'를 맛볼 수 있어요.",
-            "alt_text": "젖은 전병 버거 이미지"
-          },
-          {
-            "title": "콜라보 열차 운행",
-            "content": "7월 19일 '銚전제 2026'에 맞춰 헤드마크를 변경한 '돔돔 전차'가 운행됩니다. 특별한 디자인의 열차를 만나보세요.",
-            "alt_text": "돔돔 전차 이미지"
-          },
-          {
-            "title": "한정 굿즈 판매",
-            "content": "콜라보 기념으로 한정판 ぬいぐるみ와 굿즈도 판매될 예정입니다. 여행 기념품으로 좋을 거예요.",
-            "alt_text": "콜라보 굿즈 이미지"
-          },
-          {
-            "title": "이벤트 정보",
-            "content": "이번 콜라보는 7월 19일에 개최되는 '銚전제 2026'에서 만나볼 수 있습니다. 銚자 전기 철도 관련 행사도 함께 즐겨보세요.",
-            "alt_text": "銚전제 2026 행사 포스터 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "銚자 지역은 도쿄에서 당일치기 또는 1박 2일로 다녀오기 좋은 곳입니다. 젖은 전병 버거와 함께 특별한 추억을 만들어보세요.",
-            "alt_text": "銚자 지역 풍경 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 놓칠 수 없는 특별한 미식 경험! 🍔🍣\n돔돔버거와 銚자 전기 철도의 이색 콜라보 소식을 전해드려요.\n\n✨ 젖은 전병 버거 출시\n✨ 콜라보 열차 '돔돔 전차' 운행\n✨ 한정판 굿즈 판매\n\n7월 19일 '銚전제 2026'에서 만나요!\n\n#일본여행 #도쿄근교 #銚자여행 #돔돔버거 #銚자전철 #콜라보 #한정메뉴",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본맛집",
-          "#도쿄근교",
-          "#銚자여행",
-          "#돔돔버거",
-          "#銚자전철",
-          "#이색버거",
-          "#한정판",
-          "#일본축제",
-          "#여행정보",
-          "#일본음식",
-          "#먹스타그램",
-          "#여행스타그램",
-          "#일본음식추천"
-        ],
-        "alt_texts": [
-          "젖은 전병 버거 이미지",
-          "돔돔 전차 이미지",
-          "콜라보 굿즈 이미지",
-          "銚전제 2026 행사 포스터 이미지",
-          "銚자 지역 풍경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 현지 특별한 경험을 원하는 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시 / 기대 반응: 높은 관심과 공유 / 이 콘텐츠의 강점: 일본 현지에서만 경험 가능한 독특한 콜라보 정보",
-      "image": {
-        "keyword": "domdom burger, choshi electric railway, collaboration, unique burger, limited edition goods, japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/domdom-burger,-choshi-electric-railway,-collaboration,-unique-burger,-limited-edition-goods,-japan-travel",
-        "pexels_url": "https://www.pexels.com/search/domdom%20burger,%20choshi%20electric%20railway,%20collaboration,%20unique%20burger,%20limited%20edition%20goods,%20japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_0ec45163",
-      "created_at": "2026-07-01T01:33:11.058490",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルニューアカオ、夏季限定の天然海水プール「オーシャンプール」営業開始。施設目の前の海を区画化して遊泳エリアに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2121119.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서 즐기는 짜릿한 여름 바캉스! 천연 해수 풀장에서 시원하게 물놀이 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "🌊일본 여름 한정! 천연 해수 풀장 오픈!",
-        "cards": [
-          {
-            "title": "호텔 뉴 아카오",
-            "content": "일본 시즈오카현 아타미시에 위치한 호텔 뉴 아카오에서 여름 한정 천연 해수 풀장 '오션 풀'을 7월 1일부터 개장합니다.",
-            "alt_text": "호텔 뉴 아카오 전경"
-          },
-          {
-            "title": "천연 해수 풀장",
-            "content": "탁 트인 사가미 바다와 하나된 듯한 압도적인 개방감을 자랑하며, 아름다운 해안 절벽에 둘러싸여 특별한 해수욕 경험을 선사합니다.",
-            "alt_text": "오션 풀에서 물놀이를 즐기는 사람들"
-          },
-          {
-            "title": "운영 기간",
-            "content": "여름 시즌 한정 운영되며, 정확한 종료일은 추후 공지될 예정입니다. 방문 전 호텔 공식 홈페이지에서 최신 정보를 확인하세요.",
-            "alt_text": "여름 바다 풍경"
-          },
-          {
-            "title": "이용 팁",
-            "content": "아타미 지역은 도쿄에서 신칸센으로 약 35분 거리에 있어 당일치기 또는 1박 2일 여행으로도 방문하기 좋습니다.",
-            "alt_text": "아타미 해변의 아름다운 풍경"
-          },
-          {
-            "title": "주의사항",
-            "content": "천연 해수 풀장이므로 안전 수칙을 반드시 준수해야 하며, 어린이는 반드시 보호자와 함께 이용해야 합니다.",
-            "alt_text": "안전 수칙 안내 표지판"
-          }
-        ],
-        "caption": "일본 여름 여행 필수 코스! 🌊 호텔 뉴 아카오의 천연 해수 풀장 '오션 풀'에서 시원한 물놀이를 즐겨보세요! 아름다운 해안 절벽과 탁 트인 바다가 어우러진 특별한 경험을 선사합니다. 7월 1일부터 개장! ☀️ #일본여름여행 #호텔뉴아카오 #오션풀 #아타미",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본여름",
-          "#아타미",
-          "#호텔뉴아카오",
-          "#오션풀",
-          "#천연해수풀장",
-          "#일본수영장",
-          "#여름휴가",
-          "#일본온천",
-          "#일본자유여행",
-          "#일본숙소",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "호텔 뉴 아카오 전경",
-          "오션 풀에서 물놀이를 즐기는 사람들",
-          "여름 바다 풍경",
-          "아타미 해변의 아름다운 풍경",
-          "안전 수칙 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 공유, 실제 방문 문의 / 이 콘텐츠의 강점: 여름 시즌 한정이라는 희소성과 아름다운 경관을 강조하여 여행 욕구 자극",
-      "image": {
-        "keyword": "Japan summer resort, natural seawater pool, Atami, Hotel New Akao, ocean pool, scenic view",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-summer-resort,-natural-seawater-pool,-Atami,-Hotel-New-Akao,-ocean-pool,-scenic-view",
-        "pexels_url": "https://www.pexels.com/search/Japan%20summer%20resort,%20natural%20seawater%20pool,%20Atami,%20Hotel%20New%20Akao,%20ocean%20pool,%20scenic%20view/"
       }
     }
   ]
