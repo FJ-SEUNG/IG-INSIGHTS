@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-05T00:13:19.192411",
+  "last_updated": "2026-07-05T04:15:14.822532",
   "plans": [
+    {
+      "id": "plan_8fdcc8a0",
+      "created_at": "2026-07-05T04:15:12.822342",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "マンダリン オリエンタル 東京、クリストフルとコラボしたアフタヌーンティー提供　6月29日から",
+        "url": "https://www.traicy.com/posts/20260705372804/",
+        "date": "Sun, 05 Jul 2026 00:15:00 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 호텔에서 즐기는 프랑스 남부 감성! 특별한 애프터눈 티를 만나보세요."
+      },
+      "content": {
+        "thumbnail_title": "도쿄 호텔 🇫🇷 애프터눈 티 💖",
+        "cards": [
+          {
+            "title": "콜라보",
+            "content": "만다린 오리엔탈 도쿄에서 프랑스 대표 은기 브랜드 크리스토플과 협업한 특별한 애프터눈 티를 선보입니다.",
+            "alt_text": "만다린 오리엔탈 도쿄 호텔 외관"
+          },
+          {
+            "title": "애프터눈 티",
+            "content": "'말메종 리비에라 애프터눈 티'는 프랑스 남부 리비에라에서 영감을 받은 크리스토플의 신규 컬렉션 '말메종'을 테마로 합니다.",
+            "alt_text": "크리스토플 식기 세트"
+          },
+          {
+            "title": "기간",
+            "content": "2024년 6월 29일부터 9월 23일까지, 기간 한정으로 제공됩니다.",
+            "alt_text": "달력에 표시된 6월 29일과 9월 23일"
+          },
+          {
+            "title": "수량",
+            "content": "한정 수량으로 제공되니, 방문 전 예약은 필수입니다.",
+            "alt_text": "수량이 얼마 남지 않았음을 나타내는 아이콘"
+          },
+          {
+            "title": "꿀팁",
+            "content": "특별한 날, 로맨틱한 도쿄 여행을 계획 중이라면 놓치지 마세요! 아름다운 뷰와 함께 특별한 시간을 보낼 수 있습니다.",
+            "alt_text": "창밖으로 보이는 도쿄 시내 전경"
+          }
+        ],
+        "caption": "✨ 도쿄에서 만나는 프랑스 남부의 낭만! ✨\n\n만다린 오리엔탈 도쿄가 크리스토플과 함께 특별한 애프터눈 티를 선보입니다.\n프랑스 남부 리비에라에서 영감을 받은 '말메종 리비에라 애프터눈 티'는 6월 29일부터 9월 23일까지 한정 수량으로 제공됩니다.\n\n특별한 날, 잊지 못할 추억을 만들어보세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄호텔",
+          "#만다린오리엔탈도쿄",
+          "#크리스토플",
+          "#애프터눈티",
+          "#도쿄카페",
+          "#도쿄맛집",
+          "#도쿄데이트",
+          "#일본한정",
+          "#여행스타그램",
+          "#도쿄가볼만한곳",
+          "#호캉스",
+          "#6월여행"
+        ],
+        "alt_texts": [
+          "만다린 오리엔탈 도쿄 호텔 외관",
+          "크리스토플 식기 세트",
+          "달력에 표시된 6월 29일과 9월 23일",
+          "수량이 얼마 남지 않았음을 나타내는 아이콘",
+          "창밖으로 보이는 도쿄 시내 전경"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-40대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 고급스럽고 특별한 경험 제공, 시즌 한정 정보",
+      "image": {
+        "keyword": "Mandarin Oriental Tokyo, Christofle, Afternoon Tea, French Riviera inspired, Limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/Mandarin-Oriental-Tokyo,-Christofle,-Afternoon-Tea,-French-Riviera-inspired,-Limited-edition",
+        "pexels_url": "https://www.pexels.com/search/Mandarin%20Oriental%20Tokyo,%20Christofle,%20Afternoon%20Tea,%20French%20Riviera%20inspired,%20Limited%20edition/"
+      }
+    },
+    {
+      "id": "plan_65356538",
+      "created_at": "2026-07-05T04:15:07.412119",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANAクラウンプラザホテル成田、バーベキューと手持ち花火付き宿泊プランを提供　11月27日まで",
+        "url": "https://www.traicy.com/posts/20260705374280/",
+        "date": "Sun, 05 Jul 2026 01:15:04 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 호텔에서 즐기는 특별한 바비큐 & 불꽃놀이 패키지!"
+      },
+      "content": {
+        "thumbnail_title": "✨호텔BBQ✨ 11/27까지! ⛱️",
+        "cards": [
+          {
+            "title": "특별한 플랜",
+            "content": "ANA 크라운 플라자 호텔 나리타에서 5월 25일부터 11월 27일까지 '손 가볍게! 우천 시에도 안심! 텐트 BBQ 숙박 플랜 (아이스크림 & 불꽃놀이 포함)'을 제공합니다.",
+            "alt_text": "ANA 크라운 플라자 호텔 나리타 건물 외관"
+          },
+          {
+            "title": "포함 내역",
+            "content": "플랜에는 'THE BBQ YARD' 야외 바비큐 장소 이용과 함께 맛있는 아이스크림, 그리고 신나는 손잡이 불꽃놀이가 포함되어 있습니다.",
+            "alt_text": "야외 바비큐장에서 즐기는 모습"
+          },
+          {
+            "title": "날짜 확인",
+            "content": "이 특별한 플랜은 2024년 11월 27일까지 이용 가능하니, 여행 계획에 참고하세요!",
+            "alt_text": "달력에 11월 27일 표시"
+          },
+          {
+            "title": "간편함",
+            "content": "준비물 걱정 없이 몸만 오면 되는 '손 가볍게' 플랜입니다. 텐트가 있어 날씨 걱정 없이 즐길 수 있어요.",
+            "alt_text": "준비물이 필요 없는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "저녁 식사와 함께 특별한 추억을 만들고 싶다면 이 플랜을 추천합니다. 나리타 공항 근처에 위치해 접근성도 좋아요.",
+            "alt_text": "호텔 숙박하며 바비큐와 불꽃놀이를 즐기는 커플"
+          }
+        ],
+        "caption": "일본 여행, 특별한 추억을 만들고 싶다면? 🤩\nANA 크라운 플라자 호텔 나리타에서 11월 27일까지!\n텐트 BBQ와 불꽃놀이를 함께 즐길 수 있는 숙박 플랜을 선보입니다. 🍖🎆\n몸만 오면 되는 편리함까지! 지금 바로 예약하세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA크라운플라자호텔나리타",
+          "#나리타여행",
+          "#일본호텔",
+          "#호텔BBQ",
+          "#일본온천",
+          "#일본가족여행",
+          "#일본커플여행",
+          "#일본자유여행",
+          "#일본숙소",
+          "#일본추천",
+          "#일본이벤트",
+          "#가을여행",
+          "#11월여행"
+        ],
+        "alt_texts": [
+          "ANA 크라운 플라자 호텔 나리타 건물 외관",
+          "야외 바비큐장에서 즐기는 모습",
+          "달력에 11월 27일 표시",
+          "준비물이 필요 없는 모습",
+          "호텔 숙박하며 바비큐와 불꽃놀이를 즐기는 커플"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 나리타 공항 이용객 및 근교 여행객 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 예약 문의 증가, 플랜에 대한 궁금증 / 이 콘텐츠의 강점: 특별한 경험 제공, 날짜 한정 정보 강조",
+      "image": {
+        "keyword": "hotel narita bbq fireworks tent",
+        "unsplash_url": "https://unsplash.com/s/photos/hotel-narita-bbq-fireworks-tent",
+        "pexels_url": "https://www.pexels.com/search/hotel%20narita%20bbq%20fireworks%20tent/"
+      }
+    },
     {
       "id": "plan_1912709f",
       "created_at": "2026-07-05T00:13:17.192233",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disney Resort summer event water attraction",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disney-Resort-summer-event-water-attraction",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disney%20Resort%20summer%20event%20water%20attraction/"
-      }
-    },
-    {
-      "id": "plan_3667b4e7",
-      "created_at": "2026-07-02T00:20:52.621403",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ミセス×ディズニー初のコラボドリンク、どんな味？　発売初日に注文してみた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2121717.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드에서 즐기는 미세스X디즈니 콜라보 음료! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니×미세스 콜라보 음료✨",
-        "cards": [
-          {
-            "title": "콜라보 메뉴",
-            "content": "도쿄 디즈니랜드에서 미세스 GREEN APPLE과의 특별한 콜라보 메뉴 '스파클링 드링크 시트러스 & 머스캣'을 선보입니다. 상큼달콤한 맛을 즐겨보세요!",
-            "alt_text": "미세스 GREEN APPLE과 디즈니랜드의 콜라보레이션으로 탄생한 스파클링 드링크 사진"
-          },
-          {
-            "title": "가격",
-            "content": "가격은 880엔으로, 특별한 추억과 함께 맛있는 음료를 즐길 수 있습니다.",
-            "alt_text": "스파클링 드링크 시트러스 & 머스캣 가격 정보"
-          },
-          {
-            "title": "판매 기간",
-            "content": "2024년 7월 1일부터 9월 14일까지 한정 판매됩니다. 이 기간을 놓치지 마세요!",
-            "alt_text": "스파클링 드링크 시트러스 & 머스캣 판매 기간 정보"
-          },
-          {
-            "title": "이벤트",
-            "content": "본 음료는 '서머 쿨 오프 앳 도쿄 디즈니 리조트' 이벤트의 일환으로 제공됩니다. 여름 시즌 특별한 경험을 선사합니다.",
-            "alt_text": "도쿄 디즈니 리조트 여름 이벤트 정보"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 메뉴이므로 서둘러 주문하는 것을 추천합니다. 예쁜 인증샷은 필수!",
-            "alt_text": "디즈니랜드에서 콜라보 음료를 즐기는 사람들의 모습"
-          }
-        ],
-        "caption": "💖일본 여행 중이라면 꼭 들러야 할 곳!💖\n\n도쿄 디즈니랜드에서만 만날 수 있는 미세스 GREEN APPLE과의 특별한 콜라보 음료! 🍹\n\n✨스파클링 드링크 시트러스 & 머스캣✨\n\n📍가격: 880엔\n📍판매 기간: 7월 1일 ~ 9월 14일\n\n여름 시즌 특별 이벤트 '서머 쿨 오프 앳 도쿄 디즈니 리조트'와 함께 잊지 못할 추억을 만들어보세요!\n\n#일본여행 #도쿄디즈니랜드 #미세스그린애플 #콜라보 #한정메뉴 #여름휴가 #디즈니",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#미세스그린애플",
-          "#디즈니콜라보",
-          "#한정메뉴",
-          "#일본음료",
-          "#디즈니랜드",
-          "#여름휴가",
-          "#일본축제",
-          "#도쿄여행",
-          "#여행정보",
-          "#필수코스",
-          "#인스타여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "미세스 GREEN APPLE과 디즈니랜드의 콜라보레이션으로 탄생한 스파클링 드링크 사진",
-          "스파클링 드링크 시트러스 & 머스캣 가격 정보",
-          "스파클링 드링크 시트러스 & 머스캣 판매 기간 정보",
-          "도쿄 디즈니 리조트 여름 이벤트 정보",
-          "디즈니랜드에서 콜라보 음료를 즐기는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문하는 20-30대 한국인 여행자 / 최적 게시 시간: 금요일 오후 7시 / 기대 반응: 콜라보 메뉴에 대한 높은 관심 및 방문 의사 / 이 콘텐츠의 강점: 유명 아티스트와 디즈니랜드의 콜라보라는 희소성, 명확한 가격 및 기간 정보 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland, Mrs. GREEN APPLE, collaboration drink, sparkling drink, citrus, muscat, limited menu, summer event",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Mrs.-GREEN-APPLE,-collaboration-drink,-sparkling-drink,-citrus,-muscat,-limited-menu,-summer-event",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Mrs.%20GREEN%20APPLE,%20collaboration%20drink,%20sparkling%20drink,%20citrus,%20muscat,%20limited%20menu,%20summer%20event/"
-      }
-    },
-    {
-      "id": "plan_d0609303",
-      "created_at": "2026-07-01T04:48:55.225512",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "モスバーガー×たまごっち、保冷バッグ/ポーチ/5000円分の食事券などが入った「2026サマーラッキーバッグ」を発売",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2121387.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 버거 맛집 '모스버거'와 인기 캐릭터 '다마고치'의 특별한 만남!"
-      },
-      "content": {
-        "thumbnail_title": "🍔 다마고치X모스버거 럭키백! 🎁",
-        "cards": [
-          {
-            "title": "콜라보 소식",
-            "content": "일본의 인기 버거 체인점 '모스버거'가 추억의 캐릭터 '다마고치'와 특별한 콜라보를 진행합니다. 7월 1일부터 한정판 럭키백을 선보입니다.",
-            "alt_text": "다마고치와 모스버거 로고가 함께 있는 콜라보 이미지"
-          },
-          {
-            "title": "럭키백 구성",
-            "content": "이번 럭키백에는 보냉백, 파우치, 그리고 5,000엔 상당의 모스버거 식사권이 포함될 예정입니다. 실용적인 구성으로 여행 중에도 유용하게 사용할 수 있습니다.",
-            "alt_text": "보냉백, 파우치, 식사권이 포함된 럭키백 예상 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "온라인 예약만 가능하며, 2026년 7월 1일 15시부터 7월 30일까지 예약 접수를 받습니다. 기간을 놓치지 않도록 미리 확인하세요.",
-            "alt_text": "온라인 예약 페이지 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "럭키백의 가격은 5,000엔입니다. 한정 수량으로 판매되니 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "5,000엔 가격표 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 여행 중 맛있는 식사를 계획하고 있다면, 이번 모스버거 럭키백을 통해 특별한 경험과 함께 식사권까지 챙겨보세요! 여행 경비를 절약하는 좋은 기회가 될 수 있습니다.",
-            "alt_text": "모스버거에서 식사하는 즐거운 모습의 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 놓칠 수 없는 꿀정보! 🇯🇵\n\n추억의 다마고치와 모스버거의 특별한 만남! 🍔✨\n\n✔ 2026년 7월, 한정판 '서머 럭키백' 출시!\n✔ 보냉백, 파우치, 5,000엔 식사권 포함!\n✔ 7월 1일 15시 ~ 30일 온라인 예약 필수!\n\n여행 중 맛있는 식사와 특별한 기념품까지 챙길 절호의 기회! 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#모스버거",
-          "#다마고치",
-          "#일본맛집",
-          "#일본쇼핑",
-          "#일본한정",
-          "#럭키백",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#2026년여름",
-          "#일본음식",
-          "#버거맛집",
-          "#캐릭터콜라보",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "다마고치와 모스버거 로고가 함께 있는 콜라보 이미지",
-          "보냉백, 파우치, 식사권이 포함된 럭키백 예상 이미지",
-          "온라인 예약 페이지 이미지",
-          "5,000엔 가격표 이미지",
-          "모스버거에서 식사하는 즐거운 모습의 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 8-10시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 인기 캐릭터와의 콜라보, 실용적인 구성, 구체적인 예약 정보 제공",
-      "image": {
-        "keyword": "Tamagotchi Mos Burger collaboration lucky bag Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-Mos-Burger-collaboration-lucky-bag-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tamagotchi%20Mos%20Burger%20collaboration%20lucky%20bag%20Japan/"
       }
     }
   ]
