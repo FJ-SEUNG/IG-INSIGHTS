@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-08T00:11:23.809880",
+  "last_updated": "2026-07-08T03:36:42.431900",
   "plans": [
+    {
+      "id": "plan_e32d925c",
+      "created_at": "2026-07-08T03:36:40.431706",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「第78回諏訪湖祭湖上花火大会」観覧チケット7月13日から2次抽選販売。山に反響する大迫力スターマインなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123210.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여름밤을 수놓을 압도적인 스케일의 불꽃축제 정보를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🔥8월 15일! 스와호 불꽃축제🔥",
+        "cards": [
+          {
+            "title": "축제 일정",
+            "content": "제78회 스와호제 호상 불꽃대회는 8월 15일 화요일에 개최됩니다. 8월 15일, 잊지 마세요!",
+            "alt_text": "스와호 불꽃축제 개최 날짜를 강조하는 이미지"
+          },
+          {
+            "title": "개최 장소",
+            "content": "장소는 나가노현 스와시 호반공원 앞 스와호입니다. 아름다운 호수 위에서 펼쳐지는 불꽃놀이를 기대하세요.",
+            "alt_text": "스와호 불꽃축제가 열리는 스와호 전경 이미지"
+          },
+          {
+            "title": "개최 시간",
+            "content": "행사는 19시부터 시작됩니다. 해가 진 후, 밤하늘을 아름답게 수놓을 불꽃놀이를 즐겨보세요.",
+            "alt_text": "불꽃축제 시작 시간을 알리는 이미지"
+          },
+          {
+            "title": "티켓 정보",
+            "content": "관람 티켓 2차 추첨 판매가 7월 13일부터 시작됩니다. 놓치기 전에 서둘러 신청하세요!",
+            "alt_text": "스와호 불꽃축제 티켓 판매 정보를 알리는 이미지"
+          },
+          {
+            "title": "주목 포인트",
+            "content": "산에 반향하는 대형 스타마인 등 박진감 넘치는 불꽃놀이가 펼쳐집니다. 날씨가 좋으면 개최되니, 날씨 예보를 꼭 확인하세요!",
+            "alt_text": "불꽃놀이의 웅장함을 보여주는 이미지"
+          }
+        ],
+        "caption": "일본 여름밤의 하이라이트! 🎆 8월 15일, 나가노현 스와호에서 펼쳐지는 제78회 스와호제 호상 불꽃대회 소식을 전해드려요!\n\n산에 울려 퍼지는 듯한 웅장한 스타마인을 포함한 다채로운 불꽃이 호수 위를 화려하게 수놓을 예정입니다.\n\n✨ 8월 15일, 19시부터 시작\n📍 나가노현 스와시 호반공원 앞 스와호\n🎟️ 7월 13일부터 2차 티켓 추첨 판매 시작!\n\n올여름, 잊지 못할 추억을 스와호 불꽃축제에서 만들어보세요! 💖\n\n#일본여행 #플라잉재팬 #스와호불꽃축제 #나가노여행 #일본여름축제 #불꽃놀이 #여행정보 #축제정보 #일본축제 #여름휴가 #일본여행필수 #여행팁 #일본이벤트 #여행스타그램 #플라잉재팬이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스와호불꽃축제",
+          "#나가노여행",
+          "#일본여름축제",
+          "#불꽃놀이",
+          "#여행정보",
+          "#축제정보",
+          "#일본축제",
+          "#여름휴가",
+          "#일본여행필수",
+          "#여행팁",
+          "#일본이벤트",
+          "#여행스타그램",
+          "#플라잉재팬이벤트"
+        ],
+        "alt_texts": [
+          "스와호 불꽃축제 개최 날짜를 강조하는 이미지",
+          "스와호 불꽃축제가 열리는 스와호 전경 이미지",
+          "불꽃축제 시작 시간을 알리는 이미지",
+          "스와호 불꽃축제 티켓 판매 정보를 알리는 이미지",
+          "불꽃놀이의 웅장함을 보여주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 스와호 불꽃축제에 대한 관심 증가 및 티켓 구매 문의 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 장소, 티켓 판매 정보까지 상세하게 제공하여 실질적인 여행 계획에 도움을 줌",
+      "image": {
+        "keyword": "Suwako Lake fireworks festival, Japan summer festival, Nagano travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Suwako-Lake-fireworks-festival,-Japan-summer-festival,-Nagano-travel",
+        "pexels_url": "https://www.pexels.com/search/Suwako%20Lake%20fireworks%20festival,%20Japan%20summer%20festival,%20Nagano%20travel/"
+      }
+    },
+    {
+      "id": "plan_c3f0e4f4",
+      "created_at": "2026-07-08T03:36:30.206885",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、「ポケモン」新作UTは7月24日発売。懐かしのドット絵デザイン全8種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123380.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬 덕후라면 놓칠 수 없는 유니클로 x 포켓몬 콜라보 UT!"
+      },
+      "content": {
+        "thumbnail_title": "✨유니클로X포켓몬 UT 7/24 출시!",
+        "cards": [
+          {
+            "title": "✨출시일",
+            "content": "포켓몬 30주년 기념 유니클로 UT 두 번째 컬렉션이 2024년 7월 24일에 출시됩니다.",
+            "alt_text": "유니클로 매장 전경"
+          },
+          {
+            "title": "✨디자인",
+            "content": "이번 컬렉션은 추억의 도트 디자인을 담은 총 8가지의 다양한 포켓몬 UT로 구성될 예정입니다.",
+            "alt_text": "포켓몬 도트 디자인 UT 이미지"
+          },
+          {
+            "title": "✨구매 팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 출시 당일 또는 직후 매장 방문을 추천합니다. 온라인 스토어도 확인해보세요!",
+            "alt_text": "유니클로 온라인 스토어 화면"
+          },
+          {
+            "title": "✨가격 정보",
+            "content": "일반 UT 가격은 1,500엔 (세전)으로 예상되며, 정확한 가격은 출시 시점에 유니클로 공식 홈페이지에서 확인 가능합니다.",
+            "alt_text": "유니클로 UT 가격표"
+          },
+          {
+            "title": "✨놓치지 마세요!",
+            "content": "일본 여행 중 유니클로에 들러 특별한 포켓몬 UT를 득템하세요! 여행 기념품으로도 최고입니다. 🎁",
+            "alt_text": "포켓몬 UT를 들고 있는 여행객"
+          }
+        ],
+        "caption": "포켓몬 팬 주목! 📣 유니클로에서 포켓몬 30주년 기념 UT 두 번째 컬렉션을 7월 24일에 출시합니다. 👾\n\n추억의 도트 디자인으로 돌아온 총 8가지 UT! 일본 여행 계획 중이라면 유니클로 매장에서 특별한 기념품을 겟하세요. 🛍️\n\n#일본쇼핑 #유니클로 #포켓몬 #UT",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#포켓몬",
+          "#포켓몬UT",
+          "#일본쇼핑",
+          "#일본기념품",
+          "#여행준비",
+          "#7월일본여행",
+          "#도쿄여행",
+          "#오사카여행",
+          "#일본득템",
+          "#여행스타그램",
+          "#패션스타그램",
+          "#콜라보"
+        ],
+        "alt_texts": [
+          "유니클로 매장 전경",
+          "포켓몬 도트 디자인 UT 이미지",
+          "유니클로 온라인 스토어 화면",
+          "유니클로 UT 가격표",
+          "포켓몬 UT를 들고 있는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 포켓몬 팬, 유니클로 애용객, 최신 트렌드에 민감한 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의, 정보 공유 / 이 콘텐츠의 강점: 시의성 있는 신상품 출시 정보, 명확한 구매 가이드 제공",
+      "image": {
+        "keyword": "Uniqlo Pokemon UT Japan release date design shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Pokemon-UT-Japan-release-date-design-shopping",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Pokemon%20UT%20Japan%20release%20date%20design%20shopping/"
+      }
+    },
     {
       "id": "plan_dff1c3c3",
       "created_at": "2026-07-08T00:11:21.809681",
@@ -923,160 +1077,6 @@
         "keyword": "Yodobashi Camera Ikebukuro food court, LINKS DINING Yodobashi Yokocho",
         "unsplash_url": "https://unsplash.com/s/photos/Yodobashi-Camera-Ikebukuro-food-court,-LINKS-DINING-Yodobashi-Yokocho",
         "pexels_url": "https://www.pexels.com/search/Yodobashi%20Camera%20Ikebukuro%20food%20court,%20LINKS%20DINING%20Yodobashi%20Yokocho/"
-      }
-    },
-    {
-      "id": "plan_4131fe1f",
-      "created_at": "2026-07-04T03:56:05.909453",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "中部国際空港、「クオリアラウンジ」を9月30日で閉鎖",
-        "url": "https://www.traicy.com/posts/20260704375278/",
-        "date": "Fri, 03 Jul 2026 23:15:08 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수! 중부 국제공항 라운지 변경 정보, 미리 알고 헛걸음 방지하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️센트레아 공항 라운지 9/30까지만!",
-        "cards": [
-          {
-            "title": "라운지 폐쇄",
-            "content": "나고야 중부 국제공항(센트레아)의 'クオリアラウンジ(쿠오리아 라운지)'가 2024년 9월 30일까지만 운영됩니다. 공항 내 라운지 리뉴얼 공사 때문입니다.",
-            "alt_text": "일본 나고야 중부 국제공항(센트레아) 전경"
-          },
-          {
-            "title": "새로운 라운지",
-            "content": "10월 1일부터는 'プレミアムラウンジ セントレア(프리미엄 라운지 센트레아)'와 '第2プレミアムラウンジ セントレア(제2 프리미엄 라운지 센트레아)'를 이용하실 수 있습니다.",
-            "alt_text": "프리미엄 라운지 센트레아 내부 이미지"
-          },
-          {
-            "title": "이용 가능한 라운지",
-            "content": "기존 '쿠오리아 라운지'를 이용하려던 여행객들은 10월 1일 이후 '프리미엄 라운지 센트레아' 또는 '제2 프리미엄 라운지 센트레아'로 방문 계획을 변경해야 합니다.",
-            "alt_text": "센트레아 공항 안내 사인"
-          },
-          {
-            "title": "미리 확인 필수!",
-            "content": "여행 계획 중 센트레아 공항 이용 예정이라면, 변경된 라운지 정보를 미리 확인하여 공항에서 혼란을 겪지 않도록 주의하세요.",
-            "alt_text": "여행객이 공항에서 정보를 확인하는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "라운지 운영 시간, 이용 조건 등은 각 라운지별로 다를 수 있으니, 방문 전 공식 홈페이지를 통해 최신 정보를 확인하는 것을 추천합니다.",
-            "alt_text": "스마트폰으로 공항 정보를 검색하는 모습"
-          }
-        ],
-        "caption": "✈️ 나고야 중부 국제공항(센트레아) 이용 예정이라면 주목! ✈️\n\n기존 '쿠오리아 라운지'가 2024년 9월 30일까지만 운영됩니다. 😢\n10월 1일부터는 '프리미엄 라운지 센트레아'와 '제2 프리미엄 라운지 센트레아'를 이용하실 수 있어요.\n\n공항 이용 전, 변경된 라운지 정보를 꼭 확인하시고 헛걸음하는 일 없도록 미리 계획 세우세요! ✅\n\n#일본여행 #나고야여행 #센트레아공항 #공항정보 #라운지 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나고야여행",
-          "#센트레아공항",
-          "#중부국제공항",
-          "#공항정보",
-          "#라운지",
-          "#여행준비",
-          "#일본생활",
-          "#여행꿀팁",
-          "#여행필수",
-          "#일본",
-          "#여행스타그램",
-          "#나고야",
-          "#일본항공"
-        ],
-        "alt_texts": [
-          "일본 나고야 중부 국제공항(센트레아) 전경",
-          "프리미엄 라운지 센트레아 내부 이미지",
-          "센트레아 공항 안내 사인",
-          "여행객이 공항에서 정보를 확인하는 모습",
-          "스마트폰으로 공항 정보를 검색하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 나고야 중부 국제공항을 이용하는 한국인 여행객 / 최적 게시 시간: 여행 준비가 활발한 저녁 시간(19시~21시) 또는 주말 오전 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 일본 여행 직전 필수 정보 제공으로 실질적 도움, 시기성 강조",
-      "image": {
-        "keyword": "Nagoya Chubu Centrair International Airport lounge closure",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagoya-Chubu-Centrair-International-Airport-lounge-closure",
-        "pexels_url": "https://www.pexels.com/search/Nagoya%20Chubu%20Centrair%20International%20Airport%20lounge%20closure/"
-      }
-    },
-    {
-      "id": "plan_4bb82d07",
-      "created_at": "2026-07-04T03:55:50.895239",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "佐野勇斗ら、アドリブに大苦戦？　「トイ・ストーリー5」公開記念トークショーに出演",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2122404.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드 특별 이벤트! 토이 스토리 팬이라면 놓칠 수 없는 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니랜드 7/3 특별 파티✨",
-        "cards": [
-          {
-            "title": "특별 파티 개최",
-            "content": "도쿄 디즈니랜드에서 7월 3일, '토이 스토리 5' 개봉 기념 특별 이벤트가 열립니다. 낮 12시부터 오후 3시까지, 파크를 통째로 빌려 즐기는 프라이빗 파티입니다.",
-            "alt_text": "도쿄 디즈니랜드 풍경"
-          },
-          {
-            "title": "참여 대상",
-            "content": "이 특별 영업은 '토이 스토리 5'의 개봉을 기념하는 'ファンタイム・ウィズ・トイ・ストーリー5' 프라이빗 이브닝 파티의 일부로 진행됩니다. 이벤트 참여 관련 자세한 내용은 공식 발표를 기다려주세요.",
-            "alt_text": "토이 스토리 캐릭터 이미지"
-          },
-          {
-            "title": "티켓 정보",
-            "content": "현재 티켓 가격 및 구매 방법에 대한 구체적인 정보는 공개되지 않았습니다. 공식 홈페이지를 통해 업데이트되는 정보를 주시해야 합니다.",
-            "alt_text": "디즈니랜드 티켓 이미지"
-          },
-          {
-            "title": "예상 이벤트",
-            "content": "토이 스토리 테마의 특별 공연, 캐릭터 그리팅, 포토존 등 다양한 즐길 거리가 마련될 것으로 예상됩니다.",
-            "alt_text": "디즈니랜드 퍼레이드 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "티켓은 매우 한정적일 가능성이 높으니, 관심 있다면 도쿄 디즈니랜드 공식 홈페이지를 수시로 확인하고 빠르게 예약하는 것이 중요합니다. 7월 초 일본 여행 계획 중이라면 필수 체크!",
-            "alt_text": "디즈니랜드 지도 이미지"
-          }
-        ],
-        "caption": "💖디즈니랜드 7월 3일, 토이 스토리 팬들을 위한 특별한 밤!💖\n'토이 스토리 5' 개봉 기념, 도쿄 디즈니랜드에서 낮 12시부터 오후 3시까지 파크 전체를 빌려 즐기는 프라이빗 이브닝 파티가 열립니다! 🤩\n\n티켓 정보는 곧 업데이트될 예정이니, 공식 홈페이지를 주목해주세요! 7월 초 일본 여행 계획이라면 절대 놓치지 마세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#토이스토리5",
-          "#디즈니랜드",
-          "#일본",
-          "#여행정보",
-          "#이벤트",
-          "#도쿄",
-          "#여행",
-          "#일본여행정보",
-          "#디즈니",
-          "#7월여행",
-          "#프라이빗파티",
-          "#놓치면후회"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 풍경",
-          "토이 스토리 캐릭터 이미지",
-          "디즈니랜드 티켓 이미지",
-          "디즈니랜드 퍼레이드 이미지",
-          "디즈니랜드 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문할 예정인 한국인 여행객, 특히 토이 스토리 팬 / 최적 게시 시간: 오후 6시~8시 (여행 계획을 세우는 저녁 시간대) / 기대 반응: 높은 관심과 정보 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 날짜와 이벤트 내용, 희소성 있는 정보 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland, Toy Story 5, Private Evening Party, July 3rd, Disney characters",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Toy-Story-5,-Private-Evening-Party,-July-3rd,-Disney-characters",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Toy%20Story%205,%20Private%20Evening%20Party,%20July%203rd,%20Disney%20characters/"
       }
     }
   ]
