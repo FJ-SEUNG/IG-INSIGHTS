@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-07T04:11:39.880137",
+  "last_updated": "2026-07-08T00:11:23.809880",
   "plans": [
+    {
+      "id": "plan_dff1c3c3",
+      "created_at": "2026-07-08T00:11:21.809681",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、3号機目「ポケモンジェット 青」は“みずタイプ”。国内6空港で「ポケモン GO」連動企画もスタート",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123233.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 만나는 특별한 포켓몬 비행기를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 포켓몬 제트 ✈️",
+        "cards": [
+          {
+            "title": "새로운 포켓몬 제트",
+            "content": "ANA의 30주년 특별 기획 3호기, '포켓몬 제트 청' 디자인이 공개되었어요. 12월부터 일본 국내선 정기편으로 운항 시작합니다!",
+            "alt_text": "ANA 포켓몬 제트 청 비행기 이미지"
+          },
+          {
+            "title": "미즈 타입 공개",
+            "content": "'포켓몬 제트 청'은 시원한 '미즈 타입'을 테마로 디자인되어, 일본 하늘을 누빌 예정이에요. 어떤 모습일지 기대되지 않나요?",
+            "alt_text": "포켓몬 제트 청의 미즈 타입 디자인 상세 이미지"
+          },
+          {
+            "title": "포켓몬 GO 연동",
+            "content": "일본 국내 6개 공항에서는 '포켓몬 GO'와 연동되는 특별 기획도 함께 시작된다고 해요. 여행 중 특별한 경험을 더해보세요!",
+            "alt_text": "포켓몬 GO 로고와 일본 공항 이미지"
+          },
+          {
+            "title": "ANA 국내선",
+            "content": "12월 이후 ANA 국내선 정기편을 이용하시는 분들은 '포켓몬 제트 청'을 만날 확률이 높습니다. 운항 스케줄은 ANA 홈페이지에서 확인 가능해요.",
+            "alt_text": "ANA 항공기 이륙하는 모습"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "일본 여행 중 '포켓몬 제트 청'을 발견한다면 최고의 행운! 멋진 사진과 함께 특별한 추억을 남겨보세요. 탑승객 대상 특별 이벤트도 기대해 볼 만합니다.",
+            "alt_text": "비행기 창밖으로 보이는 멋진 풍경 이미지"
+          }
+        ],
+        "caption": "✈️ ANA에서 공개한 30주년 기념 '포켓몬 제트 청'!\n12월부터 일본 국내선에서 만날 수 있어요. 💙\n'미즈 타입' 테마의 특별한 비행기 디자인과 함께,\n일본 6개 공항에서는 '포켓몬 GO' 연동 이벤트도 진행된다고 합니다!\n일본 여행 중 이 특별한 비행기를 만난다면, 잊지 못할 추억이 될 거예요! ✨\n\n#일본여행 #ANA #포켓몬제트 #포켓몬GO #일본항공 #특별한경험 #여행꿀팁 #일본국내선 #비행기 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#포켓몬제트",
+          "#포켓몬GO",
+          "#일본항공",
+          "#특별한경험",
+          "#여행꿀팁",
+          "#일본국내선",
+          "#비행기",
+          "#여행스타그램",
+          "#일본",
+          "#일본여행정보",
+          "#여행",
+          "#ANA항공"
+        ],
+        "alt_texts": [
+          "ANA 포켓몬 제트 청 비행기 이미지",
+          "포켓몬 제트 청의 미즈 타입 디자인 상세 이미지",
+          "포켓몬 GO 로고와 일본 공항 이미지",
+          "ANA 항공기 이륙하는 모습",
+          "비행기 창밖으로 보이는 멋진 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 관심 있는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 관심과 공유, '나도 보고 싶다'는 댓글 / 이 콘텐츠의 강점: 희소성 있는 특별한 항공기 정보, 포켓몬 GO 연동 이벤트로 재미 요소 추가",
+      "image": {
+        "keyword": "ANA Pokemon Jet Blue, Japan domestic flight, Pokemon GO event",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-Pokemon-Jet-Blue,-Japan-domestic-flight,-Pokemon-GO-event",
+        "pexels_url": "https://www.pexels.com/search/ANA%20Pokemon%20Jet%20Blue,%20Japan%20domestic%20flight,%20Pokemon%20GO%20event/"
+      }
+    },
+    {
+      "id": "plan_da7eb83c",
+      "created_at": "2026-07-08T00:11:12.518357",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "第6回川口花火大会、11月14日開催。有料観覧席購入者だけのグルメエリアを設定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123195.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을밤을 수놓을 화려한 불꽃축제 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨11월 일본 불꽃축제!",
+        "cards": [
+          {
+            "title": "개최 정보",
+            "content": "제6회 가와구치 불꽃대회가 11월 14일에 개최됩니다. 2023년 가을, 일본에서 열리는 특별한 불꽃 축제를 즐겨보세요.",
+            "alt_text": "가을밤 하늘을 아름답게 수놓는 불꽃 사진"
+          },
+          {
+            "title": "장소",
+            "content": "불꽃 축제는 아라카와 운동공원 (사이타마현 가와구치시 아라카와초)에서 열립니다. 도쿄 근교에서 접근하기 좋은 위치입니다.",
+            "alt_text": "축제가 열리는 아라카와 운동공원 지도"
+          },
+          {
+            "title": "기념 행사",
+            "content": "가와구치 상공회의소 창립 90주년, 청년부 40주년, 여성회 30주년을 기념하는 특별한 행사입니다.",
+            "alt_text": "축하 케이크와 함께 찍은 기념 사진"
+          },
+          {
+            "title": "특별 구역",
+            "content": "유료 관람석 구매자만을 위한 특별한 미식가 구역이 마련됩니다. 맛있는 음식과 함께 불꽃을 감상하세요.",
+            "alt_text": "다양한 음식이 준비된 푸드트럭 사진"
+          },
+          {
+            "title": "팁 & 주의사항",
+            "content": "11월 중순이라 밤에는 쌀쌀할 수 있으니 따뜻한 옷차림을 준비하세요. 유료 관람석은 미리 예매하는 것이 좋습니다.",
+            "alt_text": "따뜻한 음료를 들고 있는 사람"
+          }
+        ],
+        "caption": "🔥 11월 일본 여행 예정이라면 주목! 🔥\n\n가을밤을 화려하게 장식할 '제6회 가와구치 불꽃대회'가 11월 14일에 개최됩니다!\n\n가와구치 상공회의소 창립 90주년 등을 기념하여 열리는 이번 축제는 아라카와 운동공원에서 펼쳐집니다.\n\n특히 유료 관람석 구매자 전용 '미식가 구역'이 마련되어 맛있는 음식과 함께 불꽃을 더욱 특별하게 즐길 수 있어요!\n\n쌀쌀한 가을밤, 잊지 못할 추억을 만들어 보세요!\n\n#가와구치불꽃대회 #일본불꽃축제 #11월일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#가와구치불꽃대회",
+          "#일본축제",
+          "#11월일본여행",
+          "#일본가을",
+          "#불꽃놀이",
+          "#도쿄근교",
+          "#사이타마",
+          "#일본이벤트",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본문화"
+        ],
+        "alt_texts": [
+          "가을밤 하늘을 아름답게 수놓는 불꽃 사진",
+          "축제가 열리는 아라카와 운동공원 지도",
+          "축하 케이크와 함께 찍은 기념 사진",
+          "다양한 음식이 준비된 푸드트럭 사진",
+          "따뜻한 음료를 들고 있는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 10대 후반 ~ 40대 한국인 일본 여행객 / 최적 게시 시간: 평일 오후 6시~8시 (퇴근 후 및 저녁 시간) / 기대 반응: 정보 공유 및 저장, 이벤트 참여 의사 표명 / 이 콘텐츠의 강점: 구체적인 날짜, 장소, 특별 혜택 정보 제공으로 즉각적인 여행 계획 반영 가능",
+      "image": {
+        "keyword": "Kawaguchi fireworks festival, November Japan, Saitama event, Fireworks display, Japanese autumn festival, Food area, Travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/Kawaguchi-fireworks-festival,-November-Japan,-Saitama-event,-Fireworks-display,-Japanese-autumn-festival,-Food-area,-Travel-information",
+        "pexels_url": "https://www.pexels.com/search/Kawaguchi%20fireworks%20festival,%20November%20Japan,%20Saitama%20event,%20Fireworks%20display,%20Japanese%20autumn%20festival,%20Food%20area,%20Travel%20information/"
+      }
+    },
     {
       "id": "plan_7f683d85",
       "created_at": "2026-07-07T04:11:37.879919",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disneyland, Toy Story 5, Private Evening Party, July 3rd, Disney characters",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Toy-Story-5,-Private-Evening-Party,-July-3rd,-Disney-characters",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Toy%20Story%205,%20Private%20Evening%20Party,%20July%203rd,%20Disney%20characters/"
-      }
-    },
-    {
-      "id": "plan_13f79509",
-      "created_at": "2026-07-04T00:16:45.372218",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "さんふらわあトラベル、片道フェリー運賃と船内の夕朝食付きプラン「まる得パック」。大阪～志布志1万6000円から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2122274.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카-가고시마 구간 페리 특가! 1박 2일 알찬 여행 준비하세요! 🚢"
-      },
-      "content": {
-        "thumbnail_title": "🚢 오사카↔가고시마 1.6만부터! 꿀딜",
-        "cards": [
-          {
-            "title": "기간 한정 특가",
-            "content": "오사카에서 志布志(시부시)로 향하는 'まる得パック' 플랜이 16,000엔부터 시작해요. 7월 17일부터 8월 2일까지 출발하는 일정에 적용됩니다.",
-            "alt_text": "페리 표와 함께 할인 가격이 표시된 이미지"
-          },
-          {
-            "title": "포함 내역 확인",
-            "content": "편도 페리 운임에 선내 석식과 조식이 포함된 알찬 구성이에요. 1박 2일 짧은 여행에도 부담 없이 이용 가능합니다.",
-            "alt_text": "페리 안에서 식사하는 모습 또는 객실 내부 이미지"
-          },
-          {
-            "title": "예약 마감 임박",
-            "content": "각 출발일 기준 5영업일 전까지만 신청 가능하니, 여름 휴가 계획에 있다면 서둘러야 해요!",
-            "alt_text": "달력에 표시된 마감일 또는 시계 이미지"
-          },
-          {
-            "title": "페리로 즐기는 여행",
-            "content": "뱃멀미 걱정은 NO! 넓은 객실과 편의시설을 갖춘 쾌적한 페리에서 휴식을 취하며 일본 남쪽의 매력을 만끽해보세요.",
-            "alt_text": "넓고 깨끗한 페리 객실 또는 휴게 공간 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "본격적인 여름 시즌이라 예약이 빨리 마감될 수 있어요. 출발 1~2주 전에는 예약하는 것을 추천합니다. 志布志(시부시) 도착 후 렌터카 이용 시 편리해요.",
-            "alt_text": "지도 앱에서 志布志(시부시)를 검색하는 모습 또는 렌터카 이미지"
-          }
-        ],
-        "caption": "✈️ 오사카에서 가고시마까지, 페리로 떠나는 알찬 여행! \n\n🚢 'まる得パック' 플랜으로 편도 16,000엔부터! \n✅ 석식 & 조식 포함!\n📅 7/17~8/2 출발 한정, 5영업일 전 마감!\n\n여름 휴가, 색다른 방법으로 일본 남쪽을 경험해보세요! \n지금 바로 예약하고 잊지 못할 추억을 만들어보세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본페리",
-          "#오사카여행",
-          "#가고시마여행",
-          "#시부시",
-          "#일본교통",
-          "#일본가성비여행",
-          "#여름휴가",
-          "#일본자유여행",
-          "#여행정보",
-          "#해외여행",
-          "#일본",
-          "#여행스타그램",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "페리 표와 함께 할인 가격이 표시된 이미지",
-          "페리 안에서 식사하는 모습 또는 객실 내부 이미지",
-          "달력에 표시된 마감일 또는 시계 이미지",
-          "넓고 깨끗한 페리 객실 또는 휴게 공간 이미지",
-          "지도 앱에서 志布志(시부시)를 검색하는 모습 또는 렌터카 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 휴가 시즌 일본 남부 지역 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 포함 내역 정보로 즉각적인 여행 계획 수립 지원",
-      "image": {
-        "keyword": "Japan ferry, Osaka to Kagoshima, discount ferry ticket, travel package, summer vacation",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Osaka-to-Kagoshima,-discount-ferry-ticket,-travel-package,-summer-vacation",
-        "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Osaka%20to%20Kagoshima,%20discount%20ferry%20ticket,%20travel%20package,%20summer%20vacation/"
-      }
-    },
-    {
-      "id": "plan_641896ab",
-      "created_at": "2026-07-03T04:02:09.638928",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "無印良品、夏の「良いね祭」チラシ公開。ごはんにかける10％オフ、さらっと綿インナー15％オフなど期間限定価格に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2122089.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 쇼핑 필수템 무인양품, 여름맞이 역대급 할인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "무인양품 🛍️ 여름 할인 꿀팁!",
-        "cards": [
-          {
-            "title": "할인 기간 확인!",
-            "content": "무인양품 여름 '좋아요 축제'가 7월 13일까지 진행돼요. 온라인 스토어는 7월 13일 오전 10시까지니 서둘러야 해요!",
-            "alt_text": "무인양품 여름 할인 기간 안내"
-          },
-          {
-            "title": "식품 10% OFF",
-            "content": "'밥에 거는' 시리즈 등 인기 식품들을 10% 할인된 가격으로 만날 수 있어요. 여행 중 간편하게 즐길 수 있는 메뉴들 놓치지 마세요!",
-            "alt_text": "무인양품 식품 할인 안내"
-          },
-          {
-            "title": "인너웨어 15% OFF",
-            "content": "여름철 필수템인 시원하고 부드러운 면 소재 이너웨어가 15% 할인 중이에요. 여행 가서 입을 옷 쇼핑 찬스!",
-            "alt_text": "무인양품 이너웨어 할인 안내"
-          },
-          {
-            "title": "기간 한정 가격!",
-            "content": "이 모든 할인 혜택은 기간 한정으로 진행되니, 일본 여행 중이라면 꼭 들러서 득템하세요!",
-            "alt_text": "무인양품 할인 기간 한정 문구"
-          },
-          {
-            "title": "쇼핑 리스트 UP!",
-            "content": "여행 기념품이나 현지에서 필요한 물건들을 합리적인 가격에 구매할 수 있는 절호의 기회! 무인양품 쇼핑 리스트 미리 준비해 보세요.",
-            "alt_text": "무인양품 쇼핑 아이템 추천"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수 코스, 무인양품! 여름 '좋아요 축제'가 7월 13일까지 진행된다는 소식! ✨\n\n✨ '밥에 거는' 시리즈 등 식품 10% 할인\n✨ 시원한 면 소재 이너웨어 15% 할인\n\n여행 중 쇼핑 리스트에 무인양품 추가하고 알뜰하게 득템하세요! 🛒\n\n#일본여행 #무인양품 #일본쇼핑 #득템찬스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무인양품",
-          "#일본쇼핑",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본직구",
-          "#무인양품할인",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#쇼핑스타그램",
-          "#일본생활",
-          "#일본자유여행",
-          "#여행정보",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "무인양품 여름 할인 기간 안내",
-          "무인양품 식품 할인 안내",
-          "무인양품 이너웨어 할인 안내",
-          "무인양품 할인 기간 한정 문구",
-          "무인양품 쇼핑 아이템 추천"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 할인 정보에 대한 관심 폭발, 쇼핑 계획 관련 댓글 / 이 콘텐츠의 강점: 실질적인 할인 정보와 기간 명시로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "MUJI Japan summer sale",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI-Japan-summer-sale",
-        "pexels_url": "https://www.pexels.com/search/MUJI%20Japan%20summer%20sale/"
       }
     }
   ]
