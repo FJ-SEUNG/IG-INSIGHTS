@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-08T03:36:42.431900",
+  "last_updated": "2026-07-09T00:20:29.542431",
   "plans": [
+    {
+      "id": "plan_165cbc6e",
+      "created_at": "2026-07-09T00:20:27.542259",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ワークマン、猛暑に強い「高機能Tシャツ」が1000円以下。上質綿の冷感シャツ、80万枚完売の通気性モデルほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123585.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지에서 1000엔 이하로 구매 가능한 가성비 최고 기능성 의류 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨1000엔 이하! 갓성비 꿀템✨",
+        "cards": [
+          {
+            "title": "워크맨 신상 T",
+            "content": "일본 워크맨에서 2026년 여름을 겨냥한 '고기능 T셔츠'를 전국 매장에서 판매 중입니다. 1000엔 이하의 놀라운 가격으로 만나볼 수 있어요.",
+            "alt_text": "일본 워크맨 매장에서 판매 중인 기능성 티셔츠 이미지"
+          },
+          {
+            "title": "80만 장 완판!",
+            "content": "특히 통기성이 뛰어난 모델은 이미 80만 장이 완판될 정도로 인기가 많습니다. 더위를 많이 타는 분들에게 필수템이 될 거예요.",
+            "alt_text": "통기성이 좋은 기능성 티셔츠를 착용한 모습 이미지"
+          },
+          {
+            "title": "상쾌함 유지",
+            "content": "일본 현지의 뜨거운 여름 날씨에도 시원함을 유지할 수 있도록 설계된 고기능성 의류입니다. 땀 흡수 및 건조 기능이 뛰어난 소재를 사용했습니다.",
+            "alt_text": "기능성 티셔츠 소재의 시원함을 보여주는 이미지"
+          },
+          {
+            "title": "프로 기술 적용",
+            "content": "프로들이 사용하는 기술을 캐주얼 웨어에 적용하여 퀄리티는 높이고 가격은 합리적으로 낮췄습니다. 활동적인 여행에 안성맞춤입니다.",
+            "alt_text": "활동적인 야외 활동 중인 사람의 모습 이미지"
+          },
+          {
+            "title": "여행 준비 꿀팁",
+            "content": "일본 여행 시 짐을 줄이고 싶다면, 현지에서 저렴하게 구매 가능한 워크맨의 고기능성 티셔츠를 활용해 보세요. 가볍고 빠르게 건조되어 여행용으로 제격입니다.",
+            "alt_text": "여행 가방에 옷을 정리하는 모습 이미지"
+          }
+        ],
+        "caption": "🔥일본 여행 필수템! 1000엔 이하 갓성비 기능성 티셔츠🔥\n\n일본 워크맨에서 2026년 여름을 대비한 '고기능 T셔츠'를 출시했어요! 🤩\n\n무더운 일본 날씨에도 시원함을 유지시켜주는 통기성 최고 모델은 무려 80만 장 완판! 👏\n\n프로 기술이 적용된 고품질 의류를 1000엔 이하로 득템할 기회, 놓치지 마세요! 💯\n\n#일본여행 #워크맨 #가성비템 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#일본꿀템",
+          "#워크맨",
+          "#고기능성티셔츠",
+          "#여행준비",
+          "#일본직구",
+          "#여름여행",
+          "#가성비쇼핑",
+          "#일본현지",
+          "#일본생활",
+          "#일본여행팁",
+          "#일본정보",
+          "#갓성비"
+        ],
+        "alt_texts": [
+          "일본 워크맨 매장에서 판매 중인 기능성 티셔츠 이미지",
+          "통기성이 좋은 기능성 티셔츠를 착용한 모습 이미지",
+          "기능성 티셔츠 소재의 시원함을 보여주는 이미지",
+          "활동적인 야외 활동 중인 사람의 모습 이미지",
+          "여행 가방에 옷을 정리하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 (퇴근 후/저녁 시간) / 기대 반응: 정보성 콘텐츠에 대한 높은 만족도, 공유 및 저장율 증가 / 이 콘텐츠의 강점: 저렴한 가격과 높은 기능성을 갖춘 실용적인 아이템 소개로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "Japanese convenience store, functional t-shirt, affordable fashion, summer travel essentials, outdoor clothing, Japanese brand, budget shopping, travel hack, breathable fabric, quick dry",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-convenience-store,-functional-t-shirt,-affordable-fashion,-summer-travel-essentials,-outdoor-clothing,-Japanese-brand,-budget-shopping,-travel-hack,-breathable-fabric,-quick-dry",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20convenience%20store,%20functional%20t-shirt,%20affordable%20fashion,%20summer%20travel%20essentials,%20outdoor%20clothing,%20Japanese%20brand,%20budget%20shopping,%20travel%20hack,%20breathable%20fabric,%20quick%20dry/"
+      }
+    },
+    {
+      "id": "plan_3146a5e6",
+      "created_at": "2026-07-09T00:20:16.276069",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「第78回鎌倉花火大会」交通規制は18時30分から。若宮大路や長谷エリアで車両通行止め",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123630.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여름 밤, 낭만 가득한 가마쿠라 불꽃축제 놓치지 마세요! 🎆"
+      },
+      "content": {
+        "thumbnail_title": "🎆가마쿠라 불꽃축제 D-day!🔥",
+        "cards": [
+          {
+            "title": "축제 정보",
+            "content": "제78회 가마쿠라 불꽃축제가 7월 10일 19시 20분부터 20시 10분까지 개최됩니다.",
+            "alt_text": "가마쿠라 불꽃축제 안내 포스터"
+          },
+          {
+            "title": "화려한 불꽃",
+            "content": "유이가하마 해안과 자이모쿠자 해안 일대에서 약 2,500발의 불꽃이 밤하늘을 수놓을 예정입니다.",
+            "alt_text": "불꽃이 터지는 밤하늘 모습"
+          },
+          {
+            "title": "명물 불꽃",
+            "content": "특히 바다 위에서 부채꼴 모양으로 펼쳐지는 명물인 '수중 불꽃'도 감상할 수 있습니다.",
+            "alt_text": "물 위에서 펼쳐지는 수중 불꽃 사진"
+          },
+          {
+            "title": "교통 통제",
+            "content": "축제 당일 18시 30분부터 와카미야 대로와 하세 지역에서 차량 통행이 전면 통제됩니다.",
+            "alt_text": "교통 통제 표지판"
+          },
+          {
+            "title": "꿀팁",
+            "content": "대중교통 이용 시 혼잡할 수 있으니, 미리미리 이동 계획을 세우고 여유롭게 출발하는 것을 추천합니다.",
+            "alt_text": "일본 기차역 플랫폼에서 기다리는 사람들"
+          }
+        ],
+        "caption": "일본 가마쿠라에서 펼쳐지는 여름 밤의 낭만! ✨ 제78회 가마쿠라 불꽃축제가 7월 10일 19시 20분에 시작됩니다. 약 2,500발의 화려한 불꽃과 함께 바다 위 명물 '수중 불꽃'까지! 🎆\n\n⚠️교통 통제: 18시 30분부터 와카미야 대로, 하세 지역 차량 통제\n\n올여름, 잊지 못할 추억을 가마쿠라에서 만들어보세요! 💙\n\n#일본여행 #가마쿠라 #불꽃축제 #일본축제 #여름여행 #여행정보 #플라잉재팬 #일본가볼만한곳 #일본여름 #불꽃놀이 #여행꿀팁 #일본여행준비 #가마쿠라여행 #일본이벤트 #7월여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#가마쿠라",
+          "#불꽃축제",
+          "#일본축제",
+          "#여름여행",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본여름",
+          "#불꽃놀이",
+          "#여행꿀팁",
+          "#일본여행준비",
+          "#가마쿠라여행",
+          "#일본이벤트",
+          "#7월여행"
+        ],
+        "alt_texts": [
+          "가마쿠라 불꽃축제 안내 포스터",
+          "불꽃이 터지는 밤하늘 모습",
+          "물 위에서 펼쳐지는 수중 불꽃 사진",
+          "교통 통제 표지판",
+          "일본 기차역 플랫폼에서 기다리는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 불꽃축제 정보에 대한 높은 관심과 참여 (댓글, 저장), 여행 계획에 반영 / 이 콘텐츠의 강점: 시기적절한 불꽃축제 정보와 함께 교통 통제 등 실질적인 여행 팁 제공",
+      "image": {
+        "keyword": "Kamakura fireworks festival, Japan summer festival, beach fireworks",
+        "unsplash_url": "https://unsplash.com/s/photos/Kamakura-fireworks-festival,-Japan-summer-festival,-beach-fireworks",
+        "pexels_url": "https://www.pexels.com/search/Kamakura%20fireworks%20festival,%20Japan%20summer%20festival,%20beach%20fireworks/"
+      }
+    },
     {
       "id": "plan_e32d925c",
       "created_at": "2026-07-08T03:36:40.431706",
@@ -923,160 +1077,6 @@
         "keyword": "hotel narita bbq fireworks tent",
         "unsplash_url": "https://unsplash.com/s/photos/hotel-narita-bbq-fireworks-tent",
         "pexels_url": "https://www.pexels.com/search/hotel%20narita%20bbq%20fireworks%20tent/"
-      }
-    },
-    {
-      "id": "plan_1912709f",
-      "created_at": "2026-07-05T00:13:17.192233",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京メトロ、「ちいかわ」探しの謎解き脱出ゲーム。限定デザイン24時間券も発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2122310.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "인기 캐릭터 '치이카와'와 함께하는 도쿄 메트로 탈출 게임! 특별한 추억 만들기 딱이에요!"
-      },
-      "content": {
-        "thumbnail_title": "✨치이카와 도쿄 메트로 탈출 게임✨",
-        "cards": [
-          {
-            "title": "이벤트 기간",
-            "content": "2024년 7월 24일부터 11월 3일까지 도쿄 메트로에서 '치이카와'와 함께하는 특별한 탈출 게임이 열립니다.",
-            "alt_text": "도쿄 메트로 탈출 게임 이벤트 기간 안내"
-          },
-          {
-            "title": "이벤트 내용",
-            "content": "인기 캐릭터 '치이카와'와 협업한 순회형 이벤트로, '치이카와,さがしてます。 『映画ちいかわ』東京メトロ脱出ゲーム'이라는 이름으로 진행됩니다.",
-            "alt_text": "치이카와와 함께하는 도쿄 메트로 탈출 게임 내용"
-          },
-          {
-            "title": "특별 24시간권",
-            "content": "이벤트 기간 동안 '치이카와' 디자인의 한정 24시간권도 함께 판매될 예정이니 놓치지 마세요!",
-            "alt_text": "치이카와 디자인 특별 24시간권"
-          },
-          {
-            "title": "참여 방법",
-            "content": "도쿄 메트로 지하철을 이용하며 숨겨진 단서를 찾아 탈출하는 방식으로, 영화 '극장판 치이카와: 인어 섬의 비밀' 개봉과 함께 진행됩니다.",
-            "alt_text": "도쿄 메트로 탈출 게임 참여 방법 설명"
-          },
-          {
-            "title": "꿀팁",
-            "content": "영화 관람 후 이벤트에 참여하면 더욱 즐거운 경험이 될 거예요! 아이들과 함께하는 가족 여행객에게도 강력 추천합니다.",
-            "alt_text": "치이카와 도쿄 메트로 탈출 게임 꿀팁"
-          }
-        ],
-        "caption": "💖 도쿄 여행 필수 코스 등장! 💖\n인기 캐릭터 '치이카와'와 함께하는 도쿄 메트로 탈출 게임이 7월 24일부터 11월 3일까지 개최돼요! 🕵️‍♀️\n특별한 24시간권도 놓치지 마세요! 🎟️\n친구, 연인, 가족과 함께 잊지 못할 추억을 만들어보세요! ✨\n\n#일본여행 #도쿄여행 #치이카와 #도쿄메트로 #탈출게임 #이벤트 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#도쿄여행",
-          "#치이카와",
-          "#도쿄메트로",
-          "#탈출게임",
-          "#이벤트",
-          "#여행정보",
-          "#일본이벤트",
-          "#일본축제",
-          "#여행스타그램",
-          "#플라잉재팬",
-          "#일본자유여행",
-          "#도쿄",
-          "#여행",
-          "#인스타여행"
-        ],
-        "alt_texts": [
-          "도쿄 메트로 탈출 게임 이벤트 기간 안내",
-          "치이카와와 함께하는 도쿄 메트로 탈출 게임 내용",
-          "치이카와 디자인 특별 24시간권",
-          "도쿄 메트로 탈출 게임 참여 방법 설명",
-          "치이카와 도쿄 메트로 탈출 게임 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 애니메이션 및 캐릭터 팬, 도쿄 여행 예정인 20-30대, 아이 동반 가족 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 높은 관심과 참여 문의, 이벤트 정보 공유 확산 / 이 콘텐츠의 강점: 인기 캐릭터 활용으로 인한 높은 화제성, 참여형 이벤트로 인한 재미 요소 강조",
-      "image": {
-        "keyword": "chiikawa tokyo metro escape game limited ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/chiikawa-tokyo-metro-escape-game-limited-ticket",
-        "pexels_url": "https://www.pexels.com/search/chiikawa%20tokyo%20metro%20escape%20game%20limited%20ticket/"
-      }
-    },
-    {
-      "id": "plan_af9703f7",
-      "created_at": "2026-07-05T00:13:07.331775",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ヨドバシ池袋で「油がたぎる」「藁で焼く」「炭火が燃える」！　大リニューアル・グルメ専門街を食べてきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2122429.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 쇼핑 성지 요도바시카메라에 역대급 맛집 거리 오픈!"
-      },
-      "content": {
-        "thumbnail_title": "池袋 요도바시 🍔🍜✨",
-        "cards": [
-          {
-            "title": "역대급 맛집 거리",
-            "content": "도쿄 최대 가전매장 '요도바시카메라 멀티미디어 이케부로' 8층에 'LINKS DINING＆淀橋横丁'가 새롭게 오픈했어요. 쇼핑과 함께 즐길 수 있는 거대한 식당가가 탄생했답니다!",
-            "alt_text": "요도바시카메라 이케부로 외관"
-          },
-          {
-            "title": "다양한 메뉴",
-            "content": "기름이 끓고, 짚불로 굽고, 숯불이 타오르는 등 다채로운 조리 방식의 음식들을 맛볼 수 있어요. 오픈 직후부터 엄청난 인기를 누리고 있답니다.",
-            "alt_text": "다양한 요리가 준비된 식당가 모습"
-          },
-          {
-            "title": "쇼핑 후 필수 코스",
-            "content": "가전제품 쇼핑 후 출출함을 달래기 딱 좋아요. 6월 30일 오픈 이후 많은 사람들이 방문하며 활기를 띠고 있습니다.",
-            "alt_text": "식사를 즐기는 사람들 모습"
-          },
-          {
-            "title": "이케부로 핫플레이스",
-            "content": "새롭게 떠오르는 이케부로의 핫플레이스에서 특별한 미식 경험을 놓치지 마세요. 앞으로도 계속해서 매력적인 가게들이 추가될 예정입니다.",
-            "alt_text": "새로운 식당가 내부 모습"
-          },
-          {
-            "title": "방문 팁",
-            "content": "주말이나 저녁 시간대에는 웨이팅이 길 수 있으니, 오픈 시간에 맞춰 방문하거나 식사 시간을 살짝 피하는 것을 추천해요. 인기 메뉴는 조기 소진될 수 있으니 서두르세요!",
-            "alt_text": "식당가 안내 표지판"
-          }
-        ],
-        "caption": "도쿄 이케부로 쇼핑 필수 코스 탄생! 🛍️✨\n\n국내 최대 규모 가전매장 요도바시카메라 이케부로점에 엄청난 규모의 미식 거리 'LINKS DINING＆淀橋横丁'가 오픈했어요! 🤩\n\n쇼핑 후 바로 즐길 수 있는 다채로운 메뉴와 활기찬 분위기까지! 🍜🔥\n\n지금 바로 이케부로에서 특별한 미식 여행을 시작해 보세요! ✈️🇯🇵\n\n#플라잉재팬 #일본여행 #도쿄여행 #이케부로 #요도바시카메라 #일본맛집 #도쿄맛집 #이케부로맛집 #LINKS_DINING #淀橋横丁 #일본쇼핑 #가전제품 #먹스타그램 #여행스타그램 #일본생활",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#이케부로",
-          "#요도바시카메라",
-          "#일본맛집",
-          "#도쿄맛집",
-          "#이케부로맛집",
-          "#LINKS_DINING",
-          "#淀橋横丁",
-          "#일본쇼핑",
-          "#가전제품",
-          "#먹스타그램",
-          "#여행스타그램",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "요도바시카메라 이케부로 외관",
-          "다양한 요리가 준비된 식당가 모습",
-          "식사를 즐기는 사람들 모습",
-          "새로운 식당가 내부 모습",
-          "식당가 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6시, 주말 오후 1시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 맛집 방문 인증 후기 / 이 콘텐츠의 강점: 최신 오픈 정보, 쇼핑과 미식을 결합한 매력적인 스토리텔링",
-      "image": {
-        "keyword": "Yodobashi Camera Ikebukuro food court, LINKS DINING Yodobashi Yokocho",
-        "unsplash_url": "https://unsplash.com/s/photos/Yodobashi-Camera-Ikebukuro-food-court,-LINKS-DINING-Yodobashi-Yokocho",
-        "pexels_url": "https://www.pexels.com/search/Yodobashi%20Camera%20Ikebukuro%20food%20court,%20LINKS%20DINING%20Yodobashi%20Yokocho/"
       }
     }
   ]
