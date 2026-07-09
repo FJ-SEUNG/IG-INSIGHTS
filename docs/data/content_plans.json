@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-09T00:20:29.542431",
+  "last_updated": "2026-07-09T04:06:43.912617",
   "plans": [
+    {
+      "id": "plan_c72f1290",
+      "created_at": "2026-07-09T04:06:41.912438",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東海×名探偵コナン、東海道新幹線で謎解きキャンペーン。全問正解すると限定アクキーもらえる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123522.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센에서 즐기는 코난 찐팬을 위한 역대급 콜라보!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 코난X신칸센 🕵️‍♀️ 8/10~11/9",
+        "cards": [
+          {
+            "title": "코난 찐팬 모여!",
+            "content": "JR東海이 TV 애니메이션 '명탐정 코난'과 함께 특별한 콜라보 캠페인을 진행합니다. 동海道 신칸센에서 코난과 함께 떠나는 미스터리 추리 여행을 즐겨보세요!",
+            "alt_text": "명탐정 코난 캐릭터와 신칸센이 함께 있는 콜라보 캠페인 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "총 2차에 걸쳐 진행됩니다. 1차: 2024년 8월 10일(토) ~ 9월 18일(수), 2차: 2024년 9월 19일(목) ~ 11월 9일(토). 놓치지 마세요!",
+            "alt_text": "캠페인 기간을 나타내는 달력 이미지"
+          },
+          {
+            "title": "전원 선물 증정!",
+            "content": "캠페인 기간 동안 제공되는 퀴즈를 모두 풀면, 오직 이 캠페인에서만 만날 수 있는 한정판 아크릴 키홀더를 증정합니다. 득템 찬스!",
+            "alt_text": "명탐정 코난 캐릭터가 그려진 한정판 아크릴 키홀더 이미지"
+          },
+          {
+            "title": "추리 여행의 시작",
+            "content": "동海道 신칸센을 타고 떠나는 특별한 추리 여행! 창밖 풍경을 감상하며 코난과 함께 사건을 해결하는 짜릿한 경험을 선사합니다.",
+            "alt_text": "신칸센 창밖으로 보이는 일본의 풍경 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "JR東海 공식 홈페이지에서 캠페인 상세 정보를 미리 확인하고, 동海道 신칸센 티켓 예매 시 코난 콜라보 상품을 고려해보세요. 여행의 재미를 더할 수 있습니다.",
+            "alt_text": "JR東海 홈페이지 화면 캡처 이미지"
+          }
+        ],
+        "caption": "🚄 일본 여행 중 특별한 추억을 만들고 싶다면? 🕵️‍♀️ \nJR東海과 명탐정 코난이 역대급 콜라보를 진행합니다! \n동海道 신칸센에서 코난과 함께 미스터리 추리 여행을 떠나고, 퀴즈를 모두 풀면 한정판 아크릴 키홀더까지 득템할 수 있어요! \n\n✨ 캠페인 기간: 2024년 8월 10일 ~ 11월 9일 (2차로 나뉘어 진행) \n\n코난 팬이라면 절대 놓칠 수 없는 기회! 지금 바로 계획 세워보세요! ✍️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#명탐정코난",
+          "#코난",
+          "#신칸센",
+          "#JR東海",
+          "#일본교통",
+          "#일본이벤트",
+          "#일본축제",
+          "#일본여행정보",
+          "#일본여행꿀팁",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#추리여행",
+          "#한정판굿즈"
+        ],
+        "alt_texts": [
+          "명탐정 코난 캐릭터와 신칸센이 함께 있는 콜라보 캠페인 이미지",
+          "캠페인 기간을 나타내는 달력 이미지",
+          "명탐정 코난 캐릭터가 그려진 한정판 아크릴 키홀더 이미지",
+          "신칸센 창밖으로 보이는 일본의 풍경 이미지",
+          "JR東海 홈페이지 화면 캡처 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 명탐정 코난 팬층 / 최적 게시 시간: 여행 계획을 세우는 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 공유, 캠페인 참여 문의 증가 / 이 콘텐츠의 강점: 유명 IP와의 콜라보로 인한 높은 화제성과 실질적인 혜택(한정판 굿즈) 제공",
+      "image": {
+        "keyword": "Detective Conan, Shinkansen, Collaboration, Japan travel, Limited edition goods",
+        "unsplash_url": "https://unsplash.com/s/photos/Detective-Conan,-Shinkansen,-Collaboration,-Japan-travel,-Limited-edition-goods",
+        "pexels_url": "https://www.pexels.com/search/Detective%20Conan,%20Shinkansen,%20Collaboration,%20Japan%20travel,%20Limited%20edition%20goods/"
+      }
+    },
+    {
+      "id": "plan_4aca905e",
+      "created_at": "2026-07-09T04:06:34.706649",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東海道新幹線の完全個室「スプリームクラスキャビン」に乗ってきた。JR東海の本気を感じる、最上級の車内設備を解説！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2123270.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센 최상위 클래스 '스프림 클래스 캐빈' 드디어 공개! 료칸급 편안함 예약 필수!"
+      },
+      "content": {
+        "thumbnail_title": "✨신칸센 신세계✨",
+        "cards": [
+          {
+            "title": "최상급 클래스",
+            "content": "JR東海, 10월부터 도카이도·산요 신칸센에 '스프림 클래스 캐빈' 도입. 기존 그린샤보다 한 단계 높은 최상위 좌석이 탄생합니다.",
+            "alt_text": "신칸센 스프림 클래스 캐빈 외부 모습"
+          },
+          {
+            "title": "독립된 공간",
+            "content": "완전 개별실 형태로, 1인 또는 2인이 편안하게 여행할 수 있는 구조. 비즈니스 미팅이나 온전한 휴식을 원하는 여행객에게 최적입니다.",
+            "alt_text": "신칸센 스프림 클래스 캐빈 내부 좌석 모습"
+          },
+          {
+            "title": "프리미엄 서비스",
+            "content": "최고급 시트, 편의시설, 전담 서비스 등 JR東海의 모든 역량을 집약한 서비스 제공 예정. 일본 여행의 격을 높여줄 경험입니다.",
+            "alt_text": "신칸센 스프림 클래스 캐빈 내부 편의시설 모습"
+          },
+          {
+            "title": "가격 정보",
+            "content": "정확한 요금은 추후 공개 예정이나, 기존보다 높은 가격대로 책정될 것으로 예상됩니다. 최고의 경험을 위한 투자!",
+            "alt_text": "신칸센 스프림 클래스 캐빈 예약 안내 이미지"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "새로운 좌석인 만큼 초기 예약 경쟁이 치열할 것으로 예상됩니다. JR東海 공식 홈페이지 및 관련 예약 채널을 주시하며 빠르게 예약하세요!",
+            "alt_text": "신칸센 예약 화면 이미지"
+          }
+        ],
+        "caption": "일본 신칸센, 이제 료칸처럼 편안하게 즐기세요! 🚄✨\nJR東海이 10월부터 도카이도·산요 신칸센에 '스프림 클래스 캐빈'을 도입합니다. 완전 개별실로 프라이빗한 공간과 최고급 서비스를 경험할 수 있어요. 일본 여행의 새로운 기준이 될 '스프림 클래스 캐빈', 놓치지 마세요!\n\n#신칸센 #일본여행 #스프림클래스 #JR도카이",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#스프림클래스",
+          "#JR도카이",
+          "#일본교통",
+          "#일본기차",
+          "#일본여행정보",
+          "#도쿄여행",
+          "#오사카여행",
+          "#프리미엄여행",
+          "#일본신상",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#일본스타그램"
+        ],
+        "alt_texts": [
+          "신칸센 스프림 클래스 캐빈 외부 모습",
+          "신칸센 스프림 클래스 캐빈 내부 좌석 모습",
+          "신칸센 스프림 클래스 캐빈 내부 편의시설 모습",
+          "신칸센 스프림 클래스 캐빈 예약 안내 이미지",
+          "신칸센 예약 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 탑승 경험이 있거나, 특별한 일본 여행을 원하는 한국인 여행객 / 최적 게시 시간: 평일 오후 7시~9시 / 기대 반응: 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 최신 신칸센 정보, 차별화된 고급 경험 강조",
+      "image": {
+        "keyword": "Shinkansen Supreme Class Cabin interior, Japanese bullet train private room, luxury train travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Supreme-Class-Cabin-interior,-Japanese-bullet-train-private-room,-luxury-train-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Supreme%20Class%20Cabin%20interior,%20Japanese%20bullet%20train%20private%20room,%20luxury%20train%20travel%20Japan/"
+      }
+    },
     {
       "id": "plan_165cbc6e",
       "created_at": "2026-07-09T00:20:27.542259",
@@ -923,160 +1077,6 @@
         "keyword": "Dormy Inn Komatsu, Onsen, Sauna, Japan Hotel",
         "unsplash_url": "https://unsplash.com/s/photos/Dormy-Inn-Komatsu,-Onsen,-Sauna,-Japan-Hotel",
         "pexels_url": "https://www.pexels.com/search/Dormy%20Inn%20Komatsu,%20Onsen,%20Sauna,%20Japan%20Hotel/"
-      }
-    },
-    {
-      "id": "plan_8fdcc8a0",
-      "created_at": "2026-07-05T04:15:12.822342",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "マンダリン オリエンタル 東京、クリストフルとコラボしたアフタヌーンティー提供　6月29日から",
-        "url": "https://www.traicy.com/posts/20260705372804/",
-        "date": "Sun, 05 Jul 2026 00:15:00 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 호텔에서 즐기는 프랑스 남부 감성! 특별한 애프터눈 티를 만나보세요."
-      },
-      "content": {
-        "thumbnail_title": "도쿄 호텔 🇫🇷 애프터눈 티 💖",
-        "cards": [
-          {
-            "title": "콜라보",
-            "content": "만다린 오리엔탈 도쿄에서 프랑스 대표 은기 브랜드 크리스토플과 협업한 특별한 애프터눈 티를 선보입니다.",
-            "alt_text": "만다린 오리엔탈 도쿄 호텔 외관"
-          },
-          {
-            "title": "애프터눈 티",
-            "content": "'말메종 리비에라 애프터눈 티'는 프랑스 남부 리비에라에서 영감을 받은 크리스토플의 신규 컬렉션 '말메종'을 테마로 합니다.",
-            "alt_text": "크리스토플 식기 세트"
-          },
-          {
-            "title": "기간",
-            "content": "2024년 6월 29일부터 9월 23일까지, 기간 한정으로 제공됩니다.",
-            "alt_text": "달력에 표시된 6월 29일과 9월 23일"
-          },
-          {
-            "title": "수량",
-            "content": "한정 수량으로 제공되니, 방문 전 예약은 필수입니다.",
-            "alt_text": "수량이 얼마 남지 않았음을 나타내는 아이콘"
-          },
-          {
-            "title": "꿀팁",
-            "content": "특별한 날, 로맨틱한 도쿄 여행을 계획 중이라면 놓치지 마세요! 아름다운 뷰와 함께 특별한 시간을 보낼 수 있습니다.",
-            "alt_text": "창밖으로 보이는 도쿄 시내 전경"
-          }
-        ],
-        "caption": "✨ 도쿄에서 만나는 프랑스 남부의 낭만! ✨\n\n만다린 오리엔탈 도쿄가 크리스토플과 함께 특별한 애프터눈 티를 선보입니다.\n프랑스 남부 리비에라에서 영감을 받은 '말메종 리비에라 애프터눈 티'는 6월 29일부터 9월 23일까지 한정 수량으로 제공됩니다.\n\n특별한 날, 잊지 못할 추억을 만들어보세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄호텔",
-          "#만다린오리엔탈도쿄",
-          "#크리스토플",
-          "#애프터눈티",
-          "#도쿄카페",
-          "#도쿄맛집",
-          "#도쿄데이트",
-          "#일본한정",
-          "#여행스타그램",
-          "#도쿄가볼만한곳",
-          "#호캉스",
-          "#6월여행"
-        ],
-        "alt_texts": [
-          "만다린 오리엔탈 도쿄 호텔 외관",
-          "크리스토플 식기 세트",
-          "달력에 표시된 6월 29일과 9월 23일",
-          "수량이 얼마 남지 않았음을 나타내는 아이콘",
-          "창밖으로 보이는 도쿄 시내 전경"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-40대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 고급스럽고 특별한 경험 제공, 시즌 한정 정보",
-      "image": {
-        "keyword": "Mandarin Oriental Tokyo, Christofle, Afternoon Tea, French Riviera inspired, Limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Mandarin-Oriental-Tokyo,-Christofle,-Afternoon-Tea,-French-Riviera-inspired,-Limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Mandarin%20Oriental%20Tokyo,%20Christofle,%20Afternoon%20Tea,%20French%20Riviera%20inspired,%20Limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_65356538",
-      "created_at": "2026-07-05T04:15:07.412119",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANAクラウンプラザホテル成田、バーベキューと手持ち花火付き宿泊プランを提供　11月27日まで",
-        "url": "https://www.traicy.com/posts/20260705374280/",
-        "date": "Sun, 05 Jul 2026 01:15:04 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 호텔에서 즐기는 특별한 바비큐 & 불꽃놀이 패키지!"
-      },
-      "content": {
-        "thumbnail_title": "✨호텔BBQ✨ 11/27까지! ⛱️",
-        "cards": [
-          {
-            "title": "특별한 플랜",
-            "content": "ANA 크라운 플라자 호텔 나리타에서 5월 25일부터 11월 27일까지 '손 가볍게! 우천 시에도 안심! 텐트 BBQ 숙박 플랜 (아이스크림 & 불꽃놀이 포함)'을 제공합니다.",
-            "alt_text": "ANA 크라운 플라자 호텔 나리타 건물 외관"
-          },
-          {
-            "title": "포함 내역",
-            "content": "플랜에는 'THE BBQ YARD' 야외 바비큐 장소 이용과 함께 맛있는 아이스크림, 그리고 신나는 손잡이 불꽃놀이가 포함되어 있습니다.",
-            "alt_text": "야외 바비큐장에서 즐기는 모습"
-          },
-          {
-            "title": "날짜 확인",
-            "content": "이 특별한 플랜은 2024년 11월 27일까지 이용 가능하니, 여행 계획에 참고하세요!",
-            "alt_text": "달력에 11월 27일 표시"
-          },
-          {
-            "title": "간편함",
-            "content": "준비물 걱정 없이 몸만 오면 되는 '손 가볍게' 플랜입니다. 텐트가 있어 날씨 걱정 없이 즐길 수 있어요.",
-            "alt_text": "준비물이 필요 없는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "저녁 식사와 함께 특별한 추억을 만들고 싶다면 이 플랜을 추천합니다. 나리타 공항 근처에 위치해 접근성도 좋아요.",
-            "alt_text": "호텔 숙박하며 바비큐와 불꽃놀이를 즐기는 커플"
-          }
-        ],
-        "caption": "일본 여행, 특별한 추억을 만들고 싶다면? 🤩\nANA 크라운 플라자 호텔 나리타에서 11월 27일까지!\n텐트 BBQ와 불꽃놀이를 함께 즐길 수 있는 숙박 플랜을 선보입니다. 🍖🎆\n몸만 오면 되는 편리함까지! 지금 바로 예약하세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA크라운플라자호텔나리타",
-          "#나리타여행",
-          "#일본호텔",
-          "#호텔BBQ",
-          "#일본온천",
-          "#일본가족여행",
-          "#일본커플여행",
-          "#일본자유여행",
-          "#일본숙소",
-          "#일본추천",
-          "#일본이벤트",
-          "#가을여행",
-          "#11월여행"
-        ],
-        "alt_texts": [
-          "ANA 크라운 플라자 호텔 나리타 건물 외관",
-          "야외 바비큐장에서 즐기는 모습",
-          "달력에 11월 27일 표시",
-          "준비물이 필요 없는 모습",
-          "호텔 숙박하며 바비큐와 불꽃놀이를 즐기는 커플"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 나리타 공항 이용객 및 근교 여행객 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 예약 문의 증가, 플랜에 대한 궁금증 / 이 콘텐츠의 강점: 특별한 경험 제공, 날짜 한정 정보 강조",
-      "image": {
-        "keyword": "hotel narita bbq fireworks tent",
-        "unsplash_url": "https://unsplash.com/s/photos/hotel-narita-bbq-fireworks-tent",
-        "pexels_url": "https://www.pexels.com/search/hotel%20narita%20bbq%20fireworks%20tent/"
       }
     }
   ]
