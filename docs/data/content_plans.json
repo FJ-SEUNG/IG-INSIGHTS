@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-10T00:19:20.669864",
+  "last_updated": "2026-07-10T04:06:33.286842",
   "plans": [
+    {
+      "id": "plan_3409df11",
+      "created_at": "2026-07-10T04:06:31.286644",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーストア、シティポップな「スティッチ＆エンジェル」新作。Tシャツ/保冷トート/タンブラーほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124122.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후라면 놓칠 수 없는 스티치 & 엔젤 한정판 굿즈!"
+      },
+      "content": {
+        "thumbnail_title": "💖스티치&엔젤 신상 굿즈💖",
+        "cards": [
+          {
+            "title": "7월 17일 출시",
+            "content": "디즈니 스토어에서 영화 '리로 & 스티치'의 인기 캐릭터, 스티치와 엔젤의 새로운 컬렉션을 7월 17일에 출시합니다. 귀여운 디자인의 다양한 상품을 만나보세요!",
+            "alt_text": "스티치와 엔젤 캐릭터가 그려진 굿즈 이미지"
+          },
+          {
+            "title": "선행 판매 시작",
+            "content": "정식 출시일보다 빠른 7월 14일부터 디즈니 플래그십 도쿄, 도쿄 디즈니리조트점, 공식 온라인 스토어에서 선행 판매를 시작합니다. 서둘러 득템하세요!",
+            "alt_text": "디즈니 스토어 매장 전경 이미지"
+          },
+          {
+            "title": "어떤 상품?",
+            "content": "이번 컬렉션에는 티셔츠, 보냉 토트백, 텀블러 등 실용적인 아이템들이 포함되어 있습니다. 여행 중에도 유용하게 사용할 수 있는 굿즈들입니다.",
+            "alt_text": "티셔츠, 보냉 토트백, 텀블러 등 상품 이미지"
+          },
+          {
+            "title": "시티팝 감성",
+            "content": "이번 신상품은 시티팝 감성을 담은 디자인으로 출시되어 더욱 특별합니다. 일본 여행 기념품으로도, 평소 소장용으로도 안성맞춤입니다.",
+            "alt_text": "시티팝 스타일의 일러스트 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 관심 있다면 선행 판매 기간을 놓치지 마세요! 온라인 스토어는 한국에서도 접속 가능합니다.",
+            "alt_text": "장바구니에 담긴 굿즈 이미지"
+          }
+        ],
+        "caption": "일본 디즈니 스토어에서 스티치 & 엔젤 신상 굿즈가 7월 17일 출시돼요! 💖\n7월 14일부터 디즈니 플래그십 도쿄, 도쿄 디즈니리조트점, 공식 온라인 스토어에서 선행 판매 시작!\n티셔츠, 보냉 토트백, 텀블러 등 시티팝 감성 가득한 아이템들을 만나보세요! 🛍️\n일본 여행 계획 중이라면 잊지 말고 방문하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니스토어",
+          "#스티치",
+          "#엔젤",
+          "#스티치엔젤",
+          "#일본쇼핑",
+          "#도쿄디즈니",
+          "#키덜트",
+          "#캐릭터굿즈",
+          "#여행선물",
+          "#일본기념품",
+          "#한정판",
+          "#7월여행",
+          "#디즈니덕후"
+        ],
+        "alt_texts": [
+          "스티치와 엔젤 캐릭터가 그려진 굿즈 이미지",
+          "디즈니 스토어 매장 전경 이미지",
+          "티셔츠, 보냉 토트백, 텀블러 등 상품 이미지",
+          "시티팝 스타일의 일러스트 이미지",
+          "장바구니에 담긴 굿즈 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 2030 여성, 디즈니 팬 / 최적 게시 시간: 오후 7시~9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 시기적절한 신상품 정보, 구체적인 출시일 및 판매처 명시",
+      "image": {
+        "keyword": "stitch angel disney store japan new collection",
+        "unsplash_url": "https://unsplash.com/s/photos/stitch-angel-disney-store-japan-new-collection",
+        "pexels_url": "https://www.pexels.com/search/stitch%20angel%20disney%20store%20japan%20new%20collection/"
+      }
+    },
+    {
+      "id": "plan_44ad5358",
+      "created_at": "2026-07-10T04:06:24.854870",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "成田空港の土地収用制度活用は「やむを得ないものとして受け止める」。新滑走路の用地確保率は4月の89.7％から6月末で90.4％へ上昇",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124129.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "나리타 공항 신활주로 건설, 한국 여행객에게 어떤 영향이 있을까?"
+      },
+      "content": {
+        "thumbnail_title": "✈️나리타 공항 확장 임박!",
+        "cards": [
+          {
+            "title": "신활주로 추진",
+            "content": "나리타 공항 신활주로 건설을 위한 토지 확보율이 90.4%까지 상승했습니다. 이는 2024년 4월 기준 89.7%에서 소폭 상승한 수치입니다.",
+            "alt_text": "나리타 공항 신활주로 건설 계획을 알리는 그래픽"
+          },
+          {
+            "title": "토지 수용 진행",
+            "content": "나리타 국제공항, 국토교통성, 치바현 및 관련 3개 시/정촌이 '나리타 공항 활주로 신증설 추진 협의회'를 개최했습니다. 토지 수용 제도 활용이 불가피하다는 입장을 확인했습니다.",
+            "alt_text": "관계자들이 회의하는 모습"
+          },
+          {
+            "title": "공항 확장 영향",
+            "content": "신활주로 건설이 완료되면 나리타 공항의 항공기 운항 능력 증대가 예상됩니다. 이는 향후 한국과 일본을 오가는 항공편 증설 및 스케줄 다양화로 이어질 수 있습니다.",
+            "alt_text": "활주로에서 이륙하는 항공기"
+          },
+          {
+            "title": "여행 편의 기대",
+            "content": "공항 확장으로 인해 출입국 심사 및 수하물 처리 시간이 단축될 가능성이 있습니다. 또한, 공항 내 편의시설 확충으로 더욱 쾌적한 여행 환경이 조성될 것으로 기대됩니다.",
+            "alt_text": "넓고 현대적인 공항 터미널 내부"
+          },
+          {
+            "title": "향후 업데이트 주목",
+            "content": "공사 진행 상황 및 예상 완공 시점 등 구체적인 정보는 계속 업데이트될 예정입니다. 나리타 공항 이용 예정이신 분들은 최신 소식을 꼭 확인하세요!",
+            "alt_text": "정보 업데이트를 알리는 알림 아이콘"
+          }
+        ],
+        "caption": "✈️ 나리타 공항 확장 소식! ✈️\n\n나리타 공항 신활주로 건설이 순조롭게 진행 중이라는 소식입니다! 🛫\n\n토지 확보율 90.4% 달성, 향후 공항 확장으로 한국 여행객들의 일본 여행이 더욱 편리해질 것으로 기대됩니다. 🤩\n\n항공편 증설, 운항 시간 단축 등 긍정적인 변화를 기대하며, 앞으로의 진행 상황을 함께 주목해 보아요! ✨\n\n#나리타공항 #일본공항 #일본여행정보 #공항확장 #여행꿀팁 #플라잉재팬 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나리타공항",
+          "#일본공항",
+          "#공항확장",
+          "#일본교통",
+          "#여행정보",
+          "#일본항공",
+          "#여행준비",
+          "#해외여행",
+          "#일본",
+          "#여행스타그램",
+          "#나리타",
+          "#공항",
+          "#항공편"
+        ],
+        "alt_texts": [
+          "나리타 공항 신활주로 건설 계획을 알리는 그래픽",
+          "관계자들이 회의하는 모습",
+          "활주로에서 이륙하는 항공기",
+          "넓고 현대적인 공항 터미널 내부",
+          "정보 업데이트를 알리는 알림 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 정보 습득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 한국 여행객에게 직접적인 영향을 줄 수 있는 공항 인프라 변화에 대한 선제적 정보 제공",
+      "image": {
+        "keyword": "Narita Airport expansion, new runway construction, airport development, travel convenience, Japan aviation news",
+        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-expansion,-new-runway-construction,-airport-development,-travel-convenience,-Japan-aviation-news",
+        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20expansion,%20new%20runway%20construction,%20airport%20development,%20travel%20convenience,%20Japan%20aviation%20news/"
+      }
+    },
     {
       "id": "plan_286130bd",
       "created_at": "2026-07-10T00:19:18.669680",
@@ -923,160 +1077,6 @@
         "keyword": "Peach Aviation, Japan flight sale, cheap flights, travel deal, summer sale",
         "unsplash_url": "https://unsplash.com/s/photos/Peach-Aviation,-Japan-flight-sale,-cheap-flights,-travel-deal,-summer-sale",
         "pexels_url": "https://www.pexels.com/search/Peach%20Aviation,%20Japan%20flight%20sale,%20cheap%20flights,%20travel%20deal,%20summer%20sale/"
-      }
-    },
-    {
-      "id": "plan_b78c7f98",
-      "created_at": "2026-07-07T00:20:05.424807",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "富山「黒部宇奈月キャニオンルート」10月2日一般公開。欅平駅にはJTBツアー参加者向けのラウンジ開業",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2122714.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본의 숨겨진 절경, 가을 단풍 명소 '쿠로베 협곡'이 일반에 개방됩니다!"
-      },
-      "content": {
-        "thumbnail_title": "🍁가을 일본 🍁 쿠로베 협곡 10/2 개방!",
-        "cards": [
-          {
-            "title": "개방일",
-            "content": "일본 도야마현의 숨 막히는 절경, 쿠로베 협곡이 2024년 10월 2일부터 일반에 공개됩니다. 가을 단풍 시즌에 맞춰 아름다운 풍경을 만끽할 기회!",
-            "alt_text": "쿠로베 협곡의 푸른 계곡과 주변의 울창한 숲 풍경"
-          },
-          {
-            "title": "운행 재개",
-            "content": "쿠로베 협곡 철도의 토롯코 열차는 10월 1일부터 우나즈키역 ~ 케키다이라역 구간의 전 노선 운행을 재개합니다. 협곡의 매력을 가장 가까이서 느낄 수 있는 방법!",
-            "alt_text": "쿠로베 협곡 철도 토롯코 열차가 협곡 사이를 달리는 모습"
-          },
-          {
-            "title": "특별 라운지",
-            "content": "케키다이라역에는 JTB 투어 참가자를 위한 전용 라운지가 개업합니다. 여행 중 편안한 휴식을 즐길 수 있는 특별한 공간이 마련됩니다.",
-            "alt_text": "케키다이라역에 위치한 JTB 투어 라운지 외관"
-          },
-          {
-            "title": "관광 포인트",
-            "content": "가을이면 붉게 물드는 단풍과 깎아지른 듯한 협곡의 조화는 그야말로 장관입니다. 사진으로는 담기 힘든 압도적인 자연을 직접 경험해보세요.",
-            "alt_text": "가을 단풍으로 붉게 물든 쿠로베 협곡의 아름다운 풍경"
-          },
-          {
-            "title": "여행 TIP",
-            "content": "10월 초는 개방 직후라 더욱 특별한 경험이 될 수 있습니다. 단풍이 절정에 달하는 시기는 10월 말~11월 초이며, 방문 전 날씨와 열차 운행 정보를 꼭 확인하세요!",
-            "alt_text": "쿠로베 협곡의 가을 단풍을 배경으로 기념 사진을 찍는 관광객 모습"
-          }
-        ],
-        "caption": "일본 가을 여행 필수 코스! 🍁 도야마 쿠로베 협곡이 10월 2일부터 일반에 공개됩니다! 🍂\n\n10월 1일부터 토롯코 열차 전 노선 운행 재개와 함께, 협곡의 숨 막히는 절경을 직접 만날 수 있어요. JTB 투어 참가자를 위한 전용 라운지까지!\n\n올가을, 잊지 못할 일본의 자연을 만끽하러 떠나보세요! ✈️\n\n#일본여행 #도야마 #쿠로베협곡 #가을여행 #일본단풍 #쿠로베협곡철도 #토롯코열차 #일본자연 #여행정보 #플라잉재팬 #가을단풍 #일본명소 #일본가볼만한곳 #여행스타그램 #일본풍경",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도야마",
-          "#쿠로베협곡",
-          "#가을여행",
-          "#일본단풍",
-          "#쿠로베협곡철도",
-          "#토롯코열차",
-          "#일본자연",
-          "#여행정보",
-          "#가을단풍",
-          "#일본명소",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본풍경"
-        ],
-        "alt_texts": [
-          "쿠로베 협곡의 푸른 계곡과 주변의 울창한 숲 풍경",
-          "쿠로베 협곡 철도 토롯코 열차가 협곡 사이를 달리는 모습",
-          "케키다이라역에 위치한 JTB 투어 라운지 외관",
-          "가을 단풍으로 붉게 물든 쿠로베 협곡의 아름다운 풍경",
-          "쿠로베 협곡의 가을 단풍을 배경으로 기념 사진을 찍는 관광객 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본의 자연경관과 특별한 경험을 추구하는 20-40대 한국인 여행객 / 최적 게시 시간: 오후 1시-3시 (점심시간 이후, 오후 활동 계획 시점) / 기대 반응: 높은 관심과 정보 공유, 가을 시즌 여행 계획에 즉각적인 영향 / 이 콘텐츠의 강점: 시기적절한 개방 정보, 아름다운 비주얼 예상, 구체적인 개방일 및 운행 정보 제공",
-      "image": {
-        "keyword": "Kurobe Gorge Japan autumn travel, Torokko train, scenic view, Japan nature, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Kurobe-Gorge-Japan-autumn-travel,-Torokko-train,-scenic-view,-Japan-nature,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Kurobe%20Gorge%20Japan%20autumn%20travel,%20Torokko%20train,%20scenic%20view,%20Japan%20nature,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_9afe2bdd",
-      "created_at": "2026-07-07T00:19:58.297411",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "開業7周年を迎えた「無印良品 銀座」のいま。旅の準備から多国籍レストランまで、各フロアの見どころをまとめて紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2118802.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여행 준비부터 현지 경험까지, 무인양품 긴자점에서 만나는 특별함!"
-      },
-      "content": {
-        "thumbnail_title": "✨무인양품 긴자점 7주년✨",
-        "cards": [
-          {
-            "title": "세계 플래그십",
-            "content": "2026년 4월, 개점 7주년을 맞이하는 '무인양품 긴자점'은 도쿄 긴자 3-3-5에 위치한 세계 플래그십 스토어입니다. 국내외 많은 여행객이 방문하는 곳이죠.",
-            "alt_text": "무인양품 긴자점 외관 전경"
-          },
-          {
-            "title": "다채로운 경험",
-            "content": "여행 준비 용품부터 다국적 레스토랑까지, 각 층마다 특별한 볼거리와 즐길 거리가 가득합니다. 코로나19 팬데믹을 거치며 더욱 진화한 매장 모습을 만나보세요.",
-            "alt_text": "무인양품 긴자점 내부 매장 모습"
-          },
-          {
-            "title": "여행 준비 끝판왕",
-            "content": "여행에 필요한 다양한 아이템들을 한눈에 볼 수 있습니다. 효율적인 수납 용품부터 편안한 의류까지, 일본 여행을 더욱 풍요롭게 만들어 줄 아이템들을 찾아보세요.",
-            "alt_text": "무인양품 여행 용품 섹션"
-          },
-          {
-            "title": "미식의 즐거움",
-            "content": "매장 내 레스토랑에서는 세계 각국의 요리를 맛볼 수 있습니다. 일본 현지 식재료를 활용한 특별한 메뉴들도 준비되어 있어 미식 경험을 즐길 수 있습니다.",
-            "alt_text": "무인양품 긴자점 레스토랑 메뉴"
-          },
-          {
-            "title": "방문 팁",
-            "content": "운영 시간 및 휴무일은 변경될 수 있으니 방문 전 공식 홈페이지를 확인하는 것이 좋습니다. 특히 주말이나 공휴일에는 사람이 많을 수 있으니 참고하세요.",
-            "alt_text": "무인양품 긴자점 방문객 안내판"
-          }
-        ],
-        "caption": "✈️ 일본 여행 준비, 어디서부터 해야 할지 막막하다면? ✈️\n\n도쿄 긴자에 위치한 '무인양품 긴자점'은 단순한 쇼핑 공간을 넘어, 여행의 시작과 끝을 책임지는 복합 문화 공간입니다!\n\n✅ 개점 7주년! 세계 플래그십 스토어에서 특별함을 느껴보세요.\n✅ 여행 필수템부터 다국적 레스토랑까지, 모든 것을 한 곳에서!\n✅ 진화하는 무인양품 긴자점의 새로운 모습을 놓치지 마세요!\n\n#일본여행 #무인양품 #긴자 #도쿄여행 #여행준비 #쇼핑 #맛집 #플라잉재팬 #여행꿀팁 #일본쇼핑 #무인양품긴자 #도쿄쇼핑 #일본여행정보 #여행스타그램 #무인양품러버",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무인양품",
-          "#긴자",
-          "#도쿄여행",
-          "#여행준비",
-          "#일본쇼핑",
-          "#무인양품긴자",
-          "#도쿄쇼핑",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#쇼핑",
-          "#맛집",
-          "#여행스타그램",
-          "#무인양품러버"
-        ],
-        "alt_texts": [
-          "무인양품 긴자점 외관 전경",
-          "무인양품 긴자점 내부 매장 모습",
-          "무인양품 여행 용품 섹션",
-          "무인양품 긴자점 레스토랑 메뉴",
-          "무인양품 긴자점 방문객 안내판"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 정보 공유 및 댓글 문의 증가, 스토어 방문 의사 표현 / 이 콘텐츠의 강점: 일본 여행의 필수 코스로 자리 잡은 무인양품 긴자점의 최신 정보와 매력 포인트를 집약하여 제공",
-      "image": {
-        "keyword": "MUJI Ginza, Japan, Tokyo, Shopping, Travel essentials, Restaurant, Flagship store, 7th anniversary",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI-Ginza,-Japan,-Tokyo,-Shopping,-Travel-essentials,-Restaurant,-Flagship-store,-7th-anniversary",
-        "pexels_url": "https://www.pexels.com/search/MUJI%20Ginza,%20Japan,%20Tokyo,%20Shopping,%20Travel%20essentials,%20Restaurant,%20Flagship%20store,%207th%20anniversary/"
       }
     }
   ]
