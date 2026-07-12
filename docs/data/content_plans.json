@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-11T03:34:33.650819",
+  "last_updated": "2026-07-12T00:11:17.821764",
   "plans": [
+    {
+      "id": "plan_5bb65a9c",
+      "created_at": "2026-07-12T00:11:15.821588",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ツーリズムEXPOジャパン2026、前売入場券販売開始　9月24日～27日に東京ビッグサイトで開催",
+        "url": "https://www.traicy.com/posts/20260711376035/",
+        "date": "Sat, 11 Jul 2026 09:15:52 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "내년 일본 최대 여행 박람회, 미리 준비하면 할인 혜택!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 여행 박람회 얼리버드 찬스!",
+        "cards": [
+          {
+            "title": "박람회 정보",
+            "content": "2026년 '투어리즘 엑스포 재팬'이 9월 24일부터 27일까지 도쿄 빅사이트에서 개최됩니다. 한국 여행객에게는 일본 여행 트렌드를 미리 파악할 수 있는 좋은 기회입니다.",
+            "alt_text": "도쿄 빅사이트 전경 이미지"
+          },
+          {
+            "title": "사전 입장권",
+            "content": "현재 사전 판매 중인 입장권은 성인 기준 1,200엔입니다. 현장에서 구매하는 것보다 저렴한 가격으로 입장할 수 있어 미리 준비하는 것이 좋습니다.",
+            "alt_text": "항공권 또는 티켓 이미지"
+          },
+          {
+            "title": "주최 기관",
+            "content": "일본 관광진흥협회, 일본 여행업협회(JATA), 일본 정부관광국(JNTO)이 공동 주최하는 행사로, 일본 여행 관련 최신 정보를 얻을 수 있습니다.",
+            "alt_text": "일본 지도 이미지"
+          },
+          {
+            "title": "주요 행사",
+            "content": "다양한 일본 여행 상품 전시, 체험 이벤트, 세미나 등이 열릴 예정입니다. 일본 현지의 숨겨진 명소나 새로운 관광 트렌드를 발견할 수 있습니다.",
+            "alt_text": "여행 박람회 현장 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "내년 행사지만, 미리 정보를 알고 있으면 항공권, 숙소 예약 시 유리할 수 있습니다. 특히 사전 입장권 구매는 필수! 2026년 일본 여행 계획에 참고하세요.",
+            "alt_text": "달력 이미지"
+          }
+        ],
+        "caption": "✈️ 2026년 일본 최대 여행 박람회 '투어리즘 엑스포 재팬' 개최 확정! 🇯🇵\n\n내년 9월 24일부터 27일까지 도쿄 빅사이트에서 열리는 이번 행사는 일본 여행의 최신 트렌드를 한눈에 파악할 수 있는 절호의 기회입니다.\n\n✨ 현재 사전 입장권이 1,200엔(성인 기준)에 판매 중이니, 현장 구매보다 저렴하게 이용하세요!\n\n일본 여행을 계획 중이라면, 이번 박람회 정보를 미리 확인하고 알찬 여행 준비하세요! 😉\n\n#일본여행 #투어리즘엑스포재팬 #도쿄여행 #일본박람회 #여행정보 #얼리버드 #여행준비 #플라잉재팬 #일본축제 #일본이벤트 #여행꿀팁 #도쿄빅사이트 #JNTO #JATA #일본관광",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#투어리즘엑스포재팬",
+          "#도쿄여행",
+          "#일본박람회",
+          "#여행정보",
+          "#얼리버드",
+          "#여행준비",
+          "#일본축제",
+          "#일본이벤트",
+          "#여행꿀팁",
+          "#도쿄빅사이트",
+          "#JNTO",
+          "#JATA",
+          "#일본관광"
+        ],
+        "alt_texts": [
+          "도쿄 빅사이트 전경 이미지",
+          "항공권 또는 티켓 이미지",
+          "일본 지도 이미지",
+          "여행 박람회 현장 이미지",
+          "달력 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 관심 있는 20-30대 한국인 / 최적 게시 시간: 평일 저녁 6-8시 / 기대 반응: 정보성 콘텐츠로 저장 및 공유율 높을 것으로 예상 / 이 콘텐츠의 강점: 시기적으로 앞서가는 정보 제공으로 여행 준비에 실질적인 도움 제공",
+      "image": {
+        "keyword": "Tokyo Big Sight, Tourism Expo Japan, travel expo, Japan travel, early bird ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Big-Sight,-Tourism-Expo-Japan,-travel-expo,-Japan-travel,-early-bird-ticket",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Big%20Sight,%20Tourism%20Expo%20Japan,%20travel%20expo,%20Japan%20travel,%20early%20bird%20ticket/"
+      }
+    },
+    {
+      "id": "plan_3b514d6e",
+      "created_at": "2026-07-12T00:11:08.912676",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語 ホテルレオマの森、1泊2食バイキングが最大30％オフ。中四国最大級のウォーターランド隣接",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124309.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 숙소 특가 찬스! 최대 30% 할인받고 알찬 여름휴가 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "일본 숙소 🌊 최대 30% OFF!",
+        "cards": [
+          {
+            "title": "여름 세일",
+            "content": "일본 최대 규모의 워터랜드와 함께하는 '오에도 온천 이야기 호텔 레오마노모리'에서 1박 2식 뷔페를 최대 30% 할인된 가격으로 즐길 수 있습니다.",
+            "alt_text": "일본 호텔에서 제공하는 뷔페 음식 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 서머 세일'을 통해 전국 호텔 및 온천 숙소의 특별 플랜을 만나보세요. 현재 배포 중인 쿠폰을 함께 사용하면 할인율이 더 커집니다.",
+            "alt_text": "할인 쿠폰 이미지가 포함된 일본 숙소 예약 페이지"
+          },
+          {
+            "title": "세일 기간",
+            "content": "본격적인 여름 휴가 시즌을 맞이하여 7월 21일까지 진행되는 이번 세일 놓치지 마세요! 서둘러 예약하면 원하는 숙소를 좋은 가격에 확보할 수 있습니다.",
+            "alt_text": "달력에 표시된 7월 21일 날짜와 할인 아이콘"
+          },
+          {
+            "title": "숙소 정보",
+            "content": "'오에도 온천 이야기 호텔 레오마노모리'는 중부·시코쿠 지역 최대 규모의 워터랜드와 인접해 있어 물놀이를 좋아하는 여행객에게 최적의 선택이 될 것입니다.",
+            "alt_text": "일본 워터파크와 연결된 호텔 건물 전경"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획을 세우고 있다면 지금이 바로 일본 숙소를 예약할 최적의 시기입니다. 다양한 할인 혜택을 꼼꼼히 비교하고 현명한 여행을 계획하세요!",
+            "alt_text": "일본 지도 위에 숙소 핀이 꽂혀있는 모습"
+          }
+        ],
+        "caption": "일본 여름 여행 준비 중이신가요? ☀️\n'오에도 온천 이야기 호텔 레오마노모리'에서 1박 2식 뷔페를 최대 30% 할인된 가격으로 즐길 수 있는 절호의 찬스가 찾아왔어요!\n\n라쿠텐 트래블 서머 세일 기간(7월 21일까지)을 놓치지 마세요!\n\n지금 바로 예약하고 알찬 여름휴가 보내세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본할인",
+          "#일본특가",
+          "#일본호텔",
+          "#일본온천",
+          "#일본자유여행",
+          "#일본여름휴가",
+          "#라쿠텐트래블",
+          "#오에도온천",
+          "#레오마노모리",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "일본 호텔에서 제공하는 뷔페 음식 이미지",
+          "할인 쿠폰 이미지가 포함된 일본 숙소 예약 페이지",
+          "달력에 표시된 7월 21일 날짜와 할인 아이콘",
+          "일본 워터파크와 연결된 호텔 건물 전경",
+          "일본 지도 위에 숙소 핀이 꽂혀있는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여름 휴가 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 5시 - 8시 / 기대 반응: 할인 정보에 대한 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 매력적인 숙소 연계",
+      "image": {
+        "keyword": "japan hotel discount, japan summer sale, onsen hotel, water park resort, buffet food",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount,-japan-summer-sale,-onsen-hotel,-water-park-resort,-buffet-food",
+        "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount,%20japan%20summer%20sale,%20onsen%20hotel,%20water%20park%20resort,%20buffet%20food/"
+      }
+    },
     {
       "id": "plan_83a06bb6",
       "created_at": "2026-07-11T03:34:31.650610",
@@ -923,160 +1077,6 @@
         "keyword": "Kamakura fireworks festival, Japan summer festival, beach fireworks",
         "unsplash_url": "https://unsplash.com/s/photos/Kamakura-fireworks-festival,-Japan-summer-festival,-beach-fireworks",
         "pexels_url": "https://www.pexels.com/search/Kamakura%20fireworks%20festival,%20Japan%20summer%20festival,%20beach%20fireworks/"
-      }
-    },
-    {
-      "id": "plan_e32d925c",
-      "created_at": "2026-07-08T03:36:40.431706",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「第78回諏訪湖祭湖上花火大会」観覧チケット7月13日から2次抽選販売。山に反響する大迫力スターマインなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2123210.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여름밤을 수놓을 압도적인 스케일의 불꽃축제 정보를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🔥8월 15일! 스와호 불꽃축제🔥",
-        "cards": [
-          {
-            "title": "축제 일정",
-            "content": "제78회 스와호제 호상 불꽃대회는 8월 15일 화요일에 개최됩니다. 8월 15일, 잊지 마세요!",
-            "alt_text": "스와호 불꽃축제 개최 날짜를 강조하는 이미지"
-          },
-          {
-            "title": "개최 장소",
-            "content": "장소는 나가노현 스와시 호반공원 앞 스와호입니다. 아름다운 호수 위에서 펼쳐지는 불꽃놀이를 기대하세요.",
-            "alt_text": "스와호 불꽃축제가 열리는 스와호 전경 이미지"
-          },
-          {
-            "title": "개최 시간",
-            "content": "행사는 19시부터 시작됩니다. 해가 진 후, 밤하늘을 아름답게 수놓을 불꽃놀이를 즐겨보세요.",
-            "alt_text": "불꽃축제 시작 시간을 알리는 이미지"
-          },
-          {
-            "title": "티켓 정보",
-            "content": "관람 티켓 2차 추첨 판매가 7월 13일부터 시작됩니다. 놓치기 전에 서둘러 신청하세요!",
-            "alt_text": "스와호 불꽃축제 티켓 판매 정보를 알리는 이미지"
-          },
-          {
-            "title": "주목 포인트",
-            "content": "산에 반향하는 대형 스타마인 등 박진감 넘치는 불꽃놀이가 펼쳐집니다. 날씨가 좋으면 개최되니, 날씨 예보를 꼭 확인하세요!",
-            "alt_text": "불꽃놀이의 웅장함을 보여주는 이미지"
-          }
-        ],
-        "caption": "일본 여름밤의 하이라이트! 🎆 8월 15일, 나가노현 스와호에서 펼쳐지는 제78회 스와호제 호상 불꽃대회 소식을 전해드려요!\n\n산에 울려 퍼지는 듯한 웅장한 스타마인을 포함한 다채로운 불꽃이 호수 위를 화려하게 수놓을 예정입니다.\n\n✨ 8월 15일, 19시부터 시작\n📍 나가노현 스와시 호반공원 앞 스와호\n🎟️ 7월 13일부터 2차 티켓 추첨 판매 시작!\n\n올여름, 잊지 못할 추억을 스와호 불꽃축제에서 만들어보세요! 💖\n\n#일본여행 #플라잉재팬 #스와호불꽃축제 #나가노여행 #일본여름축제 #불꽃놀이 #여행정보 #축제정보 #일본축제 #여름휴가 #일본여행필수 #여행팁 #일본이벤트 #여행스타그램 #플라잉재팬이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스와호불꽃축제",
-          "#나가노여행",
-          "#일본여름축제",
-          "#불꽃놀이",
-          "#여행정보",
-          "#축제정보",
-          "#일본축제",
-          "#여름휴가",
-          "#일본여행필수",
-          "#여행팁",
-          "#일본이벤트",
-          "#여행스타그램",
-          "#플라잉재팬이벤트"
-        ],
-        "alt_texts": [
-          "스와호 불꽃축제 개최 날짜를 강조하는 이미지",
-          "스와호 불꽃축제가 열리는 스와호 전경 이미지",
-          "불꽃축제 시작 시간을 알리는 이미지",
-          "스와호 불꽃축제 티켓 판매 정보를 알리는 이미지",
-          "불꽃놀이의 웅장함을 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 스와호 불꽃축제에 대한 관심 증가 및 티켓 구매 문의 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 장소, 티켓 판매 정보까지 상세하게 제공하여 실질적인 여행 계획에 도움을 줌",
-      "image": {
-        "keyword": "Suwako Lake fireworks festival, Japan summer festival, Nagano travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Suwako-Lake-fireworks-festival,-Japan-summer-festival,-Nagano-travel",
-        "pexels_url": "https://www.pexels.com/search/Suwako%20Lake%20fireworks%20festival,%20Japan%20summer%20festival,%20Nagano%20travel/"
-      }
-    },
-    {
-      "id": "plan_c3f0e4f4",
-      "created_at": "2026-07-08T03:36:30.206885",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、「ポケモン」新作UTは7月24日発売。懐かしのドット絵デザイン全8種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2123380.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "포켓몬 덕후라면 놓칠 수 없는 유니클로 x 포켓몬 콜라보 UT!"
-      },
-      "content": {
-        "thumbnail_title": "✨유니클로X포켓몬 UT 7/24 출시!",
-        "cards": [
-          {
-            "title": "✨출시일",
-            "content": "포켓몬 30주년 기념 유니클로 UT 두 번째 컬렉션이 2024년 7월 24일에 출시됩니다.",
-            "alt_text": "유니클로 매장 전경"
-          },
-          {
-            "title": "✨디자인",
-            "content": "이번 컬렉션은 추억의 도트 디자인을 담은 총 8가지의 다양한 포켓몬 UT로 구성될 예정입니다.",
-            "alt_text": "포켓몬 도트 디자인 UT 이미지"
-          },
-          {
-            "title": "✨구매 팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 출시 당일 또는 직후 매장 방문을 추천합니다. 온라인 스토어도 확인해보세요!",
-            "alt_text": "유니클로 온라인 스토어 화면"
-          },
-          {
-            "title": "✨가격 정보",
-            "content": "일반 UT 가격은 1,500엔 (세전)으로 예상되며, 정확한 가격은 출시 시점에 유니클로 공식 홈페이지에서 확인 가능합니다.",
-            "alt_text": "유니클로 UT 가격표"
-          },
-          {
-            "title": "✨놓치지 마세요!",
-            "content": "일본 여행 중 유니클로에 들러 특별한 포켓몬 UT를 득템하세요! 여행 기념품으로도 최고입니다. 🎁",
-            "alt_text": "포켓몬 UT를 들고 있는 여행객"
-          }
-        ],
-        "caption": "포켓몬 팬 주목! 📣 유니클로에서 포켓몬 30주년 기념 UT 두 번째 컬렉션을 7월 24일에 출시합니다. 👾\n\n추억의 도트 디자인으로 돌아온 총 8가지 UT! 일본 여행 계획 중이라면 유니클로 매장에서 특별한 기념품을 겟하세요. 🛍️\n\n#일본쇼핑 #유니클로 #포켓몬 #UT",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#포켓몬",
-          "#포켓몬UT",
-          "#일본쇼핑",
-          "#일본기념품",
-          "#여행준비",
-          "#7월일본여행",
-          "#도쿄여행",
-          "#오사카여행",
-          "#일본득템",
-          "#여행스타그램",
-          "#패션스타그램",
-          "#콜라보"
-        ],
-        "alt_texts": [
-          "유니클로 매장 전경",
-          "포켓몬 도트 디자인 UT 이미지",
-          "유니클로 온라인 스토어 화면",
-          "유니클로 UT 가격표",
-          "포켓몬 UT를 들고 있는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 포켓몬 팬, 유니클로 애용객, 최신 트렌드에 민감한 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의, 정보 공유 / 이 콘텐츠의 강점: 시의성 있는 신상품 출시 정보, 명확한 구매 가이드 제공",
-      "image": {
-        "keyword": "Uniqlo Pokemon UT Japan release date design shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Pokemon-UT-Japan-release-date-design-shopping",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Pokemon%20UT%20Japan%20release%20date%20design%20shopping/"
       }
     }
   ]
