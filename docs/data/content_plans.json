@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-13T00:11:27.256671",
+  "last_updated": "2026-07-13T03:49:30.156330",
   "plans": [
+    {
+      "id": "plan_c606fb8e",
+      "created_at": "2026-07-13T03:49:28.156148",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "都営地下鉄、土日祝・お盆に使える「夏」のワンデーパス発売。子供は250円→100円！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124556.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 필수! 여름 한정 지하철 무제한 탑승권으로 알뜰하게!"
+      },
+      "content": {
+        "thumbnail_title": "🌸도쿄 여름 무제한 지하철권🌸",
+        "cards": [
+          {
+            "title": "여름 한정 패스",
+            "content": "도쿄 여행 필수템! 7월 18일부터 8월 30일까지, 주말 및 공휴일, 그리고 8월 10일부터 14일 오봉 기간 동안 도쿄 도영 지하철을 무제한으로 탈 수 있는 '여름 원데이 패스'가 발매됩니다.",
+            "alt_text": "여름 원데이 패스 발매 알림 이미지"
+          },
+          {
+            "title": "얼마라고?",
+            "content": "성인 1인당 800엔으로 하루 종일 도영 지하철을 마음껏 이용할 수 있습니다. 특히 어린이(초등학생)는 기존 250엔에서 100엔으로 할인된 가격으로 구매 가능합니다.",
+            "alt_text": "패스 가격 정보 이미지"
+          },
+          {
+            "title": "이용 기간 확인!",
+            "content": "패스 사용 가능일은 2024년 7월 18일(목)부터 8월 30일(금)까지의 토, 일, 공휴일입니다. 또한, 일본의 연휴인 오봉 기간(8월 10일~14일)에도 동일하게 사용 가능합니다.",
+            "alt_text": "이용 가능 기간 안내 이미지"
+          },
+          {
+            "title": "도쿄 어디든 OK!",
+            "content": "도영 지하철 노선이라면 어디든 자유롭게 이동 가능! 긴자, 아사쿠사, 우에노 등 주요 관광지를 편하게 둘러볼 수 있어 도쿄 시내 여행에 최고의 선택입니다.",
+            "alt_text": "도쿄 도영 지하철 노선도 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "JR이나 사철은 이용할 수 없으니 주의하세요. 패스 구매 시 여권이 필요할 수 있습니다. 도쿄 여행 계획 시 꼭 참고하여 교통비를 절약하세요!",
+            "alt_text": "여행 팁 아이콘 이미지"
+          }
+        ],
+        "caption": "📢 도쿄 여행 필수 정보 꿀팁! 📢\n\n올여름, 도쿄 여행 계획 중이라면 주목! 🤩\n\n7월 18일부터 8월 30일까지, 주말 & 공휴일 & 오봉 기간에 도쿄 도영 지하철을 하루 종일 무제한으로 이용할 수 있는 '여름 원데이 패스'가 발매됩니다! 🚇\n\n성인 800엔, 어린이 100엔으로 도쿄 명소를 알뜰하게 여행할 기회! 놓치지 마세요!\n\n📍 자세한 내용은 카드 뉴스를 확인하세요!\n\n#도쿄여행 #도쿄지하철 #일본교통 #여름휴가 #도쿄패스 #알뜰여행 #여행정보 #일본여행필수템 #도쿄 #플라잉재팬 #일본자유여행 #도쿄가볼만한곳 #여행꿀팁 #여름방학 #도쿄쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄지하철",
+          "#일본교통",
+          "#여름휴가",
+          "#도쿄패스",
+          "#알뜰여행",
+          "#여행정보",
+          "#일본여행필수템",
+          "#도쿄",
+          "#일본자유여행",
+          "#도쿄가볼만한곳",
+          "#여행꿀팁",
+          "#여름방학"
+        ],
+        "alt_texts": [
+          "여름 원데이 패스 발매 알림 이미지",
+          "패스 가격 정보 이미지",
+          "이용 가능 기간 안내 이미지",
+          "도쿄 도영 지하철 노선도 이미지",
+          "여행 팁 아이콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 도쿄 여행을 계획하는 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오전 10-12시 / 기대 반응: 정보 유용성에 대한 긍정적 반응, 저장 및 공유율 높음 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 이용 범위 명시로 실질적 도움 제공",
+      "image": {
+        "keyword": "Tokyo subway pass, summer travel Japan, Tokyo transportation, discount ticket Japan, travel savings",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-subway-pass,-summer-travel-Japan,-Tokyo-transportation,-discount-ticket-Japan,-travel-savings",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20subway%20pass,%20summer%20travel%20Japan,%20Tokyo%20transportation,%20discount%20ticket%20Japan,%20travel%20savings/"
+      }
+    },
+    {
+      "id": "plan_521d7a4c",
+      "created_at": "2026-07-13T03:49:22.231556",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "無印良品、夏の「良いね祭」まもなく終了。天竺編みTシャツが790円、ひんやりミスト・水出し茶は10％引き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124608.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 무인양품 여름 세일, 최대 10% 할인 기회 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 무인양품 여름 세일 종료 임박! 🛍️",
+        "cards": [
+          {
+            "title": "세일 기간",
+            "content": "무인양품 여름 '좋아요 축제'가 7월 13일까지 진행됩니다. 온라인 스토어는 7월 14일 오전 10시까지 연장되니 서두르세요!",
+            "alt_text": "무인양품 여름 세일 기간 안내"
+          },
+          {
+            "title": "인기 상품",
+            "content": "시원한 착용감의 천竺 니트 티셔츠를 790엔에 만나볼 수 있습니다. 여름철 필수템을 저렴하게 구매할 기회입니다.",
+            "alt_text": "무인양품 천竺 니트 티셔츠"
+          },
+          {
+            "title": "냉감 상품",
+            "content": "무인양품의 냉감 미스트와 더치 커피 메이커는 10% 할인된 가격으로 구매 가능합니다. 더운 여름 시원하게 보내세요!",
+            "alt_text": "무인양품 냉감 미스트와 더치 커피 메이커"
+          },
+          {
+            "title": "쇼핑 팁",
+            "content": "일본 여행 중 무인양품에 들러 여름 필수템을 할인된 가격으로 득템하세요. 현지에서만 만날 수 있는 특별한 상품도 있을 수 있습니다.",
+            "alt_text": "일본 무인양품 매장 전경"
+          },
+          {
+            "title": "주의사항",
+            "content": "세일 기간이 얼마 남지 않았으니, 방문 전 가까운 매장의 영업 시간과 재고를 확인하는 것이 좋습니다. 온라인 스토어 이용 시 배송 기간도 고려하세요.",
+            "alt_text": "무인양품 쇼핑백"
+          }
+        ],
+        "caption": "일본 여행 중 무인양품 쇼핑 계획 있으신가요? 🇯🇵\n\n무인양품 여름 '좋아요 축제'가 곧 종료됩니다! 🚨\n\n✅ 천竺 니트 티셔츠: 790엔\n✅ 냉감 미스트 & 더치 커피 메이커: 10% 할인\n\n7월 13일까지, 온라인 스토어는 7월 14일 오전 10시까지 진행되니 서두르세요! 🛍️\n\n#일본여행 #플라잉재팬 #무인양품 #무인양품세일 #일본쇼핑 #여행정보 #득템찬스 #여름세일",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#무인양품",
+          "#무인양품세일",
+          "#일본쇼핑",
+          "#여행정보",
+          "#득템찬스",
+          "#여름세일",
+          "#일본직구",
+          "#여행꿀팁",
+          "#일본생활",
+          "#일본물가",
+          "#일본쇼핑리스트",
+          "#여행스타그램",
+          "#일본니토리"
+        ],
+        "alt_texts": [
+          "무인양품 여름 세일 기간 안내",
+          "무인양품 천竺 니트 티셔츠",
+          "무인양품 냉감 미스트와 더치 커피 메이커",
+          "일본 무인양품 매장 전경",
+          "무인양품 쇼핑백"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 세일 정보에 대한 관심 및 구매 욕구 증가, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 할인율과 가격, 종료 임박 정보로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "MUJI summer sale, MUJI t-shirt, MUJI mist, MUJI coffee maker, Japan shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/MUJI-summer-sale,-MUJI-t-shirt,-MUJI-mist,-MUJI-coffee-maker,-Japan-shopping",
+        "pexels_url": "https://www.pexels.com/search/MUJI%20summer%20sale,%20MUJI%20t-shirt,%20MUJI%20mist,%20MUJI%20coffee%20maker,%20Japan%20shopping/"
+      }
+    },
     {
       "id": "plan_fbedb681",
       "created_at": "2026-07-13T00:11:25.256488",
@@ -923,160 +1077,6 @@
         "keyword": "tokyu line, japan train, 100 yen ticket, summer vacation, travel pass",
         "unsplash_url": "https://unsplash.com/s/photos/tokyu-line,-japan-train,-100-yen-ticket,-summer-vacation,-travel-pass",
         "pexels_url": "https://www.pexels.com/search/tokyu%20line,%20japan%20train,%20100%20yen%20ticket,%20summer%20vacation,%20travel%20pass/"
-      }
-    },
-    {
-      "id": "plan_c72f1290",
-      "created_at": "2026-07-09T04:06:41.912438",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東海×名探偵コナン、東海道新幹線で謎解きキャンペーン。全問正解すると限定アクキーもらえる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2123522.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센에서 즐기는 코난 찐팬을 위한 역대급 콜라보!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 코난X신칸센 🕵️‍♀️ 8/10~11/9",
-        "cards": [
-          {
-            "title": "코난 찐팬 모여!",
-            "content": "JR東海이 TV 애니메이션 '명탐정 코난'과 함께 특별한 콜라보 캠페인을 진행합니다. 동海道 신칸센에서 코난과 함께 떠나는 미스터리 추리 여행을 즐겨보세요!",
-            "alt_text": "명탐정 코난 캐릭터와 신칸센이 함께 있는 콜라보 캠페인 이미지"
-          },
-          {
-            "title": "캠페인 기간",
-            "content": "총 2차에 걸쳐 진행됩니다. 1차: 2024년 8월 10일(토) ~ 9월 18일(수), 2차: 2024년 9월 19일(목) ~ 11월 9일(토). 놓치지 마세요!",
-            "alt_text": "캠페인 기간을 나타내는 달력 이미지"
-          },
-          {
-            "title": "전원 선물 증정!",
-            "content": "캠페인 기간 동안 제공되는 퀴즈를 모두 풀면, 오직 이 캠페인에서만 만날 수 있는 한정판 아크릴 키홀더를 증정합니다. 득템 찬스!",
-            "alt_text": "명탐정 코난 캐릭터가 그려진 한정판 아크릴 키홀더 이미지"
-          },
-          {
-            "title": "추리 여행의 시작",
-            "content": "동海道 신칸센을 타고 떠나는 특별한 추리 여행! 창밖 풍경을 감상하며 코난과 함께 사건을 해결하는 짜릿한 경험을 선사합니다.",
-            "alt_text": "신칸센 창밖으로 보이는 일본의 풍경 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "JR東海 공식 홈페이지에서 캠페인 상세 정보를 미리 확인하고, 동海道 신칸센 티켓 예매 시 코난 콜라보 상품을 고려해보세요. 여행의 재미를 더할 수 있습니다.",
-            "alt_text": "JR東海 홈페이지 화면 캡처 이미지"
-          }
-        ],
-        "caption": "🚄 일본 여행 중 특별한 추억을 만들고 싶다면? 🕵️‍♀️ \nJR東海과 명탐정 코난이 역대급 콜라보를 진행합니다! \n동海道 신칸센에서 코난과 함께 미스터리 추리 여행을 떠나고, 퀴즈를 모두 풀면 한정판 아크릴 키홀더까지 득템할 수 있어요! \n\n✨ 캠페인 기간: 2024년 8월 10일 ~ 11월 9일 (2차로 나뉘어 진행) \n\n코난 팬이라면 절대 놓칠 수 없는 기회! 지금 바로 계획 세워보세요! ✍️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#명탐정코난",
-          "#코난",
-          "#신칸센",
-          "#JR東海",
-          "#일본교통",
-          "#일본이벤트",
-          "#일본축제",
-          "#일본여행정보",
-          "#일본여행꿀팁",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#추리여행",
-          "#한정판굿즈"
-        ],
-        "alt_texts": [
-          "명탐정 코난 캐릭터와 신칸센이 함께 있는 콜라보 캠페인 이미지",
-          "캠페인 기간을 나타내는 달력 이미지",
-          "명탐정 코난 캐릭터가 그려진 한정판 아크릴 키홀더 이미지",
-          "신칸센 창밖으로 보이는 일본의 풍경 이미지",
-          "JR東海 홈페이지 화면 캡처 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 명탐정 코난 팬층 / 최적 게시 시간: 여행 계획을 세우는 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 공유, 캠페인 참여 문의 증가 / 이 콘텐츠의 강점: 유명 IP와의 콜라보로 인한 높은 화제성과 실질적인 혜택(한정판 굿즈) 제공",
-      "image": {
-        "keyword": "Detective Conan, Shinkansen, Collaboration, Japan travel, Limited edition goods",
-        "unsplash_url": "https://unsplash.com/s/photos/Detective-Conan,-Shinkansen,-Collaboration,-Japan-travel,-Limited-edition-goods",
-        "pexels_url": "https://www.pexels.com/search/Detective%20Conan,%20Shinkansen,%20Collaboration,%20Japan%20travel,%20Limited%20edition%20goods/"
-      }
-    },
-    {
-      "id": "plan_4aca905e",
-      "created_at": "2026-07-09T04:06:34.706649",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海道新幹線の完全個室「スプリームクラスキャビン」に乗ってきた。JR東海の本気を感じる、最上級の車内設備を解説！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2123270.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센 최상위 클래스 '스프림 클래스 캐빈' 드디어 공개! 료칸급 편안함 예약 필수!"
-      },
-      "content": {
-        "thumbnail_title": "✨신칸센 신세계✨",
-        "cards": [
-          {
-            "title": "최상급 클래스",
-            "content": "JR東海, 10월부터 도카이도·산요 신칸센에 '스프림 클래스 캐빈' 도입. 기존 그린샤보다 한 단계 높은 최상위 좌석이 탄생합니다.",
-            "alt_text": "신칸센 스프림 클래스 캐빈 외부 모습"
-          },
-          {
-            "title": "독립된 공간",
-            "content": "완전 개별실 형태로, 1인 또는 2인이 편안하게 여행할 수 있는 구조. 비즈니스 미팅이나 온전한 휴식을 원하는 여행객에게 최적입니다.",
-            "alt_text": "신칸센 스프림 클래스 캐빈 내부 좌석 모습"
-          },
-          {
-            "title": "프리미엄 서비스",
-            "content": "최고급 시트, 편의시설, 전담 서비스 등 JR東海의 모든 역량을 집약한 서비스 제공 예정. 일본 여행의 격을 높여줄 경험입니다.",
-            "alt_text": "신칸센 스프림 클래스 캐빈 내부 편의시설 모습"
-          },
-          {
-            "title": "가격 정보",
-            "content": "정확한 요금은 추후 공개 예정이나, 기존보다 높은 가격대로 책정될 것으로 예상됩니다. 최고의 경험을 위한 투자!",
-            "alt_text": "신칸센 스프림 클래스 캐빈 예약 안내 이미지"
-          },
-          {
-            "title": "예약 꿀팁",
-            "content": "새로운 좌석인 만큼 초기 예약 경쟁이 치열할 것으로 예상됩니다. JR東海 공식 홈페이지 및 관련 예약 채널을 주시하며 빠르게 예약하세요!",
-            "alt_text": "신칸센 예약 화면 이미지"
-          }
-        ],
-        "caption": "일본 신칸센, 이제 료칸처럼 편안하게 즐기세요! 🚄✨\nJR東海이 10월부터 도카이도·산요 신칸센에 '스프림 클래스 캐빈'을 도입합니다. 완전 개별실로 프라이빗한 공간과 최고급 서비스를 경험할 수 있어요. 일본 여행의 새로운 기준이 될 '스프림 클래스 캐빈', 놓치지 마세요!\n\n#신칸센 #일본여행 #스프림클래스 #JR도카이",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#스프림클래스",
-          "#JR도카이",
-          "#일본교통",
-          "#일본기차",
-          "#일본여행정보",
-          "#도쿄여행",
-          "#오사카여행",
-          "#프리미엄여행",
-          "#일본신상",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#일본스타그램"
-        ],
-        "alt_texts": [
-          "신칸센 스프림 클래스 캐빈 외부 모습",
-          "신칸센 스프림 클래스 캐빈 내부 좌석 모습",
-          "신칸센 스프림 클래스 캐빈 내부 편의시설 모습",
-          "신칸센 스프림 클래스 캐빈 예약 안내 이미지",
-          "신칸센 예약 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 신칸센 탑승 경험이 있거나, 특별한 일본 여행을 원하는 한국인 여행객 / 최적 게시 시간: 평일 오후 7시~9시 / 기대 반응: 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 최신 신칸센 정보, 차별화된 고급 경험 강조",
-      "image": {
-        "keyword": "Shinkansen Supreme Class Cabin interior, Japanese bullet train private room, luxury train travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Supreme-Class-Cabin-interior,-Japanese-bullet-train-private-room,-luxury-train-travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Supreme%20Class%20Cabin%20interior,%20Japanese%20bullet%20train%20private%20room,%20luxury%20train%20travel%20Japan/"
       }
     }
   ]
