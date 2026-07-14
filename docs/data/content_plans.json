@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-14T00:07:21.565413",
+  "last_updated": "2026-07-14T03:22:40.463650",
   "plans": [
+    {
+      "id": "plan_2d0a7254",
+      "created_at": "2026-07-14T03:22:38.463487",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーオフィシャルホテルでチデ柄ポーチがもらえる。ハロウィーン連動プラン宿泊者向け",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124784.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 할로윈 한정 굿즈, 놓치면 후회!"
+      },
+      "content": {
+        "thumbnail_title": "🎃디즈니 할로윈 굿즈 득템 찬스!",
+        "cards": [
+          {
+            "title": "할로윈 숙박 플랜",
+            "content": "도쿄 디즈니리조트 공식 호텔에서 할로윈 연동 '한정 오리지널 굿즈 증정 숙박 플랜'을 판매합니다. 9월 16일부터 10월 31일까지 투숙하는 분들에게 특별 혜택이 주어집니다.",
+            "alt_text": "도쿄 디즈니리조트 공식 호텔에서 제공하는 할로윈 테마 숙박 플랜 안내"
+          },
+          {
+            "title": "굿즈 증정 상세",
+            "content": "이번 플랜은 치키와 데일 패턴의 파우치를 증정하는 것으로 알려졌습니다. 할로윈 시즌에만 만날 수 있는 특별한 디자인의 굿즈입니다.",
+            "alt_text": "치키와 데일 패턴의 할로윈 한정 파우치 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "예약은 숙박일 2개월 전 같은 날부터 가능합니다. 예를 들어 9월 16일 숙박을 원한다면 7월 16일부터 예약할 수 있습니다.",
+            "alt_text": "도쿄 디즈니리조트 공식 호텔 예약 페이지 안내"
+          },
+          {
+            "title": "투숙 대상 기간",
+            "content": "한정 굿즈를 받을 수 있는 대상 기간은 2024년 9월 16일부터 10월 31일까지입니다. 이 기간 동안 해당 플랜으로 숙박해야 합니다.",
+            "alt_text": "할로윈 시즌 투숙 기간 안내 캘린더"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "디즈니 팬이라면 절대 놓칠 수 없는 기회! 할로윈 분위기를 만끽하며 특별한 기념품까지 챙길 수 있는 절호의 찬스입니다. 지금 바로 예약하세요!",
+            "alt_text": "디즈니 할로윈 테마 장식과 함께 즐거워하는 관광객 모습"
+          }
+        ],
+        "caption": "🎃 도쿄 디즈니리조트 공식 호텔에서 특별한 할로윈을! 🎃\n\n9월 16일부터 10월 31일까지 투숙하는 분들을 위해 치키와 데일 패턴의 한정 오리지널 굿즈(파우치)를 증정하는 숙박 플랜이 출시되었어요!\n\n예약은 숙박일 2개월 전부터 가능하니, 서둘러서 특별한 할로윈 추억을 만들어 보세요!\n\n#디즈니할로윈 #도쿄디즈니리조트 #한정굿즈",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니할로윈",
+          "#디즈니굿즈",
+          "#치키와데일",
+          "#일본숙소",
+          "#호텔플랜",
+          "#여행정보",
+          "#일본축제",
+          "#여행꿀팁",
+          "#도쿄여행",
+          "#할로윈",
+          "#오리지널굿즈"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니리조트 공식 호텔에서 제공하는 할로윈 테마 숙박 플랜 안내",
+          "치키와 데일 패턴의 할로윈 한정 파우치 이미지",
+          "도쿄 디즈니리조트 공식 호텔 예약 페이지 안내",
+          "할로윈 시즌 투숙 기간 안내 캘린더",
+          "디즈니 할로윈 테마 장식과 함께 즐거워하는 관광객 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간 (20시~22시) / 기대 반응: 높은 관심과 예약 문의, 정보 공유 / 이 콘텐츠의 강점: 시즌 한정, 인기 캐릭터, 실질적인 혜택 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland Halloween hotel plan, Chip 'n' Dale pouch, limited edition goods, travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween-hotel-plan,-Chip-'n'-Dale-pouch,-limited-edition-goods,-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween%20hotel%20plan,%20Chip%20'n'%20Dale%20pouch,%20limited%20edition%20goods,%20travel%20Japan/"
+      }
+    },
+    {
+      "id": "plan_de07e32c",
+      "created_at": "2026-07-14T03:22:29.940163",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALマイレージバンクとMarriott Bonvoyでステイタスマッチ。会員ランクに応じて資格の自動付与など",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124864.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL과 메리어트 본보이 회원이라면 주목! 항공 마일리지와 호텔 숙박 혜택을 동시에 누릴 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL x 메리어트✨동시 혜택!",
+        "cards": [
+          {
+            "title": "✈️JAL x 메리어트",
+            "content": "JAL 마일리지 뱅크와 메리어트 본보이가 7월 14일, 특별한 파트너십을 체결했어요. 이제 두 멤버십을 함께 활용할 수 있습니다.",
+            "alt_text": "JAL 항공기와 메리어트 호텔 로고가 함께 있는 이미지"
+          },
+          {
+            "title": "✨스테이타스 매치",
+            "content": "JAL 마일리지 뱅크 회원이라면, 본보이 회원 등급을 자동으로 부여받을 수 있어요. 반대의 경우도 마찬가지로 적용됩니다.",
+            "alt_text": "회원 등급 표시가 올라가는 그래프 이미지"
+          },
+          {
+            "title": "혜택 자동 부여",
+            "content": "회원 등급에 따라 자동으로 혜택이 부여되므로, 별도의 신청 절차 없이 편리하게 이용 가능합니다. (자세한 내용은 추후 공개 예정)",
+            "alt_text": "자동으로 혜택이 적용되는 모습 이미지"
+          },
+          {
+            "title": "더 많은 혜택",
+            "content": "항공권 구매와 호텔 숙박 시 마일리지/포인트 적립 및 사용이 더욱 용이해져, 일본 여행 시 혜택을 극대화할 수 있습니다.",
+            "alt_text": "항공권과 호텔 예약 화면 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "JAL 마일리지 뱅크와 메리어트 본보이 회원이라면, 이번 기회를 놓치지 마세요! 자세한 혜택 내용은 곧 업데이트될 예정이니, @flyingjapan 팔로우하고 최신 정보를 받아보세요!",
+            "alt_text": "알림 설정 아이콘과 함께 '놓치지 마세요!' 문구가 있는 이미지"
+          }
+        ],
+        "caption": "✈️ JAL 마일리지 뱅크 x 메리어트 본보이 회원이라면 주목! ✨\n7월 14일부로 두 멤버십 간 '스테이타스 매치' 파트너십이 체결되었습니다. 🤩\n이제 JAL 회원도 메리어트 본보이 등급을, 메리어트 본보이 회원도 JAL 등급을 자동으로 부여받을 수 있어요! 🚀\n일본 여행 시 항공과 숙박 혜택을 동시에 누릴 절호의 기회! 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #JAL #메리어트본보이 #스테이타스매치 #항공마일리지 #호텔숙박 #여행혜택 #일본항공 #일본호텔 #일본여행준비 #여행꿀팁 #여행정보 #마일리지 #포인트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#메리어트본보이",
+          "#스테이타스매치",
+          "#항공마일리지",
+          "#호텔숙박",
+          "#여행혜택",
+          "#일본항공",
+          "#일본호텔",
+          "#일본여행준비",
+          "#여행꿀팁",
+          "#여행정보",
+          "#마일리지",
+          "#포인트"
+        ],
+        "alt_texts": [
+          "JAL 항공기와 메리어트 호텔 로고가 함께 있는 이미지",
+          "회원 등급 표시가 올라가는 그래프 이미지",
+          "자동으로 혜택이 적용되는 모습 이미지",
+          "항공권과 호텔 예약 화면 이미지",
+          "알림 설정 아이콘과 함께 '놓치지 마세요!' 문구가 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: JAL 마일리지 뱅크 또는 메리어트 본보이 회원인 한국인 일본 여행 예정자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 실질적인 혜택 정보 제공 및 회원 등급 연동이라는 매력적인 포인트",
+      "image": {
+        "keyword": "JAL Marriott Bonvoy status match partnership Japan travel benefits",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Marriott-Bonvoy-status-match-partnership-Japan-travel-benefits",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Marriott%20Bonvoy%20status%20match%20partnership%20Japan%20travel%20benefits/"
+      }
+    },
     {
       "id": "plan_00e8d61f",
       "created_at": "2026-07-14T00:07:19.565198",
@@ -923,160 +1077,6 @@
         "keyword": "Shinagawa station Shinkansen elevator construction",
         "unsplash_url": "https://unsplash.com/s/photos/Shinagawa-station-Shinkansen-elevator-construction",
         "pexels_url": "https://www.pexels.com/search/Shinagawa%20station%20Shinkansen%20elevator%20construction/"
-      }
-    },
-    {
-      "id": "plan_3409df11",
-      "created_at": "2026-07-10T04:06:31.286644",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストア、シティポップな「スティッチ＆エンジェル」新作。Tシャツ/保冷トート/タンブラーほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124122.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 스티치 & 엔젤 한정판 굿즈!"
-      },
-      "content": {
-        "thumbnail_title": "💖스티치&엔젤 신상 굿즈💖",
-        "cards": [
-          {
-            "title": "7월 17일 출시",
-            "content": "디즈니 스토어에서 영화 '리로 & 스티치'의 인기 캐릭터, 스티치와 엔젤의 새로운 컬렉션을 7월 17일에 출시합니다. 귀여운 디자인의 다양한 상품을 만나보세요!",
-            "alt_text": "스티치와 엔젤 캐릭터가 그려진 굿즈 이미지"
-          },
-          {
-            "title": "선행 판매 시작",
-            "content": "정식 출시일보다 빠른 7월 14일부터 디즈니 플래그십 도쿄, 도쿄 디즈니리조트점, 공식 온라인 스토어에서 선행 판매를 시작합니다. 서둘러 득템하세요!",
-            "alt_text": "디즈니 스토어 매장 전경 이미지"
-          },
-          {
-            "title": "어떤 상품?",
-            "content": "이번 컬렉션에는 티셔츠, 보냉 토트백, 텀블러 등 실용적인 아이템들이 포함되어 있습니다. 여행 중에도 유용하게 사용할 수 있는 굿즈들입니다.",
-            "alt_text": "티셔츠, 보냉 토트백, 텀블러 등 상품 이미지"
-          },
-          {
-            "title": "시티팝 감성",
-            "content": "이번 신상품은 시티팝 감성을 담은 디자인으로 출시되어 더욱 특별합니다. 일본 여행 기념품으로도, 평소 소장용으로도 안성맞춤입니다.",
-            "alt_text": "시티팝 스타일의 일러스트 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 관심 있다면 선행 판매 기간을 놓치지 마세요! 온라인 스토어는 한국에서도 접속 가능합니다.",
-            "alt_text": "장바구니에 담긴 굿즈 이미지"
-          }
-        ],
-        "caption": "일본 디즈니 스토어에서 스티치 & 엔젤 신상 굿즈가 7월 17일 출시돼요! 💖\n7월 14일부터 디즈니 플래그십 도쿄, 도쿄 디즈니리조트점, 공식 온라인 스토어에서 선행 판매 시작!\n티셔츠, 보냉 토트백, 텀블러 등 시티팝 감성 가득한 아이템들을 만나보세요! 🛍️\n일본 여행 계획 중이라면 잊지 말고 방문하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#스티치",
-          "#엔젤",
-          "#스티치엔젤",
-          "#일본쇼핑",
-          "#도쿄디즈니",
-          "#키덜트",
-          "#캐릭터굿즈",
-          "#여행선물",
-          "#일본기념품",
-          "#한정판",
-          "#7월여행",
-          "#디즈니덕후"
-        ],
-        "alt_texts": [
-          "스티치와 엔젤 캐릭터가 그려진 굿즈 이미지",
-          "디즈니 스토어 매장 전경 이미지",
-          "티셔츠, 보냉 토트백, 텀블러 등 상품 이미지",
-          "시티팝 스타일의 일러스트 이미지",
-          "장바구니에 담긴 굿즈 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 2030 여성, 디즈니 팬 / 최적 게시 시간: 오후 7시~9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 시기적절한 신상품 정보, 구체적인 출시일 및 판매처 명시",
-      "image": {
-        "keyword": "stitch angel disney store japan new collection",
-        "unsplash_url": "https://unsplash.com/s/photos/stitch-angel-disney-store-japan-new-collection",
-        "pexels_url": "https://www.pexels.com/search/stitch%20angel%20disney%20store%20japan%20new%20collection/"
-      }
-    },
-    {
-      "id": "plan_44ad5358",
-      "created_at": "2026-07-10T04:06:24.854870",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "成田空港の土地収用制度活用は「やむを得ないものとして受け止める」。新滑走路の用地確保率は4月の89.7％から6月末で90.4％へ上昇",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124129.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나리타 공항 신활주로 건설, 한국 여행객에게 어떤 영향이 있을까?"
-      },
-      "content": {
-        "thumbnail_title": "✈️나리타 공항 확장 임박!",
-        "cards": [
-          {
-            "title": "신활주로 추진",
-            "content": "나리타 공항 신활주로 건설을 위한 토지 확보율이 90.4%까지 상승했습니다. 이는 2024년 4월 기준 89.7%에서 소폭 상승한 수치입니다.",
-            "alt_text": "나리타 공항 신활주로 건설 계획을 알리는 그래픽"
-          },
-          {
-            "title": "토지 수용 진행",
-            "content": "나리타 국제공항, 국토교통성, 치바현 및 관련 3개 시/정촌이 '나리타 공항 활주로 신증설 추진 협의회'를 개최했습니다. 토지 수용 제도 활용이 불가피하다는 입장을 확인했습니다.",
-            "alt_text": "관계자들이 회의하는 모습"
-          },
-          {
-            "title": "공항 확장 영향",
-            "content": "신활주로 건설이 완료되면 나리타 공항의 항공기 운항 능력 증대가 예상됩니다. 이는 향후 한국과 일본을 오가는 항공편 증설 및 스케줄 다양화로 이어질 수 있습니다.",
-            "alt_text": "활주로에서 이륙하는 항공기"
-          },
-          {
-            "title": "여행 편의 기대",
-            "content": "공항 확장으로 인해 출입국 심사 및 수하물 처리 시간이 단축될 가능성이 있습니다. 또한, 공항 내 편의시설 확충으로 더욱 쾌적한 여행 환경이 조성될 것으로 기대됩니다.",
-            "alt_text": "넓고 현대적인 공항 터미널 내부"
-          },
-          {
-            "title": "향후 업데이트 주목",
-            "content": "공사 진행 상황 및 예상 완공 시점 등 구체적인 정보는 계속 업데이트될 예정입니다. 나리타 공항 이용 예정이신 분들은 최신 소식을 꼭 확인하세요!",
-            "alt_text": "정보 업데이트를 알리는 알림 아이콘"
-          }
-        ],
-        "caption": "✈️ 나리타 공항 확장 소식! ✈️\n\n나리타 공항 신활주로 건설이 순조롭게 진행 중이라는 소식입니다! 🛫\n\n토지 확보율 90.4% 달성, 향후 공항 확장으로 한국 여행객들의 일본 여행이 더욱 편리해질 것으로 기대됩니다. 🤩\n\n항공편 증설, 운항 시간 단축 등 긍정적인 변화를 기대하며, 앞으로의 진행 상황을 함께 주목해 보아요! ✨\n\n#나리타공항 #일본공항 #일본여행정보 #공항확장 #여행꿀팁 #플라잉재팬 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나리타공항",
-          "#일본공항",
-          "#공항확장",
-          "#일본교통",
-          "#여행정보",
-          "#일본항공",
-          "#여행준비",
-          "#해외여행",
-          "#일본",
-          "#여행스타그램",
-          "#나리타",
-          "#공항",
-          "#항공편"
-        ],
-        "alt_texts": [
-          "나리타 공항 신활주로 건설 계획을 알리는 그래픽",
-          "관계자들이 회의하는 모습",
-          "활주로에서 이륙하는 항공기",
-          "넓고 현대적인 공항 터미널 내부",
-          "정보 업데이트를 알리는 알림 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 정보 습득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 한국 여행객에게 직접적인 영향을 줄 수 있는 공항 인프라 변화에 대한 선제적 정보 제공",
-      "image": {
-        "keyword": "Narita Airport expansion, new runway construction, airport development, travel convenience, Japan aviation news",
-        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-expansion,-new-runway-construction,-airport-development,-travel-convenience,-Japan-aviation-news",
-        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20expansion,%20new%20runway%20construction,%20airport%20development,%20travel%20convenience,%20Japan%20aviation%20news/"
       }
     }
   ]
