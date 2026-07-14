@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-13T03:49:30.156330",
+  "last_updated": "2026-07-14T00:07:21.565413",
   "plans": [
+    {
+      "id": "plan_00e8d61f",
+      "created_at": "2026-07-14T00:07:19.565198",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京モノレール、8月13日からお盆臨時ダイヤ。平日朝6時台と土休夜に「空港快速」を拡充",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124804.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 필수! 오봉 기간 도쿄 모노레일 특별 운행 정보 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️오봉 도쿄 모노레일 특별 운행!",
+        "cards": [
+          {
+            "title": "특별 운행 정보",
+            "content": "2026년 오봉 기간, 도쿄 모노레일이 임시 다이어를 실시합니다. 하네다 공항 접근성을 높이기 위한 조치입니다.",
+            "alt_text": "도쿄 모노레일 열차 이미지"
+          },
+          {
+            "title": "평일 아침 확대",
+            "content": "특히 평일 아침 6시 대 '공항 쾌속' 열차가 증편됩니다. 출근 시간대 혼잡 완화 및 공항 이동 시간 단축에 도움이 될 것으로 예상됩니다.",
+            "alt_text": "도쿄 모노레일 노선도 이미지"
+          },
+          {
+            "title": "주말/휴일 저녁 확대",
+            "content": "토요일 및 공휴일 저녁에도 '공항 쾌속' 열차 운행이 확대됩니다. 늦은 시간 공항으로 이동하는 여행객들에게 희소식입니다.",
+            "alt_text": "도쿄 야경과 모노레일 이미지"
+          },
+          {
+            "title": "여행 계획 참고",
+            "content": "오봉 기간(8월 13일 시작)에 도쿄를 방문하신다면, 이 특별 운행 정보를 꼭 참고하여 여유로운 공항 이동 계획을 세우세요.",
+            "alt_text": "여행 가방과 일본 지도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "정확한 운행 시간표는 도쿄 모노레일 공식 홈페이지에서 확인하시는 것이 가장 좋습니다. 미리 확인하여 불필요한 대기 시간을 줄이세요!",
+            "alt_text": "스마트폰으로 시간표 확인하는 모습 이미지"
+          }
+        ],
+        "caption": "✈️ 2026년 오봉 기간, 도쿄 모노레일 특별 운행 안내!\n\n8월 13일부터 시작되는 오봉 연휴, 도쿄 여행 계획 중이신가요?\n\n도쿄 모노레일이 하네다 공항 접근성 향상을 위해 임시 다이어를 실시합니다.\n\n✅ 평일 아침 6시 대 '공항 쾌속' 증편!\n✅ 주말/휴일 저녁 '공항 쾌속' 운행 확대!\n\n늦은 시간 공항 이동이나 아침 일찍 출발하시는 분들께 희소식이에요!\n\n오봉 기간 도쿄 여행 시, 이 정보 꼭 기억하시고 여유로운 공항 이동 되세요! 💖\n\n#일본여행 #도쿄여행 #도쿄모노레일 #오봉 #하네다공항 #여행정보 #플라잉재팬 #여행꿀팁 #교통정보 #일본교통 #도쿄 #여행스타그램 #일본 #해외여행 #필수정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄모노레일",
+          "#오봉",
+          "#하네다공항",
+          "#일본교통",
+          "#도쿄",
+          "#여행정보",
+          "#여행꿀팁",
+          "#공항가는길",
+          "#일본",
+          "#해외여행",
+          "#일본자유여행",
+          "#필수정보"
+        ],
+        "alt_texts": [
+          "도쿄 모노레일 열차 이미지",
+          "도쿄 모노레일 노선도 이미지",
+          "도쿄 야경과 모노레일 이미지",
+          "여행 가방과 일본 지도 이미지",
+          "스마트폰으로 시간표 확인하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 2026년 오봉 기간 도쿄 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 1시 ~ 4시 / 기대 반응: 정보 획득 및 공유, 여행 계획 반영 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 구체적인 운행 확대 내용 명시",
+      "image": {
+        "keyword": "Tokyo Monorail, Haneda Airport, Obon holiday, Japan travel, public transport",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Monorail,-Haneda-Airport,-Obon-holiday,-Japan-travel,-public-transport",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Monorail,%20Haneda%20Airport,%20Obon%20holiday,%20Japan%20travel,%20public%20transport/"
+      }
+    },
+    {
+      "id": "plan_4599bd43",
+      "created_at": "2026-07-14T00:07:12.795771",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 山下家、1泊2食が最大30％オフ。加賀随一の天空露天風呂＆カニづくしバイキング",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124805.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "최대 30% 할인! 일본 온천 & 카니 뷔페 특가 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 30% 할인♨️",
+        "cards": [
+          {
+            "title": "특가 찬스!",
+            "content": "오에도온천 이야기 프리미엄 야마시타가, 1박 2식 최대 30% 할인 프로모션 진행 중입니다. 7월 21일까지 楽天 트래블에서 예약 가능해요.",
+            "alt_text": "오에도온천 이야기 프리미엄 야마시타가 숙소 할인 정보"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "지금 楽天 트래블에서 진행하는 '서머 세일'을 통해 일본 전역의 호텔 및 온천 숙소를 특별 할인가로 만나보세요. 쿠폰까지 중복 사용하면 최대 30% 할인이 가능합니다.",
+            "alt_text": "일본 전역 숙소 할인 프로모션 진행 중"
+          },
+          {
+            "title": "가성비 최고",
+            "content": "카가 지역 최고의 천공 노천탕과 맛있는 카니(게) 뷔페를 합리적인 가격으로 즐길 수 있는 기회입니다. 여름 휴가 계획 중이라면 서둘러 예약하세요!",
+            "alt_text": "카가 지역 최고의 온천과 게 요리 뷔페"
+          },
+          {
+            "title": "예약 꿀팁",
+            "content": "할인 혜택은 7월 21일까지 진행되며, 재고 소진 시 조기 마감될 수 있습니다. 늦기 전에 楽天 트래블에서 '서머 세일' 플랜을 확인하고 쿠폰 적용까지 잊지 마세요!",
+            "alt_text": "서머 세일 기간 및 쿠폰 적용 팁"
+          },
+          {
+            "title": "여행 준비!",
+            "content": "일본의 아름다운 온천과 맛있는 음식을 저렴하게 즐길 수 있는 이번 기회를 놓치지 마세요. 숙소 예약을 미리 완료하고 편안한 일본 여행을 계획해 보세요!",
+            "alt_text": "일본 온천 여행 준비 및 예약 권유"
+          }
+        ],
+        "caption": "♨️ 역대급 할인! 오에도온천 이야기 프리미엄 야마시타가 1박 2식 최대 30% OFF! ♨️\n\n카가 지역 최고의 천공 노천탕과 신선한 카니(게) 뷔페를 즐길 수 있는 절호의 찬스! 🦀\n\n7월 21일까지 楽天 트래블 '서머 세일'을 통해 예약 시, 쿠폰 중복 사용으로 최대 30% 할인이 가능합니다.\n\n지금 바로 楽天 트래블에서 특별 할인가로 여름 휴가를 계획하세요! ✈️\n\n#일본온천 #오에도온천 #카니뷔페 #일본숙소 #楽天트래블 #서머세일 #일본여행할인 #가성비여행 #일본여름휴가 #여행스타그램 #플라잉재팬 #일본자유여행 #온천여행 #료칸추천 #일본여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#오에도온천",
+          "#카니뷔페",
+          "#일본숙소",
+          "#楽天트래블",
+          "#서머세일",
+          "#일본여행할인",
+          "#가성비여행",
+          "#일본여름휴가",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#온천여행",
+          "#료칸추천"
+        ],
+        "alt_texts": [
+          "오에도온천 이야기 프리미엄 야마시타가 숙소 할인 정보",
+          "일본 전역 숙소 할인 프로모션 진행 중",
+          "카가 지역 최고의 온천과 게 요리 뷔페",
+          "서머 세일 기간 및 쿠폰 적용 팁",
+          "일본 온천 여행 준비 및 예약 권유"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌을 맞아 일본 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 목요일 오후 7시 / 기대 반응: 숙소 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 즉각적인 할인 혜택 강조, 구체적인 할인율 및 기간 명시, 매력적인 숙소 특징 제시",
+      "image": {
+        "keyword": "japanese hot spring ryokan, crab buffet, discount promotion, travel sale",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan,-crab-buffet,-discount-promotion,-travel-sale",
+        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan,%20crab%20buffet,%20discount%20promotion,%20travel%20sale/"
+      }
+    },
     {
       "id": "plan_c606fb8e",
       "created_at": "2026-07-13T03:49:28.156148",
@@ -923,160 +1077,6 @@
         "keyword": "Narita Airport expansion, new runway construction, airport development, travel convenience, Japan aviation news",
         "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-expansion,-new-runway-construction,-airport-development,-travel-convenience,-Japan-aviation-news",
         "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20expansion,%20new%20runway%20construction,%20airport%20development,%20travel%20convenience,%20Japan%20aviation%20news/"
-      }
-    },
-    {
-      "id": "plan_286130bd",
-      "created_at": "2026-07-10T00:19:18.669680",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "赤福水ようかんも登場！　7月17日から京王百貨店新宿で「夏のKeioスイーツ博覧会」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2123967.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유명 디저트, 아카후쿠의 여름 한정 수제 양갱을 도쿄에서 맛볼 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄서 맛보는 여름 한정 아카후쿠!",
-        "cards": [
-          {
-            "title": "아카후쿠 수제 양갱",
-            "content": "일본의 유명 디저트 브랜드 '아카후쿠'에서 여름 한정 '수제 양갱'을 선보입니다. 시원하게 즐길 수 있는 특별한 여름 디저트입니다.",
-            "alt_text": "아카후쿠 수제 양갱 이미지"
-          },
-          {
-            "title": "기간 한정 판매",
-            "content": "이 특별한 수제 양갱은 2024년 7월 17일부터 7월 28일까지 딱 12일간만 판매됩니다. 놓치지 마세요!",
-            "alt_text": "달력에 표시된 7월 17일부터 28일까지의 기간"
-          },
-          {
-            "title": "판매 장소",
-            "content": "도쿄 신주쿠에 위치한 '게이오 백화점 신주쿠점' 7층 대행사장에서 만나볼 수 있습니다. 이 기간 동안 '여름 게이오 스위츠 박람회'가 열립니다.",
-            "alt_text": "게이오 백화점 신주쿠점 건물 외관"
-          },
-          {
-            "title": "쇼핑 팁",
-            "content": "아카후쿠 외에도 다양한 여름 디저트들이 준비될 예정이니, 스위츠를 좋아하신다면 꼭 방문해보세요. 선물용으로도 좋습니다.",
-            "alt_text": "다양한 디저트들이 진열된 모습"
-          },
-          {
-            "title": "방문 전 확인",
-            "content": "행사 기간 및 판매 상품은 현지 사정에 따라 변경될 수 있습니다. 방문 전 게이오 백화점 공식 정보를 확인하는 것이 좋습니다.",
-            "alt_text": "확인 표시가 있는 메모지"
-          }
-        ],
-        "caption": "일본 여행 중 놓칠 수 없는 달콤한 소식! 🍰\n\n7월 17일부터 28일까지, 도쿄 게이오 백화점 신주쿠점에서 열리는 '여름 게이오 스위츠 박람회'에 일본 대표 디저트 브랜드 '아카후쿠'가 참여합니다! 🤩\n\n특히 이번에는 여름 한정으로 시원하게 즐길 수 있는 '아카후쿠 수제 양갱'을 선보인다고 해요. 😋\n\n단 12일간만 만날 수 있으니, 신주쿠 방문 계획이 있다면 꼭 들러보세요! 💖\n\n#일본여행 #플라잉재팬 #도쿄여행 #신주쿠 #게이오백화점 #아카후쿠 #여름디저트 #한정판 #스위츠박람회 #일본디저트 #도쿄맛집 #여행정보 #디저트그램 #일본쇼핑 #여름휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#신주쿠",
-          "#게이오백화점",
-          "#아카후쿠",
-          "#여름디저트",
-          "#한정판",
-          "#스위츠박람회",
-          "#일본디저트",
-          "#도쿄맛집",
-          "#여행정보",
-          "#디저트그램",
-          "#일본쇼핑",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "아카후쿠 수제 양갱 이미지",
-          "달력에 표시된 7월 17일부터 28일까지의 기간",
-          "게이오 백화점 신주쿠점 건물 외관",
-          "다양한 디저트들이 진열된 모습",
-          "확인 표시가 있는 메모지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 방문 예정인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 습득 및 공유, 방문 계획 수립 / 이 콘텐츠의 강점: 기간 한정, 유명 브랜드, 신규 상품 정보로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Akabuku wagashi, Keio Department Store Shinjuku, summer dessert exhibition, limited edition sweets, Japanese confectionery",
-        "unsplash_url": "https://unsplash.com/s/photos/Akabuku-wagashi,-Keio-Department-Store-Shinjuku,-summer-dessert-exhibition,-limited-edition-sweets,-Japanese-confectionery",
-        "pexels_url": "https://www.pexels.com/search/Akabuku%20wagashi,%20Keio%20Department%20Store%20Shinjuku,%20summer%20dessert%20exhibition,%20limited%20edition%20sweets,%20Japanese%20confectionery/"
-      }
-    },
-    {
-      "id": "plan_7c8d2025",
-      "created_at": "2026-07-10T00:19:12.676089",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "100円で乗り放題「東急線キッズパス」が夏休みは平日も利用可能に。駅券売機とデジチケ「Q SKIP」で発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2123926.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 도쿄 근교 여행 시 교통비 절약 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "도쿄 100엔 교통권 꿀팁 🚄",
-        "cards": [
-          {
-            "title": "100엔 무제한 탑승",
-            "content": "동경(도큐)선에서 100엔으로 하루 종일 무제한 승하차가 가능한 '도큐선 키즈 패스'가 여름방학 기간 동안 평일에도 이용 가능합니다.",
-            "alt_text": "100엔 동전 이미지"
-          },
-          {
-            "title": "기간 한정 혜택",
-            "content": "원래 주말 및 공휴일에만 이용 가능했던 이 패스가 2024년 7월 17일부터 8월 30일까지 여름방학 기간 동안은 평일에도 확대 운영됩니다.",
-            "alt_text": "달력에 표시된 여름방학 기간 이미지"
-          },
-          {
-            "title": "이용 방법",
-            "content": "역 자동 발매기 또는 디지털 티켓 'Q SKIP'을 통해 구매 및 이용이 가능합니다.",
-            "alt_text": "일본 지하철역 자동 발매기 이미지"
-          },
-          {
-            "title": "주요 이용 노선",
-            "content": "이 패스는 도큐선 전 노선에서 사용 가능하며, 도쿄 시내 및 근교 이동 시 유용합니다.",
-            "alt_text": "도큐선 노선도 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "어린이 대상 패스이지만, 성인도 동반 탑승이 가능한 경우가 있으니 이용 전 역 직원에게 확인해보세요. 여름철 평일에도 이용 가능하니 도쿄 근교 당일치기 여행 계획 시 교통비를 크게 절약할 수 있습니다.",
-            "alt_text": "일본 지하철 탑승객 이미지"
-          }
-        ],
-        "caption": "도쿄 여행 필수템! 🤩 여름방학 기간, 100엔으로 도큐선 무제한 이용 가능한 '도큐선 키즈 패스' 평일에도 개방! 🚄\n\n✅ 기간: 2024년 7월 17일 ~ 8월 30일 (여름방학 기간)\n✅ 혜택: 100엔으로 도큐선 하루 종일 무제한 탑승!\n✅ 구매: 역 자동 발매기 또는 'Q SKIP' 디지털 티켓\n\n도쿄 근교 여행 계획 중이라면 놓치지 마세요! 😉\n\n#일본여행 #도쿄여행 #도큐선 #교통패스 #여행꿀팁 #여름휴가 #일본교통 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도큐선",
-          "#도큐선키즈패스",
-          "#일본교통",
-          "#여행꿀팁",
-          "#여름휴가",
-          "#도쿄근교",
-          "#일본자유여행",
-          "#가성비여행",
-          "#여행정보",
-          "#일본소식",
-          "#2024여름",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "100엔 동전 이미지",
-          "달력에 표시된 여름방학 기간 이미지",
-          "일본 지하철역 자동 발매기 이미지",
-          "도큐선 노선도 이미지",
-          "일본 지하철 탑승객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름방학 기간 도쿄 근교 여행을 계획하는 한국인 여행객 / 최적 게시 시간: 여행 준비가 활발한 저녁 시간대 (19시~21시) / 기대 반응: 정보 유용성에 대한 긍정적 반응, 공유 및 저장 증가 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 이용 방법 명시로 실질적 도움 제공",
-      "image": {
-        "keyword": "tokyu line, japan train, 100 yen ticket, summer vacation, travel pass",
-        "unsplash_url": "https://unsplash.com/s/photos/tokyu-line,-japan-train,-100-yen-ticket,-summer-vacation,-travel-pass",
-        "pexels_url": "https://www.pexels.com/search/tokyu%20line,%20japan%20train,%20100%20yen%20ticket,%20summer%20vacation,%20travel%20pass/"
       }
     }
   ]
