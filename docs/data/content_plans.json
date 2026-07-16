@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-16T00:10:13.404271",
+  "last_updated": "2026-07-16T03:29:21.907461",
   "plans": [
+    {
+      "id": "plan_d99a3d70",
+      "created_at": "2026-07-16T03:29:19.907294",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "レスポートサック、初の日本限定ハードスーツケース。機内持ち込み35L/65L、容量を拡張できる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2125372.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 한정! 레스포삭 하드 캐리어 출시! ✈️"
+      },
+      "content": {
+        "thumbnail_title": "✨일본한정 레스포삭 캐리어✨",
+        "cards": [
+          {
+            "title": "일본 한정 출시!",
+            "content": "글로벌 브랜드 레스포삭이 일본에서만 만날 수 있는 첫 하드 캐리어 컬렉션을 출시했어요. 7월 15일부터 전국 매장 및 공식 온라인 스토어에서 구매 가능합니다.",
+            "alt_text": "레스포삭 일본 한정 하드 캐리어 컬렉션 이미지"
+          },
+          {
+            "title": "기내용 & 위탁용",
+            "content": "기내 반입 가능한 35L 사이즈와 65L 사이즈 두 가지로 출시됩니다. 넉넉한 수납 공간이 필요하다면 확장 기능까지 갖춘 모델을 선택할 수 있어요.",
+            "alt_text": "레스포삭 캐리어 35L, 65L 사이즈 비교 이미지"
+          },
+          {
+            "title": "온라인 구매 가능",
+            "content": "공식 온라인 스토어뿐만 아니라 아마존, 라쿠텐, 조조타운 등 다양한 온라인 마켓에서도 만나볼 수 있습니다. 일본 여행 전 미리 준비해보세요!",
+            "alt_text": "레스포삭 온라인 스토어 및 주요 판매처 로고 이미지"
+          },
+          {
+            "title": "디자인 & 실용성",
+            "content": "레스포삭 특유의 화려하고 개성 넘치는 패턴은 물론, 가볍고 튼튼한 하드 소재로 제작되어 여행의 편리함을 더해줄 거예요.",
+            "alt_text": "레스포삭 캐리어의 다양한 패턴 디자인 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 여행 시 짐이 늘어날 경우를 대비해 확장 가능한 모델을 선택하는 것이 좋아요. 여행 스타일에 맞춰 최적의 캐리어를 골라보세요!",
+            "alt_text": "캐리어 확장 기능 활용 팁 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 여행 필수템 예감! 레스포삭에서 첫 하드 캐리어를 출시했어요! ✈️\n\n✨ 일본 한정판으로 전국 매장 및 온라인 스토어에서 7월 15일부터 구매 가능!\n✨ 기내용 35L, 위탁용 65L 두 가지 사이즈, 확장 기능까지!\n✨ 가볍고 튼튼한 하드 소재에 레스포삭 시그니처 패턴으로 디자인까지 완벽!\n\n일본 여행 짐 걱정 끝! 나만의 개성을 살릴 수 있는 레스포삭 캐리어로 즐거운 여행을 준비하세요! 💖\n\n#일본쇼핑 #레스포삭 #일본한정판 #여행준비 #캐리어추천",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#레스포삭",
+          "#레스포삭캐리어",
+          "#일본한정",
+          "#여행준비물",
+          "#캐리어",
+          "#하드캐리어",
+          "#기내용캐리어",
+          "#위탁용캐리어",
+          "#일본쇼핑리스트",
+          "#여행스타그램",
+          "#일본직구",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "레스포삭 일본 한정 하드 캐리어 컬렉션 이미지",
+          "레스포삭 캐리어 35L, 65L 사이즈 비교 이미지",
+          "레스포삭 온라인 스토어 및 주요 판매처 로고 이미지",
+          "레스포삭 캐리어의 다양한 패턴 디자인 이미지",
+          "캐리어 확장 기능 활용 팁 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 20-40대 여성 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 일본에서만 구매 가능한 희소성, 유명 브랜드, 실용적인 정보 포함",
+      "image": {
+        "keyword": "Lesportsac hard suitcase Japan limited",
+        "unsplash_url": "https://unsplash.com/s/photos/Lesportsac-hard-suitcase-Japan-limited",
+        "pexels_url": "https://www.pexels.com/search/Lesportsac%20hard%20suitcase%20Japan%20limited/"
+      }
+    },
+    {
+      "id": "plan_eafa7c16",
+      "created_at": "2026-07-16T03:29:12.279349",
+      "category": "tips",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "最初で最後の「SuicaのペンギンシールBOOK」本日発売。24シート×2冊で計1000ピース超え、作品集としても楽しめる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2124802.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "일본 여행 기념품으로 딱! 귀여운 스티커북 출시 소식 🐧"
+      },
+      "content": {
+        "thumbnail_title": "Suica 펭귄 스티커북 🐧 출시!",
+        "cards": [
+          {
+            "title": "신상 스티커북",
+            "content": "일본에서 사랑받는 'Suica의 펭귄' 스티커북이 7월 16일에 출시되었습니다. 총 2가지 테마로 만나볼 수 있어요.",
+            "alt_text": "Suica 펭귄 스티커북 표지 이미지"
+          },
+          {
+            "title": "2가지 테마",
+            "content": "【언제나의 생활편】과 【외출편】으로 나뉘어 출시되었으며, 각 책마다 24장의 스티커 시트가 포함되어 있습니다.",
+            "alt_text": "Suica 펭귄 스티커북 테마별 이미지"
+          },
+          {
+            "title": "풍성한 구성",
+            "content": "총 24시트 x 2권으로 구성되어 1000개 이상의 스티커 조각을 활용할 수 있습니다. 작품집으로도 손색 없어요.",
+            "alt_text": "스티커 시트가 겹쳐진 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "각 스티커북의 가격은 1,760엔입니다. 일본 여행 기념품으로 구매하기 좋은 가격이에요.",
+            "alt_text": "스티커북 가격 정보가 표시된 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "일본 편의점이나 서점에서 구매 가능하며, 여행 중 짐 보관이나 다이어리 꾸미기에 활용하기 좋습니다. 한정판일 수 있으니 서둘러 겟하세요!",
+            "alt_text": "Suica 펭귄 캐릭터가 스티커를 붙이는 모습"
+          }
+        ],
+        "caption": "일본 여행 필수템! 🐧 귀여운 'Suica의 펭귄' 스티커북이 출시되었어요!\n\n총 2가지 테마, 1000개 이상의 스티커로 다꾸, 짐 정리, 기념품으로 완벽!\n\n✅ 출시일: 7월 16일\n✅ 가격: 각 1,760엔\n✅ 구성: 2가지 테마 (생활편, 외출편), 각 24장 스티커 시트\n\n여행 중 득템 찬스를 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica펭귄",
+          "#일본기념품",
+          "#일본굿즈",
+          "#스티커북",
+          "#일본쇼핑",
+          "#여행준비",
+          "#일본여행정보",
+          "#일본생활",
+          "#도쿄여행",
+          "#오사카여행",
+          "#여행꿀팁",
+          "#다이어리꾸미기",
+          "#한정판"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 스티커북 표지 이미지",
+          "Suica 펭귄 스티커북 테마별 이미지",
+          "스티커 시트가 겹쳐진 이미지",
+          "스티커북 가격 정보가 표시된 이미지",
+          "Suica 펭귄 캐릭터가 스티커를 붙이는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 이미 일본에 체류 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 스티커북 구매 인증샷, 여행 중 활용 팁 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터를 활용한 친근한 정보 전달, 실용적인 기념품 정보 제공",
+      "image": {
+        "keyword": "Suica penguin sticker book, Japan travel souvenir, cute stationery, Tokyo souvenir, Osaka souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-sticker-book,-Japan-travel-souvenir,-cute-stationery,-Tokyo-souvenir,-Osaka-souvenir",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20sticker%20book,%20Japan%20travel%20souvenir,%20cute%20stationery,%20Tokyo%20souvenir,%20Osaka%20souvenir/"
+      }
+    },
     {
       "id": "plan_7fc8853a",
       "created_at": "2026-07-16T00:10:11.404080",
@@ -923,160 +1077,6 @@
         "keyword": "MUJI summer sale, MUJI t-shirt, MUJI mist, MUJI coffee maker, Japan shopping",
         "unsplash_url": "https://unsplash.com/s/photos/MUJI-summer-sale,-MUJI-t-shirt,-MUJI-mist,-MUJI-coffee-maker,-Japan-shopping",
         "pexels_url": "https://www.pexels.com/search/MUJI%20summer%20sale,%20MUJI%20t-shirt,%20MUJI%20mist,%20MUJI%20coffee%20maker,%20Japan%20shopping/"
-      }
-    },
-    {
-      "id": "plan_fbedb681",
-      "created_at": "2026-07-13T00:11:25.256488",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大阪ステーションホテル、3種のぶどうのアフタヌーンティーを提供　7月6日から",
-        "url": "https://www.traicy.com/posts/20260712372681/",
-        "date": "Sun, 12 Jul 2026 13:15:27 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카에서 특별한 포도로 즐기는 럭셔리 애프터눈 티!"
-      },
-      "content": {
-        "thumbnail_title": "🍇 오사카 호텔 3종 포도 애프터눈 티",
-        "cards": [
-          {
-            "title": "기간 한정!",
-            "content": "오사카 스테이션 호텔에서 7월 6일부터 31일까지, 3가지 특별한 포도로 만든 애프터눈 티를 선보입니다. 'VOYAGE La saison des raisins'라는 이름으로 계절의 맛을 선사해요.",
-            "alt_text": "오사카 스테이션 호텔 외관"
-          },
-          {
-            "title": "3가지 포도",
-            "content": "이 애프터눈 티는 특히 '퀸 루즈®'를 포함한 3가지 품종의 신선한 포도를 사용합니다. 포도의 달콤함과 향긋함을 제대로 느낄 수 있는 특별한 메뉴입니다.",
-            "alt_text": "다양한 종류의 포도"
-          },
-          {
-            "title": "장소는?",
-            "content": "오사카 스테이션 호텔, 오토그래프 컬렉션에서 제공됩니다. 오사카 여행 중 특별한 디저트 경험을 원하신다면 놓치지 마세요!",
-            "alt_text": "호텔 내부 라운지 모습"
-          },
-          {
-            "title": "놓치지 마세요",
-            "content": "매년 여름, 이 특별한 포도 애프터눈 티는 큰 인기를 얻고 있으니, 방문 계획이 있다면 미리 예약하는 것을 추천합니다.",
-            "alt_text": "애프터눈 티 세트 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "호텔의 고급스러운 분위기와 함께 맛있는 디저트를 즐기며 오사카에서의 잊지 못할 추억을 만들어 보세요. 사진 찍기에도 아주 좋답니다!",
-            "alt_text": "애프터눈 티와 함께 찍은 사진"
-          }
-        ],
-        "caption": "✨ 오사카에서 펼쳐지는 포도의 향연! ✨\n오사카 스테이션 호텔에서 7월 6일부터 31일까지, 3가지 특별한 포도로 만든 럭셔리 애프터눈 티를 맛볼 수 있어요. 🍇\n'퀸 루즈®' 등 신선한 포도로 준비된 달콤한 디저트와 함께 오사카에서의 특별한 시간을 보내세요!\n\n#오사카여행 #일본애프터눈티 #호텔디저트 #오사카스테이션호텔 #기간한정메뉴 #여름디저트 #플라잉재팬 #일본여행정보 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#일본카페",
-          "#오사카카페",
-          "#애프터눈티",
-          "#호텔애프터눈티",
-          "#오사카스테이션호텔",
-          "#기간한정",
-          "#여름휴가",
-          "#일본디저트",
-          "#여행스타그램",
-          "#일본맛집",
-          "#여행정보",
-          "#일본소식"
-        ],
-        "alt_texts": [
-          "오사카 스테이션 호텔 외관",
-          "다양한 종류의 포도",
-          "호텔 내부 라운지 모습",
-          "애프터눈 티 세트 이미지",
-          "애프터눈 티와 함께 찍은 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 20-40대 여성 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: '꼭 가봐야겠다', '너무 예쁘다' 등의 긍정적인 댓글 및 저장 / 이 콘텐츠의 강점: 기간 한정, 특별한 메뉴, 고급스러운 경험 제공",
-      "image": {
-        "keyword": "Osaka Station Hotel afternoon tea, grape afternoon tea, luxury dessert Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Station-Hotel-afternoon-tea,-grape-afternoon-tea,-luxury-dessert-Japan",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Station%20Hotel%20afternoon%20tea,%20grape%20afternoon%20tea,%20luxury%20dessert%20Japan/"
-      }
-    },
-    {
-      "id": "plan_7ccf333c",
-      "created_at": "2026-07-13T00:11:08.384785",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "韓国最大級8万発の「釜山花火大会」観覧ツアー。関釜フェリー往復乗船＋現地ホテルで1人3万2800円",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124388.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "부산 최대 규모 불꽃축제를 일본에서 편하게 관람할 수 있는 특별한 기회!"
-      },
-      "content": {
-        "thumbnail_title": "釜山花火大会🔥日 관람 투어",
-        "cards": [
-          {
-            "title": "투어 정보",
-            "content": "11월 6일 출발! 제21회 부산 불꽃축제 당일 일본 현지 숙박 포함 패키지입니다. 관람객에게 최적화된 상품입니다.",
-            "alt_text": "부산 불꽃축제 관람 투어 상품 안내"
-          },
-          {
-            "title": "포함 내역",
-            "content": "관부페리 왕복 승선권과 현지 호텔(토요코인 부산역 1) 1박이 포함됩니다. 자유로운 여행이 가능합니다.",
-            "alt_text": "페리 왕복 승선권 및 호텔 숙박권 이미지"
-          },
-          {
-            "title": "출발 정보",
-            "content": "출발일은 11월 6일이며, 시모노세키항에서 출발합니다. 연말 시즌 특별한 추억을 만들 기회입니다.",
-            "alt_text": "시모노세키항 출발 게이트 이미지"
-          },
-          {
-            "title": "가격",
-            "content": "1인당 32,800엔으로, 불꽃축제 관람과 숙박을 한 번에 해결할 수 있는 합리적인 가격입니다.",
-            "alt_text": "가격 정보가 표시된 상품 안내 페이지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "부산 불꽃축제를 가장 편안하게 즐기는 방법! 한국에서 출발 전 미리 예약하면 일본 현지에서 복잡한 준비 없이 바로 축제를 즐길 수 있습니다.",
-            "alt_text": "불꽃축제 관람객들이 편안하게 앉아있는 모습"
-          }
-        ],
-        "caption": "🇰🇷✈️🇯🇵 한국에서 부산 최대 규모 8만 발 불꽃축제 관람! 11월 6일 출발, 시모노세키항 출발 관부페리 왕복 + 현지 호텔 숙박 포함 특별 패키지 투어가 출시되었습니다. 1인 32,800엔으로 잊지 못할 추억을 만들어보세요! 🎆 자세한 내용은 프로필 링크를 확인하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#부산불꽃축제",
-          "#일본패키지",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본숙소",
-          "#여행정보",
-          "#가을여행",
-          "#불꽃놀이",
-          "#일본축제",
-          "#관부페리",
-          "#시모노세키",
-          "#부산여행",
-          "#특별한경험"
-        ],
-        "alt_texts": [
-          "부산 불꽃축제 관람 투어 상품 안내",
-          "페리 왕복 승선권 및 호텔 숙박권 이미지",
-          "시모노세키항 출발 게이트 이미지",
-          "가격 정보가 표시된 상품 안내 페이지",
-          "불꽃축제 관람객들이 편안하게 앉아있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 부산 불꽃축제에 관심 있는 한국인 여행객 / 최적 게시 시간: 저녁 7시~9시 / 기대 반응: 높은 관심과 문의 / 이 콘텐츠의 강점: 희소성 있는 특별 상품, 편리한 예약 및 관람",
-      "image": {
-        "keyword": "Busan fireworks festival, Japan travel package, Ferry and hotel",
-        "unsplash_url": "https://unsplash.com/s/photos/Busan-fireworks-festival,-Japan-travel-package,-Ferry-and-hotel",
-        "pexels_url": "https://www.pexels.com/search/Busan%20fireworks%20festival,%20Japan%20travel%20package,%20Ferry%20and%20hotel/"
       }
     }
   ]
