@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-15T03:22:56.910533",
+  "last_updated": "2026-07-16T00:10:13.404271",
   "plans": [
+    {
+      "id": "plan_7fc8853a",
+      "created_at": "2026-07-16T00:10:11.404080",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "那須ハイランドパーク、夏季限定「水上アスレチック」オープン。大自然に囲まれ水遊び、パス所持者は7月末まで無料",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2125489.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유명 워터파크에서 즐기는 짜릿한 여름 물놀이!"
+      },
+      "content": {
+        "thumbnail_title": "🎢 나스 하이랜드 파크 🌊",
+        "cards": [
+          {
+            "title": "신규 어트랙션",
+            "content": "나스 하이랜드 파크에서 여름 한정 '수상 애슬래틱'을 7월 17일 오픈했어요! 🌳 대자연 속에서 시원한 물놀이를 즐겨보세요.",
+            "alt_text": "일본 나스 하이랜드 파크의 푸른 자연 속 수상 애슬래틱 시설 이미지"
+          },
+          {
+            "title": "이용 혜택",
+            "content": "7월 말까지 파스(Pass) 소지자는 무료로 이용 가능해요! 🎫 놓치면 후회할 특별한 기회랍니다.",
+            "alt_text": "일본 나스 하이랜드 파크 파스(Pass) 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "도치기현 나스군 나스마치 고쿠오쓰 3375에 위치해 있어요. 🚗 여름 휴가철 시원한 여행지로 딱이에요!",
+            "alt_text": "일본 도치기현 나스 하이랜드 파크의 지도 핀 이미지"
+          },
+          {
+            "title": "운영 기간",
+            "content": "여름 한정으로 운영되며, 정확한 종료일은 추후 공지될 예정입니다. ☀️ 서둘러 방문 계획을 세워보세요!",
+            "alt_text": "일본 나스 하이랜드 파크의 여름 시즌 안내 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "파스 소지자라면 7월 말까지 무료! ⏰ 미리 파스 구매 여부를 확인하고 방문하면 더욱 알찬 여행이 될 거예요.",
+            "alt_text": "일본 나스 하이랜드 파크에서 즐거운 시간을 보내는 방문객들의 모습"
+          }
+        ],
+        "caption": "일본 여름 필수 코스! ☀️ 도치기현 나스 하이랜드 파크에서 7월 17일부터 새롭게 오픈하는 '수상 애슬래틱'을 즐겨보세요! 🌳 7월 말까지 파스 소지자는 무료 이용 혜택까지! 🤩 시원한 물놀이와 함께 잊지 못할 추억을 만들어보세요! #일본여름 #워터파크 #나스하이랜드파크",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본여름",
+          "#나스하이랜드파크",
+          "#일본워터파크",
+          "#일본액티비티",
+          "#일본관광",
+          "#여름휴가",
+          "#일본가볼만한곳",
+          "#도치기현",
+          "#여행정보",
+          "#일본여행팁",
+          "#물놀이",
+          "#여름필수",
+          "#일본축제"
+        ],
+        "alt_texts": [
+          "일본 나스 하이랜드 파크의 푸른 자연 속 수상 애슬래틱 시설 이미지",
+          "일본 나스 하이랜드 파크 파스(Pass) 이미지",
+          "일본 도치기현 나스 하이랜드 파크의 지도 핀 이미지",
+          "일본 나스 하이랜드 파크의 여름 시즌 안내 이미지",
+          "일본 나스 하이랜드 파크에서 즐거운 시간을 보내는 방문객들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시, 토요일 오전 10시 / 기대 반응: '가고 싶어요!' 댓글, 저장 수 증가, 친구 태그 / 이 콘텐츠의 강점: 여름 한정 신규 어트랙션 정보, 무료 혜택, 구체적인 날짜 및 장소 명시",
+      "image": {
+        "keyword": "Nasu Highland Park, water athletic, summer attraction, Japan travel, Tochigi",
+        "unsplash_url": "https://unsplash.com/s/photos/Nasu-Highland-Park,-water-athletic,-summer-attraction,-Japan-travel,-Tochigi",
+        "pexels_url": "https://www.pexels.com/search/Nasu%20Highland%20Park,%20water%20athletic,%20summer%20attraction,%20Japan%20travel,%20Tochigi/"
+      }
+    },
+    {
+      "id": "plan_4bc36798",
+      "created_at": "2026-07-16T00:10:04.626622",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡～鹿児島の高速バス「桜島号」夜行便が6年ぶり復活。宿泊費高騰に伴う夜移動ニーズに対応",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2125505.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "숙박비 절약! 후쿠오카-가고시마 야간 버스 6년 만에 부활!"
+      },
+      "content": {
+        "thumbnail_title": "✈️후쿠오카↔️가고시마 야간버스 6년 만에 부활!",
+        "cards": [
+          {
+            "title": "야간버스 부활!",
+            "content": "후쿠오카와 가고시마를 잇는 고속버스 '사쿠라지마호' 야간편이 9월 1일부터 6년 만에 다시 운행을 시작합니다. 🌃",
+            "alt_text": "후쿠오카와 가고시마를 잇는 고속버스 '사쿠라지마호' 노선도"
+          },
+          {
+            "title": "숙박비 절약",
+            "content": "최근 관광객 증가와 숙박비 상승으로 인해 밤 시간 이동에 대한 수요가 높아짐에 따라 이번 야간편 운행이 결정되었습니다. 💰",
+            "alt_text": "숙박비 절약 팁을 보여주는 이미지"
+          },
+          {
+            "title": "새로운 정류장 추가",
+            "content": "가고시마에서 출발하는 편은 새롭게 후쿠오카 공항 국제선 출발 게이트 정류장에도 정차합니다. ✈️",
+            "alt_text": "후쿠오카 공항 국제선 터미널 이미지"
+          },
+          {
+            "title": "운행 재개",
+            "content": "서일본 철도와 JR 큐슈 버스가 공동으로 운행하며, 편리한 밤 이동으로 여행 경비를 절약할 수 있습니다. ⏰",
+            "alt_text": "버스 차내에서 편안하게 휴식하는 승객 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "야간 버스를 이용하면 이동 시간과 숙박비를 동시에 절약할 수 있어 더욱 알찬 일본 여행을 즐길 수 있습니다. 💡",
+            "alt_text": "여행 계획을 세우는 사람의 손과 지도 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 정보! 🇯🇵 후쿠오카에서 가고시마까지, 6년 만에 '사쿠라지마호' 야간 버스가 다시 운행을 시작합니다! 🚌 숙박비 걱정은 덜고, 밤새 이동하며 여행 경비를 아껴보세요. 특히 가고시마 출발 편은 후쿠오카 공항 국제선에도 정차하니 더욱 편리해졌어요! ✨\n\n지금 바로 여행 계획에 추가하세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#가고시마",
+          "#사쿠라지마호",
+          "#일본교통",
+          "#야간버스",
+          "#숙박비절약",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#후쿠오카여행",
+          "#가고시마여행",
+          "#일본버스",
+          "#여행정보",
+          "#알뜰여행"
+        ],
+        "alt_texts": [
+          "후쿠오카와 가고시마를 잇는 고속버스 '사쿠라지마호' 노선도",
+          "숙박비 절약 팁을 보여주는 이미지",
+          "후쿠오카 공항 국제선 터미널 이미지",
+          "버스 차내에서 편안하게 휴식하는 승객 이미지",
+          "여행 계획을 세우는 사람의 손과 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 또는 가고시마를 방문하는 한국인 여행자 / 최적 게시 시간: 오후 6시 - 10시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 실질적인 경비 절감 및 이동 편의성 제공 정보",
+      "image": {
+        "keyword": "Fukuoka Kagoshima highway bus night travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Kagoshima-highway-bus-night-travel",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Kagoshima%20highway%20bus%20night%20travel/"
+      }
+    },
     {
       "id": "plan_be862f70",
       "created_at": "2026-07-15T03:22:54.910303",
@@ -923,160 +1077,6 @@
         "keyword": "Busan fireworks festival, Japan travel package, Ferry and hotel",
         "unsplash_url": "https://unsplash.com/s/photos/Busan-fireworks-festival,-Japan-travel-package,-Ferry-and-hotel",
         "pexels_url": "https://www.pexels.com/search/Busan%20fireworks%20festival,%20Japan%20travel%20package,%20Ferry%20and%20hotel/"
-      }
-    },
-    {
-      "id": "plan_5bb65a9c",
-      "created_at": "2026-07-12T00:11:15.821588",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ツーリズムEXPOジャパン2026、前売入場券販売開始　9月24日～27日に東京ビッグサイトで開催",
-        "url": "https://www.traicy.com/posts/20260711376035/",
-        "date": "Sat, 11 Jul 2026 09:15:52 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "내년 일본 최대 여행 박람회, 미리 준비하면 할인 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 여행 박람회 얼리버드 찬스!",
-        "cards": [
-          {
-            "title": "박람회 정보",
-            "content": "2026년 '투어리즘 엑스포 재팬'이 9월 24일부터 27일까지 도쿄 빅사이트에서 개최됩니다. 한국 여행객에게는 일본 여행 트렌드를 미리 파악할 수 있는 좋은 기회입니다.",
-            "alt_text": "도쿄 빅사이트 전경 이미지"
-          },
-          {
-            "title": "사전 입장권",
-            "content": "현재 사전 판매 중인 입장권은 성인 기준 1,200엔입니다. 현장에서 구매하는 것보다 저렴한 가격으로 입장할 수 있어 미리 준비하는 것이 좋습니다.",
-            "alt_text": "항공권 또는 티켓 이미지"
-          },
-          {
-            "title": "주최 기관",
-            "content": "일본 관광진흥협회, 일본 여행업협회(JATA), 일본 정부관광국(JNTO)이 공동 주최하는 행사로, 일본 여행 관련 최신 정보를 얻을 수 있습니다.",
-            "alt_text": "일본 지도 이미지"
-          },
-          {
-            "title": "주요 행사",
-            "content": "다양한 일본 여행 상품 전시, 체험 이벤트, 세미나 등이 열릴 예정입니다. 일본 현지의 숨겨진 명소나 새로운 관광 트렌드를 발견할 수 있습니다.",
-            "alt_text": "여행 박람회 현장 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "내년 행사지만, 미리 정보를 알고 있으면 항공권, 숙소 예약 시 유리할 수 있습니다. 특히 사전 입장권 구매는 필수! 2026년 일본 여행 계획에 참고하세요.",
-            "alt_text": "달력 이미지"
-          }
-        ],
-        "caption": "✈️ 2026년 일본 최대 여행 박람회 '투어리즘 엑스포 재팬' 개최 확정! 🇯🇵\n\n내년 9월 24일부터 27일까지 도쿄 빅사이트에서 열리는 이번 행사는 일본 여행의 최신 트렌드를 한눈에 파악할 수 있는 절호의 기회입니다.\n\n✨ 현재 사전 입장권이 1,200엔(성인 기준)에 판매 중이니, 현장 구매보다 저렴하게 이용하세요!\n\n일본 여행을 계획 중이라면, 이번 박람회 정보를 미리 확인하고 알찬 여행 준비하세요! 😉\n\n#일본여행 #투어리즘엑스포재팬 #도쿄여행 #일본박람회 #여행정보 #얼리버드 #여행준비 #플라잉재팬 #일본축제 #일본이벤트 #여행꿀팁 #도쿄빅사이트 #JNTO #JATA #일본관광",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#투어리즘엑스포재팬",
-          "#도쿄여행",
-          "#일본박람회",
-          "#여행정보",
-          "#얼리버드",
-          "#여행준비",
-          "#일본축제",
-          "#일본이벤트",
-          "#여행꿀팁",
-          "#도쿄빅사이트",
-          "#JNTO",
-          "#JATA",
-          "#일본관광"
-        ],
-        "alt_texts": [
-          "도쿄 빅사이트 전경 이미지",
-          "항공권 또는 티켓 이미지",
-          "일본 지도 이미지",
-          "여행 박람회 현장 이미지",
-          "달력 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 관심 있는 20-30대 한국인 / 최적 게시 시간: 평일 저녁 6-8시 / 기대 반응: 정보성 콘텐츠로 저장 및 공유율 높을 것으로 예상 / 이 콘텐츠의 강점: 시기적으로 앞서가는 정보 제공으로 여행 준비에 실질적인 도움 제공",
-      "image": {
-        "keyword": "Tokyo Big Sight, Tourism Expo Japan, travel expo, Japan travel, early bird ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Big-Sight,-Tourism-Expo-Japan,-travel-expo,-Japan-travel,-early-bird-ticket",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Big%20Sight,%20Tourism%20Expo%20Japan,%20travel%20expo,%20Japan%20travel,%20early%20bird%20ticket/"
-      }
-    },
-    {
-      "id": "plan_3b514d6e",
-      "created_at": "2026-07-12T00:11:08.912676",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語 ホテルレオマの森、1泊2食バイキングが最大30％オフ。中四国最大級のウォーターランド隣接",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124309.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 숙소 특가 찬스! 최대 30% 할인받고 알찬 여름휴가 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "일본 숙소 🌊 최대 30% OFF!",
-        "cards": [
-          {
-            "title": "여름 세일",
-            "content": "일본 최대 규모의 워터랜드와 함께하는 '오에도 온천 이야기 호텔 레오마노모리'에서 1박 2식 뷔페를 최대 30% 할인된 가격으로 즐길 수 있습니다.",
-            "alt_text": "일본 호텔에서 제공하는 뷔페 음식 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 서머 세일'을 통해 전국 호텔 및 온천 숙소의 특별 플랜을 만나보세요. 현재 배포 중인 쿠폰을 함께 사용하면 할인율이 더 커집니다.",
-            "alt_text": "할인 쿠폰 이미지가 포함된 일본 숙소 예약 페이지"
-          },
-          {
-            "title": "세일 기간",
-            "content": "본격적인 여름 휴가 시즌을 맞이하여 7월 21일까지 진행되는 이번 세일 놓치지 마세요! 서둘러 예약하면 원하는 숙소를 좋은 가격에 확보할 수 있습니다.",
-            "alt_text": "달력에 표시된 7월 21일 날짜와 할인 아이콘"
-          },
-          {
-            "title": "숙소 정보",
-            "content": "'오에도 온천 이야기 호텔 레오마노모리'는 중부·시코쿠 지역 최대 규모의 워터랜드와 인접해 있어 물놀이를 좋아하는 여행객에게 최적의 선택이 될 것입니다.",
-            "alt_text": "일본 워터파크와 연결된 호텔 건물 전경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 계획을 세우고 있다면 지금이 바로 일본 숙소를 예약할 최적의 시기입니다. 다양한 할인 혜택을 꼼꼼히 비교하고 현명한 여행을 계획하세요!",
-            "alt_text": "일본 지도 위에 숙소 핀이 꽂혀있는 모습"
-          }
-        ],
-        "caption": "일본 여름 여행 준비 중이신가요? ☀️\n'오에도 온천 이야기 호텔 레오마노모리'에서 1박 2식 뷔페를 최대 30% 할인된 가격으로 즐길 수 있는 절호의 찬스가 찾아왔어요!\n\n라쿠텐 트래블 서머 세일 기간(7월 21일까지)을 놓치지 마세요!\n\n지금 바로 예약하고 알찬 여름휴가 보내세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#일본할인",
-          "#일본특가",
-          "#일본호텔",
-          "#일본온천",
-          "#일본자유여행",
-          "#일본여름휴가",
-          "#라쿠텐트래블",
-          "#오에도온천",
-          "#레오마노모리",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "일본 호텔에서 제공하는 뷔페 음식 이미지",
-          "할인 쿠폰 이미지가 포함된 일본 숙소 예약 페이지",
-          "달력에 표시된 7월 21일 날짜와 할인 아이콘",
-          "일본 워터파크와 연결된 호텔 건물 전경",
-          "일본 지도 위에 숙소 핀이 꽂혀있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여름 휴가 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 5시 - 8시 / 기대 반응: 할인 정보에 대한 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 매력적인 숙소 연계",
-      "image": {
-        "keyword": "japan hotel discount, japan summer sale, onsen hotel, water park resort, buffet food",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-discount,-japan-summer-sale,-onsen-hotel,-water-park-resort,-buffet-food",
-        "pexels_url": "https://www.pexels.com/search/japan%20hotel%20discount,%20japan%20summer%20sale,%20onsen%20hotel,%20water%20park%20resort,%20buffet%20food/"
       }
     }
   ]
