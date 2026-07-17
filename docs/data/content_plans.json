@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-16T03:29:21.907461",
+  "last_updated": "2026-07-17T00:12:30.584356",
   "plans": [
+    {
+      "id": "plan_78f66a2f",
+      "created_at": "2026-07-17T00:12:28.584167",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "イオン、夏の大型セール「超！ナツ夏祭り」。猛暑対策グッズが最大半額に、キャリーケース/浴衣ほか注目の品を見てきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2125804.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 최대 쇼핑몰 이온 여름 세일, 최대 반값 할인 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 이온 여름 최대 50% 세일! ☀️",
+        "cards": [
+          {
+            "title": "세일 기간",
+            "content": "일본 전국 이온 및 이온 스타일 약 380개 매장과 온라인 샵에서 7월 17일부터 여름 대형 세일 '초! 나츠마츠리'가 시작됩니다.",
+            "alt_text": "이온 여름 세일 '초! 나츠마츠리' 시작 날짜 안내"
+          },
+          {
+            "title": "할인율",
+            "content": "이번 세일에서는 무더위 대비 상품을 최대 반값까지 할인합니다. 시원한 여름을 위한 필수템을 저렴하게 구매할 기회입니다.",
+            "alt_text": "이온 여름 세일 상품 최대 50% 할인 정보"
+          },
+          {
+            "title": "주요 품목",
+            "content": "캐리 케이스, 유카타 등 여름 시즌 인기 상품을 포함한 다양한 품목을 특별 할인가에 만나볼 수 있습니다.",
+            "alt_text": "이온 여름 세일 품목 예시 (캐리 케이스, 유카타)"
+          },
+          {
+            "title": "쇼핑 팁",
+            "content": "일본 여행 중이라면 꼭 들러야 할 이온! 세일 기간을 맞춰 방문하면 알뜰 쇼핑을 즐길 수 있습니다.",
+            "alt_text": "일본 이온 쇼핑몰 방문 추천"
+          },
+          {
+            "title": "온라인 쇼핑",
+            "content": "매장 방문이 어렵다면 이온 온라인 스토어를 이용하세요. 세일 상품을 집에서도 편리하게 구매할 수 있습니다.",
+            "alt_text": "이온 온라인 스토어 이용 안내"
+          }
+        ],
+        "caption": "일본 최대 쇼핑몰 이온에서 역대급 여름 세일이 시작됩니다! ☀️ 7월 17일부터 '초! 나츠마츠리' 세일에서 최대 50% 할인된 가격으로 캐리 케이스, 유카타 등 여름 필수템을 득템하세요! 🛍️\n\n매장 방문 혹은 온라인 스토어에서도 쇼핑 가능! ✈️\n\n#이온세일 #일본쇼핑 #여름세일 #득템찬스 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#이온",
+          "#AEON",
+          "#일본쇼핑",
+          "#여름세일",
+          "#일본여행정보",
+          "#일본쇼핑리스트",
+          "#일본할인",
+          "#일본쇼핑팁",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#쇼핑",
+          "#여행"
+        ],
+        "alt_texts": [
+          "이온 여름 세일 '초! 나츠마츠리' 시작 날짜 안내",
+          "이온 여름 세일 상품 최대 50% 할인 정보",
+          "이온 여름 세일 품목 예시 (캐리 케이스, 유카타)",
+          "일본 이온 쇼핑몰 방문 추천",
+          "이온 온라인 스토어 이용 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 3-5시 / 기대 반응: 정보 유용성, 쇼핑 욕구 자극, 세일 정보 공유 / 이 콘텐츠의 강점: 일본 최대 쇼핑몰의 대규모 세일 정보, 구체적인 할인율 및 품목 제시",
+      "image": {
+        "keyword": "AEON summer sale, Japan shopping, discount, summer items, travel shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/AEON-summer-sale,-Japan-shopping,-discount,-summer-items,-travel-shopping",
+        "pexels_url": "https://www.pexels.com/search/AEON%20summer%20sale,%20Japan%20shopping,%20discount,%20summer%20items,%20travel%20shopping/"
+      }
+    },
+    {
+      "id": "plan_d48feef1",
+      "created_at": "2026-07-17T00:12:21.815991",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "海一望の温泉宿「TAOYA熱海」に行ってきた！　お酒もスイーツも食べ飲み放題、注目の“オールインクルーシブ宿”が開業",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2125840.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "열정 넘치는 '올인클루시브' 일본 온천 숙소가 7월 18일 오픈! 술, 디저트 무제한 즐겨보세요!"
+      },
+      "content": {
+        "thumbnail_title": "熱海 올인클루시브 ♨️",
+        "cards": [
+          {
+            "title": "TAOYA熱海 오픈!",
+            "content": "7월 18일, 바다가 보이는 'TAOYA熱海'가 드디어 문을 엽니다. 일본 시즈오카현 열해시에 위치하며, 특별한 온천 경험을 선사합니다.",
+            "alt_text": "TAOYA熱海 외관 전경"
+          },
+          {
+            "title": "올인클루시브 혜택",
+            "content": "이곳의 핵심은 '올인클루시브'! 숙박 요금에 술과 디저트가 모두 포함되어 있어 마음껏 즐길 수 있습니다. 퀄리티 높은 음식과 음료를 부담 없이 맛보세요.",
+            "alt_text": "다양한 주류와 디저트가 진열된 모습"
+          },
+          {
+            "title": "온천 & 오션뷰",
+            "content": "아름다운 바다를 바라보며 즐기는 노천 온천은 최고의 힐링을 선사합니다. 객실에서도 탁 트인 바다 전망을 감상할 수 있습니다.",
+            "alt_text": "바다를 배경으로 한 아름다운 온천 시설"
+          },
+          {
+            "title": "다양한 부대시설",
+            "content": "온천과 식사 외에도 편안한 휴식을 위한 다양한 부대시설이 마련되어 있습니다. 완벽한 휴가를 위한 모든 것을 갖췄습니다.",
+            "alt_text": "숙소 내 라운지 또는 휴식 공간"
+          },
+          {
+            "title": "예약 꿀팁!",
+            "content": "7월 18일 오픈 예정이니, 미리 예약 정보를 확인하고 서두르세요! 특히 주말이나 성수기에는 빠르게 마감될 수 있습니다. 여름휴가 계획에 꼭 넣어보세요!",
+            "alt_text": "달력에 표시된 7월 18일 날짜"
+          }
+        ],
+        "caption": "✨ 열정 넘치는 'TAOYA熱海' 7월 18일 오픈! ✨\n\n일본 시즈오카현 열해시에 위치한 'TAOYA熱海'가 드디어 문을 엽니다! 🌊\n\n가장 큰 매력은 바로 '올인클루시브' 시스템! 🥂🍰 숙박 요금에 술과 디저트가 모두 포함되어 있어 눈치 보지 않고 마음껏 즐길 수 있어요.\n\n아름다운 바다를 바라보며 즐기는 온천은 덤! ♨️\n\n올여름, 최고의 힐링을 선사할 'TAOYA熱海'에서 잊지 못할 추억을 만들어보세요!\n\n📌 지금 바로 예약 정보 확인하세요! #TAOYA熱海 #일본온천 #올인클루시브",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#TAOYA熱海",
+          "#열해",
+          "#일본숙소",
+          "#온천여행",
+          "#올인클루시브",
+          "#일본신상",
+          "#여름휴가",
+          "#일본가볼만한곳",
+          "#여행정보",
+          "#해외여행",
+          "#일본온천추천",
+          "#시즈오카",
+          "#일본호텔"
+        ],
+        "alt_texts": [
+          "TAOYA熱海 외관 전경",
+          "다양한 주류와 디저트가 진열된 모습",
+          "바다를 배경으로 한 아름다운 온천 시설",
+          "숙소 내 라운지 또는 휴식 공간",
+          "달력에 표시된 7월 18일 날짜"
+        ]
+      },
+      "marketer_analysis": "타겟: 최신 트렌드에 민감하고 가성비 좋은 숙소를 찾는 20-40대 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 높은 관심과 예약 문의, 숙소 정보 공유 및 저장 / 이 콘텐츠의 강점: '올인클루시브'라는 매력적인 키워드와 구체적인 오픈 날짜, 위치 정보를 제공하여 즉각적인 여행 계획 반영 유도",
+      "image": {
+        "keyword": "TAOYA Atami, Japan, Onsen, All-inclusive resort, Ocean view, Luxury hotel, New opening, Hot spring, Food and drink, Travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/TAOYA-Atami,-Japan,-Onsen,-All-inclusive-resort,-Ocean-view,-Luxury-hotel,-New-opening,-Hot-spring,-Food-and-drink,-Travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/TAOYA%20Atami,%20Japan,%20Onsen,%20All-inclusive%20resort,%20Ocean%20view,%20Luxury%20hotel,%20New%20opening,%20Hot%20spring,%20Food%20and%20drink,%20Travel%20Japan/"
+      }
+    },
     {
       "id": "plan_d99a3d70",
       "created_at": "2026-07-16T03:29:19.907294",
@@ -923,160 +1077,6 @@
         "keyword": "japanese hot spring ryokan, crab buffet, discount promotion, travel sale",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-ryokan,-crab-buffet,-discount-promotion,-travel-sale",
         "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20ryokan,%20crab%20buffet,%20discount%20promotion,%20travel%20sale/"
-      }
-    },
-    {
-      "id": "plan_c606fb8e",
-      "created_at": "2026-07-13T03:49:28.156148",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "都営地下鉄、土日祝・お盆に使える「夏」のワンデーパス発売。子供は250円→100円！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124556.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 필수! 여름 한정 지하철 무제한 탑승권으로 알뜰하게!"
-      },
-      "content": {
-        "thumbnail_title": "🌸도쿄 여름 무제한 지하철권🌸",
-        "cards": [
-          {
-            "title": "여름 한정 패스",
-            "content": "도쿄 여행 필수템! 7월 18일부터 8월 30일까지, 주말 및 공휴일, 그리고 8월 10일부터 14일 오봉 기간 동안 도쿄 도영 지하철을 무제한으로 탈 수 있는 '여름 원데이 패스'가 발매됩니다.",
-            "alt_text": "여름 원데이 패스 발매 알림 이미지"
-          },
-          {
-            "title": "얼마라고?",
-            "content": "성인 1인당 800엔으로 하루 종일 도영 지하철을 마음껏 이용할 수 있습니다. 특히 어린이(초등학생)는 기존 250엔에서 100엔으로 할인된 가격으로 구매 가능합니다.",
-            "alt_text": "패스 가격 정보 이미지"
-          },
-          {
-            "title": "이용 기간 확인!",
-            "content": "패스 사용 가능일은 2024년 7월 18일(목)부터 8월 30일(금)까지의 토, 일, 공휴일입니다. 또한, 일본의 연휴인 오봉 기간(8월 10일~14일)에도 동일하게 사용 가능합니다.",
-            "alt_text": "이용 가능 기간 안내 이미지"
-          },
-          {
-            "title": "도쿄 어디든 OK!",
-            "content": "도영 지하철 노선이라면 어디든 자유롭게 이동 가능! 긴자, 아사쿠사, 우에노 등 주요 관광지를 편하게 둘러볼 수 있어 도쿄 시내 여행에 최고의 선택입니다.",
-            "alt_text": "도쿄 도영 지하철 노선도 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "JR이나 사철은 이용할 수 없으니 주의하세요. 패스 구매 시 여권이 필요할 수 있습니다. 도쿄 여행 계획 시 꼭 참고하여 교통비를 절약하세요!",
-            "alt_text": "여행 팁 아이콘 이미지"
-          }
-        ],
-        "caption": "📢 도쿄 여행 필수 정보 꿀팁! 📢\n\n올여름, 도쿄 여행 계획 중이라면 주목! 🤩\n\n7월 18일부터 8월 30일까지, 주말 & 공휴일 & 오봉 기간에 도쿄 도영 지하철을 하루 종일 무제한으로 이용할 수 있는 '여름 원데이 패스'가 발매됩니다! 🚇\n\n성인 800엔, 어린이 100엔으로 도쿄 명소를 알뜰하게 여행할 기회! 놓치지 마세요!\n\n📍 자세한 내용은 카드 뉴스를 확인하세요!\n\n#도쿄여행 #도쿄지하철 #일본교통 #여름휴가 #도쿄패스 #알뜰여행 #여행정보 #일본여행필수템 #도쿄 #플라잉재팬 #일본자유여행 #도쿄가볼만한곳 #여행꿀팁 #여름방학 #도쿄쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄지하철",
-          "#일본교통",
-          "#여름휴가",
-          "#도쿄패스",
-          "#알뜰여행",
-          "#여행정보",
-          "#일본여행필수템",
-          "#도쿄",
-          "#일본자유여행",
-          "#도쿄가볼만한곳",
-          "#여행꿀팁",
-          "#여름방학"
-        ],
-        "alt_texts": [
-          "여름 원데이 패스 발매 알림 이미지",
-          "패스 가격 정보 이미지",
-          "이용 가능 기간 안내 이미지",
-          "도쿄 도영 지하철 노선도 이미지",
-          "여행 팁 아이콘 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 도쿄 여행을 계획하는 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오전 10-12시 / 기대 반응: 정보 유용성에 대한 긍정적 반응, 저장 및 공유율 높음 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 이용 범위 명시로 실질적 도움 제공",
-      "image": {
-        "keyword": "Tokyo subway pass, summer travel Japan, Tokyo transportation, discount ticket Japan, travel savings",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-subway-pass,-summer-travel-Japan,-Tokyo-transportation,-discount-ticket-Japan,-travel-savings",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20subway%20pass,%20summer%20travel%20Japan,%20Tokyo%20transportation,%20discount%20ticket%20Japan,%20travel%20savings/"
-      }
-    },
-    {
-      "id": "plan_521d7a4c",
-      "created_at": "2026-07-13T03:49:22.231556",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "無印良品、夏の「良いね祭」まもなく終了。天竺編みTシャツが790円、ひんやりミスト・水出し茶は10％引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124608.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 무인양품 여름 세일, 최대 10% 할인 기회 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 무인양품 여름 세일 종료 임박! 🛍️",
-        "cards": [
-          {
-            "title": "세일 기간",
-            "content": "무인양품 여름 '좋아요 축제'가 7월 13일까지 진행됩니다. 온라인 스토어는 7월 14일 오전 10시까지 연장되니 서두르세요!",
-            "alt_text": "무인양품 여름 세일 기간 안내"
-          },
-          {
-            "title": "인기 상품",
-            "content": "시원한 착용감의 천竺 니트 티셔츠를 790엔에 만나볼 수 있습니다. 여름철 필수템을 저렴하게 구매할 기회입니다.",
-            "alt_text": "무인양품 천竺 니트 티셔츠"
-          },
-          {
-            "title": "냉감 상품",
-            "content": "무인양품의 냉감 미스트와 더치 커피 메이커는 10% 할인된 가격으로 구매 가능합니다. 더운 여름 시원하게 보내세요!",
-            "alt_text": "무인양품 냉감 미스트와 더치 커피 메이커"
-          },
-          {
-            "title": "쇼핑 팁",
-            "content": "일본 여행 중 무인양품에 들러 여름 필수템을 할인된 가격으로 득템하세요. 현지에서만 만날 수 있는 특별한 상품도 있을 수 있습니다.",
-            "alt_text": "일본 무인양품 매장 전경"
-          },
-          {
-            "title": "주의사항",
-            "content": "세일 기간이 얼마 남지 않았으니, 방문 전 가까운 매장의 영업 시간과 재고를 확인하는 것이 좋습니다. 온라인 스토어 이용 시 배송 기간도 고려하세요.",
-            "alt_text": "무인양품 쇼핑백"
-          }
-        ],
-        "caption": "일본 여행 중 무인양품 쇼핑 계획 있으신가요? 🇯🇵\n\n무인양품 여름 '좋아요 축제'가 곧 종료됩니다! 🚨\n\n✅ 천竺 니트 티셔츠: 790엔\n✅ 냉감 미스트 & 더치 커피 메이커: 10% 할인\n\n7월 13일까지, 온라인 스토어는 7월 14일 오전 10시까지 진행되니 서두르세요! 🛍️\n\n#일본여행 #플라잉재팬 #무인양품 #무인양품세일 #일본쇼핑 #여행정보 #득템찬스 #여름세일",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무인양품",
-          "#무인양품세일",
-          "#일본쇼핑",
-          "#여행정보",
-          "#득템찬스",
-          "#여름세일",
-          "#일본직구",
-          "#여행꿀팁",
-          "#일본생활",
-          "#일본물가",
-          "#일본쇼핑리스트",
-          "#여행스타그램",
-          "#일본니토리"
-        ],
-        "alt_texts": [
-          "무인양품 여름 세일 기간 안내",
-          "무인양품 천竺 니트 티셔츠",
-          "무인양품 냉감 미스트와 더치 커피 메이커",
-          "일본 무인양품 매장 전경",
-          "무인양품 쇼핑백"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 세일 정보에 대한 관심 및 구매 욕구 증가, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 할인율과 가격, 종료 임박 정보로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "MUJI summer sale, MUJI t-shirt, MUJI mist, MUJI coffee maker, Japan shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI-summer-sale,-MUJI-t-shirt,-MUJI-mist,-MUJI-coffee-maker,-Japan-shopping",
-        "pexels_url": "https://www.pexels.com/search/MUJI%20summer%20sale,%20MUJI%20t-shirt,%20MUJI%20mist,%20MUJI%20coffee%20maker,%20Japan%20shopping/"
       }
     }
   ]
