@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-17T03:31:10.039653",
+  "last_updated": "2026-07-18T00:09:25.414663",
   "plans": [
+    {
+      "id": "plan_b3d7abbd",
+      "created_at": "2026-07-18T00:09:23.414451",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "龍宮城スパ・ホテル三日月 龍宮亭、1泊2食が最大30％オフ。東京湾を眺める60種以上の大浴場、東京ベイエリア最大級のインフィニティプールなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2126132.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여름 휴가, 30% 할인받고 도쿄 근교 료칸 호캉스 즐기자! 🌊"
+      },
+      "content": {
+        "thumbnail_title": "✨ 료칸 최대 30% 할인! ✨",
+        "cards": [
+          {
+            "title": "🏨 료칸 최대 30% OFF",
+            "content": "일본 료칸 예약 시 최대 30% 할인 혜택을 받을 수 있는 '라쿠텐 트래블 서머 세일'이 7월 21일까지 진행됩니다. 지금 바로 예약하고 알뜰하게 호캉스를 즐겨보세요!",
+            "alt_text": "료칸 할인 혜택 안내 배너"
+          },
+          {
+            "title": "🧖‍♀️ 류구조 스파 호텔",
+            "content": "특히 '류구조 스파 호텔 미카즈키 류구테이'에서는 1박 2식 포함 최대 30% 할인된 가격으로 이용 가능합니다. 도쿄만을 바라보는 60종 이상의 대욕탕과 도쿄 베이 지역 최대급 인피니티 풀을 만끽할 수 있어요.",
+            "alt_text": "호텔 수영장에서 도쿄만 전망을 바라보는 모습"
+          },
+          {
+            "title": "💯 할인 쿠폰 활용 꿀팁",
+            "content": "전국 호텔 및 온천 숙소에서 진행되는 세일 플랜과 함께 제공되는 쿠폰을 중복으로 사용하면 최대 30% 할인 혜택을 받을 수 있습니다. 놓치지 말고 꼭 챙기세요!",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "🗓️ 세일 기간 확인",
+            "content": "'라쿠텐 트래블 서머 세일'은 7월 21일까지 진행되니, 여름 휴가 계획이 있다면 서둘러 예약하는 것이 좋습니다. 기간이 얼마 남지 않았어요!",
+            "alt_text": "달력에 표시된 7월 21일 날짜"
+          },
+          {
+            "title": "📌 예약 시 유의사항",
+            "content": "할인율 및 적용 조건은 숙소별로 상이할 수 있으니, 예약 전 반드시 상세 내용을 확인하시기 바랍니다. 프로모션 기간 외에는 정상가로 운영됩니다.",
+            "alt_text": "주의사항 아이콘과 함께 표시된 텍스트"
+          }
+        ],
+        "caption": "✨ 여름 휴가, 역대급 할인 찬스! ✨\n\n일본 료칸 예약 시 최대 30% 할인받고 알찬 호캉스 즐길 수 있는 기회! 🌊\n'라쿠텐 트래블 서머 세일'이 7월 21일까지 진행됩니다.\n특히 도쿄 베이 지역 최대급 인피니티 풀을 자랑하는 '류구조 스파 호텔 미카즈키 류구테이'에서 1박 2식 포함 특별 할인을 만나보세요!\n\n지금 바로 예약하고 잊지 못할 추억 만드세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본료칸",
+          "#일본호캉스",
+          "#료칸추천",
+          "#일본온천",
+          "#라쿠텐트래블",
+          "#서머세일",
+          "#일본숙소",
+          "#도쿄근교",
+          "#가족여행",
+          "#커플여행",
+          "#여행정보",
+          "#여름휴가",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "료칸 할인 혜택 안내 배너",
+          "호텔 수영장에서 도쿄만 전망을 바라보는 모습",
+          "할인 쿠폰 이미지",
+          "달력에 표시된 7월 21일 날짜",
+          "주의사항 아이콘과 함께 표시된 텍스트"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여름 휴가 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 할인 정보에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 명확한 할인율과 기간 제시, 매력적인 숙소 소개",
+      "image": {
+        "keyword": "japanese ryokan discount, infinity pool, tokyo bay view, summer sale japan, travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-ryokan-discount,-infinity-pool,-tokyo-bay-view,-summer-sale-japan,-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/japanese%20ryokan%20discount,%20infinity%20pool,%20tokyo%20bay%20view,%20summer%20sale%20japan,%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_65eaf54f",
+      "created_at": "2026-07-18T00:09:16.420844",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "首都高、都心環状線「新富町出口」を10月18日廃止、「銀座入口」は約3年の長期閉鎖へ。新地下トンネル建設に伴い",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2126217.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 꼭 알아야 할 교통 정보! 신칸센, 지하철 이용 시 참고하세요."
+      },
+      "content": {
+        "thumbnail_title": "🚨도쿄 교통 대란 예고🚨",
+        "cards": [
+          {
+            "title": "신토미초 출구 폐쇄",
+            "content": "10월 18일 23시부로 수도고속도로 도심환상선 C1 신토미초 출구(내/외선)가 폐쇄됩니다.",
+            "alt_text": "폐쇄되는 수도고속도로 신토미초 출구 표지판"
+          },
+          {
+            "title": "긴자 입구 장기 폐쇄",
+            "content": "신토미초 출구 폐쇄와 함께 긴자 입구(내선)도 약 3년간 장기 통행 금지됩니다.",
+            "alt_text": "공사 중인 긴자 입구 도로"
+          },
+          {
+            "title": "신규 지하 터널 건설",
+            "content": "이번 폐쇄는 신규 지하 터널 건설 공사에 따른 조치입니다.",
+            "alt_text": "지하 터널 건설 현장 조감도"
+          },
+          {
+            "title": "도쿄 도심 교통 영향",
+            "content": "해당 구간 폐쇄로 인해 도쿄 도심 교통 체증이 예상되니, 여행 시 대체 경로를 미리 확인하세요.",
+            "alt_text": "도쿄 도심 차량 정체 모습"
+          },
+          {
+            "title": "대체 경로 확인 필수!",
+            "content": "신토미초 출구 및 긴자 입구 이용 예정이었다면, 반드시 다른 출구 및 입구 정보를 미리 확인하고 이용해야 합니다. 특히 긴자 주변 이동 시 참고하세요.",
+            "alt_text": "도쿄 지하철 노선도와 함께 표시된 대체 경로"
+          }
+        ],
+        "caption": "⚠️도쿄 여행 예정이라면 꼭 확인하세요!⚠️\n\n10월 18일 23시부터 수도고속도로 C1 신토미초 출구가 폐쇄되고, 긴자 입구는 약 3년간 장기 통행 금지됩니다. 신규 지하 터널 건설로 인한 조치이니, 도쿄 도심 이동 시 교통 체증이 예상됩니다. 🚗💨\n\n여행 계획 시 반드시 대체 경로를 미리 확인하고, 여유로운 이동 하시길 바랍니다! ✈️🇯🇵\n\n#플라잉재팬 #일본여행 #도쿄여행 #교통정보 #수도고속도로 #긴자 #신토미초 #여행꿀팁 #일본교통 #안전여행 #도쿄",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#일본교통",
+          "#교통정보",
+          "#수도고속도로",
+          "#긴자",
+          "#신토미초",
+          "#여행꿀팁",
+          "#도쿄",
+          "#일본",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본정보",
+          "#여행필수템"
+        ],
+        "alt_texts": [
+          "폐쇄되는 수도고속도로 신토미초 출구 표지판",
+          "공사 중인 긴자 입구 도로",
+          "지하 터널 건설 현장 조감도",
+          "도쿄 도심 차량 정체 모습",
+          "도쿄 지하철 노선도와 함께 표시된 대체 경로"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시, 오후 6시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 한국인이 직접적으로 영향을 받는 구체적인 교통 정보 제공",
+      "image": {
+        "keyword": "Tokyo highway closure, Ginza entrance, Shintomi-cho exit, tunnel construction, traffic jam",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-highway-closure,-Ginza-entrance,-Shintomi-cho-exit,-tunnel-construction,-traffic-jam",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20highway%20closure,%20Ginza%20entrance,%20Shintomi-cho%20exit,%20tunnel%20construction,%20traffic%20jam/"
+      }
+    },
     {
       "id": "plan_633792ac",
       "created_at": "2026-07-17T03:31:08.039470",
@@ -923,160 +1077,6 @@
         "keyword": "Sanrio hotel Tokyo, Hotel Floria Tokyo, Shinjuku hotel, photogenic hotel room, character themed accommodation",
         "unsplash_url": "https://unsplash.com/s/photos/Sanrio-hotel-Tokyo,-Hotel-Floria-Tokyo,-Shinjuku-hotel,-photogenic-hotel-room,-character-themed-accommodation",
         "pexels_url": "https://www.pexels.com/search/Sanrio%20hotel%20Tokyo,%20Hotel%20Floria%20Tokyo,%20Shinjuku%20hotel,%20photogenic%20hotel%20room,%20character%20themed%20accommodation/"
-      }
-    },
-    {
-      "id": "plan_2d0a7254",
-      "created_at": "2026-07-14T03:22:38.463487",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーオフィシャルホテルでチデ柄ポーチがもらえる。ハロウィーン連動プラン宿泊者向け",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124784.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 할로윈 한정 굿즈, 놓치면 후회!"
-      },
-      "content": {
-        "thumbnail_title": "🎃디즈니 할로윈 굿즈 득템 찬스!",
-        "cards": [
-          {
-            "title": "할로윈 숙박 플랜",
-            "content": "도쿄 디즈니리조트 공식 호텔에서 할로윈 연동 '한정 오리지널 굿즈 증정 숙박 플랜'을 판매합니다. 9월 16일부터 10월 31일까지 투숙하는 분들에게 특별 혜택이 주어집니다.",
-            "alt_text": "도쿄 디즈니리조트 공식 호텔에서 제공하는 할로윈 테마 숙박 플랜 안내"
-          },
-          {
-            "title": "굿즈 증정 상세",
-            "content": "이번 플랜은 치키와 데일 패턴의 파우치를 증정하는 것으로 알려졌습니다. 할로윈 시즌에만 만날 수 있는 특별한 디자인의 굿즈입니다.",
-            "alt_text": "치키와 데일 패턴의 할로윈 한정 파우치 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "예약은 숙박일 2개월 전 같은 날부터 가능합니다. 예를 들어 9월 16일 숙박을 원한다면 7월 16일부터 예약할 수 있습니다.",
-            "alt_text": "도쿄 디즈니리조트 공식 호텔 예약 페이지 안내"
-          },
-          {
-            "title": "투숙 대상 기간",
-            "content": "한정 굿즈를 받을 수 있는 대상 기간은 2024년 9월 16일부터 10월 31일까지입니다. 이 기간 동안 해당 플랜으로 숙박해야 합니다.",
-            "alt_text": "할로윈 시즌 투숙 기간 안내 캘린더"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "디즈니 팬이라면 절대 놓칠 수 없는 기회! 할로윈 분위기를 만끽하며 특별한 기념품까지 챙길 수 있는 절호의 찬스입니다. 지금 바로 예약하세요!",
-            "alt_text": "디즈니 할로윈 테마 장식과 함께 즐거워하는 관광객 모습"
-          }
-        ],
-        "caption": "🎃 도쿄 디즈니리조트 공식 호텔에서 특별한 할로윈을! 🎃\n\n9월 16일부터 10월 31일까지 투숙하는 분들을 위해 치키와 데일 패턴의 한정 오리지널 굿즈(파우치)를 증정하는 숙박 플랜이 출시되었어요!\n\n예약은 숙박일 2개월 전부터 가능하니, 서둘러서 특별한 할로윈 추억을 만들어 보세요!\n\n#디즈니할로윈 #도쿄디즈니리조트 #한정굿즈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니할로윈",
-          "#디즈니굿즈",
-          "#치키와데일",
-          "#일본숙소",
-          "#호텔플랜",
-          "#여행정보",
-          "#일본축제",
-          "#여행꿀팁",
-          "#도쿄여행",
-          "#할로윈",
-          "#오리지널굿즈"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니리조트 공식 호텔에서 제공하는 할로윈 테마 숙박 플랜 안내",
-          "치키와 데일 패턴의 할로윈 한정 파우치 이미지",
-          "도쿄 디즈니리조트 공식 호텔 예약 페이지 안내",
-          "할로윈 시즌 투숙 기간 안내 캘린더",
-          "디즈니 할로윈 테마 장식과 함께 즐거워하는 관광객 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간 (20시~22시) / 기대 반응: 높은 관심과 예약 문의, 정보 공유 / 이 콘텐츠의 강점: 시즌 한정, 인기 캐릭터, 실질적인 혜택 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland Halloween hotel plan, Chip 'n' Dale pouch, limited edition goods, travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween-hotel-plan,-Chip-'n'-Dale-pouch,-limited-edition-goods,-travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween%20hotel%20plan,%20Chip%20'n'%20Dale%20pouch,%20limited%20edition%20goods,%20travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_de07e32c",
-      "created_at": "2026-07-14T03:22:29.940163",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALマイレージバンクとMarriott Bonvoyでステイタスマッチ。会員ランクに応じて資格の自動付与など",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124864.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL과 메리어트 본보이 회원이라면 주목! 항공 마일리지와 호텔 숙박 혜택을 동시에 누릴 수 있는 절호의 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL x 메리어트✨동시 혜택!",
-        "cards": [
-          {
-            "title": "✈️JAL x 메리어트",
-            "content": "JAL 마일리지 뱅크와 메리어트 본보이가 7월 14일, 특별한 파트너십을 체결했어요. 이제 두 멤버십을 함께 활용할 수 있습니다.",
-            "alt_text": "JAL 항공기와 메리어트 호텔 로고가 함께 있는 이미지"
-          },
-          {
-            "title": "✨스테이타스 매치",
-            "content": "JAL 마일리지 뱅크 회원이라면, 본보이 회원 등급을 자동으로 부여받을 수 있어요. 반대의 경우도 마찬가지로 적용됩니다.",
-            "alt_text": "회원 등급 표시가 올라가는 그래프 이미지"
-          },
-          {
-            "title": "혜택 자동 부여",
-            "content": "회원 등급에 따라 자동으로 혜택이 부여되므로, 별도의 신청 절차 없이 편리하게 이용 가능합니다. (자세한 내용은 추후 공개 예정)",
-            "alt_text": "자동으로 혜택이 적용되는 모습 이미지"
-          },
-          {
-            "title": "더 많은 혜택",
-            "content": "항공권 구매와 호텔 숙박 시 마일리지/포인트 적립 및 사용이 더욱 용이해져, 일본 여행 시 혜택을 극대화할 수 있습니다.",
-            "alt_text": "항공권과 호텔 예약 화면 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "JAL 마일리지 뱅크와 메리어트 본보이 회원이라면, 이번 기회를 놓치지 마세요! 자세한 혜택 내용은 곧 업데이트될 예정이니, @flyingjapan 팔로우하고 최신 정보를 받아보세요!",
-            "alt_text": "알림 설정 아이콘과 함께 '놓치지 마세요!' 문구가 있는 이미지"
-          }
-        ],
-        "caption": "✈️ JAL 마일리지 뱅크 x 메리어트 본보이 회원이라면 주목! ✨\n7월 14일부로 두 멤버십 간 '스테이타스 매치' 파트너십이 체결되었습니다. 🤩\n이제 JAL 회원도 메리어트 본보이 등급을, 메리어트 본보이 회원도 JAL 등급을 자동으로 부여받을 수 있어요! 🚀\n일본 여행 시 항공과 숙박 혜택을 동시에 누릴 절호의 기회! 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #JAL #메리어트본보이 #스테이타스매치 #항공마일리지 #호텔숙박 #여행혜택 #일본항공 #일본호텔 #일본여행준비 #여행꿀팁 #여행정보 #마일리지 #포인트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#메리어트본보이",
-          "#스테이타스매치",
-          "#항공마일리지",
-          "#호텔숙박",
-          "#여행혜택",
-          "#일본항공",
-          "#일본호텔",
-          "#일본여행준비",
-          "#여행꿀팁",
-          "#여행정보",
-          "#마일리지",
-          "#포인트"
-        ],
-        "alt_texts": [
-          "JAL 항공기와 메리어트 호텔 로고가 함께 있는 이미지",
-          "회원 등급 표시가 올라가는 그래프 이미지",
-          "자동으로 혜택이 적용되는 모습 이미지",
-          "항공권과 호텔 예약 화면 이미지",
-          "알림 설정 아이콘과 함께 '놓치지 마세요!' 문구가 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 마일리지 뱅크 또는 메리어트 본보이 회원인 한국인 일본 여행 예정자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 실질적인 혜택 정보 제공 및 회원 등급 연동이라는 매력적인 포인트",
-      "image": {
-        "keyword": "JAL Marriott Bonvoy status match partnership Japan travel benefits",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Marriott-Bonvoy-status-match-partnership-Japan-travel-benefits",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Marriott%20Bonvoy%20status%20match%20partnership%20Japan%20travel%20benefits/"
       }
     }
   ]
