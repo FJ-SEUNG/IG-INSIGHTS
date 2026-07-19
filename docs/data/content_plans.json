@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-19T00:10:03.212111",
+  "last_updated": "2026-07-19T03:41:50.325630",
   "plans": [
+    {
+      "id": "plan_86ba51e1",
+      "created_at": "2026-07-19T03:41:48.325454",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "じゃらんnet、「じゃらんのお得な10日間」開催　最大25％お得に",
+        "url": "https://www.traicy.com/posts/20260719376362/",
+        "date": "Sun, 19 Jul 2026 01:15:21 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 숙소 예약 시 최대 25% 할인받는 꿀팁! 놓치면 후회할 역대급 할인 찬스 ✈️"
+      },
+      "content": {
+        "thumbnail_title": "일본 숙소 25% 할인 꿀팁! 💰",
+        "cards": [
+          {
+            "title": "할인 캠페인",
+            "content": "일본 최대 여행 예약 사이트 '재란넷'에서 '재란의 알뜰 10일' 캠페인을 진행합니다. 7월 20일부터 29일까지 10일간 진행되며, 특정 플랜에 한해 최대 25% 할인 혜택을 제공합니다.",
+            "alt_text": "재란넷 로고와 할인율이 강조된 이미지"
+          },
+          {
+            "title": "할인율",
+            "content": "캠페인 기간 동안 일부 제외 상품을 제외한 모든 대상 플랜에 대해 기본 5% 할인이 적용됩니다. 여기에 추가로 캠페인 기간 중에만 사용할 수 있는 쿠폰을 활용하면 최대 25%까지 할인받을 수 있습니다.",
+            "alt_text": "숫자 25%가 크게 표시된 할인율 이미지"
+          },
+          {
+            "title": "할인 적용 방법",
+            "content": "할인 혜택은 캠페인 대상 플랜 예약 시 자동으로 적용됩니다. 추가 쿠폰은 캠페인 기간 중에 재란넷 웹사이트 또는 앱에서 다운로드하여 사용할 수 있습니다.",
+            "alt_text": "쿠폰 아이콘과 예약 버튼이 있는 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "이번 '재란의 알뜰 10일' 캠페인은 2024년 7월 20일부터 7월 29일까지 단 10일간만 진행됩니다. 이 기간을 놓치면 역대급 할인 혜택을 받을 수 없으니 서둘러 예약하세요!",
+            "alt_text": "달력에 7월 20일과 29일이 표시된 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "인기 숙소는 조기 마감될 수 있으니 미리 예약하는 것이 좋습니다. 또한, 할인율은 플랜 및 숙소에 따라 상이할 수 있으니 예약 전 반드시 확인하세요. 환불 규정도 꼼꼼히 확인하는 센스!",
+            "alt_text": "체크리스트와 돋보기 아이콘이 있는 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? 🇯🇵 \n\n역대급 숙소 할인 찬스가 찾아왔어요! \n\n✨ 재란넷 '재란의 알뜰 10일' 캠페인 ✨\n📍 기간: 7월 20일 (토) ~ 7월 29일 (월) \n💰 할인율: 최대 25% \n\n지금 바로 재란넷에서 맘에 드는 숙소 예약하고 시원한 여름휴가 즐기세요! ✈️\n\n#일본여행 #재란넷 #숙소할인 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#재란넷",
+          "#일본숙소",
+          "#숙소할인",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행팁",
+          "#일본",
+          "#여름휴가",
+          "#할인정보",
+          "#여행",
+          "#일본숙소예약",
+          "#알뜰여행",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "재란넷 로고와 할인율이 강조된 이미지",
+          "숫자 25%가 크게 표시된 할인율 이미지",
+          "쿠폰 아이콘과 예약 버튼이 있는 이미지",
+          "달력에 7월 20일과 29일이 표시된 이미지",
+          "체크리스트와 돋보기 아이콘이 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 휴가 시즌을 맞아 일본 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 및 저녁 시간대) / 기대 반응: 높은 클릭률과 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 할인 정보와 명확한 기간, 구체적인 할인율 제시로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "Japan accommodation discount, Jalan net campaign, travel deals, summer vacation, save money on hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-accommodation-discount,-Jalan-net-campaign,-travel-deals,-summer-vacation,-save-money-on-hotel",
+        "pexels_url": "https://www.pexels.com/search/Japan%20accommodation%20discount,%20Jalan%20net%20campaign,%20travel%20deals,%20summer%20vacation,%20save%20money%20on%20hotel/"
+      }
+    },
+    {
+      "id": "plan_f8859b22",
+      "created_at": "2026-07-19T03:41:39.968536",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京駅「Suicaの夏まつり」、さかざきちはる描き下ろし絵柄や特製お箸付き「チキン弁当」。ぬいぐるみが当たる大抽選会も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2126087.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역에서 열리는 특별한 여름 축제! 한정 굿즈와 맛있는 도시락, 럭키 드로우까지 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🍣 도쿄역 여름 축제! 🍱",
+        "cards": [
+          {
+            "title": "Suica 여름 축제",
+            "content": "JR-Cross에서 주최하는 'Suica의 여름 축제'가 7월 24일부터 26일까지, 매일 오전 9시부터 오후 8시까지 도쿄역에서 개최됩니다.",
+            "alt_text": "도쿄역에서 열리는 'Suica의 여름 축제' 포스터 이미지"
+          },
+          {
+            "title": "한정 굿즈",
+            "content": "이번 축제에서는 인기 일러스트레이터 사카자키 치하루가 그린 특별한 그림이 담긴 굿즈를 만나볼 수 있습니다.",
+            "alt_text": "사카자키 치하루 작가가 그린 일러스트가 담긴 굿즈 이미지"
+          },
+          {
+            "title": "치킨 벤토",
+            "content": "축제 기간 동안 특별히 제작된 '치킨 벤토' 도시락이 판매될 예정이며, 특제 젓가락도 함께 제공됩니다.",
+            "alt_text": "특별 제작된 '치킨 벤토' 도시락 이미지"
+          },
+          {
+            "title": "럭키 드로우",
+            "content": "참가자들을 위한 대규모 럭키 드로우 이벤트도 준비되어 있으며, 귀여운 인형을 받을 수 있는 기회가 있습니다.",
+            "alt_text": "인형 경품이 걸린 럭키 드로우 이벤트 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "인파가 몰릴 수 있으니, 방문 시간을 미리 계획하시거나 오픈 시간에 맞춰 가는 것을 추천합니다. 특별한 기념품과 맛있는 도시락을 꼭 득템하세요!",
+            "alt_text": "도쿄역 전경과 함께 축제 분위기를 보여주는 이미지"
+          }
+        ],
+        "caption": "✨ 도쿄역에서 펼쳐지는 시원한 여름 축제! ✨\n\nJR-Cross가 준비한 'Suica의 여름 축제'가 7월 24일부터 26일까지 도쿄역에서 열립니다! 🤩\n\n사카자키 치하루 작가의 특별한 일러스트 굿즈와 맛있는 '치킨 벤토' 도시락, 그리고 귀여운 인형을 받을 수 있는 럭키 드로우까지! 🎁\n\n놓치면 후회할 도쿄역 여름 축제, 지금 바로 계획해보세요! 🏃‍♀️💨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄역",
+          "#여름축제",
+          "#Suica",
+          "#일본이벤트",
+          "#일본굿즈",
+          "#도시락",
+          "#럭키드로우",
+          "#여행정보",
+          "#일본축제",
+          "#도쿄",
+          "#여행꿀팁",
+          "#여름휴가"
+        ],
+        "alt_texts": [
+          "도쿄역에서 열리는 'Suica의 여름 축제' 포스터 이미지",
+          "사카자키 치하루 작가가 그린 일러스트가 담긴 굿즈 이미지",
+          "특별 제작된 '치킨 벤토' 도시락 이미지",
+          "인형 경품이 걸린 럭키 드로우 이벤트 이미지",
+          "도쿄역 전경과 함께 축제 분위기를 보여주는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름철 도쿄를 방문하는 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 이벤트 참여 의욕 고취, 정보 공유 및 저장 / 이 콘텐츠의 강점: 한정 굿즈 및 이벤트 정보 제공으로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Tokyo Station Summer Festival, Suica event, Japanese Bento, Illustration goods, Lucky draw, Travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Summer-Festival,-Suica-event,-Japanese-Bento,-Illustration-goods,-Lucky-draw,-Travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Summer%20Festival,%20Suica%20event,%20Japanese%20Bento,%20Illustration%20goods,%20Lucky%20draw,%20Travel%20Japan/"
+      }
+    },
     {
       "id": "plan_6ad2d478",
       "created_at": "2026-07-19T00:10:01.211949",
@@ -923,160 +1077,6 @@
         "keyword": "Suica penguin sticker book, Japan travel souvenir, cute stationery, Tokyo souvenir, Osaka souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-sticker-book,-Japan-travel-souvenir,-cute-stationery,-Tokyo-souvenir,-Osaka-souvenir",
         "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20sticker%20book,%20Japan%20travel%20souvenir,%20cute%20stationery,%20Tokyo%20souvenir,%20Osaka%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_7fc8853a",
-      "created_at": "2026-07-16T00:10:11.404080",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "那須ハイランドパーク、夏季限定「水上アスレチック」オープン。大自然に囲まれ水遊び、パス所持者は7月末まで無料",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2125489.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유명 워터파크에서 즐기는 짜릿한 여름 물놀이!"
-      },
-      "content": {
-        "thumbnail_title": "🎢 나스 하이랜드 파크 🌊",
-        "cards": [
-          {
-            "title": "신규 어트랙션",
-            "content": "나스 하이랜드 파크에서 여름 한정 '수상 애슬래틱'을 7월 17일 오픈했어요! 🌳 대자연 속에서 시원한 물놀이를 즐겨보세요.",
-            "alt_text": "일본 나스 하이랜드 파크의 푸른 자연 속 수상 애슬래틱 시설 이미지"
-          },
-          {
-            "title": "이용 혜택",
-            "content": "7월 말까지 파스(Pass) 소지자는 무료로 이용 가능해요! 🎫 놓치면 후회할 특별한 기회랍니다.",
-            "alt_text": "일본 나스 하이랜드 파크 파스(Pass) 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "도치기현 나스군 나스마치 고쿠오쓰 3375에 위치해 있어요. 🚗 여름 휴가철 시원한 여행지로 딱이에요!",
-            "alt_text": "일본 도치기현 나스 하이랜드 파크의 지도 핀 이미지"
-          },
-          {
-            "title": "운영 기간",
-            "content": "여름 한정으로 운영되며, 정확한 종료일은 추후 공지될 예정입니다. ☀️ 서둘러 방문 계획을 세워보세요!",
-            "alt_text": "일본 나스 하이랜드 파크의 여름 시즌 안내 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "파스 소지자라면 7월 말까지 무료! ⏰ 미리 파스 구매 여부를 확인하고 방문하면 더욱 알찬 여행이 될 거예요.",
-            "alt_text": "일본 나스 하이랜드 파크에서 즐거운 시간을 보내는 방문객들의 모습"
-          }
-        ],
-        "caption": "일본 여름 필수 코스! ☀️ 도치기현 나스 하이랜드 파크에서 7월 17일부터 새롭게 오픈하는 '수상 애슬래틱'을 즐겨보세요! 🌳 7월 말까지 파스 소지자는 무료 이용 혜택까지! 🤩 시원한 물놀이와 함께 잊지 못할 추억을 만들어보세요! #일본여름 #워터파크 #나스하이랜드파크",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본여름",
-          "#나스하이랜드파크",
-          "#일본워터파크",
-          "#일본액티비티",
-          "#일본관광",
-          "#여름휴가",
-          "#일본가볼만한곳",
-          "#도치기현",
-          "#여행정보",
-          "#일본여행팁",
-          "#물놀이",
-          "#여름필수",
-          "#일본축제"
-        ],
-        "alt_texts": [
-          "일본 나스 하이랜드 파크의 푸른 자연 속 수상 애슬래틱 시설 이미지",
-          "일본 나스 하이랜드 파크 파스(Pass) 이미지",
-          "일본 도치기현 나스 하이랜드 파크의 지도 핀 이미지",
-          "일본 나스 하이랜드 파크의 여름 시즌 안내 이미지",
-          "일본 나스 하이랜드 파크에서 즐거운 시간을 보내는 방문객들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시, 토요일 오전 10시 / 기대 반응: '가고 싶어요!' 댓글, 저장 수 증가, 친구 태그 / 이 콘텐츠의 강점: 여름 한정 신규 어트랙션 정보, 무료 혜택, 구체적인 날짜 및 장소 명시",
-      "image": {
-        "keyword": "Nasu Highland Park, water athletic, summer attraction, Japan travel, Tochigi",
-        "unsplash_url": "https://unsplash.com/s/photos/Nasu-Highland-Park,-water-athletic,-summer-attraction,-Japan-travel,-Tochigi",
-        "pexels_url": "https://www.pexels.com/search/Nasu%20Highland%20Park,%20water%20athletic,%20summer%20attraction,%20Japan%20travel,%20Tochigi/"
-      }
-    },
-    {
-      "id": "plan_4bc36798",
-      "created_at": "2026-07-16T00:10:04.626622",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡～鹿児島の高速バス「桜島号」夜行便が6年ぶり復活。宿泊費高騰に伴う夜移動ニーズに対応",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2125505.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "숙박비 절약! 후쿠오카-가고시마 야간 버스 6년 만에 부활!"
-      },
-      "content": {
-        "thumbnail_title": "✈️후쿠오카↔️가고시마 야간버스 6년 만에 부활!",
-        "cards": [
-          {
-            "title": "야간버스 부활!",
-            "content": "후쿠오카와 가고시마를 잇는 고속버스 '사쿠라지마호' 야간편이 9월 1일부터 6년 만에 다시 운행을 시작합니다. 🌃",
-            "alt_text": "후쿠오카와 가고시마를 잇는 고속버스 '사쿠라지마호' 노선도"
-          },
-          {
-            "title": "숙박비 절약",
-            "content": "최근 관광객 증가와 숙박비 상승으로 인해 밤 시간 이동에 대한 수요가 높아짐에 따라 이번 야간편 운행이 결정되었습니다. 💰",
-            "alt_text": "숙박비 절약 팁을 보여주는 이미지"
-          },
-          {
-            "title": "새로운 정류장 추가",
-            "content": "가고시마에서 출발하는 편은 새롭게 후쿠오카 공항 국제선 출발 게이트 정류장에도 정차합니다. ✈️",
-            "alt_text": "후쿠오카 공항 국제선 터미널 이미지"
-          },
-          {
-            "title": "운행 재개",
-            "content": "서일본 철도와 JR 큐슈 버스가 공동으로 운행하며, 편리한 밤 이동으로 여행 경비를 절약할 수 있습니다. ⏰",
-            "alt_text": "버스 차내에서 편안하게 휴식하는 승객 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "야간 버스를 이용하면 이동 시간과 숙박비를 동시에 절약할 수 있어 더욱 알찬 일본 여행을 즐길 수 있습니다. 💡",
-            "alt_text": "여행 계획을 세우는 사람의 손과 지도 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 정보! 🇯🇵 후쿠오카에서 가고시마까지, 6년 만에 '사쿠라지마호' 야간 버스가 다시 운행을 시작합니다! 🚌 숙박비 걱정은 덜고, 밤새 이동하며 여행 경비를 아껴보세요. 특히 가고시마 출발 편은 후쿠오카 공항 국제선에도 정차하니 더욱 편리해졌어요! ✨\n\n지금 바로 여행 계획에 추가하세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카",
-          "#가고시마",
-          "#사쿠라지마호",
-          "#일본교통",
-          "#야간버스",
-          "#숙박비절약",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#후쿠오카여행",
-          "#가고시마여행",
-          "#일본버스",
-          "#여행정보",
-          "#알뜰여행"
-        ],
-        "alt_texts": [
-          "후쿠오카와 가고시마를 잇는 고속버스 '사쿠라지마호' 노선도",
-          "숙박비 절약 팁을 보여주는 이미지",
-          "후쿠오카 공항 국제선 터미널 이미지",
-          "버스 차내에서 편안하게 휴식하는 승객 이미지",
-          "여행 계획을 세우는 사람의 손과 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카 또는 가고시마를 방문하는 한국인 여행자 / 최적 게시 시간: 오후 6시 - 10시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 실질적인 경비 절감 및 이동 편의성 제공 정보",
-      "image": {
-        "keyword": "Fukuoka Kagoshima highway bus night travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Kagoshima-highway-bus-night-travel",
-        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Kagoshima%20highway%20bus%20night%20travel/"
       }
     }
   ]
