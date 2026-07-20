@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-19T03:41:50.325630",
+  "last_updated": "2026-07-20T02:57:32.709161",
   "plans": [
+    {
+      "id": "plan_b709d036",
+      "created_at": "2026-07-20T02:57:30.708949",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「Suicaのペンギン チキンのり弁」、7月24日発売",
+        "url": "https://www.traicy.com/posts/20260719376406/",
+        "date": "Sun, 19 Jul 2026 03:45:25 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여운 캐릭터와 함께 즐기는 일본 철도 도시락!"
+      },
+      "content": {
+        "thumbnail_title": "Suica 펭귄 도시락 출시!🐧",
+        "cards": [
+          {
+            "title": "신상 도시락 출시!",
+            "content": "JR동일본에서 'Suica의 펭귄 치킨 도시락'을 7월 24일부터 8월 31일까지 한정 판매합니다.",
+            "alt_text": "Suica 펭귄 캐릭터가 그려진 도시락 이미지"
+          },
+          {
+            "title": "오렌지 페이지와 협업",
+            "content": "인기 잡지 '오렌지 페이지'가 프로듀스한 Suica 펭귄 도시락 시리즈의 7번째 신상입니다.",
+            "alt_text": "오렌지 페이지 로고와 Suica 펭귄 캐릭터 이미지"
+          },
+          {
+            "title": "메뉴는 치킨 도시락",
+            "content": "이번 신상 도시락은 JR동일본의 인기 역내 도시락인 '치킨 도시락'을 기반으로 제작되었습니다.",
+            "alt_text": "치킨 도시락 이미지"
+          },
+          {
+            "title": "판매 기간 확인!",
+            "content": "한정 판매 기간은 2024년 7월 24일부터 8월 31일까지입니다. 기간을 놓치지 마세요!",
+            "alt_text": "달력에 표시된 7월 24일과 8월 31일 이미지"
+          },
+          {
+            "title": "인증샷 필수!",
+            "content": "귀여운 Suica 펭귄 도시락과 함께 특별한 일본 여행 추억을 남겨보세요! SNS 인증샷은 필수!",
+            "alt_text": "Suica 펭귄 도시락을 들고 인증샷을 찍는 사람 이미지"
+          }
+        ],
+        "caption": "🚄 JR동일본에서 귀여운 'Suica의 펭귄 치킨 도시락'을 출시했어요! 🐧\n7월 24일부터 8월 31일까지 한정 판매되는 특별한 도시락! 🍱\n오렌지 페이지와 협업하여 탄생한 7번째 신상으로, 인기 메뉴 '치킨 도시락'을 맛볼 수 있답니다.\n여행 중 특별한 식사를 원한다면 놓치지 마세요! ✈️\n\n#일본여행 #플라잉재팬 #Suica펭귄 #일본도시락 #한정판 #JR동일본",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica펭귄",
+          "#일본도시락",
+          "#한정판",
+          "#JR동일본",
+          "#일본신상",
+          "#여행꿀팁",
+          "#일본음식",
+          "#여행정보",
+          "#일본철도",
+          "#일본쇼핑",
+          "#여행스타그램",
+          "#먹스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 캐릭터가 그려진 도시락 이미지",
+          "오렌지 페이지 로고와 Suica 펭귄 캐릭터 이미지",
+          "치킨 도시락 이미지",
+          "달력에 표시된 7월 24일과 8월 31일 이미지",
+          "Suica 펭귄 도시락을 들고 인증샷을 찍는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 귀여운 캐릭터에 대한 호감, 신상 정보에 대한 관심 / 이 콘텐츠의 강점: 귀여운 캐릭터와 한정 판매라는 희소성으로 인한 구매 욕구 자극",
+      "image": {
+        "keyword": "Suica penguin bento, JR East, limited edition, chicken bento, Orange Page collaboration",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-bento,-JR-East,-limited-edition,-chicken-bento,-Orange-Page-collaboration",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20bento,%20JR%20East,%20limited%20edition,%20chicken%20bento,%20Orange%20Page%20collaboration/"
+      }
+    },
+    {
+      "id": "plan_d34ab31f",
+      "created_at": "2026-07-20T02:57:23.048536",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「KOKO HOTEL Residence 東京押上」、7月16日開業",
+        "url": "https://www.traicy.com/posts/20260720374159/",
+        "date": "Sun, 19 Jul 2026 22:15:00 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 오시아게 지역에 새롭게 문을 연 코코 호텔 레지던스, 편리한 위치와 다양한 객실 타입으로 여행객들의 눈길을 사로잡습니다!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 도쿄 신상 숙소 오픈! 📍",
+        "cards": [
+          {
+            "title": "✨ KOKO HOTEL Residence",
+            "content": "2024년 7월 16일, 도쿄 오시아게에 'KOKO HOTEL Residence 東京押上'이 정식 개장했습니다. 새롭게 오픈한 숙소에서 편안한 휴식을 즐겨보세요.",
+            "alt_text": "KOKO HOTEL Residence 東京押上 건물 외관 이미지"
+          },
+          {
+            "title": "🛏️ 객실 정보",
+            "content": "총 25개의 객실을 보유하고 있으며, 스탠다드룸부터 디럭스룸까지 다양한 타입으로 구성되어 있습니다. 여행 스타일에 맞춰 객실을 선택할 수 있습니다.",
+            "alt_text": "호텔 객실 내부 이미지 (침대, 책상 등)"
+          },
+          {
+            "title": "🏡 편리한 시설",
+            "content": "모든 객실에는 실내 거실, 다이닝 공간, 그리고 주방 시설까지 갖추고 있어 장기 투숙이나 가족 여행객에게도 최적의 환경을 제공합니다.",
+            "alt_text": "객실 내 주방과 다이닝 공간 이미지"
+          },
+          {
+            "title": "📍 오시아게 위치",
+            "content": "도쿄 스카이트리 근처 오시아게 역에서 가까워 도쿄 시내 접근성이 매우 뛰어납니다. 주변 관광 및 교통 이용이 편리합니다.",
+            "alt_text": "오시아게 지역 지도와 주요 관광지 표시 이미지"
+          },
+          {
+            "title": "💡 예약 꿀팁",
+            "content": "신규 오픈 숙소인 만큼, 오픈 기념 프로모션이나 얼리버드 할인 혜택이 있을 수 있습니다. 공식 홈페이지를 통해 최신 정보를 확인하고 예약하세요!",
+            "alt_text": "노트북으로 호텔 예약 페이지를 보고 있는 손 이미지"
+          }
+        ],
+        "caption": "✨ 도쿄 여행 준비 중이라면 주목! ✨\n\n2024년 7월 16일, 도쿄 오시아게에 'KOKO HOTEL Residence 東京押上'이 새롭게 문을 열었어요! 🤩\n\n총 25개의 객실과 함께 거실, 다이닝, 주방까지 갖춘 레지던스형 숙소로, 장기 투숙이나 가족 여행객에게 특히 추천해요. 👨‍👩‍👧‍👦\n\n도쿄 스카이트리 근처 오시아게 역에서 가까워 도쿄 시내 관광하기도 최고! 👍\n\n새 숙소에서 편안하고 즐거운 도쿄 여행 추억 만들어보세요! 💖\n\n#일본여행 #도쿄여행 #도쿄숙소 #오시아게 #KOKOHOTELResidence #신상호텔 #일본신축숙소 #가족여행 #장기투숙 #도쿄신상 #여행정보 #플라잉재팬 #일본숙소추천 #도쿄가볼만한곳 #도쿄여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄숙소",
+          "#오시아게",
+          "#KOKOHOTELResidence",
+          "#신상호텔",
+          "#일본신축숙소",
+          "#가족여행",
+          "#장기투숙",
+          "#도쿄신상",
+          "#여행정보",
+          "#일본숙소추천",
+          "#도쿄가볼만한곳",
+          "#도쿄여행팁"
+        ],
+        "alt_texts": [
+          "KOKO HOTEL Residence 東京押上 건물 외관 이미지",
+          "호텔 객실 내부 이미지 (침대, 책상 등)",
+          "객실 내 주방과 다이닝 공간 이미지",
+          "오시아게 지역 지도와 주요 관광지 표시 이미지",
+          "노트북으로 호텔 예약 페이지를 보고 있는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 인스타그램 활동 시간) / 기대 반응: 숙소 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 시설 정보 제공으로 실질적인 도움 제공",
+      "image": {
+        "keyword": "KOKO HOTEL Residence Tokyo Oshiage, hotel interior, kitchen, dining area, Tokyo skyline, Oshiage station",
+        "unsplash_url": "https://unsplash.com/s/photos/KOKO-HOTEL-Residence-Tokyo-Oshiage,-hotel-interior,-kitchen,-dining-area,-Tokyo-skyline,-Oshiage-station",
+        "pexels_url": "https://www.pexels.com/search/KOKO%20HOTEL%20Residence%20Tokyo%20Oshiage,%20hotel%20interior,%20kitchen,%20dining%20area,%20Tokyo%20skyline,%20Oshiage%20station/"
+      }
+    },
     {
       "id": "plan_86ba51e1",
       "created_at": "2026-07-19T03:41:48.325454",
@@ -923,160 +1077,6 @@
         "keyword": "TAOYA Atami, Japan, Onsen, All-inclusive resort, Ocean view, Luxury hotel, New opening, Hot spring, Food and drink, Travel Japan",
         "unsplash_url": "https://unsplash.com/s/photos/TAOYA-Atami,-Japan,-Onsen,-All-inclusive-resort,-Ocean-view,-Luxury-hotel,-New-opening,-Hot-spring,-Food-and-drink,-Travel-Japan",
         "pexels_url": "https://www.pexels.com/search/TAOYA%20Atami,%20Japan,%20Onsen,%20All-inclusive%20resort,%20Ocean%20view,%20Luxury%20hotel,%20New%20opening,%20Hot%20spring,%20Food%20and%20drink,%20Travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_d99a3d70",
-      "created_at": "2026-07-16T03:29:19.907294",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "レスポートサック、初の日本限定ハードスーツケース。機内持ち込み35L/65L、容量を拡張できる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2125372.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 한정! 레스포삭 하드 캐리어 출시! ✈️"
-      },
-      "content": {
-        "thumbnail_title": "✨일본한정 레스포삭 캐리어✨",
-        "cards": [
-          {
-            "title": "일본 한정 출시!",
-            "content": "글로벌 브랜드 레스포삭이 일본에서만 만날 수 있는 첫 하드 캐리어 컬렉션을 출시했어요. 7월 15일부터 전국 매장 및 공식 온라인 스토어에서 구매 가능합니다.",
-            "alt_text": "레스포삭 일본 한정 하드 캐리어 컬렉션 이미지"
-          },
-          {
-            "title": "기내용 & 위탁용",
-            "content": "기내 반입 가능한 35L 사이즈와 65L 사이즈 두 가지로 출시됩니다. 넉넉한 수납 공간이 필요하다면 확장 기능까지 갖춘 모델을 선택할 수 있어요.",
-            "alt_text": "레스포삭 캐리어 35L, 65L 사이즈 비교 이미지"
-          },
-          {
-            "title": "온라인 구매 가능",
-            "content": "공식 온라인 스토어뿐만 아니라 아마존, 라쿠텐, 조조타운 등 다양한 온라인 마켓에서도 만나볼 수 있습니다. 일본 여행 전 미리 준비해보세요!",
-            "alt_text": "레스포삭 온라인 스토어 및 주요 판매처 로고 이미지"
-          },
-          {
-            "title": "디자인 & 실용성",
-            "content": "레스포삭 특유의 화려하고 개성 넘치는 패턴은 물론, 가볍고 튼튼한 하드 소재로 제작되어 여행의 편리함을 더해줄 거예요.",
-            "alt_text": "레스포삭 캐리어의 다양한 패턴 디자인 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "일본 여행 시 짐이 늘어날 경우를 대비해 확장 가능한 모델을 선택하는 것이 좋아요. 여행 스타일에 맞춰 최적의 캐리어를 골라보세요!",
-            "alt_text": "캐리어 확장 기능 활용 팁 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 여행 필수템 예감! 레스포삭에서 첫 하드 캐리어를 출시했어요! ✈️\n\n✨ 일본 한정판으로 전국 매장 및 온라인 스토어에서 7월 15일부터 구매 가능!\n✨ 기내용 35L, 위탁용 65L 두 가지 사이즈, 확장 기능까지!\n✨ 가볍고 튼튼한 하드 소재에 레스포삭 시그니처 패턴으로 디자인까지 완벽!\n\n일본 여행 짐 걱정 끝! 나만의 개성을 살릴 수 있는 레스포삭 캐리어로 즐거운 여행을 준비하세요! 💖\n\n#일본쇼핑 #레스포삭 #일본한정판 #여행준비 #캐리어추천",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#레스포삭",
-          "#레스포삭캐리어",
-          "#일본한정",
-          "#여행준비물",
-          "#캐리어",
-          "#하드캐리어",
-          "#기내용캐리어",
-          "#위탁용캐리어",
-          "#일본쇼핑리스트",
-          "#여행스타그램",
-          "#일본직구",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "레스포삭 일본 한정 하드 캐리어 컬렉션 이미지",
-          "레스포삭 캐리어 35L, 65L 사이즈 비교 이미지",
-          "레스포삭 온라인 스토어 및 주요 판매처 로고 이미지",
-          "레스포삭 캐리어의 다양한 패턴 디자인 이미지",
-          "캐리어 확장 기능 활용 팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 20-40대 여성 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 일본에서만 구매 가능한 희소성, 유명 브랜드, 실용적인 정보 포함",
-      "image": {
-        "keyword": "Lesportsac hard suitcase Japan limited",
-        "unsplash_url": "https://unsplash.com/s/photos/Lesportsac-hard-suitcase-Japan-limited",
-        "pexels_url": "https://www.pexels.com/search/Lesportsac%20hard%20suitcase%20Japan%20limited/"
-      }
-    },
-    {
-      "id": "plan_eafa7c16",
-      "created_at": "2026-07-16T03:29:12.279349",
-      "category": "tips",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "最初で最後の「SuicaのペンギンシールBOOK」本日発売。24シート×2冊で計1000ピース超え、作品集としても楽しめる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2124802.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "일본 여행 기념품으로 딱! 귀여운 스티커북 출시 소식 🐧"
-      },
-      "content": {
-        "thumbnail_title": "Suica 펭귄 스티커북 🐧 출시!",
-        "cards": [
-          {
-            "title": "신상 스티커북",
-            "content": "일본에서 사랑받는 'Suica의 펭귄' 스티커북이 7월 16일에 출시되었습니다. 총 2가지 테마로 만나볼 수 있어요.",
-            "alt_text": "Suica 펭귄 스티커북 표지 이미지"
-          },
-          {
-            "title": "2가지 테마",
-            "content": "【언제나의 생활편】과 【외출편】으로 나뉘어 출시되었으며, 각 책마다 24장의 스티커 시트가 포함되어 있습니다.",
-            "alt_text": "Suica 펭귄 스티커북 테마별 이미지"
-          },
-          {
-            "title": "풍성한 구성",
-            "content": "총 24시트 x 2권으로 구성되어 1000개 이상의 스티커 조각을 활용할 수 있습니다. 작품집으로도 손색 없어요.",
-            "alt_text": "스티커 시트가 겹쳐진 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "각 스티커북의 가격은 1,760엔입니다. 일본 여행 기념품으로 구매하기 좋은 가격이에요.",
-            "alt_text": "스티커북 가격 정보가 표시된 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "일본 편의점이나 서점에서 구매 가능하며, 여행 중 짐 보관이나 다이어리 꾸미기에 활용하기 좋습니다. 한정판일 수 있으니 서둘러 겟하세요!",
-            "alt_text": "Suica 펭귄 캐릭터가 스티커를 붙이는 모습"
-          }
-        ],
-        "caption": "일본 여행 필수템! 🐧 귀여운 'Suica의 펭귄' 스티커북이 출시되었어요!\n\n총 2가지 테마, 1000개 이상의 스티커로 다꾸, 짐 정리, 기념품으로 완벽!\n\n✅ 출시일: 7월 16일\n✅ 가격: 각 1,760엔\n✅ 구성: 2가지 테마 (생활편, 외출편), 각 24장 스티커 시트\n\n여행 중 득템 찬스를 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica펭귄",
-          "#일본기념품",
-          "#일본굿즈",
-          "#스티커북",
-          "#일본쇼핑",
-          "#여행준비",
-          "#일본여행정보",
-          "#일본생활",
-          "#도쿄여행",
-          "#오사카여행",
-          "#여행꿀팁",
-          "#다이어리꾸미기",
-          "#한정판"
-        ],
-        "alt_texts": [
-          "Suica 펭귄 스티커북 표지 이미지",
-          "Suica 펭귄 스티커북 테마별 이미지",
-          "스티커 시트가 겹쳐진 이미지",
-          "스티커북 가격 정보가 표시된 이미지",
-          "Suica 펭귄 캐릭터가 스티커를 붙이는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 이미 일본에 체류 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 스티커북 구매 인증샷, 여행 중 활용 팁 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터를 활용한 친근한 정보 전달, 실용적인 기념품 정보 제공",
-      "image": {
-        "keyword": "Suica penguin sticker book, Japan travel souvenir, cute stationery, Tokyo souvenir, Osaka souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-sticker-book,-Japan-travel-souvenir,-cute-stationery,-Tokyo-souvenir,-Osaka-souvenir",
-        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20sticker%20book,%20Japan%20travel%20souvenir,%20cute%20stationery,%20Tokyo%20souvenir,%20Osaka%20souvenir/"
       }
     }
   ]
