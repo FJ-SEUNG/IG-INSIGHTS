@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-20T02:57:32.709161",
+  "last_updated": "2026-07-20T03:55:25.068129",
   "plans": [
+    {
+      "id": "plan_6d867888",
+      "created_at": "2026-07-20T03:55:23.067911",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "イースター航空、沖縄/那覇〜ソウル/仁川線を期間増便　9月22日〜10月12日、1日2往復",
+        "url": "https://www.traicy.com/posts/20260719375819/",
+        "date": "Sun, 19 Jul 2026 03:15:21 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을 일본 여행, 항공권 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 이스타항공, 9월 증편!",
+        "cards": [
+          {
+            "title": "증편 노선",
+            "content": "이스타항공이 9월 22일부터 10월 12일까지 인천-나하 노선을 증편 운항합니다.",
+            "alt_text": "이스타항공 로고와 함께 인천-나하 노선 증편 정보를 담은 이미지"
+          },
+          {
+            "title": "운항 횟수",
+            "content": "증편 기간 동안 하루 1회 추가되어, 총 하루 2왕복으로 운항됩니다.",
+            "alt_text": "하루 2왕복 운항을 나타내는 비행기 아이콘 이미지"
+          },
+          {
+            "title": "운항 기간",
+            "content": "2024년 9월 22일 (목) ~ 10월 12일 (목)까지 증편 운항됩니다.",
+            "alt_text": "달력 아이콘과 함께 증편 기간을 표시한 이미지"
+          },
+          {
+            "title": "사용 기종",
+            "content": "해당 노선에는 보잉 737-8 기종이 투입될 예정입니다.",
+            "alt_text": "보잉 737-8 항공기 사진"
+          },
+          {
+            "title": "여행 팁",
+            "content": "추석 연휴 포함 가을 시즌, 제주도 대신 오키나와로 떠나는 알찬 여행 계획해보세요! 미리 예약하면 좋은 가격으로 티켓 확보 가능합니다.",
+            "alt_text": "오키나와 해변과 푸른 하늘을 배경으로 한 여행객 이미지"
+          }
+        ],
+        "caption": "✈️ 이스타항공, 9월 22일부터 10월 12일까지 인천-나하 노선 주 2회 증편! \n하루 2왕복으로 더욱 촘촘하게 만나는 오키나와! \n추석 연휴 포함 가을 여행, 이 기회 놓치지 마세요! ☀️\n지금 바로 항공권 확인하고 오키나와 여행 준비하세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오키나와",
+          "#오키나와여행",
+          "#이스타항공",
+          "#항공권",
+          "#일본항공권",
+          "#가을여행",
+          "#추석연휴",
+          "#여행정보",
+          "#일본",
+          "#여행",
+          "#인천나하",
+          "#항공증편",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "이스타항공 로고와 함께 인천-나하 노선 증편 정보를 담은 이미지",
+          "하루 2왕복 운항을 나타내는 비행기 아이콘 이미지",
+          "달력 아이콘과 함께 증편 기간을 표시한 이미지",
+          "보잉 737-8 항공기 사진",
+          "오키나와 해변과 푸른 하늘을 배경으로 한 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 9월~10월 일본 여행 예정인 한국인 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 항공권 정보에 대한 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 날짜와 운항 횟수를 명시하여 실질적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Okinawa, airplane, travel, autumn, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Okinawa,-airplane,-travel,-autumn,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Okinawa,%20airplane,%20travel,%20autumn,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_ccb43496",
+      "created_at": "2026-07-20T03:55:14.995574",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "一休、海外宿泊でポイント10倍　7月20日正午まで",
+        "url": "https://www.traicy.com/posts/20260719376608/",
+        "date": "Sun, 19 Jul 2026 11:34:26 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 숙소 예약 시 놓치면 후회할 포인트 적립 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨일정 임박! 포인트 10배✨",
+        "cards": [
+          {
+            "title": "캠페인 기간",
+            "content": "단 하루! 7월 19일 정오부터 7월 20일 정오까지만 진행돼요. ⏰",
+            "alt_text": "캠페인 기간을 나타내는 시계 이미지"
+          },
+          {
+            "title": "혜택 내용",
+            "content": "해외 숙소 예약 시, 예약 금액의 10%를 '일큐 포인트'로 적립해 드립니다. 💰",
+            "alt_text": "포인트 적립 혜택을 나타내는 이미지"
+          },
+          {
+            "title": "대상 숙소",
+            "content": "일본 전역의 호텔이 모두 포함되니, 원하는 곳 어디든 예약 가능해요. 🏨",
+            "alt_text": "일본 전역의 다양한 호텔을 보여주는 이미지"
+          },
+          {
+            "title": "포인트 사용",
+            "content": "적립된 포인트는 즉시 다음 예약 시 현금처럼 사용할 수 있습니다. 👍",
+            "alt_text": "포인트를 사용하는 모습을 보여주는 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "단 24시간 한정 캠페인이니, 일본 숙소 예약 계획이 있다면 지금 바로 확인하세요! ✈️",
+            "alt_text": "여행 가방과 비행기 이미지를 활용한 주의 환기 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 숙소 예약 꿀팁! 🇯🇵\n\n✨단 하루! 7월 19일 정오 ~ 7월 20일 정오까지✨\n\n일큐닷컴 해외 숙소 예약 시, 예약 금액의 무려 10%를 포인트로 적립해 드리는 역대급 캠페인이 시작됩니다! 🤩\n\n일본 전역의 호텔이 모두 포함되며, 적립된 포인트는 즉시 다음 예약에 사용할 수 있어요.\n\n놓치면 정말 후회할 절호의 찬스! 일본 여행 숙소 예약은 지금이 기회입니다! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본호텔",
+          "#일큐닷컴",
+          "#포인트적립",
+          "#일본여행꿀팁",
+          "#해외숙소",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#호텔예약",
+          "#여행정보",
+          "#7월여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "캠페인 기간을 나타내는 시계 이미지",
+          "포인트 적립 혜택을 나타내는 이미지",
+          "일본 전역의 다양한 호텔을 보여주는 이미지",
+          "포인트를 사용하는 모습을 보여주는 이미지",
+          "여행 가방과 비행기 이미지를 활용한 주의 환기 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 클릭률 및 예약 전환율 / 이 콘텐츠의 강점: 명확한 혜택과 짧은 기간으로 인한 긴박감 조성",
+      "image": {
+        "keyword": "japan hotel booking discount points promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-hotel-booking-discount-points-promotion",
+        "pexels_url": "https://www.pexels.com/search/japan%20hotel%20booking%20discount%20points%20promotion/"
+      }
+    },
     {
       "id": "plan_b709d036",
       "created_at": "2026-07-20T02:57:30.708949",
@@ -923,160 +1077,6 @@
         "keyword": "Japan train ticket, JR East, Hokkaido Shinkansen, travel discount, summer travel",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-train-ticket,-JR-East,-Hokkaido-Shinkansen,-travel-discount,-summer-travel",
         "pexels_url": "https://www.pexels.com/search/Japan%20train%20ticket,%20JR%20East,%20Hokkaido%20Shinkansen,%20travel%20discount,%20summer%20travel/"
-      }
-    },
-    {
-      "id": "plan_78f66a2f",
-      "created_at": "2026-07-17T00:12:28.584167",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "イオン、夏の大型セール「超！ナツ夏祭り」。猛暑対策グッズが最大半額に、キャリーケース/浴衣ほか注目の品を見てきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2125804.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 쇼핑몰 이온 여름 세일, 최대 반값 할인 기회!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 이온 여름 최대 50% 세일! ☀️",
-        "cards": [
-          {
-            "title": "세일 기간",
-            "content": "일본 전국 이온 및 이온 스타일 약 380개 매장과 온라인 샵에서 7월 17일부터 여름 대형 세일 '초! 나츠마츠리'가 시작됩니다.",
-            "alt_text": "이온 여름 세일 '초! 나츠마츠리' 시작 날짜 안내"
-          },
-          {
-            "title": "할인율",
-            "content": "이번 세일에서는 무더위 대비 상품을 최대 반값까지 할인합니다. 시원한 여름을 위한 필수템을 저렴하게 구매할 기회입니다.",
-            "alt_text": "이온 여름 세일 상품 최대 50% 할인 정보"
-          },
-          {
-            "title": "주요 품목",
-            "content": "캐리 케이스, 유카타 등 여름 시즌 인기 상품을 포함한 다양한 품목을 특별 할인가에 만나볼 수 있습니다.",
-            "alt_text": "이온 여름 세일 품목 예시 (캐리 케이스, 유카타)"
-          },
-          {
-            "title": "쇼핑 팁",
-            "content": "일본 여행 중이라면 꼭 들러야 할 이온! 세일 기간을 맞춰 방문하면 알뜰 쇼핑을 즐길 수 있습니다.",
-            "alt_text": "일본 이온 쇼핑몰 방문 추천"
-          },
-          {
-            "title": "온라인 쇼핑",
-            "content": "매장 방문이 어렵다면 이온 온라인 스토어를 이용하세요. 세일 상품을 집에서도 편리하게 구매할 수 있습니다.",
-            "alt_text": "이온 온라인 스토어 이용 안내"
-          }
-        ],
-        "caption": "일본 최대 쇼핑몰 이온에서 역대급 여름 세일이 시작됩니다! ☀️ 7월 17일부터 '초! 나츠마츠리' 세일에서 최대 50% 할인된 가격으로 캐리 케이스, 유카타 등 여름 필수템을 득템하세요! 🛍️\n\n매장 방문 혹은 온라인 스토어에서도 쇼핑 가능! ✈️\n\n#이온세일 #일본쇼핑 #여름세일 #득템찬스 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이온",
-          "#AEON",
-          "#일본쇼핑",
-          "#여름세일",
-          "#일본여행정보",
-          "#일본쇼핑리스트",
-          "#일본할인",
-          "#일본쇼핑팁",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#쇼핑",
-          "#여행"
-        ],
-        "alt_texts": [
-          "이온 여름 세일 '초! 나츠마츠리' 시작 날짜 안내",
-          "이온 여름 세일 상품 최대 50% 할인 정보",
-          "이온 여름 세일 품목 예시 (캐리 케이스, 유카타)",
-          "일본 이온 쇼핑몰 방문 추천",
-          "이온 온라인 스토어 이용 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 3-5시 / 기대 반응: 정보 유용성, 쇼핑 욕구 자극, 세일 정보 공유 / 이 콘텐츠의 강점: 일본 최대 쇼핑몰의 대규모 세일 정보, 구체적인 할인율 및 품목 제시",
-      "image": {
-        "keyword": "AEON summer sale, Japan shopping, discount, summer items, travel shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/AEON-summer-sale,-Japan-shopping,-discount,-summer-items,-travel-shopping",
-        "pexels_url": "https://www.pexels.com/search/AEON%20summer%20sale,%20Japan%20shopping,%20discount,%20summer%20items,%20travel%20shopping/"
-      }
-    },
-    {
-      "id": "plan_d48feef1",
-      "created_at": "2026-07-17T00:12:21.815991",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "海一望の温泉宿「TAOYA熱海」に行ってきた！　お酒もスイーツも食べ飲み放題、注目の“オールインクルーシブ宿”が開業",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2125840.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "열정 넘치는 '올인클루시브' 일본 온천 숙소가 7월 18일 오픈! 술, 디저트 무제한 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "熱海 올인클루시브 ♨️",
-        "cards": [
-          {
-            "title": "TAOYA熱海 오픈!",
-            "content": "7월 18일, 바다가 보이는 'TAOYA熱海'가 드디어 문을 엽니다. 일본 시즈오카현 열해시에 위치하며, 특별한 온천 경험을 선사합니다.",
-            "alt_text": "TAOYA熱海 외관 전경"
-          },
-          {
-            "title": "올인클루시브 혜택",
-            "content": "이곳의 핵심은 '올인클루시브'! 숙박 요금에 술과 디저트가 모두 포함되어 있어 마음껏 즐길 수 있습니다. 퀄리티 높은 음식과 음료를 부담 없이 맛보세요.",
-            "alt_text": "다양한 주류와 디저트가 진열된 모습"
-          },
-          {
-            "title": "온천 & 오션뷰",
-            "content": "아름다운 바다를 바라보며 즐기는 노천 온천은 최고의 힐링을 선사합니다. 객실에서도 탁 트인 바다 전망을 감상할 수 있습니다.",
-            "alt_text": "바다를 배경으로 한 아름다운 온천 시설"
-          },
-          {
-            "title": "다양한 부대시설",
-            "content": "온천과 식사 외에도 편안한 휴식을 위한 다양한 부대시설이 마련되어 있습니다. 완벽한 휴가를 위한 모든 것을 갖췄습니다.",
-            "alt_text": "숙소 내 라운지 또는 휴식 공간"
-          },
-          {
-            "title": "예약 꿀팁!",
-            "content": "7월 18일 오픈 예정이니, 미리 예약 정보를 확인하고 서두르세요! 특히 주말이나 성수기에는 빠르게 마감될 수 있습니다. 여름휴가 계획에 꼭 넣어보세요!",
-            "alt_text": "달력에 표시된 7월 18일 날짜"
-          }
-        ],
-        "caption": "✨ 열정 넘치는 'TAOYA熱海' 7월 18일 오픈! ✨\n\n일본 시즈오카현 열해시에 위치한 'TAOYA熱海'가 드디어 문을 엽니다! 🌊\n\n가장 큰 매력은 바로 '올인클루시브' 시스템! 🥂🍰 숙박 요금에 술과 디저트가 모두 포함되어 있어 눈치 보지 않고 마음껏 즐길 수 있어요.\n\n아름다운 바다를 바라보며 즐기는 온천은 덤! ♨️\n\n올여름, 최고의 힐링을 선사할 'TAOYA熱海'에서 잊지 못할 추억을 만들어보세요!\n\n📌 지금 바로 예약 정보 확인하세요! #TAOYA熱海 #일본온천 #올인클루시브",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#TAOYA熱海",
-          "#열해",
-          "#일본숙소",
-          "#온천여행",
-          "#올인클루시브",
-          "#일본신상",
-          "#여름휴가",
-          "#일본가볼만한곳",
-          "#여행정보",
-          "#해외여행",
-          "#일본온천추천",
-          "#시즈오카",
-          "#일본호텔"
-        ],
-        "alt_texts": [
-          "TAOYA熱海 외관 전경",
-          "다양한 주류와 디저트가 진열된 모습",
-          "바다를 배경으로 한 아름다운 온천 시설",
-          "숙소 내 라운지 또는 휴식 공간",
-          "달력에 표시된 7월 18일 날짜"
-        ]
-      },
-      "marketer_analysis": "타겟: 최신 트렌드에 민감하고 가성비 좋은 숙소를 찾는 20-40대 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 높은 관심과 예약 문의, 숙소 정보 공유 및 저장 / 이 콘텐츠의 강점: '올인클루시브'라는 매력적인 키워드와 구체적인 오픈 날짜, 위치 정보를 제공하여 즉각적인 여행 계획 반영 유도",
-      "image": {
-        "keyword": "TAOYA Atami, Japan, Onsen, All-inclusive resort, Ocean view, Luxury hotel, New opening, Hot spring, Food and drink, Travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/TAOYA-Atami,-Japan,-Onsen,-All-inclusive-resort,-Ocean-view,-Luxury-hotel,-New-opening,-Hot-spring,-Food-and-drink,-Travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/TAOYA%20Atami,%20Japan,%20Onsen,%20All-inclusive%20resort,%20Ocean%20view,%20Luxury%20hotel,%20New%20opening,%20Hot%20spring,%20Food%20and%20drink,%20Travel%20Japan/"
       }
     }
   ]
