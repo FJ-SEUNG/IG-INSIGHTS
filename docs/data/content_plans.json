@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-20T03:55:25.068129",
+  "last_updated": "2026-07-21T00:09:00.863269",
   "plans": [
+    {
+      "id": "plan_532c6c44",
+      "created_at": "2026-07-21T00:08:58.863077",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL Pay、外貨決済で最大3,000マイル獲得　9月30日まで",
+        "url": "https://www.traicy.com/posts/20260720376482/",
+        "date": "Mon, 20 Jul 2026 12:15:08 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL Pay로 일본 여행 경비 할인받고 최대 3,000마일 득템 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL Pay 마일리지 득템 찬스!",
+        "cards": [
+          {
+            "title": "JAL Pay 캠페인",
+            "content": "일본항공(JAL)이 JAL Pay 외화 결제 캠페인을 2024년 7월 13일부터 9월 30일까지 진행합니다. 캠페인에 응모하고 기간 중 외화 결제 금액이 10만원 이상 30만원 미만이면 250마일을, 30만원 이상이면 1,000마일을 추가로 받을 수 있습니다.",
+            "alt_text": "JAL Pay 외화 결제 캠페인 안내"
+          },
+          {
+            "title": "최대 3,000마일!",
+            "content": "이번 캠페인을 통해 최대 3,000마일까지 획득 가능합니다. 결제 금액 구간별로 지급되는 마일리지 혜택을 확인하고 최대한 많은 마일을 적립해보세요.",
+            "alt_text": "JAL Pay 마일리지 적립 혜택"
+          },
+          {
+            "title": "응모 방법",
+            "content": "캠페인 참여를 위해서는 반드시 사전 응모가 필요합니다. JAL 홈페이지에서 간단하게 응모할 수 있으니, 잊지 말고 미리 신청하세요.",
+            "alt_text": "JAL Pay 캠페인 응모 방법 안내"
+          },
+          {
+            "title": "결제 기간",
+            "content": "외화 결제는 2024년 7월 13일부터 9월 30일까지 진행됩니다. 이 기간 동안 일본에서 JAL Pay를 사용하여 결제하면 혜택을 받을 수 있습니다.",
+            "alt_text": "JAL Pay 캠페인 결제 기간 안내"
+          },
+          {
+            "title": "마일리지 활용 꿀팁",
+            "content": "적립된 마일리지는 JAL 항공권 할인이나 업그레이드에 활용할 수 있습니다. 일본 여행 후 다음 여행을 기약하는 데 유용하게 사용할 수 있겠죠?",
+            "alt_text": "JAL 마일리지 활용 팁"
+          }
+        ],
+        "caption": "일본 여행 필수템 JAL Pay! ✈️\n7월 13일부터 9월 30일까지 진행되는 외화 결제 캠페인으로 최대 3,000마일리지 획득 찬스를 놓치지 마세요! 🤩\n\n✅ 캠페인 기간: 2024년 7월 13일 ~ 9월 30일\n✅ 혜택: 외화 결제 금액에 따라 최대 3,000마일리지 지급\n✅ 필수: 캠페인 사전 응모!\n\n일본 여행 경비를 절약하고 다음 여행을 위한 마일리지까지 쌓을 수 있는 절호의 기회! 지금 바로 응모하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#JALPay",
+          "#일본항공",
+          "#마일리지",
+          "#항공권할인",
+          "#일본여행꿀팁",
+          "#여행경비절약",
+          "#해외결제",
+          "#외화결제",
+          "#일본쇼핑",
+          "#여행스타그램",
+          "#JAL마일리지",
+          "#프로모션"
+        ],
+        "alt_texts": [
+          "JAL Pay 외화 결제 캠페인 안내",
+          "JAL Pay 마일리지 적립 혜택",
+          "JAL Pay 캠페인 응모 방법 안내",
+          "JAL Pay 캠페인 결제 기간 안내",
+          "JAL 마일리지 활용 팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 마일리지 혜택에 대한 관심 증대, 캠페인 참여율 상승 / 이 콘텐츠의 강점: 실질적인 경비 절약 정보와 마일리지 적립이라는 매력적인 혜택을 명확하게 제시",
+      "image": {
+        "keyword": "JAL Pay campaign, Japan travel miles, airline mileage offer",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Pay-campaign,-Japan-travel-miles,-airline-mileage-offer",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Pay%20campaign,%20Japan%20travel%20miles,%20airline%20mileage%20offer/"
+      }
+    },
+    {
+      "id": "plan_e4dea107",
+      "created_at": "2026-07-21T00:08:52.692382",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "エポスカード、交通系ICや電子マネーへのチャージをポイント加算対象外に　8月1日から",
+        "url": "https://www.traicy.com/posts/20260720372315/",
+        "date": "Mon, 20 Jul 2026 13:15:41 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수품인 교통카드 충전 꿀팁! 에포스카드로 쏠쏠하게 모으던 포인트, 이제 충전하면 못 받아요!"
+      },
+      "content": {
+        "thumbnail_title": "🚨에포스카드 충전 꿀팁!🚨",
+        "cards": [
+          {
+            "title": "충전 포인트 종료",
+            "content": "에포스카드로 모바일 스이카, 파스모 등 교통계 IC 카드 및 전자화폐에 충전 시, 포인트 적립이 7월 31일까지만 가능합니다.",
+            "alt_text": "교통카드 충전 화면"
+          },
+          {
+            "title": "8월 1일부터 변경",
+            "content": "8월 1일부터는 해당 충전 건에 대한 포인트 적립이 중단됩니다. 미리 알고 혜택 놓치지 마세요!",
+            "alt_text": "날짜 변경 표시"
+          },
+          {
+            "title": "대상 서비스",
+            "content": "모바일 스이카, 모바일 파스모, 모바일 이코카, 이코카(TOICA 모델), SAPICA, ANA 마일리지 전환 등 다양한 서비스가 포함됩니다.",
+            "alt_text": "다양한 교통카드 로고"
+          },
+          {
+            "title": "변경 이유",
+            "content": "정확한 변경 이유는 공지되지 않았으나, 카드사 정책 변경으로 인한 것으로 보입니다.",
+            "alt_text": "카드사 로고"
+          },
+          {
+            "title": "현명한 충전법",
+            "content": "아직 7월 31일까지는 포인트 적립이 가능하니, 필요한 교통비는 미리 충전하는 것을 추천합니다. 이후에는 다른 결제 수단을 활용하세요.",
+            "alt_text": "여행 경비 계산하는 모습"
+          }
+        ],
+        "caption": "일본 여행 필수템! 교통카드 충전 꿀팁 알려드릴게요! 💳\n\n에포스카드로 교통카드 충전 시 쏠쏠하게 모으던 포인트, 이제 7월 31일까지만 적립 가능해요! 😭\n\n8월 1일부터는 모바일 스이카, 파스모 등 주요 교통카드 및 전자화폐 충전에 대한 포인트 적립이 중단되니, 미리 알고 혜택 놓치지 마세요! ✈️\n\n#일본여행 #교통카드 #에포스카드 #포인트적립 #일본교통",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#에포스카드",
+          "#일본교통",
+          "#교통카드",
+          "#스이카",
+          "#파스모",
+          "#이코카",
+          "#일본여행꿀팁",
+          "#여행정보",
+          "#해외여행",
+          "#일본",
+          "#여행",
+          "#꿀팁",
+          "#쇼핑"
+        ],
+        "alt_texts": [
+          "교통카드 충전 화면",
+          "날짜 변경 표시",
+          "다양한 교통카드 로고",
+          "카드사 로고",
+          "여행 경비 계산하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 5시 ~ 7시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보의 유용성에 대한 긍정적인 반응, 댓글 문의 증가 / 이 콘텐츠의 강점: 일본 여행 시 필수적인 교통카드 충전 관련 실질적인 정보 제공, 시기적절한 알림",
+      "image": {
+        "keyword": "Epos Card, Japan transportation IC card, point accumulation, change, July 31, August 1",
+        "unsplash_url": "https://unsplash.com/s/photos/Epos-Card,-Japan-transportation-IC-card,-point-accumulation,-change,-July-31,-August-1",
+        "pexels_url": "https://www.pexels.com/search/Epos%20Card,%20Japan%20transportation%20IC%20card,%20point%20accumulation,%20change,%20July%2031,%20August%201/"
+      }
+    },
     {
       "id": "plan_6d867888",
       "created_at": "2026-07-20T03:55:23.067911",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo highway closure, Ginza entrance, Shintomi-cho exit, tunnel construction, traffic jam",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-highway-closure,-Ginza-entrance,-Shintomi-cho-exit,-tunnel-construction,-traffic-jam",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20highway%20closure,%20Ginza%20entrance,%20Shintomi-cho%20exit,%20tunnel%20construction,%20traffic%20jam/"
-      }
-    },
-    {
-      "id": "plan_633792ac",
-      "created_at": "2026-07-17T03:31:08.039470",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "西鉄エアサービス、成田空港の航空機ハンドリング車両をすべて電気自動車に",
-        "url": "https://www.traicy.com/posts/20260717373132/",
-        "date": "Fri, 17 Jul 2026 00:15:09 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 공항에서 전기차로 바뀌는 핸들링 서비스, 친환경 여행의 시작!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 나리타 공항, 전기차로 친환경 UP!",
-        "cards": [
-          {
-            "title": "전기차 핸들링",
-            "content": "나리타 국제공항에서 6월 2일부터 항공기 핸들링 차량이 모두 전기차로 변경됩니다. 이는 항공기 1대당 모든 지상 조업을 전기차로 수행하는 것을 의미합니다.",
-            "alt_text": "나리타 공항에서 전기차로 항공기를 핸들링하는 모습"
-          },
-          {
-            "title": "친환경 노력",
-            "content": "수하물 및 화물 탑재/하역, 터미널-항공기 간 수하물 운반, 항공기 출발 시 푸시백 등 지상 작업 전반에 전기차가 투입됩니다.",
-            "alt_text": "친환경 전기차 차량이 공항에서 작업하는 모습"
-          },
-          {
-            "title": "지속 가능한 여행",
-            "content": "이는 탄소 배출량 감소를 위한 일본 공항의 노력으로, 앞으로 더욱 친환경적인 여행을 기대할 수 있습니다.",
-            "alt_text": "푸른 지구와 비행기를 형상화한 친환경 이미지"
-          },
-          {
-            "title": "나리타 공항",
-            "content": "일본의 주요 관문인 나리타 공항의 변화는 다른 공항에도 긍정적인 영향을 줄 것으로 예상됩니다.",
-            "alt_text": "일본 나리타 공항 전경 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "나리타 공항 이용 시, 더욱 깨끗하고 조용한 환경에서 여행을 시작할 수 있습니다. 공항 내 친환경 시설도 함께 이용해보세요!",
-            "alt_text": "나리타 공항 내 친환경 시설 안내"
-          }
-        ],
-        "caption": "✈️ 나리타 공항, 6월 2일부터 모든 항공기 핸들링 차량이 전기차로 전환됩니다! 🌍\n\n수하물 탑재/하역, 푸시백 등 지상 조업 전반에 전기차가 투입되어 탄소 배출량 감소에 기여해요. 🔋\n\n더욱 친환경적으로 변화하는 일본 여행, 지금 바로 준비해보세요! ✨\n\n#일본여행 #나리타공항 #전기차 #친환경여행 #일본항공 #여행정보 #플라잉재팬 #일본입국 #공항정보 #여행팁 #안전여행 #일본생활 #일본소식 #가을여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나리타공항",
-          "#전기차",
-          "#친환경여행",
-          "#일본항공",
-          "#여행정보",
-          "#일본입국",
-          "#공항정보",
-          "#여행팁",
-          "#안전여행",
-          "#일본생활",
-          "#일본소식",
-          "#가을여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "나리타 공항에서 전기차로 항공기를 핸들링하는 모습",
-          "친환경 전기차 차량이 공항에서 작업하는 모습",
-          "푸른 지구와 비행기를 형상화한 친환경 이미지",
-          "일본 나리타 공항 전경 사진",
-          "나리타 공항 내 친환경 시설 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 공항 이용 편의 및 친환경 노력에 대한 긍정적 관심 / 이 콘텐츠의 강점: 한국인이 자주 이용하는 나리타 공항의 실질적인 변화 정보 제공",
-      "image": {
-        "keyword": "Narita Airport electric vehicle ground handling",
-        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-electric-vehicle-ground-handling",
-        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20electric%20vehicle%20ground%20handling/"
-      }
-    },
-    {
-      "id": "plan_ed3c3be9",
-      "created_at": "2026-07-17T03:30:55.378253",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR乗り放題「青春18きっぷ」夏季利用は明日スタート。連続3日間/5日間の2種類",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2125957.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 전국 JR 노선을 무제한으로 저렴하게 이용할 수 있는 티켓 정보!"
-      },
-      "content": {
-        "thumbnail_title": "⚡JR 18킷! 전국 무제한⚡",
-        "cards": [
-          {
-            "title": "18킷 여름 개시!",
-            "content": "일본 전국의 JR 노선을 마음껏 이용할 수 있는 '청춘 18 티켓' 여름 시즌 이용이 7월 3일부터 시작됩니다. 2026년 봄까지 판매 예정인 이 티켓은 여름뿐 아니라 봄 시즌에도 이용 가능합니다.",
-            "alt_text": "청춘 18 티켓 여름 시즌 시작 알림"
-          },
-          {
-            "title": "2가지 이용권",
-            "content": "청춘 18 티켓은 연속 3일권과 5일권, 두 가지 종류로 판매됩니다. 여행 일정에 맞춰 선택하여 일본 열도를 자유롭게 여행하세요.",
-            "alt_text": "청춘 18 티켓 3일권 및 5일권 설명"
-          },
-          {
-            "title": "홋카이도 신칸센",
-            "content": "홋카이도 신칸센을 이용하고 싶다면 '청춘 18 티켓 홋카이도 신칸센 옵션권'을 별도로 구매해야 합니다. 이 옵션권과 함께라면 홋카이도까지 신칸센으로 이동 가능합니다.",
-            "alt_text": "청춘 18 티켓 홋카이도 신칸센 옵션권 안내"
-          },
-          {
-            "title": "언제 판매?",
-            "content": "티켓은 2026년 봄 시즌까지 판매될 예정이며, 현재 판매 중인 여름 시즌 티켓은 곧 품절될 수 있으니 서둘러 구매하는 것이 좋습니다.",
-            "alt_text": "청춘 18 티켓 판매 기간 안내"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "기차 이동은 시간은 더 걸리지만, 일본의 풍경을 여유롭게 감상하며 여행하는 묘미가 있습니다. JR 노선망을 미리 확인하고 효율적인 여행 계획을 세워보세요!",
-            "alt_text": "청춘 18 티켓 활용 꿀팁"
-          }
-        ],
-        "caption": "✨일본 전국 JR 무제한 탑승 찬스!✨\n\n기차 여행의 낭만을 제대로 느낄 수 있는 '청춘 18 티켓'! 🚄\n여름 시즌 이용이 7월 3일부터 시작되었어요.\n\n✅ 연속 3일권 / 5일권\n✅ 2026년 봄 시즌까지 판매\n✅ 홋카이도 신칸센 옵션권 별도 구매 가능\n\n시간은 좀 걸리더라도, 창밖으로 펼쳐지는 일본의 아름다운 풍경을 놓치고 싶지 않다면 지금 바로 준비하세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #청춘18티켓 #JR패스 #일본기차여행 #일본자유여행 #일본교통 #일본정보 #여행꿀팁 #가성비여행 #일본국내여행 #일본철도 #여행준비 #일본추천 #여름휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#청춘18티켓",
-          "#JR패스",
-          "#일본기차여행",
-          "#일본자유여행",
-          "#일본교통",
-          "#일본정보",
-          "#여행꿀팁",
-          "#가성비여행",
-          "#일본국내여행",
-          "#일본철도",
-          "#여행준비",
-          "#일본추천",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "청춘 18 티켓 여름 시즌 시작 알림",
-          "청춘 18 티켓 3일권 및 5일권 설명",
-          "청춘 18 티켓 홋카이도 신칸센 옵션권 안내",
-          "청춘 18 티켓 판매 기간 안내",
-          "청춘 18 티켓 활용 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 기차 여행을 선호하거나, 가성비 있는 일본 여행을 계획하는 20-30대 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 7시 - 9시 / 기대 반응: 티켓 구매 정보에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 구체적인 티켓 종류, 이용 기간, 옵션권 정보까지 상세하게 제공하여 실질적인 도움을 줄 수 있음.",
-      "image": {
-        "keyword": "Japan train ticket, JR East, Hokkaido Shinkansen, travel discount, summer travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-ticket,-JR-East,-Hokkaido-Shinkansen,-travel-discount,-summer-travel",
-        "pexels_url": "https://www.pexels.com/search/Japan%20train%20ticket,%20JR%20East,%20Hokkaido%20Shinkansen,%20travel%20discount,%20summer%20travel/"
       }
     }
   ]
