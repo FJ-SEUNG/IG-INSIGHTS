@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-22T00:06:53.965008",
+  "last_updated": "2026-07-22T03:35:12.836403",
   "plans": [
+    {
+      "id": "plan_ec7ffbff",
+      "created_at": "2026-07-22T03:35:10.836189",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ワークマンの上位版リカバリーウェア「メディヒール コスモス」買って着てみた。長袖なのに夏でも涼しい",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2126715.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지에서 만나는 쾌적함! 덥다고 포기하지 마세요! 💙"
+      },
+      "content": {
+        "thumbnail_title": "여름에도 시원! ❄️ 신상 꿀템!",
+        "cards": [
+          {
+            "title": "신상 꿀템 출시!",
+            "content": "일본 워크맨에서 7월 21일에 '메디힐 코스모스' 리커버리 웨어 시리즈를 출시했어요. 프리미엄 라인으로 편안함과 고급스러움을 더했답니다.",
+            "alt_text": "일본 워크맨에서 출시된 메디힐 코스모스 리커버리 웨어 신상품 이미지"
+          },
+          {
+            "title": "여름에도 OK!",
+            "content": "긴팔이지만 놀랍도록 시원한 착용감을 자랑해요. 더운 일본 여름 날씨에도 쾌적하게 활동할 수 있도록 제작되었답니다.",
+            "alt_text": "메디힐 코스모스 긴팔 상의를 입고 시원함을 느끼는 사람의 모습"
+          },
+          {
+            "title": "도쿄에서 득템!",
+            "content": "실제로 도쿄 시내 매장에서 바로 구매 가능해요. 현지에서 직접 보고 만져보고 구매할 수 있다는 점이 좋아요.",
+            "alt_text": "일본 도쿄 시내의 워크맨 매장 외관"
+          },
+          {
+            "title": "가성비 갑!",
+            "content": "고품질의 리커버리 웨어를 합리적인 가격으로 만날 수 있다는 점이 워크맨의 큰 장점이죠! 여행 중 편안함은 필수!",
+            "alt_text": "메디힐 코스모스 리커버리 웨어의 디테일을 보여주는 클로즈업 이미지"
+          },
+          {
+            "title": "추천 활용법!",
+            "content": "장시간 비행기 안이나, 더운 날씨의 야외 활동 시에도 쾌적함을 유지하는 데 도움을 줄 거예요. 여행 필수템으로 챙겨보세요!",
+            "alt_text": "메디힐 코스모스 웨어를 입고 일본 여행지에서 편안하게 쉬는 사람의 모습"
+          }
+        ],
+        "caption": "일본 여행 중에도 쾌적함을 포기할 수 없다면? ☀️\n워크맨의 프리미엄 리커버리 웨어 '메디힐 코스모스' 시리즈를 소개합니다! 💙\n7월 21일 출시된 이 신상 라인은 긴팔임에도 놀랍도록 시원해서 한여름 일본에서도 문제없어요. 쾌적한 여행을 위한 필수템, 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#워크맨",
+          "#메디힐코스모스",
+          "#일본꿀템",
+          "#여름여행",
+          "#일본준비물",
+          "#여행스타그램",
+          "#일본직구",
+          "#일본생활",
+          "#일본쇼핑리스트",
+          "#리커버리웨어",
+          "#도쿄쇼핑",
+          "#가성비템"
+        ],
+        "alt_texts": [
+          "일본 워크맨에서 출시된 메디힐 코스모스 리커버리 웨어 신상품 이미지",
+          "메디힐 코스모스 긴팔 상의를 입고 시원함을 느끼는 사람의 모습",
+          "일본 도쿄 시내의 워크맨 매장 외관",
+          "메디힐 코스모스 리커버리 웨어의 디테일을 보여주는 클로즈업 이미지",
+          "메디힐 코스모스 웨어를 입고 일본 여행지에서 편안하게 쉬는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 공유 및 구매 문의 / 이 콘텐츠의 강점: 시의성 있는 신상품 정보와 실질적인 여름 여행 꿀팁 제공",
+      "image": {
+        "keyword": "Japan travel, Workman, Medihill Cosmos, recovery wear, summer fashion, comfortable clothing, Tokyo shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-Workman,-Medihill-Cosmos,-recovery-wear,-summer-fashion,-comfortable-clothing,-Tokyo-shopping",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20Workman,%20Medihill%20Cosmos,%20recovery%20wear,%20summer%20fashion,%20comfortable%20clothing,%20Tokyo%20shopping/"
+      }
+    },
+    {
+      "id": "plan_66183fd1",
+      "created_at": "2026-07-22T03:35:02.285027",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "TAOYA熱海、1泊2食が最大30％オフに。インフィニティ温泉で相模灘を一望、海鮮グルメやラウンジ食べ飲み放題も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2126828.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 최대 30% 할인받고 인피니티 온천 & 해산물 만찬 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 30% 할인!♨️",
+        "cards": [
+          {
+            "title": "역대급 할인!",
+            "content": "타오야 아타미 숙박 시, 1박 2식 포함 최대 30% 할인 혜택을 받을 수 있어요. 7월 31일까지 진행되는 楽天 트래블 '스페셜 쿠폰 위크'를 놓치지 마세요!",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "인피니티 온천",
+            "content": "객실에서 탁 트인 사가미만 오션뷰를 감상하며 즐기는 인피니티 온천은 타오야 아타미의 자랑입니다. 잊지 못할 힐링을 경험해보세요.",
+            "alt_text": "인피니티 온천에서 바다를 바라보는 모습"
+          },
+          {
+            "title": "신선한 해산물",
+            "content": "신선한 제철 해산물을 맛볼 수 있는 훌륭한 저녁 식사가 포함되어 있습니다. 미식가들의 입맛을 사로잡을 다채로운 요리를 즐겨보세요.",
+            "alt_text": "먹음직스러운 해산물 요리"
+          },
+          {
+            "title": "무제한 라운지",
+            "content": "호텔 내 라운지에서 음식과 음료를 무제한으로 즐길 수 있습니다. 여행 중 편안하게 휴식하며 여유로운 시간을 보내세요.",
+            "alt_text": "다양한 음식과 음료가 준비된 라운지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "쿠폰은 여러 개 중복 사용 가능하며, 楽天 트래블에서 선착순으로 배포됩니다. 인기 숙소는 조기 마감될 수 있으니 서둘러 예약하시는 것을 추천합니다.",
+            "alt_text": "예약 페이지 스크린샷"
+          }
+        ],
+        "caption": "✨일본 여행 필수 코스!✨ \n\n타오야 아타미에서 최대 30% 할인받고 힐링 여행 떠나요! ♨️\n\n인피니티 온천에서 사가미만 오션뷰를 감상하고, 신선한 해산물 만찬과 라운지 무제한 이용까지! 🥂\n\n7월 31일까지 진행되는 楽天 트래블 '스페셜 쿠폰 위크'를 절대 놓치지 마세요! ✈️\n\n지금 바로 예약하고 특별한 추억을 만드세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#타오야아타미",
+          "#아타미",
+          "#일본숙소",
+          "#일본호텔",
+          "#온천여행",
+          "#일본자유여행",
+          "#해외여행",
+          "#일본가볼만한곳",
+          "#일본여행준비",
+          "#여행꿀팁",
+          "#일본온천추천",
+          "#楽天트래블"
+        ],
+        "alt_texts": [
+          "할인 쿠폰 이미지",
+          "인피니티 온천에서 바다를 바라보는 모습",
+          "먹음직스러운 해산물 요리",
+          "다양한 음식과 음료가 준비된 라운지",
+          "예약 페이지 스크린샷"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 숙소 특징을 결합하여 즉각적인 예약 행동 유도",
+      "image": {
+        "keyword": "Japanese Onsen Ryokan, Infinity Pool, Ocean View, Seafood Dinner, Lounge Food",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-Onsen-Ryokan,-Infinity-Pool,-Ocean-View,-Seafood-Dinner,-Lounge-Food",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20Onsen%20Ryokan,%20Infinity%20Pool,%20Ocean%20View,%20Seafood%20Dinner,%20Lounge%20Food/"
+      }
+    },
     {
       "id": "plan_61d1824a",
       "created_at": "2026-07-22T00:06:51.964850",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Station Summer Festival, Suica event, Japanese Bento, Illustration goods, Lucky draw, Travel Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Summer-Festival,-Suica-event,-Japanese-Bento,-Illustration-goods,-Lucky-draw,-Travel-Japan",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Summer%20Festival,%20Suica%20event,%20Japanese%20Bento,%20Illustration%20goods,%20Lucky%20draw,%20Travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_6ad2d478",
-      "created_at": "2026-07-19T00:10:01.211949",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR九州、小学生以下100円で全線乗り放題「こどもぼうけんきっぷ」発売　夏のナゾ解き企画も",
-        "url": "https://www.traicy.com/posts/20260718373744/",
-        "date": "Sat, 18 Jul 2026 13:16:03 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역을 저렴하게 여행할 수 있는 절호의 기회!"
-      },
-      "content": {
-        "thumbnail_title": "JR 규슈 100엔 무제한 탑승권 🎫",
-        "cards": [
-          {
-            "title": "어린이 무제한 티켓",
-            "content": "JR 규슈 전 노선을 무제한으로 이용할 수 있는 '어린이 모험 티켓'이 출시됩니다. 초등학교 6학년 이하 어린이라면 누구나 이용 가능합니다.",
-            "alt_text": "어린이가 JR 규슈 열차 앞에서 웃고 있는 모습"
-          },
-          {
-            "title": "파격적인 가격",
-            "content": "이 특별 티켓의 가격은 단돈 100엔입니다. 여름 방학 동안 아이와 함께 규슈 전역을 자유롭게 탐험할 수 있습니다.",
-            "alt_text": "100엔 동전과 JR 규슈 열차 이미지"
-          },
-          {
-            "title": "기간 한정 이벤트",
-            "content": "7월 18일부터 8월 31일까지 '수수께끼를 풀고 규슈를 나아가자! ~마츠마루 료고로부터의 도전장~'이라는 이름의 여름 수수께끼 풀이 이벤트도 함께 진행됩니다.",
-            "alt_text": "수수께끼 풀이 단서들이 놓여있는 책상 이미지"
-          },
-          {
-            "title": "규슈 여행 계획!",
-            "content": "아이와 함께하는 일본 규슈 여행을 계획 중이라면 이 티켓을 놓치지 마세요! 더욱 알차고 특별한 추억을 만들 수 있습니다.",
-            "alt_text": "아이와 함께 규슈의 명소를 여행하는 모습"
-          },
-          {
-            "title": "주의사항",
-            "content": "티켓은 초등학교 6학년 이하 어린이만 이용 가능하며, JR 규슈의 보통 및 쾌속 열차에 적용됩니다. 정확한 이용 가능 범위는 JR 규슈 공식 정보를 확인하세요.",
-            "alt_text": "JR 규슈 열차 노선도 이미지"
-          }
-        ],
-        "caption": "JR 규슈에서 아이들을 위한 역대급 특가 티켓을 출시했어요! 🥳\n\n✨ '어린이 모험 티켓'으로 초등학생 이하 어린이는 단돈 100엔에 JR 규슈 전 노선을 무제한 탑승 가능!\n\n🌞 7월 18일부터 8월 31일까지 수수께끼 풀이 이벤트도 함께 즐겨보세요!\n\n아이와 함께하는 규슈 여행, 잊지 못할 추억을 만들 기회! 놓치지 마세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR규슈",
-          "#어린이티켓",
-          "#규슈여행",
-          "#일본가족여행",
-          "#여름휴가",
-          "#일본자유여행",
-          "#일본교통",
-          "#JR패스",
-          "#100엔",
-          "#여행정보",
-          "#일본어린이",
-          "#규슈",
-          "#일본이벤트"
-        ],
-        "alt_texts": [
-          "어린이가 JR 규슈 열차 앞에서 웃고 있는 모습",
-          "100엔 동전과 JR 규슈 열차 이미지",
-          "수수께끼 풀이 단서들이 놓여있는 책상 이미지",
-          "아이와 함께 규슈의 명소를 여행하는 모습",
-          "JR 규슈 열차 노선도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 방학 기간 일본 규슈 지역 여행을 계획 중인 어린 자녀를 둔 가족 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 높은 관심과 공유, 규슈 여행 예약 증가 / 이 콘텐츠의 강점: 파격적인 가격과 한정된 기간으로 인한 즉각적인 행동 유도, 아이 동반 가족에게 실질적인 여행 경비 절감 효과 제공",
-      "image": {
-        "keyword": "JR Kyushu, child ticket, 100 yen, summer event, Kyushu, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Kyushu,-child-ticket,-100-yen,-summer-event,-Kyushu,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/JR%20Kyushu,%20child%20ticket,%20100%20yen,%20summer%20event,%20Kyushu,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_600d6eff",
-      "created_at": "2026-07-19T00:09:54.659388",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "浅草花やしき、隅田川花火の当日に21時まで営業時間延長「見えるかもしれないし、見えないかもしれない」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126062.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 료코쿠 불꽃축제 기간, 아사쿠사 하나야시키 놀이공원 야간 개장! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 도쿄 불꽃축제 🎇 하나야시키 야간 개장!",
-        "cards": [
-          {
-            "title": "특별 영업",
-            "content": "도쿄 아사쿠사 하나야시키 놀이공원이 7월 25일, 스미다강 불꽃놀이 축제 당일에 특별 영업을 진행합니다. 평소 오후 6시 마감이지만, 밤 9시까지 연장 운영합니다.",
-            "alt_text": "아사쿠사 하나야시키 놀이공원 야간 개장 안내"
-          },
-          {
-            "title": "불꽃놀이 명소?",
-            "content": "놀이공원 내에서 불꽃놀이가 보일 수도, 안 보일 수도 있다는 점! 하지만 야간까지 운영하니 불꽃놀이 전후로 방문하기 좋아요.",
-            "alt_text": "아사쿠사 하나야시키에서 불꽃놀이를 볼 수 있을지 기대하는 모습"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 도쿄도 다이토구 아사쿠사 2-28-1입니다. 스미다강 불꽃놀이 축제와 함께 도쿄의 밤을 즐겨보세요!",
-            "alt_text": "아사쿠사 하나야시키 놀이공원 입구"
-          },
-          {
-            "title": "이용 팁",
-            "content": "불꽃놀이 당일은 매우 혼잡할 것으로 예상됩니다. 미리 티켓을 준비하고, 대중교통 이용을 추천합니다.",
-            "alt_text": "아사쿠사 하나야시키 이용객들의 모습"
-          },
-          {
-            "title": "주의사항",
-            "content": "영업 시간 연장은 불꽃놀이 당일인 7월 25일에만 해당됩니다. 방문 전 공식 정보를 다시 한번 확인하세요.",
-            "alt_text": "아사쿠사 하나야시키 영업 시간 안내 표지판"
-          }
-        ],
-        "caption": "🔥 도쿄 스미다강 불꽃놀이 축제 즐길 준비 되셨나요? 🔥\n7월 25일, 아사쿠사 하나야시키 놀이공원이 밤 9시까지 특별 연장 운영해요! 🎆\n불꽃놀이 명소로 떠오르는 하나야시키에서 특별한 밤을 만들어보세요!\n\n#일본여행 #도쿄여행 #스미다강불꽃축제 #아사쿠사 #하나야시키 #야간개장 #축제정보 #여행꿀팁 #7월여행 #일본축제 #도쿄명소 #여행스타그램 #플라잉재팬 #여행정보 #여름휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#스미다강불꽃축제",
-          "#아사쿠사",
-          "#하나야시키",
-          "#야간개장",
-          "#축제정보",
-          "#여행꿀팁",
-          "#7월여행",
-          "#일본축제",
-          "#도쿄명소",
-          "#여행스타그램",
-          "#여름휴가",
-          "#일본이벤트"
-        ],
-        "alt_texts": [
-          "아사쿠사 하나야시키 놀이공원 야간 개장 안내",
-          "아사쿠사 하나야시키에서 불꽃놀이를 볼 수 있을지 기대하는 모습",
-          "아사쿠사 하나야시키 놀이공원 입구",
-          "아사쿠사 하나야시키 이용객들의 모습",
-          "아사쿠사 하나야시키 영업 시간 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보성, 실용성으로 인한 저장 및 공유 / 이 콘텐츠의 강점: 특정 날짜의 한정적인 이벤트 정보로 시의성 높음",
-      "image": {
-        "keyword": "Asakusa Hanayashiki amusement park night view, Sumida River fireworks festival Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/Asakusa-Hanayashiki-amusement-park-night-view,-Sumida-River-fireworks-festival-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/Asakusa%20Hanayashiki%20amusement%20park%20night%20view,%20Sumida%20River%20fireworks%20festival%20Tokyo/"
       }
     }
   ]
