@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-21T03:34:54.517154",
+  "last_updated": "2026-07-22T00:06:53.965008",
   "plans": [
+    {
+      "id": "plan_61d1824a",
+      "created_at": "2026-07-22T00:06:51.964850",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【旅レポ】半日でもたっぷり楽しめる箱根観光モデルコース。ゴンドラに乗って大涌谷、海賊船で芦ノ湖周遊、王道ルートが続々リニューアル",
+        "url": "https://travel.watch.impress.co.jp/docs/news/tabirepo/2126585.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "반나절 만에 즐기는 알찬 하코네 당일치기 코스 추천!"
+      },
+      "content": {
+        "thumbnail_title": "🚄하코네 반나절 코스!🚄",
+        "cards": [
+          {
+            "title": "접근성 최고!",
+            "content": "도쿄에서 약 1시간 30분이면 도착하는 하코네! 에도시대부터 사랑받은 온천 명소로 당일치기 여행 최적화 코스예요.",
+            "alt_text": "도쿄에서 하코네로 향하는 기차 이미지"
+          },
+          {
+            "title": "로프웨이 탑승!",
+            "content": "하코네 로프웨이를 타고 오와쿠다니로 이동! 유황 지대의 신비로운 풍경을 만끽하고, 특별한 검은 달걀도 맛볼 수 있어요.",
+            "alt_text": "하코네 로프웨이에서 바라보는 오와쿠다니 풍경"
+          },
+          {
+            "title": "해적선 유람!",
+            "content": "오와쿠다니에서 내려 아시노 호수에서 운행하는 해적선에 탑승! 아름다운 호수 경치를 감상하며 여유로운 시간을 보내세요.",
+            "alt_text": "아시노 호수 위를 떠다니는 해적선 이미지"
+          },
+          {
+            "title": "왕도 코스",
+            "content": "하코네의 인기 명소들을 묶어 반나절 만에 알차게 둘러볼 수 있는 코스! 최근 리뉴얼된 시설들도 많아 더욱 즐거워요.",
+            "alt_text": "하코네의 주요 관광지를 나타내는 지도 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "하코네 프리패스를 이용하면 교통비 절약은 물론, 다양한 시설 할인 혜택까지 받을 수 있어요! 미리 구매하면 편리합니다.",
+            "alt_text": "하코네 프리패스 이미지"
+          }
+        ],
+        "caption": "도쿄 근교 당일치기 여행으로 딱! 🇯🇵 하코네 반나절 코스를 소개합니다.\n로프웨이 타고 오와쿠다니 신비 체험, 해적선 타고 아시노 호수 유람까지! 🚢\n알찬 하코네 여행, 지금 바로 준비해 보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하코네",
+          "#하코네여행",
+          "#도쿄근교",
+          "#당일치기여행",
+          "#일본온천",
+          "#오와쿠다니",
+          "#아시노호수",
+          "#해적선",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#여행에미치다"
+        ],
+        "alt_texts": [
+          "도쿄에서 하코네로 향하는 기차 이미지",
+          "하코네 로프웨이에서 바라보는 오와쿠다니 풍경",
+          "아시노 호수 위를 떠다니는 해적선 이미지",
+          "하코네의 주요 관광지를 나타내는 지도 이미지",
+          "하코네 프리패스 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교 당일치기 여행을 계획하는 20-30대 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시 (주말 여행 계획 시점) / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 코스 정보와 실질적인 팁 제공",
+      "image": {
+        "keyword": "Hakone, Japan, travel course, ropeway, pirate ship, Lake Ashi",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone,-Japan,-travel-course,-ropeway,-pirate-ship,-Lake-Ashi",
+        "pexels_url": "https://www.pexels.com/search/Hakone,%20Japan,%20travel%20course,%20ropeway,%20pirate%20ship,%20Lake%20Ashi/"
+      }
+    },
+    {
+      "id": "plan_3183a9dc",
+      "created_at": "2026-07-22T00:06:46.270969",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "サンキューマート、平成レトロの「サンリオキャラクターズ」限定アイテム。生活雑貨を中心に全78点",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2126597.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "추억 소환! 90년대생 심쿵하는 산리오X신상템 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💖平成레트로 산리오💖",
+        "cards": [
+          {
+            "title": "산리오X平成레트로",
+            "content": "추억의 산리오 캐릭터들이平成레트로 감성으로 돌아왔어요! 90년대생이라면 절대 놓칠 수 없겠죠?",
+            "alt_text": "平成レトロ 산리오 캐릭터 일러스트"
+          },
+          {
+            "title": "8월 중순 출시!",
+            "content": "전국 산큐마트 매장에서 8월 중순부터 순차적으로 판매 시작합니다. 서둘러 방문하세요!",
+            "alt_text": "산큐마트 매장 전경"
+          },
+          {
+            "title": "온라인 선행 예약",
+            "content": "7월 22일 오후 12시부터 공식 온라인 샵에서 선행 예약 접수가 시작됩니다. 온라인으로 먼저 득템하세요!",
+            "alt_text": "산큐마트 온라인 샵 화면"
+          },
+          {
+            "title": "생활 잡화 중심",
+            "content": "이번 한정 아이템은 생활 잡화를 중심으로 총 78가지 상품으로 구성됩니다. 실용성까지 갖춘 아이템들!",
+            "alt_text": "다양한 산리오 생활 잡화 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "정확한 가격 정보는 아직 공개되지 않았지만, 산큐마트의 합리적인 가격대로 만나볼 수 있을 것으로 예상됩니다.",
+            "alt_text": "가격표와 산리오 캐릭터가 함께 있는 이미지"
+          }
+        ],
+        "caption": "✨추억 소환! 平成레트로 감성 가득한 산리오X신상템이 8월 중순 전국 산큐마트에 상륙합니다!✨\n\n90년대생이라면 심쿵할 수밖에 없는 헬로키티, 마이멜로디 등 추억의 산리오 캐릭터들이 平成시대를 테마로 돌아왔어요.\n\n전국 산큐마트 매장에서는 8월 중순부터 순차적으로 판매 시작!\n\n7월 22일 오후 12시부터는 공식 온라인 샵에서 선행 예약도 가능하니, 놓치지 말고 득템하세요! 💖\n\n#일본여행 #플라잉재팬 #산리오 #平成レトロ #산큐마트 #헬로키티 #마이멜로디 #시나모롤 #폼폼푸린 #추억템 #일본쇼핑 #한정판 #득템찬스 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#산리오",
+          "#平成レトロ",
+          "#산큐마트",
+          "#헬로키티",
+          "#마이멜로디",
+          "#시나모롤",
+          "#폼폼푸린",
+          "#추억템",
+          "#일본쇼핑",
+          "#한정판",
+          "#득템찬스",
+          "#여행준비",
+          "#일본생활용품"
+        ],
+        "alt_texts": [
+          "平成レトロ 산리오 캐릭터 일러스트",
+          "산큐마트 매장 전경",
+          "산큐마트 온라인 샵 화면",
+          "다양한 산리오 생활 잡화 이미지",
+          "가격표와 산리오 캐릭터가 함께 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 90년대생 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 높은 관심과 구매욕구 자극, 정보 공유 활발 / 이 콘텐츠의 강점: 향수를 자극하는 테마와 실용적인 쇼핑 정보의 결합",
+      "image": {
+        "keyword": "Sanrio characters, Heisei retro, Thank You Mart, limited edition items, lifestyle goods, Japan shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Sanrio-characters,-Heisei-retro,-Thank-You-Mart,-limited-edition-items,-lifestyle-goods,-Japan-shopping",
+        "pexels_url": "https://www.pexels.com/search/Sanrio%20characters,%20Heisei%20retro,%20Thank%20You%20Mart,%20limited%20edition%20items,%20lifestyle%20goods,%20Japan%20shopping/"
+      }
+    },
     {
       "id": "plan_a2e7877e",
       "created_at": "2026-07-21T03:34:52.516964",
@@ -923,160 +1077,6 @@
         "keyword": "Asakusa Hanayashiki amusement park night view, Sumida River fireworks festival Tokyo",
         "unsplash_url": "https://unsplash.com/s/photos/Asakusa-Hanayashiki-amusement-park-night-view,-Sumida-River-fireworks-festival-Tokyo",
         "pexels_url": "https://www.pexels.com/search/Asakusa%20Hanayashiki%20amusement%20park%20night%20view,%20Sumida%20River%20fireworks%20festival%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_dbc5b7cb",
-      "created_at": "2026-07-18T03:20:54.137727",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "宝島社、最大80％オフ「夏の大決算セール」。付録雑誌が980円以下/リカバリーウェア半額/お得な福袋も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126253.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 출판사 80% 할인 세일! 잡지, 패션 아이템 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨일본 쇼핑 득템 찬스!✨",
-        "cards": [
-          {
-            "title": "최대 80% 할인!",
-            "content": "일본 최대 출판사 '타카라지마샤(宝島社)' 공식 온라인 스토어 '타카라지마 채널'에서 최대 80% 할인하는 '여름 대결산 세일'을 진행 중입니다.",
-            "alt_text": "타카라지마샤 여름 대결산 세일 배너"
-          },
-          {
-            "title": "8월 16일까지!",
-            "content": "이번 파격적인 세일은 8월 16일까지 진행됩니다. 서둘러서 득템하세요!",
-            "alt_text": "세일 기간 안내 텍스트"
-          },
-          {
-            "title": "980엔 이하 잡지!",
-            "content": "인기 잡지 부록 포함 상품들을 980엔 이하의 파격적인 가격으로 만나볼 수 있습니다.",
-            "alt_text": "할인 판매되는 잡지 이미지"
-          },
-          {
-            "title": "리커버리 웨어 반값!",
-            "content": "건강과 회복을 돕는 리커버리 웨어도 절반 가격인 50% 할인된 가격으로 구매 가능합니다.",
-            "alt_text": "리커버리 웨어 상품 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "이 외에도 알찬 구성의 복주머니(福袋) 등 다양한 상품을 저렴하게 구매할 수 있는 기회입니다. 일본 여행 중 쇼핑 계획이 있다면 꼭 확인해보세요!",
-            "alt_text": "복주머니(福袋) 이미지"
-          }
-        ],
-        "caption": "일본 쇼핑 찬스! 🤩 타카라지마샤 여름 대결산 세일이 8월 16일까지 진행됩니다! 인기 잡지 부록 포함 상품 980엔 이하, 리커버리 웨어 50% 할인 등 역대급 혜택 놓치지 마세요! 🇯🇵\n\n✅ 세일 기간: ~8월 16일까지\n✅ 할인율: 최대 80%\n✅ 주요 할인 품목: 잡지, 리커버리 웨어, 복주머니 등\n\n일본 여행 쇼핑 리스트에 추가 필수! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#타카라지마샤",
-          "#일본세일",
-          "#일본득템",
-          "#일본쇼핑리스트",
-          "#일본잡지",
-          "#일본패션",
-          "#일본직구",
-          "#여행정보",
-          "#일본여행꿀팁",
-          "#8월일본여행",
-          "#일본온라인쇼핑",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "타카라지마샤 여름 대결산 세일 배너",
-          "세일 기간 안내 텍스트",
-          "할인 판매되는 잡지 이미지",
-          "리커버리 웨어 상품 이미지",
-          "복주머니(福袋) 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 클릭률 및 스크랩, 댓글 문의 / 이 콘텐츠의 강점: 최신 할인 정보, 구체적인 할인율 및 기간 명시, 쇼핑 욕구 자극",
-      "image": {
-        "keyword": "Japan shopping sale, Takarajima company, discount, magazine, recovery wear, lucky bag",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-shopping-sale,-Takarajima-company,-discount,-magazine,-recovery-wear,-lucky-bag",
-        "pexels_url": "https://www.pexels.com/search/Japan%20shopping%20sale,%20Takarajima%20company,%20discount,%20magazine,%20recovery%20wear,%20lucky%20bag/"
-      }
-    },
-    {
-      "id": "plan_39e11880",
-      "created_at": "2026-07-18T03:20:46.825957",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "石川・能登をポケモンラッピングバスが走る！　北鉄限定仕様の巡回/特急バス車両をさっそく見てきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126282.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "포켓몬 덕후라면 놓칠 수 없는, 이시카와/노토 지역 포켓몬 래핑 버스 등장! 🚌✨"
-      },
-      "content": {
-        "thumbnail_title": "⚡️이시카와 포켓몬 버스⚡️",
-        "cards": [
-          {
-            "title": "포켓몬 버스 운행!",
-            "content": "이시카와현 노토 지역을 달리는 특별한 포켓몬 래핑 버스가 등장했습니다! 7월 17일, 일본항공고등학교 이시카와에서 첫 공개 행사가 열렸습니다.",
-            "alt_text": "이시카와현에서 공개된 포켓몬 래핑 버스"
-          },
-          {
-            "title": "특별한 디자인",
-            "content": "북철(北鉄) 한정 디자인으로 제작된 순회/특급 버스 차량을 직접 볼 수 있는 기회입니다. 포켓몬 팬들의 시선을 사로잡을 디자인으로 꾸며졌습니다.",
-            "alt_text": "포켓몬 래핑 버스의 상세 디자인"
-          },
-          {
-            "title": "이시카와/노토 지역",
-            "content": "이 특별한 버스는 이시카와현과 노토 지역을 중심으로 운행될 예정입니다. 여행 중 예상치 못한 귀여운 만남을 기대해 보세요!",
-            "alt_text": "이시카와/노토 지역 지도"
-          },
-          {
-            "title": "여행의 재미 UP!",
-            "content": "이시카와/노토 지역 여행을 계획 중이라면, 포켓몬 래핑 버스를 찾아보는 재미도 쏠쏠할 거예요. 특별한 추억을 만들어 보세요!",
-            "alt_text": "포켓몬 래핑 버스를 배경으로 사진 찍는 여행객"
-          },
-          {
-            "title": "운행 정보 확인!",
-            "content": "정확한 운행 노선 및 시간표는 북철(北鉄) 공식 발표를 참고하시는 것이 좋습니다. 여행 전 미리 확인하여 계획에 차질 없도록 하세요!",
-            "alt_text": "교통 정보 확인을 알리는 아이콘"
-          }
-        ],
-        "caption": "일본 이시카와/노토 지역 여행 예정이라면 주목! 🤩\n포켓몬 래핑 버스가 여러분을 기다리고 있어요! 🚌💨\n7월 17일 공개된 특별한 버스는 북철 한정 디자인으로 제작되어 지역을 누빕니다.\n이시카와/노토 여행 중 귀여운 포켓몬 친구들을 만나보세요! 💖\n\n✨ 지금 바로 저장하고, 이시카와/노토 여행 계획 세우세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이시카와여행",
-          "#노토여행",
-          "#포켓몬",
-          "#포켓몬버스",
-          "#일본교통",
-          "#일본대중교통",
-          "#일본뉴스",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본스타그램",
-          "#여행필수템",
-          "#일본가볼만한곳",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "이시카와현에서 공개된 포켓몬 래핑 버스",
-          "포켓몬 래핑 버스의 상세 디자인",
-          "이시카와/노토 지역 지도",
-          "포켓몬 래핑 버스를 배경으로 사진 찍는 여행객",
-          "교통 정보 확인을 알리는 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 포켓몬 팬, 이시카와/노토 지역 여행 예정 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 높은 관심과 공유, 이시카와/노토 지역 여행 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 포켓몬 관련 정보, 시각적 매력",
-      "image": {
-        "keyword": "pokemon wrapping bus ishikawa noto",
-        "unsplash_url": "https://unsplash.com/s/photos/pokemon-wrapping-bus-ishikawa-noto",
-        "pexels_url": "https://www.pexels.com/search/pokemon%20wrapping%20bus%20ishikawa%20noto/"
       }
     }
   ]
