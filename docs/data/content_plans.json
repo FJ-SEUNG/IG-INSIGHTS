@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-24T00:10:41.170963",
+  "last_updated": "2026-07-24T03:35:14.789908",
   "plans": [
+    {
+      "id": "plan_a84b7b24",
+      "created_at": "2026-07-24T03:35:12.789716",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東横イン、「北海道デジタルスタンプラリー」実施中　最大7,500円分クーポン付与、9月30日まで",
+        "url": "https://www.traicy.com/posts/20260724373849/",
+        "date": "Fri, 24 Jul 2026 01:15:31 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 숙박 할인 찬스! 동양인 호텔 스탬프 랠리로 최대 7,500엔 쿠폰 받으세요!"
+      },
+      "content": {
+        "thumbnail_title": "🏨홋카이도 동양인호텔 7500엔 쿠폰!",
+        "cards": [
+          {
+            "title": "스탬프 랠리",
+            "content": "홋카이도 지역 동양인 호텔에서 1박 시 디지털 스탬프 1개 적립! 4월 24일부터 9월 30일까지 진행됩니다.",
+            "alt_text": "디지털 스탬프 랠리 참여 안내 이미지"
+          },
+          {
+            "title": "쿠폰 교환",
+            "content": "서로 다른 3개 지점의 스탬프를 모으면 1,500엔 상당의 쿠폰으로 교환 가능합니다. 최대 5개 지점까지 모으면 7,500엔 상당의 쿠폰을 받을 수 있어요!",
+            "alt_text": "스탬프 개수에 따른 쿠폰 금액 안내 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "동양인 호텔 공식 웹사이트 또는 앱을 통해 자세한 참여 방법과 혜택을 확인하세요. 홋카이도 여행 시 숙박비 절약 기회!",
+            "alt_text": "동양인 호텔 웹사이트 안내 이미지"
+          },
+          {
+            "title": "기간 확인",
+            "content": "이벤트는 2024년 9월 30일까지 진행되니, 홋카이도 여행 계획이 있다면 놓치지 마세요!",
+            "alt_text": "이벤트 종료일 안내 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "홋카이도 내 여러 도시를 여행하며 여러 지점의 동양인 호텔을 이용하면 쿠폰 혜택을 극대화할 수 있습니다. 미리 예약하고 혜택 챙기세요!",
+            "alt_text": "홋카이도 지도에 동양인 호텔 위치 표시 이미지"
+          }
+        ],
+        "caption": "홋카이도 여행 필수 정보! 🏨 동양인 호텔에서 진행하는 '홋카이도 디지털 스탬프 랠리'에 참여하고 최대 7,500엔 상당의 쿠폰을 받아가세요! 4월 24일부터 9월 30일까지 진행되니, 홋카이도 숙박 계획이 있다면 꼭 확인하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도여행",
+          "#동양인호텔",
+          "#일본숙소",
+          "#일본할인",
+          "#일본쿠폰",
+          "#홋카이도",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#일본이벤트",
+          "#일본숙박",
+          "#여행스타그램",
+          "#일본정보",
+          "#스탬프랠리"
+        ],
+        "alt_texts": [
+          "디지털 스탬프 랠리 참여 안내 이미지",
+          "스탬프 개수에 따른 쿠폰 금액 안내 이미지",
+          "동양인 호텔 웹사이트 안내 이미지",
+          "이벤트 종료일 안내 이미지",
+          "홋카이도 지도에 동양인 호텔 위치 표시 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 숙박비 절약 정보에 대한 높은 관심과 참여 의지 / 이 콘텐츠의 강점: 구체적인 할인 금액과 기간 명시, 숙박비 절약이라는 실질적인 혜택 강조",
+      "image": {
+        "keyword": "Toyoko Inn Hokkaido digital stamp rally coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/Toyoko-Inn-Hokkaido-digital-stamp-rally-coupon",
+        "pexels_url": "https://www.pexels.com/search/Toyoko%20Inn%20Hokkaido%20digital%20stamp%20rally%20coupon/"
+      }
+    },
+    {
+      "id": "plan_07fe3b03",
+      "created_at": "2026-07-24T03:35:01.012172",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "箱根ホテル小涌園、全天候型プール「ユネッサン」で遊び放題の1泊2食が最大30％オフ対象に。夕食は豪華ビュッフェ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2127577.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "온천과 워터파크를 동시에! 최대 30% 할인받아 하코네 숙소 예약하자! 🌊"
+      },
+      "content": {
+        "thumbnail_title": "하코네 숙소 30% OFF! ♨️",
+        "cards": [
+          {
+            "title": "할인 쿠폰",
+            "content": "라쿠텐 트래블에서 7월 31일까지 '스페셜 쿠폰 위크' 진행 중! 최대 30% 할인 쿠폰을 활용해 보세요.",
+            "alt_text": "할인 쿠폰 이미지를 보여주며 '최대 30% OFF' 문구를 강조"
+          },
+          {
+            "title": "숙소 정보",
+            "content": "하코네 코와키엔 호텔에서는 1박 2식 포함 상품을 최대 30% 할인된 가격으로 예약 가능합니다.",
+            "alt_text": "하코네 코와키엔 호텔의 아름다운 외관 사진"
+          },
+          {
+            "title": "식사 포함",
+            "content": "저녁 식사는 럭셔리 뷔페로 제공되어 더욱 풍성한 식사를 즐길 수 있습니다.",
+            "alt_text": "다양한 메뉴가 준비된 뷔페 레스토랑 사진"
+          },
+          {
+            "title": "특별 시설",
+            "content": "실내 올인원 워터파크 '유네상'에서 날씨 걱정 없이 하루 종일 신나게 놀 수 있어요!",
+            "alt_text": "유네상 실내 워터파크에서 즐겁게 물놀이하는 사람들 모습"
+          },
+          {
+            "title": "예약 팁",
+            "content": "여러 쿠폰을 중복 적용하면 더 큰 할인을 받을 수 있으니, 예약 전 꼭 확인하고 혜택을 놓치지 마세요!",
+            "alt_text": "스마트폰으로 숙소 예약하는 모습"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? 🇯🇵 \n\n온천과 워터파크를 한 번에 즐길 수 있는 하코네 코와키엔 호텔 숙박! \n\n지금 라쿠텐 트래블에서 진행하는 '스페셜 쿠폰 위크'를 활용하면 최대 30% 할인받아 예약할 수 있어요! 🤩\n\n저녁은 럭셔리 뷔페, 낮에는 실내 워터파크 '유네상'에서 신나게 놀아봐요! 🌊\n\n놓치기 아까운 특가 찬스, 지금 바로 확인해보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하코네",
+          "#일본온천",
+          "#일본숙소",
+          "#하코네여행",
+          "#일본자유여행",
+          "#일본호텔",
+          "#일본할인",
+          "#라쿠텐트래블",
+          "#일본가족여행",
+          "#일본커플여행",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#유네상"
+        ],
+        "alt_texts": [
+          "할인 쿠폰 이미지를 보여주며 '최대 30% OFF' 문구를 강조",
+          "하코네 코와키엔 호텔의 아름다운 외관 사진",
+          "다양한 메뉴가 준비된 뷔페 레스토랑 사진",
+          "유네상 실내 워터파크에서 즐겁게 물놀이하는 사람들 모습",
+          "스마트폰으로 숙소 예약하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 하코네 지역 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 숙소 예약 정보에 대한 높은 관심 및 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 숙소 시설 소개를 결합하여 즉각적인 예약 행동 유도",
+      "image": {
+        "keyword": "Hakone hotel, Yunessun water park, Japanese buffet, travel discount coupon, onsen resort",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone-hotel,-Yunessun-water-park,-Japanese-buffet,-travel-discount-coupon,-onsen-resort",
+        "pexels_url": "https://www.pexels.com/search/Hakone%20hotel,%20Yunessun%20water%20park,%20Japanese%20buffet,%20travel%20discount%20coupon,%20onsen%20resort/"
+      }
+    },
     {
       "id": "plan_de18b50c",
       "created_at": "2026-07-24T00:10:39.170733",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disney Resort Line special ticket, Photographer Masashi Asada art, limited edition, travel souvenir, Tokyo Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disney-Resort-Line-special-ticket,-Photographer-Masashi-Asada-art,-limited-edition,-travel-souvenir,-Tokyo-Japan",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disney%20Resort%20Line%20special%20ticket,%20Photographer%20Masashi%20Asada%20art,%20limited%20edition,%20travel%20souvenir,%20Tokyo%20Japan/"
-      }
-    },
-    {
-      "id": "plan_532c6c44",
-      "created_at": "2026-07-21T00:08:58.863077",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL Pay、外貨決済で最大3,000マイル獲得　9月30日まで",
-        "url": "https://www.traicy.com/posts/20260720376482/",
-        "date": "Mon, 20 Jul 2026 12:15:08 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL Pay로 일본 여행 경비 할인받고 최대 3,000마일 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL Pay 마일리지 득템 찬스!",
-        "cards": [
-          {
-            "title": "JAL Pay 캠페인",
-            "content": "일본항공(JAL)이 JAL Pay 외화 결제 캠페인을 2024년 7월 13일부터 9월 30일까지 진행합니다. 캠페인에 응모하고 기간 중 외화 결제 금액이 10만원 이상 30만원 미만이면 250마일을, 30만원 이상이면 1,000마일을 추가로 받을 수 있습니다.",
-            "alt_text": "JAL Pay 외화 결제 캠페인 안내"
-          },
-          {
-            "title": "최대 3,000마일!",
-            "content": "이번 캠페인을 통해 최대 3,000마일까지 획득 가능합니다. 결제 금액 구간별로 지급되는 마일리지 혜택을 확인하고 최대한 많은 마일을 적립해보세요.",
-            "alt_text": "JAL Pay 마일리지 적립 혜택"
-          },
-          {
-            "title": "응모 방법",
-            "content": "캠페인 참여를 위해서는 반드시 사전 응모가 필요합니다. JAL 홈페이지에서 간단하게 응모할 수 있으니, 잊지 말고 미리 신청하세요.",
-            "alt_text": "JAL Pay 캠페인 응모 방법 안내"
-          },
-          {
-            "title": "결제 기간",
-            "content": "외화 결제는 2024년 7월 13일부터 9월 30일까지 진행됩니다. 이 기간 동안 일본에서 JAL Pay를 사용하여 결제하면 혜택을 받을 수 있습니다.",
-            "alt_text": "JAL Pay 캠페인 결제 기간 안내"
-          },
-          {
-            "title": "마일리지 활용 꿀팁",
-            "content": "적립된 마일리지는 JAL 항공권 할인이나 업그레이드에 활용할 수 있습니다. 일본 여행 후 다음 여행을 기약하는 데 유용하게 사용할 수 있겠죠?",
-            "alt_text": "JAL 마일리지 활용 팁"
-          }
-        ],
-        "caption": "일본 여행 필수템 JAL Pay! ✈️\n7월 13일부터 9월 30일까지 진행되는 외화 결제 캠페인으로 최대 3,000마일리지 획득 찬스를 놓치지 마세요! 🤩\n\n✅ 캠페인 기간: 2024년 7월 13일 ~ 9월 30일\n✅ 혜택: 외화 결제 금액에 따라 최대 3,000마일리지 지급\n✅ 필수: 캠페인 사전 응모!\n\n일본 여행 경비를 절약하고 다음 여행을 위한 마일리지까지 쌓을 수 있는 절호의 기회! 지금 바로 응모하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#JALPay",
-          "#일본항공",
-          "#마일리지",
-          "#항공권할인",
-          "#일본여행꿀팁",
-          "#여행경비절약",
-          "#해외결제",
-          "#외화결제",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#JAL마일리지",
-          "#프로모션"
-        ],
-        "alt_texts": [
-          "JAL Pay 외화 결제 캠페인 안내",
-          "JAL Pay 마일리지 적립 혜택",
-          "JAL Pay 캠페인 응모 방법 안내",
-          "JAL Pay 캠페인 결제 기간 안내",
-          "JAL 마일리지 활용 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 마일리지 혜택에 대한 관심 증대, 캠페인 참여율 상승 / 이 콘텐츠의 강점: 실질적인 경비 절약 정보와 마일리지 적립이라는 매력적인 혜택을 명확하게 제시",
-      "image": {
-        "keyword": "JAL Pay campaign, Japan travel miles, airline mileage offer",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Pay-campaign,-Japan-travel-miles,-airline-mileage-offer",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Pay%20campaign,%20Japan%20travel%20miles,%20airline%20mileage%20offer/"
-      }
-    },
-    {
-      "id": "plan_e4dea107",
-      "created_at": "2026-07-21T00:08:52.692382",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エポスカード、交通系ICや電子マネーへのチャージをポイント加算対象外に　8月1日から",
-        "url": "https://www.traicy.com/posts/20260720372315/",
-        "date": "Mon, 20 Jul 2026 13:15:41 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수품인 교통카드 충전 꿀팁! 에포스카드로 쏠쏠하게 모으던 포인트, 이제 충전하면 못 받아요!"
-      },
-      "content": {
-        "thumbnail_title": "🚨에포스카드 충전 꿀팁!🚨",
-        "cards": [
-          {
-            "title": "충전 포인트 종료",
-            "content": "에포스카드로 모바일 스이카, 파스모 등 교통계 IC 카드 및 전자화폐에 충전 시, 포인트 적립이 7월 31일까지만 가능합니다.",
-            "alt_text": "교통카드 충전 화면"
-          },
-          {
-            "title": "8월 1일부터 변경",
-            "content": "8월 1일부터는 해당 충전 건에 대한 포인트 적립이 중단됩니다. 미리 알고 혜택 놓치지 마세요!",
-            "alt_text": "날짜 변경 표시"
-          },
-          {
-            "title": "대상 서비스",
-            "content": "모바일 스이카, 모바일 파스모, 모바일 이코카, 이코카(TOICA 모델), SAPICA, ANA 마일리지 전환 등 다양한 서비스가 포함됩니다.",
-            "alt_text": "다양한 교통카드 로고"
-          },
-          {
-            "title": "변경 이유",
-            "content": "정확한 변경 이유는 공지되지 않았으나, 카드사 정책 변경으로 인한 것으로 보입니다.",
-            "alt_text": "카드사 로고"
-          },
-          {
-            "title": "현명한 충전법",
-            "content": "아직 7월 31일까지는 포인트 적립이 가능하니, 필요한 교통비는 미리 충전하는 것을 추천합니다. 이후에는 다른 결제 수단을 활용하세요.",
-            "alt_text": "여행 경비 계산하는 모습"
-          }
-        ],
-        "caption": "일본 여행 필수템! 교통카드 충전 꿀팁 알려드릴게요! 💳\n\n에포스카드로 교통카드 충전 시 쏠쏠하게 모으던 포인트, 이제 7월 31일까지만 적립 가능해요! 😭\n\n8월 1일부터는 모바일 스이카, 파스모 등 주요 교통카드 및 전자화폐 충전에 대한 포인트 적립이 중단되니, 미리 알고 혜택 놓치지 마세요! ✈️\n\n#일본여행 #교통카드 #에포스카드 #포인트적립 #일본교통",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#에포스카드",
-          "#일본교통",
-          "#교통카드",
-          "#스이카",
-          "#파스모",
-          "#이코카",
-          "#일본여행꿀팁",
-          "#여행정보",
-          "#해외여행",
-          "#일본",
-          "#여행",
-          "#꿀팁",
-          "#쇼핑"
-        ],
-        "alt_texts": [
-          "교통카드 충전 화면",
-          "날짜 변경 표시",
-          "다양한 교통카드 로고",
-          "카드사 로고",
-          "여행 경비 계산하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 5시 ~ 7시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보의 유용성에 대한 긍정적인 반응, 댓글 문의 증가 / 이 콘텐츠의 강점: 일본 여행 시 필수적인 교통카드 충전 관련 실질적인 정보 제공, 시기적절한 알림",
-      "image": {
-        "keyword": "Epos Card, Japan transportation IC card, point accumulation, change, July 31, August 1",
-        "unsplash_url": "https://unsplash.com/s/photos/Epos-Card,-Japan-transportation-IC-card,-point-accumulation,-change,-July-31,-August-1",
-        "pexels_url": "https://www.pexels.com/search/Epos%20Card,%20Japan%20transportation%20IC%20card,%20point%20accumulation,%20change,%20July%2031,%20August%201/"
       }
     }
   ]
