@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-24T03:35:14.789908",
+  "last_updated": "2026-07-25T00:15:00.185384",
   "plans": [
+    {
+      "id": "plan_9e501566",
+      "created_at": "2026-07-25T00:14:58.185212",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "本日スタート！　「ディズニーストア 夏祭り」の店内写真が到着。屋台デコ＆スマートボウルで運試ししよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2127728.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 스토어에서 즐기는 특별한 여름 축제!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 스토어 여름 축제 시작!✨",
+        "cards": [
+          {
+            "title": "축제 시작!",
+            "content": "디즈니 스토어에서 '여름 축제'가 7월 24일부터 시작되었습니다. 일본 여행 중이라면 놓칠 수 없는 특별한 이벤트예요.",
+            "alt_text": "디즈니 스토어 여름 축제 시작을 알리는 이미지"
+          },
+          {
+            "title": "도쿄 한정!",
+            "content": "특히 신주쿠 '디즈니 플래그십 도쿄'에는 여름 축제 분위기를 물씬 느낄 수 있는 특별 장식이 준비되어 있습니다.",
+            "alt_text": "디즈니 플래그십 도쿄의 여름 축제 장식 이미지"
+          },
+          {
+            "title": "기간 한정!",
+            "content": "이 특별한 축제 장식은 8월 17일까지 운영됩니다. 방문 계획이 있다면 서둘러 주세요!",
+            "alt_text": "축제 기간을 안내하는 이미지"
+          },
+          {
+            "title": "축제 즐기기",
+            "content": "축제 분위기를 만끽하며 야타이(포장마차) 스타일의 데코레이션과 스마트볼 게임으로 운세를 시험해 보세요!",
+            "alt_text": "스마트볼 게임을 즐기는 모습의 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "디즈니 스토어에서만 경험할 수 있는 특별한 여름 축제! 디즈니 팬이라면 꼭 방문해서 특별한 추억을 만들어 보세요.",
+            "alt_text": "디즈니 스토어 여름 축제 기념품 이미지"
+          }
+        ],
+        "caption": "일본 여행 중이라면 주목! 🇯🇵\n디즈니 스토어에서 7월 24일부터 '여름 축제'가 시작되었어요!\n특히 신주쿠 디즈니 플래그십 도쿄는 축제 분위기로 가득! 🏮\n8월 17일까지 운영되니, 기간 놓치지 말고 특별한 여름 축제를 즐겨보세요! 💖\n\n#디즈니 #일본디즈니 #여름축제 #도쿄여행 #디즈니스토어",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니",
+          "#디즈니스토어",
+          "#디즈니플래그십도쿄",
+          "#일본축제",
+          "#여름축제",
+          "#도쿄",
+          "#도쿄여행",
+          "#디즈니덕후",
+          "#일본쇼핑",
+          "#여행정보",
+          "#한정판",
+          "#이벤트",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "디즈니 스토어 여름 축제 시작을 알리는 이미지",
+          "디즈니 플래그십 도쿄의 여름 축제 장식 이미지",
+          "축제 기간을 안내하는 이미지",
+          "스마트볼 게임을 즐기는 모습의 이미지",
+          "디즈니 스토어 여름 축제 기념품 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7시 - 9시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장) / 이 콘텐츠의 강점: 한국인에게 인기 있는 디즈니 관련 정보, 기간 한정 이벤트로 긴급성 부여",
+      "image": {
+        "keyword": "Disney Store Summer Festival Tokyo",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Summer-Festival-Tokyo",
+        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Summer%20Festival%20Tokyo/"
+      }
+    },
+    {
+      "id": "plan_34a4e484",
+      "created_at": "2026-07-25T00:14:53.181431",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルニューオータニ幕張、プール＆BBQを一度に満喫できる日帰りプラン。準備・片付け不要、子連れファミリーもお得に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2127741.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "호텔 수영장과 BBQ를 한 번에 즐기는 여름 휴가!"
+      },
+      "content": {
+        "thumbnail_title": "🏨 호텔 수영장+BBQ 🌊",
+        "cards": [
+          {
+            "title": "플랜 소개",
+            "content": "호텔 뉴오타니 마쿠하리에서 야외 수영장 입장권과 BBQ를 함께 즐길 수 있는 '풀&BBQ' 플랜을 판매합니다.",
+            "alt_text": "호텔 뉴오타니 마쿠하리 외관"
+          },
+          {
+            "title": "이용 기간",
+            "content": "2024년 7월 24일부터 9월 18일까지, 평일에 이용 가능합니다. (단, 8월 10일부터 14일 제외)",
+            "alt_text": "달력 이미지에 7월 24일~9월 18일 평일 표시"
+          },
+          {
+            "title": "이용 장소",
+            "content": "호텔 뉴오타니 마쿠하리 (치바시 미하마구 히비노 2-120-3)",
+            "alt_text": "호텔 뉴오타니 마쿠하리 주소"
+          },
+          {
+            "title": "플랜 특징",
+            "content": "준비와 뒷정리가 필요 없어 편리하며, 아이와 함께하는 가족 단위 여행객에게도 더욱 합리적인 가격으로 제공됩니다.",
+            "alt_text": "가족이 수영장에서 즐거워하는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여름 시즌 한정 플랜으로, 도심 속에서 시원한 물놀이와 맛있는 BBQ를 동시에 즐길 수 있는 특별한 경험을 선사합니다.",
+            "alt_text": "수영장 옆에서 BBQ를 즐기는 모습"
+          }
+        ],
+        "caption": "일본 여름 여행, 색다른 경험을 원한다면? 🌊 호텔 뉴오타니 마쿠하리에서 수영과 BBQ를 한 번에 즐겨보세요! 숯불 향 가득한 BBQ와 시원한 물놀이까지, 준비와 뒷정리 걱정 없이 완벽한 여름 휴가를 만끽할 수 있습니다. 👨‍👩‍👧‍👦 가족 여행에도 딱! 7월 24일부터 9월 18일까지 평일에만 만나볼 수 있으니 서둘러 예약하세요! 🏃‍♀️💨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#호텔뉴오타니마쿠하리",
+          "#일본여름휴가",
+          "#치바여행",
+          "#가족여행",
+          "#일본호텔",
+          "#수영장",
+          "#BBQ",
+          "#여름이벤트",
+          "#일본숙소",
+          "#일본가볼만한곳",
+          "#여행정보",
+          "#일본자유여행",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "호텔 뉴오타니 마쿠하리 외관",
+          "달력 이미지에 7월 24일~9월 18일 평일 표시",
+          "호텔 뉴오타니 마쿠하리 주소",
+          "가족이 수영장에서 즐거워하는 모습",
+          "수영장 옆에서 BBQ를 즐기는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 한국인 가족 여행객 및 커플 / 최적 게시 시간: 평일 오후 6~8시 / 기대 반응: 플랜 정보에 대한 문의, 예약 관심 증가 / 이 콘텐츠의 강점: 여름 시즌 한정 특별 플랜으로 즉각적인 관심 유발 및 실질적인 혜택 제공",
+      "image": {
+        "keyword": "hotel new otani makuhari pool bbq summer family",
+        "unsplash_url": "https://unsplash.com/s/photos/hotel-new-otani-makuhari-pool-bbq-summer-family",
+        "pexels_url": "https://www.pexels.com/search/hotel%20new%20otani%20makuhari%20pool%20bbq%20summer%20family/"
+      }
+    },
     {
       "id": "plan_a84b7b24",
       "created_at": "2026-07-24T03:35:12.789716",
@@ -923,160 +1077,6 @@
         "keyword": "Sanrio characters, Heisei retro, Thank You Mart, limited edition items, lifestyle goods, Japan shopping",
         "unsplash_url": "https://unsplash.com/s/photos/Sanrio-characters,-Heisei-retro,-Thank-You-Mart,-limited-edition-items,-lifestyle-goods,-Japan-shopping",
         "pexels_url": "https://www.pexels.com/search/Sanrio%20characters,%20Heisei%20retro,%20Thank%20You%20Mart,%20limited%20edition%20items,%20lifestyle%20goods,%20Japan%20shopping/"
-      }
-    },
-    {
-      "id": "plan_a2e7877e",
-      "created_at": "2026-07-21T03:34:52.516964",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "開園25周年の東京ディズニーシーを写真家・浅田政志撮り下ろし。新作実写アイテムの販売や写真展が決定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126480.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 도쿄디즈니씨 25주년 특별 굿즈!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니씨 25주년! 10/15 신상 굿즈 출시✨",
-        "cards": [
-          {
-            "title": "25주년 기념!",
-            "content": "도쿄 디즈니 씨가 개원 25주년을 맞아 특별한 '이매지닝 더 매직' 신작 굿즈를 선보입니다.",
-            "alt_text": "도쿄 디즈니 씨 25주년 기념 로고"
-          },
-          {
-            "title": "신상 굿즈 출시",
-            "content": "새로운 실사 아이템과 함께 사진 작가 아사다 마사시가 촬영한 작품들도 만나볼 수 있습니다.",
-            "alt_text": "디즈니 씨 25주년 기념 굿즈 이미지"
-          },
-          {
-            "title": "출시일 확인!",
-            "content": "기대되는 신상 굿즈는 10월 15일에 발매될 예정입니다. 잊지 말고 날짜를 기억하세요!",
-            "alt_text": "달력에 10월 15일 표시"
-          },
-          {
-            "title": "사진 전시도!",
-            "content": "개원 25주년을 기념하여 특별 사진 전시회도 함께 개최될 예정이니, 디즈니 팬이라면 꼭 방문해보세요.",
-            "alt_text": "디즈니 씨 풍경 사진"
-          },
-          {
-            "title": "방문 팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 방문 전 온라인 스토어 확인 및 오픈런 준비를 추천합니다.",
-            "alt_text": "쇼핑백 들고 신난 사람 이미지"
-          }
-        ],
-        "caption": "디즈니 씨 25주년, 놓치면 후회할 신상 굿즈가 10월 15일에 출시됩니다! 📸✨ '이매지닝 더 매직' 테마의 실사 아이템과 특별 사진전까지! 도쿄 디즈니 씨 방문 예정이라면 꼭 체크하세요! 💖\n\n#도쿄디즈니씨 #디즈니씨25주년 #디즈니굿즈 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#디즈니",
-          "#디즈니굿즈",
-          "#도쿄여행",
-          "#일본쇼핑",
-          "#여행정보",
-          "#디즈니랜드",
-          "#도쿄",
-          "#일본",
-          "#여행스타그램",
-          "#개원25주년",
-          "#이매지닝더매직"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니 씨 25주년 기념 로고",
-          "디즈니 씨 25주년 기념 굿즈 이미지",
-          "달력에 10월 15일 표시",
-          "디즈니 씨 풍경 사진",
-          "쇼핑백 들고 신난 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니 씨 방문 예정인 한국인 여행객, 디즈니 팬 / 최적 게시 시간: 평일 오후 7-9시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 굿즈 정보와 명확한 출시일 제공으로 즉각적인 여행 계획 반영 가능",
-      "image": {
-        "keyword": "Tokyo DisneySea 25th anniversary merchandise, new release, October 15, Imagining the Magic, photo exhibition",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-merchandise,-new-release,-October-15,-Imagining-the-Magic,-photo-exhibition",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20merchandise,%20new%20release,%20October%2015,%20Imagining%20the%20Magic,%20photo%20exhibition/"
-      }
-    },
-    {
-      "id": "plan_3712090f",
-      "created_at": "2026-07-21T03:34:47.117900",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーリゾートライン、写真家・浅田政志撮影の作品をフリーきっぷに採用。全10種類を2期にわたり発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126486.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 리조트 라인 특별 티켓으로 도쿄 디즈니 여행 추억 만들기!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 리조트 라인 신상 티켓✨",
-        "cards": [
-          {
-            "title": "특별한 티켓",
-            "content": "도쿄 디즈니리조트 포토 프로젝트 '이매지닝 더 매직'의 신작이 담긴 프리 티켓이 발매됩니다.",
-            "alt_text": "사진작가 아사다 마사시 작품이 담긴 디즈니 리조트 라인 프리 티켓 이미지"
-          },
-          {
-            "title": "총 10종",
-            "content": "사진작가 아사다 마사시가 촬영한 아름다운 작품들이 담긴 프리 티켓이 총 10종 출시됩니다.",
-            "alt_text": "다양한 디즈니 리조트 라인 프리 티켓 디자인 모음"
-          },
-          {
-            "title": "2차례 발매",
-            "content": "10종의 프리 티켓은 2차례에 걸쳐 순차적으로 발매될 예정입니다. 정확한 발매 일정은 추후 공지될 예정입니다.",
-            "alt_text": "발매 일정 안내를 기다리는 듯한 이미지"
-          },
-          {
-            "title": "디즈니 여행 필수품",
-            "content": "디즈니 리조트 라인을 이용하며 특별한 기념품까지 챙길 수 있는 기회입니다. 디즈니 여행을 계획 중이라면 놓치지 마세요!",
-            "alt_text": "디즈니랜드 또는 디즈니씨를 배경으로 디즈니 리조트 라인 열차를 타는 모습"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "발매 일정과 티켓 디자인을 미리 확인하고 원하는 디자인의 티켓을 꼭 겟하세요! 소장 가치가 높아 조기 품절될 수 있습니다.",
-            "alt_text": "티켓을 손에 들고 환하게 웃는 사람의 모습"
-          }
-        ],
-        "caption": "💖 디즈니 덕후들 주목! 💖\n도쿄 디즈니리조트에서 특별한 추억을 만들 수 있는 기회가 찾아왔어요!\n사진작가 아사다 마사시의 작품이 담긴 디즈니 리조트 라인 프리 티켓이 총 10종 출시됩니다. ✨\n2차례에 걸쳐 발매될 예정이니, 발매 일정을 꼭 확인하고 원하는 디자인의 티켓을 겟해보세요!\n디즈니 여행 기념품으로도 최고!\n\n#디즈니리조트라인 #도쿄디즈니랜드 #도쿄디즈니씨 #디즈니티켓 #일본여행 #플라잉재팬 #도쿄여행 #디즈니덕후 #여행필수템 #여행꿀팁 #일본여행정보 #여행스타그램 #여행에미치다 #일본생활 #기념품",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니리조트",
-          "#디즈니리조트라인",
-          "#디즈니티켓",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니덕후",
-          "#여행정보",
-          "#일본교통",
-          "#여행꿀팁",
-          "#기념품",
-          "#도쿄여행",
-          "#일본축제",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "사진작가 아사다 마사시 작품이 담긴 디즈니 리조트 라인 프리 티켓 이미지",
-          "다양한 디즈니 리조트 라인 프리 티켓 디자인 모음",
-          "발매 일정 안내를 기다리는 듯한 이미지",
-          "디즈니랜드 또는 디즈니씨를 배경으로 디즈니 리조트 라인 열차를 타는 모습",
-          "티켓을 손에 들고 환하게 웃는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니리조트 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 6시 ~ 8시 / 기대 반응: 정보 공유 및 구매 의사 표현 / 이 콘텐츠의 강점: 디즈니 팬들의 높은 관심 유도, 실용적인 정보 제공",
-      "image": {
-        "keyword": "Tokyo Disney Resort Line special ticket, Photographer Masashi Asada art, limited edition, travel souvenir, Tokyo Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disney-Resort-Line-special-ticket,-Photographer-Masashi-Asada-art,-limited-edition,-travel-souvenir,-Tokyo-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disney%20Resort%20Line%20special%20ticket,%20Photographer%20Masashi%20Asada%20art,%20limited%20edition,%20travel%20souvenir,%20Tokyo%20Japan/"
       }
     }
   ]
