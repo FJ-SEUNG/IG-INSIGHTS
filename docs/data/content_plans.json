@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-25T03:32:01.000769",
+  "last_updated": "2026-07-26T00:13:18.923504",
   "plans": [
+    {
+      "id": "plan_30524831",
+      "created_at": "2026-07-26T00:13:16.923325",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "資さんうどん、定番おでん5品が“各110円”牛すじが“165円”のお得価格に！　店舗・期間限定で実施",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2127873.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지 인기 우동 체인점 '資さんうどん'에서 인기 오뎅 메뉴를 파격적인 가격으로 즐길 수 있는 한정 이벤트!"
+      },
+      "content": {
+        "thumbnail_title": "🍜110엔! 역대급 오뎅 할인!",
+        "cards": [
+          {
+            "title": "파격 할인!",
+            "content": "일본 현지 인기 우동 체인점 '資さんうどん'에서 인기 오뎅 5종을 110엔에 판매합니다. 쫄깃한 소 힘줄(牛すじ)은 165엔으로 즐길 수 있어요.",
+            "alt_text": "資さんうどん 매장에서 오뎅을 판매하는 모습"
+          },
+          {
+            "title": "기간 한정!",
+            "content": "이번 파격 할인은 7월 29일까지 진행됩니다. 놓치면 후회할지도 몰라요!",
+            "alt_text": "할인 기간을 알리는 안내문"
+          },
+          {
+            "title": "매장 한정!",
+            "content": "할인 혜택은 일부 매장에서만 제공됩니다. 방문 전 가까운 매장의 이벤트 적용 여부를 꼭 확인하세요.",
+            "alt_text": "資さんうどん 매장 간판"
+          },
+          {
+            "title": "현지 맛집!",
+            "content": "후쿠오카 기타큐슈에서 시작된 '資さんうどん'은 현지인들에게 사랑받는 곳입니다. 일본 여행 중 꼭 맛봐야 할 로컬 푸드를 경험해보세요.",
+            "alt_text": "資さんうどん의 대표 메뉴인 우동"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "오뎅 외에도 다양한 우동과 돈부리 메뉴가 준비되어 있습니다. 든든한 한 끼 식사로도 완벽해요. 방문 시 점심, 저녁 시간대는 웨이팅이 있을 수 있습니다.",
+            "alt_text": "다양한 메뉴가 진열된 資さんうどん 식당 내부"
+          }
+        ],
+        "caption": "일본 여행 중이라면 주목! 🍜 후쿠오카 인기 맛집 '資さんうどん'에서 7월 29일까지 인기 오뎅 5종을 단돈 110엔에! 🍢 소 힘줄(牛すじ)은 165엔! 😋 일부 매장 한정으로 진행되니 방문 전 꼭 확인하세요! 놓치면 후회할 역대급 할인 찬스, 지금 바로 즐겨보세요! ✨\n\n#플라잉재팬 #일본여행 #일본맛집 #資さんうどん #오뎅할인 #현지맛집 #일본음식 #여행꿀팁 #기간한정 #먹방여행 #일본정복 #여름휴가 #후쿠오카맛집 #일본생활 #꿀정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#資さんうどん",
+          "#오뎅할인",
+          "#현지맛집",
+          "#일본음식",
+          "#여행꿀팁",
+          "#기간한정",
+          "#먹방여행",
+          "#일본정복",
+          "#여름휴가",
+          "#후쿠오카맛집",
+          "#일본생활",
+          "#꿀정보"
+        ],
+        "alt_texts": [
+          "資さんうどん 매장에서 오뎅을 판매하는 모습",
+          "할인 기간을 알리는 안내문",
+          "資さんうどん 매장 간판",
+          "資さんうどん의 대표 메뉴인 우동",
+          "다양한 메뉴가 진열된 資さんうどん 식당 내부"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 공유, 실제 방문 의사 증가 / 이 콘텐츠의 강점: 명확한 할인 정보, 구체적인 날짜와 가격 제시, 현지 인기 맛집 소개로 인한 높은 매력도",
+      "image": {
+        "keyword": "Suke-san Udon, Oden, Japan restaurant, Discount, Limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Suke-san-Udon,-Oden,-Japan-restaurant,-Discount,-Limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/Suke-san%20Udon,%20Oden,%20Japan%20restaurant,%20Discount,%20Limited%20time%20offer/"
+      }
+    },
+    {
+      "id": "plan_db3601cc",
+      "created_at": "2026-07-26T00:13:09.323434",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、「VIVANT」コラボキャンペーンを展開",
+        "url": "https://www.traicy.com/posts/20260725376960/",
+        "date": "Sat, 25 Jul 2026 12:23:07 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "인기 드라마 'VIVANT'와 JAL이 만났다! 놓치면 후회할 특별한 캠페인!"
+      },
+      "content": {
+        "thumbnail_title": "JAL x VIVANT ✈️",
+        "cards": [
+          {
+            "title": "VIVANT 2탄!",
+            "content": "일본항공(JAL)이 인기 드라마 'VIVANT' 시즌 2 방영에 맞춰 특별한 콜라보 캠페인을 진행합니다. 드라마 팬이라면 주목!",
+            "alt_text": "일본항공 로고와 VIVANT 드라마 포스터가 함께 있는 이미지"
+          },
+          {
+            "title": "퀴즈 참여!",
+            "content": "JAL 마일리지 뱅크 앱에서 'VIVANT' 관련 퀴즈 캠페인이 7월 27일부터 11월 30일까지 진행됩니다. 정답을 맞히면 특별한 혜택이?",
+            "alt_text": "JAL 마일리지 뱅크 앱 화면 캡처 이미지"
+          },
+          {
+            "title": "숨겨진 혜택?",
+            "content": "이번 캠페인을 통해 드라마 팬뿐만 아니라 JAL 이용객에게도 특별한 경험을 제공할 예정입니다. 자세한 내용은 JAL 앱을 확인하세요!",
+            "alt_text": "비행기 창밖으로 보이는 일본 풍경 이미지"
+          },
+          {
+            "title": "여행 준비 UP!",
+            "content": "일본 여행을 계획 중이라면, JAL의 VIVANT 콜라보 캠페인 소식을 놓치지 마세요. 여행의 즐거움을 더해줄 특별한 기회입니다.",
+            "alt_text": "일본 지도와 비행기 아이콘이 있는 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "캠페인 기간은 11월 30일까지이니 서둘러 참여하세요. JAL 앱에서 최신 정보를 확인하고, 드라마와 함께하는 특별한 일본 여행을 즐겨보세요!",
+            "alt_text": "달력에 11월 30일이 표시된 이미지"
+          }
+        ],
+        "caption": "✈️ JAL과 인기 드라마 'VIVANT'가 만났다! ✈️\n\n'VIVANT' 시즌 2 방영 기념, JAL에서 특별한 콜라보 캠페인을 진행합니다!\n\n✅ JAL 마일리지 뱅크 앱에서 'VIVANT' 퀴즈 이벤트 참여!\n✅ 기간: 2024년 7월 27일 ~ 11월 30일\n\n드라마 팬이라면 놓칠 수 없는 절호의 찬스! JAL 이용객을 위한 특별한 혜택도 준비되어 있다고 하니, 지금 바로 JAL 앱에서 확인하고 즐거운 일본 여행 준비하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#VIVANT",
+          "#드라마VIVANT",
+          "#일본교통",
+          "#일본항공권",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본이벤트",
+          "#일본쇼핑",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본항공 로고와 VIVANT 드라마 포스터가 함께 있는 이미지",
+          "JAL 마일리지 뱅크 앱 화면 캡처 이미지",
+          "비행기 창밖으로 보이는 일본 풍경 이미지",
+          "일본 지도와 비행기 아이콘이 있는 이미지",
+          "달력에 11월 30일이 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 드라마 'VIVANT' 팬 및 JAL 이용 예정 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 참여율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 시의성 높은 인기 드라마와의 협업, 구체적인 참여 방법 및 기간 명시",
+      "image": {
+        "keyword": "JAL, VIVANT drama collaboration, Japanese airline campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-VIVANT-drama-collaboration,-Japanese-airline-campaign",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20VIVANT%20drama%20collaboration,%20Japanese%20airline%20campaign/"
+      }
+    },
     {
       "id": "plan_75178891",
       "created_at": "2026-07-25T03:31:59.000581",
@@ -923,160 +1077,6 @@
         "keyword": "Chiikawa tote bag, Hachiware tote bag, Usagi tote bag, Japan souvenir, Japanese character goods, Canvas tote bag with clip, New release Japan, Travel shopping Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Chiikawa-tote-bag,-Hachiware-tote-bag,-Usagi-tote-bag,-Japan-souvenir,-Japanese-character-goods,-Canvas-tote-bag-with-clip,-New-release-Japan,-Travel-shopping-Japan",
         "pexels_url": "https://www.pexels.com/search/Chiikawa%20tote%20bag,%20Hachiware%20tote%20bag,%20Usagi%20tote%20bag,%20Japan%20souvenir,%20Japanese%20character%20goods,%20Canvas%20tote%20bag%20with%20clip,%20New%20release%20Japan,%20Travel%20shopping%20Japan/"
-      }
-    },
-    {
-      "id": "plan_ec7ffbff",
-      "created_at": "2026-07-22T03:35:10.836189",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ワークマンの上位版リカバリーウェア「メディヒール コスモス」買って着てみた。長袖なのに夏でも涼しい",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126715.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 현지에서 만나는 쾌적함! 덥다고 포기하지 마세요! 💙"
-      },
-      "content": {
-        "thumbnail_title": "여름에도 시원! ❄️ 신상 꿀템!",
-        "cards": [
-          {
-            "title": "신상 꿀템 출시!",
-            "content": "일본 워크맨에서 7월 21일에 '메디힐 코스모스' 리커버리 웨어 시리즈를 출시했어요. 프리미엄 라인으로 편안함과 고급스러움을 더했답니다.",
-            "alt_text": "일본 워크맨에서 출시된 메디힐 코스모스 리커버리 웨어 신상품 이미지"
-          },
-          {
-            "title": "여름에도 OK!",
-            "content": "긴팔이지만 놀랍도록 시원한 착용감을 자랑해요. 더운 일본 여름 날씨에도 쾌적하게 활동할 수 있도록 제작되었답니다.",
-            "alt_text": "메디힐 코스모스 긴팔 상의를 입고 시원함을 느끼는 사람의 모습"
-          },
-          {
-            "title": "도쿄에서 득템!",
-            "content": "실제로 도쿄 시내 매장에서 바로 구매 가능해요. 현지에서 직접 보고 만져보고 구매할 수 있다는 점이 좋아요.",
-            "alt_text": "일본 도쿄 시내의 워크맨 매장 외관"
-          },
-          {
-            "title": "가성비 갑!",
-            "content": "고품질의 리커버리 웨어를 합리적인 가격으로 만날 수 있다는 점이 워크맨의 큰 장점이죠! 여행 중 편안함은 필수!",
-            "alt_text": "메디힐 코스모스 리커버리 웨어의 디테일을 보여주는 클로즈업 이미지"
-          },
-          {
-            "title": "추천 활용법!",
-            "content": "장시간 비행기 안이나, 더운 날씨의 야외 활동 시에도 쾌적함을 유지하는 데 도움을 줄 거예요. 여행 필수템으로 챙겨보세요!",
-            "alt_text": "메디힐 코스모스 웨어를 입고 일본 여행지에서 편안하게 쉬는 사람의 모습"
-          }
-        ],
-        "caption": "일본 여행 중에도 쾌적함을 포기할 수 없다면? ☀️\n워크맨의 프리미엄 리커버리 웨어 '메디힐 코스모스' 시리즈를 소개합니다! 💙\n7월 21일 출시된 이 신상 라인은 긴팔임에도 놀랍도록 시원해서 한여름 일본에서도 문제없어요. 쾌적한 여행을 위한 필수템, 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#워크맨",
-          "#메디힐코스모스",
-          "#일본꿀템",
-          "#여름여행",
-          "#일본준비물",
-          "#여행스타그램",
-          "#일본직구",
-          "#일본생활",
-          "#일본쇼핑리스트",
-          "#리커버리웨어",
-          "#도쿄쇼핑",
-          "#가성비템"
-        ],
-        "alt_texts": [
-          "일본 워크맨에서 출시된 메디힐 코스모스 리커버리 웨어 신상품 이미지",
-          "메디힐 코스모스 긴팔 상의를 입고 시원함을 느끼는 사람의 모습",
-          "일본 도쿄 시내의 워크맨 매장 외관",
-          "메디힐 코스모스 리커버리 웨어의 디테일을 보여주는 클로즈업 이미지",
-          "메디힐 코스모스 웨어를 입고 일본 여행지에서 편안하게 쉬는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 공유 및 구매 문의 / 이 콘텐츠의 강점: 시의성 있는 신상품 정보와 실질적인 여름 여행 꿀팁 제공",
-      "image": {
-        "keyword": "Japan travel, Workman, Medihill Cosmos, recovery wear, summer fashion, comfortable clothing, Tokyo shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-Workman,-Medihill-Cosmos,-recovery-wear,-summer-fashion,-comfortable-clothing,-Tokyo-shopping",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20Workman,%20Medihill%20Cosmos,%20recovery%20wear,%20summer%20fashion,%20comfortable%20clothing,%20Tokyo%20shopping/"
-      }
-    },
-    {
-      "id": "plan_66183fd1",
-      "created_at": "2026-07-22T03:35:02.285027",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "TAOYA熱海、1泊2食が最大30％オフに。インフィニティ温泉で相模灘を一望、海鮮グルメやラウンジ食べ飲み放題も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2126828.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 최대 30% 할인받고 인피니티 온천 & 해산물 만찬 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 30% 할인!♨️",
-        "cards": [
-          {
-            "title": "역대급 할인!",
-            "content": "타오야 아타미 숙박 시, 1박 2식 포함 최대 30% 할인 혜택을 받을 수 있어요. 7월 31일까지 진행되는 楽天 트래블 '스페셜 쿠폰 위크'를 놓치지 마세요!",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "인피니티 온천",
-            "content": "객실에서 탁 트인 사가미만 오션뷰를 감상하며 즐기는 인피니티 온천은 타오야 아타미의 자랑입니다. 잊지 못할 힐링을 경험해보세요.",
-            "alt_text": "인피니티 온천에서 바다를 바라보는 모습"
-          },
-          {
-            "title": "신선한 해산물",
-            "content": "신선한 제철 해산물을 맛볼 수 있는 훌륭한 저녁 식사가 포함되어 있습니다. 미식가들의 입맛을 사로잡을 다채로운 요리를 즐겨보세요.",
-            "alt_text": "먹음직스러운 해산물 요리"
-          },
-          {
-            "title": "무제한 라운지",
-            "content": "호텔 내 라운지에서 음식과 음료를 무제한으로 즐길 수 있습니다. 여행 중 편안하게 휴식하며 여유로운 시간을 보내세요.",
-            "alt_text": "다양한 음식과 음료가 준비된 라운지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "쿠폰은 여러 개 중복 사용 가능하며, 楽天 트래블에서 선착순으로 배포됩니다. 인기 숙소는 조기 마감될 수 있으니 서둘러 예약하시는 것을 추천합니다.",
-            "alt_text": "예약 페이지 스크린샷"
-          }
-        ],
-        "caption": "✨일본 여행 필수 코스!✨ \n\n타오야 아타미에서 최대 30% 할인받고 힐링 여행 떠나요! ♨️\n\n인피니티 온천에서 사가미만 오션뷰를 감상하고, 신선한 해산물 만찬과 라운지 무제한 이용까지! 🥂\n\n7월 31일까지 진행되는 楽天 트래블 '스페셜 쿠폰 위크'를 절대 놓치지 마세요! ✈️\n\n지금 바로 예약하고 특별한 추억을 만드세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#타오야아타미",
-          "#아타미",
-          "#일본숙소",
-          "#일본호텔",
-          "#온천여행",
-          "#일본자유여행",
-          "#해외여행",
-          "#일본가볼만한곳",
-          "#일본여행준비",
-          "#여행꿀팁",
-          "#일본온천추천",
-          "#楽天트래블"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지",
-          "인피니티 온천에서 바다를 바라보는 모습",
-          "먹음직스러운 해산물 요리",
-          "다양한 음식과 음료가 준비된 라운지",
-          "예약 페이지 스크린샷"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 숙소 특징을 결합하여 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "Japanese Onsen Ryokan, Infinity Pool, Ocean View, Seafood Dinner, Lounge Food",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-Onsen-Ryokan,-Infinity-Pool,-Ocean-View,-Seafood-Dinner,-Lounge-Food",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20Onsen%20Ryokan,%20Infinity%20Pool,%20Ocean%20View,%20Seafood%20Dinner,%20Lounge%20Food/"
       }
     }
   ]
