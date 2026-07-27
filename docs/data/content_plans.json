@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-27T00:12:19.149057",
+  "last_updated": "2026-07-27T03:55:59.384468",
   "plans": [
+    {
+      "id": "plan_babe667b",
+      "created_at": "2026-07-27T03:55:57.384325",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "世界初のポケモン空港が石川・能登に誕生！　館内の見どころを撮り下ろしで紹介",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2127952.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "세계 최초 포켓몬 공항 탄생! ✈️ 이시카와 여행 필수 코스!"
+      },
+      "content": {
+        "thumbnail_title": "포켓몬 공항 탄생! ✈️",
+        "cards": [
+          {
+            "title": "세계 최초!",
+            "content": "일본 이시카와현 노토 공항이 '노토 사토야마 포켓몬 위드 유 공항'으로 재탄생했어요! 7월 7일 리뉴얼 오픈했답니다.",
+            "alt_text": "세계 최초 포켓몬 공항 간판 이미지"
+          },
+          {
+            "title": "포켓몬 테마",
+            "content": "포켓몬 위드 유 재단과의 협력으로 탄생한 이 특별한 공항은 포켓몬 테마로 꾸며져 있답니다. 공항 곳곳에서 포켓몬을 만날 수 있어요!",
+            "alt_text": "공항 내 포켓몬 조형물 이미지"
+          },
+          {
+            "title": "기간 한정",
+            "content": "이 특별한 포켓몬 공항은 2029년 9월 30일까지 약 3년 동안 운영될 예정이에요. 놓치지 마세요!",
+            "alt_text": "기간 안내 표지판 이미지"
+          },
+          {
+            "title": "이시카와 여행",
+            "content": "이시카와현 방문 예정이라면, 세계 유일의 포켓몬 공항 방문을 꼭 여행 일정에 추가해보세요! 특별한 추억을 만들 수 있을 거예요.",
+            "alt_text": "이시카와현 지도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "공항 내 포켓몬 관련 이벤트나 기념품 판매 정보는 추후 공항 공식 채널을 통해 확인하는 것이 좋습니다. 방문 전 미리 확인해보세요!",
+            "alt_text": "포켓몬 굿즈 이미지"
+          }
+        ],
+        "caption": "🇯🇵 세계 최초! 일본 이시카와현 노토 공항이 '포켓몬 공항'으로 변신했어요! ✈️\n7월 7일 리뉴얼 오픈한 이곳은 2029년 9월 30일까지 운영된답니다.\n포켓몬 팬이라면 이시카와 여행 시 필수 코스! 🤩\n특별한 추억을 만들고 싶다면 지금 바로 계획해보세요! ✨\n\n#일본여행 #이시카와여행 #포켓몬 #포켓몬공항 #노토공항 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#이시카와",
+          "#노토",
+          "#포켓몬",
+          "#포켓몬위드유",
+          "#세계최초",
+          "#테마공항",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#여행스타그램",
+          "#일본가볼만한곳",
+          "#이벤트",
+          "#한정",
+          "#여행계획"
+        ],
+        "alt_texts": [
+          "세계 최초 포켓몬 공항 간판 이미지",
+          "공항 내 포켓몬 조형물 이미지",
+          "기간 안내 표지판 이미지",
+          "이시카와현 지도 이미지",
+          "포켓몬 굿즈 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 포켓몬 팬, 이시카와현 방문 예정 한국인 여행자 / 최적 게시 시간: 월요일 오후 1시 / 기대 반응: 높은 관심과 공유, 이시카와 여행 문의 증가 / 이 콘텐츠의 강점: '세계 최초', '포켓몬'이라는 강력한 키워드를 활용하여 즉각적인 흥미 유발",
+      "image": {
+        "keyword": "Pokemon airport Japan Ishikawa",
+        "unsplash_url": "https://unsplash.com/s/photos/Pokemon-airport-Japan-Ishikawa",
+        "pexels_url": "https://www.pexels.com/search/Pokemon%20airport%20Japan%20Ishikawa/"
+      }
+    },
+    {
+      "id": "plan_7f2aa8d7",
+      "created_at": "2026-07-27T03:55:51.506830",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、国内航空券タイムセール実施中。羽田～新千歳が1万450円から、事前座席指定は不可",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128063.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 최대 1만 450엔 특가! 일본 국내선 항공권 득템 기회!"
+      },
+      "content": {
+        "thumbnail_title": "ANA 일본 국내선 ✈️ 1만엔대!",
+        "cards": [
+          {
+            "title": "타임 세일 기간",
+            "content": "ANA 일본 국내선 항공권 타임 세일이 7월 24일부터 30일까지 진행됩니다. 서둘러 특가 항공권을 잡으세요!",
+            "alt_text": "ANA 항공권 타임 세일 기간 안내"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "이번 특가 항공권은 2023년 8월 17일부터 2027년 1월 31일까지 탑승 가능한 항공권에 적용됩니다. 장기 여행 계획도 OK!",
+            "alt_text": "ANA 특가 항공권 탑승 가능 기간 안내"
+          },
+          {
+            "title": "최저가 노선",
+            "content": "가장 저렴한 노선은 하네다(도쿄) 출발 신치토세(삿포로)행 항공권으로, 10,450엔부터 시작합니다.",
+            "alt_text": "ANA 특가 항공권 최저가 노선 (하네다-신치토세) 정보"
+          },
+          {
+            "title": "주의사항",
+            "content": "이번 타임 세일 항공권은 사전 좌석 지정이 불가합니다. 발권 후 좌석 지정은 불가하니 이 점 꼭 유의해주세요.",
+            "alt_text": "ANA 특가 항공권 사전 좌석 지정 불가 안내"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 시기를 잘 맞춰 예약하면 저렴한 가격으로 일본 국내 여러 도시를 여행할 수 있어요! 홋카이도, 오사카, 후쿠오카 등 다양한 곳을 계획해보세요.",
+            "alt_text": "ANA 특가 항공권 활용 꿀팁"
+          }
+        ],
+        "caption": "✈️ ANA 일본 국내선 특가 찬스! ✈️\n\n지금 ANA에서 일본 국내선 항공권 타임 세일을 진행 중이에요!\n\n✅ 기간: 7월 24일 ~ 7월 30일\n✅ 탑승: 2023년 8월 17일 ~ 2027년 1월 31일\n✅ 최저가: 하네다 ↔️ 신치토세 10,450엔부터!\n\n⚠️ 사전 좌석 지정 불가!\n\n저렴한 가격으로 일본 국내 여행을 즐길 수 있는 절호의 기회, 놓치지 마세요! 😉\n\n#일본항공권 #ANA특가 #일본국내선",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#일본항공권",
+          "#일본국내선",
+          "#ANA항공권",
+          "#일본여행정보",
+          "#여행특가",
+          "#일본가자",
+          "#항공권할인",
+          "#일본어디까지가봤니",
+          "#여행꿀팁",
+          "#일본여행준비",
+          "#ANA타임세일",
+          "#일본여행추천"
+        ],
+        "alt_texts": [
+          "ANA 항공권 타임 세일 기간 안내",
+          "ANA 특가 항공권 탑승 가능 기간 안내",
+          "ANA 특가 항공권 최저가 노선 (하네다-신치토세) 정보",
+          "ANA 특가 항공권 사전 좌석 지정 불가 안내",
+          "ANA 특가 항공권 활용 꿀팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 / 최적 게시 시간: 저녁 6시~9시 / 기대 반응: 높은 참여율 (정보 공유, 질문) / 이 콘텐츠의 강점: 구체적인 가격, 기간, 노선 정보 제공으로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "ANA airplane, Japanese airport, discount ticket, travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Japanese-airport,-discount-ticket,-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Japanese%20airport,%20discount%20ticket,%20travel%20Japan/"
+      }
+    },
     {
       "id": "plan_73b013be",
       "created_at": "2026-07-27T00:12:17.148888",
@@ -923,160 +1077,6 @@
         "keyword": "Hakone hotel, Yunessun water park, Japanese buffet, travel discount coupon, onsen resort",
         "unsplash_url": "https://unsplash.com/s/photos/Hakone-hotel,-Yunessun-water-park,-Japanese-buffet,-travel-discount-coupon,-onsen-resort",
         "pexels_url": "https://www.pexels.com/search/Hakone%20hotel,%20Yunessun%20water%20park,%20Japanese%20buffet,%20travel%20discount%20coupon,%20onsen%20resort/"
-      }
-    },
-    {
-      "id": "plan_de18b50c",
-      "created_at": "2026-07-24T00:10:39.170733",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、「ちいかわ」スウェットは本日発売！　夏映画に登場する“島二郎”など全6種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2127458.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 만날 수 있는 '치이카와' 콜라보 유니클로 스웨트셔츠 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✨치이카와 UT 스웨트 출시✨",
-        "cards": [
-          {
-            "title": "오늘 출시!",
-            "content": "유니클로와 인기 캐릭터 '치이카와'의 콜라보레이션 스웨트셔츠가 오늘 7월 24일 출시되었습니다.",
-            "alt_text": "유니클로와 치이카와 콜라보 스웨트셔츠 출시를 알리는 이미지"
-          },
-          {
-            "title": "6가지 디자인",
-            "content": "이번 콜라보에서는 여름 영화에 등장하는 '시마지로'를 포함한 총 6가지 디자인의 스웨트셔츠를 만나볼 수 있습니다.",
-            "alt_text": "치이카와 캐릭터들이 그려진 다양한 디자인의 스웨트셔츠 이미지"
-          },
-          {
-            "title": "유니클로 UT",
-            "content": "다양한 아티스트 및 캐릭터와의 협업으로 유명한 유니클로 UT 라인업으로, 소장 가치가 높습니다.",
-            "alt_text": "유니클로 UT 라벨이 보이는 스웨트셔츠 근접 촬영 이미지"
-          },
-          {
-            "title": "일본 한정?",
-            "content": "국내 출시 여부는 미정이며, 현재 일본 유니클로 매장에서 구매 가능할 것으로 예상됩니다.",
-            "alt_text": "일본 유니클로 매장 전경 또는 매장 내 디스플레이 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "치이카와 팬이라면 절대 놓칠 수 없는 이번 콜라보! 일본 여행 중 유니클로 방문 시 꼭 확인해보세요.",
-            "alt_text": "치이카와 캐릭터와 스웨트셔츠를 함께 보여주는 이미지"
-          }
-        ],
-        "caption": "일본 여행 중이라면 주목! 💖\n인기 캐릭터 '치이카와'와 유니클로가 만난 콜라보 스웨트셔츠가 오늘 7월 24일 일본에서 출시되었어요!\n여름 영화에 등장하는 '시마지로' 포함, 총 6가지 특별한 디자인으로 만나볼 수 있답니다.\n일본 여행 가시는 분들은 유니클로에서 꼭 득템하세요! 🛍️\n\n#일본여행 #치이카와 #유니클로 #일본쇼핑 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#치이카와",
-          "#유니클로",
-          "#일본쇼핑",
-          "#일본쇼핑리스트",
-          "#일본패션",
-          "#일본굿즈",
-          "#일본한정",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본직구",
-          "#치이카와유니클로",
-          "#여름휴가",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "유니클로와 치이카와 콜라보 스웨트셔츠 출시를 알리는 이미지",
-          "치이카와 캐릭터들이 그려진 다양한 디자인의 스웨트셔츠 이미지",
-          "유니클로 UT 라벨이 보이는 스웨트셔츠 근접 촬영 이미지",
-          "일본 유니클로 매장 전경 또는 매장 내 디스플레이 이미지",
-          "치이카와 캐릭터와 스웨트셔츠를 함께 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 20-30대 여성 및 치이카와 팬 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 시의성 있는 신상품 정보와 팬덤을 가진 캐릭터 콜라보",
-      "image": {
-        "keyword": "Uniqlo x Chiikawa collaboration sweatshirt, Japan limited edition, summer collection",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-x-Chiikawa-collaboration-sweatshirt,-Japan-limited-edition,-summer-collection",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20x%20Chiikawa%20collaboration%20sweatshirt,%20Japan%20limited%20edition,%20summer%20collection/"
-      }
-    },
-    {
-      "id": "plan_837596ae",
-      "created_at": "2026-07-24T00:10:33.040925",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "千葉県内の鉄道・バス・フェリーが2日間乗り放題「サンキューちばフリーパス」8月1日発売。今年度は対象エリア拡大",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2127466.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "치바현 전역을 2일간 무제한! 교통비 걱정 덜고 알차게 여행하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨치바현 2일 무제한 교통패스!",
-        "cards": [
-          {
-            "title": "39 티켓",
-            "content": "JR동일본 등 15개 교통사업자와 함께하는 '산큐치바 프리패스'가 2026년 8월 1일 출시됩니다. 이 패스로 치바현 내 철도, 노선버스, 페리를 2일간 무제한 이용할 수 있습니다.",
-            "alt_text": "산큐치바 프리패스 로고 또는 홍보 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "2026년 8월 1일부터 구매 가능하며, 2일 동안 치바현 내 광범위한 교통망을 자유롭게 이용할 수 있습니다. 올해는 대상 지역이 확대되어 더욱 편리해졌습니다.",
-            "alt_text": "달력에 8월 1일 표시된 이미지"
-          },
-          {
-            "title": "이용 교통",
-            "content": "JR동일본 노선은 물론, 다양한 지역 철도, 노선버스, 그리고 페리까지 이용 가능합니다. 치바현의 숨겨진 명소까지 닿을 수 있는 기회입니다.",
-            "alt_text": "기차, 버스, 페리 아이콘 이미지"
-          },
-          {
-            "title": "대상 지역 확대",
-            "content": "올해는 작년보다 더욱 넓어진 지역을 커버합니다. 지도상에서 패스 이용 가능 지역을 확인하고 동선을 계획해보세요. (구체적인 확대 지역명은 추후 공개 예정)",
-            "alt_text": "일본 지도에 치바현 표시된 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "도쿄 근교 여행지로 인기 있는 치바현! 도쿄 디즈니랜드, 마쿠하리 멧세, 노코기리야마 등 주요 관광지를 방문할 계획이라면 이 패스로 교통비를 크게 절약할 수 있습니다. 구매 전 이용 가능 철도 및 버스 노선을 꼭 확인하세요!",
-            "alt_text": "여행 계획 세우는 사람 이미지"
-          }
-        ],
-        "caption": "🇯🇵 치바현 여행 필수템! '산큐치바 프리패스' 2026년 8월 1일 출시! 🎉\nJR, 버스, 페리 2일 무제한 탑승으로 교통비 걱정 끝! 🤩\n올해는 대상 지역 확대까지! 치바현 구석구석 알차게 누벼보세요! 🚗⛴️💨\n\n👉 다음 일본 여행, 치바현은 어떠신가요?",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#치바현",
-          "#산큐치바프리패스",
-          "#일본교통",
-          "#일본자유여행",
-          "#일본패스",
-          "#도쿄근교",
-          "#일본가볼만한곳",
-          "#여행정보",
-          "#2026년",
-          "#교통패스",
-          "#일본여행꿀팁",
-          "#치바",
-          "#일본"
-        ],
-        "alt_texts": [
-          "산큐치바 프리패스 로고 또는 홍보 이미지",
-          "달력에 8월 1일 표시된 이미지",
-          "기차, 버스, 페리 아이콘 이미지",
-          "일본 지도에 치바현 표시된 이미지",
-          "여행 계획 세우는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 근교 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 교통비 절약 정보에 대한 높은 관심, 치바현 여행 계획 증가 / 이 콘텐츠의 강점: 구체적인 출시일, 이용 기간, 교통수단 정보 제공으로 실질적인 도움 제공",
-      "image": {
-        "keyword": "Chiba Prefecture, transportation pass, Japan travel, unlimited ride, bullet train, bus, ferry",
-        "unsplash_url": "https://unsplash.com/s/photos/Chiba-Prefecture,-transportation-pass,-Japan-travel,-unlimited-ride,-bullet-train,-bus,-ferry",
-        "pexels_url": "https://www.pexels.com/search/Chiba%20Prefecture,%20transportation%20pass,%20Japan%20travel,%20unlimited%20ride,%20bullet%20train,%20bus,%20ferry/"
       }
     }
   ]
