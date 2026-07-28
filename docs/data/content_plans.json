@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-27T03:55:59.384468",
+  "last_updated": "2026-07-28T00:11:11.489211",
   "plans": [
+    {
+      "id": "plan_95f52d28",
+      "created_at": "2026-07-28T00:11:09.488977",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「のと里山ポケモン・ウィズ・ユー空港」限定メニューを食べてみた。レストランの利用方法も解説",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128263.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬과 함께 떠나는 특별한 일본 여행! 한정 메뉴와 함께 잊지 못할 추억을 만들어보세요."
+      },
+      "content": {
+        "thumbnail_title": "✈️포켓몬 공항 ✈️ 한정 메뉴!",
+        "cards": [
+          {
+            "title": "포켓몬 콜라보",
+            "content": "일본 이시카와현 노토사토야마 포켓몬 위드 유 공항이 리뉴얼을 기념하여 포켓몬 콜라보를 진행합니다. 7월 7일부터 한정 기간 운영됩니다.",
+            "alt_text": "포켓몬 비행기 모형과 공항 안내판"
+          },
+          {
+            "title": "한정 메뉴",
+            "content": "공항 내 레스토랑에서는 포켓몬 테마의 특별 메뉴를 맛볼 수 있습니다. 자세한 메뉴 내용은 현장에서 확인 가능합니다.",
+            "alt_text": "포켓몬 캐릭터 모양의 귀여운 음식"
+          },
+          {
+            "title": "이용 방법",
+            "content": "레스토랑 이용 방법 및 운영 시간은 공항 내 안내를 참고해주세요. 특별한 경험을 놓치지 마세요!",
+            "alt_text": "공항 레스토랑 내부 모습"
+          },
+          {
+            "title": "이시카와현",
+            "content": "이번 콜라보는 이시카와현 와지마시에서 진행됩니다. 일본의 아름다운 자연과 함께 포켓몬을 즐겨보세요.",
+            "alt_text": "이시카와현의 아름다운 풍경"
+          },
+          {
+            "title": "꿀팁",
+            "content": "한정판 굿즈도 함께 판매될 예정이니, 포켓몬 팬이라면 절대 놓치지 마세요! 방문 전 운영 기간을 다시 한번 확인하는 것이 좋습니다.",
+            "alt_text": "포켓몬 한정판 굿즈 진열 모습"
+          }
+        ],
+        "caption": "✈️ 일본 여행 중 특별한 추억을 만들고 싶다면? ✈️ \n이시카와현 노토사토야마 포켓몬 위드 유 공항에서 7월 7일부터 진행되는 포켓몬 콜라보를 만나보세요! 🤩\n한정 메뉴와 굿즈까지! 잊지 못할 경험을 선물할 거예요. 🎁\n#일본여행 #포켓몬 #이시카와현 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#포켓몬",
+          "#포켓몬콜라보",
+          "#이시카와현",
+          "#노토사토야마공항",
+          "#일본한정",
+          "#일본맛집",
+          "#일본여행꿀팁",
+          "#일본근교",
+          "#일본축제",
+          "#여행스타그램",
+          "#포켓몬굿즈",
+          "#해외여행",
+          "#일본여행정보"
+        ],
+        "alt_texts": [
+          "포켓몬 비행기 모형과 공항 안내판",
+          "포켓몬 캐릭터 모양의 귀여운 음식",
+          "공항 레스토랑 내부 모습",
+          "이시카와현의 아름다운 풍경",
+          "포켓몬 한정판 굿즈 진열 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 포켓몬 팬, 특별한 경험을 추구하는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 실제 방문 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 한정 이벤트 정보, 대중적인 캐릭터 활용",
+      "image": {
+        "keyword": "Pokemon Airport Japan, Limited Menu, Ishikawa Prefecture, Travel Event",
+        "unsplash_url": "https://unsplash.com/s/photos/Pokemon-Airport-Japan,-Limited-Menu,-Ishikawa-Prefecture,-Travel-Event",
+        "pexels_url": "https://www.pexels.com/search/Pokemon%20Airport%20Japan,%20Limited%20Menu,%20Ishikawa%20Prefecture,%20Travel%20Event/"
+      }
+    },
+    {
+      "id": "plan_ba1c2d53",
+      "created_at": "2026-07-28T00:11:02.305908",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "江戸川区花火大会、1日17時から篠崎街道などで通行止め。篠崎駅周辺は16時30分規制開始、京葉市川PA（下り）閉鎖も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128298.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여름밤, 화려한 불꽃놀이를 놓치고 싶지 않다면 필독! 교통 통제 정보 미리 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🎆 도쿄 에도가와 불꽃놀이 교통 통제!",
+        "cards": [
+          {
+            "title": "불꽃축제 안내",
+            "content": "8월 1일, 제51회 에도가와구 불꽃놀이 대회가 열립니다. 장소는 에도가와 강변, 도립 시노자키 공원 근처 (도쿄도 에도가와구 카미시노자키 1-25-1)입니다.",
+            "alt_text": "화려한 불꽃놀이 이미지"
+          },
+          {
+            "title": "교통 통제 시간",
+            "content": "행사 당일 17시부터 시노자키 가도 등 일부 도로에서 차량 통행이 통제됩니다. 시노자키역 주변은 16시 30분부터 규제가 시작되니 주의하세요.",
+            "alt_text": "교통 통제 표지판 이미지"
+          },
+          {
+            "title": "고속도로 통제",
+            "content": "게이요 시카와 PA(하행선)도 폐쇄될 예정입니다. 해당 구간 이용 시 다른 경로를 미리 확인하시는 것이 좋습니다.",
+            "alt_text": "고속도로 안내 표지판 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "불꽃놀이 명소는 매우 혼잡할 수 있습니다. 대중교통 이용을 권장하며, 통제 구간을 피해 미리 도착하시는 것을 추천합니다.",
+            "alt_text": "사람들이 모여 불꽃놀이를 보는 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "현지 교통 통제 정보를 반드시 다시 한번 확인하시고, 안전하고 즐거운 불꽃놀이 관람 되시길 바랍니다!",
+            "alt_text": "안전 제일 문구 이미지"
+          }
+        ],
+        "caption": "일본 여름밤의 하이라이트, 에도가와구 불꽃놀이 축제! 🎆 8월 1일 개최되는 이번 축제를 위해 주변 도로와 고속도로 일부 구간이 통제됩니다. 17시부터 시작되는 교통 통제, 시노자키역 주변은 16시 30분부터 규제가 시작되니 방문 계획이 있다면 꼭 미리 확인하고 출발하세요! 🚗💨\n\n#에도가와구불꽃놀이 #도쿄불꽃축제 #일본여름축제 #교통통제정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#불꽃놀이",
+          "#에도가와구",
+          "#여름축제",
+          "#일본교통",
+          "#여행정보",
+          "#일본축제",
+          "#도쿄",
+          "#여행팁",
+          "#일본",
+          "#여행",
+          "#여름",
+          "#축제"
+        ],
+        "alt_texts": [
+          "화려한 불꽃놀이 이미지",
+          "교통 통제 표지판 이미지",
+          "고속도로 안내 표지판 이미지",
+          "사람들이 모여 불꽃놀이를 보는 이미지",
+          "안전 제일 문구 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름 시즌 도쿄 여행 예정인 한국인 관광객 / 최적 게시 시간: 여행 정보 탐색이 활발한 오후 6-8시 / 기대 반응: 교통 통제 정보를 미리 알아 불필요한 불편을 피할 수 있다는 점에서 긍정적 반응 예상 / 이 콘텐츠의 강점: 시기적절한 축제 정보와 함께 실질적인 교통 통제 정보를 구체적인 시간과 함께 제공하여 유용성 극대화",
+      "image": {
+        "keyword": "Edogawa River fireworks festival road closure",
+        "unsplash_url": "https://unsplash.com/s/photos/Edogawa-River-fireworks-festival-road-closure",
+        "pexels_url": "https://www.pexels.com/search/Edogawa%20River%20fireworks%20festival%20road%20closure/"
+      }
+    },
     {
       "id": "plan_babe667b",
       "created_at": "2026-07-27T03:55:57.384325",
@@ -923,160 +1077,6 @@
         "keyword": "hotel new otani makuhari pool bbq summer family",
         "unsplash_url": "https://unsplash.com/s/photos/hotel-new-otani-makuhari-pool-bbq-summer-family",
         "pexels_url": "https://www.pexels.com/search/hotel%20new%20otani%20makuhari%20pool%20bbq%20summer%20family/"
-      }
-    },
-    {
-      "id": "plan_a84b7b24",
-      "created_at": "2026-07-24T03:35:12.789716",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東横イン、「北海道デジタルスタンプラリー」実施中　最大7,500円分クーポン付与、9月30日まで",
-        "url": "https://www.traicy.com/posts/20260724373849/",
-        "date": "Fri, 24 Jul 2026 01:15:31 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 숙박 할인 찬스! 동양인 호텔 스탬프 랠리로 최대 7,500엔 쿠폰 받으세요!"
-      },
-      "content": {
-        "thumbnail_title": "🏨홋카이도 동양인호텔 7500엔 쿠폰!",
-        "cards": [
-          {
-            "title": "스탬프 랠리",
-            "content": "홋카이도 지역 동양인 호텔에서 1박 시 디지털 스탬프 1개 적립! 4월 24일부터 9월 30일까지 진행됩니다.",
-            "alt_text": "디지털 스탬프 랠리 참여 안내 이미지"
-          },
-          {
-            "title": "쿠폰 교환",
-            "content": "서로 다른 3개 지점의 스탬프를 모으면 1,500엔 상당의 쿠폰으로 교환 가능합니다. 최대 5개 지점까지 모으면 7,500엔 상당의 쿠폰을 받을 수 있어요!",
-            "alt_text": "스탬프 개수에 따른 쿠폰 금액 안내 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "동양인 호텔 공식 웹사이트 또는 앱을 통해 자세한 참여 방법과 혜택을 확인하세요. 홋카이도 여행 시 숙박비 절약 기회!",
-            "alt_text": "동양인 호텔 웹사이트 안내 이미지"
-          },
-          {
-            "title": "기간 확인",
-            "content": "이벤트는 2024년 9월 30일까지 진행되니, 홋카이도 여행 계획이 있다면 놓치지 마세요!",
-            "alt_text": "이벤트 종료일 안내 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "홋카이도 내 여러 도시를 여행하며 여러 지점의 동양인 호텔을 이용하면 쿠폰 혜택을 극대화할 수 있습니다. 미리 예약하고 혜택 챙기세요!",
-            "alt_text": "홋카이도 지도에 동양인 호텔 위치 표시 이미지"
-          }
-        ],
-        "caption": "홋카이도 여행 필수 정보! 🏨 동양인 호텔에서 진행하는 '홋카이도 디지털 스탬프 랠리'에 참여하고 최대 7,500엔 상당의 쿠폰을 받아가세요! 4월 24일부터 9월 30일까지 진행되니, 홋카이도 숙박 계획이 있다면 꼭 확인하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도여행",
-          "#동양인호텔",
-          "#일본숙소",
-          "#일본할인",
-          "#일본쿠폰",
-          "#홋카이도",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#일본이벤트",
-          "#일본숙박",
-          "#여행스타그램",
-          "#일본정보",
-          "#스탬프랠리"
-        ],
-        "alt_texts": [
-          "디지털 스탬프 랠리 참여 안내 이미지",
-          "스탬프 개수에 따른 쿠폰 금액 안내 이미지",
-          "동양인 호텔 웹사이트 안내 이미지",
-          "이벤트 종료일 안내 이미지",
-          "홋카이도 지도에 동양인 호텔 위치 표시 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 숙박비 절약 정보에 대한 높은 관심과 참여 의지 / 이 콘텐츠의 강점: 구체적인 할인 금액과 기간 명시, 숙박비 절약이라는 실질적인 혜택 강조",
-      "image": {
-        "keyword": "Toyoko Inn Hokkaido digital stamp rally coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/Toyoko-Inn-Hokkaido-digital-stamp-rally-coupon",
-        "pexels_url": "https://www.pexels.com/search/Toyoko%20Inn%20Hokkaido%20digital%20stamp%20rally%20coupon/"
-      }
-    },
-    {
-      "id": "plan_07fe3b03",
-      "created_at": "2026-07-24T03:35:01.012172",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "箱根ホテル小涌園、全天候型プール「ユネッサン」で遊び放題の1泊2食が最大30％オフ対象に。夕食は豪華ビュッフェ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2127577.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "온천과 워터파크를 동시에! 최대 30% 할인받아 하코네 숙소 예약하자! 🌊"
-      },
-      "content": {
-        "thumbnail_title": "하코네 숙소 30% OFF! ♨️",
-        "cards": [
-          {
-            "title": "할인 쿠폰",
-            "content": "라쿠텐 트래블에서 7월 31일까지 '스페셜 쿠폰 위크' 진행 중! 최대 30% 할인 쿠폰을 활용해 보세요.",
-            "alt_text": "할인 쿠폰 이미지를 보여주며 '최대 30% OFF' 문구를 강조"
-          },
-          {
-            "title": "숙소 정보",
-            "content": "하코네 코와키엔 호텔에서는 1박 2식 포함 상품을 최대 30% 할인된 가격으로 예약 가능합니다.",
-            "alt_text": "하코네 코와키엔 호텔의 아름다운 외관 사진"
-          },
-          {
-            "title": "식사 포함",
-            "content": "저녁 식사는 럭셔리 뷔페로 제공되어 더욱 풍성한 식사를 즐길 수 있습니다.",
-            "alt_text": "다양한 메뉴가 준비된 뷔페 레스토랑 사진"
-          },
-          {
-            "title": "특별 시설",
-            "content": "실내 올인원 워터파크 '유네상'에서 날씨 걱정 없이 하루 종일 신나게 놀 수 있어요!",
-            "alt_text": "유네상 실내 워터파크에서 즐겁게 물놀이하는 사람들 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "여러 쿠폰을 중복 적용하면 더 큰 할인을 받을 수 있으니, 예약 전 꼭 확인하고 혜택을 놓치지 마세요!",
-            "alt_text": "스마트폰으로 숙소 예약하는 모습"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? 🇯🇵 \n\n온천과 워터파크를 한 번에 즐길 수 있는 하코네 코와키엔 호텔 숙박! \n\n지금 라쿠텐 트래블에서 진행하는 '스페셜 쿠폰 위크'를 활용하면 최대 30% 할인받아 예약할 수 있어요! 🤩\n\n저녁은 럭셔리 뷔페, 낮에는 실내 워터파크 '유네상'에서 신나게 놀아봐요! 🌊\n\n놓치기 아까운 특가 찬스, 지금 바로 확인해보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하코네",
-          "#일본온천",
-          "#일본숙소",
-          "#하코네여행",
-          "#일본자유여행",
-          "#일본호텔",
-          "#일본할인",
-          "#라쿠텐트래블",
-          "#일본가족여행",
-          "#일본커플여행",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#유네상"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지를 보여주며 '최대 30% OFF' 문구를 강조",
-          "하코네 코와키엔 호텔의 아름다운 외관 사진",
-          "다양한 메뉴가 준비된 뷔페 레스토랑 사진",
-          "유네상 실내 워터파크에서 즐겁게 물놀이하는 사람들 모습",
-          "스마트폰으로 숙소 예약하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 하코네 지역 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 숙소 예약 정보에 대한 높은 관심 및 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 매력적인 숙소 시설 소개를 결합하여 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "Hakone hotel, Yunessun water park, Japanese buffet, travel discount coupon, onsen resort",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakone-hotel,-Yunessun-water-park,-Japanese-buffet,-travel-discount-coupon,-onsen-resort",
-        "pexels_url": "https://www.pexels.com/search/Hakone%20hotel,%20Yunessun%20water%20park,%20Japanese%20buffet,%20travel%20discount%20coupon,%20onsen%20resort/"
       }
     }
   ]
