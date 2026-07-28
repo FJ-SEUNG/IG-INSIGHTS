@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-28T00:11:11.489211",
+  "last_updated": "2026-07-28T03:27:43.418908",
   "plans": [
+    {
+      "id": "plan_d567b978",
+      "created_at": "2026-07-28T03:27:41.418734",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「のと里山ポケモン・ウィズ・ユー空港」で買える限定グッズ、全15種を見てきた！　能登の名産品もポケモン仕様に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128179.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬 팬이라면 놓칠 수 없는 일본 공항 한정판 굿즈!"
+      },
+      "content": {
+        "thumbnail_title": "⚡️포켓몬 굿즈 한정판⚡️",
+        "cards": [
+          {
+            "title": "오리지널 굿즈",
+            "content": "일본 이시카와현 와지마시 '노토사토야마 포켓몬 위드 유 공항'에서 리뉴얼 기념 오리지널 굿즈 15종을 7월 7일부터 판매 중입니다.",
+            "alt_text": "포켓몬 굿즈가 진열된 매장 모습"
+          },
+          {
+            "title": "판매 장소",
+            "content": "해당 굿즈는 공항 건물 2층에 위치한 매장 '세렌디피티'에서만 구매 가능합니다.",
+            "alt_text": "세렌디피티 매장 입구"
+          },
+          {
+            "title": "특별한 기념품",
+            "content": "노토 지역의 특산품들도 포켓몬 디자인으로 재탄생하여 특별한 기념품으로 소장하기 좋습니다.",
+            "alt_text": "포켓몬 디자인의 노토 특산품"
+          },
+          {
+            "title": "방문 시기",
+            "content": "7월 7일부터 판매 시작되었으니, 방문 계획이 있다면 놓치지 마세요!",
+            "alt_text": "영업 시간 안내 표지판"
+          },
+          {
+            "title": "포켓몬 팬 주목!",
+            "content": "포켓몬스터 팬이라면 일본 여행 중 특별한 추억을 만들 수 있는 기회입니다. 공항 방문 시 꼭 들러보세요!",
+            "alt_text": "다양한 포켓몬 굿즈를 들고 있는 사람"
+          }
+        ],
+        "caption": "⚡️일본 여행 필수 코스! 포켓몬 굿즈 한정판 득템 찬스!⚡️\n\n일본 이시카와현 와지마시에 위치한 '노토사토야마 포켓몬 위드 유 공항'에서 리뉴얼 기념 오리지널 굿즈 15종을 7월 7일부터 한정 판매 시작했어요! 💖\n\n노토 지역 특산품까지 포켓몬 디자인으로 만나볼 수 있다는 사실!\n\n🌟 구매는 오직 공항 2층 '세렌디피티' 매장에서만 가능하니, 방문 계획 있으신 분들은 꼭 참고하세요! ✈️\n\n#일본여행 #포켓몬굿즈 #한정판 #노토사토야마공항 #일본쇼핑 #플라잉재팬 #여행정보 #여행팁 #일본추천 #인스타여행 #여행스타그램 #포켓몬스터 #세렌디피티",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#포켓몬굿즈",
+          "#한정판",
+          "#노토사토야마공항",
+          "#일본쇼핑",
+          "#여행정보",
+          "#여행팁",
+          "#일본추천",
+          "#인스타여행",
+          "#여행스타그램",
+          "#포켓몬스터",
+          "#세렌디피티",
+          "#이시카와현",
+          "#와지마시"
+        ],
+        "alt_texts": [
+          "포켓몬 굿즈가 진열된 매장 모습",
+          "세렌디피티 매장 입구",
+          "포켓몬 디자인의 노토 특산품",
+          "영업 시간 안내 표지판",
+          "다양한 포켓몬 굿즈를 들고 있는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 포켓몬스터 팬, 일본 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 관심 및 공유, 방문 계획 시 일정 추가 / 이 콘텐츠의 강점: 희소성 있는 한정판 굿즈 정보, 구체적인 판매처 및 출시일 명시",
+      "image": {
+        "keyword": "Pokemon limited edition goods, Notosatoyama Airport, Serendipity shop, Japan travel souvenirs",
+        "unsplash_url": "https://unsplash.com/s/photos/Pokemon-limited-edition-goods,-Notosatoyama-Airport,-Serendipity-shop,-Japan-travel-souvenirs",
+        "pexels_url": "https://www.pexels.com/search/Pokemon%20limited%20edition%20goods,%20Notosatoyama%20Airport,%20Serendipity%20shop,%20Japan%20travel%20souvenirs/"
+      }
+    },
+    {
+      "id": "plan_993e5efd",
+      "created_at": "2026-07-28T03:27:34.507876",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "松戸花火大会、8月1日17時から松戸側、18時から三郷側で通行止め。上葛飾橋も通行不可に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128249.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여름밤의 낭만, 마츠도 불꽃축제 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🎆마츠도 불꽃축제 8/1 교통 통제!",
+        "cards": [
+          {
+            "title": "마츠도 불꽃축제",
+            "content": "2026년 8월 1일, 마츠도 불꽃축제가 개최됩니다! 마츠도 시민과 방문객 모두에게 즐거운 추억을 선사할 예정입니다.",
+            "alt_text": "마츠도 불꽃축제 포스터 이미지"
+          },
+          {
+            "title": "교통 통제 안내",
+            "content": "불꽃축제 당일, 원활한 행사 진행과 안전을 위해 주변 도로가 통제됩니다. 마츠도 측은 17시부터, 미사토 측은 18시부터 차량 통행이 제한됩니다.",
+            "alt_text": "교통 통제 표지판 이미지"
+          },
+          {
+            "title": "상葛飾橋 통행 불가",
+            "content": "특히 상葛飾橋는 행사 시간 동안 차량 통행이 완전히 금지되니, 해당 구간 이용 계획이 있으신 분들은 미리 경로를 변경하셔야 합니다.",
+            "alt_text": "다리 위 교통 통제 이미지"
+          },
+          {
+            "title": "대중교통 이용 추천",
+            "content": "행사장 주변은 교통 통제로 인해 혼잡이 예상되므로, 대중교통 이용을 적극 권장합니다. 축제 후 귀가 시에도 대중교통을 이용하시면 편리합니다.",
+            "alt_text": "열차 또는 버스 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "불꽃축제 명당을 미리 알아보고 일찍 도착하는 것을 추천합니다. 또한, 행사 당일 교통 통제 정보를 다시 한번 확인하여 여유로운 일정 계획하세요!",
+            "alt_text": "불꽃축제 관람석 이미지"
+          }
+        ],
+        "caption": "🎆2026년 8월 1일, 마츠도 불꽃축제 개최! 🎆\n\n✨마츠도 측: 17시부터, 미사토 측: 18시부터 주변 도로 통제 예정\n✨상葛飾橋: 행사 시간 동안 차량 통행 불가\n\n일본 여름밤의 낭만을 만끽할 기회! 💖\n교통 통제 정보를 미리 확인하시고, 대중교통 이용을 추천합니다.\n\n#마츠도불꽃축제 #일본여행 #도쿄근교 #여름축제 #교통정보 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#마츠도불꽃축제",
+          "#마츠도",
+          "#일본축제",
+          "#여름밤",
+          "#불꽃놀이",
+          "#교통통제",
+          "#여행정보",
+          "#일본여름",
+          "#도쿄근교여행",
+          "#여행스타그램",
+          "#일본가볼만한곳",
+          "#2026년",
+          "#축제"
+        ],
+        "alt_texts": [
+          "마츠도 불꽃축제 포스터 이미지",
+          "교통 통제 표지판 이미지",
+          "다리 위 교통 통제 이미지",
+          "열차 또는 버스 이미지",
+          "불꽃축제 관람석 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여름 불꽃축제에 관심 있는 한국인 여행객 / 최적 게시 시간: 오후 6시 (저녁 식사 후 여행 정보 탐색 시간) / 기대 반응: 교통 통제 정보에 대한 문의 및 축제 방문 계획 공유 / 이 콘텐츠의 강점: 구체적인 통제 시간 및 구간 명시로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Matsudo fireworks festival road closure",
+        "unsplash_url": "https://unsplash.com/s/photos/Matsudo-fireworks-festival-road-closure",
+        "pexels_url": "https://www.pexels.com/search/Matsudo%20fireworks%20festival%20road%20closure/"
+      }
+    },
     {
       "id": "plan_95f52d28",
       "created_at": "2026-07-28T00:11:09.488977",
@@ -923,160 +1077,6 @@
         "keyword": "Gusto, Minions, collaboration, limited menu, original goods, Japan, restaurant",
         "unsplash_url": "https://unsplash.com/s/photos/Gusto,-Minions,-collaboration,-limited-menu,-original-goods,-Japan,-restaurant",
         "pexels_url": "https://www.pexels.com/search/Gusto,%20Minions,%20collaboration,%20limited%20menu,%20original%20goods,%20Japan,%20restaurant/"
-      }
-    },
-    {
-      "id": "plan_9e501566",
-      "created_at": "2026-07-25T00:14:58.185212",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "本日スタート！　「ディズニーストア 夏祭り」の店内写真が到着。屋台デコ＆スマートボウルで運試ししよう",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2127728.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 스토어에서 즐기는 특별한 여름 축제!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 스토어 여름 축제 시작!✨",
-        "cards": [
-          {
-            "title": "축제 시작!",
-            "content": "디즈니 스토어에서 '여름 축제'가 7월 24일부터 시작되었습니다. 일본 여행 중이라면 놓칠 수 없는 특별한 이벤트예요.",
-            "alt_text": "디즈니 스토어 여름 축제 시작을 알리는 이미지"
-          },
-          {
-            "title": "도쿄 한정!",
-            "content": "특히 신주쿠 '디즈니 플래그십 도쿄'에는 여름 축제 분위기를 물씬 느낄 수 있는 특별 장식이 준비되어 있습니다.",
-            "alt_text": "디즈니 플래그십 도쿄의 여름 축제 장식 이미지"
-          },
-          {
-            "title": "기간 한정!",
-            "content": "이 특별한 축제 장식은 8월 17일까지 운영됩니다. 방문 계획이 있다면 서둘러 주세요!",
-            "alt_text": "축제 기간을 안내하는 이미지"
-          },
-          {
-            "title": "축제 즐기기",
-            "content": "축제 분위기를 만끽하며 야타이(포장마차) 스타일의 데코레이션과 스마트볼 게임으로 운세를 시험해 보세요!",
-            "alt_text": "스마트볼 게임을 즐기는 모습의 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "디즈니 스토어에서만 경험할 수 있는 특별한 여름 축제! 디즈니 팬이라면 꼭 방문해서 특별한 추억을 만들어 보세요.",
-            "alt_text": "디즈니 스토어 여름 축제 기념품 이미지"
-          }
-        ],
-        "caption": "일본 여행 중이라면 주목! 🇯🇵\n디즈니 스토어에서 7월 24일부터 '여름 축제'가 시작되었어요!\n특히 신주쿠 디즈니 플래그십 도쿄는 축제 분위기로 가득! 🏮\n8월 17일까지 운영되니, 기간 놓치지 말고 특별한 여름 축제를 즐겨보세요! 💖\n\n#디즈니 #일본디즈니 #여름축제 #도쿄여행 #디즈니스토어",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니",
-          "#디즈니스토어",
-          "#디즈니플래그십도쿄",
-          "#일본축제",
-          "#여름축제",
-          "#도쿄",
-          "#도쿄여행",
-          "#디즈니덕후",
-          "#일본쇼핑",
-          "#여행정보",
-          "#한정판",
-          "#이벤트",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "디즈니 스토어 여름 축제 시작을 알리는 이미지",
-          "디즈니 플래그십 도쿄의 여름 축제 장식 이미지",
-          "축제 기간을 안내하는 이미지",
-          "스마트볼 게임을 즐기는 모습의 이미지",
-          "디즈니 스토어 여름 축제 기념품 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7시 - 9시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장) / 이 콘텐츠의 강점: 한국인에게 인기 있는 디즈니 관련 정보, 기간 한정 이벤트로 긴급성 부여",
-      "image": {
-        "keyword": "Disney Store Summer Festival Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Summer-Festival-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Summer%20Festival%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_34a4e484",
-      "created_at": "2026-07-25T00:14:53.181431",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルニューオータニ幕張、プール＆BBQを一度に満喫できる日帰りプラン。準備・片付け不要、子連れファミリーもお得に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2127741.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "호텔 수영장과 BBQ를 한 번에 즐기는 여름 휴가!"
-      },
-      "content": {
-        "thumbnail_title": "🏨 호텔 수영장+BBQ 🌊",
-        "cards": [
-          {
-            "title": "플랜 소개",
-            "content": "호텔 뉴오타니 마쿠하리에서 야외 수영장 입장권과 BBQ를 함께 즐길 수 있는 '풀&BBQ' 플랜을 판매합니다.",
-            "alt_text": "호텔 뉴오타니 마쿠하리 외관"
-          },
-          {
-            "title": "이용 기간",
-            "content": "2024년 7월 24일부터 9월 18일까지, 평일에 이용 가능합니다. (단, 8월 10일부터 14일 제외)",
-            "alt_text": "달력 이미지에 7월 24일~9월 18일 평일 표시"
-          },
-          {
-            "title": "이용 장소",
-            "content": "호텔 뉴오타니 마쿠하리 (치바시 미하마구 히비노 2-120-3)",
-            "alt_text": "호텔 뉴오타니 마쿠하리 주소"
-          },
-          {
-            "title": "플랜 특징",
-            "content": "준비와 뒷정리가 필요 없어 편리하며, 아이와 함께하는 가족 단위 여행객에게도 더욱 합리적인 가격으로 제공됩니다.",
-            "alt_text": "가족이 수영장에서 즐거워하는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여름 시즌 한정 플랜으로, 도심 속에서 시원한 물놀이와 맛있는 BBQ를 동시에 즐길 수 있는 특별한 경험을 선사합니다.",
-            "alt_text": "수영장 옆에서 BBQ를 즐기는 모습"
-          }
-        ],
-        "caption": "일본 여름 여행, 색다른 경험을 원한다면? 🌊 호텔 뉴오타니 마쿠하리에서 수영과 BBQ를 한 번에 즐겨보세요! 숯불 향 가득한 BBQ와 시원한 물놀이까지, 준비와 뒷정리 걱정 없이 완벽한 여름 휴가를 만끽할 수 있습니다. 👨‍👩‍👧‍👦 가족 여행에도 딱! 7월 24일부터 9월 18일까지 평일에만 만나볼 수 있으니 서둘러 예약하세요! 🏃‍♀️💨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#호텔뉴오타니마쿠하리",
-          "#일본여름휴가",
-          "#치바여행",
-          "#가족여행",
-          "#일본호텔",
-          "#수영장",
-          "#BBQ",
-          "#여름이벤트",
-          "#일본숙소",
-          "#일본가볼만한곳",
-          "#여행정보",
-          "#일본자유여행",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "호텔 뉴오타니 마쿠하리 외관",
-          "달력 이미지에 7월 24일~9월 18일 평일 표시",
-          "호텔 뉴오타니 마쿠하리 주소",
-          "가족이 수영장에서 즐거워하는 모습",
-          "수영장 옆에서 BBQ를 즐기는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름 시즌 일본 여행을 계획 중인 한국인 가족 여행객 및 커플 / 최적 게시 시간: 평일 오후 6~8시 / 기대 반응: 플랜 정보에 대한 문의, 예약 관심 증가 / 이 콘텐츠의 강점: 여름 시즌 한정 특별 플랜으로 즉각적인 관심 유발 및 실질적인 혜택 제공",
-      "image": {
-        "keyword": "hotel new otani makuhari pool bbq summer family",
-        "unsplash_url": "https://unsplash.com/s/photos/hotel-new-otani-makuhari-pool-bbq-summer-family",
-        "pexels_url": "https://www.pexels.com/search/hotel%20new%20otani%20makuhari%20pool%20bbq%20summer%20family/"
       }
     }
   ]
