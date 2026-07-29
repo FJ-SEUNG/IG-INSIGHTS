@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-28T03:27:43.418908",
+  "last_updated": "2026-07-29T00:09:02.827429",
   "plans": [
+    {
+      "id": "plan_c4506e74",
+      "created_at": "2026-07-29T00:09:00.827248",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語 箕面観光ホテルが「Premium」にリニューアル。併設温泉スパには万博の「ミライ人間洗濯機」導入",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128694.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 근교 온천 숙소, 특별한 경험을 더한 리뉴얼 소식!"
+      },
+      "content": {
+        "thumbnail_title": "♨️오사카 箕面 료칸 리뉴얼!✨",
+        "cards": [
+          {
+            "title": "箕面 료칸 리뉴얼",
+            "content": "오사카 箕面(미노)에 위치한 '대에도 온천 이야기 箕面 관광 호텔'이 '대에도 온천 이야기 Premium 箕面 관광 호텔'로 업그레이드 리뉴얼됩니다. 2024년 10월 1일에 오픈 예정입니다.",
+            "alt_text": "箕面 관광 호텔의 고급스러운 외관 이미지"
+          },
+          {
+            "title": "새로운 스파 시설",
+            "content": "함께 리뉴얼되는 '대에도 온천 이야기 箕面 온천 스파 가든'에는 2025 오사카 만국박람회 출품작인 '미라이 인간 세탁기'가 도입됩니다. 특별한 온천 경험을 기대해보세요.",
+            "alt_text": "미라이 인간 세탁기 이미지"
+          },
+          {
+            "title": "온천 & 숙박",
+            "content": "온천과 숙박을 동시에 즐길 수 있는 프리미엄 료칸으로 재탄생합니다. 오사카 시내에서 약 30분 거리에 있어 당일치기 또는 1박 2일 여행으로 방문하기 좋습니다.",
+            "alt_text": "료칸 객실 내부 이미지"
+          },
+          {
+            "title": "교통 안내",
+            "content": "간사이 국제공항에서 난카이 라피트 특급열차 탑승 후 덴노지에서 오사카 메트로 미도스지선으로 환승, 난바에서 한큐 타카라즈카선으로 환승하여 箕面역 하차 후 도보 이동 또는 버스 이용.",
+            "alt_text": "일본 철도 노선도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "리뉴얼 오픈 초기에는 많은 방문객이 몰릴 수 있으니, 사전 예약은 필수! 특히 '미라이 인간 세탁기' 이용 시간을 미리 확인하고 방문 계획을 세우는 것이 좋습니다.",
+            "alt_text": "온천에서 휴식하는 사람들의 이미지"
+          }
+        ],
+        "caption": "♨️ 오사카 근교 箕面(미노)의 '대에도 온천 이야기 箕面 관광 호텔'이 'Premium' 등급으로 2024년 10월 1일 새롭게 오픈합니다! ✨\n\n✨ 특별한 '미라이 인간 세탁기' 도입!\n✨ 쾌적하고 고급스러운 온천 스파 경험!\n✨ 오사카 시내에서 약 30분 거리!\n\n오사카 여행 시 힐링과 특별한 추억을 더하고 싶다면 주목하세요! 💖\n\n#일본온천 #오사카여행 #箕面 #료칸추천 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#箕面",
+          "#미노온천",
+          "#일본료칸",
+          "#온천여행",
+          "#일본숙소",
+          "#해외여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#간사이여행",
+          "#가을여행",
+          "#일본호텔"
+        ],
+        "alt_texts": [
+          "箕面 관광 호텔의 고급스러운 외관 이미지",
+          "미라이 인간 세탁기 이미지",
+          "료칸 객실 내부 이미지",
+          "일본 철도 노선도 이미지",
+          "온천에서 휴식하는 사람들의 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 근교에서 특별한 온천 경험을 원하는 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 정보 공유 및 저장, 문의 증가 / 이 콘텐츠의 강점: 구체적인 오픈일, 시설 정보, 교통 정보까지 포함하여 실질적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Minoo Onsen Hotel, Premium Onsen Spa, Future Human Washing Machine, Osaka Travel, Ryokan Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Minoo-Onsen-Hotel,-Premium-Onsen-Spa,-Future-Human-Washing-Machine,-Osaka-Travel,-Ryokan-Japan",
+        "pexels_url": "https://www.pexels.com/search/Minoo%20Onsen%20Hotel,%20Premium%20Onsen%20Spa,%20Future%20Human%20Washing%20Machine,%20Osaka%20Travel,%20Ryokan%20Japan/"
+      }
+    },
+    {
+      "id": "plan_8bf3c469",
+      "created_at": "2026-07-29T00:08:53.599418",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "キャノピーbyヒルトン大阪梅田、「なにわ淀川花火大会」鑑賞プラン。ボトルシャンパンと朝食付き、早期予約で10％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2128702.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 최대 불꽃축제, 호텔 객실에서 편안하게 즐기세요! 🎇"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 호텔 뷰 꿀팁!",
+        "cards": [
+          {
+            "title": "불꽃축제",
+            "content": "10월 17일 개최되는 '제38회 나니와 요도가와 불꽃대회'를 객실에서 감상할 수 있는 특별 숙박 플랜이 출시되었습니다.",
+            "alt_text": "오사카 요도가와 강변에서 펼쳐지는 불꽃축제 모습"
+          },
+          {
+            "title": "숙소",
+            "content": "캐노피 바이 힐튼 오사카 우메다에서 제공하는 플랜으로, 객실에서 편안하게 불꽃놀이를 즐기실 수 있습니다.",
+            "alt_text": "캐노피 바이 힐튼 오사카 우메다 호텔 외관"
+          },
+          {
+            "title": "포함 내역",
+            "content": "플랜에는 보틀 샴페인과 조식이 포함되어 있어 더욱 특별한 시간을 보낼 수 있습니다.",
+            "alt_text": "샴페인 병과 잔, 그리고 맛있는 조식 이미지"
+          },
+          {
+            "title": "조기 예약 할인",
+            "content": "지금 바로 예약하면 10% 할인 혜택을 받을 수 있으니 서두르세요!",
+            "alt_text": "할인 표시 아이콘과 함께 '10% OFF' 문구"
+          },
+          {
+            "title": "예약 방법",
+            "content": "7월 28일부터 호텔 공식 홈페이지 또는 전화로 예약 가능하며, 서둘러 예약하시는 것을 추천합니다.",
+            "alt_text": "예약 버튼 아이콘과 함께 '지금 예약하세요!' 문구"
+          }
+        ],
+        "caption": "일본 여행 중 오사카에 계신다면 놓칠 수 없는 기회! 🎆\n10월 17일 열리는 '나니와 요도가와 불꽃대회'를 캐노피 바이 힐튼 오사카 우메다 호텔 객실에서 편안하게 감상하세요.\n보틀 샴페인과 조식 포함, 조기 예약 시 10% 할인까지! 🥂✨\n지금 바로 예약하고 잊지 못할 추억을 만드세요!\n\n#오사카불꽃축제 #일본숙소 #힐튼호텔 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#일본숙소",
+          "#호텔추천",
+          "#불꽃축제",
+          "#나니와요도가와불꽃대회",
+          "#오사카",
+          "#여행정보",
+          "#일본축제",
+          "#힐튼오사카",
+          "#특별한경험",
+          "#일본가족여행",
+          "#일본커플여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "오사카 요도가와 강변에서 펼쳐지는 불꽃축제 모습",
+          "캐노피 바이 힐튼 오사카 우메다 호텔 외관",
+          "샴페인 병과 잔, 그리고 맛있는 조식 이미지",
+          "할인 표시 아이콘과 함께 '10% OFF' 문구",
+          "예약 버튼 아이콘과 함께 '지금 예약하세요!' 문구"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 관광객 / 최적 게시 시간: 오후 7시~9시 (여행 계획 시간) / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 편의성 강조, 할인 혜택 제공",
+      "image": {
+        "keyword": "Osaka Yodogawa Fireworks Festival hotel view",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodogawa-Fireworks-Festival-hotel-view",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20Yodogawa%20Fireworks%20Festival%20hotel%20view/"
+      }
+    },
     {
       "id": "plan_d567b978",
       "created_at": "2026-07-28T03:27:41.418734",
@@ -923,160 +1077,6 @@
         "keyword": "JAL, VIVANT drama collaboration, Japanese airline campaign",
         "unsplash_url": "https://unsplash.com/s/photos/JAL,-VIVANT-drama-collaboration,-Japanese-airline-campaign",
         "pexels_url": "https://www.pexels.com/search/JAL,%20VIVANT%20drama%20collaboration,%20Japanese%20airline%20campaign/"
-      }
-    },
-    {
-      "id": "plan_75178891",
-      "created_at": "2026-07-25T03:31:59.000581",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ケンタッキー「ドリンク全サイズ100円」キャンペーンを実施。Lサイズは240円お得に",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2127270.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여행 중 저렴하게 즐기는 KFC 음료 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "KFC 음료 100엔 득템찬스! 🥤",
-        "cards": [
-          {
-            "title": "KFC 음료 할인",
-            "content": "일본 전역 KFC 매장에서 7월 29일부터 8월 25일까지 모든 사이즈 음료를 100엔에 판매합니다.",
-            "alt_text": "일본 KFC 매장에서 음료를 판매하는 모습"
-          },
-          {
-            "title": "L 사이즈 꿀팁",
-            "content": "L 사이즈 음료는 평소 가격보다 240엔 저렴하게 구매할 수 있어, 시원한 음료를 부담 없이 즐길 수 있습니다.",
-            "alt_text": "KFC L 사이즈 음료 이미지"
-          },
-          {
-            "title": "기간 확인 필수",
-            "content": "이번 특별 캠페인은 8월 25일까지 진행되니, 여행 기간 중 KFC 방문 계획이 있다면 놓치지 마세요!",
-            "alt_text": "달력에 표시된 8월 25일 날짜"
-          },
-          {
-            "title": "전국 매장 적용",
-            "content": "일본 전국의 모든 KFC 매장에서 동일하게 적용되는 프로모션입니다. 여행 중 어느 지역에서든 이용 가능해요.",
-            "alt_text": "일본 지도 위에 KFC 로고 표시"
-          },
-          {
-            "title": "알뜰 여행 팁",
-            "content": "더위를 식혀줄 시원한 음료를 저렴하게 즐기며 알찬 일본 여행을 만들어 보세요! 식사 후 디저트로도 좋아요.",
-            "alt_text": "시원한 음료를 들고 웃는 여행객"
-          }
-        ],
-        "caption": "일본 여행 중 시원한 음료가 생각날 때! 🥤\n\n7월 29일부터 8월 25일까지, 일본 전역 KFC 매장에서 모든 사이즈 음료를 단돈 100엔에 맛볼 수 있어요!\n\n특히 L 사이즈는 무려 240엔이나 할인된다니, 이 기회 놓치지 마세요!\n\n여행 중 알차고 시원하게 즐기는 꿀팁! ✈️\n\n#일본여행 #플라잉재팬 #KFC #일본KFC #음료할인 #가성비여행 #일본맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#KFC",
-          "#일본KFC",
-          "#음료할인",
-          "#가성비여행",
-          "#일본맛집",
-          "#일본생활",
-          "#여행꿀팁",
-          "#일본축제",
-          "#일본쇼핑",
-          "#일본음식",
-          "#일본카페",
-          "#여름휴가",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "일본 KFC 매장에서 음료를 판매하는 모습",
-          "KFC L 사이즈 음료 이미지",
-          "달력에 표시된 8월 25일 날짜",
-          "일본 지도 위에 KFC 로고 표시",
-          "시원한 음료를 들고 웃는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 식음료 소비에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 (저녁 식사 시간대) / 기대 반응: 정보 공유 및 저장, 실제 방문 후기 댓글 / 이 콘텐츠의 강점: 구체적인 할인 정보와 기간 명시로 즉각적인 활용 가능성 높음",
-      "image": {
-        "keyword": "Japanese KFC, drink promotion, 100 yen, summer campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-KFC,-drink-promotion,-100-yen,-summer-campaign",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20KFC,%20drink%20promotion,%20100%20yen,%20summer%20campaign/"
-      }
-    },
-    {
-      "id": "plan_9270dbda",
-      "created_at": "2026-07-25T03:31:53.561196",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ガスト、映画「ミニオンズ＆モンスターズ」とのコラボキャンペーン実施。コラボメニューやオリジナルグッズなど用意",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2127315.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 외식 브랜드 '가스토'에서 미니언즈와 콜라보! 한정 메뉴와 굿즈를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨가스토X미니언즈 콜라보✨",
-        "cards": [
-          {
-            "title": "콜라보 기간",
-            "content": "일본 전국 가스토 매장에서 7월 30일부터 영화 '미니언즈&몬스터즈'와의 콜라보 캠페인을 진행합니다. 영화 개봉일인 8월 7일 전부터 만나볼 수 있어요!",
-            "alt_text": "가스토와 미니언즈 콜라보 캠페인 시작일 안내"
-          },
-          {
-            "title": "한정 메뉴",
-            "content": "콜라보 기간 동안 특별히 준비된 콜라보 메뉴를 맛볼 수 있습니다. 미니언즈를 테마로 한 귀여운 메뉴들을 기대해주세요!",
-            "alt_text": "미니언즈 테마의 콜라보 메뉴 이미지"
-          },
-          {
-            "title": "오리지널 굿즈",
-            "content": "캠페인을 기념하는 오리지널 굿즈도 함께 만나볼 수 있습니다. 방문 기념으로 특별한 기념품을 챙겨가세요!",
-            "alt_text": "미니언즈 콜라보 오리지널 굿즈 이미지"
-          },
-          {
-            "title": "가스토란?",
-            "content": "가스토는 일본 최대 외식 기업인 스카이라크 레스토랑츠에서 운영하는 캐주얼 레스토랑입니다. 일본 전역에 약 1,300개 이상의 매장을 보유하고 있습니다.",
-            "alt_text": "일본 가스토 레스토랑 외관 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기 메뉴는 조기 품절될 수 있으니, 방문 전 가스토 공식 홈페이지나 SNS를 통해 메뉴와 판매 여부를 확인하는 것을 추천합니다.",
-            "alt_text": "가스토 매장 내부에서 메뉴를 고르는 관광객 이미지"
-          }
-        ],
-        "caption": "일본 여행 중이라면 놓칠 수 없는 소식! 🇯🇵\n\n일본 최대 캐주얼 레스토랑 '가스토'에서 인기 애니메이션 '미니언즈&몬스터즈'와 역대급 콜라보를 진행합니다! 🤩\n\n7월 30일부터 한정 기간 동안 특별한 콜라보 메뉴와 귀여운 오리지널 굿즈까지 만나볼 수 있다는 사실!\n\n영화 개봉 전부터 특별한 경험을 원하신다면, 지금 바로 가스토 매장으로 달려가세요! 🏃‍♀️🏃‍♂️\n\n#일본여행 #가스토 #미니언즈 #콜라보 #한정메뉴 #일본맛집 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#가스토",
-          "#미니언즈",
-          "#미니언즈몬스터즈",
-          "#일본맛집",
-          "#일본카페",
-          "#일본음식",
-          "#일본쇼핑",
-          "#일본여행꿀팁",
-          "#일본정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#여행"
-        ],
-        "alt_texts": [
-          "가스토와 미니언즈 콜라보 캠페인 시작일 안내",
-          "미니언즈 테마의 콜라보 메뉴 이미지",
-          "미니언즈 콜라보 오리지널 굿즈 이미지",
-          "일본 가스토 레스토랑 외관 이미지",
-          "가스토 매장 내부에서 메뉴를 고르는 관광객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6시-8시 (저녁 식사 시간대) / 기대 반응: 높은 관심과 공유, 실제 방문 인증 후기 / 이 콘텐츠의 강점: 최신 콜라보 정보, 놓치기 쉬운 기간 한정 이벤트, 실질적인 방문 팁 제공",
-      "image": {
-        "keyword": "Gusto, Minions, collaboration, limited menu, original goods, Japan, restaurant",
-        "unsplash_url": "https://unsplash.com/s/photos/Gusto,-Minions,-collaboration,-limited-menu,-original-goods,-Japan,-restaurant",
-        "pexels_url": "https://www.pexels.com/search/Gusto,%20Minions,%20collaboration,%20limited%20menu,%20original%20goods,%20Japan,%20restaurant/"
       }
     }
   ]
