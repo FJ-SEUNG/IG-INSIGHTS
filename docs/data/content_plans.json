@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-30T03:17:21.804285",
+  "last_updated": "2026-07-31T00:15:51.322477",
   "plans": [
+    {
+      "id": "plan_fa816b1a",
+      "created_at": "2026-07-31T00:15:49.322278",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、中部～ホノルル線40周年でサクララウンジ利用2200円引き。夜限定ハワイアンメニューも提供",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129371.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 특별한 혜택을 누릴 수 있는 기회!"
+      },
+      "content": {
+        "thumbnail_title": "JAL 라운지 2200엔 할인! ✈️",
+        "cards": [
+          {
+            "title": "JAL 40주년 기념",
+            "content": "JAL이 센트레아(중부) ~ 호놀룰루 노선 취항 40주년을 기념하여 특별 캠페인을 진행합니다. ✈️",
+            "alt_text": "일본항공(JAL) 로고와 비행기 이미지"
+          },
+          {
+            "title": "라운지 할인 혜택",
+            "content": "이코노미 클래스 이용객을 대상으로 중부 국제공항 JAL 사쿠라 라운지 유료 서비스 이용 시 2200엔 할인 혜택을 제공합니다. 💰",
+            "alt_text": "일본항공(JAL) 사쿠라 라운지 내부 이미지"
+          },
+          {
+            "title": "특별 메뉴 제공",
+            "content": "저녁 시간에 방문하는 여행객들을 위해 특별한 하와이안 메뉴도 함께 제공될 예정입니다. 🌺",
+            "alt_text": "맛있는 하와이안 음식 플레이팅 이미지"
+          },
+          {
+            "title": "여행의 질 UP!",
+            "content": "일본 여행 중 편안한 휴식을 원하신다면, 이번 기회를 통해 JAL 사쿠라 라운지를 특별한 가격으로 이용해보세요! ✨",
+            "alt_text": "편안하게 휴식하는 여행객 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "이벤트 기간 및 상세 내용은 JAL 공식 홈페이지를 통해 확인하시고, 센트레아(중부) 공항 이용 시 잊지 말고 혜택을 누리세요! 📅",
+            "alt_text": "달력 아이콘과 JAL 로고 이미지"
+          }
+        ],
+        "caption": "✈️ JAL, 센트레아(중부)~호놀룰루 40주년 기념! ✈️\n\n일본 여행 중 편안한 휴식을 더하고 싶으신가요?\nJAL이 센트레아(중부) ~ 호놀룰루 노선 취항 40주년을 기념하여 특별한 라운지 할인 이벤트를 진행합니다! 🤩\n\n✅ 이코노미 클래스 이용객 대상\n✅ 중부 국제공항 JAL 사쿠라 라운지 유료 서비스 2200엔 할인!\n✅ 저녁 시간 방문 시 특별 하와이안 메뉴 제공 🌺\n\n일본 여행의 피로를 JAL 사쿠라 라운지에서 싹 풀어보세요! 💖\n\n#일본여행 #JAL #일본항공 #중부국제공항 #센트레아 #사쿠라라운지 #라운지할인 #일본여행꿀팁 #여행스타그램 #플라잉재팬 #일본항공권 #여행정보 #일본여행준비 #공항라운지 #이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#중부국제공항",
+          "#센트레아",
+          "#사쿠라라운지",
+          "#라운지할인",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본항공권",
+          "#여행정보",
+          "#일본여행준비",
+          "#공항라운지",
+          "#이벤트"
+        ],
+        "alt_texts": [
+          "일본항공(JAL) 로고와 비행기 이미지",
+          "일본항공(JAL) 사쿠라 라운지 내부 이미지",
+          "맛있는 하와이안 음식 플레이팅 이미지",
+          "편안하게 휴식하는 여행객 이미지",
+          "달력 아이콘과 JAL 로고 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 중부 국제공항을 통해 여행하는 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 라운지 이용에 대한 관심 증가, JAL 항공권 예약 고려 / 이 콘텐츠의 강점: 구체적인 할인 금액과 혜택 명시, 여행 중 실질적인 도움 제공",
+      "image": {
+        "keyword": "JAL Sakura Lounge discount, Chubu Centrair Airport, Hawaiian menu, economy class travel benefit",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Sakura-Lounge-discount,-Chubu-Centrair-Airport,-Hawaiian-menu,-economy-class-travel-benefit",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Sakura%20Lounge%20discount,%20Chubu%20Centrair%20Airport,%20Hawaiian%20menu,%20economy%20class%20travel%20benefit/"
+      }
+    },
+    {
+      "id": "plan_f14aaa15",
+      "created_at": "2026-07-31T00:15:43.345382",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "いたばし花火大会・戸田橋花火大会、1日17時から周辺道路で交通規制。区域内住民も要居住者証",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129389.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 중이라면 놓치지 마세요! 8월 1일, 도쿄 북부 지역에서 대규모 불꽃축제가 열립니다."
+      },
+      "content": {
+        "thumbnail_title": "🎆 8/1 도쿄 불꽃축제! 🎆",
+        "cards": [
+          {
+            "title": "불꽃축제 개최",
+            "content": "2024년 8월 1일, 제67회 이타바시 불꽃대회가 개최됩니다. 같은 날 도다바시 불꽃대회도 함께 열려 더욱 풍성한 볼거리를 제공합니다.",
+            "alt_text": "화려한 불꽃이 밤하늘을 수놓는 모습"
+          },
+          {
+            "title": "교통 통제 안내",
+            "content": "불꽃축제 당일인 8월 1일 17시부터 22시까지, 행사장 주변 도로에서 교통 통제가 실시됩니다. 차량 이용 시 우회하거나 대중교통 이용을 권장합니다.",
+            "alt_text": "도로에 설치된 교통 통제 표지판"
+          },
+          {
+            "title": "주민 거주자증 필요",
+            "content": "교통 통제 구역 내 거주자는 반드시 거주자증을 지참해야 합니다. 방문 전에 거주하시는 숙소에 관련 규정을 미리 확인하시는 것이 좋습니다.",
+            "alt_text": "신분증을 보여주는 사람의 손"
+          },
+          {
+            "title": "최적 관람 시간",
+            "content": "교통 통제 시간은 17시부터 22시까지입니다. 불꽃축제는 보통 저녁 7시 이후에 시작되므로, 미리 도착하여 좋은 자리를 잡는 것이 좋습니다.",
+            "alt_text": "해가 지고 있는 도쿄의 풍경"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "인파가 몰릴 수 있으니 소지품 관리에 유의하세요. 또한, 8월 초 도쿄는 매우 더우니 충분한 수분 섭취와 함께 양산, 휴대용 선풍기 등을 준비하는 것이 좋습니다.",
+            "alt_text": "더위를 식히기 위해 부채질하는 사람"
+          }
+        ],
+        "caption": "✨ 8월 1일, 도쿄에서 펼쳐지는 환상적인 불꽃축제! ✨\n이타바시와 도다바시에서 동시에 열리는 대규모 불꽃대회를 놓치지 마세요! 🎆\n저녁 5시부터 교통 통제가 있으니, 미리 계획 세워 편안하게 즐기시길 바랍니다. 🚗➡️🚇\n\n#일본여행 #도쿄여행 #이타바시불꽃축제 #도다바시불꽃축제 #불꽃놀이 #여름축제 #교통정보 #여행꿀팁 #8월여행 #일본축제 #플라잉재팬 #도쿄 #일본 #여행스타그램 #불꽃놀이명소",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#이타바시불꽃축제",
+          "#도다바시불꽃축제",
+          "#불꽃놀이",
+          "#여름축제",
+          "#일본축제",
+          "#8월여행",
+          "#도쿄",
+          "#교통정보",
+          "#여행꿀팁",
+          "#일본",
+          "#여행스타그램",
+          "#불꽃놀이명소"
+        ],
+        "alt_texts": [
+          "화려한 불꽃이 밤하늘을 수놓는 모습",
+          "도로에 설치된 교통 통제 표지판",
+          "신분증을 보여주는 사람의 손",
+          "해가 지고 있는 도쿄의 풍경",
+          "더위를 식히기 위해 부채질하는 사람"
+        ]
+      },
+      "marketer_analysis": "타겟: 8월 초 도쿄 여행 예정인 한국인 여행자 / 최적 게시 시간: 저녁 7시 (여행 계획 세우는 시간) / 기대 반응: 정보 습득, 여행 계획 반영 / 이 콘텐츠의 강점: 시기적절한 불꽃축제 정보와 실질적인 교통 통제 안내",
+      "image": {
+        "keyword": "tokyo fireworks festival traffic control",
+        "unsplash_url": "https://unsplash.com/s/photos/tokyo-fireworks-festival-traffic-control",
+        "pexels_url": "https://www.pexels.com/search/tokyo%20fireworks%20festival%20traffic%20control/"
+      }
+    },
     {
       "id": "plan_e15c6b31",
       "created_at": "2026-07-30T03:17:19.804113",
@@ -923,160 +1077,6 @@
         "keyword": "Edogawa River fireworks festival road closure",
         "unsplash_url": "https://unsplash.com/s/photos/Edogawa-River-fireworks-festival-road-closure",
         "pexels_url": "https://www.pexels.com/search/Edogawa%20River%20fireworks%20festival%20road%20closure/"
-      }
-    },
-    {
-      "id": "plan_babe667b",
-      "created_at": "2026-07-27T03:55:57.384325",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "世界初のポケモン空港が石川・能登に誕生！　館内の見どころを撮り下ろしで紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2127952.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "세계 최초 포켓몬 공항 탄생! ✈️ 이시카와 여행 필수 코스!"
-      },
-      "content": {
-        "thumbnail_title": "포켓몬 공항 탄생! ✈️",
-        "cards": [
-          {
-            "title": "세계 최초!",
-            "content": "일본 이시카와현 노토 공항이 '노토 사토야마 포켓몬 위드 유 공항'으로 재탄생했어요! 7월 7일 리뉴얼 오픈했답니다.",
-            "alt_text": "세계 최초 포켓몬 공항 간판 이미지"
-          },
-          {
-            "title": "포켓몬 테마",
-            "content": "포켓몬 위드 유 재단과의 협력으로 탄생한 이 특별한 공항은 포켓몬 테마로 꾸며져 있답니다. 공항 곳곳에서 포켓몬을 만날 수 있어요!",
-            "alt_text": "공항 내 포켓몬 조형물 이미지"
-          },
-          {
-            "title": "기간 한정",
-            "content": "이 특별한 포켓몬 공항은 2029년 9월 30일까지 약 3년 동안 운영될 예정이에요. 놓치지 마세요!",
-            "alt_text": "기간 안내 표지판 이미지"
-          },
-          {
-            "title": "이시카와 여행",
-            "content": "이시카와현 방문 예정이라면, 세계 유일의 포켓몬 공항 방문을 꼭 여행 일정에 추가해보세요! 특별한 추억을 만들 수 있을 거예요.",
-            "alt_text": "이시카와현 지도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "공항 내 포켓몬 관련 이벤트나 기념품 판매 정보는 추후 공항 공식 채널을 통해 확인하는 것이 좋습니다. 방문 전 미리 확인해보세요!",
-            "alt_text": "포켓몬 굿즈 이미지"
-          }
-        ],
-        "caption": "🇯🇵 세계 최초! 일본 이시카와현 노토 공항이 '포켓몬 공항'으로 변신했어요! ✈️\n7월 7일 리뉴얼 오픈한 이곳은 2029년 9월 30일까지 운영된답니다.\n포켓몬 팬이라면 이시카와 여행 시 필수 코스! 🤩\n특별한 추억을 만들고 싶다면 지금 바로 계획해보세요! ✨\n\n#일본여행 #이시카와여행 #포켓몬 #포켓몬공항 #노토공항 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이시카와",
-          "#노토",
-          "#포켓몬",
-          "#포켓몬위드유",
-          "#세계최초",
-          "#테마공항",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#여행스타그램",
-          "#일본가볼만한곳",
-          "#이벤트",
-          "#한정",
-          "#여행계획"
-        ],
-        "alt_texts": [
-          "세계 최초 포켓몬 공항 간판 이미지",
-          "공항 내 포켓몬 조형물 이미지",
-          "기간 안내 표지판 이미지",
-          "이시카와현 지도 이미지",
-          "포켓몬 굿즈 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 포켓몬 팬, 이시카와현 방문 예정 한국인 여행자 / 최적 게시 시간: 월요일 오후 1시 / 기대 반응: 높은 관심과 공유, 이시카와 여행 문의 증가 / 이 콘텐츠의 강점: '세계 최초', '포켓몬'이라는 강력한 키워드를 활용하여 즉각적인 흥미 유발",
-      "image": {
-        "keyword": "Pokemon airport Japan Ishikawa",
-        "unsplash_url": "https://unsplash.com/s/photos/Pokemon-airport-Japan-Ishikawa",
-        "pexels_url": "https://www.pexels.com/search/Pokemon%20airport%20Japan%20Ishikawa/"
-      }
-    },
-    {
-      "id": "plan_7f2aa8d7",
-      "created_at": "2026-07-27T03:55:51.506830",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、国内航空券タイムセール実施中。羽田～新千歳が1万450円から、事前座席指定は不可",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128063.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 최대 1만 450엔 특가! 일본 국내선 항공권 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "ANA 일본 국내선 ✈️ 1만엔대!",
-        "cards": [
-          {
-            "title": "타임 세일 기간",
-            "content": "ANA 일본 국내선 항공권 타임 세일이 7월 24일부터 30일까지 진행됩니다. 서둘러 특가 항공권을 잡으세요!",
-            "alt_text": "ANA 항공권 타임 세일 기간 안내"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "이번 특가 항공권은 2023년 8월 17일부터 2027년 1월 31일까지 탑승 가능한 항공권에 적용됩니다. 장기 여행 계획도 OK!",
-            "alt_text": "ANA 특가 항공권 탑승 가능 기간 안내"
-          },
-          {
-            "title": "최저가 노선",
-            "content": "가장 저렴한 노선은 하네다(도쿄) 출발 신치토세(삿포로)행 항공권으로, 10,450엔부터 시작합니다.",
-            "alt_text": "ANA 특가 항공권 최저가 노선 (하네다-신치토세) 정보"
-          },
-          {
-            "title": "주의사항",
-            "content": "이번 타임 세일 항공권은 사전 좌석 지정이 불가합니다. 발권 후 좌석 지정은 불가하니 이 점 꼭 유의해주세요.",
-            "alt_text": "ANA 특가 항공권 사전 좌석 지정 불가 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 시기를 잘 맞춰 예약하면 저렴한 가격으로 일본 국내 여러 도시를 여행할 수 있어요! 홋카이도, 오사카, 후쿠오카 등 다양한 곳을 계획해보세요.",
-            "alt_text": "ANA 특가 항공권 활용 꿀팁"
-          }
-        ],
-        "caption": "✈️ ANA 일본 국내선 특가 찬스! ✈️\n\n지금 ANA에서 일본 국내선 항공권 타임 세일을 진행 중이에요!\n\n✅ 기간: 7월 24일 ~ 7월 30일\n✅ 탑승: 2023년 8월 17일 ~ 2027년 1월 31일\n✅ 최저가: 하네다 ↔️ 신치토세 10,450엔부터!\n\n⚠️ 사전 좌석 지정 불가!\n\n저렴한 가격으로 일본 국내 여행을 즐길 수 있는 절호의 기회, 놓치지 마세요! 😉\n\n#일본항공권 #ANA특가 #일본국내선",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#일본항공권",
-          "#일본국내선",
-          "#ANA항공권",
-          "#일본여행정보",
-          "#여행특가",
-          "#일본가자",
-          "#항공권할인",
-          "#일본어디까지가봤니",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#ANA타임세일",
-          "#일본여행추천"
-        ],
-        "alt_texts": [
-          "ANA 항공권 타임 세일 기간 안내",
-          "ANA 특가 항공권 탑승 가능 기간 안내",
-          "ANA 특가 항공권 최저가 노선 (하네다-신치토세) 정보",
-          "ANA 특가 항공권 사전 좌석 지정 불가 안내",
-          "ANA 특가 항공권 활용 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 / 최적 게시 시간: 저녁 6시~9시 / 기대 반응: 높은 참여율 (정보 공유, 질문) / 이 콘텐츠의 강점: 구체적인 가격, 기간, 노선 정보 제공으로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "ANA airplane, Japanese airport, discount ticket, travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Japanese-airport,-discount-ticket,-travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Japanese%20airport,%20discount%20ticket,%20travel%20Japan/"
       }
     }
   ]
