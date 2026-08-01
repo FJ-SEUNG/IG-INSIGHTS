@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-01T00:11:06.944559",
+  "last_updated": "2026-08-01T03:43:31.747251",
   "plans": [
+    {
+      "id": "plan_297c6d70",
+      "created_at": "2026-08-01T03:43:29.747072",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "九州の鉄道15社局に乗り放題「旅名人の九州満喫きっぷ」デジタル版。1日×3回セットで1万3000円",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129770.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "규슈 지역 3일 무제한 교통패스로 알뜰하게 여행하세요!"
+      },
+      "content": {
+        "thumbnail_title": "九州 3일권 💥1만3천엔!",
+        "cards": [
+          {
+            "title": "디지털 패스 출시",
+            "content": "JR 규슈 포함 15개 교통사 3일 무제한 탑승 가능한 '여행 명인의 규슈 만끽 티켓' 디지털 버전이 9월 1일부터 출시됩니다.",
+            "alt_text": "디지털 티켓 이미지"
+          },
+          {
+            "title": "3회권 구성",
+            "content": "1일권 3회 세트로 구성되어 있으며, 총 1만 3천 엔으로 규슈 지역을 자유롭게 여행할 수 있습니다.",
+            "alt_text": "3일권 묶음 이미지"
+          },
+          {
+            "title": "어디든 OK",
+            "content": "JR 규슈뿐만 아니라 규슈 전역의 다양한 교통 수단을 이용할 수 있어 편리합니다.",
+            "alt_text": "규슈 지도와 다양한 교통수단 아이콘"
+          },
+          {
+            "title": "앱으로 구매",
+            "content": "출퇴근 앱 'my route'에서 구매 가능하며, 스마트폰으로 간편하게 이용할 수 있습니다.",
+            "alt_text": "스마트폰 앱 화면 이미지"
+          },
+          {
+            "title": "알뜰 꿀팁",
+            "content": "규슈 지역을 여러 도시 여행할 계획이라면 이 패스가 정답! 렌터카 대신 대중교통으로 알뜰하게 즐겨보세요.",
+            "alt_text": "여행 가방과 돈다발 이미지"
+          }
+        ],
+        "caption": "✈️ 규슈 여행 필수템 등장! ✈️\n\nJR 규슈 포함 15개 교통사를 3일간 무제한으로 이용할 수 있는 '여행 명인의 규슈 만끽 티켓' 디지털 버전이 9월 1일부터 출시됩니다!\n\n1일권 3회 세트, 단돈 1만 3천 엔으로 규슈 전역을 자유롭게 누빌 수 있어요.\n\n'my route' 앱에서 간편하게 구매하고, 스마트폰으로 바로 사용하세요! 📲\n\n#규슈여행 #일본교통패스 #여행명인의규슈만끽티켓 #myroute #규슈자유여행 #일본알뜰여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#일본교통",
+          "#규슈",
+          "#여행정보",
+          "#일본교통패스",
+          "#여행명인의규슈만끽티켓",
+          "#myroute",
+          "#규슈자유여행",
+          "#일본알뜰여행",
+          "#해외여행",
+          "#여행꿀팁",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "디지털 티켓 이미지",
+          "3일권 묶음 이미지",
+          "규슈 지도와 다양한 교통수단 아이콘",
+          "스마트폰 앱 화면 이미지",
+          "여행 가방과 돈다발 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 규슈 지역을 여행하는 한국인 여행자 / 최적 게시 시간: 오후 8시~10시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 가격과 사용 방법 제시로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Kyushu train pass digital app",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-train-pass-digital-app",
+        "pexels_url": "https://www.pexels.com/search/Kyushu%20train%20pass%20digital%20app/"
+      }
+    },
+    {
+      "id": "plan_6126f770",
+      "created_at": "2026-08-01T03:43:24.563891",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "九州新幹線の熊本〜新水俣間、8月中の再開困難に。JR九州が被害状況と今後の見通し発表",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129774.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "큐슈 지역 신칸센 운행 중단으로 8월 일본 여행 계획에 차질이 생길 수 있어요!"
+      },
+      "content": {
+        "thumbnail_title": "⚡️큐슈 신칸센 8월 운행 재개 어렵다!⚡️",
+        "cards": [
+          {
+            "title": "운행 중단 구간",
+            "content": "JR 큐슈에 따르면, 7월 31일 발표 기준으로 큐슈 신칸센의 구마모토~신미나마타 구간은 8월 중 재개하기 어렵습니다. 💥",
+            "alt_text": "큐슈 신칸센 노선도에서 운행 중단 구간 표시"
+          },
+          {
+            "title": "지진 피해로 인한 중단",
+            "content": "이 구간은 '레이와 8년 구마모토 지진'의 영향으로 운행이 중단된 상태입니다. 💔 정확한 피해 상황을 파악하고 복구 계획을 세우는 중입니다.",
+            "alt_text": "지진 피해로 인해 파손된 철로 모습"
+          },
+          {
+            "title": "향후 전망 불투명",
+            "content": "JR 큐슈는 현재 피해 상황을 조사하고 있으며, 구체적인 운행 재개 시점은 아직 발표되지 않았습니다. 🗓️",
+            "alt_text": "공사 중인 철로와 복구 작업을 하는 인부들"
+          },
+          {
+            "title": "여행 계획 시 유의",
+            "content": "큐슈 지역, 특히 구마모토와 가고시마 방면으로 신칸센 이동 계획이 있다면 반드시 JR 큐슈 공식 발표를 확인하고 대체 교통편을 미리 알아보세요. ✈️",
+            "alt_text": "신칸센 티켓과 여행 계획표"
+          },
+          {
+            "title": "대체 교통편 팁",
+            "content": "항공편이나 버스 등 다른 교통수단을 고려해야 할 수 있습니다. 🚌 일본 내 다른 지역 이동 시에도 교통 정보를 수시로 확인하는 것이 중요합니다.",
+            "alt_text": "버스, 비행기, 기차 등 다양한 교통수단 이미지"
+          }
+        ],
+        "caption": "🇯🇵 8월 큐슈 신칸센 여행 계획 중이라면 꼭 확인하세요! 🇯🇵\n\n'레이와 8년 구마모토 지진'의 영향으로 큐슈 신칸센 구마모토~신미나마타 구간의 8월 중 운행 재개가 어려울 것으로 보입니다. 😭 JR 큐슈는 피해 상황을 조사 중이며, 복구 시점은 미정입니다.\n\n큐슈 지역 여행 시 신칸센 이용 계획이 있다면, 반드시 JR 큐슈 공식 발표를 확인하시고 대체 교통편을 미리 알아보시는 것을 추천드려요! ✈️🚌\n\n#일본여행 #큐슈여행 #신칸센 #교통정보 #여행필수템 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#큐슈여행",
+          "#신칸센",
+          "#교통정보",
+          "#일본교통",
+          "#여행정보",
+          "#일본소식",
+          "#여행필수",
+          "#8월여행",
+          "#JR큐슈",
+          "#구마모토",
+          "#여행꿀팁",
+          "#안전여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "큐슈 신칸센 노선도에서 운행 중단 구간 표시",
+          "지진 피해로 인해 파손된 철로 모습",
+          "공사 중인 철로와 복구 작업을 하는 인부들",
+          "신칸센 티켓과 여행 계획표",
+          "버스, 비행기, 기차 등 다양한 교통수단 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 8월 큐슈 지역 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 확인 및 공유, 여행 계획 수정 문의 / 이 콘텐츠의 강점: 시기적으로 중요한 실시간 교통 정보 제공",
+      "image": {
+        "keyword": "Kyushu Shinkansen, train, damage, repair, travel disruption, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-Shinkansen,-train,-damage,-repair,-travel-disruption,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Kyushu%20Shinkansen,%20train,%20damage,%20repair,%20travel%20disruption,%20Japan/"
+      }
+    },
     {
       "id": "plan_b2704065",
       "created_at": "2026-08-01T00:11:04.944368",
@@ -923,160 +1077,6 @@
         "keyword": "Monster Hunter folding chair FamilyMart Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Monster-Hunter-folding-chair-FamilyMart-Japan",
         "pexels_url": "https://www.pexels.com/search/Monster%20Hunter%20folding%20chair%20FamilyMart%20Japan/"
-      }
-    },
-    {
-      "id": "plan_c4506e74",
-      "created_at": "2026-07-29T00:09:00.827248",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語 箕面観光ホテルが「Premium」にリニューアル。併設温泉スパには万博の「ミライ人間洗濯機」導入",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128694.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 근교 온천 숙소, 특별한 경험을 더한 리뉴얼 소식!"
-      },
-      "content": {
-        "thumbnail_title": "♨️오사카 箕面 료칸 리뉴얼!✨",
-        "cards": [
-          {
-            "title": "箕面 료칸 리뉴얼",
-            "content": "오사카 箕面(미노)에 위치한 '대에도 온천 이야기 箕面 관광 호텔'이 '대에도 온천 이야기 Premium 箕面 관광 호텔'로 업그레이드 리뉴얼됩니다. 2024년 10월 1일에 오픈 예정입니다.",
-            "alt_text": "箕面 관광 호텔의 고급스러운 외관 이미지"
-          },
-          {
-            "title": "새로운 스파 시설",
-            "content": "함께 리뉴얼되는 '대에도 온천 이야기 箕面 온천 스파 가든'에는 2025 오사카 만국박람회 출품작인 '미라이 인간 세탁기'가 도입됩니다. 특별한 온천 경험을 기대해보세요.",
-            "alt_text": "미라이 인간 세탁기 이미지"
-          },
-          {
-            "title": "온천 & 숙박",
-            "content": "온천과 숙박을 동시에 즐길 수 있는 프리미엄 료칸으로 재탄생합니다. 오사카 시내에서 약 30분 거리에 있어 당일치기 또는 1박 2일 여행으로 방문하기 좋습니다.",
-            "alt_text": "료칸 객실 내부 이미지"
-          },
-          {
-            "title": "교통 안내",
-            "content": "간사이 국제공항에서 난카이 라피트 특급열차 탑승 후 덴노지에서 오사카 메트로 미도스지선으로 환승, 난바에서 한큐 타카라즈카선으로 환승하여 箕面역 하차 후 도보 이동 또는 버스 이용.",
-            "alt_text": "일본 철도 노선도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "리뉴얼 오픈 초기에는 많은 방문객이 몰릴 수 있으니, 사전 예약은 필수! 특히 '미라이 인간 세탁기' 이용 시간을 미리 확인하고 방문 계획을 세우는 것이 좋습니다.",
-            "alt_text": "온천에서 휴식하는 사람들의 이미지"
-          }
-        ],
-        "caption": "♨️ 오사카 근교 箕面(미노)의 '대에도 온천 이야기 箕面 관광 호텔'이 'Premium' 등급으로 2024년 10월 1일 새롭게 오픈합니다! ✨\n\n✨ 특별한 '미라이 인간 세탁기' 도입!\n✨ 쾌적하고 고급스러운 온천 스파 경험!\n✨ 오사카 시내에서 약 30분 거리!\n\n오사카 여행 시 힐링과 특별한 추억을 더하고 싶다면 주목하세요! 💖\n\n#일본온천 #오사카여행 #箕面 #료칸추천 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#箕面",
-          "#미노온천",
-          "#일본료칸",
-          "#온천여행",
-          "#일본숙소",
-          "#해외여행",
-          "#여행정보",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#간사이여행",
-          "#가을여행",
-          "#일본호텔"
-        ],
-        "alt_texts": [
-          "箕面 관광 호텔의 고급스러운 외관 이미지",
-          "미라이 인간 세탁기 이미지",
-          "료칸 객실 내부 이미지",
-          "일본 철도 노선도 이미지",
-          "온천에서 휴식하는 사람들의 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 근교에서 특별한 온천 경험을 원하는 한국인 여행객 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 정보 공유 및 저장, 문의 증가 / 이 콘텐츠의 강점: 구체적인 오픈일, 시설 정보, 교통 정보까지 포함하여 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Minoo Onsen Hotel, Premium Onsen Spa, Future Human Washing Machine, Osaka Travel, Ryokan Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Minoo-Onsen-Hotel,-Premium-Onsen-Spa,-Future-Human-Washing-Machine,-Osaka-Travel,-Ryokan-Japan",
-        "pexels_url": "https://www.pexels.com/search/Minoo%20Onsen%20Hotel,%20Premium%20Onsen%20Spa,%20Future%20Human%20Washing%20Machine,%20Osaka%20Travel,%20Ryokan%20Japan/"
-      }
-    },
-    {
-      "id": "plan_8bf3c469",
-      "created_at": "2026-07-29T00:08:53.599418",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "キャノピーbyヒルトン大阪梅田、「なにわ淀川花火大会」鑑賞プラン。ボトルシャンパンと朝食付き、早期予約で10％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128702.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 최대 불꽃축제, 호텔 객실에서 편안하게 즐기세요! 🎇"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 호텔 뷰 꿀팁!",
-        "cards": [
-          {
-            "title": "불꽃축제",
-            "content": "10월 17일 개최되는 '제38회 나니와 요도가와 불꽃대회'를 객실에서 감상할 수 있는 특별 숙박 플랜이 출시되었습니다.",
-            "alt_text": "오사카 요도가와 강변에서 펼쳐지는 불꽃축제 모습"
-          },
-          {
-            "title": "숙소",
-            "content": "캐노피 바이 힐튼 오사카 우메다에서 제공하는 플랜으로, 객실에서 편안하게 불꽃놀이를 즐기실 수 있습니다.",
-            "alt_text": "캐노피 바이 힐튼 오사카 우메다 호텔 외관"
-          },
-          {
-            "title": "포함 내역",
-            "content": "플랜에는 보틀 샴페인과 조식이 포함되어 있어 더욱 특별한 시간을 보낼 수 있습니다.",
-            "alt_text": "샴페인 병과 잔, 그리고 맛있는 조식 이미지"
-          },
-          {
-            "title": "조기 예약 할인",
-            "content": "지금 바로 예약하면 10% 할인 혜택을 받을 수 있으니 서두르세요!",
-            "alt_text": "할인 표시 아이콘과 함께 '10% OFF' 문구"
-          },
-          {
-            "title": "예약 방법",
-            "content": "7월 28일부터 호텔 공식 홈페이지 또는 전화로 예약 가능하며, 서둘러 예약하시는 것을 추천합니다.",
-            "alt_text": "예약 버튼 아이콘과 함께 '지금 예약하세요!' 문구"
-          }
-        ],
-        "caption": "일본 여행 중 오사카에 계신다면 놓칠 수 없는 기회! 🎆\n10월 17일 열리는 '나니와 요도가와 불꽃대회'를 캐노피 바이 힐튼 오사카 우메다 호텔 객실에서 편안하게 감상하세요.\n보틀 샴페인과 조식 포함, 조기 예약 시 10% 할인까지! 🥂✨\n지금 바로 예약하고 잊지 못할 추억을 만드세요!\n\n#오사카불꽃축제 #일본숙소 #힐튼호텔 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#일본숙소",
-          "#호텔추천",
-          "#불꽃축제",
-          "#나니와요도가와불꽃대회",
-          "#오사카",
-          "#여행정보",
-          "#일본축제",
-          "#힐튼오사카",
-          "#특별한경험",
-          "#일본가족여행",
-          "#일본커플여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "오사카 요도가와 강변에서 펼쳐지는 불꽃축제 모습",
-          "캐노피 바이 힐튼 오사카 우메다 호텔 외관",
-          "샴페인 병과 잔, 그리고 맛있는 조식 이미지",
-          "할인 표시 아이콘과 함께 '10% OFF' 문구",
-          "예약 버튼 아이콘과 함께 '지금 예약하세요!' 문구"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 관광객 / 최적 게시 시간: 오후 7시~9시 (여행 계획 시간) / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 편의성 강조, 할인 혜택 제공",
-      "image": {
-        "keyword": "Osaka Yodogawa Fireworks Festival hotel view",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodogawa-Fireworks-Festival-hotel-view",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Yodogawa%20Fireworks%20Festival%20hotel%20view/"
       }
     }
   ]
