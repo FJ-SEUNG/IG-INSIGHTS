@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-31T03:44:20.309796",
+  "last_updated": "2026-08-01T00:11:06.944559",
   "plans": [
+    {
+      "id": "plan_b2704065",
+      "created_at": "2026-08-01T00:11:04.944368",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「第38回 なにわ淀川花火大会」公式チケットが本日発売。大人5000円～、10月17日開催",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129776.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카에서 열리는 시원한 여름밤의 낭만, 요도강 불꽃축제 티켓 오픈!"
+      },
+      "content": {
+        "thumbnail_title": "🎆오사카 요도강 불꽃축제 티켓 오픈!🎆",
+        "cards": [
+          {
+            "title": "티켓 오픈!",
+            "content": "제38회 나니와 요도강 불꽃축제 공식 티켓이 8월 1일 오전 10시부터 판매 시작됩니다.",
+            "alt_text": "불꽃축제 포스터 이미지"
+          },
+          {
+            "title": "개최일",
+            "content": "올해 불꽃축제는 10월 17일에 개최될 예정입니다.",
+            "alt_text": "날짜 정보가 강조된 이미지"
+          },
+          {
+            "title": "티켓 가격",
+            "content": "성인 티켓은 5,000엔부터 시작하며, 다양한 좌석 옵션이 준비되어 있습니다.",
+            "alt_text": "가격 정보가 포함된 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "매년 수많은 인파가 몰리는 인기 축제이니, 미리 티켓을 구매하시는 것을 추천합니다.",
+            "alt_text": "사람들이 불꽃을 바라보는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "현장 구매는 어려울 수 있으니, 공식 판매처를 통해 미리 예약하세요. 10월의 오사카는 선선하여 여행하기 좋습니다.",
+            "alt_text": "여행 팁을 나타내는 아이콘"
+          }
+        ],
+        "caption": "✨오사카 여행 계획 중이신가요? ✨\n10월 17일, 시원한 가을밤을 화려하게 수놓을 제38회 나니와 요도강 불꽃축제가 열립니다! 🎆\n오늘(8월 1일) 오전 10시부터 공식 티켓 판매가 시작되었으니, 관심 있으신 분들은 서둘러 예매하세요!\n성인 티켓은 5,000엔부터 시작됩니다.\n\n#오사카여행 #일본축제 #요도강불꽃축제 #불꽃놀이 #일본여행정보 #여행스타그램 #플라잉재팬 #일본가볼만한곳 #여행팁 #오사카 #가을여행 #티켓오픈 #일본이벤트 #여행준비 #일본정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#일본축제",
+          "#요도강불꽃축제",
+          "#불꽃놀이",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본가볼만한곳",
+          "#여행팁",
+          "#오사카",
+          "#가을여행",
+          "#티켓오픈",
+          "#일본이벤트",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "불꽃축제 포스터 이미지",
+          "날짜 정보가 강조된 이미지",
+          "가격 정보가 포함된 이미지",
+          "사람들이 불꽃을 바라보는 모습",
+          "여행 팁을 나타내는 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 10월 오사카 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6시 - 8시 / 기대 반응: 티켓 구매 문의, 여행 계획 관련 질문 / 이 콘텐츠의 강점: 시기적절한 불꽃축제 티켓 오픈 정보 제공, 구체적인 날짜와 가격 명시",
+      "image": {
+        "keyword": "Osaka Yodo River Fireworks Festival ticket opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodo-River-Fireworks-Festival-ticket-opening",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20Yodo%20River%20Fireworks%20Festival%20ticket%20opening/"
+      }
+    },
+    {
+      "id": "plan_0f7c9da1",
+      "created_at": "2026-08-01T00:10:58.502652",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "富士急ハイランド「リラックマ」アトラクション乗車レポート。想像以上のスリルにご注意",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129808.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후지큐 하이랜드의 신규 리락쿠마 어트랙션, 스릴 만점 경험을 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "후지큐 리락쿠마 어트랙션 오픈!🎢",
+        "cards": [
+          {
+            "title": "신규 오픈!",
+            "content": "후지큐 하이랜드에 8월 1일, '산엑스 파라다이스' 상설 구역이 오픈합니다. 이곳에서 귀여운 리락쿠마의 세계관을 만끽할 수 있어요.",
+            "alt_text": "후지큐 하이랜드에 새로 오픈하는 산엑스 파라다이스 구역 입구"
+          },
+          {
+            "title": "리락쿠마 어트랙션",
+            "content": "새롭게 선보이는 리락쿠마 어트랙션은 단순한 귀여움을 넘어 예상치 못한 스릴을 선사합니다. 짜릿한 경험을 준비하세요!",
+            "alt_text": "리락쿠마 테마의 놀이기구 탑승 모습"
+          },
+          {
+            "title": "위치 정보",
+            "content": "후지큐 하이랜드는 야마나시현 후지요시다시에 위치하고 있습니다. (주소: 신니시하라 5-6-1)",
+            "alt_text": "후지큐 하이랜드 지도 상 위치 표시"
+          },
+          {
+            "title": "8월 1일 개장",
+            "content": "새로운 산엑스 파라다이스 구역은 2024년 8월 1일부터 운영을 시작합니다. 방문 계획 시 참고하세요.",
+            "alt_text": "8월 1일 개장 안내 플래카드"
+          },
+          {
+            "title": "방문 꿀팁!",
+            "content": "스릴을 즐기신다면 꼭 탑승해보세요! 하지만 예상보다 높은 스릴에 놀랄 수 있으니, 심장이 약하신 분들은 주의가 필요합니다. 공식 홈페이지에서 운영 시간 및 티켓 정보를 미리 확인하세요.",
+            "alt_text": "후지큐 하이랜드 어트랙션 앞에서 즐거워하는 방문객들"
+          }
+        ],
+        "caption": "후지큐 하이랜드에서 리락쿠마와 함께 짜릿한 스릴을 경험할 시간! 🤩 8월 1일 오픈하는 '산엑스 파라다이스'에서 귀여움과 스릴을 동시에 즐겨보세요. 🎢 후지요시다시에서 펼쳐지는 특별한 추억, 놓치지 마세요! ✨\n\n#후지큐하이랜드 #리락쿠마 #산엑스파라다이스 #일본테마파크 #일본여행 #플라잉재팬 #일본놀이기구 #야마나시여행 #일본어트랙션 #신상오픈 #여름휴가 #일본가볼만한곳 #테마파크 #일본관광 #후지산",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후지큐하이랜드",
+          "#리락쿠마",
+          "#산엑스파라다이스",
+          "#일본테마파크",
+          "#일본놀이기구",
+          "#야마나시여행",
+          "#일본어트랙션",
+          "#신상오픈",
+          "#여름휴가",
+          "#일본가볼만한곳",
+          "#테마파크",
+          "#일본관광",
+          "#후지산"
+        ],
+        "alt_texts": [
+          "후지큐 하이랜드에 새로 오픈하는 산엑스 파라다이스 구역 입구",
+          "리락쿠마 테마의 놀이기구 탑승 모습",
+          "후지큐 하이랜드 지도 상 위치 표시",
+          "8월 1일 개장 안내 플래카드",
+          "후지큐 하이랜드 어트랙션 앞에서 즐거워하는 방문객들"
+        ]
+      },
+      "marketer_analysis": "타겟: 스릴과 귀여움을 동시에 즐기고 싶은 20-30대 한국인 여행객 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 계획 세우는 시간) / 기대 반응: 높은 관심과 기대감, 실제 방문 후기 공유 유도 / 이 콘텐츠의 강점: 후지큐 하이랜드의 신규 어트랙션 정보로 최신 트렌드 반영, 실질적인 방문 정보 제공",
+      "image": {
+        "keyword": "Fuji-Q Highland, Rilakkuma attraction, San-X Paradise, amusement park, Yamanashi, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Fuji-Q-Highland,-Rilakkuma-attraction,-San-X-Paradise,-amusement-park,-Yamanashi,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Fuji-Q%20Highland,%20Rilakkuma%20attraction,%20San-X%20Paradise,%20amusement%20park,%20Yamanashi,%20Japan/"
+      }
+    },
     {
       "id": "plan_631816c2",
       "created_at": "2026-07-31T03:44:18.309599",
@@ -923,160 +1077,6 @@
         "keyword": "Osaka Yodogawa Fireworks Festival hotel view",
         "unsplash_url": "https://unsplash.com/s/photos/Osaka-Yodogawa-Fireworks-Festival-hotel-view",
         "pexels_url": "https://www.pexels.com/search/Osaka%20Yodogawa%20Fireworks%20Festival%20hotel%20view/"
-      }
-    },
-    {
-      "id": "plan_d567b978",
-      "created_at": "2026-07-28T03:27:41.418734",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「のと里山ポケモン・ウィズ・ユー空港」で買える限定グッズ、全15種を見てきた！　能登の名産品もポケモン仕様に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128179.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "포켓몬 팬이라면 놓칠 수 없는 일본 공항 한정판 굿즈!"
-      },
-      "content": {
-        "thumbnail_title": "⚡️포켓몬 굿즈 한정판⚡️",
-        "cards": [
-          {
-            "title": "오리지널 굿즈",
-            "content": "일본 이시카와현 와지마시 '노토사토야마 포켓몬 위드 유 공항'에서 리뉴얼 기념 오리지널 굿즈 15종을 7월 7일부터 판매 중입니다.",
-            "alt_text": "포켓몬 굿즈가 진열된 매장 모습"
-          },
-          {
-            "title": "판매 장소",
-            "content": "해당 굿즈는 공항 건물 2층에 위치한 매장 '세렌디피티'에서만 구매 가능합니다.",
-            "alt_text": "세렌디피티 매장 입구"
-          },
-          {
-            "title": "특별한 기념품",
-            "content": "노토 지역의 특산품들도 포켓몬 디자인으로 재탄생하여 특별한 기념품으로 소장하기 좋습니다.",
-            "alt_text": "포켓몬 디자인의 노토 특산품"
-          },
-          {
-            "title": "방문 시기",
-            "content": "7월 7일부터 판매 시작되었으니, 방문 계획이 있다면 놓치지 마세요!",
-            "alt_text": "영업 시간 안내 표지판"
-          },
-          {
-            "title": "포켓몬 팬 주목!",
-            "content": "포켓몬스터 팬이라면 일본 여행 중 특별한 추억을 만들 수 있는 기회입니다. 공항 방문 시 꼭 들러보세요!",
-            "alt_text": "다양한 포켓몬 굿즈를 들고 있는 사람"
-          }
-        ],
-        "caption": "⚡️일본 여행 필수 코스! 포켓몬 굿즈 한정판 득템 찬스!⚡️\n\n일본 이시카와현 와지마시에 위치한 '노토사토야마 포켓몬 위드 유 공항'에서 리뉴얼 기념 오리지널 굿즈 15종을 7월 7일부터 한정 판매 시작했어요! 💖\n\n노토 지역 특산품까지 포켓몬 디자인으로 만나볼 수 있다는 사실!\n\n🌟 구매는 오직 공항 2층 '세렌디피티' 매장에서만 가능하니, 방문 계획 있으신 분들은 꼭 참고하세요! ✈️\n\n#일본여행 #포켓몬굿즈 #한정판 #노토사토야마공항 #일본쇼핑 #플라잉재팬 #여행정보 #여행팁 #일본추천 #인스타여행 #여행스타그램 #포켓몬스터 #세렌디피티",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#포켓몬굿즈",
-          "#한정판",
-          "#노토사토야마공항",
-          "#일본쇼핑",
-          "#여행정보",
-          "#여행팁",
-          "#일본추천",
-          "#인스타여행",
-          "#여행스타그램",
-          "#포켓몬스터",
-          "#세렌디피티",
-          "#이시카와현",
-          "#와지마시"
-        ],
-        "alt_texts": [
-          "포켓몬 굿즈가 진열된 매장 모습",
-          "세렌디피티 매장 입구",
-          "포켓몬 디자인의 노토 특산품",
-          "영업 시간 안내 표지판",
-          "다양한 포켓몬 굿즈를 들고 있는 사람"
-        ]
-      },
-      "marketer_analysis": "타겟: 포켓몬스터 팬, 일본 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 관심 및 공유, 방문 계획 시 일정 추가 / 이 콘텐츠의 강점: 희소성 있는 한정판 굿즈 정보, 구체적인 판매처 및 출시일 명시",
-      "image": {
-        "keyword": "Pokemon limited edition goods, Notosatoyama Airport, Serendipity shop, Japan travel souvenirs",
-        "unsplash_url": "https://unsplash.com/s/photos/Pokemon-limited-edition-goods,-Notosatoyama-Airport,-Serendipity-shop,-Japan-travel-souvenirs",
-        "pexels_url": "https://www.pexels.com/search/Pokemon%20limited%20edition%20goods,%20Notosatoyama%20Airport,%20Serendipity%20shop,%20Japan%20travel%20souvenirs/"
-      }
-    },
-    {
-      "id": "plan_993e5efd",
-      "created_at": "2026-07-28T03:27:34.507876",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "松戸花火大会、8月1日17時から松戸側、18時から三郷側で通行止め。上葛飾橋も通行不可に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128249.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여름밤의 낭만, 마츠도 불꽃축제 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆마츠도 불꽃축제 8/1 교통 통제!",
-        "cards": [
-          {
-            "title": "마츠도 불꽃축제",
-            "content": "2026년 8월 1일, 마츠도 불꽃축제가 개최됩니다! 마츠도 시민과 방문객 모두에게 즐거운 추억을 선사할 예정입니다.",
-            "alt_text": "마츠도 불꽃축제 포스터 이미지"
-          },
-          {
-            "title": "교통 통제 안내",
-            "content": "불꽃축제 당일, 원활한 행사 진행과 안전을 위해 주변 도로가 통제됩니다. 마츠도 측은 17시부터, 미사토 측은 18시부터 차량 통행이 제한됩니다.",
-            "alt_text": "교통 통제 표지판 이미지"
-          },
-          {
-            "title": "상葛飾橋 통행 불가",
-            "content": "특히 상葛飾橋는 행사 시간 동안 차량 통행이 완전히 금지되니, 해당 구간 이용 계획이 있으신 분들은 미리 경로를 변경하셔야 합니다.",
-            "alt_text": "다리 위 교통 통제 이미지"
-          },
-          {
-            "title": "대중교통 이용 추천",
-            "content": "행사장 주변은 교통 통제로 인해 혼잡이 예상되므로, 대중교통 이용을 적극 권장합니다. 축제 후 귀가 시에도 대중교통을 이용하시면 편리합니다.",
-            "alt_text": "열차 또는 버스 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "불꽃축제 명당을 미리 알아보고 일찍 도착하는 것을 추천합니다. 또한, 행사 당일 교통 통제 정보를 다시 한번 확인하여 여유로운 일정 계획하세요!",
-            "alt_text": "불꽃축제 관람석 이미지"
-          }
-        ],
-        "caption": "🎆2026년 8월 1일, 마츠도 불꽃축제 개최! 🎆\n\n✨마츠도 측: 17시부터, 미사토 측: 18시부터 주변 도로 통제 예정\n✨상葛飾橋: 행사 시간 동안 차량 통행 불가\n\n일본 여름밤의 낭만을 만끽할 기회! 💖\n교통 통제 정보를 미리 확인하시고, 대중교통 이용을 추천합니다.\n\n#마츠도불꽃축제 #일본여행 #도쿄근교 #여름축제 #교통정보 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#마츠도불꽃축제",
-          "#마츠도",
-          "#일본축제",
-          "#여름밤",
-          "#불꽃놀이",
-          "#교통통제",
-          "#여행정보",
-          "#일본여름",
-          "#도쿄근교여행",
-          "#여행스타그램",
-          "#일본가볼만한곳",
-          "#2026년",
-          "#축제"
-        ],
-        "alt_texts": [
-          "마츠도 불꽃축제 포스터 이미지",
-          "교통 통제 표지판 이미지",
-          "다리 위 교통 통제 이미지",
-          "열차 또는 버스 이미지",
-          "불꽃축제 관람석 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여름 불꽃축제에 관심 있는 한국인 여행객 / 최적 게시 시간: 오후 6시 (저녁 식사 후 여행 정보 탐색 시간) / 기대 반응: 교통 통제 정보에 대한 문의 및 축제 방문 계획 공유 / 이 콘텐츠의 강점: 구체적인 통제 시간 및 구간 명시로 실질적인 도움 제공",
-      "image": {
-        "keyword": "Matsudo fireworks festival road closure",
-        "unsplash_url": "https://unsplash.com/s/photos/Matsudo-fireworks-festival-road-closure",
-        "pexels_url": "https://www.pexels.com/search/Matsudo%20fireworks%20festival%20road%20closure/"
       }
     }
   ]
