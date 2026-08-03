@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-03T00:12:20.454862",
+  "last_updated": "2026-08-03T03:46:34.328387",
   "plans": [
+    {
+      "id": "plan_4286729d",
+      "created_at": "2026-08-03T03:46:32.328166",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "土岐プレミアム・アウトレット、高速乗り放題＋買い物券の「速旅」ドライブプランがお得。12月25日まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129623.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 아울렛 쇼핑, 고속도로 무제한 이용, 쇼핑권까지 덤으로! 12월 25일까지 특별 혜택 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚗💨 토키 아울렛 쇼핑 찬스!",
+        "cards": [
+          {
+            "title": "고속도로 무제한",
+            "content": "NEXCO 중일본에서 '토키 프리미엄 아울렛 쇼핑권 첨부 드라이브 플랜'을 판매 중입니다. ETC 차량 전용으로, 고속도로를 무제한 이용할 수 있어요.",
+            "alt_text": "고속도로 표지판 이미지"
+          },
+          {
+            "title": "쇼핑권 증정",
+            "content": "플랜 구매 시 토키 프리미엄 아울렛에서 사용할 수 있는 쇼핑권을 함께 제공합니다. 알뜰하게 쇼핑할 수 있는 절호의 기회예요!",
+            "alt_text": "쇼핑백 이미지"
+          },
+          {
+            "title": "판매 기간",
+            "content": "이 특별한 드라이브 플랜은 2024년 7월 24일부터 12월 25일까지 구매 가능합니다. 여행 계획을 미리 세워보세요!",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "장소",
+            "content": "대상은 기후현 토키시에 위치한 토키 프리미엄 아울렛입니다. 일본 중부 지역 여행 시 들르기 좋아요.",
+            "alt_text": "아울렛 건물 전경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 규슈 지역 여행 계획이 있다면, 이 플랜을 활용해 보세요! 고속도로 통행료와 쇼핑 할인까지 모두 챙길 수 있습니다.",
+            "alt_text": "자동차와 쇼핑백이 함께 있는 이미지"
+          }
+        ],
+        "caption": "🚗💨 일본 여행 중 쇼핑 계획 있으신가요? 토키 프리미엄 아울렛에서 최대 혜택을 누릴 수 있는 '속여행' 드라이브 플랜이 나왔어요! 🎁 고속도로 무제한 이용에 쇼핑권까지 증정! 12월 25일까지 한정 판매이니, 지금 바로 확인하고 알뜰 쇼핑하세요! 🛍️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본아울렛",
+          "#토키프리미엄아울렛",
+          "#일본쇼핑",
+          "#일본교통",
+          "#일본여행팁",
+          "#일본여행정보",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본드라이브",
+          "#일본여행준비",
+          "#일본관광",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "고속도로 표지판 이미지",
+          "쇼핑백 이미지",
+          "달력 이미지",
+          "아울렛 건물 전경 이미지",
+          "자동차와 쇼핑백이 함께 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심 및 저장, 문의 증가 / 이 콘텐츠의 강점: 구체적인 혜택(무제한 고속도로, 쇼핑권)과 명확한 기간 제시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Toki Premium Outlets, Japan, shopping, highway pass, discount coupon, travel plan",
+        "unsplash_url": "https://unsplash.com/s/photos/Toki-Premium-Outlets,-Japan,-shopping,-highway-pass,-discount-coupon,-travel-plan",
+        "pexels_url": "https://www.pexels.com/search/Toki%20Premium%20Outlets,%20Japan,%20shopping,%20highway%20pass,%20discount%20coupon,%20travel%20plan/"
+      }
+    },
+    {
+      "id": "plan_511c43d6",
+      "created_at": "2026-08-03T03:46:26.199849",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "羽田を出発する航空7社、手荷物預け入れ時刻を厳格化・前倒しへ。定時性確保のため",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129984.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "하네다 공항 출발 시, 수하물 위탁 마감 시간이 앞당겨져요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️하네다공항 수하물 마감 시간 변경!",
+        "cards": [
+          {
+            "title": "마감 시간",
+            "content": "9월 1일부터 하네다 공항 출발 항공편의 수하물 위탁 마감 시간이 앞당겨집니다.",
+            "alt_text": "하네다 공항 출발하는 비행기 사진"
+          },
+          {
+            "title": "정시성 확보",
+            "content": "항공편의 정시성을 확보하기 위한 조치로, 모든 항공사가 이 규정을 준수합니다.",
+            "alt_text": "비행기가 활주로에서 출발하는 모습"
+          },
+          {
+            "title": "탑승 마감",
+            "content": "이는 곧 탑승 마감 시간 준수와도 직결되므로, 더욱 여유로운 공항 도착이 필요해요.",
+            "alt_text": "공항 체크인 카운터 사진"
+          },
+          {
+            "title": "미리 준비",
+            "content": "출국 당일 혼란을 피하기 위해, 변경된 수하물 위탁 마감 시간을 미리 확인하고 준비하세요.",
+            "alt_text": "여행 가방을 싸는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "수하물 위탁 후에도 보안 검색, 출국 심사를 거쳐야 하니, 최소 출발 2시간 전에는 공항에 도착하는 것을 추천합니다.",
+            "alt_text": "공항 안내 표지판 사진"
+          }
+        ],
+        "caption": "🚨 하네다 공항 출발 예정인 여행자 주목! 🚨\n9월 1일부터 하네다 공항에서 출발하는 항공편의 수하물 위탁 마감 시간이 앞당겨집니다.\n항공편 정시성 확보를 위한 조치이니, 여유로운 공항 이용을 위해 미리 확인하시고 늦지 않게 준비하세요! ✈️\n\n#하네다공항 #일본항공 #수하물규정 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하네다공항",
+          "#일본항공",
+          "#수하물",
+          "#여행정보",
+          "#일본출발",
+          "#항공정보",
+          "#여행필수",
+          "#일본",
+          "#여행스타그램",
+          "#해외여행",
+          "#출국",
+          "#공항",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "하네다 공항 출발하는 비행기 사진",
+          "비행기가 활주로에서 출발하는 모습",
+          "공항 체크인 카운터 사진",
+          "여행 가방을 싸는 모습",
+          "공항 안내 표지판 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 하네다 공항을 통해 일본으로 출국하는 한국인 여행자 / 최적 게시 시간: 평일 오전 10시~12시 또는 오후 6시~8시 / 기대 반응: 정보 습득 및 공유, 여행 계획 수정 / 이 콘텐츠의 강점: 일본 여행 직전 필수적인 최신 공항 정보 제공",
+      "image": {
+        "keyword": "Haneda Airport, baggage drop deadline, airplane departure, travel preparation",
+        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport,-baggage-drop-deadline,-airplane-departure,-travel-preparation",
+        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport,%20baggage%20drop%20deadline,%20airplane%20departure,%20travel%20preparation/"
+      }
+    },
     {
       "id": "plan_99764384",
       "created_at": "2026-08-03T00:12:18.454661",
@@ -923,160 +1077,6 @@
         "keyword": "Karuizawa station bento, Japanese train food, Asamasanroku bento",
         "unsplash_url": "https://unsplash.com/s/photos/Karuizawa-station-bento,-Japanese-train-food,-Asamasanroku-bento",
         "pexels_url": "https://www.pexels.com/search/Karuizawa%20station%20bento,%20Japanese%20train%20food,%20Asamasanroku%20bento/"
-      }
-    },
-    {
-      "id": "plan_fa816b1a",
-      "created_at": "2026-07-31T00:15:49.322278",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、中部～ホノルル線40周年でサクララウンジ利用2200円引き。夜限定ハワイアンメニューも提供",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2129371.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 특별한 혜택을 누릴 수 있는 기회!"
-      },
-      "content": {
-        "thumbnail_title": "JAL 라운지 2200엔 할인! ✈️",
-        "cards": [
-          {
-            "title": "JAL 40주년 기념",
-            "content": "JAL이 센트레아(중부) ~ 호놀룰루 노선 취항 40주년을 기념하여 특별 캠페인을 진행합니다. ✈️",
-            "alt_text": "일본항공(JAL) 로고와 비행기 이미지"
-          },
-          {
-            "title": "라운지 할인 혜택",
-            "content": "이코노미 클래스 이용객을 대상으로 중부 국제공항 JAL 사쿠라 라운지 유료 서비스 이용 시 2200엔 할인 혜택을 제공합니다. 💰",
-            "alt_text": "일본항공(JAL) 사쿠라 라운지 내부 이미지"
-          },
-          {
-            "title": "특별 메뉴 제공",
-            "content": "저녁 시간에 방문하는 여행객들을 위해 특별한 하와이안 메뉴도 함께 제공될 예정입니다. 🌺",
-            "alt_text": "맛있는 하와이안 음식 플레이팅 이미지"
-          },
-          {
-            "title": "여행의 질 UP!",
-            "content": "일본 여행 중 편안한 휴식을 원하신다면, 이번 기회를 통해 JAL 사쿠라 라운지를 특별한 가격으로 이용해보세요! ✨",
-            "alt_text": "편안하게 휴식하는 여행객 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "이벤트 기간 및 상세 내용은 JAL 공식 홈페이지를 통해 확인하시고, 센트레아(중부) 공항 이용 시 잊지 말고 혜택을 누리세요! 📅",
-            "alt_text": "달력 아이콘과 JAL 로고 이미지"
-          }
-        ],
-        "caption": "✈️ JAL, 센트레아(중부)~호놀룰루 40주년 기념! ✈️\n\n일본 여행 중 편안한 휴식을 더하고 싶으신가요?\nJAL이 센트레아(중부) ~ 호놀룰루 노선 취항 40주년을 기념하여 특별한 라운지 할인 이벤트를 진행합니다! 🤩\n\n✅ 이코노미 클래스 이용객 대상\n✅ 중부 국제공항 JAL 사쿠라 라운지 유료 서비스 2200엔 할인!\n✅ 저녁 시간 방문 시 특별 하와이안 메뉴 제공 🌺\n\n일본 여행의 피로를 JAL 사쿠라 라운지에서 싹 풀어보세요! 💖\n\n#일본여행 #JAL #일본항공 #중부국제공항 #센트레아 #사쿠라라운지 #라운지할인 #일본여행꿀팁 #여행스타그램 #플라잉재팬 #일본항공권 #여행정보 #일본여행준비 #공항라운지 #이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#중부국제공항",
-          "#센트레아",
-          "#사쿠라라운지",
-          "#라운지할인",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본항공권",
-          "#여행정보",
-          "#일본여행준비",
-          "#공항라운지",
-          "#이벤트"
-        ],
-        "alt_texts": [
-          "일본항공(JAL) 로고와 비행기 이미지",
-          "일본항공(JAL) 사쿠라 라운지 내부 이미지",
-          "맛있는 하와이안 음식 플레이팅 이미지",
-          "편안하게 휴식하는 여행객 이미지",
-          "달력 아이콘과 JAL 로고 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 중부 국제공항을 통해 여행하는 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 라운지 이용에 대한 관심 증가, JAL 항공권 예약 고려 / 이 콘텐츠의 강점: 구체적인 할인 금액과 혜택 명시, 여행 중 실질적인 도움 제공",
-      "image": {
-        "keyword": "JAL Sakura Lounge discount, Chubu Centrair Airport, Hawaiian menu, economy class travel benefit",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Sakura-Lounge-discount,-Chubu-Centrair-Airport,-Hawaiian-menu,-economy-class-travel-benefit",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Sakura%20Lounge%20discount,%20Chubu%20Centrair%20Airport,%20Hawaiian%20menu,%20economy%20class%20travel%20benefit/"
-      }
-    },
-    {
-      "id": "plan_f14aaa15",
-      "created_at": "2026-07-31T00:15:43.345382",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "いたばし花火大会・戸田橋花火大会、1日17時から周辺道路で交通規制。区域内住民も要居住者証",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2129389.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 중이라면 놓치지 마세요! 8월 1일, 도쿄 북부 지역에서 대규모 불꽃축제가 열립니다."
-      },
-      "content": {
-        "thumbnail_title": "🎆 8/1 도쿄 불꽃축제! 🎆",
-        "cards": [
-          {
-            "title": "불꽃축제 개최",
-            "content": "2024년 8월 1일, 제67회 이타바시 불꽃대회가 개최됩니다. 같은 날 도다바시 불꽃대회도 함께 열려 더욱 풍성한 볼거리를 제공합니다.",
-            "alt_text": "화려한 불꽃이 밤하늘을 수놓는 모습"
-          },
-          {
-            "title": "교통 통제 안내",
-            "content": "불꽃축제 당일인 8월 1일 17시부터 22시까지, 행사장 주변 도로에서 교통 통제가 실시됩니다. 차량 이용 시 우회하거나 대중교통 이용을 권장합니다.",
-            "alt_text": "도로에 설치된 교통 통제 표지판"
-          },
-          {
-            "title": "주민 거주자증 필요",
-            "content": "교통 통제 구역 내 거주자는 반드시 거주자증을 지참해야 합니다. 방문 전에 거주하시는 숙소에 관련 규정을 미리 확인하시는 것이 좋습니다.",
-            "alt_text": "신분증을 보여주는 사람의 손"
-          },
-          {
-            "title": "최적 관람 시간",
-            "content": "교통 통제 시간은 17시부터 22시까지입니다. 불꽃축제는 보통 저녁 7시 이후에 시작되므로, 미리 도착하여 좋은 자리를 잡는 것이 좋습니다.",
-            "alt_text": "해가 지고 있는 도쿄의 풍경"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "인파가 몰릴 수 있으니 소지품 관리에 유의하세요. 또한, 8월 초 도쿄는 매우 더우니 충분한 수분 섭취와 함께 양산, 휴대용 선풍기 등을 준비하는 것이 좋습니다.",
-            "alt_text": "더위를 식히기 위해 부채질하는 사람"
-          }
-        ],
-        "caption": "✨ 8월 1일, 도쿄에서 펼쳐지는 환상적인 불꽃축제! ✨\n이타바시와 도다바시에서 동시에 열리는 대규모 불꽃대회를 놓치지 마세요! 🎆\n저녁 5시부터 교통 통제가 있으니, 미리 계획 세워 편안하게 즐기시길 바랍니다. 🚗➡️🚇\n\n#일본여행 #도쿄여행 #이타바시불꽃축제 #도다바시불꽃축제 #불꽃놀이 #여름축제 #교통정보 #여행꿀팁 #8월여행 #일본축제 #플라잉재팬 #도쿄 #일본 #여행스타그램 #불꽃놀이명소",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#이타바시불꽃축제",
-          "#도다바시불꽃축제",
-          "#불꽃놀이",
-          "#여름축제",
-          "#일본축제",
-          "#8월여행",
-          "#도쿄",
-          "#교통정보",
-          "#여행꿀팁",
-          "#일본",
-          "#여행스타그램",
-          "#불꽃놀이명소"
-        ],
-        "alt_texts": [
-          "화려한 불꽃이 밤하늘을 수놓는 모습",
-          "도로에 설치된 교통 통제 표지판",
-          "신분증을 보여주는 사람의 손",
-          "해가 지고 있는 도쿄의 풍경",
-          "더위를 식히기 위해 부채질하는 사람"
-        ]
-      },
-      "marketer_analysis": "타겟: 8월 초 도쿄 여행 예정인 한국인 여행자 / 최적 게시 시간: 저녁 7시 (여행 계획 세우는 시간) / 기대 반응: 정보 습득, 여행 계획 반영 / 이 콘텐츠의 강점: 시기적절한 불꽃축제 정보와 실질적인 교통 통제 안내",
-      "image": {
-        "keyword": "tokyo fireworks festival traffic control",
-        "unsplash_url": "https://unsplash.com/s/photos/tokyo-fireworks-festival-traffic-control",
-        "pexels_url": "https://www.pexels.com/search/tokyo%20fireworks%20festival%20traffic%20control/"
       }
     }
   ]
