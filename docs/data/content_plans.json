@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-02T03:44:03.052775",
+  "last_updated": "2026-08-03T00:12:20.454862",
   "plans": [
+    {
+      "id": "plan_99764384",
+      "created_at": "2026-08-03T00:12:18.454661",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語、加賀・片山津温泉の3ホテルで「柴山潟カヤック・サップ体験付きプラン」。夏の夜は湖上花火も楽しめる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129693.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천에서 즐기는 특별한 액티비티와 야경!"
+      },
+      "content": {
+        "thumbnail_title": "온천+카약+불꽃놀이!🎆",
+        "cards": [
+          {
+            "title": "카약/SUP 플랜",
+            "content": "일본 이시카와현 가가시의 카타야마즈 온천에서 시바야마가타 호수 카약 및 SUP 체험 플랜을 10월 31일까지 판매합니다. 밤에는 호수 위 불꽃놀이도 즐길 수 있어요.",
+            "alt_text": "카타야마즈 온천에서 카약과 SUP을 즐기는 사람들"
+          },
+          {
+            "title": "야간 코스",
+            "content": "특히 밤에 호수 위에서 펼쳐지는 불꽃놀이를 감상할 수 있는 야간 코스는 8월 30일까지 한정으로 운영되니 서두르세요!",
+            "alt_text": "카타야마즈 온천 호수 위에서 펼쳐지는 불꽃놀이"
+          },
+          {
+            "title": "체험 가능 온천",
+            "content": "오에도 온천 이야기 그룹이 운영하는 카타야마즈 온천 지역 내 3개 시설에서 이 특별한 플랜을 이용할 수 있습니다.",
+            "alt_text": "오에도 온천 이야기 그룹의 호텔 외관"
+          },
+          {
+            "title": "이시카와현 명소",
+            "content": "아름다운 시바야마가타 호수를 배경으로 특별한 여름밤 추억을 만들 수 있는 절호의 기회입니다.",
+            "alt_text": "고요한 시바야마가타 호수의 풍경"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "액티비티 체험 시에는 복장과 준비물을 미리 확인하고, 야간 코스의 경우 운영 마감일을 꼭 지켜 예약하세요. 8월 30일 이후에는 야간 불꽃놀이 없이 낮 시간 체험만 가능합니다.",
+            "alt_text": "카약 및 SUP 장비와 안전 장비"
+          }
+        ],
+        "caption": "일본 이시카와현에서 특별한 여름밤을! 🎆\n카타야마즈 온천에서 카약, SUP 체험과 함께 호수 위 불꽃놀이까지 즐길 수 있는 절호의 기회!\n✨ 10월 31일까지 카약/SUP 플랜 운영\n✨ 야간 불꽃놀이 코스는 8월 30일까지!\n지금 바로 @flyingjapan에서 자세한 정보 확인하고 잊지 못할 추억을 만들어보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#이시카와현",
+          "#카가시",
+          "#카타야마즈온천",
+          "#시바야마가타",
+          "#일본온천",
+          "#일본액티비티",
+          "#카약",
+          "#SUP",
+          "#불꽃놀이",
+          "#일본여름",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#여름휴가"
+        ],
+        "alt_texts": [
+          "카타야마즈 온천에서 카약과 SUP을 즐기는 사람들",
+          "카타야마즈 온천 호수 위에서 펼쳐지는 불꽃놀이",
+          "오에도 온천 이야기 그룹의 호텔 외관",
+          "고요한 시바야마가타 호수의 풍경",
+          "카약 및 SUP 장비와 안전 장비"
+        ]
+      },
+      "marketer_analysis": "타겟: 여름철 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 특별한 체험에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 일본 현지의 한정적인 시즌 이벤트와 액티비티를 결합하여 희소성 및 매력 부각",
+      "image": {
+        "keyword": "Kaga Onsen, Shibayamagata Lake, Kayaking, SUP, Fireworks, Summer Night, Ishikawa Prefecture, Japan Travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Kaga-Onsen,-Shibayamagata-Lake,-Kayaking,-SUP,-Fireworks,-Summer-Night,-Ishikawa-Prefecture,-Japan-Travel",
+        "pexels_url": "https://www.pexels.com/search/Kaga%20Onsen,%20Shibayamagata%20Lake,%20Kayaking,%20SUP,%20Fireworks,%20Summer%20Night,%20Ishikawa%20Prefecture,%20Japan%20Travel/"
+      }
+    },
+    {
+      "id": "plan_0f423686",
+      "created_at": "2026-08-03T00:12:12.571327",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "長崎県の乗り放題きっぷ＋観光チケットが最大30％オフ。my routeで行く「NAGASAKIぐる～んとmyたびキャンペーン」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2129745.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "나가사키 여행 시 교통+관광 할인 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "나가사키 30% 할인 꿀팁! ✈️",
+        "cards": [
+          {
+            "title": "최대 30% 할인!",
+            "content": "나가사키현에서 'NAGASAKIぐる～んとmyたびキャンペーン'을 진행합니다. 교통과 관광 티켓을 최대 30% 할인된 가격으로 이용할 수 있어요.",
+            "alt_text": "할인율이 표시된 캠페인 홍보 이미지"
+          },
+          {
+            "title": "어떻게 이용하나요?",
+            "content": "my route 앱을 통해 캠페인에 참여할 수 있습니다. 도요타 파이낸셜 서비스, 큐슈 MaaS 협의회, 나가사키현 MaaS 실행위원회가 함께 진행하는 캠페인입니다.",
+            "alt_text": "my route 앱 화면 캡처"
+          },
+          {
+            "title": "언제까지?",
+            "content": "캠페인 기간은 별도 공지될 예정입니다. 자세한 내용은 my route 앱에서 확인 가능합니다.",
+            "alt_text": "달력 아이콘과 함께 캠페인 기간을 나타내는 이미지"
+          },
+          {
+            "title": "나가사키 추천!",
+            "content": "나가사키의 다양한 명소를 더욱 알뜰하게 즐길 수 있는 기회입니다. 맛집, 관광지 방문 시 교통비 절약 꿀팁!",
+            "alt_text": "나가사키의 아름다운 풍경 사진"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "여행 계획 시 my route 앱을 미리 확인해보세요. 할인 혜택을 통해 더욱 풍성한 나가사키 여행을 만들 수 있습니다.",
+            "alt_text": "스마트폰으로 여행 계획을 세우는 사람의 모습"
+          }
+        ],
+        "caption": "✈️ 나가사키 여행 필수 정보! ✈️\n\n나가사키현에서 교통+관광 티켓을 최대 30% 할인받을 수 있는 'NAGASAKIぐる～んとmyたびキャンペーン'이 시작됩니다!\n\nmy route 앱을 통해 참여 가능하며, 나가사키의 명소를 더욱 알뜰하게 즐길 수 있는 절호의 기회!\n\n여행 전에 꼭 확인하고 알찬 나가사키 여행 계획 세우세요! 💖\n\n#나가사키여행 #일본교통 #여행할인 #플라잉재팬 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나가사키",
+          "#나가사키여행",
+          "#일본교통",
+          "#일본할인",
+          "#여행스타그램",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본어플",
+          "#myroute",
+          "#일본여행꿀팁",
+          "#해외여행",
+          "#여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "할인율이 표시된 캠페인 홍보 이미지",
+          "my route 앱 화면 캡처",
+          "달력 아이콘과 함께 캠페인 기간을 나타내는 이미지",
+          "나가사키의 아름다운 풍경 사진",
+          "스마트폰으로 여행 계획을 세우는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 나가사키 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 캠페인 참여율 증가, 나가사키 여행 관심도 상승 / 이 콘텐츠의 강점: 구체적인 할인율 및 이용 방법 제시, 실질적인 여행 경비 절감 효과 강조",
+      "image": {
+        "keyword": "Nagasaki travel discount, my route app, transportation ticket offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-travel-discount,-my-route-app,-transportation-ticket-offer",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki%20travel%20discount,%20my%20route%20app,%20transportation%20ticket%20offer/"
+      }
+    },
     {
       "id": "plan_ccf4fe5c",
       "created_at": "2026-08-02T03:44:01.052579",
@@ -923,160 +1077,6 @@
         "keyword": "tokyo fireworks festival traffic control",
         "unsplash_url": "https://unsplash.com/s/photos/tokyo-fireworks-festival-traffic-control",
         "pexels_url": "https://www.pexels.com/search/tokyo%20fireworks%20festival%20traffic%20control/"
-      }
-    },
-    {
-      "id": "plan_e15c6b31",
-      "created_at": "2026-07-30T03:17:19.804113",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR、連続5日間乗り放題「大人の休日倶楽部パス」第2回は明日発売。東京～新青森往復のみでも1万4400円お得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128606.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR 열차 5일 무제한 탑승! 도쿄-신아오모리 왕복만 해도 14,400엔 절약 가능!"
-      },
-      "content": {
-        "thumbnail_title": "JR 5일 무제한 패스 🚆",
-        "cards": [
-          {
-            "title": "패스 출시",
-            "content": "JR 동일본이 '어른의 휴일 클럽 패스' 2026년도 제2회권을 7월 31일에 발매합니다. '어른의 휴일 클럽' 회원만 구매 가능합니다.",
-            "alt_text": "JR 동일본 열차 티켓 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "패스 사용 가능 기간은 2026년 8월 31일부터 9월 12일까지입니다. 여름 막바지, 가을 초입 일본 여행에 활용하기 좋아요.",
-            "alt_text": "달력에 표시된 8월 31일과 9월 12일"
-          },
-          {
-            "title": "파격적인 할인",
-            "content": "도쿄에서 신아오모리까지 왕복하는 것만으로도 약 14,400엔을 절약할 수 있습니다. 일본 북부 지역을 자유롭게 여행하세요!",
-            "alt_text": "엔화 지폐와 절약 표시"
-          },
-          {
-            "title": "5일간 무제한",
-            "content": "이 패스 하나로 5일 동안 JR 동일본 구간을 무제한으로 이용할 수 있습니다. 장거리 이동이나 여러 도시를 방문할 때 필수!",
-            "alt_text": "일본 지도에 표시된 JR 노선"
-          },
-          {
-            "title": "회원 가입 필수",
-            "content": "이 패스는 '어른의 휴일 클럽' 회원 전용입니다. 미리 회원 가입을 완료해야 합니다. 구매 전 일본 JR 동일본 웹사이트에서 자세한 내용을 확인하세요.",
-            "alt_text": "회원 가입 버튼 이미지"
-          }
-        ],
-        "caption": "✨JR 동일본 '어른의 휴일 클럽 패스' 7월 31일 발매!✨\n\n일본 북부 지역을 5일간 무제한으로 여행할 수 있는 절호의 찬스!\n도쿄-신아오모리 왕복만 해도 14,400엔 절약 가능! 💰\n\n📌 2026년 8월 31일 ~ 9월 12일 이용 가능\n📌 '어른의 휴일 클럽' 회원 전용\n\n자세한 내용은 JR 동일본 웹사이트를 확인하세요! #일본여행 #JR패스 #어른의휴일클럽패스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR패스",
-          "#일본교통",
-          "#일본기차",
-          "#일본철도",
-          "#JR동일본",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가을여행",
-          "#일본여름여행",
-          "#일본할인",
-          "#일본꿀팁",
-          "#여행필수",
-          "#일본여행준비"
-        ],
-        "alt_texts": [
-          "JR 동일본 열차 티켓 이미지",
-          "달력에 표시된 8월 31일과 9월 12일",
-          "엔화 지폐와 절약 표시",
-          "일본 지도에 표시된 JR 노선",
-          "회원 가입 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: JR 동일본 지역 여행을 계획 중인 50대 이상 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시-9시 / 기대 반응: 패스 구매 정보에 대한 높은 관심, 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 구체적인 절약 금액과 이용 기간 명시로 실질적인 혜택 강조",
-      "image": {
-        "keyword": "JR East train pass, Japan rail travel, discount ticket, travel savings, unlimited rides",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-East-train-pass,-Japan-rail-travel,-discount-ticket,-travel-savings,-unlimited-rides",
-        "pexels_url": "https://www.pexels.com/search/JR%20East%20train%20pass,%20Japan%20rail%20travel,%20discount%20ticket,%20travel%20savings,%20unlimited%20rides/"
-      }
-    },
-    {
-      "id": "plan_a8b8a425",
-      "created_at": "2026-07-30T03:17:12.976722",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "淡路屋×阪神タイガース「ひっぱりだこ飯（黒）」が期間・数量限定で発売。マット調の黒い陶器",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128927.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 특별한 경험을 선사할 한정판 도시락 출시!"
-      },
-      "content": {
-        "thumbnail_title": "⚾️한신 타이거즈 콜라보 도시락!",
-        "cards": [
-          {
-            "title": "한정판 도시락",
-            "content": "일본 유명 도시락 회사 '아와지야'와 인기 야구팀 '한신 타이거즈'가 만났어요. 이번 콜라보로 특별한 '히키리다코메시(검은색)' 도시락이 기간 한정으로 출시됩니다.",
-            "alt_text": "검은색 도자기 용기에 담긴 야구 테마 도시락"
-          },
-          {
-            "title": "특별한 디자인",
-            "content": "도시락 용기는 무광 검은색 도자기로 제작되어 고급스러움을 더했습니다. 야구 팬이라면 놓칠 수 없는 특별한 디자인이에요.",
-            "alt_text": "도시락 용기의 매트한 검은색 질감"
-          },
-          {
-            "title": "가격 정보",
-            "content": "이 특별한 도시락의 가격은 1,980엔입니다. 일본 여행 중 특별한 식사를 경험하고 싶다면 주목해주세요.",
-            "alt_text": "도시락 가격이 표시된 이미지"
-          },
-          {
-            "title": "기간/수량 한정",
-            "content": "이번 '한신 타이거즈 히키리다코메시(검은색)'는 기간 및 수량 한정으로 판매됩니다. 출시 기간을 꼭 확인하고 서둘러 구매하세요!",
-            "alt_text": "기간 한정 판매를 알리는 안내문"
-          },
-          {
-            "title": "구매 팁",
-            "content": "아와지야 매장이나 주요 역에서 구매 가능할 것으로 예상됩니다. 정확한 판매처와 기간은 현지에서 확인하시는 것이 좋습니다.",
-            "alt_text": "여행 중 도시락을 구매하는 모습"
-          }
-        ],
-        "caption": "⚾️일본 여행 중 특별한 추억을 만들고 싶다면? \n한신 타이거즈와 아와지야의 야구 콜라보 도시락이 기간/수량 한정으로 출시되었어요! \n검은색 도자기 용기에 담긴 특별한 도시락을 1,980엔에 만나보세요. 🍱 \n야구 팬이라면 절대 놓치지 마세요! 😉 \n#일본여행 #플라잉재팬 #한신타이거즈 #도시락 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#한신타이거즈",
-          "#도시락",
-          "#한정판",
-          "#일본음식",
-          "#일본맛집",
-          "#여행정보",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#먹스타그램",
-          "#일본문화",
-          "#야구"
-        ],
-        "alt_texts": [
-          "검은색 도자기 용기에 담긴 야구 테마 도시락",
-          "도시락 용기의 매트한 검은색 질감",
-          "도시락 가격이 표시된 이미지",
-          "기간 한정 판매를 알리는 안내문",
-          "여행 중 도시락을 구매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인, 특히 야구 팬 및 특별한 경험을 추구하는 여행자 / 최적 게시 시간: 평일 오후 6시~9시, 주말 오전 10시~12시 / 기대 반응: 높은 관심과 공유, 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 명확한 가격 및 상품 정보 제공",
-      "image": {
-        "keyword": "hanshin tigers bento limited edition black ceramic japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/hanshin-tigers-bento-limited-edition-black-ceramic-japan-travel",
-        "pexels_url": "https://www.pexels.com/search/hanshin%20tigers%20bento%20limited%20edition%20black%20ceramic%20japan%20travel/"
       }
     }
   ]
