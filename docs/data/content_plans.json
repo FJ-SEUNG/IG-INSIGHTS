@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-03T03:46:34.328387",
+  "last_updated": "2026-08-04T00:15:59.488831",
   "plans": [
+    {
+      "id": "plan_015acd7f",
+      "created_at": "2026-08-04T00:15:57.488650",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "アドベンチャーワールド入園券をセットで買うと和歌山・奈良の高速道路乗り放題がさらにお得になるドライブパス",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2130205.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 시 고속도로 이용 시 알뜰하게 즐기는 방법!"
+      },
+      "content": {
+        "thumbnail_title": "🚗일본 고속도로 무제한! 꿀팁👍",
+        "cards": [
+          {
+            "title": "새 드라이브 패스",
+            "content": " NEXCO 서일본에서 '간사이 에어리어 주유 어드벤처 월드 드라이브 패스'를 8월 17일부터 판매합니다.",
+            "alt_text": "일본 고속도로 표지판 이미지"
+          },
+          {
+            "title": "이용 조건",
+            "content": "ETC 차량 한정으로 이용 가능하며, 어드벤처 월드 입장권과 세트로 구매 시 더욱 저렴하게 이용할 수 있습니다.",
+            "alt_text": "ETC 카드 이미지"
+          },
+          {
+            "title": "신청 시작일",
+            "content": "8월 3일 오후 2시부터 신청 접수를 시작합니다. 서둘러 신청하세요!",
+            "alt_text": "달력에 표시된 날짜 이미지"
+          },
+          {
+            "title": "주요 이용 지역",
+            "content": "와카야마와 나라 지역의 고속도로를 무제한으로 이용하며 여행할 수 있습니다.",
+            "alt_text": "일본 와카야마, 나라 지역 지도 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "어드벤처 월드 방문 계획이 있다면 이 드라이브 패스를 활용해 보세요. 교통비 절약은 물론, 더욱 자유롭고 알찬 여행을 즐길 수 있습니다.",
+            "alt_text": "어드벤처 월드 전경 이미지"
+          }
+        ],
+        "caption": "일본 여행 시 고속도로 이용 계획 있으신가요? 🚗\n\nNEXCO 서일본에서 '간사이 에어리어 주유 어드벤처 월드 드라이브 패스'를 출시했어요!\n\n✅ 8월 17일부터 판매 시작\n✅ 8월 3일 오후 2시부터 신청 가능\n✅ ETC 차량 한정, 어드벤처 월드 입장권과 세트 구매 시 할인\n✅ 와카야마, 나라 지역 고속도로 무제한 이용\n\n어드벤처 월드 방문 계획 있다면 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #일본교통 #와카야마 #나라 #어드벤처월드 #드라이브패스 #일본렌트카 #꿀팁 #여행정보 #일본자유여행 #일본할인 #간사이여행 #일본가볼만한곳 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#와카야마",
+          "#나라",
+          "#어드벤처월드",
+          "#드라이브패스",
+          "#일본렌트카",
+          "#꿀팁",
+          "#여행정보",
+          "#일본자유여행",
+          "#일본할인",
+          "#간사이여행",
+          "#일본가볼만한곳",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "일본 고속도로 표지판 이미지",
+          "ETC 카드 이미지",
+          "달력에 표시된 날짜 이미지",
+          "일본 와카야마, 나라 지역 지도 이미지",
+          "어드벤처 월드 전경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 렌터카 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 교통비 절약 정보 제공",
+      "image": {
+        "keyword": "Japan highway pass, Wakayama Nara road trip, Adventure World ticket deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway-pass,-Wakayama-Nara-road-trip,-Adventure-World-ticket-deal",
+        "pexels_url": "https://www.pexels.com/search/Japan%20highway%20pass,%20Wakayama%20Nara%20road%20trip,%20Adventure%20World%20ticket%20deal/"
+      }
+    },
+    {
+      "id": "plan_8da73f7a",
+      "created_at": "2026-08-04T00:15:52.114197",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、交通＋宿泊セットで最大3万6000円引き。JR/ANA/JALが選べる「楽パック」20周年記念キャンペーン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2130208.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 최대 3만 6천 엔까지 절약할 수 있는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 여행 3.6만엔 할인!",
+        "cards": [
+          {
+            "title": "楽パック 20주년",
+            "content": "일본 최대 여행 플랫폼 楽パック(라쿠팩)이 출시 20주년을 맞아 특별 캠페인을 진행해요. 교통편과 숙소를 자유롭게 조합하는 패키지 상품을 최대 3만 6천 엔 할인된 가격으로 만나볼 수 있어요.",
+            "alt_text": "楽パック 20주년 기념 캠페인 로고"
+          },
+          {
+            "title": "선택 가능한 교통편",
+            "content": "이번 캠페인에서는 JR, ANA, JAL 등 일본의 주요 교통편을 자유롭게 선택할 수 있어요. 원하는 항공사나 열차를 골라 나만의 맞춤 여행 계획을 세워보세요.",
+            "alt_text": "JR, ANA, JAL 로고"
+          },
+          {
+            "title": "언제까지? 9/30까지!",
+            "content": "할인 혜택은 2024년 9월 30일까지 진행됩니다. 여행 계획이 있다면 서둘러 楽パック 웹사이트에서 혜택을 확인하고 예약하세요!",
+            "alt_text": "캘린더에 9월 30일 표시"
+          },
+          {
+            "title": "최대 3.6만엔 할인",
+            "content": "이번 캠페인을 통해 최대 3만 6천 엔의 파격적인 할인을 받을 수 있다는 점이 가장 큰 매력이에요. 알뜰하게 일본 여행을 즐길 절호의 기회입니다.",
+            "alt_text": "숫자 36000이 강조된 할인 아이콘"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "할인율은 상품 조합 및 기간에 따라 달라질 수 있으니, 예약 시 상세 조건을 꼭 확인하세요. 楽パック은 일본 현지 플랫폼이므로, 일본어로 진행될 수 있습니다. (번역기 활용 추천)",
+            "alt_text": "물음표와 느낌표가 있는 팁 아이콘"
+          }
+        ],
+        "caption": "일본 여행 경비 확 줄이는 꿀팁! ✈️\n\n일본 최대 여행 플랫폼 楽パック(라쿠팩)이 20주년을 맞아 특별 캠페인을 진행해요!\n\nJR, ANA, JAL 등 원하는 교통편과 숙소를 자유롭게 조합하여 최대 3만 6천 엔 할인된 가격으로 만나보세요.\n\n✅ 캠페인 기간: 9월 30일까지\n\n알뜰하게 일본 여행을 즐길 절호의 기회, 놓치지 마세요! 😉\n\n#일본여행 #일본항공권 #일본숙소 #일본여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본할인",
+          "#라쿠팩",
+          "#일본패키지여행",
+          "#일본교통",
+          "#일본항공권",
+          "#일본숙소",
+          "#일본여행준비",
+          "#일본여행꿀팁",
+          "#해외여행",
+          "#여행스타그램",
+          "#여행정보",
+          "#일본자유여행",
+          "#여행특가"
+        ],
+        "alt_texts": [
+          "楽パック 20주년 기념 캠페인 로고",
+          "JR, ANA, JAL 로고",
+          "캘린더에 9월 30일 표시",
+          "숫자 36000이 강조된 할인 아이콘",
+          "물음표와 느낌표가 있는 팁 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 예약 문의 증가, 정보 공유 확산 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 기간 명시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japanese travel package discount, Rakupack campaign, JR ANA JAL flight hotel combo",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-travel-package-discount,-Rakupack-campaign,-JR-ANA-JAL-flight-hotel-combo",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20travel%20package%20discount,%20Rakupack%20campaign,%20JR%20ANA%20JAL%20flight%20hotel%20combo/"
+      }
+    },
     {
       "id": "plan_4286729d",
       "created_at": "2026-08-03T03:46:32.328166",
@@ -923,160 +1077,6 @@
         "keyword": "Fuji-Q Highland, Rilakkuma attraction, San-X Paradise, amusement park, Yamanashi, Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Fuji-Q-Highland,-Rilakkuma-attraction,-San-X-Paradise,-amusement-park,-Yamanashi,-Japan",
         "pexels_url": "https://www.pexels.com/search/Fuji-Q%20Highland,%20Rilakkuma%20attraction,%20San-X%20Paradise,%20amusement%20park,%20Yamanashi,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_631816c2",
-      "created_at": "2026-07-31T03:44:18.309599",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、レンタカー最大半額「夏休み＆秋旅フェア」。ハウステンボス/ジャングリアも最大10％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2128657.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여름/가을 여행, 렌터카 반값 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 렌터카 반값! 여름&가을 특가 🚗",
-        "cards": [
-          {
-            "title": "할인 기간",
-            "content": "일본 료칸 트래블의 '여름&가을 여행 페어'가 8월 20일 오전 9시 59분까지 진행됩니다. 이 기간 동안 렌터카를 최대 반값에 이용할 수 있는 특별한 기회를 놓치지 마세요!",
-            "alt_text": "할인 기간을 알리는 캘린더 아이콘과 텍스트"
-          },
-          {
-            "title": "렌터카 할인",
-            "content": "이번 페어를 통해 렌터카 예약 시 파격적인 할인이 제공됩니다. 일본 내에서 자유로운 이동을 계획하고 있다면 지금 바로 확인해보세요. 최대 50% 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "자동차 아이콘과 할인율 표시"
-          },
-          {
-            "title": "테마파크 할인",
-            "content": "하우스텐보스와 쟈니즈아일랜드 등 인기 테마파크 입장권도 최대 10% 할인된 가격으로 만나볼 수 있습니다. 여름 휴가나 가을 여행 계획에 특별함을 더해보세요.",
-            "alt_text": "놀이기구와 할인율이 표시된 아이콘"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기 있는 렌터카와 테마파크 티켓은 조기 마감될 수 있습니다. 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 특히 주말이나 성수기에는 더욱 빨리 매진될 수 있습니다.",
-            "alt_text": "빠르게 움직이는 사람을 나타내는 아이콘"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "일본 료칸 트래블에서 진행하는 이번 여름&가을 여행 페어는 렌터카와 테마파크 할인을 동시에 제공하여 여행 경비를 크게 절약할 수 있는 절호의 찬스입니다. 8월 20일 오전 9시 59분까지 진행되니 늦지 않게 예약하세요!",
-            "alt_text": "놀라움과 감탄을 나타내는 이모티콘"
-          }
-        ],
-        "caption": "🇯🇵 일본 여름 & 가을 여행 준비 중이신가요? 🚗\n\n일본 료칸 트래블에서 역대급 렌터카 반값 할인 이벤트를 진행합니다!\n\n✅ 기간: ~ 8월 20일 오전 9시 59분까지\n✅ 혜택: 렌터카 최대 50% 할인\n✅ 추가: 하우스텐보스/쟈니즈아일랜드 최대 10% 할인\n\n지금 바로 예약하고 알뜰하게 일본 여행 즐기세요! 😉\n\n#일본여행 #플라잉재팬 #일본렌터카 #일본할인 #여름휴가 #가을여행 #하우스텐보스 #여행꿀팁 #여행정보 #일본자유여행 #일본가볼만한곳 #여행스타그램 #일본렌터카할인 #일본축제 #일본이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본렌터카",
-          "#일본할인",
-          "#여름휴가",
-          "#가을여행",
-          "#하우스텐보스",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본렌터카할인",
-          "#일본축제",
-          "#일본이벤트"
-        ],
-        "alt_texts": [
-          "할인 기간을 알리는 캘린더 아이콘과 텍스트",
-          "자동차 아이콘과 할인율 표시",
-          "놀이기구와 할인율이 표시된 아이콘",
-          "빠르게 움직이는 사람을 나타내는 아이콘",
-          "놀라움과 감탄을 나타내는 이모티콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름/가을 시즌 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 참여율 (할인 정보에 대한 즉각적인 반응), 저장 및 공유율 증가 / 이 콘텐츠의 강점: 실질적인 비용 절감 혜택 강조, 기간 한정 이벤트로 긴급성 부여",
-      "image": {
-        "keyword": "japan car rental discount summer autumn",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-car-rental-discount-summer-autumn",
-        "pexels_url": "https://www.pexels.com/search/japan%20car%20rental%20discount%20summer%20autumn/"
-      }
-    },
-    {
-      "id": "plan_504652d5",
-      "created_at": "2026-07-31T03:44:11.336184",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】軽井沢駅「浅間山麓弁当」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2129369.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가볍게 즐기는 일본 기차 여행! 료칸 앞 역에서 만나는 특별한 도시락."
-      },
-      "content": {
-        "thumbnail_title": "🚄 료칸 가는 길, 꿀맛 도시락!",
-        "cards": [
-          {
-            "title": "주말 한정!",
-            "content": "경치 좋은 카루이자와역에서 맛볼 수 있는 '아사마산록 도시락'을 소개합니다. 료칸을 가기 전, 기차 안에서 즐기는 특별한 경험!",
-            "alt_text": "카루이자와역 풍경과 도시락 사진"
-          },
-          {
-            "title": "소바 맛집이 만든",
-            "content": "카루이자와역 북쪽 출구 로터리 근처의 소바 전문점 '타카미테이 본점'에서 정성껏 준비한 도시락입니다.",
-            "alt_text": "타카미테이 본점 외관 사진"
-          },
-          {
-            "title": "이름부터 특별",
-            "content": "'아사마산록 도시락'은 아사마산 기슭의 신선한 재료로 만들어진다는 의미를 담고 있습니다. 🍱",
-            "alt_text": "도시락의 신선한 재료를 강조하는 사진"
-          },
-          {
-            "title": "여행의 묘미",
-            "content": "일본 기차 여행 중 빼놓을 수 없는 즐거움! 역사 깊은 도시락으로 여행의 맛을 더해보세요.",
-            "alt_text": "기차 창밖 풍경과 도시락을 함께 찍은 사진"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "주말에만 판매되는 한정 도시락이니, 카루이자와 방문 계획이 있다면 꼭 미리 확인해보세요! ⏳",
-            "alt_text": "주말 한정임을 강조하는 캘린더 이미지"
-          }
-        ],
-        "caption": "기차 여행의 낭만을 더하는 특별한 한 끼! 🚄 카루이자와역에서 맛볼 수 있는 '아사마산록 도시락'을 소개해요. 료칸 가기 전, 혹은 여행 중 기차 안에서 즐기기 딱 좋답니다! 🍱 주말 한정 메뉴이니 놓치지 마세요! ✨\n\n#일본여행 #카루이자와 #기차여행 #일본도시락 #주말한정 #플라잉재팬 #일본맛집 #일본현지 #여행정보 #일본기차 #료칸여행 #일본음식 #여행꿀팁 #일본축제 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#카루이자와",
-          "#기차여행",
-          "#일본도시락",
-          "#주말한정",
-          "#일본맛집",
-          "#일본현지",
-          "#여행정보",
-          "#일본기차",
-          "#료칸여행",
-          "#일본음식",
-          "#여행꿀팁",
-          "#일본축제",
-          "#일본쇼핑"
-        ],
-        "alt_texts": [
-          "카루이자와역 풍경과 도시락 사진",
-          "타카미테이 본점 외관 사진",
-          "도시락의 신선한 재료를 강조하는 사진",
-          "기차 창밖 풍경과 도시락을 함께 찍은 사진",
-          "주말 한정임을 강조하는 캘린더 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 기차 여행을 즐기거나, 카루이자와 지역 방문 예정인 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시 또는 토요일 오전 9시 / 기대 반응: '오~ 이건 먹어봐야지!', '주말 한정이라니 아쉽다', '기차에서 먹으면 꿀맛이겠다' 등 긍정적인 반응 / 이 콘텐츠의 강점: 구체적인 장소, 메뉴명, 판매 시기 등 실용적인 정보를 담고 있으며, 일본 기차 여행의 감성을 자극하는 콘텐츠.",
-      "image": {
-        "keyword": "Karuizawa station bento, Japanese train food, Asamasanroku bento",
-        "unsplash_url": "https://unsplash.com/s/photos/Karuizawa-station-bento,-Japanese-train-food,-Asamasanroku-bento",
-        "pexels_url": "https://www.pexels.com/search/Karuizawa%20station%20bento,%20Japanese%20train%20food,%20Asamasanroku%20bento/"
       }
     }
   ]
