@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-05T00:14:39.134257",
+  "last_updated": "2026-08-05T03:25:04.693392",
   "plans": [
+    {
+      "id": "plan_b13ae252",
+      "created_at": "2026-08-05T03:25:02.693207",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "森トラストホテルズ、創業50周年で5組10名に宿泊券プレゼント。ラグジュアリーやラフォーレから選べる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2130668.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 50주년 기념, 럭셔리 숙박권 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵일본 50주년 기념 럭셔리 숙박권!",
+        "cards": [
+          {
+            "title": "50주년 기념!",
+            "content": "일본 호텔 그룹 '모리트러스트 호텔즈'가 창립 50주년을 맞아 특별한 이벤트를 진행합니다. 럭셔리 호텔부터 라포레까지 다양한 숙소를 경험할 기회입니다.",
+            "alt_text": "창립 50주년을 기념하는 호텔 그룹 로고"
+          },
+          {
+            "title": "숙박권 증정!",
+            "content": "이벤트 참여자 중 추첨을 통해 총 5팀 10명에게 무료 숙박권을 증정합니다. 럭셔리한 일본 여행을 꿈꿔왔다면 놓치지 마세요!",
+            "alt_text": "호텔 숙박권 이미지"
+          },
+          {
+            "title": "참여 방법은?",
+            "content": "이벤트 참여는 8월에 오픈한 특별 웹사이트를 통해 가능합니다. 자세한 참여 방법은 해당 웹사이트에서 확인해주세요.",
+            "alt_text": "특별 웹사이트 접속 화면"
+          },
+          {
+            "title": "어떤 호텔?",
+            "content": "당첨자는 럭셔리 호텔 또는 라포레 리조트 중 원하는 곳을 선택할 수 있습니다. 일본의 아름다운 곳에서 특별한 휴식을 즐겨보세요.",
+            "alt_text": "일본 럭셔리 호텔 외관"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "이벤트 참여 기간과 정확한 웹사이트 주소는 추후 공지될 예정입니다. 지속적으로 업데이트되는 정보를 주시하며 참여 기회를 잡으세요!",
+            "alt_text": "알림 설정 아이콘"
+          }
+        ],
+        "caption": "🇯🇵일본 호텔 그룹, 창립 50주년 기념 럭셔리 숙박권 증정 이벤트! ✨\n총 5팀 10명에게 럭셔리 호텔 또는 라포레 리조트 숙박권을 드립니다.\n특별 웹사이트에서 지금 바로 참여하세요! ✈️\n#일본여행 #플라잉재팬 #일본호텔 #럭셔리여행 #이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본호텔",
+          "#럭셔리여행",
+          "#일본이벤트",
+          "#숙박권",
+          "#일본숙소",
+          "#여행이벤트",
+          "#일본자유여행",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본문화",
+          "#일본가볼만한곳",
+          "#일본추천",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "창립 50주년을 기념하는 호텔 그룹 로고",
+          "호텔 숙박권 이미지",
+          "특별 웹사이트 접속 화면",
+          "일본 럭셔리 호텔 외관",
+          "알림 설정 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 이벤트 참여율 증가, 숙박권에 대한 관심 증폭 / 이 콘텐츠의 강점: 실질적인 혜택 제공, 희소성 있는 이벤트 정보",
+      "image": {
+        "keyword": "Japan luxury hotel giveaway, 50th anniversary event, travel voucher, Japanese resort",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-luxury-hotel-giveaway,-50th-anniversary-event,-travel-voucher,-Japanese-resort",
+        "pexels_url": "https://www.pexels.com/search/Japan%20luxury%20hotel%20giveaway,%2050th%20anniversary%20event,%20travel%20voucher,%20Japanese%20resort/"
+      }
+    },
+    {
+      "id": "plan_cc1232b1",
+      "created_at": "2026-08-05T03:24:57.749077",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大井川鐵道、ウォークスルー改札を実現する“着るきっぷ”？　大鉄 金谷駅～川根温泉笹間渡駅が乗り降り自由",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2130682.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "티셔츠만 있으면 무제한 탑승! 특별한 일본 기차 여행 경험"
+      },
+      "content": {
+        "thumbnail_title": "👕티셔츠로 기차 무제한 탑승!",
+        "cards": [
+          {
+            "title": "특별한 티셔츠",
+            "content": "오이가와 철도에서 '프리 킵 T셔츠 2026'을 8월 6일부터 20일까지 주문 판매합니다. 이 티셔츠는 특별 기획 승차권입니다.",
+            "alt_text": "오이가와 철도 특별 기획 승차권 티셔츠 이미지"
+          },
+          {
+            "title": "무제한 탑승",
+            "content": "이 티셔츠를 구매하면 가네야역에서 카와네 온천 사사마도역까지 구간을 자유롭게 타고 내릴 수 있습니다. 마치 워크스루 개찰구처럼 편리합니다.",
+            "alt_text": "티셔츠를 입고 기차에 탑승하는 사람 이미지"
+          },
+          {
+            "title": "여행의 편리함",
+            "content": "별도의 표 구매 없이 티셔츠만 보여주면 되니, 일본 소도시 기차 여행의 번거로움을 덜 수 있습니다.",
+            "alt_text": "기차 안에서 티셔츠를 보여주는 모습 이미지"
+          },
+          {
+            "title": "한정 판매",
+            "content": "주문 판매 기간은 2024년 8월 6일부터 8월 20일까지로 짧으니, 관심 있다면 놓치지 마세요!",
+            "alt_text": "티셔츠 주문 판매 기간을 알리는 캘린더 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "오이가와 지역의 아름다운 자연을 만끽하며 여유로운 기차 여행을 즐길 수 있는 특별한 기회입니다. 티셔츠 디자인도 확인해보세요!",
+            "alt_text": "오이가와 철도 노선의 아름다운 풍경 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 경험을 원한다면 주목! 🇯🇵\n오이가와 철도에서 '프리 킵 T셔츠 2026'을 한정 판매해요.\n이 티셔츠 한 장으로 특정 구간을 무제한 탑승할 수 있다는 사실! 😮\n별도 티켓 구매 없이 티셔츠만 보여주면 OK!\n2024년 8월 6일부터 20일까지 주문 가능하니, 일본 소도시의 매력을 여유롭게 느껴보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오이가와철도",
+          "#일본기차",
+          "#일본자유여행",
+          "#일본소도시",
+          "#한정판",
+          "#여행꿀팁",
+          "#일본교통",
+          "#일본여행준비",
+          "#여름휴가",
+          "#일본축제",
+          "#특별한경험",
+          "#여행스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "오이가와 철도 특별 기획 승차권 티셔츠 이미지",
+          "티셔츠를 입고 기차에 탑승하는 사람 이미지",
+          "기차 안에서 티셔츠를 보여주는 모습 이미지",
+          "티셔츠 주문 판매 기간을 알리는 캘린더 이미지",
+          "오이가와 철도 노선의 아름다운 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 특별한 경험을 추구하는 20-30대 일본 여행객 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 티셔츠 디자인 및 실용성에 대한 궁금증, 구매 문의 / 이 콘텐츠의 강점: 독특한 아이디어와 실질적인 교통 정보의 결합",
+      "image": {
+        "keyword": "Oigawa Railway, free ticket t-shirt, Japan train, limited edition, travel experience",
+        "unsplash_url": "https://unsplash.com/s/photos/Oigawa-Railway,-free-ticket-t-shirt,-Japan-train,-limited-edition,-travel-experience",
+        "pexels_url": "https://www.pexels.com/search/Oigawa%20Railway,%20free%20ticket%20t-shirt,%20Japan%20train,%20limited%20edition,%20travel%20experience/"
+      }
+    },
     {
       "id": "plan_679ee4ed",
       "created_at": "2026-08-05T00:14:37.134058",
@@ -923,160 +1077,6 @@
         "keyword": "luxury hotel room sale japan",
         "unsplash_url": "https://unsplash.com/s/photos/luxury-hotel-room-sale-japan",
         "pexels_url": "https://www.pexels.com/search/luxury%20hotel%20room%20sale%20japan/"
-      }
-    },
-    {
-      "id": "plan_f661db8f",
-      "created_at": "2026-08-02T00:12:02.006099",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エア・ドゥ、東京/羽田〜札幌/千歳線を増便　8月に計12便",
-        "url": "https://www.traicy.com/posts/20260801377726/",
-        "date": "Sat, 01 Aug 2026 10:45:31 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "8월 일본 국내선 증편 소식! 도쿄-삿포로 여행 계획 있다면 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️8월 도쿄-삿포로 증편!",
-        "cards": [
-          {
-            "title": "증편 기간",
-            "content": "AIRDO 항공이 8월 14일부터 29일까지 도쿄 하네다와 삿포로 신치토세 노선을 증편 운항합니다. 총 12편이 추가될 예정입니다.",
-            "alt_text": "항공기 이륙 모습"
-          },
-          {
-            "title": "증편 횟수",
-            "content": "이번 증편으로 해당 기간 동안 총 12편의 항공편이 추가됩니다. 7월부터 10월까지 총 36편 증편 계획의 일부입니다.",
-            "alt_text": "달력에 표시된 8월 날짜"
-          },
-          {
-            "title": "사용 항공기",
-            "content": "증편 운항에 사용되는 항공기는 보잉 737-700 기종으로, 총 144석을 갖추고 있습니다.",
-            "alt_text": "보잉 737 항공기 모습"
-          },
-          {
-            "title": "노선 정보",
-            "content": "해당 노선은 도쿄 하네다 공항(HND)과 삿포로 신치토세 공항(CTS)을 오가는 항공편입니다.",
-            "alt_text": "도쿄와 삿포로 지도 표시"
-          },
-          {
-            "title": "여행 팁",
-            "content": "8월 여름 휴가철, 도쿄와 삿포로를 잇는 항공편이 늘어나니 예약에 참고하시고, 미리 예약하시면 더욱 좋은 가격으로 이용하실 수 있습니다.",
-            "alt_text": "여름 휴가 즐기는 사람 모습"
-          }
-        ],
-        "caption": "✨8월 일본 여행 계획 중이신가요?✨\n\n도쿄 하네다 ↔ 삿포로 신치토세 노선이 8월 14일부터 29일까지 총 12편 증편됩니다! ✈️\n\n여름 성수기, 항공편 걱정은 덜고 신나는 일본 여행 즐기세요! 홋카이도와 도쿄를 모두 방문할 계획이라면 이번 증편 기회를 놓치지 마세요!\n\n#일본항공 #국내선증편 #도쿄여행 #삿포로여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공",
-          "#AIRDO",
-          "#도쿄",
-          "#삿포로",
-          "#하네다공항",
-          "#신치토세공항",
-          "#일본국내선",
-          "#8월여행",
-          "#여름휴가",
-          "#여행정보",
-          "#항공권",
-          "#일본여행팁",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "항공기 이륙 모습",
-          "달력에 표시된 8월 날짜",
-          "보잉 737 항공기 모습",
-          "도쿄와 삿포로 지도 표시",
-          "여름 휴가 즐기는 사람 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 8월 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 항공편 정보에 대한 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 증편 기간, 횟수, 항공기 정보를 제공하여 실질적인 도움 제공",
-      "image": {
-        "keyword": "airplane taking off, Tokyo, Sapporo, Japan domestic flight, August travel",
-        "unsplash_url": "https://unsplash.com/s/photos/airplane-taking-off,-Tokyo,-Sapporo,-Japan-domestic-flight,-August-travel",
-        "pexels_url": "https://www.pexels.com/search/airplane%20taking%20off,%20Tokyo,%20Sapporo,%20Japan%20domestic%20flight,%20August%20travel/"
-      }
-    },
-    {
-      "id": "plan_f0955bad",
-      "created_at": "2026-08-02T00:11:56.302344",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "首都高、10月1日に料金改定。普通車1kmあたり約3円、上限2130円に引き上げ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2129667.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 시 꼭 알아야 할 고속도로 요금 인상 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🚨 도쿄 수도고속도로 요금 인상!",
-        "cards": [
-          {
-            "title": "요금 인상",
-            "content": "2023년 10월 1일부터 도쿄 수도고속도로 통행 요금이 평균 8.1% 인상됩니다. 일반 승용차 기준 1km당 요금이 약 32.472엔으로 오릅니다.",
-            "alt_text": "도쿄 수도고속도로 요금 인상 안내"
-          },
-          {
-            "title": "인상 폭",
-            "content": "현재 1km당 29.52엔에서 약 10% 인상된 가격으로 조정됩니다. 1km당 약 3엔 정도 오르는 셈입니다.",
-            "alt_text": "도쿄 수도고속도로 요금 인상 폭 설명"
-          },
-          {
-            "title": "최저/최고 요금",
-            "content": "일반 승용차의 최저 요금 300엔과 최고 요금 구간(55.0km)은 기존과 동일하게 유지됩니다.",
-            "alt_text": "도쿄 수도고속도로 최저/최고 요금 유지 안내"
-          },
-          {
-            "title": "언제부터?",
-            "content": "인상된 요금은 2023년 10월 1일부터 적용되니, 해당 날짜 이후 도쿄에서 렌터카 이용 시 참고하세요.",
-            "alt_text": "도쿄 수도고속도로 요금 인상 적용 날짜"
-          },
-          {
-            "title": "꿀팁",
-            "content": "도쿄 시내 관광 시에는 대중교통 이용을 추천합니다. 렌터카 이용 시에는 예상보다 넉넉하게 예산을 잡는 것이 좋습니다.",
-            "alt_text": "도쿄 시내 대중교통 이용 추천"
-          }
-        ],
-        "caption": "🇯🇵 2023년 10월 1일부터 도쿄 수도고속도로 요금이 인상됩니다! 🚗 일반 승용차 기준 1km당 요금이 약 3엔 정도 오르니, 도쿄에서 렌터카 여행 계획 중이시라면 꼭 확인하세요! 🚨 최저/최고 요금 구간은 동일하게 유지됩니다. 도쿄 시내에서는 대중교통 이용을 추천하며, 렌터카 이용 시에는 예산을 넉넉하게 준비하는 것이 좋습니다. ✈️ #일본여행 #도쿄여행 #수도고속도로 #요금인상 #렌터카 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#일본교통",
-          "#일본렌터카",
-          "#도쿄",
-          "#수도고속도로",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#해외여행",
-          "#여행필수",
-          "#일본축제",
-          "#여행꿀팁",
-          "#일본"
-        ],
-        "alt_texts": [
-          "도쿄 수도고속도로 요금 인상 안내",
-          "도쿄 수도고속도로 요금 인상 폭 설명",
-          "도쿄 수도고속도로 최저/최고 요금 유지 안내",
-          "도쿄 수도고속도로 요금 인상 적용 날짜",
-          "도쿄 시내 대중교통 이용 추천"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 렌터카 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 1시 ~ 3시 / 기대 반응: 정보 습득 및 댓글 문의 / 이 콘텐츠의 강점: 시기적절하고 구체적인 교통 정보 제공",
-      "image": {
-        "keyword": "Tokyo Metropolitan Expressway toll increase",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Metropolitan-Expressway-toll-increase",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Metropolitan%20Expressway%20toll%20increase/"
       }
     }
   ]
