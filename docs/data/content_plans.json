@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-06T00:10:14.402232",
+  "last_updated": "2026-08-06T03:28:24.714242",
   "plans": [
+    {
+      "id": "plan_0e5b8a6b",
+      "created_at": "2026-08-06T03:28:22.714043",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "新幹線ホームに「カップ氷」自販機が登場。JR新大阪駅27番ホーム6号車付近",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2130913.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센 이용 시 편리함을 더해줄 필수템 등장!"
+      },
+      "content": {
+        "thumbnail_title": "신칸센 탈 때 꿀템🧊",
+        "cards": [
+          {
+            "title": "새로운 자판기",
+            "content": "JR 신오사카역 도카이도 신칸센 27번 홈 6호차 근처에 '컵 얼음' 자판기가 등장했습니다.",
+            "alt_text": "신칸센 플랫폼에 설치된 얼음 자판기 이미지"
+          },
+          {
+            "title": "판매 시작일",
+            "content": "이 자판기는 8월 7일부터 운영을 시작했습니다. 더 이상 얼음을 구하기 위해 플랫폼을 벗어날 필요가 없어요.",
+            "alt_text": "자판기 작동 시작 날짜를 알리는 안내문 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "컵 얼음 하나의 가격은 220엔입니다. 시원한 음료를 즐기기에 딱 좋은 가격이죠.",
+            "alt_text": "자판기에서 판매되는 컵 얼음 가격 정보 이미지"
+          },
+          {
+            "title": "위치 안내",
+            "content": "JR 신오사카역 27번 홈, 6호차 근처에서 이 편리한 자판기를 찾으실 수 있습니다.",
+            "alt_text": "신오사카역 플랫폼 안내 표지판 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "신칸센 탑승 전 시원한 맥주나 음료를 준비하고 싶을 때, 혹은 더위를 식히고 싶을 때 잊지 말고 이용해보세요!",
+            "alt_text": "신칸센 좌석에서 얼음컵을 들고 있는 승객 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 신칸센 이용하시는 분들 주목! 🚄 JR 신오사카역에 '컵 얼음' 자판기가 생겼어요! 8월 7일부터 27번 홈 6호차 근처에서 220엔에 구매 가능합니다. 신칸센 타기 전 시원하게 음료를 즐겨보세요! 🧊\n\n#일본여행 #신오사카 #신칸센 #컵얼음 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#신오사카",
+          "#일본교통",
+          "#여행정보",
+          "#일본자판기",
+          "#여름여행",
+          "#여행필수템",
+          "#일본스타그램",
+          "#일본생활",
+          "#신칸센여행",
+          "#오사카",
+          "#JR",
+          "#일본핫플"
+        ],
+        "alt_texts": [
+          "신칸센 플랫폼에 설치된 얼음 자판기 이미지",
+          "자판기 작동 시작 날짜를 알리는 안내문 이미지",
+          "자판기에서 판매되는 컵 얼음 가격 정보 이미지",
+          "신오사카역 플랫폼 안내 표지판 이미지",
+          "신칸센 좌석에서 얼음컵을 들고 있는 승객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 이용객, 오사카 방문객 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 공유율 증가 / 이 콘텐츠의 강점: 구체적인 정보(위치, 가격, 날짜)와 실용적인 팁을 제공하여 즉각적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Shinkansen platform, ice vending machine, Osaka, Japan travel, convenience",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-platform,-ice-vending-machine,-Osaka,-Japan-travel,-convenience",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20platform,%20ice%20vending%20machine,%20Osaka,%20Japan%20travel,%20convenience/"
+      }
+    },
+    {
+      "id": "plan_993f47fd",
+      "created_at": "2026-08-06T03:28:13.399821",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "特別塗装機「JAL Jubilee Express」就航地にTDS25周年のフォトスポットが登場。10月末まで青森空港に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131043.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 항공사 JAL 특별 도색기와 인기 테마파크의 콜라보! 놓치면 후회할 특별한 포토존 등장!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 특별기X디즈니 📸",
+        "cards": [
+          {
+            "title": "특별 포토존 등장!",
+            "content": "일본항공(JAL) 특별 도색기 'JAL Jubilee Express'가 취항하는青森공항에 도쿄 디즈니씨 25주년 기념 포토존이 설치됩니다.",
+            "alt_text": "JAL 특별 도색기 'JAL Jubilee Express' 이미지"
+          },
+          {
+            "title": "포토존 위치",
+            "content": "青森공항 여객 터미널 3층 전망 데크 출입구 앞에 마련될 예정입니다.",
+            "alt_text": "공항 전망대 이미지"
+          },
+          {
+            "title": "기간 한정",
+            "content": "이 특별한 포토존은 10월 말까지만 운영되니, 해당 기간에青森공항을 방문하신다면 꼭 들러보세요!",
+            "alt_text": "달력에 10월 말일이 표시된 이미지"
+          },
+          {
+            "title": "JAL 특별 도색기",
+            "content": "'JAL Jubilee Express'는 도쿄 디즈니씨 25주년을 기념하여 특별히 도색된 항공기입니다. 일본 주요 공항에서 만나볼 수 있습니다.",
+            "alt_text": "JAL 특별 도색기 상세 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "青森공항 방문 시, 특별한 추억을 남길 수 있는 절호의 기회! 멋진 배경에서 인생샷을 남겨보세요. 📸",
+            "alt_text": "휴대폰으로 사진 찍는 사람 이미지"
+          }
+        ],
+        "caption": "✈️ JAL 특별 도색기 'Jubilee Express'와 도쿄 디즈니씨 25주년이 만나 특별한 포토존이青森공항에 등장했어요! ✨\n\n10월 말까지만 운영되니,青森 여행 계획 중이시라면 꼭 방문해서 인생샷 남겨보세요! 📸\n\n#일본여행 #플라잉재팬 #JAL #도쿄디즈니씨 #青森공항 #일본항공",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#도쿄디즈니씨",
+          "#디즈니씨25주년",
+          "#青森공항",
+          "#일본여행정보",
+          "#일본이벤트",
+          "#특별한경험",
+          "#일본여행팁",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본",
+          "#여행"
+        ],
+        "alt_texts": [
+          "JAL 특별 도색기 'JAL Jubilee Express' 이미지",
+          "공항 전망대 이미지",
+          "달력에 10월 말일이 표시된 이미지",
+          "JAL 특별 도색기 상세 이미지",
+          "휴대폰으로 사진 찍는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6-9시 / 기대 반응: 포토존 방문 인증샷, 정보 공유 / 이 콘텐츠의 강점: 한정적인 기간과 특별한 콜라보로 희소성 강조",
+      "image": {
+        "keyword": "JAL Jubilee Express, Tokyo DisneySea 25th anniversary, Aomori Airport, photo spot",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Jubilee-Express,-Tokyo-DisneySea-25th-anniversary,-Aomori-Airport,-photo-spot",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Jubilee%20Express,%20Tokyo%20DisneySea%2025th%20anniversary,%20Aomori%20Airport,%20photo%20spot/"
+      }
+    },
     {
       "id": "plan_76a6de6f",
       "created_at": "2026-08-06T00:10:12.402067",
@@ -923,160 +1077,6 @@
         "keyword": "Haneda Airport, baggage drop deadline, airplane departure, travel preparation",
         "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport,-baggage-drop-deadline,-airplane-departure,-travel-preparation",
         "pexels_url": "https://www.pexels.com/search/Haneda%20Airport,%20baggage%20drop%20deadline,%20airplane%20departure,%20travel%20preparation/"
-      }
-    },
-    {
-      "id": "plan_99764384",
-      "created_at": "2026-08-03T00:12:18.454661",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語、加賀・片山津温泉の3ホテルで「柴山潟カヤック・サップ体験付きプラン」。夏の夜は湖上花火も楽しめる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2129693.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천에서 즐기는 특별한 액티비티와 야경!"
-      },
-      "content": {
-        "thumbnail_title": "온천+카약+불꽃놀이!🎆",
-        "cards": [
-          {
-            "title": "카약/SUP 플랜",
-            "content": "일본 이시카와현 가가시의 카타야마즈 온천에서 시바야마가타 호수 카약 및 SUP 체험 플랜을 10월 31일까지 판매합니다. 밤에는 호수 위 불꽃놀이도 즐길 수 있어요.",
-            "alt_text": "카타야마즈 온천에서 카약과 SUP을 즐기는 사람들"
-          },
-          {
-            "title": "야간 코스",
-            "content": "특히 밤에 호수 위에서 펼쳐지는 불꽃놀이를 감상할 수 있는 야간 코스는 8월 30일까지 한정으로 운영되니 서두르세요!",
-            "alt_text": "카타야마즈 온천 호수 위에서 펼쳐지는 불꽃놀이"
-          },
-          {
-            "title": "체험 가능 온천",
-            "content": "오에도 온천 이야기 그룹이 운영하는 카타야마즈 온천 지역 내 3개 시설에서 이 특별한 플랜을 이용할 수 있습니다.",
-            "alt_text": "오에도 온천 이야기 그룹의 호텔 외관"
-          },
-          {
-            "title": "이시카와현 명소",
-            "content": "아름다운 시바야마가타 호수를 배경으로 특별한 여름밤 추억을 만들 수 있는 절호의 기회입니다.",
-            "alt_text": "고요한 시바야마가타 호수의 풍경"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "액티비티 체험 시에는 복장과 준비물을 미리 확인하고, 야간 코스의 경우 운영 마감일을 꼭 지켜 예약하세요. 8월 30일 이후에는 야간 불꽃놀이 없이 낮 시간 체험만 가능합니다.",
-            "alt_text": "카약 및 SUP 장비와 안전 장비"
-          }
-        ],
-        "caption": "일본 이시카와현에서 특별한 여름밤을! 🎆\n카타야마즈 온천에서 카약, SUP 체험과 함께 호수 위 불꽃놀이까지 즐길 수 있는 절호의 기회!\n✨ 10월 31일까지 카약/SUP 플랜 운영\n✨ 야간 불꽃놀이 코스는 8월 30일까지!\n지금 바로 @flyingjapan에서 자세한 정보 확인하고 잊지 못할 추억을 만들어보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이시카와현",
-          "#카가시",
-          "#카타야마즈온천",
-          "#시바야마가타",
-          "#일본온천",
-          "#일본액티비티",
-          "#카약",
-          "#SUP",
-          "#불꽃놀이",
-          "#일본여름",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#여름휴가"
-        ],
-        "alt_texts": [
-          "카타야마즈 온천에서 카약과 SUP을 즐기는 사람들",
-          "카타야마즈 온천 호수 위에서 펼쳐지는 불꽃놀이",
-          "오에도 온천 이야기 그룹의 호텔 외관",
-          "고요한 시바야마가타 호수의 풍경",
-          "카약 및 SUP 장비와 안전 장비"
-        ]
-      },
-      "marketer_analysis": "타겟: 여름철 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 특별한 체험에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 일본 현지의 한정적인 시즌 이벤트와 액티비티를 결합하여 희소성 및 매력 부각",
-      "image": {
-        "keyword": "Kaga Onsen, Shibayamagata Lake, Kayaking, SUP, Fireworks, Summer Night, Ishikawa Prefecture, Japan Travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Kaga-Onsen,-Shibayamagata-Lake,-Kayaking,-SUP,-Fireworks,-Summer-Night,-Ishikawa-Prefecture,-Japan-Travel",
-        "pexels_url": "https://www.pexels.com/search/Kaga%20Onsen,%20Shibayamagata%20Lake,%20Kayaking,%20SUP,%20Fireworks,%20Summer%20Night,%20Ishikawa%20Prefecture,%20Japan%20Travel/"
-      }
-    },
-    {
-      "id": "plan_0f423686",
-      "created_at": "2026-08-03T00:12:12.571327",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "長崎県の乗り放題きっぷ＋観光チケットが最大30％オフ。my routeで行く「NAGASAKIぐる～んとmyたびキャンペーン」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2129745.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나가사키 여행 시 교통+관광 할인 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "나가사키 30% 할인 꿀팁! ✈️",
-        "cards": [
-          {
-            "title": "최대 30% 할인!",
-            "content": "나가사키현에서 'NAGASAKIぐる～んとmyたびキャンペーン'을 진행합니다. 교통과 관광 티켓을 최대 30% 할인된 가격으로 이용할 수 있어요.",
-            "alt_text": "할인율이 표시된 캠페인 홍보 이미지"
-          },
-          {
-            "title": "어떻게 이용하나요?",
-            "content": "my route 앱을 통해 캠페인에 참여할 수 있습니다. 도요타 파이낸셜 서비스, 큐슈 MaaS 협의회, 나가사키현 MaaS 실행위원회가 함께 진행하는 캠페인입니다.",
-            "alt_text": "my route 앱 화면 캡처"
-          },
-          {
-            "title": "언제까지?",
-            "content": "캠페인 기간은 별도 공지될 예정입니다. 자세한 내용은 my route 앱에서 확인 가능합니다.",
-            "alt_text": "달력 아이콘과 함께 캠페인 기간을 나타내는 이미지"
-          },
-          {
-            "title": "나가사키 추천!",
-            "content": "나가사키의 다양한 명소를 더욱 알뜰하게 즐길 수 있는 기회입니다. 맛집, 관광지 방문 시 교통비 절약 꿀팁!",
-            "alt_text": "나가사키의 아름다운 풍경 사진"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "여행 계획 시 my route 앱을 미리 확인해보세요. 할인 혜택을 통해 더욱 풍성한 나가사키 여행을 만들 수 있습니다.",
-            "alt_text": "스마트폰으로 여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "✈️ 나가사키 여행 필수 정보! ✈️\n\n나가사키현에서 교통+관광 티켓을 최대 30% 할인받을 수 있는 'NAGASAKIぐる～んとmyたびキャンペーン'이 시작됩니다!\n\nmy route 앱을 통해 참여 가능하며, 나가사키의 명소를 더욱 알뜰하게 즐길 수 있는 절호의 기회!\n\n여행 전에 꼭 확인하고 알찬 나가사키 여행 계획 세우세요! 💖\n\n#나가사키여행 #일본교통 #여행할인 #플라잉재팬 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나가사키",
-          "#나가사키여행",
-          "#일본교통",
-          "#일본할인",
-          "#여행스타그램",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본어플",
-          "#myroute",
-          "#일본여행꿀팁",
-          "#해외여행",
-          "#여행",
-          "#일본"
-        ],
-        "alt_texts": [
-          "할인율이 표시된 캠페인 홍보 이미지",
-          "my route 앱 화면 캡처",
-          "달력 아이콘과 함께 캠페인 기간을 나타내는 이미지",
-          "나가사키의 아름다운 풍경 사진",
-          "스마트폰으로 여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 나가사키 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 캠페인 참여율 증가, 나가사키 여행 관심도 상승 / 이 콘텐츠의 강점: 구체적인 할인율 및 이용 방법 제시, 실질적인 여행 경비 절감 효과 강조",
-      "image": {
-        "keyword": "Nagasaki travel discount, my route app, transportation ticket offer",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-travel-discount,-my-route-app,-transportation-ticket-offer",
-        "pexels_url": "https://www.pexels.com/search/Nagasaki%20travel%20discount,%20my%20route%20app,%20transportation%20ticket%20offer/"
       }
     }
   ]
