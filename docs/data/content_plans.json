@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-07T03:12:05.214165",
+  "last_updated": "2026-08-07T23:48:23.343489",
   "plans": [
+    {
+      "id": "plan_5f09eb11",
+      "created_at": "2026-08-07T23:48:21.343338",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「Reach for the Stars」公演に伴うファンタジーランドの夜間入場規制を変更。9月から18時50分～20時ごろに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131630.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드 야간 입장 규제 변경! 9월 도쿄 여행 시 꼭 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니랜드 밤 입장 변경!✨",
+        "cards": [
+          {
+            "title": "야간 입장 규제",
+            "content": "도쿄 디즈니랜드의 야간 엔터테인먼트 'Reach for the Stars: Everlasting Dreams' 공연으로 인해 판타지랜드 야간 입장 규제 시간이 변경됩니다.",
+            "alt_text": "도쿄 디즈니랜드 판타지랜드 야경"
+          },
+          {
+            "title": "변경 기간",
+            "content": "이번 규제 변경은 9월 1일부터 9월 14일까지 적용됩니다. 해당 기간 동안 방문 예정이라면 꼭 참고하세요!",
+            "alt_text": "달력에 표시된 9월 1일부터 14일까지"
+          },
+          {
+            "title": "규제 시간",
+            "content": "변경되는 야간 입장 규제 시간은 매일 18시 50분부터 20시까지입니다. 평소보다 늦은 시간에 입장 제한이 있을 수 있습니다.",
+            "alt_text": "시간 표시가 있는 디즈니랜드 지도"
+          },
+          {
+            "title": "공연 정보",
+            "content": "변경된 규제는 'Reach for the Stars: Everlasting Dreams'라는 야간 엔터테인먼트 공연과 관련이 있습니다. 환상적인 공연을 기대해 보세요!",
+            "alt_text": "화려한 불꽃놀이와 함께 펼쳐지는 공연 모습"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "9월 초중순 도쿄 디즈니랜드를 방문한다면, 변경된 야간 입장 시간을 미리 확인하고 계획을 세우는 것이 좋습니다. 특히 18시 50분 이후 판타지랜드 방문 예정이라면 더욱 주의하세요!",
+            "alt_text": "디즈니랜드 티켓과 함께 계획을 세우는 여행객"
+          }
+        ],
+        "caption": "✨9월 도쿄 디즈니랜드 방문 예정이라면 주목!✨\n'Reach for the Stars: Everlasting Dreams' 공연으로 인해 판타지랜드 야간 입장 규제 시간이 변경됩니다.\n\n🗓️ 변경 기간: 9월 1일 (금) ~ 9월 14일 (목)\n⏰ 규제 시간: 매일 18:50 ~ 20:00\n\n여행 계획에 꼭 참고하셔서 즐거운 디즈니랜드 경험 놓치지 마세요! 😉\n\n#도쿄디즈니랜드 #디즈니랜드 #일본여행 #9월여행 #도쿄여행 #여행정보 #디즈니 #해외여행 #여행꿀팁 #도쿄 #일본 #디즈니퍼레이드 #야간개장 #테마파크 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니랜드",
+          "#9월여행",
+          "#도쿄여행",
+          "#여행정보",
+          "#디즈니",
+          "#해외여행",
+          "#여행꿀팁",
+          "#도쿄",
+          "#일본",
+          "#디즈니퍼레이드",
+          "#야간개장",
+          "#테마파크"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 판타지랜드 야경",
+          "달력에 표시된 9월 1일부터 14일까지",
+          "시간 표시가 있는 디즈니랜드 지도",
+          "화려한 불꽃놀이와 함께 펼쳐지는 공연 모습",
+          "디즈니랜드 티켓과 함께 계획을 세우는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 9월 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 5시~7시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 구체적인 수치와 날짜 명시",
+      "image": {
+        "keyword": "Tokyo Disneyland night view, Fantasy land, entertainment show, September travel, limited entry",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-night-view,-Fantasy-land,-entertainment-show,-September-travel,-limited-entry",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20night%20view,%20Fantasy%20land,%20entertainment%20show,%20September%20travel,%20limited%20entry/"
+      }
+    },
+    {
+      "id": "plan_8f0e8627",
+      "created_at": "2026-08-07T23:48:16.650493",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "フェルメール《真珠の耳飾りの少女》展のグッズ公開。図録/ミッフィー/葬送のフリーレンほか、注目ブランドコラボが実現",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131745.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올여름, 오사카에서 만나는 '진주 귀걸이를 한 소녀' 특별 전시!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 특별 전시✨",
+        "cards": [
+          {
+            "title": "전시 기간",
+            "content": "페르메르 '진주 귀걸이를 한 소녀' 특별 전시가 2024년 8월 21일부터 개최됩니다. 17세기 네덜란드 회화 거장의 작품을 직접 만나볼 기회입니다.",
+            "alt_text": "전시 포스터 이미지"
+          },
+          {
+            "title": "전시 장소",
+            "content": "전시는 오사카 나카노시마 미술관(오사카부 오사카시 기타구 나카노시마 4-3-1)에서 열립니다. 오사카 시내 중심부에서 접근성이 좋습니다.",
+            "alt_text": "오사카 나카노시마 미술관 외관 이미지"
+          },
+          {
+            "title": "주요 전시품",
+            "content": "이번 전시에서는 '진주 귀걸이를 한 소녀' 외에도 17세기 네덜란드 회화의 걸작들이 대거 전시됩니다. 17세기 네덜란드 회화의 진수를 경험하세요.",
+            "alt_text": "페르메르 작품 이미지 (예시)"
+          },
+          {
+            "title": "특별 굿즈",
+            "content": "전시를 기념하여 특별 굿즈도 출시됩니다. 도록, 미피 콜라보 상품, '장송의 프리렌' 관련 상품 등 다양한 한정판 굿즈를 놓치지 마세요.",
+            "alt_text": "전시 굿즈 이미지 (예시)"
+          },
+          {
+            "title": "예매 팁",
+            "content": "인기 전시인 만큼 사전 예매는 필수입니다. 공식 홈페이지를 통해 티켓 정보를 미리 확인하고, 원하는 날짜와 시간을 선점하세요.",
+            "alt_text": "전시 티켓 이미지"
+          }
+        ],
+        "caption": "✨오사카에서 만나는 명화의 감동!✨\n\n페르메르의 '진주 귀걸이를 한 소녀' 특별 전시가 8월 21일부터 오사카 나카노시마 미술관에서 열립니다.\n\n17세기 네덜란드 거장의 작품과 함께 특별 굿즈도 만나보세요! 🎨\n\n#오사카여행 #페르메르 #진주귀걸이를한소녀 #일본미술",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카",
+          "#오사카여행",
+          "#페르메르",
+          "#진주귀걸이를한소녀",
+          "#미술관",
+          "#나카노시마미술관",
+          "#일본전시",
+          "#문화생활",
+          "#여행정보",
+          "#여름휴가",
+          "#일본축제",
+          "#해외여행",
+          "#전시회"
+        ],
+        "alt_texts": [
+          "전시 포스터 이미지",
+          "오사카 나카노시마 미술관 외관 이미지",
+          "페르메르 작품 이미지 (예시)",
+          "전시 굿즈 이미지 (예시)",
+          "전시 티켓 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 예술/문화에 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유 / 이 콘텐츠의 강점: 희소성 높은 명화 전시 정보와 함께 실질적인 방문 팁 제공",
+      "image": {
+        "keyword": "Vermeer exhibition Osaka, Pearl Earrings girl museum, Japan art tour",
+        "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka,-Pearl-Earrings-girl-museum,-Japan-art-tour",
+        "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka,%20Pearl%20Earrings%20girl%20museum,%20Japan%20art%20tour/"
+      }
+    },
     {
       "id": "plan_b4fe2775",
       "created_at": "2026-08-07T03:12:03.213984",
@@ -923,160 +1077,6 @@
         "keyword": "JAL flight attendant, Japanese local town, community revitalization, hidden gem, travel experience",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-attendant,-Japanese-local-town,-community-revitalization,-hidden-gem,-travel-experience",
         "pexels_url": "https://www.pexels.com/search/JAL%20flight%20attendant,%20Japanese%20local%20town,%20community%20revitalization,%20hidden%20gem,%20travel%20experience/"
-      }
-    },
-    {
-      "id": "plan_b6e54c91",
-      "created_at": "2026-08-04T03:29:47.049862",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "海ほたる、PA改修工事に伴い1階駐車場の一部、下りエスカレーター、階段に利用制限",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2130143.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 시 꼭 들르는 아쿠아라인, 해상 휴게소 이용 제한! 미리 알아보고 계획 세우세요!"
-      },
-      "content": {
-        "thumbnail_title": "⚠️ 아쿠아라인 해호타루 PA 이용 제한 ⚠️",
-        "cards": [
-          {
-            "title": "공사 기간",
-            "content": "도쿄만 아쿠아라인 해호타루 PA에서 리뉴얼 공사가 진행됩니다. 1층 대형 주차장(상행선), 3~5층 에스컬레이터 및 통로 일부 이용이 제한됩니다. 공사 기간은 2023년 8월 17일부터 12월 말까지입니다.",
-            "alt_text": "공사 안내 표지판 이미지"
-          },
-          {
-            "title": "이용 제한 구역",
-            "content": "구체적으로 1층 대형 주차장(상행선), 3층부터 5층까지의 에스컬레이터와 일부 통로 구간 이용이 제한됩니다. 공사로 인해 불편함이 예상되니 방문 전 반드시 확인하세요.",
-            "alt_text": "주차장 및 에스컬레이터 이미지"
-          },
-          {
-            "title": "대체 경로 확인",
-            "content": "해호타루 PA 방문 시, 공사로 인해 평소와 다른 동선이 필요할 수 있습니다. 특히 주차 공간 부족이나 에스컬레이터 이용 불가 상황에 대비해 미리 대체 경로를 파악하는 것이 좋습니다.",
-            "alt_text": "지도 이미지"
-          },
-          {
-            "title": "교통 정보",
-            "content": "도쿄만 아쿠아라인은 도쿄와 치바를 잇는 중요한 교통로입니다. 공사로 인한 교통 혼잡 가능성도 염두에 두고, 여유로운 일정 계획을 추천합니다.",
-            "alt_text": "아쿠아라인 도로 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "공사 기간 중 해호타루 PA 방문 예정이라면, 공식 홈페이지 등에서 최신 정보를 수시로 확인하는 것이 필수입니다. 다른 휴게소 이용이나 대체 교통편도 고려해보세요.",
-            "alt_text": "휴게소 안내 표지판 이미지"
-          }
-        ],
-        "caption": "🇯🇵 도쿄 여행 필수 코스, 아쿠아라인 해호타루 PA 이용 제한 안내 🇯🇵\n\n✨ 8월 17일부터 12월 말까지! 1층 주차장(상행선), 3~5층 에스컬레이터 및 통로 일부 이용이 제한됩니다.\n\n🚨 도쿄 및 치바 오가는 길, 꼭 미리 확인하고 여유로운 여행 계획 세우세요!\n\n#일본여행 #도쿄여행 #아쿠아라인 #해호타루 #교통정보 #여행꿀팁 #플라잉재팬 #일본교통 #여행계획 #필수정보 #일본안내 #여행스타그램 #도쿄 #치바 #일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#아쿠아라인",
-          "#해호타루",
-          "#일본교통",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본",
-          "#도쿄",
-          "#치바",
-          "#여행스타그램",
-          "#일본필수",
-          "#여행계획",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "공사 안내 표지판 이미지",
-          "주차장 및 에스컬레이터 이미지",
-          "지도 이미지",
-          "아쿠아라인 도로 이미지",
-          "휴게소 안내 표지판 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 및 치바 지역 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 정보 습득 및 공유, 여행 계획 수정 / 이 콘텐츠의 강점: 실질적인 이용 제한 정보로 여행 계획에 직접적인 도움을 줄 수 있음.",
-      "image": {
-        "keyword": "Tokyo Bay Aqua-Line, Umihotaru PA, construction, restriction, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay-Aqua-Line,-Umihotaru-PA,-construction,-restriction,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay%20Aqua-Line,%20Umihotaru%20PA,%20construction,%20restriction,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_b9c5dc5f",
-      "created_at": "2026-08-04T03:29:38.843746",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "関西発着、出雲エリア周遊の高速道路料金がお得になる定額プラン「山陰まんなか出雲路ドライブパス」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2130199.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 산인 지역, 특히 출운(이즈모) 지역을 렌터카로 여행할 때 고속도로 통행료를 절약할 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "🚗 출운 지역 렌터카 여행 꿀팁! 🛣️",
-        "cards": [
-          {
-            "title": "새로운 드라이브 패스",
-            "content": "NEXCO 서일본과 시마네현이 함께 '산인 만나카 출운로 드라이브 패스'를 출시합니다. 이 패스는 ETC 차량 전용입니다.",
-            "alt_text": "고속도로 표지판 이미지"
-          },
-          {
-            "title": "통합 요금제",
-            "content": "간사이 지역 출발/도착 시 출운 지역을 포함한 산인 지역을 편리하게 여행할 수 있도록 고속도로 이용 요금을 정액제로 제공합니다.",
-            "alt_text": "일본 지도에 고속도로 경로 표시된 이미지"
-          },
-          {
-            "title": "판매 시작일",
-            "content": "2023년 8월 17일 0시부터 연중 판매될 예정입니다. 미리 알아두면 계획 세우기 좋아요!",
-            "alt_text": "달력에 8월 17일 표시된 이미지"
-          },
-          {
-            "title": "신청 가능일",
-            "content": "패스 신청은 2023년 8월 3일 14시부터 가능합니다. 여행 계획 중이라면 서둘러 신청하세요!",
-            "alt_text": "시간 표시된 시계 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "출운(이즈모) 지역뿐만 아니라 산인 지역을 렌터카로 집중적으로 둘러볼 예정이라면 필수! 통행료 부담을 크게 줄일 수 있습니다.",
-            "alt_text": "일본 시골 도로를 달리는 자동차 이미지"
-          }
-        ],
-        "caption": "🚗🇯🇵 간사이 출발! 산인/출운 지역 렌터카 여행자 주목! 🇯🇵🚗\n\n새로운 '산인 만나카 출운로 드라이브 패스'가 출시됩니다! 🤩\nETC 차량 전용으로, 간사이 지역에서 출운(이즈모) 지역을 포함한 산인 지역을 여행할 때 고속도로 통행료를 정액제로 할인받을 수 있어요. 💰\n\n✅ 판매 시작: 2023년 8월 17일 0시부터 (연중 판매)\n✅ 신청 시작: 2023년 8월 3일 14시부터\n\n출운 지역의 신사, 아름다운 해안 등 렌터카로 여유롭게 둘러볼 계획이라면 이 패스로 교통비 절약하세요! 👍\n\n#일본여행 #산인여행 #출운여행 #이즈모 #렌터카 #일본렌터카 #고속도로할인 #드라이브패스 #플라잉재팬 #일본교통 #여행꿀팁 #일본자유여행 #간사이여행 #시마네현 #일본정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#산인여행",
-          "#출운여행",
-          "#이즈모",
-          "#일본렌터카",
-          "#렌터카",
-          "#고속도로할인",
-          "#드라이브패스",
-          "#일본교통",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#간사이여행",
-          "#시마네현",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "고속도로 표지판 이미지",
-          "일본 지도에 고속도로 경로 표시된 이미지",
-          "달력에 8월 17일 표시된 이미지",
-          "시간 표시된 시계 이미지",
-          "일본 시골 도로를 달리는 자동차 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 간사이 공항을 통해 일본에 입국하여 렌터카로 산인 지역(특히 출운/이즈모)을 여행할 계획이 있는 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 주말 오후 또는 저녁 시간 / 기대 반응: 정보성 콘텐츠에 대한 긍정적인 반응, 저장 및 공유 증가 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 지역명을 포함하여 실질적인 도움을 주는 정보 제공",
-      "image": {
-        "keyword": "Japan highway, Izumo region, rental car, toll pass, travel discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway,-Izumo-region,-rental-car,-toll-pass,-travel-discount",
-        "pexels_url": "https://www.pexels.com/search/Japan%20highway,%20Izumo%20region,%20rental%20car,%20toll%20pass,%20travel%20discount/"
       }
     }
   ]
