@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-07T01:44:13.326085",
+  "last_updated": "2026-08-07T03:12:05.214165",
   "plans": [
+    {
+      "id": "plan_b4fe2775",
+      "created_at": "2026-08-07T03:12:03.213984",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】東京駅「Suicaのペンギン チキンのり弁」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2131332.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역에서만 맛볼 수 있는 특별한 한정 도시락!"
+      },
+      "content": {
+        "thumbnail_title": "🍣 도쿄역 한정! 펭귄 도시락 🍱",
+        "cards": [
+          {
+            "title": "신상 도시락 출시!",
+            "content": "인기 캐릭터 'Suica의 펭귄'과 유명 도시락 '치킨 도시락'이 만난 특별한 콜라보 도시락이 도쿄역에 등장했습니다. 오렌지 페이지가 프로듀스한 7번째 시리즈입니다.",
+            "alt_text": "도쿄역에서 판매되는 Suica의 펭귄 치킨 도시락 이미지"
+          },
+          {
+            "title": "달라진 밥:",
+            "content": "작년 여름 시즌 메뉴였던 카레 필라프와 달리, 이번 신상 도시락은 토마토 풍미의 밥으로 새롭게 출시되었습니다. 기존 치킨 도시락의 맛을 살리면서도 신선함을 더했습니다.",
+            "alt_text": "토마토 풍미 밥이 담긴 도시락 이미지"
+          },
+          {
+            "title": "오직 도쿄역에서",
+            "content": "이 특별한 'Suica의 펭귄 치킨 도시락'은 도쿄역에서만 구매 가능하며, 일본 철도 여행의 재미를 더해줄 특별한 경험을 선사합니다. 여행 중 특별한 식사를 원한다면 놓치지 마세요.",
+            "alt_text": "도쿄역 풍경과 함께 도시락을 즐기는 모습"
+          },
+          {
+            "title": "가격 및 판매 정보",
+            "content": "정확한 가격 정보는 별도 확인이 필요하나, 일반적으로 역내 도시락은 1,000엔 내외로 판매됩니다. 판매 기간 및 정확한 구매처는 도쿄역 현장에서 확인해주세요.",
+            "alt_text": "도쿄역 내 도시락 판매 코너 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "한정판으로 조기 품절될 수 있으니, 도쿄역 방문 시 오전에 구매하시는 것을 추천합니다. 기차 안에서 즐기는 특별한 일본 식사를 만끽하세요!",
+            "alt_text": "창밖 풍경을 보며 도시락을 먹는 승객 이미지"
+          }
+        ],
+        "caption": "🍱 도쿄역에서만 맛볼 수 있는 특별한 도시락! 🍱\n\n인기 캐릭터 'Suica의 펭귄'과 스테디셀러 '치킨 도시락'이 만난 역대급 콜라보가 도쿄역에 상륙했어요! 🐧\n\n이번 도시락은 토마토 풍미의 밥으로 새롭게 출시되어 더욱 특별하답니다. 🍅\n\n도쿄 여행 중이라면 놓칠 수 없는 한정판 메뉴, 꼭 맛보세요!\n\n#일본여행 #도쿄역 #도시락 #한정판 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄역",
+          "#에키벤",
+          "#도시락",
+          "#치킨도시락",
+          "#Suica의펭귄",
+          "#일본음식",
+          "#도쿄맛집",
+          "#여행필수템",
+          "#일본한정",
+          "#일본먹방",
+          "#기차여행",
+          "#여행정보",
+          "#도쿄"
+        ],
+        "alt_texts": [
+          "도쿄역에서 판매되는 Suica의 펭귄 치킨 도시락 이미지",
+          "토마토 풍미 밥이 담긴 도시락 이미지",
+          "도쿄역 풍경과 함께 도시락을 즐기는 모습",
+          "도쿄역 내 도시락 판매 코너 이미지",
+          "창밖 풍경을 보며 도시락을 먹는 승객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 한국인 관광객 / 최적 게시 시간: 오후 1시~3시 (점심 식사 후 디저트나 간식 정보 탐색 시간) / 기대 반응: 높은 관심과 구매 희망, 친구 태그 및 정보 공유 / 이 콘텐츠의 강점: 한정판, 인기 캐릭터, 유명 도시락 콜라보로 희소성과 매력 강조",
+      "image": {
+        "keyword": "Tokyo Station Suica Penguin Chicken Bento limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Suica-Penguin-Chicken-Bento-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Suica%20Penguin%20Chicken%20Bento%20limited%20edition/"
+      }
+    },
+    {
+      "id": "plan_cb63629a",
+      "created_at": "2026-08-07T03:11:57.605628",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "WILLER、高速バス1kmあたり5円セール。東京～大阪は2750円、ご縁に感謝を込めた20周年記念キャンペーン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131348.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄-오사카 구간 2750엔! 20주년 기념 일본 고속버스 초특가 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🔥2750엔! 일본 고속버스 역대급 할인🔥",
+        "cards": [
+          {
+            "title": "20주년 기념",
+            "content": "일본 WILLER 고속버스가 운행 개시 20주년을 맞아 특별 캠페인을 시작했어요. 8월 5일부터 인기 노선을 대상으로 특별 운임을 제공합니다.",
+            "alt_text": "WILLER 고속버스 20주년 기념 캠페인 로고"
+          },
+          {
+            "title": "도쿄-오사카 2750엔",
+            "content": "가장 주목할 만한 혜택은 도쿄-오사카 구간을 단돈 2750엔에 이용할 수 있다는 점이에요. 평소보다 훨씬 저렴하게 일본 내 장거리 이동을 계획해 보세요.",
+            "alt_text": "도쿄-오사카 노선 지도와 2750엔 가격표"
+          },
+          {
+            "title": "1km당 5엔 꼴",
+            "content": "이번 캠페인은 고속버스 1km당 5엔이라는 파격적인 요금을 선보입니다. 장거리 이동 시 교통비를 크게 절약할 수 있는 기회입니다.",
+            "alt_text": "고속버스 1km당 5엔 요금 안내"
+          },
+          {
+            "title": "다양한 특별 혜택",
+            "content": "이번 20주년 스페셜 캠페인은 특별 운임 외에도 신규 서비스 기념 콜라보레이션 등 4가지 다채로운 이벤트를 함께 진행할 예정입니다.",
+            "alt_text": "20주년 스페셜 캠페인 4가지 이벤트 아이콘"
+          },
+          {
+            "title": "예약 팁 & 주의사항",
+            "content": "캠페인 기간 및 예약 가능 좌석은 한정적일 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 정확한 노선 및 운행 정보는 WILLER 공식 채널을 확인하세요.",
+            "alt_text": "달력에 표시된 캠페인 시작일과 돋보기 아이콘"
+          }
+        ],
+        "caption": "✨일본 여행 필수 정보! WILLER 고속버스 20주년 기념 초특가 찬스!✨\n\n도쿄-오사카 구간이 단돈 2750엔! 😱 1km당 5엔이라는 파격적인 가격으로 일본 내 장거리 이동 부담을 확 줄여보세요.\n\n8월 5일부터 시작되는 이번 캠페인은 인기 노선을 대상으로 진행되며, 특별 운임 외에도 다양한 이벤트가 준비되어 있다고 해요.\n\n여행 계획 중이시라면, 이 기회를 절대 놓치지 마세요! ✈️\n\n#일본여행 #플라잉재팬 #WILLER #고속버스 #일본교통 #일본여행정보 #도쿄 #오사카 #교통비할인 #20주년기념 #일본국내선 #여행꿀팁 #놓치면후회 #가성비여행 #일본가볼만한곳",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#WILLER",
+          "#고속버스",
+          "#일본교통",
+          "#일본여행정보",
+          "#도쿄",
+          "#오사카",
+          "#교통비할인",
+          "#20주년기념",
+          "#일본국내선",
+          "#여행꿀팁",
+          "#놓치면후회",
+          "#가성비여행",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "WILLER 고속버스 20주년 기념 캠페인 로고",
+          "도쿄-오사카 노선 지도와 2750엔 가격표",
+          "고속버스 1km당 5엔 요금 안내",
+          "20주년 스페셜 캠페인 4가지 이벤트 아이콘",
+          "달력에 표시된 캠페인 시작일과 돋보기 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 가격 정보와 명확한 혜택 제시",
+      "image": {
+        "keyword": "Japan highway bus discount, WILLER express, Tokyo to Osaka 2750 yen, 20th anniversary campaign, budget travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway-bus-discount,-WILLER-express,-Tokyo-to-Osaka-2750-yen,-20th-anniversary-campaign,-budget-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japan%20highway%20bus%20discount,%20WILLER%20express,%20Tokyo%20to%20Osaka%202750%20yen,%2020th%20anniversary%20campaign,%20budget%20travel%20Japan/"
+      }
+    },
     {
       "id": "plan_ff73c15e",
       "created_at": "2026-08-07T01:44:11.325883",
@@ -923,160 +1077,6 @@
         "keyword": "Japan highway, Izumo region, rental car, toll pass, travel discount",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-highway,-Izumo-region,-rental-car,-toll-pass,-travel-discount",
         "pexels_url": "https://www.pexels.com/search/Japan%20highway,%20Izumo%20region,%20rental%20car,%20toll%20pass,%20travel%20discount/"
-      }
-    },
-    {
-      "id": "plan_015acd7f",
-      "created_at": "2026-08-04T00:15:57.488650",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "アドベンチャーワールド入園券をセットで買うと和歌山・奈良の高速道路乗り放題がさらにお得になるドライブパス",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2130205.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 시 고속도로 이용 시 알뜰하게 즐기는 방법!"
-      },
-      "content": {
-        "thumbnail_title": "🚗일본 고속도로 무제한! 꿀팁👍",
-        "cards": [
-          {
-            "title": "새 드라이브 패스",
-            "content": " NEXCO 서일본에서 '간사이 에어리어 주유 어드벤처 월드 드라이브 패스'를 8월 17일부터 판매합니다.",
-            "alt_text": "일본 고속도로 표지판 이미지"
-          },
-          {
-            "title": "이용 조건",
-            "content": "ETC 차량 한정으로 이용 가능하며, 어드벤처 월드 입장권과 세트로 구매 시 더욱 저렴하게 이용할 수 있습니다.",
-            "alt_text": "ETC 카드 이미지"
-          },
-          {
-            "title": "신청 시작일",
-            "content": "8월 3일 오후 2시부터 신청 접수를 시작합니다. 서둘러 신청하세요!",
-            "alt_text": "달력에 표시된 날짜 이미지"
-          },
-          {
-            "title": "주요 이용 지역",
-            "content": "와카야마와 나라 지역의 고속도로를 무제한으로 이용하며 여행할 수 있습니다.",
-            "alt_text": "일본 와카야마, 나라 지역 지도 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "어드벤처 월드 방문 계획이 있다면 이 드라이브 패스를 활용해 보세요. 교통비 절약은 물론, 더욱 자유롭고 알찬 여행을 즐길 수 있습니다.",
-            "alt_text": "어드벤처 월드 전경 이미지"
-          }
-        ],
-        "caption": "일본 여행 시 고속도로 이용 계획 있으신가요? 🚗\n\nNEXCO 서일본에서 '간사이 에어리어 주유 어드벤처 월드 드라이브 패스'를 출시했어요!\n\n✅ 8월 17일부터 판매 시작\n✅ 8월 3일 오후 2시부터 신청 가능\n✅ ETC 차량 한정, 어드벤처 월드 입장권과 세트 구매 시 할인\n✅ 와카야마, 나라 지역 고속도로 무제한 이용\n\n어드벤처 월드 방문 계획 있다면 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #일본교통 #와카야마 #나라 #어드벤처월드 #드라이브패스 #일본렌트카 #꿀팁 #여행정보 #일본자유여행 #일본할인 #간사이여행 #일본가볼만한곳 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#와카야마",
-          "#나라",
-          "#어드벤처월드",
-          "#드라이브패스",
-          "#일본렌트카",
-          "#꿀팁",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본할인",
-          "#간사이여행",
-          "#일본가볼만한곳",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본 고속도로 표지판 이미지",
-          "ETC 카드 이미지",
-          "달력에 표시된 날짜 이미지",
-          "일본 와카야마, 나라 지역 지도 이미지",
-          "어드벤처 월드 전경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 렌터카 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 교통비 절약 정보 제공",
-      "image": {
-        "keyword": "Japan highway pass, Wakayama Nara road trip, Adventure World ticket deal",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway-pass,-Wakayama-Nara-road-trip,-Adventure-World-ticket-deal",
-        "pexels_url": "https://www.pexels.com/search/Japan%20highway%20pass,%20Wakayama%20Nara%20road%20trip,%20Adventure%20World%20ticket%20deal/"
-      }
-    },
-    {
-      "id": "plan_8da73f7a",
-      "created_at": "2026-08-04T00:15:52.114197",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、交通＋宿泊セットで最大3万6000円引き。JR/ANA/JALが選べる「楽パック」20周年記念キャンペーン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2130208.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 최대 3만 6천 엔까지 절약할 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 여행 3.6만엔 할인!",
-        "cards": [
-          {
-            "title": "楽パック 20주년",
-            "content": "일본 최대 여행 플랫폼 楽パック(라쿠팩)이 출시 20주년을 맞아 특별 캠페인을 진행해요. 교통편과 숙소를 자유롭게 조합하는 패키지 상품을 최대 3만 6천 엔 할인된 가격으로 만나볼 수 있어요.",
-            "alt_text": "楽パック 20주년 기념 캠페인 로고"
-          },
-          {
-            "title": "선택 가능한 교통편",
-            "content": "이번 캠페인에서는 JR, ANA, JAL 등 일본의 주요 교통편을 자유롭게 선택할 수 있어요. 원하는 항공사나 열차를 골라 나만의 맞춤 여행 계획을 세워보세요.",
-            "alt_text": "JR, ANA, JAL 로고"
-          },
-          {
-            "title": "언제까지? 9/30까지!",
-            "content": "할인 혜택은 2024년 9월 30일까지 진행됩니다. 여행 계획이 있다면 서둘러 楽パック 웹사이트에서 혜택을 확인하고 예약하세요!",
-            "alt_text": "캘린더에 9월 30일 표시"
-          },
-          {
-            "title": "최대 3.6만엔 할인",
-            "content": "이번 캠페인을 통해 최대 3만 6천 엔의 파격적인 할인을 받을 수 있다는 점이 가장 큰 매력이에요. 알뜰하게 일본 여행을 즐길 절호의 기회입니다.",
-            "alt_text": "숫자 36000이 강조된 할인 아이콘"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "할인율은 상품 조합 및 기간에 따라 달라질 수 있으니, 예약 시 상세 조건을 꼭 확인하세요. 楽パック은 일본 현지 플랫폼이므로, 일본어로 진행될 수 있습니다. (번역기 활용 추천)",
-            "alt_text": "물음표와 느낌표가 있는 팁 아이콘"
-          }
-        ],
-        "caption": "일본 여행 경비 확 줄이는 꿀팁! ✈️\n\n일본 최대 여행 플랫폼 楽パック(라쿠팩)이 20주년을 맞아 특별 캠페인을 진행해요!\n\nJR, ANA, JAL 등 원하는 교통편과 숙소를 자유롭게 조합하여 최대 3만 6천 엔 할인된 가격으로 만나보세요.\n\n✅ 캠페인 기간: 9월 30일까지\n\n알뜰하게 일본 여행을 즐길 절호의 기회, 놓치지 마세요! 😉\n\n#일본여행 #일본항공권 #일본숙소 #일본여행팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본할인",
-          "#라쿠팩",
-          "#일본패키지여행",
-          "#일본교통",
-          "#일본항공권",
-          "#일본숙소",
-          "#일본여행준비",
-          "#일본여행꿀팁",
-          "#해외여행",
-          "#여행스타그램",
-          "#여행정보",
-          "#일본자유여행",
-          "#여행특가"
-        ],
-        "alt_texts": [
-          "楽パック 20주년 기념 캠페인 로고",
-          "JR, ANA, JAL 로고",
-          "캘린더에 9월 30일 표시",
-          "숫자 36000이 강조된 할인 아이콘",
-          "물음표와 느낌표가 있는 팁 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 예약 문의 증가, 정보 공유 확산 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 기간 명시로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Japanese travel package discount, Rakupack campaign, JR ANA JAL flight hotel combo",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-travel-package-discount,-Rakupack-campaign,-JR-ANA-JAL-flight-hotel-combo",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20travel%20package%20discount,%20Rakupack%20campaign,%20JR%20ANA%20JAL%20flight%20hotel%20combo/"
       }
     }
   ]
