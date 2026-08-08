@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-07T23:48:23.343489",
+  "last_updated": "2026-08-08T02:10:21.843259",
   "plans": [
+    {
+      "id": "plan_c400ccc4",
+      "created_at": "2026-08-08T02:10:19.843074",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "長崎スタジアムシティでの観戦＆2泊で最大1万円お得になる「長崎満喫！アウェイ遠征応援キャンペーン」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131688.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 절약할 수 있는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "💖나가사키 여행 최대 1만엔 할인!",
+        "cards": [
+          {
+            "title": "캠페인 소개",
+            "content": "나가사키현에서 '나가사키 만끽! 원정 응원 캠페인'을 7월 1일부터 실시해요. 이 캠페인은 나가사키 스타디움 시티에서의 관람과 2박 숙박을 포함하여 최대 1만엔까지 할인 혜택을 제공합니다.",
+            "alt_text": "나가사키 만끽! 원정 응원 캠페인 포스터 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "총 2박 3일의 나가사키 여행 동안 최대 1만엔의 할인 혜택을 받을 수 있습니다. 숙박과 특정 시설 이용 시 적용될 것으로 예상됩니다.",
+            "alt_text": "할인 금액을 나타내는 1만엔 지폐 이미지"
+          },
+          {
+            "title": "대상",
+            "content": "나가사키 스타디움 시티에서 열리는 경기를 관람하려는 원정 팬들을 대상으로 하며, 나가사키현 나가사키시에서 진행됩니다.",
+            "alt_text": "경기장을 향해 달려가는 팬들의 모습 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "자세한 참여 방법 및 대상 경기는 추후 발표될 예정입니다. 나가사키 여행 계획 중이라면 주목해주세요!",
+            "alt_text": "물음표와 함께 캠페인 정보를 기다리는 사람 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "이번 캠페인을 활용하면 나가사키 여행 경비를 크게 절약할 수 있어요. 7월 이후 나가사키 방문 예정이라면 꼭 확인해보세요!",
+            "alt_text": "돈을 절약하는 모습을 나타내는 돼지 저금통 이미지"
+          }
+        ],
+        "caption": "🇯🇵 나가사키 여행 꿀팁 대방출! 🇯🇵\n\n나가사키현에서 최대 1만엔까지 할인받을 수 있는 '나가사키 만끽! 원정 응원 캠페인'이 7월 1일부터 시작됩니다! 🎉\n\n나가사키 스타디움 시티 방문과 2박 숙박을 연계한 이번 캠페인으로 알뜰하게 나가사키를 즐겨보세요. 자세한 내용은 추후 발표될 예정이니, 나가사키 여행 계획 중이라면 꼭 주목해주세요! 😉\n\n#플라잉재팬 #일본여행 #나가사키 #나가사키여행 #일본할인 #여행꿀팁 #일본정보 #나가사키스타디움시티 #원정응원 #여행스타그램 #일본자유여행 #가성비여행 #일본축제 #7월일본여행 #나가사키맛집",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나가사키",
+          "#나가사키여행",
+          "#일본할인",
+          "#여행꿀팁",
+          "#일본정보",
+          "#나가사키스타디움시티",
+          "#원정응원",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#가성비여행",
+          "#일본축제",
+          "#7월일본여행",
+          "#나가사키맛집"
+        ],
+        "alt_texts": [
+          "나가사키 만끽! 원정 응원 캠페인 포스터 이미지",
+          "할인 금액을 나타내는 1만엔 지폐 이미지",
+          "경기장을 향해 달려가는 팬들의 모습 이미지",
+          "물음표와 함께 캠페인 정보를 기다리는 사람 이미지",
+          "돈을 절약하는 모습을 나타내는 돼지 저금통 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 나가사키 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 할인 정보에 대한 관심 및 공유 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 정보 제공",
+      "image": {
+        "keyword": "Nagasaki Stadium City, discount campaign, Japan travel, travel savings, local event",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-Stadium-City,-discount-campaign,-Japan-travel,-travel-savings,-local-event",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki%20Stadium%20City,%20discount%20campaign,%20Japan%20travel,%20travel%20savings,%20local%20event/"
+      }
+    },
+    {
+      "id": "plan_34763751",
+      "created_at": "2026-08-08T02:10:15.019555",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ゼンリン、スポーツファンの長崎遠征を応援。上位ランクインで和牛がもらえる「GO！GO！長崎スタンプラリー」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131718.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 스탬프 랠리로 숨겨진 명소 발견하고 와규까지 득템!"
+      },
+      "content": {
+        "thumbnail_title": "✨나가사키 스탬프 랠리✨",
+        "cards": [
+          {
+            "title": "GO! GO! 나가사키",
+            "content": "나가사키 시에서 개최하는 'GO! GO! 나가사키 스탬프 랠리'에 참여하세요! 📍관광 앱 'STLOCAL'을 통해 진행됩니다.",
+            "alt_text": "나가사키 시에서 진행되는 스탬프 랠리 안내 이미지"
+          },
+          {
+            "title": "이벤트 기간",
+            "content": "2024년 8월 7일부터 2027년 3월 31일까지 넉넉하게 진행됩니다. 🗓️여행 계획에 맞춰 참여해 보세요!",
+            "alt_text": "스탬프 랠리 이벤트 기간 안내 캘린더 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "앱에서 스탬프를 모으고 미션을 달성하면 됩니다. 🗺️나가사키의 숨겨진 명소를 발견하는 재미가 쏠쏠해요.",
+            "alt_text": "앱을 이용해 스탬프를 모으는 모습 이미지"
+          },
+          {
+            "title": "특별 혜택!",
+            "content": "상위 랭크에 오르면 맛있는 와규를 받을 수 있는 기회! 🥩놓치지 마세요!",
+            "alt_text": "맛있는 와규 사진"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 동선을 미리 계획하여 효율적으로 스탬프를 모으는 것이 중요해요. 🚶‍♀️앱을 통해 현재 위치와 스탬프 위치를 확인하며 즐겨보세요!",
+            "alt_text": "나가사키 지도 위에 스탬프 위치가 표시된 이미지"
+          }
+        ],
+        "caption": "일본 나가사키 여행 중이라면 놓칠 수 없는 꿀정보! 🤩\n'GO! GO! 나가사키 스탬프 랠리'가 2027년 3월 31일까지 진행된대요. 🗓️\n관광 앱 'STLOCAL'에서 스탬프를 모으고, 미션을 달성하면 추첨을 통해 맛있는 와규까지 받을 수 있다고! 🥩\n나가사키 숨겨진 명소도 발견하고, 푸짐한 선물도 받아 가세요! 🎁\n\n#일본여행 #플라잉재팬 #나가사키여행 #나가사키 #일본이벤트 #스탬프랠리 #여행꿀팁 #일본자유여행 #일본축제 #여행스타그램 #일본여행정보 #여행어디까지가봤니 #일본맛집 #일본카페 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나가사키여행",
+          "#나가사키",
+          "#일본이벤트",
+          "#스탬프랠리",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#일본축제",
+          "#여행스타그램",
+          "#일본여행정보",
+          "#여행어디까지가봤니",
+          "#일본맛집",
+          "#일본카페",
+          "#일본쇼핑"
+        ],
+        "alt_texts": [
+          "나가사키 시에서 진행되는 스탬프 랠리 안내 이미지",
+          "스탬프 랠리 이벤트 기간 안내 캘린더 이미지",
+          "앱을 이용해 스탬프를 모으는 모습 이미지",
+          "맛있는 와규 사진",
+          "나가사키 지도 위에 스탬프 위치가 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 나가사키 여행 계획 중인 한국인 관광객 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 이벤트 참여율 증가, 나가사키 여행 관심도 상승 / 이 콘텐츠의 강점: 실질적인 혜택(와규), 장기간 진행되는 이벤트 정보, 게임형 콘텐츠로 흥미 유발",
+      "image": {
+        "keyword": "Nagasaki stamp rally, Japan event, Travel app, Wagyu beef prize, Local tourism",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-stamp-rally,-Japan-event,-Travel-app,-Wagyu-beef-prize,-Local-tourism",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki%20stamp%20rally,%20Japan%20event,%20Travel%20app,%20Wagyu%20beef%20prize,%20Local%20tourism/"
+      }
+    },
     {
       "id": "plan_5f09eb11",
       "created_at": "2026-08-07T23:48:21.343338",
@@ -923,160 +1077,6 @@
         "keyword": "Oigawa Railway, free ticket t-shirt, Japan train, limited edition, travel experience",
         "unsplash_url": "https://unsplash.com/s/photos/Oigawa-Railway,-free-ticket-t-shirt,-Japan-train,-limited-edition,-travel-experience",
         "pexels_url": "https://www.pexels.com/search/Oigawa%20Railway,%20free%20ticket%20t-shirt,%20Japan%20train,%20limited%20edition,%20travel%20experience/"
-      }
-    },
-    {
-      "id": "plan_679ee4ed",
-      "created_at": "2026-08-05T00:14:37.134058",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スタバ、名古屋・京都駅の新幹線ホーム上にも出店決定。新横浜駅の店舗ではストアスタンプが入手できるように",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2130520.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센 역에서 바로 스타벅스 커피를 즐길 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 신칸센 역 스벅 오픈!",
-        "cards": [
-          {
-            "title": "신칸센 홈 스벅",
-            "content": "스타벅스 재팬이 나고야역과 교토역 신칸센 홈에 매장을 오픈합니다. 신요코하마역점도 리뉴얼 오픈했어요.",
-            "alt_text": "일본 신칸센 홈에 위치한 스타벅스 매장 외관"
-          },
-          {
-            "title": "신요코하마점",
-            "content": "신요코하마역 신칸센 하행 홈 11호점에 위치한 스타벅스 매장이 6월 24일 영업을 재개했습니다. 테이크아웃만 가능해요.",
-            "alt_text": "리뉴얼 오픈한 신요코하마역 스타벅스 매장 내부"
-          },
-          {
-            "title": "영업 시간",
-            "content": "신요코하마점의 영업 시간은 오전 6시 30분부터 밤 9시 30분까지입니다. 이른 아침 기차 탑승 전 커피를 즐기세요.",
-            "alt_text": "스타벅스 매장 앞에서 영업 시간을 알리는 안내판"
-          },
-          {
-            "title": "새로운 경험",
-            "content": "이제 신칸센을 타기 전, 역 홈에서 바로 좋아하는 스타벅스 커피를 픽업할 수 있습니다. 여행의 설렘을 더해보세요.",
-            "alt_text": "신칸센을 기다리며 스타벅스 커피를 마시는 여행객"
-          },
-          {
-            "title": "꿀팁",
-            "content": "나고야역과 교토역점 오픈 일정은 추후 공개될 예정입니다. 오픈 시점에 맞춰 방문하면 특별한 경험을 할 수 있을 거예요.",
-            "alt_text": "여행 계획을 세우며 지도와 스마트폰을 보는 사람"
-          }
-        ],
-        "caption": "일본 여행 중 신칸센 이용 예정이라면 주목! 🚄\n\n스타벅스 재팬이 나고야역과 교토역 신칸센 홈에 매장을 오픈합니다. 이미 신요코하마역점은 6월 24일부터 영업 재개했어요!\n\n이른 아침부터 밤 늦게까지 이용 가능하니, 신칸센 탑승 전 커피 한 잔의 여유를 즐겨보세요. ☕\n\n새로운 역 스벅에서 특별한 여행의 추억을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스타벅스",
-          "#일본스타벅스",
-          "#신칸센",
-          "#일본교통",
-          "#나고야여행",
-          "#교토여행",
-          "#신요코하마",
-          "#일본카페",
-          "#여행정보",
-          "#일본꿀팁",
-          "#여행스타그램",
-          "#카페스타그램",
-          "#일본소식"
-        ],
-        "alt_texts": [
-          "일본 신칸센 홈에 위치한 스타벅스 매장 외관",
-          "리뉴얼 오픈한 신요코하마역 스타벅스 매장 내부",
-          "스타벅스 매장 앞에서 영업 시간을 알리는 안내판",
-          "신칸센을 기다리며 스타벅스 커피를 마시는 여행객",
-          "여행 계획을 세우며 지도와 스마트폰을 보는 사람"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행객 / 최적 게시 시간: 여행 전날 밤 또는 당일 오전 / 기대 반응: 정보 습득 및 공유, 여행 계획 수정 / 이 콘텐츠의 강점: 실용적인 정보와 새로운 경험 제공",
-      "image": {
-        "keyword": "Starbucks, Shinkansen station, Japan travel, Coffee break, Train station cafe",
-        "unsplash_url": "https://unsplash.com/s/photos/Starbucks,-Shinkansen-station,-Japan-travel,-Coffee-break,-Train-station-cafe",
-        "pexels_url": "https://www.pexels.com/search/Starbucks,%20Shinkansen%20station,%20Japan%20travel,%20Coffee%20break,%20Train%20station%20cafe/"
-      }
-    },
-    {
-      "id": "plan_d17888d3",
-      "created_at": "2026-08-05T00:14:31.765868",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】実践女子大学とJAL航空みらいラボが取り組む、新たな地域活性化の形（最終回）",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2128690.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 승무원들이 직접 참여하는 일본 지역 활성화 프로젝트, 숨겨진 명소와 특별한 경험을 만날 기회!"
-      },
-      "content": {
-        "thumbnail_title": "JAL 승무원표✨숨은명소찾기",
-        "cards": [
-          {
-            "title": "지역 활성화 프로젝트",
-            "content": "JAL은 'JALふるさとプロジェクト'를 통해 지역 활성화에 힘쓰고 있습니다. 2020년 8월부터는 객실 승무원들이 직접 지역으로 이주하여 'JALふるさとアンバサダー'로 활동 중입니다.",
-            "alt_text": "JAL 승무원이 지역 주민과 함께 웃으며 이야기하는 모습"
-          },
-          {
-            "title": "현지 전문가의 지식 활용",
-            "content": "승무원들은 각자 맡은 지역에 대한 깊은 애정을 바탕으로, 그들의 경험과 노하우를 살려 지역 특색을 살린 상품 개발 및 문제 해결에 참여하고 있습니다.",
-            "alt_text": "승무원이 지역 특산물 앞에서 설명하는 모습"
-          },
-          {
-            "title": "새로운 지역 경험",
-            "content": "이 프로젝트를 통해 한국인 여행자들은 기존에 알려지지 않았던 일본의 숨겨진 매력을 발견하고, 현지 문화를 더욱 깊이 체험할 수 있습니다.",
-            "alt_text": "아름다운 일본 시골 풍경과 함께 있는 승무원"
-          },
-          {
-            "title": "응원대 활동",
-            "content": "2020년 12월부터는 비행 중에도 지역 활성화에 기여하는 'JALふるさと応援隊'도 운영하며, 더 많은 승무원들의 참여를 독려하고 있습니다.",
-            "alt_text": "비행기 조종석 앞에서 웃고 있는 JAL 승무원들"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "JAL 탑승 시, 승무원에게 지역 추천을 요청해보세요! 예상치 못한 멋진 장소나 현지인만 아는 맛집을 추천받을 수 있을지도 모릅니다. ✈️",
-            "alt_text": "비행기 창문 밖으로 보이는 일본의 아름다운 풍경"
-          }
-        ],
-        "caption": "✨JAL 승무원들이 직접 발굴하고 소개하는 일본의 숨은 보석 같은 장소들을 만나보세요! 🇯🇵\n\nJAL의 '지역 활성화 프로젝트'에 참여하는 승무원들의 생생한 경험담과 함께, 여러분의 다음 일본 여행을 더욱 특별하게 만들어 줄 특별한 정보들을 담았습니다.\n\n✈️ 승무원들이 추천하는 진짜 일본을 경험하고 싶다면? 지금 바로 확인하세요! \n\n#일본여행 #플라잉재팬 #JAL #일본숨은명소 #지역활성화 #일본꿀팁 #일본정보 #JAL승무원 #일본문화체험 #여행스타그램 #일본여행준비 #이색여행 #일본맛집 #일본여행계획 #여행에미치다",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본숨은명소",
-          "#지역활성화",
-          "#일본꿀팁",
-          "#일본정보",
-          "#JAL승무원",
-          "#일본문화체험",
-          "#여행스타그램",
-          "#일본여행준비",
-          "#이색여행",
-          "#일본맛집",
-          "#일본여행계획",
-          "#여행에미치다"
-        ],
-        "alt_texts": [
-          "JAL 승무원이 지역 주민과 함께 웃으며 이야기하는 모습",
-          "승무원이 지역 특산물 앞에서 설명하는 모습",
-          "아름다운 일본 시골 풍경과 함께 있는 승무원",
-          "비행기 조종석 앞에서 웃고 있는 JAL 승무원들",
-          "비행기 창문 밖으로 보이는 일본의 아름다운 풍경"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 항공 이용 예정자, 색다른 일본 여행 경험을 추구하는 2040 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시, 주말 오후 2시~4시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 증가, JAL 항공권 검색량 증가 / 이 콘텐츠의 강점: JAL이라는 신뢰도 높은 항공사의 인물(승무원)을 활용하여 전문성과 친근함을 동시에 어필, 기존 정보와 차별화된 '숨겨진' 여행지 정보 제공 /",
-      "image": {
-        "keyword": "JAL flight attendant, Japanese local town, community revitalization, hidden gem, travel experience",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-attendant,-Japanese-local-town,-community-revitalization,-hidden-gem,-travel-experience",
-        "pexels_url": "https://www.pexels.com/search/JAL%20flight%20attendant,%20Japanese%20local%20town,%20community%20revitalization,%20hidden%20gem,%20travel%20experience/"
       }
     }
   ]
