@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-10T02:27:32.922898",
+  "last_updated": "2026-08-10T23:50:50.828428",
   "plans": [
+    {
+      "id": "plan_9cf68cd0",
+      "created_at": "2026-08-10T23:50:48.828233",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ディズニー・ハロウィーン」フード＆ドリンクまとめ。こわがりおばけちゃんのスーベニアや注目メニューを予習しよう",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132045.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 할로윈 한정 신메뉴! 놓치면 후회할 비주얼과 맛을 미리 만나보세요!"
+      },
+      "content": {
+        "thumbnail_title": "🎃도쿄 디즈니 할로윈 신메뉴🎃",
+        "cards": [
+          {
+            "title": "이벤트 기간",
+            "content": "도쿄 디즈니랜드와 디즈니씨에서 '디즈니 할로윈' 이벤트가 9월 16일부터 10월 31일까지 열립니다.",
+            "alt_text": "할로윈 분위기의 디즈니랜드 입구"
+          },
+          {
+            "title": "한정 메뉴 출시",
+            "content": "이벤트 개막 전날인 9월 15일부터 특별한 한정 메뉴들을 만나볼 수 있습니다.",
+            "alt_text": "다양한 할로윈 테마 음료와 디저트"
+          },
+          {
+            "title": "주목할 메뉴",
+            "content": "특히 '겁쟁이 유령' 캐릭터를 활용한 수베니어(기념품) 상품과 함께 시선을 사로잡는 메뉴들이 준비될 예정입니다.",
+            "alt_text": "귀여운 유령 모양의 디저트"
+          },
+          {
+            "title": "방문 예정이라면?",
+            "content": "여행 계획 중이라면, 9월 15일 이후 방문 시 꼭 맛봐야 할 메뉴들을 미리 확인해보세요!",
+            "alt_text": "할로윈 코스튬을 입은 디즈니 캐릭터"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 메뉴는 조기 품절될 수 있으니, 방문 당일 오픈 시간에 맞춰 서두르거나 판매처에 문의하는 것이 좋습니다.",
+            "alt_text": "할로윈 특별 메뉴를 즐기는 사람들"
+          }
+        ],
+        "caption": "🎃 도쿄 디즈니 할로윈, 9월 15일부터 한정 신메뉴 대공개! 🎃\n\n올해 디즈니 할로윈은 9월 16일부터 10월 31일까지 열리지만, 9월 15일부터 특별한 한정 메뉴들을 먼저 맛볼 수 있다는 사실!\n\n특히 '겁쟁이 유령' 컨셉의 수베니어와 함께 시선을 사로잡는 비주얼의 메뉴들이 가득하다고 해요.\n\n여행 계획 중이라면, 놓치면 후회할 맛있는 할로윈을 미리 준비해보세요!\n\n#디즈니할로윈 #도쿄디즈니랜드 #도쿄디즈니씨 #일본여행 #할로윈 #신메뉴 #여행정보 #플라잉재팬 #디즈니신메뉴 #도쿄여행 #9월여행 #10월여행 #디즈니덕후 #여행꿀팁 #한정메뉴",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니할로윈",
+          "#할로윈",
+          "#신메뉴",
+          "#한정메뉴",
+          "#디즈니신메뉴",
+          "#도쿄여행",
+          "#9월여행",
+          "#10월여행",
+          "#여행정보",
+          "#여행꿀팁",
+          "#디즈니덕후"
+        ],
+        "alt_texts": [
+          "할로윈 분위기의 디즈니랜드 입구",
+          "다양한 할로윈 테마 음료와 디저트",
+          "귀여운 유령 모양의 디저트",
+          "할로윈 코스튬을 입은 디즈니 캐릭터",
+          "할로윈 특별 메뉴를 즐기는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 정보 공유 및 저장, 여행 계획 참고 / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 메뉴 출시일을 명확히 제시하여 실질적인 도움 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland Halloween food drink limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween-food-drink-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween%20food%20drink%20limited%20edition/"
+      }
+    },
+    {
+      "id": "plan_2a482692",
+      "created_at": "2026-08-10T23:50:42.574772",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "メイプルパンプキン味のチュロスをおうちでも。ディズニーの入園者限定・冷凍食品シリーズに秋限定フレーバー",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132088.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후라면 놓칠 수 없는 가을 한정 츄러스!"
+      },
+      "content": {
+        "thumbnail_title": "🎃디즈니 가을 한정 츄러스🍁",
+        "cards": [
+          {
+            "title": "신상 츄러스 등장!",
+            "content": "도쿄 디즈니리조트에서 9월 15일부터 '도쿄 디즈니리조트・프로즌 셀렉션' 시리즈에 메이플 펌킨 맛 츄러스를 새롭게 출시합니다.",
+            "alt_text": "도쿄 디즈니리조트 가을 한정 메이플 펌킨 츄러스 이미지"
+          },
+          {
+            "title": "집에서도 디즈니!",
+            "content": "이번 신상품은 방문객만 구매할 수 있는 냉동식품 시리즈로, 집에서도 간편하게 디즈니의 맛을 즐길 수 있습니다.",
+            "alt_text": "냉동 츄러스 박스 이미지"
+          },
+          {
+            "title": "가을 한정 맛",
+            "content": "달콤한 메이플과 고소한 펌킨의 조화로운 맛으로, 가을 분위기를 물씬 느낄 수 있는 특별한 메뉴입니다.",
+            "alt_text": "츄러스에 메이플 시럽과 펌킨 파우더가 뿌려진 모습"
+          },
+          {
+            "title": "가격 정보",
+            "content": "한 박스 가격은 5,000엔이며, 디즈니리조트 방문 시 구매 가능합니다.",
+            "alt_text": "가격 정보가 표시된 상품 라벨 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "방문객 한정 상품이니, 디즈니 방문 계획이 있다면 놓치지 말고 꼭 구매해보세요! 여행 기념품으로도 좋습니다.",
+            "alt_text": "디즈니랜드 또는 디즈니씨 내부에서 상품을 구매하는 모습"
+          }
+        ],
+        "caption": "🍁 도쿄 디즈니리조트에서 가을 한정 메이플 펌킨 츄러스 출시! 🎃\n\n9월 15일부터 방문객 한정으로 판매되는 냉동 츄러스로, 집에서도 디즈니의 가을을 맛볼 수 있어요.\n\n여행 중이라면 꼭 챙겨야 할 디즈니 굿즈! 츄러스 가격은 5,000엔입니다.\n\n#디즈니여행 #도쿄디즈니랜드 #도쿄디즈니씨 #가을여행 #디즈니한정 #츄러스 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니리조트",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니",
+          "#디즈니덕후",
+          "#가을여행",
+          "#한정메뉴",
+          "#츄러스",
+          "#일본디저트",
+          "#여행정보",
+          "#해외여행",
+          "#일본쇼핑",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니리조트 가을 한정 메이플 펌킨 츄러스 이미지",
+          "냉동 츄러스 박스 이미지",
+          "츄러스에 메이플 시럽과 펌킨 파우더가 뿌려진 모습",
+          "가격 정보가 표시된 상품 라벨 이미지",
+          "디즈니랜드 또는 디즈니씨 내부에서 상품을 구매하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니리조트 방문 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 구매 욕구 자극, 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 디즈니라는 강력한 IP와 가을 한정이라는 희소성, 구체적인 가격 및 출시일 정보 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland maple pumpkin churros, Disney resort frozen food, limited edition autumn snack",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-maple-pumpkin-churros,-Disney-resort-frozen-food,-limited-edition-autumn-snack",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20maple%20pumpkin%20churros,%20Disney%20resort%20frozen%20food,%20limited%20edition%20autumn%20snack/"
+      }
+    },
     {
       "id": "plan_7adbaf6f",
       "created_at": "2026-08-10T02:27:30.922718",
@@ -923,160 +1077,6 @@
         "keyword": "Vermeer exhibition Osaka, Pearl Earrings girl museum, Japan art tour",
         "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka,-Pearl-Earrings-girl-museum,-Japan-art-tour",
         "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka,%20Pearl%20Earrings%20girl%20museum,%20Japan%20art%20tour/"
-      }
-    },
-    {
-      "id": "plan_b4fe2775",
-      "created_at": "2026-08-07T03:12:03.213984",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】東京駅「Suicaのペンギン チキンのり弁」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2131332.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역에서만 맛볼 수 있는 특별한 한정 도시락!"
-      },
-      "content": {
-        "thumbnail_title": "🍣 도쿄역 한정! 펭귄 도시락 🍱",
-        "cards": [
-          {
-            "title": "신상 도시락 출시!",
-            "content": "인기 캐릭터 'Suica의 펭귄'과 유명 도시락 '치킨 도시락'이 만난 특별한 콜라보 도시락이 도쿄역에 등장했습니다. 오렌지 페이지가 프로듀스한 7번째 시리즈입니다.",
-            "alt_text": "도쿄역에서 판매되는 Suica의 펭귄 치킨 도시락 이미지"
-          },
-          {
-            "title": "달라진 밥:",
-            "content": "작년 여름 시즌 메뉴였던 카레 필라프와 달리, 이번 신상 도시락은 토마토 풍미의 밥으로 새롭게 출시되었습니다. 기존 치킨 도시락의 맛을 살리면서도 신선함을 더했습니다.",
-            "alt_text": "토마토 풍미 밥이 담긴 도시락 이미지"
-          },
-          {
-            "title": "오직 도쿄역에서",
-            "content": "이 특별한 'Suica의 펭귄 치킨 도시락'은 도쿄역에서만 구매 가능하며, 일본 철도 여행의 재미를 더해줄 특별한 경험을 선사합니다. 여행 중 특별한 식사를 원한다면 놓치지 마세요.",
-            "alt_text": "도쿄역 풍경과 함께 도시락을 즐기는 모습"
-          },
-          {
-            "title": "가격 및 판매 정보",
-            "content": "정확한 가격 정보는 별도 확인이 필요하나, 일반적으로 역내 도시락은 1,000엔 내외로 판매됩니다. 판매 기간 및 정확한 구매처는 도쿄역 현장에서 확인해주세요.",
-            "alt_text": "도쿄역 내 도시락 판매 코너 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "한정판으로 조기 품절될 수 있으니, 도쿄역 방문 시 오전에 구매하시는 것을 추천합니다. 기차 안에서 즐기는 특별한 일본 식사를 만끽하세요!",
-            "alt_text": "창밖 풍경을 보며 도시락을 먹는 승객 이미지"
-          }
-        ],
-        "caption": "🍱 도쿄역에서만 맛볼 수 있는 특별한 도시락! 🍱\n\n인기 캐릭터 'Suica의 펭귄'과 스테디셀러 '치킨 도시락'이 만난 역대급 콜라보가 도쿄역에 상륙했어요! 🐧\n\n이번 도시락은 토마토 풍미의 밥으로 새롭게 출시되어 더욱 특별하답니다. 🍅\n\n도쿄 여행 중이라면 놓칠 수 없는 한정판 메뉴, 꼭 맛보세요!\n\n#일본여행 #도쿄역 #도시락 #한정판 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄역",
-          "#에키벤",
-          "#도시락",
-          "#치킨도시락",
-          "#Suica의펭귄",
-          "#일본음식",
-          "#도쿄맛집",
-          "#여행필수템",
-          "#일본한정",
-          "#일본먹방",
-          "#기차여행",
-          "#여행정보",
-          "#도쿄"
-        ],
-        "alt_texts": [
-          "도쿄역에서 판매되는 Suica의 펭귄 치킨 도시락 이미지",
-          "토마토 풍미 밥이 담긴 도시락 이미지",
-          "도쿄역 풍경과 함께 도시락을 즐기는 모습",
-          "도쿄역 내 도시락 판매 코너 이미지",
-          "창밖 풍경을 보며 도시락을 먹는 승객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 한국인 관광객 / 최적 게시 시간: 오후 1시~3시 (점심 식사 후 디저트나 간식 정보 탐색 시간) / 기대 반응: 높은 관심과 구매 희망, 친구 태그 및 정보 공유 / 이 콘텐츠의 강점: 한정판, 인기 캐릭터, 유명 도시락 콜라보로 희소성과 매력 강조",
-      "image": {
-        "keyword": "Tokyo Station Suica Penguin Chicken Bento limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-Suica-Penguin-Chicken-Bento-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20Suica%20Penguin%20Chicken%20Bento%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_cb63629a",
-      "created_at": "2026-08-07T03:11:57.605628",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "WILLER、高速バス1kmあたり5円セール。東京～大阪は2750円、ご縁に感謝を込めた20周年記念キャンペーン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131348.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄-오사카 구간 2750엔! 20주년 기념 일본 고속버스 초특가 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🔥2750엔! 일본 고속버스 역대급 할인🔥",
-        "cards": [
-          {
-            "title": "20주년 기념",
-            "content": "일본 WILLER 고속버스가 운행 개시 20주년을 맞아 특별 캠페인을 시작했어요. 8월 5일부터 인기 노선을 대상으로 특별 운임을 제공합니다.",
-            "alt_text": "WILLER 고속버스 20주년 기념 캠페인 로고"
-          },
-          {
-            "title": "도쿄-오사카 2750엔",
-            "content": "가장 주목할 만한 혜택은 도쿄-오사카 구간을 단돈 2750엔에 이용할 수 있다는 점이에요. 평소보다 훨씬 저렴하게 일본 내 장거리 이동을 계획해 보세요.",
-            "alt_text": "도쿄-오사카 노선 지도와 2750엔 가격표"
-          },
-          {
-            "title": "1km당 5엔 꼴",
-            "content": "이번 캠페인은 고속버스 1km당 5엔이라는 파격적인 요금을 선보입니다. 장거리 이동 시 교통비를 크게 절약할 수 있는 기회입니다.",
-            "alt_text": "고속버스 1km당 5엔 요금 안내"
-          },
-          {
-            "title": "다양한 특별 혜택",
-            "content": "이번 20주년 스페셜 캠페인은 특별 운임 외에도 신규 서비스 기념 콜라보레이션 등 4가지 다채로운 이벤트를 함께 진행할 예정입니다.",
-            "alt_text": "20주년 스페셜 캠페인 4가지 이벤트 아이콘"
-          },
-          {
-            "title": "예약 팁 & 주의사항",
-            "content": "캠페인 기간 및 예약 가능 좌석은 한정적일 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 정확한 노선 및 운행 정보는 WILLER 공식 채널을 확인하세요.",
-            "alt_text": "달력에 표시된 캠페인 시작일과 돋보기 아이콘"
-          }
-        ],
-        "caption": "✨일본 여행 필수 정보! WILLER 고속버스 20주년 기념 초특가 찬스!✨\n\n도쿄-오사카 구간이 단돈 2750엔! 😱 1km당 5엔이라는 파격적인 가격으로 일본 내 장거리 이동 부담을 확 줄여보세요.\n\n8월 5일부터 시작되는 이번 캠페인은 인기 노선을 대상으로 진행되며, 특별 운임 외에도 다양한 이벤트가 준비되어 있다고 해요.\n\n여행 계획 중이시라면, 이 기회를 절대 놓치지 마세요! ✈️\n\n#일본여행 #플라잉재팬 #WILLER #고속버스 #일본교통 #일본여행정보 #도쿄 #오사카 #교통비할인 #20주년기념 #일본국내선 #여행꿀팁 #놓치면후회 #가성비여행 #일본가볼만한곳",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#WILLER",
-          "#고속버스",
-          "#일본교통",
-          "#일본여행정보",
-          "#도쿄",
-          "#오사카",
-          "#교통비할인",
-          "#20주년기념",
-          "#일본국내선",
-          "#여행꿀팁",
-          "#놓치면후회",
-          "#가성비여행",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "WILLER 고속버스 20주년 기념 캠페인 로고",
-          "도쿄-오사카 노선 지도와 2750엔 가격표",
-          "고속버스 1km당 5엔 요금 안내",
-          "20주년 스페셜 캠페인 4가지 이벤트 아이콘",
-          "달력에 표시된 캠페인 시작일과 돋보기 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 가격 정보와 명확한 혜택 제시",
-      "image": {
-        "keyword": "Japan highway bus discount, WILLER express, Tokyo to Osaka 2750 yen, 20th anniversary campaign, budget travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway-bus-discount,-WILLER-express,-Tokyo-to-Osaka-2750-yen,-20th-anniversary-campaign,-budget-travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/Japan%20highway%20bus%20discount,%20WILLER%20express,%20Tokyo%20to%20Osaka%202750%20yen,%2020th%20anniversary%20campaign,%20budget%20travel%20Japan/"
       }
     }
   ]
