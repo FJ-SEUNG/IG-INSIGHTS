@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-11T02:20:54.217484",
+  "last_updated": "2026-08-11T23:59:39.672831",
   "plans": [
+    {
+      "id": "plan_5fad781b",
+      "created_at": "2026-08-11T23:59:37.672648",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "新日本海フェリー、公式アプリで空席照会・乗船予約が可能に。季節のプランも随時配信",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131671.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 이동 시 유용한 페리 앱 출시! 실시간 좌석 확인부터 예약까지 한 번에 가능해요!"
+      },
+      "content": {
+        "thumbnail_title": "🚢 신페리 앱 출시!",
+        "cards": [
+          {
+            "title": "신페리 앱 등장!",
+            "content": "신일본해 페리에서 공식 앱 '신일본해 페리 공식 - 홋카이도 페리 예약・추천 정보'를 출시했어요. 이제 앱으로 편리하게 이용하세요!",
+            "alt_text": "새로운 일본 페리 앱 출시를 알리는 이미지"
+          },
+          {
+            "title": "실시간 좌석 확인",
+            "content": "앱을 통해 원하는 날짜와 시간대의 선박 좌석 현황을 실시간으로 확인할 수 있어요. 갑자기 계획이 바뀌어도 걱정 없어요!",
+            "alt_text": "앱 화면에서 좌석을 확인하는 모습"
+          },
+          {
+            "title": "간편 예약 가능",
+            "content": "앱 내에서 바로 승선 예약까지 가능해요. 복잡한 절차 없이 몇 번의 터치만으로 예약 완료!",
+            "alt_text": "앱에서 페리 예약 버튼을 누르는 모습"
+          },
+          {
+            "title": "시즌별 추천 플랜",
+            "content": "계절별 특별한 페리 플랜 정보도 수시로 업데이트될 예정이니, 특별한 여행 계획을 세우는 데 도움이 될 거예요.",
+            "alt_text": "앱에 표시된 계절별 추천 여행 플랜"
+          },
+          {
+            "title": "이용 꿀팁!",
+            "content": "출발 전 앱을 통해 미리 좌석을 확인하고 예약하면 더욱 여유로운 여행을 즐길 수 있어요. 특히 성수기에는 필수!",
+            "alt_text": "여행자가 앱을 보며 미소짓는 모습"
+          }
+        ],
+        "caption": "일본 북쪽 지역 여행 계획 중이신가요? 🚢 신일본해 페리에서 공식 앱을 출시했어요!\n\n이제 앱으로 실시간 좌석 확인은 물론, 간편하게 승선 예약까지 가능합니다. 🤩\n\n계절별 추천 플랜도 놓치지 마세요! 홋카이도 등 페리 여행을 더욱 스마트하게 즐겨보세요! ✨\n\n#일본페리 #신일본해페리 #홋카이도여행 #페리예약 #일본교통",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#신일본해페리",
+          "#일본페리",
+          "#홋카이도여행",
+          "#페리예약",
+          "#일본여행꿀팁",
+          "#여행정보",
+          "#해외여행",
+          "#일본",
+          "#여행스타그램",
+          "#스마트여행",
+          "#앱출시",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "새로운 일본 페리 앱 출시를 알리는 이미지",
+          "앱 화면에서 좌석을 확인하는 모습",
+          "앱에서 페리 예약 버튼을 누르는 모습",
+          "앱에 표시된 계절별 추천 여행 플랜",
+          "여행자가 앱을 보며 미소짓는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 등 일본 북부 지역 페리 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 8~10시 / 기대 반응: 앱 다운로드 및 정보 공유 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공, 예약 편의성 강조",
+      "image": {
+        "keyword": "Japan ferry app booking seat",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry-app-booking-seat",
+        "pexels_url": "https://www.pexels.com/search/Japan%20ferry%20app%20booking%20seat/"
+      }
+    },
+    {
+      "id": "plan_87a83d2b",
+      "created_at": "2026-08-11T23:59:30.947489",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ドームホテル、国産牛ローストビーフや後楽園飯店監修メニューが食べ放題「レトログルメフェア」。話題の絹糸かき氷やタコスバーも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132151.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄돔 호텔에서 즐기는 특별한 레트로 미식 뷔페!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄돔 호텔 뷔페✨",
+        "cards": [
+          {
+            "title": "기간 한정 뷔페",
+            "content": "도쿄돔 호텔에서 9월 30일까지 '레트로그루메페어' 뷔페를 선보입니다. 왕도의 양식과 중국 요리를 맛볼 수 있어요.",
+            "alt_text": "도쿄돔 호텔 외관"
+          },
+          {
+            "title": "메뉴 구성",
+            "content": "일본산 소고기 로스트비프와 후라쿠엔 호텔이 감수한 메뉴를 무제한으로 즐길 수 있습니다. 화제의 絹실 가키고리도 준비되어 있어요.",
+            "alt_text": "신선한 로스트비프"
+          },
+          {
+            "title": "특별 메뉴",
+            "content": "타코스 바도 마련되어 있어 다채로운 미식 경험을 선사합니다. 뷔페는 오전 11시 30분부터 오후 3시까지 운영됩니다.",
+            "alt_text": "다양한 타코"
+          },
+          {
+            "title": "장소 정보",
+            "content": "도쿄돔 호텔 (도쿄도 분쿄구 고라쿠 1-3-61)에서 열립니다. 도쿄 여행 중 특별한 식사를 원한다면 놓치지 마세요!",
+            "alt_text": "호텔 내부 뷔페 공간"
+          },
+          {
+            "title": "꿀팁",
+            "content": "9월 30일까지 진행되니 여행 계획에 맞춰 방문해보세요. 예약은 필수이며, 현지 인기 뷔페이니 서둘러 예약하는 것이 좋습니다.",
+            "alt_text": "맛있게 플레이팅된 음식"
+          }
+        ],
+        "caption": "🍣도쿄 여행 중 특별한 미식 경험을 원한다면?🍣\n도쿄돔 호텔에서 9월 30일까지 '레트로그루메페어' 뷔페를 개최합니다!\n일본산 소고기 로스트비프, 후라쿠엔 호텔 감수 메뉴, 화제의 絹실 가키고리, 타코스 바까지!\n놓칠 수 없는 맛있는 기회, 지금 바로 예약하세요! 😋",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄맛집",
+          "#도쿄호텔",
+          "#도쿄뷔페",
+          "#레트로그루메페어",
+          "#도쿄돔호텔",
+          "#미식여행",
+          "#여행정보",
+          "#일본식당",
+          "#일본음식",
+          "#가볼만한곳",
+          "#도쿄",
+          "#여행"
+        ],
+        "alt_texts": [
+          "도쿄돔 호텔 외관",
+          "신선한 로스트비프",
+          "다양한 타코",
+          "호텔 내부 뷔페 공간",
+          "맛있게 플레이팅된 음식"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 기간 한정, 고급 호텔 뷔페, 다양한 메뉴 구성",
+      "image": {
+        "keyword": "Tokyo Dome Hotel buffet, retro gourmet fair, Japanese beef roast beef, silk shaved ice, taco bar",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Dome-Hotel-buffet,-retro-gourmet-fair,-Japanese-beef-roast-beef,-silk-shaved-ice,-taco-bar",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Dome%20Hotel%20buffet,%20retro%20gourmet%20fair,%20Japanese%20beef%20roast%20beef,%20silk%20shaved%20ice,%20taco%20bar/"
+      }
+    },
     {
       "id": "plan_88587aff",
       "created_at": "2026-08-11T02:20:52.217169",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen discount ticket, Japan train travel, JR East Hokkaido, Ekinet reservation, Autumn winter travel Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-discount-ticket,-Japan-train-travel,-JR-East-Hokkaido,-Ekinet-reservation,-Autumn-winter-travel-Japan",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20discount%20ticket,%20Japan%20train%20travel,%20JR%20East%20Hokkaido,%20Ekinet%20reservation,%20Autumn%20winter%20travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_c400ccc4",
-      "created_at": "2026-08-08T02:10:19.843074",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "長崎スタジアムシティでの観戦＆2泊で最大1万円お得になる「長崎満喫！アウェイ遠征応援キャンペーン」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131688.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 절약할 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "💖나가사키 여행 최대 1만엔 할인!",
-        "cards": [
-          {
-            "title": "캠페인 소개",
-            "content": "나가사키현에서 '나가사키 만끽! 원정 응원 캠페인'을 7월 1일부터 실시해요. 이 캠페인은 나가사키 스타디움 시티에서의 관람과 2박 숙박을 포함하여 최대 1만엔까지 할인 혜택을 제공합니다.",
-            "alt_text": "나가사키 만끽! 원정 응원 캠페인 포스터 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "총 2박 3일의 나가사키 여행 동안 최대 1만엔의 할인 혜택을 받을 수 있습니다. 숙박과 특정 시설 이용 시 적용될 것으로 예상됩니다.",
-            "alt_text": "할인 금액을 나타내는 1만엔 지폐 이미지"
-          },
-          {
-            "title": "대상",
-            "content": "나가사키 스타디움 시티에서 열리는 경기를 관람하려는 원정 팬들을 대상으로 하며, 나가사키현 나가사키시에서 진행됩니다.",
-            "alt_text": "경기장을 향해 달려가는 팬들의 모습 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "자세한 참여 방법 및 대상 경기는 추후 발표될 예정입니다. 나가사키 여행 계획 중이라면 주목해주세요!",
-            "alt_text": "물음표와 함께 캠페인 정보를 기다리는 사람 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "이번 캠페인을 활용하면 나가사키 여행 경비를 크게 절약할 수 있어요. 7월 이후 나가사키 방문 예정이라면 꼭 확인해보세요!",
-            "alt_text": "돈을 절약하는 모습을 나타내는 돼지 저금통 이미지"
-          }
-        ],
-        "caption": "🇯🇵 나가사키 여행 꿀팁 대방출! 🇯🇵\n\n나가사키현에서 최대 1만엔까지 할인받을 수 있는 '나가사키 만끽! 원정 응원 캠페인'이 7월 1일부터 시작됩니다! 🎉\n\n나가사키 스타디움 시티 방문과 2박 숙박을 연계한 이번 캠페인으로 알뜰하게 나가사키를 즐겨보세요. 자세한 내용은 추후 발표될 예정이니, 나가사키 여행 계획 중이라면 꼭 주목해주세요! 😉\n\n#플라잉재팬 #일본여행 #나가사키 #나가사키여행 #일본할인 #여행꿀팁 #일본정보 #나가사키스타디움시티 #원정응원 #여행스타그램 #일본자유여행 #가성비여행 #일본축제 #7월일본여행 #나가사키맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나가사키",
-          "#나가사키여행",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본정보",
-          "#나가사키스타디움시티",
-          "#원정응원",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#가성비여행",
-          "#일본축제",
-          "#7월일본여행",
-          "#나가사키맛집"
-        ],
-        "alt_texts": [
-          "나가사키 만끽! 원정 응원 캠페인 포스터 이미지",
-          "할인 금액을 나타내는 1만엔 지폐 이미지",
-          "경기장을 향해 달려가는 팬들의 모습 이미지",
-          "물음표와 함께 캠페인 정보를 기다리는 사람 이미지",
-          "돈을 절약하는 모습을 나타내는 돼지 저금통 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 나가사키 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 할인 정보에 대한 관심 및 공유 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 정보 제공",
-      "image": {
-        "keyword": "Nagasaki Stadium City, discount campaign, Japan travel, travel savings, local event",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-Stadium-City,-discount-campaign,-Japan-travel,-travel-savings,-local-event",
-        "pexels_url": "https://www.pexels.com/search/Nagasaki%20Stadium%20City,%20discount%20campaign,%20Japan%20travel,%20travel%20savings,%20local%20event/"
-      }
-    },
-    {
-      "id": "plan_34763751",
-      "created_at": "2026-08-08T02:10:15.019555",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ゼンリン、スポーツファンの長崎遠征を応援。上位ランクインで和牛がもらえる「GO！GO！長崎スタンプラリー」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131718.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 스탬프 랠리로 숨겨진 명소 발견하고 와규까지 득템!"
-      },
-      "content": {
-        "thumbnail_title": "✨나가사키 스탬프 랠리✨",
-        "cards": [
-          {
-            "title": "GO! GO! 나가사키",
-            "content": "나가사키 시에서 개최하는 'GO! GO! 나가사키 스탬프 랠리'에 참여하세요! 📍관광 앱 'STLOCAL'을 통해 진행됩니다.",
-            "alt_text": "나가사키 시에서 진행되는 스탬프 랠리 안내 이미지"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "2024년 8월 7일부터 2027년 3월 31일까지 넉넉하게 진행됩니다. 🗓️여행 계획에 맞춰 참여해 보세요!",
-            "alt_text": "스탬프 랠리 이벤트 기간 안내 캘린더 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "앱에서 스탬프를 모으고 미션을 달성하면 됩니다. 🗺️나가사키의 숨겨진 명소를 발견하는 재미가 쏠쏠해요.",
-            "alt_text": "앱을 이용해 스탬프를 모으는 모습 이미지"
-          },
-          {
-            "title": "특별 혜택!",
-            "content": "상위 랭크에 오르면 맛있는 와규를 받을 수 있는 기회! 🥩놓치지 마세요!",
-            "alt_text": "맛있는 와규 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 동선을 미리 계획하여 효율적으로 스탬프를 모으는 것이 중요해요. 🚶‍♀️앱을 통해 현재 위치와 스탬프 위치를 확인하며 즐겨보세요!",
-            "alt_text": "나가사키 지도 위에 스탬프 위치가 표시된 이미지"
-          }
-        ],
-        "caption": "일본 나가사키 여행 중이라면 놓칠 수 없는 꿀정보! 🤩\n'GO! GO! 나가사키 스탬프 랠리'가 2027년 3월 31일까지 진행된대요. 🗓️\n관광 앱 'STLOCAL'에서 스탬프를 모으고, 미션을 달성하면 추첨을 통해 맛있는 와규까지 받을 수 있다고! 🥩\n나가사키 숨겨진 명소도 발견하고, 푸짐한 선물도 받아 가세요! 🎁\n\n#일본여행 #플라잉재팬 #나가사키여행 #나가사키 #일본이벤트 #스탬프랠리 #여행꿀팁 #일본자유여행 #일본축제 #여행스타그램 #일본여행정보 #여행어디까지가봤니 #일본맛집 #일본카페 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나가사키여행",
-          "#나가사키",
-          "#일본이벤트",
-          "#스탬프랠리",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#일본축제",
-          "#여행스타그램",
-          "#일본여행정보",
-          "#여행어디까지가봤니",
-          "#일본맛집",
-          "#일본카페",
-          "#일본쇼핑"
-        ],
-        "alt_texts": [
-          "나가사키 시에서 진행되는 스탬프 랠리 안내 이미지",
-          "스탬프 랠리 이벤트 기간 안내 캘린더 이미지",
-          "앱을 이용해 스탬프를 모으는 모습 이미지",
-          "맛있는 와규 사진",
-          "나가사키 지도 위에 스탬프 위치가 표시된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 나가사키 여행 계획 중인 한국인 관광객 / 최적 게시 시간: 평일 오전 10시, 오후 7시 / 기대 반응: 이벤트 참여율 증가, 나가사키 여행 관심도 상승 / 이 콘텐츠의 강점: 실질적인 혜택(와규), 장기간 진행되는 이벤트 정보, 게임형 콘텐츠로 흥미 유발",
-      "image": {
-        "keyword": "Nagasaki stamp rally, Japan event, Travel app, Wagyu beef prize, Local tourism",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-stamp-rally,-Japan-event,-Travel-app,-Wagyu-beef-prize,-Local-tourism",
-        "pexels_url": "https://www.pexels.com/search/Nagasaki%20stamp%20rally,%20Japan%20event,%20Travel%20app,%20Wagyu%20beef%20prize,%20Local%20tourism/"
       }
     }
   ]
