@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-10T23:50:50.828428",
+  "last_updated": "2026-08-11T02:20:54.217484",
   "plans": [
+    {
+      "id": "plan_88587aff",
+      "created_at": "2026-08-11T02:20:52.217169",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "吉野家はなぜ「白湯ラーメン」店を手掛けるのか？　大阪の「鶏吉」1号店に行ってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2131993.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 대표 외식 브랜드 '요시노야'가 라멘 사업에 진출! 어떤 맛일지 궁금하다면 주목!"
+      },
+      "content": {
+        "thumbnail_title": "🍜 요시노야, 라멘집 열었다! 🐔",
+        "cards": [
+          {
+            "title": "요시노야의 변신",
+            "content": "일본 최대 덮밥 체인점 '요시노야'가 오사카에 1호점 '토리요시(鶏吉)'를 열고 백탕 라멘 사업에 진출했습니다. 덮밥으로 익숙한 요시노야의 새로운 도전이 궁금하네요.",
+            "alt_text": "요시노야의 닭 육수 라멘 가게 '토리요시'의 간판 이미지"
+          },
+          {
+            "title": "메뉴는 '백탕 라멘'",
+            "content": "토리요시의 대표 메뉴는 깊고 진한 닭 육수를 베이스로 한 백탕 라멘입니다. 닭고기 본연의 풍미를 살린 깔끔하면서도 깊은 맛을 강조했습니다.",
+            "alt_text": "토리요시의 백탕 라멘 메뉴 이미지"
+          },
+          {
+            "title": "오사카 1호점 오픈",
+            "content": "현재 오사카 지역에 1호점을 오픈했으며, 향후 일본 전역으로 확대될 가능성이 있습니다. 여행 중 새로운 맛집을 찾는다면 방문해보는 것은 어떨까요?",
+            "alt_text": "오사카 시내에 위치한 토리요시 매장 외관 이미지"
+          },
+          {
+            "title": "요시노야의 전략",
+            "content": "단순히 메뉴 확장을 넘어, 일본 외식 시장의 트렌드를 파악하고 새로운 성장 동력을 찾기 위한 요시노야의 전략으로 풀이됩니다. 기존 고객층 외의 새로운 고객 확보를 노릴 것으로 보입니다.",
+            "alt_text": "요시노야의 다양한 메뉴 사진"
+          },
+          {
+            "title": "방문 팁 & 주의사항",
+            "content": "오사카 여행 중이라면 '토리요시'를 방문하여 요시노야의 새로운 도전을 맛보세요! 정확한 위치와 영업시간은 방문 전 현지 정보를 꼭 확인하는 것이 좋습니다.",
+            "alt_text": "여행 지도 앱에서 '토리요시' 검색 화면"
+          }
+        ],
+        "caption": "일본 여행 중 꼭 들르는 맛집, 요시노야! 🍜 그런데 요시노야가 이제 라멘집도 열었다는 사실, 알고 계셨나요? 🐔 오사카에 '토리요시'라는 이름으로 1호점을 오픈! 진한 백탕 라멘으로 승부수를 띄웠다고 합니다. 덮밥의 명가 요시노야의 새로운 도전을 경험하고 싶다면, 오사카 여행 시 참고하세요! 😉 #일본맛집 #오사카맛집 #요시노야 #토리요시 #일본라멘",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#요시노야",
+          "#토리요시",
+          "#일본라멘",
+          "#오사카맛집",
+          "#일본음식",
+          "#해외여행",
+          "#여행정보",
+          "#먹스타그램",
+          "#일본식당",
+          "#라멘투어",
+          "#새로운도전",
+          "#현지맛집"
+        ],
+        "alt_texts": [
+          "요시노야의 닭 육수 라멘 가게 '토리요시'의 간판 이미지",
+          "토리요시의 백탕 라멘 메뉴 이미지",
+          "오사카 시내에 위치한 토리요시 매장 외관 이미지",
+          "요시노야의 다양한 메뉴 사진",
+          "여행 지도 앱에서 '토리요시' 검색 화면"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 7시-9시 (저녁 식사 시간대) / 기대 반응: 정보 공유 및 댓글 문의, 맛집 탐방 의지 고취 / 이 콘텐츠의 강점: 한국인에게 인지도 높은 브랜드의 새로운 사업 진출 소식으로 높은 관심 유도",
+      "image": {
+        "keyword": "Yoshinoya ramen, Toriyoshi Osaka, Japanese ramen shop, new restaurant opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Yoshinoya-ramen,-Toriyoshi-Osaka,-Japanese-ramen-shop,-new-restaurant-opening",
+        "pexels_url": "https://www.pexels.com/search/Yoshinoya%20ramen,%20Toriyoshi%20Osaka,%20Japanese%20ramen%20shop,%20new%20restaurant%20opening/"
+      }
+    },
+    {
+      "id": "plan_51b06975",
+      "created_at": "2026-08-11T02:20:45.000082",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニー、ちょこっと仮装向け新作グッズまとめ。推しのヴィランズTに、ザ・サンボネッツのファンキャップが初登場",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132016.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니에서 할로윈 테마 신상 굿즈가 9월 3일부터 순차 출시됩니다! 🎃"
+      },
+      "content": {
+        "thumbnail_title": "🎃 9월 3일! 디즈니 할로윈 신상 굿즈",
+        "cards": [
+          {
+            "title": "9월 3일 출시!",
+            "content": "도쿄 디즈니리조트에서 '디즈니 할로윈'을 앞두고 빌런 디자인 신상 굿즈를 9월 3일부터 순차적으로 발매합니다.",
+            "alt_text": "디즈니 할로윈 테마의 신상 굿즈 일러스트"
+          },
+          {
+            "title": "빌런 테마 굿즈",
+            "content": "인기 있는 빌런 캐릭터를 테마로 한 티셔츠 등 다양한 상품이 출시될 예정입니다. '나만의 빌런'을 찾아보세요!",
+            "alt_text": "다양한 디즈니 빌런 캐릭터 티셔츠 디자인"
+          },
+          {
+            "title": "귀여운 팬캡",
+            "content": "'더 선보네츠' 캐릭터의 팬캡이 처음으로 등장합니다. 할로윈 분위기를 더해줄 특별한 아이템이 될 거예요.",
+            "alt_text": "더 선보네츠 캐릭터 팬캡 디자인"
+          },
+          {
+            "title": "ちょこっと仮装",
+            "content": "'ちょこっと仮装'(쪼끔 꾸미기)에 딱 맞는 귀여운 아이템들이 준비되어 있습니다. 부담 없이 할로윈 분위기를 즐길 수 있어요.",
+            "alt_text": "디즈니 할로윈 굿즈로 개성 있게 꾸민 모습"
+          },
+          {
+            "title": "방문 전 확인!",
+            "content": "정확한 출시일과 판매처는 도쿄 디즈니리조트 공식 홈페이지에서 확인하는 것을 추천합니다. 인기 상품은 조기 품절될 수 있어요!",
+            "alt_text": "도쿄 디즈니리조트 로고와 할로윈 장식"
+          }
+        ],
+        "caption": "🎃 도쿄 디즈니리조트에서 할로윈 시즌을 맞아 특별한 신상 굿즈를 선보입니다! \n9월 3일부터 순차적으로 출시되는 빌런 테마 티셔츠와 귀여운 팬캡으로 나만의 할로윈 스타일을 완성해보세요. 👻\n'쪼끔 꾸미기' 아이템으로 부담 없이 즐거운 추억을 만들 수 있을 거예요! ✨\n\n#일본여행 #도쿄디즈니랜드 #도쿄디즈니씨 #디즈니할로윈 #디즈니굿즈 #신상굿즈 #여행정보 #플라잉재팬 #일본쇼핑 #가을여행 #할로윈코스튬 #디즈니빌런 #도쿄여행 #여행스타그램 #일본추천",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니할로윈",
+          "#디즈니굿즈",
+          "#신상굿즈",
+          "#여행정보",
+          "#일본쇼핑",
+          "#가을여행",
+          "#할로윈코스튬",
+          "#디즈니빌런",
+          "#도쿄여행",
+          "#여행스타그램",
+          "#일본추천"
+        ],
+        "alt_texts": [
+          "디즈니 할로윈 테마의 신상 굿즈 일러스트",
+          "다양한 디즈니 빌런 캐릭터 티셔츠 디자인",
+          "더 선보네츠 캐릭터 팬캡 디자인",
+          "디즈니 할로윈 굿즈로 개성 있게 꾸민 모습",
+          "도쿄 디즈니리조트 로고와 할로윈 장식"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 시기 적절한 신상 굿즈 정보 제공 및 디즈니 팬들의 높은 관심 유도",
+      "image": {
+        "keyword": "Tokyo Disneyland Halloween new merchandise",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween-new-merchandise",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween%20new%20merchandise/"
+      }
+    },
     {
       "id": "plan_9cf68cd0",
       "created_at": "2026-08-10T23:50:48.828233",
@@ -923,160 +1077,6 @@
         "keyword": "Nagasaki stamp rally, Japan event, Travel app, Wagyu beef prize, Local tourism",
         "unsplash_url": "https://unsplash.com/s/photos/Nagasaki-stamp-rally,-Japan-event,-Travel-app,-Wagyu-beef-prize,-Local-tourism",
         "pexels_url": "https://www.pexels.com/search/Nagasaki%20stamp%20rally,%20Japan%20event,%20Travel%20app,%20Wagyu%20beef%20prize,%20Local%20tourism/"
-      }
-    },
-    {
-      "id": "plan_5f09eb11",
-      "created_at": "2026-08-07T23:48:21.343338",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「Reach for the Stars」公演に伴うファンタジーランドの夜間入場規制を変更。9月から18時50分～20時ごろに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131630.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니랜드 야간 입장 규제 변경! 9월 도쿄 여행 시 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 디즈니랜드 밤 입장 변경!✨",
-        "cards": [
-          {
-            "title": "야간 입장 규제",
-            "content": "도쿄 디즈니랜드의 야간 엔터테인먼트 'Reach for the Stars: Everlasting Dreams' 공연으로 인해 판타지랜드 야간 입장 규제 시간이 변경됩니다.",
-            "alt_text": "도쿄 디즈니랜드 판타지랜드 야경"
-          },
-          {
-            "title": "변경 기간",
-            "content": "이번 규제 변경은 9월 1일부터 9월 14일까지 적용됩니다. 해당 기간 동안 방문 예정이라면 꼭 참고하세요!",
-            "alt_text": "달력에 표시된 9월 1일부터 14일까지"
-          },
-          {
-            "title": "규제 시간",
-            "content": "변경되는 야간 입장 규제 시간은 매일 18시 50분부터 20시까지입니다. 평소보다 늦은 시간에 입장 제한이 있을 수 있습니다.",
-            "alt_text": "시간 표시가 있는 디즈니랜드 지도"
-          },
-          {
-            "title": "공연 정보",
-            "content": "변경된 규제는 'Reach for the Stars: Everlasting Dreams'라는 야간 엔터테인먼트 공연과 관련이 있습니다. 환상적인 공연을 기대해 보세요!",
-            "alt_text": "화려한 불꽃놀이와 함께 펼쳐지는 공연 모습"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "9월 초중순 도쿄 디즈니랜드를 방문한다면, 변경된 야간 입장 시간을 미리 확인하고 계획을 세우는 것이 좋습니다. 특히 18시 50분 이후 판타지랜드 방문 예정이라면 더욱 주의하세요!",
-            "alt_text": "디즈니랜드 티켓과 함께 계획을 세우는 여행객"
-          }
-        ],
-        "caption": "✨9월 도쿄 디즈니랜드 방문 예정이라면 주목!✨\n'Reach for the Stars: Everlasting Dreams' 공연으로 인해 판타지랜드 야간 입장 규제 시간이 변경됩니다.\n\n🗓️ 변경 기간: 9월 1일 (금) ~ 9월 14일 (목)\n⏰ 규제 시간: 매일 18:50 ~ 20:00\n\n여행 계획에 꼭 참고하셔서 즐거운 디즈니랜드 경험 놓치지 마세요! 😉\n\n#도쿄디즈니랜드 #디즈니랜드 #일본여행 #9월여행 #도쿄여행 #여행정보 #디즈니 #해외여행 #여행꿀팁 #도쿄 #일본 #디즈니퍼레이드 #야간개장 #테마파크 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니랜드",
-          "#9월여행",
-          "#도쿄여행",
-          "#여행정보",
-          "#디즈니",
-          "#해외여행",
-          "#여행꿀팁",
-          "#도쿄",
-          "#일본",
-          "#디즈니퍼레이드",
-          "#야간개장",
-          "#테마파크"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 판타지랜드 야경",
-          "달력에 표시된 9월 1일부터 14일까지",
-          "시간 표시가 있는 디즈니랜드 지도",
-          "화려한 불꽃놀이와 함께 펼쳐지는 공연 모습",
-          "디즈니랜드 티켓과 함께 계획을 세우는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 9월 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 5시~7시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 구체적인 수치와 날짜 명시",
-      "image": {
-        "keyword": "Tokyo Disneyland night view, Fantasy land, entertainment show, September travel, limited entry",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-night-view,-Fantasy-land,-entertainment-show,-September-travel,-limited-entry",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20night%20view,%20Fantasy%20land,%20entertainment%20show,%20September%20travel,%20limited%20entry/"
-      }
-    },
-    {
-      "id": "plan_8f0e8627",
-      "created_at": "2026-08-07T23:48:16.650493",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "フェルメール《真珠の耳飾りの少女》展のグッズ公開。図録/ミッフィー/葬送のフリーレンほか、注目ブランドコラボが実現",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131745.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "올여름, 오사카에서 만나는 '진주 귀걸이를 한 소녀' 특별 전시!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 특별 전시✨",
-        "cards": [
-          {
-            "title": "전시 기간",
-            "content": "페르메르 '진주 귀걸이를 한 소녀' 특별 전시가 2024년 8월 21일부터 개최됩니다. 17세기 네덜란드 회화 거장의 작품을 직접 만나볼 기회입니다.",
-            "alt_text": "전시 포스터 이미지"
-          },
-          {
-            "title": "전시 장소",
-            "content": "전시는 오사카 나카노시마 미술관(오사카부 오사카시 기타구 나카노시마 4-3-1)에서 열립니다. 오사카 시내 중심부에서 접근성이 좋습니다.",
-            "alt_text": "오사카 나카노시마 미술관 외관 이미지"
-          },
-          {
-            "title": "주요 전시품",
-            "content": "이번 전시에서는 '진주 귀걸이를 한 소녀' 외에도 17세기 네덜란드 회화의 걸작들이 대거 전시됩니다. 17세기 네덜란드 회화의 진수를 경험하세요.",
-            "alt_text": "페르메르 작품 이미지 (예시)"
-          },
-          {
-            "title": "특별 굿즈",
-            "content": "전시를 기념하여 특별 굿즈도 출시됩니다. 도록, 미피 콜라보 상품, '장송의 프리렌' 관련 상품 등 다양한 한정판 굿즈를 놓치지 마세요.",
-            "alt_text": "전시 굿즈 이미지 (예시)"
-          },
-          {
-            "title": "예매 팁",
-            "content": "인기 전시인 만큼 사전 예매는 필수입니다. 공식 홈페이지를 통해 티켓 정보를 미리 확인하고, 원하는 날짜와 시간을 선점하세요.",
-            "alt_text": "전시 티켓 이미지"
-          }
-        ],
-        "caption": "✨오사카에서 만나는 명화의 감동!✨\n\n페르메르의 '진주 귀걸이를 한 소녀' 특별 전시가 8월 21일부터 오사카 나카노시마 미술관에서 열립니다.\n\n17세기 네덜란드 거장의 작품과 함께 특별 굿즈도 만나보세요! 🎨\n\n#오사카여행 #페르메르 #진주귀걸이를한소녀 #일본미술",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#오사카여행",
-          "#페르메르",
-          "#진주귀걸이를한소녀",
-          "#미술관",
-          "#나카노시마미술관",
-          "#일본전시",
-          "#문화생활",
-          "#여행정보",
-          "#여름휴가",
-          "#일본축제",
-          "#해외여행",
-          "#전시회"
-        ],
-        "alt_texts": [
-          "전시 포스터 이미지",
-          "오사카 나카노시마 미술관 외관 이미지",
-          "페르메르 작품 이미지 (예시)",
-          "전시 굿즈 이미지 (예시)",
-          "전시 티켓 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 예술/문화에 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유 / 이 콘텐츠의 강점: 희소성 높은 명화 전시 정보와 함께 실질적인 방문 팁 제공",
-      "image": {
-        "keyword": "Vermeer exhibition Osaka, Pearl Earrings girl museum, Japan art tour",
-        "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka,-Pearl-Earrings-girl-museum,-Japan-art-tour",
-        "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka,%20Pearl%20Earrings%20girl%20museum,%20Japan%20art%20tour/"
       }
     }
   ]
