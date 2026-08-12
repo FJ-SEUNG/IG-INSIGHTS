@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-11T23:59:39.672831",
+  "last_updated": "2026-08-12T02:36:17.874513",
   "plans": [
+    {
+      "id": "plan_c8d9c9b8",
+      "created_at": "2026-08-12T02:36:15.874308",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スターラックス航空、札幌/千歳〜台中線を増便　1日1往復に",
+        "url": "https://www.traicy.com/posts/20260811378750/",
+        "date": "Tue, 11 Aug 2026 11:15:08 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 삿포로에서 타이베이까지, 스타럭스 항공 증편 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✈️삿포로-타이베이 노선 증편!",
+        "cards": [
+          {
+            "title": "스타럭스 항공",
+            "content": "스타럭스 항공이 삿포로(치토세)와 타이베이 노선을 증편합니다. 기존 주 5회에서 1일 1왕복으로 운항 횟수가 늘어납니다.",
+            "alt_text": "스타럭스 항공 로고"
+          },
+          {
+            "title": "운항 시작일",
+            "content": "새로운 운항 스케줄은 10월 2일부터 적용됩니다. 미리 예약하고 편리하게 이용하세요.",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "기재 정보",
+            "content": "이번 증편에 사용되는 항공기는 에어버스 A321neo입니다. 쾌적한 비행을 경험할 수 있습니다.",
+            "alt_text": "에어버스 A321neo 비행기 이미지"
+          },
+          {
+            "title": "삿포로-타이베이",
+            "content": "삿포로에서 타이베이까지 직항으로 이동할 수 있어 더욱 편리해졌습니다. 여행 계획에 참고하세요.",
+            "alt_text": "삿포로와 타이베이 랜드마크 이미지"
+          },
+          {
+            "title": "여행 팁",
+            "content": "삿포로 외에도 타이베이 여행을 계획 중이라면 이번 증편 소식을 활용해보세요. 스타럭스 항공 공식 홈페이지에서 자세한 스케줄 확인 가능합니다.",
+            "alt_text": "여행 가방과 지도 이미지"
+          }
+        ],
+        "caption": "🇯🇵삿포로 여행 후 타이베이로 이동 계획이신가요? \n\n스타럭스 항공이 삿포로(치토세) - 타이베이 노선을 10월 2일부터 1일 1왕복으로 증편 운항합니다! ✈️\n\n에어버스 A321neo 기재로 더욱 편안한 비행을 즐겨보세요.\n\n삿포로와 타이베이를 잇는 편리한 직항편, 지금 바로 확인하세요! ✨\n\n#일본여행 #삿포로여행 #타이베이여행 #스타럭스항공 #항공권정보 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#삿포로",
+          "#삿포로여행",
+          "#타이베이",
+          "#타이베이여행",
+          "#스타럭스항공",
+          "#항공권",
+          "#항공권정보",
+          "#일본항공",
+          "#여행정보",
+          "#여행꿀팁",
+          "#해외여행",
+          "#일본",
+          "#항공편"
+        ],
+        "alt_texts": [
+          "스타럭스 항공 로고",
+          "달력 이미지",
+          "에어버스 A321neo 비행기 이미지",
+          "삿포로와 타이베이 랜드마크 이미지",
+          "여행 가방과 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 삿포로 여행 후 동남아 여행을 계획하거나, 삿포로와 타이베이를 연계하여 여행하려는 한국인 여행자 / 최적 게시 시간: 오후 1시~3시 / 기대 반응: 항공권 정보에 대한 관심 및 문의 증가, 예약 전환율 상승 / 이 콘텐츠의 강점: 구체적인 증편 정보와 운항 시작일을 명확히 제시하여 실질적인 여행 계획 수립에 도움을 줌",
+      "image": {
+        "keyword": "StarLux Airlines, Sapporo, Taipei, flight increase, Airbus A321neo, travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/StarLux-Airlines,-Sapporo,-Taipei,-flight-increase,-Airbus-A321neo,-travel-information",
+        "pexels_url": "https://www.pexels.com/search/StarLux%20Airlines,%20Sapporo,%20Taipei,%20flight%20increase,%20Airbus%20A321neo,%20travel%20information/"
+      }
+    },
+    {
+      "id": "plan_6f348aef",
+      "created_at": "2026-08-12T02:36:10.362781",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "au PAY、韓国で最大20％のPontaポイント還元キャンペーン　9月30日まで",
+        "url": "https://www.traicy.com/posts/20260811378582/",
+        "date": "Tue, 11 Aug 2026 12:15:52 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 결제 시 최대 20% 포인트 적립 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "일본에서 20% 💰 적립받자!",
+        "cards": [
+          {
+            "title": "au PAY 꿀팁",
+            "content": "일본 여행 중 au PAY로 결제하면 최대 20%의 Ponta 포인트가 적립되는 특별 캠페인이 진행됩니다. 8월 3일부터 9월 30일까지 진행되니 놓치지 마세요!",
+            "alt_text": "au PAY 로고와 함께 포인트 적립 혜택을 강조하는 이미지"
+          },
+          {
+            "title": "결제 방법",
+            "content": "한국의 간편결제 서비스 '페이북(paybooc)' 앱을 통해 au PAY 코드를 생성하여 일본 내 30만 개 이상의 가맹점에서 간편하게 결제할 수 있습니다.",
+            "alt_text": "페이북 앱에서 au PAY 코드를 생성하는 모습"
+          },
+          {
+            "title": "혜택 상세",
+            "content": "이번 캠페인은 au PAY의 코드 결제 기능을 이용하는 모든 한국 여행객에게 적용됩니다. 결제 금액의 일부가 Ponta 포인트로 환급됩니다.",
+            "alt_text": "Ponta 포인트가 쌓이는 모습을 형상화한 이미지"
+          },
+          {
+            "title": "기간 확인",
+            "content": "캠페인 기간은 2023년 8월 3일부터 2023년 9월 30일까지입니다. 여행 계획 시 이 기간을 꼭 확인하세요!",
+            "alt_text": "달력에 8월 3일부터 9월 30일까지 표시된 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "여행 전 페이북 앱을 미리 설치하고 au PAY 연동 방법을 숙지하면 더욱 편리하게 이용할 수 있습니다. 현지에서 당황하지 않도록 미리 준비하세요!",
+            "alt_text": "스마트폰으로 결제하는 사람의 모습"
+          }
+        ],
+        "caption": "일본 여행 필수템! 🇯🇵 au PAY x 페이북으로 최대 20% 포인트 적립받으세요! 💰\n8월 3일부터 9월 30일까지 진행되는 특별 캠페인으로, 한국에서 사용하던 페이북 앱으로 일본 30만 개 이상 가맹점에서 간편하게 결제하고 쏠쏠하게 포인트 챙겨가세요!\n여행 경비를 절약할 수 있는 절호의 기회! 지금 바로 준비하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#auPAY",
+          "#페이북",
+          "#일본결제",
+          "#포인트적립",
+          "#여행꿀팁",
+          "#일본쇼핑",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#일본",
+          "#간편결제",
+          "#해외여행",
+          "#여행정보",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "au PAY 로고와 함께 포인트 적립 혜택을 강조하는 이미지",
+          "페이북 앱에서 au PAY 코드를 생성하는 모습",
+          "Ponta 포인트가 쌓이는 모습을 형상화한 이미지",
+          "달력에 8월 3일부터 9월 30일까지 표시된 이미지",
+          "스마트폰으로 결제하는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 여행 정보 탐색이 활발한 저녁 7-9시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 결제 혜택 정보로 여행 경비 절약에 직접적인 도움을 줄 수 있음",
+      "image": {
+        "keyword": "Japan travel, au PAY, Paybooc, point cashback, payment app, travel discount, shopping in Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-au-PAY,-Paybooc,-point-cashback,-payment-app,-travel-discount,-shopping-in-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20au%20PAY,%20Paybooc,%20point%20cashback,%20payment%20app,%20travel%20discount,%20shopping%20in%20Japan/"
+      }
+    },
     {
       "id": "plan_5fad781b",
       "created_at": "2026-08-11T23:59:37.672648",
@@ -923,160 +1077,6 @@
         "keyword": "japan highway bus, detour, Fukuoka to Miyazaki",
         "unsplash_url": "https://unsplash.com/s/photos/japan-highway-bus,-detour,-Fukuoka-to-Miyazaki",
         "pexels_url": "https://www.pexels.com/search/japan%20highway%20bus,%20detour,%20Fukuoka%20to%20Miyazaki/"
-      }
-    },
-    {
-      "id": "plan_700ee7df",
-      "created_at": "2026-08-08T23:45:02.228991",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東海道新幹線、静岡・豊橋駅に可動柵を設置　2029年3月頃までに供用開始",
-        "url": "https://www.traicy.com/posts/20260808378379/",
-        "date": "Sat, 08 Aug 2026 08:15:20 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센 이용객 필수! 주요 역 플랫폼 안전 강화 소식!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 신칸센 안전 강화 🚄",
-        "cards": [
-          {
-            "title": "플랫폼 안전 강화",
-            "content": "도카이도 신칸센의 시즈오카역과 도요하시역 플랫폼에 가동식 안전펜스가 설치됩니다. 이는 승객 안전을 최우선으로 고려한 조치입니다.",
-            "alt_text": "시즈오카역과 도요하시역에 설치될 가동식 안전펜스 이미지"
-          },
-          {
-            "title": "시즈오카역 공사",
-            "content": "시즈오카역에서는 5, 6번 승강장에 안전펜스가 설치될 예정이며, 9월 이후 공사가 순차적으로 시작됩니다.",
-            "alt_text": "시즈오카역 승강장 공사 예정 이미지"
-          },
-          {
-            "title": "도요하시역 공사",
-            "content": "도요하시역은 12, 13번 승강장에 안전펜스가 설치되며, 2027년 2월 이후 공사가 시작됩니다.",
-            "alt_text": "도요하시역 승강장 공사 예정 이미지"
-          },
-          {
-            "title": "완공 예정 시기",
-            "content": "모든 공사는 2029년 3월경까지 순차적으로 완료되어 사용이 시작될 예정입니다.",
-            "alt_text": "2029년 3월 완공 예정 표지 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "신칸센 이용 시, 공사 기간 중에는 역별 승강장 정보 변동 가능성이 있으니 탑승 전 최종 안내를 꼭 확인하세요!",
-            "alt_text": "신칸센 탑승 전 안내 확인하는 여행객 이미지"
-          }
-        ],
-        "caption": "🚄 도카이도 신칸센 이용객 주목! 🚄\n\n시즈오카역과 도요하시역 플랫폼에 안전펜스 설치가 확정되었습니다.\n\n✅ 시즈오카역: 5, 6번 승강장, 9월 이후 공사 시작\n✅ 도요하시역: 12, 13번 승강장, 2027년 2월 이후 공사 시작\n✅ 완공 예정: 2029년 3월경\n\n안전한 일본 여행을 위해 꼭 알아두세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#도카이도신칸센",
-          "#시즈오카",
-          "#도요하시",
-          "#안전여행",
-          "#일본교통",
-          "#여행정보",
-          "#필수정보",
-          "#일본",
-          "#여행",
-          "#신칸센안전",
-          "#플랫폼안전",
-          "#일본철도"
-        ],
-        "alt_texts": [
-          "시즈오카역과 도요하시역에 설치될 가동식 안전펜스 이미지",
-          "시즈오카역 승강장 공사 예정 이미지",
-          "도요하시역 승강장 공사 예정 이미지",
-          "2029년 3월 완공 예정 표지 이미지",
-          "신칸센 탑승 전 안내 확인하는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도카이도 신칸센을 이용하는 한국인 여행객 / 최적 게시 시간: 평일 오후 6-9시, 주말 오후 2-5시 / 기대 반응: 신칸센 이용객들의 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 신칸센 이용객에게 직접적으로 도움 되는 구체적이고 필수적인 정보 제공",
-      "image": {
-        "keyword": "Shinkansen platform safety fence construction",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-platform-safety-fence-construction",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20platform%20safety%20fence%20construction/"
-      }
-    },
-    {
-      "id": "plan_2da00c27",
-      "created_at": "2026-08-08T23:44:56.085517",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "はやぶさ50％オフの「新幹線eチケット（トクだ値スペシャル28）」発売。秋冬乗車分、えきねっと限定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131652.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 신칸센 50% 할인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🚅 신칸센 50% 할인! 꿀팁!",
-        "cards": [
-          {
-            "title": "50% 할인!",
-            "content": "JR동일본과 JR홋카이도가 '에키네트'에서 신칸센 및 특급 열차 50% 할인 티켓을 판매합니다. 평일 승차권에 한하며, 가을/겨울 시즌 승차권입니다.",
-            "alt_text": "신칸센 열차 할인 티켓 이미지"
-          },
-          {
-            "title": "대상 노선",
-            "content": "도호쿠, 홋카이도, 조에츠, 호쿠리쿠, 아키타, 야마가타 신칸센 및 특급 열차가 할인 대상입니다. 일본 전국 주요 신칸센 노선을 포함합니다.",
-            "alt_text": "일본 신칸센 노선도 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "할인 티켓은 '에키네트'에서만 구매 가능합니다. '신칸센 e티켓 (토쿠다네 스페셜 28)' 명칭으로 판매되며, 28일 전 사전 예약 조건이 있습니다.",
-            "alt_text": "에키네트 웹사이트 예약 화면 이미지"
-          },
-          {
-            "title": "승차 기간",
-            "content": "주로 가을 및 겨울 시즌 승차권에 적용됩니다. 정확한 승차 가능 기간은 '에키네트'에서 확인이 필요합니다.",
-            "alt_text": "가을 단풍과 겨울 눈 풍경 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "평일 이동 계획이 있다면 절대 놓치지 마세요! 28일 전 예약 필수이며, 인기 구간은 조기 매진될 수 있으니 서둘러 예약하세요.",
-            "alt_text": "여행 계획 세우는 사람 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 정보! 🚅 JR동일본/홋카이도에서 신칸센 및 특급 열차 50% 할인 티켓을 '에키네트'에서 판매 중입니다! 🍁❄️ 평일 승차권 대상이며, '신칸센 e티켓 (토쿠다네 스페셜 28)'으로 28일 전 예약 시 혜택을 받을 수 있어요. 가을/겨울 여행 계획 있다면 지금 바로 확인하세요! ✈️\n\n#일본여행 #플라잉재팬 #신칸센 #일본교통 #JR패스 #일본기차 #에키네트 #일본할인 #일본여행꿀팁 #여행정보 #일본가볼만한곳 #일본자유여행 #가을여행 #겨울여행 #일본기차여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#일본교통",
-          "#JR패스",
-          "#일본기차",
-          "#에키네트",
-          "#일본할인",
-          "#일본여행꿀팁",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본자유여행",
-          "#가을여행",
-          "#겨울여행",
-          "#일본기차여행"
-        ],
-        "alt_texts": [
-          "신칸센 열차 할인 티켓 이미지",
-          "일본 신칸센 노선도 이미지",
-          "에키네트 웹사이트 예약 화면 이미지",
-          "가을 단풍과 겨울 눈 풍경 이미지",
-          "여행 계획 세우는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간 (19시-22시) / 기대 반응: 정보 공유 및 문의 증가, 예약 페이지 클릭 유도 / 이 콘텐츠의 강점: 파격적인 할인율, 실질적인 교통비 절감 효과, '에키네트'라는 구체적인 예약 채널 제시",
-      "image": {
-        "keyword": "Shinkansen discount ticket, Japan train travel, JR East Hokkaido, Ekinet reservation, Autumn winter travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-discount-ticket,-Japan-train-travel,-JR-East-Hokkaido,-Ekinet-reservation,-Autumn-winter-travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20discount%20ticket,%20Japan%20train%20travel,%20JR%20East%20Hokkaido,%20Ekinet%20reservation,%20Autumn%20winter%20travel%20Japan/"
       }
     }
   ]
