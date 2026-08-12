@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-12T02:36:17.874513",
+  "last_updated": "2026-08-12T23:57:56.594098",
   "plans": [
+    {
+      "id": "plan_c746d5f6",
+      "created_at": "2026-08-12T23:57:54.593916",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "淀川の絶景を眺めながら屋台とBBQ！　淀川の新名所「ミナモ十三」に行ってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132329.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 핫플 '미나모十三' 개장! 淀川 강변에서 펼쳐지는 이색 바베큐와 야경 즐기기!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 淀川 신상 핫플 OPEN!✨",
+        "cards": [
+          {
+            "title": "미나모十三 개장!",
+            "content": "오사카 淀川 강변에 새로운 명소 '미나모十三'이 8월 8일 오픈했습니다. 堤防 위 야외 음식점과 강변 바베큐 공간, 크루즈까지 즐길 수 있어요.",
+            "alt_text": "오사카 淀川 강변에 새롭게 오픈한 '미나모十三'의 전경"
+          },
+          {
+            "title": "이색 바베큐",
+            "content": "강변을 따라 마련된 바베큐 존에서 특별한 식사를 즐겨보세요. 'WONDER BBQ FIELD 十三'에서 예약 가능하며, 낭만적인 분위기를 더해줍니다.",
+            "alt_text": "淀川 강변에서 즐기는 바베큐 파티 모습"
+          },
+          {
+            "title": "크루즈 체험",
+            "content": "새롭게 취항한 'OSAKA BUS WONDER CRUISE'를 타고 淀川의 아름다운 야경을 감상하며 오사카를 색다르게 느껴보세요.",
+            "alt_text": "淀川 위를 운행하는 'OSAKA BUS WONDER CRUISE' 선박"
+          },
+          {
+            "title": "다양한 먹거리",
+            "content": "堤防 위에는 다양한 종류의 야외 음식점들이 늘어서 있어 취향에 맞게 골라 먹는 재미가 있습니다.",
+            "alt_text": "堤防 위에 즐비한 야외 음식점들의 모습"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "새로운 명소인 만큼 주말이나 저녁 시간대는 사람이 많을 수 있으니, 여유롭게 즐기고 싶다면 평일 낮 시간을 추천합니다. 바베큐 이용 시 사전 예약은 필수!",
+            "alt_text": "방문객들이 즐겁게 야외 활동을 즐기는 모습"
+          }
+        ],
+        "caption": "✨오사카 淀川 강변의 새로운 랜드마크 등장!✨\n\n8월 8일, 淀川구에 '미나모十三'이 드디어 문을 열었습니다! 🤩\n\n堤防 위에는 맛있는 야외 음식점들이, 강변에는 낭만 가득한 바베큐 공간과 신나는 크루즈까지! 🚢🍖\n\n오사카 여행 중이라면 꼭 들러봐야 할 새로운 핫플레이스, 지금 바로 확인해보세요! 💖\n\n#일본여행 #플라잉재팬 #오사카여행 #미나모十三 #淀川 #일본신상 #일본핫플 #오사카맛집 #일본바베큐 #일본크루즈 #여행정보 #가볼만한곳 #일본축제 #일본이벤트 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#미나모十三",
+          "#淀川",
+          "#일본신상",
+          "#일본핫플",
+          "#오사카맛집",
+          "#일본바베큐",
+          "#일본크루즈",
+          "#여행정보",
+          "#가볼만한곳",
+          "#일본축제",
+          "#일본이벤트",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "오사카 淀川 강변에 새롭게 오픈한 '미나모十三'의 전경",
+          "淀川 강변에서 즐기는 바베큐 파티 모습",
+          "淀川 위를 운행하는 'OSAKA BUS WONDER CRUISE' 선박",
+          "堤防 위에 즐비한 야외 음식점들의 모습",
+          "방문객들이 즐겁게 야외 활동을 즐기는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 자유여행객, 새로운 경험을 추구하는 20-30대 / 최적 게시 시간: 목요일 19시, 금요일 17시 / 기대 반응: 높은 관심과 방문 문의, '어디야?', '어떻게 가?' 와 같은 질문 증가 / 이 콘텐츠의 강점: 최신 개장 정보, 독특한 체험 활동 강조, 시각적 매력 어필",
+      "image": {
+        "keyword": "Minamo Juzo, Yodo River, Osaka, BBQ, cruise, street food, riverside, new attraction, summer, night view",
+        "unsplash_url": "https://unsplash.com/s/photos/Minamo-Juzo,-Yodo-River,-Osaka,-BBQ,-cruise,-street-food,-riverside,-new-attraction,-summer,-night-view",
+        "pexels_url": "https://www.pexels.com/search/Minamo%20Juzo,%20Yodo%20River,%20Osaka,%20BBQ,%20cruise,%20street%20food,%20riverside,%20new%20attraction,%20summer,%20night%20view/"
+      }
+    },
+    {
+      "id": "plan_b5ab09b3",
+      "created_at": "2026-08-12T23:57:48.288678",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANAの燃油サーチャージ、最大1万円の値下げ。9月以降発券分で引き下げに転じる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132374.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 항공권 특가 찬스! ANA 유류할증료 인하 소식 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 유류할증료 인하! 💸",
+        "cards": [
+          {
+            "title": "유류할증료 인하",
+            "content": "ANA 항공, 9월 1일부터 10월 30일까지 발권하는 항공편의 유류할증료를 최대 1만엔 인하합니다.",
+            "alt_text": "ANA 항공편을 이용하는 여행객들이 환하게 웃고 있는 모습"
+          },
+          {
+            "title": "인하 폭",
+            "content": "이번 인하로 인해 여행 경비 부담이 줄어들 것으로 예상됩니다. 최대 1만엔까지 절약 가능합니다.",
+            "alt_text": "돈이 쌓여 있는 이미지와 함께 '최대 1만엔 절약' 문구가 강조된 이미지"
+          },
+          {
+            "title": "적용 기간",
+            "content": "2024년 9월 1일부터 10월 30일까지 발권하는 항공편에 적용됩니다. 서둘러 예약하세요!",
+            "alt_text": "달력에 9월 1일부터 10월 30일까지 동그라미 표시된 이미지"
+          },
+          {
+            "title": "여행 계획",
+            "content": "일본 여행 계획 중이라면 이번 기회를 활용하여 항공권 예약을 서두르는 것이 좋습니다.",
+            "alt_text": "일본 지도를 보며 여행 계획을 세우고 있는 여행객 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "ANA 외 다른 항공사들도 유류할증료 변동 가능성이 있으니, 항공권 예약 전 반드시 최신 정보를 확인하세요.",
+            "alt_text": "돋보기로 항공권 가격을 자세히 살펴보는 이미지"
+          }
+        ],
+        "caption": "일본 여행 떠날 계획이라면 주목! ✈️ ANA 항공이 9월 1일부터 10월 30일까지 발권하는 항공편의 유류할증료를 최대 1만엔까지 인하한다는 반가운 소식입니다! 💸\n\n이번 유류할증료 인하로 일본 여행 경비 부담을 덜 수 있는 절호의 찬스! 🇯🇵\n\n지금 바로 ANA 공식 홈페이지에서 최신 정보를 확인하고, 알뜰하게 일본 여행 계획 세워보세요! ✨\n\n#일본여행 #ANA #유류할증료인하 #항공권특가 #여행경비절약 #플라잉재팬 #일본항공권 #여행꿀팁 #추석여행 #가을여행 #일본소식 #항공정보 #여행스타그램 #일본가자 #가성비여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#유류할증료인하",
+          "#항공권특가",
+          "#여행경비절약",
+          "#일본항공권",
+          "#여행꿀팁",
+          "#추석여행",
+          "#가을여행",
+          "#일본소식",
+          "#항공정보",
+          "#여행스타그램",
+          "#일본가자",
+          "#가성비여행"
+        ],
+        "alt_texts": [
+          "ANA 항공편을 이용하는 여행객들이 환하게 웃고 있는 모습",
+          "돈이 쌓여 있는 이미지와 함께 '최대 1만엔 절약' 문구가 강조된 이미지",
+          "달력에 9월 1일부터 10월 30일까지 동그라미 표시된 이미지",
+          "일본 지도를 보며 여행 계획을 세우고 있는 여행객 이미지",
+          "돋보기로 항공권 가격을 자세히 살펴보는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 19-21시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 공유 및 항공권 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 금액(최대 1만엔)과 명확한 적용 기간 제시로 실질적인 도움 제공",
+      "image": {
+        "keyword": "ANA airline, fuel surcharge reduction, Japan travel, discount, travel cost saving, September, October, airplane ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airline,-fuel-surcharge-reduction,-Japan-travel,-discount,-travel-cost-saving,-September,-October,-airplane-ticket",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airline,%20fuel%20surcharge%20reduction,%20Japan%20travel,%20discount,%20travel%20cost%20saving,%20September,%20October,%20airplane%20ticket/"
+      }
+    },
     {
       "id": "plan_c8d9c9b8",
       "created_at": "2026-08-12T02:36:15.874308",
@@ -923,160 +1077,6 @@
         "keyword": "anime, idol, game, Japan train, fan tour",
         "unsplash_url": "https://unsplash.com/s/photos/anime,-idol,-game,-Japan-train,-fan-tour",
         "pexels_url": "https://www.pexels.com/search/anime,%20idol,%20game,%20Japan%20train,%20fan%20tour/"
-      }
-    },
-    {
-      "id": "plan_9201e95e",
-      "created_at": "2026-08-09T02:22:44.741048",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、きょうの沖縄/那覇発着臨時便全便を欠航　終日欠航に",
-        "url": "https://www.traicy.com/posts/20260808378386/",
-        "date": "Sat, 08 Aug 2026 05:13:01 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 국내선 항공편 이용 시 꼭 확인해야 할 긴급 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ ANA, 오키나와 노선 긴급 결항 ✈️",
-        "cards": [
-          {
-            "title": "ANA 긴급 결항",
-            "content": "ANA는 8월 8일, 태풍 13호의 영향으로 인한 대체편으로 설정했던 오키나와/나하 발착 임시편 전편을 결항했습니다. 당초 저녁 이후 운항 가능으로 예상되었으나, 전면 결항으로 변경되었습니다.",
-            "alt_text": "ANA 항공기 이미지"
-          },
-          {
-            "title": "결항 노선",
-            "content": "결항 대상 노선은 도쿄/하네다, 시즈오카, 나고야/주부, 오사카/이타미, 다카마쓰, 후쿠오카에서 출발 또는 도착하는 모든 임시편입니다.",
-            "alt_text": "일본 지도에 주요 공항 표시"
-          },
-          {
-            "title": "여행 계획 점검",
-            "content": "오키나와로 향하거나 오키나와에서 출발하는 항공편 이용 예정이셨다면, ANA 홈페이지 또는 고객센터를 통해 본인의 항공편 운항 여부를 반드시 다시 확인하세요.",
-            "alt_text": "여행 가방 이미지"
-          },
-          {
-            "title": "대체편 정보",
-            "content": "현재 ANA는 결항으로 인한 승객 불편을 최소화하기 위해 대체편 투입을 검토 중입니다. 자세한 내용은 ANA 공식 발표를 참고해주세요.",
-            "alt_text": "항공편 시간표 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 중 갑작스러운 항공편 결항은 드물지만, 항상 대비하는 것이 좋습니다. 항공사 앱을 미리 설치하고, 비상 연락망을 확보해두면 당황하지 않고 대처할 수 있습니다.",
-            "alt_text": "스마트폰으로 항공편 확인하는 모습"
-          }
-        ],
-        "caption": "⚠️ ANA 오키나와 노선 긴급 결항 안내 ⚠️\n\n8월 8일, 태풍 13호의 영향으로 ANA의 오키나와/나하 발착 임시편이 전편 결항되었습니다. 도쿄, 오사카 등 주요 도시에서 출발/도착하는 항공편을 이용하시는 분들은 반드시 운항 여부를 재확인해주세요!\n\n일본 여행 중 항공편 변동은 언제든 발생할 수 있으니, 항상 최신 정보를 확인하고 비상 계획을 세워두는 것이 중요합니다. ✈️\n\n#일본여행 #ANA #항공결항 #오키나와여행 #여행정보 #일본국내선 #안전여행 #여행필수템 #비상계획",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#항공결항",
-          "#오키나와",
-          "#일본국내선",
-          "#여행정보",
-          "#일본날씨",
-          "#태풍",
-          "#항공권",
-          "#여행꿀팁",
-          "#일본",
-          "#여행스타그램",
-          "#긴급공지",
-          "#안전여행"
-        ],
-        "alt_texts": [
-          "ANA 항공기 이미지",
-          "일본 지도에 주요 공항 표시",
-          "여행 가방 이미지",
-          "항공편 시간표 이미지",
-          "스마트폰으로 항공편 확인하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오키나와 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 정보성 콘텐츠에 대한 빠른 공유 및 댓글 문의 / 이 콘텐츠의 강점: 시의성 높은 긴급 정보 제공으로 즉각적인 도움 제공",
-      "image": {
-        "keyword": "ANA airplane, Okinawa Naha Airport, typhoon, flight cancellation, travel tips",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Okinawa-Naha-Airport,-typhoon,-flight-cancellation,-travel-tips",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Okinawa%20Naha%20Airport,%20typhoon,%20flight%20cancellation,%20travel%20tips/"
-      }
-    },
-    {
-      "id": "plan_195def6c",
-      "created_at": "2026-08-09T02:22:38.476218",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡〜宮崎線「フェニックス号」、迂回運行実施",
-        "url": "https://www.traicy.com/posts/20260808378389/",
-        "date": "Sat, 08 Aug 2026 05:21:36 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 고속버스 운행 정보 변경, 여행 계획 점검 필수!"
-      },
-      "content": {
-        "thumbnail_title": "✈️후쿠오카-미야자키 페닉스호 🚨우회 운행!",
-        "cards": [
-          {
-            "title": "페닉스호 운행",
-            "content": "후쿠오카와 미야자키를 잇는 고속버스 '페닉스호'가 8월 7일부터 16일까지 10일간 우회 운행합니다. 총 1일 8왕복 운행 예정입니다.",
-            "alt_text": "고속버스 차량 이미지"
-          },
-          {
-            "title": "우회 사유",
-            "content": "큐슈 자동차도 일부 구간의 통행 제한으로 인해 부득이하게 우회 운행을 실시합니다. 정확한 통행 제한 구간은 확인이 필요합니다.",
-            "alt_text": "도로 통제 표지판 이미지"
-          },
-          {
-            "title": "운행 기간",
-            "content": "운행 기간은 2023년 8월 7일(월)부터 8월 16일(수)까지입니다. 이 기간 동안 페닉스호를 이용하실 계획이라면 참고하세요.",
-            "alt_text": "달력에 표시된 8월 날짜 이미지"
-          },
-          {
-            "title": "향후 운행",
-            "content": "8월 16일 이후의 운행에 대한 자세한 내용은 추후 발표될 예정입니다. 최신 정보는 지속적으로 확인하시는 것이 좋습니다.",
-            "alt_text": "정보를 확인하는 사람 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "이 기간 동안 후쿠오카-미야자키 구간 이동 시, 고속버스 외 다른 교통편(항공, 렌터카 등)의 이용 가능 여부도 함께 알아보시는 것을 추천합니다.",
-            "alt_text": "여행 가방과 지도 이미지"
-          }
-        ],
-        "caption": "🚨 규슈 여행 계획 중이신가요?\n\n후쿠오카와 미야자키를 잇는 인기 고속버스 '페닉스호'가 8월 7일부터 16일까지 10일간 큐슈 자동차도 통행 제한으로 인해 우회 운행합니다.\n\n총 1일 8왕복 운행 예정이며, 이 기간 동안 해당 노선을 이용하시는 분들은 반드시 운행 정보를 확인하고 여행 계획을 재점검하세요!\n\n최신 운행 정보는 계속 업데이트될 예정이니, 실시간으로 확인하시는 것이 중요합니다.\n\n#일본여행 #후쿠오카 #미야자키 #페닉스호 #고속버스 #교통정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#후쿠오카",
-          "#미야자키",
-          "#페닉스호",
-          "#고속버스",
-          "#교통정보",
-          "#일본교통",
-          "#여행필수",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본뉴스",
-          "#항공권"
-        ],
-        "alt_texts": [
-          "고속버스 차량 이미지",
-          "도로 통제 표지판 이미지",
-          "달력에 표시된 8월 날짜 이미지",
-          "정보를 확인하는 사람 이미지",
-          "여행 가방과 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카, 미야자키 등 규슈 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획을 세우는 저녁 시간 또는 주말 / 기대 반응: 운행 정보 변경에 대한 즉각적인 인지 및 여행 계획 점검 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 여행자의 불편 최소화",
-      "image": {
-        "keyword": "japan highway bus, detour, Fukuoka to Miyazaki",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-bus,-detour,-Fukuoka-to-Miyazaki",
-        "pexels_url": "https://www.pexels.com/search/japan%20highway%20bus,%20detour,%20Fukuoka%20to%20Miyazaki/"
       }
     }
   ]
