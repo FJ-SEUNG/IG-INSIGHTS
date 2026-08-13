@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-12T23:57:56.594098",
+  "last_updated": "2026-08-13T02:38:24.951683",
   "plans": [
+    {
+      "id": "plan_db28cf2f",
+      "created_at": "2026-08-13T02:38:22.951499",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "無印良品、お手軽調理「せいろ」防災食品「チョコようかん」ほか15％オフ。夏の期間限定価格チラシ公開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132318.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템! 무인양품 여름 한정 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "무인양품 8/20까지 15% OFF!✨",
+        "cards": [
+          {
+            "title": "여름 한정 할인",
+            "content": "무인양품에서 여름 한정 특별 가격 행사를 8월 20일까지 진행합니다. 온라인 스토어는 8월 21일 오전 10시까지 구매 가능해요.",
+            "alt_text": "무인양품 매장 전경"
+          },
+          {
+            "title": "할인 상품",
+            "content": "이번 행사를 통해 간편하게 조리 가능한 '스팀 세이로'와 비상용으로 좋은 '초콜릿 양갱' 등 다양한 인기 상품을 15% 할인된 가격으로 만나볼 수 있습니다.",
+            "alt_text": "무인양품 스팀 세이로와 초콜릿 양갱 제품 이미지"
+          },
+          {
+            "title": "할인 기간",
+            "content": "행사 기간은 8월 20일까지이며, 온라인 스토어에서는 8월 21일 오전 10시까지 구매가 가능합니다. 서둘러 득템하세요!",
+            "alt_text": "할인 기간을 나타내는 달력 이미지"
+          },
+          {
+            "title": "쇼핑 팁",
+            "content": "일본 여행 중 무인양품 매장을 방문할 계획이라면 이번 할인 기간을 놓치지 마세요. 실용적인 아이템을 저렴하게 구매할 좋은 기회입니다.",
+            "alt_text": "일본 무인양품 매장에서 쇼핑하는 관광객 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "할인 품목 및 재고는 매장별로 상이할 수 있으니 방문 전 확인하는 것이 좋습니다. 온라인 구매 시 배송 일정 또한 미리 체크하세요.",
+            "alt_text": "주의사항을 나타내는 경고 표시 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수템 쇼핑 찬스! 🇯🇵\n\n무인양품 여름 한정 특별 가격 행사가 8월 20일까지 진행됩니다! 🤩\n\n간편 조리 '스팀 세이로'와 비상용 '초콜릿 양갱' 등 인기 상품을 무려 15% 할인된 가격으로 득템할 기회! 🎁\n\n일본 여행 중 무인양품 방문 예정이라면 꼭 체크하세요! 😉\n\n#일본여행 #무인양품 #일본쇼핑 #여름할인 #쇼핑리스트 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#무인양품",
+          "#일본쇼핑",
+          "#여름할인",
+          "#일본필수템",
+          "#쇼핑리스트",
+          "#여행정보",
+          "#일본생활",
+          "#일본직구",
+          "#가성비템",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#득템",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "무인양품 매장 전경",
+          "무인양품 스팀 세이로와 초콜릿 양갱 제품 이미지",
+          "할인 기간을 나타내는 달력 이미지",
+          "일본 무인양품 매장에서 쇼핑하는 관광객 이미지",
+          "주의사항을 나타내는 경고 표시 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 7시 ~ 9시 (여행 계획 세우는 시간) / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 실용적인 쇼핑 팁 제공",
+      "image": {
+        "keyword": "MUJI, Japan, summer sale, discount, travel essential",
+        "unsplash_url": "https://unsplash.com/s/photos/MUJI,-Japan,-summer-sale,-discount,-travel-essential",
+        "pexels_url": "https://www.pexels.com/search/MUJI,%20Japan,%20summer%20sale,%20discount,%20travel%20essential/"
+      }
+    },
+    {
+      "id": "plan_3f071e62",
+      "created_at": "2026-08-13T02:38:16.706038",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "最新Pixel 11シリーズを試せる、国内初の直営旗艦店「Google Store 表参道」に行ってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132359.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 오모테산도에 국내 최초 구글 직영 스토어가 오픈했어요!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 오모테산도 구글 스토어 오픈!✨",
+        "cards": [
+          {
+            "title": "드디어 오픈!",
+            "content": "일본 최초의 구글 직영 플래그십 스토어 'Google Store 表参道'가 8월 13일 오후 2시에 도쿄 시부야구 진구마에 4-30-3, 토큐 플라자 오모테산도 '오모카도'에 문을 엽니다.",
+            "alt_text": "도쿄 오모테산도에 위치한 토큐 플라자 오모테산도 건물 이미지"
+          },
+          {
+            "title": "만져보고 체험!",
+            "content": "최신 Pixel 11 시리즈를 직접 만져보고 체험할 수 있는 특별한 기회를 놓치지 마세요. 구글의 다양한 제품들을 생생하게 경험할 수 있습니다.",
+            "alt_text": "Pixel 스마트폰을 손에 들고 체험하는 모습"
+          },
+          {
+            "title": "쇼핑 천국",
+            "content": "새로운 구글 스토어에서는 다양한 구글 기기와 액세서리를 만나볼 수 있으며, 쇼핑을 즐기기에 최적의 장소가 될 것입니다.",
+            "alt_text": "구글 스토어 내부의 제품 진열 모습"
+          },
+          {
+            "title": "오모테산도 명소",
+            "content": "트렌디한 쇼핑과 볼거리가 가득한 오모테산도 지역에 위치하여, 다른 관광 코스와 함께 방문하기 좋습니다.",
+            "alt_text": "오모테산도 거리 풍경 이미지"
+          },
+          {
+            "title": "방문 꿀팁!",
+            "content": "오픈 초기에는 사람이 몰릴 수 있으니, 방문 전 운영 시간과 대기 정보를 확인하는 것이 좋습니다. 오픈런을 노려보세요!",
+            "alt_text": "구글 스토어 입구 앞에서 줄 서 있는 사람들 모습"
+          }
+        ],
+        "caption": "🇯🇵 도쿄 여행 필수 코스 등장! 🇯🇵\n\n일본 최초의 구글 직영 스토어 'Google Store 表参道'가 8월 13일 오후 2시, 오모테산도에 오픈합니다! 🤩\n\n최신 Pixel 11 시리즈를 직접 체험하고, 다양한 구글 제품 쇼핑까지! 🛍️\n\n도쿄 여행 계획에 꼭 넣어보세요! ✈️\n\n#일본여행 #도쿄여행 #오모테산도 #구글스토어 #GoogleStore #Pixel11 #일본쇼핑 #도쿄핫플 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#오모테산도",
+          "#구글스토어",
+          "#GoogleStore",
+          "#Pixel11",
+          "#일본쇼핑",
+          "#도쿄핫플",
+          "#여행정보",
+          "#일본신상",
+          "#도쿄쇼핑",
+          "#가볼만한곳",
+          "#일본직구",
+          "#도쿄생활"
+        ],
+        "alt_texts": [
+          "도쿄 오모테산도에 위치한 토큐 플라자 오모테산도 건물 이미지",
+          "Pixel 스마트폰을 손에 들고 체험하는 모습",
+          "구글 스토어 내부의 제품 진열 모습",
+          "오모테산도 거리 풍경 이미지",
+          "구글 스토어 입구 앞에서 줄 서 있는 사람들 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 최신 IT 기기에 관심 있는 20-40대 일본 여행객 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 높은 관심과 방문 문의 / 이 콘텐츠의 강점: 최신 오픈 정보와 실질적인 체험 기회 강조",
+      "image": {
+        "keyword": "Google Store Omotesando, Tokyo, Japan, Pixel 11, technology store, shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Google-Store-Omotesando,-Tokyo,-Japan,-Pixel-11,-technology-store,-shopping",
+        "pexels_url": "https://www.pexels.com/search/Google%20Store%20Omotesando,%20Tokyo,%20Japan,%20Pixel%2011,%20technology%20store,%20shopping/"
+      }
+    },
     {
       "id": "plan_c746d5f6",
       "created_at": "2026-08-12T23:57:54.593916",
@@ -923,160 +1077,6 @@
         "keyword": "japan travel booking discount points",
         "unsplash_url": "https://unsplash.com/s/photos/japan-travel-booking-discount-points",
         "pexels_url": "https://www.pexels.com/search/japan%20travel%20booking%20discount%20points/"
-      }
-    },
-    {
-      "id": "plan_01a06be9",
-      "created_at": "2026-08-09T23:46:13.449323",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「コートヤード・バイ・マリオット京都駅」、11月16日開業",
-        "url": "https://www.traicy.com/posts/20260809378551/",
-        "date": "Sun, 09 Aug 2026 10:40:34 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토역 바로 앞에 마리오ット 신규 오픈! 최적의 위치에서 편안한 여행을 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨교토역 앞 마리오ット 오픈!✨",
-        "cards": [
-          {
-            "title": "신규 오픈!",
-            "content": "교토역 바로 앞에 'コートヤード・バイ・マリオット京都駅'이 2023년 11월 16일에 문을 엽니다. JR 도카이 그룹과 함께하는 두 번째 교토 시내 호텔입니다.",
-            "alt_text": "새롭게 오픈하는 호텔 외관 이미지"
-          },
-          {
-            "title": "최적의 위치",
-            "content": "JR 교토역과 바로 연결되어 있어 교통이 매우 편리합니다. 교토 여행의 시작과 끝을 책임질 최적의 위치를 자랑합니다.",
-            "alt_text": "교토역과 호텔이 연결된 모습 이미지"
-          },
-          {
-            "title": "교토 여행 필수",
-            "content": "교토역을 중심으로 버스, 지하철 등 대중교통 이용이 용이하며, 주변 관광지로의 접근성이 뛰어납니다.",
-            "alt_text": "교토역 주변 지도 이미지"
-          },
-          {
-            "title": "편안한 휴식",
-            "content": "모던하고 편안한 객실에서 여행의 피로를 풀고 재충전할 수 있습니다. 마리오ット 브랜드의 품격 있는 서비스를 경험하세요.",
-            "alt_text": "호텔 객실 내부 이미지"
-          },
-          {
-            "title": "팁!",
-            "content": "오픈 기념 프로모션이 있을 수 있으니, 예약 전 공식 홈페이지를 꼭 확인하세요. 11월 16일 이후 여행 계획이라면 눈여겨보세요!",
-            "alt_text": "호텔 예약 웹사이트 화면 이미지"
-          }
-        ],
-        "caption": "🎉교토 여행 필수 코스!🎉\nJR 교토역 바로 앞에 'コートヤード・バイ・マリオット京都駅'이 11월 16일에 오픈합니다! 🚄\n교토역과 연결되어 최고의 접근성을 자랑하며, 편안한 휴식을 선사할 거예요.\n교토 여행 계획 중이라면 놓치지 마세요! 💖\n#교토여행 #호텔추천 #일본숙소",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토",
-          "#교토역",
-          "#마리오트",
-          "#일본호텔",
-          "#신규오픈",
-          "#호텔추천",
-          "#여행정보",
-          "#교토여행준비",
-          "#일본자유여행",
-          "#가을여행",
-          "#겨울여행",
-          "#여행스타그램",
-          "#일본숙소"
-        ],
-        "alt_texts": [
-          "새롭게 오픈하는 호텔 외관 이미지",
-          "교토역과 호텔이 연결된 모습 이미지",
-          "교토역 주변 지도 이미지",
-          "호텔 객실 내부 이미지",
-          "호텔 예약 웹사이트 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 교토 여행을 계획하는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 높은 관심과 숙소 예약 문의 / 이 콘텐츠의 강점: 최신 오픈 정보와 뛰어난 접근성이라는 명확한 이점을 강조",
-      "image": {
-        "keyword": "Courtyard by Marriott Kyoto Station, Kyoto Station, hotel opening, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Courtyard-by-Marriott-Kyoto-Station,-Kyoto-Station,-hotel-opening,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Courtyard%20by%20Marriott%20Kyoto%20Station,%20Kyoto%20Station,%20hotel%20opening,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_56d15d4c",
-      "created_at": "2026-08-09T23:46:08.831522",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本、推しをきっかけにした旅ブランド「すき旅」を開始",
-        "url": "https://www.traicy.com/posts/20260810377077/",
-        "date": "Sun, 09 Aug 2026 21:15:17 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "덕질 여행족을 위한 JR 동일본의 신규 브랜드 '스키타비' 출시 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨덕질 성지순례 시작!✨",
-        "cards": [
-          {
-            "title": "스키타비란?",
-            "content": "JR 동일본이 7월 16일부터 시작한 새로운 여행 브랜드입니다. 좋아하는 콘텐츠를 계기로 일본 전국을 여행하는 경험을 제공합니다.",
-            "alt_text": "JR 동일본 스키타비 브랜드 로고 이미지"
-          },
-          {
-            "title": "어떤 콘텐츠?",
-            "content": "아이돌, 아티스트, 애니메이션, 게임 등 다양한 서브컬처 콘텐츠와 제휴하여 특별한 여행 코스와 이벤트를 기획합니다.",
-            "alt_text": "다양한 애니메이션, 아이돌 굿즈 이미지"
-          },
-          {
-            "title": "목표는?",
-            "content": "콘텐츠를 좋아하는 팬들의 이동 수요를 창출하고, 지역과의 새로운 교류를 만드는 것을 목표로 합니다.",
-            "alt_text": "일본 지역 관광지 풍경 이미지"
-          },
-          {
-            "title": "기대 효과",
-            "content": "팬들에게는 잊지 못할 추억을, 지역에는 새로운 활력을 불어넣을 것으로 기대됩니다.",
-            "alt_text": "즐겁게 여행하는 사람들의 모습 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "앞으로 발표될 구체적인 제휴 콘텐츠와 여행 상품 정보를 놓치지 말고 확인하세요! 당신의 '최애'와 함께하는 특별한 일본 여행이 시작될지도 모릅니다.",
-            "alt_text": "지도 위에 '최애' 캐릭터가 서 있는 상상 이미지"
-          }
-        ],
-        "caption": "일본 여행, 이젠 '덕질'과 함께! 💖\nJR 동일본에서 야심 차게 준비한 '스키타비(すき旅)' 브랜드를 아시나요?\n좋아하는 아이돌, 애니메이션, 게임을 테마로 일본 곳곳을 누빌 수 있는 새로운 여행이 시작됩니다! ✈️\n나의 '최애'와 함께 특별한 추억을 만들어보세요!\n#스키타비 #덕질여행 #일본덕질",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#스키타비",
-          "#덕질여행",
-          "#일본애니",
-          "#일본아이돌",
-          "#일본게임",
-          "#성지순례",
-          "#여행정보",
-          "#일본축제",
-          "#일본이벤트",
-          "#여행꿀팁",
-          "#일본스타그램",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JR 동일본 스키타비 브랜드 로고 이미지",
-          "다양한 애니메이션, 아이돌 굿즈 이미지",
-          "일본 지역 관광지 풍경 이미지",
-          "즐겁게 여행하는 사람들의 모습 이미지",
-          "지도 위에 '최애' 캐릭터가 서 있는 상상 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 서브컬처(아이돌, 애니메이션, 게임 등)에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 10시 / 기대 반응: 높은 관심과 정보 공유, 스키타비 관련 상품 문의 증가 / 이 콘텐츠의 강점: 새로운 여행 트렌드를 선도하는 정보, 타겟층의 구체적인 니즈 충족",
-      "image": {
-        "keyword": "anime, idol, game, Japan train, fan tour",
-        "unsplash_url": "https://unsplash.com/s/photos/anime,-idol,-game,-Japan-train,-fan-tour",
-        "pexels_url": "https://www.pexels.com/search/anime,%20idol,%20game,%20Japan%20train,%20fan%20tour/"
       }
     }
   ]
