@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-13T23:58:35.185334",
+  "last_updated": "2026-08-14T02:36:24.308989",
   "plans": [
+    {
+      "id": "plan_5992c7e1",
+      "created_at": "2026-08-14T02:36:22.308805",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ピーチ、国際線でセール開催　ソウル行き片道5,000円からなど",
+        "url": "https://www.traicy.com/posts/20260813378967/",
+        "date": "Thu, 13 Aug 2026 09:35:30 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "반짝 세일! 5천원부터 시작하는 득템 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️피치항공 특가 5천원부터!",
+        "cards": [
+          {
+            "title": "피치항공 세일",
+            "content": "피치항공이 국제선 특가 세일을 진행해요! 8월 13일 정오부터 16일까지 딱 3일간만 진행되니 서둘러야 해요.",
+            "alt_text": "피치항공 로고와 함께 '국제선 특가 세일' 문구가 적힌 이미지"
+          },
+          {
+            "title": "서울행 특가",
+            "content": "가장 눈길을 끄는 건 역시 서울행 노선! 편도 최저 5,000원부터 시작하는 파격적인 가격으로 만나볼 수 있어요.",
+            "alt_text": "한국어 '서울'과 숫자 '5,000'이 강조된 이미지"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "세일 기간 동안 구매하면 8월 30일부터 2024년까지 탑승 가능한 항공권을 잡을 수 있어요. 여름 휴가, 가을 여행 계획 세워봐요!",
+            "alt_text": "달력과 비행기 아이콘이 있는 이미지, 탑승 기간 강조"
+          },
+          {
+            "title": "추가 비용",
+            "content": "최저 운임에는 유류 할증료가 포함되지 않으며, 발권 수수료 및 공항 사용료는 별도입니다. 최종 결제 금액을 꼭 확인하세요!",
+            "alt_text": "주의사항 아이콘과 함께 '추가 비용 발생' 문구 표시"
+          },
+          {
+            "title": "꿀팁",
+            "content": "새벽 시간대나 특정 요일의 항공권이 더 저렴할 수 있어요. 피치항공 홈페이지에서 직접 노선과 날짜를 조회해보세요. 알림 설정은 필수!",
+            "alt_text": "돋보기 아이콘과 함께 '알림 설정' 및 '최저가 검색' 팁 안내"
+          }
+        ],
+        "caption": "✈️ 한국 출발 일본 행! 피치항공 초특가 세일 오픈! 🎉\n\n무려 편도 5,000원부터 시작하는 역대급 할인 찬스가 찾아왔어요! 🤩\n\n✅ 세일 기간: 8월 13일 (화) 12:00 ~ 8월 16일 (금)\n✅ 탑승 기간: 8월 30일 ~ 2024년 (예정)\n✅ 서울발 노선 최저 5,000원부터!\n\n유류 할증료, 발권 수수료, 공항세 별도이니 최종 가격 꼭 확인하세요!\n\n지금 바로 피치항공 홈페이지에서 득템 기회를 잡으세요! 🏃‍♀️💨\n\n#일본여행 #피치항공 #항공권특가 #여행스타그램 #득템찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#피치항공",
+          "#항공권",
+          "#항공권특가",
+          "#일본항공권",
+          "#여행",
+          "#여행스타그램",
+          "#해외여행",
+          "#가성비여행",
+          "#특가항공권",
+          "#일본",
+          "#여행정보",
+          "#세일",
+          "#득템"
+        ],
+        "alt_texts": [
+          "피치항공 로고와 함께 '국제선 특가 세일' 문구가 적힌 이미지",
+          "한국어 '서울'과 숫자 '5,000'이 강조된 이미지",
+          "달력과 비행기 아이콘이 있는 이미지, 탑승 기간 강조",
+          "주의사항 아이콘과 함께 '추가 비용 발생' 문구 표시",
+          "돋보기 아이콘과 함께 '알림 설정' 및 '최저가 검색' 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 높은 클릭률 및 공유 / 이 콘텐츠의 강점: 파격적인 가격 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Peach Aviation sale, cheap flight ticket, Seoul to Japan, travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Peach-Aviation-sale,-cheap-flight-ticket,-Seoul-to-Japan,-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Peach%20Aviation%20sale,%20cheap%20flight%20ticket,%20Seoul%20to%20Japan,%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_078763ce",
+      "created_at": "2026-08-14T02:36:15.047406",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "九州自動車道、あす8月14日午前6時から全線で復旧",
+        "url": "https://www.traicy.com/posts/20260813378982/",
+        "date": "Thu, 13 Aug 2026 12:27:49 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "큐슈 지역 여행 예정이라면 꼭 봐야 할 교통 복구 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✈️큐슈 고속도로 8/14 복구! 🚗",
+        "cards": [
+          {
+            "title": "고속도로 복구",
+            "content": "큐슈 자동차도 전 구간이 8월 14일 오전 6시부터 통행 가능해집니다. 마츠바세 IC ~ 에비노 IC 구간이 포함됩니다.",
+            "alt_text": "일본 고속도로 표지판 이미지"
+          },
+          {
+            "title": "운행 재개",
+            "content": "일본 서일본 고속도로(NEXCO 서일본)에서 통행 제한 해제를 발표했습니다. 일반 차량 모두 이용 가능합니다.",
+            "alt_text": "일본 고속도로 통행 재개 현수막 이미지"
+          },
+          {
+            "title": "여행 계획",
+            "content": "큐슈 지역(후쿠오카, 구마모토, 미야자키 등)으로 렌터카 여행 예정이라면, 도로 상황을 확인하고 계획을 세우세요.",
+            "alt_text": "일본 큐슈 지역 지도 이미지"
+          },
+          {
+            "title": "운전 시",
+            "content": "복구 직후에는 일부 구간에서 교통량이 많을 수 있습니다. 안전 운전하며 표지판 안내에 따라주세요.",
+            "alt_text": "일본 도로 표지판 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "복구 소식과 함께 실시간 도로 상황은 NEXCO 서일본 공식 웹사이트에서 확인하는 것이 가장 정확합니다.",
+            "alt_text": "스마트폰으로 웹사이트 확인하는 이미지"
+          }
+        ],
+        "caption": "큐슈 여행객 주목! 📢 8월 14일 오전 6시부로 큐슈 자동차도 전 구간이 복구됩니다! 🚗 마츠바세 IC ~ 에비노 IC 구간도 통행 가능해지니, 큐슈 렌터카 여행 계획 있으신 분들은 참고하세요! ✈️\n\n#일본여행 #큐슈여행 #일본교통정보 #자동차여행 #플라잉재팬 #여행필수정보",
+        "hashtags": [
+          "#일본여행",
+          "#큐슈여행",
+          "#일본교통정보",
+          "#자동차여행",
+          "#플라잉재팬",
+          "#여행필수정보",
+          "#일본렌터카",
+          "#큐슈",
+          "#고속도로",
+          "#복구",
+          "#여행스타그램",
+          "#일본소식",
+          "#안전운전",
+          "#여행팁",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "일본 고속도로 표지판 이미지",
+          "일본 고속도로 통행 재개 현수막 이미지",
+          "일본 큐슈 지역 지도 이미지",
+          "일본 도로 표지판 이미지",
+          "스마트폰으로 웹사이트 확인하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 큐슈 지역 렌터카 여행 예정 한국인 관광객 / 최적 게시 시간: 오전 9시, 오후 6시 (정보 습득 및 계획 시간 고려) / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 시의성 높은 교통 정보 제공으로 실질적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Japan highway, road repair, Kyushu, car travel, transportation information",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-highway,-road-repair,-Kyushu,-car-travel,-transportation-information",
+        "pexels_url": "https://www.pexels.com/search/Japan%20highway,%20road%20repair,%20Kyushu,%20car%20travel,%20transportation%20information/"
+      }
+    },
     {
       "id": "plan_99ec6390",
       "created_at": "2026-08-13T23:58:33.185143",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disneyland Halloween new merchandise",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween-new-merchandise",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween%20new%20merchandise/"
-      }
-    },
-    {
-      "id": "plan_9cf68cd0",
-      "created_at": "2026-08-10T23:50:48.828233",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ディズニー・ハロウィーン」フード＆ドリンクまとめ。こわがりおばけちゃんのスーベニアや注目メニューを予習しよう",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2132045.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 할로윈 한정 신메뉴! 놓치면 후회할 비주얼과 맛을 미리 만나보세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎃도쿄 디즈니 할로윈 신메뉴🎃",
-        "cards": [
-          {
-            "title": "이벤트 기간",
-            "content": "도쿄 디즈니랜드와 디즈니씨에서 '디즈니 할로윈' 이벤트가 9월 16일부터 10월 31일까지 열립니다.",
-            "alt_text": "할로윈 분위기의 디즈니랜드 입구"
-          },
-          {
-            "title": "한정 메뉴 출시",
-            "content": "이벤트 개막 전날인 9월 15일부터 특별한 한정 메뉴들을 만나볼 수 있습니다.",
-            "alt_text": "다양한 할로윈 테마 음료와 디저트"
-          },
-          {
-            "title": "주목할 메뉴",
-            "content": "특히 '겁쟁이 유령' 캐릭터를 활용한 수베니어(기념품) 상품과 함께 시선을 사로잡는 메뉴들이 준비될 예정입니다.",
-            "alt_text": "귀여운 유령 모양의 디저트"
-          },
-          {
-            "title": "방문 예정이라면?",
-            "content": "여행 계획 중이라면, 9월 15일 이후 방문 시 꼭 맛봐야 할 메뉴들을 미리 확인해보세요!",
-            "alt_text": "할로윈 코스튬을 입은 디즈니 캐릭터"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 메뉴는 조기 품절될 수 있으니, 방문 당일 오픈 시간에 맞춰 서두르거나 판매처에 문의하는 것이 좋습니다.",
-            "alt_text": "할로윈 특별 메뉴를 즐기는 사람들"
-          }
-        ],
-        "caption": "🎃 도쿄 디즈니 할로윈, 9월 15일부터 한정 신메뉴 대공개! 🎃\n\n올해 디즈니 할로윈은 9월 16일부터 10월 31일까지 열리지만, 9월 15일부터 특별한 한정 메뉴들을 먼저 맛볼 수 있다는 사실!\n\n특히 '겁쟁이 유령' 컨셉의 수베니어와 함께 시선을 사로잡는 비주얼의 메뉴들이 가득하다고 해요.\n\n여행 계획 중이라면, 놓치면 후회할 맛있는 할로윈을 미리 준비해보세요!\n\n#디즈니할로윈 #도쿄디즈니랜드 #도쿄디즈니씨 #일본여행 #할로윈 #신메뉴 #여행정보 #플라잉재팬 #디즈니신메뉴 #도쿄여행 #9월여행 #10월여행 #디즈니덕후 #여행꿀팁 #한정메뉴",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니할로윈",
-          "#할로윈",
-          "#신메뉴",
-          "#한정메뉴",
-          "#디즈니신메뉴",
-          "#도쿄여행",
-          "#9월여행",
-          "#10월여행",
-          "#여행정보",
-          "#여행꿀팁",
-          "#디즈니덕후"
-        ],
-        "alt_texts": [
-          "할로윈 분위기의 디즈니랜드 입구",
-          "다양한 할로윈 테마 음료와 디저트",
-          "귀여운 유령 모양의 디저트",
-          "할로윈 코스튬을 입은 디즈니 캐릭터",
-          "할로윈 특별 메뉴를 즐기는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 정보 공유 및 저장, 여행 계획 참고 / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 메뉴 출시일을 명확히 제시하여 실질적인 도움 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland Halloween food drink limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween-food-drink-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween%20food%20drink%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_2a482692",
-      "created_at": "2026-08-10T23:50:42.574772",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "メイプルパンプキン味のチュロスをおうちでも。ディズニーの入園者限定・冷凍食品シリーズに秋限定フレーバー",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2132088.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 놓칠 수 없는 가을 한정 츄러스!"
-      },
-      "content": {
-        "thumbnail_title": "🎃디즈니 가을 한정 츄러스🍁",
-        "cards": [
-          {
-            "title": "신상 츄러스 등장!",
-            "content": "도쿄 디즈니리조트에서 9월 15일부터 '도쿄 디즈니리조트・프로즌 셀렉션' 시리즈에 메이플 펌킨 맛 츄러스를 새롭게 출시합니다.",
-            "alt_text": "도쿄 디즈니리조트 가을 한정 메이플 펌킨 츄러스 이미지"
-          },
-          {
-            "title": "집에서도 디즈니!",
-            "content": "이번 신상품은 방문객만 구매할 수 있는 냉동식품 시리즈로, 집에서도 간편하게 디즈니의 맛을 즐길 수 있습니다.",
-            "alt_text": "냉동 츄러스 박스 이미지"
-          },
-          {
-            "title": "가을 한정 맛",
-            "content": "달콤한 메이플과 고소한 펌킨의 조화로운 맛으로, 가을 분위기를 물씬 느낄 수 있는 특별한 메뉴입니다.",
-            "alt_text": "츄러스에 메이플 시럽과 펌킨 파우더가 뿌려진 모습"
-          },
-          {
-            "title": "가격 정보",
-            "content": "한 박스 가격은 5,000엔이며, 디즈니리조트 방문 시 구매 가능합니다.",
-            "alt_text": "가격 정보가 표시된 상품 라벨 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "방문객 한정 상품이니, 디즈니 방문 계획이 있다면 놓치지 말고 꼭 구매해보세요! 여행 기념품으로도 좋습니다.",
-            "alt_text": "디즈니랜드 또는 디즈니씨 내부에서 상품을 구매하는 모습"
-          }
-        ],
-        "caption": "🍁 도쿄 디즈니리조트에서 가을 한정 메이플 펌킨 츄러스 출시! 🎃\n\n9월 15일부터 방문객 한정으로 판매되는 냉동 츄러스로, 집에서도 디즈니의 가을을 맛볼 수 있어요.\n\n여행 중이라면 꼭 챙겨야 할 디즈니 굿즈! 츄러스 가격은 5,000엔입니다.\n\n#디즈니여행 #도쿄디즈니랜드 #도쿄디즈니씨 #가을여행 #디즈니한정 #츄러스 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니리조트",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니",
-          "#디즈니덕후",
-          "#가을여행",
-          "#한정메뉴",
-          "#츄러스",
-          "#일본디저트",
-          "#여행정보",
-          "#해외여행",
-          "#일본쇼핑",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니리조트 가을 한정 메이플 펌킨 츄러스 이미지",
-          "냉동 츄러스 박스 이미지",
-          "츄러스에 메이플 시럽과 펌킨 파우더가 뿌려진 모습",
-          "가격 정보가 표시된 상품 라벨 이미지",
-          "디즈니랜드 또는 디즈니씨 내부에서 상품을 구매하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니리조트 방문 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 구매 욕구 자극, 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 디즈니라는 강력한 IP와 가을 한정이라는 희소성, 구체적인 가격 및 출시일 정보 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland maple pumpkin churros, Disney resort frozen food, limited edition autumn snack",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-maple-pumpkin-churros,-Disney-resort-frozen-food,-limited-edition-autumn-snack",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20maple%20pumpkin%20churros,%20Disney%20resort%20frozen%20food,%20limited%20edition%20autumn%20snack/"
       }
     }
   ]
