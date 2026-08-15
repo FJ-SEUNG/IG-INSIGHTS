@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-15T01:44:24.520664",
+  "last_updated": "2026-08-15T23:34:34.258305",
   "plans": [
+    {
+      "id": "plan_86d69a75",
+      "created_at": "2026-08-15T23:34:32.258122",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ソラシドエア、冬スケジュール期間中の航空券販売開始　8月25日から",
+        "url": "https://www.traicy.com/posts/20260815378346/",
+        "date": "Sat, 15 Aug 2026 06:15:15 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울 일본 여행 항공권 사전 준비 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 겨울 일본행 특가 꿀팁!",
+        "cards": [
+          {
+            "title": "발매 시작!",
+            "content": "솔라시드에어가 2024년 10월 25일부터 2025년 3월 27일까지 이용 가능한 겨울 시즌 항공권 판매를 8월 25일부터 시작합니다.",
+            "alt_text": "솔라시드에어 로고"
+          },
+          {
+            "title": "포함 운임",
+            "content": "스탠다드, 얼리 솔라 밸류, 솔라 밸류, 예약 가능한 영 시니어 등 다양한 운임이 포함됩니다. 원하는 조건에 맞춰 선택하세요.",
+            "alt_text": "항공권 예약 화면"
+          },
+          {
+            "title": "겨울 여행 준비",
+            "content": "겨울 시즌 항공권은 조기 마감될 수 있으니, 미리 계획하고 있다면 8월 25일 판매 시작일에 맞춰 예매하는 것을 추천합니다.",
+            "alt_text": "눈 내리는 일본 풍경"
+          },
+          {
+            "title": "솔라시드에어",
+            "content": "일본 국내선 항공편을 주로 운항하는 솔라시드에어를 통해 따뜻한 겨울 일본 여행을 계획해보세요.",
+            "alt_text": "솔라시드에어 항공기"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "가장 좋은 가격과 좌석을 확보하려면 판매 시작일인 8월 25일에 바로 예매하세요. 겨울 일본 여행의 설렘을 미리 느껴보세요!",
+            "alt_text": "여행 가방과 여권"
+          }
+        ],
+        "caption": "✈️ 겨울 일본 여행 항공권 사전 준비 꿀팁! ✈️\n\n솔라시드에어에서 2024년 10월 25일부터 2025년 3월 27일까지 이용 가능한 겨울 시즌 항공권을 8월 25일부터 판매 시작합니다!\n\n스탠다드, 얼리 솔라 밸류, 솔라 밸류 등 다양한 운임이 포함되니, 취향에 맞게 선택 가능해요.\n\n겨울 일본 여행을 계획 중이라면, 조기 마감될 수 있으니 8월 25일 판매 시작일에 바로 예매하는 것을 추천합니다! 🇯🇵\n\n#일본여행 #플라잉재팬 #겨울여행 #항공권 #솔라시드에어 #일본항공권 #여행준비 #일본 #여행스타그램 #여행정보 #일본소식 #항공권특가 #겨울일본 #여행꿀팁 #사전예매",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#겨울여행",
+          "#항공권",
+          "#솔라시드에어",
+          "#일본항공권",
+          "#여행준비",
+          "#일본",
+          "#여행스타그램",
+          "#여행정보",
+          "#일본소식",
+          "#항공권특가",
+          "#겨울일본",
+          "#여행꿀팁",
+          "#사전예매"
+        ],
+        "alt_texts": [
+          "솔라시드에어 로고",
+          "항공권 예약 화면",
+          "눈 내리는 일본 풍경",
+          "솔라시드에어 항공기",
+          "여행 가방과 여권"
+        ]
+      },
+      "marketer_analysis": "타겟: 겨울 일본 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 항공권 예매 문의 증가, 겨울 여행 계획 활성화 / 이 콘텐츠의 강점: 구체적인 판매 시작일과 포함 운임 정보를 제공하여 실질적인 여행 계획에 도움을 줌.",
+      "image": {
+        "keyword": "Solaseed Air, Japan winter travel, flight ticket sale, travel planning, early bird discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Solaseed-Air,-Japan-winter-travel,-flight-ticket-sale,-travel-planning,-early-bird-discount",
+        "pexels_url": "https://www.pexels.com/search/Solaseed%20Air,%20Japan%20winter%20travel,%20flight%20ticket%20sale,%20travel%20planning,%20early%20bird%20discount/"
+      }
+    },
+    {
+      "id": "plan_8c3a0123",
+      "created_at": "2026-08-15T23:34:24.891222",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "キャセイパシフィック航空、往復航空券購入で最大8,000マイル",
+        "url": "https://www.traicy.com/posts/20260815379174/",
+        "date": "Sat, 15 Aug 2026 12:15:25 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "캐세이패시픽 항공 마일리지 적립 찬스! 최대 8,000마일 받아 일본 여행 준비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️캐세이패시픽 8천 마일 득템!",
+        "cards": [
+          {
+            "title": "마일리지 캠페인",
+            "content": "캐세이패시픽 항공에서 '여름 보너스 마일 캠페인'을 8월 24일까지 진행합니다. 캐세이 회원이라면 누구나 참여 가능해요.",
+            "alt_text": "캐세이패시픽 항공 로고와 함께 마일리지 캠페인 안내 이미지"
+          },
+          {
+            "title": "대상 노선",
+            "content": "일본 출발 비즈니스 클래스, 프리미엄 이코노미 클래스, 이코노미 클래스 왕복 항공권을 구매하면 혜택을 받을 수 있습니다.",
+            "alt_text": "비행기 좌석 등급별 이미지 (비즈니스, 프리미엄 이코노미, 이코노미)"
+          },
+          {
+            "title": "최대 8,000마일",
+            "content": "이번 캠페인을 통해 최대 8,000마일까지 적립할 수 있습니다. 일본 여행 계획 중이라면 꼭 확인하세요!",
+            "alt_text": "마일리지 적립 관련 아이콘과 숫자 8000 이미지"
+          },
+          {
+            "title": "기간 확인 필수!",
+            "content": "캠페인 기간은 8월 24일까지입니다. 늦지 않게 항공권 구매하시고 마일리지 혜택 챙기세요!",
+            "alt_text": "달력에 8월 24일이 표시된 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "캐세이패시픽 항공을 자주 이용하신다면 이번 기회에 마일리지 적립을 최대로 활용하여 다음 일본 여행 시 항공권 할인 또는 업그레이드에 사용해 보세요!",
+            "alt_text": "마일리지 카드를 들고 있는 사람 이미지"
+          }
+        ],
+        "caption": "✈️ 캐세이패시픽 항공 마일리지 득템 찬스! ✈️\n\n일본 여행 계획하고 계신가요? 캐세이패시픽 항공의 '여름 보너스 마일 캠페인'을 놓치지 마세요!\n\n📌 8월 24일까지 진행되는 이번 캠페인으로 일본 출발 왕복 항공권 구매 시 최대 8,000마일까지 적립 가능!\n\n지금 바로 캐세이패시픽 항공 앱/웹사이트에서 자세한 내용 확인하시고, 마일리지 혜택 챙겨 똑똑한 일본 여행 준비하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#캐세이패시픽",
+          "#항공권",
+          "#마일리지",
+          "#일본항공권",
+          "#여행꿀팁",
+          "#일본",
+          "#여행스타그램",
+          "#항공사",
+          "#여름휴가",
+          "#여행정보",
+          "#캐세이패시픽항공",
+          "#여행준비",
+          "#일본가자"
+        ],
+        "alt_texts": [
+          "캐세이패시픽 항공 로고와 함께 마일리지 캠페인 안내 이미지",
+          "비행기 좌석 등급별 이미지 (비즈니스, 프리미엄 이코노미, 이코노미)",
+          "마일리지 적립 관련 아이콘과 숫자 8000 이미지",
+          "달력에 8월 24일이 표시된 이미지",
+          "마일리지 카드를 들고 있는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 계획 중인 캐세이패시픽 항공 이용 예정 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 항공권 구매율 증가, 마일리지 적립 관련 문의 증가 / 이 콘텐츠의 강점: 실질적인 항공권 할인 혜택 정보 제공으로 즉각적인 구매 행동 유도 가능",
+      "image": {
+        "keyword": "Cathay Pacific Airways, mileage campaign, Japan flight ticket, travel discount, summer bonus miles",
+        "unsplash_url": "https://unsplash.com/s/photos/Cathay-Pacific-Airways,-mileage-campaign,-Japan-flight-ticket,-travel-discount,-summer-bonus-miles",
+        "pexels_url": "https://www.pexels.com/search/Cathay%20Pacific%20Airways,%20mileage%20campaign,%20Japan%20flight%20ticket,%20travel%20discount,%20summer%20bonus%20miles/"
+      }
+    },
     {
       "id": "plan_5c50f7cb",
       "created_at": "2026-08-15T01:44:22.520483",
@@ -923,160 +1077,6 @@
         "keyword": "ANA airline, fuel surcharge reduction, Japan travel, discount, travel cost saving, September, October, airplane ticket",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-airline,-fuel-surcharge-reduction,-Japan-travel,-discount,-travel-cost-saving,-September,-October,-airplane-ticket",
         "pexels_url": "https://www.pexels.com/search/ANA%20airline,%20fuel%20surcharge%20reduction,%20Japan%20travel,%20discount,%20travel%20cost%20saving,%20September,%20October,%20airplane%20ticket/"
-      }
-    },
-    {
-      "id": "plan_c8d9c9b8",
-      "created_at": "2026-08-12T02:36:15.874308",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スターラックス航空、札幌/千歳〜台中線を増便　1日1往復に",
-        "url": "https://www.traicy.com/posts/20260811378750/",
-        "date": "Tue, 11 Aug 2026 11:15:08 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 삿포로에서 타이베이까지, 스타럭스 항공 증편 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✈️삿포로-타이베이 노선 증편!",
-        "cards": [
-          {
-            "title": "스타럭스 항공",
-            "content": "스타럭스 항공이 삿포로(치토세)와 타이베이 노선을 증편합니다. 기존 주 5회에서 1일 1왕복으로 운항 횟수가 늘어납니다.",
-            "alt_text": "스타럭스 항공 로고"
-          },
-          {
-            "title": "운항 시작일",
-            "content": "새로운 운항 스케줄은 10월 2일부터 적용됩니다. 미리 예약하고 편리하게 이용하세요.",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "기재 정보",
-            "content": "이번 증편에 사용되는 항공기는 에어버스 A321neo입니다. 쾌적한 비행을 경험할 수 있습니다.",
-            "alt_text": "에어버스 A321neo 비행기 이미지"
-          },
-          {
-            "title": "삿포로-타이베이",
-            "content": "삿포로에서 타이베이까지 직항으로 이동할 수 있어 더욱 편리해졌습니다. 여행 계획에 참고하세요.",
-            "alt_text": "삿포로와 타이베이 랜드마크 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "삿포로 외에도 타이베이 여행을 계획 중이라면 이번 증편 소식을 활용해보세요. 스타럭스 항공 공식 홈페이지에서 자세한 스케줄 확인 가능합니다.",
-            "alt_text": "여행 가방과 지도 이미지"
-          }
-        ],
-        "caption": "🇯🇵삿포로 여행 후 타이베이로 이동 계획이신가요? \n\n스타럭스 항공이 삿포로(치토세) - 타이베이 노선을 10월 2일부터 1일 1왕복으로 증편 운항합니다! ✈️\n\n에어버스 A321neo 기재로 더욱 편안한 비행을 즐겨보세요.\n\n삿포로와 타이베이를 잇는 편리한 직항편, 지금 바로 확인하세요! ✨\n\n#일본여행 #삿포로여행 #타이베이여행 #스타럭스항공 #항공권정보 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#삿포로",
-          "#삿포로여행",
-          "#타이베이",
-          "#타이베이여행",
-          "#스타럭스항공",
-          "#항공권",
-          "#항공권정보",
-          "#일본항공",
-          "#여행정보",
-          "#여행꿀팁",
-          "#해외여행",
-          "#일본",
-          "#항공편"
-        ],
-        "alt_texts": [
-          "스타럭스 항공 로고",
-          "달력 이미지",
-          "에어버스 A321neo 비행기 이미지",
-          "삿포로와 타이베이 랜드마크 이미지",
-          "여행 가방과 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 삿포로 여행 후 동남아 여행을 계획하거나, 삿포로와 타이베이를 연계하여 여행하려는 한국인 여행자 / 최적 게시 시간: 오후 1시~3시 / 기대 반응: 항공권 정보에 대한 관심 및 문의 증가, 예약 전환율 상승 / 이 콘텐츠의 강점: 구체적인 증편 정보와 운항 시작일을 명확히 제시하여 실질적인 여행 계획 수립에 도움을 줌",
-      "image": {
-        "keyword": "StarLux Airlines, Sapporo, Taipei, flight increase, Airbus A321neo, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/StarLux-Airlines,-Sapporo,-Taipei,-flight-increase,-Airbus-A321neo,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/StarLux%20Airlines,%20Sapporo,%20Taipei,%20flight%20increase,%20Airbus%20A321neo,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_6f348aef",
-      "created_at": "2026-08-12T02:36:10.362781",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "au PAY、韓国で最大20％のPontaポイント還元キャンペーン　9月30日まで",
-        "url": "https://www.traicy.com/posts/20260811378582/",
-        "date": "Tue, 11 Aug 2026 12:15:52 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 결제 시 최대 20% 포인트 적립 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "일본에서 20% 💰 적립받자!",
-        "cards": [
-          {
-            "title": "au PAY 꿀팁",
-            "content": "일본 여행 중 au PAY로 결제하면 최대 20%의 Ponta 포인트가 적립되는 특별 캠페인이 진행됩니다. 8월 3일부터 9월 30일까지 진행되니 놓치지 마세요!",
-            "alt_text": "au PAY 로고와 함께 포인트 적립 혜택을 강조하는 이미지"
-          },
-          {
-            "title": "결제 방법",
-            "content": "한국의 간편결제 서비스 '페이북(paybooc)' 앱을 통해 au PAY 코드를 생성하여 일본 내 30만 개 이상의 가맹점에서 간편하게 결제할 수 있습니다.",
-            "alt_text": "페이북 앱에서 au PAY 코드를 생성하는 모습"
-          },
-          {
-            "title": "혜택 상세",
-            "content": "이번 캠페인은 au PAY의 코드 결제 기능을 이용하는 모든 한국 여행객에게 적용됩니다. 결제 금액의 일부가 Ponta 포인트로 환급됩니다.",
-            "alt_text": "Ponta 포인트가 쌓이는 모습을 형상화한 이미지"
-          },
-          {
-            "title": "기간 확인",
-            "content": "캠페인 기간은 2023년 8월 3일부터 2023년 9월 30일까지입니다. 여행 계획 시 이 기간을 꼭 확인하세요!",
-            "alt_text": "달력에 8월 3일부터 9월 30일까지 표시된 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "여행 전 페이북 앱을 미리 설치하고 au PAY 연동 방법을 숙지하면 더욱 편리하게 이용할 수 있습니다. 현지에서 당황하지 않도록 미리 준비하세요!",
-            "alt_text": "스마트폰으로 결제하는 사람의 모습"
-          }
-        ],
-        "caption": "일본 여행 필수템! 🇯🇵 au PAY x 페이북으로 최대 20% 포인트 적립받으세요! 💰\n8월 3일부터 9월 30일까지 진행되는 특별 캠페인으로, 한국에서 사용하던 페이북 앱으로 일본 30만 개 이상 가맹점에서 간편하게 결제하고 쏠쏠하게 포인트 챙겨가세요!\n여행 경비를 절약할 수 있는 절호의 기회! 지금 바로 준비하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#auPAY",
-          "#페이북",
-          "#일본결제",
-          "#포인트적립",
-          "#여행꿀팁",
-          "#일본쇼핑",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본",
-          "#간편결제",
-          "#해외여행",
-          "#여행정보",
-          "#할인정보"
-        ],
-        "alt_texts": [
-          "au PAY 로고와 함께 포인트 적립 혜택을 강조하는 이미지",
-          "페이북 앱에서 au PAY 코드를 생성하는 모습",
-          "Ponta 포인트가 쌓이는 모습을 형상화한 이미지",
-          "달력에 8월 3일부터 9월 30일까지 표시된 이미지",
-          "스마트폰으로 결제하는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 여행 정보 탐색이 활발한 저녁 7-9시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 결제 혜택 정보로 여행 경비 절약에 직접적인 도움을 줄 수 있음",
-      "image": {
-        "keyword": "Japan travel, au PAY, Paybooc, point cashback, payment app, travel discount, shopping in Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-au-PAY,-Paybooc,-point-cashback,-payment-app,-travel-discount,-shopping-in-Japan",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20au%20PAY,%20Paybooc,%20point%20cashback,%20payment%20app,%20travel%20discount,%20shopping%20in%20Japan/"
       }
     }
   ]
