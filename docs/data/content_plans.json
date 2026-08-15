@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-14T23:35:53.675044",
+  "last_updated": "2026-08-15T01:44:24.520664",
   "plans": [
+    {
+      "id": "plan_5c50f7cb",
+      "created_at": "2026-08-15T01:44:22.520483",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、レンタカーとカーシェアの予約者に1,000ポイント還元",
+        "url": "https://www.traicy.com/posts/20260814378443/",
+        "date": "Fri, 14 Aug 2026 10:15:50 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 렌터카/카셰어링 예약 시 1,000엔 상당 포인트 즉시 적립! 여행 경비 절약 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🚗 렌터카/카셰어링 1000엔 꿀팁! 💰",
+        "cards": [
+          {
+            "title": "포인트 증정!",
+            "content": "일본 렌터카 또는 楽天카셰어 예약 시 1,000엔 상당 楽天포인트 증정! 🎁",
+            "alt_text": "일본 렌터카 예약 화면에 1,000포인트 증정 문구가 표시된 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "2024년 8월 3일 오전 10시부터 11월 2일 오전 9시 59분까지 예약 건에 한함. 🗓️",
+            "alt_text": "달력에 8월 3일부터 11월 2일까지 표시된 이미지"
+          },
+          {
+            "title": "대상",
+            "content": "楽天트래블에서 렌터카 또는 楽天카셰어를 예약하는 모든 고객. (단, 5,000엔 이상 예약 시)",
+            "alt_text": "일본 렌터카 예약 페이지에서 '5,000엔 이상' 조건을 강조하는 이미지"
+          },
+          {
+            "title": "포인트 사용",
+            "content": "적립된 포인트는 楽天 계열 서비스에서 현금처럼 사용 가능! 🛍️",
+            "alt_text": "다양한 楽天 서비스 로고와 함께 '포인트 사용 가능' 문구가 표시된 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 내 이동 시 렌터카나 카셰어링을 계획하고 있다면, 이번 기회를 놓치지 마세요! 여행 경비를 절약할 수 있는 절호의 찬스입니다. ✨",
+            "alt_text": "일본 도로에서 렌터카를 운전하며 즐거워하는 여행객의 모습"
+          }
+        ],
+        "caption": "일본 여행 중 렌터카나 카셰어링 이용 계획 있다면 주목! 📢\n\n8월 3일부터 11월 2일까지 楽天트래블에서 렌터카 또는 楽天카셰어를 5,000엔 이상 예약하면, 무려 1,000엔 상당의 楽天포인트를 즉시 적립해 드립니다! 💰\n\n적립된 포인트는 楽天 계열 서비스에서 자유롭게 사용할 수 있어 여행 경비를 절약하는 데 큰 도움이 될 거예요. 🚗💨\n\n일본에서 자유로운 이동을 계획하고 있다면, 이 꿀팁 꼭 챙기세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본렌터카",
+          "#일본카셰어링",
+          "#楽天トラベル",
+          "#楽天ポイント",
+          "#여행경비절약",
+          "#일본자유여행",
+          "#일본교통",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본여행준비",
+          "#가을여행",
+          "#일본렌터카예약",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "일본 렌터카 예약 화면에 1,000포인트 증정 문구가 표시된 이미지",
+          "달력에 8월 3일부터 11월 2일까지 표시된 이미지",
+          "일본 렌터카 예약 페이지에서 '5,000엔 이상' 조건을 강조하는 이미지",
+          "다양한 楽天 서비스 로고와 함께 '포인트 사용 가능' 문구가 표시된 이미지",
+          "일본 도로에서 렌터카를 운전하며 즐거워하는 여행객의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 1-3시 / 기대 반응: 정보 유용성에 대한 긍정적 반응, 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 금전적 혜택 제공, 명확한 기간 및 조건 제시",
+      "image": {
+        "keyword": "japan car rental, rakuten travel, point campaign, travel discount, japan transportation",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-car-rental,-rakuten-travel,-point-campaign,-travel-discount,-japan-transportation",
+        "pexels_url": "https://www.pexels.com/search/japan%20car%20rental,%20rakuten%20travel,%20point%20campaign,%20travel%20discount,%20japan%20transportation/"
+      }
+    },
+    {
+      "id": "plan_d0bf9f99",
+      "created_at": "2026-08-15T01:44:15.179882",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニー、世界初アトラクションの名称は「シュガー・ラッシュ：スウィートレスキュー」に。トゥモローランドに27年春開業",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132510.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년 도쿄 디즈니랜드에 세계 최초 '슈가 러시' 어트랙션 오픈 예정! 🎢"
+      },
+      "content": {
+        "thumbnail_title": "✨2027년 도쿄 디즈니랜드 신상✨",
+        "cards": [
+          {
+            "title": "신규 어트랙션",
+            "content": "도쿄 디즈니랜드에 2027년 봄, 세계 최초로 '슈가 러시: 스위트 레스큐' 어트랙션이 오픈합니다.",
+            "alt_text": "2027년 봄 오픈 예정인 도쿄 디즈니랜드 신규 어트랙션 '슈가 러시: 스위트 레스큐' 로고"
+          },
+          {
+            "title": "어트랙션 테마",
+            "content": "인기 애니메이션 '주먹왕 랄프'에 등장하는 '슈가 러시' 세계관을 배경으로 합니다.",
+            "alt_text": "애니메이션 '주먹왕 랄프'에 등장하는 달콤한 게임 세계 '슈가 러시' 이미지"
+          },
+          {
+            "title": "개장 시기",
+            "content": "2027년 봄, 새로운 어트랙션과 함께 도쿄 디즈니랜드를 방문할 계획을 세워보세요.",
+            "alt_text": "도쿄 디즈니랜드 성 모습과 함께 '2027년 봄'을 알리는 텍스트"
+          },
+          {
+            "title": "어트랙션 위치",
+            "content": "새로운 어트랙션은 투모로우랜드 구역에 새롭게 조성될 예정입니다.",
+            "alt_text": "도쿄 디즈니랜드의 투모로우랜드 구역 지도 또는 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "개장 시기에 맞춰 도쿄 여행 계획을 세우면 더욱 특별한 경험을 할 수 있습니다. 티켓은 사전 예매 필수!",
+            "alt_text": "도쿄 디즈니랜드 티켓 이미지와 '사전 예매 필수' 문구"
+          }
+        ],
+        "caption": "💖2027년 도쿄 디즈니랜드 여행 예정이라면 주목!💖\n\n세계 최초 '슈가 러시' 테마 어트랙션이 2027년 봄, 투모로우랜드에 오픈합니다!\n\n'주먹왕 랄프' 팬이라면 놓칠 수 없는 기회! 🍬\n\n얼리버드 티켓 오픈 소식도 놓치지 마세요! 😉\n\n#일본여행 #도쿄디즈니랜드 #슈가러시 #신규어트랙션 #2027년개장",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#도쿄디즈니랜드",
+          "#신상어트랙션",
+          "#슈가러시",
+          "#주먹왕랄프",
+          "#2027년",
+          "#일본여행정보",
+          "#도쿄",
+          "#테마파크",
+          "#가족여행",
+          "#커플여행",
+          "#디즈니덕후"
+        ],
+        "alt_texts": [
+          "2027년 봄 오픈 예정인 도쿄 디즈니랜드 신규 어트랙션 '슈가 러시: 스위트 레스큐' 로고",
+          "애니메이션 '주먹왕 랄프'에 등장하는 달콤한 게임 세계 '슈가 러시' 이미지",
+          "도쿄 디즈니랜드 성 모습과 함께 '2027년 봄'을 알리는 텍스트",
+          "도쿄 디즈니랜드의 투모로우랜드 구역 지도 또는 이미지",
+          "도쿄 디즈니랜드 티켓 이미지와 '사전 예매 필수' 문구"
+        ]
+      },
+      "marketer_analysis": "타겟: 2027년 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 기대감, 여행 계획 공유 / 이 콘텐츠의 강점: 최신 정보, 구체적인 개장 시기와 테마, 여행 계획에 직접적인 도움",
+      "image": {
+        "keyword": "Tokyo Disneyland, Sugar Rush, New Attraction, 2027 Spring, Tomorrowland",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-Sugar-Rush,-New-Attraction,-2027-Spring,-Tomorrowland",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20Sugar%20Rush,%20New%20Attraction,%202027%20Spring,%20Tomorrowland/"
+      }
+    },
     {
       "id": "plan_6916639f",
       "created_at": "2026-08-14T23:35:51.674870",
@@ -923,160 +1077,6 @@
         "keyword": "Japan travel, au PAY, Paybooc, point cashback, payment app, travel discount, shopping in Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-au-PAY,-Paybooc,-point-cashback,-payment-app,-travel-discount,-shopping-in-Japan",
         "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20au%20PAY,%20Paybooc,%20point%20cashback,%20payment%20app,%20travel%20discount,%20shopping%20in%20Japan/"
-      }
-    },
-    {
-      "id": "plan_5fad781b",
-      "created_at": "2026-08-11T23:59:37.672648",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "新日本海フェリー、公式アプリで空席照会・乗船予約が可能に。季節のプランも随時配信",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131671.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 이동 시 유용한 페리 앱 출시! 실시간 좌석 확인부터 예약까지 한 번에 가능해요!"
-      },
-      "content": {
-        "thumbnail_title": "🚢 신페리 앱 출시!",
-        "cards": [
-          {
-            "title": "신페리 앱 등장!",
-            "content": "신일본해 페리에서 공식 앱 '신일본해 페리 공식 - 홋카이도 페리 예약・추천 정보'를 출시했어요. 이제 앱으로 편리하게 이용하세요!",
-            "alt_text": "새로운 일본 페리 앱 출시를 알리는 이미지"
-          },
-          {
-            "title": "실시간 좌석 확인",
-            "content": "앱을 통해 원하는 날짜와 시간대의 선박 좌석 현황을 실시간으로 확인할 수 있어요. 갑자기 계획이 바뀌어도 걱정 없어요!",
-            "alt_text": "앱 화면에서 좌석을 확인하는 모습"
-          },
-          {
-            "title": "간편 예약 가능",
-            "content": "앱 내에서 바로 승선 예약까지 가능해요. 복잡한 절차 없이 몇 번의 터치만으로 예약 완료!",
-            "alt_text": "앱에서 페리 예약 버튼을 누르는 모습"
-          },
-          {
-            "title": "시즌별 추천 플랜",
-            "content": "계절별 특별한 페리 플랜 정보도 수시로 업데이트될 예정이니, 특별한 여행 계획을 세우는 데 도움이 될 거예요.",
-            "alt_text": "앱에 표시된 계절별 추천 여행 플랜"
-          },
-          {
-            "title": "이용 꿀팁!",
-            "content": "출발 전 앱을 통해 미리 좌석을 확인하고 예약하면 더욱 여유로운 여행을 즐길 수 있어요. 특히 성수기에는 필수!",
-            "alt_text": "여행자가 앱을 보며 미소짓는 모습"
-          }
-        ],
-        "caption": "일본 북쪽 지역 여행 계획 중이신가요? 🚢 신일본해 페리에서 공식 앱을 출시했어요!\n\n이제 앱으로 실시간 좌석 확인은 물론, 간편하게 승선 예약까지 가능합니다. 🤩\n\n계절별 추천 플랜도 놓치지 마세요! 홋카이도 등 페리 여행을 더욱 스마트하게 즐겨보세요! ✨\n\n#일본페리 #신일본해페리 #홋카이도여행 #페리예약 #일본교통",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#신일본해페리",
-          "#일본페리",
-          "#홋카이도여행",
-          "#페리예약",
-          "#일본여행꿀팁",
-          "#여행정보",
-          "#해외여행",
-          "#일본",
-          "#여행스타그램",
-          "#스마트여행",
-          "#앱출시",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "새로운 일본 페리 앱 출시를 알리는 이미지",
-          "앱 화면에서 좌석을 확인하는 모습",
-          "앱에서 페리 예약 버튼을 누르는 모습",
-          "앱에 표시된 계절별 추천 여행 플랜",
-          "여행자가 앱을 보며 미소짓는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 등 일본 북부 지역 페리 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 8~10시 / 기대 반응: 앱 다운로드 및 정보 공유 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공, 예약 편의성 강조",
-      "image": {
-        "keyword": "Japan ferry app booking seat",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry-app-booking-seat",
-        "pexels_url": "https://www.pexels.com/search/Japan%20ferry%20app%20booking%20seat/"
-      }
-    },
-    {
-      "id": "plan_87a83d2b",
-      "created_at": "2026-08-11T23:59:30.947489",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ドームホテル、国産牛ローストビーフや後楽園飯店監修メニューが食べ放題「レトログルメフェア」。話題の絹糸かき氷やタコスバーも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2132151.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄돔 호텔에서 즐기는 특별한 레트로 미식 뷔페!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄돔 호텔 뷔페✨",
-        "cards": [
-          {
-            "title": "기간 한정 뷔페",
-            "content": "도쿄돔 호텔에서 9월 30일까지 '레트로그루메페어' 뷔페를 선보입니다. 왕도의 양식과 중국 요리를 맛볼 수 있어요.",
-            "alt_text": "도쿄돔 호텔 외관"
-          },
-          {
-            "title": "메뉴 구성",
-            "content": "일본산 소고기 로스트비프와 후라쿠엔 호텔이 감수한 메뉴를 무제한으로 즐길 수 있습니다. 화제의 絹실 가키고리도 준비되어 있어요.",
-            "alt_text": "신선한 로스트비프"
-          },
-          {
-            "title": "특별 메뉴",
-            "content": "타코스 바도 마련되어 있어 다채로운 미식 경험을 선사합니다. 뷔페는 오전 11시 30분부터 오후 3시까지 운영됩니다.",
-            "alt_text": "다양한 타코"
-          },
-          {
-            "title": "장소 정보",
-            "content": "도쿄돔 호텔 (도쿄도 분쿄구 고라쿠 1-3-61)에서 열립니다. 도쿄 여행 중 특별한 식사를 원한다면 놓치지 마세요!",
-            "alt_text": "호텔 내부 뷔페 공간"
-          },
-          {
-            "title": "꿀팁",
-            "content": "9월 30일까지 진행되니 여행 계획에 맞춰 방문해보세요. 예약은 필수이며, 현지 인기 뷔페이니 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "맛있게 플레이팅된 음식"
-          }
-        ],
-        "caption": "🍣도쿄 여행 중 특별한 미식 경험을 원한다면?🍣\n도쿄돔 호텔에서 9월 30일까지 '레트로그루메페어' 뷔페를 개최합니다!\n일본산 소고기 로스트비프, 후라쿠엔 호텔 감수 메뉴, 화제의 絹실 가키고리, 타코스 바까지!\n놓칠 수 없는 맛있는 기회, 지금 바로 예약하세요! 😋",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄맛집",
-          "#도쿄호텔",
-          "#도쿄뷔페",
-          "#레트로그루메페어",
-          "#도쿄돔호텔",
-          "#미식여행",
-          "#여행정보",
-          "#일본식당",
-          "#일본음식",
-          "#가볼만한곳",
-          "#도쿄",
-          "#여행"
-        ],
-        "alt_texts": [
-          "도쿄돔 호텔 외관",
-          "신선한 로스트비프",
-          "다양한 타코",
-          "호텔 내부 뷔페 공간",
-          "맛있게 플레이팅된 음식"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 기간 한정, 고급 호텔 뷔페, 다양한 메뉴 구성",
-      "image": {
-        "keyword": "Tokyo Dome Hotel buffet, retro gourmet fair, Japanese beef roast beef, silk shaved ice, taco bar",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Dome-Hotel-buffet,-retro-gourmet-fair,-Japanese-beef-roast-beef,-silk-shaved-ice,-taco-bar",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Dome%20Hotel%20buffet,%20retro%20gourmet%20fair,%20Japanese%20beef%20roast%20beef,%20silk%20shaved%20ice,%20taco%20bar/"
       }
     }
   ]
