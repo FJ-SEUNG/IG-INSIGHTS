@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-16T23:34:19.129455",
+  "last_updated": "2026-08-17T01:50:13.544386",
   "plans": [
+    {
+      "id": "plan_e21a35f3",
+      "created_at": "2026-08-17T01:50:11.544194",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "デュシット・インターナショナル、「WE Hotel Toya – Dusit Collection」を北海道・洞爺湖に7月1日リブランドオープン　旧WE Hotel Toya",
+        "url": "https://www.traicy.com/posts/20260817378945/",
+        "date": "Sun, 16 Aug 2026 21:15:29 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "홋카이도 료칸, 7월 1일 새롭게 오픈하는 'WE Hotel Toya – Dusit Collection' 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨홋카이도 료칸✨ 7/1 오픈!",
+        "cards": [
+          {
+            "title": "료칸 리브랜딩",
+            "content": "기존 'WE Hotel Toya'가 'WE Hotel Toya – Dusit Collection'으로 리브랜딩 오픈합니다. 7월 1일, 새로운 모습으로 투숙객을 맞이할 예정입니다.",
+            "alt_text": "료칸 건물 전경"
+          },
+          {
+            "title": "위치",
+            "content": "아름다운 홋카이도 洞爺湖(도야호)에 위치하고 있습니다. 탁 트인 호수 전망과 함께 특별한 휴식을 경험할 수 있습니다.",
+            "alt_text": "도야호 풍경"
+          },
+          {
+            "title": "건물 규모",
+            "content": "지상 6층, 지하 1층 규모의 건물로 이루어져 있습니다. 넉넉한 공간에서 편안한 시간을 보낼 수 있습니다.",
+            "alt_text": "료칸 내부 모습"
+          },
+          {
+            "title": "객실",
+            "content": "다양한 등급의 객실을 보유하고 있으며, 특히 'Dela' 등급 객실은 특별한 경험을 선사합니다. (자세한 객실 정보는 추후 업데이트 예정)",
+            "alt_text": "고급스러운 객실 내부"
+          },
+          {
+            "title": "꿀팁",
+            "content": "7월 1일 오픈 예정이니, 홋카이도 여름 여행 계획 중이라면 눈여겨보세요! 洞爺湖(도야호)의 아름다운 자연 속에서 힐링하기 좋습니다.",
+            "alt_text": "료칸에서 바라본 도야호 일출"
+          }
+        ],
+        "caption": "홋카이도 도야호의 'WE Hotel Toya'가 7월 1일부로 'WE Hotel Toya – Dusit Collection'으로 새롭게 리브랜딩 오픈합니다! 🤩 아름다운 도야호를 바라보며 특별한 휴식을 만끽할 수 있는 기회! 료칸 방문 예정이라면 꼭 확인하세요! 😉 #일본여행 #홋카이도 #도야호 #료칸 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도",
+          "#도야호",
+          "#료칸",
+          "#일본숙소",
+          "#일본호텔",
+          "#7월여행",
+          "#일본온천",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#홋카이도여행",
+          "#일본렌트카",
+          "#일본온천여행",
+          "#DusitCollection"
+        ],
+        "alt_texts": [
+          "료칸 건물 전경",
+          "도야호 풍경",
+          "료칸 내부 모습",
+          "고급스러운 객실 내부",
+          "료칸에서 바라본 도야호 일출"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 여름 여행 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 정보성 콘텐츠에 대한 관심 및 저장, 홋카이도 여행 계획 시 숙소 옵션으로 고려 / 이 콘텐츠의 강점: 신규 오픈 정보로 희소성 높음, 료칸이라는 매력적인 숙소 타입",
+      "image": {
+        "keyword": "WE Hotel Toya Dusit Collection, Toya Lake Hokkaido, Japanese Ryokan Interior, Hokkaido Summer Travel, Luxury Hotel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/WE-Hotel-Toya-Dusit-Collection,-Toya-Lake-Hokkaido,-Japanese-Ryokan-Interior,-Hokkaido-Summer-Travel,-Luxury-Hotel-Japan",
+        "pexels_url": "https://www.pexels.com/search/WE%20Hotel%20Toya%20Dusit%20Collection,%20Toya%20Lake%20Hokkaido,%20Japanese%20Ryokan%20Interior,%20Hokkaido%20Summer%20Travel,%20Luxury%20Hotel%20Japan/"
+      }
+    },
+    {
+      "id": "plan_3f071e62",
+      "created_at": "2026-08-17T01:50:06.734541",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "最新Pixel 11シリーズを試せる、国内初の直営旗艦店「Google Store 表参道」に行ってみた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2132359.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 도쿄에 구글 플래그십 스토어가 오픈했어요!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 구글 스토어 오픈!✨",
+        "cards": [
+          {
+            "title": "구글 스토어 오픈!",
+            "content": "일본 최초의 직영 플래그십 스토어 'Google Store 表参道'가 8월 13일 오후 2시에 도쿄 하라주쿠에 오픈합니다.",
+            "alt_text": "도쿄 하라주쿠에 오픈하는 구글 스토어 외관 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "도쿄도 시부야구 진구마에 4-30-3, 도큐 플라자 오모테산도 '오모카도'에 위치합니다. 하라주쿠역에서 도보로 접근 가능해요.",
+            "alt_text": "구글 스토어 오모테산도 위치를 나타내는 지도 이미지"
+          },
+          {
+            "title": "주요 체험",
+            "content": "최신 Pixel 11 시리즈를 포함한 다양한 구글 제품을 직접 체험하고 구매할 수 있습니다.",
+            "alt_text": "다양한 구글 제품들이 전시된 매장 내부 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "오픈 초기에는 많은 인파가 몰릴 수 있으니, 오픈 시간에 맞춰 방문하거나 평일 오전을 노려보는 것을 추천합니다.",
+            "alt_text": "구글 스토어 앞에서 줄 서 있는 사람들의 모습 이미지"
+          },
+          {
+            "title": "쇼핑 찬스!",
+            "content": "일본 한정판 액세서리나 특별 프로모션이 있을 수 있으니, 방문 전에 공식 홈페이지를 확인해보세요. (단, 외부 사이트 언급은 금지되어 있으므로 직접 검색해보세요!)",
+            "alt_text": "구글 스토어에서 판매하는 다양한 액세서리 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 코스 추가! 도쿄 하라주쿠에 일본 최초 'Google Store 表参道'가 8월 13일 오후 2시에 문을 엽니다. 최신 Pixel 11 시리즈를 비롯한 다양한 구글 제품을 직접 만나보세요! ✨\n\n📍위치: 도쿄도 시부야구 진구마에 4-30-3 (도큐 플라자 오모테산도 '오모카도')\n\n#일본여행 #도쿄여행 #구글스토어 #하라주쿠 #오모테산도 #Pixel11 #쇼핑 #신규오픈 #일본쇼핑 #도쿄쇼핑 #여행정보 #플라잉재팬 #여행필수템 #전자제품 #일본직구",
+        "hashtags": [
+          "#일본여행",
+          "#도쿄여행",
+          "#구글스토어",
+          "#하라주쿠",
+          "#오모테산도",
+          "#Pixel11",
+          "#쇼핑",
+          "#신규오픈",
+          "#일본쇼핑",
+          "#도쿄쇼핑",
+          "#여행정보",
+          "#플라잉재팬",
+          "#여행필수템",
+          "#전자제품",
+          "#일본직구"
+        ],
+        "alt_texts": [
+          "도쿄 하라주쿠에 오픈하는 구글 스토어 외관 이미지",
+          "구글 스토어 오모테산도 위치를 나타내는 지도 이미지",
+          "다양한 구글 제품들이 전시된 매장 내부 이미지",
+          "구글 스토어 앞에서 줄 서 있는 사람들의 모습 이미지",
+          "구글 스토어에서 판매하는 다양한 액세서리 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 최신 IT 기기 및 쇼핑에 관심 있는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-9시 / 기대 반응: 높은 관심과 방문 의지, 정보 공유 / 이 콘텐츠의 강점: 일본 최초 오픈이라는 희소성과 최신 기술 체험 기회 제공",
+      "image": {
+        "keyword": "Google Store Omotesando, Tokyo, Japan, Harajuku, Omotesando, Pixel 11, flagship store",
+        "unsplash_url": "https://unsplash.com/s/photos/Google-Store-Omotesando,-Tokyo,-Japan,-Harajuku,-Omotesando,-Pixel-11,-flagship-store",
+        "pexels_url": "https://www.pexels.com/search/Google%20Store%20Omotesando,%20Tokyo,%20Japan,%20Harajuku,%20Omotesando,%20Pixel%2011,%20flagship%20store/"
+      }
+    },
     {
       "id": "plan_9cb9240a",
       "created_at": "2026-08-16T23:34:17.129314",
@@ -923,160 +1077,6 @@
         "keyword": "Japan highway, road repair, Kyushu, car travel, transportation information",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-highway,-road-repair,-Kyushu,-car-travel,-transportation-information",
         "pexels_url": "https://www.pexels.com/search/Japan%20highway,%20road%20repair,%20Kyushu,%20car%20travel,%20transportation%20information/"
-      }
-    },
-    {
-      "id": "plan_99ec6390",
-      "created_at": "2026-08-13T23:58:33.185143",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本、成田線運転見合わせ　昼ごろまで",
-        "url": "https://www.traicy.com/posts/20260814379018/",
-        "date": "Thu, 13 Aug 2026 18:13:35 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "나리타 공항 가는 길, 운행 중단 정보 미리 확인하고 계획 세우세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️나리타선 운휴! 🚨",
-        "cards": [
-          {
-            "title": "운휴 구간",
-            "content": "JR 동일본 나리타선 일부 구간이 8월 14일 첫차부터 낮 시간까지 운행을 중단합니다.",
-            "alt_text": "JR 동일본 나리타선 운휴 구간 안내 지도"
-          },
-          {
-            "title": "운휴 구간 상세",
-            "content": "치바역 ↔️ 나리타역, 나리타역 ↔️ 나리타공항역, 키노시타역 ↔️ 아비코역 구간에서 운휴가 발생합니다.",
-            "alt_text": "JR 나리타선 운휴 구간 상세 표시"
-          },
-          {
-            "title": "운휴 시간",
-            "content": "8월 14일 첫차부터 시작하여 날씨 회복 및 점검 완료 후 운행 재개 예정입니다.",
-            "alt_text": "시간 표시와 함께 운휴 안내"
-          },
-          {
-            "title": "대체 교통",
-            "content": "나리타공항 이동 시 버스 등 대체 교통편을 미리 확인하시는 것이 좋습니다.",
-            "alt_text": "여행 가방을 들고 버스 정류장에서 기다리는 사람"
-          },
-          {
-            "title": "주의사항",
-            "content": "여행 일정에 차질 없도록 출발 전 JR 동일본 홈페이지 또는 관련 앱에서 운행 정보를 꼭 확인하세요!",
-            "alt_text": "스마트폰으로 열차 정보를 확인하는 손"
-          }
-        ],
-        "caption": "🚨 8월 14일 나리타선 이용 예정이신 분들 주목! 🚨\nJR 동일본 나리타선 일부 구간이 8월 14일 첫차부터 낮 시간까지 운행을 중단합니다.\n\n📍운휴 구간: 치바-나리타, 나리타-나리타공항, 키노시타-아비코\n\n나리타 공항 이동 시 버스 등 다른 교통편을 미리 알아보시는 것을 추천드려요! ✈️\n여행 계획에 꼭 참고하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나리타공항",
-          "#JR동일본",
-          "#일본교통",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본",
-          "#나리타선",
-          "#운휴",
-          "#여행계획",
-          "#일본입국",
-          "#일본여행준비",
-          "#8월일본여행",
-          "#안전여행"
-        ],
-        "alt_texts": [
-          "JR 동일본 나리타선 운휴 구간 안내 지도",
-          "JR 나리타선 운휴 구간 상세 표시",
-          "시간 표시와 함께 운휴 안내",
-          "여행 가방을 들고 버스 정류장에서 기다리는 사람",
-          "스마트폰으로 열차 정보를 확인하는 손"
-        ]
-      },
-      "marketer_analysis": "타겟: 8월 14일 나리타공항 이용 예정인 한국인 여행자 / 최적 게시 시간: 여행 전날 저녁 또는 당일 오전 / 기대 반응: 정보 습득 후 일정 조정, 댓글 문의 / 이 콘텐츠의 강점: 긴급하고 실질적인 교통 정보 제공",
-      "image": {
-        "keyword": "narita line train, japan train, airport transfer, travel inconvenience, transportation update",
-        "unsplash_url": "https://unsplash.com/s/photos/narita-line-train,-japan-train,-airport-transfer,-travel-inconvenience,-transportation-update",
-        "pexels_url": "https://www.pexels.com/search/narita%20line%20train,%20japan%20train,%20airport%20transfer,%20travel%20inconvenience,%20transportation%20update/"
-      }
-    },
-    {
-      "id": "plan_b31fe6e0",
-      "created_at": "2026-08-13T23:58:24.013100",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "全国プレミアム・アウトレット、夏の最終バーゲンで最大80％オフ「PREMIUM OUTLETS BARGAIN」8月21日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2131575.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여름 막바지 최대 80% 할인! 일본 아울렛 쇼핑 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "일본 아울렛 🛍️ 80% 세일!",
-        "cards": [
-          {
-            "title": "대규모 할인!",
-            "content": "일본 전국 10개 프리미엄 아울렛에서 여름 최종 대규모 세일이 개최됩니다. 최대 80%까지 할인받을 기회입니다!",
-            "alt_text": "일본 아울렛 매장에서 쇼핑하는 사람들"
-          },
-          {
-            "title": "세일 기간",
-            "content": "세일 기간은 8월 21일부터 8월 30일까지 진행됩니다. 10일간의 특별한 쇼핑 찬스를 놓치지 마세요.",
-            "alt_text": "달력에 표시된 8월 21일부터 30일까지의 날짜"
-          },
-          {
-            "title": "전국 10곳",
-            "content": "도쿄 근교, 오사카 근교 등 일본 전역의 10개 프리미엄 아울렛에서 동시에 진행됩니다. 여행 동선에 맞춰 방문해보세요.",
-            "alt_text": "일본 지도에 표시된 10개의 아울렛 위치"
-          },
-          {
-            "title": "브랜드",
-            "content": "다양한 명품 브랜드부터 캐주얼, 스포츠 브랜드까지 모두 참여합니다. 평소 눈여겨봤던 아이템을 저렴하게 득템하세요!",
-            "alt_text": "다양한 브랜드 로고가 나열된 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "세일 시작 첫날 방문하면 더욱 다양한 상품을 만나볼 수 있습니다. 인기 상품은 조기 품절될 수 있으니 서두르세요!",
-            "alt_text": "쇼핑백을 들고 웃는 여성"
-          }
-        ],
-        "caption": "일본 여행 중이라면 놓칠 수 없는 쇼핑 정보! 🛍️\n전국 10곳의 프리미엄 아울렛에서 8월 21일부터 30일까지 최대 80% 할인되는 여름 최종 세일이 시작됩니다! 🤩\n평소 사고 싶었던 브랜드 제품들을 최저가로 득템할 절호의 기회! ✈️\n여행 계획에 맞춰 방문하시고 알찬 쇼핑 즐기세요! ✨\n\n#일본아울렛 #일본쇼핑 #프리미엄아울렛 #일본여행 #여름세일 #득템찬스 #쇼핑정보 #플라잉재팬 #일본여행필수템 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본아울렛",
-          "#일본쇼핑",
-          "#프리미엄아울렛",
-          "#일본쇼핑리스트",
-          "#아울렛세일",
-          "#일본여행정보",
-          "#여름세일",
-          "#득템찬스",
-          "#여행꿀팁",
-          "#해외여행",
-          "#쇼핑스타그램",
-          "#일본",
-          "#여행"
-        ],
-        "alt_texts": [
-          "일본 아울렛 매장에서 쇼핑하는 사람들",
-          "달력에 표시된 8월 21일부터 30일까지의 날짜",
-          "일본 지도에 표시된 10개의 아울렛 위치",
-          "다양한 브랜드 로고가 나열된 이미지",
-          "쇼핑백을 들고 웃는 여성"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 쇼핑 관련 질문 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간, 장소 명시로 실질적인 정보 제공",
-      "image": {
-        "keyword": "japan outlet, summer sale, discount shopping, premium outlets",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-outlet,-summer-sale,-discount-shopping,-premium-outlets",
-        "pexels_url": "https://www.pexels.com/search/japan%20outlet,%20summer%20sale,%20discount%20shopping,%20premium%20outlets/"
       }
     }
   ]
