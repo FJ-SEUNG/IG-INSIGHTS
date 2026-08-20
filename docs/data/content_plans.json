@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-20T01:45:56.161797",
+  "last_updated": "2026-08-20T23:40:51.987339",
   "plans": [
+    {
+      "id": "plan_8c6b4ac1",
+      "created_at": "2026-08-20T23:40:49.987148",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ピーチ、片道5680円からの成田～ソウル線をまもなく開設。調査では20代の8割が「思い立ったらすぐ出発」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2134254.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "성수기 일본 여행, 특가로 알뜰하게 준비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 5680원부터! 일본행 특가 떴다! ✈️",
+        "cards": [
+          {
+            "title": "새로운 노선",
+            "content": "피치항공이 9월 20일부터 나리타-인천 노선을 신규 취항합니다. 저렴한 가격으로 일본 여행을 계획할 수 있는 기회입니다.",
+            "alt_text": "피치항공 비행기 이미지"
+          },
+          {
+            "title": "파격 특가",
+            "content": "이번 신규 취항을 기념하여 편도 5,680원부터 시작하는 파격적인 특가 요금을 선보입니다. 미리 예약하면 더욱 저렴하게 이용 가능합니다.",
+            "alt_text": "항공권 가격표 이미지"
+          },
+          {
+            "title": "여행 트렌드",
+            "content": "조사 결과, 20대 여행객의 80%가 '생각나면 바로 출발'하는 즉흥적인 여행 스타일을 선호하는 것으로 나타났습니다. 이번 특가가 즉흥 여행에 좋은 기회가 될 것입니다.",
+            "alt_text": "여행 계획 세우는 젊은 사람 이미지"
+          },
+          {
+            "title": "도쿄 여행",
+            "content": "나리타 공항은 도쿄 시내로 접근하기 좋은 공항입니다. 신규 노선을 활용하여 도쿄와 근교 여행을 더욱 알뜰하게 즐겨보세요.",
+            "alt_text": "도쿄 스카이트리 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "특가 항공권은 조기 마감될 수 있으니, 관심 있다면 지금 바로 피치항공 웹사이트를 확인해보세요! 수하물 규정 및 추가 요금도 미리 확인하는 것이 좋습니다.",
+            "alt_text": "캘린더에 날짜 표시 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 여행 준비 중이라면 주목! ✈️\n\n피치항공이 9월 20일부터 나리타-인천 노선을 신규 취항하며, 편도 5,680원부터 시작하는 파격 특가를 선보입니다! 🎉\n\n20대 여행객들의 '즉흥 여행' 트렌드와 딱 맞는 이번 기회, 놓치지 마세요! 🤩\n\n지금 바로 피치항공에서 특가 항공권을 확인하고 알뜰하게 일본 여행을 떠나보세요! 🇯🇵\n\n#일본여행 #항공권특가 #피치항공 #나리타 #인천 #도쿄여행 #일본항공권 #여행정보 #가성비여행 #즉흥여행 #플라잉재팬 #여행스타그램 #일본 #해외여행 #9월여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#피치항공",
+          "#나리타",
+          "#인천",
+          "#도쿄",
+          "#일본항공권",
+          "#항공권특가",
+          "#가성비여행",
+          "#즉흥여행",
+          "#여행스타그램",
+          "#일본",
+          "#해외여행",
+          "#9월여행",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "피치항공 비행기 이미지",
+          "항공권 가격표 이미지",
+          "여행 계획 세우는 젊은 사람 이미지",
+          "도쿄 스카이트리 이미지",
+          "캘린더에 날짜 표시 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보와 최신 노선 오픈이라는 시의성 있는 정보 제공",
+      "image": {
+        "keyword": "Peach Aviation, Narita to Incheon flight, cheap flight ticket, Tokyo travel deal, spontaneous travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Peach-Aviation,-Narita-to-Incheon-flight,-cheap-flight-ticket,-Tokyo-travel-deal,-spontaneous-travel",
+        "pexels_url": "https://www.pexels.com/search/Peach%20Aviation,%20Narita%20to%20Incheon%20flight,%20cheap%20flight%20ticket,%20Tokyo%20travel%20deal,%20spontaneous%20travel/"
+      }
+    },
+    {
+      "id": "plan_afe501d6",
+      "created_at": "2026-08-20T23:40:39.727233",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日帰り箱根ユネッサンが1000円引き「学割ワンデーパス」。温泉＆プールで遊び放題、9月末まで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2134332.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가성비 최고! 일본 여행 중 특별한 추억을 만들 수 있는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "箱根ユネッサン 1000엔 할인!♨️",
+        "cards": [
+          {
+            "title": "학창 시절 특별 할인!",
+            "content": "일본 하코네 코와키엔 유네상에서 '학원 원데이 패스'를 1000엔 할인된 가격으로 만나보세요! 🤩",
+            "alt_text": "할인 혜택을 강조하는 유네상 입구 이미지"
+          },
+          {
+            "title": "이용 가능 기간",
+            "content": "2023년 8월 24일부터 9월 30일까지 이용 가능합니다. (8월 29일, 30일 제외)",
+            "alt_text": "달력 이미지에 할인 기간 표시"
+          },
+          {
+            "title": "할인 금액",
+            "content": "정상가에서 최대 1000엔 할인된 가격으로 이용 가능합니다. 💰",
+            "alt_text": "할인율을 나타내는 금액 표시 이미지"
+          },
+          {
+            "title": "무제한 온천 & 수영장",
+            "content": "다양한 테마의 온천과 시원한 수영장에서 하루 종일 신나는 시간을 보낼 수 있어요! 🏊‍♀️",
+            "alt_text": "다양한 테마의 온천탕과 수영장 모습"
+          },
+          {
+            "title": "학생이라면 꼭 챙겨!",
+            "content": "학생증을 꼭 지참해야 하며, 학생이 아니더라도 동반하면 혜택을 받을 수 있는지 확인해 보세요. (현지 문의 필수)",
+            "alt_text": "학생증을 보여주는 손 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 추억을 만들고 싶다면? ♨️ 하코네 코와키엔 유네상에서 '학원 원데이 패스'로 1000엔 할인받고 온천과 수영을 즐겨보세요! 🤩 8월 24일부터 9월 30일까지 (일부 제외) 진행되니, 학생이라면 절대 놓치지 마세요! 😉\n\n#일본여행 #하코네 #유네상 #일본온천 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하코네여행",
+          "#유네상",
+          "#일본온천",
+          "#일본여름",
+          "#일본가볼만한곳",
+          "#일본여행정보",
+          "#일본자유여행",
+          "#일본여행팁",
+          "#일본할인",
+          "#일본가성비",
+          "#학원할인",
+          "#일본축제",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "할인 혜택을 강조하는 유네상 입구 이미지",
+          "달력 이미지에 할인 기간 표시",
+          "할인율을 나타내는 금액 표시 이미지",
+          "다양한 테마의 온천탕과 수영장 모습",
+          "학생증을 보여주는 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 학생 및 젊은 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 할인 정보에 대한 관심과 문의 증가, 실제 방문 후기 공유 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 기간 명시, 학생들에게 매력적인 혜택 강조",
+      "image": {
+        "keyword": "Hakone Yunessun, discount, student pass, hot spring, swimming pool, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Yunessun,-discount,-student-pass,-hot-spring,-swimming-pool,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Hakone%20Yunessun,%20discount,%20student%20pass,%20hot%20spring,%20swimming%20pool,%20Japan%20travel/"
+      }
+    },
     {
       "id": "plan_eeec8fc6",
       "created_at": "2026-08-20T01:45:54.161589",
@@ -923,160 +1077,6 @@
         "keyword": "Hakone onsen ryokan discount coupon travel",
         "unsplash_url": "https://unsplash.com/s/photos/Hakone-onsen-ryokan-discount-coupon-travel",
         "pexels_url": "https://www.pexels.com/search/Hakone%20onsen%20ryokan%20discount%20coupon%20travel/"
-      }
-    },
-    {
-      "id": "plan_e21a35f3",
-      "created_at": "2026-08-17T01:50:11.544194",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "デュシット・インターナショナル、「WE Hotel Toya – Dusit Collection」を北海道・洞爺湖に7月1日リブランドオープン　旧WE Hotel Toya",
-        "url": "https://www.traicy.com/posts/20260817378945/",
-        "date": "Sun, 16 Aug 2026 21:15:29 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "홋카이도 료칸, 7월 1일 새롭게 오픈하는 'WE Hotel Toya – Dusit Collection' 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨홋카이도 료칸✨ 7/1 오픈!",
-        "cards": [
-          {
-            "title": "료칸 리브랜딩",
-            "content": "기존 'WE Hotel Toya'가 'WE Hotel Toya – Dusit Collection'으로 리브랜딩 오픈합니다. 7월 1일, 새로운 모습으로 투숙객을 맞이할 예정입니다.",
-            "alt_text": "료칸 건물 전경"
-          },
-          {
-            "title": "위치",
-            "content": "아름다운 홋카이도 洞爺湖(도야호)에 위치하고 있습니다. 탁 트인 호수 전망과 함께 특별한 휴식을 경험할 수 있습니다.",
-            "alt_text": "도야호 풍경"
-          },
-          {
-            "title": "건물 규모",
-            "content": "지상 6층, 지하 1층 규모의 건물로 이루어져 있습니다. 넉넉한 공간에서 편안한 시간을 보낼 수 있습니다.",
-            "alt_text": "료칸 내부 모습"
-          },
-          {
-            "title": "객실",
-            "content": "다양한 등급의 객실을 보유하고 있으며, 특히 'Dela' 등급 객실은 특별한 경험을 선사합니다. (자세한 객실 정보는 추후 업데이트 예정)",
-            "alt_text": "고급스러운 객실 내부"
-          },
-          {
-            "title": "꿀팁",
-            "content": "7월 1일 오픈 예정이니, 홋카이도 여름 여행 계획 중이라면 눈여겨보세요! 洞爺湖(도야호)의 아름다운 자연 속에서 힐링하기 좋습니다.",
-            "alt_text": "료칸에서 바라본 도야호 일출"
-          }
-        ],
-        "caption": "홋카이도 도야호의 'WE Hotel Toya'가 7월 1일부로 'WE Hotel Toya – Dusit Collection'으로 새롭게 리브랜딩 오픈합니다! 🤩 아름다운 도야호를 바라보며 특별한 휴식을 만끽할 수 있는 기회! 료칸 방문 예정이라면 꼭 확인하세요! 😉 #일본여행 #홋카이도 #도야호 #료칸 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도",
-          "#도야호",
-          "#료칸",
-          "#일본숙소",
-          "#일본호텔",
-          "#7월여행",
-          "#일본온천",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#홋카이도여행",
-          "#일본렌트카",
-          "#일본온천여행",
-          "#DusitCollection"
-        ],
-        "alt_texts": [
-          "료칸 건물 전경",
-          "도야호 풍경",
-          "료칸 내부 모습",
-          "고급스러운 객실 내부",
-          "료칸에서 바라본 도야호 일출"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 여름 여행 계획 중인 2040 한국인 여행자 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 정보성 콘텐츠에 대한 관심 및 저장, 홋카이도 여행 계획 시 숙소 옵션으로 고려 / 이 콘텐츠의 강점: 신규 오픈 정보로 희소성 높음, 료칸이라는 매력적인 숙소 타입",
-      "image": {
-        "keyword": "WE Hotel Toya Dusit Collection, Toya Lake Hokkaido, Japanese Ryokan Interior, Hokkaido Summer Travel, Luxury Hotel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/WE-Hotel-Toya-Dusit-Collection,-Toya-Lake-Hokkaido,-Japanese-Ryokan-Interior,-Hokkaido-Summer-Travel,-Luxury-Hotel-Japan",
-        "pexels_url": "https://www.pexels.com/search/WE%20Hotel%20Toya%20Dusit%20Collection,%20Toya%20Lake%20Hokkaido,%20Japanese%20Ryokan%20Interior,%20Hokkaido%20Summer%20Travel,%20Luxury%20Hotel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_3f071e62",
-      "created_at": "2026-08-17T01:50:06.734541",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "最新Pixel 11シリーズを試せる、国内初の直営旗艦店「Google Store 表参道」に行ってみた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2132359.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 도쿄에 구글 플래그십 스토어가 오픈했어요!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 구글 스토어 오픈!✨",
-        "cards": [
-          {
-            "title": "구글 스토어 오픈!",
-            "content": "일본 최초의 직영 플래그십 스토어 'Google Store 表参道'가 8월 13일 오후 2시에 도쿄 하라주쿠에 오픈합니다.",
-            "alt_text": "도쿄 하라주쿠에 오픈하는 구글 스토어 외관 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "도쿄도 시부야구 진구마에 4-30-3, 도큐 플라자 오모테산도 '오모카도'에 위치합니다. 하라주쿠역에서 도보로 접근 가능해요.",
-            "alt_text": "구글 스토어 오모테산도 위치를 나타내는 지도 이미지"
-          },
-          {
-            "title": "주요 체험",
-            "content": "최신 Pixel 11 시리즈를 포함한 다양한 구글 제품을 직접 체험하고 구매할 수 있습니다.",
-            "alt_text": "다양한 구글 제품들이 전시된 매장 내부 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "오픈 초기에는 많은 인파가 몰릴 수 있으니, 오픈 시간에 맞춰 방문하거나 평일 오전을 노려보는 것을 추천합니다.",
-            "alt_text": "구글 스토어 앞에서 줄 서 있는 사람들의 모습 이미지"
-          },
-          {
-            "title": "쇼핑 찬스!",
-            "content": "일본 한정판 액세서리나 특별 프로모션이 있을 수 있으니, 방문 전에 공식 홈페이지를 확인해보세요. (단, 외부 사이트 언급은 금지되어 있으므로 직접 검색해보세요!)",
-            "alt_text": "구글 스토어에서 판매하는 다양한 액세서리 이미지"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수 코스 추가! 도쿄 하라주쿠에 일본 최초 'Google Store 表参道'가 8월 13일 오후 2시에 문을 엽니다. 최신 Pixel 11 시리즈를 비롯한 다양한 구글 제품을 직접 만나보세요! ✨\n\n📍위치: 도쿄도 시부야구 진구마에 4-30-3 (도큐 플라자 오모테산도 '오모카도')\n\n#일본여행 #도쿄여행 #구글스토어 #하라주쿠 #오모테산도 #Pixel11 #쇼핑 #신규오픈 #일본쇼핑 #도쿄쇼핑 #여행정보 #플라잉재팬 #여행필수템 #전자제품 #일본직구",
-        "hashtags": [
-          "#일본여행",
-          "#도쿄여행",
-          "#구글스토어",
-          "#하라주쿠",
-          "#오모테산도",
-          "#Pixel11",
-          "#쇼핑",
-          "#신규오픈",
-          "#일본쇼핑",
-          "#도쿄쇼핑",
-          "#여행정보",
-          "#플라잉재팬",
-          "#여행필수템",
-          "#전자제품",
-          "#일본직구"
-        ],
-        "alt_texts": [
-          "도쿄 하라주쿠에 오픈하는 구글 스토어 외관 이미지",
-          "구글 스토어 오모테산도 위치를 나타내는 지도 이미지",
-          "다양한 구글 제품들이 전시된 매장 내부 이미지",
-          "구글 스토어 앞에서 줄 서 있는 사람들의 모습 이미지",
-          "구글 스토어에서 판매하는 다양한 액세서리 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 최신 IT 기기 및 쇼핑에 관심 있는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 오후 6-9시 / 기대 반응: 높은 관심과 방문 의지, 정보 공유 / 이 콘텐츠의 강점: 일본 최초 오픈이라는 희소성과 최신 기술 체험 기회 제공",
-      "image": {
-        "keyword": "Google Store Omotesando, Tokyo, Japan, Harajuku, Omotesando, Pixel 11, flagship store",
-        "unsplash_url": "https://unsplash.com/s/photos/Google-Store-Omotesando,-Tokyo,-Japan,-Harajuku,-Omotesando,-Pixel-11,-flagship-store",
-        "pexels_url": "https://www.pexels.com/search/Google%20Store%20Omotesando,%20Tokyo,%20Japan,%20Harajuku,%20Omotesando,%20Pixel%2011,%20flagship%20store/"
       }
     }
   ]
