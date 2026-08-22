@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-21T01:50:52.092349",
+  "last_updated": "2026-08-22T01:44:37.308187",
   "plans": [
+    {
+      "id": "plan_7a80cdb5",
+      "created_at": "2026-08-22T01:44:35.307996",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ほりにし、3年ぶり定番フレーバーは「レモン味」。肉も魚もひとふりでさっぱり爽やか、万能アウトドアスパイス",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2134741.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지 인기 만능 스파이스, 이제 레몬맛으로 상큼하게 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨일본 만능 스파이스, 레몬맛 출시!🍋",
+        "cards": [
+          {
+            "title": "신상 출시!",
+            "content": "일본에서 큰 사랑을 받는 만능 아웃도어 스파이스 '호리니시'의 새로운 플레이버 '호리니시 뉴 레몬'이 2023년 8월 21일에 출시되었습니다.",
+            "alt_text": "호리니시 뉴 레몬 스파이스 패키지 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "100g 한 병 가격은 1280엔입니다. 한국 돈으로 약 12,000원 내외로 구매 가능합니다 (환율에 따라 변동).",
+            "alt_text": "호리니시 뉴 레몬 스파이스 가격표 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "아웃도어샵 Orange의 각 매장과 온라인샵, 그리고 일본 전국의 소매점에서 순차적으로 판매될 예정입니다.",
+            "alt_text": "일본 아웃도어샵 Orange 매장 외관 이미지"
+          },
+          {
+            "title": "활용법",
+            "content": "고기, 생선 등 어떤 요리에도 한 번 뿌리면 상큼하고 산뜻한 풍미를 더해줍니다. 캠핑이나 피크닉에 꼭 챙겨가세요!",
+            "alt_text": "호리니시 뉴 레몬 스파이스를 뿌린 요리 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "지난 시즌 한정으로 출시되었던 레몬맛이 큰 인기를 얻어 정식 출시되었습니다. 일본 여행 중 발견하면 꼭 득템하세요!",
+            "alt_text": "호리니시 스파이스를 활용한 다양한 요리 이미지"
+          }
+        ],
+        "caption": "일본 현지에서 난리 난 '호리니시' 스파이스! 🍋✨ 3년 만에 돌아온 레몬맛 신상 '호리니시 뉴 레몬'이 8월 21일 출시되었습니다! 100g에 1280엔으로, 고기, 생선 어디든 찰떡궁합! 😋 일본 여행 가시면 꼭 득템하세요! #일본여행 #호리니시 #일본쇼핑 #일본스파이스 #캠핑요리",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#일본필수템",
+          "#호리니시",
+          "#호리니시레몬",
+          "#일본스파이스",
+          "#캠핑요리",
+          "#아웃도어",
+          "#일본맛집",
+          "#일본현지",
+          "#여행꿀팁",
+          "#일본식료품",
+          "#신상출시",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "호리니시 뉴 레몬 스파이스 패키지 이미지",
+          "호리니시 뉴 레몬 스파이스 가격표 이미지",
+          "일본 아웃도어샵 Orange 매장 외관 이미지",
+          "호리니시 뉴 레몬 스파이스를 뿌린 요리 이미지",
+          "호리니시 스파이스를 활용한 다양한 요리 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 현지 인기템 신상 출시 정보, 구체적인 가격 및 구매처 명시, 활용법 제시",
+      "image": {
+        "keyword": "Horinishi New Lemon Spice, Japanese outdoor spice, Lemon flavored seasoning, Japan travel shopping, camping food seasoning",
+        "unsplash_url": "https://unsplash.com/s/photos/Horinishi-New-Lemon-Spice,-Japanese-outdoor-spice,-Lemon-flavored-seasoning,-Japan-travel-shopping,-camping-food-seasoning",
+        "pexels_url": "https://www.pexels.com/search/Horinishi%20New%20Lemon%20Spice,%20Japanese%20outdoor%20spice,%20Lemon%20flavored%20seasoning,%20Japan%20travel%20shopping,%20camping%20food%20seasoning/"
+      }
+    },
+    {
+      "id": "plan_a3968091",
+      "created_at": "2026-08-22T01:44:30.040807",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ANA誘遊四国キャンペーン」で航空券＋宿5000円引き。現地で使える2400円分pt付与、レンタカー/タクシー補助も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2134766.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA와 함께 떠나는 일본 시코쿠 여행, 최대 5000엔 할인 받고 2400엔 추가 혜택까지!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ANA 시코쿠 5000엔 할인!✈️",
+        "cards": [
+          {
+            "title": "ANA 시코쿠 캠페인",
+            "content": "ANA에서 9월 1일부터 2027년 3월 30일까지 'ANA誘遊四国キャンペーン'을 진행합니다. 徳島, 香川, 愛媛, 高知 지역 여행 시 항공권과 숙박을 최대 5000엔 할인받을 수 있습니다.",
+            "alt_text": "ANA 항공기 이미지"
+          },
+          {
+            "title": "추가 혜택",
+            "content": "캠페인 기간 동안 현지에서 사용할 수 있는 2400엔 상당의 포인트가 제공됩니다. 또한, 렌터카 및 택시 이용 시에도 보조 혜택이 있습니다.",
+            "alt_text": "일본 현지 관광지 이미지"
+          },
+          {
+            "title": "여행지",
+            "content": "이번 캠페인은 일본의 아름다운 시코쿠 지역, 즉 徳島현, 香川현, 愛媛현, 高知県을 대상으로 합니다. 각 지역의 매력을 만끽할 기회입니다.",
+            "alt_text": "시코쿠 지역 지도 이미지"
+          },
+          {
+            "title": "기간",
+            "content": "캠페인 기간은 2024년 9월 1일부터 2027년 3월 30일까지로 넉넉합니다. 장기간 진행되니 여행 계획을 세우기 좋습니다.",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "할인 혜택과 추가 포인트를 활용하여 알뜰하고 풍성한 시코쿠 여행을 계획해 보세요. ANA 공식 홈페이지에서 자세한 내용을 확인할 수 있습니다.",
+            "alt_text": "여행 가방과 여권 이미지"
+          }
+        ],
+        "caption": "✨ANA와 함께 떠나는 시코쿠 여행 특급 찬스!✨\n\n9월 1일부터 2027년 3월 30일까지 진행되는 'ANA誘遊四国キャンペーン'으로 徳島, 香川, 愛媛, 高知 지역 여행 시 항공권+숙박 최대 5000엔 할인! 💸\n\n무려 2400엔 상당의 현지 사용 포인트와 렌터카/택시 보조 혜택까지 덤으로 챙겨가세요! 🎁\n\n지금 바로 ANA 공식 홈페이지에서 자세한 내용을 확인하고, 잊지 못할 시코쿠 여행을 계획해보세요! ✈️\n\n#일본여행 #ANA #시코쿠여행 #徳島 #香川 #愛媛 #高知 #여행할인 #일본항공권 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#ANA항공",
+          "#시코쿠",
+          "#시코쿠여행",
+          "#徳島",
+          "#香川",
+          "#愛媛",
+          "#高知",
+          "#일본여행정보",
+          "#항공권할인",
+          "#여행팁",
+          "#일본가볼만한곳",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "ANA 항공기 이미지",
+          "일본 현지 관광지 이미지",
+          "시코쿠 지역 지도 이미지",
+          "달력 이미지",
+          "여행 가방과 여권 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 시코쿠 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 높은 할인율과 추가 혜택에 대한 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액, 추가 혜택, 명확한 기간 및 여행지 정보를 포함하여 실질적인 도움을 제공함",
+      "image": {
+        "keyword": "ANA airplane, Shikoku region map, Japanese local scenery, discount coupon, travel suitcase",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Shikoku-region-map,-Japanese-local-scenery,-discount-coupon,-travel-suitcase",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Shikoku%20region%20map,%20Japanese%20local%20scenery,%20discount%20coupon,%20travel%20suitcase/"
+      }
+    },
     {
       "id": "plan_ab5f3fbc",
       "created_at": "2026-08-21T01:50:50.092149",
@@ -923,160 +1077,6 @@
         "keyword": "Shin-Osaka station taxi app reservation",
         "unsplash_url": "https://unsplash.com/s/photos/Shin-Osaka-station-taxi-app-reservation",
         "pexels_url": "https://www.pexels.com/search/Shin-Osaka%20station%20taxi%20app%20reservation/"
-      }
-    },
-    {
-      "id": "plan_a9f693ae",
-      "created_at": "2026-08-18T01:45:03.977574",
-      "category": "tips",
-      "priority": "low",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】北海道産ワインを世界の舞台へ。JALふるさとアンバサダーの挑戦",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2131358.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "하",
-        "appeal": "JAL의 지역 활성화 노력 속 숨겨진 일본 와인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "JAL, 일본 와인 알리려 ✈️",
-        "cards": [
-          {
-            "title": "JAL 지역 활성화",
-            "content": "JAL은 2020년 8월부터 객실 승무원이 지역에 이주하여 활성화 사업을 추진하는 'JALふるさとアンバサダー'를 운영 중입니다.",
-            "alt_text": "JAL 비행기 이미지"
-          },
-          {
-            "title": "지역 특산물 지원",
-            "content": "이들은 승무원으로서 쌓은 경험을 바탕으로 지역 특산품 개발 및 판매를 지원하며, 지역 사회 문제 해결에 기여하고 있습니다.",
-            "alt_text": "일본 지역 특산물 이미지"
-          },
-          {
-            "title": "홋카이도 와인 집중",
-            "content": "최근 JAL은 홋카이도산 와인을 세계 무대에 알리기 위한 프로젝트에 힘쓰고 있습니다. 홋카이도 와인의 우수성을 알리는 데 집중하고 있습니다.",
-            "alt_text": "홋카이도 와인병 이미지"
-          },
-          {
-            "title": "새로운 와인 경험",
-            "content": "일본 현지에서 JAL이 지원하는 홋카이도산 와인을 맛볼 기회가 생긴다면, 특별한 미식 경험이 될 것입니다.",
-            "alt_text": "와인잔 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 중 홋카이도산 와인을 발견한다면, JAL의 지역 활성화 노력을 생각하며 특별한 경험으로 즐겨보세요. 관련 프로모션이 있다면 놓치지 마세요!",
-            "alt_text": "일본 지도 이미지"
-          }
-        ],
-        "caption": "✈️ JAL, 지역 특산물 알리는 데 앞장서다! ✈️\nJAL은 지역 활성화를 위해 객실 승무원들이 직접 지역에 이주하여 활동하는 'JALふるさとアンバサダー'를 운영 중입니다.\n특히 홋카이도산 와인을 세계에 알리는 프로젝트를 진행하며 지역 특산물 지원에 힘쓰고 있습니다. 🍷\n일본 여행 중 홋카이도 와인을 만난다면, JAL의 노력을 기억하며 특별한 경험을 즐겨보세요! ✨\n#일본여행 #플라잉재팬 #JAL #일본와인 #홋카이도 #지역활성화 #일본미식 #여행정보 #항공사소식 #일본여행팁 #여행스타그램 #일본축제 #일본맛집 #일본쇼핑 #일본문화",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본와인",
-          "#홋카이도",
-          "#지역활성화",
-          "#일본미식",
-          "#여행정보",
-          "#항공사소식",
-          "#일본여행팁",
-          "#여행스타그램",
-          "#일본축제",
-          "#일본맛집",
-          "#일본쇼핑",
-          "#일본문화"
-        ],
-        "alt_texts": [
-          "JAL 비행기 이미지",
-          "일본 지역 특산물 이미지",
-          "홋카이도 와인병 이미지",
-          "와인잔 이미지",
-          "일본 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행에 관심 있는 한국인, 특히 미식 및 특별한 경험을 추구하는 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: '이런 정보가 있었네!' 하는 놀라움, 와인에 대한 호기심 자극 / 이 콘텐츠의 강점: 일반적인 여행 정보와 다른, 항공사의 숨겨진 지역 지원 활동 소개로 차별화",
-      "image": {
-        "keyword": "JAL airplane, Hokkaido wine, Japanese local products, travel in Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-Hokkaido-wine,-Japanese-local-products,-travel-in-Japan",
-        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20Hokkaido%20wine,%20Japanese%20local%20products,%20travel%20in%20Japan/"
-      }
-    },
-    {
-      "id": "plan_f5a37e6b",
-      "created_at": "2026-08-18T01:44:55.764652",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジャルパック「大曲の花火－秋の章－」イス席鑑賞ツアー。秋田空港から貸切バスで会場直行、選べるフリー/観光付きコース",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2133287.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을밤을 수놓을 일본 최대 불꽃놀이, 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨오마가리 불꽃축제 투어✨",
-        "cards": [
-          {
-            "title": "불꽃축제 정보",
-            "content": "일본 최대 규모의 불꽃놀이 축제인 '오마가리 불꽃놀이 - 가을의 장'이 10월 3일 아키타현 다이센시에서 개최됩니다. JALPAK에서 특별 관람 투어를 판매 중입니다.",
-            "alt_text": "가을밤을 화려하게 수놓는 오마가리 불꽃축제 전경"
-          },
-          {
-            "title": "투어 예약",
-            "content": "투어 예약은 9월 3일 오전 10시까지 가능합니다. JALPAK에서 제공하는 관람 투어를 통해 편안하게 축제를 즐기세요.",
-            "alt_text": "JALPAK 웹사이트에서 오마가리 불꽃축제 투어 예약 페이지"
-          },
-          {
-            "title": "이동 편의",
-            "content": "아키타 공항에서 행사 장소까지 전세버스로 직행하는 코스가 마련되어 있어 편리하게 이동할 수 있습니다.",
-            "alt_text": "아키타 공항에서 오마가리 불꽃축제 행사장으로 향하는 전세버스"
-          },
-          {
-            "title": "코스 선택",
-            "content": "자유롭게 여행을 즐길 수 있는 '프리 코스'와 관광이 포함된 코스를 선택할 수 있습니다.",
-            "alt_text": "오마가리 불꽃축제 관람 후 자유 시간 또는 관광을 즐기는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "올해 가을, 아키타에서 펼쳐지는 압도적인 불꽃 향연을 직접 경험해보세요! 잊지 못할 추억을 만들 수 있습니다.",
-            "alt_text": "불꽃놀이를 감상하며 감탄하는 여행객들의 모습"
-          }
-        ],
-        "caption": "일본 최대 규모의 '오마가리 불꽃놀이 - 가을의 장'이 10월 3일 아키타에서 펼쳐집니다! 🎆\n\nJALPAK에서 아키타 공항 직행 버스와 함께 자유 또는 관광 포함 코스로 즐길 수 있는 특별 관람 투어를 9월 3일 오전 10시까지 판매 중이에요.\n\n가을밤을 화려하게 장식할 압도적인 불꽃 향연, 놓치지 마세요! ✨\n\n#오마가리불꽃축제 #아키타여행 #일본불꽃축제 #JALPAK #가을여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오마가리불꽃축제",
-          "#아키타",
-          "#일본축제",
-          "#불꽃놀이",
-          "#가을여행",
-          "#JALPAK",
-          "#일본항공",
-          "#해외여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#여행팁",
-          "#일본이벤트",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "가을밤을 화려하게 수놓는 오마가리 불꽃축제 전경",
-          "JALPAK 웹사이트에서 오마가리 불꽃축제 투어 예약 페이지",
-          "아키타 공항에서 오마가리 불꽃축제 행사장으로 향하는 전세버스",
-          "오마가리 불꽃축제 관람 후 자유 시간 또는 관광을 즐기는 모습",
-          "불꽃놀이를 감상하며 감탄하는 여행객들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 불꽃축제에 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6시 (저녁 식사 후 여가 시간) / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 일본 최대 규모 불꽃축제, 편리한 투어 정보 제공, 시기적절한 예약 마감일 안내",
-      "image": {
-        "keyword": "Ohmagari fireworks festival, Akita, Japan, night sky, illuminated, crowd, JALPAK tour bus",
-        "unsplash_url": "https://unsplash.com/s/photos/Ohmagari-fireworks-festival,-Akita,-Japan,-night-sky,-illuminated,-crowd,-JALPAK-tour-bus",
-        "pexels_url": "https://www.pexels.com/search/Ohmagari%20fireworks%20festival,%20Akita,%20Japan,%20night%20sky,%20illuminated,%20crowd,%20JALPAK%20tour%20bus/"
       }
     }
   ]
