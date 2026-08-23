@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-22T23:34:53.585356",
+  "last_updated": "2026-08-23T01:54:35.566501",
   "plans": [
+    {
+      "id": "plan_b81512fa",
+      "created_at": "2026-08-23T01:54:33.566186",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "高速バス・福岡～宮崎線「フェニックス号」、8月31日に全便再開",
+        "url": "https://www.traicy.com/posts/20260822379841/",
+        "date": "Sat, 22 Aug 2026 13:33:22 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카-미야자키 구간 고속버스 '피닉스호' 전편 운행 재개! 일본 남부 이동 계획이라면 꼭 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️후쿠오카-미야자키, 피닉스호 재개!",
+        "cards": [
+          {
+            "title": "운행 재개",
+            "content": "후쿠오카와 미야자키를 잇는 고속버스 '피닉스호'가 8월 31일부터 모든 편을 재개합니다. 8월 24일부터는 18왕복으로 운행을 시작했으며, 나머지 3왕복도 재개되어 정상 운행됩니다.",
+            "alt_text": "고속버스 차량 이미지"
+          },
+          {
+            "title": "이동 계획",
+            "content": "일본 규슈 지역, 특히 후쿠오카에서 미야자키 방면으로 이동 계획이 있다면 '피닉스호'를 이용해 보세요. 편안하고 편리하게 목적지까지 이동할 수 있습니다.",
+            "alt_text": "규슈 지역 지도 이미지"
+          },
+          {
+            "title": "운행사",
+            "content": "서일본 철도, 미야자키 교통, JR 큐슈 버스, 큐슈 산코 버스가 공동으로 운행하는 노선입니다.",
+            "alt_text": "버스 회사 로고 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "정확한 운행 시간표 및 예약 정보는 각 운행사 홈페이지 또는 관련 안내를 통해 확인하시는 것이 좋습니다.",
+            "alt_text": "여행 계획 세우는 사람 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "운행 재개 초기에는 이용객이 많을 수 있으니, 미리 예약하는 것을 추천합니다. 또한, 현지 교통 상황 변동 가능성도 염두에 두세요.",
+            "alt_text": "예약 확인하는 스마트폰 이미지"
+          }
+        ],
+        "caption": "✨후쿠오카 ⇔ 미야자키 이동 꿀정보!✨\n\n기다리고 기다리던 고속버스 '피닉스호'가 8월 31일부터 전편 재개됩니다! 🎉\n\n후쿠오카에서 미야자키까지 편안하게 이동할 수 있는 절호의 찬스!\n\n일본 남부 여행 계획 중이시라면 꼭 확인하시고 즐거운 여행 되세요! ✈️\n\n#일본여행 #플라잉재팬 #후쿠오카여행 #미야자키여행 #일본교통 #고속버스 #피닉스호 #규슈여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#미야자키",
+          "#일본교통",
+          "#고속버스",
+          "#피닉스호",
+          "#규슈",
+          "#일본정보",
+          "#여행정보",
+          "#여행꿀팁",
+          "#일본버스",
+          "#8월여행",
+          "#9월여행",
+          "#버스여행"
+        ],
+        "alt_texts": [
+          "고속버스 차량 이미지",
+          "규슈 지역 지도 이미지",
+          "버스 회사 로고 이미지",
+          "여행 계획 세우는 사람 이미지",
+          "예약 확인하는 스마트폰 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 공항을 통해 일본에 입국하여 미야자키 등 규슈 남부 지역으로 이동하려는 한국인 여행자 / 최적 게시 시간: 오후 6시 - 9시 (퇴근 후 정보 탐색 시간) / 기대 반응: 고속버스 운행 재개 정보에 대한 만족도 및 실제 예약 문의 증가 / 이 콘텐츠의 강점: 한국인 여행자에게 필수적인 일본 현지 교통 정보, 구체적인 날짜와 노선 정보 제공",
+      "image": {
+        "keyword": "Fukuoka Miyazaki highway bus Phoenix",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Miyazaki-highway-bus-Phoenix",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Miyazaki%20highway%20bus%20Phoenix/"
+      }
+    },
+    {
+      "id": "plan_ff748e5c",
+      "created_at": "2026-08-23T01:54:28.925082",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京都、無料給水スポットやフリーWi-Fiなどを1つの地図に重ねて表示する「Tokyo Map」公開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2134557.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 필수템! 무료 와이파이와 급수대 위치를 한눈에 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "📍도쿄맵 공개! 💧📶",
+        "cards": [
+          {
+            "title": "도쿄맵 출시!",
+            "content": "도쿄도와 GovTech 도쿄가 협력하여 'Tokyo Map' 웹사이트를 공식 출시했습니다. 이제 도쿄의 다양한 생활 편의 정보를 한 곳에서 확인 가능해요.",
+            "alt_text": "도쿄맵 웹사이트 메인 화면 이미지"
+          },
+          {
+            "title": "무료 급수대",
+            "content": "더운 여름, 시원한 물을 마실 수 있는 무료 급수대 위치를 쉽게 찾을 수 있습니다. 여행 중 갈증 해소에 큰 도움이 될 거예요.",
+            "alt_text": "도쿄 무료 급수대 위치 지도 표시 이미지"
+          },
+          {
+            "title": "프리 와이파이",
+            "content": "도쿄 시내 곳곳의 무료 와이파이 스팟 정보를 한눈에 파악할 수 있습니다. 데이터 걱정 없이 편리하게 인터넷을 이용하세요.",
+            "alt_text": "도쿄 무료 와이파이 스팟 지도 표시 이미지"
+          },
+          {
+            "title": "편의 시설",
+            "content": "이 외에도 화장실, 관광 안내소 등 다양한 편의 시설 정보를 지도 위에 통합하여 제공합니다. 도쿄 여행 계획에 필수적인 정보만 모아놨어요.",
+            "alt_text": "도쿄 편의 시설 지도 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "여행 전 'Tokyo Map'을 즐겨찾기 해두세요! 급수대와 와이파이 스팟을 미리 파악하면 더욱 스마트하고 편안한 도쿄 여행을 즐길 수 있습니다.",
+            "alt_text": "스마트폰으로 도쿄맵을 보는 사람 이미지"
+          }
+        ],
+        "caption": "✨ 도쿄 여행 필수템 등장! ✨\n\n도쿄도에서 새롭게 공개한 'Tokyo Map' 웹사이트를 소개합니다!\n\n무료 급수대 💧와 무료 와이파이 📶 스팟을 한눈에 볼 수 있어,\n더운 날씨에 시원한 물을 찾거나 데이터 걱정 없이 인터넷을 사용하고 싶을 때 정말 유용해요.\n\n이 외에도 다양한 편의 시설 정보가 지도 위에 통합되어 있어,\n도쿄 여행 계획 시 꼭 확인해야 할 필수 정보랍니다! 🗺️\n\n지금 바로 'Tokyo Map'을 확인하고 알찬 도쿄 여행을 준비하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#도쿄여행",
+          "#플라잉재팬",
+          "#도쿄맵",
+          "#무료와이파이",
+          "#일본여행꿀팁",
+          "#도쿄",
+          "#여행정보",
+          "#일본",
+          "#자유여행",
+          "#일본생활",
+          "#해외여행",
+          "#여행준비",
+          "#도쿄정보",
+          "#도쿄생활"
+        ],
+        "alt_texts": [
+          "도쿄맵 웹사이트 메인 화면 이미지",
+          "도쿄 무료 급수대 위치 지도 표시 이미지",
+          "도쿄 무료 와이파이 스팟 지도 표시 이미지",
+          "도쿄 편의 시설 지도 이미지",
+          "스마트폰으로 도쿄맵을 보는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 도쿄 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적이고 즉각적인 여행 편의 제공 정보",
+      "image": {
+        "keyword": "Tokyo map, free water dispenser, free wifi spot, Tokyo convenience facilities, travel map app",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-map,-free-water-dispenser,-free-wifi-spot,-Tokyo-convenience-facilities,-travel-map-app",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20map,%20free%20water%20dispenser,%20free%20wifi%20spot,%20Tokyo%20convenience%20facilities,%20travel%20map%20app/"
+      }
+    },
     {
       "id": "plan_0f549d3d",
       "created_at": "2026-08-22T23:34:51.585165",
@@ -923,160 +1077,6 @@
         "keyword": "Francfranc, 2026 Fall Winter Collection, plush lamp, cat mug, retro accessory pouch, retro furniture",
         "unsplash_url": "https://unsplash.com/s/photos/Francfranc,-2026-Fall-Winter-Collection,-plush-lamp,-cat-mug,-retro-accessory-pouch,-retro-furniture",
         "pexels_url": "https://www.pexels.com/search/Francfranc,%202026%20Fall%20Winter%20Collection,%20plush%20lamp,%20cat%20mug,%20retro%20accessory%20pouch,%20retro%20furniture/"
-      }
-    },
-    {
-      "id": "plan_dda31de1",
-      "created_at": "2026-08-19T01:47:00.306590",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スカイマークも羽田全便で搭乗手続き・手荷物預け入れ時刻を前倒し。7社の足並み揃う",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2133651.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 출발 항공편 이용 시 꼭 알아야 할 탑승 수속 시간 변경!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 출발 ✈️ 탑승 수속 시간 변경!",
-        "cards": [
-          {
-            "title": "스카이마크 변경",
-            "content": "스카이마크 항공, 9월 1일부터 하네다 출발 전편 탑승 수속 및 수하물 위탁 마감 시간을 출발 20분 전에서 30분 전으로 변경합니다.",
-            "alt_text": "스카이마크 항공 로고와 비행기 이미지"
-          },
-          {
-            "title": "탑승 수속 마감",
-            "content": "이제 스카이마크 이용 시, 출발 30분 전까지는 탑승 수속과 수하물 위탁을 완료해야 합니다.",
-            "alt_text": "시계와 비행기 출발 시간 표시 이미지"
-          },
-          {
-            "title": "전체 항공사 적용",
-            "content": "이로써 일본 출발 7개 항공사가 모두 탑승 수속 마감 시간을 출발 30분 전으로 통일하게 되었습니다.",
-            "alt_text": "다양한 항공사 로고가 나열된 이미지"
-          },
-          {
-            "title": "일본 공항 이용 시",
-            "content": "앞으로 일본 공항에서 출발하는 항공편 이용 시, 최소 출발 30분 전까지는 공항에 도착하여 수속을 마치는 것이 안전합니다.",
-            "alt_text": "일본 공항 내부 모습 이미지"
-          },
-          {
-            "title": "여유로운 공항 이용 팁",
-            "content": "특히 수하물 위탁이 필요하거나 면세점 쇼핑을 즐기고 싶다면, 출발 1시간 ~ 1시간 30분 전에는 공항에 도착하는 것을 추천합니다.",
-            "alt_text": "즐겁게 쇼핑하는 여행객 이미지"
-          }
-        ],
-        "caption": "✈️일본 출발 시 꼭 확인하세요!✈️\n\n일본 출발 항공편 이용객이라면 주목! 스카이마크 항공이 9월 1일부터 하네다 공항 출발 전편의 탑승 수속 및 수하물 위탁 마감 시간을 출발 20분 전에서 30분 전으로 변경합니다.\n\n이로써 일본 출발 7개 항공사 모두 동일한 규정을 적용하게 되었어요. 앞으로는 여유 있게 공항에 도착해서 차질 없이 여행을 시작하세요! ✈️\n\n#일본항공 #일본여행준비 #일본공항 #하네다공항 #탑승수속 #스카이마크 #여행꿀팁 #플라잉재팬 #일본여행 #항공권 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공",
-          "#일본공항",
-          "#하네다공항",
-          "#탑승수속",
-          "#스카이마크",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#항공권",
-          "#여행정보",
-          "#일본교통",
-          "#일본출발",
-          "#알아두면쓸모있는정보",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "스카이마크 항공 로고와 비행기 이미지",
-          "시계와 비행기 출발 시간 표시 이미지",
-          "다양한 항공사 로고가 나열된 이미지",
-          "일본 공항 내부 모습 이미지",
-          "즐겁게 쇼핑하는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 출발 항공편 이용 예정인 한국인 여행자 / 최적 게시 시간: 평일 오전 9-11시 / 기대 반응: 정보 습득 및 공유 / 이 콘텐츠의 강점: 직접적인 여행 준비에 필요한 필수 정보 제공",
-      "image": {
-        "keyword": "Japan airport check-in, airplane boarding, travel information, HND airport, SKYMARK Airlines",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-airport-check-in,-airplane-boarding,-travel-information,-HND-airport,-SKYMARK-Airlines",
-        "pexels_url": "https://www.pexels.com/search/Japan%20airport%20check-in,%20airplane%20boarding,%20travel%20information,%20HND%20airport,%20SKYMARK%20Airlines/"
-      }
-    },
-    {
-      "id": "plan_df1ded95",
-      "created_at": "2026-08-19T01:46:53.666468",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "コールマン国内展開50年、限定アイテム第2弾はブラックで統一。2ルームテント、ガソリンランタン、ガソリンバーナーの3種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2133610.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 캠핑족이라면 놓칠 수 없는 콜맨 50주년 한정판 블랙 에디션 출시!"
-      },
-      "content": {
-        "thumbnail_title": "콜맨 50주년 🖤 한정판!",
-        "cards": [
-          {
-            "title": "블랙 에디션 출시!",
-            "content": "일본 콜맨 50주년 기념 '50 리미티드' 시리즈 2탄이 9월 11일에 발매됩니다. 이번엔 시크한 블랙 컬러로 출시되어 더욱 특별합니다.",
-            "alt_text": "콜맨 50주년 기념 블랙 에디션 텐트 이미지"
-          },
-          {
-            "title": "한정 상품 3종",
-            "content": "2룸 텐트, 가솔린 랜턴, 가솔린 버너 총 3가지 인기 상품이 블랙 컬러로 재탄생했습니다. 캠핑 감성을 더해줄 아이템입니다.",
-            "alt_text": "블랙 컬러의 콜맨 가솔린 랜턴 이미지"
-          },
-          {
-            "title": "예약 시작",
-            "content": "공식 온라인 스토어에서는 8월 18일부터 예약 판매를 시작합니다. 서둘러야 원하는 상품을 득템할 수 있어요!",
-            "alt_text": "콜맨 온라인 스토어 예약 화면 이미지"
-          },
-          {
-            "title": "50주년 기념",
-            "content": "콜맨은 일본 시장 진출 50주년을 맞아 특별한 기념 상품들을 선보이고 있습니다. 이번 2탄은 캠핑족들의 소장 욕구를 자극할 거예요.",
-            "alt_text": "콜맨 50주년 로고 이미지"
-          },
-          {
-            "title": "캠핑 준비!",
-            "content": "일본 여행 계획 중 캠핑을 즐기시는 분이라면 이번 콜맨 한정판 아이템을 눈여겨보세요. 특별한 추억을 만들 수 있을 거예요.",
-            "alt_text": "일본 캠핑장에서 콜맨 제품을 사용하는 모습 이미지"
-          }
-        ],
-        "caption": "일본 캠핑족 주목! 🖤 콜맨 50주년 기념 '50 리미티드' 시리즈 2탄이 9월 11일 출시됩니다! 🤩\n\n이번엔 시크한 올 블랙 에디션으로 2룸 텐트, 가솔린 랜턴, 가솔린 버너 총 3가지 아이템이 공개되었어요.\n\n8월 18일부터 공식 온라인 스토어에서 예약 판매 시작! 🔥\n\n일본 여행에서 특별한 캠핑을 계획하고 있다면 놓치지 마세요!\n\n#일본여행 #콜맨 #한정판 #캠핑 #일본캠핑 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#콜맨",
-          "#콜맨한정판",
-          "#일본캠핑",
-          "#캠핑용품",
-          "#아웃도어",
-          "#일본쇼핑",
-          "#여행준비",
-          "#캠핑스타그램",
-          "#콜맨50주년",
-          "#블랙에디션",
-          "#일본아웃도어",
-          "#캠핑장비",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "콜맨 50주년 기념 블랙 에디션 텐트 이미지",
-          "블랙 컬러의 콜맨 가솔린 랜턴 이미지",
-          "콜맨 온라인 스토어 예약 화면 이미지",
-          "콜맨 50주년 로고 이미지",
-          "일본 캠핑장에서 콜맨 제품을 사용하는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 계획 중 캠핑을 즐기는 한국인 여행자 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 구체적인 출시일 및 예약 정보 제공",
-      "image": {
-        "keyword": "Coleman 50th anniversary black edition tent lantern burner Japan camping",
-        "unsplash_url": "https://unsplash.com/s/photos/Coleman-50th-anniversary-black-edition-tent-lantern-burner-Japan-camping",
-        "pexels_url": "https://www.pexels.com/search/Coleman%2050th%20anniversary%20black%20edition%20tent%20lantern%20burner%20Japan%20camping/"
       }
     }
   ]
