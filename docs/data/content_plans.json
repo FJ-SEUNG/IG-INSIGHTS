@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-24T23:35:11.925476",
+  "last_updated": "2026-08-25T01:46:03.597709",
   "plans": [
+    {
+      "id": "plan_e7a01567",
+      "created_at": "2026-08-25T01:46:01.597519",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "IHG、京都市内14のホテルをリブランド。「ガーナー」「ホリデイ・イン エクスプレス」計1063室を順次開業",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135062.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토 숙소 선택의 폭이 넓어진다! 최대 1063개 객실 리브랜딩 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 교토 호텔 14곳 리브랜딩!",
+        "cards": [
+          {
+            "title": "IHG, 교토 14곳 재단장",
+            "content": "IHG 호텔즈 앤 리조트가 8월 24일, 교토 시내 14개 호텔을 대규모로 리브랜딩한다고 발표했습니다. 새로운 브랜드로 총 1063개의 객실을 선보일 예정입니다.",
+            "alt_text": "교토 시내 호텔 건물 이미지"
+          },
+          {
+            "title": "새로운 브랜드는?",
+            "content": "이번 리브랜딩에는 '가너(Garner)'와 '홀리데이 인 익스프레스(Holiday Inn Express)' 브랜드가 포함됩니다. 다양한 가격대의 숙소를 선택할 수 있게 됩니다.",
+            "alt_text": "가너, 홀리데이 인 익스프레스 로고 이미지"
+          },
+          {
+            "title": "교토 여행 시 유용한 정보",
+            "content": "새로운 호텔들이 순차적으로 오픈될 예정이니, 교토 여행 계획 시 숙소 선택에 참고하시면 좋습니다. 특히 1063개의 객실이 추가되어 예약 경쟁이 다소 완화될 수 있습니다.",
+            "alt_text": "교토 관광지 지도 이미지"
+          },
+          {
+            "title": "여행 계획 세우기",
+            "content": "교토 시내 주요 관광지와 접근성이 좋은 곳에 위치한 호텔들이 많을 것으로 예상됩니다. 오픈 시기와 정확한 호텔명은 추후 공개될 예정입니다.",
+            "alt_text": "교토역 주변 거리 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "새로운 호텔들은 시설 및 서비스에 대한 정보가 아직 많지 않으니, 예약 전 후기 등을 꼼꼼히 확인하는 것이 좋습니다. 특히 오픈 초기 프로모션을 노려보세요!",
+            "alt_text": "여행 가방과 여권 이미지"
+          }
+        ],
+        "caption": "✈️ 교토 여행 필수 정보! IHG, 교토 시내 14개 호텔 대규모 리브랜딩 소식! \n\n총 1063개의 객실이 '가너'와 '홀리데이 인 익스프레스' 브랜드로 새롭게 선보입니다. \n\n교토 여행 계획 중이시라면, 숙소 선택의 폭이 넓어졌으니 꼭 참고하세요! 😉\n\n#일본여행 #교토여행 #일본숙소 #교토숙소 #IHG호텔 #가너호텔 #홀리데이인익스프레스 #일본정보 #여행꿀팁 #플라잉재팬 #교토 #여행스타그램 #일본 #숙소추천",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#교토숙소",
+          "#일본숙소",
+          "#IHG",
+          "#가너",
+          "#홀리데이인익스프레스",
+          "#일본교통",
+          "#일본정보",
+          "#여행스타그램",
+          "#일본",
+          "#숙소추천",
+          "#교토",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "교토 시내 호텔 건물 이미지",
+          "가너, 홀리데이 인 익스프레스 로고 이미지",
+          "교토 관광지 지도 이미지",
+          "교토역 주변 거리 이미지",
+          "여행 가방과 여권 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 교토 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 목요일/금요일 오후 6-9시 / 기대 반응: 교토 숙소 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 교토 숙소 선택지에 대한 실질적인 정보 제공 및 새로운 호텔 오픈 소식으로 인한 기대감 유발",
+      "image": {
+        "keyword": "Kyoto hotel rebranding IHG Garner Holiday Inn Express",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-hotel-rebranding-IHG-Garner-Holiday-Inn-Express",
+        "pexels_url": "https://www.pexels.com/search/Kyoto%20hotel%20rebranding%20IHG%20Garner%20Holiday%20Inn%20Express/"
+      }
+    },
+    {
+      "id": "plan_b0ad37fd",
+      "created_at": "2026-08-25T01:45:56.113794",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "岩手県、1泊最大7000円引き「おでんせ！いわて旅割キャンペーン」第2弾。じゃらん/楽天などで9月1日予約スタート",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135178.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 숙소 예약 시 최대 7000엔 할인받을 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 최대 7000엔 할인! 이와테 숙박권 득템 찬스 ✈️",
+        "cards": [
+          {
+            "title": "이와테 여행 할인",
+            "content": "일본 이와테현에서 '오덴세! 이와테 여행 할인 캠페인' 2탄을 9월 1일부터 시작합니다. 1박당 최대 7000엔까지 할인이 적용됩니다.",
+            "alt_text": "일본 이와테현 지도와 할인 캠페인 홍보 이미지"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "본격적인 할인 혜택은 9월 1일부터 예약이 가능하며, 해당 캠페인 기간 동안 이와테현 내 숙박 시설을 저렴하게 이용할 수 있습니다.",
+            "alt_text": "캘린더에 9월 1일이 표시된 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "할인 혜택은 자란(じゃらん) 및 라쿠텐 트래블(楽天トラベル) 등 주요 온라인 여행 플랫폼을 통해 예약 시 적용됩니다.",
+            "alt_text": "자란(じゃらん) 및 라쿠텐 트래블(楽天トラベル) 로고 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "이번 캠페인을 통해 숙박 요금 부담을 크게 줄일 수 있으며, 특히 장기 여행자나 가족 단위 여행객에게 큰 이점이 될 것으로 예상됩니다.",
+            "alt_text": "할인 쿠폰이 그려진 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "한정된 예산으로 이와테를 알차게 여행하고 싶다면, 지금 바로 예약 정보를 확인하고 할인 혜택을 놓치지 마세요! 조기 마감될 수 있습니다.",
+            "alt_text": "여행 가방과 할인 태그가 함께 있는 이미지"
+          }
+        ],
+        "caption": "🇯🇵 이와테 여행 계획 중이신가요? 최대 7000엔 할인받고 알찬 여행 하세요! \n\n✅ 캠페인명: 오덴세! 이와테 여행 할인 캠페인 2탄\n✅ 예약 시작: 9월 1일부터\n✅ 할인 혜택: 1박당 최대 7000엔\n✅ 예약 채널: 자란(じゃらん), 라쿠텐 트래블(楽天トラベル) 등\n\n일본 이와테현에서 특별한 추억을 만들 기회! 지금 바로 예약하고 할인 혜택을 받아보세요! ✈️\n\n#이와테여행 #일본숙소 #여행할인 #플라잉재팬 #일본여행정보 #이와테 #여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#이와테여행",
+          "#일본숙박",
+          "#여행할인",
+          "#일본여행정보",
+          "#이와테",
+          "#일본자유여행",
+          "#일본숙소추천",
+          "#여행꿀팁",
+          "#일본이벤트",
+          "#가을여행",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "일본 이와테현 지도와 할인 캠페인 홍보 이미지",
+          "캘린더에 9월 1일이 표시된 이미지",
+          "자란(じゃらん) 및 라쿠텐 트래블(楽天トラベル) 로고 이미지",
+          "할인 쿠폰이 그려진 이미지",
+          "여행 가방과 할인 태그가 함께 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 이와테현 방문 예정인 한국인 여행자 / 최적 게시 시간: 저녁 7시~9시 / 기대 반응: 예약 정보에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 예약 채널 명시로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Iwate travel discount, Japan accommodation coupon, September travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Iwate-travel-discount,-Japan-accommodation-coupon,-September-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Iwate%20travel%20discount,%20Japan%20accommodation%20coupon,%20September%20travel%20deal/"
+      }
+    },
     {
       "id": "plan_04804dcb",
       "created_at": "2026-08-24T23:35:09.925288",
@@ -923,160 +1077,6 @@
         "keyword": "Vermeer exhibition Osaka, miffy collaboration, Frieren anime goods, Nakanoshima Museum of Art, Japan art exhibition",
         "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka,-miffy-collaboration,-Frieren-anime-goods,-Nakanoshima-Museum-of-Art,-Japan-art-exhibition",
         "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka,%20miffy%20collaboration,%20Frieren%20anime%20goods,%20Nakanoshima%20Museum%20of%20Art,%20Japan%20art%20exhibition/"
-      }
-    },
-    {
-      "id": "plan_8c6b4ac1",
-      "created_at": "2026-08-20T23:40:49.987148",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ピーチ、片道5680円からの成田～ソウル線をまもなく開設。調査では20代の8割が「思い立ったらすぐ出発」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134254.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "성수기 일본 여행, 특가로 알뜰하게 준비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 5680원부터! 일본행 특가 떴다! ✈️",
-        "cards": [
-          {
-            "title": "새로운 노선",
-            "content": "피치항공이 9월 20일부터 나리타-인천 노선을 신규 취항합니다. 저렴한 가격으로 일본 여행을 계획할 수 있는 기회입니다.",
-            "alt_text": "피치항공 비행기 이미지"
-          },
-          {
-            "title": "파격 특가",
-            "content": "이번 신규 취항을 기념하여 편도 5,680원부터 시작하는 파격적인 특가 요금을 선보입니다. 미리 예약하면 더욱 저렴하게 이용 가능합니다.",
-            "alt_text": "항공권 가격표 이미지"
-          },
-          {
-            "title": "여행 트렌드",
-            "content": "조사 결과, 20대 여행객의 80%가 '생각나면 바로 출발'하는 즉흥적인 여행 스타일을 선호하는 것으로 나타났습니다. 이번 특가가 즉흥 여행에 좋은 기회가 될 것입니다.",
-            "alt_text": "여행 계획 세우는 젊은 사람 이미지"
-          },
-          {
-            "title": "도쿄 여행",
-            "content": "나리타 공항은 도쿄 시내로 접근하기 좋은 공항입니다. 신규 노선을 활용하여 도쿄와 근교 여행을 더욱 알뜰하게 즐겨보세요.",
-            "alt_text": "도쿄 스카이트리 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "특가 항공권은 조기 마감될 수 있으니, 관심 있다면 지금 바로 피치항공 웹사이트를 확인해보세요! 수하물 규정 및 추가 요금도 미리 확인하는 것이 좋습니다.",
-            "alt_text": "캘린더에 날짜 표시 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 여행 준비 중이라면 주목! ✈️\n\n피치항공이 9월 20일부터 나리타-인천 노선을 신규 취항하며, 편도 5,680원부터 시작하는 파격 특가를 선보입니다! 🎉\n\n20대 여행객들의 '즉흥 여행' 트렌드와 딱 맞는 이번 기회, 놓치지 마세요! 🤩\n\n지금 바로 피치항공에서 특가 항공권을 확인하고 알뜰하게 일본 여행을 떠나보세요! 🇯🇵\n\n#일본여행 #항공권특가 #피치항공 #나리타 #인천 #도쿄여행 #일본항공권 #여행정보 #가성비여행 #즉흥여행 #플라잉재팬 #여행스타그램 #일본 #해외여행 #9월여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#피치항공",
-          "#나리타",
-          "#인천",
-          "#도쿄",
-          "#일본항공권",
-          "#항공권특가",
-          "#가성비여행",
-          "#즉흥여행",
-          "#여행스타그램",
-          "#일본",
-          "#해외여행",
-          "#9월여행",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "피치항공 비행기 이미지",
-          "항공권 가격표 이미지",
-          "여행 계획 세우는 젊은 사람 이미지",
-          "도쿄 스카이트리 이미지",
-          "캘린더에 날짜 표시 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보와 최신 노선 오픈이라는 시의성 있는 정보 제공",
-      "image": {
-        "keyword": "Peach Aviation, Narita to Incheon flight, cheap flight ticket, Tokyo travel deal, spontaneous travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Peach-Aviation,-Narita-to-Incheon-flight,-cheap-flight-ticket,-Tokyo-travel-deal,-spontaneous-travel",
-        "pexels_url": "https://www.pexels.com/search/Peach%20Aviation,%20Narita%20to%20Incheon%20flight,%20cheap%20flight%20ticket,%20Tokyo%20travel%20deal,%20spontaneous%20travel/"
-      }
-    },
-    {
-      "id": "plan_afe501d6",
-      "created_at": "2026-08-20T23:40:39.727233",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "日帰り箱根ユネッサンが1000円引き「学割ワンデーパス」。温泉＆プールで遊び放題、9月末まで",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134332.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가성비 최고! 일본 여행 중 특별한 추억을 만들 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "箱根ユネッサン 1000엔 할인!♨️",
-        "cards": [
-          {
-            "title": "학창 시절 특별 할인!",
-            "content": "일본 하코네 코와키엔 유네상에서 '학원 원데이 패스'를 1000엔 할인된 가격으로 만나보세요! 🤩",
-            "alt_text": "할인 혜택을 강조하는 유네상 입구 이미지"
-          },
-          {
-            "title": "이용 가능 기간",
-            "content": "2023년 8월 24일부터 9월 30일까지 이용 가능합니다. (8월 29일, 30일 제외)",
-            "alt_text": "달력 이미지에 할인 기간 표시"
-          },
-          {
-            "title": "할인 금액",
-            "content": "정상가에서 최대 1000엔 할인된 가격으로 이용 가능합니다. 💰",
-            "alt_text": "할인율을 나타내는 금액 표시 이미지"
-          },
-          {
-            "title": "무제한 온천 & 수영장",
-            "content": "다양한 테마의 온천과 시원한 수영장에서 하루 종일 신나는 시간을 보낼 수 있어요! 🏊‍♀️",
-            "alt_text": "다양한 테마의 온천탕과 수영장 모습"
-          },
-          {
-            "title": "학생이라면 꼭 챙겨!",
-            "content": "학생증을 꼭 지참해야 하며, 학생이 아니더라도 동반하면 혜택을 받을 수 있는지 확인해 보세요. (현지 문의 필수)",
-            "alt_text": "학생증을 보여주는 손 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 추억을 만들고 싶다면? ♨️ 하코네 코와키엔 유네상에서 '학원 원데이 패스'로 1000엔 할인받고 온천과 수영을 즐겨보세요! 🤩 8월 24일부터 9월 30일까지 (일부 제외) 진행되니, 학생이라면 절대 놓치지 마세요! 😉\n\n#일본여행 #하코네 #유네상 #일본온천 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하코네여행",
-          "#유네상",
-          "#일본온천",
-          "#일본여름",
-          "#일본가볼만한곳",
-          "#일본여행정보",
-          "#일본자유여행",
-          "#일본여행팁",
-          "#일본할인",
-          "#일본가성비",
-          "#학원할인",
-          "#일본축제",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "할인 혜택을 강조하는 유네상 입구 이미지",
-          "달력 이미지에 할인 기간 표시",
-          "할인율을 나타내는 금액 표시 이미지",
-          "다양한 테마의 온천탕과 수영장 모습",
-          "학생증을 보여주는 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 학생 및 젊은 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 할인 정보에 대한 관심과 문의 증가, 실제 방문 후기 공유 / 이 콘텐츠의 강점: 구체적인 할인 금액 및 기간 명시, 학생들에게 매력적인 혜택 강조",
-      "image": {
-        "keyword": "Hakone Yunessun, discount, student pass, hot spring, swimming pool, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Yunessun,-discount,-student-pass,-hot-spring,-swimming-pool,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Hakone%20Yunessun,%20discount,%20student%20pass,%20hot%20spring,%20swimming%20pool,%20Japan%20travel/"
       }
     }
   ]
