@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-25T01:46:03.597709",
+  "last_updated": "2026-08-25T23:38:11.214810",
   "plans": [
+    {
+      "id": "plan_55f653b4",
+      "created_at": "2026-08-25T23:38:09.214608",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ファミマで今日発売、モンハン「タマミツネ」がすやすや眠るぬいぐるみチャーム。全長18.5cm",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135504.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "덕후 심쿵! 몬스터헌터 '타마미츠네' 굿즈가 편의점에 상륙했어요!"
+      },
+      "content": {
+        "thumbnail_title": "몬헌 타마미츠네 굿즈 💖",
+        "cards": [
+          {
+            "title": "오늘 출시!",
+            "content": "8월 26일, 몬스터헌터 '타마미츠네' 굿즈가 드디어 출시됐어요! 😴\n'몬스터헌터 오야스미 타마미츠네 누이구루미 참(ぬいぐるみチャーム)'북으로 만나볼 수 있습니다.",
+            "alt_text": "몬스터헌터 타마미츠네 굿즈가 출시되었다는 내용의 이미지"
+          },
+          {
+            "title": "가격은?",
+            "content": "가격은 4,169엔입니다. 💰\n여행 경비 계획하실 때 참고하세요!",
+            "alt_text": "굿즈의 가격 정보가 표시된 이미지"
+          },
+          {
+            "title": "구매처는?",
+            "content": "온라인 스토어와 일본 패밀리마트에서만 구매 가능해요. 🏪\n(일반 서점에서는 판매하지 않습니다!)",
+            "alt_text": "패밀리마트 로고와 함께 구매처 정보를 안내하는 이미지"
+          },
+          {
+            "title": "사이즈는?",
+            "content": "전체 길이 18.5cm로 꽤 큼직한 사이즈랍니다. 🧸\n가방에 달거나 인테리어 소품으로도 좋아요!",
+            "alt_text": "굿즈의 실제 크기를 가늠할 수 있는 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "패밀리마트 방문 예정이라면 놓치지 마세요! ✈️\n여행 중 힐링템으로 딱일 거예요. 🇯🇵",
+            "alt_text": "패밀리마트에서 굿즈를 구매하는 즐거움을 담은 이미지"
+          }
+        ],
+        "caption": "일본 여행 중이라면 주목! 💖 8월 26일, 몬스터헌터의 귀여운 '타마미츠네' 굿즈가 일본 패밀리마트에 상륙했어요! 😴 4,169엔 가격에 18.5cm 사이즈의 폭신한 굿즈를 겟할 수 있습니다. 온라인 스토어와 패밀리마트에서만 구매 가능하니, 여행 중이라면 꼭 들러보세요! ✈️\n\n#일본여행 #플라잉재팬 #몬스터헌터 #타마미츠네 #패밀리마트 #일본편의점 #일본굿즈 #여행꿀팁 #덕후여행 #한정판 #일본쇼핑 #여행스타그램 #일본자유여행 #여행준비 #현지정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#몬스터헌터",
+          "#타마미츠네",
+          "#패밀리마트",
+          "#일본편의점",
+          "#일본굿즈",
+          "#여행꿀팁",
+          "#덕후여행",
+          "#한정판",
+          "#일본쇼핑",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행준비",
+          "#현지정보"
+        ],
+        "alt_texts": [
+          "몬스터헌터 타마미츠네 굿즈가 출시되었다는 내용의 이미지",
+          "굿즈의 가격 정보가 표시된 이미지",
+          "패밀리마트 로고와 함께 구매처 정보를 안내하는 이미지",
+          "굿즈의 실제 크기를 가늠할 수 있는 이미지",
+          "패밀리마트에서 굿즈를 구매하는 즐거움을 담은 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 몬스터헌터 팬층 및 일본 편의점 쇼핑에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 최신 출시 정보, 구체적인 구매처 및 가격 정보 제공, 타겟층의 흥미를 유발하는 아이템",
+      "image": {
+        "keyword": "monster hunter tamatsuné plush charm family mart japan",
+        "unsplash_url": "https://unsplash.com/s/photos/monster-hunter-tamatsuné-plush-charm-family-mart-japan",
+        "pexels_url": "https://www.pexels.com/search/monster%20hunter%20tamatsuné%20plush%20charm%20family%20mart%20japan/"
+      }
+    },
+    {
+      "id": "plan_bb7f718b",
+      "created_at": "2026-08-25T23:38:04.034381",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ファミマで今日発売「モンハン」折りたたみイス。座面は武器アイコン、季節イベントに持ち運びやすいサイズ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135505.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "몬스터헌터 팬이라면 놓칠 수 없는 한정판 굿즈!"
+      },
+      "content": {
+        "thumbnail_title": "몬헌 X 패밀리마트 꿀템! 🎒",
+        "cards": [
+          {
+            "title": "오늘 출시!",
+            "content": "8월 26일, 드디어 '몬스터헌터 쇼더 스트랩付き 접이식 의자 BOOK'이 발매됩니다! 🏕️",
+            "alt_text": "몬스터헌터 디자인의 접이식 의자가 출시된다는 소식을 알리는 이미지"
+          },
+          {
+            "title": "가격과 구매처",
+            "content": "가격은 3729엔이며, 패밀리마트와 온라인 쇼핑몰에서만 구매 가능해요. (서점 판매X) 🛒",
+            "alt_text": "패밀리마트와 온라인 쇼핑몰에서 구매 가능하다는 것을 강조하는 이미지"
+          },
+          {
+            "title": "디자인 포인트!",
+            "content": "의자 좌면에는 몬스터헌터의 상징적인 무기 아이콘이 새겨져 있어 팬심을 자극합니다. ✨",
+            "alt_text": "몬스터헌터 무기 아이콘이 새겨진 접이식 의자 좌면 디자인을 보여주는 이미지"
+          },
+          {
+            "title": "휴대성 UP!",
+            "content": "어깨끈이 포함되어 있어 휴대하기 편리하며, 가벼운 무게로 여행 중 언제든 유용하게 사용할 수 있어요. 🚶‍♀️",
+            "alt_text": "어깨끈이 달린 접이식 의자를 메고 있는 사람의 모습"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "일본 여행 중 편의점을 들를 예정이라면, 득템 찬스를 놓치지 마세요! 한정판인 만큼 서둘러야 할지도 몰라요! 🏃‍♂️",
+            "alt_text": "패밀리마트 앞에서 몬스터헌터 접이식 의자를 들고 환호하는 모습"
+          }
+        ],
+        "caption": "일본 여행 중 득템 찬스! 🇯🇵 8월 26일, 패밀리마트에서 몬스터헌터 콜라보 접이식 의자가 출시됩니다! 🏕️ \n\n가격은 3729엔, 어깨끈 포함으로 휴대성까지 최고! 🎒\n좌면의 무기 아이콘 디자인은 몬스터헌터 팬이라면 심쿵할 수밖에 없어요. 😍\n\n일본 여행 중이라면 패밀리마트에서 꼭 확인해보세요! \n\n#몬스터헌터 #패밀리마트 #일본굿즈 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#몬스터헌터",
+          "#패밀리마트",
+          "#일본편의점",
+          "#일본쇼핑",
+          "#일본굿즈",
+          "#한정판",
+          "#일본여행꿀팁",
+          "#여행준비",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#JR패스",
+          "#일본맛집",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "몬스터헌터 디자인의 접이식 의자가 출시된다는 소식을 알리는 이미지",
+          "패밀리마트와 온라인 쇼핑몰에서 구매 가능하다는 것을 강조하는 이미지",
+          "몬스터헌터 무기 아이콘이 새겨진 접이식 의자 좌면 디자인을 보여주는 이미지",
+          "어깨끈이 달린 접이식 의자를 메고 있는 사람의 모습",
+          "패밀리마트 앞에서 몬스터헌터 접이식 의자를 들고 환호하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 몬스터헌터 팬층 및 일본 편의점 쇼핑을 즐기는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 인스타그램 활동 시간) / 기대 반응: 높은 관심과 구매 문의, 정보 공유 / 이 콘텐츠의 강점: 최신 출시 정보, 특정 팬덤 공략, 구체적인 구매처 및 가격 정보 제공",
+      "image": {
+        "keyword": "monster hunter folding chair family mart japan",
+        "unsplash_url": "https://unsplash.com/s/photos/monster-hunter-folding-chair-family-mart-japan",
+        "pexels_url": "https://www.pexels.com/search/monster%20hunter%20folding%20chair%20family%20mart%20japan/"
+      }
+    },
     {
       "id": "plan_e7a01567",
       "created_at": "2026-08-25T01:46:01.597519",
@@ -923,160 +1077,6 @@
         "keyword": "ANA airplane, Shikoku region map, Japanese local scenery, discount coupon, travel suitcase",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Shikoku-region-map,-Japanese-local-scenery,-discount-coupon,-travel-suitcase",
         "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Shikoku%20region%20map,%20Japanese%20local%20scenery,%20discount%20coupon,%20travel%20suitcase/"
-      }
-    },
-    {
-      "id": "plan_ab5f3fbc",
-      "created_at": "2026-08-21T01:50:50.092149",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大阪中之島美術館「フェルメール展」内覧レポート。「真珠の耳飾りの少女」は撮影可能、詳しくない人も楽しめる！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134322.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "전설의 '진주 귀걸이를 한 소녀'를 일본에서 만날 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨페르멜 특별전 in 오사카✨",
-        "cards": [
-          {
-            "title": "전시 정보",
-            "content": "오사카 나카노시마 미술관에서 '진주 귀걸이를 한 소녀' 특별전을 개최합니다. 17세기 네덜란드 회화 거장들의 작품을 만날 수 있는 이번 전시는 8월 21일부터 9월 27일까지 진행됩니다.",
-            "alt_text": "오사카 나카노시마 미술관 외관"
-          },
-          {
-            "title": "주요 작품",
-            "content": "이번 전시에서는 요하네스 페르메이르의 대표작 '진주 귀걸이를 한 소녀'가 전시됩니다. 이 작품은 사진 촬영이 가능하여 특별한 추억을 남길 수 있습니다.",
-            "alt_text": "'진주 귀걸이를 한 소녀' 작품 이미지"
-          },
-          {
-            "title": "전시 기간",
-            "content": "전시는 2024년 8월 21일부터 2024년 9월 27일까지 약 한 달간 진행됩니다. 놓치지 마세요!",
-            "alt_text": "달력 아이콘과 전시 기간 표시"
-          },
-          {
-            "title": "전시 장소",
-            "content": "전시 장소는 오사카 나카노시마 미술관입니다. 오사카 시내에서 접근성이 좋습니다.",
-            "alt_text": "오사카 나카노시마 미술관 내부 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "미술에 대해 잘 모르는 분들도 즐길 수 있도록 구성되어 있다고 합니다. 특별한 경험을 원한다면 꼭 방문해보세요!",
-            "alt_text": "미술관 내부에서 작품을 감상하는 사람들"
-          }
-        ],
-        "caption": "🇯🇵 오사카에서 만나는 명작! 🇯🇵\n\n전설의 '진주 귀걸이를 한 소녀'가 다시 일본으로 왔어요! 🤩\n\n오사카 나카노시마 미술관에서 8월 21일부터 9월 27일까지 특별 전시가 열립니다.\n\n미술 애호가는 물론, 처음 접하는 분들도 쉽게 즐길 수 있도록 기획되었다니, 이번 오사카 여행에서 특별한 추억을 만들어보세요! 🎨\n\n#일본여행 #오사카 #페르메르 #진주귀걸이를한소녀 #미술전시 #오사카여행 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#오사카여행",
-          "#페르메르",
-          "#진주귀걸이를한소녀",
-          "#미술전시",
-          "#나카노시마미술관",
-          "#일본문화",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#아트",
-          "#문화생활",
-          "#전시회"
-        ],
-        "alt_texts": [
-          "오사카 나카노시마 미술관 외관",
-          "'진주 귀걸이를 한 소녀' 작품 이미지",
-          "달력 아이콘과 전시 기간 표시",
-          "오사카 나카노시마 미술관 내부 이미지",
-          "미술관 내부에서 작품을 감상하는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 예술과 문화에 관심 있는 한국인 여행객 / 최적 게시 시간: 평일 오전 10시 또는 오후 6시 / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 희소성 높은 유명 작품 전시 정보, 사진 촬영 가능이라는 매력 포인트 강조",
-      "image": {
-        "keyword": "Vermeer exhibition Osaka, Girl with a Pearl Earring Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka,-Girl-with-a-Pearl-Earring-Japan",
-        "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka,%20Girl%20with%20a%20Pearl%20Earring%20Japan/"
-      }
-    },
-    {
-      "id": "plan_bde4a391",
-      "created_at": "2026-08-21T01:50:41.502957",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "フェルメール展、特設ショップを撮り下ろしで紹介。ミッフィーコラボは会場のみ、フリーレンは全種類オンラインあり",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134398.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카에서 만나는 명화와 미피, 프리렌의 특별한 만남!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 페르메르展✨",
-        "cards": [
-          {
-            "title": "전시 기간",
-            "content": "8월 21일부터 9월 27일까지 오사카 중노시마 미술관에서 '진주 귀걸이를 한 소녀'전을 개최합니다.  17세기 네덜란드 회화의 명작을 다시 만날 기회입니다.",
-            "alt_text": "전시 기간 안내 텍스트와 함께 페르메르 전시회 포스터 이미지"
-          },
-          {
-            "title": "특별 굿즈",
-            "content": "전시회장 내 특별 샵에서만 만날 수 있는 미피(miffy) 콜라보 굿즈가 준비되어 있습니다.  놓치지 마세요!",
-            "alt_text": "미피 캐릭터와 함께 전시회 굿즈 이미지"
-          },
-          {
-            "title": "프리렌 굿즈",
-            "content": "인기 애니메이션 '장송의 프리렌' 콜라보 굿즈는 전 종류 온라인에서도 구매 가능합니다.  전시회 방문이 어렵다면 온라인을 활용하세요.",
-            "alt_text": "장송의 프리렌 캐릭터와 함께 굿즈 이미지"
-          },
-          {
-            "title": "전시 장소",
-            "content": "오사카 중노시마 미술관에서 열립니다.  오사카 여행 계획에 꼭 넣어보세요!",
-            "alt_text": "오사카 중노시마 미술관 외관 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "전시 티켓 예매는 필수!  특히 주말 및 공휴일은 빠르게 매진될 수 있으니 미리 확인하고 예매하는 것을 추천합니다.",
-            "alt_text": "달력 아이콘과 함께 티켓 예매 팁 안내 이미지"
-          }
-        ],
-        "caption": "✨오사카에서 놓칠 수 없는 문화생활!✨\n8월 21일부터 9월 27일까지 오사카 중노시마 미술관에서 '페르메르 <진주 귀걸이를 한 소녀> 전'이 열립니다. 🖼️\n\n이번 전시는 17세기 네덜란드 회화의 명작을 다시 만나는 특별한 기회인데요,\n특히 전시장에서만 구매 가능한 미피(miffy) 콜라보 굿즈와 온라인에서도 구매 가능한 '장송의 프리렌' 굿즈도 놓치지 마세요! 💖\n\n오사카 여행 중 특별한 추억을 만들고 싶다면, 지금 바로 티켓 예매하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#페르메르",
-          "#진주귀걸이를한소녀",
-          "#미피",
-          "#장송의프리렌",
-          "#일본전시",
-          "#오사카미술관",
-          "#문화생활",
-          "#여행정보",
-          "#일본필수코스",
-          "#여행꿀팁",
-          "#일본축제",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "전시 기간 안내 텍스트와 함께 페르메르 전시회 포스터 이미지",
-          "미피 캐릭터와 함께 전시회 굿즈 이미지",
-          "장송의 프리렌 캐릭터와 함께 굿즈 이미지",
-          "오사카 중노시마 미술관 외관 이미지",
-          "달력 아이콘과 함께 티켓 예매 팁 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 오사카 여행 예정인 2030 한국인 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 전시회 방문 예약 증가, 굿즈 구매 관심 증가 / 이 콘텐츠의 강점: 최신 전시 정보와 인기 캐릭터 콜라보를 결합하여 높은 관심 유도",
-      "image": {
-        "keyword": "Vermeer exhibition Osaka, miffy collaboration, Frieren anime goods, Nakanoshima Museum of Art, Japan art exhibition",
-        "unsplash_url": "https://unsplash.com/s/photos/Vermeer-exhibition-Osaka,-miffy-collaboration,-Frieren-anime-goods,-Nakanoshima-Museum-of-Art,-Japan-art-exhibition",
-        "pexels_url": "https://www.pexels.com/search/Vermeer%20exhibition%20Osaka,%20miffy%20collaboration,%20Frieren%20anime%20goods,%20Nakanoshima%20Museum%20of%20Art,%20Japan%20art%20exhibition/"
       }
     }
   ]
