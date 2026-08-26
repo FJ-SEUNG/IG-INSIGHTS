@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-25T23:38:11.214810",
+  "last_updated": "2026-08-26T01:51:51.720026",
   "plans": [
+    {
+      "id": "plan_cfbe7592",
+      "created_at": "2026-08-26T01:51:49.719774",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "8月のANAにキュン！、海外旅行が最大15万円引き。国内ツアーやふるさと納税も29日限定でお得",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135356.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "8월 29일 단 하루! ANA 항공권 최대 15만원 할인 찬스 절대 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ANA 8월 29일 꿀딜!✈️",
+        "cards": [
+          {
+            "title": "ANA에 8월 29일",
+            "content": "ANA X의 'ANA에 キュン！' 캠페인이 8월 29일 0시부터 23시 59분까지 진행됩니다. 총 10가지의 특별 기획이 준비되어 있으며, 자세한 내용은 당일 공개됩니다.",
+            "alt_text": "ANA 항공편 프로모션 이미지"
+          },
+          {
+            "title": "최대 15만원 할인",
+            "content": "해외여행 항공권이 최대 15만원까지 할인되는 파격적인 혜택을 제공합니다. 일본 여행 계획 중이라면 지금이 기회입니다!",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "국내외 상품 포함",
+            "content": "일본행 항공권뿐만 아니라 국내 여행 상품 및 특별한 '후루사토 노제' 상품도 같은 날 할인을 받을 수 있습니다. 다양한 혜택을 확인하세요.",
+            "alt_text": "다양한 여행 상품 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "이 특별한 할인은 8월 29일 단 하루, 24시간 동안만 진행됩니다. 마감 시간 전에 꼭 혜택을 챙기세요!",
+            "alt_text": "타이머 이미지"
+          },
+          {
+            "title": "놓치기 아쉬운 꿀팁",
+            "content": "캠페인 상세 내용은 당일 공개되므로, 8월 29일 0시를 놓치지 말고 ANA X 웹사이트를 수시로 확인하는 것이 좋습니다. 원하는 목적지 항공권을 미리 검색해두세요!",
+            "alt_text": "돋보기 아이콘 이미지"
+          }
+        ],
+        "caption": "🇯🇵8월 29일, ANA에서 역대급 할인 찬스가 찾아옵니다!🇯🇵\n\nANA X의 'ANA에 キュン！' 캠페인이 8월 29일 단 하루, 0시부터 23시 59분까지 진행됩니다.\n\n✨해외여행 항공권 최대 15만원 할인!\n✈️일본 여행 계획 있다면 절대 놓치지 마세요!\n\n국내 여행 상품 및 '후루사토 노제' 상품도 함께 할인되니, 8월 29일 ANA X를 주목해주세요! \n\n#일본여행 #ANA항공 #할인정보 #여행꿀팁 #ANA에キュン",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA항공",
+          "#항공권할인",
+          "#일본여행준비",
+          "#8월여행",
+          "#여행특가",
+          "#ANA",
+          "#일본항공권",
+          "#해외여행",
+          "#여행스타그램",
+          "#할인정보",
+          "#놓치면후회",
+          "#여행찬스",
+          "#일본"
+        ],
+        "alt_texts": [
+          "ANA 항공편 프로모션 이미지",
+          "할인 쿠폰 이미지",
+          "다양한 여행 상품 이미지",
+          "타이머 이미지",
+          "돋보기 아이콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 프로모션 시작 전날 밤 또는 당일 오전 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 구체적인 날짜와 할인 금액을 명시하여 즉각적인 관심 유발",
+      "image": {
+        "keyword": "ANA airplane discount promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane-discount-promotion",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane%20discount%20promotion/"
+      }
+    },
+    {
+      "id": "plan_93af4060",
+      "created_at": "2026-08-26T01:51:42.200218",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「リブマックスリゾート筑波山温泉」開業。天然温泉・本格ロウリュサウナ完備、ホテル一望をリブランド",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135329.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 여행의 새로운 성지! 츠쿠바산 료칸 리브랜딩 소식"
+      },
+      "content": {
+        "thumbnail_title": "츠쿠바산 료칸 ♨️ 재탄생!",
+        "cards": [
+          {
+            "title": "새로운 료칸 오픈",
+            "content": "일본 茨城県(이바라키현) 츠쿠바시에 위치한 '리브맥스 리조트 츠쿠바산 온천'이 2023년 8월 25일 새롭게 문을 열었습니다. 기존 '츠쿠바산 온천 호텔 이치보'를 리브랜딩한 곳이에요.",
+            "alt_text": "리브맥스 리조트 츠쿠바산 온천 외관 전경"
+          },
+          {
+            "title": "천연 온천 완비",
+            "content": "이곳의 가장 큰 매력은 바로 천연 온천입니다. 여행의 피로를 풀고 싶으신 분들에게 딱 맞는 힐링 스팟이 될 거예요.",
+            "alt_text": "료칸 내 온천탕 모습"
+          },
+          {
+            "title": "본격 사우나 시설",
+            "content": "온천뿐만 아니라 본격적인 로우류 사우나 시설까지 갖추고 있어 더욱 특별한 휴식을 즐길 수 있습니다.",
+            "alt_text": "료칸 내 사우나 시설 이미지"
+          },
+          {
+            "title": "츠쿠바산의 아름다운 풍경",
+            "content": "료칸에서는 츠쿠바산의 아름다운 풍경을 한눈에 감상할 수 있습니다. 멋진 전망과 함께 여유로운 시간을 보내세요.",
+            "alt_text": "료칸 객실에서 바라본 츠쿠바산 풍경"
+          },
+          {
+            "title": "예약 팁",
+            "content": "새롭게 오픈한 만큼 인기가 많을 것으로 예상됩니다. 츠쿠바산 온천 여행을 계획하신다면 서둘러 예약하시는 것을 추천합니다!",
+            "alt_text": "호텔 예약 페이지 캡처 이미지 (예시)"
+          }
+        ],
+        "caption": "일본 茨城県(이바라키현) 츠쿠바산에 새로운 온천 료칸이 문을 열었어요! ♨️\n\n✨ '리브맥스 리조트 츠쿠바산 온천' ✨\n\n✔️ 2023년 8월 25일 리브랜딩 오픈!\n✔️ 천연 온천 & 본격 로우류 사우나 완비!\n✔️ 츠쿠바산의 아름다운 풍경을 담은 객실!\n\n온천과 사우나, 그리고 멋진 풍경까지! 힐링 여행을 원한다면 츠쿠바산으로 떠나보세요!\n\n지금 바로 예약하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#츠쿠바산",
+          "#이바라키현",
+          "#일본온천",
+          "#료칸",
+          "#일본숙소",
+          "#츠쿠바",
+          "#일본온천여행",
+          "#일본힐링",
+          "#해외여행",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#리브맥스리조트",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "리브맥스 리조트 츠쿠바산 온천 외관 전경",
+          "료칸 내 온천탕 모습",
+          "료칸 내 사우나 시설 이미지",
+          "료칸 객실에서 바라본 츠쿠바산 풍경",
+          "호텔 예약 페이지 캡처 이미지 (예시)"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 온천 여행에 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 최신 오픈 정보, 상세한 시설 정보, 힐링 테마 강조",
+      "image": {
+        "keyword": "Tsukubasan Onsen Ryokan, Ribmax Resort Tsukubasan, Japanese hot spring, traditional Japanese inn, Ryukyu sauna, mountain view, Ibaraki prefecture, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Tsukubasan-Onsen-Ryokan,-Ribmax-Resort-Tsukubasan,-Japanese-hot-spring,-traditional-Japanese-inn,-Ryukyu-sauna,-mountain-view,-Ibaraki-prefecture,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Tsukubasan%20Onsen%20Ryokan,%20Ribmax%20Resort%20Tsukubasan,%20Japanese%20hot%20spring,%20traditional%20Japanese%20inn,%20Ryukyu%20sauna,%20mountain%20view,%20Ibaraki%20prefecture,%20Japan%20travel/"
+      }
+    },
     {
       "id": "plan_55f653b4",
       "created_at": "2026-08-25T23:38:09.214608",
@@ -923,160 +1077,6 @@
         "keyword": "Nakagawa Masashisho, Japan shopping, Tokyo Station, Kitakyushu, limited edition goods, travel souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/Nakagawa-Masashisho,-Japan-shopping,-Tokyo-Station,-Kitakyushu,-limited-edition-goods,-travel-souvenir",
         "pexels_url": "https://www.pexels.com/search/Nakagawa%20Masashisho,%20Japan%20shopping,%20Tokyo%20Station,%20Kitakyushu,%20limited%20edition%20goods,%20travel%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_7a80cdb5",
-      "created_at": "2026-08-22T01:44:35.307996",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ほりにし、3年ぶり定番フレーバーは「レモン味」。肉も魚もひとふりでさっぱり爽やか、万能アウトドアスパイス",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134741.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 현지 인기 만능 스파이스, 이제 레몬맛으로 상큼하게 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨일본 만능 스파이스, 레몬맛 출시!🍋",
-        "cards": [
-          {
-            "title": "신상 출시!",
-            "content": "일본에서 큰 사랑을 받는 만능 아웃도어 스파이스 '호리니시'의 새로운 플레이버 '호리니시 뉴 레몬'이 2023년 8월 21일에 출시되었습니다.",
-            "alt_text": "호리니시 뉴 레몬 스파이스 패키지 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "100g 한 병 가격은 1280엔입니다. 한국 돈으로 약 12,000원 내외로 구매 가능합니다 (환율에 따라 변동).",
-            "alt_text": "호리니시 뉴 레몬 스파이스 가격표 이미지"
-          },
-          {
-            "title": "구매처",
-            "content": "아웃도어샵 Orange의 각 매장과 온라인샵, 그리고 일본 전국의 소매점에서 순차적으로 판매될 예정입니다.",
-            "alt_text": "일본 아웃도어샵 Orange 매장 외관 이미지"
-          },
-          {
-            "title": "활용법",
-            "content": "고기, 생선 등 어떤 요리에도 한 번 뿌리면 상큼하고 산뜻한 풍미를 더해줍니다. 캠핑이나 피크닉에 꼭 챙겨가세요!",
-            "alt_text": "호리니시 뉴 레몬 스파이스를 뿌린 요리 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "지난 시즌 한정으로 출시되었던 레몬맛이 큰 인기를 얻어 정식 출시되었습니다. 일본 여행 중 발견하면 꼭 득템하세요!",
-            "alt_text": "호리니시 스파이스를 활용한 다양한 요리 이미지"
-          }
-        ],
-        "caption": "일본 현지에서 난리 난 '호리니시' 스파이스! 🍋✨ 3년 만에 돌아온 레몬맛 신상 '호리니시 뉴 레몬'이 8월 21일 출시되었습니다! 100g에 1280엔으로, 고기, 생선 어디든 찰떡궁합! 😋 일본 여행 가시면 꼭 득템하세요! #일본여행 #호리니시 #일본쇼핑 #일본스파이스 #캠핑요리",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#일본필수템",
-          "#호리니시",
-          "#호리니시레몬",
-          "#일본스파이스",
-          "#캠핑요리",
-          "#아웃도어",
-          "#일본맛집",
-          "#일본현지",
-          "#여행꿀팁",
-          "#일본식료품",
-          "#신상출시",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "호리니시 뉴 레몬 스파이스 패키지 이미지",
-          "호리니시 뉴 레몬 스파이스 가격표 이미지",
-          "일본 아웃도어샵 Orange 매장 외관 이미지",
-          "호리니시 뉴 레몬 스파이스를 뿌린 요리 이미지",
-          "호리니시 스파이스를 활용한 다양한 요리 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 현지 인기템 신상 출시 정보, 구체적인 가격 및 구매처 명시, 활용법 제시",
-      "image": {
-        "keyword": "Horinishi New Lemon Spice, Japanese outdoor spice, Lemon flavored seasoning, Japan travel shopping, camping food seasoning",
-        "unsplash_url": "https://unsplash.com/s/photos/Horinishi-New-Lemon-Spice,-Japanese-outdoor-spice,-Lemon-flavored-seasoning,-Japan-travel-shopping,-camping-food-seasoning",
-        "pexels_url": "https://www.pexels.com/search/Horinishi%20New%20Lemon%20Spice,%20Japanese%20outdoor%20spice,%20Lemon%20flavored%20seasoning,%20Japan%20travel%20shopping,%20camping%20food%20seasoning/"
-      }
-    },
-    {
-      "id": "plan_a3968091",
-      "created_at": "2026-08-22T01:44:30.040807",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ANA誘遊四国キャンペーン」で航空券＋宿5000円引き。現地で使える2400円分pt付与、レンタカー/タクシー補助も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134766.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA와 함께 떠나는 일본 시코쿠 여행, 최대 5000엔 할인 받고 2400엔 추가 혜택까지!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 시코쿠 5000엔 할인!✈️",
-        "cards": [
-          {
-            "title": "ANA 시코쿠 캠페인",
-            "content": "ANA에서 9월 1일부터 2027년 3월 30일까지 'ANA誘遊四国キャンペーン'을 진행합니다. 徳島, 香川, 愛媛, 高知 지역 여행 시 항공권과 숙박을 최대 5000엔 할인받을 수 있습니다.",
-            "alt_text": "ANA 항공기 이미지"
-          },
-          {
-            "title": "추가 혜택",
-            "content": "캠페인 기간 동안 현지에서 사용할 수 있는 2400엔 상당의 포인트가 제공됩니다. 또한, 렌터카 및 택시 이용 시에도 보조 혜택이 있습니다.",
-            "alt_text": "일본 현지 관광지 이미지"
-          },
-          {
-            "title": "여행지",
-            "content": "이번 캠페인은 일본의 아름다운 시코쿠 지역, 즉 徳島현, 香川현, 愛媛현, 高知県을 대상으로 합니다. 각 지역의 매력을 만끽할 기회입니다.",
-            "alt_text": "시코쿠 지역 지도 이미지"
-          },
-          {
-            "title": "기간",
-            "content": "캠페인 기간은 2024년 9월 1일부터 2027년 3월 30일까지로 넉넉합니다. 장기간 진행되니 여행 계획을 세우기 좋습니다.",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "할인 혜택과 추가 포인트를 활용하여 알뜰하고 풍성한 시코쿠 여행을 계획해 보세요. ANA 공식 홈페이지에서 자세한 내용을 확인할 수 있습니다.",
-            "alt_text": "여행 가방과 여권 이미지"
-          }
-        ],
-        "caption": "✨ANA와 함께 떠나는 시코쿠 여행 특급 찬스!✨\n\n9월 1일부터 2027년 3월 30일까지 진행되는 'ANA誘遊四国キャンペーン'으로 徳島, 香川, 愛媛, 高知 지역 여행 시 항공권+숙박 최대 5000엔 할인! 💸\n\n무려 2400엔 상당의 현지 사용 포인트와 렌터카/택시 보조 혜택까지 덤으로 챙겨가세요! 🎁\n\n지금 바로 ANA 공식 홈페이지에서 자세한 내용을 확인하고, 잊지 못할 시코쿠 여행을 계획해보세요! ✈️\n\n#일본여행 #ANA #시코쿠여행 #徳島 #香川 #愛媛 #高知 #여행할인 #일본항공권 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#ANA항공",
-          "#시코쿠",
-          "#시코쿠여행",
-          "#徳島",
-          "#香川",
-          "#愛媛",
-          "#高知",
-          "#일본여행정보",
-          "#항공권할인",
-          "#여행팁",
-          "#일본가볼만한곳",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "ANA 항공기 이미지",
-          "일본 현지 관광지 이미지",
-          "시코쿠 지역 지도 이미지",
-          "달력 이미지",
-          "여행 가방과 여권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 시코쿠 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 높은 할인율과 추가 혜택에 대한 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액, 추가 혜택, 명확한 기간 및 여행지 정보를 포함하여 실질적인 도움을 제공함",
-      "image": {
-        "keyword": "ANA airplane, Shikoku region map, Japanese local scenery, discount coupon, travel suitcase",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-Shikoku-region-map,-Japanese-local-scenery,-discount-coupon,-travel-suitcase",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20Shikoku%20region%20map,%20Japanese%20local%20scenery,%20discount%20coupon,%20travel%20suitcase/"
       }
     }
   ]
