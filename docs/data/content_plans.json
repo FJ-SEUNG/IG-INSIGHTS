@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-26T01:51:51.720026",
+  "last_updated": "2026-08-27T04:31:42.864023",
   "plans": [
+    {
+      "id": "plan_cbb6035c",
+      "created_at": "2026-08-27T04:31:40.863843",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "西九州新幹線に1日乗り放題、着るきっぷTシャツ「GO-NORIHODAI」9月3日発売。駅周辺店舗で特典も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2135940.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "서큐슈 신칸센을 하루 종일 무제한으로! 특별 티켓 출시!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 서큐슈 신칸센 1일 무제한 탑승권! 🎟️",
+        "cards": [
+          {
+            "title": "교통권 출시",
+            "content": "JR큐슈에서 서큐슈 신칸센 개통 4주년을 기념하여 'GO-NORIHODAI' 특별 티켓을 9월 3일에 발매합니다. 이 티켓으로 서큐슈 신칸센을 하루 동안 무제한으로 이용할 수 있습니다.",
+            "alt_text": "서큐슈 신칸센 열차 내부 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "본 행사는 10월 3일에 진행되는 'GO WEST 4' 프로젝트의 일환으로, 특별 티켓은 당일에만 사용 가능합니다. 여행 계획 시 날짜를 꼭 확인하세요.",
+            "alt_text": "달력에 10월 3일이 표시된 이미지"
+          },
+          {
+            "title": "특별 혜택",
+            "content": "티켓 구매자는 역 주변 연계 점포에서 특별한 혜택을 받을 수 있습니다. 자세한 내용은 JR큐슈 공식 발표를 참고하세요.",
+            "alt_text": "할인 쿠폰이나 혜택 안내문 이미지"
+          },
+          {
+            "title": "티켓 디자인",
+            "content": "이번 특별 티켓은 '着るきっぷ' (입는 티켓) 컨셉으로 제작된 T셔츠 형태로 판매될 예정입니다. 기념품으로도 소장 가치가 있습니다.",
+            "alt_text": "티셔츠 형태의 특별 승차권 디자인 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "서큐슈 신칸센은 나가사키, 구마모토 등 아름다운 지역을 연결합니다. 이 티켓으로 효율적인 당일치기 여행을 계획해보세요. 한정 수량 판매될 수 있으니 서둘러 구매하는 것이 좋습니다.",
+            "alt_text": "서큐슈 신칸센 노선도 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 정보! 🚄 서큐슈 신칸센을 하루 종일 무제한으로 즐길 수 있는 특별 티켓 'GO-NORIHODAI'가 9월 3일에 발매됩니다! 10월 3일 단 하루, 서큐슈 신칸센을 마음껏 누비며 특별한 경험을 만들어보세요. 🎉 역 주변 상점 연계 혜택도 놓치지 마세요! #일본여행 #서큐슈 #신칸센 #교통정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#서큐슈신칸센",
+          "#GO_NORIHODAI",
+          "#일본교통",
+          "#JR큐슈",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#나가사키",
+          "#구마모토",
+          "#일본기차",
+          "#여행준비",
+          "#일본여행정보",
+          "#가을여행",
+          "#특별티켓"
+        ],
+        "alt_texts": [
+          "서큐슈 신칸센 열차 내부 이미지",
+          "달력에 10월 3일이 표시된 이미지",
+          "할인 쿠폰이나 혜택 안내문 이미지",
+          "티셔츠 형태의 특별 승차권 디자인 이미지",
+          "서큐슈 신칸센 노선도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심, 티켓 구매 문의 증가 / 이 콘텐츠의 강점: 실질적인 교통비 절감 및 여행 효율 증대 정보 제공, 특별한 기념품 혜택 언급",
+      "image": {
+        "keyword": "Kyushu Shinkansen, special ticket, T-shirt ticket, Japan train travel, limited offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-Shinkansen,-special-ticket,-T-shirt-ticket,-Japan-train-travel,-limited-offer",
+        "pexels_url": "https://www.pexels.com/search/Kyushu%20Shinkansen,%20special%20ticket,%20T-shirt%20ticket,%20Japan%20train%20travel,%20limited%20offer/"
+      }
+    },
+    {
+      "id": "plan_152585e5",
+      "created_at": "2026-08-27T04:31:35.523716",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "千葉県のアウトドア・アクティビティ体験が最大30％オフ「千葉遊び尽くし応援割」9月1日から。アソビュー！で予約開始",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2136035.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지 액티비티 최대 30% 할인 찬스! 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵치바 액티비티 30% 할인!",
+        "cards": [
+          {
+            "title": "할인 캠페인",
+            "content": "일본 치바현에서 즐기는 다채로운 아웃도어 액티비티를 최대 30% 할인된 가격으로 경험할 수 있는 '치바 놀이 만끽 응원 할인' 캠페인이 시작됩니다. 🏞️",
+            "alt_text": "치바현의 아름다운 자연 속에서 즐기는 아웃도어 액티비티 이미지"
+          },
+          {
+            "title": "캠페인 기간",
+            "content": "본 캠페인은 2024년 9월 1일부터 12월 31일까지 진행됩니다. 겨울 시즌까지 알차게 즐길 수 있어요! 🗓️",
+            "alt_text": "달력에 표시된 9월 1일부터 12월 31일까지의 기간"
+          },
+          {
+            "title": "예약 방법",
+            "content": "예약은 8월 27일 오전 10시부터 가능하며, 일본 현지 여행 예약 사이트 '아소뷰!'를 통해 접수됩니다. 서둘러 예약하세요! 💻",
+            "alt_text": "여행 예약 사이트 화면 캡처 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "다양한 수상 스포츠, 자연 체험 등 치바현의 매력을 느낄 수 있는 액티비티 상품들이 할인 대상입니다. 어떤 액티비티를 선택할지 벌써 설레네요! 🏄‍♀️",
+            "alt_text": "다양한 일본 액티비티 종류를 보여주는 콜라주 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "겨울 시즌까지 진행되니, 늦가을 단풍 시즌이나 겨울 여행 시에도 활용하기 좋습니다. 친구, 연인과 함께 잊지 못할 추억을 만들어 보세요! 🍁❄️",
+            "alt_text": "겨울 액티비티를 즐기는 사람들의 모습"
+          }
+        ],
+        "caption": "🇯🇵 치바현에서 즐기는 신나는 아웃도어 액티비티를 최대 30% 할인받을 기회! \n\n✨ '치바 놀이 만끽 응원 할인' 캠페인이 9월 1일부터 시작됩니다. \n\n🗓️ 기간: 2024년 9월 1일 ~ 12월 31일\n💻 예약: 8월 27일 오전 10시부터 '아소뷰!'에서 \n\n놓치면 후회할 역대급 할인율! \n지금 바로 치바 액티비티 예약하고 알찬 여행 계획 세우세요! \n\n#일본여행 #치바여행 #일본할인 #아웃도어 #액티비티 #일본축제 #여행꿀팁 #일본정보 #해외여행 #여행스타그램 #플라잉재팬 #일본가볼만한곳 #일본액티비티 #치바 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#치바여행",
+          "#일본할인",
+          "#아웃도어",
+          "#액티비티",
+          "#일본축제",
+          "#여행꿀팁",
+          "#일본정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본가볼만한곳",
+          "#일본액티비티",
+          "#치바",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "치바현의 아름다운 자연 속에서 즐기는 아웃도어 액티비티 이미지",
+          "달력에 표시된 9월 1일부터 12월 31일까지의 기간",
+          "여행 예약 사이트 화면 캡처 이미지",
+          "다양한 일본 액티비티 종류를 보여주는 콜라주 이미지",
+          "겨울 액티비티를 즐기는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 치바현 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시, 주말 오후 2시~5시 / 기대 반응: 높은 예약률 및 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 예약 방법을 명확히 제시하여 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Chiba outdoor activities discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Chiba-outdoor-activities-discount",
+        "pexels_url": "https://www.pexels.com/search/Chiba%20outdoor%20activities%20discount/"
+      }
+    },
     {
       "id": "plan_cfbe7592",
       "created_at": "2026-08-26T01:51:49.719774",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo map, free water dispenser, free wifi spot, Tokyo convenience facilities, travel map app",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-map,-free-water-dispenser,-free-wifi-spot,-Tokyo-convenience-facilities,-travel-map-app",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20map,%20free%20water%20dispenser,%20free%20wifi%20spot,%20Tokyo%20convenience%20facilities,%20travel%20map%20app/"
-      }
-    },
-    {
-      "id": "plan_0f549d3d",
-      "created_at": "2026-08-22T23:34:51.585165",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "平日ラッシュの京王ライナーに「立席」導入、座席指定料金は一律410円から曜日別へ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134566.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 도쿄 근교 이동 시 교통비 절약 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "京王ライナー 410円부터! 😲",
-        "cards": [
-          {
-            "title": "京王ライナー",
-            "content": "10월 1일부터 도쿄 근교를 운행하는 '京王ライナー(케이오 라이너)' 좌석 지정 요금이 변경됩니다. 기존 고정 요금제에서 요일별 차등 요금제로 변경됩니다.",
-            "alt_text": "케이오 라이너 열차 이미지"
-          },
-          {
-            "title": "요금 변경",
-            "content": "기존 410엔부터 시작하던 좌석 지정 요금이 요일에 따라 달라집니다. 평일 러시 아워 시간대에는 '입석(立席)' 서비스도 신설됩니다.",
-            "alt_text": "열차 좌석 요금표 이미지"
-          },
-          {
-            "title": "입석 서비스",
-            "content": "평일 러시 아워 시간대에 '입석'이 도입되어, 좌석을 이용하지 않는 대신 조금 더 저렴한 요금으로 이동할 수 있습니다. (정확한 입석 요금은 추후 발표 예정)",
-            "alt_text": "열차 내 입석 공간 이미지"
-          },
-          {
-            "title": "언제부터?",
-            "content": "이번 요금 변경 및 입석 서비스 도입은 2024년 10월 1일부터 시행됩니다. 여행 계획 시 참고하세요!",
-            "alt_text": "달력에 10월 1일 표시된 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "도쿄 신주쿠에서 케이오선 방면 (다카오산, 게이오 다카오산 등)으로 이동 시, 시간대와 요일을 잘 확인하여 합리적인 요금으로 이용하세요! 입석 서비스는 짐이 적거나 가벼운 여행객에게 유용할 수 있습니다.",
-            "alt_text": "일본 기차역 플랫폼 이미지"
-          }
-        ],
-        "caption": "🇯🇵 도쿄 근교 여행 필수 정보! 케이오 라이너 좌석 요금 및 입석 서비스 신설 안내 🚄\n\n10월 1일부터 케이오 라이너 좌석 지정 요금이 요일별로 달라지고, 평일 러시 아워에는 입석 서비스도 도입됩니다! 😲\n\n기존 410엔부터 시작하던 요금이 변동되니, 신주쿠에서 다카오산 등으로 이동하실 분들은 꼭 확인하고 여행 계획 세우세요! ✈️\n\n#일본여행 #케이오라이너 #도쿄근교 #교통정보 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#케이오라이너",
-          "#도쿄여행",
-          "#일본교통",
-          "#일본소식",
-          "#여행정보",
-          "#일본자유여행",
-          "#케이오선",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#도쿄근교",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#일본"
-        ],
-        "alt_texts": [
-          "케이오 라이너 열차 이미지",
-          "열차 좌석 요금표 이미지",
-          "열차 내 입석 공간 이미지",
-          "달력에 10월 1일 표시된 이미지",
-          "일본 기차역 플랫폼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 근교 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5시~7시 (퇴근 시간대) / 기대 반응: 정보 유용성에 대한 긍정적 댓글, 저장 수 높을 것으로 예상 / 이 콘텐츠의 강점: 실제 여행에 직결되는 구체적인 교통비 절감 정보 제공",
-      "image": {
-        "keyword": "Keio Liner train station Japan Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/Keio-Liner-train-station-Japan-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/Keio%20Liner%20train%20station%20Japan%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_8a058e55",
-      "created_at": "2026-08-22T23:34:45.203157",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "中川政七商店、東京駅と北九州・小倉駅に2店舗連続オープン。「旅行かばん」「ひまわり」を刺繍した店舗限定アイテムも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2134587.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 쇼핑 성지 '나카가와 마사시 상점' 도쿄, 기타큐슈 신규 오픈! 여행 기념품 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨나카가와 마사시 2곳 오픈!✨",
-        "cards": [
-          {
-            "title": "오픈 정보",
-            "content": "일본 인기 잡화점 '나카가와 마사시 상점'이 JR 도쿄역과 기타큐슈 고쿠라역에 신규 매장을 연다! 9월 10일 기타큐슈 고쿠라역, 9월 16일 JR 도쿄역 그랑스타 도쿄에 동시 오픈 예정이다.",
-            "alt_text": "나카가와 마사시 상점 매장 외관 이미지"
-          },
-          {
-            "title": "매장 한정템",
-            "content": "두 매장 오픈을 기념하여 특별한 한정판 상품 3종을 선보인다. '여행 가방'과 '해바라기' 자수가 새겨진 에코백, 양말, 타월 핸드타월을 만나볼 수 있다.",
-            "alt_text": "여행 가방과 해바라기 자수가 새겨진 한정판 상품 이미지"
-          },
-          {
-            "title": "쇼핑 포인트",
-            "content": "일본 감성 가득한 인테리어 소품, 식료품, 의류 등을 판매하는 나카가와 마사시 상점은 늘 한국인 여행객에게 인기 있는 쇼핑 스팟이다. 특히 신규 오픈 매장에서는 더욱 특별한 기념품을 득템할 수 있다.",
-            "alt_text": "나카가와 마사시 상점 내부 쇼핑 모습 이미지"
-          },
-          {
-            "title": "매장 위치",
-            "content": "JR 도쿄역 그랑스타 도쿄점은 도쿄역 내부에서 쉽게 찾을 수 있으며, 기타큐슈 고쿠라역점은 고쿠라역 내에 위치하여 접근성이 좋다.",
-            "alt_text": "도쿄역 그랑스타 도쿄 지도 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "한정판 상품은 수량 한정으로 조기 품절될 수 있으니, 방문 계획이 있다면 서둘러 방문하는 것을 추천한다. 여행 기념품으로 특별한 선물을 준비해 보세요!",
-            "alt_text": "여행 가방에 기념품을 담는 모습 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 쇼핑 필수 코스! 나카가와 마사시 상점이 도쿄와 기타큐슈에 신규 오픈합니다! ✨\n\n✔ 9월 10일: 기타큐슈 고쿠라역점 오픈\n✔ 9월 16일: JR 도쿄역 그랑스타 도쿄점 오픈\n\n특별한 '여행 가방' & '해바라기' 자수 한정판 에코백, 양말, 핸드타월을 놓치지 마세요! 🎁\n\n#나카가와마사시 #일본쇼핑 #도쿄여행 #기타큐슈여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#나카가와마사시",
-          "#도쿄역",
-          "#기타큐슈",
-          "#고쿠라역",
-          "#일본기념품",
-          "#한정판",
-          "#에코백",
-          "#여행스타그램",
-          "#쇼핑스타그램",
-          "#일본잡화",
-          "#그랑스타도쿄",
-          "#일본여행정보"
-        ],
-        "alt_texts": [
-          "나카가와 마사시 상점 매장 외관 이미지",
-          "여행 가방과 해바라기 자수가 새겨진 한정판 상품 이미지",
-          "나카가와 마사시 상점 내부 쇼핑 모습 이미지",
-          "도쿄역 그랑스타 도쿄 지도 이미지",
-          "여행 가방에 기념품을 담는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 정보 유용성, 쇼핑 욕구 자극, 댓글 문의 증가 / 이 콘텐츠의 강점: 신규 오픈 정보와 한정판 상품이라는 희소성, 구체적인 오픈 날짜와 장소 명시",
-      "image": {
-        "keyword": "Nakagawa Masashisho, Japan shopping, Tokyo Station, Kitakyushu, limited edition goods, travel souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/Nakagawa-Masashisho,-Japan-shopping,-Tokyo-Station,-Kitakyushu,-limited-edition-goods,-travel-souvenir",
-        "pexels_url": "https://www.pexels.com/search/Nakagawa%20Masashisho,%20Japan%20shopping,%20Tokyo%20Station,%20Kitakyushu,%20limited%20edition%20goods,%20travel%20souvenir/"
       }
     }
   ]
