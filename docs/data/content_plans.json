@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-28T11:13:46.659410",
+  "last_updated": "2026-08-29T04:10:16.144277",
   "plans": [
+    {
+      "id": "plan_e33d7851",
+      "created_at": "2026-08-29T04:10:14.144068",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーストア 心斎橋パルコ店がオープン。“魔法の旅”がテーマの店舗で限定アイテムを発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2136450.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 여행 필수 코스! 서일본 최대 규모 디즈니 스토어 오픈 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 디즈니 스토어 오픈✨",
+        "cards": [
+          {
+            "title": "오픈 정보",
+            "content": "디즈니 스토어 신사이바시 파르코점이 8월 26일에 그랜드 오픈했어요. 서일본 최대 규모를 자랑한답니다.",
+            "alt_text": "디즈니 스토어 신사이바시 파르코점 외관"
+          },
+          {
+            "title": "매장 특징",
+            "content": "'마법의 여행'을 테마로 꾸며진 매장에서는 특별한 경험을 할 수 있습니다. 다양한 즐길 거리가 준비되어 있어요.",
+            "alt_text": "디즈니 스토어 매장 내부 모습"
+          },
+          {
+            "title": "한정 상품",
+            "content": "매장에서만 만날 수 있는 오리지널 한정 상품들이 출시되었습니다. 특별한 기념품을 득템할 기회!",
+            "alt_text": "디즈니 스토어 한정 상품 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "일본 오사카 신사이바시 파르코점 11층에 위치해 있습니다. 쇼핑과 관광을 동시에 즐겨보세요.",
+            "alt_text": "신사이바시 파르코점 지도"
+          },
+          {
+            "title": "방문 팁",
+            "content": "주말이나 공휴일에는 사람이 많을 수 있으니, 평일 오전에 방문하는 것을 추천합니다. 오픈런은 필수!",
+            "alt_text": "사람들이 줄 서 있는 디즈니 스토어 입구"
+          }
+        ],
+        "caption": "💖오사카 여행 필수 코스 OPEN!💖\n\n✨서일본 최대 규모✨ 디즈니 스토어 신사이바시 파르코점이 8월 26일 문을 열었어요!\n\n'마법의 여행' 테마로 꾸며진 매장에서만 만날 수 있는 한정 상품들까지!\n\n오사카 가면 꼭 들러야 할 곳, 지금 바로 저장하고 친구 태그하기! 👇\n\n#디즈니스토어 #신사이바시파르코 #오사카여행 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카",
+          "#디즈니스토어",
+          "#신사이바시",
+          "#파르코",
+          "#일본쇼핑",
+          "#한정판",
+          "#여행정보",
+          "#여행꿀팁",
+          "#주말여행",
+          "#가족여행",
+          "#커플여행",
+          "#일본자유여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "디즈니 스토어 신사이바시 파르코점 외관",
+          "디즈니 스토어 매장 내부 모습",
+          "디즈니 스토어 한정 상품 이미지",
+          "신사이바시 파르코점 지도",
+          "사람들이 줄 서 있는 디즈니 스토어 입구"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 좋아요 및 저장 수, 댓글 문의 증가 / 이 콘텐츠의 강점: 최신 오픈 정보와 한정 상품이라는 매력적인 요소로 즉각적인 관심 유도",
+      "image": {
+        "keyword": "Disney Store Shinsaibashi Parco, Osaka, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Shinsaibashi-Parco,-Osaka,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Shinsaibashi%20Parco,%20Osaka,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_8688bf43",
+      "created_at": "2026-08-29T04:10:07.436315",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京駅前で晩夏の祭り「八重洲夜市」9月10日まで開催中。ライブも出店もおおっ！とうならせる個性派ぞろい、さっそく初日に行ってきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2136700.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역 근처에서 즐기는 늦여름 밤의 축제! 놓치기 아까운 도쿄의 특별한 경험!"
+      },
+      "content": {
+        "thumbnail_title": "도쿄역 야경축제🌃",
+        "cards": [
+          {
+            "title": "팔월의 밤",
+            "content": "도쿄역 앞 도쿄 미드타운 야에스에서 '야에스 야시장 2026'이 8월 28일부터 9월 6일까지 10일간 열려요. 늦여름 밤을 시원하게 즐길 수 있는 도심형 축제랍니다.",
+            "alt_text": "도쿄 미드타운 야에스에서 열리는 '야에스 야시장 2026' 행사 전경"
+          },
+          {
+            "title": "다양한 즐길거리",
+            "content": "음악 공연, 맛있는 음식, 그리고 신나는 놀이까지! 겉보기엔 평범해 보이지만, 자세히 보면 개성 넘치는 특별한 콘텐츠들로 가득해요.",
+            "alt_text": "야에스 야시장에서 열리는 다양한 공연과 먹거리를 즐기는 사람들"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "이번 축제는 9월 6일까지 진행되니, 일본 여행 계획 중이라면 꼭 일정에 넣어보세요. 늦여름의 낭만을 만끽할 수 있는 좋은 기회입니다.",
+            "alt_text": "야에스 야시장에서 판매되는 개성 있는 기념품들"
+          },
+          {
+            "title": "첫날 방문 후기",
+            "content": "축제 첫날부터 많은 인파가 몰려 축제를 즐겼어요. 개성 있는 부스와 공연들이 방문객들의 시선을 사로잡았답니다.",
+            "alt_text": "축제 첫날 현장의 활기찬 분위기"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "도쿄역 근처에서 열리는 만큼 대중교통 이용이 편리해요. 늦은 시간까지 진행되니, 안전하게 귀가할 수 있는 교통편을 미리 확인하는 것이 좋습니다.",
+            "alt_text": "도쿄역 야경을 배경으로 한 축제 안내 표지판"
+          }
+        ],
+        "caption": "도쿄에서 잊지 못할 늦여름 밤을 보내고 싶다면? 🌃 도쿄역 앞에서 펼쳐지는 '야에스 야시장 2026'에서 특별한 추억을 만들어보세요! 🎶 맛있는 음식, 신나는 공연, 개성 넘치는 부대 행사까지! 9월 6일까지 진행되니 서둘러 방문하세요! 🏃‍♀️💨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄",
+          "#도쿄여행",
+          "#도쿄축제",
+          "#야에스야시장",
+          "#도쿄역",
+          "#도쿄가볼만한곳",
+          "#일본축제",
+          "#늦여름",
+          "#여행정보",
+          "#일본이벤트",
+          "#도쿄미드타운",
+          "#일본생활",
+          "#주말나들이"
+        ],
+        "alt_texts": [
+          "도쿄 미드타운 야에스에서 열리는 '야에스 야시장 2026' 행사 전경",
+          "야에스 야시장에서 열리는 다양한 공연과 먹거리를 즐기는 사람들",
+          "야에스 야시장에서 판매되는 개성 있는 기념품들",
+          "축제 첫날 현장의 활기찬 분위기",
+          "도쿄역 야경을 배경으로 한 축제 안내 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 오후 6시-8시 (여행 계획 세우는 시간) / 기대 반응: 관심 댓글, 정보 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 시기적절한 최신 이벤트 정보, 구체적인 날짜와 장소 명시, 매력적인 축제 내용 소개",
+      "image": {
+        "keyword": "Tokyo Station night market, Yaesu night market, Tokyo summer festival, Japanese street food, live music Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-night-market,-Yaesu-night-market,-Tokyo-summer-festival,-Japanese-street-food,-live-music-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20night%20market,%20Yaesu%20night%20market,%20Tokyo%20summer%20festival,%20Japanese%20street%20food,%20live%20music%20Japan/"
+      }
+    },
     {
       "id": "plan_a7acb920",
       "created_at": "2026-08-28T11:13:44.659173",
@@ -923,160 +1077,6 @@
         "keyword": "monster hunter folding chair family mart japan",
         "unsplash_url": "https://unsplash.com/s/photos/monster-hunter-folding-chair-family-mart-japan",
         "pexels_url": "https://www.pexels.com/search/monster%20hunter%20folding%20chair%20family%20mart%20japan/"
-      }
-    },
-    {
-      "id": "plan_e7a01567",
-      "created_at": "2026-08-25T01:46:01.597519",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "IHG、京都市内14のホテルをリブランド。「ガーナー」「ホリデイ・イン エクスプレス」計1063室を順次開業",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2135062.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토 숙소 선택의 폭이 넓어진다! 최대 1063개 객실 리브랜딩 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 교토 호텔 14곳 리브랜딩!",
-        "cards": [
-          {
-            "title": "IHG, 교토 14곳 재단장",
-            "content": "IHG 호텔즈 앤 리조트가 8월 24일, 교토 시내 14개 호텔을 대규모로 리브랜딩한다고 발표했습니다. 새로운 브랜드로 총 1063개의 객실을 선보일 예정입니다.",
-            "alt_text": "교토 시내 호텔 건물 이미지"
-          },
-          {
-            "title": "새로운 브랜드는?",
-            "content": "이번 리브랜딩에는 '가너(Garner)'와 '홀리데이 인 익스프레스(Holiday Inn Express)' 브랜드가 포함됩니다. 다양한 가격대의 숙소를 선택할 수 있게 됩니다.",
-            "alt_text": "가너, 홀리데이 인 익스프레스 로고 이미지"
-          },
-          {
-            "title": "교토 여행 시 유용한 정보",
-            "content": "새로운 호텔들이 순차적으로 오픈될 예정이니, 교토 여행 계획 시 숙소 선택에 참고하시면 좋습니다. 특히 1063개의 객실이 추가되어 예약 경쟁이 다소 완화될 수 있습니다.",
-            "alt_text": "교토 관광지 지도 이미지"
-          },
-          {
-            "title": "여행 계획 세우기",
-            "content": "교토 시내 주요 관광지와 접근성이 좋은 곳에 위치한 호텔들이 많을 것으로 예상됩니다. 오픈 시기와 정확한 호텔명은 추후 공개될 예정입니다.",
-            "alt_text": "교토역 주변 거리 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "새로운 호텔들은 시설 및 서비스에 대한 정보가 아직 많지 않으니, 예약 전 후기 등을 꼼꼼히 확인하는 것이 좋습니다. 특히 오픈 초기 프로모션을 노려보세요!",
-            "alt_text": "여행 가방과 여권 이미지"
-          }
-        ],
-        "caption": "✈️ 교토 여행 필수 정보! IHG, 교토 시내 14개 호텔 대규모 리브랜딩 소식! \n\n총 1063개의 객실이 '가너'와 '홀리데이 인 익스프레스' 브랜드로 새롭게 선보입니다. \n\n교토 여행 계획 중이시라면, 숙소 선택의 폭이 넓어졌으니 꼭 참고하세요! 😉\n\n#일본여행 #교토여행 #일본숙소 #교토숙소 #IHG호텔 #가너호텔 #홀리데이인익스프레스 #일본정보 #여행꿀팁 #플라잉재팬 #교토 #여행스타그램 #일본 #숙소추천",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#교토숙소",
-          "#일본숙소",
-          "#IHG",
-          "#가너",
-          "#홀리데이인익스프레스",
-          "#일본교통",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본",
-          "#숙소추천",
-          "#교토",
-          "#여행팁"
-        ],
-        "alt_texts": [
-          "교토 시내 호텔 건물 이미지",
-          "가너, 홀리데이 인 익스프레스 로고 이미지",
-          "교토 관광지 지도 이미지",
-          "교토역 주변 거리 이미지",
-          "여행 가방과 여권 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 교토 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 목요일/금요일 오후 6-9시 / 기대 반응: 교토 숙소 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 교토 숙소 선택지에 대한 실질적인 정보 제공 및 새로운 호텔 오픈 소식으로 인한 기대감 유발",
-      "image": {
-        "keyword": "Kyoto hotel rebranding IHG Garner Holiday Inn Express",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-hotel-rebranding-IHG-Garner-Holiday-Inn-Express",
-        "pexels_url": "https://www.pexels.com/search/Kyoto%20hotel%20rebranding%20IHG%20Garner%20Holiday%20Inn%20Express/"
-      }
-    },
-    {
-      "id": "plan_b0ad37fd",
-      "created_at": "2026-08-25T01:45:56.113794",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "岩手県、1泊最大7000円引き「おでんせ！いわて旅割キャンペーン」第2弾。じゃらん/楽天などで9月1日予約スタート",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2135178.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 숙소 예약 시 최대 7000엔 할인받을 수 있는 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 최대 7000엔 할인! 이와테 숙박권 득템 찬스 ✈️",
-        "cards": [
-          {
-            "title": "이와테 여행 할인",
-            "content": "일본 이와테현에서 '오덴세! 이와테 여행 할인 캠페인' 2탄을 9월 1일부터 시작합니다. 1박당 최대 7000엔까지 할인이 적용됩니다.",
-            "alt_text": "일본 이와테현 지도와 할인 캠페인 홍보 이미지"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "본격적인 할인 혜택은 9월 1일부터 예약이 가능하며, 해당 캠페인 기간 동안 이와테현 내 숙박 시설을 저렴하게 이용할 수 있습니다.",
-            "alt_text": "캘린더에 9월 1일이 표시된 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "할인 혜택은 자란(じゃらん) 및 라쿠텐 트래블(楽天トラベル) 등 주요 온라인 여행 플랫폼을 통해 예약 시 적용됩니다.",
-            "alt_text": "자란(じゃらん) 및 라쿠텐 트래블(楽天トラベル) 로고 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "이번 캠페인을 통해 숙박 요금 부담을 크게 줄일 수 있으며, 특히 장기 여행자나 가족 단위 여행객에게 큰 이점이 될 것으로 예상됩니다.",
-            "alt_text": "할인 쿠폰이 그려진 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "한정된 예산으로 이와테를 알차게 여행하고 싶다면, 지금 바로 예약 정보를 확인하고 할인 혜택을 놓치지 마세요! 조기 마감될 수 있습니다.",
-            "alt_text": "여행 가방과 할인 태그가 함께 있는 이미지"
-          }
-        ],
-        "caption": "🇯🇵 이와테 여행 계획 중이신가요? 최대 7000엔 할인받고 알찬 여행 하세요! \n\n✅ 캠페인명: 오덴세! 이와테 여행 할인 캠페인 2탄\n✅ 예약 시작: 9월 1일부터\n✅ 할인 혜택: 1박당 최대 7000엔\n✅ 예약 채널: 자란(じゃらん), 라쿠텐 트래블(楽天トラベル) 등\n\n일본 이와테현에서 특별한 추억을 만들 기회! 지금 바로 예약하고 할인 혜택을 받아보세요! ✈️\n\n#이와테여행 #일본숙소 #여행할인 #플라잉재팬 #일본여행정보 #이와테 #여행팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#이와테여행",
-          "#일본숙박",
-          "#여행할인",
-          "#일본여행정보",
-          "#이와테",
-          "#일본자유여행",
-          "#일본숙소추천",
-          "#여행꿀팁",
-          "#일본이벤트",
-          "#가을여행",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "일본 이와테현 지도와 할인 캠페인 홍보 이미지",
-          "캘린더에 9월 1일이 표시된 이미지",
-          "자란(じゃらん) 및 라쿠텐 트래블(楽天トラベル) 로고 이미지",
-          "할인 쿠폰이 그려진 이미지",
-          "여행 가방과 할인 태그가 함께 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 이와테현 방문 예정인 한국인 여행자 / 최적 게시 시간: 저녁 7시~9시 / 기대 반응: 예약 정보에 대한 높은 관심, 댓글 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 예약 채널 명시로 실질적인 도움 제공",
-      "image": {
-        "keyword": "Iwate travel discount, Japan accommodation coupon, September travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/Iwate-travel-discount,-Japan-accommodation-coupon,-September-travel-deal",
-        "pexels_url": "https://www.pexels.com/search/Iwate%20travel%20discount,%20Japan%20accommodation%20coupon,%20September%20travel%20deal/"
       }
     }
   ]
