@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-29T06:57:49.874472",
+  "last_updated": "2026-08-30T01:16:00.224078",
   "plans": [
+    {
+      "id": "plan_89c0b21c",
+      "created_at": "2026-08-30T01:15:58.223832",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "仙台空港、空の日イベントで「早朝ランウェイウォーク」「場周見学ツアー」を実施",
+        "url": "https://www.traicy.com/posts/20260829380453/",
+        "date": "Sat, 29 Aug 2026 12:43:23 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 공항에서 특별한 경험을 할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️센다이 공항 런웨이 걷기!",
+        "cards": [
+          {
+            "title": "공항 체험",
+            "content": "센다이 공항에서 '하늘의 날'을 맞아 특별한 이벤트를 진행합니다. 바로 실제 활주로를 걸어볼 수 있는 '조기 런웨이 워크'입니다.",
+            "alt_text": "센다이 공항 활주로에서 사람들이 걷고 있는 모습"
+          },
+          {
+            "title": "참가 대상",
+            "content": "조기 런웨이 워크는 초등학생 이상이면 누구나 참여 가능하며, 총 70명을 선착순으로 모집합니다.",
+            "alt_text": "어린이와 어른이 함께 활주로를 걷는 모습"
+          },
+          {
+            "title": "견학 투어",
+            "content": "또한, 공항 시설을 둘러보는 '장내 견학 투어'도 함께 진행됩니다. 이 투어에는 총 200명을 모집하며, 어린이 대상 프로그램도 준비되어 있습니다.",
+            "alt_text": "공항 관제탑 또는 시설을 견학하는 모습"
+          },
+          {
+            "title": "이벤트 날짜",
+            "content": "이 모든 특별한 경험은 2026년 10월 10일에 열리는 '센다이 공항 하늘의 날 이벤트 2026'에서 만나보실 수 있습니다.",
+            "alt_text": "캘린더에 10월 10일이 표시된 모습"
+          },
+          {
+            "title": "참여 꿀팁",
+            "content": "센다이 공항을 이용하는 여행객이라면 놓치기 아까운 특별한 경험이 될 거예요! 참여 방법은 센다이 공항 공식 안내를 참고해 주세요.",
+            "alt_text": "활주로 위에서 점프하는 사람의 모습"
+          }
+        ],
+        "caption": "✈️ 2026년 10월 10일, 센다이 공항에서 특별한 추억 만들기! ✈️\n✨ '하늘의 날' 기념, 실제 활주로를 걷는 '조기 런웨이 워크'에 참여하세요! (초등학생 이상, 70명 선착순)\n✈️ 공항 시설을 직접 둘러보는 '장내 견학 투어'도 준비되어 있습니다. (총 200명)\n센다이 공항에서만 경험할 수 있는 특별한 기회를 놓치지 마세요!\n\n#플라잉재팬 #일본여행 #센다이 #센다이공항 #이벤트 #체험 #하늘의날",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#센다이",
+          "#센다이공항",
+          "#하늘의날",
+          "#공항이벤트",
+          "#런웨이워크",
+          "#견학투어",
+          "#특별한경험",
+          "#일본축제",
+          "#2026년",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본여행필수",
+          "#항공체험"
+        ],
+        "alt_texts": [
+          "센다이 공항 활주로에서 사람들이 걷고 있는 모습",
+          "어린이와 어른이 함께 활주로를 걷는 모습",
+          "공항 관제탑 또는 시설을 견학하는 모습",
+          "캘린더에 10월 10일이 표시된 모습",
+          "활주로 위에서 점프하는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 센다이 공항 이용 예정인 한국인 여행객 / 최적 게시 시간: 여행 준비를 많이 하는 평일 저녁 7-9시 / 기대 반응: 참여 문의 및 이벤트 정보 공유 / 이 콘텐츠의 강점: 흔하지 않은 특별한 공항 체험 정보를 제공하여 흥미 유발",
+      "image": {
+        "keyword": "Sendai Airport runway walk event",
+        "unsplash_url": "https://unsplash.com/s/photos/Sendai-Airport-runway-walk-event",
+        "pexels_url": "https://www.pexels.com/search/Sendai%20Airport%20runway%20walk%20event/"
+      }
+    },
+    {
+      "id": "plan_4f42dc43",
+      "created_at": "2026-08-30T01:15:49.700724",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ザ・リッツ・カールトン大阪、Aspreyとコラボした「ブリティッシュアフタヌーンティー」を提供　8月19日から",
+        "url": "https://www.traicy.com/posts/20260830378855/",
+        "date": "Sun, 30 Aug 2026 00:15:39 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "고급스러운 애프터눈 티를 일본에서 즐길 수 있는 특별한 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 리츠칼튼, 럭셔리 애프터눈 티☕",
+        "cards": [
+          {
+            "title": "기간 한정",
+            "content": "오사카 리츠칼튼에서 8월 19일부터 10월 14일까지 Asprey와 협업한 '브리티시 애프터눈 티'를 선보입니다.",
+            "alt_text": "오사카 리츠칼튼 호텔 외관"
+          },
+          {
+            "title": "특별 메뉴",
+            "content": "Asprey의 1781 버킷 핸드백에서 영감을 받은 '크리미' 디저트를 포함한 다채로운 메뉴를 맛볼 수 있습니다.",
+            "alt_text": "애프터눈 티 세트의 화려한 디저트"
+          },
+          {
+            "title": "고급스러운 경험",
+            "content": "영국 전통의 애프터눈 티를 최고급 호텔에서 경험하며 잊지 못할 추억을 만드세요.",
+            "alt_text": "고급스러운 티룸 내부 모습"
+          },
+          {
+            "title": "예약 정보",
+            "content": "정확한 예약 방법 및 시간은 호텔 공식 채널을 통해 확인하시는 것을 추천합니다.",
+            "alt_text": "예약 관련 안내 문구"
+          },
+          {
+            "title": "꿀팁",
+            "content": "특별한 날을 기념하거나, 친구들과의 특별한 모임 장소로도 완벽합니다. 미리 예약하는 센스 잊지 마세요!",
+            "alt_text": "애프터눈 티를 즐기는 사람들"
+          }
+        ],
+        "caption": "✨오사카에서 즐기는 럭셔리 애프터눈 티 타임!✨\n\n오사카 리츠칼튼 호텔에서 8월 19일부터 10월 14일까지 Asprey와 협업한 특별한 '브리티시 애프터눈 티'를 선보여요.\n\nAsprey의 상징적인 디자인에서 영감을 받은 아름다운 디저트와 함께 여유로운 시간을 보내보세요.\n\n특별한 오사카 여행을 계획 중이라면 놓치지 마세요!\n\n#일본여행 #오사카여행 #리츠칼튼오사카 #애프터눈티 #Asprey",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카",
+          "#리츠칼튼",
+          "#리츠칼튼오사카",
+          "#애프터눈티",
+          "#브리티시애프터눈티",
+          "#Asprey",
+          "#호텔놀이",
+          "#일본호텔",
+          "#여행스타그램",
+          "#먹스타그램",
+          "#디저트",
+          "#기간한정"
+        ],
+        "alt_texts": [
+          "오사카 리츠칼튼 호텔 외관",
+          "애프터눈 티 세트의 화려한 디저트",
+          "고급스러운 티룸 내부 모습",
+          "예약 관련 안내 문구",
+          "애프터눈 티를 즐기는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 고급스러운 경험을 추구하는 2040 한국인 여성 여행자 / 최적 게시 시간: 오후 2-4시 (여유로운 시간에 콘텐츠 소비 가능) / 기대 반응: 높은 관심과 예약 문의, 공유 / 이 콘텐츠의 강점: 희소성 높은 럭셔리 호텔 이벤트 정보, 시각적으로 매력적인 콘텐츠 구성 가능",
+      "image": {
+        "keyword": "ritz carlton osaka afternoon tea, asprey collaboration, luxury dessert, japanese hotel experience, elegant tea time",
+        "unsplash_url": "https://unsplash.com/s/photos/ritz-carlton-osaka-afternoon-tea,-asprey-collaboration,-luxury-dessert,-japanese-hotel-experience,-elegant-tea-time",
+        "pexels_url": "https://www.pexels.com/search/ritz%20carlton%20osaka%20afternoon%20tea,%20asprey%20collaboration,%20luxury%20dessert,%20japanese%20hotel%20experience,%20elegant%20tea%20time/"
+      }
+    },
     {
       "id": "plan_47040096",
       "created_at": "2026-08-29T06:57:47.874230",
@@ -923,160 +1077,6 @@
         "keyword": "Chiba outdoor activities discount",
         "unsplash_url": "https://unsplash.com/s/photos/Chiba-outdoor-activities-discount",
         "pexels_url": "https://www.pexels.com/search/Chiba%20outdoor%20activities%20discount/"
-      }
-    },
-    {
-      "id": "plan_cfbe7592",
-      "created_at": "2026-08-26T01:51:49.719774",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "8月のANAにキュン！、海外旅行が最大15万円引き。国内ツアーやふるさと納税も29日限定でお得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2135356.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "8월 29일 단 하루! ANA 항공권 최대 15만원 할인 찬스 절대 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 8월 29일 꿀딜!✈️",
-        "cards": [
-          {
-            "title": "ANA에 8월 29일",
-            "content": "ANA X의 'ANA에 キュン！' 캠페인이 8월 29일 0시부터 23시 59분까지 진행됩니다. 총 10가지의 특별 기획이 준비되어 있으며, 자세한 내용은 당일 공개됩니다.",
-            "alt_text": "ANA 항공편 프로모션 이미지"
-          },
-          {
-            "title": "최대 15만원 할인",
-            "content": "해외여행 항공권이 최대 15만원까지 할인되는 파격적인 혜택을 제공합니다. 일본 여행 계획 중이라면 지금이 기회입니다!",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "국내외 상품 포함",
-            "content": "일본행 항공권뿐만 아니라 국내 여행 상품 및 특별한 '후루사토 노제' 상품도 같은 날 할인을 받을 수 있습니다. 다양한 혜택을 확인하세요.",
-            "alt_text": "다양한 여행 상품 이미지"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "이 특별한 할인은 8월 29일 단 하루, 24시간 동안만 진행됩니다. 마감 시간 전에 꼭 혜택을 챙기세요!",
-            "alt_text": "타이머 이미지"
-          },
-          {
-            "title": "놓치기 아쉬운 꿀팁",
-            "content": "캠페인 상세 내용은 당일 공개되므로, 8월 29일 0시를 놓치지 말고 ANA X 웹사이트를 수시로 확인하는 것이 좋습니다. 원하는 목적지 항공권을 미리 검색해두세요!",
-            "alt_text": "돋보기 아이콘 이미지"
-          }
-        ],
-        "caption": "🇯🇵8월 29일, ANA에서 역대급 할인 찬스가 찾아옵니다!🇯🇵\n\nANA X의 'ANA에 キュン！' 캠페인이 8월 29일 단 하루, 0시부터 23시 59분까지 진행됩니다.\n\n✨해외여행 항공권 최대 15만원 할인!\n✈️일본 여행 계획 있다면 절대 놓치지 마세요!\n\n국내 여행 상품 및 '후루사토 노제' 상품도 함께 할인되니, 8월 29일 ANA X를 주목해주세요! \n\n#일본여행 #ANA항공 #할인정보 #여행꿀팁 #ANA에キュン",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA항공",
-          "#항공권할인",
-          "#일본여행준비",
-          "#8월여행",
-          "#여행특가",
-          "#ANA",
-          "#일본항공권",
-          "#해외여행",
-          "#여행스타그램",
-          "#할인정보",
-          "#놓치면후회",
-          "#여행찬스",
-          "#일본"
-        ],
-        "alt_texts": [
-          "ANA 항공편 프로모션 이미지",
-          "할인 쿠폰 이미지",
-          "다양한 여행 상품 이미지",
-          "타이머 이미지",
-          "돋보기 아이콘 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 프로모션 시작 전날 밤 또는 당일 오전 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 구체적인 날짜와 할인 금액을 명시하여 즉각적인 관심 유발",
-      "image": {
-        "keyword": "ANA airplane discount promotion",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane-discount-promotion",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane%20discount%20promotion/"
-      }
-    },
-    {
-      "id": "plan_93af4060",
-      "created_at": "2026-08-26T01:51:42.200218",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「リブマックスリゾート筑波山温泉」開業。天然温泉・本格ロウリュサウナ完備、ホテル一望をリブランド",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2135329.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 여행의 새로운 성지! 츠쿠바산 료칸 리브랜딩 소식"
-      },
-      "content": {
-        "thumbnail_title": "츠쿠바산 료칸 ♨️ 재탄생!",
-        "cards": [
-          {
-            "title": "새로운 료칸 오픈",
-            "content": "일본 茨城県(이바라키현) 츠쿠바시에 위치한 '리브맥스 리조트 츠쿠바산 온천'이 2023년 8월 25일 새롭게 문을 열었습니다. 기존 '츠쿠바산 온천 호텔 이치보'를 리브랜딩한 곳이에요.",
-            "alt_text": "리브맥스 리조트 츠쿠바산 온천 외관 전경"
-          },
-          {
-            "title": "천연 온천 완비",
-            "content": "이곳의 가장 큰 매력은 바로 천연 온천입니다. 여행의 피로를 풀고 싶으신 분들에게 딱 맞는 힐링 스팟이 될 거예요.",
-            "alt_text": "료칸 내 온천탕 모습"
-          },
-          {
-            "title": "본격 사우나 시설",
-            "content": "온천뿐만 아니라 본격적인 로우류 사우나 시설까지 갖추고 있어 더욱 특별한 휴식을 즐길 수 있습니다.",
-            "alt_text": "료칸 내 사우나 시설 이미지"
-          },
-          {
-            "title": "츠쿠바산의 아름다운 풍경",
-            "content": "료칸에서는 츠쿠바산의 아름다운 풍경을 한눈에 감상할 수 있습니다. 멋진 전망과 함께 여유로운 시간을 보내세요.",
-            "alt_text": "료칸 객실에서 바라본 츠쿠바산 풍경"
-          },
-          {
-            "title": "예약 팁",
-            "content": "새롭게 오픈한 만큼 인기가 많을 것으로 예상됩니다. 츠쿠바산 온천 여행을 계획하신다면 서둘러 예약하시는 것을 추천합니다!",
-            "alt_text": "호텔 예약 페이지 캡처 이미지 (예시)"
-          }
-        ],
-        "caption": "일본 茨城県(이바라키현) 츠쿠바산에 새로운 온천 료칸이 문을 열었어요! ♨️\n\n✨ '리브맥스 리조트 츠쿠바산 온천' ✨\n\n✔️ 2023년 8월 25일 리브랜딩 오픈!\n✔️ 천연 온천 & 본격 로우류 사우나 완비!\n✔️ 츠쿠바산의 아름다운 풍경을 담은 객실!\n\n온천과 사우나, 그리고 멋진 풍경까지! 힐링 여행을 원한다면 츠쿠바산으로 떠나보세요!\n\n지금 바로 예약하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#츠쿠바산",
-          "#이바라키현",
-          "#일본온천",
-          "#료칸",
-          "#일본숙소",
-          "#츠쿠바",
-          "#일본온천여행",
-          "#일본힐링",
-          "#해외여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#리브맥스리조트",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "리브맥스 리조트 츠쿠바산 온천 외관 전경",
-          "료칸 내 온천탕 모습",
-          "료칸 내 사우나 시설 이미지",
-          "료칸 객실에서 바라본 츠쿠바산 풍경",
-          "호텔 예약 페이지 캡처 이미지 (예시)"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행에 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 최신 오픈 정보, 상세한 시설 정보, 힐링 테마 강조",
-      "image": {
-        "keyword": "Tsukubasan Onsen Ryokan, Ribmax Resort Tsukubasan, Japanese hot spring, traditional Japanese inn, Ryukyu sauna, mountain view, Ibaraki prefecture, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Tsukubasan-Onsen-Ryokan,-Ribmax-Resort-Tsukubasan,-Japanese-hot-spring,-traditional-Japanese-inn,-Ryukyu-sauna,-mountain-view,-Ibaraki-prefecture,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Tsukubasan%20Onsen%20Ryokan,%20Ribmax%20Resort%20Tsukubasan,%20Japanese%20hot%20spring,%20traditional%20Japanese%20inn,%20Ryukyu%20sauna,%20mountain%20view,%20Ibaraki%20prefecture,%20Japan%20travel/"
       }
     }
   ]
