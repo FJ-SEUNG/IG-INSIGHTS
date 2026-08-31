@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-31T01:23:01.998383",
+  "last_updated": "2026-08-31T05:21:21.682876",
   "plans": [
+    {
+      "id": "plan_78d42e77",
+      "created_at": "2026-08-31T05:21:19.682651",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ワールドパーティー、日常的に持ち歩ける防災アイテムがお得に。防災バッグやポーチ、避難時の衛生用品セットなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2136912.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 예상치 못한 상황 대비! 9월 한정 할인 정보 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵일본 여행 필수템 꿀팁! 🚨",
+        "cards": [
+          {
+            "title": "9월 한정 캠페인",
+            "content": "일본 아웃도어 브랜드 KiU에서 9월 1일부터 9월 14일까지 'KiU 공식 온라인 스토어'에서 진행하는 특별 캠페인을 소개합니다.",
+            "alt_text": "KiU 공식 온라인 스토어 로고"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "2개 구매 시 10% 할인, 3개 구매 시 15% 할인을 받을 수 있습니다. 이 기회를 놓치지 마세요!",
+            "alt_text": "할인율 표시 이미지"
+          },
+          {
+            "title": "대상 품목",
+            "content": "일상에서도 휴대하기 좋은 다양한 '방재 아이템'이 할인 대상입니다. 예를 들어, 방재 가방, 휴대용 파우치, 위생용품 세트 등이 있습니다.",
+            "alt_text": "다양한 방재 아이템 구성 이미지"
+          },
+          {
+            "title": "이용 방법",
+            "content": "일본 여행 중 예상치 못한 상황에 대비하고 싶다면, KiU 온라인 스토어를 방문하여 필요한 아이템을 미리 준비하는 것을 추천합니다.",
+            "alt_text": "온라인 쇼핑 장바구니 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "캠페인 기간은 9월 1일 12시부터 9월 14일 23시 59분까지입니다. 여행 일정을 고려하여 미리 확인하고 구매하세요!",
+            "alt_text": "캘린더에 표시된 날짜 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 중 혹시 모를 상황에 대비하고 싶다면? \n9월 한정, KiU 온라인 스토어에서 방재 아이템을 10%~15% 할인된 가격으로 만나보세요! 🚨\n여행 준비물에 꼭 챙겨서 안심하고 즐거운 일본 여행 되세요! ✨\n\n#일본여행 #플라잉재팬 #일본안전 #일본준비물 #방재용품 #KiU #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본안전",
+          "#일본준비물",
+          "#방재용품",
+          "#KiU",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#일본생활",
+          "#일본생활정보",
+          "#여행준비",
+          "#일본여행준비",
+          "#일본아웃도어",
+          "#9월여행",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "KiU 공식 온라인 스토어 로고",
+          "할인율 표시 이미지",
+          "다양한 방재 아이템 구성 이미지",
+          "온라인 쇼핑 장바구니 이미지",
+          "캘린더에 표시된 날짜 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 준비가 활발한 저녁 시간 (19시~21시) 또는 주말 오전 / 기대 반응: 일본 여행 중 안전 관련 정보에 대한 관심 증가, 할인 정보에 대한 즉각적인 반응 / 이 콘텐츠의 강점: 실질적인 안전 대비 정보와 놓치기 아까운 기간 한정 할인 정보를 결합하여 여행객의 니즈를 충족시킴",
+      "image": {
+        "keyword": "japan travel safety preparedness kiu outdoor items discount campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-safety-preparedness-kiu-outdoor-items-discount-campaign",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20safety%20preparedness%20kiu%20outdoor%20items%20discount%20campaign/"
+      }
+    },
+    {
+      "id": "plan_33627aa1",
+      "created_at": "2026-08-31T05:21:15.063737",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡・天神1丁目の新ビル名称は「天神大樹」に決定、2027年5月末竣工予定。21階建に商業・オフィス・ホテル",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2136941.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카 텐진에 2027년 완공 예정인 대규모 복합 시설 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨후쿠오카 텐진 신상 빌딩✨",
+        "cards": [
+          {
+            "title": "건물 명칭",
+            "content": "후쿠오카 텐진 1정목에 건설 중인 신축 빌딩의 정식 명칭이 '텐진 타이쥬(天神大樹)'로 결정되었습니다.",
+            "alt_text": "텐진 타이쥬 빌딩 조감도"
+          },
+          {
+            "title": "완공 예정일",
+            "content": "2027년 5월 말 완공을 목표로 하고 있으며, 총 21층 규모로 지어질 예정입니다.",
+            "alt_text": "공사 중인 텐진 타이쥬 빌딩 현장"
+          },
+          {
+            "title": "주요 시설",
+            "content": "상업 시설, 오피스, 그리고 호텔까지 포함된 복합 문화 공간으로 조성됩니다.",
+            "alt_text": "텐진 타이쥬 빌딩 내부 예상도"
+          },
+          {
+            "title": "위치",
+            "content": "후쿠오카의 핵심 상업 지구인 텐진 1정목에 위치하여 접근성이 매우 좋습니다.",
+            "alt_text": "후쿠오카 텐진 거리 모습"
+          },
+          {
+            "title": "방문 팁",
+            "content": "완공 후에는 쇼핑, 식사, 숙박까지 한 곳에서 해결할 수 있는 핫플레이스가 될 것으로 예상됩니다. 여행 계획 시 참고하세요!",
+            "alt_text": "쇼핑백을 들고 있는 여행객"
+          }
+        ],
+        "caption": "✈️ 후쿠오카 여행 예정이라면 주목! ✈️\n\n2027년 5월 말, 후쿠오카 텐진에 새로운 랜드마크가 탄생합니다! ✨\n\n'텐진 타이쥬(天神大樹)'라는 이름으로 21층 규모의 복합 시설이 완공될 예정인데요. 쇼핑, 다이닝, 숙박까지 한 번에 해결 가능한 이곳, 벌써부터 기대되시죠? 😉\n\n후쿠오카 여행 계획에 꼭 넣어두세요! 📍\n\n#일본여행 #플라잉재팬 #후쿠오카여행 #텐진 #텐진타이쥬 #일본신축빌딩 #2027년완공 #후쿠오카핫플",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카여행",
+          "#텐진",
+          "#텐진타이쥬",
+          "#일본신축빌딩",
+          "#2027년완공",
+          "#후쿠오카핫플",
+          "#일본여행꿀팁",
+          "#여행정보",
+          "#후쿠오카",
+          "#일본건축",
+          "#미래여행",
+          "#신상정보",
+          "#놓치지마세요"
+        ],
+        "alt_texts": [
+          "텐진 타이쥬 빌딩 조감도",
+          "공사 중인 텐진 타이쥬 빌딩 현장",
+          "텐진 타이쥬 빌딩 내부 예상도",
+          "후쿠오카 텐진 거리 모습",
+          "쇼핑백을 들고 있는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 여행을 계획 중이거나 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보의 유용성으로 인한 저장 및 공유 증가, 댓글 통한 질문 및 기대감 표현 / 이 콘텐츠의 강점: 아직 정보가 많지 않은 신축 빌딩 정보를 선점하여 제공, 구체적인 완공 시기와 시설 정보를 담아 실질적인 도움 제공",
+      "image": {
+        "keyword": "Fukuoka Tenjin new building construction hotel shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Tenjin-new-building-construction-hotel-shopping",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Tenjin%20new%20building%20construction%20hotel%20shopping/"
+      }
+    },
     {
       "id": "plan_86fcb953",
       "created_at": "2026-08-31T01:22:59.998186",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo DisneySea, Smiles for Tomorrow, donation program, charity, kids support, theme park, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Smiles-for-Tomorrow,-donation-program,-charity,-kids-support,-theme-park,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Smiles%20for%20Tomorrow,%20donation%20program,%20charity,%20kids%20support,%20theme%20park,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_d94d4d07",
-      "created_at": "2026-08-28T06:56:20.582738",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、「熊本・鹿児島 観光応援クーポン」配布開始。宿泊最大10％オフ、航空券/JR付き最大1万1000円オフに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136536.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 경비 절약 찬스! 熊本・鹿児島 여행 시 최대 1만 1000엔 할인받는 꿀팁 공개!"
-      },
-      "content": {
-        "thumbnail_title": "熊本・鹿児島 1만1천엔 할인!✈️",
-        "cards": [
-          {
-            "title": "쿠폰 정보",
-            "content": "일본 롯데 트래블에서 熊本(구마모토) & 鹿児島(가고시마) 지역 관광 응원 쿠폰을 배포합니다. 2023년 8월 28일부터 예약 및 이용 가능합니다.",
-            "alt_text": "쿠폰 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "숙박 최대 10% 할인, 항공권+JR 포함 상품 최대 1만 1000엔 할인 혜택을 제공합니다. 4가지 종류의 쿠폰이 준비되어 있습니다.",
-            "alt_text": "할인율 표시 이미지"
-          },
-          {
-            "title": "대상 지역",
-            "content": "이번 캠페인은 熊本현과 鹿児島현의 관광 사업자를 지원하기 위해 마련되었습니다. 이 지역 여행 계획이라면 꼭 확인하세요!",
-            "alt_text": "일본 지도에 熊本, 鹿児島 강조 표시"
-          },
-          {
-            "title": "예약/이용 기간",
-            "content": "쿠폰의 정확한 예약 및 이용 가능 기간은 롯데 트래블 홈페이지에서 확인해야 합니다. 서둘러서 혜택을 놓치지 마세요!",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "쿠폰은 한정 수량으로 조기 마감될 수 있습니다. 여행 계획이 있다면 최대한 빨리 예약하여 할인 혜택을 확보하는 것이 중요합니다.",
-            "alt_text": "여행 가방과 쿠폰 이미지"
-          }
-        ],
-        "caption": "✨일본 규슈 여행 계획 중이신가요?✨\n\n熊本(구마모토) & 鹿児島(가고시마) 지역 여행 시 최대 1만 1000엔까지 할인받을 수 있는 꿀정보가 나왔어요! ✈️\n\n롯데 트래블에서 제공하는 '熊本・鹿児島 관광 응원 쿠폰'으로 숙박은 물론 항공권+JR까지 저렴하게 이용해보세요! 🤩\n\n여행 경비를 아낄 수 있는 절호의 찬스를 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #구마모토여행 #가고시마여행 #일본할인 #여행꿀팁 #일본교통 #일본숙소 #롯데트래블 #규슈여행 #여행스타그램 #일본정보 #여름휴가 #가을여행 #해외여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#구마모토여행",
-          "#가고시마여행",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본교통",
-          "#일본숙소",
-          "#롯데트래블",
-          "#규슈여행",
-          "#여행스타그램",
-          "#일본정보",
-          "#여름휴가",
-          "#가을여행",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "쿠폰 이미지",
-          "할인율 표시 이미지",
-          "일본 지도에 熊本, 鹿児島 강조 표시",
-          "달력 이미지",
-          "여행 가방과 쿠폰 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역(구마모토, 가고시마) 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 쿠폰 사용법 및 예약 관련 문의 증가, 높은 클릭률 / 이 콘텐츠의 강점: 실질적인 경비 절약 정보 제공, 최신 할인 정보 빠르게 전달",
-      "image": {
-        "keyword": "Japan travel discount, Kumamoto Kagoshima coupon, Rakuten Travel offer, Kyushu travel savings, Japan transportation deals",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Kumamoto-Kagoshima-coupon,-Rakuten-Travel-offer,-Kyushu-travel-savings,-Japan-transportation-deals",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Kumamoto%20Kagoshima%20coupon,%20Rakuten%20Travel%20offer,%20Kyushu%20travel%20savings,%20Japan%20transportation%20deals/"
-      }
-    },
-    {
-      "id": "plan_0186db53",
-      "created_at": "2026-08-28T06:56:14.773541",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーセレブレーションホテル、客室アートを初リニューアル。直営ホテルに泊まると何がお得？",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136513.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후 주목! 도쿄 디즈니셀러브레이션 호텔 객실 아트가 새롭게 태어났어요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 호텔 아트 리뉴얼✨",
-        "cards": [
-          {
-            "title": "객실 아트 리뉴얼",
-            "content": "도쿄 디즈니셀러브레이션 호텔 디스커버리 동 객실 아트가 새롭게 단장합니다. 9월 1일부터 새로운 아트를 만날 수 있어요.",
-            "alt_text": "도쿄 디즈니셀러브레이션 호텔 객실 내부 이미지"
-          },
-          {
-            "title": "리뉴얼 적용 시기",
-            "content": "새로운 객실 아트는 2024년 9월 1일 숙박부터 적용됩니다. 미리 예약하고 새로운 경험을 즐겨보세요!",
-            "alt_text": "달력 이미지와 함께 9월 1일 표시"
-          },
-          {
-            "title": "직영 호텔 혜택",
-            "content": "디즈니 호텔에 숙박하면 파크 티켓 사전 구매, 앱으로 어트랙션 예약 등 다양한 혜택을 누릴 수 있습니다.",
-            "alt_text": "디즈니 호텔 로고와 함께 혜택 아이콘 표시"
-          },
-          {
-            "title": "호텔 위치",
-            "content": "도쿄 디즈니셀러브레이션 호텔은 치바현 우라야스시 메이케이 7-1-1에 위치하고 있습니다.",
-            "alt_text": "일본 지도에 호텔 위치 표시"
-          },
-          {
-            "title": "꿀팁",
-            "content": "디즈니 호텔 예약 시, 원하는 테마의 객실을 미리 확인하고 예약하는 것을 추천합니다. 특히 인기 객실은 조기 마감될 수 있어요!",
-            "alt_text": "스마트폰으로 호텔 예약하는 모습"
-          }
-        ],
-        "caption": "디즈니 팬이라면 놓칠 수 없는 소식! 🤩 도쿄 디즈니셀러브레이션 호텔의 디스커버리 동 객실 아트가 9월 1일부터 새롭게 공개됩니다. ✨\n\n꿈같은 디즈니 세계관을 객실에서 더욱 생생하게 느껴보세요! 💖 직영 호텔 투숙객에게만 제공되는 특별한 혜택도 잊지 마세요!\n\n#일본여행 #도쿄디즈니랜드 #도쿄디즈니씨 #디즈니호텔 #도쿄여행 #디즈니셀러브레이션호텔 #객실아트 #새단장 #디즈니덕후 #일본숙소 #도쿄숙소 #플라잉재팬 #여행정보 #호텔추천",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니호텔",
-          "#도쿄여행",
-          "#디즈니셀러브레이션호텔",
-          "#객실아트",
-          "#새단장",
-          "#디즈니덕후",
-          "#일본숙소",
-          "#도쿄숙소",
-          "#여행정보",
-          "#호텔추천",
-          "#디즈니"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니셀러브레이션 호텔 객실 내부 이미지",
-          "달력 이미지와 함께 9월 1일 표시",
-          "디즈니 호텔 로고와 함께 혜택 아이콘 표시",
-          "일본 지도에 호텔 위치 표시",
-          "스마트폰으로 호텔 예약하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 한국인 여행객, 디즈니 팬 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 최신 정보, 구체적인 날짜 포함, 디즈니 팬들의 니즈 충족",
-      "image": {
-        "keyword": "Tokyo Disneyland hotel room art renewal",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-hotel-room-art-renewal",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20hotel%20room%20art%20renewal/"
       }
     }
   ]
