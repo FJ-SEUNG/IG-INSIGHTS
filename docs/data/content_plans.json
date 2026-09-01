@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-08-31T05:21:21.682876",
+  "last_updated": "2026-09-01T01:50:01.780257",
   "plans": [
+    {
+      "id": "plan_9c638601",
+      "created_at": "2026-09-01T01:49:59.780089",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "箱根登山電車・箱根登山ケーブルカー・箱根ロープウェイ、シルバーウィークに座席予約・優先改札を実施",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2137003.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 황금연휴, 하코네 인기 명소 좌석/탑승 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✨하코네 황금연휴 꿀팁✨",
+        "cards": [
+          {
+            "title": "좌석 예약!",
+            "content": "9월 20일~21일, 하코네 등산 전차 'らくらく着席予約券' 발매!",
+            "alt_text": "하코네 등산 전차 좌석 예약권 이미지"
+          },
+          {
+            "title": "우선 탑승!",
+            "content": "하코네 등산 케이블카 & 로프웨이, 사전 예약 시 우선 개찰구 이용 가능!",
+            "alt_text": "하코네 케이블카 및 로프웨이 우선 탑승 안내 이미지"
+          },
+          {
+            "title": "대상 기간",
+            "content": "2024년 9월 20일 (금) ~ 9월 21일 (토) 2일간 운영됩니다.",
+            "alt_text": "날짜 정보가 강조된 이미지"
+          },
+          {
+            "title": "핵심은 사전 예약!",
+            "content": "인기 많은 하코네 명소를 여유롭게 즐기려면 사전 예약은 필수!",
+            "alt_text": "하코네 명소 풍경 이미지"
+          },
+          {
+            "title": "이런 분께 추천",
+            "content": "황금연휴 기간 하코네 여행 계획 중이라면, 꼭 체크하세요! 혼잡을 피해 편안한 여행을 즐길 수 있습니다.",
+            "alt_text": "여행 계획 중인 사람 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 황금연휴, 하코네 여행 계획 중이신가요? 🇯🇵\n\n9월 20일~21일, 하코네 등산 전차, 케이블카, 로프웨이 이용 시 좌석 예약 및 우선 탑승 혜택이 제공됩니다!\n\n혼잡한 연휴 기간, 기다림 없이 편안하게 하코네의 아름다운 풍경을 만끽하세요! ✨\n\n#일본여행 #하코네 #황금연휴 #일본교통 #여행팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하코네",
+          "#일본교통",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#일본가볼만한곳",
+          "#일본인기명소",
+          "#일본황금연휴",
+          "#하코네여행",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본여행팁",
+          "#일본",
+          "#여행"
+        ],
+        "alt_texts": [
+          "하코네 등산 전차 좌석 예약권 이미지",
+          "하코네 케이블카 및 로프웨이 우선 탑승 안내 이미지",
+          "날짜 정보가 강조된 이미지",
+          "하코네 명소 풍경 이미지",
+          "여행 계획 중인 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 추석 연휴 또는 9월 말 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 준비 시작 시점인 저녁 8시 ~ 10시 / 기대 반응: 예약 방법, 주의사항 등에 대한 질문 및 저장 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 여행 편의성 증대",
+      "image": {
+        "keyword": "Hakone Ropeway, Hakone Tozan Railway, Reserved Seat, Priority Boarding, Japan Golden Week Holiday",
+        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Ropeway,-Hakone-Tozan-Railway,-Reserved-Seat,-Priority-Boarding,-Japan-Golden-Week-Holiday",
+        "pexels_url": "https://www.pexels.com/search/Hakone%20Ropeway,%20Hakone%20Tozan%20Railway,%20Reserved%20Seat,%20Priority%20Boarding,%20Japan%20Golden%20Week%20Holiday/"
+      }
+    },
+    {
+      "id": "plan_982daadd",
+      "created_at": "2026-09-01T01:49:54.612445",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、園芸博のゴールドパートナーに。特別塗装機や入場券のマイル交換キャンペーン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2137033.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 특별 도색기 & 마일리지 찬스! 2027년 국제원예박람회 미리 준비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ JAL 특별기 & 마일리지 찬스! 園芸博",
+        "cards": [
+          {
+            "title": "JAL, 園芸博 파트너",
+            "content": "일본항공(JAL)이 2027년 3월 19일 개막하는 '2027 국제원예박람회'의 골드 파트너로 선정되었습니다. 박람회 성공을 위한 프로젝트에 적극 협찬합니다.",
+            "alt_text": "일본항공(JAL) 로고와 2027 국제원예박람회 로고가 함께 있는 이미지"
+          },
+          {
+            "title": "특별 도색기 취항",
+            "content": "JAL은 이번 박람회를 기념하여 특별 도색기를 운항할 예정입니다. 박람회의 주제를 담은 아름다운 디자인의 비행기를 기대해주세요!",
+            "alt_text": "특별 도색된 일본항공(JAL) 비행기 이미지"
+          },
+          {
+            "title": "마일리지로 입장권 교환!",
+            "content": "JAL 마일리지 회원이라면, 모아둔 마일리지로 2027 국제원예박람회 입장권을 교환할 수 있는 캠페인이 진행될 예정입니다. 마일리지 사용 계획을 세워보세요!",
+            "alt_text": "일본항공(JAL) 마일리지 카드와 입장권 아이콘 이미지"
+          },
+          {
+            "title": "2027 국제원예박람회",
+            "content": "개최지는 일본 가나가와현 요코하마시이며, 2027년 3월 19일부터 약 6개월간 진행될 예정입니다. 최신 원예 기술과 아름다운 정원을 만날 수 있는 기회입니다.",
+            "alt_text": "일본 요코하마의 아름다운 정원 또는 박람회 예상 조감도 이미지"
+          },
+          {
+            "title": "미리 준비하세요!",
+            "content": "JAL 마일리지 적립 혜택과 특별 도색기 운항 소식, 놓치지 마세요! 2027년 일본 여행 계획에 특별한 경험을 더할 수 있는 기회입니다. 자세한 캠페인 내용은 추후 JAL 공식 발표를 확인하세요.",
+            "alt_text": "비행기 창밖으로 보이는 일본 풍경 이미지"
+          }
+        ],
+        "caption": "✈️ JAL이 2027년 요코하마에서 열리는 국제원예박람회의 골드 파트너가 됩니다! ✨\n\n🌟 특별 도색기 취항 예정!\n🌟 JAL 마일리지로 입장권 교환 찬스!\n\n2027년 3월 19일부터 시작되는 박람회를 JAL과 함께 미리 준비해보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #JAL #국제원예박람회 #요코하마 #일본항공 #마일리지 #여행정보 #2027년",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#국제원예박람회",
+          "#2027국제원예박람회",
+          "#요코하마",
+          "#일본이벤트",
+          "#일본축제",
+          "#여행꿀팁",
+          "#마일리지",
+          "#항공권",
+          "#일본여행준비",
+          "#일본정보",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "일본항공(JAL) 로고와 2027 국제원예박람회 로고가 함께 있는 이미지",
+          "특별 도색된 일본항공(JAL) 비행기 이미지",
+          "일본항공(JAL) 마일리지 카드와 입장권 아이콘 이미지",
+          "일본 요코하마의 아름다운 정원 또는 박람회 예상 조감도 이미지",
+          "비행기 창밖으로 보이는 일본 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 JAL 이용객 및 박람회에 관심 있는 여행객 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 정보 공유 및 기대감 상승, JAL 이용률 증대 / 이 콘텐츠의 강점: 실제 여행에 적용 가능한 구체적인 혜택(마일리지, 특별기)과 미래의 이벤트 정보를 결합하여 흥미 유발",
+      "image": {
+        "keyword": "JAL airplane, 2027 Green Expo, Yokohama, Japan travel, mileage campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-2027-Green-Expo,-Yokohama,-Japan-travel,-mileage-campaign",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%202027%20Green%20Expo,%20Yokohama,%20Japan%20travel,%20mileage%20campaign/"
+      }
+    },
     {
       "id": "plan_78d42e77",
       "created_at": "2026-08-31T05:21:19.682651",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Station night market, Yaesu night market, Tokyo summer festival, Japanese street food, live music Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-night-market,-Yaesu-night-market,-Tokyo-summer-festival,-Japanese-street-food,-live-music-Japan",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20night%20market,%20Yaesu%20night%20market,%20Tokyo%20summer%20festival,%20Japanese%20street%20food,%20live%20music%20Japan/"
-      }
-    },
-    {
-      "id": "plan_a7acb920",
-      "created_at": "2026-08-28T11:13:44.659173",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーランド、新ステージショー衣装を公開。おそろいのぬいぐるみバッジ4種も発売決定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136606.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 디즈니랜드의 신규 쇼 의상 공개! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 디즈니랜드 신규 쇼 공개!✨",
-        "cards": [
-          {
-            "title": "신규 쇼 공개!",
-            "content": "도쿄 디즈니랜드에서 9월 30일부터 새로운 엔터테인먼트 프로그램 'The D-Groovationz4 Live: Happy! Funky! Groovy! Tour'가 시작됩니다.",
-            "alt_text": "도쿄 디즈니랜드 신규 쇼 'The D-Groovationz4 Live'의 화려한 무대 모습"
-          },
-          {
-            "title": "의상 최초 공개",
-            "content": "이번 신규 쇼의 개성 넘치는 의상이 최초로 공개되어 팬들의 기대감을 높이고 있습니다.",
-            "alt_text": "도쿄 디즈니랜드 신규 쇼 출연진의 다채로운 의상 착용 모습"
-          },
-          {
-            "title": "기념 굿즈 출시",
-            "content": "쇼 테마에 맞춰 귀여운 4종의 ぬいぐるみ 배지가 함께 출시될 예정입니다.",
-            "alt_text": "도쿄 디즈니랜드 신규 쇼 기념 ぬいぐるみ 배지 4종"
-          },
-          {
-            "title": "쇼 일정 확인",
-            "content": "9월 30일부터 시작되는 신규 쇼를 놓치지 않도록 방문 일정을 미리 계획해보세요.",
-            "alt_text": "도쿄 디즈니랜드 신규 쇼 'The D-Groovationz4 Live' 공연 일정 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 쇼는 조기 매진될 수 있으니, 디즈니랜드 공식 앱이나 웹사이트에서 티켓 예매 정보를 미리 확인하는 것이 좋습니다.",
-            "alt_text": "도쿄 디즈니랜드 방문 전 공식 앱 확인 모습"
-          }
-        ],
-        "caption": "✨도쿄 디즈니랜드의 새로운 즐거움이 시작됩니다!✨\n9월 30일부터 펼쳐지는 'The D-Groovationz4 Live: Happy! Funky! Groovy! Tour' 신규 쇼를 만나보세요!\n\n새롭게 공개된 화려한 의상과 함께 쇼를 더욱 특별하게 만들어 줄 4종의 ぬいぐるみ 배지 굿즈도 놓치지 마세요!\n\n✅ 공연 시작일: 9월 30일\n\n#일본여행 #도쿄디즈니랜드 #디즈니랜드 #신규쇼 #디즈니굿즈 #도쿄여행 #일본축제 #여행정보 #플라잉재팬 #도쿄 #디즈니 #놀이공원 #여행스타그램 #일본 #자유여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니랜드",
-          "#신규쇼",
-          "#디즈니굿즈",
-          "#도쿄여행",
-          "#일본축제",
-          "#여행정보",
-          "#도쿄",
-          "#디즈니",
-          "#놀이공원",
-          "#여행스타그램",
-          "#일본",
-          "#자유여행"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 신규 쇼 'The D-Groovationz4 Live'의 화려한 무대 모습",
-          "도쿄 디즈니랜드 신규 쇼 출연진의 다채로운 의상 착용 모습",
-          "도쿄 디즈니랜드 신규 쇼 기념 ぬいぐるみ 배지 4종",
-          "도쿄 디즈니랜드 신규 쇼 'The D-Groovationz4 Live' 공연 일정 안내",
-          "도쿄 디즈니랜드 방문 전 공식 앱 확인 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 디즈니랜드 방문 예정인 한국인 여행객 / 최적 게시 시간: 금요일 오후 7시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 공식적으로 발표된 최신 정보와 실질적인 방문 팁 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland new show costume, Disney merchandise, entertainment program",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-new-show-costume,-Disney-merchandise,-entertainment-program",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20new%20show%20costume,%20Disney%20merchandise,%20entertainment%20program/"
-      }
-    },
-    {
-      "id": "plan_464853f6",
-      "created_at": "2026-08-28T11:13:39.746531",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーシー、アトラクション利用やグッズ購入が子供支援につながる寄付つきプログラム「Smiles for Tomorrow」実施",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136633.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니씨에서 즐기는 특별한 경험이 곧 기부로 이어져요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니씨 기부 프로그램✨",
-        "cards": [
-          {
-            "title": "특별한 캠페인",
-            "content": "도쿄 디즈니씨가 개원 25주년을 기념하여 'Smiles for Tomorrow'라는 이름의 기부 연계 프로그램을 9월 4일부터 시작합니다.",
-            "alt_text": "도쿄 디즈니씨 로고와 함께 'Smiles for Tomorrow' 프로그램 안내 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "어트랙션 이용이나 관련 상품 구매 시, 해당 금액의 일부가 기부금으로 적립되어 어린이 지원 활동에 사용됩니다.",
-            "alt_text": "디즈니씨 어트랙션 탑승하는 사람들의 모습"
-          },
-          {
-            "title": "기부 대상",
-            "content": "기부금은 어린이를 돕는 다양한 사회 공헌 활동에 사용될 예정입니다.",
-            "alt_text": "어린이들이 밝게 웃는 모습"
-          },
-          {
-            "title": "여행 중 나눔",
-            "content": "일본 여행 중 디즈니씨에서 즐거운 시간을 보내는 것만으로도 의미 있는 나눔에 동참할 수 있습니다.",
-            "alt_text": "디즈니씨 야경 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "프로그램 상세 내용 및 참여 가능한 어트랙션, 상품 정보는 방문 전 공식 홈페이지를 확인하세요! (9월 4일 이후 적용)",
-            "alt_text": "디즈니씨 지도와 함께 프로그램 안내를 확인하는 모습"
-          }
-        ],
-        "caption": "도쿄 디즈니씨에서 즐거움과 나눔을 동시에! 💖\n9월 4일부터 시작되는 'Smiles for Tomorrow' 캠페인에 참여해보세요.\n어트랙션 이용, 굿즈 구매가 곧 어린이 지원으로 이어집니다.\n여행 중 특별한 의미를 더하고 싶다면 놓치지 마세요! ✨\n\n#일본여행 #도쿄디즈니씨 #기부프로그램 #나눔실천 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#SmilesforTomorrow",
-          "#기부",
-          "#사회공헌",
-          "#어린이돕기",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#도쿄여행",
-          "#나눔",
-          "#개원25주년",
-          "#디즈니",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니씨 로고와 함께 'Smiles for Tomorrow' 프로그램 안내 이미지",
-          "디즈니씨 어트랙션 탑승하는 사람들의 모습",
-          "어린이들이 밝게 웃는 모습",
-          "디즈니씨 야경 모습",
-          "디즈니씨 지도와 함께 프로그램 안내를 확인하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5~7시 / 기대 반응: 긍정적, 참여 의사 확인 / 이 콘텐츠의 강점: 즐거움과 의미를 동시에 잡을 수 있는 정보 제공",
-      "image": {
-        "keyword": "Tokyo DisneySea, Smiles for Tomorrow, donation program, charity, kids support, theme park, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-Smiles-for-Tomorrow,-donation-program,-charity,-kids-support,-theme-park,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20Smiles%20for%20Tomorrow,%20donation%20program,%20charity,%20kids%20support,%20theme%20park,%20Japan%20travel/"
       }
     }
   ]
