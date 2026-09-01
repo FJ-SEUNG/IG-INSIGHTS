@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-01T01:50:01.780257",
+  "last_updated": "2026-09-01T04:56:11.064498",
   "plans": [
+    {
+      "id": "plan_6305725e",
+      "created_at": "2026-09-01T04:56:09.064320",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、国際線でタイムセール　ハワイ往復10.5万円、上海4.1万円など",
+        "url": "https://www.traicy.com/posts/20260901380557/",
+        "date": "Tue, 01 Sep 2026 00:15:13 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 국제선 특가 찬스! 일본행 항공권 득템 기회를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 역대급 타임세일! ✈️",
+        "cards": [
+          {
+            "title": "타임세일 기간",
+            "content": "ANA 국제선 항공권 타임세일이 9월 1일부터 7일까지 진행됩니다. 망설이면 품절될 수 있으니 서둘러 확인하세요!",
+            "alt_text": "달력에 표시된 9월 1일부터 7일까지의 날짜"
+          },
+          {
+            "title": "탑승 가능 기간",
+            "content": "9월 22일부터 2027년 6월 30일까지 탑승 가능한 항공권이 대상입니다. 장기적인 여행 계획에도 활용 가능해요.",
+            "alt_text": "2027년 6월 30일까지의 캘린더"
+          },
+          {
+            "title": "주요 노선 (예시)",
+            "content": "이번 세일에는 상하이 등 아시아 노선도 포함될 예정입니다. (뉴스 내용상 상하이는 4.1만원으로 언급되었으나, 정확한 일본행 노선 및 가격은 추후 공개될 수 있습니다.)",
+            "alt_text": "아시아 지도"
+          },
+          {
+            "title": "ANA 공식 확인 필수",
+            "content": "정확한 일본행 노선 및 가격은 ANA 공식 홈페이지에서 직접 확인해야 합니다. 프로모션은 조기 종료될 수 있습니다.",
+            "alt_text": "ANA 항공 로고"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획이 있다면 이번 기회를 놓치지 마세요! 미리 예약하면 더 저렴하게 일본 여행을 즐길 수 있습니다. 수하물 규정도 미리 확인하세요.",
+            "alt_text": "쇼핑백과 비행기 아이콘"
+          }
+        ],
+        "caption": "✨ ANA 국제선 타임세일이 온다! ✨\n일본 여행 계획 중이라면 주목! 📢\n9월 1일부터 7일까지 진행되는 ANA 항공권 타임세일 기간을 놓치지 마세요.\n탑승 기간은 9월 22일부터 2027년 6월 30일까지로 넉넉해요!\n자세한 노선과 가격은 ANA 공식 홈페이지에서 확인하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA항공",
+          "#항공권특가",
+          "#타임세일",
+          "#일본항공권",
+          "#여행준비",
+          "#가성비여행",
+          "#일본",
+          "#여행정보",
+          "#ANA",
+          "#인천공항",
+          "#김포공항",
+          "#항공권",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "달력에 표시된 9월 1일부터 7일까지의 날짜",
+          "2027년 6월 30일까지의 캘린더",
+          "아시아 지도",
+          "ANA 항공 로고",
+          "쇼핑백과 비행기 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 항공권 정보에 대한 높은 관심과 문의, 예약 전환율 증가 / 이 콘텐츠의 강점: 시기적절한 특가 정보 제공으로 즉각적인 관심 유도 및 실질적 도움 제공",
+      "image": {
+        "keyword": "ANA airplane, sale, discount, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane,-sale,-discount,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane,%20sale,%20discount,%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_8b102e59",
+      "created_at": "2026-09-01T04:56:03.876192",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ゴッホ「星月夜」が16年ぶり来日。東京都美術館「オルセー美術館展」、フェイラー限定ハンカチ付きチケットも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2137007.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "16년 만에 한국 온다는 고흐 명작! 도쿄에서 특별한 미술관 데이트 즐겨보세요 🖼️"
+      },
+      "content": {
+        "thumbnail_title": "✨16년 만에 온 고흐!✨",
+        "cards": [
+          {
+            "title": "기간 확인!",
+            "content": "명작 '별이 빛나는 밤'을 포함한 오르세 미술관 특별전이 도쿄도 미술관에서 열립니다. 전시는 2024년 11월 14일부터 2027년 3월 28일까지 진행됩니다.",
+            "alt_text": "명작 '별이 빛나는 밤' 그림"
+          },
+          {
+            "title": "도쿄에서만!",
+            "content": "이번 전시는 도쿄도 미술관에서만 단독으로 개최되며, 다른 지역으로 순회 전시는 예정되어 있지 않습니다. 도쿄 방문 시 꼭 놓치지 마세요!",
+            "alt_text": "도쿄도 미술관 건물 외관"
+          },
+          {
+            "title": "특별한 티켓!",
+            "content": "페이러(FEILER) 한정판 핸드 타월이 포함된 티켓도 판매될 예정입니다. 특별한 기념품을 원하신다면 이 티켓을 고려해보세요.",
+            "alt_text": "페이러(FEILER) 브랜드 로고"
+          },
+          {
+            "title": "100주년 기념",
+            "content": "이 전시는 도쿄도 미술관 개관 100주년을 기념하여 열리는 특별 기획전입니다. 역사적인 순간을 함께하세요.",
+            "alt_text": "도쿄도 미술관 100주년 기념 엠블럼"
+          },
+          {
+            "title": "예매 꿀팁",
+            "content": "인기 전시인 만큼 사전 예매는 필수! 특히 한정판 핸드 타월 포함 티켓은 조기 매진될 수 있으니, 여행 계획 시 예매 일정을 미리 확인하는 것이 좋습니다.",
+            "alt_text": "달력에 표시된 날짜"
+          }
+        ],
+        "caption": "🇫🇷 오르세 미술관 명작, 16년 만에 한국 온다! 🇫🇷\n\n반 고흐의 '별이 빛나는 밤'을 포함한 오르세 미술관 소장품 특별전이 도쿄에서 열립니다! 🎨\n\n✨ 전시 기간: 2024.11.14 ~ 2027.03.28\n📍 장소: 도쿄도 미술관\n\n이번 전시는 도쿄에서만 볼 수 있다는 사실! 페이러(FEILER) 한정판 핸드 타월 포함 티켓도 놓치지 마세요 😉\n\n#일본여행 #도쿄여행 #고흐 #별이빛나는밤 #오르세미술관 #도쿄도미술관 #미술관데이트 #한정판굿즈 #여행정보 #일본가볼만한곳 #플라잉재팬 #16년만 #놓치지마세요",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#고흐",
+          "#별이빛나는밤",
+          "#오르세미술관",
+          "#도쿄도미술관",
+          "#미술관",
+          "#전시회",
+          "#일본문화",
+          "#여행스타그램",
+          "#일본축제",
+          "#도쿄",
+          "#아트",
+          "#여행필수정보"
+        ],
+        "alt_texts": [
+          "명작 '별이 빛나는 밤' 그림",
+          "도쿄도 미술관 건물 외관",
+          "페이러(FEILER) 브랜드 로고",
+          "도쿄도 미술관 100주년 기념 엠블럼",
+          "달력에 표시된 날짜"
+        ]
+      },
+      "marketer_analysis": "타겟: 미술 애호가 및 특별한 경험을 추구하는 한국인 여행자 / 최적 게시 시간: 오후 8시 ~ 10시 (여행 계획을 세우는 시간) / 기대 반응: 높은 관심과 공유, 티켓 구매 문의 증가 / 이 콘텐츠의 강점: 희소성 있는 정보 (16년 만에 일본 방문), 구체적인 기간 및 장소 명시, 특별 굿즈 정보 제공",
+      "image": {
+        "keyword": "Van Gogh Starry Night Orsay Museum Tokyo",
+        "unsplash_url": "https://unsplash.com/s/photos/Van-Gogh-Starry-Night-Orsay-Museum-Tokyo",
+        "pexels_url": "https://www.pexels.com/search/Van%20Gogh%20Starry%20Night%20Orsay%20Museum%20Tokyo/"
+      }
+    },
     {
       "id": "plan_9c638601",
       "created_at": "2026-09-01T01:49:59.780089",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Station night festival, Yaesu night market, Tokyo Midtown Yaesu event, Japanese summer festival food, live music Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-night-festival,-Yaesu-night-market,-Tokyo-Midtown-Yaesu-event,-Japanese-summer-festival-food,-live-music-Japan",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20night%20festival,%20Yaesu%20night%20market,%20Tokyo%20Midtown%20Yaesu%20event,%20Japanese%20summer%20festival%20food,%20live%20music%20Japan/"
-      }
-    },
-    {
-      "id": "plan_e33d7851",
-      "created_at": "2026-08-29T04:10:14.144068",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストア 心斎橋パルコ店がオープン。“魔法の旅”がテーマの店舗で限定アイテムを発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136450.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 여행 필수 코스! 서일본 최대 규모 디즈니 스토어 오픈 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 디즈니 스토어 오픈✨",
-        "cards": [
-          {
-            "title": "오픈 정보",
-            "content": "디즈니 스토어 신사이바시 파르코점이 8월 26일에 그랜드 오픈했어요. 서일본 최대 규모를 자랑한답니다.",
-            "alt_text": "디즈니 스토어 신사이바시 파르코점 외관"
-          },
-          {
-            "title": "매장 특징",
-            "content": "'마법의 여행'을 테마로 꾸며진 매장에서는 특별한 경험을 할 수 있습니다. 다양한 즐길 거리가 준비되어 있어요.",
-            "alt_text": "디즈니 스토어 매장 내부 모습"
-          },
-          {
-            "title": "한정 상품",
-            "content": "매장에서만 만날 수 있는 오리지널 한정 상품들이 출시되었습니다. 특별한 기념품을 득템할 기회!",
-            "alt_text": "디즈니 스토어 한정 상품 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "일본 오사카 신사이바시 파르코점 11층에 위치해 있습니다. 쇼핑과 관광을 동시에 즐겨보세요.",
-            "alt_text": "신사이바시 파르코점 지도"
-          },
-          {
-            "title": "방문 팁",
-            "content": "주말이나 공휴일에는 사람이 많을 수 있으니, 평일 오전에 방문하는 것을 추천합니다. 오픈런은 필수!",
-            "alt_text": "사람들이 줄 서 있는 디즈니 스토어 입구"
-          }
-        ],
-        "caption": "💖오사카 여행 필수 코스 OPEN!💖\n\n✨서일본 최대 규모✨ 디즈니 스토어 신사이바시 파르코점이 8월 26일 문을 열었어요!\n\n'마법의 여행' 테마로 꾸며진 매장에서만 만날 수 있는 한정 상품들까지!\n\n오사카 가면 꼭 들러야 할 곳, 지금 바로 저장하고 친구 태그하기! 👇\n\n#디즈니스토어 #신사이바시파르코 #오사카여행 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#디즈니스토어",
-          "#신사이바시",
-          "#파르코",
-          "#일본쇼핑",
-          "#한정판",
-          "#여행정보",
-          "#여행꿀팁",
-          "#주말여행",
-          "#가족여행",
-          "#커플여행",
-          "#일본자유여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "디즈니 스토어 신사이바시 파르코점 외관",
-          "디즈니 스토어 매장 내부 모습",
-          "디즈니 스토어 한정 상품 이미지",
-          "신사이바시 파르코점 지도",
-          "사람들이 줄 서 있는 디즈니 스토어 입구"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 좋아요 및 저장 수, 댓글 문의 증가 / 이 콘텐츠의 강점: 최신 오픈 정보와 한정 상품이라는 매력적인 요소로 즉각적인 관심 유도",
-      "image": {
-        "keyword": "Disney Store Shinsaibashi Parco, Osaka, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Shinsaibashi-Parco,-Osaka,-Japan",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Shinsaibashi%20Parco,%20Osaka,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_8688bf43",
-      "created_at": "2026-08-29T04:10:07.436315",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京駅前で晩夏の祭り「八重洲夜市」9月10日まで開催中。ライブも出店もおおっ！とうならせる個性派ぞろい、さっそく初日に行ってきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136700.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역 근처에서 즐기는 늦여름 밤의 축제! 놓치기 아까운 도쿄의 특별한 경험!"
-      },
-      "content": {
-        "thumbnail_title": "도쿄역 야경축제🌃",
-        "cards": [
-          {
-            "title": "팔월의 밤",
-            "content": "도쿄역 앞 도쿄 미드타운 야에스에서 '야에스 야시장 2026'이 8월 28일부터 9월 6일까지 10일간 열려요. 늦여름 밤을 시원하게 즐길 수 있는 도심형 축제랍니다.",
-            "alt_text": "도쿄 미드타운 야에스에서 열리는 '야에스 야시장 2026' 행사 전경"
-          },
-          {
-            "title": "다양한 즐길거리",
-            "content": "음악 공연, 맛있는 음식, 그리고 신나는 놀이까지! 겉보기엔 평범해 보이지만, 자세히 보면 개성 넘치는 특별한 콘텐츠들로 가득해요.",
-            "alt_text": "야에스 야시장에서 열리는 다양한 공연과 먹거리를 즐기는 사람들"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "이번 축제는 9월 6일까지 진행되니, 일본 여행 계획 중이라면 꼭 일정에 넣어보세요. 늦여름의 낭만을 만끽할 수 있는 좋은 기회입니다.",
-            "alt_text": "야에스 야시장에서 판매되는 개성 있는 기념품들"
-          },
-          {
-            "title": "첫날 방문 후기",
-            "content": "축제 첫날부터 많은 인파가 몰려 축제를 즐겼어요. 개성 있는 부스와 공연들이 방문객들의 시선을 사로잡았답니다.",
-            "alt_text": "축제 첫날 현장의 활기찬 분위기"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "도쿄역 근처에서 열리는 만큼 대중교통 이용이 편리해요. 늦은 시간까지 진행되니, 안전하게 귀가할 수 있는 교통편을 미리 확인하는 것이 좋습니다.",
-            "alt_text": "도쿄역 야경을 배경으로 한 축제 안내 표지판"
-          }
-        ],
-        "caption": "도쿄에서 잊지 못할 늦여름 밤을 보내고 싶다면? 🌃 도쿄역 앞에서 펼쳐지는 '야에스 야시장 2026'에서 특별한 추억을 만들어보세요! 🎶 맛있는 음식, 신나는 공연, 개성 넘치는 부대 행사까지! 9월 6일까지 진행되니 서둘러 방문하세요! 🏃‍♀️💨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄",
-          "#도쿄여행",
-          "#도쿄축제",
-          "#야에스야시장",
-          "#도쿄역",
-          "#도쿄가볼만한곳",
-          "#일본축제",
-          "#늦여름",
-          "#여행정보",
-          "#일본이벤트",
-          "#도쿄미드타운",
-          "#일본생활",
-          "#주말나들이"
-        ],
-        "alt_texts": [
-          "도쿄 미드타운 야에스에서 열리는 '야에스 야시장 2026' 행사 전경",
-          "야에스 야시장에서 열리는 다양한 공연과 먹거리를 즐기는 사람들",
-          "야에스 야시장에서 판매되는 개성 있는 기념품들",
-          "축제 첫날 현장의 활기찬 분위기",
-          "도쿄역 야경을 배경으로 한 축제 안내 표지판"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 오후 6시-8시 (여행 계획 세우는 시간) / 기대 반응: 관심 댓글, 정보 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 시기적절한 최신 이벤트 정보, 구체적인 날짜와 장소 명시, 매력적인 축제 내용 소개",
-      "image": {
-        "keyword": "Tokyo Station night market, Yaesu night market, Tokyo summer festival, Japanese street food, live music Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-night-market,-Yaesu-night-market,-Tokyo-summer-festival,-Japanese-street-food,-live-music-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20night%20market,%20Yaesu%20night%20market,%20Tokyo%20summer%20festival,%20Japanese%20street%20food,%20live%20music%20Japan/"
       }
     }
   ]
