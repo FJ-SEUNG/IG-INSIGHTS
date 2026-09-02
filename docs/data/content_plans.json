@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-01T04:56:11.064498",
+  "last_updated": "2026-09-02T01:01:39.691969",
   "plans": [
+    {
+      "id": "plan_4e009648",
+      "created_at": "2026-09-02T01:01:37.691726",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "至近距離で2000発を打ち上げる湖上花火が魅力の「第10回つくい湖湖上祭」11月15日開催",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2137303.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서 펼쳐지는 아름다운 호수 위 불꽃놀이! 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨11월 15일! 2000발 불꽃축제✨",
+        "cards": [
+          {
+            "title": "축제 정보",
+            "content": "일본 가나가와현 사가미하라시에서 열리는 '제10회 츠쿠이호수 위 불꽃축제'가 11월 15일에 개최됩니다. 2000발의 불꽃이 츠쿠이호수 위에서 화려하게 펼쳐질 예정입니다.",
+            "alt_text": "츠쿠이호수 위에서 펼쳐지는 불꽃축제 이미지"
+          },
+          {
+            "title": "장소",
+            "content": "축제 장소는 '츠쿠이호수 성산공원 물의 원지'이며, 정확한 주소는 가나가와현 사가미하라시 미도리구 시로야마 2-9-2입니다.",
+            "alt_text": "축제 장소인 츠쿠이호수 성산공원 물의 원지 풍경"
+          },
+          {
+            "title": "시간",
+            "content": "행사 시간은 오전 10시부터 오후 6시까지이며, 하이라이트인 불꽃놀이는 오후 5시 30분부터 시작됩니다.",
+            "alt_text": "불꽃놀이 시작 시간을 알리는 안내판 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "악천후 시에는 축제가 취소될 수 있으니, 방문 전 날씨를 꼭 확인하시는 것이 좋습니다.",
+            "alt_text": "날씨 아이콘과 함께 취소 가능성을 알리는 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "가나가와현에서 가을의 정취를 만끽하며 아름다운 불꽃놀이를 감상할 수 있는 특별한 기회입니다. 늦가을 밤하늘을 수놓을 2000발의 불꽃을 기대해보세요!",
+            "alt_text": "가을밤 츠쿠이호수 위로 펼쳐지는 불꽃놀이 풍경"
+          }
+        ],
+        "caption": "✨일본 가나가와현에서 펼쳐지는 환상적인 불꽃축제 소식!✨\n11월 15일, 츠쿠이호수 위로 2000발의 불꽃이 쏘아 올려집니다! 🎆\n늦가을 밤, 아름다운 불꽃놀이를 감상하며 잊지 못할 추억을 만들어보세요.\n\n📍장소: 츠쿠이호수 성산공원 물의 원지\n⏰시간: 10:00~18:00 (불꽃 17:30~)\n\n#일본여행 #츠쿠이호수 #불꽃축제 #가나가와현 #일본축제 #가을여행 #여행정보 #플라잉재팬 #일본정보 #이벤트 #여행꿀팁 #일본가볼만한곳 #일본행사 #11월축제 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#츠쿠이호수",
+          "#불꽃축제",
+          "#가나가와현",
+          "#일본축제",
+          "#가을여행",
+          "#여행정보",
+          "#일본정보",
+          "#이벤트",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#일본행사",
+          "#11월축제",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "츠쿠이호수 위에서 펼쳐지는 불꽃축제 이미지",
+          "축제 장소인 츠쿠이호수 성산공원 물의 원지 풍경",
+          "불꽃놀이 시작 시간을 알리는 안내판 이미지",
+          "날씨 아이콘과 함께 취소 가능성을 알리는 이미지",
+          "가을밤 츠쿠이호수 위로 펼쳐지는 불꽃놀이 풍경"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가을/겨울 시즌 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 6시~9시 (여행 정보 탐색 시간) / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 장소 정보 제공으로 실질적인 여행 계획 수립에 도움",
+      "image": {
+        "keyword": "Tsukui Lake fireworks festival, Japan autumn event, Kanagawa prefecture attraction",
+        "unsplash_url": "https://unsplash.com/s/photos/Tsukui-Lake-fireworks-festival,-Japan-autumn-event,-Kanagawa-prefecture-attraction",
+        "pexels_url": "https://www.pexels.com/search/Tsukui%20Lake%20fireworks%20festival,%20Japan%20autumn%20event,%20Kanagawa%20prefecture%20attraction/"
+      }
+    },
+    {
+      "id": "plan_29bc1a51",
+      "created_at": "2026-09-02T01:01:31.885326",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "エーザイ、水なしで飲める酔い止め「トラベルミン チュロップ」にコーラ味",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2137371.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "물 없이 간편하게! 일본 여행 필수템, 신상 맛까지 더해졌어요!"
+      },
+      "content": {
+        "thumbnail_title": "💊물 없이 먹는 酔い止め 신상! 🥤",
+        "cards": [
+          {
+            "title": "신상 酔이즘",
+            "content": "일본 여행 중 멀미 걱정 끝! 에자이에서 '트래블민 츄롭' 신상 코라맛을 출시했어요. 9월 1일부터 판매 시작!",
+            "alt_text": "새로운 코라맛 츄롭 酔이즘 제품 이미지"
+          },
+          {
+            "title": "물 없이 OK",
+            "content": "가장 큰 장점은 물 없이도 입 안에서 녹여 복용할 수 있다는 점! 이동 중에도 간편하게 섭취 가능해요.",
+            "alt_text": "물 없이 츄롭을 복용하는 모습의 일러스트"
+          },
+          {
+            "title": "코라맛 추가",
+            "content": "기존 딸기맛, 레몬맛에 이어 상큼한 코라맛이 추가되어 취향에 따라 선택할 수 있어요.",
+            "alt_text": "다양한 맛의 츄롭 제품 라인업 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "6정(1회용 개별 포장)이 들어있는 1박스 가격은 528엔이에요. 1정당 약 88엔! 💊",
+            "alt_text": "츄롭 1박스 가격표 이미지"
+          },
+          {
+            "title": "여행 필수템!",
+            "content": "일본 내 약국(제2류 의약품)에서 구매 가능하며, 특히 장거리 이동이나 배 멀미가 걱정될 때 꼭 챙기세요. ✈️",
+            "alt_text": "캐리어에 츄롭을 챙기는 모습의 일러스트"
+          }
+        ],
+        "caption": "일본 여행 필수템! ✈️ 멀미약 '트래블민 츄롭'에 새로운 코라맛이 출시되었어요! 🥤 물 없이 간편하게 복용 가능하고, 6정 1박스에 528엔이면 정말 저렴하죠? 💊 이동 중에도 상쾌하게! 지금 바로 약국에서 만나보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본필수템",
+          "#일본약",
+          "#멀미약",
+          "#트래블민",
+          "#츄롭",
+          "#일본신상",
+          "#일본쇼핑",
+          "#일본정보",
+          "#여행준비",
+          "#일본꿀팁",
+          "#일본직구",
+          "#여행스타그램",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "새로운 코라맛 츄롭 酔이즘 제품 이미지",
+          "물 없이 츄롭을 복용하는 모습의 일러스트",
+          "다양한 맛의 츄롭 제품 라인업 이미지",
+          "츄롭 1박스 가격표 이미지",
+          "캐리어에 츄롭을 챙기는 모습의 일러스트"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보성 유용성으로 인한 저장 및 공유 / 이 콘텐츠의 강점: 실질적인 여행 필수품 정보와 최신 신상 소식을 결합하여 높은 관심 유도",
+      "image": {
+        "keyword": "Japan travel medicine, travelmin churop, cola flavor medicine, Japan pharmacy, travel essentials",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-medicine,-travelmin-churop,-cola-flavor-medicine,-Japan-pharmacy,-travel-essentials",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20medicine,%20travelmin%20churop,%20cola%20flavor%20medicine,%20Japan%20pharmacy,%20travel%20essentials/"
+      }
+    },
     {
       "id": "plan_6305725e",
       "created_at": "2026-09-01T04:56:09.064320",
@@ -923,160 +1077,6 @@
         "keyword": "ritz carlton osaka afternoon tea, asprey collaboration, luxury dessert, japanese hotel experience, elegant tea time",
         "unsplash_url": "https://unsplash.com/s/photos/ritz-carlton-osaka-afternoon-tea,-asprey-collaboration,-luxury-dessert,-japanese-hotel-experience,-elegant-tea-time",
         "pexels_url": "https://www.pexels.com/search/ritz%20carlton%20osaka%20afternoon%20tea,%20asprey%20collaboration,%20luxury%20dessert,%20japanese%20hotel%20experience,%20elegant%20tea%20time/"
-      }
-    },
-    {
-      "id": "plan_47040096",
-      "created_at": "2026-08-29T06:57:47.874230",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANAトラベラーズ、国内・海外DPで割引クーポン配布　ANAにキュン！企画",
-        "url": "https://www.traicy.com/posts/20260829380380/",
-        "date": "Sat, 29 Aug 2026 00:15:24 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 항공권 구매 시 최대 22,000엔 할인받는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ ANA 8월 29일 역대급 할인!",
-        "cards": [
-          {
-            "title": "ANA 할인 쿠폰",
-            "content": "ANA 그룹에서 8월 29일 'ANA에 큥!' 행사에 맞춰 할인 쿠폰을 배포합니다. 국내 다이내믹 패키지 예약 시 최대 22,000엔까지 할인받을 수 있습니다.",
-            "alt_text": "ANA 항공권 할인 쿠폰 이미지"
-          },
-          {
-            "title": "할인 대상",
-            "content": "이번 할인 쿠폰은 일본 국내 다이내믹 패키지를 포함하며, 특히 오키나와와 도쿄 지역의 액티비티 예약 시에도 적용됩니다.",
-            "alt_text": "일본 지도와 오키나와, 도쿄 지역 강조 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "국내 다이내믹 패키지 예약 시 최대 22,000엔이라는 큰 폭의 할인이 적용되어, 알찬 일본 여행 계획에 큰 도움이 될 것입니다.",
-            "alt_text": "숫자 22,000과 할인율을 나타내는 그래프 이미지"
-          },
-          {
-            "title": "이벤트 날짜",
-            "content": "할인 쿠폰은 매월 29일 진행되는 'ANA에 큥!' 행사에 맞춰 8월 29일에 배포될 예정이니, 날짜를 꼭 기억하세요!",
-            "alt_text": "달력에 8월 29일이 표시된 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "ANA 공식 웹사이트를 통해 예약 시 할인 쿠폰 적용 방법을 미리 확인하고, 인기 있는 액티비티는 서둘러 예약하는 것을 추천합니다.",
-            "alt_text": "스마트폰으로 ANA 웹사이트를 보는 사람 이미지"
-          }
-        ],
-        "caption": "✈️ ANA 항공권 구매 찬스! 8월 29일 'ANA에 큥!' 이벤트에서 국내 다이내믹 패키지 예약 시 최대 22,000엔 할인 쿠폰을 드립니다! 🤩 특히 오키나와, 도쿄 액티비티 예약 시에도 유용해요. 놓치지 말고 알찬 일본 여행 계획 세우세요! 😉\n\n#ANA항공 #일본여행할인 #ANA에큥 #일본항공권 #여행꿀팁 #8월29일 #할인정보 #오키나와여행 #도쿄여행 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA항공",
-          "#일본항공권",
-          "#ANA할인",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#8월여행",
-          "#ANA에큥",
-          "#일본쇼핑",
-          "#일본자유여행",
-          "#여행정보",
-          "#알뜰여행",
-          "#일본패키지",
-          "#항공권특가"
-        ],
-        "alt_texts": [
-          "ANA 항공권 할인 쿠폰 이미지",
-          "일본 지도와 오키나와, 도쿄 지역 강조 이미지",
-          "숫자 22,000과 할인율을 나타내는 그래프 이미지",
-          "달력에 8월 29일이 표시된 이미지",
-          "스마트폰으로 ANA 웹사이트를 보는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 7시 ~ 10시 / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 날짜 제시로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "ANA airline discount coupon, Japan travel deal, August 29 event, Okinawa Tokyo activities",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airline-discount-coupon,-Japan-travel-deal,-August-29-event,-Okinawa-Tokyo-activities",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airline%20discount%20coupon,%20Japan%20travel%20deal,%20August%2029%20event,%20Okinawa%20Tokyo%20activities/"
-      }
-    },
-    {
-      "id": "plan_f179f2dc",
-      "created_at": "2026-08-29T06:57:39.306037",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京駅前で晩夏の祭り「八重洲夜市」9月6日まで開催中。ライブも出店もおおっ！とうならせる個性派ぞろい、さっそく初日に行ってきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136700.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역 근처에서 즐기는 힙한 여름밤 축제! 놓치면 후회할 거예요!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄역 야경 명소✨",
-        "cards": [
-          {
-            "title": "야에스 밤 축제",
-            "content": "도쿄역 앞 도쿄 미드타운 야에스에서 '야에스 밤 축제 2026'이 8월 28일부터 9월 6일까지 10일간 열립니다. 늦여름 밤을 시원하게 즐길 수 있는 도시형 축제입니다.",
-            "alt_text": "도쿄 미드타운 야에스 야경"
-          },
-          {
-            "title": "개성 넘치는 즐길 거리",
-            "content": "음악, 음식, 게임 등 다양한 콘텐츠가 준비되어 있으며, 특히 개성 넘치는 셀렉션으로 눈길을 끕니다. 평범하지만 특별한 경험을 선사할 거예요.",
-            "alt_text": "축제 먹거리 부스"
-          },
-          {
-            "title": "라이브 공연과 먹거리",
-            "content": "신나는 라이브 공연과 함께 다채로운 먹거리를 맛볼 수 있습니다. 일본 현지의 분위기를 만끽하며 특별한 추억을 만들어 보세요.",
-            "alt_text": "축제 라이브 공연"
-          },
-          {
-            "title": "놓치면 아쉬워요!",
-            "content": "개최 기간은 9월 6일까지로 얼마 남지 않았습니다. 도쿄 방문 예정이라면 꼭 들러보세요. 늦여름의 정취를 느끼기에 완벽한 곳입니다.",
-            "alt_text": "축제 즐기는 사람들"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "축제는 저녁 시간에 주로 진행되니, 저녁 식사 겸 방문하시는 것을 추천합니다. 도쿄역과 가까워 접근성도 매우 좋습니다.",
-            "alt_text": "도쿄역 야경"
-          }
-        ],
-        "caption": "✨도쿄역 앞에서 펼쳐지는 힙스터 축제!✨\n놓치면 후회할 '야에스 밤 축제 2026'이 9월 6일까지 열려요!\n\n✅ 기간: 8월 28일 ~ 9월 6일\n✅ 장소: 도쿄 미드타운 야에스\n\n음악, 맛집, 게임까지! 개성 넘치는 볼거리와 즐길 거리가 가득!\n도쿄 여행 중이라면 놓치지 마세요! 💖\n\n#일본여행 #도쿄여행 #야에스밤축제 #도쿄축제 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄",
-          "#야에스밤축제",
-          "#도쿄미드타운",
-          "#도쿄이벤트",
-          "#일본축제",
-          "#여행정보",
-          "#도쿄맛집",
-          "#도쿄핫플",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#여름축제",
-          "#도쿄야경"
-        ],
-        "alt_texts": [
-          "도쿄 미드타운 야에스 야경",
-          "축제 먹거리 부스",
-          "축제 라이브 공연",
-          "축제 즐기는 사람들",
-          "도쿄역 야경"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 축제 참여 의향 증가, 정보 공유 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 기간 및 장소 명시",
-      "image": {
-        "keyword": "Tokyo Station night festival, Yaesu night market, Tokyo Midtown Yaesu event, Japanese summer festival food, live music Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-night-festival,-Yaesu-night-market,-Tokyo-Midtown-Yaesu-event,-Japanese-summer-festival-food,-live-music-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20night%20festival,%20Yaesu%20night%20market,%20Tokyo%20Midtown%20Yaesu%20event,%20Japanese%20summer%20festival%20food,%20live%20music%20Japan/"
       }
     }
   ]
