@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-03T04:13:02.428411",
+  "last_updated": "2026-09-04T00:59:03.490669",
   "plans": [
+    {
+      "id": "plan_deed6fe2",
+      "created_at": "2026-09-04T00:59:01.490470",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「東京シティパス」がリニューアル。地下鉄乗り放題＋6つの観光体験＋グルメ、総額5550円相当を1日1900円で利用できる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2138126.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 시 교통비와 관광지 입장료를 동시에 아낄 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🗼 도쿄 1900엔의 행복!",
+        "cards": [
+          {
+            "title": "도쿄 시티패스",
+            "content": "도쿄 메트로와 링크티비티에서 인바운더를 위한 '도쿄 시티패스'를 리뉴얼 출시했어요. 9월 4일 오전 11시부터 구매 가능합니다.",
+            "alt_text": "도쿄 시티패스 로고"
+          },
+          {
+            "title": "무제한 교통",
+            "content": "도쿄 메트로 지하철을 하루 종일 무제한으로 이용할 수 있어요. 도쿄 시내 이동이 훨씬 편리해져요.",
+            "alt_text": "도쿄 메트로 노선도"
+          },
+          {
+            "title": "6가지 관광 체험",
+            "content": "지하철 무제한 이용 외에도 6가지 관광지 입장 또는 체험이 포함되어 있어요. 알찬 도쿄 여행을 계획해 보세요.",
+            "alt_text": "다양한 도쿄 관광지 픽토그램"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "총 5,550엔 상당의 혜택을 단돈 1,900엔에 이용할 수 있어요. 파격적인 가격으로 도쿄를 즐겨보세요.",
+            "alt_text": "할인율을 나타내는 그래프"
+          },
+          {
+            "title": "이용 꿀팁!",
+            "content": "여행 전 홈페이지에서 포함된 관광지 목록과 이용 조건을 꼼꼼히 확인하세요. 본인이 가고 싶은 곳이 포함되어 있는지 확인하는 것이 중요해요.",
+            "alt_text": "여행 계획을 세우는 사람의 뒷모습"
+          }
+        ],
+        "caption": "✨ 도쿄 여행 필수템 등장! ✨\n\n도쿄 메트로 지하철 무제한 이용에 6가지 관광 체험까지! 총 5,550엔 상당의 혜택을 단돈 1,900엔에 누릴 수 있는 '도쿄 시티패스'가 리뉴얼 출시되었어요. 🤩\n\n도쿄 시내를 효율적으로 돌아다니고 싶다면, 놓치지 마세요! 💯\n\n#일본여행 #도쿄여행 #도쿄시티패스 #도쿄지하철 #도쿄관광 #해외여행 #여행꿀팁 #가성비여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄",
+          "#도쿄시티패스",
+          "#도쿄메트로",
+          "#일본교통",
+          "#일본관광",
+          "#여행정보",
+          "#해외여행",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#도쿄볼거리",
+          "#도쿄필수템",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "도쿄 시티패스 로고",
+          "도쿄 메트로 노선도",
+          "다양한 도쿄 관광지 픽토그램",
+          "할인율을 나타내는 그래프",
+          "여행 계획을 세우는 사람의 뒷모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시, 주말 오후 3-5시 / 기대 반응: 높은 관심과 구매 전환 / 이 콘텐츠의 강점: 명확한 가격 혜택과 실질적인 여행 도움 정보 제공",
+      "image": {
+        "keyword": "Tokyo City Pass, Tokyo Metro, tourist attractions, discount ticket, travel deal",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-City-Pass,-Tokyo-Metro,-tourist-attractions,-discount-ticket,-travel-deal",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20City%20Pass,%20Tokyo%20Metro,%20tourist%20attractions,%20discount%20ticket,%20travel%20deal/"
+      }
+    },
+    {
+      "id": "plan_e6b87b4d",
+      "created_at": "2026-09-04T00:58:55.695751",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーストア、くまのプーさん×ほっこりお芋スナックが登場。ポーチ付きかりんとうやチップスほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2138127.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 스토어에서만 만날 수 있는 푸 푸근함! 🍂"
+      },
+      "content": {
+        "thumbnail_title": "🐻🍯 푸 푸근한 신상 간식!",
+        "cards": [
+          {
+            "title": "푸 신상 출시!",
+            "content": "디즈니 스토어에서 귀여운 곰돌이 푸 디자인의 고구마 스낵이 출시되었어요. 공식 온라인 스토어 및 일부 오프라인 매장에서 순차적으로 판매 중입니다.",
+            "alt_text": "곰돌이 푸가 그려진 고구마 스낵 패키지 이미지"
+          },
+          {
+            "title": "다양한 구성",
+            "content": "이번 신상 라인업에는 파우치가 포함된 かりんとう(카린토)와 칩스 등 다양한 고구마 간식이 포함되어 있어요. 선물용으로도 좋답니다.",
+            "alt_text": "파우치와 함께 구성된 고구마 스낵 이미지"
+          },
+          {
+            "title": "구매처 확인!",
+            "content": "디즈니 스토어 공식 온라인 스토어, 디즈니 플래그십 도쿄, 그리고 전국 디즈니 스토어 매장에서 만나볼 수 있습니다.",
+            "alt_text": "디즈니 스토어 매장 외관 이미지"
+          },
+          {
+            "title": "여행 중 디즈니!",
+            "content": "일본 여행 중 디즈니 관련 굿즈를 찾는다면 놓치지 마세요! 특히 도쿄 여행 시 방문하기 좋습니다.",
+            "alt_text": "일본 디즈니 스토어 내부 모습 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "한정판 상품일 수 있으니, 방문 전 재고 여부를 확인하는 것이 좋아요. 또한, 온라인 스토어에서는 한국으로 직배송이 가능한지 확인해 보세요.",
+            "alt_text": "구매를 망설이는 사람에게 팁을 주는 일러스트"
+          }
+        ],
+        "caption": "일본 디즈니 스토어에서 곰돌이 푸 신상 간식이 출시되었어요! 🐻🍯\n\n파우치 포함 카린토, 칩스 등 귀여운 고구마 스낵을 만나보세요.\n\n여행 중 디즈니 굿즈 쇼핑 리스트에 추가는 필수! ✨\n\n#일본여행 #디즈니스토어 #곰돌이푸 #신상간식 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니스토어",
+          "#곰돌이푸",
+          "#일본쇼핑",
+          "#도쿄여행",
+          "#여행꿀팁",
+          "#한정판",
+          "#디즈니굿즈",
+          "#일본간식",
+          "#푸",
+          "#고구마스낵",
+          "#여행스타그램",
+          "#쇼핑스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "곰돌이 푸가 그려진 고구마 스낵 패키지 이미지",
+          "파우치와 함께 구성된 고구마 스낵 이미지",
+          "디즈니 스토어 매장 외관 이미지",
+          "일본 디즈니 스토어 내부 모습 이미지",
+          "구매를 망설이는 사람에게 팁을 주는 일러스트"
+        ]
+      },
+      "marketer_analysis": "타겟: 디즈니 팬, 귀여운 굿즈를 좋아하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (퇴근 후 및 저녁 시간) / 기대 반응: '귀엽다', '사고 싶다'는 댓글, 구매 문의 / 이 콘텐츠의 강점: 한국인이 좋아하는 캐릭터와 일본 현지 구매 가능 정보를 결합하여 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "disney store, winnie the pooh, sweet potato snack, japan travel, limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/disney-store,-winnie-the-pooh,-sweet-potato-snack,-japan-travel,-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/disney%20store,%20winnie%20the%20pooh,%20sweet%20potato%20snack,%20japan%20travel,%20limited%20edition/"
+      }
+    },
     {
       "id": "plan_f346df0a",
       "created_at": "2026-09-03T04:13:00.428234",
@@ -923,160 +1077,6 @@
         "keyword": "JAL airplane, 2027 Green Expo, Yokohama, Japan travel, mileage campaign",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-2027-Green-Expo,-Yokohama,-Japan-travel,-mileage-campaign",
         "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%202027%20Green%20Expo,%20Yokohama,%20Japan%20travel,%20mileage%20campaign/"
-      }
-    },
-    {
-      "id": "plan_78d42e77",
-      "created_at": "2026-08-31T05:21:19.682651",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ワールドパーティー、日常的に持ち歩ける防災アイテムがお得に。防災バッグやポーチ、避難時の衛生用品セットなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136912.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 예상치 못한 상황 대비! 9월 한정 할인 정보 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵일본 여행 필수템 꿀팁! 🚨",
-        "cards": [
-          {
-            "title": "9월 한정 캠페인",
-            "content": "일본 아웃도어 브랜드 KiU에서 9월 1일부터 9월 14일까지 'KiU 공식 온라인 스토어'에서 진행하는 특별 캠페인을 소개합니다.",
-            "alt_text": "KiU 공식 온라인 스토어 로고"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "2개 구매 시 10% 할인, 3개 구매 시 15% 할인을 받을 수 있습니다. 이 기회를 놓치지 마세요!",
-            "alt_text": "할인율 표시 이미지"
-          },
-          {
-            "title": "대상 품목",
-            "content": "일상에서도 휴대하기 좋은 다양한 '방재 아이템'이 할인 대상입니다. 예를 들어, 방재 가방, 휴대용 파우치, 위생용품 세트 등이 있습니다.",
-            "alt_text": "다양한 방재 아이템 구성 이미지"
-          },
-          {
-            "title": "이용 방법",
-            "content": "일본 여행 중 예상치 못한 상황에 대비하고 싶다면, KiU 온라인 스토어를 방문하여 필요한 아이템을 미리 준비하는 것을 추천합니다.",
-            "alt_text": "온라인 쇼핑 장바구니 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "캠페인 기간은 9월 1일 12시부터 9월 14일 23시 59분까지입니다. 여행 일정을 고려하여 미리 확인하고 구매하세요!",
-            "alt_text": "캘린더에 표시된 날짜 이미지"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 중 혹시 모를 상황에 대비하고 싶다면? \n9월 한정, KiU 온라인 스토어에서 방재 아이템을 10%~15% 할인된 가격으로 만나보세요! 🚨\n여행 준비물에 꼭 챙겨서 안심하고 즐거운 일본 여행 되세요! ✨\n\n#일본여행 #플라잉재팬 #일본안전 #일본준비물 #방재용품 #KiU #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본안전",
-          "#일본준비물",
-          "#방재용품",
-          "#KiU",
-          "#일본쇼핑",
-          "#여행꿀팁",
-          "#일본생활",
-          "#일본생활정보",
-          "#여행준비",
-          "#일본여행준비",
-          "#일본아웃도어",
-          "#9월여행",
-          "#할인정보"
-        ],
-        "alt_texts": [
-          "KiU 공식 온라인 스토어 로고",
-          "할인율 표시 이미지",
-          "다양한 방재 아이템 구성 이미지",
-          "온라인 쇼핑 장바구니 이미지",
-          "캘린더에 표시된 날짜 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 준비가 활발한 저녁 시간 (19시~21시) 또는 주말 오전 / 기대 반응: 일본 여행 중 안전 관련 정보에 대한 관심 증가, 할인 정보에 대한 즉각적인 반응 / 이 콘텐츠의 강점: 실질적인 안전 대비 정보와 놓치기 아까운 기간 한정 할인 정보를 결합하여 여행객의 니즈를 충족시킴",
-      "image": {
-        "keyword": "japan travel safety preparedness kiu outdoor items discount campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-safety-preparedness-kiu-outdoor-items-discount-campaign",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20safety%20preparedness%20kiu%20outdoor%20items%20discount%20campaign/"
-      }
-    },
-    {
-      "id": "plan_33627aa1",
-      "created_at": "2026-08-31T05:21:15.063737",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡・天神1丁目の新ビル名称は「天神大樹」に決定、2027年5月末竣工予定。21階建に商業・オフィス・ホテル",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2136941.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후쿠오카 텐진에 2027년 완공 예정인 대규모 복합 시설 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨후쿠오카 텐진 신상 빌딩✨",
-        "cards": [
-          {
-            "title": "건물 명칭",
-            "content": "후쿠오카 텐진 1정목에 건설 중인 신축 빌딩의 정식 명칭이 '텐진 타이쥬(天神大樹)'로 결정되었습니다.",
-            "alt_text": "텐진 타이쥬 빌딩 조감도"
-          },
-          {
-            "title": "완공 예정일",
-            "content": "2027년 5월 말 완공을 목표로 하고 있으며, 총 21층 규모로 지어질 예정입니다.",
-            "alt_text": "공사 중인 텐진 타이쥬 빌딩 현장"
-          },
-          {
-            "title": "주요 시설",
-            "content": "상업 시설, 오피스, 그리고 호텔까지 포함된 복합 문화 공간으로 조성됩니다.",
-            "alt_text": "텐진 타이쥬 빌딩 내부 예상도"
-          },
-          {
-            "title": "위치",
-            "content": "후쿠오카의 핵심 상업 지구인 텐진 1정목에 위치하여 접근성이 매우 좋습니다.",
-            "alt_text": "후쿠오카 텐진 거리 모습"
-          },
-          {
-            "title": "방문 팁",
-            "content": "완공 후에는 쇼핑, 식사, 숙박까지 한 곳에서 해결할 수 있는 핫플레이스가 될 것으로 예상됩니다. 여행 계획 시 참고하세요!",
-            "alt_text": "쇼핑백을 들고 있는 여행객"
-          }
-        ],
-        "caption": "✈️ 후쿠오카 여행 예정이라면 주목! ✈️\n\n2027년 5월 말, 후쿠오카 텐진에 새로운 랜드마크가 탄생합니다! ✨\n\n'텐진 타이쥬(天神大樹)'라는 이름으로 21층 규모의 복합 시설이 완공될 예정인데요. 쇼핑, 다이닝, 숙박까지 한 번에 해결 가능한 이곳, 벌써부터 기대되시죠? 😉\n\n후쿠오카 여행 계획에 꼭 넣어두세요! 📍\n\n#일본여행 #플라잉재팬 #후쿠오카여행 #텐진 #텐진타이쥬 #일본신축빌딩 #2027년완공 #후쿠오카핫플",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카여행",
-          "#텐진",
-          "#텐진타이쥬",
-          "#일본신축빌딩",
-          "#2027년완공",
-          "#후쿠오카핫플",
-          "#일본여행꿀팁",
-          "#여행정보",
-          "#후쿠오카",
-          "#일본건축",
-          "#미래여행",
-          "#신상정보",
-          "#놓치지마세요"
-        ],
-        "alt_texts": [
-          "텐진 타이쥬 빌딩 조감도",
-          "공사 중인 텐진 타이쥬 빌딩 현장",
-          "텐진 타이쥬 빌딩 내부 예상도",
-          "후쿠오카 텐진 거리 모습",
-          "쇼핑백을 들고 있는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카 여행을 계획 중이거나 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보의 유용성으로 인한 저장 및 공유 증가, 댓글 통한 질문 및 기대감 표현 / 이 콘텐츠의 강점: 아직 정보가 많지 않은 신축 빌딩 정보를 선점하여 제공, 구체적인 완공 시기와 시설 정보를 담아 실질적인 도움 제공",
-      "image": {
-        "keyword": "Fukuoka Tenjin new building construction hotel shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Tenjin-new-building-construction-hotel-shopping",
-        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Tenjin%20new%20building%20construction%20hotel%20shopping/"
       }
     }
   ]
