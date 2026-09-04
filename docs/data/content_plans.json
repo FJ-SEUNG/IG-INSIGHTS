@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-04T00:59:03.490669",
+  "last_updated": "2026-09-04T04:19:52.619948",
   "plans": [
+    {
+      "id": "plan_3b524a32",
+      "created_at": "2026-09-04T04:19:50.619747",
+      "category": "tips",
+      "priority": "low",
+      "status": "new",
+      "source": {
+        "title": "ウェスティン北海道富良野リゾート、2029年夏開業。全195室、フィットネスやスパ、大浴場も備える",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2137985.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "하",
+        "appeal": "2029년 여름, 후라노에 새로운 럭셔리 리조트 오픈 예정! 미리 알아두면 좋겠죠?"
+      },
+      "content": {
+        "thumbnail_title": "✨2029년 후라노 새 리조트!✨",
+        "cards": [
+          {
+            "title": "2029년 여름 개장!",
+            "content": "일본 홋카이도 후라노에 '웨스티ن北海道富良野リゾート'가 2029년 여름 문을 엽니다. 총 195개의 객실을 갖춘 대규모 리조트입니다.",
+            "alt_text": "후라노 지역을 상징하는 라벤더 밭 풍경"
+          },
+          {
+            "title": "어떤 시설?",
+            "content": "피트니스 센터, 스파, 대욕장 등 다양한 부대시설을 갖춰 편안하고 럭셔리한 휴식을 제공할 예정입니다.",
+            "alt_text": "리조트 내 스파 시설 이미지"
+          },
+          {
+            "title": "후라노의 매력",
+            "content": "아름다운 자연 경관으로 유명한 후라노는 여름에는 라벤더, 겨울에는 스키로 많은 사랑을 받는 곳입니다.",
+            "alt_text": "여름 후라노의 라벤더 밭 전경"
+          },
+          {
+            "title": "미리 알아두세요",
+            "content": "아직 오픈까지 시간이 많이 남았지만, 홋카이도 여행 계획 중이라면 눈여겨볼 만한 소식입니다.",
+            "alt_text": "후라노 지역의 겨울 눈 덮인 풍경"
+          },
+          {
+            "title": "플라잉재팬 꿀팁",
+            "content": "개장 시기에 맞춰 특별 프로모션이 나올 수 있으니, 관심 있다면 수시로 업데이트되는 정보를 확인해보세요!",
+            "alt_text": "캐리어를 끌고 공항으로 향하는 여행객 뒷모습"
+          }
+        ],
+        "caption": "홋카이도 후라노에 2029년 여름, 새로운 럭셔리 리조트 '웨스티ن北海道富良野リゾート'가 오픈 예정입니다! 🌸 총 195개의 객실과 함께 피트니스, 스파, 대욕장까지 완비될 예정이라고 하네요. 🏔️ 아직 먼 이야기 같지만, 후라노 여행을 계획 중이시라면 눈여겨봐도 좋겠죠? ✈️ 오픈 시기에 맞춰 특별한 프로모션이 나올지도 모르니, 꾸준히 소식 업데이트를 기다려보세요! #일본여행 #홋카이도여행 #후라노 #새로운숙소 #2029년개장 #플라잉재팬 #미리알아두기 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도여행",
+          "#후라노",
+          "#웨스틴리조트",
+          "#일본숙소",
+          "#여행정보",
+          "#2029년",
+          "#일본새소식",
+          "#개장예정",
+          "#럭셔리여행",
+          "#겨울여행",
+          "#여름여행",
+          "#미리계획",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "후라노 지역을 상징하는 라벤더 밭 풍경",
+          "리조트 내 스파 시설 이미지",
+          "여름 후라노의 라벤더 밭 전경",
+          "후라노 지역의 겨울 눈 덮인 풍경",
+          "캐리어를 끌고 공항으로 향하는 여행객 뒷모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 2029년 이후 홋카이도 후라노 지역 여행 계획이 있는 잠재 여행객 / 최적 게시 시간: 여행 정보 탐색이 활발한 저녁 시간대 (20시~22시) / 기대 반응: 정보 공유 및 저장, 향후 여행 계획에 대한 기대감 / 이 콘텐츠의 강점: 미래 시점의 정보이지만, 구체적인 개장 시기와 시설 정보를 제공하여 계획 단계부터 참고할 수 있도록 함.",
+      "image": {
+        "keyword": "Westin Hokkaido Furano Resort, Furano landscape, Hokkaido travel, new resort opening, luxury hotel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Westin-Hokkaido-Furano-Resort,-Furano-landscape,-Hokkaido-travel,-new-resort-opening,-luxury-hotel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Westin%20Hokkaido%20Furano%20Resort,%20Furano%20landscape,%20Hokkaido%20travel,%20new%20resort%20opening,%20luxury%20hotel%20Japan/"
+      }
+    },
+    {
+      "id": "plan_e63719ca",
+      "created_at": "2026-09-04T04:19:44.441547",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「楽天トラベル スーパーSALE」今夜スタート。秋冬行きたいホテル・温泉宿が最大35％オフ、半額プランも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2138009.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 가을/겨울 여행 숙소 최대 35% 할인 찬스! 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 숙소 꿀딜찬스!✈️",
+        "cards": [
+          {
+            "title": "슈퍼세일 시작!",
+            "content": "9월 4일 20시부터 10월 1일 9시 59분까지! 楽天トラベル에서 가을/겨울 일본 여행 숙소를 최대 35% 할인된 가격으로 예약할 수 있어요.",
+            "alt_text": "楽天トラベル 슈퍼세일 시작 안내 배너"
+          },
+          {
+            "title": "반값 플랜도!",
+            "content": "이번 세일 기간 동안에는 특정 호텔 및 온천 숙소의 경우 반값 플랜까지 만나볼 수 있습니다. 인기 숙소는 조기 마감될 수 있으니 서두르세요!",
+            "alt_text": "반값 할인 숙소 이미지"
+          },
+          {
+            "title": "추천 여행지",
+            "content": "가을 단풍 명소나 겨울 온천 여행을 계획 중이시라면 이번 기회를 놓치지 마세요. 료칸부터 비즈니스 호텔까지 다양한 숙소를 저렴하게 예약할 수 있습니다.",
+            "alt_text": "일본 가을 단풍과 겨울 온천 풍경"
+          },
+          {
+            "title": "예약 팁",
+            "content": "여행 날짜와 원하는 지역을 미리 정해두면 더욱 빠르게 좋은 숙소를 찾을 수 있습니다. 楽天トラベル 앱을 통해 실시간으로 할인 정보를 확인해 보세요.",
+            "alt_text": "일본 지도와 숙소 핀 이미지"
+          },
+          {
+            "title": "할인 활용법",
+            "content": "슈퍼세일 기간 동안 제공되는 쿠폰과 포인트 적립 혜택을 함께 활용하면 더욱 알뜰하게 숙소를 예약할 수 있습니다. 꼼꼼히 확인하고 최대한 많은 혜택을 누리세요!",
+            "alt_text": "쿠폰과 포인트 적립 이미지"
+          }
+        ],
+        "caption": "✈️일본 여행 준비 중이라면 주목!✈️\n\n지금 바로 楽天トラベル에서 '슈퍼세일'이 시작되었습니다! 🤩\n\n🍂가을 단풍, ♨️겨울 온천 여행 숙소를 최대 35% 할인받고, 심지어 반값 플랜까지! 💯\n\n9월 4일 20시 ~ 10월 1일 9시 59분까지 진행되니, 서둘러서 알찬 일본 여행 계획 세워보세요! 🇯🇵\n\n#일본여행 #楽天トラベル #일본숙소 #일본할인 #가을여행 #겨울여행 #료칸 #온천여행 #일본여행꿀팁 #여행스타그램 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#楽天トラベル",
+          "#일본여행할인",
+          "#가을여행",
+          "#겨울여행",
+          "#일본숙소추천",
+          "#료칸",
+          "#온천여행",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본가성비여행",
+          "#일본쇼핑"
+        ],
+        "alt_texts": [
+          "楽天トラベル 슈퍼세일 시작 안내 배너",
+          "반값 할인 숙소 이미지",
+          "일본 가을 단풍과 겨울 온천 풍경",
+          "일본 지도와 숙소 핀 이미지",
+          "쿠폰과 포인트 적립 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가을/겨울 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 숙소 예약 정보에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 예약 팁 등 실질적인 정보 제공",
+      "image": {
+        "keyword": "Japan autumn winter hotel discount Rakuten Travel sale",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-autumn-winter-hotel-discount-Rakuten-Travel-sale",
+        "pexels_url": "https://www.pexels.com/search/Japan%20autumn%20winter%20hotel%20discount%20Rakuten%20Travel%20sale/"
+      }
+    },
     {
       "id": "plan_deed6fe2",
       "created_at": "2026-09-04T00:59:01.490470",
@@ -923,160 +1077,6 @@
         "keyword": "Van Gogh Starry Night Orsay Museum Tokyo",
         "unsplash_url": "https://unsplash.com/s/photos/Van-Gogh-Starry-Night-Orsay-Museum-Tokyo",
         "pexels_url": "https://www.pexels.com/search/Van%20Gogh%20Starry%20Night%20Orsay%20Museum%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_9c638601",
-      "created_at": "2026-09-01T01:49:59.780089",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "箱根登山電車・箱根登山ケーブルカー・箱根ロープウェイ、シルバーウィークに座席予約・優先改札を実施",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137003.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 황금연휴, 하코네 인기 명소 좌석/탑승 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✨하코네 황금연휴 꿀팁✨",
-        "cards": [
-          {
-            "title": "좌석 예약!",
-            "content": "9월 20일~21일, 하코네 등산 전차 'らくらく着席予約券' 발매!",
-            "alt_text": "하코네 등산 전차 좌석 예약권 이미지"
-          },
-          {
-            "title": "우선 탑승!",
-            "content": "하코네 등산 케이블카 & 로프웨이, 사전 예약 시 우선 개찰구 이용 가능!",
-            "alt_text": "하코네 케이블카 및 로프웨이 우선 탑승 안내 이미지"
-          },
-          {
-            "title": "대상 기간",
-            "content": "2024년 9월 20일 (금) ~ 9월 21일 (토) 2일간 운영됩니다.",
-            "alt_text": "날짜 정보가 강조된 이미지"
-          },
-          {
-            "title": "핵심은 사전 예약!",
-            "content": "인기 많은 하코네 명소를 여유롭게 즐기려면 사전 예약은 필수!",
-            "alt_text": "하코네 명소 풍경 이미지"
-          },
-          {
-            "title": "이런 분께 추천",
-            "content": "황금연휴 기간 하코네 여행 계획 중이라면, 꼭 체크하세요! 혼잡을 피해 편안한 여행을 즐길 수 있습니다.",
-            "alt_text": "여행 계획 중인 사람 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 황금연휴, 하코네 여행 계획 중이신가요? 🇯🇵\n\n9월 20일~21일, 하코네 등산 전차, 케이블카, 로프웨이 이용 시 좌석 예약 및 우선 탑승 혜택이 제공됩니다!\n\n혼잡한 연휴 기간, 기다림 없이 편안하게 하코네의 아름다운 풍경을 만끽하세요! ✨\n\n#일본여행 #하코네 #황금연휴 #일본교통 #여행팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하코네",
-          "#일본교통",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#일본가볼만한곳",
-          "#일본인기명소",
-          "#일본황금연휴",
-          "#하코네여행",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본여행팁",
-          "#일본",
-          "#여행"
-        ],
-        "alt_texts": [
-          "하코네 등산 전차 좌석 예약권 이미지",
-          "하코네 케이블카 및 로프웨이 우선 탑승 안내 이미지",
-          "날짜 정보가 강조된 이미지",
-          "하코네 명소 풍경 이미지",
-          "여행 계획 중인 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 추석 연휴 또는 9월 말 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 준비 시작 시점인 저녁 8시 ~ 10시 / 기대 반응: 예약 방법, 주의사항 등에 대한 질문 및 저장 / 이 콘텐츠의 강점: 시기적절한 교통 정보 제공으로 여행 편의성 증대",
-      "image": {
-        "keyword": "Hakone Ropeway, Hakone Tozan Railway, Reserved Seat, Priority Boarding, Japan Golden Week Holiday",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakone-Ropeway,-Hakone-Tozan-Railway,-Reserved-Seat,-Priority-Boarding,-Japan-Golden-Week-Holiday",
-        "pexels_url": "https://www.pexels.com/search/Hakone%20Ropeway,%20Hakone%20Tozan%20Railway,%20Reserved%20Seat,%20Priority%20Boarding,%20Japan%20Golden%20Week%20Holiday/"
-      }
-    },
-    {
-      "id": "plan_982daadd",
-      "created_at": "2026-09-01T01:49:54.612445",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、園芸博のゴールドパートナーに。特別塗装機や入場券のマイル交換キャンペーン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137033.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 특별 도색기 & 마일리지 찬스! 2027년 국제원예박람회 미리 준비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ JAL 특별기 & 마일리지 찬스! 園芸博",
-        "cards": [
-          {
-            "title": "JAL, 園芸博 파트너",
-            "content": "일본항공(JAL)이 2027년 3월 19일 개막하는 '2027 국제원예박람회'의 골드 파트너로 선정되었습니다. 박람회 성공을 위한 프로젝트에 적극 협찬합니다.",
-            "alt_text": "일본항공(JAL) 로고와 2027 국제원예박람회 로고가 함께 있는 이미지"
-          },
-          {
-            "title": "특별 도색기 취항",
-            "content": "JAL은 이번 박람회를 기념하여 특별 도색기를 운항할 예정입니다. 박람회의 주제를 담은 아름다운 디자인의 비행기를 기대해주세요!",
-            "alt_text": "특별 도색된 일본항공(JAL) 비행기 이미지"
-          },
-          {
-            "title": "마일리지로 입장권 교환!",
-            "content": "JAL 마일리지 회원이라면, 모아둔 마일리지로 2027 국제원예박람회 입장권을 교환할 수 있는 캠페인이 진행될 예정입니다. 마일리지 사용 계획을 세워보세요!",
-            "alt_text": "일본항공(JAL) 마일리지 카드와 입장권 아이콘 이미지"
-          },
-          {
-            "title": "2027 국제원예박람회",
-            "content": "개최지는 일본 가나가와현 요코하마시이며, 2027년 3월 19일부터 약 6개월간 진행될 예정입니다. 최신 원예 기술과 아름다운 정원을 만날 수 있는 기회입니다.",
-            "alt_text": "일본 요코하마의 아름다운 정원 또는 박람회 예상 조감도 이미지"
-          },
-          {
-            "title": "미리 준비하세요!",
-            "content": "JAL 마일리지 적립 혜택과 특별 도색기 운항 소식, 놓치지 마세요! 2027년 일본 여행 계획에 특별한 경험을 더할 수 있는 기회입니다. 자세한 캠페인 내용은 추후 JAL 공식 발표를 확인하세요.",
-            "alt_text": "비행기 창밖으로 보이는 일본 풍경 이미지"
-          }
-        ],
-        "caption": "✈️ JAL이 2027년 요코하마에서 열리는 국제원예박람회의 골드 파트너가 됩니다! ✨\n\n🌟 특별 도색기 취항 예정!\n🌟 JAL 마일리지로 입장권 교환 찬스!\n\n2027년 3월 19일부터 시작되는 박람회를 JAL과 함께 미리 준비해보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #JAL #국제원예박람회 #요코하마 #일본항공 #마일리지 #여행정보 #2027년",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#국제원예박람회",
-          "#2027국제원예박람회",
-          "#요코하마",
-          "#일본이벤트",
-          "#일본축제",
-          "#여행꿀팁",
-          "#마일리지",
-          "#항공권",
-          "#일본여행준비",
-          "#일본정보",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "일본항공(JAL) 로고와 2027 국제원예박람회 로고가 함께 있는 이미지",
-          "특별 도색된 일본항공(JAL) 비행기 이미지",
-          "일본항공(JAL) 마일리지 카드와 입장권 아이콘 이미지",
-          "일본 요코하마의 아름다운 정원 또는 박람회 예상 조감도 이미지",
-          "비행기 창밖으로 보이는 일본 풍경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 JAL 이용객 및 박람회에 관심 있는 여행객 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 정보 공유 및 기대감 상승, JAL 이용률 증대 / 이 콘텐츠의 강점: 실제 여행에 적용 가능한 구체적인 혜택(마일리지, 특별기)과 미래의 이벤트 정보를 결합하여 흥미 유발",
-      "image": {
-        "keyword": "JAL airplane, 2027 Green Expo, Yokohama, Japan travel, mileage campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-2027-Green-Expo,-Yokohama,-Japan-travel,-mileage-campaign",
-        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%202027%20Green%20Expo,%20Yokohama,%20Japan%20travel,%20mileage%20campaign/"
       }
     }
   ]
