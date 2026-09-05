@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-05T00:57:46.765989",
+  "last_updated": "2026-09-05T04:15:35.841239",
   "plans": [
+    {
+      "id": "plan_bbf5c57b",
+      "created_at": "2026-09-05T04:15:33.841045",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、大雨で首都圏在来線で遅れや運休の可能性　9月6日夜から7日にかけて",
+        "url": "https://www.traicy.com/posts/20260904381069/",
+        "date": "Fri, 04 Sep 2026 13:08:02 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 수도권 대중교통 이용 시 꼭 확인해야 할 필수 정보!"
+      },
+      "content": {
+        "thumbnail_title": "⚠️도쿄 대중교통 멈춤 경고! 🚨",
+        "cards": [
+          {
+            "title": "9/6 밤~7",
+            "content": "JR동일본, 9월 6일 밤부터 7일까지 수도권 지역 열차 운행에 차질 예상됩니다. 폭우 예보로 인한 지연, 행선지 변경, 운휴 가능성이 있습니다.",
+            "alt_text": "JR동일본 열차 운행 정보 안내"
+          },
+          {
+            "title": "운행 구간",
+            "content": "영향을 받을 수 있는 노선은 야마노테선, 주오선 쾌속, 도카이도선, 게이힌토호쿠선 등입니다. 해당 구간 이용 예정이라면 사전 확인 필수입니다.",
+            "alt_text": "JR동일본 수도권 노선도"
+          },
+          {
+            "title": "대체 교통",
+            "content": "열차 운휴 또는 지연 시, 버스나 택시 등 대체 교통편을 미리 알아보시는 것이 좋습니다. 특히 출퇴근 시간대는 혼잡이 예상됩니다.",
+            "alt_text": "도쿄 시내 버스 및 택시"
+          },
+          {
+            "title": "실시간 정보",
+            "content": "JR동일본 공식 홈페이지나 앱을 통해 실시간 운행 정보를 확인하실 수 있습니다. 출발 전 반드시 최신 정보를 확인하세요.",
+            "alt_text": "JR동일본 공식 앱 화면 캡처"
+          },
+          {
+            "title": "여행 팁",
+            "content": "갑작스러운 교통편 변경에 대비해 여행 일정을 여유롭게 계획하고, 비상 연락망을 미리 준비해두는 것이 좋습니다. 짐은 최소화하세요!",
+            "alt_text": "여행 가방을 든 여행자"
+          }
+        ],
+        "caption": "✈️ 도쿄 여행 중이라면 주목! ✈️\n\n9월 6일 밤부터 7일까지 JR동일본 수도권 노선에 폭우로 인한 운행 지연, 변경, 운휴가 발생할 수 있어요. ☔️\n\n야마노테선, 주오선 쾌속 등 주요 노선 이용 예정이라면 꼭! 실시간 운행 정보 확인하고, 여유로운 일정 계획하세요! 🗓️\n\n#일본여행 #도쿄여행 #JR동일본 #교통정보 #폭우대비 #여행필수",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#JR동일본",
+          "#일본교통",
+          "#열차운휴",
+          "#열차지연",
+          "#여행정보",
+          "#일본날씨",
+          "#9월일본여행",
+          "#안전여행",
+          "#도쿄",
+          "#일본대중교통",
+          "#여행꿀팁",
+          "#일본"
+        ],
+        "alt_texts": [
+          "JR동일본 열차 운행 정보 안내",
+          "JR동일본 수도권 노선도",
+          "도쿄 시내 버스 및 택시",
+          "JR동일본 공식 앱 화면 캡처",
+          "여행 가방을 든 여행자"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄를 방문하는 한국인 여행자 / 최적 게시 시간: 여행 전날 오후 또는 당일 오전 / 기대 반응: 정보의 유용성에 대한 긍정적 피드백, 저장 및 공유 증가 / 이 콘텐츠의 강점: 시기적절한 재해/안전 정보로 여행 중 발생할 수 있는 불편을 최소화하는 실질적인 도움 제공",
+      "image": {
+        "keyword": "Tokyo public transport, heavy rain warning, JR East train, travel disruption, weather alert",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-public-transport,-heavy-rain-warning,-JR-East-train,-travel-disruption,-weather-alert",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20public%20transport,%20heavy%20rain%20warning,%20JR%20East%20train,%20travel%20disruption,%20weather%20alert/"
+      }
+    },
+    {
+      "id": "plan_22b6cac2",
+      "created_at": "2026-09-05T04:15:28.614025",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ダブルツリーbyヒルトン大阪城、「栗とマスカットのキャッスルアフタヌーンティー」を提供　9月1日から",
+        "url": "https://www.traicy.com/posts/20260905380060/",
+        "date": "Fri, 04 Sep 2026 23:15:15 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카에서만 즐길 수 있는 특별한 가을 애프터눈 티!"
+      },
+      "content": {
+        "thumbnail_title": "🍁오사카 성 뷰 애프터눈 티☕️",
+        "cards": [
+          {
+            "title": "기간 한정!",
+            "content": "더블트리 by 힐튼 오사카 성에서 '밤과 머스캣 캐슬 애프터눈 티'를 9월 1일부터 11월 15일까지 제공합니다.",
+            "alt_text": "가을 분위기의 애프터눈 티 세트 이미지"
+          },
+          {
+            "title": "특별한 메뉴",
+            "content": "일본산 밤과 싱그러운 머스캣을 활용한 달콤한 디저트들이 3단 스탠드에 예쁘게 담겨 나옵니다.",
+            "alt_text": "밤과 머스캣으로 만든 디저트 클로즈업 이미지"
+          },
+          {
+            "title": "오사카 성을 담다",
+            "content": "특히 최상단에는 오사카 성을 형상화한 밤 무스와 초록색 사브레로 특별함을 더했습니다.",
+            "alt_text": "오사카 성 모양의 디저트 이미지"
+          },
+          {
+            "title": "가을의 맛",
+            "content": "밤의 부드러움과 머스캣의 상큼함이 어우러져 가을의 정취를 물씬 느낄 수 있는 메뉴입니다.",
+            "alt_text": "다양한 종류의 디저트와 음료가 담긴 테이블 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "여행 중 특별한 추억을 만들고 싶다면, 미리 예약하는 것을 추천합니다. 오사카 성 전망과 함께 즐겨보세요!",
+            "alt_text": "창밖으로 보이는 오사카 성과 애프터눈 티가 놓인 테이블 이미지"
+          }
+        ],
+        "caption": "🍁오사카에서만 즐길 수 있는 가을의 맛!🍁\n더블트리 by 힐튼 오사카 성에서 9월 1일부터 11월 15일까지 '밤과 머스캣 캐슬 애프터눈 티'를 선보입니다. 🌰🍇\n오사카 성을 형상화한 시그니처 디저트와 함께 달콤하고 특별한 시간을 보내세요!\n\n#오사카여행 #호캉스 #애프터눈티",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카",
+          "#오사카여행",
+          "#오사카호텔",
+          "#애프터눈티",
+          "#기간한정",
+          "#가을여행",
+          "#디저트",
+          "#힐튼호텔",
+          "#더블트리힐튼",
+          "#오사카성",
+          "#일본디저트",
+          "#여행스타그램",
+          "#먹스타그램"
+        ],
+        "alt_texts": [
+          "가을 분위기의 애프터눈 티 세트 이미지",
+          "밤과 머스캣으로 만든 디저트 클로즈업 이미지",
+          "오사카 성 모양의 디저트 이미지",
+          "다양한 종류의 디저트와 음료가 담긴 테이블 이미지",
+          "창밖으로 보이는 오사카 성과 애프터눈 티가 놓인 테이블 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카를 방문하는 20-40대 여성 여행객 / 최적 게시 시간: 오후 3-5시 (애프터눈 티 타임과 연관) / 기대 반응: 예약 문의 증가, #오사카여행 관련 바이럴 / 이 콘텐츠의 강점: 기간 한정, 특별한 메뉴, 아름다운 비주얼, 오사카 성과의 연계성",
+      "image": {
+        "keyword": "Osaka, Afternoon Tea, Hilton, Autumn, Dessert, Japan, Limited Time, Castle View",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka,-Afternoon-Tea,-Hilton,-Autumn,-Dessert,-Japan,-Limited-Time,-Castle-View",
+        "pexels_url": "https://www.pexels.com/search/Osaka,%20Afternoon%20Tea,%20Hilton,%20Autumn,%20Dessert,%20Japan,%20Limited%20Time,%20Castle%20View/"
+      }
+    },
     {
       "id": "plan_49c6dd68",
       "created_at": "2026-09-05T00:57:44.765826",
@@ -923,160 +1077,6 @@
         "keyword": "japan onsen resort bus",
         "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-resort-bus",
         "pexels_url": "https://www.pexels.com/search/japan%20onsen%20resort%20bus/"
-      }
-    },
-    {
-      "id": "plan_4e009648",
-      "created_at": "2026-09-02T01:01:37.691726",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "至近距離で2000発を打ち上げる湖上花火が魅力の「第10回つくい湖湖上祭」11月15日開催",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137303.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서 펼쳐지는 아름다운 호수 위 불꽃놀이! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨11월 15일! 2000발 불꽃축제✨",
-        "cards": [
-          {
-            "title": "축제 정보",
-            "content": "일본 가나가와현 사가미하라시에서 열리는 '제10회 츠쿠이호수 위 불꽃축제'가 11월 15일에 개최됩니다. 2000발의 불꽃이 츠쿠이호수 위에서 화려하게 펼쳐질 예정입니다.",
-            "alt_text": "츠쿠이호수 위에서 펼쳐지는 불꽃축제 이미지"
-          },
-          {
-            "title": "장소",
-            "content": "축제 장소는 '츠쿠이호수 성산공원 물의 원지'이며, 정확한 주소는 가나가와현 사가미하라시 미도리구 시로야마 2-9-2입니다.",
-            "alt_text": "축제 장소인 츠쿠이호수 성산공원 물의 원지 풍경"
-          },
-          {
-            "title": "시간",
-            "content": "행사 시간은 오전 10시부터 오후 6시까지이며, 하이라이트인 불꽃놀이는 오후 5시 30분부터 시작됩니다.",
-            "alt_text": "불꽃놀이 시작 시간을 알리는 안내판 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "악천후 시에는 축제가 취소될 수 있으니, 방문 전 날씨를 꼭 확인하시는 것이 좋습니다.",
-            "alt_text": "날씨 아이콘과 함께 취소 가능성을 알리는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "가나가와현에서 가을의 정취를 만끽하며 아름다운 불꽃놀이를 감상할 수 있는 특별한 기회입니다. 늦가을 밤하늘을 수놓을 2000발의 불꽃을 기대해보세요!",
-            "alt_text": "가을밤 츠쿠이호수 위로 펼쳐지는 불꽃놀이 풍경"
-          }
-        ],
-        "caption": "✨일본 가나가와현에서 펼쳐지는 환상적인 불꽃축제 소식!✨\n11월 15일, 츠쿠이호수 위로 2000발의 불꽃이 쏘아 올려집니다! 🎆\n늦가을 밤, 아름다운 불꽃놀이를 감상하며 잊지 못할 추억을 만들어보세요.\n\n📍장소: 츠쿠이호수 성산공원 물의 원지\n⏰시간: 10:00~18:00 (불꽃 17:30~)\n\n#일본여행 #츠쿠이호수 #불꽃축제 #가나가와현 #일본축제 #가을여행 #여행정보 #플라잉재팬 #일본정보 #이벤트 #여행꿀팁 #일본가볼만한곳 #일본행사 #11월축제 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#츠쿠이호수",
-          "#불꽃축제",
-          "#가나가와현",
-          "#일본축제",
-          "#가을여행",
-          "#여행정보",
-          "#일본정보",
-          "#이벤트",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#일본행사",
-          "#11월축제",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "츠쿠이호수 위에서 펼쳐지는 불꽃축제 이미지",
-          "축제 장소인 츠쿠이호수 성산공원 물의 원지 풍경",
-          "불꽃놀이 시작 시간을 알리는 안내판 이미지",
-          "날씨 아이콘과 함께 취소 가능성을 알리는 이미지",
-          "가을밤 츠쿠이호수 위로 펼쳐지는 불꽃놀이 풍경"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 가을/겨울 시즌 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 6시~9시 (여행 정보 탐색 시간) / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 구체적인 날짜, 시간, 장소 정보 제공으로 실질적인 여행 계획 수립에 도움",
-      "image": {
-        "keyword": "Tsukui Lake fireworks festival, Japan autumn event, Kanagawa prefecture attraction",
-        "unsplash_url": "https://unsplash.com/s/photos/Tsukui-Lake-fireworks-festival,-Japan-autumn-event,-Kanagawa-prefecture-attraction",
-        "pexels_url": "https://www.pexels.com/search/Tsukui%20Lake%20fireworks%20festival,%20Japan%20autumn%20event,%20Kanagawa%20prefecture%20attraction/"
-      }
-    },
-    {
-      "id": "plan_29bc1a51",
-      "created_at": "2026-09-02T01:01:31.885326",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エーザイ、水なしで飲める酔い止め「トラベルミン チュロップ」にコーラ味",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137371.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "물 없이 간편하게! 일본 여행 필수템, 신상 맛까지 더해졌어요!"
-      },
-      "content": {
-        "thumbnail_title": "💊물 없이 먹는 酔い止め 신상! 🥤",
-        "cards": [
-          {
-            "title": "신상 酔이즘",
-            "content": "일본 여행 중 멀미 걱정 끝! 에자이에서 '트래블민 츄롭' 신상 코라맛을 출시했어요. 9월 1일부터 판매 시작!",
-            "alt_text": "새로운 코라맛 츄롭 酔이즘 제품 이미지"
-          },
-          {
-            "title": "물 없이 OK",
-            "content": "가장 큰 장점은 물 없이도 입 안에서 녹여 복용할 수 있다는 점! 이동 중에도 간편하게 섭취 가능해요.",
-            "alt_text": "물 없이 츄롭을 복용하는 모습의 일러스트"
-          },
-          {
-            "title": "코라맛 추가",
-            "content": "기존 딸기맛, 레몬맛에 이어 상큼한 코라맛이 추가되어 취향에 따라 선택할 수 있어요.",
-            "alt_text": "다양한 맛의 츄롭 제품 라인업 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "6정(1회용 개별 포장)이 들어있는 1박스 가격은 528엔이에요. 1정당 약 88엔! 💊",
-            "alt_text": "츄롭 1박스 가격표 이미지"
-          },
-          {
-            "title": "여행 필수템!",
-            "content": "일본 내 약국(제2류 의약품)에서 구매 가능하며, 특히 장거리 이동이나 배 멀미가 걱정될 때 꼭 챙기세요. ✈️",
-            "alt_text": "캐리어에 츄롭을 챙기는 모습의 일러스트"
-          }
-        ],
-        "caption": "일본 여행 필수템! ✈️ 멀미약 '트래블민 츄롭'에 새로운 코라맛이 출시되었어요! 🥤 물 없이 간편하게 복용 가능하고, 6정 1박스에 528엔이면 정말 저렴하죠? 💊 이동 중에도 상쾌하게! 지금 바로 약국에서 만나보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본필수템",
-          "#일본약",
-          "#멀미약",
-          "#트래블민",
-          "#츄롭",
-          "#일본신상",
-          "#일본쇼핑",
-          "#일본정보",
-          "#여행준비",
-          "#일본꿀팁",
-          "#일본직구",
-          "#여행스타그램",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "새로운 코라맛 츄롭 酔이즘 제품 이미지",
-          "물 없이 츄롭을 복용하는 모습의 일러스트",
-          "다양한 맛의 츄롭 제품 라인업 이미지",
-          "츄롭 1박스 가격표 이미지",
-          "캐리어에 츄롭을 챙기는 모습의 일러스트"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보성 유용성으로 인한 저장 및 공유 / 이 콘텐츠의 강점: 실질적인 여행 필수품 정보와 최신 신상 소식을 결합하여 높은 관심 유도",
-      "image": {
-        "keyword": "Japan travel medicine, travelmin churop, cola flavor medicine, Japan pharmacy, travel essentials",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-medicine,-travelmin-churop,-cola-flavor-medicine,-Japan-pharmacy,-travel-essentials",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20medicine,%20travelmin%20churop,%20cola%20flavor%20medicine,%20Japan%20pharmacy,%20travel%20essentials/"
       }
     }
   ]
