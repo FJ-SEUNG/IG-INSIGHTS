@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-06T00:58:02.048472",
+  "last_updated": "2026-09-06T04:25:05.477920",
   "plans": [
+    {
+      "id": "plan_756a1b61",
+      "created_at": "2026-09-06T04:25:03.477755",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JTB、国内・海外「タイムセール」を開催中　9月16日まで",
+        "url": "https://www.traicy.com/posts/20260905381092/",
+        "date": "Sat, 05 Sep 2026 07:22:15 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 계획 중이라면 놓칠 수 없는 JTB 타임 세일!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JTB 특가 찬스! 놓치면 후회😭",
+        "cards": [
+          {
+            "title": "타임 세일 기간",
+            "content": "JTB에서 9월 3일부터 9월 16일까지 국내 및 해외 여행 타임 세일을 진행해요. 서둘러 기회를 잡으세요!",
+            "alt_text": "달력에 표시된 9월 3일과 9월 16일"
+          },
+          {
+            "title": "할인 상품",
+            "content": "일본 국내 숙박, 신칸센/JR 포함 플랜, 항공권 포함 플랜 등 다양한 상품을 할인된 가격으로 만나볼 수 있어요.",
+            "alt_text": "다양한 여행 상품 이미지"
+          },
+          {
+            "title": "수도권 출발",
+            "content": "특히 수도권 출발 항공권 포함 투어 상품이 할인 대상에 포함되어 있습니다.",
+            "alt_text": "비행기 출발 이미지"
+          },
+          {
+            "title": "일본 여행 준비",
+            "content": "이번 세일 기간을 활용해 저렴하게 일본 여행을 계획해 보세요!",
+            "alt_text": "일본 지도와 여행 가방 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "세일 기간이 짧으니, 관심 있는 상품은 미리 확인하고 예약하는 것이 좋습니다. JTB 웹사이트에서 자세한 내용을 확인하세요.",
+            "alt_text": "돋보기로 상품을 자세히 보는 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 계획 중이신가요? JTB에서 9월 3일부터 16일까지 역대급 타임 세일을 진행합니다! ✈️\n\n✅ 기간: 9월 3일 ~ 9월 16일\n✅ 할인 품목: 일본 국내 숙박, 신칸센/JR 포함 플랜, 항공권 포함 플랜 등\n\n저렴한 가격으로 일본 여행을 즐길 수 있는 절호의 찬스! 놓치지 마세요! ✨\n\n#일본여행 #JTB #타임세일 #여행특가 #일본항공권 #일본숙소 #신칸센 #JR패스 #여행스타그램 #플라잉재팬 #일본여행정보 #가성비여행 #추석여행 #가을여행 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#JTB",
+          "#타임세일",
+          "#여행특가",
+          "#일본항공권",
+          "#일본숙소",
+          "#신칸센",
+          "#JR패스",
+          "#여행스타그램",
+          "#플라잉재팬",
+          "#일본여행정보",
+          "#가성비여행",
+          "#추석여행",
+          "#가을여행",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "달력에 표시된 9월 3일과 9월 16일",
+          "다양한 여행 상품 이미지",
+          "비행기 출발 이미지",
+          "일본 지도와 여행 가방 이미지",
+          "돋보기로 상품을 자세히 보는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 구체적인 혜택 안내",
+      "image": {
+        "keyword": "Japan travel sale, JTB discount, Shinkansen deal, flight and hotel package",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-JTB-discount,-Shinkansen-deal,-flight-and-hotel-package",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20JTB%20discount,%20Shinkansen%20deal,%20flight%20and%20hotel%20package/"
+      }
+    },
+    {
+      "id": "plan_7af90aa9",
+      "created_at": "2026-09-06T04:24:56.547372",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヤフートラベル、「JAL限定早期予約クーポン」を追加配布　最大5,000円割引",
+        "url": "https://www.traicy.com/posts/20260905381158/",
+        "date": "Sat, 05 Sep 2026 11:15:32 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 항공권+호텔 예약 시 최대 5,000엔 할인받는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 최대 5천엔 할인!✈️",
+        "cards": [
+          {
+            "title": "JAL 할인 쿠폰",
+            "content": "일본 항공(JAL) 항공권과 호텔을 묶어 예약하는 '야후팩' 이용 시 최대 5,000엔 할인받을 수 있는 쿠폰이 추가 배포됩니다.",
+            "alt_text": "일본 항공(JAL) 로고와 할인 쿠폰 이미지"
+          },
+          {
+            "title": "할인 금액",
+            "content": "할인 금액은 예약 상황에 따라 다르지만, 최대 5,000엔까지 할인 혜택을 받을 수 있습니다.",
+            "alt_text": "할인 금액 표시된 쿠폰 이미지"
+          },
+          {
+            "title": "쿠폰 배포 시작",
+            "content": "이 특별한 할인 쿠폰은 9월 5일부터 배포가 시작되었습니다. 서둘러 확인하세요!",
+            "alt_text": "달력에 9월 5일이 표시된 이미지"
+          },
+          {
+            "title": "예약 대상",
+            "content": "야후 트래블에서 제공하는 JAL 항공권과 호텔 세트 상품인 '야후팩'이 쿠폰 적용 대상입니다.",
+            "alt_text": "항공권과 호텔이 결합된 예약 화면 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본 JAL 항공권과 호텔을 함께 예약할 계획이라면, 이 기회를 놓치지 마세요! 여행 경비를 절약할 수 있는 좋은 방법입니다.",
+            "alt_text": "돈을 절약하는 모습을 나타내는 이미지"
+          }
+        ],
+        "caption": "✈️ JAL 일본 여행 경비 절약 찬스! ✈️\n\n야후 트래블에서 JAL 항공권+호텔 '야후팩' 예약 시, 최대 5,000엔까지 할인받을 수 있는 특별 쿠폰이 추가 배포됩니다! 🤩\n\n9월 5일부터 시작되었으니, 일본 여행 계획 중이라면 지금 바로 확인해보세요! 💰\n\n#일본여행 #JAL #야후트래블 #항공권할인 #호텔할인 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#야후트래블",
+          "#일본항공권",
+          "#일본호텔",
+          "#여행할인",
+          "#일본여행준비",
+          "#가성비여행",
+          "#일본자유여행",
+          "#여행정보",
+          "#할인쿠폰",
+          "#여행스타그램",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본 항공(JAL) 로고와 할인 쿠폰 이미지",
+          "할인 금액 표시된 쿠폰 이미지",
+          "달력에 9월 5일이 표시된 이미지",
+          "항공권과 호텔이 결합된 예약 화면 이미지",
+          "돈을 절약하는 모습을 나타내는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 즉각적인 비용 절감 효과를 제공하는 실질적인 할인 정보",
+      "image": {
+        "keyword": "JAL flight ticket hotel discount coupon booking",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-ticket-hotel-discount-coupon-booking",
+        "pexels_url": "https://www.pexels.com/search/JAL%20flight%20ticket%20hotel%20discount%20coupon%20booking/"
+      }
+    },
     {
       "id": "plan_43b98ae0",
       "created_at": "2026-09-06T00:58:00.048294",
@@ -923,160 +1077,6 @@
         "keyword": "Francfranc Disney collaboration new goods Japan shopping",
         "unsplash_url": "https://unsplash.com/s/photos/Francfranc-Disney-collaboration-new-goods-Japan-shopping",
         "pexels_url": "https://www.pexels.com/search/Francfranc%20Disney%20collaboration%20new%20goods%20Japan%20shopping/"
-      }
-    },
-    {
-      "id": "plan_5ab6cb0e",
-      "created_at": "2026-09-03T01:07:14.231799",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストア、店内デコレーションが一足先にハロウィーン仕様に。おばけ＆かぼちゃモチーフの限定アイテムなどを販売中",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137713.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니 스토어에서 만나는 힙한 할로윈!"
-      },
-      "content": {
-        "thumbnail_title": "🎃디즈니 스토어 9월 1일 할로윈 시작!",
-        "cards": [
-          {
-            "title": "시즌 시작!",
-            "content": "일본 디즈니 스토어 플래그십 '디즈니 플래그십 도쿄'에서 9월 1일부터 할로윈 한정 상품 판매를 시작했어요. 👻",
-            "alt_text": "디즈니 스토어 매장 입구에 할로윈 장식이 된 모습"
-          },
-          {
-            "title": "매장 분위기",
-            "content": "매장 전체가 할로윈 테마로 꾸며져 있어, 방문하는 것만으로도 이른 할로윈 분위기를 만끽할 수 있답니다. 🎃",
-            "alt_text": "매장 내부에 가득한 할로윈 장식과 상품들"
-          },
-          {
-            "title": "한정 아이템",
-            "content": "오직 디즈니 스토어에서만 만날 수 있는 오싹하고 귀여운 유령 & 호박 모티브의 할로윈 한정 아이템들을 만나보세요! 👻",
-            "alt_text": "다양한 유령과 호박 디자인의 할로윈 한정 상품들"
-          },
-          {
-            "title": "기대 포인트",
-            "content": "할로윈 시즌을 맞아 특별히 준비된 상품들로 일본 여행 기념품을 득템할 절호의 기회! 🎁",
-            "alt_text": "구매를 기다리는 다양한 할로윈 기념품들"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 상품이 있다면 오픈 시간에 맞춰 방문하는 것을 추천해요! ⏰",
-            "alt_text": "손님들로 붐비는 디즈니 스토어 내부"
-          }
-        ],
-        "caption": "일본 디즈니 스토어에서 미리 만나는 할로윈! 🎃 9월 1일부터 '디즈니 플래그십 도쿄'에서 오싹하고 귀여운 할로윈 한정 상품들을 판매하고 있어요. 매장 전체가 할로윈 테마로 꾸며져 있어 특별한 경험을 선사할 거예요! 👻 여행 중이라면 꼭 들러서 특별한 기념품 득템하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#디즈니",
-          "#할로윈",
-          "#일본쇼핑",
-          "#도쿄",
-          "#도쿄여행",
-          "#일본여행필수",
-          "#해외여행",
-          "#일본기념품",
-          "#여행스타그램",
-          "#디즈니랜드",
-          "#디즈니씨",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "디즈니 스토어 매장 입구에 할로윈 장식이 된 모습",
-          "매장 내부에 가득한 할로윈 장식과 상품들",
-          "다양한 유령과 호박 디자인의 할로윈 한정 상품들",
-          "구매를 기다리는 다양한 할로윈 기념품들",
-          "손님들로 붐비는 디즈니 스토어 내부"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 6시-8시 / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 시즌성 이벤트 정보, 한국에서 쉽게 접하기 어려운 디즈니 관련 최신 정보",
-      "image": {
-        "keyword": "Disney Store Japan Halloween decoration, limited edition items, spooky, cute, pumpkin, ghost, Tokyo Flagship store",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Japan-Halloween-decoration,-limited-edition-items,-spooky,-cute,-pumpkin,-ghost,-Tokyo-Flagship-store",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Japan%20Halloween%20decoration,%20limited%20edition%20items,%20spooky,%20cute,%20pumpkin,%20ghost,%20Tokyo%20Flagship%20store/"
-      }
-    },
-    {
-      "id": "plan_ca2aba1f",
-      "created_at": "2026-09-03T01:07:09.038423",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福島県、1泊3000円引き「また来て。」割は10月1日予約スタート。11～12月宿泊分が対象",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137748.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 절약할 수 있는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 후쿠시마 1박 3천엔 할인!",
-        "cards": [
-          {
-            "title": "할인 캠페인",
-            "content": "일본 후쿠시마현에서 '또 와요' 할인 캠페인 3탄을 진행합니다. 1박당 3,000엔을 할인해주는 파격적인 혜택이에요.",
-            "alt_text": "후쿠시마현 지도와 함께 할인 캠페인 안내 이미지"
-          },
-          {
-            "title": "대상 기간",
-            "content": "이번 캠페인은 2023년 11월부터 12월까지 숙박하는 경우에 적용됩니다. 가을/겨울 일본 여행 계획 중이라면 주목하세요!",
-            "alt_text": "달력에 11월, 12월이 표시된 이미지"
-          },
-          {
-            "title": "예약 시작",
-            "content": "할인 혜택을 받으려면 10월 1일부터 예약을 시작해야 합니다. 서둘러서 원하는 숙소를 확보하는 것이 중요해요.",
-            "alt_text": "예약 버튼을 누르는 손 이미지"
-          },
-          {
-            "title": "여행 수요 촉진",
-            "content": "이번 캠페인은 코로나19 이후 여행 수요를 다시 활성화하기 위한 후쿠시마현의 적극적인 노력의 일환입니다.",
-            "alt_text": "활짝 웃는 사람들과 함께 일본 여행을 상징하는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "후쿠시마현은 아름다운 자연과 온천, 맛있는 음식이 많기로 유명해요. 할인 혜택을 이용해 알찬 여행을 계획해보세요!",
-            "alt_text": "후쿠시마의 아름다운 자연 풍경 이미지"
-          }
-        ],
-        "caption": "🇯🇵 일본 후쿠시마 여행 계획 중이라면 주목!\n\n1박당 3,000엔 할인받고 알뜰하게 여행 즐겨요!\n\n✅ 캠페인명: '또 와요' 할인 캠페인 3탄\n✅ 할인 금액: 1박당 3,000엔\n✅ 숙박 대상 기간: 2023년 11월 ~ 12월\n✅ 예약 시작: 2023년 10월 1일\n\n후쿠시마의 숨겨진 매력을 저렴하게 만끽할 기회, 놓치지 마세요!\n\n#후쿠시마여행 #일본숙소 #여행할인 #일본여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠시마",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본숙소",
-          "#가을여행",
-          "#겨울여행",
-          "#일본여행정보",
-          "#일본숙박",
-          "#일본여행준비",
-          "#일본여행추천",
-          "#일본자유여행",
-          "#일본가볼만한곳",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "후쿠시마현 지도와 함께 할인 캠페인 안내 이미지",
-          "달력에 11월, 12월이 표시된 이미지",
-          "예약 버튼을 누르는 손 이미지",
-          "활짝 웃는 사람들과 함께 일본 여행을 상징하는 이미지",
-          "후쿠시마의 아름다운 자연 풍경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 20-40대 일본 여행 계획자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인 정보와 명확한 혜택 제시",
-      "image": {
-        "keyword": "Fukushima travel discount campaign, Japan accommodation deal, Autumn winter Japan trip",
-        "unsplash_url": "https://unsplash.com/s/photos/Fukushima-travel-discount-campaign,-Japan-accommodation-deal,-Autumn-winter-Japan-trip",
-        "pexels_url": "https://www.pexels.com/search/Fukushima%20travel%20discount%20campaign,%20Japan%20accommodation%20deal,%20Autumn%20winter%20Japan%20trip/"
       }
     }
   ]
