@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-05T04:15:35.841239",
+  "last_updated": "2026-09-06T00:58:02.048472",
   "plans": [
+    {
+      "id": "plan_43b98ae0",
+      "created_at": "2026-09-06T00:58:00.048294",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ジンエアー、「毎月MY得」を開催中　最大15％オフ",
+        "url": "https://www.traicy.com/posts/20260906381112/",
+        "date": "Sat, 05 Sep 2026 23:15:18 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "진에어 항공권 최대 15% 할인 찬스! 일본 여행 계획 중이라면 절대 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️진에어 15% 할인!✈️",
+        "cards": [
+          {
+            "title": "9월 3일 오픈!",
+            "content": "진에어 '매월 MY득' 프로모션이 9월 3일 오전 10시부터 시작됩니다. 서둘러서 좋은 좌석 확보하세요!",
+            "alt_text": "진에어 항공권 프로모션 시작 날짜 안내"
+          },
+          {
+            "title": "최대 15% 할인",
+            "content": "이번 프로모션을 통해 최대 15% 운임 할인을 받을 수 있어요. 저렴한 가격으로 일본 여행을 떠날 기회입니다.",
+            "alt_text": "진에어 항공권 할인율 표시"
+          },
+          {
+            "title": "탑승 기간 확인",
+            "content": "국내선은 9월 3일부터 12월 30일까지, 국제선은 2027년 3월 27일까지 탑승 가능한 항공권에 할인이 적용됩니다.",
+            "alt_text": "진에어 항공권 탑승 가능 기간 안내"
+          },
+          {
+            "title": "프로모션 기간",
+            "content": "할인 혜택은 9월 3일부터 9월 13일까지 진행되니, 여행 계획을 미리 세우고 서두르는 것이 좋습니다.",
+            "alt_text": "진에어 항공권 프로모션 기간 안내"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "미리 진에어 웹사이트나 앱을 확인하고, 원하는 날짜와 노선을 찜해두면 프로모션 오픈 즉시 빠르게 예약할 수 있어요. 늦으면 원하는 시간대 좌석이 없을 수 있습니다!",
+            "alt_text": "진에어 항공권 예약 꿀팁 안내"
+          }
+        ],
+        "caption": "✨일본 여행 필수 체크! 진에어 '매월 MY득' 프로모션 시작!✨\n\n9월 3일 오전 10시부터 13일까지, 진에어에서 최대 15% 할인된 가격으로 일본 항공권을 구매할 수 있어요! ✈️\n\n탑승 기간도 넉넉하니, 지금 바로 원하는 날짜 확인하고 저렴하게 일본 여행 다녀오세요! 🇯🇵\n\n#일본항공권 #진에어할인 #여행특가 #일본여행준비 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#진에어",
+          "#진에어프로모션",
+          "#항공권할인",
+          "#일본항공권",
+          "#특가항공권",
+          "#여행스타그램",
+          "#일본여행준비",
+          "#가성비여행",
+          "#여행정보",
+          "#해외여행",
+          "#일본",
+          "#여행꿀팁",
+          "#9월여행"
+        ],
+        "alt_texts": [
+          "진에어 항공권 프로모션 시작 날짜 안내",
+          "진에어 항공권 할인율 표시",
+          "진에어 항공권 탑승 가능 기간 안내",
+          "진에어 항공권 프로모션 기간 안내",
+          "진에어 항공권 예약 꿀팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 항공권 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 명확한 할인율과 기간, 구체적인 혜택 정보를 제공하여 즉각적인 구매 행동 유도",
+      "image": {
+        "keyword": "jin air, flight ticket, discount, japan travel, promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/jin-air,-flight-ticket,-discount,-japan-travel,-promotion",
+        "pexels_url": "https://www.pexels.com/search/jin%20air,%20flight%20ticket,%20discount,%20japan%20travel,%20promotion/"
+      }
+    },
+    {
+      "id": "plan_f75c5d6d",
+      "created_at": "2026-09-06T00:57:55.056576",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ウェスティンホテル東京、秋食材と世界の料理を揃えたランチ＆ディナーブッフェ　11月6日まで",
+        "url": "https://www.traicy.com/posts/20260906381168/",
+        "date": "Sun, 06 Sep 2026 00:15:20 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을 제철 식재료와 세계 요리를 맛볼 수 있는 뷔페 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🍁 도쿄 웨스틴 호텔 가을 뷔페! 🍁",
+        "cards": [
+          {
+            "title": "가을 뷔페",
+            "content": "도쿄 웨스틴 호텔에서 '가을의 수확제 ~옥토버페스트~' 뷔페를 9월 1일부터 11월 6일까지 개최합니다.",
+            "alt_text": "호텔 뷔페 레스토랑 내부 모습"
+          },
+          {
+            "title": "메인 요리",
+            "content": "버섯, 단호박, 고구마 등 가을 식재료를 활용한 차가운 요리와 훈제 연어 등 다채로운 메뉴를 즐길 수 있습니다.",
+            "alt_text": "신선한 가을 채소와 과일이 담긴 샐러드"
+          },
+          {
+            "title": "디너 뷔페",
+            "content": "저녁 뷔페에서는 세계 각국의 요리와 함께 옥토버페스트 분위기를 만끽할 수 있는 특별 메뉴도 준비됩니다.",
+            "alt_text": "다양한 국가의 요리가 진열된 뷔페 테이블"
+          },
+          {
+            "title": "이용 정보",
+            "content": "런치와 디너 뷔페 모두 이용 가능하며, 기간 한정으로 운영되니 서둘러 예약하는 것이 좋습니다.",
+            "alt_text": "호텔 뷔페 이용 안내 사인"
+          },
+          {
+            "title": "꿀팁",
+            "content": "사전 예약 시 더 편리하게 이용 가능하며, 호텔 공식 웹사이트에서 최신 정보를 확인해보세요.",
+            "alt_text": "호텔 예약 웹사이트 화면 캡처"
+          }
+        ],
+        "caption": "🍁 도쿄 여행 중 특별한 미식 경험을 원한다면? 🍁\n도쿄 웨스틴 호텔에서 9월 1일부터 11월 6일까지 열리는 '가을의 수확제 ~옥토버페스트~' 뷔페를 놓치지 마세요! 🎃\n버섯, 단호박, 고구마 등 제철 식재료로 만든 다채로운 요리와 세계 각국의 요리를 맛볼 수 있습니다. 🍂\n가을의 맛과 분위기를 한껏 즐길 수 있는 기회, 지금 바로 예약하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄맛집",
+          "#웨스틴호텔",
+          "#호텔뷔페",
+          "#가을여행",
+          "#도쿄뷔페",
+          "#일본맛집",
+          "#미식여행",
+          "#여행정보",
+          "#도쿄호텔",
+          "#가을축제",
+          "#일본음식",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "호텔 뷔페 레스토랑 내부 모습",
+          "신선한 가을 채소와 과일이 담긴 샐러드",
+          "다양한 국가의 요리가 진열된 뷔페 테이블",
+          "호텔 뷔페 이용 안내 사인",
+          "호텔 예약 웹사이트 화면 캡처"
+        ]
+      },
+      "marketer_analysis": "타겟: 미식과 특별한 경험을 추구하는 한국인 여행객 / 최적 게시 시간: 저녁 7시 ~ 9시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 기간 한정, 고급 호텔의 특별한 뷔페 정보로 희소성 높음",
+      "image": {
+        "keyword": "Tokyo Westin Hotel autumn buffet, Japanese fall food, international cuisine buffet, Octoberfest buffet, seasonal ingredients, hotel dining experience",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Westin-Hotel-autumn-buffet,-Japanese-fall-food,-international-cuisine-buffet,-Octoberfest-buffet,-seasonal-ingredients,-hotel-dining-experience",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Westin%20Hotel%20autumn%20buffet,%20Japanese%20fall%20food,%20international%20cuisine%20buffet,%20Octoberfest%20buffet,%20seasonal%20ingredients,%20hotel%20dining%20experience/"
+      }
+    },
     {
       "id": "plan_bbf5c57b",
       "created_at": "2026-09-05T04:15:33.841045",
@@ -923,160 +1077,6 @@
         "keyword": "Fukushima travel discount campaign, Japan accommodation deal, Autumn winter Japan trip",
         "unsplash_url": "https://unsplash.com/s/photos/Fukushima-travel-discount-campaign,-Japan-accommodation-deal,-Autumn-winter-Japan-trip",
         "pexels_url": "https://www.pexels.com/search/Fukushima%20travel%20discount%20campaign,%20Japan%20accommodation%20deal,%20Autumn%20winter%20Japan%20trip/"
-      }
-    },
-    {
-      "id": "plan_a7f71f42",
-      "created_at": "2026-09-02T04:18:36.937951",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大韓航空、日本の地方4路線でチャーター便を運航　花巻や南紀白浜など",
-        "url": "https://www.traicy.com/posts/20260902380568/",
-        "date": "Wed, 02 Sep 2026 00:15:17 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "한국에서 일본 지방 소도시로 바로 가는 알짜배기 노선 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 직항 늘린다! ✈️",
-        "cards": [
-          {
-            "title": "가을 특별 노선",
-            "content": "대한항공이 한국의 추석 연휴와 일본의 가을 단풍 시즌에 맞춰 일본 4개 도시로 가는 특별 전세기를 운항합니다. 총 17왕복으로 운행될 예정입니다.",
-            "alt_text": "대한항공 비행기 이미지"
-          },
-          {
-            "title": "가을 여행지 4곳",
-            "content": "운항 도시는 서울/인천을 출발하여 하나마키, 난키시라하마, 미야자키, 가고시마입니다. 가을 단풍과 함께 숨겨진 명소를 방문해보세요.",
-            "alt_text": "일본 가을 단풍 명소 이미지"
-          },
-          {
-            "title": "하나마키 노선",
-            "content": "서울/인천-하나마키 노선은 보잉 737-8 기종으로 158석 규모입니다. 온천과 자연을 즐기기 좋은 하나마키로 떠나보세요.",
-            "alt_text": "일본 하나마키 온천 마을 이미지"
-          },
-          {
-            "title": "난키시라하마 노선",
-            "content": "서울/인천-난키시라하마 노선도 운항합니다. 아름다운 해변과 해안 절경을 자랑하는 난키시라하마의 매력을 느껴보세요.",
-            "alt_text": "일본 난키시라하마 해변 이미지"
-          },
-          {
-            "title": "예매 팁",
-            "content": "전세기 노선은 일반 노선보다 빠르게 마감될 수 있습니다. 항공권 예매는 대한항공 공식 홈페이지 또는 예약 센터를 통해 서둘러 진행하세요.",
-            "alt_text": "항공권 예매 화면 이미지"
-          }
-        ],
-        "caption": "✈️ 가을 일본 여행, 더 편하게 떠나요! ✈️\n대한항공이 가을 시즌을 맞아 한국-일본 지방 4개 도시 직항 전세기를 특별 운항합니다.\n\n✨하나마키, 난키시라하마, 미야자키, 가고시마✨\n총 17왕복으로 운영되어 가을 단풍과 숨은 명소를 더욱 쉽게 만날 수 있어요.\n\n가을 일본 여행 계획 중이라면, 이 기회를 놓치지 마세요!\n\n#일본여행 #대한항공 #가을여행 #일본소도시 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#대한항공",
-          "#일본직항",
-          "#가을여행",
-          "#일본단풍",
-          "#하나마키",
-          "#난키시라하마",
-          "#미야자키",
-          "#가고시마",
-          "#일본소도시",
-          "#여행정보",
-          "#항공권",
-          "#일본추천",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "대한항공 비행기 이미지",
-          "일본 가을 단풍 명소 이미지",
-          "일본 하나마키 온천 마을 이미지",
-          "일본 난키시라하마 해변 이미지",
-          "항공권 예매 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을 일본 여행을 계획하는 20-40대 한국인 / 최적 게시 시간: 오후 8-10시 / 기대 반응: 정보 공유 및 항공권 문의 증가 / 이 콘텐츠의 강점: 한국에서 접근하기 어려운 일본 지방 도시로 가는 직항 노선 정보 제공",
-      "image": {
-        "keyword": "Korean Air, Japan, chartered flight, autumn, travel destinations",
-        "unsplash_url": "https://unsplash.com/s/photos/Korean-Air,-Japan,-chartered-flight,-autumn,-travel-destinations",
-        "pexels_url": "https://www.pexels.com/search/Korean%20Air,%20Japan,%20chartered%20flight,%20autumn,%20travel%20destinations/"
-      }
-    },
-    {
-      "id": "plan_bb60ccc3",
-      "created_at": "2026-09-02T04:18:00.096481",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語、直行往復バスを一律3300円に値下げ。大阪・京都から北陸・白浜・伊勢志摩の各ホテルへ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2137365.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카/교토에서 온천 리조트까지, 교통비 확 줄이는 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "♨️온천 리조트 버스 3300엔!♨️",
-        "cards": [
-          {
-            "title": "버스 리뉴얼",
-            "content": "오사카/교토에서 대에도온천물이야 그룹 호텔까지 가는 직행 왕복 버스가 10월 1일부터 새로운 차량, 요금, 노선으로 운행 시작됩니다.",
-            "alt_text": "새로운 노선과 요금으로 운행되는 대에도온천물이야 그룹 호텔 직행 왕복 버스"
-          },
-          {
-            "title": "파격적인 가격",
-            "content": "기존 요금보다 훨씬 저렴해진 편도 3300엔에 이용 가능합니다. 여름휴가, 가을 단풍 시즌 온천 여행에 안성맞춤이에요.",
-            "alt_text": "3300엔이라는 저렴한 가격으로 이용 가능한 온천 리조트행 왕복 버스"
-          },
-          {
-            "title": "주요 노선",
-            "content": "오사카, 교토에서 출발하여 북해도, 시라하마, 이세시마 등 다양한 지역의 호텔로 바로 이동할 수 있습니다.",
-            "alt_text": "오사카, 교토에서 출발하여 북해도, 시라하마, 이세시마로 향하는 버스 노선 안내"
-          },
-          {
-            "title": "편리한 이동",
-            "content": "무거운 짐을 들고 환승할 필요 없이 호텔까지 편안하게 이동하세요. 여행의 피로를 줄여줍니다.",
-            "alt_text": "무거운 짐을 들고도 편안하게 이동할 수 있는 버스 내부 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기 노선은 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천합니다. 자세한 운행 정보는 공식 홈페이지를 확인하세요.",
-            "alt_text": "여행 계획 시 서둘러 예약해야 하는 인기 노선 버스"
-          }
-        ],
-        "caption": "🇯🇵일본 온천 여행 계획 중이라면 주목!🇯🇵\n오사카, 교토에서 출발하는 대에도온천물이야 그룹 호텔 직행 왕복 버스가 10월 1일부터 편도 3300엔으로 운행됩니다.\n북해도, 시라하마, 이세시마 등 인기 온천 리조트로 환승 없이 편안하게 이동하세요!\n여행 경비 절약하고 힐링 가득한 일본 온천 여행을 즐겨보세요!♨️\n\n#일본여행 #플라잉재팬 #일본온천 #대에도온천물이야 #오사카여행 #교토여행 #일본교통 #여행꿀팁 #일본여행준비 #가성비여행 #온천여행 #일본숙소 #여행스타그램 #일본자유여행 #해외여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#대에도온천물이야",
-          "#오사카여행",
-          "#교토여행",
-          "#일본교통",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#가성비여행",
-          "#온천여행",
-          "#일본숙소",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "새로운 노선과 요금으로 운행되는 대에도온천물이야 그룹 호텔 직행 왕복 버스",
-          "3300엔이라는 저렴한 가격으로 이용 가능한 온천 리조트행 왕복 버스",
-          "오사카, 교토에서 출발하여 북해도, 시라하마, 이세시마로 향하는 버스 노선 안내",
-          "무거운 짐을 들고도 편안하게 이동할 수 있는 버스 내부 모습",
-          "여행 계획 시 서둘러 예약해야 하는 인기 노선 버스"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카/교토에서 온천 리조트로의 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 교통비 절약 정보에 대한 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 가격 정보와 편리한 이동 방법을 제시하여 실질적인 여행 계획에 도움을 줌",
-      "image": {
-        "keyword": "japan onsen resort bus",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-resort-bus",
-        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20resort%20bus/"
       }
     }
   ]
