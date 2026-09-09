@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-09T01:15:19.934401",
+  "last_updated": "2026-09-09T04:29:09.370162",
   "plans": [
+    {
+      "id": "plan_655b9550",
+      "created_at": "2026-09-09T04:29:07.370000",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、新「どこでも改札」の導入で全駅でSuica利用可能に。2030年代初めの実現を目指す",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139427.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2030년대 초, JR 동일본 전 역에서 스이카로 개찰구 통과 가능! 일본 여행 필수템 스이카, 앞으로 더 편리해져요!"
+      },
+      "content": {
+        "thumbnail_title": "✨스이카, 이제 전 JR 동일본 역에서 OK!",
+        "cards": [
+          {
+            "title": "전 역 스이카 도입",
+            "content": "2030년대 초, JR 동일본 소속 6개 지역의 모든 역에서 스이카(Suica) 이용이 가능해집니다. 현재 이용 가능한 역 비율을 100%까지 확대하는 것을 목표로 하고 있습니다.",
+            "alt_text": "스이카 로고와 함께 '전 JR 동일본 역에서 이용 가능' 문구가 표시된 이미지"
+          },
+          {
+            "title": "편리한 여행",
+            "content": "앞으로는 JR 동일본 지역 내에서 환승하거나 다른 노선을 이용할 때, 스이카 하나로 모든 개찰구를 통과할 수 있게 되어 더욱 편리한 여행이 가능해집니다.",
+            "alt_text": "스이카 카드를 들고 환하게 웃는 여행객의 모습"
+          },
+          {
+            "title": "미래의 일본",
+            "content": "이번 '어디든지 개찰' 도입은 일본 대중교통 이용 방식을 혁신하며, 2030년대 초 실현을 목표로 하고 있습니다. 한국인 여행객에게 더욱 스마트한 경험을 선사할 것입니다.",
+            "alt_text": "미래 지향적인 디자인의 일본 기차역 이미지"
+          },
+          {
+            "title": "지금도 충분히!",
+            "content": "현재도 스이카는 JR 동일본 지역의 많은 역에서 이용 가능하며, 편의점, 식당 등에서도 결제 수단으로 널리 사용되고 있습니다. 일본 여행 필수품으로 꼭 챙기세요!",
+            "alt_text": "다양한 상점에서 스이카로 결제하는 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "스이카는 한국에서 미리 구매하거나 일본 현지에서 구매 및 충전이 가능합니다. 충전 시 동전 사용을 줄여 소지품을 가볍게 하세요!",
+            "alt_text": "스이카 카드와 함께 충전하는 기기 이미지"
+          }
+        ],
+        "caption": "JR 동일본 전 역에서 스이카 이용 가능! 🤩\n2030년대 초, 스이카 하나로 일본 대중교통이 더욱 편리해집니다.\n일본 여행 준비 중이라면, 스이카는 필수!\n\n#일본여행 #스이카 #JR동일본 #교통정보 #일본여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스이카",
+          "#Suica",
+          "#JR동일본",
+          "#일본교통",
+          "#일본대중교통",
+          "#일본여행준비",
+          "#일본여행정보",
+          "#해외여행",
+          "#여행꿀팁",
+          "#일본",
+          "#2030년대",
+          "#편리한여행",
+          "#스마트여행"
+        ],
+        "alt_texts": [
+          "스이카 로고와 함께 '전 JR 동일본 역에서 이용 가능' 문구가 표시된 이미지",
+          "스이카 카드를 들고 환하게 웃는 여행객의 모습",
+          "미래 지향적인 디자인의 일본 기차역 이미지",
+          "다양한 상점에서 스이카로 결제하는 모습",
+          "스이카 카드와 함께 충전하는 기기 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획하는 한국인 20-40대 / 최적 게시 시간: 오후 6-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 유용성에 대한 긍정적 반응, 스이카 관련 문의 증가 / 이 콘텐츠의 강점: 미래의 편리성을 미리 알려주어 기대감 고취, 실질적인 여행 준비에 도움",
+      "image": {
+        "keyword": "Suica card, JR East Japan train station, convenient travel, Japan public transport, future of transportation",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-card,-JR-East-Japan-train-station,-convenient-travel,-Japan-public-transport,-future-of-transportation",
+        "pexels_url": "https://www.pexels.com/search/Suica%20card,%20JR%20East%20Japan%20train%20station,%20convenient%20travel,%20Japan%20public%20transport,%20future%20of%20transportation/"
+      }
+    },
+    {
+      "id": "plan_bae6a00c",
+      "created_at": "2026-09-09T04:29:01.081582",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーストア、全国を巡るポップアップツアー開催決定。羽田・セントレア・沖縄ほかで会場限定グッズを販売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139436.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전역을 도는 디즈니 스토어 팝업 투어! 한정 굿즈 득템 기회 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 스토어 팝업 투어✨",
+        "cards": [
+          {
+            "title": "팝업 투어 시작!",
+            "content": "디즈니 스토어의 'Disney store.jp Japan Tour' 팝업 투어가 10월 16일부터 시작됩니다. 전국 9개 도시를 순회하며 진행될 예정입니다.",
+            "alt_text": "디즈니 스토어 팝업 투어 시작 안내"
+          },
+          {
+            "title": "주요 개최 도시",
+            "content": "현재까지 확정된 개최 도시는 가나가와, 오키나와, 아이치, 야마구치입니다. 앞으로 더 많은 도시가 추가될 예정이니 기대해주세요!",
+            "alt_text": "디즈니 스토어 팝업 투어 개최 도시"
+          },
+          {
+            "title": "한정 굿즈 판매",
+            "content": "각 개최 도시에서는 해당 지역에서만 구매 가능한 한정판 굿즈가 판매될 예정입니다. 특별한 기념품을 득템할 기회입니다.",
+            "alt_text": "디즈니 스토어 팝업 투어 한정 굿즈"
+          },
+          {
+            "title": "여행 중 방문",
+            "content": "일본 여행 계획 중 방문 예정 도시가 있다면, 팝업 스토어 일정을 확인하고 방문해보세요. 여행의 즐거움을 더할 수 있습니다.",
+            "alt_text": "일본 여행 중 디즈니 스토어 팝업 방문"
+          },
+          {
+            "title": "방문 전 확인!",
+            "content": "정확한 개최 도시, 날짜, 시간 및 판매 상품 정보는 디즈니 스토어 공식 채널에서 미리 확인하는 것이 좋습니다. 품절 전에 서두르세요!",
+            "alt_text": "디즈니 스토어 팝업 투어 방문 전 확인사항"
+          }
+        ],
+        "caption": "일본 전역을 순회하는 디즈니 스토어 팝업 투어가 곧 시작됩니다! 💖\n10월 16일부터 가나가와, 오키나와, 아이치, 야마구치 등 9개 도시에서 만날 수 있어요.\n각 지역별 한정 굿즈를 득템할 절호의 기회! 🛍️\n여행 중에 방문 계획이 있다면 꼭 체크하세요!\n\n#일본여행 #디즈니스토어 #팝업스토어 #한정굿즈 #일본쇼핑 #여행스타그램 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니스토어",
+          "#디즈니스토어팝업",
+          "#DisneyStorejpJapanTour",
+          "#일본쇼핑",
+          "#일본한정",
+          "#여행정보",
+          "#일본이벤트",
+          "#팝업스토어",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#굿즈",
+          "#디즈니",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "디즈니 스토어 팝업 투어 시작 안내",
+          "디즈니 스토어 팝업 투어 개최 도시",
+          "디즈니 스토어 팝업 투어 한정 굿즈",
+          "일본 여행 중 디즈니 스토어 팝업 방문",
+          "디즈니 스토어 팝업 투어 방문 전 확인사항"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시-9시, 주말 오후 1시-4시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 한국인이 좋아하는 디즈니와 일본 현지에서만 얻을 수 있는 한정판 굿즈라는 매력 포인트 결합",
+      "image": {
+        "keyword": "Disney store pop-up tour, Japan, limited edition goods, travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-store-pop-up-tour,-Japan,-limited-edition-goods,-travel",
+        "pexels_url": "https://www.pexels.com/search/Disney%20store%20pop-up%20tour,%20Japan,%20limited%20edition%20goods,%20travel/"
+      }
+    },
     {
       "id": "plan_c6aefb3d",
       "created_at": "2026-09-09T01:15:17.934257",
@@ -923,160 +1077,6 @@
         "keyword": "JAL flight ticket hotel discount coupon booking",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-flight-ticket-hotel-discount-coupon-booking",
         "pexels_url": "https://www.pexels.com/search/JAL%20flight%20ticket%20hotel%20discount%20coupon%20booking/"
-      }
-    },
-    {
-      "id": "plan_43b98ae0",
-      "created_at": "2026-09-06T00:58:00.048294",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジンエアー、「毎月MY得」を開催中　最大15％オフ",
-        "url": "https://www.traicy.com/posts/20260906381112/",
-        "date": "Sat, 05 Sep 2026 23:15:18 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "진에어 항공권 최대 15% 할인 찬스! 일본 여행 계획 중이라면 절대 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️진에어 15% 할인!✈️",
-        "cards": [
-          {
-            "title": "9월 3일 오픈!",
-            "content": "진에어 '매월 MY득' 프로모션이 9월 3일 오전 10시부터 시작됩니다. 서둘러서 좋은 좌석 확보하세요!",
-            "alt_text": "진에어 항공권 프로모션 시작 날짜 안내"
-          },
-          {
-            "title": "최대 15% 할인",
-            "content": "이번 프로모션을 통해 최대 15% 운임 할인을 받을 수 있어요. 저렴한 가격으로 일본 여행을 떠날 기회입니다.",
-            "alt_text": "진에어 항공권 할인율 표시"
-          },
-          {
-            "title": "탑승 기간 확인",
-            "content": "국내선은 9월 3일부터 12월 30일까지, 국제선은 2027년 3월 27일까지 탑승 가능한 항공권에 할인이 적용됩니다.",
-            "alt_text": "진에어 항공권 탑승 가능 기간 안내"
-          },
-          {
-            "title": "프로모션 기간",
-            "content": "할인 혜택은 9월 3일부터 9월 13일까지 진행되니, 여행 계획을 미리 세우고 서두르는 것이 좋습니다.",
-            "alt_text": "진에어 항공권 프로모션 기간 안내"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "미리 진에어 웹사이트나 앱을 확인하고, 원하는 날짜와 노선을 찜해두면 프로모션 오픈 즉시 빠르게 예약할 수 있어요. 늦으면 원하는 시간대 좌석이 없을 수 있습니다!",
-            "alt_text": "진에어 항공권 예약 꿀팁 안내"
-          }
-        ],
-        "caption": "✨일본 여행 필수 체크! 진에어 '매월 MY득' 프로모션 시작!✨\n\n9월 3일 오전 10시부터 13일까지, 진에어에서 최대 15% 할인된 가격으로 일본 항공권을 구매할 수 있어요! ✈️\n\n탑승 기간도 넉넉하니, 지금 바로 원하는 날짜 확인하고 저렴하게 일본 여행 다녀오세요! 🇯🇵\n\n#일본항공권 #진에어할인 #여행특가 #일본여행준비 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#진에어",
-          "#진에어프로모션",
-          "#항공권할인",
-          "#일본항공권",
-          "#특가항공권",
-          "#여행스타그램",
-          "#일본여행준비",
-          "#가성비여행",
-          "#여행정보",
-          "#해외여행",
-          "#일본",
-          "#여행꿀팁",
-          "#9월여행"
-        ],
-        "alt_texts": [
-          "진에어 항공권 프로모션 시작 날짜 안내",
-          "진에어 항공권 할인율 표시",
-          "진에어 항공권 탑승 가능 기간 안내",
-          "진에어 항공권 프로모션 기간 안내",
-          "진에어 항공권 예약 꿀팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 항공권 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 명확한 할인율과 기간, 구체적인 혜택 정보를 제공하여 즉각적인 구매 행동 유도",
-      "image": {
-        "keyword": "jin air, flight ticket, discount, japan travel, promotion",
-        "unsplash_url": "https://unsplash.com/s/photos/jin-air,-flight-ticket,-discount,-japan-travel,-promotion",
-        "pexels_url": "https://www.pexels.com/search/jin%20air,%20flight%20ticket,%20discount,%20japan%20travel,%20promotion/"
-      }
-    },
-    {
-      "id": "plan_f75c5d6d",
-      "created_at": "2026-09-06T00:57:55.056576",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ウェスティンホテル東京、秋食材と世界の料理を揃えたランチ＆ディナーブッフェ　11月6日まで",
-        "url": "https://www.traicy.com/posts/20260906381168/",
-        "date": "Sun, 06 Sep 2026 00:15:20 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을 제철 식재료와 세계 요리를 맛볼 수 있는 뷔페 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🍁 도쿄 웨스틴 호텔 가을 뷔페! 🍁",
-        "cards": [
-          {
-            "title": "가을 뷔페",
-            "content": "도쿄 웨스틴 호텔에서 '가을의 수확제 ~옥토버페스트~' 뷔페를 9월 1일부터 11월 6일까지 개최합니다.",
-            "alt_text": "호텔 뷔페 레스토랑 내부 모습"
-          },
-          {
-            "title": "메인 요리",
-            "content": "버섯, 단호박, 고구마 등 가을 식재료를 활용한 차가운 요리와 훈제 연어 등 다채로운 메뉴를 즐길 수 있습니다.",
-            "alt_text": "신선한 가을 채소와 과일이 담긴 샐러드"
-          },
-          {
-            "title": "디너 뷔페",
-            "content": "저녁 뷔페에서는 세계 각국의 요리와 함께 옥토버페스트 분위기를 만끽할 수 있는 특별 메뉴도 준비됩니다.",
-            "alt_text": "다양한 국가의 요리가 진열된 뷔페 테이블"
-          },
-          {
-            "title": "이용 정보",
-            "content": "런치와 디너 뷔페 모두 이용 가능하며, 기간 한정으로 운영되니 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "호텔 뷔페 이용 안내 사인"
-          },
-          {
-            "title": "꿀팁",
-            "content": "사전 예약 시 더 편리하게 이용 가능하며, 호텔 공식 웹사이트에서 최신 정보를 확인해보세요.",
-            "alt_text": "호텔 예약 웹사이트 화면 캡처"
-          }
-        ],
-        "caption": "🍁 도쿄 여행 중 특별한 미식 경험을 원한다면? 🍁\n도쿄 웨스틴 호텔에서 9월 1일부터 11월 6일까지 열리는 '가을의 수확제 ~옥토버페스트~' 뷔페를 놓치지 마세요! 🎃\n버섯, 단호박, 고구마 등 제철 식재료로 만든 다채로운 요리와 세계 각국의 요리를 맛볼 수 있습니다. 🍂\n가을의 맛과 분위기를 한껏 즐길 수 있는 기회, 지금 바로 예약하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄맛집",
-          "#웨스틴호텔",
-          "#호텔뷔페",
-          "#가을여행",
-          "#도쿄뷔페",
-          "#일본맛집",
-          "#미식여행",
-          "#여행정보",
-          "#도쿄호텔",
-          "#가을축제",
-          "#일본음식",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "호텔 뷔페 레스토랑 내부 모습",
-          "신선한 가을 채소와 과일이 담긴 샐러드",
-          "다양한 국가의 요리가 진열된 뷔페 테이블",
-          "호텔 뷔페 이용 안내 사인",
-          "호텔 예약 웹사이트 화면 캡처"
-        ]
-      },
-      "marketer_analysis": "타겟: 미식과 특별한 경험을 추구하는 한국인 여행객 / 최적 게시 시간: 저녁 7시 ~ 9시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 기간 한정, 고급 호텔의 특별한 뷔페 정보로 희소성 높음",
-      "image": {
-        "keyword": "Tokyo Westin Hotel autumn buffet, Japanese fall food, international cuisine buffet, Octoberfest buffet, seasonal ingredients, hotel dining experience",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Westin-Hotel-autumn-buffet,-Japanese-fall-food,-international-cuisine-buffet,-Octoberfest-buffet,-seasonal-ingredients,-hotel-dining-experience",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Westin%20Hotel%20autumn%20buffet,%20Japanese%20fall%20food,%20international%20cuisine%20buffet,%20Octoberfest%20buffet,%20seasonal%20ingredients,%20hotel%20dining%20experience/"
       }
     }
   ]
