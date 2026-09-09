@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-08T04:24:00.094748",
+  "last_updated": "2026-09-09T01:15:19.934401",
   "plans": [
+    {
+      "id": "plan_c6aefb3d",
+      "created_at": "2026-09-09T01:15:17.934257",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ゆるキャン△×矢作ダム、スタンプラリー実施。志摩リン＆おじいちゃんの限定ダムカードもらえる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139167.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 애니메이션 '유루캠△' 팬이라면 놓칠 수 없는 한정판 굿즈 획득 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨유루캠△ 스탬프 랠리✨",
+        "cards": [
+          {
+            "title": "스탬프 랠리 시작!",
+            "content": "일본 아이치현 야하기 댐에서 '유루캠△'와 함께하는 스탬프 랠리가 9월 11일부터 시작됩니다.",
+            "alt_text": "유루캠△ 캐릭터가 등장하는 스탬프 랠리 포스터 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "대상 점포에서 500엔 이상 구매 시 스탬프 1개를 받을 수 있습니다. 총 8개의 스탬프를 모으면 됩니다.",
+            "alt_text": "스탬프 랠리 안내 표지판 이미지"
+          },
+          {
+            "title": "한정판 굿즈 증정!",
+            "content": "스탬프 8개를 모두 모으면 '시마린과 할아버지'가 그려진 특별 기념 댐 카드를 받을 수 있습니다.",
+            "alt_text": "유루캠△ 캐릭터가 그려진 한정판 댐 카드 이미지"
+          },
+          {
+            "title": "수량 한정!",
+            "content": "기념 댐 카드는 선착순 3,000개이며, 소진 시 증정 이벤트가 종료됩니다.",
+            "alt_text": "수량 한정임을 알리는 깃발 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "아이치현 방문 예정이라면, 야하기 댐 주변의 아름다운 자연과 함께 특별한 추억을 만들어보세요!",
+            "alt_text": "일본의 아름다운 댐과 자연 풍경 이미지"
+          }
+        ],
+        "caption": "💖일본 애니메이션 '유루캠△' 팬 주목!💖\n아이치현 야하기 댐에서 특별한 스탬프 랠리가 진행됩니다.\n500엔 이상 구매 시 스탬프 1개, 총 8개 모으면 한정판 '시마린 & 할아버지' 댐 카드 증정!🎁\n선착순 3,000개 한정이니 서둘러 참여하세요! 🏃‍♀️💨\n#유루캠△ #일본여행 #아이치현 #야하기댐 #스탬프랠리",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유루캠△",
+          "#일본애니",
+          "#아이치현",
+          "#야하기댐",
+          "#스탬프랠리",
+          "#일본이벤트",
+          "#한정판굿즈",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본축제",
+          "#여행꿀팁",
+          "#덕후여행",
+          "#일본스타그램"
+        ],
+        "alt_texts": [
+          "유루캠△ 캐릭터가 등장하는 스탬프 랠리 포스터 이미지",
+          "스탬프 랠리 안내 표지판 이미지",
+          "유루캠△ 캐릭터가 그려진 한정판 댐 카드 이미지",
+          "수량 한정임을 알리는 깃발 이미지",
+          "일본의 아름다운 댐과 자연 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 애니메이션 '유루캠△' 팬층 및 아이치현 방문 예정 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 참여율 및 정보 공유 / 이 콘텐츠의 강점: 특정 팬층을 공략하는 희소성 높은 이벤트 정보",
+      "image": {
+        "keyword": "YuruCamp x Yahagi Dam stamp rally, limited edition dam card, anime event Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/YuruCamp-x-Yahagi-Dam-stamp-rally,-limited-edition-dam-card,-anime-event-Japan",
+        "pexels_url": "https://www.pexels.com/search/YuruCamp%20x%20Yahagi%20Dam%20stamp%20rally,%20limited%20edition%20dam%20card,%20anime%20event%20Japan/"
+      }
+    },
+    {
+      "id": "plan_ff944d60",
+      "created_at": "2026-09-09T01:15:12.528356",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「Suicaのペンギン カトラリー＆ポーチセット」発売。JRE MALLで数量限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139206.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여운 'Suica 펭귄' 굿즈, 놓치면 후회할 한정판 득템 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🐧✨Suica 펭귄 굿즈 한정판!",
+        "cards": [
+          {
+            "title": "한정판 굿즈 출시!",
+            "content": "JR동일본 호텔즈 호텔 메트로폴리탄에서 'Suica 펭귄 커트러리 & 파우치 세트'를 9월 14일 12시부터 수량 한정으로 판매합니다.",
+            "alt_text": "Suica 펭귄 캐릭터가 그려진 커트러리와 파우치 세트 이미지"
+          },
+          {
+            "title": "구매처 확인!",
+            "content": "구매는 JR E MALL에 입점한 메트로폴리탄 호텔즈 샵에서 가능합니다. 온라인으로 편리하게 주문하세요.",
+            "alt_text": "JRE MALL 로고 또는 웹사이트 화면 캡처"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 2,300엔이며, 별도의 배송비가 추가됩니다. 서둘러야 득템할 수 있어요!",
+            "alt_text": "가격 정보가 표시된 상품 이미지 또는 텍스트"
+          },
+          {
+            "title": "수량 한정!",
+            "content": "인기 캐릭터 상품으로 조기 품절이 예상됩니다. 관심 있다면 출시 즉시 구매하는 것을 추천합니다.",
+            "alt_text": "품절 또는 한정 수량임을 나타내는 아이콘 또는 텍스트"
+          },
+          {
+            "title": "여행 선물로 딱!",
+            "content": "귀여운 Suica 펭귄 굿즈는 일본 여행 기념품이나 선물용으로도 안성맞춤입니다. 놓치지 마세요!",
+            "alt_text": "선물 포장된 굿즈 이미지 또는 친구에게 선물하는 모습"
+          }
+        ],
+        "caption": "일본 여행 중 귀여운 기념품 찾고 있다면 주목! 🐧✨\n\n9월 14일 12시부터 JR동일본 호텔즈에서 'Suica 펭귄 커트러리 & 파우치 세트'를 수량 한정 판매합니다.\n\n가격은 2,300엔 (배송비 별도)이며, JRE MALL에서 구매 가능해요.\n\n인기 상품이라 빠르게 품절될 수 있으니, 관심 있다면 알림 설정 필수!\n\n#일본여행 #플라잉재팬 #Suica펭귄 #일본굿즈 #한정판 #여행선물 #쇼핑정보 #JR동일본 #JRE MALL #일본기념품 #여행준비 #득템찬스 #일본쇼핑 #여행꿀팁 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica펭귄",
+          "#일본굿즈",
+          "#한정판",
+          "#여행선물",
+          "#쇼핑정보",
+          "#JR동일본",
+          "#JRE MALL",
+          "#일본기념품",
+          "#여행준비",
+          "#득템찬스",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#일본여행정보"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 캐릭터가 그려진 커트러리와 파우치 세트 이미지",
+          "JRE MALL 로고 또는 웹사이트 화면 캡처",
+          "가격 정보가 표시된 상품 이미지 또는 텍스트",
+          "품절 또는 한정 수량임을 나타내는 아이콘 또는 텍스트",
+          "선물 포장된 굿즈 이미지 또는 친구에게 선물하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 귀여운 캐릭터와 한정판이라는 희소성을 결합하여 구매 욕구 자극",
+      "image": {
+        "keyword": "Suica penguin cutlery pouch set limited edition Japan travel souvenir JRE MALL hotel metropolitan",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-cutlery-pouch-set-limited-edition-Japan-travel-souvenir-JRE-MALL-hotel-metropolitan",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20cutlery%20pouch%20set%20limited%20edition%20Japan%20travel%20souvenir%20JRE%20MALL%20hotel%20metropolitan/"
+      }
+    },
     {
       "id": "plan_315b6354",
       "created_at": "2026-09-08T04:23:58.094527",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Westin Hotel autumn buffet, Japanese fall food, international cuisine buffet, Octoberfest buffet, seasonal ingredients, hotel dining experience",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Westin-Hotel-autumn-buffet,-Japanese-fall-food,-international-cuisine-buffet,-Octoberfest-buffet,-seasonal-ingredients,-hotel-dining-experience",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Westin%20Hotel%20autumn%20buffet,%20Japanese%20fall%20food,%20international%20cuisine%20buffet,%20Octoberfest%20buffet,%20seasonal%20ingredients,%20hotel%20dining%20experience/"
-      }
-    },
-    {
-      "id": "plan_bbf5c57b",
-      "created_at": "2026-09-05T04:15:33.841045",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本、大雨で首都圏在来線で遅れや運休の可能性　9月6日夜から7日にかけて",
-        "url": "https://www.traicy.com/posts/20260904381069/",
-        "date": "Fri, 04 Sep 2026 13:08:02 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 수도권 대중교통 이용 시 꼭 확인해야 할 필수 정보!"
-      },
-      "content": {
-        "thumbnail_title": "⚠️도쿄 대중교통 멈춤 경고! 🚨",
-        "cards": [
-          {
-            "title": "9/6 밤~7",
-            "content": "JR동일본, 9월 6일 밤부터 7일까지 수도권 지역 열차 운행에 차질 예상됩니다. 폭우 예보로 인한 지연, 행선지 변경, 운휴 가능성이 있습니다.",
-            "alt_text": "JR동일본 열차 운행 정보 안내"
-          },
-          {
-            "title": "운행 구간",
-            "content": "영향을 받을 수 있는 노선은 야마노테선, 주오선 쾌속, 도카이도선, 게이힌토호쿠선 등입니다. 해당 구간 이용 예정이라면 사전 확인 필수입니다.",
-            "alt_text": "JR동일본 수도권 노선도"
-          },
-          {
-            "title": "대체 교통",
-            "content": "열차 운휴 또는 지연 시, 버스나 택시 등 대체 교통편을 미리 알아보시는 것이 좋습니다. 특히 출퇴근 시간대는 혼잡이 예상됩니다.",
-            "alt_text": "도쿄 시내 버스 및 택시"
-          },
-          {
-            "title": "실시간 정보",
-            "content": "JR동일본 공식 홈페이지나 앱을 통해 실시간 운행 정보를 확인하실 수 있습니다. 출발 전 반드시 최신 정보를 확인하세요.",
-            "alt_text": "JR동일본 공식 앱 화면 캡처"
-          },
-          {
-            "title": "여행 팁",
-            "content": "갑작스러운 교통편 변경에 대비해 여행 일정을 여유롭게 계획하고, 비상 연락망을 미리 준비해두는 것이 좋습니다. 짐은 최소화하세요!",
-            "alt_text": "여행 가방을 든 여행자"
-          }
-        ],
-        "caption": "✈️ 도쿄 여행 중이라면 주목! ✈️\n\n9월 6일 밤부터 7일까지 JR동일본 수도권 노선에 폭우로 인한 운행 지연, 변경, 운휴가 발생할 수 있어요. ☔️\n\n야마노테선, 주오선 쾌속 등 주요 노선 이용 예정이라면 꼭! 실시간 운행 정보 확인하고, 여유로운 일정 계획하세요! 🗓️\n\n#일본여행 #도쿄여행 #JR동일본 #교통정보 #폭우대비 #여행필수",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#JR동일본",
-          "#일본교통",
-          "#열차운휴",
-          "#열차지연",
-          "#여행정보",
-          "#일본날씨",
-          "#9월일본여행",
-          "#안전여행",
-          "#도쿄",
-          "#일본대중교통",
-          "#여행꿀팁",
-          "#일본"
-        ],
-        "alt_texts": [
-          "JR동일본 열차 운행 정보 안내",
-          "JR동일본 수도권 노선도",
-          "도쿄 시내 버스 및 택시",
-          "JR동일본 공식 앱 화면 캡처",
-          "여행 가방을 든 여행자"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄를 방문하는 한국인 여행자 / 최적 게시 시간: 여행 전날 오후 또는 당일 오전 / 기대 반응: 정보의 유용성에 대한 긍정적 피드백, 저장 및 공유 증가 / 이 콘텐츠의 강점: 시기적절한 재해/안전 정보로 여행 중 발생할 수 있는 불편을 최소화하는 실질적인 도움 제공",
-      "image": {
-        "keyword": "Tokyo public transport, heavy rain warning, JR East train, travel disruption, weather alert",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-public-transport,-heavy-rain-warning,-JR-East-train,-travel-disruption,-weather-alert",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20public%20transport,%20heavy%20rain%20warning,%20JR%20East%20train,%20travel%20disruption,%20weather%20alert/"
-      }
-    },
-    {
-      "id": "plan_22b6cac2",
-      "created_at": "2026-09-05T04:15:28.614025",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ダブルツリーbyヒルトン大阪城、「栗とマスカットのキャッスルアフタヌーンティー」を提供　9月1日から",
-        "url": "https://www.traicy.com/posts/20260905380060/",
-        "date": "Fri, 04 Sep 2026 23:15:15 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카에서만 즐길 수 있는 특별한 가을 애프터눈 티!"
-      },
-      "content": {
-        "thumbnail_title": "🍁오사카 성 뷰 애프터눈 티☕️",
-        "cards": [
-          {
-            "title": "기간 한정!",
-            "content": "더블트리 by 힐튼 오사카 성에서 '밤과 머스캣 캐슬 애프터눈 티'를 9월 1일부터 11월 15일까지 제공합니다.",
-            "alt_text": "가을 분위기의 애프터눈 티 세트 이미지"
-          },
-          {
-            "title": "특별한 메뉴",
-            "content": "일본산 밤과 싱그러운 머스캣을 활용한 달콤한 디저트들이 3단 스탠드에 예쁘게 담겨 나옵니다.",
-            "alt_text": "밤과 머스캣으로 만든 디저트 클로즈업 이미지"
-          },
-          {
-            "title": "오사카 성을 담다",
-            "content": "특히 최상단에는 오사카 성을 형상화한 밤 무스와 초록색 사브레로 특별함을 더했습니다.",
-            "alt_text": "오사카 성 모양의 디저트 이미지"
-          },
-          {
-            "title": "가을의 맛",
-            "content": "밤의 부드러움과 머스캣의 상큼함이 어우러져 가을의 정취를 물씬 느낄 수 있는 메뉴입니다.",
-            "alt_text": "다양한 종류의 디저트와 음료가 담긴 테이블 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "여행 중 특별한 추억을 만들고 싶다면, 미리 예약하는 것을 추천합니다. 오사카 성 전망과 함께 즐겨보세요!",
-            "alt_text": "창밖으로 보이는 오사카 성과 애프터눈 티가 놓인 테이블 이미지"
-          }
-        ],
-        "caption": "🍁오사카에서만 즐길 수 있는 가을의 맛!🍁\n더블트리 by 힐튼 오사카 성에서 9월 1일부터 11월 15일까지 '밤과 머스캣 캐슬 애프터눈 티'를 선보입니다. 🌰🍇\n오사카 성을 형상화한 시그니처 디저트와 함께 달콤하고 특별한 시간을 보내세요!\n\n#오사카여행 #호캉스 #애프터눈티",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#오사카여행",
-          "#오사카호텔",
-          "#애프터눈티",
-          "#기간한정",
-          "#가을여행",
-          "#디저트",
-          "#힐튼호텔",
-          "#더블트리힐튼",
-          "#오사카성",
-          "#일본디저트",
-          "#여행스타그램",
-          "#먹스타그램"
-        ],
-        "alt_texts": [
-          "가을 분위기의 애프터눈 티 세트 이미지",
-          "밤과 머스캣으로 만든 디저트 클로즈업 이미지",
-          "오사카 성 모양의 디저트 이미지",
-          "다양한 종류의 디저트와 음료가 담긴 테이블 이미지",
-          "창밖으로 보이는 오사카 성과 애프터눈 티가 놓인 테이블 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카를 방문하는 20-40대 여성 여행객 / 최적 게시 시간: 오후 3-5시 (애프터눈 티 타임과 연관) / 기대 반응: 예약 문의 증가, #오사카여행 관련 바이럴 / 이 콘텐츠의 강점: 기간 한정, 특별한 메뉴, 아름다운 비주얼, 오사카 성과의 연계성",
-      "image": {
-        "keyword": "Osaka, Afternoon Tea, Hilton, Autumn, Dessert, Japan, Limited Time, Castle View",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka,-Afternoon-Tea,-Hilton,-Autumn,-Dessert,-Japan,-Limited-Time,-Castle-View",
-        "pexels_url": "https://www.pexels.com/search/Osaka,%20Afternoon%20Tea,%20Hilton,%20Autumn,%20Dessert,%20Japan,%20Limited%20Time,%20Castle%20View/"
       }
     }
   ]
