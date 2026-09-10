@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-10T01:04:23.161219",
+  "last_updated": "2026-09-10T04:27:36.985970",
   "plans": [
+    {
+      "id": "plan_ab31155a",
+      "created_at": "2026-09-10T04:27:34.985792",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "リーベルホテル大阪、スパ利用付き素泊まりプランが50％オフに。3～4名のグループ向け、天然温泉・サウナも使える",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139492.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 호텔 숙박+온천/사우나 무제한 이용, 50% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🔥오사카 호텔 50% 할인!🔥",
+        "cards": [
+          {
+            "title": "리벨 호텔 할인",
+            "content": "리벨 호텔 오사카에서 스파 이용 포함된 숙박 플랜을 50% 할인된 가격으로 만나보세요. 3~4명 그룹 여행객에게 특히 추천합니다.",
+            "alt_text": "리벨 호텔 오사카 외관 이미지"
+          },
+          {
+            "title": "천연 온천 & 사우나",
+            "content": "할인 플랜 이용 시, 호텔 내에 마련된 천연 온천과 사우나를 무제한으로 이용할 수 있습니다. 여행의 피로를 풀기 딱 좋아요.",
+            "alt_text": "호텔 스파 내부 이미지"
+          },
+          {
+            "title": "할인 기간 확인",
+            "content": "이 특별 할인은 10월 1일까지 진행되는 '라쿠텐 트래블 슈퍼 세일' 기간 동안 적용됩니다. 서둘러 예약하세요!",
+            "alt_text": "달력에 10월 1일 표시 이미지"
+          },
+          {
+            "title": "추가 할인 가능",
+            "content": "현재 배포 중인 쿠폰을 함께 사용하면 최대 35% 추가 할인이 가능합니다. 놓치면 후회할 기회!",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "3~4명 그룹이라면 1인당 숙박비 부담을 크게 줄일 수 있어요. 온천과 사우나까지 즐길 수 있으니 가성비 최고!",
+            "alt_text": "웃는 얼굴의 사람들 이미지"
+          }
+        ],
+        "caption": "오사카 여행 계획 중이라면 주목! 🤩\n리벨 호텔 오사카에서 스파 이용 포함 숙박 플랜을 무려 50% 할인된 가격으로 즐길 수 있어요.\n천연 온천과 사우나까지 무제한 이용 가능! ♨️\n10월 1일까지 진행되는 라쿠텐 트래블 슈퍼 세일 기간 놓치지 마세요!\n지금 바로 예약하고 알찬 오사카 여행을 만들어보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카호텔",
+          "#리벨호텔",
+          "#일본숙소",
+          "#일본온천",
+          "#일본사우나",
+          "#라쿠텐트래블",
+          "#일본할인",
+          "#가성비여행",
+          "#여행꿀팁",
+          "#오사카",
+          "#일본",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "리벨 호텔 오사카 외관 이미지",
+          "호텔 스파 내부 이미지",
+          "달력에 10월 1일 표시 이미지",
+          "할인 쿠폰 이미지",
+          "웃는 얼굴의 사람들 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-40대 한국인 커플 및 소규모 그룹 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 예약률 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 파격적인 할인율, 숙박+체험(온천/사우나) 결합, 명확한 기간 정보",
+      "image": {
+        "keyword": "Osaka hotel discount, Onsen spa, Rakuten travel sale",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-hotel-discount,-Onsen-spa,-Rakuten-travel-sale",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20hotel%20discount,%20Onsen%20spa,%20Rakuten%20travel%20sale/"
+      }
+    },
+    {
+      "id": "plan_e886ac6c",
+      "created_at": "2026-09-10T04:27:29.767180",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ディズニー・クリスマス」イベントまとめ。リルリンリン盛りだくさん、フードはパーティーバケット初登場",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139575.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니랜드에서 펼쳐지는 크리스마스 시즌 한정 이벤트 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🎄도쿄 디즈니 크리스마스 시작!🎄",
+        "cards": [
+          {
+            "title": "이벤트 기간",
+            "content": "도쿄 디즈니리조트에서 '디즈니・크리스마스' 이벤트를 2023년 11월 11일부터 12월 25일까지 개최합니다.",
+            "alt_text": "디즈니랜드 크리스마스 일루미네이션"
+          },
+          {
+            "title": "リルリンリン 가득!",
+            "content": "귀여운 산타 모자를 쓴 캐릭터 '릴린린'을 테마로 한 다채로운 장식과 퍼레이드를 즐길 수 있습니다.",
+            "alt_text": "디즈니 캐릭터 릴린린"
+          },
+          {
+            "title": "파티 버킷 첫 등장",
+            "content": "올해는 특별히 '파티 버킷'이 처음으로 선보이며, 맛있는 음식과 함께 특별한 경험을 선사합니다.",
+            "alt_text": "디즈니랜드 크리스마스 음식"
+          },
+          {
+            "title": "온 세상이 크리스마스",
+            "content": "화려한 일루미네이션과 캐럴이 울려 퍼지는 디즈니랜드에서 잊지 못할 크리스마스 추억을 만들어보세요.",
+            "alt_text": "디즈니랜드 야경"
+          },
+          {
+            "title": "방문 팁",
+            "content": "크리스마스 시즌은 매우 인기가 많으니, 방문 전 티켓 예매와 숙소 예약을 미리 완료하는 것이 좋습니다. 특히 주말과 공휴일은 혼잡하니 평일 방문을 추천합니다.",
+            "alt_text": "디즈니랜드 지도"
+          }
+        ],
+        "caption": "✨도쿄 디즈니리조트에서 환상적인 크리스마스를 만끽하세요!✨\n\n11월 11일부터 12월 25일까지 열리는 '디즈니・크리스마스' 이벤트! \n귀여운 릴린린 캐릭터와 함께하는 특별한 퍼레이드와 함께, 올해 처음 등장하는 '파티 버킷'으로 맛있는 시간을 즐겨보세요!\n\n겨울왕국처럼 아름다운 디즈니랜드에서 잊지 못할 크리스마스 추억을 만들어가세요!\n\n✅ 지금 바로 여행 계획 세우고, 미리 티켓 예매하세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니크리스마스",
+          "#도쿄여행",
+          "#크리스마스",
+          "#일본축제",
+          "#릴린린",
+          "#디즈니",
+          "#겨울여행",
+          "#일본이벤트",
+          "#여행정보",
+          "#디즈니랜드",
+          "#겨울왕국",
+          "#연말여행"
+        ],
+        "alt_texts": [
+          "디즈니랜드 크리스마스 일루미네이션",
+          "디즈니 캐릭터 릴린린",
+          "디즈니랜드 크리스마스 음식",
+          "디즈니랜드 야경",
+          "디즈니랜드 지도"
+        ]
+      },
+      "marketer_analysis": "타겟: 연말 시즌 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 이벤트 정보에 대한 높은 관심, 방문 계획 문의 증가 / 이 콘텐츠의 강점: 시즌성 높은 이벤트 정보, 구체적인 날짜와 테마 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas, Rilururin",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas,-Rilururin",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas,%20Rilururin/"
+      }
+    },
     {
       "id": "plan_1da47298",
       "created_at": "2026-09-10T01:04:21.161054",
@@ -923,160 +1077,6 @@
         "keyword": "Japan train disruption, Kumamoto earthquake damage, Kyushu train, alternative bus service, travel alert Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-train-disruption,-Kumamoto-earthquake-damage,-Kyushu-train,-alternative-bus-service,-travel-alert-Japan",
         "pexels_url": "https://www.pexels.com/search/Japan%20train%20disruption,%20Kumamoto%20earthquake%20damage,%20Kyushu%20train,%20alternative%20bus%20service,%20travel%20alert%20Japan/"
-      }
-    },
-    {
-      "id": "plan_cad4c21d",
-      "created_at": "2026-09-07T01:01:27.276054",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "千歳線の新駅、名称を「Fビレッジ駅」に決定　エスコンフィールド最寄り",
-        "url": "https://www.traicy.com/posts/20260907381273/",
-        "date": "Sun, 06 Sep 2026 22:15:39 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 홋카이도 여행 시 꼭 알아야 할 신규 교통 정보!"
-      },
-      "content": {
-        "thumbnail_title": "홋카이도 신역 ⚾️ Fビレッジ駅 개통!",
-        "cards": [
-          {
-            "title": "신역명 결정",
-            "content": "일본 홋카이도 북히로시마시에 건설 중인 치토세선 신역의 명칭이 'Fビレッジ駅(F빌리지역)'으로 결정되었습니다. 2024년 3월 개통 예정입니다.",
-            "alt_text": "홋카이도 북히로시마시에 건설 중인 F빌리지역 조감도"
-          },
-          {
-            "title": "위치",
-            "content": "이 신역은 홋카이도 볼파크 F빌리지 바로 옆에 위치하며, 일본 프로야구 홋카이도 닛폰햄 파이터스의 홈구장인 에스콘 필드와 가장 가까운 역이 됩니다.",
-            "alt_text": "F빌리지역과 에스콘 필드 야구장의 위치를 나타내는 지도"
-          },
-          {
-            "title": "이동 편의성 UP",
-            "content": "기존에는 역에서 F빌리지까지 도보 이동이 필요했지만, F빌리지역 개통으로 삿포로 시내 및 신치토세 공항에서의 접근성이 크게 향상될 예정입니다.",
-            "alt_text": "삿포로 시내에서 F빌리지역으로 가는 교통 노선도"
-          },
-          {
-            "title": "주요 노선",
-            "content": "치토세선은 삿포로역과 신치토세 공항역을 잇는 주요 노선으로, F빌리지역 신설로 삿포로 시내 관광객들의 F빌리지 방문이 더욱 편리해집니다.",
-            "alt_text": "치토세선 노선도와 F빌리지역 위치 표시"
-          },
-          {
-            "title": "여행 팁",
-            "content": "2024년 3월 이후 홋카이도 여행 계획 중이시라면, F빌리지역 개통 정보를 꼭 확인하세요! 특히 야구 경기 관람이나 F빌리지 방문 시 이동 시간을 크게 절약할 수 있습니다.",
-            "alt_text": "F빌리지역에서 야구 경기를 관람하는 팬들의 모습"
-          }
-        ],
-        "caption": "홋카이도 삿포로 여행 필수 정보! ⚾️ Fビレッジ駅(F빌리지역)이 2024년 3월 개통 예정입니다. 홋카이도 볼파크 F빌리지와 에스콘 필드 야구장 바로 앞에 생기는 신역으로, 삿포로 시내 및 신치토세 공항에서의 접근성이 더욱 좋아집니다. 홋카이도 여행 계획 시 꼭 참고하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도여행",
-          "#삿포로여행",
-          "#F빌리지역",
-          "#치토세선",
-          "#일본교통",
-          "#홋카이도",
-          "#일본신상",
-          "#여행정보",
-          "#일본신역",
-          "#에스콘필드",
-          "#삿포로",
-          "#일본",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "홋카이도 북히로시마시에 건설 중인 F빌리지역 조감도",
-          "F빌리지역과 에스콘 필드 야구장의 위치를 나타내는 지도",
-          "삿포로 시내에서 F빌리지역으로 가는 교통 노선도",
-          "치토세선 노선도와 F빌리지역 위치 표시",
-          "F빌리지역에서 야구 경기를 관람하는 팬들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 지역 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 정보 검색이 활발한 저녁 시간 (19시~21시) / 기대 반응: 정보 유용성에 대한 긍정적 반응 및 저장, 공유 / 이 콘텐츠의 강점: 일본 여행자에게 실질적으로 필요한 최신 교통 정보 제공",
-      "image": {
-        "keyword": "Hokkaido F Village Station, Sapporo travel, Japan new train station, Es Con Field Hokkaido, Hokkaido transportation",
-        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-F-Village-Station,-Sapporo-travel,-Japan-new-train-station,-Es-Con-Field-Hokkaido,-Hokkaido-transportation",
-        "pexels_url": "https://www.pexels.com/search/Hokkaido%20F%20Village%20Station,%20Sapporo%20travel,%20Japan%20new%20train%20station,%20Es%20Con%20Field%20Hokkaido,%20Hokkaido%20transportation/"
-      }
-    },
-    {
-      "id": "plan_ce89b248",
-      "created_at": "2026-09-07T01:01:21.930832",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "中部国際空港T1の国内線に「プラザ・プレミアム・ラウンジ」、9月7日オープン　JALとANAの指定ラウンジに",
-        "url": "https://www.traicy.com/posts/20260907380777/",
-        "date": "Mon, 07 Sep 2026 00:15:22 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 입국 전후 공항에서 편안하게 쉬어갈 수 있는 신규 라운지 오픈 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️나고야 공항 새 라운지 오픈!",
-        "cards": [
-          {
-            "title": "신규 라운지 오픈",
-            "content": "나고야 주부 국제공항 제1터미널 국내선 구역에 '플라자 프리미엄 라운지 나고야(국내선 출발)'가 9월 7일에 문을 열었습니다. JAL 및 ANA 항공편 이용객에게 특히 유용한 소식입니다.",
-            "alt_text": "나고야 주부 국제공항 제1터미널 국내선 구역"
-          },
-          {
-            "title": "편의 시설",
-            "content": "라운지에서는 스낵과 음료(주류 포함)를 제공하며, 무료 Wi-Fi와 충전 설비를 갖추고 있어 여행 전후 휴식과 업무를 보기에 좋습니다.",
-            "alt_text": "라운지 내부의 편안한 좌석과 테이블"
-          },
-          {
-            "title": "좌석 규모",
-            "content": "총 149석 규모로, 넉넉한 좌석을 확보하여 여유롭게 이용할 수 있습니다. 붐비는 시간대에도 편안하게 이용할 가능성이 높습니다.",
-            "alt_text": "넓고 쾌적한 라운지 내부 전경"
-          },
-          {
-            "title": "이용 대상",
-            "content": "JAL (일본항공) 및 ANA (전일본공수) 항공편 이용객 중 해당 항공사 지정 라운지 이용 자격이 있는 분들이 이용할 수 있습니다. 이용 전 자격 여부를 확인하세요.",
-            "alt_text": "JAL 및 ANA 항공사 로고"
-          },
-          {
-            "title": "꿀팁",
-            "content": "나고야 공항 도착/출발 시, 이용 가능한 라운지가 있는지 미리 확인하고 방문하면 더욱 알찬 여행을 계획할 수 있습니다. 특히 경유 시 유용합니다.",
-            "alt_text": "공항 안내 표지판과 라운지 입구"
-          }
-        ],
-        "caption": "✈️ 나고야 주부 국제공항에서 편안하게 쉬어가세요! ✈️\n\n9월 7일, 나고야 주부 국제공항 제1터미널 국내선에 '플라자 프리미엄 라운지 나고야'가 오픈했습니다. JAL, ANA 이용객이라면 주목!\n\n✅ 스낵 & 음료 (주류 포함)\n✅ 무료 Wi-Fi & 충전 설비\n✅ 149석 규모\n\n일본 여행의 시작과 끝을 편안하게 만들어 줄 신규 라운지 정보를 놓치지 마세요!\n\n#일본여행 #나고야공항 #주부국제공항 #라운지 #JAL #ANA #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나고야여행",
-          "#주부국제공항",
-          "#센트레아",
-          "#공항라운지",
-          "#JAL",
-          "#ANA",
-          "#일본입국",
-          "#일본출국",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본교통",
-          "#일본항공",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "나고야 주부 국제공항 제1터미널 국내선 구역",
-          "라운지 내부의 편안한 좌석과 테이블",
-          "넓고 쾌적한 라운지 내부 전경",
-          "JAL 및 ANA 항공사 로고",
-          "공항 안내 표지판과 라운지 입구"
-        ]
-      },
-      "marketer_analysis": "타겟: 나고야를 경유하거나 나고야에서 일본 국내선으로 환승하는 한국인 여행자 / 최적 게시 시간: 평일 오전 9시~11시 또는 오후 7시~9시 / 기대 반응: 정보 유용성에 대한 긍정적인 반응, 라운지 이용 문의 / 이 콘텐츠의 강점: 신규 오픈 정보로 시의성이 높고, 공항 이용객에게 직접적인 혜택을 제공하는 실용적인 정보임.",
-      "image": {
-        "keyword": "Chubu Centrair International Airport, Plaza Premium Lounge, domestic flight terminal, Japan Airlines, All Nippon Airways, airport lounge, travel convenience, Wi-Fi, charging station",
-        "unsplash_url": "https://unsplash.com/s/photos/Chubu-Centrair-International-Airport,-Plaza-Premium-Lounge,-domestic-flight-terminal,-Japan-Airlines,-All-Nippon-Airways,-airport-lounge,-travel-convenience,-Wi-Fi,-charging-station",
-        "pexels_url": "https://www.pexels.com/search/Chubu%20Centrair%20International%20Airport,%20Plaza%20Premium%20Lounge,%20domestic%20flight%20terminal,%20Japan%20Airlines,%20All%20Nippon%20Airways,%20airport%20lounge,%20travel%20convenience,%20Wi-Fi,%20charging%20station/"
       }
     }
   ]
