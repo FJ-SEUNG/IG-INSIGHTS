@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-11T01:06:05.891090",
+  "last_updated": "2026-09-11T04:26:59.641411",
   "plans": [
+    {
+      "id": "plan_70c2a1e0",
+      "created_at": "2026-09-11T04:26:57.641315",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシー、「イマジニング・ザ・マジック」25周年グッズ第1弾詳細を発表。アクアスフィア型のブランケットほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140150.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후 심쿵! 도쿄 디즈니씨 25주년 한정 굿즈 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✨25주년! 디즈니씨 굿즈✨",
+        "cards": [
+          {
+            "title": "25주년 굿즈!",
+            "content": "도쿄 디즈니씨 25주년 기념 '이매지닝 더 매직' 신규 굿즈가 10월 15일에 출시됩니다.",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 굿즈 이미지"
+          },
+          {
+            "title": "아쿠아스피어 담요",
+            "content": "이번 신상품 중에는 디즈니씨의 상징인 '아쿠아스피어' 모양의 블랭킷이 포함되어 있습니다.",
+            "alt_text": "아쿠아스피어 모양 담요 이미지"
+          },
+          {
+            "title": "다양한 상품",
+            "content": "25주년 테마로 제작된 다양한 기념품들이 여러분을 기다리고 있습니다.",
+            "alt_text": "다양한 디즈니씨 25주년 기념 상품 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "한정판으로 출시되는 만큼, 디즈니 팬이라면 꼭 득템해야 할 아이템입니다.",
+            "alt_text": "디즈니씨 25주년 굿즈 쇼핑하는 모습 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "인기가 많을 것으로 예상되니, 오픈런 또는 온라인 구매를 미리 알아보시는 것을 추천합니다. 정확한 구매처와 시간은 추후 공지될 예정입니다.",
+            "alt_text": "도쿄 디즈니씨 입구 이미지"
+          }
+        ],
+        "caption": "💖 도쿄 디즈니씨 25주년 기념 굿즈 💖\n\n10월 15일, '이매지닝 더 매직' 테마의 25주년 한정 굿즈가 드디어 출시됩니다!\n\n특히 디즈니씨의 상징인 아쿠아스피어 모양의 블랭킷은 꼭 겟해야 할 아이템! ✨\n\n디즈니 팬이라면 절대 놓칠 수 없는 기회, 잊지 말고 방문하세요! ✈️\n\n#도쿄디즈니씨 #디즈니씨25주년 #디즈니굿즈",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨",
+          "#디즈니굿즈",
+          "#25주년",
+          "#이매지닝더매직",
+          "#일본쇼핑",
+          "#도쿄여행",
+          "#디즈니덕후",
+          "#여행정보",
+          "#한정판",
+          "#가을여행",
+          "#일본",
+          "#인스타여행"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 25주년 기념 굿즈 이미지",
+          "아쿠아스피어 모양 담요 이미지",
+          "다양한 디즈니씨 25주년 기념 상품 이미지",
+          "디즈니씨 25주년 굿즈 쇼핑하는 모습 이미지",
+          "도쿄 디즈니씨 입구 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행객, 디즈니 팬 / 최적 게시 시간: 오후 7시 ~ 9시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 신상품 정보, 구체적인 출시일 명시, 타겟층의 높은 관심 유발",
+      "image": {
+        "keyword": "Tokyo DisneySea 25th anniversary merchandise, Imaginning the Magic, Aquasphere blanket",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-merchandise,-Imaginning-the-Magic,-Aquasphere-blanket",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20merchandise,%20Imaginning%20the%20Magic,%20Aquasphere%20blanket/"
+      }
+    },
+    {
+      "id": "plan_0269eea5",
+      "created_at": "2026-09-11T04:26:52.582039",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "熊本県「九州ふっこう応援割」9月15日10時予約開始。市町村独自の旅行支援もまとめてチェック！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140172.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비 부담 확 줄여주는 꿀팁! 료칸, 액티비티 등 숙박/체험 할인받으세요!"
+      },
+      "content": {
+        "thumbnail_title": "💰쿠마모토 여행 지원금!💰",
+        "cards": [
+          {
+            "title": "쿠마모토 여행 지원",
+            "content": "일본 〒862-8577 熊本県 熊本市 中央区 水道町８−８에서 10월 1일부터 '쿠마모토 부흥 응원 할인'이 시작됩니다. 2026년 3월 31일까지 진행되니 놓치지 마세요!",
+            "alt_text": "쿠마모토 현청 건물 이미지"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "여행 지원금 예약은 9월 15일 오전 10시부터 시작됩니다. 인기 있는 숙소나 체험 상품은 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "달력에 9월 15일 표시된 이미지"
+          },
+          {
+            "title": "지원 내용",
+            "content": "숙박 시설 이용료 할인, 지역 특산품 체험 상품 할인 등 다양한 혜택이 포함될 예정입니다. 상세 내용은 추후 발표될 예정입니다.",
+            "alt_text": "온천 료칸과 지역 특산품 이미지"
+          },
+          {
+            "title": "시정촌 지원도 확인!",
+            "content": "쿠마모토현 내 각 시정촌에서도 자체적인 여행 지원 프로그램을 운영할 수 있습니다. 방문 예정인 지역의 지원 정보를 미리 확인해 보세요.",
+            "alt_text": "일본 지방 도시 지도 이미지"
+          },
+          {
+            "title": "여행 계획 세우기",
+            "content": "이번 지원금을 활용하여 평소 가고 싶었던 쿠마모토의 명소들을 더욱 저렴하게 즐길 수 있는 기회입니다. 9월 15일 예약 오픈을 놓치지 마세요!",
+            "alt_text": "쿠마모토 성 전경 이미지"
+          }
+        ],
+        "caption": "✈️일본 〒862-8577 熊本県 熊本市 中央区 水道町８−８에서 10월 1일부터 '쿠마모토 부흥 응원 할인'이 시작됩니다! 💰최대 2026년 3월 31일까지 진행되는 이번 할인으로 숙박, 체험 등 다양한 혜택을 누려보세요. 예약은 9월 15일 오전 10시부터 가능합니다! 잊지 말고 예약하세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#쿠마모토",
+          "#쿠마모토여행",
+          "#일본여행정보",
+          "#일본할인",
+          "#일본숙소",
+          "#일본체험",
+          "#여행지원금",
+          "#일본축제",
+          "#료칸",
+          "#온천",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#플라잉재팬쿠마모토"
+        ],
+        "alt_texts": [
+          "쿠마모토 현청 건물 이미지",
+          "달력에 9월 15일 표시된 이미지",
+          "온천 료칸과 지역 특산품 이미지",
+          "일본 지방 도시 지도 이미지",
+          "쿠마모토 성 전경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제공하는 실질적인 할인 정보",
+      "image": {
+        "keyword": "Kumamoto, Japan, travel discount, coupon, tourism support, accommodation, experience, hot spring, ryokan, castle, city hall",
+        "unsplash_url": "https://unsplash.com/s/photos/Kumamoto,-Japan,-travel-discount,-coupon,-tourism-support,-accommodation,-experience,-hot-spring,-ryokan,-castle,-city-hall",
+        "pexels_url": "https://www.pexels.com/search/Kumamoto,%20Japan,%20travel%20discount,%20coupon,%20tourism%20support,%20accommodation,%20experience,%20hot%20spring,%20ryokan,%20castle,%20city%20hall/"
+      }
+    },
     {
       "id": "plan_899225c5",
       "created_at": "2026-09-11T01:06:03.890931",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese hot spring resort, autumn leaves, winter snow, discount coupon, afternoon tea, ryokan",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring-resort,-autumn-leaves,-winter-snow,-discount-coupon,-afternoon-tea,-ryokan",
         "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring%20resort,%20autumn%20leaves,%20winter%20snow,%20discount%20coupon,%20afternoon%20tea,%20ryokan/"
-      }
-    },
-    {
-      "id": "plan_c49b52bd",
-      "created_at": "2026-09-08T01:12:39.611284",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルニューアカオ、1泊2食ビュッフェが最大35％オフに。熱海の昭和レトロに浸り、絶景温泉＆旬グルメを堪能",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2138910.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을/겨울 일본 온천 여행, 최대 35% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "♨️호텔뉴아카오 35% OFF♨️",
-        "cards": [
-          {
-            "title": "최대 35% 할인",
-            "content": "라쿠텐 트래블 '슈퍼 세일'에서 호텔뉴아카오 숙박 시 최대 35% 할인 혜택을 받을 수 있어요. 10월 1일까지 진행되는 이번 세일을 놓치지 마세요!",
-            "alt_text": "할인율을 나타내는 그래픽"
-          },
-          {
-            "title": "숙박 포함 혜택",
-            "content": "1박 2식 뷔페가 포함된 플랜으로, 아름다운 아타미의 쇼와 레트로 감성과 함께 제철 미식을 즐길 수 있습니다. 료칸의 온천과 맛있는 음식으로 힐링하세요.",
-            "alt_text": "뷔페 음식을 즐기는 모습"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "절경 온천과 함께 일본 특유의 레트로 감성을 느낄 수 있는 호텔뉴아카오에서 특별한 추억을 만들어보세요. 가을과 겨울 여행에 딱 맞는 곳입니다.",
-            "alt_text": "호텔 외부 풍경과 온천"
-          },
-          {
-            "title": "쿠폰 활용",
-            "content": "라쿠텐 트래블에서 제공하는 쿠폰을 함께 사용하면 할인율을 더욱 높일 수 있습니다. 세일 기간 및 쿠폰 정보를 꼼꼼히 확인하세요.",
-            "alt_text": "쿠폰 이미지를 보여주는 모습"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "가을/겨울 시즌 한정 특별 할인이니, 일본 온천 여행 계획 중이라면 지금 바로 예약하세요! 10월 1일까지 진행되니 서둘러야 합니다.",
-            "alt_text": "달력에 10월 1일을 표시한 모습"
-          }
-        ],
-        "caption": "♨️ 가을/겨울 일본 온천 여행, 최대 35% 할인 찬스! ♨️\n\n가을과 겨울, 일본 여행 계획 중이신가요? 료칸에서 힐링하며 제철 미식까지 즐길 수 있는 호텔뉴아카오 특별 할인을 놓치지 마세요!\n\n✨ 1박 2식 뷔페 포함, 최대 35% 할인\n✨ 쇼와 레트로 감성 & 절경 온천\n✨ 10월 1일까지 진행되는 라쿠텐 트래블 '슈퍼 세일'\n\n지금 바로 예약하고 특별한 일본 온천 여행을 경험해보세요! 😉\n\n#일본여행 #호텔뉴아카오 #아타미 #온천여행 #료칸 #일본온천 #일본숙소 #일본호텔 #가을여행 #겨울여행 #라쿠텐트래블 #일본자유여행 #여행할인 #플라잉재팬 #일본맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#호텔뉴아카오",
-          "#아타미",
-          "#온천여행",
-          "#료칸",
-          "#일본온천",
-          "#일본숙소",
-          "#일본호텔",
-          "#가을여행",
-          "#겨울여행",
-          "#라쿠텐트래블",
-          "#일본자유여행",
-          "#여행할인",
-          "#일본맛집"
-        ],
-        "alt_texts": [
-          "할인율을 나타내는 그래픽",
-          "뷔페 음식을 즐기는 모습",
-          "호텔 외부 풍경과 온천",
-          "쿠폰 이미지를 보여주는 모습",
-          "달력에 10월 1일을 표시한 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을/겨울 시즌 일본 온천 여행을 계획하는 2040 한국인 여행객 / 최적 게시 시간: 화요일, 목요일 오후 6-8시 / 기대 반응: 높은 예약 문의 및 저장율 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 매력적인 여행지 정보 제공",
-      "image": {
-        "keyword": "Hotel New Akao, Atami, Onsen, Japanese Ryokan, Autumn/Winter travel, Buffet, Discount, Retro Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Hotel-New-Akao,-Atami,-Onsen,-Japanese-Ryokan,-Autumn/Winter-travel,-Buffet,-Discount,-Retro-Japan",
-        "pexels_url": "https://www.pexels.com/search/Hotel%20New%20Akao,%20Atami,%20Onsen,%20Japanese%20Ryokan,%20Autumn/Winter%20travel,%20Buffet,%20Discount,%20Retro%20Japan/"
-      }
-    },
-    {
-      "id": "plan_4789bca8",
-      "created_at": "2026-09-08T01:12:34.511291",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 伊香保、1泊2食が最大35％オフ。群馬の豚すき焼きなど食べ放題、石段街さんぽも楽しめる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2138912.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을/겨울 일본 온천 여행, 최대 35% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 35% 할인!♨️",
-        "cards": [
-          {
-            "title": "할인 기간",
-            "content": "일본 최대 온라인 여행사 '라쿠텐 트래블'에서 10월 1일까지 '슈퍼 세일' 진행 중! 🍂",
-            "alt_text": "라쿠텐 트래블 로고와 가을 단풍 이미지"
-          },
-          {
-            "title": "최대 할인율",
-            "content": "전국 호텔 및 온천 숙소에서 특별 플랜 판매! 쿠폰 사용 시 최대 35% 할인 혜택을 받을 수 있어요. 💰",
-            "alt_text": "할인율 35% 표시와 쇼핑백 이미지"
-          },
-          {
-            "title": "추천 숙소",
-            "content": "군마현 '오오에도 온천 이야기 프리미엄 이카호'에서 1박 2식 포함 특별 할인 플랜 제공! ♨️",
-            "alt_text": "이카호 온천 지역의 풍경 이미지"
-          },
-          {
-            "title": "특별 메뉴",
-            "content": "이 숙소에서는 군마 명물 돼지고기 스키야키 등 다양한 음식을 무제한으로 즐길 수 있어요! 🐷",
-            "alt_text": "맛있는 돼지고기 스키야키 요리 이미지"
-          },
-          {
-            "title": "주변 즐길거리",
-            "content": "숙소 근처 '이시단가이(돌계단 거리)' 산책하며 일본 전통 거리의 매력을 느껴보세요! 🚶‍♀️",
-            "alt_text": "일본 전통 돌계단 거리 이미지"
-          }
-        ],
-        "caption": "가을/겨울 일본 여행 계획 중이라면 주목! 🍁\n라쿠텐 트래블 슈퍼 세일에서 최대 35% 할인받고 온천 여행 떠나요! ♨️\n군마현 이카호 온천 숙소에서 맛있는 스키야키도 무제한으로 즐기고, 돌계단 거리 산책까지! 🚶‍♀️\n지금 바로 라쿠텐 트래블에서 특별 할인 플랜 확인하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#라쿠텐트래블",
-          "#일본숙소",
-          "#일본할인",
-          "#가을여행",
-          "#겨울여행",
-          "#군마현",
-          "#이카호온천",
-          "#일본맛집",
-          "#온천여행",
-          "#여행팁",
-          "#일본자유여행",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "라쿠텐 트래블 로고와 가을 단풍 이미지",
-          "할인율 35% 표시와 쇼핑백 이미지",
-          "이카호 온천 지역의 풍경 이미지",
-          "맛있는 돼지고기 스키야키 요리 이미지",
-          "일본 전통 돌계단 거리 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을/겨울 일본 온천 여행을 계획하는 2040 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인율, 기간, 숙소, 메뉴, 주변 관광지 정보까지 담아 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Japan autumn onsen discount travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-autumn-onsen-discount-travel",
-        "pexels_url": "https://www.pexels.com/search/Japan%20autumn%20onsen%20discount%20travel/"
       }
     }
   ]
