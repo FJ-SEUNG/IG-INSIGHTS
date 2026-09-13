@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-12T04:24:31.435389",
+  "last_updated": "2026-09-13T01:00:51.608505",
   "plans": [
+    {
+      "id": "plan_7ad27887",
+      "created_at": "2026-09-13T01:00:49.608311",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「りくろーおじさんの店」カフェ併設店をグランフロント大阪にオープン。焼きたてチーズケーキを店内で味わえる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140216.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카에서 갓 구운 치즈케이크 맛집 오픈!"
+      },
+      "content": {
+        "thumbnail_title": "🧀오사카 신상 맛집 오픈!🧀",
+        "cards": [
+          {
+            "title": "그랑프론트 오픈!",
+            "content": "오사카에 '리쿠로 아저씨의 가게' 신규 매장이 9월 24일 오픈했어요. 그랑프론트 오사카 남관 지하 1층에서 만날 수 있습니다.",
+            "alt_text": "오사카 그랑프론트 오사카 남관 지하 1층 입구"
+          },
+          {
+            "title": "갓 구운 치즈케이크",
+            "content": "이곳에서는 갓 구운 치즈케이크를 매장 안에서 바로 맛볼 수 있어요. 따끈하고 부드러운 치즈케이크의 풍미를 그대로 느껴보세요.",
+            "alt_text": "따뜻하게 김이 나는 치즈케이크 조각"
+          },
+          {
+            "title": "새로운 경험",
+            "content": "기존 테이크아웃 위주에서 벗어나, 카페 공간을 함께 마련하여 더욱 편안하게 즐길 수 있도록 했어요.",
+            "alt_text": "카페 내부 테이블과 의자"
+          },
+          {
+            "title": "위치 정보",
+            "content": "주소는 오사카부 오사카시 기타구 오오스미초 4-20 입니다. 오사카 여행 중이라면 꼭 들러보세요!",
+            "alt_text": "매장 지도 핀"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "오픈 초기에는 웨이팅이 길 수 있으니, 오픈 시간 맞춰 방문하는 것을 추천해요. 따뜻할 때 바로 먹는 치즈케이크는 정말 최고랍니다!",
+            "alt_text": "치즈케이크를 맛있게 먹는 모습"
+          }
+        ],
+        "caption": "🧀오사카 여행 필수 코스 추가!🧀\n\n오사카 그랑프론트 오사카에 '리쿠로 아저씨의 가게' 신규 매장이 9월 24일 오픈했어요!\n\n이제는 매장 안에서 갓 구운 치즈케이크를 바로 맛볼 수 있다는 사실!\n\n따끈하고 부드러운 치즈케이크를 그대로 즐길 수 있는 절호의 기회!\n\n오사카 여행 계획 중이라면, 놓치지 마세요! 😉\n\n#플라잉재팬 #일본여행 #오사카여행 #리쿠로아저씨치즈케이크 #오사카맛집 #그랑프론트오사카",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카맛집",
+          "#리쿠로아저씨의가게",
+          "#치즈케이크",
+          "#일본디저트",
+          "#오사카신상",
+          "#그랑프론트오사카",
+          "#일본먹방",
+          "#해외여행",
+          "#여행정보",
+          "#간사이여행",
+          "#일본카페",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "오사카 그랑프론트 오사카 남관 지하 1층 입구",
+          "따뜻하게 김이 나는 치즈케이크 조각",
+          "카페 내부 테이블과 의자",
+          "매장 지도 핀",
+          "치즈케이크를 맛있게 먹는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 20-30대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 검증된 맛집의 신규 매장 오픈 정보로 즉각적인 방문 욕구 자극",
+      "image": {
+        "keyword": "Rikuro Ojisan no Mise, Grand Front Osaka, cheesecake, cafe, opening, Osaka, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Rikuro-Ojisan-no-Mise,-Grand-Front-Osaka,-cheesecake,-cafe,-opening,-Osaka,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Rikuro%20Ojisan%20no%20Mise,%20Grand%20Front%20Osaka,%20cheesecake,%20cafe,%20opening,%20Osaka,%20Japan/"
+      }
+    },
+    {
+      "id": "plan_8152eab0",
+      "created_at": "2026-09-13T01:00:44.032714",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ほぼ日×Suicaのペンギン、手帖や文具14アイテムの予約販売決定。グランスタ東京の旗艦店は当面事前予約制に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140217.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 감성 문구류 득템 찬스! 📚"
+      },
+      "content": {
+        "thumbnail_title": "Suica펜귄✨문구예약!",
+        "cards": [
+          {
+            "title": "Suica펜귄 콜라보",
+            "content": "일본 유명 브랜드 '호보이치'와 Suica의 마스코트 'Suica 펜귄'이 만난 특별한 문구류 14종이 출시됩니다. 잊지 못할 일본 여행 기념품이 될 거예요!",
+            "alt_text": "Suica 펜귄과 호보이치 브랜드 로고가 함께 있는 콜라보 상품 이미지"
+          },
+          {
+            "title": "예약 판매 기간",
+            "content": "9월 24일 오전 10시부터 10월 31일 밤 11시 59분까지, 오직 'GRANSTA MALL' 공식 온라인 샵에서만 예약 판매가 진행됩니다. 서둘러야 해요!",
+            "alt_text": "달력에 9월 24일과 10월 31일이 표시된 이미지"
+          },
+          {
+            "title": "판매 상품",
+            "content": "이번 콜라보로 수첩, 펜, 마스킹 테이프 등 다양한 디자인의 문구류 14가지 아이템을 만나볼 수 있습니다. 일본 감성 가득한 아이템들로 여행의 추억을 기록해보세요.",
+            "alt_text": "다양한 디자인의 수첩, 펜, 스티커 등 문구류 모음 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "GRANSTA MALL은 도쿄역 직영점으로, 이곳에서만 구매 가능한 한정판 상품입니다. 일본 여행 중 도쿄역에 들를 예정이라면 놓치지 마세요!",
+            "alt_text": "도쿄역 GRANSTA MALL 간판 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "예약 판매 기간을 놓치면 구매가 어려울 수 있으니, 관심 있는 분들은 기간 내에 꼭 주문하시길 바랍니다. 해외 배송 가능 여부는 별도 확인이 필요합니다.",
+            "alt_text": "경고 표시와 함께 '기간 엄수' 문구가 적힌 이미지"
+          }
+        ],
+        "caption": "🇯🇵 Suica 펜귄과 호보이치의 역대급 콜라보! ✍️\n\n일본 여행 중 특별한 기념품을 찾고 있다면 주목하세요! \nSuica 펜귄과 유명 문구 브랜드 '호보이치'가 만나 14가지 감성 아이템을 출시합니다.\n\n✨ 예약 기간: 9월 24일 10시 ~ 10월 31일 23시 59분\n✨ 구매처: GRANSTA MALL 공식 온라인 샵\n\n일본 여행의 추억을 더욱 특별하게 만들어 줄 한정판 문구류, 지금 바로 예약하세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#호보이치",
+          "#Suica펜귄",
+          "#일본문구",
+          "#도쿄여행",
+          "#여행기념품",
+          "#한정판",
+          "#일본굿즈",
+          "#GRANSTAMALL",
+          "#도쿄역",
+          "#일본감성",
+          "#여행준비",
+          "#일본쇼핑리스트"
+        ],
+        "alt_texts": [
+          "Suica 펜귄과 호보이치 브랜드 로고가 함께 있는 콜라보 상품 이미지",
+          "달력에 9월 24일과 10월 31일이 표시된 이미지",
+          "다양한 디자인의 수첩, 펜, 스티커 등 문구류 모음 이미지",
+          "도쿄역 GRANSTA MALL 간판 이미지",
+          "경고 표시와 함께 '기간 엄수' 문구가 적힌 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 일본 감성 충족",
+      "image": {
+        "keyword": "Suica penguin Hobonichi collaboration stationery Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-Hobonichi-collaboration-stationery-Japan",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20Hobonichi%20collaboration%20stationery%20Japan/"
+      }
+    },
     {
       "id": "plan_81fb3647",
       "created_at": "2026-09-12T04:24:29.435189",
@@ -923,160 +1077,6 @@
         "keyword": "Haneda Airport Disney Store popup, Disney merchandise Japan, airport shopping Japan, travel souvenirs Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport-Disney-Store-popup,-Disney-merchandise-Japan,-airport-shopping-Japan,-travel-souvenirs-Japan",
         "pexels_url": "https://www.pexels.com/search/Haneda%20Airport%20Disney%20Store%20popup,%20Disney%20merchandise%20Japan,%20airport%20shopping%20Japan,%20travel%20souvenirs%20Japan/"
-      }
-    },
-    {
-      "id": "plan_655b9550",
-      "created_at": "2026-09-09T04:29:07.370000",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本、新「どこでも改札」の導入で全駅でSuica利用可能に。2030年代初めの実現を目指す",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2139427.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2030년대 초, JR 동일본 전 역에서 스이카로 개찰구 통과 가능! 일본 여행 필수템 스이카, 앞으로 더 편리해져요!"
-      },
-      "content": {
-        "thumbnail_title": "✨스이카, 이제 전 JR 동일본 역에서 OK!",
-        "cards": [
-          {
-            "title": "전 역 스이카 도입",
-            "content": "2030년대 초, JR 동일본 소속 6개 지역의 모든 역에서 스이카(Suica) 이용이 가능해집니다. 현재 이용 가능한 역 비율을 100%까지 확대하는 것을 목표로 하고 있습니다.",
-            "alt_text": "스이카 로고와 함께 '전 JR 동일본 역에서 이용 가능' 문구가 표시된 이미지"
-          },
-          {
-            "title": "편리한 여행",
-            "content": "앞으로는 JR 동일본 지역 내에서 환승하거나 다른 노선을 이용할 때, 스이카 하나로 모든 개찰구를 통과할 수 있게 되어 더욱 편리한 여행이 가능해집니다.",
-            "alt_text": "스이카 카드를 들고 환하게 웃는 여행객의 모습"
-          },
-          {
-            "title": "미래의 일본",
-            "content": "이번 '어디든지 개찰' 도입은 일본 대중교통 이용 방식을 혁신하며, 2030년대 초 실현을 목표로 하고 있습니다. 한국인 여행객에게 더욱 스마트한 경험을 선사할 것입니다.",
-            "alt_text": "미래 지향적인 디자인의 일본 기차역 이미지"
-          },
-          {
-            "title": "지금도 충분히!",
-            "content": "현재도 스이카는 JR 동일본 지역의 많은 역에서 이용 가능하며, 편의점, 식당 등에서도 결제 수단으로 널리 사용되고 있습니다. 일본 여행 필수품으로 꼭 챙기세요!",
-            "alt_text": "다양한 상점에서 스이카로 결제하는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "스이카는 한국에서 미리 구매하거나 일본 현지에서 구매 및 충전이 가능합니다. 충전 시 동전 사용을 줄여 소지품을 가볍게 하세요!",
-            "alt_text": "스이카 카드와 함께 충전하는 기기 이미지"
-          }
-        ],
-        "caption": "JR 동일본 전 역에서 스이카 이용 가능! 🤩\n2030년대 초, 스이카 하나로 일본 대중교통이 더욱 편리해집니다.\n일본 여행 준비 중이라면, 스이카는 필수!\n\n#일본여행 #스이카 #JR동일본 #교통정보 #일본여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스이카",
-          "#Suica",
-          "#JR동일본",
-          "#일본교통",
-          "#일본대중교통",
-          "#일본여행준비",
-          "#일본여행정보",
-          "#해외여행",
-          "#여행꿀팁",
-          "#일본",
-          "#2030년대",
-          "#편리한여행",
-          "#스마트여행"
-        ],
-        "alt_texts": [
-          "스이카 로고와 함께 '전 JR 동일본 역에서 이용 가능' 문구가 표시된 이미지",
-          "스이카 카드를 들고 환하게 웃는 여행객의 모습",
-          "미래 지향적인 디자인의 일본 기차역 이미지",
-          "다양한 상점에서 스이카로 결제하는 모습",
-          "스이카 카드와 함께 충전하는 기기 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획하는 한국인 20-40대 / 최적 게시 시간: 오후 6-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 유용성에 대한 긍정적 반응, 스이카 관련 문의 증가 / 이 콘텐츠의 강점: 미래의 편리성을 미리 알려주어 기대감 고취, 실질적인 여행 준비에 도움",
-      "image": {
-        "keyword": "Suica card, JR East Japan train station, convenient travel, Japan public transport, future of transportation",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-card,-JR-East-Japan-train-station,-convenient-travel,-Japan-public-transport,-future-of-transportation",
-        "pexels_url": "https://www.pexels.com/search/Suica%20card,%20JR%20East%20Japan%20train%20station,%20convenient%20travel,%20Japan%20public%20transport,%20future%20of%20transportation/"
-      }
-    },
-    {
-      "id": "plan_bae6a00c",
-      "created_at": "2026-09-09T04:29:01.081582",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストア、全国を巡るポップアップツアー開催決定。羽田・セントレア・沖縄ほかで会場限定グッズを販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2139436.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 전역을 도는 디즈니 스토어 팝업 투어! 한정 굿즈 득템 기회 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 스토어 팝업 투어✨",
-        "cards": [
-          {
-            "title": "팝업 투어 시작!",
-            "content": "디즈니 스토어의 'Disney store.jp Japan Tour' 팝업 투어가 10월 16일부터 시작됩니다. 전국 9개 도시를 순회하며 진행될 예정입니다.",
-            "alt_text": "디즈니 스토어 팝업 투어 시작 안내"
-          },
-          {
-            "title": "주요 개최 도시",
-            "content": "현재까지 확정된 개최 도시는 가나가와, 오키나와, 아이치, 야마구치입니다. 앞으로 더 많은 도시가 추가될 예정이니 기대해주세요!",
-            "alt_text": "디즈니 스토어 팝업 투어 개최 도시"
-          },
-          {
-            "title": "한정 굿즈 판매",
-            "content": "각 개최 도시에서는 해당 지역에서만 구매 가능한 한정판 굿즈가 판매될 예정입니다. 특별한 기념품을 득템할 기회입니다.",
-            "alt_text": "디즈니 스토어 팝업 투어 한정 굿즈"
-          },
-          {
-            "title": "여행 중 방문",
-            "content": "일본 여행 계획 중 방문 예정 도시가 있다면, 팝업 스토어 일정을 확인하고 방문해보세요. 여행의 즐거움을 더할 수 있습니다.",
-            "alt_text": "일본 여행 중 디즈니 스토어 팝업 방문"
-          },
-          {
-            "title": "방문 전 확인!",
-            "content": "정확한 개최 도시, 날짜, 시간 및 판매 상품 정보는 디즈니 스토어 공식 채널에서 미리 확인하는 것이 좋습니다. 품절 전에 서두르세요!",
-            "alt_text": "디즈니 스토어 팝업 투어 방문 전 확인사항"
-          }
-        ],
-        "caption": "일본 전역을 순회하는 디즈니 스토어 팝업 투어가 곧 시작됩니다! 💖\n10월 16일부터 가나가와, 오키나와, 아이치, 야마구치 등 9개 도시에서 만날 수 있어요.\n각 지역별 한정 굿즈를 득템할 절호의 기회! 🛍️\n여행 중에 방문 계획이 있다면 꼭 체크하세요!\n\n#일본여행 #디즈니스토어 #팝업스토어 #한정굿즈 #일본쇼핑 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#디즈니스토어팝업",
-          "#DisneyStorejpJapanTour",
-          "#일본쇼핑",
-          "#일본한정",
-          "#여행정보",
-          "#일본이벤트",
-          "#팝업스토어",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#굿즈",
-          "#디즈니",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "디즈니 스토어 팝업 투어 시작 안내",
-          "디즈니 스토어 팝업 투어 개최 도시",
-          "디즈니 스토어 팝업 투어 한정 굿즈",
-          "일본 여행 중 디즈니 스토어 팝업 방문",
-          "디즈니 스토어 팝업 투어 방문 전 확인사항"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시-9시, 주말 오후 1시-4시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 한국인이 좋아하는 디즈니와 일본 현지에서만 얻을 수 있는 한정판 굿즈라는 매력 포인트 결합",
-      "image": {
-        "keyword": "Disney store pop-up tour, Japan, limited edition goods, travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-store-pop-up-tour,-Japan,-limited-edition-goods,-travel",
-        "pexels_url": "https://www.pexels.com/search/Disney%20store%20pop-up%20tour,%20Japan,%20limited%20edition%20goods,%20travel/"
       }
     }
   ]
