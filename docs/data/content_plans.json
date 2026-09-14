@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-13T04:37:06.334945",
+  "last_updated": "2026-09-14T01:05:12.281178",
   "plans": [
+    {
+      "id": "plan_f7691ab5",
+      "created_at": "2026-09-14T01:05:10.280990",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、「最高級宿スペシャルオファー」　最大30％オフ",
+        "url": "https://www.traicy.com/posts/20260913381618/",
+        "date": "Sun, 13 Sep 2026 06:15:08 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "최고급 숙소 최대 30% 할인 찬스! 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨최고급 숙소 30% 할인✨",
+        "cards": [
+          {
+            "title": "특급 할인 찬스!",
+            "content": "일본 3대 여행 플랫폼 '라쿠텐 트래블'에서 '최고급 숙소 스페셜 오퍼'를 진행합니다. 최대 30% 할인 혜택을 받을 수 있어요.",
+            "alt_text": "라쿠텐 트래블 로고와 함께 할인율이 강조된 이미지"
+          },
+          {
+            "title": "할인 기간 확인!",
+            "content": "이번 스페셜 오퍼는 9월 10일 오전 10시부터 9월 25일 오전 9시 59분까지 진행됩니다. 기간을 꼭 확인하고 예약하세요!",
+            "alt_text": "캘린더에 할인 기간이 표시된 이미지"
+          },
+          {
+            "title": "최대 30% 할인",
+            "content": "대상 숙소에서는 특별 플랜이 제공되며, 숙소 쿠폰과 라쿠텐 트래블 쿠폰을 중복 사용하여 할인율을 높일 수 있습니다.",
+            "alt_text": "쿠폰 이미지를 여러 개 겹쳐 놓은 이미지"
+          },
+          {
+            "title": "최고급 숙소 경험",
+            "content": "평소 가고 싶었던 일본의 고급 료칸이나 호텔을 합리적인 가격으로 경험할 수 있는 절호의 기회입니다.",
+            "alt_text": "고급스러운 일본 료칸 내부 이미지"
+          },
+          {
+            "title": "예약 팁!",
+            "content": "원하는 숙소가 있다면 서둘러 예약하는 것이 좋습니다. 인기 있는 숙소는 조기 마감될 수 있으니, 지금 바로 라쿠텐 트래블 앱을 확인해보세요!",
+            "alt_text": "스마트폰으로 여행 예약을 하는 사람의 손 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? 🇯🇵\n고급 숙소에서 특별한 휴식을 꿈꾸셨다면 주목해주세요!\n라쿠텐 트래블에서 '최고급 숙소 스페셜 오퍼'를 진행합니다.\n최대 30% 할인과 쿠폰 중복 사용으로 더욱 알뜰하게 예약 가능!\n지금 바로 라쿠텐 트래블에서 당신의 드림 숙소를 찾아보세요! ✈️✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#라쿠텐트래블",
+          "#일본숙소",
+          "#일본호텔",
+          "#일본료칸",
+          "#일본여행할인",
+          "#일본여행꿀팁",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#가을여행",
+          "#일본특가",
+          "#여행예약",
+          "#일본"
+        ],
+        "alt_texts": [
+          "라쿠텐 트래블 로고와 함께 할인율이 강조된 이미지",
+          "캘린더에 할인 기간이 표시된 이미지",
+          "쿠폰 이미지를 여러 개 겹쳐 놓은 이미지",
+          "고급스러운 일본 료칸 내부 이미지",
+          "스마트폰으로 여행 예약을 하는 사람의 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 6시-8시, 주말 오후 2시-4시 / 기대 반응: 높은 예약률, 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공으로 즉각적인 여행 계획 변경 유도 가능",
+      "image": {
+        "keyword": "rakuten travel, japan luxury hotel discount, limited time offer, japan travel deals",
+        "unsplash_url": "https://unsplash.com/s/photos/rakuten-travel,-japan-luxury-hotel-discount,-limited-time-offer,-japan-travel-deals",
+        "pexels_url": "https://www.pexels.com/search/rakuten%20travel,%20japan%20luxury%20hotel%20discount,%20limited%20time%20offer,%20japan%20travel%20deals/"
+      }
+    },
+    {
+      "id": "plan_be2978ee",
+      "created_at": "2026-09-14T01:04:54.981710",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "はやぶさ50％オフの新幹線eチケット「トクだ値スペシャル28」本日から発売。平日乗車分、えきねっと限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140463.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 신칸센/특급열차 50% 할인 찬스! 평일 여행 시 필수 확인!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 신칸센 50% 할인!",
+        "cards": [
+          {
+            "title": "50% 할인!",
+            "content": "JR 동일본과 JR 홋카이도가 '에키넷'에서 평일 한정 신칸센 및 특급열차 50% 할인 티켓을 발매합니다. 도호쿠, 홋카이도, 조에쓰, 호쿠리쿠, 아키타, 야마가타 신칸센이 포함됩니다.",
+            "alt_text": "신칸센 열차 이미지"
+          },
+          {
+            "title": "평일 한정",
+            "content": "이 특별 할인은 오직 평일에만 적용됩니다. 주말이나 공휴일에는 이용이 불가하니, 여행 계획 시 꼭 확인하세요.",
+            "alt_text": "달력에 평일 표시 이미지"
+          },
+          {
+            "title": "에키넷 한정",
+            "content": "할인 티켓은 JR 동일본의 온라인 예약 사이트 '에키넷(えきねっと)'을 통해서만 구매 가능합니다. 웹사이트 방문이 필수입니다.",
+            "alt_text": "'에키넷' 웹사이트 스크린샷"
+          },
+          {
+            "title": "대상 노선",
+            "content": "도호쿠, 홋카이도, 조에쓰, 호쿠리쿠, 아키타, 야마가타 신칸센 및 해당 구간의 특급 열차가 할인 대상입니다. 자세한 노선은 에키넷에서 확인하세요.",
+            "alt_text": "일본 지도에 대상 노선 표시"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "평일 일본 여행을 계획 중이라면, 이 50% 할인 티켓을 활용하여 교통비를 대폭 절약할 수 있습니다. 서둘러 에키넷에서 예약하세요!",
+            "alt_text": "돈을 절약하는 사람 이미지"
+          }
+        ],
+        "caption": "🎉 일본 여행 필수 정보! 🎉\nJR 동일본 & JR 홋카이도에서 평일 한정 신칸센/특급열차 50% 할인 티켓을 '에키넷'에서 발매 중입니다!\n\n✅ 대상: 도호쿠, 홋카이도, 조에쓰, 호쿠리쿠, 아키타, 야마가타 신칸센 및 특급 열차 (평일 한정)\n✅ 구매처: 에키넷(えきねっと) (온라인 예약 필수)\n\n평일 일본 여행 계획하신다면 이 기회 놓치지 마세요! 🚄💨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본교통",
+          "#JR패스",
+          "#일본할인",
+          "#에키넷",
+          "#도호쿠여행",
+          "#홋카이도여행",
+          "#호쿠리쿠여행",
+          "#여행정보",
+          "#일본자유여행",
+          "#가성비여행",
+          "#일본기차",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "신칸센 열차 이미지",
+          "달력에 평일 표시 이미지",
+          "'에키넷' 웹사이트 스크린샷",
+          "일본 지도에 대상 노선 표시",
+          "돈을 절약하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 평일 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획 시즌 (주말 오후) / 기대 반응: 높은 클릭률 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제공하는 구체적인 할인 정보",
+      "image": {
+        "keyword": "Shinkansen ticket discount, Japan train travel, JR East Hokkaido train sale, Ekine t online booking",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-ticket-discount,-Japan-train-travel,-JR-East-Hokkaido-train-sale,-Ekine-t-online-booking",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20ticket%20discount,%20Japan%20train%20travel,%20JR%20East%20Hokkaido%20train%20sale,%20Ekine%20t%20online%20booking/"
+      }
+    },
     {
       "id": "plan_5890a28a",
       "created_at": "2026-09-13T04:37:04.334761",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen Nozomi reserved seat booking Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Nozomi-reserved-seat-booking-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20Nozomi%20reserved%20seat%20booking%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_ab31155a",
-      "created_at": "2026-09-10T04:27:34.985792",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "リーベルホテル大阪、スパ利用付き素泊まりプランが50％オフに。3～4名のグループ向け、天然温泉・サウナも使える",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2139492.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 호텔 숙박+온천/사우나 무제한 이용, 50% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🔥오사카 호텔 50% 할인!🔥",
-        "cards": [
-          {
-            "title": "리벨 호텔 할인",
-            "content": "리벨 호텔 오사카에서 스파 이용 포함된 숙박 플랜을 50% 할인된 가격으로 만나보세요. 3~4명 그룹 여행객에게 특히 추천합니다.",
-            "alt_text": "리벨 호텔 오사카 외관 이미지"
-          },
-          {
-            "title": "천연 온천 & 사우나",
-            "content": "할인 플랜 이용 시, 호텔 내에 마련된 천연 온천과 사우나를 무제한으로 이용할 수 있습니다. 여행의 피로를 풀기 딱 좋아요.",
-            "alt_text": "호텔 스파 내부 이미지"
-          },
-          {
-            "title": "할인 기간 확인",
-            "content": "이 특별 할인은 10월 1일까지 진행되는 '라쿠텐 트래블 슈퍼 세일' 기간 동안 적용됩니다. 서둘러 예약하세요!",
-            "alt_text": "달력에 10월 1일 표시 이미지"
-          },
-          {
-            "title": "추가 할인 가능",
-            "content": "현재 배포 중인 쿠폰을 함께 사용하면 최대 35% 추가 할인이 가능합니다. 놓치면 후회할 기회!",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "3~4명 그룹이라면 1인당 숙박비 부담을 크게 줄일 수 있어요. 온천과 사우나까지 즐길 수 있으니 가성비 최고!",
-            "alt_text": "웃는 얼굴의 사람들 이미지"
-          }
-        ],
-        "caption": "오사카 여행 계획 중이라면 주목! 🤩\n리벨 호텔 오사카에서 스파 이용 포함 숙박 플랜을 무려 50% 할인된 가격으로 즐길 수 있어요.\n천연 온천과 사우나까지 무제한 이용 가능! ♨️\n10월 1일까지 진행되는 라쿠텐 트래블 슈퍼 세일 기간 놓치지 마세요!\n지금 바로 예약하고 알찬 오사카 여행을 만들어보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#오사카호텔",
-          "#리벨호텔",
-          "#일본숙소",
-          "#일본온천",
-          "#일본사우나",
-          "#라쿠텐트래블",
-          "#일본할인",
-          "#가성비여행",
-          "#여행꿀팁",
-          "#오사카",
-          "#일본",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "리벨 호텔 오사카 외관 이미지",
-          "호텔 스파 내부 이미지",
-          "달력에 10월 1일 표시 이미지",
-          "할인 쿠폰 이미지",
-          "웃는 얼굴의 사람들 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-40대 한국인 커플 및 소규모 그룹 / 최적 게시 시간: 오후 6시-8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 예약률 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 파격적인 할인율, 숙박+체험(온천/사우나) 결합, 명확한 기간 정보",
-      "image": {
-        "keyword": "Osaka hotel discount, Onsen spa, Rakuten travel sale",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-hotel-discount,-Onsen-spa,-Rakuten-travel-sale",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20hotel%20discount,%20Onsen%20spa,%20Rakuten%20travel%20sale/"
-      }
-    },
-    {
-      "id": "plan_e886ac6c",
-      "created_at": "2026-09-10T04:27:29.767180",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ディズニー・クリスマス」イベントまとめ。リルリンリン盛りだくさん、フードはパーティーバケット初登場",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2139575.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니랜드에서 펼쳐지는 크리스마스 시즌 한정 이벤트 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🎄도쿄 디즈니 크리스마스 시작!🎄",
-        "cards": [
-          {
-            "title": "이벤트 기간",
-            "content": "도쿄 디즈니리조트에서 '디즈니・크리스마스' 이벤트를 2023년 11월 11일부터 12월 25일까지 개최합니다.",
-            "alt_text": "디즈니랜드 크리스마스 일루미네이션"
-          },
-          {
-            "title": "リルリンリン 가득!",
-            "content": "귀여운 산타 모자를 쓴 캐릭터 '릴린린'을 테마로 한 다채로운 장식과 퍼레이드를 즐길 수 있습니다.",
-            "alt_text": "디즈니 캐릭터 릴린린"
-          },
-          {
-            "title": "파티 버킷 첫 등장",
-            "content": "올해는 특별히 '파티 버킷'이 처음으로 선보이며, 맛있는 음식과 함께 특별한 경험을 선사합니다.",
-            "alt_text": "디즈니랜드 크리스마스 음식"
-          },
-          {
-            "title": "온 세상이 크리스마스",
-            "content": "화려한 일루미네이션과 캐럴이 울려 퍼지는 디즈니랜드에서 잊지 못할 크리스마스 추억을 만들어보세요.",
-            "alt_text": "디즈니랜드 야경"
-          },
-          {
-            "title": "방문 팁",
-            "content": "크리스마스 시즌은 매우 인기가 많으니, 방문 전 티켓 예매와 숙소 예약을 미리 완료하는 것이 좋습니다. 특히 주말과 공휴일은 혼잡하니 평일 방문을 추천합니다.",
-            "alt_text": "디즈니랜드 지도"
-          }
-        ],
-        "caption": "✨도쿄 디즈니리조트에서 환상적인 크리스마스를 만끽하세요!✨\n\n11월 11일부터 12월 25일까지 열리는 '디즈니・크리스마스' 이벤트! \n귀여운 릴린린 캐릭터와 함께하는 특별한 퍼레이드와 함께, 올해 처음 등장하는 '파티 버킷'으로 맛있는 시간을 즐겨보세요!\n\n겨울왕국처럼 아름다운 디즈니랜드에서 잊지 못할 크리스마스 추억을 만들어가세요!\n\n✅ 지금 바로 여행 계획 세우고, 미리 티켓 예매하세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니크리스마스",
-          "#도쿄여행",
-          "#크리스마스",
-          "#일본축제",
-          "#릴린린",
-          "#디즈니",
-          "#겨울여행",
-          "#일본이벤트",
-          "#여행정보",
-          "#디즈니랜드",
-          "#겨울왕국",
-          "#연말여행"
-        ],
-        "alt_texts": [
-          "디즈니랜드 크리스마스 일루미네이션",
-          "디즈니 캐릭터 릴린린",
-          "디즈니랜드 크리스마스 음식",
-          "디즈니랜드 야경",
-          "디즈니랜드 지도"
-        ]
-      },
-      "marketer_analysis": "타겟: 연말 시즌 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 이벤트 정보에 대한 높은 관심, 방문 계획 문의 증가 / 이 콘텐츠의 강점: 시즌성 높은 이벤트 정보, 구체적인 날짜와 테마 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland Christmas, Rilururin",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas,-Rilururin",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas,%20Rilururin/"
       }
     }
   ]
