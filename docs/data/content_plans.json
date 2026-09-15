@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-14T04:44:58.652881",
+  "last_updated": "2026-09-15T01:28:34.408664",
   "plans": [
+    {
+      "id": "plan_a05c7112",
+      "created_at": "2026-09-15T01:28:32.408478",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハンズ新宿店「Suicaのペンギン」ポップアップ。ぬいぐるみみたいな布団収納袋・巾着ポーチほか、実用的なグッズを展開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140764.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 쇼핑 성지, 신주쿠 한정 굿즈 득템 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨한정판 굿즈 득템찬스!✨",
+        "cards": [
+          {
+            "title": "Suica 펭귄 팝업",
+            "content": "일본 여행 중이라면 놓칠 수 없는 신주쿠 한정 굿즈! 🐧 'Suica의 펭귄 POP UP' 이벤트가 9월 18일부터 28일까지 도쿄 신주쿠 한즈에서 열립니다.",
+            "alt_text": "Suica 펭귄 캐릭터가 그려진 팝업 스토어 안내 이미지"
+          },
+          {
+            "title": "실용적인 굿즈",
+            "content": "인형 같은 이불 수납 주머니부터 앙증맞은 끈 주머니까지, 여행 중 유용하게 사용할 수 있는 다양한 상품들을 만나보세요.",
+            "alt_text": "Suica 펭귄 굿즈 종류를 보여주는 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "📍 도쿄도 시부야구 센다가야 5-24-2 타임즈 스퀘어 빌딩 2층~8층에 위치한 한즈 신주쿠점 3층 특별 행사장에서 진행됩니다.",
+            "alt_text": "한즈 신주쿠점 건물 외부 또는 내부 안내 이미지"
+          },
+          {
+            "title": "이벤트 기간",
+            "content": "행사 기간은 2024년 9월 18일(수)부터 9월 28일(토)까지 단 11일간 진행되니, 여행 일정을 잘 확인하세요!",
+            "alt_text": "이벤트 날짜를 강조하는 캘린더 또는 타이머 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 오픈 시간에 맞춰 방문하는 것을 추천합니다. 득템의 기회를 놓치지 마세요! 🛍️",
+            "alt_text": "쇼핑백을 들고 기뻐하는 사람의 모습 또는 쇼핑몰 입구 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 신주쿠에서 특별한 기념품을 찾고 있다면? 🐧 Suica의 펭귄 팝업 스토어에서 귀엽고 실용적인 한정판 굿즈를 득템하세요! \n\n📍장소: 한즈 신주쿠점 (도쿄도 시부야구 센다가야 5-24-2 타임즈 스퀘어 빌딩 3층)\n🗓️기간: 9월 18일 ~ 9월 28일\n\n여행 계획에 꼭 넣어두세요! 😉\n\n#일본여행 #플라잉재팬 #도쿄여행 #신주쿠 #한즈 #Suica펭귄 #팝업스토어 #일본쇼핑 #한정판굿즈 #여행필수템 #일본기념품 #도쿄쇼핑 #여행정보 #여행꿀팁 #일본이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#신주쿠",
+          "#한즈",
+          "#Suica펭귄",
+          "#팝업스토어",
+          "#일본쇼핑",
+          "#한정판굿즈",
+          "#여행필수템",
+          "#일본기념품",
+          "#도쿄쇼핑",
+          "#여행정보",
+          "#여행꿀팁",
+          "#일본이벤트"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 캐릭터가 그려진 팝업 스토어 안내 이미지",
+          "Suica 펭귄 굿즈 종류를 보여주는 이미지",
+          "한즈 신주쿠점 건물 외부 또는 내부 안내 이미지",
+          "이벤트 날짜를 강조하는 캘린더 또는 타이머 이미지",
+          "쇼핑백을 들고 기뻐하는 사람의 모습 또는 쇼핑몰 입구 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 2030 한국인 여성 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 친구 태그 / 이 콘텐츠의 강점: 한정판 굿즈라는 희소성과 귀여운 캐릭터를 활용하여 구매 욕구 자극, 실용적인 정보 제공",
+      "image": {
+        "keyword": "Suica penguin, pop-up store, Shinjuku Hands, limited edition goods, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin,-pop-up-store,-Shinjuku-Hands,-limited-edition-goods,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin,%20pop-up%20store,%20Shinjuku%20Hands,%20limited%20edition%20goods,%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_ba610fcc",
+      "created_at": "2026-09-15T01:28:26.461334",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "じゃらんnet「九州ふっこう応援割」予約スタート。熊本・鹿児島は最大60％オフ、そのほか5県は最大50％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2140836.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "엔화 급등락으로 부담 느낀 여행객에게 꿀같은 50~60% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵九州 최대 60% 할인 꿀팁!",
+        "cards": [
+          {
+            "title": "九州 여행 지원",
+            "content": "일본 여행 지원 '九州ふっこう応援割'이 시작됩니다. 熊本, 鹿児島은 최대 60% 할인 혜택을 받을 수 있어요.",
+            "alt_text": " Kyushu 지역 지도와 할인율을 나타내는 그래픽"
+          },
+          {
+            "title": "그 외 5개현",
+            "content": "熊本, 鹿児島 외 나머지 5개현에서도 최대 50% 할인 혜택이 제공됩니다. 꼼꼼히 확인하고 알뜰하게 여행 계획 세우세요!",
+            "alt_text": " Kyushu 지역 5개현의 랜드마크 이미지"
+          },
+          {
+            "title": "쿠폰 시작일",
+            "content": "쿠폰 배포 및 이용은 9월 15일 오전 10시부터 시작됩니다. 알림 설정 필수!",
+            "alt_text": "달력에 9월 15일이 표시된 이미지"
+          },
+          {
+            "title": "어디서 예약?",
+            "content": "じゃらんnet에서 '九州ふっこう応援割' 특별 페이지를 통해 예약 가능합니다. 지금 바로 확인해보세요!",
+            "alt_text": "じゃらんnet 로고와 함께 예약 페이지를 보여주는 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "엔화 상승으로 부담 느꼈다면 이번이 절호의 찬스!  Kyushu 지역의 매력을 반값 이상 할인된 가격으로 즐겨보세요.",
+            "alt_text": "할인율을 나타내는 화살표와 함께 즐거운 여행하는 사람들의 모습"
+          }
+        ],
+        "caption": "엔화 급등으로 일본 여행 망설였던 분들 주목! 🇯🇵\n\n Kyushu 지역 여행 시 최대 60% 할인받을 수 있는 '九州ふっこう応援割'이 시작됩니다!\n\n熊本, 鹿児島 최대 60% 💰\n그 외 5개현 최대 50% 💰\n\n쿠폰은 9월 15일 오전 10시부터じゃらんnet에서 배포 및 사용 가능해요! \n\n이번 기회에 알뜰하게 Kyushu 여행 다녀오세요!✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#일본할인",
+          "#九州ふっこう応援割",
+          "#일본여행꿀팁",
+          "#여행지원",
+          "#일본자유여행",
+          "#일본숙소",
+          "#일본교통",
+          "#일본쇼핑",
+          "#일본맛집",
+          "#엔화",
+          "#여행스타그램",
+          "#가을여행"
+        ],
+        "alt_texts": [
+          " Kyushu 지역 지도와 할인율을 나타내는 그래픽",
+          " Kyushu 지역 5개현의 랜드마크 이미지",
+          "달력에 9월 15일이 표시된 이미지",
+          "じゃらんnet 로고와 함께 예약 페이지를 보여주는 이미지",
+          "할인율을 나타내는 화살표와 함께 즐거운 여행하는 사람들의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 엔화 상승으로 일본 여행을 망설이는 2030 한국인 여행객 / 최적 게시 시간: 오후 6시~9시 (퇴근 후 인스타그램 이용률 높음) / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 시작 시점을 명확히 제시하여 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Kyushu, Japan, discount coupon, travel support, discount percentage",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu,-Japan,-discount-coupon,-travel-support,-discount-percentage",
+        "pexels_url": "https://www.pexels.com/search/Kyushu,%20Japan,%20discount%20coupon,%20travel%20support,%20discount%20percentage/"
+      }
+    },
     {
       "id": "plan_b4ae7b4b",
       "created_at": "2026-09-14T04:44:56.652660",
@@ -923,160 +1077,6 @@
         "keyword": "JAL mobile, Japan travel, 1500 miles, campaign, free initial fee, data plan, smartphone, travel benefits",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-mobile,-Japan-travel,-1500-miles,-campaign,-free-initial-fee,-data-plan,-smartphone,-travel-benefits",
         "pexels_url": "https://www.pexels.com/search/JAL%20mobile,%20Japan%20travel,%201500%20miles,%20campaign,%20free%20initial%20fee,%20data%20plan,%20smartphone,%20travel%20benefits/"
-      }
-    },
-    {
-      "id": "plan_70c2a1e0",
-      "created_at": "2026-09-11T04:26:57.641315",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ディズニーシー、「イマジニング・ザ・マジック」25周年グッズ第1弾詳細を発表。アクアスフィア型のブランケットほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140150.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후 심쿵! 도쿄 디즈니씨 25주년 한정 굿즈 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✨25주년! 디즈니씨 굿즈✨",
-        "cards": [
-          {
-            "title": "25주년 굿즈!",
-            "content": "도쿄 디즈니씨 25주년 기념 '이매지닝 더 매직' 신규 굿즈가 10월 15일에 출시됩니다.",
-            "alt_text": "도쿄 디즈니씨 25주년 기념 굿즈 이미지"
-          },
-          {
-            "title": "아쿠아스피어 담요",
-            "content": "이번 신상품 중에는 디즈니씨의 상징인 '아쿠아스피어' 모양의 블랭킷이 포함되어 있습니다.",
-            "alt_text": "아쿠아스피어 모양 담요 이미지"
-          },
-          {
-            "title": "다양한 상품",
-            "content": "25주년 테마로 제작된 다양한 기념품들이 여러분을 기다리고 있습니다.",
-            "alt_text": "다양한 디즈니씨 25주년 기념 상품 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "한정판으로 출시되는 만큼, 디즈니 팬이라면 꼭 득템해야 할 아이템입니다.",
-            "alt_text": "디즈니씨 25주년 굿즈 쇼핑하는 모습 이미지"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기가 많을 것으로 예상되니, 오픈런 또는 온라인 구매를 미리 알아보시는 것을 추천합니다. 정확한 구매처와 시간은 추후 공지될 예정입니다.",
-            "alt_text": "도쿄 디즈니씨 입구 이미지"
-          }
-        ],
-        "caption": "💖 도쿄 디즈니씨 25주년 기념 굿즈 💖\n\n10월 15일, '이매지닝 더 매직' 테마의 25주년 한정 굿즈가 드디어 출시됩니다!\n\n특히 디즈니씨의 상징인 아쿠아스피어 모양의 블랭킷은 꼭 겟해야 할 아이템! ✨\n\n디즈니 팬이라면 절대 놓칠 수 없는 기회, 잊지 말고 방문하세요! ✈️\n\n#도쿄디즈니씨 #디즈니씨25주년 #디즈니굿즈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#디즈니굿즈",
-          "#25주년",
-          "#이매지닝더매직",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#디즈니덕후",
-          "#여행정보",
-          "#한정판",
-          "#가을여행",
-          "#일본",
-          "#인스타여행"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니씨 25주년 기념 굿즈 이미지",
-          "아쿠아스피어 모양 담요 이미지",
-          "다양한 디즈니씨 25주년 기념 상품 이미지",
-          "디즈니씨 25주년 굿즈 쇼핑하는 모습 이미지",
-          "도쿄 디즈니씨 입구 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행객, 디즈니 팬 / 최적 게시 시간: 오후 7시 ~ 9시 (퇴근 후 및 저녁 시간) / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 신상품 정보, 구체적인 출시일 명시, 타겟층의 높은 관심 유발",
-      "image": {
-        "keyword": "Tokyo DisneySea 25th anniversary merchandise, Imaginning the Magic, Aquasphere blanket",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-merchandise,-Imaginning-the-Magic,-Aquasphere-blanket",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20merchandise,%20Imaginning%20the%20Magic,%20Aquasphere%20blanket/"
-      }
-    },
-    {
-      "id": "plan_0269eea5",
-      "created_at": "2026-09-11T04:26:52.582039",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "熊本県「九州ふっこう応援割」9月15日10時予約開始。市町村独自の旅行支援もまとめてチェック！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140172.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비 부담 확 줄여주는 꿀팁! 료칸, 액티비티 등 숙박/체험 할인받으세요!"
-      },
-      "content": {
-        "thumbnail_title": "💰쿠마모토 여행 지원금!💰",
-        "cards": [
-          {
-            "title": "쿠마모토 여행 지원",
-            "content": "일본 〒862-8577 熊本県 熊本市 中央区 水道町８−８에서 10월 1일부터 '쿠마모토 부흥 응원 할인'이 시작됩니다. 2026년 3월 31일까지 진행되니 놓치지 마세요!",
-            "alt_text": "쿠마모토 현청 건물 이미지"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "여행 지원금 예약은 9월 15일 오전 10시부터 시작됩니다. 인기 있는 숙소나 체험 상품은 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
-            "alt_text": "달력에 9월 15일 표시된 이미지"
-          },
-          {
-            "title": "지원 내용",
-            "content": "숙박 시설 이용료 할인, 지역 특산품 체험 상품 할인 등 다양한 혜택이 포함될 예정입니다. 상세 내용은 추후 발표될 예정입니다.",
-            "alt_text": "온천 료칸과 지역 특산품 이미지"
-          },
-          {
-            "title": "시정촌 지원도 확인!",
-            "content": "쿠마모토현 내 각 시정촌에서도 자체적인 여행 지원 프로그램을 운영할 수 있습니다. 방문 예정인 지역의 지원 정보를 미리 확인해 보세요.",
-            "alt_text": "일본 지방 도시 지도 이미지"
-          },
-          {
-            "title": "여행 계획 세우기",
-            "content": "이번 지원금을 활용하여 평소 가고 싶었던 쿠마모토의 명소들을 더욱 저렴하게 즐길 수 있는 기회입니다. 9월 15일 예약 오픈을 놓치지 마세요!",
-            "alt_text": "쿠마모토 성 전경 이미지"
-          }
-        ],
-        "caption": "✈️일본 〒862-8577 熊本県 熊本市 中央区 水道町８−８에서 10월 1일부터 '쿠마모토 부흥 응원 할인'이 시작됩니다! 💰최대 2026년 3월 31일까지 진행되는 이번 할인으로 숙박, 체험 등 다양한 혜택을 누려보세요. 예약은 9월 15일 오전 10시부터 가능합니다! 잊지 말고 예약하세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#쿠마모토",
-          "#쿠마모토여행",
-          "#일본여행정보",
-          "#일본할인",
-          "#일본숙소",
-          "#일본체험",
-          "#여행지원금",
-          "#일본축제",
-          "#료칸",
-          "#온천",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#플라잉재팬쿠마모토"
-        ],
-        "alt_texts": [
-          "쿠마모토 현청 건물 이미지",
-          "달력에 9월 15일 표시된 이미지",
-          "온천 료칸과 지역 특산품 이미지",
-          "일본 지방 도시 지도 이미지",
-          "쿠마모토 성 전경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 정보 공유 및 예약 문의 증가 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제공하는 실질적인 할인 정보",
-      "image": {
-        "keyword": "Kumamoto, Japan, travel discount, coupon, tourism support, accommodation, experience, hot spring, ryokan, castle, city hall",
-        "unsplash_url": "https://unsplash.com/s/photos/Kumamoto,-Japan,-travel-discount,-coupon,-tourism-support,-accommodation,-experience,-hot-spring,-ryokan,-castle,-city-hall",
-        "pexels_url": "https://www.pexels.com/search/Kumamoto,%20Japan,%20travel%20discount,%20coupon,%20tourism%20support,%20accommodation,%20experience,%20hot%20spring,%20ryokan,%20castle,%20city%20hall/"
       }
     }
   ]
