@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-16T01:25:36.708124",
+  "last_updated": "2026-09-16T04:40:36.257623",
   "plans": [
+    {
+      "id": "plan_8d46a257",
+      "created_at": "2026-09-16T04:40:34.257460",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシー、「ファンタジースプリングス・エントランス」からの退園対象が拡大。全員が可能に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2141315.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니씨, 이제 '판타지 스프링스' 출구 어디든 가능! 9월 15일부터 모두 확대 적용!"
+      },
+      "content": {
+        "thumbnail_title": "디즈니씨 🚨출구 변경🚨",
+        "cards": [
+          {
+            "title": "출구 확대!",
+            "content": "도쿄 디즈니씨의 '판타지 스프링스' 구역에서 나갈 수 있는 출구가 확대됩니다. 기존에는 특정 게이트로만 퇴장 가능했지만, 이제 모든 게스트가 이용할 수 있게 됩니다.",
+            "alt_text": "도쿄 디즈니씨 판타지 스프링스 입구 전경"
+          },
+          {
+            "title": "9월 15일부터!",
+            "content": "이번 변경 사항은 2024년 9월 15일부터 적용됩니다. 방문 예정이신 분들은 이 날짜를 꼭 기억해주세요!",
+            "alt_text": "달력에 9월 15일 표시"
+          },
+          {
+            "title": "모두 가능!",
+            "content": "더 이상 특정 게이트를 찾느라 헤매지 않아도 됩니다. 이제 판타지 스프링스 내 어떤 곳에서든 편리하게 퇴장할 수 있습니다.",
+            "alt_text": "다양한 사람들이 웃으며 걷는 모습"
+          },
+          {
+            "title": "이용 팁",
+            "content": "새로운 퇴장 규정에 맞춰 동선을 미리 계획해보세요. 특히 폐장 시간이 다가올 때는 혼잡할 수 있으니 여유 있게 이동하는 것이 좋습니다.",
+            "alt_text": "지도 앱을 보고 있는 사람 손 클로즈업"
+          },
+          {
+            "title": "주의사항",
+            "content": "퇴장 게이트 확대와 별개로, 판타지 스프링스 입장은 여전히 별도의 이용 규정을 따릅니다. 방문 전 공식 홈페이지에서 최신 정보를 꼭 확인하세요.",
+            "alt_text": "주의 표시 아이콘"
+          }
+        ],
+        "caption": "✨도쿄 디즈니씨 팬 여러분 주목!✨\n\n9월 15일부터 '판타지 스프링스' 구역의 퇴장 규정이 전면 확대됩니다! 🙌\n\n이제 특정 게이트가 아닌, 어느 곳에서든 편리하게 퇴장할 수 있게 되었어요. 🎉\n\n디즈니씨 방문 계획 있으신 분들, 꼭 참고하셔서 더욱 편안하고 즐거운 여행 되세요! 💖\n\n#도쿄디즈니씨 #판타지스프링스 #디즈니여행 #일본여행 #도쿄여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨",
+          "#판타지스프링스",
+          "#도쿄여행",
+          "#디즈니",
+          "#일본놀거리",
+          "#일본축제",
+          "#일본명소",
+          "#도쿄",
+          "#여행꿀팁",
+          "#해외여행",
+          "#여행정보",
+          "#디즈니랜드"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 판타지 스프링스 입구 전경",
+          "달력에 9월 15일 표시",
+          "다양한 사람들이 웃으며 걷는 모습",
+          "지도 앱을 보고 있는 사람 손 클로즈업",
+          "주의 표시 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 7-9시 / 기대 반응: 정보 공유 및 질문 / 이 콘텐츠의 강점: 최신 변경 사항으로 즉각적인 정보 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea Fantasy Springs exit convenience",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Fantasy-Springs-exit-convenience",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Fantasy%20Springs%20exit%20convenience/"
+      }
+    },
+    {
+      "id": "plan_2beea573",
+      "created_at": "2026-09-16T04:40:27.819286",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーランドの「ハロウィーン」見る・味わうべきはどれ？　現地取材で分かった推しポイントはココだっ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2141340.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니랜드 할로윈 한정 콘텐츠 놓치면 후회! 🎃"
+      },
+      "content": {
+        "thumbnail_title": "🎃Dハロ 꿀팁 대방출!🎃",
+        "cards": [
+          {
+            "title": "Dハロ 기간",
+            "content": "도쿄 디즈니랜드의 '디즈니 할로윈'(Dハロ)이 9월 16일부터 10월 31일까지 개최됩니다. 놓치기 전에 서둘러요!",
+            "alt_text": "도쿄 디즈니랜드 할로윈 기간 안내 캘린더"
+          },
+          {
+            "title": "필수 즐길 거리 1",
+            "content": "올해 D할로에서 '이것만큼은 꼭 봐야 한다!' 하는 현지 추천 콘텐츠를 놓치지 마세요. 특별한 경험을 선사합니다.",
+            "alt_text": "도쿄 디즈니랜드 할로윈 퍼레이드 모습"
+          },
+          {
+            "title": "필수 즐길 거리 2",
+            "content": "테마파크 곳곳에 숨겨진 할로윈 한정 메뉴와 특별한 볼거리를 찾아보세요. 잊지 못할 추억을 만들 수 있습니다.",
+            "alt_text": "도쿄 디즈니랜드 할로윈 한정 음식 사진"
+          },
+          {
+            "title": "현지 취재 팁",
+            "content": "현장 취재를 통해 엄선된 '꼭 챙겨야 할' 추천 포인트들을 미리 확인하고 알찬 여행 계획을 세워보세요.",
+            "alt_text": "도쿄 디즈니랜드 할로윈 장식 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "D할로 기간에는 많은 인파가 몰릴 수 있으니, 방문 전 운영 시간 및 특별 이벤트 정보를 미리 확인하는 것이 좋습니다.",
+            "alt_text": "도쿄 디즈니랜드 할로윈 안내 사인"
+          }
+        ],
+        "caption": "🎃 도쿄 디즈니랜드 D할로, 놓치면 후회할 역대급 축제! 🎃 9월 16일부터 10월 31일까지 펼쳐지는 디즈니 할로윈 시즌, 현지에서 뽑은 '꼭 봐야 할' 콘텐츠와 놓치면 아쉬울 한정 메뉴들까지! 👻 알찬 D할로 즐기기, 지금 바로 확인하세요! #일본여행 #도쿄디즈니랜드 #Dハロ #할로윈 #일본축제",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니랜드",
+          "#Dハロ",
+          "#디즈니할로윈",
+          "#일본가볼만한곳",
+          "#도쿄여행",
+          "#테마파크",
+          "#할로윈",
+          "#일본축제",
+          "#여행꿀팁",
+          "#해외여행",
+          "#가을여행",
+          "#도쿄"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 할로윈 기간 안내 캘린더",
+          "도쿄 디즈니랜드 할로윈 퍼레이드 모습",
+          "도쿄 디즈니랜드 할로윈 한정 음식 사진",
+          "도쿄 디즈니랜드 할로윈 장식 이미지",
+          "도쿄 디즈니랜드 할로윈 안내 사인"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 디즈니랜드 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보와 현지 추천 포인트를 담아 즉각적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Tokyo Disneyland Halloween",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Halloween",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Halloween/"
+      }
+    },
     {
       "id": "plan_ba13add3",
       "created_at": "2026-09-16T01:25:34.707992",
@@ -923,160 +1077,6 @@
         "keyword": "Nine Hours Hotel Kamata Tokyo",
         "unsplash_url": "https://unsplash.com/s/photos/Nine-Hours-Hotel-Kamata-Tokyo",
         "pexels_url": "https://www.pexels.com/search/Nine%20Hours%20Hotel%20Kamata%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_7ad27887",
-      "created_at": "2026-09-13T01:00:49.608311",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「りくろーおじさんの店」カフェ併設店をグランフロント大阪にオープン。焼きたてチーズケーキを店内で味わえる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140216.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카에서 갓 구운 치즈케이크 맛집 오픈!"
-      },
-      "content": {
-        "thumbnail_title": "🧀오사카 신상 맛집 오픈!🧀",
-        "cards": [
-          {
-            "title": "그랑프론트 오픈!",
-            "content": "오사카에 '리쿠로 아저씨의 가게' 신규 매장이 9월 24일 오픈했어요. 그랑프론트 오사카 남관 지하 1층에서 만날 수 있습니다.",
-            "alt_text": "오사카 그랑프론트 오사카 남관 지하 1층 입구"
-          },
-          {
-            "title": "갓 구운 치즈케이크",
-            "content": "이곳에서는 갓 구운 치즈케이크를 매장 안에서 바로 맛볼 수 있어요. 따끈하고 부드러운 치즈케이크의 풍미를 그대로 느껴보세요.",
-            "alt_text": "따뜻하게 김이 나는 치즈케이크 조각"
-          },
-          {
-            "title": "새로운 경험",
-            "content": "기존 테이크아웃 위주에서 벗어나, 카페 공간을 함께 마련하여 더욱 편안하게 즐길 수 있도록 했어요.",
-            "alt_text": "카페 내부 테이블과 의자"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 오사카부 오사카시 기타구 오오스미초 4-20 입니다. 오사카 여행 중이라면 꼭 들러보세요!",
-            "alt_text": "매장 지도 핀"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "오픈 초기에는 웨이팅이 길 수 있으니, 오픈 시간 맞춰 방문하는 것을 추천해요. 따뜻할 때 바로 먹는 치즈케이크는 정말 최고랍니다!",
-            "alt_text": "치즈케이크를 맛있게 먹는 모습"
-          }
-        ],
-        "caption": "🧀오사카 여행 필수 코스 추가!🧀\n\n오사카 그랑프론트 오사카에 '리쿠로 아저씨의 가게' 신규 매장이 9월 24일 오픈했어요!\n\n이제는 매장 안에서 갓 구운 치즈케이크를 바로 맛볼 수 있다는 사실!\n\n따끈하고 부드러운 치즈케이크를 그대로 즐길 수 있는 절호의 기회!\n\n오사카 여행 계획 중이라면, 놓치지 마세요! 😉\n\n#플라잉재팬 #일본여행 #오사카여행 #리쿠로아저씨치즈케이크 #오사카맛집 #그랑프론트오사카",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#오사카맛집",
-          "#리쿠로아저씨의가게",
-          "#치즈케이크",
-          "#일본디저트",
-          "#오사카신상",
-          "#그랑프론트오사카",
-          "#일본먹방",
-          "#해외여행",
-          "#여행정보",
-          "#간사이여행",
-          "#일본카페",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "오사카 그랑프론트 오사카 남관 지하 1층 입구",
-          "따뜻하게 김이 나는 치즈케이크 조각",
-          "카페 내부 테이블과 의자",
-          "매장 지도 핀",
-          "치즈케이크를 맛있게 먹는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 20-30대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 검증된 맛집의 신규 매장 오픈 정보로 즉각적인 방문 욕구 자극",
-      "image": {
-        "keyword": "Rikuro Ojisan no Mise, Grand Front Osaka, cheesecake, cafe, opening, Osaka, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Rikuro-Ojisan-no-Mise,-Grand-Front-Osaka,-cheesecake,-cafe,-opening,-Osaka,-Japan",
-        "pexels_url": "https://www.pexels.com/search/Rikuro%20Ojisan%20no%20Mise,%20Grand%20Front%20Osaka,%20cheesecake,%20cafe,%20opening,%20Osaka,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_8152eab0",
-      "created_at": "2026-09-13T01:00:44.032714",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ほぼ日×Suicaのペンギン、手帖や文具14アイテムの予約販売決定。グランスタ東京の旗艦店は当面事前予約制に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140217.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 감성 문구류 득템 찬스! 📚"
-      },
-      "content": {
-        "thumbnail_title": "Suica펜귄✨문구예약!",
-        "cards": [
-          {
-            "title": "Suica펜귄 콜라보",
-            "content": "일본 유명 브랜드 '호보이치'와 Suica의 마스코트 'Suica 펜귄'이 만난 특별한 문구류 14종이 출시됩니다. 잊지 못할 일본 여행 기념품이 될 거예요!",
-            "alt_text": "Suica 펜귄과 호보이치 브랜드 로고가 함께 있는 콜라보 상품 이미지"
-          },
-          {
-            "title": "예약 판매 기간",
-            "content": "9월 24일 오전 10시부터 10월 31일 밤 11시 59분까지, 오직 'GRANSTA MALL' 공식 온라인 샵에서만 예약 판매가 진행됩니다. 서둘러야 해요!",
-            "alt_text": "달력에 9월 24일과 10월 31일이 표시된 이미지"
-          },
-          {
-            "title": "판매 상품",
-            "content": "이번 콜라보로 수첩, 펜, 마스킹 테이프 등 다양한 디자인의 문구류 14가지 아이템을 만나볼 수 있습니다. 일본 감성 가득한 아이템들로 여행의 추억을 기록해보세요.",
-            "alt_text": "다양한 디자인의 수첩, 펜, 스티커 등 문구류 모음 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "GRANSTA MALL은 도쿄역 직영점으로, 이곳에서만 구매 가능한 한정판 상품입니다. 일본 여행 중 도쿄역에 들를 예정이라면 놓치지 마세요!",
-            "alt_text": "도쿄역 GRANSTA MALL 간판 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "예약 판매 기간을 놓치면 구매가 어려울 수 있으니, 관심 있는 분들은 기간 내에 꼭 주문하시길 바랍니다. 해외 배송 가능 여부는 별도 확인이 필요합니다.",
-            "alt_text": "경고 표시와 함께 '기간 엄수' 문구가 적힌 이미지"
-          }
-        ],
-        "caption": "🇯🇵 Suica 펜귄과 호보이치의 역대급 콜라보! ✍️\n\n일본 여행 중 특별한 기념품을 찾고 있다면 주목하세요! \nSuica 펜귄과 유명 문구 브랜드 '호보이치'가 만나 14가지 감성 아이템을 출시합니다.\n\n✨ 예약 기간: 9월 24일 10시 ~ 10월 31일 23시 59분\n✨ 구매처: GRANSTA MALL 공식 온라인 샵\n\n일본 여행의 추억을 더욱 특별하게 만들어 줄 한정판 문구류, 지금 바로 예약하세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#호보이치",
-          "#Suica펜귄",
-          "#일본문구",
-          "#도쿄여행",
-          "#여행기념품",
-          "#한정판",
-          "#일본굿즈",
-          "#GRANSTAMALL",
-          "#도쿄역",
-          "#일본감성",
-          "#여행준비",
-          "#일본쇼핑리스트"
-        ],
-        "alt_texts": [
-          "Suica 펜귄과 호보이치 브랜드 로고가 함께 있는 콜라보 상품 이미지",
-          "달력에 9월 24일과 10월 31일이 표시된 이미지",
-          "다양한 디자인의 수첩, 펜, 스티커 등 문구류 모음 이미지",
-          "도쿄역 GRANSTA MALL 간판 이미지",
-          "경고 표시와 함께 '기간 엄수' 문구가 적힌 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 희소성 있는 한정판 정보, 일본 감성 충족",
-      "image": {
-        "keyword": "Suica penguin Hobonichi collaboration stationery Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-Hobonichi-collaboration-stationery-Japan",
-        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20Hobonichi%20collaboration%20stationery%20Japan/"
       }
     }
   ]
