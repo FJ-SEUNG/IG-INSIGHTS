@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-15T04:43:50.540685",
+  "last_updated": "2026-09-16T01:25:36.708124",
   "plans": [
+    {
+      "id": "plan_ba13add3",
+      "created_at": "2026-09-16T01:25:34.707992",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宮城県、レンタカー周遊＋宿泊で5000円分の選べる電子マネーを付与する「みやぎドライブ＆ステイ割」。9月18日受付開始",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2141163.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 미야기현에서 렌터카 여행 시 5000엔 상당의 혜택을 받을 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "💥미야기 렌터카 5000엔 꿀팁!💥",
+        "cards": [
+          {
+            "title": "미야기 드라이브&스테이",
+            "content": "일본 미야기현에서 렌터카를 이용하고 숙박하면 5,000엔 상당의 전자화폐를 받을 수 있는 '미야기 드라이브&스테이 할인'이 진행됩니다.",
+            "alt_text": "일본 미야기현 지도와 렌터카 이미지"
+          },
+          {
+            "title": "이용 기간 확인",
+            "content": "프로모션은 2024년 10월 1일부터 2027년 2월 15일까지 진행됩니다. 지금 바로 계획해보세요!",
+            "alt_text": "달력에 표시된 프로모션 기간"
+          },
+          {
+            "title": "주요 혜택",
+            "content": "렌터카 이용 및 숙박 시, 5,000엔 상당의 선택 가능한 전자 화폐를 증정합니다. 여행 경비를 절약할 수 있는 좋은 기회입니다.",
+            "alt_text": "5,000엔 전자 화폐 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "자세한 신청 방법 및 대상 조건은 프로모션 시작일인 9월 18일부터 확인 가능합니다. 미리 준비하시면 좋습니다.",
+            "alt_text": "신청 방법 안내 이미지"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "미야기현의 아름다운 자연과 문화를 렌터카로 자유롭게 여행하며 5,000엔 혜택까지 누려보세요! 가족, 친구와 함께 떠나기 좋습니다.",
+            "alt_text": "미야기현의 아름다운 풍경 이미지"
+          }
+        ],
+        "caption": "🚗 미야기현에서 렌터카 여행 계획 중이라면 주목! 🚗\n\n'미야기 드라이브&스테이 할인'으로 렌터카 이용과 숙박 시 5,000엔 상당의 전자화폐를 받을 수 있다는 사실!\n\n🎉 2024년 10월 1일 ~ 2027년 2월 15일까지 진행되니, 늦기 전에 꿀팁 챙겨가세요!\n\n#일본여행 #미야기현 #렌터카여행 #일본할인 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#미야기현",
+          "#일본렌터카",
+          "#미야기드라이브스테이",
+          "#일본여행정보",
+          "#일본할인",
+          "#여행혜택",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#미야기",
+          "#일본자동차여행",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본 미야기현 지도와 렌터카 이미지",
+          "달력에 표시된 프로모션 기간",
+          "5,000엔 전자 화폐 이미지",
+          "신청 방법 안내 이미지",
+          "미야기현의 아름다운 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 미야기현 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 프로모션 정보에 대한 높은 관심과 문의 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 혜택 정보 제공, 장기간 진행되는 프로모션으로 활용도 높음",
+      "image": {
+        "keyword": "Miyagi prefecture, rental car, travel discount, electronic money, Japan tourism",
+        "unsplash_url": "https://unsplash.com/s/photos/Miyagi-prefecture,-rental-car,-travel-discount,-electronic-money,-Japan-tourism",
+        "pexels_url": "https://www.pexels.com/search/Miyagi%20prefecture,%20rental%20car,%20travel%20discount,%20electronic%20money,%20Japan%20tourism/"
+      }
+    },
+    {
+      "id": "plan_4af0dcf7",
+      "created_at": "2026-09-16T01:25:28.600853",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "じゃらんnet「九州ふっこう応援割」熊本の予約受付を再開。このあと10時ごろ、県内の宿泊が最大60％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2141224.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 큐슈 지역 숙박비 최대 60% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️九州 최대 60% 할인! 熊本 숙박 꿀팁 🏨",
+        "cards": [
+          {
+            "title": "할인 정보",
+            "content": "일본 큐슈 지역 여행 시, 熊本현 숙박비를 최대 60%까지 할인받을 수 있는 '九州ふっこう応援割'이 재개됩니다.",
+            "alt_text": "할인 쿠폰 이미지를 들고 있는 손"
+          },
+          {
+            "title": "예약 시작",
+            "content": "9월 16일 오전 10시부터 じゃらんnet에서 熊本현 숙박 예약이 다시 가능합니다.",
+            "alt_text": "시계와 달력 이미지가 합쳐진 모습"
+          },
+          {
+            "title": "할인율",
+            "content": "이번 프로모션을 통해 熊本현 내 숙박 비용을 최대 60%까지 저렴하게 이용할 수 있습니다.",
+            "alt_text": "할인율 % 숫자가 크게 표시된 이미지"
+          },
+          {
+            "title": "대상 지역",
+            "content": "본 할인은 熊本현에서 숙박하는 경우에 적용되며, 큐슈 지역 전반에 걸친 여행 지원 사업의 일부입니다.",
+            "alt_text": "일본 큐슈 지도 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기가 많을 것으로 예상되니, 예약 오픈 시간인 9월 16일 오전 10시에 맞춰 서두르는 것이 좋습니다. じゃらんnet에서 '九州ふっこう応援割' 관련 정보를 확인하세요.",
+            "alt_text": "사람들이 줄 서서 기다리는 모습"
+          }
+        ],
+        "caption": "일본 큐슈 여행 계획 중이신가요? ✈️ 熊本현에서 숙박 시 최대 60% 할인받을 수 있는 '九州ふっこう応援割'이 돌아왔습니다! 🤩 9월 16일 오전 10시부터 じゃらんnet에서 예약 가능하니, 놓치지 마세요! 🏨 #일본여행 #큐슈여행 #熊本 #숙박할인 #여행꿀팁 #플라잉재팬 #여행정보 #일본숙소 #가성비여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#큐슈여행",
+          "#熊本",
+          "#九州ふっこう応援割",
+          "#일본숙박",
+          "#여행할인",
+          "#가성비여행",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#여행꿀팁",
+          "#해외여행",
+          "#일본가볼만한곳",
+          "#일본단풍",
+          "#일본축제"
+        ],
+        "alt_texts": [
+          "할인 쿠폰 이미지를 들고 있는 손",
+          "시계와 달력 이미지가 합쳐진 모습",
+          "할인율 % 숫자가 크게 표시된 이미지",
+          "일본 큐슈 지도 이미지",
+          "사람들이 줄 서서 기다리는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 큐슈 지역 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 즉각적인 할인 혜택 정보 제공으로 높은 클릭률 및 공유 유도",
+      "image": {
+        "keyword": "japan travel discount kyushu kumamoto accommodation",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-discount-kyushu-kumamoto-accommodation",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20discount%20kyushu%20kumamoto%20accommodation/"
+      }
+    },
     {
       "id": "plan_c9de8d1e",
       "created_at": "2026-09-15T04:43:48.540499",
@@ -923,160 +1077,6 @@
         "keyword": "Suica penguin Hobonichi collaboration stationery Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-Hobonichi-collaboration-stationery-Japan",
         "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20Hobonichi%20collaboration%20stationery%20Japan/"
-      }
-    },
-    {
-      "id": "plan_81fb3647",
-      "created_at": "2026-09-12T04:24:29.435189",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大韓航空、スターリンクの無料機内Wi-Fiを9月15日開始。動画視聴やオンラインゲームにも対応",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140246.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 데이터 걱정 끝! 무료 와이파이 꿀팁 대공개!"
-      },
-      "content": {
-        "thumbnail_title": "✈️대한항공 무료 와이파이!✈️",
-        "cards": [
-          {
-            "title": "9월 15일 출시",
-            "content": "대한항공이 9월 15일부터 스타링크 위성 인터넷을 이용한 무료 기내 와이파이 서비스를 시작합니다. 이제 일본 가는 비행기 안에서 데이터 걱정 없이 자유롭게 인터넷을 즐기세요!",
-            "alt_text": "대한항공 로고와 함께 '무료 기내 와이파이' 문구가 강조된 이미지"
-          },
-          {
-            "title": "속도 UP!",
-            "content": "이번에 도입되는 스타링크 서비스는 기존 와이파이보다 훨씬 빠른 속도를 자랑합니다. 고화질 영상 시청은 물론, 온라인 게임까지 끊김 없이 즐길 수 있습니다.",
-            "alt_text": "빠른 인터넷 속도를 나타내는 아이콘과 함께 '고화질 영상, 온라인 게임 가능' 문구가 있는 이미지"
-          },
-          {
-            "title": "무료 혜택",
-            "content": "별도 신청이나 추가 요금 없이 누구나 무료로 이용 가능합니다. 일본 여행 시작부터 끝까지, 기내에서부터 편리함을 더하세요.",
-            "alt_text": "무료 와이파이 아이콘과 함께 '누구나 무료 이용' 문구가 강조된 이미지"
-          },
-          {
-            "title": "이용 가능 노선",
-            "content": "현재 일본 노선을 포함한 모든 국제선 노선에 순차적으로 도입될 예정입니다. 출발 전 대한항공 홈페이지에서 상세 노선 확인은 필수!",
-            "alt_text": "비행기 아이콘과 함께 '일본 포함 국제선' 문구가 있는 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "기내 와이파이 연결 시 'Starlink' 네트워크를 선택하세요. 원활한 이용을 위해 미리 항공권 예매 시 좌석 정보를 확인하는 것도 좋습니다.",
-            "alt_text": "스마트폰으로 와이파이 연결하는 방법을 보여주는 이미지"
-          }
-        ],
-        "caption": "일본 여행 가시는 분들 주목! ✈️ 대한항공에서 9월 15일부터 스타링크 무료 기내 와이파이 서비스를 시작합니다! 🚀 이제 일본 가는 비행기 안에서 고화질 영상 시청, 온라인 게임까지 끊김 없이 즐기세요! 🤩 별도 요금 없이 누구나 이용 가능하니, 데이터 걱정은 덜고 즐거운 여행 시작하세요! 😉\n\n#일본여행 #대한항공 #기내와이파이 #스타링크 #무료와이파이 #일본항공 #여행꿀팁 #데이터프리 #여행준비 #플라잉재팬 #일본 #여행스타그램 #해외여행 #항공권 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#대한항공",
-          "#기내와이파이",
-          "#스타링크",
-          "#무료와이파이",
-          "#일본항공",
-          "#여행꿀팁",
-          "#데이터프리",
-          "#여행준비",
-          "#일본",
-          "#여행스타그램",
-          "#해외여행",
-          "#항공권",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "대한항공 로고와 함께 '무료 기내 와이파이' 문구가 강조된 이미지",
-          "빠른 인터넷 속도를 나타내는 아이콘과 함께 '고화질 영상, 온라인 게임 가능' 문구가 있는 이미지",
-          "무료 와이파이 아이콘과 함께 '누구나 무료 이용' 문구가 강조된 이미지",
-          "비행기 아이콘과 함께 '일본 포함 국제선' 문구가 있는 이미지",
-          "스마트폰으로 와이파이 연결하는 방법을 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 준비가 활발한 오후 8시 ~ 10시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 여행 비용 절감 및 편의성 증대 정보 제공",
-      "image": {
-        "keyword": "Korean traveler, airplane cabin, free wifi, Starlink, Japan travel, airplane window, digital nomad, connectivity, data plan, travel hack, flying japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Korean-traveler,-airplane-cabin,-free-wifi,-Starlink,-Japan-travel,-airplane-window,-digital-nomad,-connectivity,-data-plan,-travel-hack,-flying-japan",
-        "pexels_url": "https://www.pexels.com/search/Korean%20traveler,%20airplane%20cabin,%20free%20wifi,%20Starlink,%20Japan%20travel,%20airplane%20window,%20digital%20nomad,%20connectivity,%20data%20plan,%20travel%20hack,%20flying%20japan/"
-      }
-    },
-    {
-      "id": "plan_c18a4219",
-      "created_at": "2026-09-12T04:24:22.929003",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "佐賀県の旅行支援「九州ふっこう応援割さがキャンペーン」9月24日予約スタート。対象事業者は18日公表",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140328.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 사가현에서 최대 50% 할인받는 여행 지원금 찬스! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️사가현 50% 할인 찬스!",
-        "cards": [
-          {
-            "title": "여행 지원금",
-            "content": "일본 사가현에서 최대 50% 요금 보조하는 '규슈 부흥 응원 할인 사가 캠페인'을 실시합니다. 여행 경비를 크게 절약할 수 있는 절호의 기회입니다!",
-            "alt_text": "여행 지원금 로고 이미지"
-          },
-          {
-            "title": "예약 시점",
-            "content": "온라인 예약 사이트(OTA)는 9월 24일부터, 여행사는 10월 2일부터 예약 접수를 시작합니다. 미리미리 예약 일정을 확인하세요!",
-            "alt_text": "달력에 표시된 예약 시작일 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "예약 시작일 이전에 신청한 건은 할인 대상에서 제외됩니다. 반드시 예약 시작일에 맞춰 신청해야 혜택을 받을 수 있습니다.",
-            "alt_text": "경고 표시와 함께 예약 주의 문구 이미지"
-          },
-          {
-            "title": "예상 혜택",
-            "content": "이번 캠페인을 통해 사가현의 아름다운 자연과 맛있는 음식을 더욱 부담 없이 즐길 수 있습니다. 최대 50% 할인은 정말 매력적이죠!",
-            "alt_text": "사가현의 아름다운 풍경 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 계획을 세우고 있다면, 사가현 여행을 우선적으로 고려해보세요! 숙박, 교통 등 다양한 부분에서 할인을 받을 수 있습니다. 예약 사이트를 미리 즐겨찾기 해두세요!",
-            "alt_text": "여행 계획 중인 사람의 모습"
-          }
-        ],
-        "caption": "✨일본 사가현에서 최대 50% 할인받는 여행 찬스!✨\n\n'규슈 부흥 응원 할인 사가 캠페인'으로 사가현 여행이 더욱 즐거워집니다! 🤩\n\n✅ 온라인 예약: 9월 24일 시작\n✅ 여행사 예약: 10월 2일 시작\n\n⚠️ 예약 시작 전 신청은 할인 대상 제외!\n\n여행 계획 중이라면, 지금 바로 사가현 여행을 알아보세요! ✈️\n\n#사가현여행 #규슈여행 #일본여행할인 #여행지원금 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#사가현",
-          "#규슈",
-          "#일본여행정보",
-          "#여행꿀팁",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본소식",
-          "#여행지원",
-          "#할인정보",
-          "#일본가볼만한곳",
-          "#여행계획",
-          "#사가",
-          "#규슈여행"
-        ],
-        "alt_texts": [
-          "여행 지원금 로고 이미지",
-          "달력에 표시된 예약 시작일 이미지",
-          "경고 표시와 함께 예약 주의 문구 이미지",
-          "사가현의 아름다운 풍경 사진",
-          "여행 계획 중인 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 사가현 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보성 높은 콘텐츠로 관심 집중, 예약 시점 문의 증가 / 이 콘텐츠의 강점: 최대 50% 할인이라는 파격적인 혜택을 명확하게 제시하여 즉각적인 관심 유도",
-      "image": {
-        "keyword": "Saga Prefecture travel support campaign discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Saga-Prefecture-travel-support-campaign-discount",
-        "pexels_url": "https://www.pexels.com/search/Saga%20Prefecture%20travel%20support%20campaign%20discount/"
       }
     }
   ]
