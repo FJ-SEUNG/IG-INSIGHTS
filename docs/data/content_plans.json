@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-17T04:43:49.290373",
+  "last_updated": "2026-09-18T01:17:29.771256",
   "plans": [
+    {
+      "id": "plan_9e158525",
+      "created_at": "2026-09-18T01:17:27.771075",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハウステンボス「ウェルカム九州割」予約スタート。直営ホテルが最大50％オフ、九州ふっこう応援割は受付停止中",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2141796.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 최대 테마파크 하우스텐보스 숙박 최대 50% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🎡하우스텐보스 50% 할인!🎉",
+        "cards": [
+          {
+            "title": "✨웰컴九州割✨",
+            "content": "일본 나가사키 하우스텐보스에서 '웰컴九州割' 숙박 플랜을 발표했습니다. 최대 50% 할인 혜택을 받을 수 있어요.",
+            "alt_text": "하우스텐보스 야경 이미지"
+          },
+          {
+            "title": "🗓️예약 기간",
+            "content": "예약은 9월 17일 14시부터 시작하여 10월 5일 23시 30분까지 가능합니다.",
+            "alt_text": "캘린더 이미지"
+          },
+          {
+            "title": "🏨할인 내용",
+            "content": "직영 호텔 숙박 시 최대 50% 할인이 적용됩니다. (기존 '규슈 부흥 응원 할인'은 접수 중단)",
+            "alt_text": "호텔 건물 이미지"
+          },
+          {
+            "title": "📍위치 정보",
+            "content": "하우스텐보스는 나가사키현 사세보시 하우스텐보스마치 1-1에 위치하고 있습니다.",
+            "alt_text": "지도 핀 이미지"
+          },
+          {
+            "title": "💡꿀팁!",
+            "content": "기간 한정 할인인 만큼 서둘러 예약하세요! 9월 말부터 10월 초까지 여행 계획이 있다면 놓치지 마세요.",
+            "alt_text": "여행 가방 이미지"
+          }
+        ],
+        "caption": "일본 최대 테마파크, 하우스텐보스에서 역대급 할인 찬스가 왔어요! 🤩\n'웰컴九州割' 숙박 플랜으로 최대 50% 저렴하게 즐겨보세요! 💖\n\n✅ 예약 기간: 9월 17일 14시 ~ 10월 5일 23시 30분\n✅ 할인 내용: 직영 호텔 최대 50% OFF\n✅ 장소: 나가사키 하우스텐보스\n\n이번 기회에 아름다운 하우스텐보스에서 잊지 못할 추억을 만들어보세요! ✨\n\n#하우스텐보스 #나가사키여행 #일본숙소 #일본할인 #웰컴九州割 #규슈여행 #일본여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하우스텐보스",
+          "#나가사키",
+          "#나가사키여행",
+          "#일본숙소",
+          "#일본호텔",
+          "#일본할인",
+          "#웰컴九州割",
+          "#규슈",
+          "#규슈여행",
+          "#일본여행정보",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#가을여행"
+        ],
+        "alt_texts": [
+          "하우스텐보스 야경 이미지",
+          "캘린더 이미지",
+          "호텔 건물 이미지",
+          "지도 핀 이미지",
+          "여행 가방 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 파격적인 할인율, 인기 관광지 정보",
+      "image": {
+        "keyword": "Huis Ten Bosch, Nagasaki, Japan, discount, hotel, travel, autumn, theme park",
+        "unsplash_url": "https://unsplash.com/s/photos/Huis-Ten-Bosch,-Nagasaki,-Japan,-discount,-hotel,-travel,-autumn,-theme-park",
+        "pexels_url": "https://www.pexels.com/search/Huis%20Ten%20Bosch,%20Nagasaki,%20Japan,%20discount,%20hotel,%20travel,%20autumn,%20theme%20park/"
+      }
+    },
+    {
+      "id": "plan_7e62251f",
+      "created_at": "2026-09-18T01:17:18.637473",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "今日から新幹線「のぞみ」自由席なし。シルバーウィークで初めて全席指定席化",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2139255.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수! 신칸센 '노조미' 전 좌석 지정제 변경 정보 총정리 🚄"
+      },
+      "content": {
+        "thumbnail_title": "✨노조미 전석 지정!✨",
+        "cards": [
+          {
+            "title": "전 좌석 지정제",
+            "content": "JR 도카이와 JR 니시니혼은 9월 18일부터 23일까지, 실버 위크 기간 동안 도카이도/산요 신칸센 '노조미' 호를 전 좌석 지정석으로 운행합니다.",
+            "alt_text": "신칸센 '노조미' 호 이미지"
+          },
+          {
+            "title": "변경 이유",
+            "content": "인파가 몰리는 실버 위크 기간 동안 혼잡을 완화하고 보다 쾌적한 여행 환경을 제공하기 위한 조치입니다.",
+            "alt_text": "혼잡한 기차역 이미지"
+          },
+          {
+            "title": "예약 필수",
+            "content": "해당 기간에 '노조미' 호를 이용하려면 반드시 사전에 지정석을 예매해야 합니다. 자유석은 운영되지 않습니다.",
+            "alt_text": "신칸센 예약 화면 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "인기 구간은 좌석이 빠르게 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하시는 것을 추천합니다.",
+            "alt_text": "여행 계획 세우는 모습 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "예약 없이 역에 방문하면 탑승이 어려울 수 있습니다. 미리 예매하지 않은 경우 다른 열차 이용을 고려하세요.",
+            "alt_text": "신칸센 플랫폼에서 기다리는 여행객 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 정보! 🇯🇵\n\n다가오는 실버 위크 (9/18~23) 기간 동안, 신칸센 '노조미' 호가 전 좌석 지정석으로 운영됩니다. 🚄\n\n자유석 없이 모든 좌석이 지정석으로 변경되니, 해당 기간에 '노조미' 호를 이용하실 분들은 반드시 사전 예매하셔야 해요! 잊지 말고 미리 예약해서 즐거운 일본 여행 되세요! 😉\n\n#일본여행 #플라잉재팬 #신칸센 #노조미 #실버위크 #일본교통 #여행꿀팁 #일본정보 #해외여행 #여행스타그램 #일본 #자유여행 #여행준비 #일본철도 #필수정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#노조미",
+          "#실버위크",
+          "#일본교통",
+          "#여행꿀팁",
+          "#일본정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#자유여행",
+          "#여행준비",
+          "#일본철도",
+          "#필수정보"
+        ],
+        "alt_texts": [
+          "신칸센 '노조미' 호 이미지",
+          "혼잡한 기차역 이미지",
+          "신칸센 예약 화면 이미지",
+          "여행 계획 세우는 모습 이미지",
+          "신칸센 플랫폼에서 기다리는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~21시) / 기대 반응: 정보 습득, 예약 행동 유도 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공으로 여행 계획에 직접적인 도움을 줌",
+      "image": {
+        "keyword": "Shinkansen Nozomi train, reserved seat, Japan travel, Silver Week, railway transportation, travel planning",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Nozomi-train,-reserved-seat,-Japan-travel,-Silver-Week,-railway-transportation,-travel-planning",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Nozomi%20train,%20reserved%20seat,%20Japan%20travel,%20Silver%20Week,%20railway%20transportation,%20travel%20planning/"
+      }
+    },
     {
       "id": "plan_04d3ad9d",
       "created_at": "2026-09-17T04:43:47.290176",
@@ -923,160 +1077,6 @@
         "keyword": "Kyushu, Japan, discount coupon, travel support, discount percentage",
         "unsplash_url": "https://unsplash.com/s/photos/Kyushu,-Japan,-discount-coupon,-travel-support,-discount-percentage",
         "pexels_url": "https://www.pexels.com/search/Kyushu,%20Japan,%20discount%20coupon,%20travel%20support,%20discount%20percentage/"
-      }
-    },
-    {
-      "id": "plan_b4ae7b4b",
-      "created_at": "2026-09-14T04:44:56.652660",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "近鉄、「名阪\"得\"急デジタルきっぷ（平日限定）」発売。平日のオフピーク時間帯にお得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2138814.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "평일 일본 여행 계획 중이라면 주목! 긴테츠 열차 할인 정보 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✨평일 긴테츠 꿀팁!✨",
-        "cards": [
-          {
-            "title": "이용권 출시!",
-            "content": "긴테츠에서 평일 오프피크 시간대에 이용 가능한 '명阪'특급 디지털 티켓'을 9월 15일에 출시했어요.",
-            "alt_text": "긴테츠 열차 티켓 이미지"
-          },
-          {
-            "title": "평일 한정",
-            "content": "오사카-나고야 구간을 평일에 이용하는 분들께 추천! 오프피크 시간대에 더 저렴하게 이용 가능해요.",
-            "alt_text": "일본 지도에 오사카와 나고야 표시"
-          },
-          {
-            "title": "구매 기간",
-            "content": "탑승일 1개월 전부터 전날까지 구매 가능해요. 미리 계획해서 할인받으세요!",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "2024년 10월 5일부터 12월 18일까지의 평일 한정으로 이용 가능합니다.",
-            "alt_text": "열차 시간표 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "평일 오후 2시부터 4시 사이에 출발하는 열차 또는 오후 9시 이후에 출발하는 열차 이용 시 더욱 저렴하게 이용할 수 있어요. (정확한 시간은 구매 시 확인 필요)",
-            "alt_text": "시간대별 할인율 표시 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 긴테츠 이용 계획 있으신가요? 🚄\n평일 오프피크 시간대에 이용하면 더 저렴하게! '명阪'특급 디지털 티켓'으로 알뜰하게 일본 여행 즐겨보세요! 😉\n\n✅ 출시일: 9월 15일\n✅ 이용 기간: 10월 5일 ~ 12월 18일 (평일 한정)\n✅ 구매 기간: 탑승일 1개월 전 ~ 전날\n\n#일본여행 #긴테츠 #교통할인 #평일여행 #오사카여행 #나고야여행 #일본기차 #여행꿀팁 #플라잉재팬 #알뜰여행 #효율적인여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#긴테츠",
-          "#일본교통",
-          "#일본기차",
-          "#명阪특급",
-          "#디지털티켓",
-          "#평일여행",
-          "#여행정보",
-          "#일본할인",
-          "#여행꿀팁",
-          "#오사카",
-          "#나고야",
-          "#일본스타그램",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "긴테츠 열차 티켓 이미지",
-          "일본 지도에 오사카와 나고야 표시",
-          "달력 이미지",
-          "열차 시간표 이미지",
-          "시간대별 할인율 표시 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 평일 일본 여행객 (특히 오사카-나고야 구간 이동 예정자) / 최적 게시 시간: 여행 계획을 세우는 오후 8시~10시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 할인 정보와 이용 기간을 명확하게 제시하여 실질적인 도움을 줌",
-      "image": {
-        "keyword": "Kintetsu train, Japan travel, discount ticket, weekday travel, Osaka to Nagoya",
-        "unsplash_url": "https://unsplash.com/s/photos/Kintetsu-train,-Japan-travel,-discount-ticket,-weekday-travel,-Osaka-to-Nagoya",
-        "pexels_url": "https://www.pexels.com/search/Kintetsu%20train,%20Japan%20travel,%20discount%20ticket,%20weekday%20travel,%20Osaka%20to%20Nagoya/"
-      }
-    },
-    {
-      "id": "plan_e7182af6",
-      "created_at": "2026-09-14T04:44:50.993476",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "鹿児島県内の宿泊が最大60％オフ「かごしま観光応援割」本日予約スタート。九州ふっこう応援割とは別の旅行支援策",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140462.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가고시마 여행 경비를 최대 60%까지 절약할 수 있는 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "💰가고시마 숙박 60% 할인 찬스!💰",
-        "cards": [
-          {
-            "title": "가고시마 관광 응원 할인",
-            "content": "가고시마현에서 자체적으로 진행하는 '가고시마 관광 응원 할인' 프로그램이 시작됩니다. 9월 14일부터 10월 13일까지 숙박하는 분들이 대상입니다.",
-            "alt_text": "가고시마 현지 풍경 사진"
-          },
-          {
-            "title": "최대 60% 할인 혜택",
-            "content": "이번 캠페인을 통해 가고시마현 내 숙박 요금을 최대 60%까지 할인받을 수 있습니다. 알뜰한 여행 계획에 큰 도움이 될 거예요.",
-            "alt_text": "할인율을 나타내는 그래픽"
-          },
-          {
-            "title": "九州復興応援割과 별개",
-            "content": "이 지원책은 기존의 '규슈 부흥 응원 할인'과는 별도로 진행되는 가고시마현 자체 여행 지원 프로그램입니다.",
-            "alt_text": "일본 지도에서 가고시마현 강조"
-          },
-          {
-            "title": "예약 시작!",
-            "content": "오늘부터 예약이 시작되었으니, 가고시마 여행을 계획 중이시라면 서둘러 예약하시는 것을 추천합니다. 조기 마감될 수 있습니다.",
-            "alt_text": "달력에 표시된 예약 시작일"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인 혜택을 받기 위해서는 반드시 해당 기간(9월 14일~10월 13일)에 숙박해야 합니다. 여행 날짜를 잘 확인하세요!",
-            "alt_text": "여행 계획을 세우는 사람 일러스트"
-          }
-        ],
-        "caption": "가고시마 여행 예정이라면 주목! 📢\n가고시마현에서 자체적으로 진행하는 '가고시마 관광 응원 할인'이 시작됩니다. 🤩\n9월 14일부터 10월 13일까지 숙박 시, 최대 60% 할인 혜택을 받을 수 있어요! 💰\n이는 기존 '규슈 부흥 응원 할인'과는 별개로 진행되니, 가고시마 여행을 계획하신다면 이 기회를 놓치지 마세요! ✨\n오늘부터 예약 시작이니 서둘러 예약하세요! 🏃‍♀️🏃‍♂️\n\n#가고시마여행 #일본숙소할인 #가고시마관광 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#가고시마",
-          "#가고시마여행",
-          "#일본숙소",
-          "#숙소할인",
-          "#여행지원",
-          "#일본할인",
-          "#가고시마관광",
-          "#가고시마숙소",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#가을여행",
-          "#알뜰여행"
-        ],
-        "alt_texts": [
-          "가고시마 현지 풍경 사진",
-          "할인율을 나타내는 그래픽",
-          "일본 지도에서 가고시마현 강조",
-          "달력에 표시된 예약 시작일",
-          "여행 계획을 세우는 사람 일러스트"
-        ]
-      },
-      "marketer_analysis": "타겟: 가고시마 지역 여행을 계획 중이거나 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 7-9시 (퇴근 후 정보 탐색 시간) / 기대 반응: 높은 클릭률과 저장률, 댓글 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시로 즉각적인 여행 계획 수정 유도, 놓치기 쉬운 지역별 자체 지원책 정보 제공",
-      "image": {
-        "keyword": "Kagoshima Japan accommodation discount travel support",
-        "unsplash_url": "https://unsplash.com/s/photos/Kagoshima-Japan-accommodation-discount-travel-support",
-        "pexels_url": "https://www.pexels.com/search/Kagoshima%20Japan%20accommodation%20discount%20travel%20support/"
       }
     }
   ]
