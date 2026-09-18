@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-18T01:17:29.771256",
+  "last_updated": "2026-09-18T04:31:26.291987",
   "plans": [
+    {
+      "id": "plan_a4b017ef",
+      "created_at": "2026-09-18T04:31:24.291759",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "北海道エアポート、新千歳空港で「C駐車場割引キャンペーン」実施　最大7,000円引きに",
+        "url": "https://www.traicy.com/posts/20260918381534/",
+        "date": "Fri, 18 Sep 2026 00:15:09 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "홋카이도 신치토세 공항 주차 요금 대폭 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️신치토세 공항 주차 7천엔 할인!",
+        "cards": [
+          {
+            "title": "할인 캠페인",
+            "content": "홋카이도 신치토세 공항 C주차장에서 특별 할인 캠페인을 진행합니다. 최대 7,000엔까지 할인받을 수 있습니다.",
+            "alt_text": "신치토세 공항 C주차장 할인 캠페인 안내"
+          },
+          {
+            "title": "기간 확인!",
+            "content": "캠페인 기간은 2023년 9월 19일부터 11월 30일까지입니다. 이 기간 동안 입고 및 출고하는 차량이 대상입니다.",
+            "alt_text": "캠페인 기간: 9월 19일 ~ 11월 30일"
+          },
+          {
+            "title": "대상 조건",
+            "content": "C주차장을 1회 이용 시 48시간 이상 주차하는 경우에 할인이 적용됩니다. 홋카이도 개항 100주년 기념 행사입니다.",
+            "alt_text": "48시간 이상 주차 시 할인 적용"
+          },
+          {
+            "title": "주차 요금 절약",
+            "content": "홋카이도 여행 시 신치토세 공항을 이용한다면 주차 요금을 크게 절약할 수 있는 좋은 기회입니다.",
+            "alt_text": "주차 요금 절약 팁"
+          },
+          {
+            "title": "꼼꼼히 확인!",
+            "content": "정확한 할인 금액 및 상세 조건은 현장 안내를 참고하시거나, 공항 웹사이트에서 확인하시는 것이 좋습니다. 잊지 말고 혜택 받으세요!",
+            "alt_text": "상세 조건 확인 안내"
+          }
+        ],
+        "caption": "✈️홋카이도 여행 필수 정보! 신치토세 공항 주차 요금 대폭 할인 찬스가 돌아왔어요! ✈️\n\n✅ 기간: 9월 19일 ~ 11월 30일\n✅ 대상: C주차장 48시간 이상 이용 시\n✅ 할인: 최대 7,000엔\n\n홋카이도 여행 계획 중이라면 이 기회를 놓치지 마세요! 🤩\n\n#신치토세공항 #홋카이도여행 #주차할인 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도",
+          "#신치토세공항",
+          "#주차할인",
+          "#여행정보",
+          "#일본교통",
+          "#여행꿀팁",
+          "#가을여행",
+          "#겨울여행",
+          "#일본자유여행",
+          "#홋카이도자유여행",
+          "#공항주차",
+          "#할인정보",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "신치토세 공항 C주차장 할인 캠페인 안내",
+          "캠페인 기간: 9월 19일 ~ 11월 30일",
+          "48시간 이상 주차 시 할인 적용",
+          "주차 요금 절약 팁",
+          "상세 조건 확인 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 5시 ~ 7시 / 기대 반응: 주차 요금 절약 정보에 대한 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인 금액과 기간 명시, 즉각적인 실용성",
+      "image": {
+        "keyword": "New Chitose Airport C Parking Discount Campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/New-Chitose-Airport-C-Parking-Discount-Campaign",
+        "pexels_url": "https://www.pexels.com/search/New%20Chitose%20Airport%20C%20Parking%20Discount%20Campaign/"
+      }
+    },
+    {
+      "id": "plan_98377da8",
+      "created_at": "2026-09-18T04:31:19.393661",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーシー、新ショー「ブリング・ザ・リズム！」2027年秋から上演。BBBと同じブロードウェイ・ミュージックシアターで",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2141847.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년부터 도쿄 디즈니씨에서 새로운 쇼를 만날 수 있어요!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니씨 새 쇼 공개✨",
+        "cards": [
+          {
+            "title": "새 쇼 '브링 더 리듬!'",
+            "content": "도쿄 디즈니씨에서 2027년 가을부터 새로운 쇼 '브링 더 리듬!'을 선보입니다. 브로드웨이 뮤직 시어터에서 펼쳐질 예정입니다.",
+            "alt_text": "도쿄 디즈니씨의 브로드웨이 뮤직 시어터 외관 이미지"
+          },
+          {
+            "title": "공연 장소",
+            "content": "아메리칸 워터프런트에 위치한 '브로드웨이 뮤직 시어터'에서 공연됩니다. 기존 '빅 밴드 비트'가 열렸던 장소와 동일합니다.",
+            "alt_text": "도쿄 디즈니씨 아메리칸 워터프런트 풍경 이미지"
+          },
+          {
+            "title": "공연 시기",
+            "content": "2027년 가을부터 시작될 예정이며, 앞으로 3년 뒤에 만나볼 수 있는 특별한 쇼입니다.",
+            "alt_text": "가을 단풍이 물든 도쿄 디즈니씨의 모습 이미지"
+          },
+          {
+            "title": "기대 포인트",
+            "content": "새로운 음악과 화려한 퍼포먼스로 가득한 '브링 더 리듬!' 쇼에 대한 기대감이 벌써부터 높습니다. 어떤 볼거리를 선사할지 주목해주세요.",
+            "alt_text": "화려한 조명과 함께 공연하는 디즈니 캐릭터 이미지"
+          },
+          {
+            "title": "여행 계획 Tip!",
+            "content": "2027년 가을 이후 일본 여행을 계획하신다면, 새롭게 추가될 디즈니씨의 '브링 더 리듬!' 쇼 관람을 일정에 넣어보세요! 미리 티켓 예매 정보를 확인하는 것도 좋습니다.",
+            "alt_text": "도쿄 디즈니씨 야경 이미지"
+          }
+        ],
+        "caption": "✨도쿄 디즈니씨, 2027년 가을 새로운 쇼 '브링 더 리듬!' 공개!✨\n\n아메리칸 워터프런트의 브로드웨이 뮤직 시어터에서 펼쳐질 예정이며, 기존 '빅 밴드 비트'와 동일한 장소에서 만나볼 수 있습니다.\n\n3년 뒤, 새롭게 만날 환상적인 쇼를 기대하며 여행 계획을 세워보는 건 어떨까요? ✈️\n\n#일본여행 #도쿄디즈니씨 #디즈니랜드 #새로운쇼 #2027년가을 #여행정보 #플라잉재팬 #일본여행꿀팁 #여행계획 #디즈니쇼 #브링더리듬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니랜드",
+          "#디즈니시",
+          "#새로운쇼",
+          "#브링더리듬",
+          "#2027년가을",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#여행계획",
+          "#일본테마파크",
+          "#도쿄여행",
+          "#해외여행",
+          "#일본소식"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨의 브로드웨이 뮤직 시어터 외관 이미지",
+          "도쿄 디즈니씨 아메리칸 워터프런트 풍경 이미지",
+          "가을 단풍이 물든 도쿄 디즈니씨의 모습 이미지",
+          "화려한 조명과 함께 공연하는 디즈니 캐릭터 이미지",
+          "도쿄 디즈니씨 야경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 정보 공유 및 기대감 표현 / 이 콘텐츠의 강점: 미래의 여행 계획에 도움이 되는 구체적인 정보 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea, new show, Broadway Music Theater, 2027 autumn",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-new-show,-Broadway-Music-Theater,-2027-autumn",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20new%20show,%20Broadway%20Music%20Theater,%202027%20autumn/"
+      }
+    },
     {
       "id": "plan_9e158525",
       "created_at": "2026-09-18T01:17:27.771075",
@@ -923,160 +1077,6 @@
         "keyword": "JAL First Class amenity, JAL Business Class amenity, Cosme Decorte kit, luxury airline service, in-flight beauty kit",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-First-Class-amenity,-JAL-Business-Class-amenity,-Cosme-Decorte-kit,-luxury-airline-service,-in-flight-beauty-kit",
         "pexels_url": "https://www.pexels.com/search/JAL%20First%20Class%20amenity,%20JAL%20Business%20Class%20amenity,%20Cosme%20Decorte%20kit,%20luxury%20airline%20service,%20in-flight%20beauty%20kit/"
-      }
-    },
-    {
-      "id": "plan_a05c7112",
-      "created_at": "2026-09-15T01:28:32.408478",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ハンズ新宿店「Suicaのペンギン」ポップアップ。ぬいぐるみみたいな布団収納袋・巾着ポーチほか、実用的なグッズを展開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140764.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 쇼핑 성지, 신주쿠 한정 굿즈 득템 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨한정판 굿즈 득템찬스!✨",
-        "cards": [
-          {
-            "title": "Suica 펭귄 팝업",
-            "content": "일본 여행 중이라면 놓칠 수 없는 신주쿠 한정 굿즈! 🐧 'Suica의 펭귄 POP UP' 이벤트가 9월 18일부터 28일까지 도쿄 신주쿠 한즈에서 열립니다.",
-            "alt_text": "Suica 펭귄 캐릭터가 그려진 팝업 스토어 안내 이미지"
-          },
-          {
-            "title": "실용적인 굿즈",
-            "content": "인형 같은 이불 수납 주머니부터 앙증맞은 끈 주머니까지, 여행 중 유용하게 사용할 수 있는 다양한 상품들을 만나보세요.",
-            "alt_text": "Suica 펭귄 굿즈 종류를 보여주는 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "📍 도쿄도 시부야구 센다가야 5-24-2 타임즈 스퀘어 빌딩 2층~8층에 위치한 한즈 신주쿠점 3층 특별 행사장에서 진행됩니다.",
-            "alt_text": "한즈 신주쿠점 건물 외부 또는 내부 안내 이미지"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "행사 기간은 2024년 9월 18일(수)부터 9월 28일(토)까지 단 11일간 진행되니, 여행 일정을 잘 확인하세요!",
-            "alt_text": "이벤트 날짜를 강조하는 캘린더 또는 타이머 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 오픈 시간에 맞춰 방문하는 것을 추천합니다. 득템의 기회를 놓치지 마세요! 🛍️",
-            "alt_text": "쇼핑백을 들고 기뻐하는 사람의 모습 또는 쇼핑몰 입구 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 신주쿠에서 특별한 기념품을 찾고 있다면? 🐧 Suica의 펭귄 팝업 스토어에서 귀엽고 실용적인 한정판 굿즈를 득템하세요! \n\n📍장소: 한즈 신주쿠점 (도쿄도 시부야구 센다가야 5-24-2 타임즈 스퀘어 빌딩 3층)\n🗓️기간: 9월 18일 ~ 9월 28일\n\n여행 계획에 꼭 넣어두세요! 😉\n\n#일본여행 #플라잉재팬 #도쿄여행 #신주쿠 #한즈 #Suica펭귄 #팝업스토어 #일본쇼핑 #한정판굿즈 #여행필수템 #일본기념품 #도쿄쇼핑 #여행정보 #여행꿀팁 #일본이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#신주쿠",
-          "#한즈",
-          "#Suica펭귄",
-          "#팝업스토어",
-          "#일본쇼핑",
-          "#한정판굿즈",
-          "#여행필수템",
-          "#일본기념품",
-          "#도쿄쇼핑",
-          "#여행정보",
-          "#여행꿀팁",
-          "#일본이벤트"
-        ],
-        "alt_texts": [
-          "Suica 펭귄 캐릭터가 그려진 팝업 스토어 안내 이미지",
-          "Suica 펭귄 굿즈 종류를 보여주는 이미지",
-          "한즈 신주쿠점 건물 외부 또는 내부 안내 이미지",
-          "이벤트 날짜를 강조하는 캘린더 또는 타이머 이미지",
-          "쇼핑백을 들고 기뻐하는 사람의 모습 또는 쇼핑몰 입구 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 2030 한국인 여성 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 정보 공유 및 저장, 친구 태그 / 이 콘텐츠의 강점: 한정판 굿즈라는 희소성과 귀여운 캐릭터를 활용하여 구매 욕구 자극, 실용적인 정보 제공",
-      "image": {
-        "keyword": "Suica penguin, pop-up store, Shinjuku Hands, limited edition goods, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin,-pop-up-store,-Shinjuku-Hands,-limited-edition-goods,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Suica%20penguin,%20pop-up%20store,%20Shinjuku%20Hands,%20limited%20edition%20goods,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_ba610fcc",
-      "created_at": "2026-09-15T01:28:26.461334",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "じゃらんnet「九州ふっこう応援割」予約スタート。熊本・鹿児島は最大60％オフ、そのほか5県は最大50％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2140836.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "엔화 급등락으로 부담 느낀 여행객에게 꿀같은 50~60% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵九州 최대 60% 할인 꿀팁!",
-        "cards": [
-          {
-            "title": "九州 여행 지원",
-            "content": "일본 여행 지원 '九州ふっこう応援割'이 시작됩니다. 熊本, 鹿児島은 최대 60% 할인 혜택을 받을 수 있어요.",
-            "alt_text": " Kyushu 지역 지도와 할인율을 나타내는 그래픽"
-          },
-          {
-            "title": "그 외 5개현",
-            "content": "熊本, 鹿児島 외 나머지 5개현에서도 최대 50% 할인 혜택이 제공됩니다. 꼼꼼히 확인하고 알뜰하게 여행 계획 세우세요!",
-            "alt_text": " Kyushu 지역 5개현의 랜드마크 이미지"
-          },
-          {
-            "title": "쿠폰 시작일",
-            "content": "쿠폰 배포 및 이용은 9월 15일 오전 10시부터 시작됩니다. 알림 설정 필수!",
-            "alt_text": "달력에 9월 15일이 표시된 이미지"
-          },
-          {
-            "title": "어디서 예약?",
-            "content": "じゃらんnet에서 '九州ふっこう応援割' 특별 페이지를 통해 예약 가능합니다. 지금 바로 확인해보세요!",
-            "alt_text": "じゃらんnet 로고와 함께 예약 페이지를 보여주는 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "엔화 상승으로 부담 느꼈다면 이번이 절호의 찬스!  Kyushu 지역의 매력을 반값 이상 할인된 가격으로 즐겨보세요.",
-            "alt_text": "할인율을 나타내는 화살표와 함께 즐거운 여행하는 사람들의 모습"
-          }
-        ],
-        "caption": "엔화 급등으로 일본 여행 망설였던 분들 주목! 🇯🇵\n\n Kyushu 지역 여행 시 최대 60% 할인받을 수 있는 '九州ふっこう応援割'이 시작됩니다!\n\n熊本, 鹿児島 최대 60% 💰\n그 외 5개현 최대 50% 💰\n\n쿠폰은 9월 15일 오전 10시부터じゃらんnet에서 배포 및 사용 가능해요! \n\n이번 기회에 알뜰하게 Kyushu 여행 다녀오세요!✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#일본할인",
-          "#九州ふっこう応援割",
-          "#일본여행꿀팁",
-          "#여행지원",
-          "#일본자유여행",
-          "#일본숙소",
-          "#일본교통",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#엔화",
-          "#여행스타그램",
-          "#가을여행"
-        ],
-        "alt_texts": [
-          " Kyushu 지역 지도와 할인율을 나타내는 그래픽",
-          " Kyushu 지역 5개현의 랜드마크 이미지",
-          "달력에 9월 15일이 표시된 이미지",
-          "じゃらんnet 로고와 함께 예약 페이지를 보여주는 이미지",
-          "할인율을 나타내는 화살표와 함께 즐거운 여행하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 엔화 상승으로 일본 여행을 망설이는 2030 한국인 여행객 / 최적 게시 시간: 오후 6시~9시 (퇴근 후 인스타그램 이용률 높음) / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 시작 시점을 명확히 제시하여 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Kyushu, Japan, discount coupon, travel support, discount percentage",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyushu,-Japan,-discount-coupon,-travel-support,-discount-percentage",
-        "pexels_url": "https://www.pexels.com/search/Kyushu,%20Japan,%20discount%20coupon,%20travel%20support,%20discount%20percentage/"
       }
     }
   ]
