@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-21T01:05:12.204610",
+  "last_updated": "2026-09-21T04:44:47.637801",
   "plans": [
+    {
+      "id": "plan_4284a51c",
+      "created_at": "2026-09-21T04:44:45.637619",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "京都センチュリーホテル、ハローキティのスイーツビュッフェを開催　9月4日から",
+        "url": "https://www.traicy.com/posts/20260920379213/",
+        "date": "Sun, 20 Sep 2026 06:15:55 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토에서 만나는 귀여운 헬로키티! 놓치면 후회할 특별한 디저트 뷔페 소식이에요."
+      },
+      "content": {
+        "thumbnail_title": "💖교토 헬로키티 디저트 뷔페💖",
+        "cards": [
+          {
+            "title": "기간 한정!",
+            "content": "교토 센추리 호텔에서 헬로키티와 타이니차무가 함께하는 'HELLO KITTY RIBBON RIBBON Sweets Buffet'가 2024년 9월 4일부터 11월 29일까지 열립니다.",
+            "alt_text": "교토 센추리 호텔에서 헬로키티 디저트 뷔페가 열린다는 안내 이미지"
+          },
+          {
+            "title": "달콤한 리본 파티",
+            "content": "헬로키티의 시그니처인 '리본'을 테마로 한 사랑스러운 디저트들이 가득 준비될 예정입니다. 눈으로도 즐거운 특별한 경험을 선사할 거예요.",
+            "alt_text": "헬로키티 테마의 사랑스러운 디저트 이미지"
+          },
+          {
+            "title": "달콤함 가득",
+            "content": "다양한 종류의 케이크, 마카롱, 타르트 등 헬로키티와 함께하는 달콤한 시간을 만끽할 수 있습니다. 아이들은 물론 어른들도 동심으로 돌아갈 수 있는 기회!",
+            "alt_text": "다양한 종류의 디저트들이 진열된 모습"
+          },
+          {
+            "title": "교토 필수 코스",
+            "content": "교토 여행 중 특별하고 귀여운 추억을 만들고 싶다면 놓치지 마세요! 인생샷은 물론, 잊지 못할 디저트 경험을 할 수 있습니다.",
+            "alt_text": "교토 센추리 호텔 외부 전경 또는 헬로키티 뷔페가 열리는 공간의 모습"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 있는 이벤트인 만큼, 방문 전 호텔 공식 웹사이트를 통해 예약 가능 여부 및 시간, 가격 등 상세 정보를 미리 확인하는 것이 좋습니다. 특히 주말이나 공휴일은 서둘러 예약하세요!",
+            "alt_text": "호텔 예약 웹사이트 또는 헬로키티 관련 정보가 담긴 이미지"
+          }
+        ],
+        "caption": "💖교토에서 만나는 헬로키티의 달콤한 세계!💖\n\n교토 센추리 호텔에서 2024년 9월 4일부터 11월 29일까지 'HELLO KITTY RIBBON RIBBON Sweets Buffet'를 개최합니다.\n\n헬로키티와 타이니차무가 함께하는 사랑스러운 리본 테마 디저트 뷔페에서 눈과 입이 즐거운 특별한 시간을 보내세요!\n\n교토 여행 중 잊지 못할 추억을 만들고 싶다면 꼭 방문해보세요! ✨\n\n#교토여행 #헬로키티 #디저트뷔페 #기간한정 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#교토",
+          "#헬로키티",
+          "#키티",
+          "#디저트",
+          "#디저트뷔페",
+          "#카페",
+          "#호텔",
+          "#이벤트",
+          "#기간한정",
+          "#여행정보",
+          "#일본소식",
+          "#교토가볼만한곳"
+        ],
+        "alt_texts": [
+          "교토 센추리 호텔에서 헬로키티 디저트 뷔페가 열린다는 안내 이미지",
+          "헬로키티 테마의 사랑스러운 디저트 이미지",
+          "다양한 종류의 디저트들이 진열된 모습",
+          "교토 센추리 호텔 외부 전경 또는 헬로키티 뷔페가 열리는 공간의 모습",
+          "호텔 예약 웹사이트 또는 헬로키티 관련 정보가 담긴 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 교토 여행을 계획 중인 20-30대 여성 여행객 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 귀여운 캐릭터와 달콤한 디저트라는 매력적인 소재, 기간 한정 이벤트로 희소성 강조, 구체적인 날짜와 장소 명시",
+      "image": {
+        "keyword": "Hello Kitty dessert buffet Kyoto Century Hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-dessert-buffet-Kyoto-Century-Hotel",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20dessert%20buffet%20Kyoto%20Century%20Hotel/"
+      }
+    },
+    {
+      "id": "plan_a5fec133",
+      "created_at": "2026-09-21T04:44:40.149314",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、9月21日に首都圏在来線一部区間で運転取りやめ　台風25号影響",
+        "url": "https://www.traicy.com/posts/20260920382375/",
+        "date": "Sun, 20 Sep 2026 07:33:28 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "갑작스러운 태풍으로 인한 일본 열차 운행 중단 정보, 여행 계획 점검 필수!"
+      },
+      "content": {
+        "thumbnail_title": "⚠️ 9/21 일본 열차 운휴 안내 ⚠️",
+        "cards": [
+          {
+            "title": "운휴 정보",
+            "content": "9월 21일, 태풍 25호의 영향으로 JR동일본 수도권 재래선 일부 구간 운행이 중단됩니다. 여행 계획에 차질이 없도록 미리 확인하세요.",
+            "alt_text": "일본 열차 노선도에 운휴 구간 표시"
+          },
+          {
+            "title": "쿠루리선",
+            "content": "쿠루리선은 9월 21일 종일 운행이 중단됩니다. 해당 구간을 이용하셔야 하는 분들은 대체 교통편을 반드시 알아보셔야 합니다.",
+            "alt_text": "쿠루리선 열차 이미지"
+          },
+          {
+            "title": "내방선/외방선",
+            "content": "내방선(키미츠~안보카모가와 구간)과 외방선(호다~안보카모가와 구간)은 9월 21일 오후 2시경부터 운행이 중단될 예정입니다.",
+            "alt_text": "내방선, 외방선 열차 이미지"
+          },
+          {
+            "title": "하치코선",
+            "content": "하치코선(코마가와~[구체적인 종점역명 누락] 구간)도 운행 중단 예정입니다. 정확한 구간은 JR동일본 공식 발표를 참고해주세요.",
+            "alt_text": "하치코선 열차 이미지"
+          },
+          {
+            "title": "대처 꿀팁",
+            "content": "갑작스러운 운휴는 여행 일정에 큰 영향을 미칠 수 있습니다. JR동일본 공식 홈페이지나 앱을 통해 실시간 운행 정보를 수시로 확인하고, 필요하다면 택시나 버스 등 대체 교통편을 미리 알아보는 것이 좋습니다.",
+            "alt_text": "일본 교통 앱 화면 캡처"
+          }
+        ],
+        "caption": "🚨 9월 21일 일본 여행 예정이신가요? 🚨\n태풍 25호의 영향으로 JR동일본 수도권 재래선 일부 구간 운행이 중단됩니다.\n쿠루리선은 종일, 내방선/외방선은 오후 2시부터 운휴 예정이니 여행 계획에 참고하세요!\n여행 중 갑작스러운 변수에 당황하지 않도록 미리 확인하고 대비하세요. ✈️\n\n#일본열차 #JR동일본 #태풍 #운휴정보 #일본여행필수",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#JR동일본",
+          "#열차운휴",
+          "#태풍25호",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#일본날씨",
+          "#안전여행",
+          "#여행계획",
+          "#자유여행",
+          "#일본",
+          "#여행스타그램",
+          "#필수정보"
+        ],
+        "alt_texts": [
+          "일본 열차 노선도에 운휴 구간 표시",
+          "쿠루리선 열차 이미지",
+          "내방선, 외방선 열차 이미지",
+          "하치코선 열차 이미지",
+          "일본 교통 앱 화면 캡처"
+        ]
+      },
+      "marketer_analysis": "타겟: 9월 21일 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 출발 전날 오후 또는 당일 오전 / 기대 반응: 정보의 중요성으로 인한 공유 및 저장 증가, 댓글을 통한 문의 / 이 콘텐츠의 강점: 시기적절하고 구체적인 운휴 정보 제공으로 여행자의 불편 최소화",
+      "image": {
+        "keyword": "japan train, typhoon, train cancellation, tokyo metro, JR East",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-train,-typhoon,-train-cancellation,-tokyo-metro,-JR-East",
+        "pexels_url": "https://www.pexels.com/search/japan%20train,%20typhoon,%20train%20cancellation,%20tokyo%20metro,%20JR%20East/"
+      }
+    },
     {
       "id": "plan_ae5e7967",
       "created_at": "2026-09-21T01:05:10.204417",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo DisneySea, new show, Broadway Music Theater, 2027 autumn",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea,-new-show,-Broadway-Music-Theater,-2027-autumn",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea,%20new%20show,%20Broadway%20Music%20Theater,%202027%20autumn/"
-      }
-    },
-    {
-      "id": "plan_9e158525",
-      "created_at": "2026-09-18T01:17:27.771075",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ハウステンボス「ウェルカム九州割」予約スタート。直営ホテルが最大50％オフ、九州ふっこう応援割は受付停止中",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2141796.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 테마파크 하우스텐보스 숙박 최대 50% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🎡하우스텐보스 50% 할인!🎉",
-        "cards": [
-          {
-            "title": "✨웰컴九州割✨",
-            "content": "일본 나가사키 하우스텐보스에서 '웰컴九州割' 숙박 플랜을 발표했습니다. 최대 50% 할인 혜택을 받을 수 있어요.",
-            "alt_text": "하우스텐보스 야경 이미지"
-          },
-          {
-            "title": "🗓️예약 기간",
-            "content": "예약은 9월 17일 14시부터 시작하여 10월 5일 23시 30분까지 가능합니다.",
-            "alt_text": "캘린더 이미지"
-          },
-          {
-            "title": "🏨할인 내용",
-            "content": "직영 호텔 숙박 시 최대 50% 할인이 적용됩니다. (기존 '규슈 부흥 응원 할인'은 접수 중단)",
-            "alt_text": "호텔 건물 이미지"
-          },
-          {
-            "title": "📍위치 정보",
-            "content": "하우스텐보스는 나가사키현 사세보시 하우스텐보스마치 1-1에 위치하고 있습니다.",
-            "alt_text": "지도 핀 이미지"
-          },
-          {
-            "title": "💡꿀팁!",
-            "content": "기간 한정 할인인 만큼 서둘러 예약하세요! 9월 말부터 10월 초까지 여행 계획이 있다면 놓치지 마세요.",
-            "alt_text": "여행 가방 이미지"
-          }
-        ],
-        "caption": "일본 최대 테마파크, 하우스텐보스에서 역대급 할인 찬스가 왔어요! 🤩\n'웰컴九州割' 숙박 플랜으로 최대 50% 저렴하게 즐겨보세요! 💖\n\n✅ 예약 기간: 9월 17일 14시 ~ 10월 5일 23시 30분\n✅ 할인 내용: 직영 호텔 최대 50% OFF\n✅ 장소: 나가사키 하우스텐보스\n\n이번 기회에 아름다운 하우스텐보스에서 잊지 못할 추억을 만들어보세요! ✨\n\n#하우스텐보스 #나가사키여행 #일본숙소 #일본할인 #웰컴九州割 #규슈여행 #일본여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하우스텐보스",
-          "#나가사키",
-          "#나가사키여행",
-          "#일본숙소",
-          "#일본호텔",
-          "#일본할인",
-          "#웰컴九州割",
-          "#규슈",
-          "#규슈여행",
-          "#일본여행정보",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#가을여행"
-        ],
-        "alt_texts": [
-          "하우스텐보스 야경 이미지",
-          "캘린더 이미지",
-          "호텔 건물 이미지",
-          "지도 핀 이미지",
-          "여행 가방 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 파격적인 할인율, 인기 관광지 정보",
-      "image": {
-        "keyword": "Huis Ten Bosch, Nagasaki, Japan, discount, hotel, travel, autumn, theme park",
-        "unsplash_url": "https://unsplash.com/s/photos/Huis-Ten-Bosch,-Nagasaki,-Japan,-discount,-hotel,-travel,-autumn,-theme-park",
-        "pexels_url": "https://www.pexels.com/search/Huis%20Ten%20Bosch,%20Nagasaki,%20Japan,%20discount,%20hotel,%20travel,%20autumn,%20theme%20park/"
-      }
-    },
-    {
-      "id": "plan_7e62251f",
-      "created_at": "2026-09-18T01:17:18.637473",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "今日から新幹線「のぞみ」自由席なし。シルバーウィークで初めて全席指定席化",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2139255.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수! 신칸센 '노조미' 전 좌석 지정제 변경 정보 총정리 🚄"
-      },
-      "content": {
-        "thumbnail_title": "✨노조미 전석 지정!✨",
-        "cards": [
-          {
-            "title": "전 좌석 지정제",
-            "content": "JR 도카이와 JR 니시니혼은 9월 18일부터 23일까지, 실버 위크 기간 동안 도카이도/산요 신칸센 '노조미' 호를 전 좌석 지정석으로 운행합니다.",
-            "alt_text": "신칸센 '노조미' 호 이미지"
-          },
-          {
-            "title": "변경 이유",
-            "content": "인파가 몰리는 실버 위크 기간 동안 혼잡을 완화하고 보다 쾌적한 여행 환경을 제공하기 위한 조치입니다.",
-            "alt_text": "혼잡한 기차역 이미지"
-          },
-          {
-            "title": "예약 필수",
-            "content": "해당 기간에 '노조미' 호를 이용하려면 반드시 사전에 지정석을 예매해야 합니다. 자유석은 운영되지 않습니다.",
-            "alt_text": "신칸센 예약 화면 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "인기 구간은 좌석이 빠르게 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하시는 것을 추천합니다.",
-            "alt_text": "여행 계획 세우는 모습 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "예약 없이 역에 방문하면 탑승이 어려울 수 있습니다. 미리 예매하지 않은 경우 다른 열차 이용을 고려하세요.",
-            "alt_text": "신칸센 플랫폼에서 기다리는 여행객 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 정보! 🇯🇵\n\n다가오는 실버 위크 (9/18~23) 기간 동안, 신칸센 '노조미' 호가 전 좌석 지정석으로 운영됩니다. 🚄\n\n자유석 없이 모든 좌석이 지정석으로 변경되니, 해당 기간에 '노조미' 호를 이용하실 분들은 반드시 사전 예매하셔야 해요! 잊지 말고 미리 예약해서 즐거운 일본 여행 되세요! 😉\n\n#일본여행 #플라잉재팬 #신칸센 #노조미 #실버위크 #일본교통 #여행꿀팁 #일본정보 #해외여행 #여행스타그램 #일본 #자유여행 #여행준비 #일본철도 #필수정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#노조미",
-          "#실버위크",
-          "#일본교통",
-          "#여행꿀팁",
-          "#일본정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#자유여행",
-          "#여행준비",
-          "#일본철도",
-          "#필수정보"
-        ],
-        "alt_texts": [
-          "신칸센 '노조미' 호 이미지",
-          "혼잡한 기차역 이미지",
-          "신칸센 예약 화면 이미지",
-          "여행 계획 세우는 모습 이미지",
-          "신칸센 플랫폼에서 기다리는 여행객 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~21시) / 기대 반응: 정보 습득, 예약 행동 유도 / 이 콘텐츠의 강점: 실질적인 교통 정보 제공으로 여행 계획에 직접적인 도움을 줌",
-      "image": {
-        "keyword": "Shinkansen Nozomi train, reserved seat, Japan travel, Silver Week, railway transportation, travel planning",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Nozomi-train,-reserved-seat,-Japan-travel,-Silver-Week,-railway-transportation,-travel-planning",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Nozomi%20train,%20reserved%20seat,%20Japan%20travel,%20Silver%20Week,%20railway%20transportation,%20travel%20planning/"
       }
     }
   ]
