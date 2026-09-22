@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-22T01:36:54.205679",
+  "last_updated": "2026-09-22T04:42:10.840015",
   "plans": [
+    {
+      "id": "plan_754f908d",
+      "created_at": "2026-09-22T04:42:08.839857",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテル インターコンチネンタル 東京ベイ、「Bacha Coffee」のコーヒーを使用したアフタヌーンティー提供　9月15日から",
+        "url": "https://www.traicy.com/posts/20260922379059/",
+        "date": "Mon, 21 Sep 2026 23:15:16 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 즐기는 특별한 모로코식 애프터눈티!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 럭셔리 티타임✨",
+        "cards": [
+          {
+            "title": "애프터눈티 시작",
+            "content": "호텔 인터컨티넨탈 도쿄베이에서 모로코 티 브랜드 '바샤 커피'와 협업한 애프터눈티를 선보입니다. 9월 15일부터 시작됩니다.",
+            "alt_text": "호텔 로비와 애프터눈티 세트가 놓여진 테이블"
+          },
+          {
+            "title": "특별한 커피",
+            "content": "세계적인 명성의 '바샤 커피'의 다채로운 커피를 맛볼 수 있는 특별한 기회입니다. 향긋한 커피와 함께 달콤한 디저트를 즐겨보세요.",
+            "alt_text": "다양한 종류의 바샤 커피 원두"
+          },
+          {
+            "title": "어텀 팔레스",
+            "content": "이번 애프터눈티의 이름은 '오텀 팔레스 애프터눈티 with 바샤 커피'입니다. 가을 분위기를 물씬 풍기는 아름다운 티 세트를 만나보세요.",
+            "alt_text": "가을 테마로 장식된 애프터눈티 세트"
+          },
+          {
+            "title": "도쿄베이 호텔",
+            "content": "도쿄만 전망이 아름다운 호텔 인터컨티넨탈 도쿄베이에서 잊지 못할 티타임을 경험할 수 있습니다. 낭만적인 시간을 선사합니다.",
+            "alt_text": "도쿄만 야경이 보이는 호텔 창문"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기가 예상되니 사전 예약은 필수입니다. 공식 홈페이지 또는 호텔에 직접 문의하여 방문 날짜와 시간을 미리 확정하세요.",
+            "alt_text": "호텔 예약 웹사이트 화면 캡처"
+          }
+        ],
+        "caption": "🇯🇵 한국 여행자 주목! 도쿄에서 만나는 이국적인 티타임 🇲🇦\n\n호텔 인터컨티넨탈 도쿄베이에서 모로코의 럭셔리 티 브랜드 '바샤 커피'와 함께하는 특별한 애프터눈티가 9월 15일부터 시작됩니다!\n\n'오텀 팔레스 애프터눈티 with 바샤 커피'는 세계적인 명성의 바샤 커피와 함께 가을의 정취를 물씬 느낄 수 있는 다채로운 디저트로 구성되어 있습니다.\n\n아름다운 도쿄만 전망과 함께 잊지 못할 티타임을 즐겨보세요! ✨\n\n#일본여행 #도쿄여행 #호텔인터컨티넨탈도쿄베이 #바샤커피 #애프터눈티 #도쿄카페 #도쿄맛집 #여행스타그램 #플라잉재팬 #일본신상 #도쿄핫플 #가을여행 #일본카페",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#호텔인터컨티넨탈도쿄베이",
+          "#바샤커피",
+          "#애프터눈티",
+          "#도쿄카페",
+          "#도쿄맛집",
+          "#여행스타그램",
+          "#일본신상",
+          "#도쿄핫플",
+          "#가을여행",
+          "#일본카페",
+          "#티타임",
+          "#도쿄"
+        ],
+        "alt_texts": [
+          "호텔 로비와 애프터눈티 세트가 놓여진 테이블",
+          "다양한 종류의 바샤 커피 원두",
+          "가을 테마로 장식된 애프터눈티 세트",
+          "도쿄만 야경이 보이는 호텔 창문",
+          "호텔 예약 웹사이트 화면 캡처"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 중 특별한 경험을 원하는 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: '이거다!' 싶은 반응, 예약 문의 증가 / 이 콘텐츠의 강점: 고급스럽고 희소성 있는 경험 정보 제공",
+      "image": {
+        "keyword": "afternoon tea, Tokyo, Bacha Coffee, hotel, luxury, autumn",
+        "unsplash_url": "https://unsplash.com/s/photos/afternoon-tea,-Tokyo,-Bacha-Coffee,-hotel,-luxury,-autumn",
+        "pexels_url": "https://www.pexels.com/search/afternoon%20tea,%20Tokyo,%20Bacha%20Coffee,%20hotel,%20luxury,%20autumn/"
+      }
+    },
+    {
+      "id": "plan_66497a08",
+      "created_at": "2026-09-22T04:42:03.064465",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "富山県、黒部宇奈月キャニオンルートツアーを始動　10月2日から",
+        "url": "https://www.traicy.com/posts/20260922375887/",
+        "date": "Tue, 22 Sep 2026 00:15:57 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울왕국 알펜루트의 숨겨진 보물, 웅장한 협곡 루트 탐험 기회!"
+      },
+      "content": {
+        "thumbnail_title": "❄️겨울왕국 알펜루트 숨은 명소! 🏔️",
+        "cards": [
+          {
+            "title": "새로운 루트 개방",
+            "content": "일본 도야마현이 10월 2일부터 '구로베 우나즈키 캐니언 루트 투어'를 시작합니다. 웅장한 자연을 만끽할 수 있는 새로운 코스가 추가되었어요.",
+            "alt_text": "도야마현 지도에 새로운 루트 표시"
+          },
+          {
+            "title": "2박 3일 추천 일정",
+            "content": "예시 일정은 도쿄역에서 호쿠리쿠 신칸센 그린차를 타고 도야마역으로 이동 후, 다테야마 구로베 알펜 루트를 따라 구로베 댐에서 캐니온 루트를 거쳐 게이타이라까지 가는 코스입니다.",
+            "alt_text": "알펜 루트 지도에 2박 3일 추천 코스 표시"
+          },
+          {
+            "title": "알펜 루트의 매력",
+            "content": "다테야마 구로베 알펜 루트는 일본 알프스의 웅장한 설경과 다양한 교통수단을 경험할 수 있는 최고의 트레킹 코스입니다. 겨울왕국 같은 풍경을 자랑하죠.",
+            "alt_text": "다테야마 구로베 알펜 루트의 아름다운 설경"
+          },
+          {
+            "title": "캐니온 루트의 특별함",
+            "content": "이번에 개방되는 캐니온 루트는 이전에는 접근하기 어려웠던 구로베 협곡의 깊숙한 곳을 탐험할 수 있는 기회를 제공합니다. 숨 막히는 절경을 감상할 수 있어요.",
+            "alt_text": "구로베 협곡의 웅장한 풍경"
+          },
+          {
+            "title": "투어 예약 팁",
+            "content": "인기가 많을 것으로 예상되니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 공식 홈페이지에서 자세한 투어 정보와 예약 방법을 확인하세요.",
+            "alt_text": "예약 페이지 화면 캡처 또는 예약 버튼 아이콘"
+          }
+        ],
+        "caption": "❄️일본 알펜루트의 숨겨진 보물, 구로베 우나즈키 캐니온 루트가 드디어 열립니다! 🏔️\n\n10월 2일부터 시작되는 새로운 투어로 웅장한 협곡의 절경을 직접 경험해보세요.\n\n2박 3일 일정으로 도야마에서 시작하여 알펜 루트를 따라 캐니온 루트까지! 잊지 못할 겨울왕국 같은 풍경을 선사할 거예요.\n\n지금 바로 예약하고 특별한 추억을 만들어보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도야마",
+          "#알펜루트",
+          "#구로베",
+          "#캐니온루트",
+          "#협곡",
+          "#일본관광",
+          "#자연",
+          "#겨울왕국",
+          "#여행정보",
+          "#일본단풍",
+          "#단풍여행",
+          "#가을여행",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "도야마현 지도에 새로운 루트 표시",
+          "알펜 루트 지도에 2박 3일 추천 코스 표시",
+          "다테야마 구로베 알펜 루트의 아름다운 설경",
+          "구로베 협곡의 웅장한 풍경",
+          "예약 페이지 화면 캡처 또는 예약 버튼 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본의 대자연과 특별한 경험을 추구하는 2040 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 신규 개방되는 희소성 있는 관광 정보, 웅장한 자연경관 강조",
+      "image": {
+        "keyword": "Kurobe Unazuki Canyon Route, Tateyama Kurobe Alpine Route, Toyama, Japan, autumn scenery, dramatic landscape, travel, nature, canyon",
+        "unsplash_url": "https://unsplash.com/s/photos/Kurobe-Unazuki-Canyon-Route,-Tateyama-Kurobe-Alpine-Route,-Toyama,-Japan,-autumn-scenery,-dramatic-landscape,-travel,-nature,-canyon",
+        "pexels_url": "https://www.pexels.com/search/Kurobe%20Unazuki%20Canyon%20Route,%20Tateyama%20Kurobe%20Alpine%20Route,%20Toyama,%20Japan,%20autumn%20scenery,%20dramatic%20landscape,%20travel,%20nature,%20canyon/"
+      }
+    },
     {
       "id": "plan_73d49b8c",
       "created_at": "2026-09-22T01:36:52.205479",
@@ -923,160 +1077,6 @@
         "keyword": "Yamaguchi Prefecture, Japan, hidden gem, travel itinerary, gourmet, nature, onsen",
         "unsplash_url": "https://unsplash.com/s/photos/Yamaguchi-Prefecture,-Japan,-hidden-gem,-travel-itinerary,-gourmet,-nature,-onsen",
         "pexels_url": "https://www.pexels.com/search/Yamaguchi%20Prefecture,%20Japan,%20hidden%20gem,%20travel%20itinerary,%20gourmet,%20nature,%20onsen/"
-      }
-    },
-    {
-      "id": "plan_b7608079",
-      "created_at": "2026-09-19T01:10:08.588500",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ミャクミャクひっぱりだこ飯に黒バージョンが登場！　このあと21時から事前予約スタート",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142345.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2025년 오사카 엑스포 기념 한정판 도시락, 놓치면 후회할 비주얼!"
-      },
-      "content": {
-        "thumbnail_title": "✨2025 엑스포 한정판 도시락✨",
-        "cards": [
-          {
-            "title": "신상 도시락 출시!",
-            "content": "2025년 오사카 엑스포를 기념하는 '미야쿠미야쿠 히팟타코메시 검정' 버전이 9월 22일에 발매됩니다.",
-            "alt_text": "일본 오사카 엑스포 기념 도시락 이미지"
-          },
-          {
-            "title": "가격은 2,480엔",
-            "content": "한정판으로 출시되는 만큼 소장 가치가 높으며, 특별한 경험을 선사할 것입니다.",
-            "alt_text": "도시락 가격 정보 이미지"
-          },
-          {
-            "title": "사전 예약은 9/18부터!",
-            "content": "9월 18일 오후 9시부터 사전 예약이 시작되니, 원하는 분들은 서둘러 예약하세요.",
-            "alt_text": "도시락 예약 시작일 정보 이미지"
-          },
-          {
-            "title": "놓치면 아쉬워요!",
-            "content": "2025년 오사카 엑스포 방문 예정이라면, 꼭 맛봐야 할 특별한 도시락입니다.",
-            "alt_text": "엑스포 행사 관련 이미지"
-          },
-          {
-            "title": "팁!",
-            "content": "인기가 많을 것으로 예상되니, 예약 오픈 시간에 맞춰 바로 신청하는 것을 추천합니다.",
-            "alt_text": "예약 팁 관련 이미지"
-          }
-        ],
-        "caption": "📢 2025 오사카 엑스포 기념 한정판 도시락 출시! ✨\n\n'미야쿠미야쿠 히팟타코메시 검정' 버전이 9월 22일에 발매됩니다. 가격은 2,480엔이며, 9월 18일 오후 9시부터 사전 예약이 시작됩니다! 🏃‍♀️💨\n\n엑스포 방문 예정이라면 놓칠 수 없는 특별한 기회! 잊지 말고 예약하세요! 😉\n\n#일본여행 #플라잉재팬 #오사카여행 #엑스포2025 #한정판도시락 #일본음식 #일본맛집 #여행정보 #사전예약 #일본필수템 #여행스타그램 #먹스타그램 #일본축제 #일본기념품 #일본이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#엑스포2025",
-          "#한정판도시락",
-          "#일본음식",
-          "#일본맛집",
-          "#여행정보",
-          "#사전예약",
-          "#일본필수템",
-          "#여행스타그램",
-          "#먹스타그램",
-          "#일본축제",
-          "#일본기념품",
-          "#일본이벤트"
-        ],
-        "alt_texts": [
-          "일본 오사카 엑스포 기념 도시락 이미지",
-          "도시락 가격 정보 이미지",
-          "도시락 예약 시작일 정보 이미지",
-          "엑스포 행사 관련 이미지",
-          "예약 팁 관련 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 2025 오사카 엑스포 방문 예정자, 한정판 굿즈/음식에 관심 있는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 높은 예약 문의 및 정보 공유 / 이 콘텐츠의 강점: 구체적인 발매일, 가격, 예약 정보를 명확하게 제공하여 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Osaka Expo 2025, Miyakumiya Bento, Limited edition food, Japanese bento box, Travel souvenir",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-2025,-Miyakumiya-Bento,-Limited-edition-food,-Japanese-bento-box,-Travel-souvenir",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%202025,%20Miyakumiya%20Bento,%20Limited%20edition%20food,%20Japanese%20bento%20box,%20Travel%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_99c55ace",
-      "created_at": "2026-09-19T01:10:03.228864",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「千歳市空港開港100年」ディズニースペシャルパレードは12時ごろスタート。東雲町花の広場でダッフィーバス展示も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2139477.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 스페셜 퍼레이드가 일본 홋카이도에서 펼쳐져요!"
-      },
-      "content": {
-        "thumbnail_title": "✨홋카이도 디즈니 퍼레이드✨",
-        "cards": [
-          {
-            "title": "스페셜 퍼레이드",
-            "content": "도쿄 디즈니 리조트가 9월 20일 홋카이도 치토세시에서 열리는 '치토세시 공항 개항 100주년 기념 시민 퍼레이드'에 참여합니다.",
-            "alt_text": "디즈니 캐릭터들이 퍼레이드하는 모습"
-          },
-          {
-            "title": "퍼레이드 시간",
-            "content": "스페셜 퍼레이드는 9월 20일 12시경 시작될 예정입니다. 정확한 동선은 추후 공지될 수 있습니다.",
-            "alt_text": "퍼레이드 시작 시간 안내"
-          },
-          {
-            "title": "다키 버스 전시",
-            "content": "퍼레이드 외에도 시노노메초 꽃의 광장에서는 인기 캐릭터 '더피' 버스가 전시됩니다.",
-            "alt_text": "귀여운 더피 버스 전시"
-          },
-          {
-            "title": "행사 장소",
-            "content": "행사는 홋카이도 치토세시에서 진행되며, 공항 개항 100주년을 기념하는 대규모 축제의 일부입니다.",
-            "alt_text": "홋카이도 치토세시 전경"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "홋카이도 여행 계획 중이라면 9월 20일 치토세시 방문을 고려해보세요! 디즈니 팬이라면 놓칠 수 없는 특별한 경험이 될 거예요.",
-            "alt_text": "디즈니 굿즈를 들고 있는 여행객"
-          }
-        ],
-        "caption": "홋카이도 치토세에서 펼쳐지는 특별한 디즈니 월드! 💖\n9월 20일, '치토세시 공항 개항 100주년 기념 시민 퍼레이드'에 도쿄 디즈니 리조트 스페셜 퍼레이드가 찾아옵니다.\n오후 12시경 시작되는 퍼레이드와 함께 귀여운 더피 버스 전시도 놓치지 마세요! 🐻\n홋카이도 여행 중이라면 잊지 못할 추억을 만들 기회! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도여행",
-          "#치토세",
-          "#디즈니",
-          "#디즈니스페셜퍼레이드",
-          "#더피",
-          "#일본이벤트",
-          "#일본축제",
-          "#9월여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본소식",
-          "#해외여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "디즈니 캐릭터들이 퍼레이드하는 모습",
-          "퍼레이드 시작 시간 안내",
-          "귀여운 더피 버스 전시",
-          "홋카이도 치토세시 전경",
-          "디즈니 굿즈를 들고 있는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 여행 예정인 한국인 여행자, 디즈니 팬 / 최적 게시 시간: 여행 정보 탐색이 활발한 평일 저녁 8시~10시 / 기대 반응: 높은 관심과 공유, 홋카이도 여행 계획에 긍정적 영향 / 이 콘텐츠의 강점: 일본 내에서만 즐길 수 있는 특별한 디즈니 이벤트 정보 제공",
-      "image": {
-        "keyword": "Disney parade, Hokkaido, Chitose, Duffy bus, Japan event",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-parade,-Hokkaido,-Chitose,-Duffy-bus,-Japan-event",
-        "pexels_url": "https://www.pexels.com/search/Disney%20parade,%20Hokkaido,%20Chitose,%20Duffy%20bus,%20Japan%20event/"
       }
     }
   ]
