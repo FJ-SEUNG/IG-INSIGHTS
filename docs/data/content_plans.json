@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-23T04:36:16.777720",
+  "last_updated": "2026-09-24T01:24:16.512670",
   "plans": [
+    {
+      "id": "plan_cabfeaa7",
+      "created_at": "2026-09-24T01:24:14.512556",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "じゃらん「九州ふっこう応援割」佐賀・宮崎・大分まもなく予約開始。県内の宿泊が最大50％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2142725.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 숙박비 최대 50% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": " Kyushu 50% OFF ✈️",
+        "cards": [
+          {
+            "title": "九州 할인 혜택",
+            "content": "일본 규슈 지역(사가, 미야자키, 오이타) 숙박비 최대 50% 할인 혜택이 곧 시작됩니다. '규슈 부흥 응원 할인'으로 알뜰하게 여행하세요!",
+            "alt_text": "일본 규슈 지역 지도"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "사가현, 미야자키현, 오이타현의 숙박 예약은 9월 24일부터 순차적으로 시작됩니다. 놓치지 말고 미리 준비하세요!",
+            "alt_text": "달력에 9월 24일 표시"
+          },
+          {
+            "title": "할인율",
+            "content": "이번 프로모션을 통해 해당 지역 내 숙박 비용을 최대 절반까지 할인받을 수 있습니다. 평소 가고 싶었던 규슈를 더 저렴하게 즐길 기회입니다.",
+            "alt_text": "50% 할인 스티커"
+          },
+          {
+            "title": "대상 지역",
+            "content": "할인이 적용되는 지역은 일본의 사가현, 미야자키현, 오이타현입니다. 아름다운 자연과 맛있는 음식이 가득한 곳들을 만나보세요.",
+            "alt_text": "일본 규슈 지역의 대표적인 관광지 사진"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "할인 혜택은 한정 수량 또는 기간으로 제공될 수 있으니, 예약 오픈일에 맞춰 서둘러 예약하는 것을 추천합니다. 숙박 예약 시 프로모션 적용 여부를 꼭 확인하세요!",
+            "alt_text": "여행 가방과 여권"
+          }
+        ],
+        "caption": "✈️ 규슈 여행 계획 중이라면 주목! ✈️\n\n일본 규슈 지역(사가, 미야자키, 오이타)에서 숙박비 최대 50% 할인 혜택을 제공하는 '규슈 부흥 응원 할인'이 곧 시작됩니다! 🤩\n\n✅ 예약 시작: 9월 24일부터 순차적으로\n✅ 할인율: 최대 50%\n✅ 대상 지역: 사가현, 미야자키현, 오이타현\n\n평소 꿈꿔왔던 규슈 여행, 이번 기회에 더 알뜰하게 다녀오세요! 💖\n\n#일본여행 #규슈여행 #후쿠오카근교 #사가현 #미야자키현 #오이타현 #일본할인 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#일본숙박",
+          "#일본할인",
+          "#일본여행정보",
+          "#사가현",
+          "#미야자키현",
+          "#오이타현",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#일본여행준비",
+          "#해외여행",
+          "#여행스타그램",
+          "# Kyushu"
+        ],
+        "alt_texts": [
+          "일본 규슈 지역 지도",
+          "달력에 9월 24일 표시",
+          "50% 할인 스티커",
+          "일본 규슈 지역의 대표적인 관광지 사진",
+          "여행 가방과 여권"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 높은 클릭률과 공유, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보로 즉각적인 여행 계획 변경 유도 가능",
+      "image": {
+        "keyword": "Japan Kyushu travel discount, accommodation sale, Japan travel deals",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount,-accommodation-sale,-Japan-travel-deals",
+        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount,%20accommodation%20sale,%20Japan%20travel%20deals/"
+      }
+    },
+    {
+      "id": "plan_53749327",
+      "created_at": "2026-09-24T01:24:09.093629",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、宮崎・大分の「九州ふっこう応援割」9月25日予約スタート。宿泊・楽パックが最大50％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2142732.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 여행 경비를 최대 50%까지 절약할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "九州 최대 50% 할인! 💰",
+        "cards": [
+          {
+            "title": "九州 여행 지원",
+            "content": "일본 정부가 추진하는 '九州 후코오 응원 할인'으로 미야자키현과 오이타현 숙박 및 항공권 패키지를 최대 50%까지 할인받으세요.",
+            "alt_text": "일본 규슈 지역 지도"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "미야자키현은 9월 25일 오전 10시부터, 오이타현은 같은 날 오후 12시부터 예약이 시작됩니다.",
+            "alt_text": "달력에 표시된 9월 25일"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "숙박 시설 예약 또는 항공권과 숙박이 포함된 '락 파쿠(楽パック)' 상품 구매 시 할인이 적용됩니다.",
+            "alt_text": "할인율이 표시된 쇼핑백 이미지"
+          },
+          {
+            "title": "공식 예약처",
+            "content": "본 할인 혜택은 라쿠텐 트래블(楽天トラベル)을 통해 예약 가능합니다.",
+            "alt_text": "라쿠텐 트래블 로고"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "인기 지역은 조기 마감될 수 있으니, 관심 있다면 예약 시작 시간에 맞춰 서두르는 것이 좋습니다.",
+            "alt_text": "서두르는 사람의 실루엣"
+          }
+        ],
+        "caption": "일본 규슈 여행 계획 중이시라면 주목! 🇯🇵\n미야자키현 & 오이타현에서 최대 50% 할인받고 알뜰하게 여행하세요!\n9월 25일부터 라쿠텐 트래블에서 예약 시작! ✈️🏨\n\n#일본여행 #규슈여행 #미야자키 #오이타 #일본할인 #여행꿀팁 #플라잉재팬 #일본정부지원 #가성비여행 #일본숙소 #일본항공권 #여행정보 #일본자유여행 #알뜰여행",
+        "hashtags": [
+          "#일본여행",
+          "#규슈여행",
+          "#미야자키",
+          "#오이타",
+          "#일본할인",
+          "#여행꿀팁",
+          "#플라잉재팬",
+          "#일본정부지원",
+          "#가성비여행",
+          "#일본숙소",
+          "#일본항공권",
+          "#여행정보",
+          "#일본자유여행",
+          "#알뜰여행",
+          "#九州ふっこう応援割"
+        ],
+        "alt_texts": [
+          "일본 규슈 지역 지도",
+          "달력에 표시된 9월 25일",
+          "할인율이 표시된 쇼핑백 이미지",
+          "라쿠텐 트래블 로고",
+          "서두르는 사람의 실루엣"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획 시즌인 저녁 시간대 또는 주말 / 기대 반응: 높은 예약률 및 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 예약 시점, 예약처 등 실질적인 정보 제공",
+      "image": {
+        "keyword": "Japan Kyushu discount travel package",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-discount-travel-package",
+        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20discount%20travel%20package/"
+      }
+    },
     {
       "id": "plan_95edc6ab",
       "created_at": "2026-09-23T04:36:14.777531",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese domestic airline ticket sale, autumn travel Japan, cheap flights Japan, 3300 yen flight",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-domestic-airline-ticket-sale,-autumn-travel-Japan,-cheap-flights-Japan,-3300-yen-flight",
         "pexels_url": "https://www.pexels.com/search/Japanese%20domestic%20airline%20ticket%20sale,%20autumn%20travel%20Japan,%20cheap%20flights%20Japan,%203300%20yen%20flight/"
-      }
-    },
-    {
-      "id": "plan_6695d7ac",
-      "created_at": "2026-09-20T01:09:01.299555",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "鹿児島県「九州ふっこう応援割」10月中旬から開始見込み。最長2027年2月末まで、割引原資額は30億円超",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142272.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비 절약 꿀팁! ✈️"
-      },
-      "content": {
-        "thumbnail_title": "💸 10월부터 九州 숙박 할인!",
-        "cards": [
-          {
-            "title": "九州 할인 시작",
-            "content": "일본 큐슈 지역에서 '큐슈 부흥 응원 할인'이 10월 중순부터 시작됩니다. 최대 2027년 2월 말까지 숙박이 할인 대상입니다. 💰",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "할인 기간",
-            "content": "할인 적용 기간은 10월 중순부터 2027년 2월 말까지이며, 12월 26일부터 2027년 1월 3일 기간은 제외됩니다. 🗓️",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "할인 규모",
-            "content": "이번 할인 행사를 위해 30억 엔 이상의 예산이 투입될 예정입니다. 🤑",
-            "alt_text": "돈다발 이미지"
-          },
-          {
-            "title": "예약 시점",
-            "content": "할인 예약은 10월 중순부터 가능할 것으로 보입니다. 정확한 예약 시작일은 추후 공지될 예정입니다. 📅",
-            "alt_text": "달력에 표시된 날짜 이미지"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "큐슈 지역 여행 계획 중이라면, 이 할인 정보를 꼭 활용해서 알찬 여행을 만들어 보세요! ✨",
-            "alt_text": "여행 가방과 지도 이미지"
-          }
-        ],
-        "caption": "일본 큐슈 여행 예정이신가요? ✈️ 10월 중순부터 시작되는 '큐슈 부흥 응원 할인'으로 숙박비 부담을 확 줄일 수 있어요! 💰 최대 2027년 2월 말까지 (일부 기간 제외) 이용 가능하며, 30억 엔 이상의 예산이 투입될 예정이라고 합니다. 🤑 예약 시작일은 10월 중순 이후 공지되니, 큐슈 여행 계획에 이 꿀팁 꼭 챙기세요! 😉 #일본여행 #큐슈여행 #숙박할인 #여행경비절약 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#큐슈여행",
-          "#일본숙박",
-          "#여행할인",
-          "#가성비여행",
-          "#일본자유여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#여행꿀팁",
-          "#엔저여행",
-          "#일본숙소",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본"
-        ],
-        "alt_texts": [
-          "할인 쿠폰 이미지",
-          "달력 이미지",
-          "돈다발 이미지",
-          "달력에 표시된 날짜 이미지",
-          "여행 가방과 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 큐슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 저녁 8-10시 / 기대 반응: 할인 정보에 대한 관심 및 공유 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 정보 제공",
-      "image": {
-        "keyword": "Kyushu travel discount, Japan accommodation coupon, travel savings",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-travel-discount,-Japan-accommodation-coupon,-travel-savings",
-        "pexels_url": "https://www.pexels.com/search/Kyushu%20travel%20discount,%20Japan%20accommodation%20coupon,%20travel%20savings/"
-      }
-    },
-    {
-      "id": "plan_2e264a09",
-      "created_at": "2026-09-20T01:08:56.240878",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "淡路屋「黒ミャクミャク」ひっぱりだこ飯を販売。このあと21時から事前予約スタート",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142345.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 캐릭터와 함께 즐기는 일본 한정 도시락 등장!"
-      },
-      "content": {
-        "thumbnail_title": "미야쿠미야쿠 🍱 한정 도시락 🍱",
-        "cards": [
-          {
-            "title": "신상 도시락",
-            "content": "오사카·간사이 엑스포 마스코트 '미야쿠미야쿠' 디자인 도시락이 출시됩니다. 이름은 'EXPO2025 미야쿠미야쿠 히팟타코메시 검정'.",
-            "alt_text": "검은색 바탕에 귀여운 미야쿠미야쿠 캐릭터가 그려진 도시락 이미지"
-          },
-          {
-            "title": "출시일",
-            "content": "2023년 9월 22일 (금)부터 판매 시작!",
-            "alt_text": "날짜 정보가 강조된 달력 이미지"
-          },
-          {
-            "title": "가격",
-            "content": "가격은 2480엔입니다.",
-            "alt_text": "일본 엔화 지폐와 동전 이미지"
-          },
-          {
-            "title": "사전 예약",
-            "content": "9월 18일 (월) 저녁 9시부터 사전 예약이 시작되니 서둘러주세요!",
-            "alt_text": "시계 이미지와 함께 '예약 시작' 문구"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 상품이라 조기 품절될 수 있어요! 여행 일정에 맞춰 미리 예약하는 것을 추천합니다.",
-            "alt_text": "성공을 상징하는 엄지척 이미지"
-          }
-        ],
-        "caption": "귀여운 미야쿠미야쿠와 함께하는 특별한 식사 🍱✨\n오사카·간사이 엑스포 마스코트 '미야쿠미야쿠'가 담긴 한정 도시락이 9월 22일 출시됩니다! \n가격은 2480엔이며, 9월 18일 저녁 9시부터 사전 예약 가능해요.\n엑스포 방문 예정이거나 귀여운 굿즈를 좋아한다면 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #미야쿠미야쿠 #간사이엑스포 #일본도시락 #한정판 #여행필수템 #일본음식 #먹스타그램 #여행스타그램 #일본쇼핑 #사전예약 #여행정보 #일본한정 #엑스포2025",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#미야쿠미야쿠",
-          "#간사이엑스포",
-          "#일본도시락",
-          "#한정판",
-          "#여행필수템",
-          "#일본음식",
-          "#먹스타그램",
-          "#여행스타그램",
-          "#일본쇼핑",
-          "#사전예약",
-          "#여행정보",
-          "#일본한정",
-          "#엑스포2025"
-        ],
-        "alt_texts": [
-          "검은색 바탕에 귀여운 미야쿠미야쿠 캐릭터가 그려진 도시락 이미지",
-          "날짜 정보가 강조된 달력 이미지",
-          "일본 엔화 지폐와 동전 이미지",
-          "시계 이미지와 함께 '예약 시작' 문구",
-          "성공을 상징하는 엄지척 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카/간사이 지역 여행 예정인 20-30대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 귀여운 캐릭터 활용으로 인한 시각적 매력, 구체적인 출시 및 예약 정보 제공",
-      "image": {
-        "keyword": "Myak Myak bento box, Kansai Expo mascot, limited edition Japanese bento, reservation start, cute character food",
-        "unsplash_url": "https://unsplash.com/s/photos/Myak-Myak-bento-box,-Kansai-Expo-mascot,-limited-edition-Japanese-bento,-reservation-start,-cute-character-food",
-        "pexels_url": "https://www.pexels.com/search/Myak%20Myak%20bento%20box,%20Kansai%20Expo%20mascot,%20limited%20edition%20Japanese%20bento,%20reservation%20start,%20cute%20character%20food/"
       }
     }
   ]
