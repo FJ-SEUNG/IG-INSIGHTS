@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-26T01:34:26.943768",
+  "last_updated": "2026-09-26T04:46:59.779910",
   "plans": [
+    {
+      "id": "plan_cccde30a",
+      "created_at": "2026-09-26T04:46:57.779748",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ツーリズムEXPOジャパン2026」、世界・日本各地の料理が楽しめる売店が出店中",
+        "url": "https://www.traicy.com/posts/20260926382924/",
+        "date": "Fri, 25 Sep 2026 22:15:52 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전국 맛집을 한 곳에서! 도쿄 빅사이트에서 펼쳐지는 미식 축제!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵일본 전국 맛집 총출동!  foodie fest 😋",
+        "cards": [
+          {
+            "title": "미식 축제 개최",
+            "content": "도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026'에서 세계 각국의 요리와 일본 각 지역의 특별한 음식을 맛볼 수 있는 푸드 트럭과 매대가 운영 중입니다.",
+            "alt_text": "도쿄 빅사이트 전시장 내부에서 음식을 판매하는 다양한 매대와 푸드트럭이 보이는 모습"
+          },
+          {
+            "title": "다양한 메뉴",
+            "content": "이벤트 현장에서는 삿포로의 징기스칸, 오키나와의 타코 라이스, 교토의 말차 디저트 등 일본 각 지역의 유명 음식을 한자리에서 즐길 수 있습니다.",
+            "alt_text": "징기스칸, 타코 라이스, 말차 디저트 등 일본 각 지역의 대표 음식이 먹음직스럽게 진열된 모습"
+          },
+          {
+            "title": "행사 장소",
+            "content": "행사는 도쿄 빅사이트의 동 1, 동 3, 동 7, 동 8 홀 총 4곳에서 진행됩니다. 각 홀마다 다른 테마의 음식을 만나볼 수 있습니다.",
+            "alt_text": "도쿄 빅사이트 건물 외관 전경"
+          },
+          {
+            "title": "방문 팁",
+            "content": "다양한 음식을 맛보기 위해 방문 전, 어떤 음식을 먹고 싶은지 미리 계획하면 더욱 알찬 미식 여행을 즐길 수 있습니다.",
+            "alt_text": "사람들이 음식을 고르며 즐거워하는 모습"
+          },
+          {
+            "title": "주의사항",
+            "content": "현장 방문 시, 인기 있는 메뉴는 조기에 품절될 수 있으니 서둘러 방문하는 것을 추천합니다. 또한, 결제는 현금 또는 특정 카드만 가능한 경우도 있으니 미리 확인하세요.",
+            "alt_text": "인기 있는 음식을 구매하기 위해 줄 서 있는 사람들"
+          }
+        ],
+        "caption": "일본 여행 중 놓칠 수 없는 미식 경험! 🍣🍜🍡\n\n도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026'에서 일본 전국 각지의 맛있는 음식을 한곳에서 만끽하세요!\n\n지금 바로 도쿄로 떠나 맛있는 추억을 만들어 보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#도쿄여행",
+          "#투어리즘EXPO재팬",
+          "#일본음식",
+          "#푸드트럭",
+          "#먹방투어",
+          "#일본축제",
+          "#도쿄빅사이트",
+          "#여행정보",
+          "#일본미식",
+          "#삿포로",
+          "#오키나와",
+          "#교토"
+        ],
+        "alt_texts": [
+          "도쿄 빅사이트 전시장 내부에서 음식을 판매하는 다양한 매대와 푸드트럭이 보이는 모습",
+          "징기스칸, 타코 라이스, 말차 디저트 등 일본 각 지역의 대표 음식이 먹음직스럽게 진열된 모습",
+          "도쿄 빅사이트 건물 외관 전경",
+          "사람들이 음식을 고르며 즐거워하는 모습",
+          "인기 있는 음식을 구매하기 위해 줄 서 있는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 미식가 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 댓글 참여 / 이 콘텐츠의 강점: 일본 전국 맛집 정보를 한눈에 볼 수 있으며, 도쿄 방문 시 꼭 가봐야 할 이벤트 정보 제공",
+      "image": {
+        "keyword": "Japan food festival Tokyo Big Sight",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-food-festival-Tokyo-Big-Sight",
+        "pexels_url": "https://www.pexels.com/search/Japan%20food%20festival%20Tokyo%20Big%20Sight/"
+      }
+    },
+    {
+      "id": "plan_070c56b6",
+      "created_at": "2026-09-26T04:46:52.215664",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "沖縄本島周辺15離島、島名キーホルダーをプレゼント【ツーリズムEXPO2026】",
+        "url": "https://www.traicy.com/posts/20260926382886/",
+        "date": "Fri, 25 Sep 2026 23:45:57 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오키나와 15개 섬의 매력을 담은 특별한 기념품을 받을 수 있는 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️오키나와 15개 섬 굿즈 득템 찬스!✨",
+        "cards": [
+          {
+            "title": "오키나와 15개 섬",
+            "content": "오키나와 관광 컨벤션 뷰로가 오키나와 본섬 주변 15개 섬의 관광 협회와 함께 특별한 이벤트를 진행합니다.",
+            "alt_text": "오키나와 본섬과 주변 15개 섬의 지도"
+          },
+          {
+            "title": "무료 증정!",
+            "content": "참여 시, 15개 섬의 이름이 새겨진 귀여운 키홀더를 선물로 받을 수 있습니다.",
+            "alt_text": "다양한 섬 이름이 적힌 키홀더 이미지"
+          },
+          {
+            "title": "행사 정보",
+            "content": "도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026'에 오키나와 부스가 마련됩니다.",
+            "alt_text": "도쿄 빅사이트 전시장 외부 전경"
+          },
+          {
+            "title": "부스 위치",
+            "content": "동 8홀 S-04 부스에서 참여 가능하며, 오키나와 관광 정보를 얻을 수 있습니다.",
+            "alt_text": "전시장 내부 부스 안내 표지판"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "오키나와 여행 계획 중이라면, 이번 기회를 통해 15개 섬의 매력을 미리 느껴보고 특별한 기념품도 챙겨가세요!",
+            "alt_text": "오키나와 바다와 섬을 배경으로 한 기념품 사진"
+          }
+        ],
+        "caption": "✈️ 오키나와 여행 예정이라면 주목! 🇯🇵\n\n오키나와 본섬 주변 15개 섬의 매력을 담은 섬 이름 키홀더를 무료로 받을 수 있는 특별한 기회가 찾아옵니다! 🤩\n\n도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026' 오키나와 부스에서 참여 가능하니, 오키나와 여행을 준비하는 분들은 꼭 방문해보세요! 💙\n\n👇 오키나와 여행의 설렘을 더해 줄 꿀팁과 기념품을 놓치지 마세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오키나와",
+          "#오키나와여행",
+          "#투어리즘EXPO재팬2026",
+          "#오키나와이벤트",
+          "#오키나와기념품",
+          "#일본축제",
+          "#일본행사",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본정보",
+          "#여행꿀팁",
+          "#지금일본",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "오키나와 본섬과 주변 15개 섬의 지도",
+          "다양한 섬 이름이 적힌 키홀더 이미지",
+          "도쿄 빅사이트 전시장 외부 전경",
+          "전시장 내부 부스 안내 표지판",
+          "오키나와 바다와 섬을 배경으로 한 기념품 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 오키나와 여행 예정인 한국인 관광객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 오키나와 여행에 대한 관심 증폭, 이벤트 참여 의지 상승 / 이 콘텐츠의 강점: 무료 기념품 증정이라는 명확한 혜택 제시, 오키나와 여행의 흥미 유발",
+      "image": {
+        "keyword": "Okinawa islands, souvenir, event, travel expo, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-islands,-souvenir,-event,-travel-expo,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Okinawa%20islands,%20souvenir,%20event,%20travel%20expo,%20Japan/"
+      }
+    },
     {
       "id": "plan_4d69d7bb",
       "created_at": "2026-09-26T01:34:24.943564",
@@ -923,160 +1077,6 @@
         "keyword": "Narita Airport Terminal 1 and 2, self-service kiosk, immigration process, travel convenience, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-Terminal-1-and-2,-self-service-kiosk,-immigration-process,-travel-convenience,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20Terminal%201%20and%202,%20self-service%20kiosk,%20immigration%20process,%20travel%20convenience,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_754f908d",
-      "created_at": "2026-09-22T04:42:08.839857",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテル インターコンチネンタル 東京ベイ、「Bacha Coffee」のコーヒーを使用したアフタヌーンティー提供　9月15日から",
-        "url": "https://www.traicy.com/posts/20260922379059/",
-        "date": "Mon, 21 Sep 2026 23:15:16 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 즐기는 특별한 모로코식 애프터눈티!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 럭셔리 티타임✨",
-        "cards": [
-          {
-            "title": "애프터눈티 시작",
-            "content": "호텔 인터컨티넨탈 도쿄베이에서 모로코 티 브랜드 '바샤 커피'와 협업한 애프터눈티를 선보입니다. 9월 15일부터 시작됩니다.",
-            "alt_text": "호텔 로비와 애프터눈티 세트가 놓여진 테이블"
-          },
-          {
-            "title": "특별한 커피",
-            "content": "세계적인 명성의 '바샤 커피'의 다채로운 커피를 맛볼 수 있는 특별한 기회입니다. 향긋한 커피와 함께 달콤한 디저트를 즐겨보세요.",
-            "alt_text": "다양한 종류의 바샤 커피 원두"
-          },
-          {
-            "title": "어텀 팔레스",
-            "content": "이번 애프터눈티의 이름은 '오텀 팔레스 애프터눈티 with 바샤 커피'입니다. 가을 분위기를 물씬 풍기는 아름다운 티 세트를 만나보세요.",
-            "alt_text": "가을 테마로 장식된 애프터눈티 세트"
-          },
-          {
-            "title": "도쿄베이 호텔",
-            "content": "도쿄만 전망이 아름다운 호텔 인터컨티넨탈 도쿄베이에서 잊지 못할 티타임을 경험할 수 있습니다. 낭만적인 시간을 선사합니다.",
-            "alt_text": "도쿄만 야경이 보이는 호텔 창문"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기가 예상되니 사전 예약은 필수입니다. 공식 홈페이지 또는 호텔에 직접 문의하여 방문 날짜와 시간을 미리 확정하세요.",
-            "alt_text": "호텔 예약 웹사이트 화면 캡처"
-          }
-        ],
-        "caption": "🇯🇵 한국 여행자 주목! 도쿄에서 만나는 이국적인 티타임 🇲🇦\n\n호텔 인터컨티넨탈 도쿄베이에서 모로코의 럭셔리 티 브랜드 '바샤 커피'와 함께하는 특별한 애프터눈티가 9월 15일부터 시작됩니다!\n\n'오텀 팔레스 애프터눈티 with 바샤 커피'는 세계적인 명성의 바샤 커피와 함께 가을의 정취를 물씬 느낄 수 있는 다채로운 디저트로 구성되어 있습니다.\n\n아름다운 도쿄만 전망과 함께 잊지 못할 티타임을 즐겨보세요! ✨\n\n#일본여행 #도쿄여행 #호텔인터컨티넨탈도쿄베이 #바샤커피 #애프터눈티 #도쿄카페 #도쿄맛집 #여행스타그램 #플라잉재팬 #일본신상 #도쿄핫플 #가을여행 #일본카페",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#호텔인터컨티넨탈도쿄베이",
-          "#바샤커피",
-          "#애프터눈티",
-          "#도쿄카페",
-          "#도쿄맛집",
-          "#여행스타그램",
-          "#일본신상",
-          "#도쿄핫플",
-          "#가을여행",
-          "#일본카페",
-          "#티타임",
-          "#도쿄"
-        ],
-        "alt_texts": [
-          "호텔 로비와 애프터눈티 세트가 놓여진 테이블",
-          "다양한 종류의 바샤 커피 원두",
-          "가을 테마로 장식된 애프터눈티 세트",
-          "도쿄만 야경이 보이는 호텔 창문",
-          "호텔 예약 웹사이트 화면 캡처"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 중 특별한 경험을 원하는 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: '이거다!' 싶은 반응, 예약 문의 증가 / 이 콘텐츠의 강점: 고급스럽고 희소성 있는 경험 정보 제공",
-      "image": {
-        "keyword": "afternoon tea, Tokyo, Bacha Coffee, hotel, luxury, autumn",
-        "unsplash_url": "https://unsplash.com/s/photos/afternoon-tea,-Tokyo,-Bacha-Coffee,-hotel,-luxury,-autumn",
-        "pexels_url": "https://www.pexels.com/search/afternoon%20tea,%20Tokyo,%20Bacha%20Coffee,%20hotel,%20luxury,%20autumn/"
-      }
-    },
-    {
-      "id": "plan_66497a08",
-      "created_at": "2026-09-22T04:42:03.064465",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "富山県、黒部宇奈月キャニオンルートツアーを始動　10月2日から",
-        "url": "https://www.traicy.com/posts/20260922375887/",
-        "date": "Tue, 22 Sep 2026 00:15:57 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울왕국 알펜루트의 숨겨진 보물, 웅장한 협곡 루트 탐험 기회!"
-      },
-      "content": {
-        "thumbnail_title": "❄️겨울왕국 알펜루트 숨은 명소! 🏔️",
-        "cards": [
-          {
-            "title": "새로운 루트 개방",
-            "content": "일본 도야마현이 10월 2일부터 '구로베 우나즈키 캐니언 루트 투어'를 시작합니다. 웅장한 자연을 만끽할 수 있는 새로운 코스가 추가되었어요.",
-            "alt_text": "도야마현 지도에 새로운 루트 표시"
-          },
-          {
-            "title": "2박 3일 추천 일정",
-            "content": "예시 일정은 도쿄역에서 호쿠리쿠 신칸센 그린차를 타고 도야마역으로 이동 후, 다테야마 구로베 알펜 루트를 따라 구로베 댐에서 캐니온 루트를 거쳐 게이타이라까지 가는 코스입니다.",
-            "alt_text": "알펜 루트 지도에 2박 3일 추천 코스 표시"
-          },
-          {
-            "title": "알펜 루트의 매력",
-            "content": "다테야마 구로베 알펜 루트는 일본 알프스의 웅장한 설경과 다양한 교통수단을 경험할 수 있는 최고의 트레킹 코스입니다. 겨울왕국 같은 풍경을 자랑하죠.",
-            "alt_text": "다테야마 구로베 알펜 루트의 아름다운 설경"
-          },
-          {
-            "title": "캐니온 루트의 특별함",
-            "content": "이번에 개방되는 캐니온 루트는 이전에는 접근하기 어려웠던 구로베 협곡의 깊숙한 곳을 탐험할 수 있는 기회를 제공합니다. 숨 막히는 절경을 감상할 수 있어요.",
-            "alt_text": "구로베 협곡의 웅장한 풍경"
-          },
-          {
-            "title": "투어 예약 팁",
-            "content": "인기가 많을 것으로 예상되니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 공식 홈페이지에서 자세한 투어 정보와 예약 방법을 확인하세요.",
-            "alt_text": "예약 페이지 화면 캡처 또는 예약 버튼 아이콘"
-          }
-        ],
-        "caption": "❄️일본 알펜루트의 숨겨진 보물, 구로베 우나즈키 캐니온 루트가 드디어 열립니다! 🏔️\n\n10월 2일부터 시작되는 새로운 투어로 웅장한 협곡의 절경을 직접 경험해보세요.\n\n2박 3일 일정으로 도야마에서 시작하여 알펜 루트를 따라 캐니온 루트까지! 잊지 못할 겨울왕국 같은 풍경을 선사할 거예요.\n\n지금 바로 예약하고 특별한 추억을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도야마",
-          "#알펜루트",
-          "#구로베",
-          "#캐니온루트",
-          "#협곡",
-          "#일본관광",
-          "#자연",
-          "#겨울왕국",
-          "#여행정보",
-          "#일본단풍",
-          "#단풍여행",
-          "#가을여행",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "도야마현 지도에 새로운 루트 표시",
-          "알펜 루트 지도에 2박 3일 추천 코스 표시",
-          "다테야마 구로베 알펜 루트의 아름다운 설경",
-          "구로베 협곡의 웅장한 풍경",
-          "예약 페이지 화면 캡처 또는 예약 버튼 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본의 대자연과 특별한 경험을 추구하는 2040 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 신규 개방되는 희소성 있는 관광 정보, 웅장한 자연경관 강조",
-      "image": {
-        "keyword": "Kurobe Unazuki Canyon Route, Tateyama Kurobe Alpine Route, Toyama, Japan, autumn scenery, dramatic landscape, travel, nature, canyon",
-        "unsplash_url": "https://unsplash.com/s/photos/Kurobe-Unazuki-Canyon-Route,-Tateyama-Kurobe-Alpine-Route,-Toyama,-Japan,-autumn-scenery,-dramatic-landscape,-travel,-nature,-canyon",
-        "pexels_url": "https://www.pexels.com/search/Kurobe%20Unazuki%20Canyon%20Route,%20Tateyama%20Kurobe%20Alpine%20Route,%20Toyama,%20Japan,%20autumn%20scenery,%20dramatic%20landscape,%20travel,%20nature,%20canyon/"
       }
     }
   ]
