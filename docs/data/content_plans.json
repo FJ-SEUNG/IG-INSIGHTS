@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-25T04:45:35.339140",
+  "last_updated": "2026-09-26T01:34:26.943768",
   "plans": [
+    {
+      "id": "plan_4d69d7bb",
+      "created_at": "2026-09-26T01:34:24.943564",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハウステンボス「ミッフィー・ハロウィン」現地レポート。初の仮装キャラとご対面、おばけグッズもかわいい",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143057.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올 가을, 미피와 함께 하우스텐보스에서 특별한 할로윈 추억 만들기!"
+      },
+      "content": {
+        "thumbnail_title": "🎃 미피 할로윈 in 하우스텐보스",
+        "cards": [
+          {
+            "title": "기간 확인!",
+            "content": "일본 나가사키 하우스텐보스에서 '미피 할로윈' 이벤트가 11월 3일까지 진행돼요! 👻\n놓치지 말고 기간 내 방문 계획 세워보세요.",
+            "alt_text": "하우스텐보스 '미피 할로윈' 이벤트 기간 안내 팻말"
+          },
+          {
+            "title": "첫! 가면 캐릭터",
+            "content": "올해 할로윈 이벤트에서는 처음으로 가면을 쓴 미피 캐릭터를 만날 수 있어요! 🤩\n새로운 모습의 미피와 함께 특별한 인증샷을 남겨보세요.",
+            "alt_text": "가면을 쓴 미피 캐릭터와 함께 사진 찍는 사람들"
+          },
+          {
+            "title": "귀여운 굿즈!",
+            "content": "할로윈 분위기를 물씬 풍기는 미피의 '오바케(유령)' 굿즈들도 준비되어 있답니다. 🎁\n여행 기념품으로 소장하기 좋은 아이템들을 찾아보세요.",
+            "alt_text": "진열대에 놓인 다양한 미피 할로윈 굿즈들"
+          },
+          {
+            "title": "이벤트 체험",
+            "content": "현지에서 직접 각 프로그램을 체험해본 생생한 후기를 전달해 드려요! ✨\n어떤 즐길 거리가 기다리고 있을지 기대해주세요.",
+            "alt_text": "하우스텐보스 할로윈 이벤트 프로그램 체험 모습"
+          },
+          {
+            "title": "방문 Tip!",
+            "content": "11월 초까지 진행되니, 가을 여행지로 하우스텐보스를 고려해보세요! 🍁\n늦가을의 정취와 함께 미피 할로윈을 즐길 수 있어요.",
+            "alt_text": "하우스텐보스 가을 풍경과 할로윈 장식"
+          }
+        ],
+        "caption": "🎃 11월 3일까지! 나가사키 하우스텐보스에서 '미피 할로윈' 이벤트 즐기세요! 👻\n올해는 가면 쓴 미피 캐릭터도 만날 수 있고, 귀여운 유령 굿즈도 득템 가능! ✨\n가을 여행으로 하우스텐보스 계획 중이라면, 특별한 추억 만들 기회 놓치지 마세요! ✈️\n\n#일본여행 #하우스텐보스 #미피할로윈 #나가사키여행 #일본이벤트 #가을여행 #미피",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하우스텐보스",
+          "#미피할로윈",
+          "#나가사키",
+          "#일본이벤트",
+          "#가을여행",
+          "#일본축제",
+          "#미피",
+          "#캐릭터굿즈",
+          "#일본가볼만한곳",
+          "#여행정보",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "하우스텐보스 '미피 할로윈' 이벤트 기간 안내 팻말",
+          "가면을 쓴 미피 캐릭터와 함께 사진 찍는 사람들",
+          "진열대에 놓인 다양한 미피 할로윈 굿즈들",
+          "하우스텐보스 할로윈 이벤트 프로그램 체험 모습",
+          "하우스텐보스 가을 풍경과 할로윈 장식"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가을 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 이벤트 참여 의욕 고취, 정보 공유 / 이 콘텐츠의 강점: 최신 이벤트 정보, 귀여운 캐릭터 활용, 시기적절한 정보 제공",
+      "image": {
+        "keyword": "Huis Ten Bosch, Miffy Halloween, Japan autumn travel, character event, Nagasaki tourism",
+        "unsplash_url": "https://unsplash.com/s/photos/Huis-Ten-Bosch,-Miffy-Halloween,-Japan-autumn-travel,-character-event,-Nagasaki-tourism",
+        "pexels_url": "https://www.pexels.com/search/Huis%20Ten%20Bosch,%20Miffy%20Halloween,%20Japan%20autumn%20travel,%20character%20event,%20Nagasaki%20tourism/"
+      }
+    },
+    {
+      "id": "plan_45fc7463",
+      "created_at": "2026-09-26T01:34:16.802975",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALブースで限定ステッカー＆ボンドロシール集めよう！　最新鋭機A350-1000のVR体験や1等1万5000マイル当たる大抽選会",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143497.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 최신형 A350-1000 VR 체험 및 1만 5천 마일 럭키드로우 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ JAL A350-1000 VR & 15,000마일 득템 찬스!",
+        "cards": [
+          {
+            "title": "행사 정보",
+            "content": "세계 최대 규모의 여행 박람회 '투어리즘 엑스포 재팬 2026'이 9월 24일부터 27일까지 4일간 도쿄 빅사이트에서 개최됩니다.",
+            "alt_text": "도쿄 빅사이트에서 열리는 여행 박람회 전경"
+          },
+          {
+            "title": "JAL 부스",
+            "content": "JAL 부스에서는 한정판 스티커와 보드 게임 시트를 획득할 수 있으며, 최신형 항공기 A350-1000의 VR 체험도 가능합니다.",
+            "alt_text": "JAL 부스에서 한정판 굿즈를 홍보하는 모습"
+          },
+          {
+            "title": "대형 경품 추첨",
+            "content": "1등에게 1만 5천 마일이 주어지는 대형 경품 추첨 이벤트가 진행됩니다. 참여 방법은 현장에서 확인하세요!",
+            "alt_text": "경품 추첨 이벤트 안내 배너"
+          },
+          {
+            "title": "방문 팁",
+            "content": "여행 박람회는 항공권, 숙박, 액티비티 등 일본 여행에 필요한 모든 정보를 한자리에서 얻을 수 있는 좋은 기회입니다.",
+            "alt_text": "다양한 여행 상품 정보가 전시된 부스"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "최신 항공기 체험과 마일리지 획득 기회까지! JAL 부스 방문을 놓치지 마세요. 9월 24일~27일, 도쿄 빅사이트에서 만나요!",
+            "alt_text": "JAL 항공기 이미지와 함께 행사 정보를 담은 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 여행 준비 중이라면 주목! ✈️\n\n9월 24일부터 27일까지 도쿄 빅사이트에서 열리는 '투어리즘 엑스포 재팬 2026'에서 JAL 부스 방문하고 특별한 경험하세요!\n\n✨ 최신형 A350-1000 VR 체험\n🎁 한정판 스티커 & 보드 게임 시트 획득\n💰 1등 15,000마일 럭키드로우 참여 기회!\n\n일본 여행의 모든 것을 한눈에 볼 수 있는 기회, 놓치지 마세요! 🤩\n\n#일본여행 #도쿄 #투어리즘엑스포재팬 #JAL #항공권 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#일본항공",
+          "#JAL",
+          "#투어리즘엑스포재팬",
+          "#여행박람회",
+          "#A350",
+          "#마일리지",
+          "#럭키드로우",
+          "#일본이벤트",
+          "#가을여행",
+          "#여행꿀팁",
+          "#도쿄빅사이트",
+          "#항공권정보"
+        ],
+        "alt_texts": [
+          "도쿄 빅사이트에서 열리는 여행 박람회 전경",
+          "JAL 부스에서 한정판 굿즈를 홍보하는 모습",
+          "경품 추첨 이벤트 안내 배너",
+          "다양한 여행 상품 정보가 전시된 부스",
+          "JAL 항공기 이미지와 함께 행사 정보를 담은 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 정보 공유 및 참여 유도 (댓글, DM 문의) / 이 콘텐츠의 강점: 항공사 이벤트 정보, VR 체험, 마일리지 획득 기회 등 흥미로운 요소 포함",
+      "image": {
+        "keyword": "JAL, A350, tourism expo japan, vr experience, lucky draw, travel event, tokyo big sight, travel fair",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-A350,-tourism-expo-japan,-vr-experience,-lucky-draw,-travel-event,-tokyo-big-sight,-travel-fair",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20A350,%20tourism%20expo%20japan,%20vr%20experience,%20lucky%20draw,%20travel%20event,%20tokyo%20big%20sight,%20travel%20fair/"
+      }
+    },
     {
       "id": "plan_78c22c2c",
       "created_at": "2026-09-25T04:45:33.338952",
@@ -923,160 +1077,6 @@
         "keyword": "Kurobe Unazuki Canyon Route, Tateyama Kurobe Alpine Route, Toyama, Japan, autumn scenery, dramatic landscape, travel, nature, canyon",
         "unsplash_url": "https://unsplash.com/s/photos/Kurobe-Unazuki-Canyon-Route,-Tateyama-Kurobe-Alpine-Route,-Toyama,-Japan,-autumn-scenery,-dramatic-landscape,-travel,-nature,-canyon",
         "pexels_url": "https://www.pexels.com/search/Kurobe%20Unazuki%20Canyon%20Route,%20Tateyama%20Kurobe%20Alpine%20Route,%20Toyama,%20Japan,%20autumn%20scenery,%20dramatic%20landscape,%20travel,%20nature,%20canyon/"
-      }
-    },
-    {
-      "id": "plan_73d49b8c",
-      "created_at": "2026-09-22T01:36:52.205479",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "飛騨高山にラグジュアリーな拠点が誕生。リブランドした「ヒルトン高山リゾート」に行ってみた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142550.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "고급스러운 일본 여행을 꿈꾸는 분들을 위한 새로운 숙소 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨히든 힐링! 료칸 감성 힐튼✨",
-        "cards": [
-          {
-            "title": "새로운 힐튼 오픈!",
-            "content": "일본 기후현 다카야마에 '힐튼 다카야마 리조트'가 9월 14일 문을 열었습니다. 기존 '호텔 아소시아 다카야마 리조트'를 리브랜딩하여 새롭게 선보입니다.",
-            "alt_text": "새롭게 오픈한 힐튼 다카야마 리조트 외관"
-          },
-          {
-            "title": "최고의 뷰 보장!",
-            "content": "시내에서 살짝 떨어진 언덕 위에 자리 잡아 아름다운 자연 경관을 만끽할 수 있는 최적의 위치에 있습니다.",
-            "alt_text": "리조트에서 내려다보이는 아름다운 자연 풍경"
-          },
-          {
-            "title": "료칸 감성 그대로",
-            "content": "1994년부터 운영되어 온 호텔을 리브랜딩하여, 기존의 편안함과 고급스러움에 현대적인 감각을 더했습니다.",
-            "alt_text": "리조트 내부의 고급스럽고 편안한 분위기"
-          },
-          {
-            "title": "JR 도카이 호텔즈 운영",
-            "content": "JR 도카이 호텔즈에서 운영하는 만큼, 철도 이용객들에게도 편리한 접근성과 서비스를 제공할 것으로 기대됩니다.",
-            "alt_text": "JR 도카이 호텔즈 로고"
-          },
-          {
-            "title": "다카야마 여행 필수 코스!",
-            "content": "가을 단풍 시즌이나 겨울 눈꽃 시즌에 방문하면 더욱 특별한 경험을 할 수 있습니다. 미리 예약하여 최고의 객실을 확보하세요!",
-            "alt_text": "가을 단풍으로 물든 다카야마의 풍경"
-          }
-        ],
-        "caption": "일본 다카야마에 힐튼이 떴다! 🤩 9월 14일, '힐튼 다카야마 리조트'가 새롭게 오픈했어요! 🌳 언덕 위 최고의 뷰와 함께 료칸 감성까지 느낄 수 있는 이곳! 💖 JR 도카이 호텔즈 운영으로 더욱 기대되는데요. 🍁 가을/겨울 여행지로 강력 추천! 지금 바로 예약하고 특별한 추억 만드세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#다카야마",
-          "#힐튼다카야마리조트",
-          "#일본숙소",
-          "#일본온천",
-          "#일본료칸",
-          "#가을여행",
-          "#겨울여행",
-          "#일본자유여행",
-          "#일본호텔",
-          "#기후현",
-          "#일본신상",
-          "#여행스타그램",
-          "#힐튼호텔"
-        ],
-        "alt_texts": [
-          "새롭게 오픈한 힐튼 다카야마 리조트 외관",
-          "리조트에서 내려다보이는 아름다운 자연 풍경",
-          "리조트 내부의 고급스럽고 편안한 분위기",
-          "JR 도카이 호텔즈 로고",
-          "가을 단풍으로 물든 다카야마의 풍경"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본의 고급스러운 숙소와 자연 경관을 선호하는 30-50대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 예약 문의 증가, 숙소 정보 공유 확산 / 이 콘텐츠의 강점: 신규 오픈 호텔 정보로 희소성 높음, 료칸 감성이라는 매력적인 키워드 활용",
-      "image": {
-        "keyword": "Hilton Takayama Resort, Japan luxury hotel, mountain view, traditional Japanese ryokan style, autumn foliage Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Hilton-Takayama-Resort,-Japan-luxury-hotel,-mountain-view,-traditional-Japanese-ryokan-style,-autumn-foliage-Japan",
-        "pexels_url": "https://www.pexels.com/search/Hilton%20Takayama%20Resort,%20Japan%20luxury%20hotel,%20mountain%20view,%20traditional%20Japanese%20ryokan%20style,%20autumn%20foliage%20Japan/"
-      }
-    },
-    {
-      "id": "plan_ddc0170d",
-      "created_at": "2026-09-22T01:36:45.495352",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "亀の井ホテル 熱海、1泊2食が最大35％オフ。旬の金目鯛やカキを味わう夕食コース、焼き立てパンなど約80品食べ放題の朝食ビュッフェで食べ尽くす",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2141835.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을/겨울 일본 온천 여행, 최대 35% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🍁가을/겨울 온천 특가🍁",
-        "cards": [
-          {
-            "title": "특가 찬스!",
-            "content": "아타미 카메노이 호텔에서 1박 2식 특가 프로모션을 진행합니다. 10월 1일까지 진행되는 '라쿠텐 트래블 슈퍼 세일' 기간 중 최대 35% 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "일본 온천 호텔 프로모션 배너 이미지"
-          },
-          {
-            "title": "겨울 미식",
-            "content": "저녁 식사 코스로는 제철 금눈돔과 굴 요리를 맛볼 수 있으며, 약 80가지 메뉴를 제공하는 아침 뷔페에서는 갓 구운 빵 등 다양한 음식을 무제한으로 즐길 수 있습니다.",
-            "alt_text": "일본 가을/겨울 제철 해산물 요리 이미지"
-          },
-          {
-            "title": "할인 방법",
-            "content": "본 프로모션은 '라쿠텐 트래블 슈퍼 세일' 기간(10월 1일까지)에 적용되며, 추가 할인 쿠폰을 함께 사용하면 최대 35%까지 할인받을 수 있습니다.",
-            "alt_text": "일본 온라인 예약 사이트 할인 쿠폰 이미지"
-          },
-          {
-            "title": "어디서 예약?",
-            "content": "일본 전역의 다양한 호텔 및 온천 숙소에서 진행되는 세일 플랜을 라쿠텐 트래블에서 만나보세요.",
-            "alt_text": "일본 온천 마을 전경 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "가을 단풍 시즌과 겨울 온천 시즌을 맞아 일본 여행을 계획 중이라면, 이번 기회를 활용해 보세요. 인기 숙소는 조기 마감될 수 있으니 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "일본 가을 단풍과 온천을 즐기는 커플 이미지"
-          }
-        ],
-        "caption": "🍁겨울 온천 여행 준비하세요!🍁\n아타미 카메노이 호텔에서 1박 2식 특가 프로모션을 진행합니다.\n10월 1일까지 '라쿠텐 트래블 슈퍼 세일' 기간 중 최대 35% 할인 혜택을 받을 수 있어요!\n제철 금눈돔, 굴 코스 요리와 80가지 뷔페를 저렴하게 즐길 기회!\n지금 바로 라쿠텐 트래블에서 예약하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#아타미",
-          "#카메노이호텔",
-          "#일본숙소",
-          "#일본할인",
-          "#라쿠텐트래블",
-          "#가을여행",
-          "#겨울여행",
-          "#일본자유여행",
-          "#여행특가",
-          "#일본맛집",
-          "#일본호텔",
-          "#온천여행"
-        ],
-        "alt_texts": [
-          "일본 온천 호텔 프로모션 배너 이미지",
-          "일본 가을/겨울 제철 해산물 요리 이미지",
-          "일본 온라인 예약 사이트 할인 쿠폰 이미지",
-          "일본 온천 마을 전경 이미지",
-          "일본 가을 단풍과 온천을 즐기는 커플 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을/겨울 일본 온천 여행을 계획하는 20-40대 한국인 여행객 / 최적 게시 시간: 금요일 오후 7시 / 기대 반응: 예약 문의 증가, 프로모션 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 제철 음식 정보 포함, 즉각적인 예약 행동 유도",
-      "image": {
-        "keyword": "japan onsen hotel discount autumn winter food promotion",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-hotel-discount-autumn-winter-food-promotion",
-        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20hotel%20discount%20autumn%20winter%20food%20promotion/"
       }
     }
   ]
