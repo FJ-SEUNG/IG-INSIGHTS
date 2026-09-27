@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-26T04:46:59.779910",
+  "last_updated": "2026-09-27T01:28:33.522489",
   "plans": [
+    {
+      "id": "plan_46e2213a",
+      "created_at": "2026-09-27T01:28:31.522348",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「スガキヤ カエデウォーク長津田店/本厚木ミロードイースト店」神奈川県内に2店舗連続オープン",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2143424.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 현지 인기 라멘 체인점 '스가키야'가 가나가와현에 2개 지점을 연속 오픈했어요! 일본 여행 중 현지 맛집 탐방을 계획 중이라면 놓치지 마세요."
+      },
+      "content": {
+        "thumbnail_title": "🍜스가키야 가나가와 2곳 오픈!",
+        "cards": [
+          {
+            "title": "신규 오픈!",
+            "content": "일본 현지 인기 라멘 체인점 '스가키야'가 가나가와현에 2개 지점을 연속 오픈합니다. 🍜",
+            "alt_text": "스가키야 라멘 가게 외관 이미지"
+          },
+          {
+            "title": "오픈 날짜",
+            "content": "10월 15일에는 '카에데 워크 나가츠다점'이, 10월 29일에는 '혼아츠기 미로드 이스트점'이 문을 엽니다. 📅",
+            "alt_text": "달력에 10월 15일과 29일이 표시된 이미지"
+          },
+          {
+            "title": "위치 확인",
+            "content": "새로운 스가키야 지점은 가나가와현에 위치하며, 나가츠다점과 혼아츠기점입니다. 📍",
+            "alt_text": "일본 지도에 가나가와현 지역을 표시한 이미지"
+          },
+          {
+            "title": "메뉴 탐색",
+            "content": "독특한 돈코츠 육수와 라멘이 유명한 스가키야에서 현지인들의 소울푸드를 맛보세요! 😋",
+            "alt_text": "스가키야의 시그니처 라멘 메뉴 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "새로운 지점에서 오픈 기념 이벤트가 있을 수 있으니 방문 전 공식 정보를 확인하면 더욱 알찬 식사를 즐길 수 있습니다. 💯",
+            "alt_text": "여행 가방과 함께 있는 라멘 그릇 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 꼭 맛봐야 할 현지 맛집! 🍜\n\n인기 라멘 체인점 '스가키야'가 가나가와현에 2곳을 연속 오픈한다는 소식입니다.\n\n- 카에데 워크 나가츠다점: 10월 15일 오픈\n- 혼아츠기 미로드 이스트점: 10월 29일 오픈\n\n일본 현지인들의 사랑을 받는 스가키야 라멘을 이번 여행에서 꼭 경험해보세요! 😋\n\n#일본맛집 #스가키야 #라멘맛집 #가나가와여행 #도쿄근교 #일본현지음식 #여행정보 #플라잉재팬 #일본여행꿀팁 #현지인맛집 #일본식사 #새로운맛집 #여행스타그램 #먹스타그램 #일본생활",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본맛집",
+          "#스가키야",
+          "#라멘",
+          "#가나가와",
+          "#나가츠다",
+          "#혼아츠기",
+          "#일본음식",
+          "#현지맛집",
+          "#여행정보",
+          "#일본여행꿀팁",
+          "#먹스타그램",
+          "#신규오픈",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "스가키야 라멘 가게 외관 이미지",
+          "달력에 10월 15일과 29일이 표시된 이미지",
+          "일본 지도에 가나가와현 지역을 표시한 이미지",
+          "스가키야의 시그니처 라멘 메뉴 이미지",
+          "여행 가방과 함께 있는 라멘 그릇 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 최신 일본 현지 맛집 정보로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Sugakiya ramen, Japan, Kanagawa, new store opening, Japanese food",
+        "unsplash_url": "https://unsplash.com/s/photos/Sugakiya-ramen,-Japan,-Kanagawa,-new-store-opening,-Japanese-food",
+        "pexels_url": "https://www.pexels.com/search/Sugakiya%20ramen,%20Japan,%20Kanagawa,%20new%20store%20opening,%20Japanese%20food/"
+      }
+    },
+    {
+      "id": "plan_b4b0a986",
+      "created_at": "2026-09-27T01:28:25.832493",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「パーフェクトサントリービール（PSB）」から「アンバーエール」限定発売。芳ばしい麦の香りとすっきりとした後味",
+        "url": "https://gourmet.watch.impress.co.jp/docs/news/2142769.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 맛볼 수 있는 한정 맥주, 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🍺일본 한정 맥주 출시!",
+        "cards": [
+          {
+            "title": "신상 맥주 출시",
+            "content": "사토리니가 '퍼펙트 사토리니 비어<앰버 에일>'을 11월 10일부터 한정 수량으로 출시합니다. 豊か한 麦の香りとすっきりとした後味が 특징입니다.",
+            "alt_text": "퍼펙트 사토리니 비어 앰버 에일 캔 이미지"
+          },
+          {
+            "title": "두 가지 사이즈",
+            "content": "350ml 캔과 500ml 캔 두 가지 사이즈로 만나볼 수 있습니다. 취향에 따라 선택하세요!",
+            "alt_text": "350ml와 500ml 맥주 캔 나란히 놓인 이미지"
+          },
+          {
+            "title": "알코올 도수",
+            "content": "알코올 도수는 5.5%로, 적당한 도수로 가볍게 즐기기 좋습니다.",
+            "alt_text": "맥주 캔에 표시된 알코올 도수 5.5% 클로즈업 이미지"
+          },
+          {
+            "title": "한정 판매",
+            "content": "아쉽게도 '한정 수량'으로만 판매되니, 관심 있다면 서둘러 구매하는 것이 좋습니다.",
+            "alt_text": "품절 임박을 알리는 '매진 임박' 팻말 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "현지 편의점이나 마트에서 발견 시 바로 겟하세요! 일본 여행의 특별한 추억이 될 거예요.",
+            "alt_text": "일본 편의점에서 맥주를 고르는 사람 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 중 놓칠 수 없는 맥주 소식! 사토리니에서 '퍼펙트 사토리니 비어<앰버 에일>'을 11월 10일부터 한정 수량으로 출시했어요. 豊か한 麦の香りと 깔끔한 끝맛이 일품! 350ml, 500ml 두 가지 사이즈로 만나볼 수 있으며 알코올 도수는 5.5%입니다. \n\n일본 편의점이나 마트에서 발견하면 꼭 겟하세요! 🍺✨\n\n#일본여행 #플라잉재팬 #사토리니비어 #한정판맥주 #일본맥주 #여행꿀팁 #일본편의점 #일본마트 #신상맥주 #앰버에일 #맥주추천 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#사토리니비어",
+          "#한정판맥주",
+          "#일본맥주",
+          "#여행꿀팁",
+          "#일본편의점",
+          "#일본마트",
+          "#신상맥주",
+          "#앰버에일",
+          "#맥주추천",
+          "#여행정보",
+          "#일본생활",
+          "#일본맛집",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "퍼펙트 사토리니 비어 앰버 에일 캔 이미지",
+          "350ml와 500ml 맥주 캔 나란히 놓인 이미지",
+          "맥주 캔에 표시된 알코올 도수 5.5% 클로즈업 이미지",
+          "품절 임박을 알리는 '매진 임박' 팻말 이미지",
+          "일본 편의점에서 맥주를 고르는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 현지 특색을 경험하고 싶은 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 관심과 구매 문의, 즉각적인 공유 / 이 콘텐츠의 강점: 시기적절한 한정판 정보, 구체적인 제품 정보 제공",
+      "image": {
+        "keyword": "Japanese convenience store, limited edition beer, amber ale, Suntory beer can",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-convenience-store,-limited-edition-beer,-amber-ale,-Suntory-beer-can",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20convenience%20store,%20limited%20edition%20beer,%20amber%20ale,%20Suntory%20beer%20can/"
+      }
+    },
     {
       "id": "plan_cccde30a",
       "created_at": "2026-09-26T04:46:57.779748",
@@ -923,160 +1077,6 @@
         "keyword": "Japan Kyushu discount travel package",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-discount-travel-package",
         "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20discount%20travel%20package/"
-      }
-    },
-    {
-      "id": "plan_95edc6ab",
-      "created_at": "2026-09-23T04:36:14.777531",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京ドームホテル、ブッフェ「北海道フェア2026」開催　10月1日から",
-        "url": "https://www.traicy.com/posts/20260923380891/",
-        "date": "Tue, 22 Sep 2026 22:15:53 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 즐기는 홋카이도의 맛! 🦀🍣"
-      },
-      "content": {
-        "thumbnail_title": "홋카이도 미식 천국 🍽️",
-        "cards": [
-          {
-            "title": "기간 한정!",
-            "content": "도쿄돔 호텔에서 2026년 10월 1일부터 2027년 2월 28일까지 '홋카이도 페어 2026'을 개최합니다.",
-            "alt_text": "도쿄돔 호텔 외관 이미지"
-          },
-          {
-            "title": "풍성한 런치/디너",
-            "content": "매력적인 '선택 가능한 한 접시' 메뉴가 준비되어 있습니다. 런치에는 '홋카이도산 홍게 1마리' 또는 '홋카이도산 가리비' 중 선택 가능합니다.",
-            "alt_text": "신선한 홋카이도산 홍게 이미지"
-          },
-          {
-            "title": "다양한 홋카이도 메뉴",
-            "content": "디너에는 홋카이도의 신선한 해산물과 육류를 활용한 다채로운 뷔페 메뉴를 맛볼 수 있습니다.",
-            "alt_text": "다양한 뷔페 음식 이미지"
-          },
-          {
-            "title": "호텔 뷔페 만끽",
-            "content": "편안하고 고급스러운 호텔 뷔페에서 홋카이도의 정통 미식을 경험해 보세요.",
-            "alt_text": "호텔 뷔페 내부 이미지"
-          },
-          {
-            "title": "예약 팁!",
-            "content": "인기가 많을 것으로 예상되니, 방문 전 호텔 웹사이트를 통해 예약 가능 여부를 확인하고 미리 예약하는 것을 추천합니다.",
-            "alt_text": "예약 버튼 이미지"
-          }
-        ],
-        "caption": "✈️ 도쿄 여행 중 홋카이도의 맛을 제대로 느끼고 싶다면? \n\n📍 도쿄돔 호텔에서 2026년 10월 1일부터 2027년 2월 28일까지! \n\n🦀 '홋카이도 페어 2026'이 열립니다. \n\n런치에는 홍게 또는 가리비 중 택 1! \n디너에는 신선한 홋카이도 식재료를 활용한 뷔페까지! \n\n잊지 못할 미식 여행을 도쿄에서 경험하세요! \n\n📌 예약은 필수!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄맛집",
-          "#홋카이도페어",
-          "#도쿄돔호텔",
-          "#뷔페추천",
-          "#일본호텔",
-          "#미식여행",
-          "#한정메뉴",
-          "#2026년이벤트",
-          "#가을여행",
-          "#겨울여행",
-          "#도쿄가볼만한곳",
-          "#일본음식"
-        ],
-        "alt_texts": [
-          "도쿄돔 호텔 외관 이미지",
-          "신선한 홋카이도산 홍게 이미지",
-          "다양한 뷔페 음식 이미지",
-          "호텔 뷔페 내부 이미지",
-          "예약 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 예정인 미식가 한국인 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 구체적인 기간, 메뉴 정보 제공으로 여행 계획에 즉각적인 도움",
-      "image": {
-        "keyword": "Tokyo Dome Hotel Hokkaido Fair buffet crab scallop",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Dome-Hotel-Hokkaido-Fair-buffet-crab-scallop",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Dome%20Hotel%20Hokkaido%20Fair%20buffet%20crab%20scallop/"
-      }
-    },
-    {
-      "id": "plan_73fcb48f",
-      "created_at": "2026-09-23T04:36:09.762797",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "パナソニック・コネクト、成田空港T1とT2に共同キオスク177台を納入　9月24日から本格運用",
-        "url": "https://www.traicy.com/posts/20260923382393/",
-        "date": "Wed, 23 Sep 2026 00:15:57 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 입국 심사, 이제 더 빨라진다! 🤖✨"
-      },
-      "content": {
-        "thumbnail_title": "🚀 나리타 입국심사 꿀팁!",
-        "cards": [
-          {
-            "title": "나리타 1, 2터미널",
-            "content": "나리타공항 제1, 2터미널에 입국 심사와 세관 신고를 한 번에 할 수 있는 '공동 키오스크'가 설치되었습니다. 총 177대 운영 예정입니다.",
-            "alt_text": "나리타 공항 제1, 2터미널 전경"
-          },
-          {
-            "title": "9월 24일 정식 오픈",
-            "content": "이 새로운 시스템은 9월 24일부터 본격적으로 운영을 시작합니다. 앞으로 일본 입국 절차가 더욱 간소화될 것으로 기대됩니다.",
-            "alt_text": "날짜 9월 24일 표시"
-          },
-          {
-            "title": "신속한 입국",
-            "content": "이용객들은 이 키오스크를 통해 출입국 심사와 세관 신고 절차를 동시에 진행할 수 있어, 기존보다 훨씬 빠르게 입국 수속을 마칠 수 있습니다.",
-            "alt_text": "빠르게 이동하는 여행객 모습"
-          },
-          {
-            "title": "여행 시간 절약",
-            "content": "특히 입국 심사 대기 시간을 획기적으로 줄여주어, 도쿄 시내로 이동하거나 다음 일정을 소화하는 데 귀중한 시간을 절약할 수 있습니다.",
-            "alt_text": "시계와 함께 웃고 있는 여행객"
-          },
-          {
-            "title": "이용 팁",
-            "content": "키오스크 이용 시 여권과 함께 미리 준비한 입국 관련 서류(필요시)를 지참하면 더욱 원활한 이용이 가능합니다. 자세한 이용 방법은 현장에서 확인하세요!",
-            "alt_text": "여권과 서류를 들고 있는 손"
-          }
-        ],
-        "caption": "✈️ 나리타 공항 입국 심사, 이제 스마트하게!\n\n9월 24일부터 나리타 공항 1, 2터미널에 '공동 키오스크'가 도입됩니다! 🤖\n\n입국 심사와 세관 신고를 한 번에! 총 177대로 더욱 빠르고 편리해진 입국을 경험해보세요.\n\n여행 시작부터 시간 절약! 꿀팁 챙겨서 즐거운 일본 여행 되세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#나리타공항",
-          "#도쿄여행",
-          "#일본입국",
-          "#입국심사",
-          "#꿀팁",
-          "#여행정보",
-          "#일본",
-          "#해외여행",
-          "#여행스타그램",
-          "#여행준비",
-          "#일본정보",
-          "#나리타",
-          "#신규시스템"
-        ],
-        "alt_texts": [
-          "나리타 공항 제1, 2터미널 전경",
-          "날짜 9월 24일 표시",
-          "빠르게 이동하는 여행객 모습",
-          "시계와 함께 웃고 있는 여행객",
-          "여권과 서류를 들고 있는 손"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 여행객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 3-5시 / 기대 반응: 정보에 대한 관심과 공감, 공유 / 이 콘텐츠의 강점: 실질적인 입국 절차 개선 정보로 여행객의 니즈 충족",
-      "image": {
-        "keyword": "Narita Airport Terminal 1 and 2, self-service kiosk, immigration process, travel convenience, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-Terminal-1-and-2,-self-service-kiosk,-immigration-process,-travel-convenience,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20Terminal%201%20and%202,%20self-service%20kiosk,%20immigration%20process,%20travel%20convenience,%20Japan%20travel/"
       }
     }
   ]
