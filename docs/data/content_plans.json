@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-27T01:28:33.522489",
+  "last_updated": "2026-09-27T05:09:42.898934",
   "plans": [
+    {
+      "id": "plan_1ff37f8a",
+      "created_at": "2026-09-27T05:09:40.898758",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、千葉県内の運休区間で28日から代行輸送　内房線の一部は当面見送り",
+        "url": "https://www.traicy.com/posts/20260927383070/",
+        "date": "Sat, 26 Sep 2026 21:15:02 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "태풍으로 인한 일본 치바현 JR 열차 운휴 및 대체 운송 정보, 여행 계획 시 꼭 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚨치바현 JR 열차 운휴🚨",
+        "cards": [
+          {
+            "title": "운휴 구간",
+            "content": "태풍 25호 영향으로 JR 동일본 치바현 내 일부 구간 운행이 중단되었습니다. 9월 28일부터 해당 구간은 대체 운송이 시작됩니다.",
+            "alt_text": "일본 지도에 치바현 운휴 구간 표시"
+          },
+          {
+            "title": "대체 운송 구간",
+            "content": "소부 본선(야와타~나루토), 나리타선(사와라~쵸시), 구루리선(기사라즈~구루리) 구간에서 대체 운송이 이루어집니다. 자세한 운행 정보는 JR 동일본 홈페이지를 확인하세요.",
+            "alt_text": "대체 운송이 이루어지는 JR 노선도"
+          },
+          {
+            "title": "운행 재개 미정",
+            "content": "내방선(우치보선) 일부 구간은 당분간 운행 재개가 어려울 것으로 보입니다. 여행 계획 시 참고하시기 바랍니다.",
+            "alt_text": "운행 중단 표지판과 철로"
+          },
+          {
+            "title": "여행 전 확인 필수",
+            "content": "치바현을 포함한 일본 여행 시, JR 동일본 홈페이지나 관련 앱을 통해 실시간 운행 정보를 미리 확인하는 것이 안전합니다.",
+            "alt_text": "스마트폰으로 열차 운행 정보 확인하는 모습"
+          },
+          {
+            "title": "대체 교통",
+            "content": "열차 운휴로 인해 이동 시간이 길어질 수 있습니다. 버스 등 다른 교통수단을 미리 알아보거나, 여유로운 일정 계획을 추천합니다.",
+            "alt_text": "버스, 택시 등 대체 교통수단 이미지"
+          }
+        ],
+        "caption": "🇯🇵 태풍 25호 영향으로 일본 치바현 JR 열차 일부 구간 운행 중단! 🚨\n9월 28일부터 대체 운송이 시작되지만, 내방선 일부 구간은 운행 재개가 미정입니다.\n치바현 여행 예정이시라면, JR 동일본 홈페이지에서 실시간 운행 정보를 꼭 확인하시고, 이동 시간을 넉넉히 잡으세요! ✈️\n#일본여행 #JR동일본 #치바현 #열차운휴 #대체운송 #여행정보 #안전여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#치바현",
+          "#열차운휴",
+          "#대체운송",
+          "#일본교통",
+          "#여행필수정보",
+          "#일본소식",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본날씨",
+          "#안전여행",
+          "#일본가볼만한곳",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "일본 지도에 치바현 운휴 구간 표시",
+          "대체 운송이 이루어지는 JR 노선도",
+          "운행 중단 표지판과 철로",
+          "스마트폰으로 열차 운행 정보 확인하는 모습",
+          "버스, 택시 등 대체 교통수단 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 치바현 또는 인근 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 정보 탐색이 많은 오후 6시~8시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 실제 여행에 직결되는 중요 교통 정보 제공",
+      "image": {
+        "keyword": "JR train delay, Chiba prefecture, Japan railway disruption, typhoon impact, alternative transportation",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train-delay,-Chiba-prefecture,-Japan-railway-disruption,-typhoon-impact,-alternative-transportation",
+        "pexels_url": "https://www.pexels.com/search/JR%20train%20delay,%20Chiba%20prefecture,%20Japan%20railway%20disruption,%20typhoon%20impact,%20alternative%20transportation/"
+      }
+    },
+    {
+      "id": "plan_3352bf23",
+      "created_at": "2026-09-27T05:09:33.612706",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "HIS、「決算大感謝SALE」を開催中　11月4日午前10時まで",
+        "url": "https://www.traicy.com/posts/20260927383035/",
+        "date": "Sun, 27 Sep 2026 03:35:42 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "HIS 역대급 감사 세일! 놓치면 후회할 일본 여행 특가 찬스! ✈️"
+      },
+      "content": {
+        "thumbnail_title": "✈️HIS 역대급 감사 세일!✈️",
+        "cards": [
+          {
+            "title": "초대박 세일!",
+            "content": "HIS에서 역대급 '결산 대감사 SALE'을 진행해요! 최대 혜택을 누릴 수 있는 절호의 기회랍니다.",
+            "alt_text": "HIS 감사 세일 배너 이미지"
+          },
+          {
+            "title": "온라인 기간",
+            "content": "온라인 예약은 11월 4일 오전 10시까지 가능해요. 서둘러서 원하는 여행 상품을 득템하세요!",
+            "alt_text": "달력에 표시된 11월 4일 날짜 이미지"
+          },
+          {
+            "title": "전화/방문",
+            "content": "전화 또는 HIS 지점 방문 예약은 11월 3일까지 가능하니 참고하세요. 😉",
+            "alt_text": "전화기 아이콘과 매장 아이콘 이미지"
+          },
+          {
+            "title": "해외 투어",
+            "content": "해외 투어 상품도 포함되어 있으며, 특히 수도권 출발 서울 3일 상품 등이 준비되어 있어요.",
+            "alt_text": "비행기 이륙하는 모습 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "매력적인 가격으로 일본 여행을 계획할 수 있는 이번 기회를 절대 놓치지 마세요! 💖",
+            "alt_text": "반짝이는 별들이 있는 선물 상자 이미지"
+          }
+        ],
+        "caption": "✨HIS 역대급 결산 대감사 SALE OPEN!✨\n\n일본 여행 계획 중이라면 주목! ✈️\nHIS에서 최대 혜택을 담은 '결산 대감사 SALE'을 진행 중입니다.\n\n온라인 예약은 11월 4일 오전 10시까지!\n전화/방문 예약은 11월 3일까지!\n\n지금 바로 HIS에서 초특가 일본 여행 상품을 확인해보세요! 💖\n\n#일본여행 #HIS #여행특가 #일본항공권 #일본호텔 #여행세일 #가을여행 #겨울여행 #여행정보 #플라잉재팬 #여행스타그램 #인스타여행 #여행추천 #여행꿀팁 #할인정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#HIS",
+          "#여행특가",
+          "#일본항공권",
+          "#일본호텔",
+          "#여행세일",
+          "#가을여행",
+          "#겨울여행",
+          "#여행정보",
+          "#여행스타그램",
+          "#인스타여행",
+          "#여행추천",
+          "#여행꿀팁",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "HIS 감사 세일 배너 이미지",
+          "달력에 표시된 11월 4일 날짜 이미지",
+          "전화기 아이콘과 매장 아이콘 이미지",
+          "비행기 이륙하는 모습 이미지",
+          "반짝이는 별들이 있는 선물 상자 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 높은 클릭률과 예약 문의 증가 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 명확한 마감일 안내로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japan travel sale, HIS travel discount, flight ticket deal, hotel promotion, travel savings, limited time offer, autumn trip, winter vacation, travel information, flying japan, travelgram, instatravel, travel recommendation, travel tips, discount news",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-HIS-travel-discount,-flight-ticket-deal,-hotel-promotion,-travel-savings,-limited-time-offer,-autumn-trip,-winter-vacation,-travel-information,-flying-japan,-travelgram,-instatravel,-travel-recommendation,-travel-tips,-discount-news",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20HIS%20travel%20discount,%20flight%20ticket%20deal,%20hotel%20promotion,%20travel%20savings,%20limited%20time%20offer,%20autumn%20trip,%20winter%20vacation,%20travel%20information,%20flying%20japan,%20travelgram,%20instatravel,%20travel%20recommendation,%20travel%20tips,%20discount%20news/"
+      }
+    },
     {
       "id": "plan_46e2213a",
       "created_at": "2026-09-27T01:28:31.522348",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Big Sight, Tourism Expo Japan, Japan travel event, Mascot character",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Big-Sight,-Tourism-Expo-Japan,-Japan-travel-event,-Mascot-character",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Big%20Sight,%20Tourism%20Expo%20Japan,%20Japan%20travel%20event,%20Mascot%20character/"
-      }
-    },
-    {
-      "id": "plan_cabfeaa7",
-      "created_at": "2026-09-24T01:24:14.512556",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "じゃらん「九州ふっこう応援割」佐賀・宮崎・大分まもなく予約開始。県内の宿泊が最大50％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142725.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 숙박비 최대 50% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": " Kyushu 50% OFF ✈️",
-        "cards": [
-          {
-            "title": "九州 할인 혜택",
-            "content": "일본 규슈 지역(사가, 미야자키, 오이타) 숙박비 최대 50% 할인 혜택이 곧 시작됩니다. '규슈 부흥 응원 할인'으로 알뜰하게 여행하세요!",
-            "alt_text": "일본 규슈 지역 지도"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "사가현, 미야자키현, 오이타현의 숙박 예약은 9월 24일부터 순차적으로 시작됩니다. 놓치지 말고 미리 준비하세요!",
-            "alt_text": "달력에 9월 24일 표시"
-          },
-          {
-            "title": "할인율",
-            "content": "이번 프로모션을 통해 해당 지역 내 숙박 비용을 최대 절반까지 할인받을 수 있습니다. 평소 가고 싶었던 규슈를 더 저렴하게 즐길 기회입니다.",
-            "alt_text": "50% 할인 스티커"
-          },
-          {
-            "title": "대상 지역",
-            "content": "할인이 적용되는 지역은 일본의 사가현, 미야자키현, 오이타현입니다. 아름다운 자연과 맛있는 음식이 가득한 곳들을 만나보세요.",
-            "alt_text": "일본 규슈 지역의 대표적인 관광지 사진"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "할인 혜택은 한정 수량 또는 기간으로 제공될 수 있으니, 예약 오픈일에 맞춰 서둘러 예약하는 것을 추천합니다. 숙박 예약 시 프로모션 적용 여부를 꼭 확인하세요!",
-            "alt_text": "여행 가방과 여권"
-          }
-        ],
-        "caption": "✈️ 규슈 여행 계획 중이라면 주목! ✈️\n\n일본 규슈 지역(사가, 미야자키, 오이타)에서 숙박비 최대 50% 할인 혜택을 제공하는 '규슈 부흥 응원 할인'이 곧 시작됩니다! 🤩\n\n✅ 예약 시작: 9월 24일부터 순차적으로\n✅ 할인율: 최대 50%\n✅ 대상 지역: 사가현, 미야자키현, 오이타현\n\n평소 꿈꿔왔던 규슈 여행, 이번 기회에 더 알뜰하게 다녀오세요! 💖\n\n#일본여행 #규슈여행 #후쿠오카근교 #사가현 #미야자키현 #오이타현 #일본할인 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#일본숙박",
-          "#일본할인",
-          "#일본여행정보",
-          "#사가현",
-          "#미야자키현",
-          "#오이타현",
-          "#여행꿀팁",
-          "#가성비여행",
-          "#일본여행준비",
-          "#해외여행",
-          "#여행스타그램",
-          "# Kyushu"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 지도",
-          "달력에 9월 24일 표시",
-          "50% 할인 스티커",
-          "일본 규슈 지역의 대표적인 관광지 사진",
-          "여행 가방과 여권"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 높은 클릭률과 공유, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보로 즉각적인 여행 계획 변경 유도 가능",
-      "image": {
-        "keyword": "Japan Kyushu travel discount, accommodation sale, Japan travel deals",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount,-accommodation-sale,-Japan-travel-deals",
-        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount,%20accommodation%20sale,%20Japan%20travel%20deals/"
-      }
-    },
-    {
-      "id": "plan_53749327",
-      "created_at": "2026-09-24T01:24:09.093629",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、宮崎・大分の「九州ふっこう応援割」9月25日予約スタート。宿泊・楽パックが最大50％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142732.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 경비를 최대 50%까지 절약할 수 있는 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "九州 최대 50% 할인! 💰",
-        "cards": [
-          {
-            "title": "九州 여행 지원",
-            "content": "일본 정부가 추진하는 '九州 후코오 응원 할인'으로 미야자키현과 오이타현 숙박 및 항공권 패키지를 최대 50%까지 할인받으세요.",
-            "alt_text": "일본 규슈 지역 지도"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "미야자키현은 9월 25일 오전 10시부터, 오이타현은 같은 날 오후 12시부터 예약이 시작됩니다.",
-            "alt_text": "달력에 표시된 9월 25일"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "숙박 시설 예약 또는 항공권과 숙박이 포함된 '락 파쿠(楽パック)' 상품 구매 시 할인이 적용됩니다.",
-            "alt_text": "할인율이 표시된 쇼핑백 이미지"
-          },
-          {
-            "title": "공식 예약처",
-            "content": "본 할인 혜택은 라쿠텐 트래블(楽天トラベル)을 통해 예약 가능합니다.",
-            "alt_text": "라쿠텐 트래블 로고"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "인기 지역은 조기 마감될 수 있으니, 관심 있다면 예약 시작 시간에 맞춰 서두르는 것이 좋습니다.",
-            "alt_text": "서두르는 사람의 실루엣"
-          }
-        ],
-        "caption": "일본 규슈 여행 계획 중이시라면 주목! 🇯🇵\n미야자키현 & 오이타현에서 최대 50% 할인받고 알뜰하게 여행하세요!\n9월 25일부터 라쿠텐 트래블에서 예약 시작! ✈️🏨\n\n#일본여행 #규슈여행 #미야자키 #오이타 #일본할인 #여행꿀팁 #플라잉재팬 #일본정부지원 #가성비여행 #일본숙소 #일본항공권 #여행정보 #일본자유여행 #알뜰여행",
-        "hashtags": [
-          "#일본여행",
-          "#규슈여행",
-          "#미야자키",
-          "#오이타",
-          "#일본할인",
-          "#여행꿀팁",
-          "#플라잉재팬",
-          "#일본정부지원",
-          "#가성비여행",
-          "#일본숙소",
-          "#일본항공권",
-          "#여행정보",
-          "#일본자유여행",
-          "#알뜰여행",
-          "#九州ふっこう応援割"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 지도",
-          "달력에 표시된 9월 25일",
-          "할인율이 표시된 쇼핑백 이미지",
-          "라쿠텐 트래블 로고",
-          "서두르는 사람의 실루엣"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 계획 시즌인 저녁 시간대 또는 주말 / 기대 반응: 높은 예약률 및 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율, 예약 시점, 예약처 등 실질적인 정보 제공",
-      "image": {
-        "keyword": "Japan Kyushu discount travel package",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-discount-travel-package",
-        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20discount%20travel%20package/"
       }
     }
   ]
