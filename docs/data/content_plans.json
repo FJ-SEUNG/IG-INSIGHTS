@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-28T01:39:52.854870",
+  "last_updated": "2026-09-28T05:12:30.295606",
   "plans": [
+    {
+      "id": "plan_750c5991",
+      "created_at": "2026-09-28T05:12:28.295415",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "全線再開・くま川鉄道の真横に「寝台特急はやぶさ」ブルートレインの宿。なぜここに？",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143517.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "실제 침대 특급 열차에서 숙박하는 특별한 경험!"
+      },
+      "content": {
+        "thumbnail_title": "🚂블루트레인에서 하룻밤!🐻",
+        "cards": [
+          {
+            "title": "특별한 숙소",
+            "content": "일본 구마모토현 구마군 다라기초에 위치한 '블루트레인 타라기'는 실제 침대 특급 '하야부사' 객차를 활용한 숙박시설입니다. 2009년 3월까지 도쿄-구마모토 구간을 운행했던 객차를 그대로 사용하고 있습니다.",
+            "alt_text": "실제 침대 특급 '하야부사' 객차로 만들어진 숙소 외관"
+          },
+          {
+            "title": "이유는?",
+            "content": "왜 하필 이곳에 블루트레인 숙소가 생겼을까요? 바로 구마가와 철도 타라기역 바로 옆에 위치하여 접근성이 좋고, 지역 관광 활성화를 위해 기획되었습니다.",
+            "alt_text": "구마가와 철도 타라기역과 숙소가 가까이 있는 모습"
+          },
+          {
+            "title": "객차 정보",
+            "content": "숙박 시설로 활용되는 객차는 과거 '하야부사' 열차에서 사용되었던 실제 객차입니다. 당시의 분위기를 그대로 느낄 수 있도록 보존 및 개조되었습니다.",
+            "alt_text": "블루트레인 객차 내부의 침대와 공간"
+          },
+          {
+            "title": "예약 및 위치",
+            "content": "숙소명은 '블루트레인 타라기'이며, 구마모토현 구마군 다라기초 다라기 1534-2에 위치합니다. 구마가와 철도 타라기역에서 도보로 이동 가능합니다.",
+            "alt_text": "숙소의 정확한 주소와 위치 정보"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "기차 여행을 좋아하는 분이라면 놓칠 수 없는 특별한 경험! 열차 안에서의 하룻밤을 통해 잊지 못할 추억을 만들어 보세요. 다만, 예약은 미리 확인하는 것이 좋습니다.",
+            "alt_text": "블루트레인 숙소에서 즐기는 특별한 밤"
+          }
+        ],
+        "caption": "🚂일본에서 색다른 경험을 원한다면?JR 규슈의 전설적인 침대 특급 '하야부사' 객차에서 하룻밤을 보내세요! 🐻\n\n구마모토현에 위치한 '블루트레인 타라기'는 실제 '하야부사' 객차를 개조한 이색 숙소입니다. 2009년 3월까지 도쿄-구마모토를 달리던 열차가 이제는 여러분의 특별한 숙소가 됩니다. 📍구마모토현 구마군 다라기초 다라기 1534-2 (구마가와 철도 타라기역 인근)\n\n#일본여행 #블루트레인 #하야부사 #이색숙소 #구마모토 #철도여행 #일본숙소 #특별한경험 #플라잉재팬 #일본자유여행 #여행스타그램 #여행정보 #여행필수템 #여행추천 #일본가볼만한곳",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#블루트레인",
+          "#하야부사",
+          "#이색숙소",
+          "#구마모토",
+          "#철도여행",
+          "#일본숙소",
+          "#특별한경험",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#여행정보",
+          "#여행필수템",
+          "#여행추천",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "실제 침대 특급 '하야부사' 객차로 만들어진 숙소 외관",
+          "구마가와 철도 타라기역과 숙소가 가까이 있는 모습",
+          "블루트레인 객차 내부의 침대와 공간",
+          "숙소의 정확한 주소와 위치 정보",
+          "블루트레인 숙소에서 즐기는 특별한 밤"
+        ]
+      },
+      "marketer_analysis": "타겟: 특별한 경험을 추구하는 20-40대 일본 여행객 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 높은 공유율, 댓글 문의 / 이 콘텐츠의 강점: 희소성 있는 이색 숙소 정보, 향수를 자극하는 레트로 감성",
+      "image": {
+        "keyword": "Blue train hotel, Hayabusa sleeper train, Kumamoto unique accommodation, Retro train experience, Japan railway travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Blue-train-hotel,-Hayabusa-sleeper-train,-Kumamoto-unique-accommodation,-Retro-train-experience,-Japan-railway-travel",
+        "pexels_url": "https://www.pexels.com/search/Blue%20train%20hotel,%20Hayabusa%20sleeper%20train,%20Kumamoto%20unique%20accommodation,%20Retro%20train%20experience,%20Japan%20railway%20travel/"
+      }
+    },
+    {
+      "id": "plan_7868b63c",
+      "created_at": "2026-09-28T05:12:22.183883",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA「九州ふっこう応援割」本日販売スタート。航空券＋宿が最大3万円引き、対象は佐賀県・宮崎県",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143728.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 여행 예정이라면 놓치지 마세요! 최대 3만엔 할인 혜택!"
+      },
+      "content": {
+        "thumbnail_title": "✈️규슈 여행 3만엔 할인!",
+        "cards": [
+          {
+            "title": "ANA ✈️할인 시작!",
+            "content": "ANA가 '규슈 부흥 응원 할인' 프로모션을 시작했어요. 9월 28일 오후 2시부터 전용 웹페이지에서 구매 가능합니다.",
+            "alt_text": "ANA 항공권 프로모션 시작 알림"
+          },
+          {
+            "title": "최대 3만엔 할인!",
+            "content": "항공권과 숙박을 함께 예약하면 최대 3만엔까지 할인받을 수 있어요. 규슈 지역 여행 계획 중이라면 꼭 확인하세요!",
+            "alt_text": "할인 금액 최대 3만엔 표시"
+          },
+          {
+            "title": "대상 지역은?",
+            "content": "이번 프로모션은 사가현과 미야자키현을 대상으로 합니다. 두 지역 중 한 곳 또는 두 곳 모두 여행할 계획이라면 혜택을 누릴 수 있습니다.",
+            "alt_text": "사가현, 미야자키현 지도 표시"
+          },
+          {
+            "title": "어떻게 예약하나요?",
+            "content": "ANA 전용 웹페이지에서 '규슈 부흥 응원 할인' 상품을 찾아 예약하시면 됩니다. 지금 바로 확인해 보세요!",
+            "alt_text": "ANA 웹사이트 예약 화면 예시"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "할인 혜택은 수량이 한정되어 있을 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋아요. ANA 공식 홈페이지에서 자세한 내용을 확인하세요.",
+            "alt_text": "시간이 얼마 남지 않았다는 의미의 시계 이미지"
+          }
+        ],
+        "caption": "일본 규슈 여행 예정인 분들 주목! 📣 ANA에서 '규슈 부흥 응원 할인' 프로모션을 시작했어요. 9월 28일 오후 2시부터 항공권+숙박을 최대 3만엔까지 할인받을 수 있답니다! ✈️✨ 사가현, 미야자키현 여행 계획이 있다면 절대 놓치지 마세요! 지금 바로 ANA 전용 웹페이지를 확인하세요! #규슈여행 #ANA할인 #일본여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#사가현",
+          "#미야자키현",
+          "#ANA",
+          "#항공권할인",
+          "#여행할인",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#여행에미치다",
+          "#일본자유여행",
+          "#가을여행",
+          "#겨울여행",
+          "#일본할인"
+        ],
+        "alt_texts": [
+          "ANA 항공권 프로모션 시작 알림",
+          "할인 금액 최대 3만엔 표시",
+          "사가현, 미야자키현 지도 표시",
+          "ANA 웹사이트 예약 화면 예시",
+          "시간이 얼마 남지 않았다는 의미의 시계 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~21시) / 기대 반응: 높은 클릭률 및 예약 전환율 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공으로 여행 비용 절감 효과 기대",
+      "image": {
+        "keyword": "ANA airline ticket discount, Kyushu travel, Saga prefecture, Miyazaki prefecture",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airline-ticket-discount,-Kyushu-travel,-Saga-prefecture,-Miyazaki-prefecture",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airline%20ticket%20discount,%20Kyushu%20travel,%20Saga%20prefecture,%20Miyazaki%20prefecture/"
+      }
+    },
     {
       "id": "plan_ad8e68d9",
       "created_at": "2026-09-28T01:39:50.854687",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo DisneySea Indiana Jones Adventure Crystal Skull's Palace reopening event",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Indiana-Jones-Adventure-Crystal-Skull's-Palace-reopening-event",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Indiana%20Jones%20Adventure%20Crystal%20Skull's%20Palace%20reopening%20event/"
-      }
-    },
-    {
-      "id": "plan_d6a08ceb",
-      "created_at": "2026-09-25T01:30:42.012488",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本と東北観光推進機構が新幹線で気軽に行ける東北をアピール。土日は各地のお酒やアイスクリームの試飲・試食も用意",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143009.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센으로 떠나는 미식 여행! 일본 동북 지역의 숨겨진 술과 아이스크림을 즐겨보세요."
-      },
-      "content": {
-        "thumbnail_title": "🚄 동북 미식 여행 🍻🍦",
-        "cards": [
-          {
-            "title": "동북 지역 소개",
-            "content": "JR동일본과 동북 관광추진기구가 신칸센으로 가볍게 떠날 수 있는 동북 지역을 홍보합니다. 수도권에서도 접근성이 좋습니다.",
-            "alt_text": "신칸센이 동북 지역의 아름다운 풍경을 달리는 모습"
-          },
-          {
-            "title": "주말 특별 시음/시식",
-            "content": "주말에는 각 지역의 특색 있는 술과 아이스크림 시음 및 시식 행사가 준비될 예정입니다. 놓치지 마세요!",
-            "alt_text": "다양한 종류의 일본 술과 아이스크림이 진열된 모습"
-          },
-          {
-            "title": "여행 박람회 정보",
-            "content": "세계 최대 규모의 여행 박람회 '투어리즘 엑스포 재팬 2026'이 9월 24일부터 27일까지 도쿄 빅사이트에서 개최됩니다.",
-            "alt_text": "투어리즘 엑스포 재팬 2026 행사장의 모습"
-          },
-          {
-            "title": "신칸센 이용 팁",
-            "content": "JR동일본은 신칸센을 이용해 동북 지역을 쉽고 빠르게 여행할 수 있는 방법을 소개합니다. 미리 예약하면 더 편리하게 이용 가능합니다.",
-            "alt_text": "신칸센 내부 좌석과 창밖 풍경"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "이번 행사를 통해 동북 지역의 숨겨진 맛집과 숨은 명소를 발견하고, 특별한 미식 경험을 즐겨보세요. 상세 일정은 추후 공개됩니다.",
-            "alt_text": "동북 지역의 아름다운 자연과 맛집 메뉴를 보여주는 콜라주"
-          }
-        ],
-        "caption": "🚄 신칸센 타고 떠나는 미식 여행! 🍻🍦\nJR동일본이 수도권에서 가까운 동북 지역의 매력을 알리기 위해 나섰어요!\n이번 주말, 동북 지역의 특별한 술과 아이스크림 시음/시식 행사에 참여하고 미식의 세계를 경험해보세요!\n9월 24일부터 27일까지 도쿄 빅사이트에서 열리는 '투어리즘 엑스포 재팬 2026'에서도 만날 수 있습니다.\n\n#일본여행 #동북여행 #신칸센 #미식여행 #일본술 #일본아이스크림 #투어리즘엑스포 #JR동일본 #플라잉재팬 #여행정보 #주말여행 #일본축제 #일본행사 #가을여행 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#동북여행",
-          "#신칸센",
-          "#미식여행",
-          "#일본술",
-          "#일본아이스크림",
-          "#투어리즘엑스포",
-          "#JR동일본",
-          "#여행정보",
-          "#주말여행",
-          "#일본축제",
-          "#일본행사",
-          "#가을여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "신칸센이 동북 지역의 아름다운 풍경을 달리는 모습",
-          "다양한 종류의 일본 술과 아이스크림이 진열된 모습",
-          "투어리즘 엑스포 재팬 2026 행사장의 모습",
-          "신칸센 내부 좌석과 창밖 풍경",
-          "동북 지역의 아름다운 자연과 맛집 메뉴를 보여주는 콜라주"
-        ]
-      },
-      "marketer_analysis": "타겟: 신칸센 이용 경험이 있고 미식에 관심 있는 한국인 여행객 / 최적 게시 시간: 금요일 오후 또는 토요일 오전 / 기대 반응: 동북 지역 여행 계획 증가, 시음/시식 행사 참여 의사 증가 / 이 콘텐츠의 강점: 신칸센이라는 편리한 교통수단과 연계된 구체적인 미식 경험을 제시하여 즉각적인 여행 욕구를 자극",
-      "image": {
-        "keyword": "Shinkansen, Tohoku, Sake tasting, Ice cream tasting, Japan travel expo",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-Tohoku,-Sake-tasting,-Ice-cream-tasting,-Japan-travel-expo",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20Tohoku,%20Sake%20tasting,%20Ice%20cream%20tasting,%20Japan%20travel%20expo/"
-      }
-    },
-    {
-      "id": "plan_199050b0",
-      "created_at": "2026-09-25T01:30:34.117964",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "近鉄全線と生駒ケーブルが3日間乗り放題「近鉄週末おでかけデジタルフリーパス」発売。紙きっぷは10月末終了",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142681.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 간사이 지역 근교 여행 필수템! 3일 무제한 탑승권으로 알차게 돌아보세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨간사이 3일권 득템 찬스!",
-        "cards": [
-          {
-            "title": "새로운 패스 출시!",
-            "content": "11월 5일부터 '근철 주말 외출 디지털 프리 패스'가 새롭게 출시됩니다. 이 패스는 근키 일본 철도 전 노선과 이코마 케이블을 3일 동안 무제한으로 이용할 수 있습니다.",
-            "alt_text": "근철 주말 외출 디지털 프리 패스 로고 이미지"
-          },
-          {
-            "title": "언제부터 이용 가능?",
-            "content": "11월 5일 (토)부터 구매 가능하며, 11월 6일 (일) 탑승 시작분부터 적용됩니다. 이제 주말에도 부담 없이 근교 여행을 떠날 수 있어요!",
-            "alt_text": "달력에 11월 5일, 6일 표시된 이미지"
-          },
-          {
-            "title": "디지털 패스란?",
-            "content": "스마트폰 앱을 통해 이용하는 디지털 티켓으로, 종이 티켓 없이 편리하게 개찰구를 통과할 수 있습니다. 10월 말에 종이 티켓 판매는 종료됩니다.",
-            "alt_text": "스마트폰 화면에 열차 티켓이 보이는 이미지"
-          },
-          {
-            "title": "어떤 지역을 갈 수 있나?",
-            "content": "오사카, 교토, 나라, 고베 등 간사이 지역의 다양한 명소를 근키 철도를 이용해 자유롭게 여행할 수 있습니다. 3일 동안 무제한 탑승이니 뽕 뽑으세요!",
-            "alt_text": "간사이 지역 주요 관광지 맵 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "여행 계획 시 근키 철도 노선을 미리 파악하면 더욱 효율적인 동선 짜기가 가능합니다. 특히 이코마 케이블은 특별한 경험을 선사할 거예요!",
-            "alt_text": "근키 철도 노선도 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 간사이 여행 필수템 등장! ✈️\n\n11월 5일부터 '근철 주말 외출 디지털 프리 패스'가 새롭게 출시됩니다!\n\n✅ 3일 무제한 탑승 (근키 철도 전 노선 + 이코마 케이블)\n✅ 11월 5일 구매 시작, 11월 6일 탑승 시작\n✅ 종이 티켓 없이 스마트폰 앱으로 간편하게!\n\n오사카, 교토, 나라, 고베 등 간사이 지역을 3일 동안 알차게 누비세요! 💖\n\n#일본여행 #근철 #간사이여행 #일본교통 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#근철",
-          "#근키철도",
-          "#간사이여행",
-          "#오사카여행",
-          "#교토여행",
-          "#나라여행",
-          "#고베여행",
-          "#일본교통",
-          "#여행정보",
-          "#해외여행",
-          "#디지털패스",
-          "#주말여행",
-          "#플라잉재팬",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "근철 주말 외출 디지털 프리 패스 로고 이미지",
-          "달력에 11월 5일, 6일 표시된 이미지",
-          "스마트폰 화면에 열차 티켓이 보이는 이미지",
-          "간사이 지역 주요 관광지 맵 이미지",
-          "근키 철도 노선도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 간사이 지역 근교 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 정보 공유 및 저장, 여행 계획에 대한 문의 / 이 콘텐츠의 강점: 실질적인 교통비 절감 정보, 특정 지역 집중 정보 제공",
-      "image": {
-        "keyword": "Kintetsu Railway, Kansai Japan, digital train pass, travel discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Kintetsu-Railway,-Kansai-Japan,-digital-train-pass,-travel-discount",
-        "pexels_url": "https://www.pexels.com/search/Kintetsu%20Railway,%20Kansai%20Japan,%20digital%20train%20pass,%20travel%20discount/"
       }
     }
   ]
