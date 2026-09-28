@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-27T05:09:42.898934",
+  "last_updated": "2026-09-28T01:39:52.854870",
   "plans": [
+    {
+      "id": "plan_ad8e68d9",
+      "created_at": "2026-09-28T01:39:50.854687",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】“よりみち”したくなる東大阪へ。JAL社員が石切・布施をご紹介",
+        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2142670.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 직원이 추천하는 동오사카의 숨겨진 매력을 파헤쳐 보세요!"
+      },
+      "content": {
+        "thumbnail_title": "JAL 직원이 알려주는 숨은 동오사카 🇯🇵",
+        "cards": [
+          {
+            "title": "JAL 지역 활성화",
+            "content": "JAL은 2020년 8월부터 객실 승무원이 지역에 이주하여 활동하는 'JAL 고향 앰버서더'를, 2020년 12월부터는 운항하며 지역 활성화에 기여하는 'JAL 고향 응원대'를 운영 중입니다.",
+            "alt_text": "JAL 승무원이 지역 주민과 함께 웃고 있는 모습"
+          },
+          {
+            "title": "동오사카 '요리미치'",
+            "content": "이번 JAL 직원 추천은 '잠시 들러 가고 싶어지는' 동오사카의 매력에 초점을 맞췄습니다. 특히 이시키리(石切)와 후세(布施) 지역을 중심으로 소개합니다.",
+            "alt_text": "동오사카의 아름다운 풍경 사진"
+          },
+          {
+            "title": "지역 특색 살린 상품 개발",
+            "content": "지역에 대한 애정을 바탕으로, JAL 객실 승무원들은 자신들의 경험을 살려 지역 특색을 살린 상품 개발 및 지역 문제 해결에 기여하고 있습니다.",
+            "alt_text": "지역 특산품을 들고 있는 JAL 승무원"
+          },
+          {
+            "title": "실제 경험 공유",
+            "content": "JAL 직원들이 직접 경험하고 느낀 동오사카의 숨겨진 매력을 생생하게 전달하여, 여행자들에게 새로운 여행 영감을 선사합니다.",
+            "alt_text": "JAL 직원이 추천하는 동오사카 맛집/명소 사진"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "JAL 직원이 추천하는 동오사카의 숨겨진 명소와 맛집 정보를 놓치지 마세요! 평범한 여행과는 다른 특별한 경험을 할 수 있습니다.",
+            "alt_text": "동오사카 지도에 표시된 추천 장소"
+          }
+        ],
+        "caption": "✈️ JAL 직원들이 추천하는 숨겨진 동오사카 여행지! ✈️\n\n일본 여행, 늘 가던 곳 말고 특별한 곳을 찾고 있다면 주목! JAL에서 지역 활성화를 위해 운영 중인 'JAL 고향 앰버서더'와 'JAL 고향 응원대'가 추천하는 동오사카의 매력에 빠져보세요!\n\n이시키리와 후세 지역의 숨겨진 명소, 특별한 상품 개발 이야기까지! JAL 직원의 생생한 경험을 통해 동오사카의 새로운 매력을 발견할 기회! ✨\n\n#동오사카 #JAL #일본여행정보 #숨은명소 #지역활성화 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#동오사카",
+          "#오사카여행",
+          "#일본숨은명소",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#일본현지",
+          "#JAL직원추천",
+          "#지역활성화",
+          "#일본축제",
+          "#일본쇼핑",
+          "#일본맛집",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "JAL 승무원이 지역 주민과 함께 웃고 있는 모습",
+          "동오사카의 아름다운 풍경 사진",
+          "지역 특산품을 들고 있는 JAL 승무원",
+          "JAL 직원이 추천하는 동오사카 맛집/명소 사진",
+          "동오사카 지도에 표시된 추천 장소"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 새로운 여행지에 대한 관심 증가, JAL 항공편 이용 고려 / 이 콘텐츠의 강점: 항공사 직원이라는 신뢰성 있는 출처, 잘 알려지지 않은 지역 소개로 차별화",
+      "image": {
+        "keyword": "JAL staff recommending hidden gems in Higashiosaka",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-staff-recommending-hidden-gems-in-Higashiosaka",
+        "pexels_url": "https://www.pexels.com/search/JAL%20staff%20recommending%20hidden%20gems%20in%20Higashiosaka/"
+      }
+    },
+    {
+      "id": "plan_4d816515",
+      "created_at": "2026-09-28T01:39:41.948121",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "セブンで今日発売「ハローキティ」抱っこぬいリップチャーム/もこもこ巾着/大容量コスメポーチ。BRILMY新作コラボ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143565.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "세븐일레븐에서만 만나는 한정판! 귀여운 키티템 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💖세븐일레븐 X 키티💖",
+        "cards": [
+          {
+            "title": "9월 28일 출시!",
+            "content": "일본 전국 서점, 온라인 쇼핑몰, 그리고 세븐일레븐에서 BRILMY와 헬로키티의 신규 콜라보 10종이 9월 28일에 출시됩니다. 놓치지 마세요!",
+            "alt_text": "헬로키티와 BRILMY 콜라보 신상품 출시 안내"
+          },
+          {
+            "title": "귀여움 가득!",
+            "content": "이번 콜라보에는 헬로키티 얼굴 모양의 립 참, 복슬복슬한 털의 파우치, 넉넉한 수납이 가능한 코스메틱 파우치 등 다양한 아이템이 포함되어 있습니다.",
+            "alt_text": "헬로키티 립 참, 파우치 등 콜라보 상품 이미지"
+          },
+          {
+            "title": "세븐일레븐에서 득템!",
+            "content": "특히, 일부 품목은 오직 세븐일레븐에서만 만나볼 수 있는 한정판으로 출시됩니다. 일본 여행 중이라면 꼭 들러보세요!",
+            "alt_text": "세븐일레븐 매장 이미지"
+          },
+          {
+            "title": "선물로도 딱!",
+            "content": "귀여운 디자인과 실용성을 겸비한 이번 콜라보 아이템들은 일본 여행 기념품이나 소중한 사람에게 선물하기에도 좋습니다.",
+            "alt_text": "헬로키티 콜라보 상품으로 꾸며진 선물 세트 이미지"
+          },
+          {
+            "title": "구매 팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 상품이 있다면 서둘러 구매하시는 것을 추천합니다. 방문 전 세븐일레븐 앱 등으로 재고 확인은 어렵습니다.",
+            "alt_text": "쇼핑백을 들고 있는 사람의 발 이미지"
+          }
+        ],
+        "caption": "일본 세븐일레븐에서만 만나는 헬로키티 신상💖\n9월 28일 출시된 BRILMY와 헬로키티의 콜라보 10종!\n립 참, 파우치 등 귀여움 가득한 아이템들을 득템할 기회!\n일본 여행 중이라면 세븐일레븐 꼭 들러보세요! 🛍️\n\n#일본세븐일레븐 #헬로키티 #BRILMY #일본쇼핑 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#세븐일레븐",
+          "#헬로키티",
+          "#키티템",
+          "#일본기념품",
+          "#일본한정",
+          "#BRILMY",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본쇼핑리스트",
+          "#득템",
+          "#해외여행",
+          "#일본직구"
+        ],
+        "alt_texts": [
+          "헬로키티와 BRILMY 콜라보 신상품 출시 안내",
+          "헬로키티 립 참, 파우치 등 콜라보 상품 이미지",
+          "세븐일레븐 매장 이미지",
+          "헬로키티 콜라보 상품으로 꾸며진 선물 세트 이미지",
+          "쇼핑백을 들고 있는 사람의 발 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 20-30대 여성 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 상품 구매 문의, 일본 여행 계획 관련 질문 / 이 콘텐츠의 강점: 국내에서 구할 수 없는 한정판 정보, 귀여운 캐릭터를 활용한 높은 관심 유도",
+      "image": {
+        "keyword": "Hello Kitty BRILMY collaboration Seven Eleven Japan exclusive limited edition pouch makeup",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-BRILMY-collaboration-Seven-Eleven-Japan-exclusive-limited-edition-pouch-makeup",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20BRILMY%20collaboration%20Seven%20Eleven%20Japan%20exclusive%20limited%20edition%20pouch%20makeup/"
+      }
+    },
     {
       "id": "plan_1ff37f8a",
       "created_at": "2026-09-27T05:09:40.898758",
@@ -923,160 +1077,6 @@
         "keyword": "Kintetsu Railway, Kansai Japan, digital train pass, travel discount",
         "unsplash_url": "https://unsplash.com/s/photos/Kintetsu-Railway,-Kansai-Japan,-digital-train-pass,-travel-discount",
         "pexels_url": "https://www.pexels.com/search/Kintetsu%20Railway,%20Kansai%20Japan,%20digital%20train%20pass,%20travel%20discount/"
-      }
-    },
-    {
-      "id": "plan_51e875b8",
-      "created_at": "2026-09-24T04:34:56.238316",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、宮崎・大分の「九州ふっこう応援割」9月25日予約スタート。佐賀もこのあと12時から受付開始",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142732.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 소도시 여행 지원금, 놓치면 후회할 절호의 기회!"
-      },
-      "content": {
-        "thumbnail_title": " Kyushu 료칸 1박 10만원! 💸",
-        "cards": [
-          {
-            "title": "九州 지원금",
-            "content": "일본 정부가 지역 관광 활성화를 위해 '九州 후코오응원할인'을 제공합니다. 이번 지원금은 숙박비 일부를 할인해주는 방식입니다.",
-            "alt_text": "규슈 지역 관광 활성화를 위한 지원금 안내 이미지"
-          },
-          {
-            "title": "예약 시작",
-            "content": "오이타현과 미야자키현은 9월 25일 오전 10시부터 예약이 시작됩니다. 사가현은 같은 날 오전 12시부터 접수가 시작됩니다.",
-            "alt_text": "규슈 지역 지원금 예약 시작 날짜와 시간 안내"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "이 프로모션을 통해 료칸이나 호텔 숙박 시, 1박당 최대 10만원까지 할인받을 수 있습니다. 2박 이상 숙박 시 혜택이 더욱 커집니다.",
-            "alt_text": "규슈 지원금으로 료칸 숙박 시 할인 금액 안내"
-          },
-          {
-            "title": "주요 도시",
-            "content": "이번 지원금 대상 지역은 오이타, 미야자키, 사가현입니다. 온천, 자연 등 규슈의 매력을 저렴하게 즐길 기회입니다.",
-            "alt_text": "규슈 지역 지원금 대상 지역 지도 표시"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인 혜택은 조기 소진될 수 있으니, 예약 시작 시간에 맞춰 서두르는 것이 좋습니다. 료칸 예약 시 '九州ふっこう応援割' 적용 여부를 꼭 확인하세요!",
-            "alt_text": "규슈 지원금 료칸 예약 시 팁 안내"
-          }
-        ],
-        "caption": "일본 규슈 여행 계획 중이라면 주목! 👀\n오이타, 미야자키, 사가현에서 최대 10만원 할인받고 료칸/호텔 예약하세요! 💸\n\n9월 25일부터 예약 시작! 놓치면 후회할 절호의 찬스, 지금 바로 확인해보세요! ✨\n\n#일본여행 #규슈여행 #오이타 #미야자키 #사가 #료칸 #일본숙소 #여행지원금 #일본할인 #해외여행 #플라잉재팬 #가성비여행 #일본소도시 #여행정보 #놓치면후회",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#일본숙소",
-          "#료칸",
-          "#여행지원금",
-          "#일본할인",
-          "#오이타",
-          "#미야자키",
-          "#사가",
-          "#가성비여행",
-          "#일본소도시",
-          "#해외여행",
-          "#여행정보",
-          "#놓치면후회"
-        ],
-        "alt_texts": [
-          "규슈 지역 관광 활성화를 위한 지원금 안내 이미지",
-          "규슈 지역 지원금 예약 시작 날짜와 시간 안내",
-          "규슈 지원금으로 료칸 숙박 시 할인 금액 안내",
-          "규슈 지역 지원금 대상 지역 지도 표시",
-          "규슈 지원금 료칸 예약 시 팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 여행 예약이 활발한 저녁 시간대 (19시~21시) / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 정보 제공, 시기 적절한 정보 전달",
-      "image": {
-        "keyword": "Kyushu travel discount, Japan ryokan booking, Oita Miyazaki Saga",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-travel-discount,-Japan-ryokan-booking,-Oita-Miyazaki-Saga",
-        "pexels_url": "https://www.pexels.com/search/Kyushu%20travel%20discount,%20Japan%20ryokan%20booking,%20Oita%20Miyazaki%20Saga/"
-      }
-    },
-    {
-      "id": "plan_2d1c28d0",
-      "created_at": "2026-09-24T04:34:50.091458",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "首相官邸のしゃべるトゥンクトゥンクが東京ビッグサイトに初出張！　26日・27日「ツーリズムEXPOジャパン2026」で会える",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2142816.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 여행 박람회에서 만나는 특별한 경험!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 빅사이트 꿀잼 예고!✨",
-        "cards": [
-          {
-            "title": "여행 박람회 개최!",
-            "content": "세계 최대 규모의 여행 이벤트 '투어리즘 엑스포 재팬 2026'이 도쿄 빅사이트에서 9월 24일부터 27일까지 4일간 개최됩니다.",
-            "alt_text": "도쿄 빅사이트 전경 이미지"
-          },
-          {
-            "title": "총 4일간 진행",
-            "content": "여행에 대한 모든 것을 한자리에서 만날 수 있는 이번 행사는 2026년 9월 24일 목요일부터 27일 일요일까지 진행됩니다.",
-            "alt_text": "달력에 표시된 9월 24일부터 27일까지의 날짜 이미지"
-          },
-          {
-            "title": "도쿄 빅사이트에서!",
-            "content": "이번 박람회는 도쿄 만에 위치한 도쿄 빅사이트에서 열리며, 다양한 볼거리와 즐길 거리를 제공할 예정입니다.",
-            "alt_text": "도쿄 빅사이트 건물 외관 이미지"
-          },
-          {
-            "title": "특별 게스트 등장?",
-            "content": "일본 총리 관저의 마스코트 '투웅투웅'이 도쿄 빅사이트에 첫 출장을 온다고 합니다. 귀여운 마스코트를 직접 만날 기회!",
-            "alt_text": "일본 총리 관저 마스코트 '투웅투웅' 캐릭터 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "최신 여행 정보, 숨겨진 명소, 특별 할인 정보까지! 일본 여행을 계획 중이라면 꼭 방문해야 할 필수 이벤트입니다.",
-            "alt_text": "여행 캐리어와 지도, 나침반이 놓인 이미지"
-          }
-        ],
-        "caption": "✈️일본 최대 여행 박람회 '투어리즘 엑스포 재팬 2026'이 도쿄 빅사이트에서 9월 24일부터 27일까지 4일간 개최됩니다! 🇯🇵\n\n총 4일간 진행되는 이번 행사에서는 세계적인 여행 트렌드를 파악하고, 다양한 여행 상품 정보를 얻을 수 있어요.\n\n특히, 일본 총리 관저의 귀여운 마스코트 '투웅투웅'도 만날 수 있다고 하니, 도쿄 여행 계획 중이라면 잊지 마세요!\n\n#일본여행 #도쿄여행 #투어리즘엑스포재팬 #여행박람회 #도쿄빅사이트 #일본이벤트 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#투어리즘엑스포재팬",
-          "#여행박람회",
-          "#도쿄빅사이트",
-          "#일본이벤트",
-          "#여행정보",
-          "#일본축제",
-          "#일본행사",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본정보",
-          "#2026년일본여행"
-        ],
-        "alt_texts": [
-          "도쿄 빅사이트 전경 이미지",
-          "달력에 표시된 9월 24일부터 27일까지의 날짜 이미지",
-          "도쿄 빅사이트 건물 외관 이미지",
-          "일본 총리 관저 마스코트 '투웅투웅' 캐릭터 이미지",
-          "여행 캐리어와 지도, 나침반이 놓인 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 목요일 오후 6시 / 기대 반응: 이벤트 정보에 대한 관심 증폭, 도쿄 여행 계획 시 참고 / 이 콘텐츠의 강점: 일본 최대 규모 여행 이벤트 정보, 귀여운 마스코트 등장 소식으로 흥미 유발",
-      "image": {
-        "keyword": "Tokyo Big Sight, Tourism Expo Japan, Japan travel event, Mascot character",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Big-Sight,-Tourism-Expo-Japan,-Japan-travel-event,-Mascot-character",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Big%20Sight,%20Tourism%20Expo%20Japan,%20Japan%20travel%20event,%20Mascot%20character/"
       }
     }
   ]
