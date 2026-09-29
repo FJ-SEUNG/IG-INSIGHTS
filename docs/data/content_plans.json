@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-28T05:12:30.295606",
+  "last_updated": "2026-09-29T02:34:59.287711",
   "plans": [
+    {
+      "id": "plan_5e911c66",
+      "created_at": "2026-09-29T02:34:57.287438",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東横イン、年末年始の宿泊最大15％オフ「歳末・新春セール」。帰省や旅行に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143849.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연말연시 일본 숙소 최대 15% 할인 찬스! 도요코인 특가 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🏨연말연시 숙박 15% OFF!",
+        "cards": [
+          {
+            "title": "도요코인 세일",
+            "content": "일본 전역 도요코인 호텔에서 '연말연시 숙박 최대 15% 할인' 프로모션을 진행합니다. 2023년 12월 29일부터 2024년 1월 3일까지의 숙박이 대상입니다.",
+            "alt_text": "일본 도요코인 호텔 로고 이미지"
+          },
+          {
+            "title": "할인율 확인",
+            "content": "호텔별, 기간별로 할인율이 상이할 수 있으니 예약 시 상세 내용을 꼭 확인하세요. 최대 15% 할인이 적용됩니다.",
+            "alt_text": "할인율이 표시된 호텔 예약 페이지 이미지"
+          },
+          {
+            "title": "예약 기간",
+            "content": "프로모션 기간은 2023년 12월 25일부터 시작됩니다. 연말연시 일본 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다.",
+            "alt_text": "달력에 표시된 예약 시작일 이미지"
+          },
+          {
+            "title": "여행 계획 꿀팁",
+            "content": "연말연시 일본은 항공권과 숙소 가격이 많이 오르는 시기입니다. 이번 도요코인 할인을 활용하면 경비를 절약할 수 있습니다.",
+            "alt_text": "일본 지도 위에 비행기 아이콘이 있는 이미지"
+          },
+          {
+            "title": "꼭 확인하세요!",
+            "content": "할인 적용 대상 객실 및 기간은 한정적일 수 있습니다. 도요코인 공식 홈페이지에서 정확한 프로모션 내용을 반드시 확인 후 예약하세요.",
+            "alt_text": "확인 버튼이 있는 호텔 예약 사이트 화면 이미지"
+          }
+        ],
+        "caption": "🇯🇵연말연시 일본 여행, 숙소 걱정 끝! \n전국 도요코인 호텔에서 최대 15% 할인받고 알뜰하게 여행하세요! \n\n✅ 프로모션 기간: 2023년 12월 29일 ~ 2024년 1월 3일 숙박\n✅ 예약 시작: 2023년 12월 25일\n\n연말연시 일본 숙소, 미리 예약하고 할인 혜택 챙겨가세요! \n\n#일본여행 #플라잉재팬 #도요코인 #일본숙소 #연말여행 #신년여행 #일본호텔 #가성비숙소 #일본할인 #겨울여행 #일본자유여행 #여행정보 #꿀팁 #할인정보 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도요코인",
+          "#일본숙소",
+          "#연말여행",
+          "#신년여행",
+          "#일본호텔",
+          "#가성비숙소",
+          "#일본할인",
+          "#겨울여행",
+          "#일본자유여행",
+          "#여행정보",
+          "#꿀팁",
+          "#할인정보",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "일본 도요코인 호텔 로고 이미지",
+          "할인율이 표시된 호텔 예약 페이지 이미지",
+          "달력에 표시된 예약 시작일 이미지",
+          "일본 지도 위에 비행기 아이콘이 있는 이미지",
+          "확인 버튼이 있는 호텔 예약 사이트 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 즉각적인 예약 문의 및 정보 공유 / 이 콘텐츠의 강점: 실질적인 숙박비 할인 정보 제공으로 높은 관심 유도",
+      "image": {
+        "keyword": "Toyoko Inn, Japan, discount, hotel, travel, winter, New Year",
+        "unsplash_url": "https://unsplash.com/s/photos/Toyoko-Inn,-Japan,-discount,-hotel,-travel,-winter,-New-Year",
+        "pexels_url": "https://www.pexels.com/search/Toyoko%20Inn,%20Japan,%20discount,%20hotel,%20travel,%20winter,%20New%20Year/"
+      }
+    },
+    {
+      "id": "plan_e8e4fdaf",
+      "created_at": "2026-09-29T02:34:51.254057",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "熱海ホテルニューアカオ、松茸や伊勢えび、鮑を味わう秋の和食ディナー。日帰りプランで温泉も利用可",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2143884.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을 제철 별미, 마츠타케 버섯, 이세에비, 전복을 맛볼 수 있는 일본 호텔 디너 & 온천 플랜!"
+      },
+      "content": {
+        "thumbnail_title": "🍁가을 만끽! ✨일본 호텔 뷔페",
+        "cards": [
+          {
+            "title": "가을 만찬",
+            "content": "호텔 뉴 아카오에서 가을 제철 식재료를 활용한 특별한 일식 디너를 선보입니다. 마츠타케 버섯, 이세에비(바다 가재), 아와비(전복) 등 귀한 식재료를 맛볼 수 있습니다.",
+            "alt_text": "호텔 뷔페에서 제공되는 신선한 해산물과 버섯 요리"
+          },
+          {
+            "title": "디너 플랜",
+            "content": "해당 디너 플랜은 숙박과 함께 제공되며, 가을의 풍미를 만끽할 수 있는 코스 요리로 구성됩니다. 잊지 못할 미식 경험을 선사할 예정입니다.",
+            "alt_text": "정갈하게 차려진 일식 코스 요리"
+          },
+          {
+            "title": "온천도 즐겨요!",
+            "content": "당일치기 온천 플랜도 이용 가능합니다. 맛있는 저녁 식사 후, 따뜻한 온천에서 여행의 피로를 풀 수 있는 기회입니다.",
+            "alt_text": "일본 전통 온천 시설 전경"
+          },
+          {
+            "title": "숙소 정보",
+            "content": "호텔 뉴 아카오 (熱海ホテルニューアカオ)는 시즈오카현 아타미시에 위치하고 있습니다. (주소: 静岡県熱海市熱海1993-65)",
+            "alt_text": "호텔 뉴 아카오 외관"
+          },
+          {
+            "title": "여행 팁!",
+            "content": "가을 시즌 한정 메뉴이므로, 방문 전 호텔 공식 홈페이지 또는 예약 사이트를 통해 예약 가능 여부 및 상세 내용을 꼭 확인하세요. 특히 주말이나 공휴일은 서둘러 예약하는 것을 추천합니다.",
+            "alt_text": "여행 계획을 세우는 사람의 모습"
+          }
+        ],
+        "caption": "🍁가을 일본 여행, 놓칠 수 없는 미식 찬스! \n시즈오카 아타미 호텔 뉴 아카오에서 마츠타케 버섯, 이세에비, 전복 등 제철 식재료로 만든 특별한 일식 디너를 맛보세요! ✨\n숙박과 함께 즐기거나, 당일치기 온천 플랜으로 피로까지 싹~ 풀고 오세요! ♨️\n\n#일본호텔 #아타미 #미식여행 #가을여행 #호텔뉴아카오 #일식맛집 #온천여행 #일본온천 #가을별미 #여행스타그램 #플라잉재팬 #일본가볼만한곳 #여행정보 #일본여행 #여행에미치다",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#아타미",
+          "#호텔뉴아카오",
+          "#일본맛집",
+          "#가을여행",
+          "#일식",
+          "#온천",
+          "#일본온천",
+          "#미식여행",
+          "#여행정보",
+          "#일본숙소",
+          "#가을별미",
+          "#여행스타그램",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "호텔 뷔페에서 제공되는 신선한 해산물과 버섯 요리",
+          "정갈하게 차려진 일식 코스 요리",
+          "일본 전통 온천 시설 전경",
+          "호텔 뉴 아카오 외관",
+          "여행 계획을 세우는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 가을 시즌 일본 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 7시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보의 유용성에 대한 긍정적인 댓글 및 저장, 문의 / 이 콘텐츠의 강점: 시즈오카 아타미라는 비교적 덜 알려진 지역의 특별한 미식 경험과 온천을 결합하여 차별화된 정보 제공",
+      "image": {
+        "keyword": "Japanese hotel buffet, Matsutake mushroom, Ise ebi, Abalone, Japanese autumn cuisine, Atami hot spring, Japanese hotel exterior",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hotel-buffet,-Matsutake-mushroom,-Ise-ebi,-Abalone,-Japanese-autumn-cuisine,-Atami-hot-spring,-Japanese-hotel-exterior",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20hotel%20buffet,%20Matsutake%20mushroom,%20Ise%20ebi,%20Abalone,%20Japanese%20autumn%20cuisine,%20Atami%20hot%20spring,%20Japanese%20hotel%20exterior/"
+      }
+    },
     {
       "id": "plan_750c5991",
       "created_at": "2026-09-28T05:12:28.295415",
@@ -923,160 +1077,6 @@
         "keyword": "JAL, A350, tourism expo japan, vr experience, lucky draw, travel event, tokyo big sight, travel fair",
         "unsplash_url": "https://unsplash.com/s/photos/JAL,-A350,-tourism-expo-japan,-vr-experience,-lucky-draw,-travel-event,-tokyo-big-sight,-travel-fair",
         "pexels_url": "https://www.pexels.com/search/JAL,%20A350,%20tourism%20expo%20japan,%20vr%20experience,%20lucky%20draw,%20travel%20event,%20tokyo%20big%20sight,%20travel%20fair/"
-      }
-    },
-    {
-      "id": "plan_78c22c2c",
-      "created_at": "2026-09-25T04:45:33.338952",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "9月のANAにキュン！、国内線ファーストクラスがセール運賃に。海外航空券＋宿泊は最大15万円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143196.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "9월 일본 국내선 퍼스트 클래스 특가 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️9월 ANA 국내선 특가!✈️",
-        "cards": [
-          {
-            "title": "ANA 특가 오픈",
-            "content": "ANA가 9월 29일, 'ANA에 큥!' 캠페인을 통해 일본 국내선 퍼스트 클래스 특가 운임을 공개합니다.",
-            "alt_text": "ANA 항공기 내부 퍼스트 클래스 좌석 이미지"
-          },
-          {
-            "title": "퍼스트 클래스 혜택",
-            "content": "평소 높은 가격 때문에 망설였던 퍼스트 클래스를 합리적인 가격으로 경험할 수 있는 절호의 기회입니다.",
-            "alt_text": "넓고 편안한 퍼스트 클래스 좌석 이미지"
-          },
-          {
-            "title": "국내선 집중",
-            "content": "이번 캠페인은 일본 국내선 노선을 대상으로 하며, 특별한 가격으로 제공될 예정입니다.",
-            "alt_text": "일본 국내 지도와 항공 노선 표시 이미지"
-          },
-          {
-            "title": "해외 항공권+숙박",
-            "content": "더불어 해외 항공권과 숙박을 함께 예약 시 최대 15만 엔 할인 혜택도 제공됩니다.",
-            "alt_text": "해외여행을 상징하는 여행 가방과 지도 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "9월 29일, ANA 공식 홈페이지에서 자세한 내용을 확인하고 일본 여행 계획을 세워보세요. 조기 마감될 수 있습니다.",
-            "alt_text": "달력에 9월 29일 표시된 이미지"
-          }
-        ],
-        "caption": "✈️ 9월, ANA에서 특별한 혜택을 만끽하세요! ✈️\n\nANA가 'ANA에 큥!' 캠페인의 일환으로 9월 29일에 일본 국내선 퍼스트 클래스 특가 운임을 공개합니다. 평소 경험하기 어려웠던 퍼스트 클래스를 합리적인 가격으로 만나볼 수 있는 절호의 기회! 🇯🇵\n\n또한, 해외 항공권과 숙박을 함께 예약하면 최대 15만 엔 할인 혜택까지! 💖\n\n일본 여행을 계획 중이라면, 9월 29일 ANA 공식 홈페이지를 꼭 확인하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#ANA항공",
-          "#일본항공권",
-          "#일본국내선",
-          "#퍼스트클래스",
-          "#특가항공권",
-          "#일본여행정보",
-          "#가을여행",
-          "#9월여행",
-          "#일본",
-          "#여행꿀팁",
-          "#항공권할인",
-          "#ANA에큥"
-        ],
-        "alt_texts": [
-          "ANA 항공기 내부 퍼스트 클래스 좌석 이미지",
-          "넓고 편안한 퍼스트 클래스 좌석 이미지",
-          "일본 국내 지도와 항공 노선 표시 이미지",
-          "해외여행을 상징하는 여행 가방과 지도 이미지",
-          "달력에 9월 29일 표시된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인 정보와 날짜를 제시하여 즉각적인 행동 유도",
-      "image": {
-        "keyword": "ANA, Japan domestic flight, first class, sale, travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA,-Japan-domestic-flight,-first-class,-sale,-travel-deal",
-        "pexels_url": "https://www.pexels.com/search/ANA,%20Japan%20domestic%20flight,%20first%20class,%20sale,%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_a2b388bb",
-      "created_at": "2026-09-25T04:45:27.585841",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーシー、インディ・ジョーンズ・アドベンチャー再開当日の開園前に先行体験会を実施。抽選で25組50名",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143209.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니씨 인기 어트랙션 '인디아나 존스' 재개! 놓치면 후회할 사전 체험 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니씨 인디아나 존스 재개!✨",
-        "cards": [
-          {
-            "title": "재개일",
-            "content": "도쿄 디즈니씨의 인기 어트랙션 '인디아나 존스 어드벤처: 크리스탈 스컬의 마궁'이 11월 30일 재개됩니다.",
-            "alt_text": "디즈니씨 '인디아나 존스 어드벤처: 크리스탈 스컬의 마궁' 재개일 안내"
-          },
-          {
-            "title": "사전 체험",
-            "content": "재개 당일, 개장 전에 25팀 50명을 대상으로 사전 체험회를 진행합니다. 11월 30일 재개 전 특별한 경험을 할 수 있어요.",
-            "alt_text": "디즈니씨 '인디아나 존스' 사전 체험회 안내"
-          },
-          {
-            "title": "참여 방법",
-            "content": "사전 체험회는 추첨을 통해 참여할 수 있습니다. 자세한 참여 방법은 공식 홈페이지를 확인하세요.",
-            "alt_text": "디즈니씨 '인디아나 존스' 사전 체험 응모 안내"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "오랜만에 재개되는 인기 어트랙션인 만큼, 재개 첫날부터 많은 인파가 예상됩니다. 사전 체험 기회를 노려보세요!",
-            "alt_text": "디즈니씨 '인디아나 존스' 재개 기념 특별 이벤트"
-          },
-          {
-            "title": "꿀팁",
-            "content": "사전 체험 기회를 놓쳤다면, 재개 당일 오픈 시간에 맞춰 방문하는 것을 추천합니다. 입장 후 바로 어트랙션으로 달려가세요!",
-            "alt_text": "디즈니씨 '인디아나 존스' 방문 꿀팁"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 도쿄 디즈니씨의 '인디아나 존스 어드벤처: 크리스탈 스컬의 마궁'이 11월 30일 드디어 재개합니다! 🎉 재개 당일, 개장 전 25팀 50명을 대상으로 특별한 사전 체험 기회가 주어지니 서둘러 응모하세요! 🤩\n\n\n#디즈니씨 #인디아나존스 #도쿄여행 #일본여행 #디즈니랜드 #도쿄디즈니씨 #일본축제 #일본이벤트 #여행정보 #플라잉재팬 #일본어트랙션 #디즈니여행 #여행꿀팁 #일본가볼만한곳 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨",
-          "#인디아나존스",
-          "#도쿄여행",
-          "#디즈니랜드",
-          "#일본",
-          "#여행",
-          "#여행정보",
-          "#일본축제",
-          "#일본이벤트",
-          "#디즈니",
-          "#여행꿀팁",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "디즈니씨 '인디아나 존스 어드벤처: 크리스탈 스컬의 마궁' 재개일 안내",
-          "디즈니씨 '인디아나 존스' 사전 체험회 안내",
-          "디즈니씨 '인디아나 존스' 사전 체험 응모 안내",
-          "디즈니씨 '인디아나 존스' 재개 기념 특별 이벤트",
-          "디즈니씨 '인디아나 존스' 방문 꿀팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 8-10시 (퇴근 후 여행 계획 세우는 시간) / 기대 반응: 높은 관심과 참여율, 이벤트 응모 및 방문 계획 공유 / 이 콘텐츠의 강점: 인기 어트랙션 재개 소식과 특별한 체험 기회 제공으로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Tokyo DisneySea Indiana Jones Adventure Crystal Skull's Palace reopening event",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-Indiana-Jones-Adventure-Crystal-Skull's-Palace-reopening-event",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%20Indiana%20Jones%20Adventure%20Crystal%20Skull's%20Palace%20reopening%20event/"
       }
     }
   ]
