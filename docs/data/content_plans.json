@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-09-29T05:34:36.751159",
+  "last_updated": "2026-09-30T02:08:21.623486",
   "plans": [
+    {
+      "id": "plan_6bbe3c16",
+      "created_at": "2026-09-30T02:08:19.623308",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテル京阪 ユニバーサル・タワー、素泊まりプラン63％オフ。天然温泉スパ併設、秋のUSJハロウィーンもお得に満喫！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144251.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "유니버설 스튜디오 재팬 할로윈 시즌, 숙박 할인으로 알차게 즐기자!"
+      },
+      "content": {
+        "thumbnail_title": "✨USJ 할로윈 63% OFF✨",
+        "cards": [
+          {
+            "title": "역대급 할인율",
+            "content": "호텔 쿄세이 유니버설 타워 숙박 플랜이 무려 63% 할인된 가격으로 제공됩니다. 료칸 숙박도 함께 고려해보세요.",
+            "alt_text": "호텔 쿄세이 유니버설 타워 외관"
+          },
+          {
+            "title": "천연 온천 스파",
+            "content": "숙박 시설 내에 마련된 천연 온천 스파에서 여행의 피로를 풀 수 있습니다. 할로윈 시즌 특별 이벤트도 놓치지 마세요.",
+            "alt_text": "호텔 내 온천 스파 시설"
+          },
+          {
+            "title": "USJ 할로윈",
+            "content": "할인된 가격으로 숙박하며 할로윈 시즌의 유니버설 스튜디오 재팬을 더욱 알차게 즐길 수 있습니다.",
+            "alt_text": "유니버설 스튜디오 재팬 할로윈 퍼레이드"
+          },
+          {
+            "title": "슈퍼세일 찬스",
+            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 슈퍼세일' 기간에 맞춰 예약하면 추가 할인 쿠폰 혜택까지 받을 수 있습니다. (10월 1일까지)",
+            "alt_text": "라쿠텐 트래블 슈퍼세일 배너"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "할인율이 높은 만큼 조기 마감될 수 있으니 관심 있다면 서둘러 예약하세요! 쿠폰 적용 가능 여부를 꼭 확인하세요.",
+            "alt_text": "예약하기 버튼 이미지"
+          }
+        ],
+        "caption": "🇯🇵 오사카 USJ 여행 예정이라면 주목! 🇯🇵\n호텔 쿄세이 유니버설 타워 숙박이 무려 63% 할인된 가격으로!\n천연 온천 스파까지 즐길 수 있는 기회 놓치지 마세요.\n라쿠텐 트래블 슈퍼세일 기간 (10월 1일까지)에 예약하고 추가 할인 쿠폰까지 챙기세요! 🤩\n#USJ #오사카여행 #일본숙소",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카",
+          "#유니버설스튜디오재팬",
+          "#USJ",
+          "#할로윈",
+          "#일본숙소",
+          "#호텔할인",
+          "#라쿠텐트래블",
+          "#일본여행정보",
+          "#가을여행",
+          "#일본어디까지가봤니",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "호텔 쿄세이 유니버설 타워 외관",
+          "호텔 내 온천 스파 시설",
+          "유니버설 스튜디오 재팬 할로윈 퍼레이드",
+          "라쿠텐 트래블 슈퍼세일 배너",
+          "예약하기 버튼 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 USJ 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 파격적인 할인율, 시즌성 이슈 결합, 구체적인 정보 제공",
+      "image": {
+        "keyword": "Universal Studios Japan Halloween hotel discount spa",
+        "unsplash_url": "https://unsplash.com/s/photos/Universal-Studios-Japan-Halloween-hotel-discount-spa",
+        "pexels_url": "https://www.pexels.com/search/Universal%20Studios%20Japan%20Halloween%20hotel%20discount%20spa/"
+      }
+    },
+    {
+      "id": "plan_200b3d9f",
+      "created_at": "2026-09-30T02:08:14.664216",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ディズニーストア」ららぽーと富士見に開業！　限定うるぽちゃちゃんなど約1300点をラインアップ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144280.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 디즈니 스토어 쇼핑 찬스! 득템 기회를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니스토어 신규 오픈!✨",
+        "cards": [
+          {
+            "title": "신규 오픈!",
+            "content": "일본 사이타마현 후지미시에 '디즈니스토어 라라포트 후지미점'이 새롭게 문을 열었어요. 쇼핑 계획에 추가 필수!",
+            "alt_text": "디즈니스토어 라라포트 후지미점 외관 사진"
+          },
+          {
+            "title": "약 1300개 상품!",
+            "content": "오픈 기념으로 약 1300개에 달하는 다양한 상품을 만나볼 수 있습니다. 한정판 '우루포챠' 인형도 놓치지 마세요!",
+            "alt_text": "디즈니스토어 인기 상품 진열 모습"
+          },
+          {
+            "title": "위치 정보",
+            "content": "주소는 '사이타마현 후지미시 야마무로 1-1313, 미쓰이 쇼핑파크 라라포트 후지미 1층'입니다.",
+            "alt_text": "디즈니스토어 라라포트 후지미점 지도 캡처"
+          },
+          {
+            "title": "쇼핑 팁!",
+            "content": "여행 중 득템 찬스! 귀여운 디즈니 굿즈로 여행의 추억을 더해보세요.",
+            "alt_text": "디즈니 캐릭터 굿즈 모음 사진"
+          },
+          {
+            "title": "방문 전 체크!",
+            "content": "방문 전 라라포트 후지미점의 영업시간 및 휴무일을 꼭 확인하시고 헛걸음하지 않도록 주의하세요.",
+            "alt_text": "디즈니스토어 매장 내부 안내문 사진"
+          }
+        ],
+        "caption": "✨디즈니 팬 주목!✨ 일본 사이타마현에 새로운 디즈니스토어가 오픈했어요! 약 1300개의 다양한 상품과 한정판 굿즈까지! 💖\n\n📍위치: 사이타마현 후지미시 야마무로 1-1313, 라라포트 후지미 1층\n\n여행 중 쇼핑 계획 있다면, 이곳에서 특별한 추억을 만들어보세요! 🛍️\n\n#디즈니스토어 #라라포트후지미 #일본쇼핑 #디즈니굿즈",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니스토어",
+          "#라라포트후지미",
+          "#일본쇼핑",
+          "#디즈니굿즈",
+          "#도쿄근교",
+          "#사이타마",
+          "#여행정보",
+          "#신규오픈",
+          "#일본쇼핑리스트",
+          "#인싸템",
+          "#여행꿀팁",
+          "#해외여행",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "디즈니스토어 라라포트 후지미점 외관 사진",
+          "디즈니스토어 인기 상품 진열 모습",
+          "디즈니스토어 라라포트 후지미점 지도 캡처",
+          "디즈니 캐릭터 굿즈 모음 사진",
+          "디즈니스토어 매장 내부 안내문 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 디즈니 팬 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 정보, 직접적인 쇼핑 혜택 제공",
+      "image": {
+        "keyword": "Disney Store, LaLaport Fujimi, Saitama, Japan, shopping, merchandise, limited edition, new opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store,-LaLaport-Fujimi,-Saitama,-Japan,-shopping,-merchandise,-limited-edition,-new-opening",
+        "pexels_url": "https://www.pexels.com/search/Disney%20Store,%20LaLaport%20Fujimi,%20Saitama,%20Japan,%20shopping,%20merchandise,%20limited%20edition,%20new%20opening/"
+      }
+    },
     {
       "id": "plan_d70e1102",
       "created_at": "2026-09-29T05:34:34.751005",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese convenience store, limited edition beer, amber ale, Suntory beer can",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-convenience-store,-limited-edition-beer,-amber-ale,-Suntory-beer-can",
         "pexels_url": "https://www.pexels.com/search/Japanese%20convenience%20store,%20limited%20edition%20beer,%20amber%20ale,%20Suntory%20beer%20can/"
-      }
-    },
-    {
-      "id": "plan_cccde30a",
-      "created_at": "2026-09-26T04:46:57.779748",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ツーリズムEXPOジャパン2026」、世界・日本各地の料理が楽しめる売店が出店中",
-        "url": "https://www.traicy.com/posts/20260926382924/",
-        "date": "Fri, 25 Sep 2026 22:15:52 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 전국 맛집을 한 곳에서! 도쿄 빅사이트에서 펼쳐지는 미식 축제!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵일본 전국 맛집 총출동!  foodie fest 😋",
-        "cards": [
-          {
-            "title": "미식 축제 개최",
-            "content": "도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026'에서 세계 각국의 요리와 일본 각 지역의 특별한 음식을 맛볼 수 있는 푸드 트럭과 매대가 운영 중입니다.",
-            "alt_text": "도쿄 빅사이트 전시장 내부에서 음식을 판매하는 다양한 매대와 푸드트럭이 보이는 모습"
-          },
-          {
-            "title": "다양한 메뉴",
-            "content": "이벤트 현장에서는 삿포로의 징기스칸, 오키나와의 타코 라이스, 교토의 말차 디저트 등 일본 각 지역의 유명 음식을 한자리에서 즐길 수 있습니다.",
-            "alt_text": "징기스칸, 타코 라이스, 말차 디저트 등 일본 각 지역의 대표 음식이 먹음직스럽게 진열된 모습"
-          },
-          {
-            "title": "행사 장소",
-            "content": "행사는 도쿄 빅사이트의 동 1, 동 3, 동 7, 동 8 홀 총 4곳에서 진행됩니다. 각 홀마다 다른 테마의 음식을 만나볼 수 있습니다.",
-            "alt_text": "도쿄 빅사이트 건물 외관 전경"
-          },
-          {
-            "title": "방문 팁",
-            "content": "다양한 음식을 맛보기 위해 방문 전, 어떤 음식을 먹고 싶은지 미리 계획하면 더욱 알찬 미식 여행을 즐길 수 있습니다.",
-            "alt_text": "사람들이 음식을 고르며 즐거워하는 모습"
-          },
-          {
-            "title": "주의사항",
-            "content": "현장 방문 시, 인기 있는 메뉴는 조기에 품절될 수 있으니 서둘러 방문하는 것을 추천합니다. 또한, 결제는 현금 또는 특정 카드만 가능한 경우도 있으니 미리 확인하세요.",
-            "alt_text": "인기 있는 음식을 구매하기 위해 줄 서 있는 사람들"
-          }
-        ],
-        "caption": "일본 여행 중 놓칠 수 없는 미식 경험! 🍣🍜🍡\n\n도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026'에서 일본 전국 각지의 맛있는 음식을 한곳에서 만끽하세요!\n\n지금 바로 도쿄로 떠나 맛있는 추억을 만들어 보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본맛집",
-          "#도쿄여행",
-          "#투어리즘EXPO재팬",
-          "#일본음식",
-          "#푸드트럭",
-          "#먹방투어",
-          "#일본축제",
-          "#도쿄빅사이트",
-          "#여행정보",
-          "#일본미식",
-          "#삿포로",
-          "#오키나와",
-          "#교토"
-        ],
-        "alt_texts": [
-          "도쿄 빅사이트 전시장 내부에서 음식을 판매하는 다양한 매대와 푸드트럭이 보이는 모습",
-          "징기스칸, 타코 라이스, 말차 디저트 등 일본 각 지역의 대표 음식이 먹음직스럽게 진열된 모습",
-          "도쿄 빅사이트 건물 외관 전경",
-          "사람들이 음식을 고르며 즐거워하는 모습",
-          "인기 있는 음식을 구매하기 위해 줄 서 있는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 미식가 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 댓글 참여 / 이 콘텐츠의 강점: 일본 전국 맛집 정보를 한눈에 볼 수 있으며, 도쿄 방문 시 꼭 가봐야 할 이벤트 정보 제공",
-      "image": {
-        "keyword": "Japan food festival Tokyo Big Sight",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-food-festival-Tokyo-Big-Sight",
-        "pexels_url": "https://www.pexels.com/search/Japan%20food%20festival%20Tokyo%20Big%20Sight/"
-      }
-    },
-    {
-      "id": "plan_070c56b6",
-      "created_at": "2026-09-26T04:46:52.215664",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "沖縄本島周辺15離島、島名キーホルダーをプレゼント【ツーリズムEXPO2026】",
-        "url": "https://www.traicy.com/posts/20260926382886/",
-        "date": "Fri, 25 Sep 2026 23:45:57 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오키나와 15개 섬의 매력을 담은 특별한 기념품을 받을 수 있는 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️오키나와 15개 섬 굿즈 득템 찬스!✨",
-        "cards": [
-          {
-            "title": "오키나와 15개 섬",
-            "content": "오키나와 관광 컨벤션 뷰로가 오키나와 본섬 주변 15개 섬의 관광 협회와 함께 특별한 이벤트를 진행합니다.",
-            "alt_text": "오키나와 본섬과 주변 15개 섬의 지도"
-          },
-          {
-            "title": "무료 증정!",
-            "content": "참여 시, 15개 섬의 이름이 새겨진 귀여운 키홀더를 선물로 받을 수 있습니다.",
-            "alt_text": "다양한 섬 이름이 적힌 키홀더 이미지"
-          },
-          {
-            "title": "행사 정보",
-            "content": "도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026'에 오키나와 부스가 마련됩니다.",
-            "alt_text": "도쿄 빅사이트 전시장 외부 전경"
-          },
-          {
-            "title": "부스 위치",
-            "content": "동 8홀 S-04 부스에서 참여 가능하며, 오키나와 관광 정보를 얻을 수 있습니다.",
-            "alt_text": "전시장 내부 부스 안내 표지판"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "오키나와 여행 계획 중이라면, 이번 기회를 통해 15개 섬의 매력을 미리 느껴보고 특별한 기념품도 챙겨가세요!",
-            "alt_text": "오키나와 바다와 섬을 배경으로 한 기념품 사진"
-          }
-        ],
-        "caption": "✈️ 오키나와 여행 예정이라면 주목! 🇯🇵\n\n오키나와 본섬 주변 15개 섬의 매력을 담은 섬 이름 키홀더를 무료로 받을 수 있는 특별한 기회가 찾아옵니다! 🤩\n\n도쿄 빅사이트에서 열리는 '투어리즘 EXPO 재팬 2026' 오키나와 부스에서 참여 가능하니, 오키나와 여행을 준비하는 분들은 꼭 방문해보세요! 💙\n\n👇 오키나와 여행의 설렘을 더해 줄 꿀팁과 기념품을 놓치지 마세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오키나와",
-          "#오키나와여행",
-          "#투어리즘EXPO재팬2026",
-          "#오키나와이벤트",
-          "#오키나와기념품",
-          "#일본축제",
-          "#일본행사",
-          "#여행스타그램",
-          "#해외여행",
-          "#일본정보",
-          "#여행꿀팁",
-          "#지금일본",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "오키나와 본섬과 주변 15개 섬의 지도",
-          "다양한 섬 이름이 적힌 키홀더 이미지",
-          "도쿄 빅사이트 전시장 외부 전경",
-          "전시장 내부 부스 안내 표지판",
-          "오키나와 바다와 섬을 배경으로 한 기념품 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 오키나와 여행 예정인 한국인 관광객 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 오키나와 여행에 대한 관심 증폭, 이벤트 참여 의지 상승 / 이 콘텐츠의 강점: 무료 기념품 증정이라는 명확한 혜택 제시, 오키나와 여행의 흥미 유발",
-      "image": {
-        "keyword": "Okinawa islands, souvenir, event, travel expo, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Okinawa-islands,-souvenir,-event,-travel-expo,-Japan",
-        "pexels_url": "https://www.pexels.com/search/Okinawa%20islands,%20souvenir,%20event,%20travel%20expo,%20Japan/"
       }
     }
   ]
