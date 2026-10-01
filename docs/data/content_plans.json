@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-01T02:09:35.733263",
+  "last_updated": "2026-10-01T05:39:16.484911",
   "plans": [
+    {
+      "id": "plan_bd57bbba",
+      "created_at": "2026-10-01T05:39:14.484759",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ZIPAIR、韓国ソウル1万5160円～、ホノルル3万5599円～など「THANKS SALE」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144543.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가성비 최고! 일본 여행 특가 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ZIPAIR 초특가 1만5천원대!",
+        "cards": [
+          {
+            "title": "ZIPAIR 특가",
+            "content": "ZIPAIR에서 'THANKS SALE' 타임 세일을 9월 29일부터 10월 5일까지 진행합니다. 해당 기간 동안 파격적인 가격으로 항공권을 구매할 수 있습니다.",
+            "alt_text": "ZIPAIR 항공권 특가 세일 안내 이미지"
+          },
+          {
+            "title": "서울 노선",
+            "content": "인천 출발 서울 노선은 15,160엔부터 시작하는 놀라운 가격으로 만나볼 수 있습니다. 이른 예약은 필수입니다!",
+            "alt_text": "인천-서울 노선 특가 가격 정보 이미지"
+          },
+          {
+            "title": "다양한 노선",
+            "content": "도쿄 출발 호놀룰루 노선도 35,599엔부터 시작하는 등 다양한 노선에 대한 특가 프로모션이 진행됩니다.",
+            "alt_text": "도쿄-호놀룰루 노선 특가 가격 정보 이미지"
+          },
+          {
+            "title": "놓치지 마세요",
+            "content": "이번 특가 세일은 한정된 기간 동안만 진행되므로, 항공권 구매를 계획하고 있다면 서둘러야 합니다.",
+            "alt_text": "타임 세일 기간 안내 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "세일 기간이 짧으니, 미리 여행 계획을 세우고 ZIPAIR 공식 홈페이지를 주시하며 구매 타이밍을 노리는 것이 좋습니다. 수하물 규정도 미리 확인하세요!",
+            "alt_text": "항공권 구매 팁 이미지"
+          }
+        ],
+        "caption": "일본 여행 꿈꿔왔다면?✈️ ZIPAIR 'THANKS SALE' 역대급 특가 찬스! 🚨\n\n9월 29일 ~ 10월 5일 단 7일간!\n인천-서울 노선 15,160엔부터 시작! 💸\n\n저가 항공으로 더욱 스마트한 일본 여행을 계획해보세요! \n\n#일본여행 #플라잉재팬 #ZIPAIR #항공권특가 #일본항공권 #가성비여행 #여행스타그램 #일본 #항공권 #세일 #특가항공권 #여행정보 #일본가자 #여행준비 #인천출발",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ZIPAIR",
+          "#항공권특가",
+          "#일본항공권",
+          "#가성비여행",
+          "#여행스타그램",
+          "#일본",
+          "#항공권",
+          "#세일",
+          "#특가항공권",
+          "#여행정보",
+          "#일본가자",
+          "#여행준비",
+          "#인천출발"
+        ],
+        "alt_texts": [
+          "ZIPAIR 항공권 특가 세일 안내 이미지",
+          "인천-서울 노선 특가 가격 정보 이미지",
+          "도쿄-호놀룰루 노선 특가 가격 정보 이미지",
+          "타임 세일 기간 안내 이미지",
+          "항공권 구매 팁 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 합리적인 가격으로 일본 여행을 계획하는 20-30대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오전 10-12시 / 기대 반응: 높은 클릭률 및 공유, 항공권 구매 문의 / 이 콘텐츠의 강점: 최신 항공권 특가 정보로 즉각적인 여행 계획 유도 및 높은 정보 전달력",
+      "image": {
+        "keyword": "ZIPAIR, flight sale, Japan travel deal, budget airline, Tokyo, Seoul",
+        "unsplash_url": "https://unsplash.com/s/photos/ZIPAIR,-flight-sale,-Japan-travel-deal,-budget-airline,-Tokyo,-Seoul",
+        "pexels_url": "https://www.pexels.com/search/ZIPAIR,%20flight%20sale,%20Japan%20travel%20deal,%20budget%20airline,%20Tokyo,%20Seoul/"
+      }
+    },
+    {
+      "id": "plan_d2b5a104",
+      "created_at": "2026-10-01T05:39:02.674481",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "第1弾は「セーラームーン」コラボに決定。USJ、「ユニバーサル・クールジャパン 2027」12月2日から",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144503.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 유니버설 스튜디오 재팬에서 펼쳐지는 세일러문 콜라보! 놓치면 후회할 특별한 경험을 미리 만나보세요."
+      },
+      "content": {
+        "thumbnail_title": "✨세일러문 X USJ✨",
+        "cards": [
+          {
+            "title": "✨콜라보 시작!",
+            "content": "2027년 12월 2일부터 유니버설 스튜디오 재팬에서 '유니버설 쿨 재팬 2027'이 순차적으로 개최됩니다. 가장 먼저 '미소녀 전사 세일러문'과의 콜라보레이션이 시작됩니다.",
+            "alt_text": "유니버설 스튜디오 재팬에서 세일러문 테마로 꾸며진 입구 이미지"
+          },
+          {
+            "title": "🗓️기간 안내",
+            "content": "세일러문 콜라보 이벤트는 2027년 12월 2일부터 2028년 4월 5일까지 진행됩니다. 약 4개월간 진행되니 여행 계획에 참고하세요.",
+            "alt_text": "세일러문 콜라보 이벤트 기간을 나타내는 캘린더 이미지"
+          },
+          {
+            "title": "🤩놓치지 마세요!",
+            "content": "세일러문 테마의 특별한 어트랙션, 상품, 먹거리를 만날 수 있습니다. 성인이 된 당신의 어린 시절 추억을 소환할 절호의 찬스!",
+            "alt_text": "세일러문 테마의 USJ 기념품 또는 캐릭터 상품 이미지"
+          },
+          {
+            "title": "🎟️티켓 정보",
+            "content": "USJ 입장권은 미리 구매하는 것이 좋습니다. 특히 인기 이벤트 기간에는 조기 매진될 수 있으니 공식 홈페이지나 제휴 판매처를 확인하세요.",
+            "alt_text": "USJ 입장권 이미지"
+          },
+          {
+            "title": "💡꿀팁",
+            "content": "인기 캐릭터와의 사진 촬영 기회를 놓치지 마세요! 이벤트 기간 한정으로 판매되는 굿즈도 있으니 방문 전 미리 확인하면 좋습니다.",
+            "alt_text": "세일러문 캐릭터와 함께 사진 찍는 관광객 모습"
+          }
+        ],
+        "caption": "🌙세일러문 팬들 주목!🌙\n2027년 12월 2일부터 USJ에서 특별한 세일러문 콜라보가 시작됩니다! 💖\n성인이 된 당신의 추억을 소환할 환상적인 경험을 놓치지 마세요!\n✨이벤트 기간: 2027.12.2 ~ 2028.4.5\n✨장소: 유니버설 스튜디오 재팬\n지금 바로 일본 여행 계획 세우고 USJ에서 잊지 못할 추억을 만들어 보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#USJ",
+          "#유니버설스튜디오재팬",
+          "#세일러문",
+          "#미소녀전사세일러문",
+          "#일본놀거리",
+          "#일본이벤트",
+          "#오사카여행",
+          "#해외여행",
+          "#여행정보",
+          "#2027년",
+          "#일본테마파크",
+          "#애니메이션",
+          "#추억소환"
+        ],
+        "alt_texts": [
+          "유니버설 스튜디오 재팬에서 세일러문 테마로 꾸며진 입구 이미지",
+          "세일러문 콜라보 이벤트 기간을 나타내는 캘린더 이미지",
+          "세일러문 테마의 USJ 기념품 또는 캐릭터 상품 이미지",
+          "USJ 입장권 이미지",
+          "세일러문 캐릭터와 함께 사진 찍는 관광객 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 유니버설 스튜디오 재팬 방문 예정인 세일러문 팬 및 가족 단위 여행객 / 최적 게시 시간: 평일 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 정보 공유, 이벤트 참여 의지 고취 / 이 콘텐츠의 강점: 시기 적절한 이벤트 정보와 구체적인 기간 명시, 한국인에게 인기 있는 테마 활용",
+      "image": {
+        "keyword": "USJ, Sailor Moon, collaboration, Universal Cool Japan, Osaka, theme park, limited event, anime, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/USJ,-Sailor-Moon,-collaboration,-Universal-Cool-Japan,-Osaka,-theme-park,-limited-event,-anime,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/USJ,%20Sailor%20Moon,%20collaboration,%20Universal%20Cool%20Japan,%20Osaka,%20theme%20park,%20limited%20event,%20anime,%20Japan%20travel/"
+      }
+    },
     {
       "id": "plan_ca201afa",
       "created_at": "2026-10-01T02:09:33.733067",
@@ -923,160 +1077,6 @@
         "keyword": "ANA airline ticket discount, Kyushu travel, Saga prefecture, Miyazaki prefecture",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-airline-ticket-discount,-Kyushu-travel,-Saga-prefecture,-Miyazaki-prefecture",
         "pexels_url": "https://www.pexels.com/search/ANA%20airline%20ticket%20discount,%20Kyushu%20travel,%20Saga%20prefecture,%20Miyazaki%20prefecture/"
-      }
-    },
-    {
-      "id": "plan_ad8e68d9",
-      "created_at": "2026-09-28T01:39:50.854687",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】“よりみち”したくなる東大阪へ。JAL社員が石切・布施をご紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2142670.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 직원이 추천하는 동오사카의 숨겨진 매력을 파헤쳐 보세요!"
-      },
-      "content": {
-        "thumbnail_title": "JAL 직원이 알려주는 숨은 동오사카 🇯🇵",
-        "cards": [
-          {
-            "title": "JAL 지역 활성화",
-            "content": "JAL은 2020년 8월부터 객실 승무원이 지역에 이주하여 활동하는 'JAL 고향 앰버서더'를, 2020년 12월부터는 운항하며 지역 활성화에 기여하는 'JAL 고향 응원대'를 운영 중입니다.",
-            "alt_text": "JAL 승무원이 지역 주민과 함께 웃고 있는 모습"
-          },
-          {
-            "title": "동오사카 '요리미치'",
-            "content": "이번 JAL 직원 추천은 '잠시 들러 가고 싶어지는' 동오사카의 매력에 초점을 맞췄습니다. 특히 이시키리(石切)와 후세(布施) 지역을 중심으로 소개합니다.",
-            "alt_text": "동오사카의 아름다운 풍경 사진"
-          },
-          {
-            "title": "지역 특색 살린 상품 개발",
-            "content": "지역에 대한 애정을 바탕으로, JAL 객실 승무원들은 자신들의 경험을 살려 지역 특색을 살린 상품 개발 및 지역 문제 해결에 기여하고 있습니다.",
-            "alt_text": "지역 특산품을 들고 있는 JAL 승무원"
-          },
-          {
-            "title": "실제 경험 공유",
-            "content": "JAL 직원들이 직접 경험하고 느낀 동오사카의 숨겨진 매력을 생생하게 전달하여, 여행자들에게 새로운 여행 영감을 선사합니다.",
-            "alt_text": "JAL 직원이 추천하는 동오사카 맛집/명소 사진"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "JAL 직원이 추천하는 동오사카의 숨겨진 명소와 맛집 정보를 놓치지 마세요! 평범한 여행과는 다른 특별한 경험을 할 수 있습니다.",
-            "alt_text": "동오사카 지도에 표시된 추천 장소"
-          }
-        ],
-        "caption": "✈️ JAL 직원들이 추천하는 숨겨진 동오사카 여행지! ✈️\n\n일본 여행, 늘 가던 곳 말고 특별한 곳을 찾고 있다면 주목! JAL에서 지역 활성화를 위해 운영 중인 'JAL 고향 앰버서더'와 'JAL 고향 응원대'가 추천하는 동오사카의 매력에 빠져보세요!\n\n이시키리와 후세 지역의 숨겨진 명소, 특별한 상품 개발 이야기까지! JAL 직원의 생생한 경험을 통해 동오사카의 새로운 매력을 발견할 기회! ✨\n\n#동오사카 #JAL #일본여행정보 #숨은명소 #지역활성화 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#동오사카",
-          "#오사카여행",
-          "#일본숨은명소",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#일본현지",
-          "#JAL직원추천",
-          "#지역활성화",
-          "#일본축제",
-          "#일본쇼핑",
-          "#일본맛집",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "JAL 승무원이 지역 주민과 함께 웃고 있는 모습",
-          "동오사카의 아름다운 풍경 사진",
-          "지역 특산품을 들고 있는 JAL 승무원",
-          "JAL 직원이 추천하는 동오사카 맛집/명소 사진",
-          "동오사카 지도에 표시된 추천 장소"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 새로운 여행지에 대한 관심 증가, JAL 항공편 이용 고려 / 이 콘텐츠의 강점: 항공사 직원이라는 신뢰성 있는 출처, 잘 알려지지 않은 지역 소개로 차별화",
-      "image": {
-        "keyword": "JAL staff recommending hidden gems in Higashiosaka",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-staff-recommending-hidden-gems-in-Higashiosaka",
-        "pexels_url": "https://www.pexels.com/search/JAL%20staff%20recommending%20hidden%20gems%20in%20Higashiosaka/"
-      }
-    },
-    {
-      "id": "plan_4d816515",
-      "created_at": "2026-09-28T01:39:41.948121",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "セブンで今日発売「ハローキティ」抱っこぬいリップチャーム/もこもこ巾着/大容量コスメポーチ。BRILMY新作コラボ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143565.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "세븐일레븐에서만 만나는 한정판! 귀여운 키티템 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "💖세븐일레븐 X 키티💖",
-        "cards": [
-          {
-            "title": "9월 28일 출시!",
-            "content": "일본 전국 서점, 온라인 쇼핑몰, 그리고 세븐일레븐에서 BRILMY와 헬로키티의 신규 콜라보 10종이 9월 28일에 출시됩니다. 놓치지 마세요!",
-            "alt_text": "헬로키티와 BRILMY 콜라보 신상품 출시 안내"
-          },
-          {
-            "title": "귀여움 가득!",
-            "content": "이번 콜라보에는 헬로키티 얼굴 모양의 립 참, 복슬복슬한 털의 파우치, 넉넉한 수납이 가능한 코스메틱 파우치 등 다양한 아이템이 포함되어 있습니다.",
-            "alt_text": "헬로키티 립 참, 파우치 등 콜라보 상품 이미지"
-          },
-          {
-            "title": "세븐일레븐에서 득템!",
-            "content": "특히, 일부 품목은 오직 세븐일레븐에서만 만나볼 수 있는 한정판으로 출시됩니다. 일본 여행 중이라면 꼭 들러보세요!",
-            "alt_text": "세븐일레븐 매장 이미지"
-          },
-          {
-            "title": "선물로도 딱!",
-            "content": "귀여운 디자인과 실용성을 겸비한 이번 콜라보 아이템들은 일본 여행 기념품이나 소중한 사람에게 선물하기에도 좋습니다.",
-            "alt_text": "헬로키티 콜라보 상품으로 꾸며진 선물 세트 이미지"
-          },
-          {
-            "title": "구매 팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 상품이 있다면 서둘러 구매하시는 것을 추천합니다. 방문 전 세븐일레븐 앱 등으로 재고 확인은 어렵습니다.",
-            "alt_text": "쇼핑백을 들고 있는 사람의 발 이미지"
-          }
-        ],
-        "caption": "일본 세븐일레븐에서만 만나는 헬로키티 신상💖\n9월 28일 출시된 BRILMY와 헬로키티의 콜라보 10종!\n립 참, 파우치 등 귀여움 가득한 아이템들을 득템할 기회!\n일본 여행 중이라면 세븐일레븐 꼭 들러보세요! 🛍️\n\n#일본세븐일레븐 #헬로키티 #BRILMY #일본쇼핑 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#세븐일레븐",
-          "#헬로키티",
-          "#키티템",
-          "#일본기념품",
-          "#일본한정",
-          "#BRILMY",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#일본쇼핑리스트",
-          "#득템",
-          "#해외여행",
-          "#일본직구"
-        ],
-        "alt_texts": [
-          "헬로키티와 BRILMY 콜라보 신상품 출시 안내",
-          "헬로키티 립 참, 파우치 등 콜라보 상품 이미지",
-          "세븐일레븐 매장 이미지",
-          "헬로키티 콜라보 상품으로 꾸며진 선물 세트 이미지",
-          "쇼핑백을 들고 있는 사람의 발 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 쇼핑을 즐기는 20-30대 여성 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 상품 구매 문의, 일본 여행 계획 관련 질문 / 이 콘텐츠의 강점: 국내에서 구할 수 없는 한정판 정보, 귀여운 캐릭터를 활용한 높은 관심 유도",
-      "image": {
-        "keyword": "Hello Kitty BRILMY collaboration Seven Eleven Japan exclusive limited edition pouch makeup",
-        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-BRILMY-collaboration-Seven-Eleven-Japan-exclusive-limited-edition-pouch-makeup",
-        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20BRILMY%20collaboration%20Seven%20Eleven%20Japan%20exclusive%20limited%20edition%20pouch%20makeup/"
       }
     }
   ]
