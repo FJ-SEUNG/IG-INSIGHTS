@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-01T05:39:16.484911",
+  "last_updated": "2026-10-02T02:15:50.801331",
   "plans": [
+    {
+      "id": "plan_95c0c1f2",
+      "created_at": "2026-10-02T02:15:48.801148",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "本日解禁！　東海道新幹線の完全個室「スプリームクラスキャビン」に東京駅から乗ってみた【動画あり】",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144671.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄-오사카 이동 시 편안함과 프라이버시를 최우선으로 생각하는 여행객에게 강력 추천!"
+      },
+      "content": {
+        "thumbnail_title": "✨신상! 신칸센 완벽 개인실✨",
+        "cards": [
+          {
+            "title": "완벽 개인실 등장!",
+            "content": "JR 도카이가 10월 1일부터 도카이도 신칸센에 23년 만에 '스프림 클래스 캐빈'을 도입했어요. 이제 완벽한 개인 공간에서 편안하게 이동할 수 있습니다.",
+            "alt_text": "신칸센 '스프림 클래스 캐빈' 외관 이미지"
+          },
+          {
+            "title": "이동의 품격",
+            "content": "도쿄-신오사카 구간에서 경험할 수 있는 이 특별한 객실은 프라이버시를 중시하는 여행객에게 최고의 선택이 될 거예요. 쾌적한 환경에서 일본 여행을 시작하세요.",
+            "alt_text": "신칸센 '스프림 클래스 캐빈' 내부 모습 이미지"
+          },
+          {
+            "title": "새로운 차원의 편안함",
+            "content": "넓고 안락한 좌석과 함께 개인 공간이 완벽하게 분리되어 있어, 업무나 휴식을 취하기에 최적의 환경을 제공합니다. 장거리 이동도 지루하지 않게!",
+            "alt_text": "신칸센 '스프림 클래스 캐빈' 좌석 이미지"
+          },
+          {
+            "title": "예약 필수!",
+            "content": "스프림 클래스 캐빈은 사전 예약이 필수이며, 정해진 편수로만 운행됩니다. 정확한 운행 날짜와 시간은 JR 도카이 공식 웹사이트에서 확인하세요.",
+            "alt_text": "신칸센 예약 안내 페이지 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "개인실 이용 시, 소음 발생에 주의하고 다른 승객에게 방해가 되지 않도록 매너를 지켜주세요. 또한, 예약 변경 및 취소 규정을 미리 확인하는 것이 좋습니다.",
+            "alt_text": "신칸센 탑승 에티켓 안내 이미지"
+          }
+        ],
+        "caption": "✈️ 한국에서 일본으로 오시는 여행객 주목! ✈️\nJR 도카이에서 23년 만에 선보이는 신칸센 '스프림 클래스 캐빈'이 10월 1일부터 운행 시작했어요!\n완벽한 개인 공간에서 도쿄-오사카 구간 이동을 더욱 편안하고 럭셔리하게 즐겨보세요. ✨\n프라이버시와 쾌적함을 최우선으로 생각한다면, 놓칠 수 없는 기회! 지금 바로 예약하세요! 👇\n",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#스프림클래스",
+          "#개인실",
+          "#도쿄",
+          "#오사카",
+          "#일본교통",
+          "#JR",
+          "#신상",
+          "#여행정보",
+          "#꿀팁",
+          "#일본",
+          "#개인공간",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "신칸센 '스프림 클래스 캐빈' 외관 이미지",
+          "신칸센 '스프림 클래스 캐빈' 내부 모습 이미지",
+          "신칸센 '스프림 클래스 캐빈' 좌석 이미지",
+          "신칸센 예약 안내 페이지 이미지",
+          "신칸센 탑승 에티켓 안내 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 프라이버시와 편안함을 중요시하는 일본 여행객 / 최적 게시 시간: 오후 7시-9시 / 기대 반응: 예약 문의 증가, 정보 공유 활발 / 이 콘텐츠의 강점: 최신 교통 정보, 구체적인 정보 포함, 매력적인 객실 소개",
+      "image": {
+        "keyword": "shinkansen supreme class cabin interior",
+        "unsplash_url": "https://unsplash.com/s/photos/shinkansen-supreme-class-cabin-interior",
+        "pexels_url": "https://www.pexels.com/search/shinkansen%20supreme%20class%20cabin%20interior/"
+      }
+    },
+    {
+      "id": "plan_e832b21e",
+      "created_at": "2026-10-02T02:15:43.306222",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「秋の乗り放題パス」明日から利用対象。JR線の普通列車が3日間乗り放題、青春18きっぷよりもお得",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145001.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JR 보통 열차 무제한 탑승! 가을 일본 여행, 교통비 절약 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "JR 3일 무제한 탑승권 🍁",
+        "cards": [
+          {
+            "title": "가을 한정 패스",
+            "content": "JR에서 '가을의 乗放題パス'를 2026년에도 출시합니다. 10월 3일부터 18일까지 3일간 JR 일반 열차를 무제한으로 이용할 수 있어요.",
+            "alt_text": "가을 느낌이 나는 JR 열차 이미지"
+          },
+          {
+            "title": "이용 기간",
+            "content": "패스 이용 기간은 2024년 10월 3일부터 10월 18일까지입니다. 딱 2주만 이용 가능하니 날짜를 꼭 확인하세요!",
+            "alt_text": "달력에 10월 3일부터 18일까지 표시된 이미지"
+          },
+          {
+            "title": "가격 혜택",
+            "content": "이 패스를 이용하면 3일 동안 JR 일반 열차를 마음껏 탈 수 있어, 꼼꼼하게 계획하면 '청춘 18 티켓'보다 훨씬 이득입니다.",
+            "alt_text": "동전과 함께 있는 JR 패스 이미지"
+          },
+          {
+            "title": "추가 옵션",
+            "content": "홋카이도 지역 여행을 계획 중이라면 '가을의 乗り放題パス 홋카이도 신칸센 옵션권'도 함께 고려해보세요.",
+            "alt_text": "홋카이도 신칸센 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "이 패스로 장거리 이동 시에는 미리 열차 시간표를 확인하는 것이 좋습니다. 특히 주말에는 사람이 많을 수 있으니 여유롭게 출발하세요!",
+            "alt_text": "여행 가방과 함께 기차역 플랫폼을 걷는 사람 이미지"
+          }
+        ],
+        "caption": "🍁 JR 가을 한정! 3일 무제한 탑승권 출시 🍁\n\n일본 가을 여행, 교통비 걱정은 끝! JR에서 10월 3일부터 18일까지 '가을의 乗り放題パス'를 이용할 수 있는 기간 한정 패스를 선보입니다. 3일 동안 JR 일반 열차를 무제한으로 이용하며 일본 곳곳을 누벼보세요! 꼼꼼히 계획하면 '청춘 18 티켓'보다 훨씬 경제적인 선택이 될 수 있습니다. 홋카이도 신칸센 옵션권도 놓치지 마세요! 🚄\n\n#일본여행 #JR패스 #가을여행 #일본교통 #가성비여행 #플라잉재팬 #일본자유여행 #일본기차여행 #가을일본 #여행정보 #일본패스 #알뜰여행 #일본철도 #가을단풍 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR패스",
+          "#가을여행",
+          "#일본교통",
+          "#가성비여행",
+          "#일본자유여행",
+          "#일본기차여행",
+          "#가을일본",
+          "#여행정보",
+          "#일본패스",
+          "#알뜰여행",
+          "#일본철도",
+          "#가을단풍",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "가을 느낌이 나는 JR 열차 이미지",
+          "달력에 10월 3일부터 18일까지 표시된 이미지",
+          "동전과 함께 있는 JR 패스 이미지",
+          "홋카이도 신칸센 이미지",
+          "여행 가방과 함께 기차역 플랫폼을 걷는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 가을 시즌 일본 여행을 계획 중인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 패스 정보에 대한 관심, 예약/이용 방법 문의 증가 / 이 콘텐츠의 강점: 구체적인 이용 기간과 혜택을 명확히 제시하여 실질적인 여행 계획에 도움을 줌",
+      "image": {
+        "keyword": "JR train, autumn, Japan, travel pass, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-train,-autumn,-Japan,-travel-pass,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/JR%20train,%20autumn,%20Japan,%20travel%20pass,%20limited%20time%20offer/"
+      }
+    },
     {
       "id": "plan_bd57bbba",
       "created_at": "2026-10-01T05:39:14.484759",
@@ -923,160 +1077,6 @@
         "keyword": "Japanese hotel buffet, Matsutake mushroom, Ise ebi, Abalone, Japanese autumn cuisine, Atami hot spring, Japanese hotel exterior",
         "unsplash_url": "https://unsplash.com/s/photos/Japanese-hotel-buffet,-Matsutake-mushroom,-Ise-ebi,-Abalone,-Japanese-autumn-cuisine,-Atami-hot-spring,-Japanese-hotel-exterior",
         "pexels_url": "https://www.pexels.com/search/Japanese%20hotel%20buffet,%20Matsutake%20mushroom,%20Ise%20ebi,%20Abalone,%20Japanese%20autumn%20cuisine,%20Atami%20hot%20spring,%20Japanese%20hotel%20exterior/"
-      }
-    },
-    {
-      "id": "plan_750c5991",
-      "created_at": "2026-09-28T05:12:28.295415",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "全線再開・くま川鉄道の真横に「寝台特急はやぶさ」ブルートレインの宿。なぜここに？",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143517.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "실제 침대 특급 열차에서 숙박하는 특별한 경험!"
-      },
-      "content": {
-        "thumbnail_title": "🚂블루트레인에서 하룻밤!🐻",
-        "cards": [
-          {
-            "title": "특별한 숙소",
-            "content": "일본 구마모토현 구마군 다라기초에 위치한 '블루트레인 타라기'는 실제 침대 특급 '하야부사' 객차를 활용한 숙박시설입니다. 2009년 3월까지 도쿄-구마모토 구간을 운행했던 객차를 그대로 사용하고 있습니다.",
-            "alt_text": "실제 침대 특급 '하야부사' 객차로 만들어진 숙소 외관"
-          },
-          {
-            "title": "이유는?",
-            "content": "왜 하필 이곳에 블루트레인 숙소가 생겼을까요? 바로 구마가와 철도 타라기역 바로 옆에 위치하여 접근성이 좋고, 지역 관광 활성화를 위해 기획되었습니다.",
-            "alt_text": "구마가와 철도 타라기역과 숙소가 가까이 있는 모습"
-          },
-          {
-            "title": "객차 정보",
-            "content": "숙박 시설로 활용되는 객차는 과거 '하야부사' 열차에서 사용되었던 실제 객차입니다. 당시의 분위기를 그대로 느낄 수 있도록 보존 및 개조되었습니다.",
-            "alt_text": "블루트레인 객차 내부의 침대와 공간"
-          },
-          {
-            "title": "예약 및 위치",
-            "content": "숙소명은 '블루트레인 타라기'이며, 구마모토현 구마군 다라기초 다라기 1534-2에 위치합니다. 구마가와 철도 타라기역에서 도보로 이동 가능합니다.",
-            "alt_text": "숙소의 정확한 주소와 위치 정보"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "기차 여행을 좋아하는 분이라면 놓칠 수 없는 특별한 경험! 열차 안에서의 하룻밤을 통해 잊지 못할 추억을 만들어 보세요. 다만, 예약은 미리 확인하는 것이 좋습니다.",
-            "alt_text": "블루트레인 숙소에서 즐기는 특별한 밤"
-          }
-        ],
-        "caption": "🚂일본에서 색다른 경험을 원한다면?JR 규슈의 전설적인 침대 특급 '하야부사' 객차에서 하룻밤을 보내세요! 🐻\n\n구마모토현에 위치한 '블루트레인 타라기'는 실제 '하야부사' 객차를 개조한 이색 숙소입니다. 2009년 3월까지 도쿄-구마모토를 달리던 열차가 이제는 여러분의 특별한 숙소가 됩니다. 📍구마모토현 구마군 다라기초 다라기 1534-2 (구마가와 철도 타라기역 인근)\n\n#일본여행 #블루트레인 #하야부사 #이색숙소 #구마모토 #철도여행 #일본숙소 #특별한경험 #플라잉재팬 #일본자유여행 #여행스타그램 #여행정보 #여행필수템 #여행추천 #일본가볼만한곳",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#블루트레인",
-          "#하야부사",
-          "#이색숙소",
-          "#구마모토",
-          "#철도여행",
-          "#일본숙소",
-          "#특별한경험",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#여행정보",
-          "#여행필수템",
-          "#여행추천",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "실제 침대 특급 '하야부사' 객차로 만들어진 숙소 외관",
-          "구마가와 철도 타라기역과 숙소가 가까이 있는 모습",
-          "블루트레인 객차 내부의 침대와 공간",
-          "숙소의 정확한 주소와 위치 정보",
-          "블루트레인 숙소에서 즐기는 특별한 밤"
-        ]
-      },
-      "marketer_analysis": "타겟: 특별한 경험을 추구하는 20-40대 일본 여행객 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 높은 공유율, 댓글 문의 / 이 콘텐츠의 강점: 희소성 있는 이색 숙소 정보, 향수를 자극하는 레트로 감성",
-      "image": {
-        "keyword": "Blue train hotel, Hayabusa sleeper train, Kumamoto unique accommodation, Retro train experience, Japan railway travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Blue-train-hotel,-Hayabusa-sleeper-train,-Kumamoto-unique-accommodation,-Retro-train-experience,-Japan-railway-travel",
-        "pexels_url": "https://www.pexels.com/search/Blue%20train%20hotel,%20Hayabusa%20sleeper%20train,%20Kumamoto%20unique%20accommodation,%20Retro%20train%20experience,%20Japan%20railway%20travel/"
-      }
-    },
-    {
-      "id": "plan_7868b63c",
-      "created_at": "2026-09-28T05:12:22.183883",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA「九州ふっこう応援割」本日販売スタート。航空券＋宿が最大3万円引き、対象は佐賀県・宮崎県",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143728.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 예정이라면 놓치지 마세요! 최대 3만엔 할인 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "✈️규슈 여행 3만엔 할인!",
-        "cards": [
-          {
-            "title": "ANA ✈️할인 시작!",
-            "content": "ANA가 '규슈 부흥 응원 할인' 프로모션을 시작했어요. 9월 28일 오후 2시부터 전용 웹페이지에서 구매 가능합니다.",
-            "alt_text": "ANA 항공권 프로모션 시작 알림"
-          },
-          {
-            "title": "최대 3만엔 할인!",
-            "content": "항공권과 숙박을 함께 예약하면 최대 3만엔까지 할인받을 수 있어요. 규슈 지역 여행 계획 중이라면 꼭 확인하세요!",
-            "alt_text": "할인 금액 최대 3만엔 표시"
-          },
-          {
-            "title": "대상 지역은?",
-            "content": "이번 프로모션은 사가현과 미야자키현을 대상으로 합니다. 두 지역 중 한 곳 또는 두 곳 모두 여행할 계획이라면 혜택을 누릴 수 있습니다.",
-            "alt_text": "사가현, 미야자키현 지도 표시"
-          },
-          {
-            "title": "어떻게 예약하나요?",
-            "content": "ANA 전용 웹페이지에서 '규슈 부흥 응원 할인' 상품을 찾아 예약하시면 됩니다. 지금 바로 확인해 보세요!",
-            "alt_text": "ANA 웹사이트 예약 화면 예시"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "할인 혜택은 수량이 한정되어 있을 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋아요. ANA 공식 홈페이지에서 자세한 내용을 확인하세요.",
-            "alt_text": "시간이 얼마 남지 않았다는 의미의 시계 이미지"
-          }
-        ],
-        "caption": "일본 규슈 여행 예정인 분들 주목! 📣 ANA에서 '규슈 부흥 응원 할인' 프로모션을 시작했어요. 9월 28일 오후 2시부터 항공권+숙박을 최대 3만엔까지 할인받을 수 있답니다! ✈️✨ 사가현, 미야자키현 여행 계획이 있다면 절대 놓치지 마세요! 지금 바로 ANA 전용 웹페이지를 확인하세요! #규슈여행 #ANA할인 #일본여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#사가현",
-          "#미야자키현",
-          "#ANA",
-          "#항공권할인",
-          "#여행할인",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#여행에미치다",
-          "#일본자유여행",
-          "#가을여행",
-          "#겨울여행",
-          "#일본할인"
-        ],
-        "alt_texts": [
-          "ANA 항공권 프로모션 시작 알림",
-          "할인 금액 최대 3만엔 표시",
-          "사가현, 미야자키현 지도 표시",
-          "ANA 웹사이트 예약 화면 예시",
-          "시간이 얼마 남지 않았다는 의미의 시계 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (19시~21시) / 기대 반응: 높은 클릭률 및 예약 전환율 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공으로 여행 비용 절감 효과 기대",
-      "image": {
-        "keyword": "ANA airline ticket discount, Kyushu travel, Saga prefecture, Miyazaki prefecture",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airline-ticket-discount,-Kyushu-travel,-Saga-prefecture,-Miyazaki-prefecture",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airline%20ticket%20discount,%20Kyushu%20travel,%20Saga%20prefecture,%20Miyazaki%20prefecture/"
       }
     }
   ]
