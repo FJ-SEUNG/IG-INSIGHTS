@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-02T02:15:50.801331",
+  "last_updated": "2026-10-02T05:24:23.716337",
   "plans": [
+    {
+      "id": "plan_d3a07b1f",
+      "created_at": "2026-10-02T05:24:21.716167",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "九州産交ツーリズム「九州ふっこう応援割」販売決定。宿泊単体と宿泊付きバスツアーが最大60％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144980.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 여행 경비를 최대 60%까지 절약할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": " Kyushu 60% OFF! ✈️",
+        "cards": [
+          {
+            "title": "九州 여행 지원!",
+            "content": "일본 규슈 지역에서 '규슈 부흥 응원 할인' 판매가 결정되었습니다. 숙박 단독 상품과 숙박 포함 버스 투어 상품을 최대 60% 할인된 가격으로 만나보세요.",
+            "alt_text": "규슈 지역 여행 지원 할인 정보"
+          },
+          {
+            "title": "할인율 60%!",
+            "content": "이번 지원 사업으로 숙박 단체 상품과 숙박이 포함된 버스 투어 상품을 파격적인 할인가에 이용할 수 있습니다. 알뜰하게 규슈 여행을 계획할 기회입니다.",
+            "alt_text": "최대 60% 할인 혜택"
+          },
+          {
+            "title": "판매 결정!",
+            "content": "큐슈 산코 투어리즘에서 '규슈 부흥 응원 할인' 판매를 결정했습니다. 자세한 내용은 특설 사이트에서 확인하실 수 있습니다.",
+            "alt_text": "큐슈 산코 투어리즘 공식 발표"
+          },
+          {
+            "title": "여행 경비 절약!",
+            "content": "숙박비와 교통비까지 포함된 버스 투어 상품을 할인받아 이용하면, 규슈 지역 여행 경비를 크게 절약할 수 있습니다. 놓치지 마세요!",
+            "alt_text": "여행 경비 절약 꿀팁"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "한정된 기간 동안 진행되는 특별 할인 프로모션이니, 규슈 여행을 계획 중이라면 지금 바로 큐슈 산코 투어리즘 특설 사이트를 확인하고 예약하세요!",
+            "alt_text": "특별 프로모션 정보"
+          }
+        ],
+        "caption": "✈️ 일본 규슈 여행 계획 중이신가요? ✈️\n\n'규슈 부흥 응원 할인' 프로모션으로 숙박 단독 상품부터 숙박 포함 버스 투어까지 최대 60% 할인 혜택을 받을 수 있어요! 🥳\n\n알뜰하게 규슈의 매력을 만끽할 절호의 찬스! 💖\n\n지금 바로 큐슈 산코 투어리즘 특설 사이트에서 자세한 내용을 확인하고 예약하세요! 👇\n\n#일본여행 #규슈여행 #규슈부흥응원할인 #큐슈산코투어리즘 #여행할인 #일본여행꿀팁 #해외여행 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#규슈",
+          "#일본할인",
+          "#여행스타그램",
+          "#일본여행정보",
+          "#일본자유여행",
+          "#일본패키지여행",
+          "#큐슈산코투어리즘",
+          "#여행팁",
+          "#여행꿀팁",
+          "#일본축제",
+          "#일본쇼핑",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "규슈 지역 여행 지원 할인 정보",
+          "최대 60% 할인 혜택",
+          "큐슈 산코 투어리즘 공식 발표",
+          "여행 경비 절약 꿀팁",
+          "특별 프로모션 정보"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 할인율과 구체적인 할인 정보 제공",
+      "image": {
+        "keyword": "Kyushu travel discount, Japan tourism promotion, Kyushu transportation offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-travel-discount,-Japan-tourism-promotion,-Kyushu-transportation-offer",
+        "pexels_url": "https://www.pexels.com/search/Kyushu%20travel%20discount,%20Japan%20tourism%20promotion,%20Kyushu%20transportation%20offer/"
+      }
+    },
+    {
+      "id": "plan_07dbc3a0",
+      "created_at": "2026-10-02T05:24:15.697143",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】京都駅「山椒が香る ゆば」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2144953.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토역에서만 맛볼 수 있는 특별한 유바 도시락!"
+      },
+      "content": {
+        "thumbnail_title": "🍱 교토역 한정! 95년 전통 유바 도시락 💖",
+        "cards": [
+          {
+            "title": "특별한 유바 도시락",
+            "content": "교토역에서 전국적으로도 보기 드문 유바를 메인으로 한 '산초 향이 나는 유바' 도시락을 만나보세요. 95년 전통의 노무라 츠쿠다니가 만든 특별한 맛입니다.",
+            "alt_text": "교토역에서 판매하는 '산초 향이 나는 유바' 도시락 이미지"
+          },
+          {
+            "title": "교토 대표 식재료",
+            "content": "유바는 오랜 역사를 지닌 교토 요리에서 빼놓을 수 없는 대표적인 식재료입니다. 교토의 정갈한 맛을 도시락으로 즐겨보세요.",
+            "alt_text": "신선한 유바 재료 이미지"
+          },
+          {
+            "title": "95년 전통의 맛",
+            "content": "교토 니시키 시장에서 작은 반찬 가게로 시작한 노무라 츠쿠다니가 정성껏 만든 도시락입니다. 전통과 정성이 담긴 맛을 느껴보세요.",
+            "alt_text": "전통적인 일본 반찬 가게 이미지"
+          },
+          {
+            "title": "교토역에서만",
+            "content": "다른 곳에서는 쉽게 찾아보기 힘든 유바 중심의 도시락으로, 교토 여행의 특별한 추억을 더해줄 것입니다.",
+            "alt_text": "활기찬 교토역 모습 이미지"
+          },
+          {
+            "title": "여행 중 꿀팁",
+            "content": "기차 여행이나 호텔에서 간편하게 즐기기 좋습니다. 교토역 방문 시 꼭 찾아보세요!",
+            "alt_text": "기차 안에서 도시락을 먹는 사람 이미지"
+          }
+        ],
+        "caption": "🇯🇵 교토 여행 필수 코스! 💖\n교토역에서만 맛볼 수 있는 특별한 '산초 향이 나는 유바' 도시락을 소개합니다!\n95년 전통의 노무라 츠쿠다니가 정성껏 만든 유바 중심의 도시락으로, 교토의 깊은 맛을 간편하게 즐길 수 있어요.\n기차 안에서, 숙소에서 특별한 식사를 원한다면 놓치지 마세요! ✨\n\n#교토여행 #일본도시락 #교토역맛집 #유바 #일본한정 #가볼만한곳 #여행꿀팁 #플라잉재팬 #일본음식 #여행스타그램 #먹스타그램 #교토맛집 #일본여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#일본도시락",
+          "#교토역",
+          "#유바",
+          "#일본한정",
+          "#여행꿀팁",
+          "#일본음식",
+          "#먹스타그램",
+          "#교토맛집",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#기차여행",
+          "#특별한경험"
+        ],
+        "alt_texts": [
+          "교토역에서 판매하는 '산초 향이 나는 유바' 도시락 이미지",
+          "신선한 유바 재료 이미지",
+          "전통적인 일본 반찬 가게 이미지",
+          "활기찬 교토역 모습 이미지",
+          "기차 안에서 도시락을 먹는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 교토 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 평일 오전 9-11시 또는 오후 6-8시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심, 공유 및 저장 / 이 콘텐츠의 강점: 교토에서만 경험할 수 있는 특별함과 구체적인 정보 제공",
+      "image": {
+        "keyword": "Kyoto station bento, yuba, Japanese cuisine, traditional food, travel food",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyoto-station-bento,-yuba,-Japanese-cuisine,-traditional-food,-travel-food",
+        "pexels_url": "https://www.pexels.com/search/Kyoto%20station%20bento,%20yuba,%20Japanese%20cuisine,%20traditional%20food,%20travel%20food/"
+      }
+    },
     {
       "id": "plan_95c0c1f2",
       "created_at": "2026-10-02T02:15:48.801148",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo islands, Japan travel, free accommodation, jetfoil, campaign, autumn travel, winter travel, scenic view",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-islands,-Japan-travel,-free-accommodation,-jetfoil,-campaign,-autumn-travel,-winter-travel,-scenic-view",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20islands,%20Japan%20travel,%20free%20accommodation,%20jetfoil,%20campaign,%20autumn%20travel,%20winter%20travel,%20scenic%20view/"
-      }
-    },
-    {
-      "id": "plan_5e911c66",
-      "created_at": "2026-09-29T02:34:57.287438",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東横イン、年末年始の宿泊最大15％オフ「歳末・新春セール」。帰省や旅行に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143849.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "연말연시 일본 숙소 최대 15% 할인 찬스! 도요코인 특가 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🏨연말연시 숙박 15% OFF!",
-        "cards": [
-          {
-            "title": "도요코인 세일",
-            "content": "일본 전역 도요코인 호텔에서 '연말연시 숙박 최대 15% 할인' 프로모션을 진행합니다. 2023년 12월 29일부터 2024년 1월 3일까지의 숙박이 대상입니다.",
-            "alt_text": "일본 도요코인 호텔 로고 이미지"
-          },
-          {
-            "title": "할인율 확인",
-            "content": "호텔별, 기간별로 할인율이 상이할 수 있으니 예약 시 상세 내용을 꼭 확인하세요. 최대 15% 할인이 적용됩니다.",
-            "alt_text": "할인율이 표시된 호텔 예약 페이지 이미지"
-          },
-          {
-            "title": "예약 기간",
-            "content": "프로모션 기간은 2023년 12월 25일부터 시작됩니다. 연말연시 일본 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다.",
-            "alt_text": "달력에 표시된 예약 시작일 이미지"
-          },
-          {
-            "title": "여행 계획 꿀팁",
-            "content": "연말연시 일본은 항공권과 숙소 가격이 많이 오르는 시기입니다. 이번 도요코인 할인을 활용하면 경비를 절약할 수 있습니다.",
-            "alt_text": "일본 지도 위에 비행기 아이콘이 있는 이미지"
-          },
-          {
-            "title": "꼭 확인하세요!",
-            "content": "할인 적용 대상 객실 및 기간은 한정적일 수 있습니다. 도요코인 공식 홈페이지에서 정확한 프로모션 내용을 반드시 확인 후 예약하세요.",
-            "alt_text": "확인 버튼이 있는 호텔 예약 사이트 화면 이미지"
-          }
-        ],
-        "caption": "🇯🇵연말연시 일본 여행, 숙소 걱정 끝! \n전국 도요코인 호텔에서 최대 15% 할인받고 알뜰하게 여행하세요! \n\n✅ 프로모션 기간: 2023년 12월 29일 ~ 2024년 1월 3일 숙박\n✅ 예약 시작: 2023년 12월 25일\n\n연말연시 일본 숙소, 미리 예약하고 할인 혜택 챙겨가세요! \n\n#일본여행 #플라잉재팬 #도요코인 #일본숙소 #연말여행 #신년여행 #일본호텔 #가성비숙소 #일본할인 #겨울여행 #일본자유여행 #여행정보 #꿀팁 #할인정보 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도요코인",
-          "#일본숙소",
-          "#연말여행",
-          "#신년여행",
-          "#일본호텔",
-          "#가성비숙소",
-          "#일본할인",
-          "#겨울여행",
-          "#일본자유여행",
-          "#여행정보",
-          "#꿀팁",
-          "#할인정보",
-          "#일본여행준비"
-        ],
-        "alt_texts": [
-          "일본 도요코인 호텔 로고 이미지",
-          "할인율이 표시된 호텔 예약 페이지 이미지",
-          "달력에 표시된 예약 시작일 이미지",
-          "일본 지도 위에 비행기 아이콘이 있는 이미지",
-          "확인 버튼이 있는 호텔 예약 사이트 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 즉각적인 예약 문의 및 정보 공유 / 이 콘텐츠의 강점: 실질적인 숙박비 할인 정보 제공으로 높은 관심 유도",
-      "image": {
-        "keyword": "Toyoko Inn, Japan, discount, hotel, travel, winter, New Year",
-        "unsplash_url": "https://unsplash.com/s/photos/Toyoko-Inn,-Japan,-discount,-hotel,-travel,-winter,-New-Year",
-        "pexels_url": "https://www.pexels.com/search/Toyoko%20Inn,%20Japan,%20discount,%20hotel,%20travel,%20winter,%20New%20Year/"
-      }
-    },
-    {
-      "id": "plan_e8e4fdaf",
-      "created_at": "2026-09-29T02:34:51.254057",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "熱海ホテルニューアカオ、松茸や伊勢えび、鮑を味わう秋の和食ディナー。日帰りプランで温泉も利用可",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2143884.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을 제철 별미, 마츠타케 버섯, 이세에비, 전복을 맛볼 수 있는 일본 호텔 디너 & 온천 플랜!"
-      },
-      "content": {
-        "thumbnail_title": "🍁가을 만끽! ✨일본 호텔 뷔페",
-        "cards": [
-          {
-            "title": "가을 만찬",
-            "content": "호텔 뉴 아카오에서 가을 제철 식재료를 활용한 특별한 일식 디너를 선보입니다. 마츠타케 버섯, 이세에비(바다 가재), 아와비(전복) 등 귀한 식재료를 맛볼 수 있습니다.",
-            "alt_text": "호텔 뷔페에서 제공되는 신선한 해산물과 버섯 요리"
-          },
-          {
-            "title": "디너 플랜",
-            "content": "해당 디너 플랜은 숙박과 함께 제공되며, 가을의 풍미를 만끽할 수 있는 코스 요리로 구성됩니다. 잊지 못할 미식 경험을 선사할 예정입니다.",
-            "alt_text": "정갈하게 차려진 일식 코스 요리"
-          },
-          {
-            "title": "온천도 즐겨요!",
-            "content": "당일치기 온천 플랜도 이용 가능합니다. 맛있는 저녁 식사 후, 따뜻한 온천에서 여행의 피로를 풀 수 있는 기회입니다.",
-            "alt_text": "일본 전통 온천 시설 전경"
-          },
-          {
-            "title": "숙소 정보",
-            "content": "호텔 뉴 아카오 (熱海ホテルニューアカオ)는 시즈오카현 아타미시에 위치하고 있습니다. (주소: 静岡県熱海市熱海1993-65)",
-            "alt_text": "호텔 뉴 아카오 외관"
-          },
-          {
-            "title": "여행 팁!",
-            "content": "가을 시즌 한정 메뉴이므로, 방문 전 호텔 공식 홈페이지 또는 예약 사이트를 통해 예약 가능 여부 및 상세 내용을 꼭 확인하세요. 특히 주말이나 공휴일은 서둘러 예약하는 것을 추천합니다.",
-            "alt_text": "여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "🍁가을 일본 여행, 놓칠 수 없는 미식 찬스! \n시즈오카 아타미 호텔 뉴 아카오에서 마츠타케 버섯, 이세에비, 전복 등 제철 식재료로 만든 특별한 일식 디너를 맛보세요! ✨\n숙박과 함께 즐기거나, 당일치기 온천 플랜으로 피로까지 싹~ 풀고 오세요! ♨️\n\n#일본호텔 #아타미 #미식여행 #가을여행 #호텔뉴아카오 #일식맛집 #온천여행 #일본온천 #가을별미 #여행스타그램 #플라잉재팬 #일본가볼만한곳 #여행정보 #일본여행 #여행에미치다",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#아타미",
-          "#호텔뉴아카오",
-          "#일본맛집",
-          "#가을여행",
-          "#일식",
-          "#온천",
-          "#일본온천",
-          "#미식여행",
-          "#여행정보",
-          "#일본숙소",
-          "#가을별미",
-          "#여행스타그램",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "호텔 뷔페에서 제공되는 신선한 해산물과 버섯 요리",
-          "정갈하게 차려진 일식 코스 요리",
-          "일본 전통 온천 시설 전경",
-          "호텔 뉴 아카오 외관",
-          "여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을 시즌 일본 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 7시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보의 유용성에 대한 긍정적인 댓글 및 저장, 문의 / 이 콘텐츠의 강점: 시즈오카 아타미라는 비교적 덜 알려진 지역의 특별한 미식 경험과 온천을 결합하여 차별화된 정보 제공",
-      "image": {
-        "keyword": "Japanese hotel buffet, Matsutake mushroom, Ise ebi, Abalone, Japanese autumn cuisine, Atami hot spring, Japanese hotel exterior",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hotel-buffet,-Matsutake-mushroom,-Ise-ebi,-Abalone,-Japanese-autumn-cuisine,-Atami-hot-spring,-Japanese-hotel-exterior",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20hotel%20buffet,%20Matsutake%20mushroom,%20Ise%20ebi,%20Abalone,%20Japanese%20autumn%20cuisine,%20Atami%20hot%20spring,%20Japanese%20hotel%20exterior/"
       }
     }
   ]
