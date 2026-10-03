@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-03T01:56:55.596568",
+  "last_updated": "2026-10-03T05:07:43.906511",
   "plans": [
+    {
+      "id": "plan_5ef39b6b",
+      "created_at": "2026-10-03T05:07:41.906331",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "この秋オープン「大江戸温泉物語Premium 箕面観光ホテル」1泊2食が最大30％オフに。天空露天風呂と大阪グルメ、ミライ人間洗濯機も楽しめる！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145369.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을 일본 여행, 최대 30% 할인받아 온천 호텔 숙박하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🍁가을 일본 온천 30% 할인!",
+        "cards": [
+          {
+            "title": "가을 여행 특가!",
+            "content": "라쿠텐 트래블 '오텀 세일'에서 일본 전국 대상 호텔/온천 숙박을 최대 30% 할인받으세요. 10월 20일까지 진행됩니다.",
+            "alt_text": "가을 단풍 배경의 일본 온천 호텔 이미지"
+          },
+          {
+            "title": "오사카 신규 오픈!",
+            "content": "새롭게 오픈하는 '오에도 온천 모노가타리 프리미엄 미노 관광 호텔'에서 특별한 경험을 즐겨보세요. 1박 2식 포함 최대 30% 할인 혜택을 받을 수 있습니다.",
+            "alt_text": "오사카 신규 온천 호텔 외관 이미지"
+          },
+          {
+            "title": "특별한 경험!",
+            "content": "천공 노천탕, 오사카 명물 요리, 그리고 '미라이 인간 세탁기'까지! 잊지 못할 추억을 만들어 보세요.",
+            "alt_text": "호텔 내 특별한 시설(미라이 인간 세탁기) 체험 이미지"
+          },
+          {
+            "title": "할인받는 꿀팁!",
+            "content": "라쿠텐 트래블에서 제공하는 여러 쿠폰을 중복 적용하면 최대 30% 할인 혜택을 받을 수 있습니다. 지금 바로 확인하세요!",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "가을 시즌, 최대 30% 할인된 가격으로 일본의 아름다운 온천과 맛있는 음식을 즐길 수 있는 절호의 기회입니다. 10월 20일까지 진행되니 서둘러 예약하세요!",
+            "alt_text": "일본 가을 풍경과 온천 이미지"
+          }
+        ],
+        "caption": "🍁 2023년 가을, 일본 여행 계획 중이신가요? \n\n라쿠텐 트래블 '오텀 세일'에서 최대 30% 할인받고 일본 온천 호텔에서 꿀 같은 휴식을 즐겨보세요! \n\n특히 오사카에 새롭게 오픈하는 '오에도 온천 모노가타리 프리미엄 미노 관광 호텔'은 천공 노천탕, 오사카 미식, 특별한 체험까지 모두 갖추고 있답니다. \n\n10월 20일까지 진행되는 이번 세일, 절대 놓치지 마세요! 🤩\n\n#일본온천 #일본여행 #가을여행 #오사카여행 #라쿠텐트래블 #일본숙소 #할인정보 #여행꿀팁 #일본자유여행 #온천호텔 #일본가볼만한곳 #여행스타그램 #플라잉재팬 #여행정보 #가을일본",
+        "hashtags": [
+          "#일본온천",
+          "#일본여행",
+          "#가을여행",
+          "#오사카여행",
+          "#라쿠텐트래블",
+          "#일본숙소",
+          "#할인정보",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#온천호텔",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#플라잉재팬",
+          "#여행정보",
+          "#가을일본"
+        ],
+        "alt_texts": [
+          "가을 단풍 배경의 일본 온천 호텔 이미지",
+          "오사카 신규 온천 호텔 외관 이미지",
+          "호텔 내 특별한 시설(미라이 인간 세탁기) 체험 이미지",
+          "할인 쿠폰 이미지",
+          "일본 가을 풍경과 온천 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가을 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 6시-8시, 주말 오후 1시-3시 / 기대 반응: 할인 정보에 대한 관심 및 예약 문의 증가, 스크랩 및 공유 활발 / 이 콘텐츠의 강점: 실질적인 할인율과 구체적인 호텔 정보 제공, 시기적절한 가을 시즌 정보",
+      "image": {
+        "keyword": "japan autumn onsen hotel discount osaka",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-autumn-onsen-hotel-discount-osaka",
+        "pexels_url": "https://www.pexels.com/search/japan%20autumn%20onsen%20hotel%20discount%20osaka/"
+      }
+    },
+    {
+      "id": "plan_26e02be8",
+      "created_at": "2026-10-03T05:07:36.586425",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "西鉄旅行「九州ふっこう応援割」2つの観光列車で巡る阿蘇・湯布院ツアーの予約開始。1予約で最大4万円お得",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145375.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 여행 시 최대 4만원까지 할인받을 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "九州 최대 4만원 할인! ✈️",
+        "cards": [
+          {
+            "title": "九州 할인 시작!",
+            "content": "일본 정부의 '규슈 부흥 응원 할인'이 시작됩니다. 10월 2일부터 熊本현 일부 대상 투어 예약 가능하며, 최대 60% 할인 혜택을 받을 수 있습니다.",
+            "alt_text": "규슈 지역 지도와 할인 혜택을 나타내는 이미지"
+          },
+          {
+            "title": "할인율 상세",
+            "content": "熊本, 鹿児島 지역은 최대 60% 할인, 그 외 5개 현은 최대 50% 할인이 적용됩니다.  총 1인당 최대 4만원까지 절약 가능합니다.",
+            "alt_text": "퍼센트 할인율을 보여주는 그래프 이미지"
+          },
+          {
+            "title": "관광열차 특가",
+            "content": "이번 할인 프로모션에는 2개의 인기 관광열차를 이용하는 아소, 유후인 투어도 포함됩니다.  특별한 경험을 저렴하게 즐겨보세요.",
+            "alt_text": "일본의 아름다운 관광열차 사진"
+          },
+          {
+            "title": "예약 방법",
+            "content": "니시테츠 여행에서 해당 프로모션의 상세 내용을 발표했습니다.  특설 사이트를 통해 자세한 정보를 확인하고 예약을 진행하세요.",
+            "alt_text": "웹사이트 예약 화면을 캡처한 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "할인 혜택이 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천합니다.  특히 인기 있는 관광열차 상품은 빠르게 소진될 수 있습니다.",
+            "alt_text": "서둘러 예약하라는 문구와 시계를 나타내는 아이콘"
+          }
+        ],
+        "caption": "✈️ 꿀정보! 일본 규슈 여행 계획 중이라면 주목하세요! ✈️\n\n일본 정부의 '규슈 부흥 응원 할인'으로 최대 4만원까지 할인받고 알찬 여행을 즐길 수 있는 기회입니다! 🤩\n\n熊本, 鹿児島 지역은 무려 최대 60% 할인! 다른 5개 현도 최대 50% 할인 혜택을 제공합니다.\n\n특히, 2개의 인기 관광열차를 이용하는 아소, 유후인 투어 상품도 할인 대상에 포함되어 특별한 경험을 더욱 경제적으로 즐길 수 있어요. 🚂\n\n여행 계획이 있다면 지금 바로 니시테츠 여행 특설 사이트에서 자세한 내용을 확인하고 빠르게 예약하세요! 💨\n\n#규슈여행 #일본할인 #규슈부흥응원할인 #니시테츠여행 #일본여행정보 #가성비여행 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#일본규슈",
+          "#규슈할인",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#일본교통",
+          "#일본관광",
+          "#여행스타그램",
+          "#일본",
+          "#규슈",
+          "#니시테츠",
+          "#부흥할인"
+        ],
+        "alt_texts": [
+          "규슈 지역 지도와 할인 혜택을 나타내는 이미지",
+          "퍼센트 할인율을 보여주는 그래프 이미지",
+          "일본의 아름다운 관광열차 사진",
+          "웹사이트 예약 화면을 캡처한 이미지",
+          "서둘러 예약하라는 문구와 시계를 나타내는 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 금액, 인기 관광 상품 연계로 실질적인 여행 계획에 직접적인 도움을 주는 정보",
+      "image": {
+        "keyword": "Kyushu Japan discount travel train",
+        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-Japan-discount-travel-train",
+        "pexels_url": "https://www.pexels.com/search/Kyushu%20Japan%20discount%20travel%20train/"
+      }
+    },
     {
       "id": "plan_d93e2307",
       "created_at": "2026-10-03T01:56:53.596378",
@@ -923,160 +1077,6 @@
         "keyword": "Fukuoka travel discount, Kyushu tourism campaign, Japan travel deals, limited time offer, travel savings",
         "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-travel-discount,-Kyushu-tourism-campaign,-Japan-travel-deals,-limited-time-offer,-travel-savings",
         "pexels_url": "https://www.pexels.com/search/Fukuoka%20travel%20discount,%20Kyushu%20tourism%20campaign,%20Japan%20travel%20deals,%20limited%20time%20offer,%20travel%20savings/"
-      }
-    },
-    {
-      "id": "plan_6bbe3c16",
-      "created_at": "2026-09-30T02:08:19.623308",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテル京阪 ユニバーサル・タワー、素泊まりプラン63％オフ。天然温泉スパ併設、秋のUSJハロウィーンもお得に満喫！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2144251.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "유니버설 스튜디오 재팬 할로윈 시즌, 숙박 할인으로 알차게 즐기자!"
-      },
-      "content": {
-        "thumbnail_title": "✨USJ 할로윈 63% OFF✨",
-        "cards": [
-          {
-            "title": "역대급 할인율",
-            "content": "호텔 쿄세이 유니버설 타워 숙박 플랜이 무려 63% 할인된 가격으로 제공됩니다. 료칸 숙박도 함께 고려해보세요.",
-            "alt_text": "호텔 쿄세이 유니버설 타워 외관"
-          },
-          {
-            "title": "천연 온천 스파",
-            "content": "숙박 시설 내에 마련된 천연 온천 스파에서 여행의 피로를 풀 수 있습니다. 할로윈 시즌 특별 이벤트도 놓치지 마세요.",
-            "alt_text": "호텔 내 온천 스파 시설"
-          },
-          {
-            "title": "USJ 할로윈",
-            "content": "할인된 가격으로 숙박하며 할로윈 시즌의 유니버설 스튜디오 재팬을 더욱 알차게 즐길 수 있습니다.",
-            "alt_text": "유니버설 스튜디오 재팬 할로윈 퍼레이드"
-          },
-          {
-            "title": "슈퍼세일 찬스",
-            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 슈퍼세일' 기간에 맞춰 예약하면 추가 할인 쿠폰 혜택까지 받을 수 있습니다. (10월 1일까지)",
-            "alt_text": "라쿠텐 트래블 슈퍼세일 배너"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "할인율이 높은 만큼 조기 마감될 수 있으니 관심 있다면 서둘러 예약하세요! 쿠폰 적용 가능 여부를 꼭 확인하세요.",
-            "alt_text": "예약하기 버튼 이미지"
-          }
-        ],
-        "caption": "🇯🇵 오사카 USJ 여행 예정이라면 주목! 🇯🇵\n호텔 쿄세이 유니버설 타워 숙박이 무려 63% 할인된 가격으로!\n천연 온천 스파까지 즐길 수 있는 기회 놓치지 마세요.\n라쿠텐 트래블 슈퍼세일 기간 (10월 1일까지)에 예약하고 추가 할인 쿠폰까지 챙기세요! 🤩\n#USJ #오사카여행 #일본숙소",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카",
-          "#유니버설스튜디오재팬",
-          "#USJ",
-          "#할로윈",
-          "#일본숙소",
-          "#호텔할인",
-          "#라쿠텐트래블",
-          "#일본여행정보",
-          "#가을여행",
-          "#일본어디까지가봤니",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "호텔 쿄세이 유니버설 타워 외관",
-          "호텔 내 온천 스파 시설",
-          "유니버설 스튜디오 재팬 할로윈 퍼레이드",
-          "라쿠텐 트래블 슈퍼세일 배너",
-          "예약하기 버튼 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 USJ 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 파격적인 할인율, 시즌성 이슈 결합, 구체적인 정보 제공",
-      "image": {
-        "keyword": "Universal Studios Japan Halloween hotel discount spa",
-        "unsplash_url": "https://unsplash.com/s/photos/Universal-Studios-Japan-Halloween-hotel-discount-spa",
-        "pexels_url": "https://www.pexels.com/search/Universal%20Studios%20Japan%20Halloween%20hotel%20discount%20spa/"
-      }
-    },
-    {
-      "id": "plan_200b3d9f",
-      "created_at": "2026-09-30T02:08:14.664216",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ディズニーストア」ららぽーと富士見に開業！　限定うるぽちゃちゃんなど約1300点をラインアップ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2144280.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 디즈니 스토어 쇼핑 찬스! 득템 기회를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니스토어 신규 오픈!✨",
-        "cards": [
-          {
-            "title": "신규 오픈!",
-            "content": "일본 사이타마현 후지미시에 '디즈니스토어 라라포트 후지미점'이 새롭게 문을 열었어요. 쇼핑 계획에 추가 필수!",
-            "alt_text": "디즈니스토어 라라포트 후지미점 외관 사진"
-          },
-          {
-            "title": "약 1300개 상품!",
-            "content": "오픈 기념으로 약 1300개에 달하는 다양한 상품을 만나볼 수 있습니다. 한정판 '우루포챠' 인형도 놓치지 마세요!",
-            "alt_text": "디즈니스토어 인기 상품 진열 모습"
-          },
-          {
-            "title": "위치 정보",
-            "content": "주소는 '사이타마현 후지미시 야마무로 1-1313, 미쓰이 쇼핑파크 라라포트 후지미 1층'입니다.",
-            "alt_text": "디즈니스토어 라라포트 후지미점 지도 캡처"
-          },
-          {
-            "title": "쇼핑 팁!",
-            "content": "여행 중 득템 찬스! 귀여운 디즈니 굿즈로 여행의 추억을 더해보세요.",
-            "alt_text": "디즈니 캐릭터 굿즈 모음 사진"
-          },
-          {
-            "title": "방문 전 체크!",
-            "content": "방문 전 라라포트 후지미점의 영업시간 및 휴무일을 꼭 확인하시고 헛걸음하지 않도록 주의하세요.",
-            "alt_text": "디즈니스토어 매장 내부 안내문 사진"
-          }
-        ],
-        "caption": "✨디즈니 팬 주목!✨ 일본 사이타마현에 새로운 디즈니스토어가 오픈했어요! 약 1300개의 다양한 상품과 한정판 굿즈까지! 💖\n\n📍위치: 사이타마현 후지미시 야마무로 1-1313, 라라포트 후지미 1층\n\n여행 중 쇼핑 계획 있다면, 이곳에서 특별한 추억을 만들어보세요! 🛍️\n\n#디즈니스토어 #라라포트후지미 #일본쇼핑 #디즈니굿즈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#라라포트후지미",
-          "#일본쇼핑",
-          "#디즈니굿즈",
-          "#도쿄근교",
-          "#사이타마",
-          "#여행정보",
-          "#신규오픈",
-          "#일본쇼핑리스트",
-          "#인싸템",
-          "#여행꿀팁",
-          "#해외여행",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "디즈니스토어 라라포트 후지미점 외관 사진",
-          "디즈니스토어 인기 상품 진열 모습",
-          "디즈니스토어 라라포트 후지미점 지도 캡처",
-          "디즈니 캐릭터 굿즈 모음 사진",
-          "디즈니스토어 매장 내부 안내문 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 디즈니 팬 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 정보, 직접적인 쇼핑 혜택 제공",
-      "image": {
-        "keyword": "Disney Store, LaLaport Fujimi, Saitama, Japan, shopping, merchandise, limited edition, new opening",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store,-LaLaport-Fujimi,-Saitama,-Japan,-shopping,-merchandise,-limited-edition,-new-opening",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Store,%20LaLaport%20Fujimi,%20Saitama,%20Japan,%20shopping,%20merchandise,%20limited%20edition,%20new%20opening/"
       }
     }
   ]
