@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-04T02:39:35.513106",
+  "last_updated": "2026-10-04T05:41:10.054224",
   "plans": [
+    {
+      "id": "plan_6a610349",
+      "created_at": "2026-10-04T05:41:08.054032",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ジェイトリップ「九州ふっこう応援割」実施決定。10月5日から、JAL航空券＋宿泊が会員限定で最大60％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145288.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 JAL 항공권+숙박 최대 60% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 규슈 최대 60% 할인!",
+        "cards": [
+          {
+            "title": "규슈 할인 시작!",
+            "content": "J-TRIP에서 '규슈 부흥 응원 할인'을 실시합니다. 10월 5일 12시부터 JAL 항공권과 숙박을 결합한 전용 플랜을 회원 한정으로 판매합니다.",
+            "alt_text": "일본 규슈 지역 지도 이미지"
+          },
+          {
+            "title": "최대 60% 할인",
+            "content": "구마모토, 가고시마는 최대 60% 할인이 적용되며, 그 외 5개 현도 최대 50% 할인을 받을 수 있습니다. 일본 여행 경비를 크게 절약할 기회입니다.",
+            "alt_text": "할인율을 보여주는 그래픽 이미지"
+          },
+          {
+            "title": "JAL 항공권 포함",
+            "content": "이번 할인 프로모션은 JAL 항공권을 포함한 패키지 상품에 적용됩니다. 일본 항공 이용 계획이 있다면 눈여겨보세요.",
+            "alt_text": "JAL 항공기 날개 이미지"
+          },
+          {
+            "title": "회원 한정 혜택",
+            "content": "할인 혜택은 J-TRIP 회원에게만 제공됩니다. 아직 회원이 아니라면 미리 가입하여 혜택을 놓치지 마세요.",
+            "alt_text": "회원 가입을 안내하는 아이콘 이미지"
+          },
+          {
+            "title": "여행 계획 필수!",
+            "content": "규슈 지역 여행을 계획 중이라면 이번 할인 정보를 꼭 확인하세요. 10월 5일 12시부터 판매 시작이니 알람 설정은 필수입니다!",
+            "alt_text": "달력에 표시된 10월 5일 날짜 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 규슈 여행, 역대급 할인 찬스! ✈️\n\nJ-TRIP에서 10월 5일 12시부터 '규슈 부흥 응원 할인'을 시작합니다!\n\n✅ 구마모토, 가고시마 최대 60% 할인!\n✅ 그 외 5개 현 최대 50% 할인!\n✅ JAL 항공권 + 숙박 포함 전용 플랜\n✅ 회원 한정 특별 혜택\n\n규슈 여행 계획 중이라면 지금 바로 J-TRIP에서 회원 가입하고 역대급 할인 혜택을 잡아보세요! 💨\n\n#규슈여행 #일본여행 #JAL #항공권할인 #숙박할인 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#일본항공권",
+          "#JAL",
+          "#일본숙소",
+          "#일본할인",
+          "#여행정보",
+          "#일본여행준비",
+          "#여행스타그램",
+          "#가고시마",
+          "#구마모토",
+          "#여행팁",
+          "#해외여행",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "일본 규슈 지역 지도 이미지",
+          "할인율을 보여주는 그래픽 이미지",
+          "JAL 항공기 날개 이미지",
+          "회원 가입을 안내하는 아이콘 이미지",
+          "달력에 표시된 10월 5일 날짜 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 관심과 참여 (할인율이 높아 즉각적인 반응 예상) / 이 콘텐츠의 강점: 파격적인 할인율과 구체적인 정보 제공으로 여행 계획에 실질적인 도움 제공",
+      "image": {
+        "keyword": "Japan Kyushu discount flight hotel JAL",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-discount-flight-hotel-JAL",
+        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20discount%20flight%20hotel%20JAL/"
+      }
+    },
+    {
+      "id": "plan_43c5b6e2",
+      "created_at": "2026-10-04T05:41:02.945761",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "年末年始の新幹線のぞみ「EX早特☆期間限定セール！」。東京～新大阪2920円引き、東京～広島4960円引きに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145349.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연말연시 신칸센 특가로 일본 여행 경비를 확 줄일 수 있는 기회!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 신칸센 2920엔↓ 특가 득템!",
+        "cards": [
+          {
+            "title": "역대급 할인!",
+            "content": "연말연시 동해도·산요 신칸센 '노조미' 보통차 지정석 특별 할인 판매! 🚄",
+            "alt_text": "신칸센 열차 이미지"
+          },
+          {
+            "title": "도쿄~오사카",
+            "content": "도쿄에서 신오사카 구간 티켓이 무려 2920엔 할인된 가격으로! 💰",
+            "alt_text": "도쿄 타워와 오사카 성 이미지"
+          },
+          {
+            "title": "도쿄~히로시마",
+            "content": "도쿄에서 히로시마까지도 4960엔 할인된 가격으로 만날 수 있어요! 😮",
+            "alt_text": "히로시마 평화기념공원 이미지"
+          },
+          {
+            "title": "기간 한정 특가",
+            "content": "JR 도카이와 JR 니시니혼이 함께하는 'EX 하야토쿠☆ 기간 한정 세일!' 놓치지 마세요! 🗓️",
+            "alt_text": "캘린더 이미지"
+          },
+          {
+            "title": "예약 꿀팁!",
+            "content": "좌석 수 한정 특가이니 서둘러 예약하는 것이 필수! JR 도카이/니시니혼 공식 홈페이지를 확인하세요. 💻",
+            "alt_text": "노트북 화면에 예약 페이지가 보이는 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템 신칸센! 🚄 연말연시 동해도·산요 신칸센 '노조미' 보통차 지정석이 역대급 할인을 진행해요! ✨\n\n✅ 도쿄 ↔️ 신오사카: 2920엔 할인\n✅ 도쿄 ↔️ 히로시마: 4960엔 할인\n\n좌석 수 한정 특가이니 지금 바로 예약하고 알찬 일본 여행 계획 세우세요! 😉\n\n#일본여행 #신칸센 #연말연시 #특가 #할인 #교통정보 #JR #노조미 #도쿄 #오사카 #히로시마 #여행팁 #플라잉재팬 #일본",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#연말연시",
+          "#특가",
+          "#할인",
+          "#교통정보",
+          "#JR",
+          "#노조미",
+          "#도쿄",
+          "#오사카",
+          "#히로시마",
+          "#여행팁",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "신칸센 열차 이미지",
+          "도쿄 타워와 오사카 성 이미지",
+          "히로시마 평화기념공원 이미지",
+          "캘린더 이미지",
+          "노트북 화면에 예약 페이지가 보이는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (18시~21시) / 기대 반응: 높은 클릭률 및 공유율, 특가 정보에 대한 즉각적인 관심 / 이 콘텐츠의 강점: 구체적인 할인 금액과 노선 정보 제공으로 실질적인 여행 경비 절감 효과 강조",
+      "image": {
+        "keyword": "Shinkansen bullet train, Japan, discount, limited time offer, travel savings",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-bullet-train,-Japan,-discount,-limited-time-offer,-travel-savings",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20bullet%20train,%20Japan,%20discount,%20limited%20time%20offer,%20travel%20savings/"
+      }
+    },
     {
       "id": "plan_d6336b32",
       "created_at": "2026-10-04T02:39:33.512910",
@@ -923,160 +1077,6 @@
         "keyword": "USJ, Sailor Moon, collaboration, Universal Cool Japan, Osaka, theme park, limited event, anime, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/USJ,-Sailor-Moon,-collaboration,-Universal-Cool-Japan,-Osaka,-theme-park,-limited-event,-anime,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/USJ,%20Sailor%20Moon,%20collaboration,%20Universal%20Cool%20Japan,%20Osaka,%20theme%20park,%20limited%20event,%20anime,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_ca201afa",
-      "created_at": "2026-10-01T02:09:33.733067",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA「九州ふっこう応援割」福岡県の予約は本日スタート。航空券＋ホテルが最大3万円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2144680.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA와 함께라면 후쿠오카 여행 경비를 확 줄일 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️후쿠오카 3만원 할인!",
-        "cards": [
-          {
-            "title": "ANA 할인 시작",
-            "content": "ANA에서 진행하는 '큐슈 부흥 응원 할인'의 후쿠오카현 예약이 10월 1일 14시부터 시작됩니다.",
-            "alt_text": "ANA 항공권 예약 페이지 이미지"
-          },
-          {
-            "title": "최대 3만원 할인",
-            "content": "항공권과 호텔을 함께 예약하면 최대 3만엔까지 할인받을 수 있는 절호의 찬스입니다.",
-            "alt_text": "할인 금액 표시 이미지"
-          },
-          {
-            "title": "전용 웹사이트",
-            "content": "할인 혜택은 ANA 전용 웹사이트에서만 신청 가능하니, 지금 바로 확인해보세요!",
-            "alt_text": "ANA 웹사이트 접속 안내 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "인기 지역인 후쿠오카의 할인 예약은 빠르게 마감될 수 있으니 서둘러야 합니다.",
-            "alt_text": "타임 세일 알림 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "최신 일본 여행 정보는 @flyingjapan에서 가장 빠르게 받아보세요! 팔로우는 필수!",
-            "alt_text": "팔로우 요청 이미지"
-          }
-        ],
-        "caption": "✈️ ANA와 함께 후쿠오카 여행 경비 확 줄이기! \n\n📢 '큐슈 부흥 응원 할인' 후쿠오카현 예약이 10월 1일 14시부터 시작됩니다! \n\n✈️항공권 + 호텔 묶음 예약 시 최대 3만엔 할인! \n\n✅ANA 전용 웹사이트에서만 신청 가능 \n\n인기 지역인 후쿠오카, 할인 놓치지 마시고 알뜰하게 다녀오세요! \n\n#일본여행 #후쿠오카 #ANA #항공권할인 #호텔할인 #큐슈여행 #여행꿀팁 #플라잉재팬 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카",
-          "#ANA",
-          "#큐슈부흥응원할인",
-          "#일본항공권",
-          "#일본호텔",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#후쿠오카여행",
-          "#일본쇼핑",
-          "#일본먹방",
-          "#여행할인",
-          "#가을여행"
-        ],
-        "alt_texts": [
-          "ANA 항공권 예약 페이지 이미지",
-          "할인 금액 표시 이미지",
-          "ANA 웹사이트 접속 안내 이미지",
-          "타임 세일 알림 이미지",
-          "팔로우 요청 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인 정보와 함께 즉각적인 행동을 유도하는 정보 제공",
-      "image": {
-        "keyword": "ANA, Fukuoka, discount, travel, Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA,-Fukuoka,-discount,-travel,-Japan",
-        "pexels_url": "https://www.pexels.com/search/ANA,%20Fukuoka,%20discount,%20travel,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_e3bb505f",
-      "created_at": "2026-10-01T02:09:28.904838",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL「九州ふっこう応援割」福岡県の予約はこのあと14時から。航空券＋宿が最大3万円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2144681.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "엔저 시대, 일본 여행 최대 3만엔 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 여행 3만엔 할인!",
-        "cards": [
-          {
-            "title": "九州 여행 지원",
-            "content": "JAL 항공권과 숙박을 묶어 예약 시 최대 3만엔 할인받는 '규슈 부흥 응원 할인'이 시작됩니다.",
-            "alt_text": "JAL 항공권과 숙박 예약 시 할인 혜택을 받을 수 있음을 나타내는 이미지"
-          },
-          {
-            "title": "후쿠오카 예약 시작",
-            "content": "특히 후쿠오카현 예약은 10월 1일 오후 2시부터 JAL 전용 웹페이지에서 신청 가능합니다. 서둘러 예약하세요!",
-            "alt_text": "후쿠오카 예약 시작 날짜와 시간을 강조하는 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "항공권과 숙박을 함께 예약하면 최대 3만엔까지 할인 혜택을 받을 수 있어 알뜰한 규슈 여행이 가능합니다.",
-            "alt_text": "할인 금액을 강조하는 이미지 (예: 30,000円 OFF)"
-          },
-          {
-            "title": "JAL 전용 페이지",
-            "content": "본 프로모션은 JAL 공식 웹페이지에서만 신청 가능하니, 다른 경로가 아닌 꼭 JAL 페이지를 확인해주세요.",
-            "alt_text": "JAL 웹사이트 로고 또는 스크린샷 이미지"
-          },
-          {
-            "title": "알뜰 여행 꿀팁",
-            "content": "할인율이 높은 만큼 조기 마감될 가능성이 높으니, 규슈 여행 계획이 있다면 지금 바로 JAL 웹페이지를 확인하고 예약하세요!",
-            "alt_text": "달력에 날짜를 표시하거나 시계를 보여주는 이미지"
-          }
-        ],
-        "caption": "📢역대급 할인 찬스! JAL '규슈 부흥 응원 할인'으로 일본 규슈 여행을 최대 3만엔까지 할인받으세요! ✈️ 특히 후쿠오카 예약은 10월 1일 오후 2시부터 시작됩니다. 항공권과 숙박을 함께 예약하면 혜택이 커지니, 규슈 여행 계획 중이라면 절대 놓치지 마세요! ✨\n\n지금 바로 JAL 전용 웹페이지에서 예약하세요! 👉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#후쿠오카여행",
-          "#JAL",
-          "#일본할인",
-          "#여행지원",
-          "#알뜰여행",
-          "#해외여행",
-          "#일본항공권",
-          "#일본숙소",
-          "#엔저여행",
-          "#여행꿀팁",
-          "#여행스타그램",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "JAL 항공권과 숙박 예약 시 할인 혜택을 받을 수 있음을 나타내는 이미지",
-          "후쿠오카 예약 시작 날짜와 시간을 강조하는 이미지",
-          "할인 금액을 강조하는 이미지 (예: 30,000円 OFF)",
-          "JAL 웹사이트 로고 또는 스크린샷 이미지",
-          "달력에 날짜를 표시하거나 시계를 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 1시~3시 (예약 시작 시간 임박 또는 직후) / 기대 반응: 높은 관심과 예약 문의, 정보 공유 / 이 콘텐츠의 강점: 실질적인 할인 정보와 구체적인 예약 시점 제시로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "JAL, Kyushu, Fukuoka, discount, travel coupon, booking",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Kyushu,-Fukuoka,-discount,-travel-coupon,-booking",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Kyushu,%20Fukuoka,%20discount,%20travel%20coupon,%20booking/"
       }
     }
   ]
