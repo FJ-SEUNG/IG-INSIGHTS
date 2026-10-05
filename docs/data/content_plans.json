@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-04T05:41:10.054224",
+  "last_updated": "2026-10-05T02:01:12.400708",
   "plans": [
+    {
+      "id": "plan_8bb4c5f1",
+      "created_at": "2026-10-05T02:01:10.400513",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "イオン向かいの「ミーナ津田沼」10月16日リニューアル。ユニクロ・GUほか19店舗、飲食ゾーンは早朝・深夜営業あり",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2144506.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 쇼핑 성지, 미나 츠다누마 10월 16일 리뉴얼 오픈! 유니클로, GU 등 19개 매장과 늦은 시간까지 운영하는 식사 존까지!"
+      },
+      "content": {
+        "thumbnail_title": "🛍️미나 츠다누마 10/16 리뉴얼!🛍️",
+        "cards": [
+          {
+            "title": "리뉴얼 오픈!",
+            "content": "치바현 츠다누마에 위치한 쇼핑몰 '미나 츠다누마'가 2023년 10월 16일, 전면 리뉴얼 오픈합니다. 공사로 인해 휴업했던 곳이 새롭게 단장하여 돌아옵니다.",
+            "alt_text": "미나 츠다누마 쇼핑몰 외관 이미지"
+          },
+          {
+            "title": "입점 브랜드",
+            "content": "1층부터 5층까지 총 19개의 브랜드가 새롭게 입점합니다. 특히 유니클로와 GU 등 인기 SPA 브랜드가 포함되어 있어 쇼핑을 즐기기 좋습니다.",
+            "alt_text": "유니클로, GU 등 브랜드 로고 모음 이미지"
+          },
+          {
+            "title": "식사 존",
+            "content": "6층과 7층은 추후 공개될 예정이며, 1층부터 5층에 입점하는 19개 매장 외에도 식사 존은 이른 아침부터 늦은 밤까지 운영될 예정입니다.",
+            "alt_text": "다양한 음식 메뉴 사진 이미지"
+          },
+          {
+            "title": "쇼핑 정보",
+            "content": "새롭게 단장하는 미나 츠다누마에서 최신 유행 패션 아이템과 다양한 상품들을 만나보세요. 일본 현지 쇼핑을 위한 필수 코스가 될 것입니다.",
+            "alt_text": "쇼핑백을 들고 즐거워하는 사람들의 모습 이미지"
+          },
+          {
+            "title": "방문 팁",
+            "content": "리뉴얼 오픈 초기에는 많은 인파가 몰릴 수 있으니, 평일 오전에 방문하는 것을 추천합니다. 츠다누마역에서 도보로 이동 가능합니다.",
+            "alt_text": "츠다누마역 안내 표지판 이미지"
+          }
+        ],
+        "caption": "✨일본 쇼핑 필수 코스! 미나 츠다누마, 10월 16일 리뉴얼 오픈!✨\n\n일본 치바현 츠다누마에 위치한 쇼핑몰 '미나 츠다누마'가 2023년 10월 16일, 전면 리뉴얼 오픈합니다! 🛍️\n\n유니클로, GU 등 인기 브랜드 포함 총 19개 매장이 새롭게 문을 열고, 식사 존은 이른 아침부터 늦은 밤까지 운영될 예정이에요. 늦은 시간까지 쇼핑과 식사를 즐길 수 있어 더욱 편리합니다! 🍽️\n\n다음 일본 여행 시, 놓치지 마세요! 😉\n\n#미나츠다누마 #츠다누마 #일본쇼핑 #유니클로 #GU #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#미나츠다누마",
+          "#츠다누마",
+          "#일본쇼핑",
+          "#일본쇼핑리스트",
+          "#일본쇼핑몰",
+          "#유니클로",
+          "#GU",
+          "#패션",
+          "#쇼핑",
+          "#일본생활",
+          "#일본정보",
+          "#여행정보",
+          "#2023년10월"
+        ],
+        "alt_texts": [
+          "미나 츠다누마 쇼핑몰 외관 이미지",
+          "유니클로, GU 등 브랜드 로고 모음 이미지",
+          "다양한 음식 메뉴 사진 이미지",
+          "쇼핑백을 들고 즐거워하는 사람들의 모습 이미지",
+          "츠다누마역 안내 표지판 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 쇼핑 정보에 대한 높은 관심, 방문 계획 증가 / 이 콘텐츠의 강점: 구체적인 오픈 날짜, 입점 브랜드, 운영 시간 등 실질적인 쇼핑 정보 제공",
+      "image": {
+        "keyword": "Mina Tsudanuma shopping mall, Japan fashion brands, Uniqlo GU, new store opening, late night dining, Japanese shopping destination",
+        "unsplash_url": "https://unsplash.com/s/photos/Mina-Tsudanuma-shopping-mall,-Japan-fashion-brands,-Uniqlo-GU,-new-store-opening,-late-night-dining,-Japanese-shopping-destination",
+        "pexels_url": "https://www.pexels.com/search/Mina%20Tsudanuma%20shopping%20mall,%20Japan%20fashion%20brands,%20Uniqlo%20GU,%20new%20store%20opening,%20late%20night%20dining,%20Japanese%20shopping%20destination/"
+      }
+    },
+    {
+      "id": "plan_aac25623",
+      "created_at": "2026-10-05T02:01:04.215855",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "星野リゾート、佐賀県初進出「界 嬉野」2027年夏開業へ。全28室に専用坪庭と露天風呂、美肌の湯特化の温泉宿に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145382.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "온천 성지 규슈에 새로운 럭셔리 온천 숙소 오픈 예정!"
+      },
+      "content": {
+        "thumbnail_title": "✨2027년 규슈에 별이 뜬다!✨",
+        "cards": [
+          {
+            "title": "새로운 온천 숙소",
+            "content": "호시노 리조트가 사가현에 첫 진출! '카이 우레시노'가 2027년 여름 개장합니다. 총 28개의 객실 모두 전용 노천탕과 정원을 갖춘다고 해요.",
+            "alt_text": "새로운 럭셔리 온천 숙소 '카이 우레시노' 외관 예상 이미지"
+          },
+          {
+            "title": "미인의 온천",
+            "content": "이곳은 '미인의 온천'으로 유명한 우레시노 온천을 특화한 곳입니다. 피부 미용에 탁월한 효능을 자랑하는 온천수를 마음껏 즐길 수 있어요.",
+            "alt_text": "김이 모락모락 나는 온천수와 아름다운 정원이 있는 욕실 이미지"
+          },
+          {
+            "title": "사가현 첫 진출",
+            "content": "호시노 리조트의 사가현 첫 진출인 만큼, 지역 특색을 살린 특별한 경험을 기대해 볼 수 있습니다.",
+            "alt_text": "일본 사가현의 아름다운 자연 풍경 이미지"
+          },
+          {
+            "title": "예약 시기",
+            "content": "2027년 여름 오픈 예정이며, 2027년 봄부터 예약 접수를 시작할 예정이라고 합니다. 미리 계획 세워봐요!",
+            "alt_text": "달력에 표시된 '2027년 봄'과 '2027년 여름' 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "규슈 여행 계획 중이라면 주목! 2027년 여름, 사가현 우레시노에서 힐링 온천 여행을 즐겨보세요. 정확한 예약 오픈 시기는 추후 다시 안내해 드릴게요.",
+            "alt_text": "온천을 즐기는 사람의 뒷모습과 아름다운 풍경 이미지"
+          }
+        ],
+        "caption": "✨2027년 여름, 규슈에 새로운 힐링 스팟이 등장합니다!✨\n\n일본 사가현에 호시노 리조트의 첫 진출, '카이 우레시노'가 문을 열어요.\n무려 28개의 객실 모두 전용 노천탕과 정원을 갖춘 프라이빗한 온천 숙소!\n피부 미용에 좋기로 유명한 우레시노 온천수를 마음껏 즐길 수 있다는 사실!\n\n2027년 봄부터 예약 가능하다고 하니, 규슈 온천 여행 계획 중이라면 눈여겨봐 주세요! ♨️\n\n#일본여행 #규슈여행 #사가현 #우레시노 #호시노리조트 #카이우레시노 #온천여행 #미인의온천 #일본온천 #2027년개장 #여행정보 #숙소추천 #플라잉재팬 #일본숙소",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#사가현",
+          "#우레시노",
+          "#호시노리조트",
+          "#카이우레시노",
+          "#온천여행",
+          "#미인의온천",
+          "#일본온천",
+          "#2027년개장",
+          "#여행정보",
+          "#숙소추천",
+          "#일본숙소",
+          "#여행계획"
+        ],
+        "alt_texts": [
+          "새로운 럭셔리 온천 숙소 '카이 우레시노' 외관 예상 이미지",
+          "김이 모락모락 나는 온천수와 아름다운 정원이 있는 욕실 이미지",
+          "일본 사가현의 아름다운 자연 풍경 이미지",
+          "달력에 표시된 '2027년 봄'과 '2027년 여름' 이미지",
+          "온천을 즐기는 사람의 뒷모습과 아름다운 풍경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 규슈 지역의 럭셔리 온천 숙소를 찾는 한국인 여행객 / 최적 게시 시간: 평일 오전 10시 ~ 12시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 미래의 인기 숙소 정보를 선점하여 얼리버드 여행객들의 관심을 끌 수 있음",
+      "image": {
+        "keyword": "luxury onsen ryokan, Japan, Saga, Ureshino, Hoshino Resorts, private outdoor bath, garden, beautiful skin hot spring",
+        "unsplash_url": "https://unsplash.com/s/photos/luxury-onsen-ryokan,-Japan,-Saga,-Ureshino,-Hoshino-Resorts,-private-outdoor-bath,-garden,-beautiful-skin-hot-spring",
+        "pexels_url": "https://www.pexels.com/search/luxury%20onsen%20ryokan,%20Japan,%20Saga,%20Ureshino,%20Hoshino%20Resorts,%20private%20outdoor%20bath,%20garden,%20beautiful%20skin%20hot%20spring/"
+      }
+    },
     {
       "id": "plan_6a610349",
       "created_at": "2026-10-04T05:41:08.054032",
@@ -923,160 +1077,6 @@
         "keyword": "JR train, autumn, Japan, travel pass, limited time offer",
         "unsplash_url": "https://unsplash.com/s/photos/JR-train,-autumn,-Japan,-travel-pass,-limited-time-offer",
         "pexels_url": "https://www.pexels.com/search/JR%20train,%20autumn,%20Japan,%20travel%20pass,%20limited%20time%20offer/"
-      }
-    },
-    {
-      "id": "plan_bd57bbba",
-      "created_at": "2026-10-01T05:39:14.484759",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ZIPAIR、韓国ソウル1万5160円～、ホノルル3万5599円～など「THANKS SALE」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2144543.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가성비 최고! 일본 여행 특가 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ZIPAIR 초특가 1만5천원대!",
-        "cards": [
-          {
-            "title": "ZIPAIR 특가",
-            "content": "ZIPAIR에서 'THANKS SALE' 타임 세일을 9월 29일부터 10월 5일까지 진행합니다. 해당 기간 동안 파격적인 가격으로 항공권을 구매할 수 있습니다.",
-            "alt_text": "ZIPAIR 항공권 특가 세일 안내 이미지"
-          },
-          {
-            "title": "서울 노선",
-            "content": "인천 출발 서울 노선은 15,160엔부터 시작하는 놀라운 가격으로 만나볼 수 있습니다. 이른 예약은 필수입니다!",
-            "alt_text": "인천-서울 노선 특가 가격 정보 이미지"
-          },
-          {
-            "title": "다양한 노선",
-            "content": "도쿄 출발 호놀룰루 노선도 35,599엔부터 시작하는 등 다양한 노선에 대한 특가 프로모션이 진행됩니다.",
-            "alt_text": "도쿄-호놀룰루 노선 특가 가격 정보 이미지"
-          },
-          {
-            "title": "놓치지 마세요",
-            "content": "이번 특가 세일은 한정된 기간 동안만 진행되므로, 항공권 구매를 계획하고 있다면 서둘러야 합니다.",
-            "alt_text": "타임 세일 기간 안내 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "세일 기간이 짧으니, 미리 여행 계획을 세우고 ZIPAIR 공식 홈페이지를 주시하며 구매 타이밍을 노리는 것이 좋습니다. 수하물 규정도 미리 확인하세요!",
-            "alt_text": "항공권 구매 팁 이미지"
-          }
-        ],
-        "caption": "일본 여행 꿈꿔왔다면?✈️ ZIPAIR 'THANKS SALE' 역대급 특가 찬스! 🚨\n\n9월 29일 ~ 10월 5일 단 7일간!\n인천-서울 노선 15,160엔부터 시작! 💸\n\n저가 항공으로 더욱 스마트한 일본 여행을 계획해보세요! \n\n#일본여행 #플라잉재팬 #ZIPAIR #항공권특가 #일본항공권 #가성비여행 #여행스타그램 #일본 #항공권 #세일 #특가항공권 #여행정보 #일본가자 #여행준비 #인천출발",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ZIPAIR",
-          "#항공권특가",
-          "#일본항공권",
-          "#가성비여행",
-          "#여행스타그램",
-          "#일본",
-          "#항공권",
-          "#세일",
-          "#특가항공권",
-          "#여행정보",
-          "#일본가자",
-          "#여행준비",
-          "#인천출발"
-        ],
-        "alt_texts": [
-          "ZIPAIR 항공권 특가 세일 안내 이미지",
-          "인천-서울 노선 특가 가격 정보 이미지",
-          "도쿄-호놀룰루 노선 특가 가격 정보 이미지",
-          "타임 세일 기간 안내 이미지",
-          "항공권 구매 팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 합리적인 가격으로 일본 여행을 계획하는 20-30대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오전 10-12시 / 기대 반응: 높은 클릭률 및 공유, 항공권 구매 문의 / 이 콘텐츠의 강점: 최신 항공권 특가 정보로 즉각적인 여행 계획 유도 및 높은 정보 전달력",
-      "image": {
-        "keyword": "ZIPAIR, flight sale, Japan travel deal, budget airline, Tokyo, Seoul",
-        "unsplash_url": "https://unsplash.com/s/photos/ZIPAIR,-flight-sale,-Japan-travel-deal,-budget-airline,-Tokyo,-Seoul",
-        "pexels_url": "https://www.pexels.com/search/ZIPAIR,%20flight%20sale,%20Japan%20travel%20deal,%20budget%20airline,%20Tokyo,%20Seoul/"
-      }
-    },
-    {
-      "id": "plan_d2b5a104",
-      "created_at": "2026-10-01T05:39:02.674481",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "第1弾は「セーラームーン」コラボに決定。USJ、「ユニバーサル・クールジャパン 2027」12月2日から",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2144503.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 유니버설 스튜디오 재팬에서 펼쳐지는 세일러문 콜라보! 놓치면 후회할 특별한 경험을 미리 만나보세요."
-      },
-      "content": {
-        "thumbnail_title": "✨세일러문 X USJ✨",
-        "cards": [
-          {
-            "title": "✨콜라보 시작!",
-            "content": "2027년 12월 2일부터 유니버설 스튜디오 재팬에서 '유니버설 쿨 재팬 2027'이 순차적으로 개최됩니다. 가장 먼저 '미소녀 전사 세일러문'과의 콜라보레이션이 시작됩니다.",
-            "alt_text": "유니버설 스튜디오 재팬에서 세일러문 테마로 꾸며진 입구 이미지"
-          },
-          {
-            "title": "🗓️기간 안내",
-            "content": "세일러문 콜라보 이벤트는 2027년 12월 2일부터 2028년 4월 5일까지 진행됩니다. 약 4개월간 진행되니 여행 계획에 참고하세요.",
-            "alt_text": "세일러문 콜라보 이벤트 기간을 나타내는 캘린더 이미지"
-          },
-          {
-            "title": "🤩놓치지 마세요!",
-            "content": "세일러문 테마의 특별한 어트랙션, 상품, 먹거리를 만날 수 있습니다. 성인이 된 당신의 어린 시절 추억을 소환할 절호의 찬스!",
-            "alt_text": "세일러문 테마의 USJ 기념품 또는 캐릭터 상품 이미지"
-          },
-          {
-            "title": "🎟️티켓 정보",
-            "content": "USJ 입장권은 미리 구매하는 것이 좋습니다. 특히 인기 이벤트 기간에는 조기 매진될 수 있으니 공식 홈페이지나 제휴 판매처를 확인하세요.",
-            "alt_text": "USJ 입장권 이미지"
-          },
-          {
-            "title": "💡꿀팁",
-            "content": "인기 캐릭터와의 사진 촬영 기회를 놓치지 마세요! 이벤트 기간 한정으로 판매되는 굿즈도 있으니 방문 전 미리 확인하면 좋습니다.",
-            "alt_text": "세일러문 캐릭터와 함께 사진 찍는 관광객 모습"
-          }
-        ],
-        "caption": "🌙세일러문 팬들 주목!🌙\n2027년 12월 2일부터 USJ에서 특별한 세일러문 콜라보가 시작됩니다! 💖\n성인이 된 당신의 추억을 소환할 환상적인 경험을 놓치지 마세요!\n✨이벤트 기간: 2027.12.2 ~ 2028.4.5\n✨장소: 유니버설 스튜디오 재팬\n지금 바로 일본 여행 계획 세우고 USJ에서 잊지 못할 추억을 만들어 보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#USJ",
-          "#유니버설스튜디오재팬",
-          "#세일러문",
-          "#미소녀전사세일러문",
-          "#일본놀거리",
-          "#일본이벤트",
-          "#오사카여행",
-          "#해외여행",
-          "#여행정보",
-          "#2027년",
-          "#일본테마파크",
-          "#애니메이션",
-          "#추억소환"
-        ],
-        "alt_texts": [
-          "유니버설 스튜디오 재팬에서 세일러문 테마로 꾸며진 입구 이미지",
-          "세일러문 콜라보 이벤트 기간을 나타내는 캘린더 이미지",
-          "세일러문 테마의 USJ 기념품 또는 캐릭터 상품 이미지",
-          "USJ 입장권 이미지",
-          "세일러문 캐릭터와 함께 사진 찍는 관광객 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 유니버설 스튜디오 재팬 방문 예정인 세일러문 팬 및 가족 단위 여행객 / 최적 게시 시간: 평일 오후 7시 ~ 9시 / 기대 반응: 높은 관심과 정보 공유, 이벤트 참여 의지 고취 / 이 콘텐츠의 강점: 시기 적절한 이벤트 정보와 구체적인 기간 명시, 한국인에게 인기 있는 테마 활용",
-      "image": {
-        "keyword": "USJ, Sailor Moon, collaboration, Universal Cool Japan, Osaka, theme park, limited event, anime, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/USJ,-Sailor-Moon,-collaboration,-Universal-Cool-Japan,-Osaka,-theme-park,-limited-event,-anime,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/USJ,%20Sailor%20Moon,%20collaboration,%20Universal%20Cool%20Japan,%20Osaka,%20theme%20park,%20limited%20event,%20anime,%20Japan%20travel/"
       }
     }
   ]
