@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-06T02:59:14.029968",
+  "last_updated": "2026-10-06T06:09:27.229125",
   "plans": [
+    {
+      "id": "plan_cdc9337f",
+      "created_at": "2026-10-06T06:09:25.228958",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Suica×PASMOの新コード決済「teppay（テッペイ）」10月20日スタート。追加アプリ不要、割り勘やおこづかいの送金も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2146003.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템, 모바일 결제 '테페이' 출시! 앱 하나로 간편하게!"
+      },
+      "content": {
+        "thumbnail_title": "💳 일본 결제 신세계! 💸",
+        "cards": [
+          {
+            "title": "신규 결제 서비스",
+            "content": "JR동일본에서 새로운 코드 결제 서비스 '테페이(teppay)'를 10월 20일 11시부터 순차적으로 제공합니다.",
+            "alt_text": "모바일 Suica 앱 화면에 'teppay' 서비스 시작을 알리는 이미지"
+          },
+          {
+            "title": "별도 앱 불필요",
+            "content": "기존에 사용하던 모바일 Suica 앱 내에서 바로 이용 가능하며, 별도의 앱 설치가 필요 없어 편리합니다.",
+            "alt_text": "스마트폰에 설치된 모바일 Suica 앱 아이콘 이미지"
+          },
+          {
+            "title": "다양한 기능",
+            "content": "간편 결제는 물론, 친구나 가족과 금액을 나누는 '나누기 결제'와 용돈 보내기 기능까지 지원합니다.",
+            "alt_text": "결제, 나누기, 송금 아이콘이 포함된 일러스트 이미지"
+          },
+          {
+            "title": "여행객 필수템",
+            "content": "일본 여행 중 현금 없이 간편하게 결제하고, 소액 송금까지 가능해 더욱 스마트한 여행을 즐길 수 있습니다.",
+            "alt_text": "일본 편의점에서 스마트폰으로 결제하는 여행객 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "여행 전 모바일 Suica 앱을 최신 버전으로 업데이트하고, '테페이' 서비스 지원 여부를 미리 확인하세요. (서비스는 순차적으로 제공됩니다.)",
+            "alt_text": "업데이트 버튼이 표시된 스마트폰 앱 스토어 화면 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템 등장! 🇯🇵\n\n10월 20일부터 모바일 Suica 앱에서 새로운 코드 결제 서비스 '테페이(teppay)'가 시작됩니다! 💳\n\n별도 앱 설치 없이 기존 Suica 앱에서 바로 사용 가능하며, 간편 결제는 물론이고 '나누기 결제', '용돈 보내기' 기능까지! \n\n일본 여행 중 현금 걱정 없이 스마트하게 결제하고, 친구와 금액을 나누거나 용돈을 보내는 것도 간편해져요! 💸\n\n여행 전 모바일 Suica 앱 업데이트 필수! 잊지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본결제",
+          "#테페이",
+          "#Suica",
+          "#PASMO",
+          "#모바일결제",
+          "#일본교통",
+          "#일본생활",
+          "#일본여행꿀팁",
+          "#여행준비",
+          "#일본자유여행",
+          "#간편결제",
+          "#일본쇼핑",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "모바일 Suica 앱 화면에 'teppay' 서비스 시작을 알리는 이미지",
+          "스마트폰에 설치된 모바일 Suica 앱 아이콘 이미지",
+          "결제, 나누기, 송금 아이콘이 포함된 일러스트 이미지",
+          "일본 편의점에서 스마트폰으로 결제하는 여행객 이미지",
+          "업데이트 버튼이 표시된 스마트폰 앱 스토어 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시 또는 토요일 오전 10시 / 기대 반응: 높은 관심과 정보 공유, 여행 준비 필수 정보로 인식 / 이 콘텐츠의 강점: 최신 결제 시스템 정보를 최초로 제공하여 여행 준비에 실질적인 도움 제공",
+      "image": {
+        "keyword": "japan travel payment, teppay app, mobile suica payment, japan convenience store payment, split payment japan",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-payment,-teppay-app,-mobile-suica-payment,-japan-convenience-store-payment,-split-payment-japan",
+        "pexels_url": "https://www.pexels.com/search/japan%20travel%20payment,%20teppay%20app,%20mobile%20suica%20payment,%20japan%20convenience%20store%20payment,%20split%20payment%20japan/"
+      }
+    },
+    {
+      "id": "plan_be9d12b0",
+      "created_at": "2026-10-06T06:09:19.787255",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ロゴス、耐水圧2万mmの「DryCore」防水リュック。容量26L、15インチPCやA4ファイル対応",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2145996.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "갑자기 비가 와도 끄떡없어요! 2만mm 방수 기능의 LOGOS 백팩으로 든든하게!"
+      },
+      "content": {
+        "thumbnail_title": "☔️2만mm 방수 백팩 출시!",
+        "cards": [
+          {
+            "title": "LOGOS 신상 백팩",
+            "content": "아웃도어 브랜드 LOGOS에서 'DryCore' 방수 기능의 신상 박스 백팩을 출시했어요. 최대 2만mm의 내수압으로 갑작스러운 비에도 내용물을 안전하게 보호할 수 있습니다.",
+            "alt_text": "LOGOS DryCore 박스 백팩의 앞면 모습"
+          },
+          {
+            "title": "넉넉한 수납 공간",
+            "content": "26L의 넉넉한 용량을 자랑하며, 15인치 노트북과 A4 사이즈 파일까지 수납 가능합니다. 여행 중 필요한 소지품을 깔끔하게 정리할 수 있어요.",
+            "alt_text": "백팩 내부에 노트북과 파일이 수납된 모습"
+          },
+          {
+            "title": "두 가지 컬러",
+            "content": "세련된 블랙과 네이비 두 가지 색상으로 출시되어 어떤 스타일에나 잘 어울립니다. 취향에 맞게 선택해보세요.",
+            "alt_text": "블랙과 네이비 색상의 LOGOS 백팩 나란히 놓인 모습"
+          },
+          {
+            "title": "가격 및 구매처",
+            "content": "가격은 각 9,900엔이며, LOGOS 공식 매장 및 일본 전역의 대형 쇼핑몰에서 구매 가능합니다.",
+            "alt_text": "가격 정보가 표시된 LOGOS 백팩 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "일본 여행 중 갑작스러운 날씨 변화에 대비하여 방수 기능이 뛰어난 백팩은 필수! 특히 전자제품이나 중요한 서류를 휴대할 때 유용합니다. 9,900엔으로 든든하게 준비하세요!",
+            "alt_text": "비 오는 날씨에 백팩을 메고 있는 여행객 모습"
+          }
+        ],
+        "caption": "일본 여행 중 예상치 못한 비 소식에 당황하셨나요? ☔️\n\n아웃도어 브랜드 LOGOS에서 출시한 'DryCore' 방수 백팩은 최대 2만mm의 강력한 내수압으로 소중한 짐을 빗물로부터 완벽하게 보호해줍니다. 🤩\n\n15인치 노트북과 A4 파일까지 넉넉하게 수납되는 26L 용량에 세련된 블랙, 네이비 두 가지 컬러로 출시되었어요! \n\n가격은 9,900엔! 지금 바로 LOGOS 매장 또는 일본 전역의 대형 쇼핑몰에서 만나보세요! ✈️\n\n#일본여행 #플라잉재팬 #LOGOS #방수백팩 #여행준비물",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#LOGOS",
+          "#로고스",
+          "#일본쇼핑",
+          "#일본여행준비물",
+          "#여행가방",
+          "#방수백팩",
+          "#일본직구",
+          "#일본쇼핑리스트",
+          "#여행필수템",
+          "#일본생활",
+          "#일본물가",
+          "#여행스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "LOGOS DryCore 박스 백팩의 앞면 모습",
+          "백팩 내부에 노트북과 파일이 수납된 모습",
+          "블랙과 네이비 색상의 LOGOS 백팩 나란히 놓인 모습",
+          "가격 정보가 표시된 LOGOS 백팩 이미지",
+          "비 오는 날씨에 백팩을 메고 있는 여행객 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 이미 일본에 체류 중인 한국인 여행자 / 최적 게시 시간: 점심시간(12-13시) 또는 퇴근 후(18-20시) / 기대 반응: 실용적인 정보에 대한 높은 관심, 구매 문의 / 이 콘텐츠의 강점: 갑작스러운 날씨 변화에 대한 실질적인 대비책 제시, 합리적인 가격 정보 포함",
+      "image": {
+        "keyword": "LOGOS DryCore backpack, waterproof, 26L, laptop compartment, travel bag, navy, black, 9900 JPY",
+        "unsplash_url": "https://unsplash.com/s/photos/LOGOS-DryCore-backpack,-waterproof,-26L,-laptop-compartment,-travel-bag,-navy,-black,-9900-JPY",
+        "pexels_url": "https://www.pexels.com/search/LOGOS%20DryCore%20backpack,%20waterproof,%2026L,%20laptop%20compartment,%20travel%20bag,%20navy,%20black,%209900%20JPY/"
+      }
+    },
     {
       "id": "plan_d3a7ced7",
       "created_at": "2026-10-06T02:59:12.029817",
@@ -923,160 +1077,6 @@
         "keyword": "Kyushu Japan discount travel train",
         "unsplash_url": "https://unsplash.com/s/photos/Kyushu-Japan-discount-travel-train",
         "pexels_url": "https://www.pexels.com/search/Kyushu%20Japan%20discount%20travel%20train/"
-      }
-    },
-    {
-      "id": "plan_d93e2307",
-      "created_at": "2026-10-03T01:56:53.596378",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL「九州ふっこう応援割」熊本県の実施決定。5日10時スタート、航空券＋宿が最大3万円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145372.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 계획 중이라면 최대 3만엔 할인받을 수 있는 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️규슈 여행 최대 3만엔 할인!",
-        "cards": [
-          {
-            "title": "九州ふっこう応援割",
-            "content": "일본 JAL에서 '규슈 부흥 응원 할인'을 실시합니다. ✈️熊本현 지역 예약에 한해 최대 3만엔까지 할인받을 수 있어요.",
-            "alt_text": "JAL 항공권 및 숙소 예약 페이지를 보여주는 이미지"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "할인 혜택은 10월 5일 오전 10시부터 시작됩니다. ⏰서둘러서 원하는 항공권과 숙소를 확보하세요!",
-            "alt_text": "시계 아이콘과 함께 예약 시작일을 알리는 이미지"
-          },
-          {
-            "title": "할인 대상",
-            "content": "이번 할인 프로모션은 JAL 전용 웹페이지에서 진행됩니다. 💻일본 규슈 지역의 항공권과 숙소를 함께 예약하면 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "JAL 로고와 함께 항공권, 숙소 아이콘이 있는 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "최대 3만엔까지 할인이 가능하니, 여행 경비를 크게 절약할 수 있습니다. 💰여행 계획 세우실 때 꼭 확인해보세요!",
-            "alt_text": "돈이 쌓여있는 이미지와 함께 '최대 3만엔 할인' 문구가 있는 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 있는 熊本현 지역은 예약 경쟁이 치열할 수 있어요. 🏃‍♀️오픈 시간에 맞춰 바로 예약하시는 것을 추천합니다!",
-            "alt_text": "달리는 사람 이모지와 함께 '빠른 예약'을 강조하는 이미지"
-          }
-        ],
-        "caption": "일본 규슈 여행 계획 중이신가요? 🇯🇵JAL에서 '규슈 부흥 응원 할인' 프로모션을 진행합니다! 熊本현 지역 항공권+숙소 예약 시 최대 3만엔까지 할인받을 수 있어요. 🤩\n\n✅ 예약 시작: 10월 5일 오전 10시\n✅ 예약 방법: JAL 전용 웹페이지\n\n여행 경비를 아낄 수 있는 절호의 기회를 놓치지 마세요! 😉\n\n#규슈여행 #일본여행 #JAL할인 #규슈부흥응원할인 #熊本현여행 #일본항공권 #일본숙소 #여행꿀팁 #플라잉재팬 #일본여행정보 #가을여행 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#JAL",
-          "#일본할인",
-          "#규슈",
-          "#熊本현",
-          "#여행스타그램",
-          "#일본항공권",
-          "#일본숙소",
-          "#여행정보",
-          "#일본여행팁",
-          "#가을여행",
-          "#일본여행준비",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "JAL 항공권 및 숙소 예약 페이지를 보여주는 이미지",
-          "시계 아이콘과 함께 예약 시작일을 알리는 이미지",
-          "JAL 로고와 함께 항공권, 숙소 아이콘이 있는 이미지",
-          "돈이 쌓여있는 이미지와 함께 '최대 3만엔 할인' 문구가 있는 이미지",
-          "달리는 사람 이모지와 함께 '빠른 예약'을 강조하는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 직접적인 할인 정보와 구체적인 시작일, 예약 방법 제시",
-      "image": {
-        "keyword": "JAL, Kyushu, discount, travel, Japan, Kumamoto, flight, hotel, promotion, autumn",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Kyushu,-discount,-travel,-Japan,-Kumamoto,-flight,-hotel,-promotion,-autumn",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Kyushu,%20discount,%20travel,%20Japan,%20Kumamoto,%20flight,%20hotel,%20promotion,%20autumn/"
-      }
-    },
-    {
-      "id": "plan_ea7fff5f",
-      "created_at": "2026-10-03T01:56:46.372858",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL Pay、最大1万マイルが当たるJALカード会員向け“Wチャンス”。展開中の100％ポイントバックキャンペーンで",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145386.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 카드 회원이라면 놓칠 수 없는 최대 1만 마일 혜택!"
-      },
-      "content": {
-        "thumbnail_title": "JAL 카드 ✈️ 최대 1만 마일 혜택!",
-        "cards": [
-          {
-            "title": "JAL 카드 회원 혜택",
-            "content": "10월부터 JAL 카드 회원 한정으로 특별한 혜택이 추가됩니다. JAL 페이먼트 포트에서 진행하는 캠페인에 참여하세요.",
-            "alt_text": "JAL 카드 로고와 혜택을 나타내는 아이콘"
-          },
-          {
-            "title": "최대 1만 마일 증정",
-            "content": "캠페인 참여자 중 추첨을 통해 최대 1만 JAL 마일을 증정합니다. 여행 경비를 절약할 수 있는 절호의 기회입니다.",
-            "alt_text": "마일리지 아이콘과 함께 '최대 10,000' 숫자가 강조된 이미지"
-          },
-          {
-            "title": "100% 포인트백",
-            "content": "현재 진행 중인 100% 포인트백 캠페인과 함께 JAL 카드 회원 한정 혜택을 누릴 수 있습니다. 놓치지 마세요!",
-            "alt_text": "100% 포인트백을 나타내는 할인율 아이콘"
-          },
-          {
-            "title": "JAL 카드 혜택 확인",
-            "content": "JAL 카드 회원이라면 이번 캠페인을 통해 더욱 풍성한 혜택을 받을 수 있습니다. 자세한 내용은 JAL 카드 홈페이지를 참고하세요.",
-            "alt_text": "JAL 카드 회원 전용 혜택 안내 이미지"
-          },
-          {
-            "title": "마일리지 활용 꿀팁",
-            "content": "적립된 JAL 마일은 항공권 구매, 좌석 업그레이드 등 다양하게 활용 가능합니다. 다음 일본 여행 계획 시 꼭 활용해보세요!",
-            "alt_text": "마일리지로 항공권, 좌석 업그레이드를 하는 모습"
-          }
-        ],
-        "caption": "✈️ JAL 카드 회원이라면 주목! ✈️\n\n10월부터 JAL 카드 회원님들을 위한 특별한 혜택이 추가됩니다! 현재 진행 중인 100% 포인트백 캠페인과 함께, 추첨을 통해 최대 1만 JAL 마일까지 받을 수 있는 기회! 🤩\n\n다음 일본 여행 준비, JAL 마일리지로 더욱 알차게 만들어보세요!\n\n#JAL카드 #JAL마일 #일본여행꿀팁 #항공권할인 #여행스타그램 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#JAL카드",
-          "#JAL마일",
-          "#일본항공",
-          "#항공권할인",
-          "#여행정보",
-          "#혜택",
-          "#포인트백",
-          "#여행꿀팁",
-          "#일본",
-          "#여행",
-          "#항공",
-          "#마일리지"
-        ],
-        "alt_texts": [
-          "JAL 카드 로고와 혜택을 나타내는 아이콘",
-          "마일리지 아이콘과 함께 '최대 10,000' 숫자가 강조된 이미지",
-          "100% 포인트백을 나타내는 할인율 아이콘",
-          "JAL 카드 회원 전용 혜택 안내 이미지",
-          "마일리지로 항공권, 좌석 업그레이드를 하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 카드 소지 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 정보 획득 및 캠페인 참여 문의 / 이 콘텐츠의 강점: 구체적인 혜택 수치와 함께 즉각적인 여행 경비 절감 효과를 어필",
-      "image": {
-        "keyword": "JAL Card benefit, Japan travel miles, airline points, travel discount, loyalty program",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Card-benefit,-Japan-travel-miles,-airline-points,-travel-discount,-loyalty-program",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Card%20benefit,%20Japan%20travel%20miles,%20airline%20points,%20travel%20discount,%20loyalty%20program/"
       }
     }
   ]
