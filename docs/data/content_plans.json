@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-07T05:44:43.924672",
+  "last_updated": "2026-10-08T02:42:06.563364",
   "plans": [
+    {
+      "id": "plan_d9038ca8",
+      "created_at": "2026-10-08T02:42:04.563195",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Yahoo!トラベル、長崎県「九州ふっこう応援割」10月8日12時予約スタート。最大50％＋誰でも10％のW割引",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2146554.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비를 절약할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💴 규슈 50% 할인 찬스!",
+        "cards": [
+          {
+            "title": "나가사키 지원금",
+            "content": "일본 정부가 제공하는 '규슈 부흥 응원 할인'이 나가사키현에서도 시작됩니다. 최대 50% 할인 혜택을 받을 수 있어요.",
+            "alt_text": "규슈 부흥 응원 할인 로고"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "할인 혜택이 적용되는 나가사키현 숙박 및 여행 상품 예약은 10월 8일 오후 12시부터 시작됩니다. 놓치지 마세요!",
+            "alt_text": "달력에 표시된 10월 8일"
+          },
+          {
+            "title": "추가 10% 할인",
+            "content": "이번 프로모션은 기존 최대 50% 할인에 더해, 모든 참여자에게 추가 10% 할인 혜택을 제공합니다. 중복 할인이 가능해요!",
+            "alt_text": "할인율 표시 이미지"
+          },
+          {
+            "title": "할인 적용 대상",
+            "content": "이번 지원금은 나가사키현 내의 숙박 및 관광 상품에 적용됩니다. 여행 계획 시 꼭 확인하세요.",
+            "alt_text": "나가사키 관광지 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 지역은 조기 마감될 수 있으니, 예약 시작 시간에 맞춰 빠르게 신청하는 것이 좋습니다. 여행 계획을 미리 세워두세요!",
+            "alt_text": "여행 가방을 싸는 모습"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? 🇯🇵\n야후! 트래블에서 나가사키현 '규슈 부흥 응원 할인'을 10월 8일 낮 12시부터 시작합니다! 🎉\n최대 50% 할인에 추가 10% 할인까지! 💸\n경비를 크게 절약할 수 있는 절호의 기회이니, 나가사키 여행 계획 있다면 꼭 활용해보세요!\n\n#규슈부흥응원할인 #나가사키여행 #일본여행정보 #여행할인 #가성비여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#나가사키",
+          "#일본할인",
+          "#여행정보",
+          "#일본숙소",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#엔저",
+          "#할인정보",
+          "#일본여행팁",
+          "#규슈부흥응원할인"
+        ],
+        "alt_texts": [
+          "규슈 부흥 응원 할인 로고",
+          "달력에 표시된 10월 8일",
+          "할인율 표시 이미지",
+          "나가사키 관광지 이미지",
+          "여행 가방을 싸는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 실질적인 비용 절감 정보 제공, 긴급성 강조",
+      "image": {
+        "keyword": "Nagasaki, Kyushu, Japan discount, travel promotion, save money",
+        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki,-Kyushu,-Japan-discount,-travel-promotion,-save-money",
+        "pexels_url": "https://www.pexels.com/search/Nagasaki,%20Kyushu,%20Japan%20discount,%20travel%20promotion,%20save%20money/"
+      }
+    },
+    {
+      "id": "plan_11038f27",
+      "created_at": "2026-10-08T02:41:59.935110",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ディズニー・クリスマス」フードメニューまとめ。注目は朝限定のお茶漬け、みんなでシェアできるパーティーバケット【2026】",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2146555.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니랜드 연말 한정 크리스마스 먹거리 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "🎄도쿄 디즈니 Xmas 푸드🎄",
+        "cards": [
+          {
+            "title": "크리스마스 기간",
+            "content": "도쿄 디즈니랜드 '디즈니・크리스마스'는 11월 11일부터 12월 25일까지 개최됩니다. 잊지 못할 특별한 추억을 만들어 보세요!",
+            "alt_text": "도쿄 디즈니랜드 크리스마스 시즌 안내"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "이번 크리스마스 시즌에는 아침 한정으로 제공되는 특별한 오차즈케와 여럿이 함께 나눠 먹기 좋은 파티 버킷 등 다채로운 메뉴가 준비되어 있습니다.",
+            "alt_text": "도쿄 디즈니랜드 시즌 한정 메뉴 이미지"
+          },
+          {
+            "title": "축제의 맛",
+            "content": "크리스마스 분위기를 물씬 느낄 수 있는 특별한 음식들로 가득한 디즈니랜드에서 맛있는 추억을 쌓아보세요.",
+            "alt_text": "크리스마스 테마의 디저트와 음료 이미지"
+          },
+          {
+            "title": "가족, 친구와 함께",
+            "content": "온 가족, 소중한 친구와 함께 즐기는 디즈니 크리스마스는 최고의 선물이 될 거예요. 특별한 메뉴와 함께 즐거운 시간을 만끽하세요!",
+            "alt_text": "디즈니랜드에서 즐거운 시간을 보내는 가족과 친구들 이미지"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "인기 메뉴는 조기 품절될 수 있으니, 방문 전 디즈니 공식 앱을 통해 메뉴 정보와 판매처를 미리 확인하는 것을 추천합니다.",
+            "alt_text": "도쿄 디즈니랜드 앱 화면 이미지"
+          }
+        ],
+        "caption": "✨도쿄 디즈니랜드 2024년 크리스마스 시즌 한정 푸드 총정리!✨\n\n11월 11일부터 12월 25일까지 열리는 '디즈니・크리스마스' 기간 동안 특별한 먹거리들이 여러분을 기다립니다!\n\n아침 한정 오차즈케부터 모두 함께 즐길 수 있는 파티 버킷까지! 🎄\n\n올겨울, 도쿄 디즈니랜드에서 잊지 못할 맛있는 추억을 만들어보세요!\n\n#일본여행 #도쿄디즈니랜드 #디즈니크리스마스 #크리스마스푸드 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니크리스마스",
+          "#도쿄여행",
+          "#일본크리스마스",
+          "#디즈니푸드",
+          "#여행꿀팁",
+          "#겨울여행",
+          "#해외여행",
+          "#디즈니시즌",
+          "#도쿄맛집",
+          "#여행스타그램",
+          "#크리스마스",
+          "#2024크리스마스"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 크리스마스 시즌 안내",
+          "도쿄 디즈니랜드 시즌 한정 메뉴 이미지",
+          "크리스마스 테마의 디저트와 음료 이미지",
+          "디즈니랜드에서 즐거운 시간을 보내는 가족과 친구들 이미지",
+          "도쿄 디즈니랜드 앱 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 연말 시즌 도쿄 디즈니랜드 방문 예정인 2030 한국인 여행객 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 시즌 한정 정보로 즉각적인 관심 유발, 구체적인 메뉴 언급으로 흥미 증진",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas food party bucket ochazuke limited menu",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-food-party-bucket-ochazuke-limited-menu",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20food%20party%20bucket%20ochazuke%20limited%20menu/"
+      }
+    },
     {
       "id": "plan_a03d9d5a",
       "created_at": "2026-10-07T05:44:41.924555",
@@ -923,160 +1077,6 @@
         "keyword": "luxury onsen ryokan, Japan, Saga, Ureshino, Hoshino Resorts, private outdoor bath, garden, beautiful skin hot spring",
         "unsplash_url": "https://unsplash.com/s/photos/luxury-onsen-ryokan,-Japan,-Saga,-Ureshino,-Hoshino-Resorts,-private-outdoor-bath,-garden,-beautiful-skin-hot-spring",
         "pexels_url": "https://www.pexels.com/search/luxury%20onsen%20ryokan,%20Japan,%20Saga,%20Ureshino,%20Hoshino%20Resorts,%20private%20outdoor%20bath,%20garden,%20beautiful%20skin%20hot%20spring/"
-      }
-    },
-    {
-      "id": "plan_6a610349",
-      "created_at": "2026-10-04T05:41:08.054032",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジェイトリップ「九州ふっこう応援割」実施決定。10月5日から、JAL航空券＋宿泊が会員限定で最大60％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145288.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 JAL 항공권+숙박 최대 60% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 규슈 최대 60% 할인!",
-        "cards": [
-          {
-            "title": "규슈 할인 시작!",
-            "content": "J-TRIP에서 '규슈 부흥 응원 할인'을 실시합니다. 10월 5일 12시부터 JAL 항공권과 숙박을 결합한 전용 플랜을 회원 한정으로 판매합니다.",
-            "alt_text": "일본 규슈 지역 지도 이미지"
-          },
-          {
-            "title": "최대 60% 할인",
-            "content": "구마모토, 가고시마는 최대 60% 할인이 적용되며, 그 외 5개 현도 최대 50% 할인을 받을 수 있습니다. 일본 여행 경비를 크게 절약할 기회입니다.",
-            "alt_text": "할인율을 보여주는 그래픽 이미지"
-          },
-          {
-            "title": "JAL 항공권 포함",
-            "content": "이번 할인 프로모션은 JAL 항공권을 포함한 패키지 상품에 적용됩니다. 일본 항공 이용 계획이 있다면 눈여겨보세요.",
-            "alt_text": "JAL 항공기 날개 이미지"
-          },
-          {
-            "title": "회원 한정 혜택",
-            "content": "할인 혜택은 J-TRIP 회원에게만 제공됩니다. 아직 회원이 아니라면 미리 가입하여 혜택을 놓치지 마세요.",
-            "alt_text": "회원 가입을 안내하는 아이콘 이미지"
-          },
-          {
-            "title": "여행 계획 필수!",
-            "content": "규슈 지역 여행을 계획 중이라면 이번 할인 정보를 꼭 확인하세요. 10월 5일 12시부터 판매 시작이니 알람 설정은 필수입니다!",
-            "alt_text": "달력에 표시된 10월 5일 날짜 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 규슈 여행, 역대급 할인 찬스! ✈️\n\nJ-TRIP에서 10월 5일 12시부터 '규슈 부흥 응원 할인'을 시작합니다!\n\n✅ 구마모토, 가고시마 최대 60% 할인!\n✅ 그 외 5개 현 최대 50% 할인!\n✅ JAL 항공권 + 숙박 포함 전용 플랜\n✅ 회원 한정 특별 혜택\n\n규슈 여행 계획 중이라면 지금 바로 J-TRIP에서 회원 가입하고 역대급 할인 혜택을 잡아보세요! 💨\n\n#규슈여행 #일본여행 #JAL #항공권할인 #숙박할인 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#일본항공권",
-          "#JAL",
-          "#일본숙소",
-          "#일본할인",
-          "#여행정보",
-          "#일본여행준비",
-          "#여행스타그램",
-          "#가고시마",
-          "#구마모토",
-          "#여행팁",
-          "#해외여행",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 지도 이미지",
-          "할인율을 보여주는 그래픽 이미지",
-          "JAL 항공기 날개 이미지",
-          "회원 가입을 안내하는 아이콘 이미지",
-          "달력에 표시된 10월 5일 날짜 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 관심과 참여 (할인율이 높아 즉각적인 반응 예상) / 이 콘텐츠의 강점: 파격적인 할인율과 구체적인 정보 제공으로 여행 계획에 실질적인 도움 제공",
-      "image": {
-        "keyword": "Japan Kyushu discount flight hotel JAL",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-discount-flight-hotel-JAL",
-        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20discount%20flight%20hotel%20JAL/"
-      }
-    },
-    {
-      "id": "plan_43c5b6e2",
-      "created_at": "2026-10-04T05:41:02.945761",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "年末年始の新幹線のぞみ「EX早特☆期間限定セール！」。東京～新大阪2920円引き、東京～広島4960円引きに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145349.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "연말연시 신칸센 특가로 일본 여행 경비를 확 줄일 수 있는 기회!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 신칸센 2920엔↓ 특가 득템!",
-        "cards": [
-          {
-            "title": "역대급 할인!",
-            "content": "연말연시 동해도·산요 신칸센 '노조미' 보통차 지정석 특별 할인 판매! 🚄",
-            "alt_text": "신칸센 열차 이미지"
-          },
-          {
-            "title": "도쿄~오사카",
-            "content": "도쿄에서 신오사카 구간 티켓이 무려 2920엔 할인된 가격으로! 💰",
-            "alt_text": "도쿄 타워와 오사카 성 이미지"
-          },
-          {
-            "title": "도쿄~히로시마",
-            "content": "도쿄에서 히로시마까지도 4960엔 할인된 가격으로 만날 수 있어요! 😮",
-            "alt_text": "히로시마 평화기념공원 이미지"
-          },
-          {
-            "title": "기간 한정 특가",
-            "content": "JR 도카이와 JR 니시니혼이 함께하는 'EX 하야토쿠☆ 기간 한정 세일!' 놓치지 마세요! 🗓️",
-            "alt_text": "캘린더 이미지"
-          },
-          {
-            "title": "예약 꿀팁!",
-            "content": "좌석 수 한정 특가이니 서둘러 예약하는 것이 필수! JR 도카이/니시니혼 공식 홈페이지를 확인하세요. 💻",
-            "alt_text": "노트북 화면에 예약 페이지가 보이는 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템 신칸센! 🚄 연말연시 동해도·산요 신칸센 '노조미' 보통차 지정석이 역대급 할인을 진행해요! ✨\n\n✅ 도쿄 ↔️ 신오사카: 2920엔 할인\n✅ 도쿄 ↔️ 히로시마: 4960엔 할인\n\n좌석 수 한정 특가이니 지금 바로 예약하고 알찬 일본 여행 계획 세우세요! 😉\n\n#일본여행 #신칸센 #연말연시 #특가 #할인 #교통정보 #JR #노조미 #도쿄 #오사카 #히로시마 #여행팁 #플라잉재팬 #일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#연말연시",
-          "#특가",
-          "#할인",
-          "#교통정보",
-          "#JR",
-          "#노조미",
-          "#도쿄",
-          "#오사카",
-          "#히로시마",
-          "#여행팁",
-          "#일본",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "신칸센 열차 이미지",
-          "도쿄 타워와 오사카 성 이미지",
-          "히로시마 평화기념공원 이미지",
-          "캘린더 이미지",
-          "노트북 화면에 예약 페이지가 보이는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간대 (18시~21시) / 기대 반응: 높은 클릭률 및 공유율, 특가 정보에 대한 즉각적인 관심 / 이 콘텐츠의 강점: 구체적인 할인 금액과 노선 정보 제공으로 실질적인 여행 경비 절감 효과 강조",
-      "image": {
-        "keyword": "Shinkansen bullet train, Japan, discount, limited time offer, travel savings",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-bullet-train,-Japan,-discount,-limited-time-offer,-travel-savings",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20bullet%20train,%20Japan,%20discount,%20limited%20time%20offer,%20travel%20savings/"
       }
     }
   ]
