@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-09T02:56:48.636999",
+  "last_updated": "2026-10-09T05:57:15.999895",
   "plans": [
+    {
+      "id": "plan_099964be",
+      "created_at": "2026-10-09T05:57:13.999720",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "3連休は新幹線「のぞみ」自由席なし。指定席の予約必須につき要注意",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2146861.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연휴 기간 신칸센 '노조미'호, 전 좌석 지정석으로 변경! 예매 필수!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 노조미호, 전석 지정석 🍣",
+        "cards": [
+          {
+            "title": "노조미호",
+            "content": "다가오는 3일 연휴 기간, 도카이도/산요 신칸센 '노조미'호는 전 좌석 지정석으로만 운행됩니다. 현장에서 자유석 이용이 불가하니 반드시 사전 예매하세요.",
+            "alt_text": "신칸센 노조미호 열차 이미지"
+          },
+          {
+            "title": "지정석 필수",
+            "content": "별도의 자유석이 운영되지 않으므로, 해당 기간 동안 '노조미'호를 이용하려면 지정석 예매가 필수입니다. 예매하지 않으면 탑승이 어렵습니다.",
+            "alt_text": "신칸센 좌석 예약 화면 이미지"
+          },
+          {
+            "title": "예매 방법",
+            "content": "JR 공식 웹사이트, 역 창구, 여행사 등을 통해 미리 지정석을 예매하시기 바랍니다. 특히 인기 있는 시간대는 빠르게 매진될 수 있습니다.",
+            "alt_text": "JR 예약 웹사이트 캡처 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "연휴 기간 이동 시, '노조미'호 외 다른 열차(히카리, 고다마 등)는 자유석이 운영될 수 있으니, 예매 시 열차 종류를 꼭 확인하세요.",
+            "alt_text": "신칸센 노선도 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "원활한 여행을 위해 최소 1~2주 전부터 예매를 시작하는 것을 추천합니다. 특히 가족 단위나 단체 여행객은 서둘러 예약하세요!",
+            "alt_text": "일본 열차 안에서 창밖을 보는 여행객 이미지"
+          }
+        ],
+        "caption": "🇯🇵 3일 연휴 일본 여행 계획 중이신가요? 🚄\nJR 도카이/JR 서일본은 다가오는 3일 연휴 기간, 도카이도/산요 신칸센 '노조미'호를 전 좌석 지정석으로만 운행합니다.\n현장 구매나 자유석 이용이 불가하니, '노조미'호 이용 예정이라면 반드시 사전 예매 필수! 잊지 말고 미리 예약해서 편안한 일본 여행 되세요! 😉\n\n#일본여행 #플라잉재팬 #신칸센 #노조미호 #일본교통 #연휴여행 #일본여행준비 #JR패스 #일본교통정보 #여행꿀팁 #필수정보 #일본여행팁 #안전여행 #즐거운여행 #일본",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#노조미호",
+          "#일본교통",
+          "#연휴여행",
+          "#일본여행준비",
+          "#JR패스",
+          "#일본교통정보",
+          "#여행꿀팁",
+          "#필수정보",
+          "#일본여행팁",
+          "#안전여행",
+          "#즐거운여행",
+          "#일본"
+        ],
+        "alt_texts": [
+          "신칸센 노조미호 열차 이미지",
+          "신칸센 좌석 예약 화면 이미지",
+          "JR 예약 웹사이트 캡처 이미지",
+          "신칸센 노선도 이미지",
+          "일본 열차 안에서 창밖을 보는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 연휴 기간 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 여행 출발 1~2주 전 주말 오전 10시 / 기대 반응: 정보의 실용성으로 인한 높은 저장 및 공유율 / 이 콘텐츠의 강점: 여행 직결 정보, 놓치면 곤란한 필수 공지",
+      "image": {
+        "keyword": "Shinkansen Nozomi reserved seats",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-Nozomi-reserved-seats",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20Nozomi%20reserved%20seats/"
+      }
+    },
+    {
+      "id": "plan_cb48fcf8",
+      "created_at": "2026-10-09T05:57:06.784606",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】新大阪駅「鰻巻き寿司（4個入り）」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2146833.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센 타기 전 꼭 맛봐야 할 신오사카역 한정 도시락!"
+      },
+      "content": {
+        "thumbnail_title": "🚄신오사카역 꿀맛 도시락!",
+        "cards": [
+          {
+            "title": "신오사카역 도시락",
+            "content": "신오사카역에서는 다양한 종류와 크기의 도시락을 만날 수 있어요. 그날의 기분과 취향에 딱 맞는 도시락을 고르기 좋아요.",
+            "alt_text": "신칸센 타는 사람들로 붐비는 신오사카역 승강장"
+          },
+          {
+            "title": "이번 주 추천!",
+            "content": "이번 주말에 추천하는 도시락은 '우나마키 스시 (4개입)'입니다.",
+            "alt_text": "먹음직스러운 우나마키 스시 도시락"
+          },
+          {
+            "title": "풍성한 선택지",
+            "content": "신오사카역은 도시락 종류가 정말 다양해서 선택의 폭이 넓답니다.",
+            "alt_text": "다양한 종류의 도시락이 진열된 신오사카역 매장"
+          },
+          {
+            "title": "간편하게 즐겨요",
+            "content": "기차 안에서도 간편하게 일본의 맛을 즐길 수 있는 도시락을 놓치지 마세요.",
+            "alt_text": "창밖 풍경을 보며 도시락을 먹는 승객"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "인기 도시락은 품절될 수 있으니, 출발 시간보다 여유 있게 역에 도착해서 구매하는 것을 추천해요!",
+            "alt_text": "도시락을 구매하는 여행객의 손"
+          }
+        ],
+        "caption": "일본 여행 중 신칸센 타기 전, 꼭 들러야 할 신오사카역! 🚄\n다양한 도시락 중에서 이번 주말 한정 메뉴인 '우나마키 스시 (4개입)'를 추천해요. 🍱\n풍성한 선택지로 취향에 맞는 도시락을 골라 기차 안에서 꿀맛 같은 식사를 즐겨보세요! 😋\n#신오사카역 #일본도시락 #신칸센 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신오사카역",
+          "#일본도시락",
+          "#駅弁",
+          "#신칸센",
+          "#일본기차여행",
+          "#일본음식",
+          "#여행스타그램",
+          "#일본정보",
+          "#먹스타그램",
+          "#일본자유여행",
+          "#여행필수품",
+          "#여행꿀팁",
+          "#일본쇼핑"
+        ],
+        "alt_texts": [
+          "신칸센 타는 사람들로 붐비는 신오사카역 승강장",
+          "먹음직스러운 우나마키 스시 도시락",
+          "다양한 종류의 도시락이 진열된 신오사카역 매장",
+          "창밖 풍경을 보며 도시락을 먹는 승객",
+          "도시락을 구매하는 여행객의 손"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 12시 ~ 2시 (점심 시간), 오후 5시 ~ 7시 (저녁 시간) / 기대 반응: 정보 공유, 구매 욕구 자극, 저장 / 이 콘텐츠의 강점: 구체적인 메뉴와 장소 언급, 실용적인 팁 제공",
+      "image": {
+        "keyword": "Shinosaka station bento box, Japanese train food, eel sushi bento",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinosaka-station-bento-box,-Japanese-train-food,-eel-sushi-bento",
+        "pexels_url": "https://www.pexels.com/search/Shinosaka%20station%20bento%20box,%20Japanese%20train%20food,%20eel%20sushi%20bento/"
+      }
+    },
     {
       "id": "plan_ad83e22f",
       "created_at": "2026-10-09T02:56:46.636856",
@@ -923,160 +1077,6 @@
         "keyword": "LOGOS DryCore backpack, waterproof, 26L, laptop compartment, travel bag, navy, black, 9900 JPY",
         "unsplash_url": "https://unsplash.com/s/photos/LOGOS-DryCore-backpack,-waterproof,-26L,-laptop-compartment,-travel-bag,-navy,-black,-9900-JPY",
         "pexels_url": "https://www.pexels.com/search/LOGOS%20DryCore%20backpack,%20waterproof,%2026L,%20laptop%20compartment,%20travel%20bag,%20navy,%20black,%209900%20JPY/"
-      }
-    },
-    {
-      "id": "plan_d3a7ced7",
-      "created_at": "2026-10-06T02:59:12.029817",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 伊香保、1泊2食が最大30％オフ。石段街の名湯に浸かり、群馬の豚すき焼きや寿司も食べ放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145830.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을/겨울 일본 온천 여행, 최대 30% 할인받고 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 30% 할인!",
-        "cards": [
-          {
-            "title": "가을/겨울 할인",
-            "content": "일본 료칸 숙박 시 최대 30% 할인 혜택을 받을 수 있는 '라쿠텐 트래블 오텀 세일'이 진행 중이에요. 10월 20일까지 진행되니 서둘러 예약하세요!",
-            "alt_text": "할인 배너 이미지"
-          },
-          {
-            "title": "대상 숙소",
-            "content": "일본 전국의 대상 호텔 및 온천 숙소에서 할인이 적용됩니다. 특히 군마현 이카호 온천의 '오에도 온천 이야기 프리미엄'에서는 1박 2식 포함 최대 30% 할인 혜택을 누릴 수 있어요.",
-            "alt_text": "료칸 외관 이미지"
-          },
-          {
-            "title": "이카호 온천",
-            "content": "'오에도 온천 이야기 프리미엄'에서는 군마현의 명물인 돼지 스키야키와 신선한 초밥을 뷔페식으로 무제한으로 즐길 수 있습니다. 맛있는 음식과 함께 온천을 만끽하세요!",
-            "alt_text": "온천 내부 이미지"
-          },
-          {
-            "title": "할인 팁",
-            "content": "여러 개의 쿠폰을 중복으로 사용하여 할인율을 최대로 높일 수 있습니다. 자세한 내용은 라쿠텐 트래블에서 확인하세요.",
-            "alt_text": "쿠폰 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "할인 기간 동안 숙소 예약을 미리 완료하고, 온천 여행에 필요한 짐을 꼼꼼히 챙기세요. 따뜻한 온천과 맛있는 음식으로 힐링하는 일본 여행을 계획해 보세요!",
-            "alt_text": "온천에서 휴식하는 사람 이미지"
-          }
-        ],
-        "caption": "♨️ 일본 온천 여행 계획 중이신가요? ♨️\n가을/겨울 시즌, 라쿠텐 트래블에서 최대 30% 할인받고 일본 온천을 즐길 기회! 🤩\n군마현 이카호 온천에서는 1박 2식 (스키야키, 초밥 무제한) 포함 특별 할인 혜택까지! 🍣\n10월 20일까지 진행되니, 놓치지 말고 지금 바로 예약하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#온천여행",
-          "#료칸",
-          "#일본할인",
-          "#라쿠텐트래블",
-          "#가을여행",
-          "#겨울여행",
-          "#일본숙소",
-          "#이카호온천",
-          "#군마현",
-          "#여행스타그램",
-          "#일본정보",
-          "#일본꿀팁"
-        ],
-        "alt_texts": [
-          "할인 배너 이미지",
-          "료칸 외관 이미지",
-          "온천 내부 이미지",
-          "쿠폰 이미지",
-          "온천에서 휴식하는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을/겨울 시즌 일본 온천 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 활발 / 이 콘텐츠의 강점: 구체적인 할인율, 할인 기간, 숙소 정보까지 제공하여 실질적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Japanese hot spring, discount, autumn sale, ryokan, Ikaho Onsen, Gunma",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-hot-spring,-discount,-autumn-sale,-ryokan,-Ikaho-Onsen,-Gunma",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20hot%20spring,%20discount,%20autumn%20sale,%20ryokan,%20Ikaho%20Onsen,%20Gunma/"
-      }
-    },
-    {
-      "id": "plan_cd935f95",
-      "created_at": "2026-10-06T02:59:06.193414",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA「ちいかわジェット」10月19日就航決定。初便は羽田～長崎線、国内線搭乗でコラボパスポートケース当たる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145898.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 '치이카와'와 함께 떠나는 특별한 일본 여행!"
-      },
-      "content": {
-        "thumbnail_title": "✈️치이카와 제트 뜬다!",
-        "cards": [
-          {
-            "title": "치이카와 제트",
-            "content": "ANA에서 인기 캐릭터 '치이카와'와 특별 디자인한 '치이카와 제트'가 10월 19일부터 운항을 시작합니다.",
-            "alt_text": "ANA 치이카와 제트 항공기 이미지"
-          },
-          {
-            "title": "첫 운항 노선",
-            "content": "첫 비행은 10월 19일, 하네다 공항에서 출발하여 나가사키 공항으로 향하는 국내선 노선입니다.",
-            "alt_text": "하네다 공항 출발, 나가사키 공항 도착 노선 지도"
-          },
-          {
-            "title": "특별 이벤트",
-            "content": "국내선 탑승객을 대상으로 '치이카와' 콜라보 여권 케이스 증정 이벤트도 진행됩니다.",
-            "alt_text": "치이카와 콜라보 여권 케이스 이미지"
-          },
-          {
-            "title": "탑승 가능 시기",
-            "content": "10월 19일부터 일본 국내선에서 '치이카와 제트'를 만나볼 수 있습니다.",
-            "alt_text": "달력에 10월 19일 표시된 이미지"
-          },
-          {
-            "title": "여행 팁",
-            "content": "일본 여행 계획 중이라면, 귀여운 치이카와 제트 탑승 기회를 놓치지 마세요! ANA 공식 홈페이지에서 운항 스케줄을 확인해보세요.",
-            "alt_text": "여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "귀여움 가득! ✈️ ANA '치이카와 제트'가 10월 19일부터 일본 국내선에서 운항을 시작합니다! 첫 비행은 하네다-나가사키 노선이며, 탑승객 대상 특별 선물 이벤트도 진행된다니 놓치지 마세요! \n\n#치이카와 #ANA항공 #일본여행 #특별한경험 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#치이카와",
-          "#ANA",
-          "#ANA항공",
-          "#일본항공",
-          "#일본국내선",
-          "#하네다공항",
-          "#나가사키",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#여행에미치다",
-          "#일본",
-          "#항공",
-          "#이벤트"
-        ],
-        "alt_texts": [
-          "ANA 치이카와 제트 항공기 이미지",
-          "하네다 공항 출발, 나가사키 공항 도착 노선 지도",
-          "치이카와 콜라보 여권 케이스 이미지",
-          "달력에 10월 19일 표시된 이미지",
-          "여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 인기 캐릭터 '치이카와'를 활용한 시각적 매력과 구체적인 운항 정보 제공",
-      "image": {
-        "keyword": "ANA Chiikawa Jet, Japan domestic flight, October 19th, character collaboration, travel event",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-Chiikawa-Jet,-Japan-domestic-flight,-October-19th,-character-collaboration,-travel-event",
-        "pexels_url": "https://www.pexels.com/search/ANA%20Chiikawa%20Jet,%20Japan%20domestic%20flight,%20October%2019th,%20character%20collaboration,%20travel%20event/"
       }
     }
   ]
