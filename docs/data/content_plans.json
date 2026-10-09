@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-08T05:51:34.489041",
+  "last_updated": "2026-10-09T02:56:48.636999",
   "plans": [
+    {
+      "id": "plan_ad83e22f",
+      "created_at": "2026-10-09T02:56:46.636856",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "埼玉・こうのす花火大会とブルーインパルス飛行で朝から交通規制。13時以降はJR鴻巣駅周辺にも範囲拡大",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2146905.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 가을 대표 불꽃축제, 교통 통제 정보 미리 확인하고 계획 세우세요!"
+      },
+      "content": {
+        "thumbnail_title": "🎆 10월 10일 鴻巣 불꽃축제 🎆",
+        "cards": [
+          {
+            "title": "불꽃축제 & 블루인파스",
+            "content": "10월 10일, 사이타마현 코우노스시에서 제23회 코우노스 불꽃축제와 블루인파스(공군 특기비행팀)의 전시 비행이 열립니다.",
+            "alt_text": "화려한 불꽃이 밤하늘을 수놓고 있는 모습"
+          },
+          {
+            "title": "대규모 교통 통제",
+            "content": "행사 당일, 누타 운동장, 아라카와 강변, 요시미 유료 주차장 주변 도로에서 대규모 교통 통제가 실시됩니다. 13시부터는 JR 코우노스역 주변까지 통제 범위가 확대됩니다.",
+            "alt_text": "교통 통제 표지판이 설치된 도로 모습"
+          },
+          {
+            "title": "대중교통 이용 필수",
+            "content": "자세한 통제 시간 및 구간은 행사 주최 측의 공지를 참고하여, 행사 당일에는 대중교통 이용을 적극 권장합니다.",
+            "alt_text": "JR 코우노스역 전경"
+          },
+          {
+            "title": "미리 계획 세우기",
+            "content": "방문 예정이시라면, 교통 통제 정보를 미리 확인하시고 행사 당일 이동 계획을 꼼꼼하게 세우시는 것이 좋습니다.",
+            "alt_text": "일본 기차역 플랫폼에서 열차를 기다리는 사람들"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "행사 당일 혼잡이 예상되므로, 여유로운 일정으로 방문하시고 소지품 관리에 유의하세요. 또한, 불꽃축제 시각에 맞춰 이동 경로를 미리 파악해두는 것이 좋습니다.",
+            "alt_text": "일본 편의점에서 도시락을 고르는 여행객"
+          }
+        ],
+        "caption": "✨10월 10일, 사이타마현 코우노스시에서 열리는 '제23회 코우노스 불꽃축제'와 블루인파스 전시 비행 소식! 🎆\n행사 당일, 누타 운동장 및 JR 코우노스역 주변 도로에서 대규모 교통 통제가 예정되어 있어요. 🚗\n방문 예정이시라면, 교통 통제 정보를 미리 확인하시고 대중교통 이용 계획을 세우시는 것을 추천합니다! 🚆\n\n#일본여행 #코우노스불꽃축제 #사이타마여행 #가을축제 #교통정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#코우노스불꽃축제",
+          "#사이타마",
+          "#일본축제",
+          "#불꽃놀이",
+          "#블루인파스",
+          "#교통통제",
+          "#가을여행",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#여행스타그램",
+          "#일본",
+          "#10월여행"
+        ],
+        "alt_texts": [
+          "화려한 불꽃이 밤하늘을 수놓고 있는 모습",
+          "교통 통제 표지판이 설치된 도로 모습",
+          "JR 코우노스역 전경",
+          "일본 기차역 플랫폼에서 열차를 기다리는 사람들",
+          "일본 편의점에서 도시락을 고르는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 10월 일본 여행 예정인 한국인 / 최적 게시 시간: 여행 계획 세우는 저녁 시간대 (19시~22시) / 기대 반응: 정보 확인 및 공유, 여행 계획 반영 / 이 콘텐츠의 강점: 실제 여행에 직결되는 구체적인 교통 통제 정보 제공",
+      "image": {
+        "keyword": "konosu fireworks festival traffic control",
+        "unsplash_url": "https://unsplash.com/s/photos/konosu-fireworks-festival-traffic-control",
+        "pexels_url": "https://www.pexels.com/search/konosu%20fireworks%20festival%20traffic%20control/"
+      }
+    },
+    {
+      "id": "plan_80f9e7fb",
+      "created_at": "2026-10-09T02:56:40.041396",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "1～2月のゲレンデは外国人で激混み？　JATAが推す「春スキー・スノボ」の先取り予約",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2146941.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울 막바지, 3월에도 알찬 일본 스키/스노보드 여행을 계획하세요!"
+      },
+      "content": {
+        "thumbnail_title": "🏂 3월 일본 스키! 꿀팁 🍯",
+        "cards": [
+          {
+            "title": "일본 스키 시즌",
+            "content": "1~2월 성수기에는 일본 스키장에서 외국인 관광객으로 매우 붐빕니다. 3월에는 상대적으로 한적하게 스키와 스노보드를 즐길 수 있습니다.",
+            "alt_text": "눈 덮인 일본 스키장 풍경"
+          },
+          {
+            "title": "3월 출발 혜택",
+            "content": "일본 여행업협회(JATA)는 '봄 스키 & 스노보드는 미리 예약하면 이득! 3월 출발 캠페인'을 설명했습니다. 3월 출발 상품을 미리 예약하면 더욱 합리적인 가격으로 이용 가능합니다.",
+            "alt_text": "스키 장비를 든 사람들의 모습"
+          },
+          {
+            "title": "미리 예약 팁",
+            "content": "항공권과 숙소를 미리 예약하면 1~2월보다 저렴한 가격으로 일본 스키 여행을 준비할 수 있습니다. 특히 인기 있는 스키 리조트는 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "항공권과 숙소 예약 화면"
+          },
+          {
+            "title": "3월 스키장의 장점",
+            "content": "3월은 눈이 녹기 시작하지만, 아직 충분한 설질을 유지하는 곳이 많습니다. 또한, 따뜻한 날씨 속에서 여유롭게 슬로프를 즐길 수 있다는 장점이 있습니다.",
+            "alt_text": "햇살 좋은 3월의 스키장"
+          },
+          {
+            "title": "여행 계획 시",
+            "content": "여행 계획 시, 3월에도 운영하는 스키장인지, 잔설량은 충분한지, 그리고 3월 특별 할인 프로모션이 있는지 등을 미리 확인해보세요. 렌탈샵이나 리프트권 할인 정보도 놓치지 마세요!",
+            "alt_text": "스키 여행 준비물 리스트"
+          }
+        ],
+        "caption": "겨울 막바지, 3월에도 일본 스키/스노보드 원 없이 즐기자! ⛷️🏂 1-2월 성수기 인파 피해, 3월 출발 특별 캠페인과 함께 합리적인 가격으로 알찬 일본 스키 여행을 계획해보세요! 꿀팁 챙겨서 여유로운 슬로프 만끽하기! 🤩\n\n#일본스키 #일본스노보드 #봄스키 #3월여행 #일본여행 #플라잉재팬 #스키여행 #스노보드여행 #겨울여행 #일본자유여행 #해외여행 #여행정보 #여행팁 #일본",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본스키",
+          "#일본스노보드",
+          "#봄스키",
+          "#3월여행",
+          "#스키여행",
+          "#스노보드여행",
+          "#겨울여행",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행정보",
+          "#여행팁",
+          "#일본",
+          "#스키장"
+        ],
+        "alt_texts": [
+          "눈 덮인 일본 스키장 풍경",
+          "스키 장비를 든 사람들의 모습",
+          "항공권과 숙소 예약 화면",
+          "햇살 좋은 3월의 스키장",
+          "스키 여행 준비물 리스트"
+        ]
+      },
+      "marketer_analysis": "타겟: 1~2월 일본 스키 여행을 놓쳤거나, 덜 붐비는 시기에 일본 스키/스노보드를 즐기고 싶은 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시 (주말 여행 계획 시점) / 기대 반응: 3월 일본 스키 여행 계획에 대한 관심 및 정보 탐색 / 이 콘텐츠의 강점: 성수기를 피해 합리적인 비용으로 일본 스키 여행을 즐길 수 있다는 점을 강조",
+      "image": {
+        "keyword": "japan ski resort 3월, japan snowboard season end, spring ski japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-ski-resort-3월,-japan-snowboard-season-end,-spring-ski-japan-travel",
+        "pexels_url": "https://www.pexels.com/search/japan%20ski%20resort%203월,%20japan%20snowboard%20season%20end,%20spring%20ski%20japan%20travel/"
+      }
+    },
     {
       "id": "plan_a9fd1feb",
       "created_at": "2026-10-08T05:51:32.488785",
@@ -923,160 +1077,6 @@
         "keyword": "ANA Chiikawa Jet, Japan domestic flight, October 19th, character collaboration, travel event",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-Chiikawa-Jet,-Japan-domestic-flight,-October-19th,-character-collaboration,-travel-event",
         "pexels_url": "https://www.pexels.com/search/ANA%20Chiikawa%20Jet,%20Japan%20domestic%20flight,%20October%2019th,%20character%20collaboration,%20travel%20event/"
-      }
-    },
-    {
-      "id": "plan_61e167c5",
-      "created_at": "2026-10-05T05:24:58.701767",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JTB「九州ふっこう応援割」まもなく宮崎県の予約スタート。国内ツアー（交通＋宿泊）が最大50％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145581.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 시 교통+숙박 최대 50% 할인 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "✈️규슈 최대 50% 할인!",
-        "cards": [
-          {
-            "title": "九州ふっこう応援割",
-            "content": "일본 규슈 지역 여행 시, 교통+숙박 포함 국내 투어가 최대 50% 할인되는 '규슈 부흥 응원 할인' 프로모션이 시작됩니다.",
-            "alt_text": "일본 규슈 지역 지도와 할인 50% 아이콘"
-          },
-          {
-            "title": "미야자키 예약 시작",
-            "content": "특히, 10월 5일 낮 12시부터는 미야자키현 예약 접수가 시작됩니다. 이 기회를 놓치지 마세요!",
-            "alt_text": "달력에 10월 5일 표시와 시계 아이콘"
-          },
-          {
-            "title": "예약 방법",
-            "content": "예약은 각 웹사이트의 전용 페이지에서만 가능합니다. 현장 및 전화 예약은 아직 시작 시기가 미정입니다.",
-            "alt_text": "컴퓨터 화면에 예약 페이지가 뜨는 모습"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "교통편과 숙박을 함께 예약하는 패키지 상품에 적용되며, 최대 50%까지 할인받을 수 있습니다.",
-            "alt_text": "크게 표시된 50% 할인율"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "할인 혜택을 받으려면 공식 웹사이트를 통해 미리 예약하는 것이 중요합니다. 규슈 지역 여행 계획 중이라면 꼭 확인하세요!",
-            "alt_text": "여행 가방과 할인 쿠폰 이미지"
-          }
-        ],
-        "caption": "🇯🇵 규슈 여행 최대 50% 할인 찬스! ✈️\n\n일본 규슈 지역 여행을 계획 중이라면 주목! \n'규슈 부흥 응원 할인' 프로모션으로 교통+숙박 포함 투어를 최대 50% 할인받을 수 있어요. \n특히 10월 5일 낮 12시부터 미야자키현 예약이 시작되니, 서둘러 전용 페이지에서 예약하세요! 💨\n\n#일본여행 #규슈여행 #일본할인 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#일본할인",
-          "#여행정보",
-          "#일본교통",
-          "#일본숙소",
-          "#미야자키",
-          "#여행팁",
-          "#일본자유여행",
-          "#해외여행",
-          "#할인정보",
-          "#여행스타그램",
-          "#일본",
-          "# Kyushu"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 지도와 할인 50% 아이콘",
-          "달력에 10월 5일 표시와 시계 아이콘",
-          "컴퓨터 화면에 예약 페이지가 뜨는 모습",
-          "크게 표시된 50% 할인율",
-          "여행 가방과 할인 쿠폰 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 할인 정보에 대한 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 예약 시작일을 명시하여 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Japan Kyushu travel discount coupon flight hotel accommodation",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount-coupon-flight-hotel-accommodation",
-        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount%20coupon%20flight%20hotel%20accommodation/"
-      }
-    },
-    {
-      "id": "plan_85dc996d",
-      "created_at": "2026-10-05T05:24:52.789316",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 松乃井、1泊2食バイキングが最大30％オフ。群馬みなかみの紅葉狩りと館内湯めぐり堪能",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145614.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 숙소 가을/겨울 특가 최대 30% 할인 정보!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 30% 할인♨️",
-        "cards": [
-          {
-            "title": "할인 정보",
-            "content": "일본 온천 숙소 '오오에도 온천 이야기 프리미엄 마츠노이'에서 1박 2식 뷔페 이용 시 최대 30% 할인 혜택을 제공합니다. 가을/겨울 여행 예약 시 적용 가능합니다.",
-            "alt_text": "일본 온천 숙소 할인 정보 카드"
-          },
-          {
-            "title": "할인 기간",
-            "content": "이 혜택은 '라쿠텐 트래블 가을 세일' 기간 동안 제공되며, 10월 20일까지 예약 시 적용됩니다. 여러 쿠폰을 중복 사용하여 할인을 극대화할 수 있습니다.",
-            "alt_text": "일본 온천 숙소 할인 기간 카드"
-          },
-          {
-            "title": "주요 혜택",
-            "content": "군마 미나카미 지역의 아름다운 단풍 구경과 함께 온천을 즐길 수 있는 기회입니다. 1박 2식 뷔페가 포함되어 있어 더욱 알찬 여행이 가능합니다.",
-            "alt_text": "일본 온천 숙소 주요 혜택 카드"
-          },
-          {
-            "title": "예약 방법",
-            "content": "라쿠텐 트래블 웹사이트에서 '오오에도 온천 이야기 프리미엄 마츠노이' 숙소를 검색하고, 가을 세일 쿠폰을 적용하여 예약하면 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "일본 온천 숙소 예약 방법 카드"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인율이 높은 만큼 서둘러 예약하는 것을 추천합니다. 여러 할인 쿠폰을 동시에 적용하면 더욱 저렴하게 이용할 수 있으니 꼭 확인하세요!",
-            "alt_text": "일본 온천 숙소 꿀팁 카드"
-          }
-        ],
-        "caption": "♨️ 가을/겨울 일본 온천 여행 계획 중이신가요? ♨️\n군마 미나카미의 단풍과 함께 즐기는 '오오에도 온천 이야기 프리미엄 마츠노이'에서 최대 30% 할인된 가격으로 1박 2식 뷔페를 즐겨보세요! 🍁\n10월 20일까지 진행되는 라쿠텐 트래블 가을 세일 기간 동안 여러 쿠폰을 중복 사용하면 더욱 알뜰하게 예약 가능합니다. 지금 바로 확인해보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#일본숙소",
-          "#가을여행",
-          "#겨울여행",
-          "#할인정보",
-          "#일본가볼만한곳",
-          "#군마",
-          "#미나카미",
-          "#온천호텔",
-          "#라쿠텐트래블",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#일본온천여행"
-        ],
-        "alt_texts": [
-          "일본 온천 숙소 할인 정보 카드",
-          "일본 온천 숙소 할인 기간 카드",
-          "일본 온천 숙소 주요 혜택 카드",
-          "일본 온천 숙소 예약 방법 카드",
-          "일본 온천 숙소 꿀팁 카드"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 예약 문의 증가, 스크랩 및 공유 / 이 콘텐츠의 강점: 구체적인 할인율과 기간, 숙소 정보 제공으로 즉각적인 구매 전환 유도",
-      "image": {
-        "keyword": "japan onsen discount autumn fall leaf festival hotel buffet",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-discount-autumn-fall-leaf-festival-hotel-buffet",
-        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20discount%20autumn%20fall%20leaf%20festival%20hotel%20buffet/"
       }
     }
   ]
