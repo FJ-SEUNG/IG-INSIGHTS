@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-09T05:57:15.999895",
+  "last_updated": "2026-10-10T02:20:19.846932",
   "plans": [
+    {
+      "id": "plan_f585e256",
+      "created_at": "2026-10-10T02:20:17.846742",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "鹿児島県「九州ふっこう応援割」10月14日から実施決定。2月末宿泊分まで最大60％オフ、特設サイトは明日公開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147156.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "규슈 지역 여행 경비 확 줄여주는 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 규슈 최대 60% 할인! 💸",
+        "cards": [
+          {
+            "title": "규슈 응원 할인",
+            "content": "일본 관광청의 '규슈 부흥 응원 할인'이 '가고시마 부흥 응원 할인'으로 10월 14일부터 시작됩니다. 최대 60%까지 할인받을 수 있어요.",
+            "alt_text": "일본 가고시마 현 지도와 할인율 아이콘"
+          },
+          {
+            "title": "할인 기간",
+            "content": "2023년 10월 14일부터 2024년 2월 말까지 숙박하는 분들에게 적용됩니다. 놓치면 후회할 기회예요!",
+            "alt_text": "달력에 10월 14일부터 2월 말까지 표시된 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "숙박비의 최대 60%를 할인받을 수 있어, 평소 가고 싶었던 규슈 지역의 숙소를 훨씬 저렴하게 이용할 수 있습니다.",
+            "alt_text": "할인율 60%가 표시된 쿠폰 아이콘"
+          },
+          {
+            "title": "특설 사이트",
+            "content": "할인 관련 상세 정보 및 예약 방법은 내일(뉴스 기사 발행일 기준) 공개될 특설 사이트를 통해 확인할 수 있습니다.",
+            "alt_text": "웹사이트 접속 화면 아이콘"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "가고시마 외 규슈 다른 지역도 유사한 할인 정책이 있을 수 있으니, 여행 계획 시 꼭 확인해보세요! 미리 예약하면 더 유리합니다.",
+            "alt_text": "여행 가방과 지도 아이콘"
+          }
+        ],
+        "caption": "✨ 규슈 여행 꿈꿔왔다면 주목! ✨\n가고시마현에서 10월 14일부터 '가고시마 부흥 응원 할인'을 시작해요!\n무려 최대 60%까지 숙박비를 할인받을 수 있는 절호의 찬스! 🤩\n2024년 2월 말까지 숙박하는 분들에게 적용되니, 겨울 규슈 여행은 이걸로 결정하세요! ✈️\n자세한 내용은 내일 공개될 특설 사이트를 기다려주세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#가고시마",
+          "#일본숙소",
+          "#일본할인",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#부흥할인",
+          "#여행팁",
+          "#일본자유여행",
+          "#해외여행",
+          "#가을여행",
+          "#겨울여행",
+          "#일본경제"
+        ],
+        "alt_texts": [
+          "일본 가고시마 현 지도와 할인율 아이콘",
+          "달력에 10월 14일부터 2월 말까지 표시된 이미지",
+          "할인율 60%가 표시된 쿠폰 아이콘",
+          "웹사이트 접속 화면 아이콘",
+          "여행 가방과 지도 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중이거나 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 높은 관심과 문의, 할인 정보 공유 및 저장 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과 제시, 구체적인 할인율 및 기간 명시",
+      "image": {
+        "keyword": "Kagoshima, Japan, discount, travel support, accommodation, tourism, save money, promotion, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Kagoshima,-Japan,-discount,-travel-support,-accommodation,-tourism,-save-money,-promotion,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/Kagoshima,%20Japan,%20discount,%20travel%20support,%20accommodation,%20tourism,%20save%20money,%20promotion,%20limited%20time%20offer/"
+      }
+    },
+    {
+      "id": "plan_11a95597",
+      "created_at": "2026-10-10T02:20:12.374998",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "21時間の船旅を快適にしてくれる「au Starlink フェリーWi-Fi」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147061.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "21시간 일본 장거리 페리, 이제 와이파이 걱정 끝!"
+      },
+      "content": {
+        "thumbnail_title": "🚢21시간 페리 와이파이 꿀팁!",
+        "cards": [
+          {
+            "title": "페리 와이파이",
+            "content": "일본 장거리 페리 여행 필수템! KDDI와 W&W가 제공하는 'au Starlink 페리 Wi-Fi'로 21시간 동안 끊김 없는 인터넷을 즐겨보세요.",
+            "alt_text": "일본 페리 선박 이미지"
+          },
+          {
+            "title": "편안한 여행",
+            "content": "스마트폰은 여행의 필수품! 이제 긴 페리 안에서도 실시간 소통, 정보 검색, 엔터테인먼트를 마음껏 누릴 수 있습니다.",
+            "alt_text": "페리 내에서 스마트폰을 사용하는 여행객 이미지"
+          },
+          {
+            "title": "서비스 제공",
+            "content": "KDDI와 W&W의 합작 서비스로, 일본 주요 페리 노선에 순차적으로 도입될 예정입니다. (정확한 노선 및 도입 시기는 추후 공지 예정)",
+            "alt_text": "KDDI 로고와 W&W 로고가 함께 있는 이미지"
+          },
+          {
+            "title": "여행의 질 향상",
+            "content": "지루했던 장거리 페리 여행이 획기적으로 달라집니다. 친구, 가족과의 실시간 소통은 물론, 최신 일본 여행 정보까지 놓치지 마세요!",
+            "alt_text": "페리 창밖으로 보이는 바다 풍경 이미지"
+          },
+          {
+            "title": "이용 팁",
+            "content": "페리 탑승 전, 'au Starlink 페리 Wi-Fi' 서비스 제공 여부를 미리 확인하는 것이 좋습니다. 미리 알림 설정을 해두면 더욱 편리하게 이용 가능합니다.",
+            "alt_text": "스마트폰으로 와이파이 설정 화면을 확인하는 이미지"
+          }
+        ],
+        "caption": "일본 장거리 페리 여행, 21시간 동안 인터넷 없이 지루하셨나요? 😭\n\n이제 KDDI와 W&W가 선보이는 'au Starlink 페리 Wi-Fi'로 답답함 없이 편안하게 여행하세요! 📶\n\n페리 안에서도 실시간 소통, 정보 검색, 엔터테인먼트까지 모두 가능! \n\n다음 일본 페리 여행은 와이파이 걱정 없이 즐겨보세요! 😉\n\n📌 자세한 서비스 도입 노선 및 시기는 추후 공지 예정이니, 여행 계획 시 꼭 확인하세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본페리",
+          "#페리여행",
+          "#auStarlink",
+          "#일본교통",
+          "#일본여행필수템",
+          "#일본여행꿀팁",
+          "#장거리페리",
+          "#해외여행",
+          "#여행스타그램",
+          "#페리",
+          "#일본",
+          "#여행정보",
+          "#와이파이"
+        ],
+        "alt_texts": [
+          "일본 페리 선박 이미지",
+          "페리 내에서 스마트폰을 사용하는 여행객 이미지",
+          "KDDI 로고와 W&W 로고가 함께 있는 이미지",
+          "페리 창밖으로 보이는 바다 풍경 이미지",
+          "스마트폰으로 와이파이 설정 화면을 확인하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 페리 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (여행 계획 세우는 시간) / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 장거리 페리 이용객들의 불편 해소 및 실질적인 여행 편의 증진 정보 제공",
+      "image": {
+        "keyword": "Japan ferry, Wi-Fi, travel, smartphone, internet, KDDI, W&W, connectivity, comfortable journey, long distance",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Wi-Fi,-travel,-smartphone,-internet,-KDDI,-W&W,-connectivity,-comfortable-journey,-long-distance",
+        "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Wi-Fi,%20travel,%20smartphone,%20internet,%20KDDI,%20W&W,%20connectivity,%20comfortable%20journey,%20long%20distance/"
+      }
+    },
     {
       "id": "plan_099964be",
       "created_at": "2026-10-09T05:57:13.999720",
@@ -923,160 +1077,6 @@
         "keyword": "japan onsen ryokan hotel open hakone nasu",
         "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-ryokan-hotel-open-hakone-nasu",
         "pexels_url": "https://www.pexels.com/search/japan%20onsen%20ryokan%20hotel%20open%20hakone%20nasu/"
-      }
-    },
-    {
-      "id": "plan_cdc9337f",
-      "created_at": "2026-10-06T06:09:25.228958",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Suica×PASMOの新コード決済「teppay（テッペイ）」10月20日スタート。追加アプリ不要、割り勘やおこづかいの送金も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146003.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템, 모바일 결제 '테페이' 출시! 앱 하나로 간편하게!"
-      },
-      "content": {
-        "thumbnail_title": "💳 일본 결제 신세계! 💸",
-        "cards": [
-          {
-            "title": "신규 결제 서비스",
-            "content": "JR동일본에서 새로운 코드 결제 서비스 '테페이(teppay)'를 10월 20일 11시부터 순차적으로 제공합니다.",
-            "alt_text": "모바일 Suica 앱 화면에 'teppay' 서비스 시작을 알리는 이미지"
-          },
-          {
-            "title": "별도 앱 불필요",
-            "content": "기존에 사용하던 모바일 Suica 앱 내에서 바로 이용 가능하며, 별도의 앱 설치가 필요 없어 편리합니다.",
-            "alt_text": "스마트폰에 설치된 모바일 Suica 앱 아이콘 이미지"
-          },
-          {
-            "title": "다양한 기능",
-            "content": "간편 결제는 물론, 친구나 가족과 금액을 나누는 '나누기 결제'와 용돈 보내기 기능까지 지원합니다.",
-            "alt_text": "결제, 나누기, 송금 아이콘이 포함된 일러스트 이미지"
-          },
-          {
-            "title": "여행객 필수템",
-            "content": "일본 여행 중 현금 없이 간편하게 결제하고, 소액 송금까지 가능해 더욱 스마트한 여행을 즐길 수 있습니다.",
-            "alt_text": "일본 편의점에서 스마트폰으로 결제하는 여행객 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "여행 전 모바일 Suica 앱을 최신 버전으로 업데이트하고, '테페이' 서비스 지원 여부를 미리 확인하세요. (서비스는 순차적으로 제공됩니다.)",
-            "alt_text": "업데이트 버튼이 표시된 스마트폰 앱 스토어 화면 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템 등장! 🇯🇵\n\n10월 20일부터 모바일 Suica 앱에서 새로운 코드 결제 서비스 '테페이(teppay)'가 시작됩니다! 💳\n\n별도 앱 설치 없이 기존 Suica 앱에서 바로 사용 가능하며, 간편 결제는 물론이고 '나누기 결제', '용돈 보내기' 기능까지! \n\n일본 여행 중 현금 걱정 없이 스마트하게 결제하고, 친구와 금액을 나누거나 용돈을 보내는 것도 간편해져요! 💸\n\n여행 전 모바일 Suica 앱 업데이트 필수! 잊지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본결제",
-          "#테페이",
-          "#Suica",
-          "#PASMO",
-          "#모바일결제",
-          "#일본교통",
-          "#일본생활",
-          "#일본여행꿀팁",
-          "#여행준비",
-          "#일본자유여행",
-          "#간편결제",
-          "#일본쇼핑",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "모바일 Suica 앱 화면에 'teppay' 서비스 시작을 알리는 이미지",
-          "스마트폰에 설치된 모바일 Suica 앱 아이콘 이미지",
-          "결제, 나누기, 송금 아이콘이 포함된 일러스트 이미지",
-          "일본 편의점에서 스마트폰으로 결제하는 여행객 이미지",
-          "업데이트 버튼이 표시된 스마트폰 앱 스토어 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시 또는 토요일 오전 10시 / 기대 반응: 높은 관심과 정보 공유, 여행 준비 필수 정보로 인식 / 이 콘텐츠의 강점: 최신 결제 시스템 정보를 최초로 제공하여 여행 준비에 실질적인 도움 제공",
-      "image": {
-        "keyword": "japan travel payment, teppay app, mobile suica payment, japan convenience store payment, split payment japan",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-travel-payment,-teppay-app,-mobile-suica-payment,-japan-convenience-store-payment,-split-payment-japan",
-        "pexels_url": "https://www.pexels.com/search/japan%20travel%20payment,%20teppay%20app,%20mobile%20suica%20payment,%20japan%20convenience%20store%20payment,%20split%20payment%20japan/"
-      }
-    },
-    {
-      "id": "plan_be9d12b0",
-      "created_at": "2026-10-06T06:09:19.787255",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ロゴス、耐水圧2万mmの「DryCore」防水リュック。容量26L、15インチPCやA4ファイル対応",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2145996.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "갑자기 비가 와도 끄떡없어요! 2만mm 방수 기능의 LOGOS 백팩으로 든든하게!"
-      },
-      "content": {
-        "thumbnail_title": "☔️2만mm 방수 백팩 출시!",
-        "cards": [
-          {
-            "title": "LOGOS 신상 백팩",
-            "content": "아웃도어 브랜드 LOGOS에서 'DryCore' 방수 기능의 신상 박스 백팩을 출시했어요. 최대 2만mm의 내수압으로 갑작스러운 비에도 내용물을 안전하게 보호할 수 있습니다.",
-            "alt_text": "LOGOS DryCore 박스 백팩의 앞면 모습"
-          },
-          {
-            "title": "넉넉한 수납 공간",
-            "content": "26L의 넉넉한 용량을 자랑하며, 15인치 노트북과 A4 사이즈 파일까지 수납 가능합니다. 여행 중 필요한 소지품을 깔끔하게 정리할 수 있어요.",
-            "alt_text": "백팩 내부에 노트북과 파일이 수납된 모습"
-          },
-          {
-            "title": "두 가지 컬러",
-            "content": "세련된 블랙과 네이비 두 가지 색상으로 출시되어 어떤 스타일에나 잘 어울립니다. 취향에 맞게 선택해보세요.",
-            "alt_text": "블랙과 네이비 색상의 LOGOS 백팩 나란히 놓인 모습"
-          },
-          {
-            "title": "가격 및 구매처",
-            "content": "가격은 각 9,900엔이며, LOGOS 공식 매장 및 일본 전역의 대형 쇼핑몰에서 구매 가능합니다.",
-            "alt_text": "가격 정보가 표시된 LOGOS 백팩 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 중 갑작스러운 날씨 변화에 대비하여 방수 기능이 뛰어난 백팩은 필수! 특히 전자제품이나 중요한 서류를 휴대할 때 유용합니다. 9,900엔으로 든든하게 준비하세요!",
-            "alt_text": "비 오는 날씨에 백팩을 메고 있는 여행객 모습"
-          }
-        ],
-        "caption": "일본 여행 중 예상치 못한 비 소식에 당황하셨나요? ☔️\n\n아웃도어 브랜드 LOGOS에서 출시한 'DryCore' 방수 백팩은 최대 2만mm의 강력한 내수압으로 소중한 짐을 빗물로부터 완벽하게 보호해줍니다. 🤩\n\n15인치 노트북과 A4 파일까지 넉넉하게 수납되는 26L 용량에 세련된 블랙, 네이비 두 가지 컬러로 출시되었어요! \n\n가격은 9,900엔! 지금 바로 LOGOS 매장 또는 일본 전역의 대형 쇼핑몰에서 만나보세요! ✈️\n\n#일본여행 #플라잉재팬 #LOGOS #방수백팩 #여행준비물",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#LOGOS",
-          "#로고스",
-          "#일본쇼핑",
-          "#일본여행준비물",
-          "#여행가방",
-          "#방수백팩",
-          "#일본직구",
-          "#일본쇼핑리스트",
-          "#여행필수템",
-          "#일본생활",
-          "#일본물가",
-          "#여행스타그램",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "LOGOS DryCore 박스 백팩의 앞면 모습",
-          "백팩 내부에 노트북과 파일이 수납된 모습",
-          "블랙과 네이비 색상의 LOGOS 백팩 나란히 놓인 모습",
-          "가격 정보가 표시된 LOGOS 백팩 이미지",
-          "비 오는 날씨에 백팩을 메고 있는 여행객 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 이미 일본에 체류 중인 한국인 여행자 / 최적 게시 시간: 점심시간(12-13시) 또는 퇴근 후(18-20시) / 기대 반응: 실용적인 정보에 대한 높은 관심, 구매 문의 / 이 콘텐츠의 강점: 갑작스러운 날씨 변화에 대한 실질적인 대비책 제시, 합리적인 가격 정보 포함",
-      "image": {
-        "keyword": "LOGOS DryCore backpack, waterproof, 26L, laptop compartment, travel bag, navy, black, 9900 JPY",
-        "unsplash_url": "https://unsplash.com/s/photos/LOGOS-DryCore-backpack,-waterproof,-26L,-laptop-compartment,-travel-bag,-navy,-black,-9900-JPY",
-        "pexels_url": "https://www.pexels.com/search/LOGOS%20DryCore%20backpack,%20waterproof,%2026L,%20laptop%20compartment,%20travel%20bag,%20navy,%20black,%209900%20JPY/"
       }
     }
   ]
