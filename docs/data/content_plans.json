@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-10T02:20:19.846932",
+  "last_updated": "2026-10-10T05:39:46.573583",
   "plans": [
+    {
+      "id": "plan_1545ddd4",
+      "created_at": "2026-10-10T05:39:44.573364",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「スマイルホテル八王子南口駅前」、10月16日開業　八王子市初出店",
+        "url": "https://www.traicy.com/posts/20261010379212/",
+        "date": "Fri, 09 Oct 2026 22:15:55 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 근교 합리적인 가격의 신축 호텔 오픈 정보!"
+      },
+      "content": {
+        "thumbnail_title": "🏨 도쿄 근교 신축 호텔 오픈!",
+        "cards": [
+          {
+            "title": "신규 호텔 오픈",
+            "content": "10월 16일, 일본 도쿄도 하치오지시에 '스마일 호텔 하치오지 미나미구치 에키마에'가 새롭게 문을 엽니다. 하치오지시 최초의 스마일 호텔이랍니다.",
+            "alt_text": "새롭게 오픈하는 스마일 호텔 하치오지 미나미구치 에키마에 외관 이미지"
+          },
+          {
+            "title": "객실 정보",
+            "content": "총 114개의 객실을 보유하고 있으며, 더블, 트윈, 유니버설 등 3가지 타입으로 구성되어 있습니다. 모든 객실은 금연입니다.",
+            "alt_text": "더블룸, 트윈룸, 유니버설룸 객실 내부 이미지"
+          },
+          {
+            "title": "편의 시설",
+            "content": "객실 내에는 유선 LAN과 Wi-Fi가 모두 제공되며, 비데 기능이 있는 화장실도 준비되어 있습니다.",
+            "alt_text": "객실 내 책상과 Wi-Fi 표시, 비데 설치된 화장실 이미지"
+          },
+          {
+            "title": "위치",
+            "content": "하치오지시 미나미구치역 바로 앞에 위치하여 접근성이 매우 좋습니다. 하치오지 지역 여행 시 편리하게 이용 가능합니다.",
+            "alt_text": "호텔에서 보이는 역 전경 또는 역과 연결된 통로 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "신축 호텔인 만큼 깔끔하고 쾌적한 숙박을 기대할 수 있습니다. 특히 도쿄 시내보다는 조금 더 조용하고 합리적인 가격으로 숙박을 원하시는 분들께 추천합니다.",
+            "alt_text": "깔끔하게 정돈된 호텔 로비 또는 복도 이미지"
+          }
+        ],
+        "caption": "✨ 도쿄 근교 여행 계획 중이신가요? ✨\n\n10월 16일, 하치오지시에 '스마일 호텔 하치오지 미나미구치 에키마에'가 오픈합니다! 🤩\n\n역 바로 앞에 위치한 신축 호텔로, 총 114개의 객실(더블, 트윈, 유니버설)을 보유하고 있어요. 쾌적한 환경과 편리한 접근성으로 하치오지 여행의 만족도를 높여줄 거예요! 💯\n\n합리적인 가격으로 깔끔한 숙소를 찾으신다면 주목해주세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#하치오지",
+          "#스마일호텔",
+          "#일본신축호텔",
+          "#도쿄근교",
+          "#호텔추천",
+          "#일본숙소",
+          "#가성비호텔",
+          "#10월개업",
+          "#여행정보",
+          "#일본정보",
+          "#꿀팁",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "새롭게 오픈하는 스마일 호텔 하치오지 미나미구치 에키마에 외관 이미지",
+          "더블룸, 트윈룸, 유니버설룸 객실 내부 이미지",
+          "객실 내 책상과 Wi-Fi 표시, 비데 설치된 화장실 이미지",
+          "호텔에서 보이는 역 전경 또는 역과 연결된 통로 이미지",
+          "깔끔하게 정돈된 호텔 로비 또는 복도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 근교 여행을 계획 중이거나, 합리적인 가격의 깔끔한 숙소를 찾는 한국인 여행자 / 최적 게시 시간: 평일 오후 5시 - 7시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 실시간 신규 호텔 오픈 정보, 구체적인 객실 및 편의 시설 정보 제공",
+      "image": {
+        "keyword": "Smile Hotel Hachioji Minamiguchi Ekimae, new hotel opening, Tokyo suburbs, Japan travel, hotel room",
+        "unsplash_url": "https://unsplash.com/s/photos/Smile-Hotel-Hachioji-Minamiguchi-Ekimae,-new-hotel-opening,-Tokyo-suburbs,-Japan-travel,-hotel-room",
+        "pexels_url": "https://www.pexels.com/search/Smile%20Hotel%20Hachioji%20Minamiguchi%20Ekimae,%20new%20hotel%20opening,%20Tokyo%20suburbs,%20Japan%20travel,%20hotel%20room/"
+      }
+    },
+    {
+      "id": "plan_5d6dc198",
+      "created_at": "2026-10-10T05:39:37.808550",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本旅行「九州ふっこう応援割」宮崎県のWeb予約スタート、JR・航空券＋ホテルパックが最大50％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147114.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 여행 비용 대폭 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 규슈 최대 50% 할인!",
+        "cards": [
+          {
+            "title": "큐슈 응원 할인",
+            "content": "일본 여행 지원 '규슈 부흥 응원 할인'의 미야자키현 예약이 10월 9일 14시부터 시작됩니다. JR 열차 및 항공권과 호텔 팩 상품을 최대 50% 할인된 가격으로 이용할 수 있습니다.",
+            "alt_text": "일본 규슈 지역 지도"
+          },
+          {
+            "title": "미야자키현 대상",
+            "content": "이번 할인 프로모션은 특히 미야자키현을 여행하는 경우에 적용됩니다. 미야자키현의 아름다운 자연과 문화를 더욱 저렴하게 만끽할 수 있는 기회입니다.",
+            "alt_text": "미야자키현의 아름다운 해변 풍경"
+          },
+          {
+            "title": "JR, 항공+호텔",
+            "content": "JR 열차 티켓, 그리고 항공권과 호텔을 묶은 패키지 상품에 할인이 적용됩니다. 여행 계획 시 교통과 숙박을 한 번에 해결하며 비용을 절약할 수 있습니다.",
+            "alt_text": "기차와 비행기, 호텔 아이콘"
+          },
+          {
+            "title": "최대 50% 할인",
+            "content": "할인율은 최대 50%까지 제공되어, 평소 부담스러웠던 규슈 지역 여행을 더욱 가볍게 떠날 수 있습니다. 여행 경비를 크게 절약할 수 있는 좋은 기회입니다.",
+            "alt_text": "50% 할인 스티커"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "선착순 마감될 수 있으니, 규슈 지역 여행을 계획 중이라면 서둘러 예약하세요! 미리 예약하여 알찬 여행 계획을 세우는 것이 중요합니다.",
+            "alt_text": "달력에 표시된 예약 날짜"
+          }
+        ],
+        "caption": "✈️ 규슈 지역 여행 계획 중이라면 주목! ✈️\n\n일본 정부의 '규슈 부흥 응원 할인' 프로모션으로 미야자키현 여행 시 JR 열차, 항공권+호텔 패키지를 최대 50% 할인된 가격으로 만나볼 수 있어요! 🤩\n\n10월 9일 14시부터 예약 가능하니, 규슈의 매력을 저렴하게 즐길 절호의 기회를 놓치지 마세요! ✨\n\n#일본여행 #규슈여행 #미야자키 #여행할인 #일본교통 #일본숙소",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#미야자키",
+          "#일본여행정보",
+          "#여행할인",
+          "#JR패스",
+          "#항공권할인",
+          "#호텔할인",
+          "#일본여행꿀팁",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#엔저여행",
+          "#가을여행",
+          "#겨울여행"
+        ],
+        "alt_texts": [
+          "일본 규슈 지역 지도",
+          "미야자키현의 아름다운 해변 풍경",
+          "기차와 비행기, 호텔 아이콘",
+          "50% 할인 스티커",
+          "달력에 표시된 예약 날짜"
+        ]
+      },
+      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 8시 ~ 10시 / 기대 반응: 높은 클릭률 및 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보로 여행 경비 절감 효과 극대화",
+      "image": {
+        "keyword": "Japan Kyushu travel discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount",
+        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount/"
+      }
+    },
     {
       "id": "plan_f585e256",
       "created_at": "2026-10-10T02:20:17.846742",
@@ -923,160 +1077,6 @@
         "keyword": "japanese train announcement, japan railway station, train conductor, train schedule, travel tips",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-train-announcement,-japan-railway-station,-train-conductor,-train-schedule,-travel-tips",
         "pexels_url": "https://www.pexels.com/search/japanese%20train%20announcement,%20japan%20railway%20station,%20train%20conductor,%20train%20schedule,%20travel%20tips/"
-      }
-    },
-    {
-      "id": "plan_ebd05d55",
-      "created_at": "2026-10-07T02:23:40.420921",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR往復＋1DAYパスの「冬トク★エンジョイ！ハウステンボスきっぷ」。九州一大花火まつり/カウントダウンも対象",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146092.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 일본 여행, 하우스텐보스 할인 혜택 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨겨울 하우스텐보스 특가✨",
-        "cards": [
-          {
-            "title": "JR 왕복+1DAY",
-            "content": "JR 큐슈에서 '겨울 특가★즐겨보자! 하우스텐보스 티켓'을 10월 6일부터 2027년 1월 11일까지 판매합니다. JR 왕복 티켓과 하우스텐보스 1일 패스가 포함된 알찬 구성입니다.",
-            "alt_text": "JR 큐슈 열차와 하우스텐보스 입구 이미지"
-          },
-          {
-            "title": "이용 기간",
-            "content": "티켓 사용 가능 기간은 2023년 11월 6일부터 2027년 1월 14일까지입니다. 겨울 시즌 동안 언제든 활용 가능합니다.",
-            "alt_text": "달력에 표시된 이용 가능 기간 이미지"
-          },
-          {
-            "title": "특별 이벤트",
-            "content": "본 티켓은 큐슈 최대 불꽃 축제 및 카운트다운 행사도 포함될 예정입니다. 특별한 추억을 만들 기회입니다.",
-            "alt_text": "하우스텐보스 불꽃 축제 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "JR 큐슈 공식 웹사이트나 지정된 판매처에서 구매 가능합니다. 미리 구매하여 할인 혜택을 누리세요.",
-            "alt_text": "JR 큐슈 웹사이트 또는 판매처 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "겨울 시즌에는 일루미네이션 축제도 함께 즐길 수 있습니다. 따뜻한 옷차림과 함께 하우스텐보스의 아름다운 야경을 만끽하세요.",
-            "alt_text": "겨울 하우스텐보스 일루미네이션 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 정보! ✈️\nJR 큐슈에서 겨울 특별 티켓을 출시했어요!\nJR 왕복 + 하우스텐보스 1일 패스가 포함된 '겨울 특가★즐겨보자! 하우스텐보스 티켓'을 10월 6일부터 2027년 1월 11일까지 판매합니다.\n이용 기간은 11월 6일부터 2027년 1월 14일까지! 🤩\n겨울 불꽃 축제, 카운트다운 행사도 즐길 수 있는 절호의 찬스! 지금 바로 확인하세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하우스텐보스",
-          "#JR큐슈",
-          "#일본교통",
-          "#겨울여행",
-          "#후쿠오카근교",
-          "#나가사키",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본축제",
-          "#불꽃축제",
-          "#연말여행",
-          "#일본자유여행",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "JR 큐슈 열차와 하우스텐보스 입구 이미지",
-          "달력에 표시된 이용 가능 기간 이미지",
-          "하우스텐보스 불꽃 축제 이미지",
-          "JR 큐슈 웹사이트 또는 판매처 이미지",
-          "겨울 하우스텐보스 일루미네이션 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 겨울 시즌 일본 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 티켓 정보에 대한 높은 관심, 구매 문의 증가 / 이 콘텐츠의 강점: 구체적인 판매 기간 및 이용 기간 명시, 특별 이벤트 정보 포함으로 매력도 상승",
-      "image": {
-        "keyword": "Huis Ten Bosch, Japan winter travel, JR Kyushu discount ticket, fireworks festival, Christmas illuminations",
-        "unsplash_url": "https://unsplash.com/s/photos/Huis-Ten-Bosch,-Japan-winter-travel,-JR-Kyushu-discount-ticket,-fireworks-festival,-Christmas-illuminations",
-        "pexels_url": "https://www.pexels.com/search/Huis%20Ten%20Bosch,%20Japan%20winter%20travel,%20JR%20Kyushu%20discount%20ticket,%20fireworks%20festival,%20Christmas%20illuminations/"
-      }
-    },
-    {
-      "id": "plan_c40aa0cf",
-      "created_at": "2026-10-07T02:23:35.425634",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "アイコニア・ホスピタリティ、箱根・那須の温泉ホテル4軒を運営開始。客室露天風呂や展望大浴場を備える",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146108.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 온천 여행의 새로운 선택지! 료칸 4곳 동시 오픈 소식"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 료칸 4곳 신규 오픈!♨️",
-        "cards": [
-          {
-            "title": "신규 료칸 오픈",
-            "content": "아이코니아 호스피탈리티가 10월 1일, 일본 하코네와 나스 지역에 총 4개의 새로운 온천 호텔 운영을 시작했습니다. 료칸 이름은 '호텔 시키노칸 하코네 아시노코', '호텔 모리노카제 하코네 센고쿠하라', '호텔 시키노칸 나스', '호텔 모리노카제 나스'입니다.",
-            "alt_text": "일본 하코네 지역의 아름다운 풍경"
-          },
-          {
-            "title": "객실 특징",
-            "content": "새롭게 오픈한 4곳의 호텔은 모두 객실에 노천탕을 갖추고 있어 프라이빗한 온천을 즐길 수 있습니다. 또한, 아름다운 전망을 자랑하는 대욕탕도 마련되어 있어 편안하게 휴식을 취할 수 있습니다.",
-            "alt_text": "객실 노천탕에서 즐기는 온천 모습"
-          },
-          {
-            "title": "하코네 & 나스",
-            "content": "이번에 오픈한 료칸들은 일본의 대표적인 온천 휴양지인 하코네와 나스에 위치하고 있습니다. 자연 속에서 힐링하며 일본의 정취를 만끽하기 좋은 곳입니다.",
-            "alt_text": "일본 나스 지역의 푸른 숲"
-          },
-          {
-            "title": "여행 계획",
-            "content": "올가을, 겨울 일본 여행을 계획 중이라면 새롭게 오픈한 이 료칸들을 눈여겨보세요. 특별한 온천 경험을 선사할 것입니다.",
-            "alt_text": "겨울에 눈 쌓인 일본 료칸 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "인기가 많을 것으로 예상되니, 여행 계획이 있다면 서둘러 예약하시는 것을 추천합니다. 각 호텔별 상세 정보 및 예약은 공식 홈페이지를 통해 확인 가능합니다.",
-            "alt_text": "온천 앞에서 활짝 웃는 여행객"
-          }
-        ],
-        "caption": "♨️ 일본 온천 여행, 새로운 핫플이 떴다! ♨️\n\n10월 1일, 일본 하코네와 나스 지역에 4개의 신규 온천 호텔이 동시에 오픈했어요!\n\n✨ '호텔 시키노칸 하코네 아시노코'\n✨ '호텔 모리노카제 하코네 센고쿠하라'\n✨ '호텔 시키노칸 나스'\n✨ '호텔 모리노카제 나스'\n\n모든 객실에 노천탕이 있고, 전망 좋은 대욕탕까지! 🤩\n프라이빗하고 럭셔리한 온천 휴가를 꿈꾼다면 놓치지 마세요!\n\n#일본여행 #온천여행 #하코네 #나스 #료칸 #일본숙소 #가을여행 #겨울여행 #온천호텔 #힐링여행 #일본온천 #플라잉재팬 #여행정보 #신규오픈 #일본자유여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#하코네",
-          "#나스",
-          "#료칸",
-          "#일본숙소",
-          "#온천호텔",
-          "#가을여행",
-          "#겨울여행",
-          "#힐링여행",
-          "#일본자유여행",
-          "#여행정보",
-          "#신규오픈",
-          "#일본여행꿀팁"
-        ],
-        "alt_texts": [
-          "일본 하코네 지역의 아름다운 풍경",
-          "객실 노천탕에서 즐기는 온천 모습",
-          "일본 나스 지역의 푸른 숲",
-          "겨울에 눈 쌓인 일본 료칸 모습",
-          "온천 앞에서 활짝 웃는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 온천 여행을 선호하는 20-40대 한국인 여행자 / 최적 게시 시간: 목요일 오후 7시 / 기대 반응: 높은 예약 문의 및 관심 / 이 콘텐츠의 강점: 신규 오픈 정보로 희소성이 높고, 구체적인 호텔명과 특징을 명확히 제시함",
-      "image": {
-        "keyword": "japan onsen ryokan hotel open hakone nasu",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-ryokan-hotel-open-hakone-nasu",
-        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20ryokan%20hotel%20open%20hakone%20nasu/"
       }
     }
   ]
