@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-11T01:53:52.324619",
+  "last_updated": "2026-10-11T05:35:10.244897",
   "plans": [
+    {
+      "id": "plan_59fcd1ad",
+      "created_at": "2026-10-11T05:35:08.244780",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ZIPAIR Tokyo、東京/成田〜ソウル/仁川線を期間増便　12月に",
+        "url": "https://www.traicy.com/posts/20261011384003/",
+        "date": "Sun, 11 Oct 2026 02:55:02 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연말 일본 여행 계획 중이라면 주목! ZIPAIR 항공편 증편 소식으로 더 편하게 떠나세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ZIPAIR 12월 증편!✈️",
+        "cards": [
+          {
+            "title": "인천-나리타 노선",
+            "content": "ZIPAIR Tokyo가 12월, 인천-나리타 노선을 기간 한정으로 증편합니다. 12월 1일부터 11일까지는 화, 목, 금요일에 추가 항공편이 운항됩니다.",
+            "alt_text": "인천공항 전광판에 표시된 항공편 정보"
+          },
+          {
+            "title": "추가 운항 기간",
+            "content": "또한 12월 15일부터 24일까지는 월, 화, 목, 토요일에도 추가 항공편이 편성됩니다. 이 기간 동안 하루 최대 2왕복까지 운항 예정입니다.",
+            "alt_text": "비행기 이륙 장면"
+          },
+          {
+            "title": "연말 일본 여행",
+            "content": "연말연시 일본 여행을 계획하고 있다면, 이번 증편 소식을 활용하여 더욱 여유로운 일정을 세워보세요. 미리 예약하면 좋은 좌석을 확보할 수 있습니다.",
+            "alt_text": "일본 도쿄 타워 야경"
+          },
+          {
+            "title": "항공권 정보",
+            "content": "ZIPAIR는 저비용 항공사(LCC)로, 합리적인 가격으로 일본을 여행할 수 있는 매력적인 선택지입니다. 공식 홈페이지를 통해 자세한 운항 스케줄을 확인해 보세요.",
+            "alt_text": "항공권 예약 페이지 화면 캡처"
+          },
+          {
+            "title": "꿀팁",
+            "content": "증편 기간은 인기가 많을 수 있으니, 항공권은 최대한 서둘러 예약하는 것이 좋습니다. 수하물 규정 등도 미리 확인하여 불필요한 추가 요금을 방지하세요.",
+            "alt_text": "여권과 항공권, 캐리어를 들고 있는 여행객"
+          }
+        ],
+        "caption": "✈️ 12월 일본 여행 계획 중이신가요? ✈️\n\nZIPAIR Tokyo가 인천-나리타 노선을 12월 일부 기간 동안 증편 운항합니다!\n\n✅ 12/1~11: 화, 목, 금요일 추가 운항\n✅ 12/15~24: 월, 화, 목, 토요일 추가 운항 (하루 최대 2왕복)\n\n연말연시, 더 많은 좌석으로 편안하게 일본으로 떠나세요!\n\n#일본여행 #인천나리타 #ZIPAIR #항공권정보 #일본항공권 #연말여행 #여행팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ZIPAIR",
+          "#인천나리타",
+          "#항공권증편",
+          "#일본항공권",
+          "#연말여행",
+          "#여행정보",
+          "#일본가자",
+          "#해외여행",
+          "#항공권예약",
+          "#여행꿀팁",
+          "#일본",
+          "#동경",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "인천공항 전광판에 표시된 항공편 정보",
+          "비행기 이륙 장면",
+          "일본 도쿄 타워 야경",
+          "항공권 예약 페이지 화면 캡처",
+          "여권과 항공권, 캐리어를 들고 있는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 12월 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 항공권 정보에 대한 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 시기적절한 항공편 증편 정보 제공으로 여행 계획에 실질적인 도움",
+      "image": {
+        "keyword": "Tokyo Narita Airport flight information",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Narita-Airport-flight-information",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Narita%20Airport%20flight%20information/"
+      }
+    },
+    {
+      "id": "plan_4404cce0",
+      "created_at": "2026-10-11T05:35:02.736903",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "中国東方航空、広島〜上海/浦東線を運休　10月24日で",
+        "url": "https://www.traicy.com/posts/20261011384665/",
+        "date": "Sun, 11 Oct 2026 03:05:11 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 항공편 운휴 정보, 여행 계획에 필수 체크!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 10/24부 ✈️ 広島-上海 노선 운휴",
+        "cards": [
+          {
+            "title": "운휴 노선",
+            "content": "중국동방항공이 10월 24일부터 広島(히로시마) ~ 上海(상하이)/浦東 노선을 운휴합니다.",
+            "alt_text": "중국동방항공 로고와 함께 운휴 노선 정보가 표시된 이미지"
+          },
+          {
+            "title": "운항 정보",
+            "content": "현재 해당 노선은 월, 금요일 주 2회 왕복 운항 중이었으며, 에어버스 A321 기종이 투입되었습니다.",
+            "alt_text": "에어버스 A321 항공기 이미지"
+          },
+          {
+            "title": "예상 소요 시간",
+            "content": "히로시마 출발 시 약 2시간 15분 ~ 2시간 25분, 상하이/푸동 출발 시 약 2시간이 소요됩니다.",
+            "alt_text": "비행기 시간표 이미지"
+          },
+          {
+            "title": "여행 계획 시 유의",
+            "content": "히로시마에서 상하이로 이동하거나 상하이에서 히로시마로 입국 예정인 여행객은 반드시 항공편 변경 또는 대체 노선 확인이 필요합니다.",
+            "alt_text": "달력과 비행기 아이콘이 함께 있는 이미지"
+          },
+          {
+            "title": "필수 확인!",
+            "content": "항공권 예약 변경 또는 취소 관련 사항은 이용하신 항공사에 직접 문의하시는 것이 가장 정확합니다.",
+            "alt_text": "전화기 아이콘과 물음표가 있는 이미지"
+          }
+        ],
+        "caption": "✈️ 한국에서 일본 여행 오시는 분들 주목! ✈️\n\n중국동방항공에서 10월 24일부터 広島(히로시마) - 上海(상하이)/浦東 노선 운항을 중단합니다.\n\n해당 노선을 이용하셨거나 계획 중이셨다면, 반드시 항공권 정보를 재확인하고 대체 항공편을 알아보세요!\n\n항공권 변경/취소는 항공사에 직접 문의하시길 바랍니다. 꼼꼼하게 확인하고 안전하고 즐거운 일본 여행 되세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #항공정보 #일본항공 #중국동방항공 #히로시마 #상하이 #여행꿀팁 #여행정보 #일본생활 #여행준비 #항공권 #운휴정보 #해외여행 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#항공정보",
+          "#일본항공",
+          "#중국동방항공",
+          "#히로시마",
+          "#상하이",
+          "#여행꿀팁",
+          "#여행정보",
+          "#일본생활",
+          "#여행준비",
+          "#항공권",
+          "#운휴정보",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "중국동방항공 로고와 함께 운휴 노선 정보가 표시된 이미지",
+          "에어버스 A321 항공기 이미지",
+          "비행기 시간표 이미지",
+          "달력과 비행기 아이콘이 함께 있는 이미지",
+          "전화기 아이콘과 물음표가 있는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간 (19시~21시) / 기대 반응: 항공편 변경에 대한 실질적인 정보 습득 및 안도감, 항공사 정보 업데이트 / 이 콘텐츠의 강점: 일본 여행과 직결되는 최신 항공 운휴 정보를 구체적인 날짜와 함께 제공하여 여행 계획에 필수적인 내용을 담고 있음.",
+      "image": {
+        "keyword": "airplane, flight cancellation, Japan travel, Hiroshima, Shanghai, China Eastern Airlines",
+        "unsplash_url": "https://unsplash.com/s/photos/airplane,-flight-cancellation,-Japan-travel,-Hiroshima,-Shanghai,-China-Eastern-Airlines",
+        "pexels_url": "https://www.pexels.com/search/airplane,%20flight%20cancellation,%20Japan%20travel,%20Hiroshima,%20Shanghai,%20China%20Eastern%20Airlines/"
+      }
+    },
     {
       "id": "plan_a91a4204",
       "created_at": "2026-10-11T01:53:50.324458",
@@ -923,160 +1077,6 @@
         "keyword": "ANA, Japan Kyushu discount, Kumamoto travel deal",
         "unsplash_url": "https://unsplash.com/s/photos/ANA,-Japan-Kyushu-discount,-Kumamoto-travel-deal",
         "pexels_url": "https://www.pexels.com/search/ANA,%20Japan%20Kyushu%20discount,%20Kumamoto%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_d9038ca8",
-      "created_at": "2026-10-08T02:42:04.563195",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Yahoo!トラベル、長崎県「九州ふっこう応援割」10月8日12時予約スタート。最大50％＋誰でも10％のW割引",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146554.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 경비를 절약할 수 있는 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "💴 규슈 50% 할인 찬스!",
-        "cards": [
-          {
-            "title": "나가사키 지원금",
-            "content": "일본 정부가 제공하는 '규슈 부흥 응원 할인'이 나가사키현에서도 시작됩니다. 최대 50% 할인 혜택을 받을 수 있어요.",
-            "alt_text": "규슈 부흥 응원 할인 로고"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "할인 혜택이 적용되는 나가사키현 숙박 및 여행 상품 예약은 10월 8일 오후 12시부터 시작됩니다. 놓치지 마세요!",
-            "alt_text": "달력에 표시된 10월 8일"
-          },
-          {
-            "title": "추가 10% 할인",
-            "content": "이번 프로모션은 기존 최대 50% 할인에 더해, 모든 참여자에게 추가 10% 할인 혜택을 제공합니다. 중복 할인이 가능해요!",
-            "alt_text": "할인율 표시 이미지"
-          },
-          {
-            "title": "할인 적용 대상",
-            "content": "이번 지원금은 나가사키현 내의 숙박 및 관광 상품에 적용됩니다. 여행 계획 시 꼭 확인하세요.",
-            "alt_text": "나가사키 관광지 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 지역은 조기 마감될 수 있으니, 예약 시작 시간에 맞춰 빠르게 신청하는 것이 좋습니다. 여행 계획을 미리 세워두세요!",
-            "alt_text": "여행 가방을 싸는 모습"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? 🇯🇵\n야후! 트래블에서 나가사키현 '규슈 부흥 응원 할인'을 10월 8일 낮 12시부터 시작합니다! 🎉\n최대 50% 할인에 추가 10% 할인까지! 💸\n경비를 크게 절약할 수 있는 절호의 기회이니, 나가사키 여행 계획 있다면 꼭 활용해보세요!\n\n#규슈부흥응원할인 #나가사키여행 #일본여행정보 #여행할인 #가성비여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#나가사키",
-          "#일본할인",
-          "#여행정보",
-          "#일본숙소",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#여행꿀팁",
-          "#엔저",
-          "#할인정보",
-          "#일본여행팁",
-          "#규슈부흥응원할인"
-        ],
-        "alt_texts": [
-          "규슈 부흥 응원 할인 로고",
-          "달력에 표시된 10월 8일",
-          "할인율 표시 이미지",
-          "나가사키 관광지 이미지",
-          "여행 가방을 싸는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 실질적인 비용 절감 정보 제공, 긴급성 강조",
-      "image": {
-        "keyword": "Nagasaki, Kyushu, Japan discount, travel promotion, save money",
-        "unsplash_url": "https://unsplash.com/s/photos/Nagasaki,-Kyushu,-Japan-discount,-travel-promotion,-save-money",
-        "pexels_url": "https://www.pexels.com/search/Nagasaki,%20Kyushu,%20Japan%20discount,%20travel%20promotion,%20save%20money/"
-      }
-    },
-    {
-      "id": "plan_11038f27",
-      "created_at": "2026-10-08T02:41:59.935110",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ディズニー・クリスマス」フードメニューまとめ。注目は朝限定のお茶漬け、みんなでシェアできるパーティーバケット【2026】",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146555.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 디즈니랜드 연말 한정 크리스마스 먹거리 총정리!"
-      },
-      "content": {
-        "thumbnail_title": "🎄도쿄 디즈니 Xmas 푸드🎄",
-        "cards": [
-          {
-            "title": "크리스마스 기간",
-            "content": "도쿄 디즈니랜드 '디즈니・크리스마스'는 11월 11일부터 12월 25일까지 개최됩니다. 잊지 못할 특별한 추억을 만들어 보세요!",
-            "alt_text": "도쿄 디즈니랜드 크리스마스 시즌 안내"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "이번 크리스마스 시즌에는 아침 한정으로 제공되는 특별한 오차즈케와 여럿이 함께 나눠 먹기 좋은 파티 버킷 등 다채로운 메뉴가 준비되어 있습니다.",
-            "alt_text": "도쿄 디즈니랜드 시즌 한정 메뉴 이미지"
-          },
-          {
-            "title": "축제의 맛",
-            "content": "크리스마스 분위기를 물씬 느낄 수 있는 특별한 음식들로 가득한 디즈니랜드에서 맛있는 추억을 쌓아보세요.",
-            "alt_text": "크리스마스 테마의 디저트와 음료 이미지"
-          },
-          {
-            "title": "가족, 친구와 함께",
-            "content": "온 가족, 소중한 친구와 함께 즐기는 디즈니 크리스마스는 최고의 선물이 될 거예요. 특별한 메뉴와 함께 즐거운 시간을 만끽하세요!",
-            "alt_text": "디즈니랜드에서 즐거운 시간을 보내는 가족과 친구들 이미지"
-          },
-          {
-            "title": "방문 꿀팁",
-            "content": "인기 메뉴는 조기 품절될 수 있으니, 방문 전 디즈니 공식 앱을 통해 메뉴 정보와 판매처를 미리 확인하는 것을 추천합니다.",
-            "alt_text": "도쿄 디즈니랜드 앱 화면 이미지"
-          }
-        ],
-        "caption": "✨도쿄 디즈니랜드 2024년 크리스마스 시즌 한정 푸드 총정리!✨\n\n11월 11일부터 12월 25일까지 열리는 '디즈니・크리스마스' 기간 동안 특별한 먹거리들이 여러분을 기다립니다!\n\n아침 한정 오차즈케부터 모두 함께 즐길 수 있는 파티 버킷까지! 🎄\n\n올겨울, 도쿄 디즈니랜드에서 잊지 못할 맛있는 추억을 만들어보세요!\n\n#일본여행 #도쿄디즈니랜드 #디즈니크리스마스 #크리스마스푸드 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니크리스마스",
-          "#도쿄여행",
-          "#일본크리스마스",
-          "#디즈니푸드",
-          "#여행꿀팁",
-          "#겨울여행",
-          "#해외여행",
-          "#디즈니시즌",
-          "#도쿄맛집",
-          "#여행스타그램",
-          "#크리스마스",
-          "#2024크리스마스"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 크리스마스 시즌 안내",
-          "도쿄 디즈니랜드 시즌 한정 메뉴 이미지",
-          "크리스마스 테마의 디저트와 음료 이미지",
-          "디즈니랜드에서 즐거운 시간을 보내는 가족과 친구들 이미지",
-          "도쿄 디즈니랜드 앱 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 연말 시즌 도쿄 디즈니랜드 방문 예정인 2030 한국인 여행객 / 최적 게시 시간: 금요일 오후 6시 / 기대 반응: 높은 관심과 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 시즌 한정 정보로 즉각적인 관심 유발, 구체적인 메뉴 언급으로 흥미 증진",
-      "image": {
-        "keyword": "Tokyo Disneyland Christmas food party bucket ochazuke limited menu",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-food-party-bucket-ochazuke-limited-menu",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20food%20party%20bucket%20ochazuke%20limited%20menu/"
       }
     }
   ]
