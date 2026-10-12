@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-12T02:24:13.193338",
+  "last_updated": "2026-10-12T05:45:25.915107",
   "plans": [
+    {
+      "id": "plan_1ab6912d",
+      "created_at": "2026-10-12T05:45:23.914935",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東急ステイ新宿、9月29日リニューアルオープン",
+        "url": "https://www.traicy.com/posts/20261012384441/",
+        "date": "Mon, 12 Oct 2026 03:25:40 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 신주쿠 숙소, 넓고 편안하게 리뉴얼 오픈! 최대 4인까지 가능!"
+      },
+      "content": {
+        "thumbnail_title": "✨신주쿠 호텔 리뉴얼✨",
+        "cards": [
+          {
+            "title": "리뉴얼 오픈!",
+            "content": "도쿄 신주쿠에 위치한 '토큐 스테이 신주쿠'가 2023년 9월 29일 전면 리뉴얼 오픈했어요. 낡은 시설을 개선하여 더욱 쾌적한 투숙 환경을 제공합니다.",
+            "alt_text": "호텔 외관 사진"
+          },
+          {
+            "title": "객실 확대",
+            "content": "기존 179실에서 120실로 객실 수는 줄었지만, 평균 객실 면적이 약 1.5배 넓어졌어요. 이제 약 25제곱미터의 넓은 객실에서 편안하게 휴식할 수 있습니다.",
+            "alt_text": "넓어진 객실 내부 사진"
+          },
+          {
+            "title": "4인 객실 신설",
+            "content": "최대 4인까지 투숙 가능한 객실이 새롭게 신설되어 친구, 가족 단위 여행객에게도 안성맞춤이에요. 좁은 객실 걱정은 이제 끝!",
+            "alt_text": "4인 가족이 편안하게 묵을 수 있는 객실 사진"
+          },
+          {
+            "title": "위치 및 접근성",
+            "content": "신주쿠역에서 가까워 도쿄 시내 관광 및 쇼핑, 맛집 탐방에 최적의 위치를 자랑합니다. 교통이 편리하여 이동 시간을 절약할 수 있습니다.",
+            "alt_text": "신주쿠역 주변 지도"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "리뉴얼 오픈 기념 프로모션이 진행될 수 있으니, 예약 전 호텔 공식 홈페이지를 확인해 보세요. 넓어진 객실에서 여유로운 도쿄 여행을 즐겨보세요!",
+            "alt_text": "여행 짐을 싸는 모습"
+          }
+        ],
+        "caption": "🇯🇵 도쿄 신주쿠 호텔, 쾌적하게 리뉴얼 오픈! 🇯🇵\n\n✨ '토큐 스테이 신주쿠'가 2023년 9월 29일 새롭게 태어났어요!\n✅ 객실이 더 넓어져 평균 25㎡, 최대 4인까지 투숙 가능!\n✅ 신주쿠역 초역세권으로 교통, 쇼핑, 맛집 모두 OK!\n\n넓고 편안한 객실에서 여유로운 도쿄 여행을 만끽하세요! ✈️\n\n#일본여행 #도쿄여행 #신주쿠 #숙소추천 #호텔 #리뉴얼 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#신주쿠",
+          "#신주쿠호텔",
+          "#토큐스테이신주쿠",
+          "#일본숙소",
+          "#도쿄숙소",
+          "#가족여행",
+          "#우정여행",
+          "#호텔추천",
+          "#일본호텔",
+          "#여행꿀팁",
+          "#도쿄정보",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "호텔 외관 사진",
+          "넓어진 객실 내부 사진",
+          "4인 가족이 편안하게 묵을 수 있는 객실 사진",
+          "신주쿠역 주변 지도",
+          "여행 짐을 싸는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 신주쿠 지역 숙박 희망 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 숙소 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 숙소 정보 (넓은 객실, 4인 가능)와 구체적인 오픈 날짜 제공",
+      "image": {
+        "keyword": "shinjuku hotel renovation, spacious hotel room, tokyo travel accommodation, family hotel room japan, shinjuku station hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/shinjuku-hotel-renovation,-spacious-hotel-room,-tokyo-travel-accommodation,-family-hotel-room-japan,-shinjuku-station-hotel",
+        "pexels_url": "https://www.pexels.com/search/shinjuku%20hotel%20renovation,%20spacious%20hotel%20room,%20tokyo%20travel%20accommodation,%20family%20hotel%20room%20japan,%20shinjuku%20station%20hotel/"
+      }
+    },
+    {
+      "id": "plan_46d863e4",
+      "created_at": "2026-10-12T05:45:18.093044",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテルニューオータニ（東京）、栗とぶどうのアフタヌーンティー　11月30日まで",
+        "url": "https://www.traicy.com/posts/20261012384616/",
+        "date": "Mon, 12 Oct 2026 03:45:32 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 호텔 뉴오타니에서 즐기는 시즌 한정 栗(밤) & 🍇(포도) 애프터눈 티!"
+      },
+      "content": {
+        "thumbnail_title": "🌰🍇 도쿄 호텔 뉴오타니 栗 & 🍇 애프터눈 티",
+        "cards": [
+          {
+            "title": "기간 한정",
+            "content": "호텔 뉴오타니 도쿄에서 栗(밤)과 🍇(포도)를 테마로 한 애프터눈 티 세트를 2023년 11월 30일까지 판매합니다.",
+            "alt_text": "호텔 뉴오타니 도쿄 외관"
+          },
+          {
+            "title": "메뉴 구성",
+            "content": "3단 티 스탠드에는 '그레이프 쇼트케이크', 포도 젤리를 스펀지로 감싼 '그레이프 롤' 등 다채로운 디저트와 함께 栗(밤) 디저트도 준비되어 있습니다.",
+            "alt_text": "애프터눈 티 3단 티 스탠드"
+          },
+          {
+            "title": "특별함",
+            "content": "가을 시즌을 맞아 栗(밤)과 🍇(포도)의 풍미를 한껏 느낄 수 있는 특별한 디저트와 음료를 맛볼 수 있습니다.",
+            "alt_text": "栗(밤)과 🍇(포도)로 장식된 디저트"
+          },
+          {
+            "title": "방문 팁",
+            "content": "인기가 많을 수 있으니 방문 전 호텔에 예약 가능 여부를 확인하는 것이 좋습니다.",
+            "alt_text": "호텔 뉴오타니 로비"
+          },
+          {
+            "title": "꼭 확인!",
+            "content": "이 프로모션은 2023년 11월 30일까지 진행되니, 도쿄 여행 계획 시 참고하세요!",
+            "alt_text": "애프터눈 티 메뉴판"
+          }
+        ],
+        "caption": "도쿄 여행 중 특별한 시간을 보내고 싶다면? ✨ 호텔 뉴오타니에서 栗(밤)과 🍇(포도)의 달콤함을 가득 담은 시즌 한정 애프터눈 티를 즐겨보세요! 🌰🍇\n\n✔️ 기간: ~ 2023년 11월 30일까지\n✔️ 장소: 호텔 뉴오타니 도쿄\n\n놓치지 마세요! 💖",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#호텔뉴오타니",
+          "#애프터눈티",
+          "#도쿄카페",
+          "#가을여행",
+          "#도쿄호텔",
+          "#밤디저트",
+          "#포도디저트",
+          "#일본디저트",
+          "#여행정보",
+          "#기간한정",
+          "#도쿄핫플",
+          "#먹스타그램"
+        ],
+        "alt_texts": [
+          "호텔 뉴오타니 도쿄 외관",
+          "애프터눈 티 3단 티 스탠드",
+          "栗(밤)과 🍇(포도)로 장식된 디저트",
+          "호텔 뉴오타니 로비",
+          "애프터눈 티 메뉴판"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄에서 특별한 경험을 하고 싶은 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 2-4시 / 기대 반응: 높은 관심과 문의, 예약 정보 확인 / 이 콘텐츠의 강점: 시즌 한정 메뉴, 고급스러운 호텔 경험, 구체적인 기간 정보 제공",
+      "image": {
+        "keyword": "hotel new otani tokyo afternoon tea, chestnut grape dessert, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/hotel-new-otani-tokyo-afternoon-tea,-chestnut-grape-dessert,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/hotel%20new%20otani%20tokyo%20afternoon%20tea,%20chestnut%20grape%20dessert,%20limited%20time%20offer/"
+      }
+    },
     {
       "id": "plan_3901d424",
       "created_at": "2026-10-12T02:24:11.193171",
@@ -923,160 +1077,6 @@
         "keyword": "Shinosaka station bento box, Japanese train food, eel sushi bento",
         "unsplash_url": "https://unsplash.com/s/photos/Shinosaka-station-bento-box,-Japanese-train-food,-eel-sushi-bento",
         "pexels_url": "https://www.pexels.com/search/Shinosaka%20station%20bento%20box,%20Japanese%20train%20food,%20eel%20sushi%20bento/"
-      }
-    },
-    {
-      "id": "plan_ad83e22f",
-      "created_at": "2026-10-09T02:56:46.636856",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "埼玉・こうのす花火大会とブルーインパルス飛行で朝から交通規制。13時以降はJR鴻巣駅周辺にも範囲拡大",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146905.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 가을 대표 불꽃축제, 교통 통제 정보 미리 확인하고 계획 세우세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 10월 10일 鴻巣 불꽃축제 🎆",
-        "cards": [
-          {
-            "title": "불꽃축제 & 블루인파스",
-            "content": "10월 10일, 사이타마현 코우노스시에서 제23회 코우노스 불꽃축제와 블루인파스(공군 특기비행팀)의 전시 비행이 열립니다.",
-            "alt_text": "화려한 불꽃이 밤하늘을 수놓고 있는 모습"
-          },
-          {
-            "title": "대규모 교통 통제",
-            "content": "행사 당일, 누타 운동장, 아라카와 강변, 요시미 유료 주차장 주변 도로에서 대규모 교통 통제가 실시됩니다. 13시부터는 JR 코우노스역 주변까지 통제 범위가 확대됩니다.",
-            "alt_text": "교통 통제 표지판이 설치된 도로 모습"
-          },
-          {
-            "title": "대중교통 이용 필수",
-            "content": "자세한 통제 시간 및 구간은 행사 주최 측의 공지를 참고하여, 행사 당일에는 대중교통 이용을 적극 권장합니다.",
-            "alt_text": "JR 코우노스역 전경"
-          },
-          {
-            "title": "미리 계획 세우기",
-            "content": "방문 예정이시라면, 교통 통제 정보를 미리 확인하시고 행사 당일 이동 계획을 꼼꼼하게 세우시는 것이 좋습니다.",
-            "alt_text": "일본 기차역 플랫폼에서 열차를 기다리는 사람들"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "행사 당일 혼잡이 예상되므로, 여유로운 일정으로 방문하시고 소지품 관리에 유의하세요. 또한, 불꽃축제 시각에 맞춰 이동 경로를 미리 파악해두는 것이 좋습니다.",
-            "alt_text": "일본 편의점에서 도시락을 고르는 여행객"
-          }
-        ],
-        "caption": "✨10월 10일, 사이타마현 코우노스시에서 열리는 '제23회 코우노스 불꽃축제'와 블루인파스 전시 비행 소식! 🎆\n행사 당일, 누타 운동장 및 JR 코우노스역 주변 도로에서 대규모 교통 통제가 예정되어 있어요. 🚗\n방문 예정이시라면, 교통 통제 정보를 미리 확인하시고 대중교통 이용 계획을 세우시는 것을 추천합니다! 🚆\n\n#일본여행 #코우노스불꽃축제 #사이타마여행 #가을축제 #교통정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#코우노스불꽃축제",
-          "#사이타마",
-          "#일본축제",
-          "#불꽃놀이",
-          "#블루인파스",
-          "#교통통제",
-          "#가을여행",
-          "#일본정보",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#여행스타그램",
-          "#일본",
-          "#10월여행"
-        ],
-        "alt_texts": [
-          "화려한 불꽃이 밤하늘을 수놓고 있는 모습",
-          "교통 통제 표지판이 설치된 도로 모습",
-          "JR 코우노스역 전경",
-          "일본 기차역 플랫폼에서 열차를 기다리는 사람들",
-          "일본 편의점에서 도시락을 고르는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 10월 일본 여행 예정인 한국인 / 최적 게시 시간: 여행 계획 세우는 저녁 시간대 (19시~22시) / 기대 반응: 정보 확인 및 공유, 여행 계획 반영 / 이 콘텐츠의 강점: 실제 여행에 직결되는 구체적인 교통 통제 정보 제공",
-      "image": {
-        "keyword": "konosu fireworks festival traffic control",
-        "unsplash_url": "https://unsplash.com/s/photos/konosu-fireworks-festival-traffic-control",
-        "pexels_url": "https://www.pexels.com/search/konosu%20fireworks%20festival%20traffic%20control/"
-      }
-    },
-    {
-      "id": "plan_80f9e7fb",
-      "created_at": "2026-10-09T02:56:40.041396",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "1～2月のゲレンデは外国人で激混み？　JATAが推す「春スキー・スノボ」の先取り予約",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146941.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 막바지, 3월에도 알찬 일본 스키/스노보드 여행을 계획하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🏂 3월 일본 스키! 꿀팁 🍯",
-        "cards": [
-          {
-            "title": "일본 스키 시즌",
-            "content": "1~2월 성수기에는 일본 스키장에서 외국인 관광객으로 매우 붐빕니다. 3월에는 상대적으로 한적하게 스키와 스노보드를 즐길 수 있습니다.",
-            "alt_text": "눈 덮인 일본 스키장 풍경"
-          },
-          {
-            "title": "3월 출발 혜택",
-            "content": "일본 여행업협회(JATA)는 '봄 스키 & 스노보드는 미리 예약하면 이득! 3월 출발 캠페인'을 설명했습니다. 3월 출발 상품을 미리 예약하면 더욱 합리적인 가격으로 이용 가능합니다.",
-            "alt_text": "스키 장비를 든 사람들의 모습"
-          },
-          {
-            "title": "미리 예약 팁",
-            "content": "항공권과 숙소를 미리 예약하면 1~2월보다 저렴한 가격으로 일본 스키 여행을 준비할 수 있습니다. 특히 인기 있는 스키 리조트는 조기 마감될 수 있으니 서두르는 것이 좋습니다.",
-            "alt_text": "항공권과 숙소 예약 화면"
-          },
-          {
-            "title": "3월 스키장의 장점",
-            "content": "3월은 눈이 녹기 시작하지만, 아직 충분한 설질을 유지하는 곳이 많습니다. 또한, 따뜻한 날씨 속에서 여유롭게 슬로프를 즐길 수 있다는 장점이 있습니다.",
-            "alt_text": "햇살 좋은 3월의 스키장"
-          },
-          {
-            "title": "여행 계획 시",
-            "content": "여행 계획 시, 3월에도 운영하는 스키장인지, 잔설량은 충분한지, 그리고 3월 특별 할인 프로모션이 있는지 등을 미리 확인해보세요. 렌탈샵이나 리프트권 할인 정보도 놓치지 마세요!",
-            "alt_text": "스키 여행 준비물 리스트"
-          }
-        ],
-        "caption": "겨울 막바지, 3월에도 일본 스키/스노보드 원 없이 즐기자! ⛷️🏂 1-2월 성수기 인파 피해, 3월 출발 특별 캠페인과 함께 합리적인 가격으로 알찬 일본 스키 여행을 계획해보세요! 꿀팁 챙겨서 여유로운 슬로프 만끽하기! 🤩\n\n#일본스키 #일본스노보드 #봄스키 #3월여행 #일본여행 #플라잉재팬 #스키여행 #스노보드여행 #겨울여행 #일본자유여행 #해외여행 #여행정보 #여행팁 #일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본스키",
-          "#일본스노보드",
-          "#봄스키",
-          "#3월여행",
-          "#스키여행",
-          "#스노보드여행",
-          "#겨울여행",
-          "#일본자유여행",
-          "#해외여행",
-          "#여행정보",
-          "#여행팁",
-          "#일본",
-          "#스키장"
-        ],
-        "alt_texts": [
-          "눈 덮인 일본 스키장 풍경",
-          "스키 장비를 든 사람들의 모습",
-          "항공권과 숙소 예약 화면",
-          "햇살 좋은 3월의 스키장",
-          "스키 여행 준비물 리스트"
-        ]
-      },
-      "marketer_analysis": "타겟: 1~2월 일본 스키 여행을 놓쳤거나, 덜 붐비는 시기에 일본 스키/스노보드를 즐기고 싶은 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시 (주말 여행 계획 시점) / 기대 반응: 3월 일본 스키 여행 계획에 대한 관심 및 정보 탐색 / 이 콘텐츠의 강점: 성수기를 피해 합리적인 비용으로 일본 스키 여행을 즐길 수 있다는 점을 강조",
-      "image": {
-        "keyword": "japan ski resort 3월, japan snowboard season end, spring ski japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-ski-resort-3월,-japan-snowboard-season-end,-spring-ski-japan-travel",
-        "pexels_url": "https://www.pexels.com/search/japan%20ski%20resort%203월,%20japan%20snowboard%20season%20end,%20spring%20ski%20japan%20travel/"
       }
     }
   ]
