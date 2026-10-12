@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-11T05:35:10.244897",
+  "last_updated": "2026-10-12T02:24:13.193338",
   "plans": [
+    {
+      "id": "plan_3901d424",
+      "created_at": "2026-10-12T02:24:11.193171",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "万博で話題、落合陽一の「null2n（ﾇﾙﾇﾙネクサス）」が横浜ランドマークプラザに誕生！　人生初の“ヌル”体験をレポします",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147398.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 경험할 수 있는 특별한 예술 전시 오픈 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨요코하마 신상 핫플 OPEN✨",
+        "cards": [
+          {
+            "title": "null2n 오픈!",
+            "content": "미디어 아티스트 오치아이 요이치 프로듀스의 상설 뮤지엄 시어터 'null2n(누르누르넥서스)'가 10월 14일, 요코하마 랜드마크 플라자에 문을 엽니다.",
+            "alt_text": "요코하마 랜드마크 플라자 외관"
+          },
+          {
+            "title": "특별한 경험",
+            "content": "인생 최초의 '누르' 체험을 할 수 있는 이곳은 예술과 기술이 융합된 독특한 공간입니다. 특별한 경험을 원하는 여행자에게 추천해요.",
+            "alt_text": "'null2n' 내부 전시 공간 상상 이미지"
+          },
+          {
+            "title": "위치 정보",
+            "content": "요코하마 랜드마크 플라자 5층에 위치하며, 오픈 기념 행사 및 언론 공개 행사가 10월 9일에 진행되었습니다.",
+            "alt_text": "요코하마 랜드마크 플라자 5층 안내 표지판"
+          },
+          {
+            "title": "방문 팁",
+            "content": "개장일은 10월 14일이니, 여행 계획에 맞춰 방문해보세요. 자세한 티켓 정보는 추후 공개될 예정입니다.",
+            "alt_text": "달력에 10월 14일 표시"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "일본 여행 중 흔히 볼 수 없는 독창적인 전시이니, 예술과 이색 체험에 관심 있는 분들은 꼭 방문해보시길 바랍니다.",
+            "alt_text": "새로운 경험을 하는 여행객의 뒷모습"
+          }
+        ],
+        "caption": "✨요코하마에 새로운 핫플레이스가 상륙합니다!✨\n미디어 아티스트 오치아이 요이치의 'null2n(누르누르넥서스)' 뮤지엄 시어터가 10월 14일, 요코하마 랜드마크 플라자 5층에 오픈 예정이에요.\n인생 최초의 '누르' 체험이라니… 벌써부터 궁금해지는 곳!\n일본 여행 중 특별한 경험을 찾고 있다면, 10월 14일 이후 요코하마 방문 시 꼭 들러보세요!\n\n#일본여행 #요코하마 #플라잉재팬 #null2n #오치아이요이치 #전시회 #뮤지엄 #새로운핫플 #일본신상 #요코하마여행 #주말나들이 #데이트코스 #이색체험 #일본정보 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#요코하마",
+          "#null2n",
+          "#오치아이요이치",
+          "#일본전시",
+          "#요코하마랜드마크플라자",
+          "#일본핫플",
+          "#가을여행",
+          "#여행스타그램",
+          "#일본정보",
+          "#여행꿀팁",
+          "#이색체험",
+          "#일본관광",
+          "#개장정보"
+        ],
+        "alt_texts": [
+          "요코하마 랜드마크 플라자 외관",
+          "'null2n' 내부 전시 공간 상상 이미지",
+          "요코하마 랜드마크 플라자 5층 안내 표지판",
+          "달력에 10월 14일 표시",
+          "새로운 경험을 하는 여행객의 뒷모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중 특별한 경험을 추구하는 20-30대 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 방문 의사 표현, '가봐야 할 곳' 리스트 추가 / 이 콘텐츠의 강점: 국내에서는 경험하기 어려운 독창적인 예술 전시 정보, 구체적인 오픈일자 및 장소 명시",
+      "image": {
+        "keyword": "Yokohama Landmark Plaza, art museum, exhibition, digital art, immersive experience, autumn travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-Landmark-Plaza,-art-museum,-exhibition,-digital-art,-immersive-experience,-autumn-travel",
+        "pexels_url": "https://www.pexels.com/search/Yokohama%20Landmark%20Plaza,%20art%20museum,%20exhibition,%20digital%20art,%20immersive%20experience,%20autumn%20travel/"
+      }
+    },
+    {
+      "id": "plan_1e91d720",
+      "created_at": "2026-10-12T02:24:05.648337",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "内房線代行バス、なぜJR東日本の正式運行が2週間も遅れた？　現地で分かった事情と「今後の提言」",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147399.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "예상치 못한 일본 내 교통 상황 변화, 미리 알고 대비하세요!"
+      },
+      "content": {
+        "thumbnail_title": "JR 내房線 2주 지연 🚨",
+        "cards": [
+          {
+            "title": "운휴 구간",
+            "content": "태풍 25호로 인해 JR 내房線의 姉ヶ崎역 ~ 목도역 (16.2km) 구간이 전면 운휴되었습니다.",
+            "alt_text": "태풍으로 인해 운행이 중단된 JR 기차 노선도"
+          },
+          {
+            "title": "대체 버스",
+            "content": "JR 동일본에서 마련한 대체 버스가 운행되었으며, 철도와 환승하는 방식으로 운행이 임시 연결되었습니다.",
+            "alt_text": "기차역 앞에서 승객을 기다리는 대체 버스"
+          },
+          {
+            "title": "정식 운행 지연",
+            "content": "당초 예상보다 2주나 늦어진 10월 5일에야 임시 연결 운행이 시작되었습니다.",
+            "alt_text": "운행 재개 안내 플래카드가 걸린 기차역"
+          },
+          {
+            "title": "현지 사정",
+            "content": "현지에서 파악된 사정으로 인해 운행 재개가 지연되었으며, 향후 개선 방안이 논의되고 있습니다.",
+            "alt_text": "일본 현지 철도 관계자들이 논의하는 모습"
+          },
+          {
+            "title": "여행 팁",
+            "content": "일본 여행 중 예상치 못한 교통편 지연이나 운휴가 발생할 수 있으니, 항상 대체 교통편 정보를 미리 확인하고 여유로운 일정을 계획하세요!",
+            "alt_text": "여행 가방을 들고 기차역에서 정보를 확인하는 여행객"
+          }
+        ],
+        "caption": "🚨 JR 내房선, 태풍 피해로 2주간 운행 지연! 🚨\n\n치바현을 강타한 태풍 25호의 영향으로 JR 내房선 姉ヶ崎역 ~ 목도역 구간 (16.2km)이 전면 운휴된 후, 대체 버스 운행 및 철도 환승으로 임시 연결되었습니다.\n\n하지만 예상보다 2주나 늦어진 10월 5일에야 운행이 재개되었다는 소식! 😥\n\n일본 여행 중 갑작스러운 교통편 지연이나 운휴는 여행 계획에 큰 차질을 줄 수 있습니다.\n\n항상 최신 교통 정보를 미리 확인하시고, 여유로운 일정으로 즐거운 일본 여행 되세요! ✨\n\n#일본여행 #JR내房線 #교통정보 #일본교통 #운휴 #지연 #태풍피해 #여행필수템 #여행꿀팁 #플라잉재팬 #일본여행정보 #안전여행 #일본소식 #여행계획 #일본철도",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR내房線",
+          "#일본교통",
+          "#교통정보",
+          "#일본철도",
+          "#운휴",
+          "#지연",
+          "#태풍",
+          "#여행꿀팁",
+          "#일본여행정보",
+          "#안전여행",
+          "#여행계획",
+          "#일본소식",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "태풍으로 인해 운행이 중단된 JR 기차 노선도",
+          "기차역 앞에서 승객을 기다리는 대체 버스",
+          "운행 재개 안내 플래카드가 걸린 기차역",
+          "일본 현지 철도 관계자들이 논의하는 모습",
+          "여행 가방을 들고 기차역에서 정보를 확인하는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 한국인 여행자 / 최적 게시 시간: 평일 오전 9시 ~ 11시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 실제 여행에 직결되는 교통 정보로 즉각적인 유용성 제공",
+      "image": {
+        "keyword": "Japan train delay, typhoon damage, replacement bus service, Chiba prefecture, travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-delay,-typhoon-damage,-replacement-bus-service,-Chiba-prefecture,-travel-information",
+        "pexels_url": "https://www.pexels.com/search/Japan%20train%20delay,%20typhoon%20damage,%20replacement%20bus%20service,%20Chiba%20prefecture,%20travel%20information/"
+      }
+    },
     {
       "id": "plan_59fcd1ad",
       "created_at": "2026-10-11T05:35:08.244780",
@@ -923,160 +1077,6 @@
         "keyword": "japan ski resort 3월, japan snowboard season end, spring ski japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/japan-ski-resort-3월,-japan-snowboard-season-end,-spring-ski-japan-travel",
         "pexels_url": "https://www.pexels.com/search/japan%20ski%20resort%203월,%20japan%20snowboard%20season%20end,%20spring%20ski%20japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_a9fd1feb",
-      "created_at": "2026-10-08T05:51:32.488785",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "クラブツーリズム「九州ふっこう応援割」長崎・熊本ツアー予約スタート。航空券＋宿泊が最大3万円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146752.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 경비 최대 50% 절약 가능한 절호의 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 규슈 여행 최대 50% 할인! ✈️",
-        "cards": [
-          {
-            "title": "九州ふっこう応援割",
-            "content": "일본 정부 주관 '규슈 부흥 응원 할인' 프로모션이 시작되었습니다. 10월 8일부터 나가사키, 구마모토 지역 대상 할인 투어 예약 가능합니다.",
-            "alt_text": "일본 규슈 지역 지도"
-          },
-          {
-            "title": "할인율 확인",
-            "content": "구마모토, 가고시마는 최대 60% 할인, 그 외 5개 현 (후쿠오카, 오이타, 미야자키, 나가사키, 구마모토)은 최대 50% 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "할인율 그래프"
-          },
-          {
-            "title": "여행지별 혜택",
-            "content": "나가사키, 구마모토 지역은 10월 8일부터, 다른 규슈 지역은 별도 공지 예정이며, 항공권+숙박 포함 시 최대 3만 엔 할인됩니다.",
-            "alt_text": "여행지별 혜택 안내"
-          },
-          {
-            "title": "예약 방법",
-            "content": "클럽 투어리즘(クラブツーリズム) 공식 웹사이트 내 특설 페이지에서 예약 가능합니다. 조기 마감될 수 있으니 서두르세요!",
-            "alt_text": "여행사 웹사이트 화면 캡처"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "본격적인 단풍 시즌과 맞물려 인기 여행지 예약이 치열할 것으로 예상됩니다. 얼리버드 혜택을 놓치지 마시고, 여행 계획을 미리 세우세요!",
-            "alt_text": "단풍이 아름다운 일본 풍경"
-          }
-        ],
-        "caption": "✈️ 일본 규슈 여행 계획 중이신가요? ✈️\n\n놀라운 소식! 일본 정부의 '규슈 부흥 응원 할인' 프로모션으로 규슈 여행 경비를 최대 50%까지 절약할 수 있어요!\n\n💰 구마모토, 가고시마 최대 60% 할인!\n✈️ 나가사키, 구마모토 10월 8일부터 할인 투어 예약 시작!\n✅ 항공권+숙박 포함 시 최대 3만 엔 할인!\n\n인기 지역은 조기 마감 예상되니, 서둘러 예약하고 알뜰하게 규슈 여행 떠나세요! 🍁\n\n#규슈여행 #일본할인 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#일본여행정보",
-          "#일본할인",
-          "#여행꿀팁",
-          "#나가사키",
-          "#구마모토",
-          "#가고시마",
-          "#일본숙소",
-          "#일본항공권",
-          "#여행스타그램",
-          "#일본여행준비",
-          "#규슈",
-          "#여행"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 지도",
-          "할인율 그래프",
-          "여행지별 혜택 안내",
-          "여행사 웹사이트 화면 캡처",
-          "단풍이 아름다운 일본 풍경"
-        ]
-      },
-      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 경비 절감 정보 제공으로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Kyushu, Japan travel discount, autumn foliage, travel plan",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyushu,-Japan-travel-discount,-autumn-foliage,-travel-plan",
-        "pexels_url": "https://www.pexels.com/search/Kyushu,%20Japan%20travel%20discount,%20autumn%20foliage,%20travel%20plan/"
-      }
-    },
-    {
-      "id": "plan_f0b6598a",
-      "created_at": "2026-10-08T05:51:27.143774",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA「九州ふっこう応援割」熊本県の予約は明日スタート。航空券＋ホテルが最大3万円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2146761.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 항공권+호텔 최대 3만원 할인! ✈️熊本 여행 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "ANA 熊本 할인 찬스! ✈️",
-        "cards": [
-          {
-            "title": "ANA 熊本 할인",
-            "content": "ANA에서 '규슈 부흥 응원 할인' 熊本현 예약이 10월 9일 오후 2시부터 시작됩니다. 항공권과 호텔을 묶어 최대 3만엔까지 할인받을 수 있어요.",
-            "alt_text": "ANA 항공권과 호텔이 할인되는 프로모션 배너"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "프로모션 예약은 10월 9일 오후 2시부터 ANA 전용 웹사이트에서 가능합니다. 서둘러서 좋은 좌석과 숙소를 확보하세요!",
-            "alt_text": "달력에 10월 9일 오후 2시가 표시된 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "이번 프로모션을 통해 熊本 지역 여행 시 항공권과 호텔을 함께 예약하면 최대 30,000엔까지 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "할인율이 표시된 이미지 (예: 30,000엔 OFF)"
-          },
-          {
-            "title": "대상 지역",
-            "content": "본 프로모션은 熊本현 지역 여행에 적용됩니다. 熊本의 매력적인 관광지를 알뜰하게 즐길 기회입니다.",
-            "alt_text": "일본 熊本 지역 지도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 지역인 만큼 예약이 빠르게 마감될 수 있습니다. 예약 시작 시간 전에 미리 웹사이트를 확인하고 준비해두세요! ⏰",
-            "alt_text": "알람 시계 이미지"
-          }
-        ],
-        "caption": "일본 규슈 여행 계획 중이신가요? ✈️ ANA에서 熊本현 여행 시 항공권+호텔을 최대 3만엔까지 할인해주는 '규슈 부흥 응원 할인' 프로모션을 시작합니다! 🤩\n\n✅ 예약 시작: 10월 9일 오후 2시\n✅ 할인 금액: 최대 30,000엔\n✅ 대상 지역: 熊本현\n\n서둘러서 熊本의 숨은 매력을 저렴하게 경험해보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#규슈여행",
-          "#熊本",
-          "#일본항공권",
-          "#일본호텔",
-          "#일본할인",
-          "#여행프로모션",
-          "#가을여행",
-          "#여행꿀팁",
-          "#일본여행정보",
-          "#ANA할인",
-          "#규슈",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "ANA 항공권과 호텔이 할인되는 프로모션 배너",
-          "달력에 10월 9일 오후 2시가 표시된 이미지",
-          "할인율이 표시된 이미지 (예: 30,000엔 OFF)",
-          "일본 熊本 지역 지도 이미지",
-          "알람 시계 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 저녁 7시~9시 / 기대 반응: 프로모션 정보에 대한 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 할인 금액과 예약 시작일을 명확히 제시하여 즉각적인 행동 유도 가능",
-      "image": {
-        "keyword": "ANA, Japan Kyushu discount, Kumamoto travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA,-Japan-Kyushu-discount,-Kumamoto-travel-deal",
-        "pexels_url": "https://www.pexels.com/search/ANA,%20Japan%20Kyushu%20discount,%20Kumamoto%20travel%20deal/"
       }
     }
   ]
