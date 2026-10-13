@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-13T03:34:14.434203",
+  "last_updated": "2026-10-13T06:40:10.013108",
   "plans": [
+    {
+      "id": "plan_96042a79",
+      "created_at": "2026-10-13T06:40:08.012918",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ミャクミャク×USJハミクマグッズ実物を見てきた！　両ファンに刺さるポップな描き下ろしイラストにも注目",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147647.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 만박 캐릭터와 할로윈 마스코트의 콜라보 굿즈, 놓치면 후회!"
+      },
+      "content": {
+        "thumbnail_title": "✨미야쿠미야쿠X하미쿠마✨",
+        "cards": [
+          {
+            "title": "콜라보 굿즈 출시!",
+            "content": "오사카·간사이 만박 공식 캐릭터 '미야쿠미야쿠'와 할로윈 인기 캐릭터 '하미쿠마'의 콜라보 굿즈가 10월 13일부터 순차적으로 발매됩니다.",
+            "alt_text": "미야쿠미야쿠와 하미쿠마가 함께 그려진 굿즈 이미지"
+          },
+          {
+            "title": "USJ에서 만나요",
+            "content": "이번 콜라보 굿즈는 유니버설 스튜디오 재팬(USJ)에서 만나볼 수 있으며, 두 캐릭터 팬 모두를 사로잡는 팝한 일러스트가 특징입니다.",
+            "alt_text": "USJ에서 전시된 미야쿠미야쿠X하미쿠마 콜라보 굿즈들"
+          },
+          {
+            "title": "실물 공개!",
+            "content": "현지에서 직접 촬영한 상품 실물 사진과 함께 공개되어 구매 욕구를 자극합니다. 어떤 상품들이 있을지 미리 확인해보세요!",
+            "alt_text": "다양한 종류의 미야쿠미야쿠X하미쿠마 콜라보 굿즈 실물 사진"
+          },
+          {
+            "title": "특별한 기념품",
+            "content": "여행 기념품으로 특별한 것을 찾고 있다면, 이번 한정 콜라보 굿즈가 좋은 선택이 될 수 있습니다. 놓치지 마세요!",
+            "alt_text": "미야쿠미야쿠X하미쿠마 콜라보 굿즈 상세 이미지"
+          },
+          {
+            "title": "방문 전 확인!",
+            "content": "USJ 방문 예정이라면, 10월 13일부터 순차적으로 발매되는 이 특별한 콜라보 굿즈 정보를 꼭 기억해두세요. 조기 품절될 수 있습니다!",
+            "alt_text": "USJ 마스코트 캐릭터들이 그려진 안내판 이미지"
+          }
+        ],
+        "caption": "🇯🇵 오사카 만박X할로윈 마스코트, USJ에서 만나요! ✨\n\n오사카·간사이 만박 공식 캐릭터 '미야쿠미야쿠'와 할로윈 인기 캐릭터 '하미쿠마'의 역대급 콜라보 굿즈가 10월 13일부터 USJ에서 순차 발매됩니다! 🤩\n\n두 캐릭터 팬 모두를 위한 팝한 일러스트 굿즈, 실물 사진으로 미리 만나보고 여행 계획 세워보세요! 💖\n\n#일본여행 #플라잉재팬 #오사카여행 #USJ #유니버설스튜디오재팬 #미야쿠미야쿠 #하미쿠마 #콜라보굿즈 #한정판 #여행꿀팁 #일본쇼핑 #오사카만박 #할로윈 #여행스타그램 #일본이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#USJ",
+          "#유니버설스튜디오재팬",
+          "#미야쿠미야쿠",
+          "#하미쿠마",
+          "#콜라보굿즈",
+          "#한정판",
+          "#여행꿀팁",
+          "#일본쇼핑",
+          "#오사카만박",
+          "#할로윈",
+          "#여행스타그램",
+          "#일본이벤트"
+        ],
+        "alt_texts": [
+          "미야쿠미야쿠와 하미쿠마가 함께 그려진 굿즈 이미지",
+          "USJ에서 전시된 미야쿠미야쿠X하미쿠마 콜라보 굿즈들",
+          "다양한 종류의 미야쿠미야쿠X하미쿠마 콜라보 굿즈 실물 사진",
+          "미야쿠미야쿠X하미쿠마 콜라보 굿즈 상세 이미지",
+          "USJ 마스코트 캐릭터들이 그려진 안내판 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 오후 1시 ~ 3시 / 기대 반응: 높은 관심과 정보 공유, USJ 방문 계획에 영향 / 이 콘텐츠의 강점: 최신 이벤트 정보, 실물 사진 제공으로 현장감 부여, 놓치면 후회할 만한 한정판 굿즈 정보",
+      "image": {
+        "keyword": "Myakmyak Hamikuma USJ collaboration goods Japan Osaka",
+        "unsplash_url": "https://unsplash.com/s/photos/Myakmyak-Hamikuma-USJ-collaboration-goods-Japan-Osaka",
+        "pexels_url": "https://www.pexels.com/search/Myakmyak%20Hamikuma%20USJ%20collaboration%20goods%20Japan%20Osaka/"
+      }
+    },
+    {
+      "id": "plan_a595b904",
+      "created_at": "2026-10-13T06:40:02.320498",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "USJ「ミャクミャク×ハミクマ」コラボスイーツを発売前に見てきた！　万博閉幕1周年のお祝いにぴったり",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2147667.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "USJ 할로윈 한정판! 귀여운 미야쿠미와 무서운 하미쿠마의 만남! 🎃👻"
+      },
+      "content": {
+        "thumbnail_title": "USJ 할로윈 신상 💖",
+        "cards": [
+          {
+            "title": "콜라보 스위츠",
+            "content": "유니버설 스튜디오 재팬에서 오사카-간사이 만박 공식 캐릭터 '미야쿠미'와 할로윈 인기 캐릭터 '하미쿠마'의 콜라보 메뉴를 출시했습니다. 만박 폐막 1주년을 기념하는 특별한 기간 한정 스위츠를 만나보세요!",
+            "alt_text": "USJ 미야쿠미와 하미쿠마 콜라보 스위츠 이미지"
+          },
+          {
+            "title": "기간 한정",
+            "content": "이 특별한 콜라보 메뉴는 언제까지 맛볼 수 있을까요? 정확한 기간은 아직 공개되지 않았지만, 할로윈 시즌에 맞춰 출시될 예정이니 놓치지 마세요!",
+            "alt_text": "USJ 할로윈 시즌 기간 한정 메뉴 안내 이미지"
+          },
+          {
+            "title": "놓치면 후회",
+            "content": "귀여움과 오싹함을 동시에 잡은 '미야쿠미×하미쿠마' 콜라보 스위츠는 오직 USJ에서만 맛볼 수 있습니다. 특별한 추억을 만들고 싶다면 꼭 방문해보세요!",
+            "alt_text": "USJ 방문객이 콜라보 스위츠를 즐기는 모습 이미지"
+          },
+          {
+            "title": "SNS 인증샷 필수!",
+            "content": "독특한 비주얼의 콜라보 스위츠로 인생샷을 남겨보세요. SNS에 자랑하면 친구들의 부러움을 살 수 있을 거예요!",
+            "alt_text": "USJ 콜라보 스위츠로 인증샷 찍는 모습 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 메뉴는 조기 품절될 수 있으니, 방문 계획이 있다면 오픈 시간에 맞춰 가는 것을 추천합니다. 또한, USJ 할로윈 이벤트와 함께 즐기면 더욱 특별한 경험이 될 거예요!",
+            "alt_text": "USJ 방문객이 줄 서서 메뉴를 기다리는 모습 이미지"
+          }
+        ],
+        "caption": "✨ USJ 역대급 할로윈 스위츠 등장! ✨\n오사카 만박 마스코트 '미야쿠미'와 할로윈 대표 캐릭터 '하미쿠마'가 만났다! 🎃👻\n만박 폐막 1주년을 기념하는 특별한 콜라보 메뉴, 놓치면 정말 후회할 거예요! 💖\n귀여움과 오싹함을 동시에! USJ에서만 만날 수 있는 한정판 스위츠로 특별한 추억을 만들어보세요!\n\n#일본여행 #플라잉재팬 #USJ #유니버설스튜디오재팬 #오사카여행 #할로윈 #콜라보 #미야쿠미 #하미쿠마 #기간한정 #일본디저트 #일본맛집 #여행정보 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#USJ",
+          "#유니버설스튜디오재팬",
+          "#오사카여행",
+          "#할로윈",
+          "#콜라보",
+          "#미야쿠미",
+          "#하미쿠마",
+          "#기간한정",
+          "#일본디저트",
+          "#일본맛집",
+          "#여행정보",
+          "#여행스타그램",
+          "#일본축제"
+        ],
+        "alt_texts": [
+          "USJ 미야쿠미와 하미쿠마 콜라보 스위츠 이미지",
+          "USJ 할로윈 시즌 기간 한정 메뉴 안내 이미지",
+          "USJ 방문객이 콜라보 스위츠를 즐기는 모습 이미지",
+          "USJ 콜라보 스위츠로 인증샷 찍는 모습 이미지",
+          "USJ 방문객이 줄 서서 메뉴를 기다리는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 USJ 방문 예정인 20-30대 한국인 여행객 / 최적 게시 시간: 금요일 오후 5시 / 기대 반응: 스위츠 비주얼에 대한 흥미, 방문 욕구 자극 / 이 콘텐츠의 강점: 최신 이벤트 정보, 시각적 매력 강조, 방문객에게 실질적인 팁 제공",
+      "image": {
+        "keyword": "USJ, Miyakumi, Hamikuma, Halloween, collaboration, sweets, Osaka, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/USJ,-Miyakumi,-Hamikuma,-Halloween,-collaboration,-sweets,-Osaka,-Japan",
+        "pexels_url": "https://www.pexels.com/search/USJ,%20Miyakumi,%20Hamikuma,%20Halloween,%20collaboration,%20sweets,%20Osaka,%20Japan/"
+      }
+    },
     {
       "id": "plan_c16c3c1c",
       "created_at": "2026-10-13T03:34:12.433862",
@@ -923,160 +1077,6 @@
         "keyword": "Japan Kyushu travel discount",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount",
         "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount/"
-      }
-    },
-    {
-      "id": "plan_f585e256",
-      "created_at": "2026-10-10T02:20:17.846742",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "鹿児島県「九州ふっこう応援割」10月14日から実施決定。2月末宿泊分まで最大60％オフ、特設サイトは明日公開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147156.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "규슈 지역 여행 경비 확 줄여주는 역대급 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 규슈 최대 60% 할인! 💸",
-        "cards": [
-          {
-            "title": "규슈 응원 할인",
-            "content": "일본 관광청의 '규슈 부흥 응원 할인'이 '가고시마 부흥 응원 할인'으로 10월 14일부터 시작됩니다. 최대 60%까지 할인받을 수 있어요.",
-            "alt_text": "일본 가고시마 현 지도와 할인율 아이콘"
-          },
-          {
-            "title": "할인 기간",
-            "content": "2023년 10월 14일부터 2024년 2월 말까지 숙박하는 분들에게 적용됩니다. 놓치면 후회할 기회예요!",
-            "alt_text": "달력에 10월 14일부터 2월 말까지 표시된 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "숙박비의 최대 60%를 할인받을 수 있어, 평소 가고 싶었던 규슈 지역의 숙소를 훨씬 저렴하게 이용할 수 있습니다.",
-            "alt_text": "할인율 60%가 표시된 쿠폰 아이콘"
-          },
-          {
-            "title": "특설 사이트",
-            "content": "할인 관련 상세 정보 및 예약 방법은 내일(뉴스 기사 발행일 기준) 공개될 특설 사이트를 통해 확인할 수 있습니다.",
-            "alt_text": "웹사이트 접속 화면 아이콘"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "가고시마 외 규슈 다른 지역도 유사한 할인 정책이 있을 수 있으니, 여행 계획 시 꼭 확인해보세요! 미리 예약하면 더 유리합니다.",
-            "alt_text": "여행 가방과 지도 아이콘"
-          }
-        ],
-        "caption": "✨ 규슈 여행 꿈꿔왔다면 주목! ✨\n가고시마현에서 10월 14일부터 '가고시마 부흥 응원 할인'을 시작해요!\n무려 최대 60%까지 숙박비를 할인받을 수 있는 절호의 찬스! 🤩\n2024년 2월 말까지 숙박하는 분들에게 적용되니, 겨울 규슈 여행은 이걸로 결정하세요! ✈️\n자세한 내용은 내일 공개될 특설 사이트를 기다려주세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#가고시마",
-          "#일본숙소",
-          "#일본할인",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#부흥할인",
-          "#여행팁",
-          "#일본자유여행",
-          "#해외여행",
-          "#가을여행",
-          "#겨울여행",
-          "#일본경제"
-        ],
-        "alt_texts": [
-          "일본 가고시마 현 지도와 할인율 아이콘",
-          "달력에 10월 14일부터 2월 말까지 표시된 이미지",
-          "할인율 60%가 표시된 쿠폰 아이콘",
-          "웹사이트 접속 화면 아이콘",
-          "여행 가방과 지도 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중이거나 관심 있는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 높은 관심과 문의, 할인 정보 공유 및 저장 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과 제시, 구체적인 할인율 및 기간 명시",
-      "image": {
-        "keyword": "Kagoshima, Japan, discount, travel support, accommodation, tourism, save money, promotion, limited time offer",
-        "unsplash_url": "https://unsplash.com/s/photos/Kagoshima,-Japan,-discount,-travel-support,-accommodation,-tourism,-save-money,-promotion,-limited-time-offer",
-        "pexels_url": "https://www.pexels.com/search/Kagoshima,%20Japan,%20discount,%20travel%20support,%20accommodation,%20tourism,%20save%20money,%20promotion,%20limited%20time%20offer/"
-      }
-    },
-    {
-      "id": "plan_11a95597",
-      "created_at": "2026-10-10T02:20:12.374998",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "21時間の船旅を快適にしてくれる「au Starlink フェリーWi-Fi」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147061.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "21시간 일본 장거리 페리, 이제 와이파이 걱정 끝!"
-      },
-      "content": {
-        "thumbnail_title": "🚢21시간 페리 와이파이 꿀팁!",
-        "cards": [
-          {
-            "title": "페리 와이파이",
-            "content": "일본 장거리 페리 여행 필수템! KDDI와 W&W가 제공하는 'au Starlink 페리 Wi-Fi'로 21시간 동안 끊김 없는 인터넷을 즐겨보세요.",
-            "alt_text": "일본 페리 선박 이미지"
-          },
-          {
-            "title": "편안한 여행",
-            "content": "스마트폰은 여행의 필수품! 이제 긴 페리 안에서도 실시간 소통, 정보 검색, 엔터테인먼트를 마음껏 누릴 수 있습니다.",
-            "alt_text": "페리 내에서 스마트폰을 사용하는 여행객 이미지"
-          },
-          {
-            "title": "서비스 제공",
-            "content": "KDDI와 W&W의 합작 서비스로, 일본 주요 페리 노선에 순차적으로 도입될 예정입니다. (정확한 노선 및 도입 시기는 추후 공지 예정)",
-            "alt_text": "KDDI 로고와 W&W 로고가 함께 있는 이미지"
-          },
-          {
-            "title": "여행의 질 향상",
-            "content": "지루했던 장거리 페리 여행이 획기적으로 달라집니다. 친구, 가족과의 실시간 소통은 물론, 최신 일본 여행 정보까지 놓치지 마세요!",
-            "alt_text": "페리 창밖으로 보이는 바다 풍경 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "페리 탑승 전, 'au Starlink 페리 Wi-Fi' 서비스 제공 여부를 미리 확인하는 것이 좋습니다. 미리 알림 설정을 해두면 더욱 편리하게 이용 가능합니다.",
-            "alt_text": "스마트폰으로 와이파이 설정 화면을 확인하는 이미지"
-          }
-        ],
-        "caption": "일본 장거리 페리 여행, 21시간 동안 인터넷 없이 지루하셨나요? 😭\n\n이제 KDDI와 W&W가 선보이는 'au Starlink 페리 Wi-Fi'로 답답함 없이 편안하게 여행하세요! 📶\n\n페리 안에서도 실시간 소통, 정보 검색, 엔터테인먼트까지 모두 가능! \n\n다음 일본 페리 여행은 와이파이 걱정 없이 즐겨보세요! 😉\n\n📌 자세한 서비스 도입 노선 및 시기는 추후 공지 예정이니, 여행 계획 시 꼭 확인하세요!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본페리",
-          "#페리여행",
-          "#auStarlink",
-          "#일본교통",
-          "#일본여행필수템",
-          "#일본여행꿀팁",
-          "#장거리페리",
-          "#해외여행",
-          "#여행스타그램",
-          "#페리",
-          "#일본",
-          "#여행정보",
-          "#와이파이"
-        ],
-        "alt_texts": [
-          "일본 페리 선박 이미지",
-          "페리 내에서 스마트폰을 사용하는 여행객 이미지",
-          "KDDI 로고와 W&W 로고가 함께 있는 이미지",
-          "페리 창밖으로 보이는 바다 풍경 이미지",
-          "스마트폰으로 와이파이 설정 화면을 확인하는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 페리 이용 예정인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 (여행 계획 세우는 시간) / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 장거리 페리 이용객들의 불편 해소 및 실질적인 여행 편의 증진 정보 제공",
-      "image": {
-        "keyword": "Japan ferry, Wi-Fi, travel, smartphone, internet, KDDI, W&W, connectivity, comfortable journey, long distance",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-ferry,-Wi-Fi,-travel,-smartphone,-internet,-KDDI,-W&W,-connectivity,-comfortable-journey,-long-distance",
-        "pexels_url": "https://www.pexels.com/search/Japan%20ferry,%20Wi-Fi,%20travel,%20smartphone,%20internet,%20KDDI,%20W&W,%20connectivity,%20comfortable%20journey,%20long%20distance/"
       }
     }
   ]
