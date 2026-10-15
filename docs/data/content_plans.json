@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-14T04:42:42.099535",
+  "last_updated": "2026-10-15T01:28:38.251260",
   "plans": [
+    {
+      "id": "plan_79b27221",
+      "created_at": "2026-10-15T01:28:36.251090",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Yahoo!トラベル、熊本県の「九州ふっこう応援割」本日12時予約スタート。宿泊代が最大60％オフ、＋誰でも10％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148189.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 숙박비 파격 할인 찬스! 료칸, 호텔 최대 60% OFF!"
+      },
+      "content": {
+        "thumbnail_title": "💥熊本 숙박 60% OFF!💥",
+        "cards": [
+          {
+            "title": "쿠마모토 숙박 할인",
+            "content": "일본 여행 지원 '규슈 부흥 응원 할인'으로 熊本현 숙박 예약 시 최대 60% 할인 혜택을 받을 수 있어요. 료칸, 호텔 등 다양한 숙소에 적용 가능합니다.",
+            "alt_text": "할인율이 표시된 일본 숙박 예약 페이지 이미지"
+          },
+          {
+            "title": "추가 10% 할인",
+            "content": "누구나 추가 10% 할인을 받을 수 있어, 최대 70%까지 숙박비를 절약할 수 있는 절호의 기회입니다. 이번 기회를 놓치지 마세요!",
+            "alt_text": "추가 할인 쿠폰 이미지를 들고 있는 손 이미지"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "熊本현 예약은 10월 15일 낮 12시부터 시작됩니다. 서둘러 원하는 숙소를 선점하세요!",
+            "alt_text": "달력에 10월 15일이 표시된 이미지"
+          },
+          {
+            "title": "할인 적용 방법",
+            "content": "Yahoo! 트래블을 통해 예약해야 하며, 해당 할인 코드를 적용해야 합니다. 예약 전 할인 적용 여부를 꼭 확인하세요.",
+            "alt_text": "할인 코드 입력란이 있는 웹사이트 예약 화면 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 숙소는 조기 마감될 수 있으니, 미리 관심 있는 숙소를 찜해두고 예약 오픈 시간에 맞춰 바로 예약하는 것을 추천합니다. 熊本 여행 계획 세우신다면 꼭 활용하세요!",
+            "alt_text": "일본 전통 료칸에서 온천을 즐기는 커플 이미지"
+          }
+        ],
+        "caption": "✨일본 熊本 여행 계획 중이신가요?✨\n\n🎉Yahoo! 트래블에서 熊本현 숙박 예약 시 최대 60% 할인 혜택을 제공하는 '규슈 부흥 응원 할인'이 시작됩니다!🎉\n\n🌟누구나 추가 10% 할인까지! 최대 70% OFF 찬스!🌟\n\n✅예약 시작: 10월 15일 낮 12시\n\n놓치면 후회할 역대급 할인, 지금 바로 熊本 여행 숙소 찜하고 할인받아 가세요! ✈️\n\n#일본여행 #규슈여행 #熊本여행 #숙박할인 #료칸 #호텔 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#熊本",
+          "#쿠마모토",
+          "#일본숙박",
+          "#료칸",
+          "#호텔",
+          "#여행할인",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#해외여행",
+          "#가을여행",
+          "#겨울여행",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "할인율이 표시된 일본 숙박 예약 페이지 이미지",
+          "추가 할인 쿠폰 이미지를 들고 있는 손 이미지",
+          "달력에 10월 15일이 표시된 이미지",
+          "할인 코드 입력란이 있는 웹사이트 예약 화면 이미지",
+          "일본 전통 료칸에서 온천을 즐기는 커플 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 熊本 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 참여율 (할인 정보에 대한 즉각적인 관심), 정보 공유 / 이 콘텐츠의 강점: 매우 구체적인 할인율과 날짜 정보를 제공하여 실질적인 도움을 줄 수 있으며, '최대 70% OFF'라는 강력한 혜택을 강조함.",
+      "image": {
+        "keyword": "Japan travel discount, Kumamoto ryokan booking, Kyushu travel support, Hotel sale Japan, Travel deals October",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Kumamoto-ryokan-booking,-Kyushu-travel-support,-Hotel-sale-Japan,-Travel-deals-October",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Kumamoto%20ryokan%20booking,%20Kyushu%20travel%20support,%20Hotel%20sale%20Japan,%20Travel%20deals%20October/"
+      }
+    },
+    {
+      "id": "plan_99628686",
+      "created_at": "2026-10-15T01:28:30.199510",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "エアトリ、鹿児島県の「九州ふっこう応援割」本日12時予約スタート。航空券＋宿泊が最大60％オフに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148196.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 규슈 지역 여행 시 최대 60% 할인 혜택을 받을 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️규슈 최대 60% 할인!",
+        "cards": [
+          {
+            "title": "九州ふっこう応援割",
+            "content": "일본 규슈 지역 여행 지원 사업 '큐슈 부흥 응원 할인'이 시작됩니다. 10월 15일 12시부터 鹿児島현(가고시마현) 예약 접수가 시작됩니다.",
+            "alt_text": "일본 규슈 지역 여행 지원 사업 '큐슈 부흥 응원 할인' 시작 안내"
+          },
+          {
+            "title": "항공권+숙박",
+            "content": "이 지원 사업을 통해 항공권과 숙박을 함께 예약할 경우, 최대 60%까지 할인 혜택을 받을 수 있습니다. 여행 경비를 크게 절약할 기회입니다.",
+            "alt_text": "항공권과 숙박 동시 예약 시 최대 60% 할인 혜택 이미지"
+          },
+          {
+            "title": "예약 시작",
+            "content": "鹿児島県(가고시마현) 대상 예약은 10월 15일 12시(현지 시간 기준)부터 시작됩니다. 인기 상품은 조기 마감될 수 있으니 서두르세요.",
+            "alt_text": "10월 15일 12시 가고시마현 예약 시작 안내"
+          },
+          {
+            "title": "여행 계획",
+            "content": "가고시마 외 다른 규슈 지역의 할인 정보도 곧 발표될 예정입니다. 일본 규슈 여행을 계획 중이라면 주목해 주세요.",
+            "alt_text": "다른 규슈 지역 할인 정보 발표 예정 안내"
+          },
+          {
+            "title": "꿀팁",
+            "content": "예약 오픈 시간에 맞춰 미리 에어트립(エアトリ) 웹사이트를 확인하고, 원하는 항공권과 숙소를 찜해두면 빠르게 예약할 수 있습니다. 결제 수단도 미리 준비해두세요.",
+            "alt_text": "예약 오픈 시간 전 미리 준비하는 꿀팁 이미지"
+          }
+        ],
+        "caption": "✈️일본 규슈 여행 예정이라면 주목!✈️\n\n'큐슈 부흥 응원 할인' 사업으로 10월 15일 12시부터 鹿児島현(가고시마현) 예약이 시작됩니다!\n\n항공권+숙박을 함께 예약하면 최대 60% 할인 혜택까지! 🤩\n\n여행 경비를 절약할 절호의 찬스를 놓치지 마세요! 😉\n\n#일본여행 #규슈여행 #가고시마여행 #큐슈 #일본할인 #여행꿀팁 #여행정보 #플라잉재팬 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#규슈여행",
+          "#가고시마",
+          "#큐슈부흥응원할인",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#해외여행",
+          "#할인정보",
+          "#여행팁",
+          "#일본축제",
+          "#일본쇼핑",
+          "#항공권특가"
+        ],
+        "alt_texts": [
+          "일본 규슈 지역 여행 지원 사업 '큐슈 부흥 응원 할인' 시작 안내",
+          "항공권과 숙박 동시 예약 시 최대 60% 할인 혜택 이미지",
+          "10월 15일 12시 가고시마현 예약 시작 안내",
+          "다른 규슈 지역 할인 정보 발표 예정 안내",
+          "예약 오픈 시간 전 미리 준비하는 꿀팁 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 문의, 예약 정보 공유 / 이 콘텐츠의 강점: 파격적인 할인율, 실질적인 경비 절감 정보 제공",
+      "image": {
+        "keyword": "Japan Kyushu travel discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount",
+        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount/"
+      }
+    },
     {
       "id": "plan_bec74ea9",
       "created_at": "2026-10-14T04:42:40.099339",
@@ -923,160 +1077,6 @@
         "keyword": "Japan train delay, typhoon damage, replacement bus service, Chiba prefecture, travel information",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-train-delay,-typhoon-damage,-replacement-bus-service,-Chiba-prefecture,-travel-information",
         "pexels_url": "https://www.pexels.com/search/Japan%20train%20delay,%20typhoon%20damage,%20replacement%20bus%20service,%20Chiba%20prefecture,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_59fcd1ad",
-      "created_at": "2026-10-11T05:35:08.244780",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ZIPAIR Tokyo、東京/成田〜ソウル/仁川線を期間増便　12月に",
-        "url": "https://www.traicy.com/posts/20261011384003/",
-        "date": "Sun, 11 Oct 2026 02:55:02 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "연말 일본 여행 계획 중이라면 주목! ZIPAIR 항공편 증편 소식으로 더 편하게 떠나세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ZIPAIR 12월 증편!✈️",
-        "cards": [
-          {
-            "title": "인천-나리타 노선",
-            "content": "ZIPAIR Tokyo가 12월, 인천-나리타 노선을 기간 한정으로 증편합니다. 12월 1일부터 11일까지는 화, 목, 금요일에 추가 항공편이 운항됩니다.",
-            "alt_text": "인천공항 전광판에 표시된 항공편 정보"
-          },
-          {
-            "title": "추가 운항 기간",
-            "content": "또한 12월 15일부터 24일까지는 월, 화, 목, 토요일에도 추가 항공편이 편성됩니다. 이 기간 동안 하루 최대 2왕복까지 운항 예정입니다.",
-            "alt_text": "비행기 이륙 장면"
-          },
-          {
-            "title": "연말 일본 여행",
-            "content": "연말연시 일본 여행을 계획하고 있다면, 이번 증편 소식을 활용하여 더욱 여유로운 일정을 세워보세요. 미리 예약하면 좋은 좌석을 확보할 수 있습니다.",
-            "alt_text": "일본 도쿄 타워 야경"
-          },
-          {
-            "title": "항공권 정보",
-            "content": "ZIPAIR는 저비용 항공사(LCC)로, 합리적인 가격으로 일본을 여행할 수 있는 매력적인 선택지입니다. 공식 홈페이지를 통해 자세한 운항 스케줄을 확인해 보세요.",
-            "alt_text": "항공권 예약 페이지 화면 캡처"
-          },
-          {
-            "title": "꿀팁",
-            "content": "증편 기간은 인기가 많을 수 있으니, 항공권은 최대한 서둘러 예약하는 것이 좋습니다. 수하물 규정 등도 미리 확인하여 불필요한 추가 요금을 방지하세요.",
-            "alt_text": "여권과 항공권, 캐리어를 들고 있는 여행객"
-          }
-        ],
-        "caption": "✈️ 12월 일본 여행 계획 중이신가요? ✈️\n\nZIPAIR Tokyo가 인천-나리타 노선을 12월 일부 기간 동안 증편 운항합니다!\n\n✅ 12/1~11: 화, 목, 금요일 추가 운항\n✅ 12/15~24: 월, 화, 목, 토요일 추가 운항 (하루 최대 2왕복)\n\n연말연시, 더 많은 좌석으로 편안하게 일본으로 떠나세요!\n\n#일본여행 #인천나리타 #ZIPAIR #항공권정보 #일본항공권 #연말여행 #여행팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ZIPAIR",
-          "#인천나리타",
-          "#항공권증편",
-          "#일본항공권",
-          "#연말여행",
-          "#여행정보",
-          "#일본가자",
-          "#해외여행",
-          "#항공권예약",
-          "#여행꿀팁",
-          "#일본",
-          "#동경",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "인천공항 전광판에 표시된 항공편 정보",
-          "비행기 이륙 장면",
-          "일본 도쿄 타워 야경",
-          "항공권 예약 페이지 화면 캡처",
-          "여권과 항공권, 캐리어를 들고 있는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 12월 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 항공권 정보에 대한 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 시기적절한 항공편 증편 정보 제공으로 여행 계획에 실질적인 도움",
-      "image": {
-        "keyword": "Tokyo Narita Airport flight information",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Narita-Airport-flight-information",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Narita%20Airport%20flight%20information/"
-      }
-    },
-    {
-      "id": "plan_4404cce0",
-      "created_at": "2026-10-11T05:35:02.736903",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "中国東方航空、広島〜上海/浦東線を運休　10月24日で",
-        "url": "https://www.traicy.com/posts/20261011384665/",
-        "date": "Sun, 11 Oct 2026 03:05:11 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 항공편 운휴 정보, 여행 계획에 필수 체크!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 10/24부 ✈️ 広島-上海 노선 운휴",
-        "cards": [
-          {
-            "title": "운휴 노선",
-            "content": "중국동방항공이 10월 24일부터 広島(히로시마) ~ 上海(상하이)/浦東 노선을 운휴합니다.",
-            "alt_text": "중국동방항공 로고와 함께 운휴 노선 정보가 표시된 이미지"
-          },
-          {
-            "title": "운항 정보",
-            "content": "현재 해당 노선은 월, 금요일 주 2회 왕복 운항 중이었으며, 에어버스 A321 기종이 투입되었습니다.",
-            "alt_text": "에어버스 A321 항공기 이미지"
-          },
-          {
-            "title": "예상 소요 시간",
-            "content": "히로시마 출발 시 약 2시간 15분 ~ 2시간 25분, 상하이/푸동 출발 시 약 2시간이 소요됩니다.",
-            "alt_text": "비행기 시간표 이미지"
-          },
-          {
-            "title": "여행 계획 시 유의",
-            "content": "히로시마에서 상하이로 이동하거나 상하이에서 히로시마로 입국 예정인 여행객은 반드시 항공편 변경 또는 대체 노선 확인이 필요합니다.",
-            "alt_text": "달력과 비행기 아이콘이 함께 있는 이미지"
-          },
-          {
-            "title": "필수 확인!",
-            "content": "항공권 예약 변경 또는 취소 관련 사항은 이용하신 항공사에 직접 문의하시는 것이 가장 정확합니다.",
-            "alt_text": "전화기 아이콘과 물음표가 있는 이미지"
-          }
-        ],
-        "caption": "✈️ 한국에서 일본 여행 오시는 분들 주목! ✈️\n\n중국동방항공에서 10월 24일부터 広島(히로시마) - 上海(상하이)/浦東 노선 운항을 중단합니다.\n\n해당 노선을 이용하셨거나 계획 중이셨다면, 반드시 항공권 정보를 재확인하고 대체 항공편을 알아보세요!\n\n항공권 변경/취소는 항공사에 직접 문의하시길 바랍니다. 꼼꼼하게 확인하고 안전하고 즐거운 일본 여행 되세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #항공정보 #일본항공 #중국동방항공 #히로시마 #상하이 #여행꿀팁 #여행정보 #일본생활 #여행준비 #항공권 #운휴정보 #해외여행 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#항공정보",
-          "#일본항공",
-          "#중국동방항공",
-          "#히로시마",
-          "#상하이",
-          "#여행꿀팁",
-          "#여행정보",
-          "#일본생활",
-          "#여행준비",
-          "#항공권",
-          "#운휴정보",
-          "#해외여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "중국동방항공 로고와 함께 운휴 노선 정보가 표시된 이미지",
-          "에어버스 A321 항공기 이미지",
-          "비행기 시간표 이미지",
-          "달력과 비행기 아이콘이 함께 있는 이미지",
-          "전화기 아이콘과 물음표가 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 여행 계획이 활발한 저녁 시간 (19시~21시) / 기대 반응: 항공편 변경에 대한 실질적인 정보 습득 및 안도감, 항공사 정보 업데이트 / 이 콘텐츠의 강점: 일본 여행과 직결되는 최신 항공 운휴 정보를 구체적인 날짜와 함께 제공하여 여행 계획에 필수적인 내용을 담고 있음.",
-      "image": {
-        "keyword": "airplane, flight cancellation, Japan travel, Hiroshima, Shanghai, China Eastern Airlines",
-        "unsplash_url": "https://unsplash.com/s/photos/airplane,-flight-cancellation,-Japan-travel,-Hiroshima,-Shanghai,-China-Eastern-Airlines",
-        "pexels_url": "https://www.pexels.com/search/airplane,%20flight%20cancellation,%20Japan%20travel,%20Hiroshima,%20Shanghai,%20China%20Eastern%20Airlines/"
       }
     }
   ]
