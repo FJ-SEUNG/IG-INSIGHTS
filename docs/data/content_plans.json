@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-15T01:28:38.251260",
+  "last_updated": "2026-10-15T04:24:45.887992",
   "plans": [
+    {
+      "id": "plan_58478fc4",
+      "created_at": "2026-10-15T04:24:43.887774",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "今冬はリルリンリンのフードスーベニアに熱視線！　初登場のポプバにスナックケース、タンブラーほか8種",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148304.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 크리스마스 한정 굿즈, 놓치면 후회!"
+      },
+      "content": {
+        "thumbnail_title": "🎄디즈니 11/1 🎄릴린린 굿즈OPEN!",
+        "cards": [
+          {
+            "title": "릴린린 굿즈 공개",
+            "content": "도쿄 디즈니리조트에서 '디즈니 크리스마스' 기간 동안 크리스마스 요정 릴린린 테마의 푸드 수프레를 11월 1일에 새롭게 출시합니다.",
+            "alt_text": "크리스마스 요정 릴린린 캐릭터 일러스트"
+          },
+          {
+            "title": "다양한 상품 라인업",
+            "content": "이번에 새롭게 등장하는 팝업 버블 티와 스낵 케이스를 포함해 텀블러 등 총 8가지 종류의 굿즈를 만나볼 수 있습니다.",
+            "alt_text": "릴린린 테마 굿즈 상품 진열 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "크리스마스를 겨냥한 한정판 굿즈로, 특히 릴린린 캐릭터를 좋아하는 팬이라면 꼭 득템해야 할 기회입니다.",
+            "alt_text": "릴린린 테마 굿즈를 들고 기뻐하는 사람 이미지"
+          },
+          {
+            "title": "크리스마스 분위기 만끽",
+            "content": "크리스마스 시즌에 맞춰 출시되는 굿즈들을 통해 디즈니랜드에서 특별한 연말 분위기를 만끽할 수 있습니다.",
+            "alt_text": "디즈니랜드 크리스마스 장식 이미지"
+          },
+          {
+            "title": "방문 전 확인 필수",
+            "content": "11월 1일 출시 예정이니, 여행 계획 중이라면 잊지 말고 방문 전 공식 정보를 다시 한번 확인하여 구매 계획을 세우세요!",
+            "alt_text": "달력에 11월 1일 표시된 이미지"
+          }
+        ],
+        "caption": "🎄도쿄 디즈니랜드 11월 1일 오픈!🎄\n크리스마스 한정 릴린린 굿즈가 드디어 출시됩니다! 🎅\n\n귀여운 릴린린 테마의 푸드 수프레, 팝업 버블 티, 스낵 케이스, 텀블러 등 총 8가지 신상품을 만나보세요!\n\n크리스마스 시즌 특별한 추억을 만들고 싶다면, 지금 바로 여행 계획에 추가하세요! ✨\n\n#도쿄디즈니랜드 #디즈니크리스마스 #릴린린 #일본여행 #디즈니굿즈 #크리스마스 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니크리스마스",
+          "#릴린린",
+          "#디즈니굿즈",
+          "#크리스마스",
+          "#일본쇼핑",
+          "#도쿄여행",
+          "#도쿄",
+          "#여행스타그램",
+          "#해외여행",
+          "#여행필수템",
+          "#디즈니",
+          "#일본"
+        ],
+        "alt_texts": [
+          "크리스마스 요정 릴린린 캐릭터 일러스트",
+          "릴린린 테마 굿즈 상품 진열 이미지",
+          "릴린린 테마 굿즈를 들고 기뻐하는 사람 이미지",
+          "디즈니랜드 크리스마스 장식 이미지",
+          "달력에 11월 1일 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 3-5시 / 기대 반응: 굿즈 구매 관련 문의, 방문 계획 공유 / 이 콘텐츠의 강점: 최신 정보, 구체적인 출시일 및 상품 종류 명시, 시각적 매력 강조",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas Rilururin souvenirs",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-Rilururin-souvenirs",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20Rilururin%20souvenirs/"
+      }
+    },
+    {
+      "id": "plan_c46cda8a",
+      "created_at": "2026-10-15T04:24:38.964363",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA制服姿の「ちいかわ」グッズ第1弾、マスコット/ぬいぐるみ/機内紙コップ風の陶器マグなど10月23日発売",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148315.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여운 '치이카와'와 ANA 항공의 만남! 특별한 기내 굿즈를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️치이카와 X ANA ✈️",
+        "cards": [
+          {
+            "title": "콜라보 굿즈 출시!",
+            "content": "ANA 항공이 특별 디자인 '치이카와 제트' 취항 기념으로 '치이카와'와 콜라보한 굿즈 1탄을 2024년 10월 23일에 발매합니다.",
+            "alt_text": "ANA 항공과 콜라보한 치이카와 캐릭터가 그려진 굿즈 이미지"
+          },
+          {
+            "title": "다양한 상품 라인업",
+            "content": "이번 1탄에서는 마스코트, ぬいぐるみ, 그리고 기내 종이컵 모양의 도자기 머그컵 등 다양한 상품이 출시될 예정입니다.",
+            "alt_text": "치이카와 굿즈 상품 라인업 이미지 (마스코트, ぬいぐるみ, 머그컵 등)"
+          },
+          {
+            "title": "항공편 기념",
+            "content": "이번 굿즈는 ANA의 인기 캐릭터 '치이카와'를 랩핑한 특별 항공편 '치이카와 제트'의 취항을 기념하여 제작되었습니다.",
+            "alt_text": "치이카와 디자인으로 랩핑된 ANA 항공기 이미지"
+          },
+          {
+            "title": "구매 정보",
+            "content": "굿즈는 2024년 10월 23일부터 구매 가능하며, ANA 공식 판매처를 통해 만나보실 수 있습니다.",
+            "alt_text": "상품 구매 관련 정보가 담긴 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "'치이카와' 팬이라면 이번 ANA와의 특별 콜라보 굿즈를 절대 놓치지 마세요! 여행 기념품으로도 안성맞춤입니다.",
+            "alt_text": "여행 기념품으로 치이카와 굿즈를 들고 있는 사람 이미지"
+          }
+        ],
+        "caption": "✈️ 귀여움 주의! ANA 항공과 '치이카와'의 만남! ✈️\n\nANA 항공이 '치이카와 제트' 취항 기념으로 사랑스러운 '치이카와' 콜라보 굿즈 1탄을 2024년 10월 23일에 출시합니다! 💖\n\n마스코트, ぬいぐるみ, 기내 종이컵 모양의 도자기 머그컵까지! 컵 모양 머그컵은 정말 탐나는데요? ☕️\n\n'치이카와' 팬이라면 이번 특별 굿즈, 놓치지 말고 꼭 득템하세요! 일본 여행 기념품으로도 최고! 👍\n\n#일본여행 #플라잉재팬 #치이카와 #ANA항공 #일본굿즈 #여행필수템 #여행준비 #일본쇼핑 #인싸템 #귀여움주의 #콜라보굿즈 #일본기념품 #항공굿즈 #여행스타그램 #치이카와제트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#치이카와",
+          "#ANA항공",
+          "#일본굿즈",
+          "#여행필수템",
+          "#여행준비",
+          "#일본쇼핑",
+          "#인싸템",
+          "#귀여움주의",
+          "#콜라보굿즈",
+          "#일본기념품",
+          "#항공굿즈",
+          "#여행스타그램",
+          "#치이카와제트"
+        ],
+        "alt_texts": [
+          "ANA 항공과 콜라보한 치이카와 캐릭터가 그려진 굿즈 이미지",
+          "치이카와 굿즈 상품 라인업 이미지 (마스코트, ぬいぐるみ, 머그컵 등)",
+          "치이카와 디자인으로 랩핑된 ANA 항공기 이미지",
+          "상품 구매 관련 정보가 담긴 이미지",
+          "여행 기념품으로 치이카와 굿즈를 들고 있는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심, 구매 문의 증가 / 이 콘텐츠의 강점: 인기 캐릭터와의 콜라보, 구체적인 출시일 및 상품 정보 제공",
+      "image": {
+        "keyword": "Chiikawa ANA collaboration goods, ANA airplane Chiikawa livery, Chiikawa merchandise Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Chiikawa-ANA-collaboration-goods,-ANA-airplane-Chiikawa-livery,-Chiikawa-merchandise-Japan",
+        "pexels_url": "https://www.pexels.com/search/Chiikawa%20ANA%20collaboration%20goods,%20ANA%20airplane%20Chiikawa%20livery,%20Chiikawa%20merchandise%20Japan/"
+      }
+    },
     {
       "id": "plan_79b27221",
       "created_at": "2026-10-15T01:28:36.251090",
@@ -923,160 +1077,6 @@
         "keyword": "hotel new otani tokyo afternoon tea, chestnut grape dessert, limited time offer",
         "unsplash_url": "https://unsplash.com/s/photos/hotel-new-otani-tokyo-afternoon-tea,-chestnut-grape-dessert,-limited-time-offer",
         "pexels_url": "https://www.pexels.com/search/hotel%20new%20otani%20tokyo%20afternoon%20tea,%20chestnut%20grape%20dessert,%20limited%20time%20offer/"
-      }
-    },
-    {
-      "id": "plan_3901d424",
-      "created_at": "2026-10-12T02:24:11.193171",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "万博で話題、落合陽一の「null2n（ﾇﾙﾇﾙネクサス）」が横浜ランドマークプラザに誕生！　人生初の“ヌル”体験をレポします",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147398.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 경험할 수 있는 특별한 예술 전시 오픈 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨요코하마 신상 핫플 OPEN✨",
-        "cards": [
-          {
-            "title": "null2n 오픈!",
-            "content": "미디어 아티스트 오치아이 요이치 프로듀스의 상설 뮤지엄 시어터 'null2n(누르누르넥서스)'가 10월 14일, 요코하마 랜드마크 플라자에 문을 엽니다.",
-            "alt_text": "요코하마 랜드마크 플라자 외관"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "인생 최초의 '누르' 체험을 할 수 있는 이곳은 예술과 기술이 융합된 독특한 공간입니다. 특별한 경험을 원하는 여행자에게 추천해요.",
-            "alt_text": "'null2n' 내부 전시 공간 상상 이미지"
-          },
-          {
-            "title": "위치 정보",
-            "content": "요코하마 랜드마크 플라자 5층에 위치하며, 오픈 기념 행사 및 언론 공개 행사가 10월 9일에 진행되었습니다.",
-            "alt_text": "요코하마 랜드마크 플라자 5층 안내 표지판"
-          },
-          {
-            "title": "방문 팁",
-            "content": "개장일은 10월 14일이니, 여행 계획에 맞춰 방문해보세요. 자세한 티켓 정보는 추후 공개될 예정입니다.",
-            "alt_text": "달력에 10월 14일 표시"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "일본 여행 중 흔히 볼 수 없는 독창적인 전시이니, 예술과 이색 체험에 관심 있는 분들은 꼭 방문해보시길 바랍니다.",
-            "alt_text": "새로운 경험을 하는 여행객의 뒷모습"
-          }
-        ],
-        "caption": "✨요코하마에 새로운 핫플레이스가 상륙합니다!✨\n미디어 아티스트 오치아이 요이치의 'null2n(누르누르넥서스)' 뮤지엄 시어터가 10월 14일, 요코하마 랜드마크 플라자 5층에 오픈 예정이에요.\n인생 최초의 '누르' 체험이라니… 벌써부터 궁금해지는 곳!\n일본 여행 중 특별한 경험을 찾고 있다면, 10월 14일 이후 요코하마 방문 시 꼭 들러보세요!\n\n#일본여행 #요코하마 #플라잉재팬 #null2n #오치아이요이치 #전시회 #뮤지엄 #새로운핫플 #일본신상 #요코하마여행 #주말나들이 #데이트코스 #이색체험 #일본정보 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#요코하마",
-          "#null2n",
-          "#오치아이요이치",
-          "#일본전시",
-          "#요코하마랜드마크플라자",
-          "#일본핫플",
-          "#가을여행",
-          "#여행스타그램",
-          "#일본정보",
-          "#여행꿀팁",
-          "#이색체험",
-          "#일본관광",
-          "#개장정보"
-        ],
-        "alt_texts": [
-          "요코하마 랜드마크 플라자 외관",
-          "'null2n' 내부 전시 공간 상상 이미지",
-          "요코하마 랜드마크 플라자 5층 안내 표지판",
-          "달력에 10월 14일 표시",
-          "새로운 경험을 하는 여행객의 뒷모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 특별한 경험을 추구하는 20-30대 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 방문 의사 표현, '가봐야 할 곳' 리스트 추가 / 이 콘텐츠의 강점: 국내에서는 경험하기 어려운 독창적인 예술 전시 정보, 구체적인 오픈일자 및 장소 명시",
-      "image": {
-        "keyword": "Yokohama Landmark Plaza, art museum, exhibition, digital art, immersive experience, autumn travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-Landmark-Plaza,-art-museum,-exhibition,-digital-art,-immersive-experience,-autumn-travel",
-        "pexels_url": "https://www.pexels.com/search/Yokohama%20Landmark%20Plaza,%20art%20museum,%20exhibition,%20digital%20art,%20immersive%20experience,%20autumn%20travel/"
-      }
-    },
-    {
-      "id": "plan_1e91d720",
-      "created_at": "2026-10-12T02:24:05.648337",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "内房線代行バス、なぜJR東日本の正式運行が2週間も遅れた？　現地で分かった事情と「今後の提言」",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147399.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "예상치 못한 일본 내 교통 상황 변화, 미리 알고 대비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "JR 내房線 2주 지연 🚨",
-        "cards": [
-          {
-            "title": "운휴 구간",
-            "content": "태풍 25호로 인해 JR 내房線의 姉ヶ崎역 ~ 목도역 (16.2km) 구간이 전면 운휴되었습니다.",
-            "alt_text": "태풍으로 인해 운행이 중단된 JR 기차 노선도"
-          },
-          {
-            "title": "대체 버스",
-            "content": "JR 동일본에서 마련한 대체 버스가 운행되었으며, 철도와 환승하는 방식으로 운행이 임시 연결되었습니다.",
-            "alt_text": "기차역 앞에서 승객을 기다리는 대체 버스"
-          },
-          {
-            "title": "정식 운행 지연",
-            "content": "당초 예상보다 2주나 늦어진 10월 5일에야 임시 연결 운행이 시작되었습니다.",
-            "alt_text": "운행 재개 안내 플래카드가 걸린 기차역"
-          },
-          {
-            "title": "현지 사정",
-            "content": "현지에서 파악된 사정으로 인해 운행 재개가 지연되었으며, 향후 개선 방안이 논의되고 있습니다.",
-            "alt_text": "일본 현지 철도 관계자들이 논의하는 모습"
-          },
-          {
-            "title": "여행 팁",
-            "content": "일본 여행 중 예상치 못한 교통편 지연이나 운휴가 발생할 수 있으니, 항상 대체 교통편 정보를 미리 확인하고 여유로운 일정을 계획하세요!",
-            "alt_text": "여행 가방을 들고 기차역에서 정보를 확인하는 여행객"
-          }
-        ],
-        "caption": "🚨 JR 내房선, 태풍 피해로 2주간 운행 지연! 🚨\n\n치바현을 강타한 태풍 25호의 영향으로 JR 내房선 姉ヶ崎역 ~ 목도역 구간 (16.2km)이 전면 운휴된 후, 대체 버스 운행 및 철도 환승으로 임시 연결되었습니다.\n\n하지만 예상보다 2주나 늦어진 10월 5일에야 운행이 재개되었다는 소식! 😥\n\n일본 여행 중 갑작스러운 교통편 지연이나 운휴는 여행 계획에 큰 차질을 줄 수 있습니다.\n\n항상 최신 교통 정보를 미리 확인하시고, 여유로운 일정으로 즐거운 일본 여행 되세요! ✨\n\n#일본여행 #JR내房線 #교통정보 #일본교통 #운휴 #지연 #태풍피해 #여행필수템 #여행꿀팁 #플라잉재팬 #일본여행정보 #안전여행 #일본소식 #여행계획 #일본철도",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR내房線",
-          "#일본교통",
-          "#교통정보",
-          "#일본철도",
-          "#운휴",
-          "#지연",
-          "#태풍",
-          "#여행꿀팁",
-          "#일본여행정보",
-          "#안전여행",
-          "#여행계획",
-          "#일본소식",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "태풍으로 인해 운행이 중단된 JR 기차 노선도",
-          "기차역 앞에서 승객을 기다리는 대체 버스",
-          "운행 재개 안내 플래카드가 걸린 기차역",
-          "일본 현지 철도 관계자들이 논의하는 모습",
-          "여행 가방을 들고 기차역에서 정보를 확인하는 여행객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 한국인 여행자 / 최적 게시 시간: 평일 오전 9시 ~ 11시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 실제 여행에 직결되는 교통 정보로 즉각적인 유용성 제공",
-      "image": {
-        "keyword": "Japan train delay, typhoon damage, replacement bus service, Chiba prefecture, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-delay,-typhoon-damage,-replacement-bus-service,-Chiba-prefecture,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/Japan%20train%20delay,%20typhoon%20damage,%20replacement%20bus%20service,%20Chiba%20prefecture,%20travel%20information/"
       }
     }
   ]
