@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-16T01:20:30.449523",
+  "last_updated": "2026-10-16T04:20:08.724511",
   "plans": [
+    {
+      "id": "plan_ac074cbf",
+      "created_at": "2026-10-16T04:20:06.724353",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "北陸道、5つの料金所をETC専用化。11～12月に金沢森本IC・加賀IC・金沢東IC・小杉IC・白山IC",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148527.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 북부 고속도로 이용 시 미리 알아두면 좋은 ETC 전용화 정보!"
+      },
+      "content": {
+        "thumbnail_title": "北陸道 톨게이트 ETC만 톨게이트 🛣️",
+        "cards": [
+          {
+            "title": "ETC 전용화",
+            "content": "11월~12월 중 북부 고속도로 5곳의 톨게이트가 ETC 전용으로 전환됩니다.",
+            "alt_text": "북부 고속도로 톨게이트 안내 이미지"
+          },
+          {
+            "title": "해당 구간",
+            "content": "금沢森本IC, 加賀IC, 金沢東IC, 小杉IC, 白山IC가 해당됩니다.",
+            "alt_text": "일본 북부 고속도로 지도에 해당 구간 표시"
+          },
+          {
+            "title": "전환 시기",
+            "content": "11월과 12월에 걸쳐 순차적으로 변경될 예정입니다.",
+            "alt_text": "달력 이미지에 11월, 12월 표시"
+          },
+          {
+            "title": "ETC 미소지 시",
+            "content": "ETC 카드가 없거나 장치에 문제가 있을 경우 통행이 불가능합니다.",
+            "alt_text": "ETC 카드 이미지와 X 표시"
+          },
+          {
+            "title": "이용 팁",
+            "content": "일본 북부 지역 여행 시, 특히 렌터카 이용 예정이라면 ETC 장착 및 카드 유무를 꼭 확인하세요!",
+            "alt_text": "렌터카와 ETC 카드 들고 있는 모습"
+          }
+        ],
+        "caption": "일본 북부 고속도로 이용 예정이라면 주목! 📢\n11월~12월, 북부 고속도로 5개 톨게이트가 ETC 전용으로 바뀝니다.\n금沢森本IC, 加賀IC, 金沢東IC, 小杉IC, 白山IC 구간이 해당되니, 렌터카 이용 시 ETC 카드와 장치 상태를 미리 점검하세요! 🚗💨\n\n#일본여행 #일본렌터카 #북부고속도로 #ETC #교통정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#일본렌터카",
+          "#북부고속도로",
+          "#ETC",
+          "#일본드라이브",
+          "#여행꿀팁",
+          "#일본정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#자유여행",
+          "#여행준비",
+          "#일본여행팁"
+        ],
+        "alt_texts": [
+          "북부 고속도로 톨게이트 안내 이미지",
+          "일본 북부 고속도로 지도에 해당 구간 표시",
+          "달력 이미지에 11월, 12월 표시",
+          "ETC 카드 이미지와 X 표시",
+          "렌터카와 ETC 카드 들고 있는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 북부 지역 렌터카 이용 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 정보 습득 및 공유 / 이 콘텐츠의 강점: 실질적인 운전 정보 제공",
+      "image": {
+        "keyword": "japan highway ETC lane",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-ETC-lane",
+        "pexels_url": "https://www.pexels.com/search/japan%20highway%20ETC%20lane/"
+      }
+    },
+    {
+      "id": "plan_5aaf0207",
+      "created_at": "2026-10-16T04:20:00.763482",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、国内線航空券タイムセール。羽田～福岡/長崎/熊本は片道1万1000円～、12～3月搭乗分",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148705.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 국내선 특가로 일본 알뜰 여행 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "ANA 초특가 ✈️ 1만1천원부터!",
+        "cards": [
+          {
+            "title": "ANA 타임세일",
+            "content": "ANA가 국내선 항공권 타임세일을 10월 16일 0시부터 22일 23시 59분까지 진행합니다. ✈️",
+            "alt_text": "ANA 항공권 타임세일 배너 이미지"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "타임세일 대상 탑승 기간은 2024년 12월 1일부터 2025년 3월 27일까지입니다. 🗓️",
+            "alt_text": "달력에 12월 1일부터 3월 27일까지 표시된 이미지"
+          },
+          {
+            "title": "주요 노선 특가",
+            "content": "도쿄(하네다) 출발 후쿠오카/나가사키/구마모토행 편도 항공권이 11,000엔부터 시작합니다. 💴",
+            "alt_text": "일본 지도에 후쿠오카, 나가사키, 구마모토 지역 표시 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "연말연시 및 겨울 시즌 일본 여행을 계획 중이라면 이번 기회를 꼭 잡으세요! 🎁",
+            "alt_text": "겨울 느낌의 일본 풍경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 노선은 조기 마감될 수 있으니, 관심 있다면 세일 시작 시간에 맞춰 바로 확인하는 것을 추천해요! ⏰",
+            "alt_text": "알람 시계 이미지"
+          }
+        ],
+        "caption": "ANA 국내선 특가 항공권 타임세일 소식! ✈️\n\n10월 16일부터 22일까지 진행되는 이번 세일 기간 동안, 12월 1일부터 내년 3월 27일까지 탑승 가능한 항공권을 파격적인 가격에 만나보세요!\n\n특히 도쿄(하네다) 출발 후쿠오카, 나가사키, 구마모토행 노선은 편도 11,000엔부터 시작한다고 해요. 💴\n\n연말연시나 겨울 시즌 일본 여행을 저렴하게 계획할 수 있는 절호의 찬스! 놓치지 말고 flyingjapan과 함께 알뜰하게 떠나요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#항공권특가",
+          "#일본항공권",
+          "#ANA타임세일",
+          "#일본알뜰여행",
+          "#후쿠오카여행",
+          "#나가사키여행",
+          "#구마모토여행",
+          "#도쿄여행",
+          "#겨울여행",
+          "#연말여행",
+          "#여행꿀팁",
+          "#항공권할인"
+        ],
+        "alt_texts": [
+          "ANA 항공권 타임세일 배너 이미지",
+          "달력에 12월 1일부터 3월 27일까지 표시된 이미지",
+          "일본 지도에 후쿠오카, 나가사키, 구마모토 지역 표시 이미지",
+          "겨울 느낌의 일본 풍경 이미지",
+          "알람 시계 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 저렴하게 계획하고 싶은 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 항공권 특가 정보에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 노선 정보를 포함하여 실질적인 여행 계획에 바로 적용 가능한 정보 제공",
+      "image": {
+        "keyword": "ANA domestic flight sale, Japan travel, discount airline tickets, Tokyo to Fukuoka, winter travel deals",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-domestic-flight-sale,-Japan-travel,-discount-airline-tickets,-Tokyo-to-Fukuoka,-winter-travel-deals",
+        "pexels_url": "https://www.pexels.com/search/ANA%20domestic%20flight%20sale,%20Japan%20travel,%20discount%20airline%20tickets,%20Tokyo%20to%20Fukuoka,%20winter%20travel%20deals/"
+      }
+    },
     {
       "id": "plan_fe59c116",
       "created_at": "2026-10-16T01:20:28.449331",
@@ -923,160 +1077,6 @@
         "keyword": "USJ, Miyakumi, Hamikuma, Halloween, collaboration, sweets, Osaka, Japan",
         "unsplash_url": "https://unsplash.com/s/photos/USJ,-Miyakumi,-Hamikuma,-Halloween,-collaboration,-sweets,-Osaka,-Japan",
         "pexels_url": "https://www.pexels.com/search/USJ,%20Miyakumi,%20Hamikuma,%20Halloween,%20collaboration,%20sweets,%20Osaka,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_c16c3c1c",
-      "created_at": "2026-10-13T03:34:12.433862",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エアトリ「九州ふっこう応援割」12時販売スタート。福岡・長崎の「航空券＋宿泊」が最大50％オフに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147517.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 항공권+숙박 최대 50% 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 규슈 50% 할인 ✈️",
-        "cards": [
-          {
-            "title": "여행 지원 시작!",
-            "content": "일본 여행 지원 사업 '규슈 부흥 응원 할인'이 10월 13일 12시부터 시작됩니다. 후쿠오카, 나가사키 지역 여행 시 파격적인 할인을 받을 수 있어요.",
-            "alt_text": "일본 규슈 지역 지도"
-          },
-          {
-            "title": "최대 50% 할인",
-            "content": "이번 프로모션은 후쿠오카현과 나가사키현의 '항공권+숙박' 세트 상품을 대상으로 합니다. 최대 50%까지 할인받을 수 있는 절호의 기회입니다.",
-            "alt_text": "할인율 표시 이미지"
-          },
-          {
-            "title": "대상 지역",
-            "content": "후쿠오카현과 나가사키현이 이번 여행 지원 사업의 대상 지역입니다. 규슈의 매력을 저렴하게 경험할 수 있는 좋은 기회입니다.",
-            "alt_text": "후쿠오카와 나가사키 관광지 사진"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "예약 접수는 10월 13일 12시부터 시작됩니다. 인기 상품은 빠르게 마감될 수 있으니 서둘러 예약하세요!",
-            "alt_text": "달력과 시계 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "한정된 예산으로 알찬 규슈 여행을 계획 중이라면 이번 기회를 절대 놓치지 마세요! 프로모션 상품은 '에어트립 국내 투어'에서 확인 가능합니다.",
-            "alt_text": "여행 가방과 할인 쿠폰 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 규슈 여행 계획 중이라면 주목! ✈️\n\n10월 13일 12시부터 '규슈 부흥 응원 할인' 프로모션이 시작됩니다!\n\n후쿠오카, 나가사키 지역의 항공권+숙박 세트 상품을 최대 50% 할인된 가격으로 만나보세요.\n\n알뜰하게 규슈를 즐길 수 있는 절호의 찬스! 지금 바로 준비하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#후쿠오카여행",
-          "#나가사키여행",
-          "#일본할인",
-          "#여행정보",
-          "#항공권할인",
-          "#숙박할인",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본추천",
-          "#가을여행",
-          "#해외여행",
-          "#일본특가"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 지도",
-          "할인율 표시 이미지",
-          "후쿠오카와 나가사키 관광지 사진",
-          "달력과 시계 이미지",
-          "여행 가방과 할인 쿠폰 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율과 예약 시점을 명확히 제시하여 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Japan Kyushu travel discount, Fukuoka Nagasaki flight hotel package, travel support campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount,-Fukuoka-Nagasaki-flight-hotel-package,-travel-support-campaign",
-        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount,%20Fukuoka%20Nagasaki%20flight%20hotel%20package,%20travel%20support%20campaign/"
-      }
-    },
-    {
-      "id": "plan_535e42ec",
-      "created_at": "2026-10-13T03:34:06.361577",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、新作「ミッフィー」UTを12月発売。モノトーン基調でモダンな全4種",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147568.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "한국인 여행객에게 인기 있는 유니클로와 미피의 만남! 12월 신상 UT 출시 소식"
-      },
-      "content": {
-        "thumbnail_title": "✨유니클로X미피 신상UT 출시✨",
-        "cards": [
-          {
-            "title": "12월 출시!",
-            "content": "유니클로에서 귀여운 미피(miffy) 캐릭터와 협업한 새로운 UT 컬렉션 'miffy's shining days'를 12월 하순에 출시합니다.",
-            "alt_text": "유니클로와 미피 캐릭터가 함께 있는 신상 UT 컬렉션 이미지"
-          },
-          {
-            "title": "모노톤 디자인",
-            "content": "이번 컬렉션은 모던하고 세련된 느낌의 모노톤(흑백) 컬러를 기본으로 하여 데일리로 착용하기 좋습니다.",
-            "alt_text": "모노톤 컬러의 미피 캐릭터가 그려진 티셔츠 디자인"
-          },
-          {
-            "title": "총 4가지 디자인",
-            "content": "심플하면서도 귀여운 미피의 매력을 담은 총 4가지 종류의 디자인으로 출시될 예정입니다.",
-            "alt_text": "4가지 다른 디자인의 미피 UT 티셔츠 이미지"
-          },
-          {
-            "title": "선물로도 굿!",
-            "content": "일본 여행 중 기념품이나 선물용으로도 좋은 아이템입니다. 여행 전에 출시일을 확인해보세요!",
-            "alt_text": "일본 여행 중 구매할 만한 기념품으로 추천하는 미피 UT"
-          },
-          {
-            "title": "구매 꿀팁",
-            "content": "정확한 출시일과 판매 매장은 유니클로 공식 홈페이지를 참고하세요. 인기 상품은 조기 품절될 수 있습니다.",
-            "alt_text": "유니클로 매장에서 쇼핑하는 사람들의 모습"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수템! 유니클로에서 미피 신상 UT가 12월에 출시됩니다! ✨\n\n모노톤 기반의 세련된 디자인과 귀여운 미피 캐릭터의 만남! 총 4가지 디자인으로 만나볼 수 있어요.\n\n일본 여행 기념품으로도, 나를 위한 선물로도 딱! 🎁\n\n✈️ 12월 일본 여행 계획 중이라면 놓치지 마세요!\n\n#일본여행 #유니클로 #미피 #UT #신상 #12월출시 #일본쇼핑 #여행준비 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#미피",
-          "#UT",
-          "#신상",
-          "#12월출시",
-          "#일본쇼핑",
-          "#여행준비",
-          "#일본패션",
-          "#캐릭터상품",
-          "#여행꿀팁",
-          "#일본정보",
-          "#기념품",
-          "#쇼핑정보"
-        ],
-        "alt_texts": [
-          "유니클로와 미피 캐릭터가 함께 있는 신상 UT 컬렉션 이미지",
-          "모노톤 컬러의 미피 캐릭터가 그려진 티셔츠 디자인",
-          "4가지 다른 디자인의 미피 UT 티셔츠 이미지",
-          "일본 여행 중 구매할 만한 기념품으로 추천하는 미피 UT",
-          "유니클로 매장에서 쇼핑하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 인기 브랜드와 캐릭터의 콜라보, 구체적인 출시 시기 정보 제공",
-      "image": {
-        "keyword": "Uniqlo, miffy, UT, collaboration, new release, December, Japan shopping, fashion, character",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-miffy,-UT,-collaboration,-new-release,-December,-Japan-shopping,-fashion,-character",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20miffy,%20UT,%20collaboration,%20new%20release,%20December,%20Japan%20shopping,%20fashion,%20character/"
       }
     }
   ]
