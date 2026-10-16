@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-15T04:24:45.887992",
+  "last_updated": "2026-10-16T01:20:30.449523",
   "plans": [
+    {
+      "id": "plan_fe59c116",
+      "created_at": "2026-10-16T01:20:28.449331",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ダイワロイネットホテル宮崎」2027年3月8日開業。中心市街地に全212室、大浴場・サウナ付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148546.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년 3월, 규슈 미야자키에 새로운 호텔 오픈! 대욕장과 사우나까지 갖춘 212개 객실의 쾌적한 숙소를 미리 만나보세요."
+      },
+      "content": {
+        "thumbnail_title": "✨2027년 3월 미야자키 신상호텔✨",
+        "cards": [
+          {
+            "title": "미야자키 첫 진출",
+            "content": "일본의 대형 건설사 다이와하우스가 미야자키현에 첫 호텔을 선보입니다. 2027년 3월 8일, 중심가에 새롭게 문을 엽니다.",
+            "alt_text": "미야자키 시내 중심가에 위치할 신규 호텔 조감도"
+          },
+          {
+            "title": "총 212실 규모",
+            "content": "여행의 피로를 풀 수 있는 212개의 객실이 준비될 예정입니다. 쾌적하고 편안한 휴식을 기대해 보세요.",
+            "alt_text": "깔끔하고 현대적인 디자인의 호텔 객실 내부 이미지"
+          },
+          {
+            "title": "대욕장 & 사우나 완비",
+            "content": "일본 여행의 묘미, 바로 온천! 이 호텔에서는 대욕장과 사우나 시설을 갖춰 여행의 즐거움을 더할 것입니다.",
+            "alt_text": "시원한 물줄기가 쏟아지는 호텔 대욕장 이미지"
+          },
+          {
+            "title": "호텔 위치",
+            "content": "미야자키현 미야자키시 다치바나토리 니시 4-1-32에 위치하여 시내 관광 및 접근성이 좋을 것으로 예상됩니다.",
+            "alt_text": "미야자키 시내 중심가의 지도 상 위치 표시"
+          },
+          {
+            "title": "미리 계획하기",
+            "content": "2027년 오픈 예정이니, 다음 일본 여행 계획 시 참고하시면 좋습니다. 특히 규슈 지역 여행을 계획 중이라면 주목해 주세요!",
+            "alt_text": "달력에 2027년 3월 8일이 표시된 이미지"
+          }
+        ],
+        "caption": "🇯🇵 2027년 3월 8일, 규슈 미야자키에 새로운 랜드마크가 탄생합니다! ✨\n\n일본 다이와하우스에서 야심 차게 준비한 '다이와로이넷 호텔 미야자키'가 미야자키현에 첫 선을 보입니다.\n\n총 212개의 객실과 함께 여행의 피로를 풀어줄 대욕장 & 사우나까지 갖추고 있다고 하니, 벌써부터 기대되네요! 😍\n\n2027년 규슈 여행 계획 중이시라면, 이 신상 호텔을 눈여겨보세요! 😉\n\n#일본여행 #미야자키 #신상호텔 #다이와로이넷호텔 #규슈여행 #2027년개장 #여행정보 #호텔추천 #일본숙소 #일본신상 #여행계획 #플라잉재팬 #일본정보 #미야자키여행 #호텔정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#미야자키",
+          "#신상호텔",
+          "#다이와로이넷호텔",
+          "#규슈여행",
+          "#2027년개장",
+          "#여행정보",
+          "#호텔추천",
+          "#일본숙소",
+          "#일본신상",
+          "#여행계획",
+          "#미야자키여행",
+          "#호텔정보",
+          "#일본"
+        ],
+        "alt_texts": [
+          "미야자키 시내 중심가에 위치할 신규 호텔 조감도",
+          "깔끔하고 현대적인 디자인의 호텔 객실 내부 이미지",
+          "시원한 물줄기가 쏟아지는 호텔 대욕장 이미지",
+          "미야자키 시내 중심가의 지도 상 위치 표시",
+          "달력에 2027년 3월 8일이 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 2027년 일본 규슈 지역 여행을 계획하고 있는 한국인 여행객 / 최적 게시 시간: 평일 오후 7시 ~ 9시 (여행 계획 세우는 시간) / 기대 반응: 높은 관심과 정보 공유, 향후 예약 문의 증가 / 이 콘텐츠의 강점: 아직 오픈하지 않은 신규 호텔 정보로 미래 여행 계획에 대한 기대감 고조, 구체적인 오픈일과 시설 정보 제공",
+      "image": {
+        "keyword": "Daiwa Roynet Hotel Miyazaki under construction, new hotel opening Miyazaki Japan, hotel with onsen and sauna, 2027 travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Daiwa-Roynet-Hotel-Miyazaki-under-construction,-new-hotel-opening-Miyazaki-Japan,-hotel-with-onsen-and-sauna,-2027-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Daiwa%20Roynet%20Hotel%20Miyazaki%20under%20construction,%20new%20hotel%20opening%20Miyazaki%20Japan,%20hotel%20with%20onsen%20and%20sauna,%202027%20travel%20Japan/"
+      }
+    },
+    {
+      "id": "plan_62ed94b0",
+      "created_at": "2026-10-16T01:20:21.957686",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "新宿御苑ビューのホテル「ノーガ新宿御苑」2027年7月開業。スイート含む全72室、ルーフトップバーや薪火レストラン併設",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148558.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년 7월, 신주쿠의 새로운 랜드마크! 도심 속 힐링을 선사할 호텔 사전 예약 오픈!"
+      },
+      "content": {
+        "thumbnail_title": "✨2027년 7월 오픈!✨",
+        "cards": [
+          {
+            "title": "신주쿠 신상 호텔",
+            "content": "2027년 7월 15일, 도쿄 신주쿠에 '노가 신주쿠 고엔'이 새롭게 문을 엽니다. 스위트룸을 포함한 총 72개의 객실을 갖추고 있으며, 신주쿠 고엔의 아름다운 전망을 자랑합니다.",
+            "alt_text": "신주쿠 고엔이 보이는 고급스러운 호텔 외관 이미지"
+          },
+          {
+            "title": "루프탑 바 & 레스토랑",
+            "content": "호텔 내에는 멋진 루프탑 바와 땔감을 이용한 파이어 레스토랑이 함께 운영될 예정입니다. 도심 속 특별한 미식 경험을 기대해 보세요.",
+            "alt_text": "도시 야경을 감상하며 칵테일을 즐기는 루프탑 바 이미지"
+          },
+          {
+            "title": "사전 예약 오픈!",
+            "content": "개장일보다 앞선 10월 15일부터 공식 웹사이트에서 숙박 예약 접수를 시작했습니다. 서둘러 특별한 경험을 미리 확보하세요!",
+            "alt_text": "호텔 예약 웹사이트 화면 캡처 이미지"
+          },
+          {
+            "title": "교통 편리",
+            "content": "도쿄 중심부 신주쿠에 위치하여 주요 관광지로의 이동이 매우 편리합니다. 쇼핑, 관광, 미식까지 한 번에 즐길 수 있는 최적의 위치입니다.",
+            "alt_text": "도쿄 신주쿠 거리 풍경 이미지"
+          },
+          {
+            "title": "미리 준비하세요!",
+            "content": "2027년 개장이지만, 벌써부터 예약 문의가 많을 것으로 예상됩니다. 특별한 날을 계획 중이라면 지금부터 눈여겨보는 것을 추천합니다.",
+            "alt_text": "달력에 표시된 2027년 7월 이미지"
+          }
+        ],
+        "caption": "✈️ 도쿄 여행 준비하는 분들 주목! ✈️\n2027년 7월, 신주쿠에 새로운 럭셔리 호텔 '노가 신주쿠 고엔'이 오픈합니다!\n신주쿠 고엔을 조망하는 아름다운 뷰와 루프탑 바, 파이어 레스토랑까지!\n✨10월 15일부터 사전 예약 시작✨\n미리 예약하고 특별한 도쿄 여행을 계획해 보세요!\n\n#일본여행 #도쿄여행 #신주쿠 #호텔 #노가신주쿠고엔 #2027년개장 #사전예약 #도쿄호텔 #일본신상호텔 #여행스타그램 #플라잉재팬 #일본숙소 #도쿄숙소 #여행정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#신주쿠",
+          "#노가신주쿠고엔",
+          "#일본호텔",
+          "#도쿄호텔",
+          "#일본숙소",
+          "#도쿄숙소",
+          "#2027년개장",
+          "#사전예약",
+          "#일본신상호텔",
+          "#여행스타그램",
+          "#여행정보",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "신주쿠 고엔이 보이는 고급스러운 호텔 외관 이미지",
+          "도시 야경을 감상하며 칵테일을 즐기는 루프탑 바 이미지",
+          "호텔 예약 웹사이트 화면 캡처 이미지",
+          "도쿄 신주쿠 거리 풍경 이미지",
+          "달력에 표시된 2027년 7월 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 2027년 도쿄 여행 예정인 한국인 관광객 / 최적 게시 시간: 평일 오후 6시 - 8시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 미래 시점의 정보지만, 사전 예약 오픈으로 즉각적인 관심 유도 가능, 구체적인 오픈일과 예약 시작일 명시",
+      "image": {
+        "keyword": "Noga Shinjuku Garden Hotel, Tokyo skyline, rooftop bar, Japanese luxury hotel, Shinjuku Gyoen, hotel reservation, 2027 opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Noga-Shinjuku-Garden-Hotel,-Tokyo-skyline,-rooftop-bar,-Japanese-luxury-hotel,-Shinjuku-Gyoen,-hotel-reservation,-2027-opening",
+        "pexels_url": "https://www.pexels.com/search/Noga%20Shinjuku%20Garden%20Hotel,%20Tokyo%20skyline,%20rooftop%20bar,%20Japanese%20luxury%20hotel,%20Shinjuku%20Gyoen,%20hotel%20reservation,%202027%20opening/"
+      }
+    },
     {
       "id": "plan_58478fc4",
       "created_at": "2026-10-15T04:24:43.887774",
@@ -923,160 +1077,6 @@
         "keyword": "Uniqlo, miffy, UT, collaboration, new release, December, Japan shopping, fashion, character",
         "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-miffy,-UT,-collaboration,-new-release,-December,-Japan-shopping,-fashion,-character",
         "pexels_url": "https://www.pexels.com/search/Uniqlo,%20miffy,%20UT,%20collaboration,%20new%20release,%20December,%20Japan%20shopping,%20fashion,%20character/"
-      }
-    },
-    {
-      "id": "plan_1ab6912d",
-      "created_at": "2026-10-12T05:45:23.914935",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東急ステイ新宿、9月29日リニューアルオープン",
-        "url": "https://www.traicy.com/posts/20261012384441/",
-        "date": "Mon, 12 Oct 2026 03:25:40 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 신주쿠 숙소, 넓고 편안하게 리뉴얼 오픈! 최대 4인까지 가능!"
-      },
-      "content": {
-        "thumbnail_title": "✨신주쿠 호텔 리뉴얼✨",
-        "cards": [
-          {
-            "title": "리뉴얼 오픈!",
-            "content": "도쿄 신주쿠에 위치한 '토큐 스테이 신주쿠'가 2023년 9월 29일 전면 리뉴얼 오픈했어요. 낡은 시설을 개선하여 더욱 쾌적한 투숙 환경을 제공합니다.",
-            "alt_text": "호텔 외관 사진"
-          },
-          {
-            "title": "객실 확대",
-            "content": "기존 179실에서 120실로 객실 수는 줄었지만, 평균 객실 면적이 약 1.5배 넓어졌어요. 이제 약 25제곱미터의 넓은 객실에서 편안하게 휴식할 수 있습니다.",
-            "alt_text": "넓어진 객실 내부 사진"
-          },
-          {
-            "title": "4인 객실 신설",
-            "content": "최대 4인까지 투숙 가능한 객실이 새롭게 신설되어 친구, 가족 단위 여행객에게도 안성맞춤이에요. 좁은 객실 걱정은 이제 끝!",
-            "alt_text": "4인 가족이 편안하게 묵을 수 있는 객실 사진"
-          },
-          {
-            "title": "위치 및 접근성",
-            "content": "신주쿠역에서 가까워 도쿄 시내 관광 및 쇼핑, 맛집 탐방에 최적의 위치를 자랑합니다. 교통이 편리하여 이동 시간을 절약할 수 있습니다.",
-            "alt_text": "신주쿠역 주변 지도"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "리뉴얼 오픈 기념 프로모션이 진행될 수 있으니, 예약 전 호텔 공식 홈페이지를 확인해 보세요. 넓어진 객실에서 여유로운 도쿄 여행을 즐겨보세요!",
-            "alt_text": "여행 짐을 싸는 모습"
-          }
-        ],
-        "caption": "🇯🇵 도쿄 신주쿠 호텔, 쾌적하게 리뉴얼 오픈! 🇯🇵\n\n✨ '토큐 스테이 신주쿠'가 2023년 9월 29일 새롭게 태어났어요!\n✅ 객실이 더 넓어져 평균 25㎡, 최대 4인까지 투숙 가능!\n✅ 신주쿠역 초역세권으로 교통, 쇼핑, 맛집 모두 OK!\n\n넓고 편안한 객실에서 여유로운 도쿄 여행을 만끽하세요! ✈️\n\n#일본여행 #도쿄여행 #신주쿠 #숙소추천 #호텔 #리뉴얼 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#신주쿠",
-          "#신주쿠호텔",
-          "#토큐스테이신주쿠",
-          "#일본숙소",
-          "#도쿄숙소",
-          "#가족여행",
-          "#우정여행",
-          "#호텔추천",
-          "#일본호텔",
-          "#여행꿀팁",
-          "#도쿄정보",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "호텔 외관 사진",
-          "넓어진 객실 내부 사진",
-          "4인 가족이 편안하게 묵을 수 있는 객실 사진",
-          "신주쿠역 주변 지도",
-          "여행 짐을 싸는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 신주쿠 지역 숙박 희망 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 숙소 예약 문의 증가, 정보 공유 및 저장 / 이 콘텐츠의 강점: 실질적인 숙소 정보 (넓은 객실, 4인 가능)와 구체적인 오픈 날짜 제공",
-      "image": {
-        "keyword": "shinjuku hotel renovation, spacious hotel room, tokyo travel accommodation, family hotel room japan, shinjuku station hotel",
-        "unsplash_url": "https://unsplash.com/s/photos/shinjuku-hotel-renovation,-spacious-hotel-room,-tokyo-travel-accommodation,-family-hotel-room-japan,-shinjuku-station-hotel",
-        "pexels_url": "https://www.pexels.com/search/shinjuku%20hotel%20renovation,%20spacious%20hotel%20room,%20tokyo%20travel%20accommodation,%20family%20hotel%20room%20japan,%20shinjuku%20station%20hotel/"
-      }
-    },
-    {
-      "id": "plan_46d863e4",
-      "created_at": "2026-10-12T05:45:18.093044",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ホテルニューオータニ（東京）、栗とぶどうのアフタヌーンティー　11月30日まで",
-        "url": "https://www.traicy.com/posts/20261012384616/",
-        "date": "Mon, 12 Oct 2026 03:45:32 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 호텔 뉴오타니에서 즐기는 시즌 한정 栗(밤) & 🍇(포도) 애프터눈 티!"
-      },
-      "content": {
-        "thumbnail_title": "🌰🍇 도쿄 호텔 뉴오타니 栗 & 🍇 애프터눈 티",
-        "cards": [
-          {
-            "title": "기간 한정",
-            "content": "호텔 뉴오타니 도쿄에서 栗(밤)과 🍇(포도)를 테마로 한 애프터눈 티 세트를 2023년 11월 30일까지 판매합니다.",
-            "alt_text": "호텔 뉴오타니 도쿄 외관"
-          },
-          {
-            "title": "메뉴 구성",
-            "content": "3단 티 스탠드에는 '그레이프 쇼트케이크', 포도 젤리를 스펀지로 감싼 '그레이프 롤' 등 다채로운 디저트와 함께 栗(밤) 디저트도 준비되어 있습니다.",
-            "alt_text": "애프터눈 티 3단 티 스탠드"
-          },
-          {
-            "title": "특별함",
-            "content": "가을 시즌을 맞아 栗(밤)과 🍇(포도)의 풍미를 한껏 느낄 수 있는 특별한 디저트와 음료를 맛볼 수 있습니다.",
-            "alt_text": "栗(밤)과 🍇(포도)로 장식된 디저트"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기가 많을 수 있으니 방문 전 호텔에 예약 가능 여부를 확인하는 것이 좋습니다.",
-            "alt_text": "호텔 뉴오타니 로비"
-          },
-          {
-            "title": "꼭 확인!",
-            "content": "이 프로모션은 2023년 11월 30일까지 진행되니, 도쿄 여행 계획 시 참고하세요!",
-            "alt_text": "애프터눈 티 메뉴판"
-          }
-        ],
-        "caption": "도쿄 여행 중 특별한 시간을 보내고 싶다면? ✨ 호텔 뉴오타니에서 栗(밤)과 🍇(포도)의 달콤함을 가득 담은 시즌 한정 애프터눈 티를 즐겨보세요! 🌰🍇\n\n✔️ 기간: ~ 2023년 11월 30일까지\n✔️ 장소: 호텔 뉴오타니 도쿄\n\n놓치지 마세요! 💖",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#호텔뉴오타니",
-          "#애프터눈티",
-          "#도쿄카페",
-          "#가을여행",
-          "#도쿄호텔",
-          "#밤디저트",
-          "#포도디저트",
-          "#일본디저트",
-          "#여행정보",
-          "#기간한정",
-          "#도쿄핫플",
-          "#먹스타그램"
-        ],
-        "alt_texts": [
-          "호텔 뉴오타니 도쿄 외관",
-          "애프터눈 티 3단 티 스탠드",
-          "栗(밤)과 🍇(포도)로 장식된 디저트",
-          "호텔 뉴오타니 로비",
-          "애프터눈 티 메뉴판"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄에서 특별한 경험을 하고 싶은 20-40대 여성 여행객 / 최적 게시 시간: 평일 오후 2-4시 / 기대 반응: 높은 관심과 문의, 예약 정보 확인 / 이 콘텐츠의 강점: 시즌 한정 메뉴, 고급스러운 호텔 경험, 구체적인 기간 정보 제공",
-      "image": {
-        "keyword": "hotel new otani tokyo afternoon tea, chestnut grape dessert, limited time offer",
-        "unsplash_url": "https://unsplash.com/s/photos/hotel-new-otani-tokyo-afternoon-tea,-chestnut-grape-dessert,-limited-time-offer",
-        "pexels_url": "https://www.pexels.com/search/hotel%20new%20otani%20tokyo%20afternoon%20tea,%20chestnut%20grape%20dessert,%20limited%20time%20offer/"
       }
     }
   ]
