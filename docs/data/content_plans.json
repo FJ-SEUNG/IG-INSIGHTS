@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-17T01:19:40.355038",
+  "last_updated": "2026-10-17T04:12:11.534541",
   "plans": [
+    {
+      "id": "plan_6636a440",
+      "created_at": "2026-10-17T04:12:09.534334",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ホテル インターコンチネンタル 東京ベイ、クリスマス・ストロベリー ランチ＆ディナーブッフェ開催",
+        "url": "https://www.traicy.com/posts/20261017384527/",
+        "date": "Fri, 16 Oct 2026 22:15:42 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "크리스마스 시즌, 호텔 뷔페에서 즐기는 특별한 미식 경험!"
+      },
+      "content": {
+        "thumbnail_title": "🎄도쿄 호텔 뷔페 🎄",
+        "cards": [
+          {
+            "title": "뷔페 정보",
+            "content": "호텔 인터컨티넨탈 도쿄 베이에서 'CHEF'S GIFT 크리스마스・스트로베리 런치＆디너 뷔페'를 개최합니다. 11월 10일부터 12월 25일까지 기간 한정으로 진행됩니다.",
+            "alt_text": "호텔 인터컨티넨탈 도쿄 베이 외관"
+          },
+          {
+            "title": "메뉴",
+            "content": "허브 향이 가득한 로스트 치킨과 프라이드 치킨 등 다채로운 메뉴를 맛볼 수 있습니다. 특히 딸기를 활용한 특별 메뉴들이 준비될 예정입니다.",
+            "alt_text": "뷔페 음식 이미지"
+          },
+          {
+            "title": "장소",
+            "content": "호텔 인터컨티넨탈 도쿄 베이에서 열리는 이번 뷔페는 도쿄 여행 중 특별한 식사를 원하는 분들께 추천합니다.",
+            "alt_text": "호텔 내부 뷔페 장소"
+          },
+          {
+            "title": "기간",
+            "content": "2023년 11월 10일 (금) ~ 12월 25일 (월)까지 진행되니, 여행 계획에 맞춰 방문해보세요.",
+            "alt_text": "날짜 정보 캘린더"
+          },
+          {
+            "title": "팁",
+            "content": "인기가 많을 것으로 예상되니, 방문 전 호텔 웹사이트를 통해 예약 가능 여부 및 시간을 미리 확인하는 것을 추천합니다.",
+            "alt_text": "예약 확인하는 모습"
+          }
+        ],
+        "caption": "🎄도쿄에서 특별한 크리스마스 미식 경험!🎄\n호텔 인터컨티넨탈 도쿄 베이에서 11월 10일부터 12월 25일까지 'CHEF'S GIFT 크리스마스・스트로베리 런치＆디너 뷔페'가 열립니다.\n허브 향 로스트 치킨, 프라이드 치킨부터 딸기 디저트까지! 🍓✨\n연말 도쿄 여행, 잊지 못할 추억을 만들어보세요!\n\n📍예약은 필수!\n#일본여행 #도쿄여행 #크리스마스뷔페 #호텔뷔페 #도쿄맛집 #플라잉재팬 #연말여행 #미식여행 #딸기뷔페 #기간한정",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄맛집",
+          "#크리스마스",
+          "#연말",
+          "#뷔페",
+          "#호텔인터컨티넨탈도쿄베이",
+          "#딸기뷔페",
+          "#기간한정",
+          "#여행정보",
+          "#식도락여행",
+          "#일본축제",
+          "#도쿄",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "호텔 인터컨티넨탈 도쿄 베이 외관",
+          "뷔페 음식 이미지",
+          "호텔 내부 뷔페 장소",
+          "날짜 정보 캘린더",
+          "예약 확인하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 연말 일본 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 6-8시 (저녁 식사 계획 시간대) / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 시즌성, 특별함, 구체적인 정보 제공",
+      "image": {
+        "keyword": "Christmas strawberry buffet Tokyo hotel",
+        "unsplash_url": "https://unsplash.com/s/photos/Christmas-strawberry-buffet-Tokyo-hotel",
+        "pexels_url": "https://www.pexels.com/search/Christmas%20strawberry%20buffet%20Tokyo%20hotel/"
+      }
+    },
+    {
+      "id": "plan_a27b940d",
+      "created_at": "2026-10-17T04:12:02.317354",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東海道・山陽新幹線「のぞみ」「みずほ」特急料金とグリーン料金値上げへ。2027年7月から順次",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2148818.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센 요금 인상 전 마지막 여행 기회!"
+      },
+      "content": {
+        "thumbnail_title": "⚡️신칸센 요금 오른다⚡️",
+        "cards": [
+          {
+            "title": "요금 인상 예정",
+            "content": "2027년 7월부터 도카이도·산요 신칸센 '노조미', '미즈호' 특급 요금이 인상됩니다. 현재 요금으로 이용할 마지막 기회를 놓치지 마세요!",
+            "alt_text": "신칸센 열차 이미지"
+          },
+          {
+            "title": "대상 노선",
+            "content": "인상 대상은 도카이도 신칸센과 산요 신칸센 구간을 운행하는 '노조미' 및 '미즈호' 열차의 지정석 특급 요금입니다.",
+            "alt_text": "신칸센 노선도 이미지"
+          },
+          {
+            "title": "그린샤 요금도↑",
+            "content": "모든 신칸센 열차의 그린샤(특실) 요금도 함께 인상될 예정이니, 편안한 좌석을 선호하신다면 미리 계획하시는 것이 좋습니다.",
+            "alt_text": "신칸센 그린샤 좌석 이미지"
+          },
+          {
+            "title": "인상 시기",
+            "content": "정확한 인상 시점은 2027년 7월부터 순차적으로 적용될 예정입니다. 구체적인 날짜는 추후 발표될 수 있습니다.",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "여행 팁",
+            "content": "요금 인상 전에 일본 여행을 계획 중이시라면, 신칸센 이용 계획을 미리 세우고 예약을 서두르는 것을 추천합니다. 특히 인기 구간은 미리 예약하는 것이 좋습니다.",
+            "alt_text": "여행 계획 세우는 모습 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 신칸센 이용 예정이라면 주목! 🇯🇵\n2027년 7월부터 도카이도·산요 신칸센 '노조미', '미즈호' 특급 요금 및 그린샤 요금이 인상됩니다.\n\n요금 인상 전 마지막 기회! 🚄\n\n지금 바로 일본 여행 계획 세우고 신칸센 예매 서두르세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본교통",
+          "#도카이도신칸센",
+          "#산요신칸센",
+          "#노조미",
+          "#미즈호",
+          "#일본정보",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#2027년",
+          "#요금인상",
+          "#여행계획",
+          "#일본"
+        ],
+        "alt_texts": [
+          "신칸센 열차 이미지",
+          "신칸센 노선도 이미지",
+          "신칸센 그린샤 좌석 이미지",
+          "달력 이미지",
+          "여행 계획 세우는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 신칸센 이용 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 8시~10시 / 기대 반응: 정보 공유 및 댓글 문의 증가 / 이 콘텐츠의 강점: 여행 계획에 필수적인 구체적인 정보 제공으로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Shinkansen, Japan train, Nozomi, Mizuho, Japan travel, Bullet train, Train ticket price increase",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-Japan-train,-Nozomi,-Mizuho,-Japan-travel,-Bullet-train,-Train-ticket-price-increase",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20Japan%20train,%20Nozomi,%20Mizuho,%20Japan%20travel,%20Bullet%20train,%20Train%20ticket%20price%20increase/"
+      }
+    },
     {
       "id": "plan_a16d9f7c",
       "created_at": "2026-10-17T01:19:38.354822",
@@ -923,160 +1077,6 @@
         "keyword": "Hands Shibuya, EXPO 2025 Osaka popup store, Miyakumi mascot",
         "unsplash_url": "https://unsplash.com/s/photos/Hands-Shibuya,-EXPO-2025-Osaka-popup-store,-Miyakumi-mascot",
         "pexels_url": "https://www.pexels.com/search/Hands%20Shibuya,%20EXPO%202025%20Osaka%20popup%20store,%20Miyakumi%20mascot/"
-      }
-    },
-    {
-      "id": "plan_2e794eaa",
-      "created_at": "2026-10-14T01:54:48.863453",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR特急かささぎ最大2000円引き「かささぎでGo！デジタルきっぷ」。博多～佐賀～肥前鹿島の旅がお得に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147774.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후쿠오카-사가 지역 여행 시 교통비 절약 꿀팁!"
-      },
-      "content": {
-        "thumbnail_title": "JR특급 2000엔 할인! 🚄",
-        "cards": [
-          {
-            "title": "디지털 티켓 출시",
-            "content": "JR큐슈에서 '가사사기데 Go! 디지털 티켓'을 출시했어요. 이 티켓을 이용하면 하카타-사가현 구간 특급 가사사기 왕복 승차권과 자유석 특급권을 최대 2000엔 할인받을 수 있습니다.",
-            "alt_text": "JR큐슈 특급 열차 이미지"
-          },
-          {
-            "title": "이용 구간",
-            "content": "하카타역에서 사가현 내 주요 역(사가, 히젠시마바라 등)까지 이용 가능하며, 특히 히젠시마바라까지의 이동 시 유용해요.",
-            "alt_text": "일본 철도 노선 지도 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "정상 요금 대비 최대 2000엔까지 할인된 가격으로 이용할 수 있어, 여행 경비를 절약할 수 있습니다.",
-            "alt_text": "할인율 표시 이미지"
-          },
-          {
-            "title": "구매 방법",
-            "content": "스마트폰 앱 'my route'를 통해서만 구매 가능하니, 미리 앱을 다운로드하세요.",
-            "alt_text": "스마트폰 앱 화면 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "후쿠오카 근교 사가현 지역을 당일치기 또는 1박 2일로 여행할 계획이라면 이 티켓을 적극 활용해보세요! 온천이나 맛집 탐방 시 이동 부담을 줄여줍니다.",
-            "alt_text": "일본 온천 마을 풍경 이미지"
-          }
-        ],
-        "caption": "후쿠오카 여행 계획 중이신가요? ✈️\nJR큐슈에서 '가사사기데 Go! 디지털 티켓'을 출시해 하카타-사가현 구간 특급 열차 요금을 최대 2000엔까지 할인해 준다고 해요!\n\n✅ 하카타 ~ 사가현 구간 특급 가사사기 왕복 승차권 & 자유석 특급권 할인\n✅ 스마트폰 앱 'my route'에서만 구매 가능\n\n사가현 지역 온천, 맛집 탐방 시 교통비 절약 꿀팁!  놓치지 마세요 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR큐슈",
-          "#가사사기",
-          "#디지털티켓",
-          "#후쿠오카여행",
-          "#사가현",
-          "#일본교통",
-          "#여행정보",
-          "#가성비여행",
-          "#일본기차",
-          "#후쿠오카근교",
-          "#큐슈여행",
-          "#여행꿀팁",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "JR큐슈 특급 열차 이미지",
-          "일본 철도 노선 지도 이미지",
-          "할인율 표시 이미지",
-          "스마트폰 앱 화면 이미지",
-          "일본 온천 마을 풍경 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카 및 사가현 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심 및 공유 / 이 콘텐츠의 강점: 구체적인 할인 금액과 구매 방법을 명확히 제시하여 실질적인 여행 계획에 도움을 줌",
-      "image": {
-        "keyword": "JR train, Japan railway, Saga prefecture, Hakata station, Digital ticket discount",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-train,-Japan-railway,-Saga-prefecture,-Hakata-station,-Digital-ticket-discount",
-        "pexels_url": "https://www.pexels.com/search/JR%20train,%20Japan%20railway,%20Saga%20prefecture,%20Hakata%20station,%20Digital%20ticket%20discount/"
-      }
-    },
-    {
-      "id": "plan_7b2e5d92",
-      "created_at": "2026-10-14T01:54:43.514928",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "夢洲駅で「ミャクミャク×大阪メトロ」万博1周年フェスタ。花火上映やグッズ販売、10月31日～11月3日",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2147794.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 엑스포 1주년 기념, 꿈섬역에서 특별한 만남과 불꽃놀이를 즐겨보세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨꿈섬역 엑스포 1주년 페스타✨",
-        "cards": [
-          {
-            "title": "페스타 개최",
-            "content": "오사카·간사이 엑스포 폐막 1주년을 기념하는 '미야쿠미야쿠 Osaka Metro 콜라보 페스타'가 10월 31일부터 11월 3일까지 개최됩니다.",
-            "alt_text": "오사카 엑스포 마스코트 캐릭터 '미야쿠미야쿠'와 오사카 메트로 열차가 함께 있는 행사 포스터"
-          },
-          {
-            "title": "행사 장소",
-            "content": "행사는 오사카 메트로 중앙선 '꿈섬역(夢洲駅)'에서 진행됩니다. 엑스포 부지를 직접 방문할 수 있는 좋은 기회입니다.",
-            "alt_text": "꿈섬역(夢洲駅)의 플랫폼 전경"
-          },
-          {
-            "title": "주요 이벤트",
-            "content": "엑스포 1주년을 기념하는 특별한 불꽃놀이 상영과 함께, 인기 캐릭터 '미야쿠미야쿠' 굿즈 판매 등 다채로운 이벤트가 준비되어 있습니다.",
-            "alt_text": "밤하늘을 수놓는 화려한 불꽃놀이 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "꿈섬역은 오사카 메트로 중앙선을 이용하면 접근 가능합니다. 자세한 교통편은 오사카 메트로 공식 정보를 참고하세요.",
-            "alt_text": "오사카 메트로 노선도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "행사 기간 중 꿈섬역 주변은 많은 인파가 몰릴 수 있으니, 여유로운 관람을 위해 미리 도착하는 것을 추천합니다. 엑스포 기념품을 득템할 기회도 놓치지 마세요!",
-            "alt_text": "행사장에서 기념품을 구매하는 사람들의 모습"
-          }
-        ],
-        "caption": "✨오사카 엑스포 1주년 기념, 꿈섬역에서 특별한 추억을 만드세요!✨\n\n10월 31일부터 11월 3일까지 꿈섬역에서 '미야쿠미야쿠 Osaka Metro 콜라보 페스타'가 열립니다. 🎆\n\n엑스포 1주년을 축하하는 불꽃놀이 상영과 인기 캐릭터 굿즈 판매 등 놓칠 수 없는 이벤트가 가득! 🛍️\n\n오사카 여행 중이라면 엑스포 부지를 직접 방문하고 특별한 경험을 즐겨보세요! 🤩\n\n#일본여행 #오사카여행 #꿈섬역 #오사카엑스포 #미야쿠미야쿠 #페스타 #축제 #이벤트 #여행정보 #플라잉재팬 #일본가볼만한곳 #오사카가볼만한곳 #여행스타그램 #10월여행 #11월여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#꿈섬역",
-          "#오사카엑스포",
-          "#미야쿠미야쿠",
-          "#페스타",
-          "#축제",
-          "#이벤트",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#오사카가볼만한곳",
-          "#여행스타그램",
-          "#10월여행",
-          "#11월여행"
-        ],
-        "alt_texts": [
-          "오사카 엑스포 마스코트 캐릭터 '미야쿠미야쿠'와 오사카 메트로 열차가 함께 있는 행사 포스터",
-          "꿈섬역(夢洲駅)의 플랫폼 전경",
-          "밤하늘을 수놓는 화려한 불꽃놀이 이미지",
-          "오사카 메트로 노선도 이미지",
-          "행사장에서 기념품을 구매하는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 이벤트 참여 의욕 고취, 정보 공유 및 저장 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 날짜와 장소 명시, 매력적인 비주얼 요소 포함",
-      "image": {
-        "keyword": "Osaka Expo 1st anniversary event, Yumshima Station, Myakumyaku character, fireworks display, Osaka Metro collaboration festa",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-1st-anniversary-event,-Yumshima-Station,-Myakumyaku-character,-fireworks-display,-Osaka-Metro-collaboration-festa",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%201st%20anniversary%20event,%20Yumshima%20Station,%20Myakumyaku%20character,%20fireworks%20display,%20Osaka%20Metro%20collaboration%20festa/"
       }
     }
   ]
