@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-18T01:02:24.968109",
+  "last_updated": "2026-10-18T04:18:29.137141",
   "plans": [
+    {
+      "id": "plan_ed6600f4",
+      "created_at": "2026-10-18T04:18:27.136962",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "キャセイパシフィック航空、日本路線を最大週157往復運航　冬スケジュール計画",
+        "url": "https://www.traicy.com/posts/20261017383160/",
+        "date": "Sat, 17 Oct 2026 03:45:08 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울 시즌 일본 항공편 증편 정보, 미리 준비하면 알뜰하게!"
+      },
+      "content": {
+        "thumbnail_title": "✈️겨울 일본행 157편 증편!",
+        "cards": [
+          {
+            "title": "캐세이패시픽",
+            "content": "겨울 스케줄 기간, 캐세이패시픽이 일본 노선을 주 최대 157회 운항합니다. 겨울 시즌 일본 여행 계획이라면 주목하세요!",
+            "alt_text": "캐세이패시픽 항공기 이미지"
+          },
+          {
+            "title": "주요 노선",
+            "content": "도쿄(나리타)·오사카(간사이)↔홍콩 노선은 매일 5회, 후쿠오카↔홍콩 노선은 매주 17회 운항됩니다.",
+            "alt_text": "일본 주요 도시 지도 이미지"
+          },
+          {
+            "title": "추가 노선",
+            "content": "도쿄(하네다)·나고야(주부)↔홍콩 노선은 매일 2회 운항합니다. 놓치지 마세요!",
+            "alt_text": "항공기 운항 노선도 이미지"
+          },
+          {
+            "title": "인천/김포",
+            "content": "아직 미정인 인천/김포 출발 노선 정보도 곧 업데이트될 예정이니, 계속 플라잉재팬을 지켜봐 주세요!",
+            "alt_text": "인천 국제공항 전경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "겨울 시즌 항공권은 미리 예약할수록 저렴합니다. 노선별 운항 횟수를 확인하고 최적의 항공권을 찾아보세요!",
+            "alt_text": "달력과 비행기 아이콘 이미지"
+          }
+        ],
+        "caption": "✈️겨울 시즌 일본 항공편 대폭 증편 소식! 캐세이패시픽이 겨울 스케줄 기간, 일본 노선을 주 최대 157회 운항합니다.\n\n✨도쿄(나리타)·오사카(간사이)↔홍콩: 매일 5회\n✨후쿠오카↔홍콩: 매주 17회\n✨도쿄(하네다)·나고야(주부)↔홍콩: 매일 2회\n\n인천/김포 출발 노선도 곧 업데이트 예정이니, 겨울 일본 여행 계획은 플라잉재팬과 함께 꼼꼼하게 세워보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본항공권",
+          "#캐세이패시픽",
+          "#겨울일본여행",
+          "#일본항공",
+          "#도쿄여행",
+          "#오사카여행",
+          "#후쿠오카여행",
+          "#나고야여행",
+          "#일본여행준비",
+          "#항공권특가",
+          "#여행정보",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "캐세이패시픽 항공기 이미지",
+          "일본 주요 도시 지도 이미지",
+          "항공기 운항 노선도 이미지",
+          "인천 국제공항 전경 이미지",
+          "달력과 비행기 아이콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 겨울 시즌 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 항공권 정보에 대한 높은 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 운항 횟수와 노선 정보 제공으로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Cathay Pacific, Japan route, winter schedule",
+        "unsplash_url": "https://unsplash.com/s/photos/Cathay-Pacific,-Japan-route,-winter-schedule",
+        "pexels_url": "https://www.pexels.com/search/Cathay%20Pacific,%20Japan%20route,%20winter%20schedule/"
+      }
+    },
+    {
+      "id": "plan_4509beb3",
+      "created_at": "2026-10-18T04:18:22.085993",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JAL、羽田空港T1南ウイングのファーストクラス・JGC専用カウンターをリニューアルオープン",
+        "url": "https://www.traicy.com/posts/20261017385027/",
+        "date": "Sat, 17 Oct 2026 09:15:36 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행, JAL 이용 시 놓치면 안 될 공항 카운터 리뉴얼 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ JAL 하네다 공항 T1 카운터 리뉴얼!",
+        "cards": [
+          {
+            "title": "JAL 카운터 리뉴얼",
+            "content": "일본항공(JAL)이 하네다 공항 제1터미널 남쪽 윙의 퍼스트 클래스와 JGC 전용 카운터가 2023년 10월 15일부로 새롭게 오픈했습니다. 여행의 시작을 더욱 편안하게 즐겨보세요.",
+            "alt_text": "JAL 하네다 공항 제1터미널 남쪽 윙의 퍼스트 클래스 및 JGC 전용 카운터 리뉴얼 오픈"
+          },
+          {
+            "title": "이용 대상",
+            "content": "이번 리뉴얼은 JAL 퍼스트 클래스 탑승객과 JAL 글로벌 클럽(JGC) 회원분들을 대상으로 합니다. 해당되시는 분들은 더욱 빠르고 편리한 출국 수속을 경험하실 수 있습니다.",
+            "alt_text": "JAL 퍼스트 클래스 탑승객 및 JAL 글로벌 클럽(JGC) 회원 대상"
+          },
+          {
+            "title": "공사 기간",
+            "content": "리뉴얼 공사 기간 동안에도 기존 카운터는 폐쇄되지 않고 운영되었습니다. 따라서 이용에 불편함 없이 새롭게 단장된 카운터를 이용하실 수 있습니다.",
+            "alt_text": "공사 중에도 기존 카운터는 계속 운영됨"
+          },
+          {
+            "title": "하네다 공항",
+            "content": "하네다 공항은 도쿄 시내와 접근성이 뛰어나 일본 여행을 시작하기에 매우 편리한 공항입니다. JAL을 이용하신다면 리뉴얼된 카운터를 통해 더욱 쾌적한 경험을 기대할 수 있습니다.",
+            "alt_text": "도쿄 시내 접근성이 좋은 하네다 공항"
+          },
+          {
+            "title": "꿀팁",
+            "content": "JAL 퍼스트 클래스 또는 JGC 회원이라면, 하네다 공항 도착 후 리뉴얼된 전용 카운터를 먼저 방문하여 여유롭게 출국 준비를 하시는 것을 추천합니다. 시간 절약은 물론, 편안한 여행의 시작이 될 거예요!",
+            "alt_text": "JAL 퍼스트 클래스/JGC 회원, 리뉴얼 카운터 이용 팁"
+          }
+        ],
+        "caption": "✈️ JAL 이용객 주목! 하네다 공항 T1 퍼스트 클래스 & JGC 전용 카운터가 10월 15일부로 새롭게 오픈했어요! 🤩\n\n기존 카운터 폐쇄 없이 공사를 진행해서 이용에 불편함이 없었답니다. JAL 퍼스트 클래스 또는 JGC 회원이라면, 더욱 빠르고 쾌적하게 출국 수속을 마치고 편안한 여행을 시작하세요! ✨\n\n일본 여행, 더욱 스마트하게 준비하는 @flyingjapan 과 함께하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#하네다공항",
+          "#도쿄여행",
+          "#공항정보",
+          "#여행꿀팁",
+          "#JGC",
+          "#퍼스트클래스",
+          "#일본출장",
+          "#여행준비",
+          "#공항카운터",
+          "#일본",
+          "#항공사"
+        ],
+        "alt_texts": [
+          "JAL 하네다 공항 제1터미널 남쪽 윙의 퍼스트 클래스 및 JGC 전용 카운터 리뉴얼 오픈",
+          "JAL 퍼스트 클래스 탑승객 및 JAL 글로벌 클럽(JGC) 회원 대상",
+          "공사 중에도 기존 카운터는 계속 운영됨",
+          "도쿄 시내 접근성이 좋은 하네다 공항",
+          "JAL 퍼스트 클래스/JGC 회원, 리뉴얼 카운터 이용 팁"
+        ]
+      },
+      "marketer_analysis": "타겟: JAL 이용 예정인 한국인 여행객 (특히 비즈니스/퍼스트 클래스, JGC 회원) / 최적 게시 시간: 평일 오전 9-11시 또는 오후 6-8시 / 기대 반응: 정보 습득 및 공감, JAL 이용 시 참고 / 이 콘텐츠의 강점: 구체적인 날짜와 장소 명시, 이용 대상 명확화, 실제 여행객에게 직접적인 도움 제공",
+      "image": {
+        "keyword": "JAL Haneda Airport Terminal 1 South Wing First Class JGC exclusive counter renovation",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Haneda-Airport-Terminal-1-South-Wing-First-Class-JGC-exclusive-counter-renovation",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Haneda%20Airport%20Terminal%201%20South%20Wing%20First%20Class%20JGC%20exclusive%20counter%20renovation/"
+      }
+    },
     {
       "id": "plan_f14d20f9",
       "created_at": "2026-10-18T01:02:22.967929",
@@ -923,160 +1077,6 @@
         "keyword": "Chiikawa ANA collaboration goods, ANA airplane Chiikawa livery, Chiikawa merchandise Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Chiikawa-ANA-collaboration-goods,-ANA-airplane-Chiikawa-livery,-Chiikawa-merchandise-Japan",
         "pexels_url": "https://www.pexels.com/search/Chiikawa%20ANA%20collaboration%20goods,%20ANA%20airplane%20Chiikawa%20livery,%20Chiikawa%20merchandise%20Japan/"
-      }
-    },
-    {
-      "id": "plan_79b27221",
-      "created_at": "2026-10-15T01:28:36.251090",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Yahoo!トラベル、熊本県の「九州ふっこう応援割」本日12時予約スタート。宿泊代が最大60％オフ、＋誰でも10％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148189.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 숙박비 파격 할인 찬스! 료칸, 호텔 최대 60% OFF!"
-      },
-      "content": {
-        "thumbnail_title": "💥熊本 숙박 60% OFF!💥",
-        "cards": [
-          {
-            "title": "쿠마모토 숙박 할인",
-            "content": "일본 여행 지원 '규슈 부흥 응원 할인'으로 熊本현 숙박 예약 시 최대 60% 할인 혜택을 받을 수 있어요. 료칸, 호텔 등 다양한 숙소에 적용 가능합니다.",
-            "alt_text": "할인율이 표시된 일본 숙박 예약 페이지 이미지"
-          },
-          {
-            "title": "추가 10% 할인",
-            "content": "누구나 추가 10% 할인을 받을 수 있어, 최대 70%까지 숙박비를 절약할 수 있는 절호의 기회입니다. 이번 기회를 놓치지 마세요!",
-            "alt_text": "추가 할인 쿠폰 이미지를 들고 있는 손 이미지"
-          },
-          {
-            "title": "예약 시작일",
-            "content": "熊本현 예약은 10월 15일 낮 12시부터 시작됩니다. 서둘러 원하는 숙소를 선점하세요!",
-            "alt_text": "달력에 10월 15일이 표시된 이미지"
-          },
-          {
-            "title": "할인 적용 방법",
-            "content": "Yahoo! 트래블을 통해 예약해야 하며, 해당 할인 코드를 적용해야 합니다. 예약 전 할인 적용 여부를 꼭 확인하세요.",
-            "alt_text": "할인 코드 입력란이 있는 웹사이트 예약 화면 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 숙소는 조기 마감될 수 있으니, 미리 관심 있는 숙소를 찜해두고 예약 오픈 시간에 맞춰 바로 예약하는 것을 추천합니다. 熊本 여행 계획 세우신다면 꼭 활용하세요!",
-            "alt_text": "일본 전통 료칸에서 온천을 즐기는 커플 이미지"
-          }
-        ],
-        "caption": "✨일본 熊本 여행 계획 중이신가요?✨\n\n🎉Yahoo! 트래블에서 熊本현 숙박 예약 시 최대 60% 할인 혜택을 제공하는 '규슈 부흥 응원 할인'이 시작됩니다!🎉\n\n🌟누구나 추가 10% 할인까지! 최대 70% OFF 찬스!🌟\n\n✅예약 시작: 10월 15일 낮 12시\n\n놓치면 후회할 역대급 할인, 지금 바로 熊本 여행 숙소 찜하고 할인받아 가세요! ✈️\n\n#일본여행 #규슈여행 #熊本여행 #숙박할인 #료칸 #호텔 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#熊本",
-          "#쿠마모토",
-          "#일본숙박",
-          "#료칸",
-          "#호텔",
-          "#여행할인",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#해외여행",
-          "#가을여행",
-          "#겨울여행",
-          "#할인정보"
-        ],
-        "alt_texts": [
-          "할인율이 표시된 일본 숙박 예약 페이지 이미지",
-          "추가 할인 쿠폰 이미지를 들고 있는 손 이미지",
-          "달력에 10월 15일이 표시된 이미지",
-          "할인 코드 입력란이 있는 웹사이트 예약 화면 이미지",
-          "일본 전통 료칸에서 온천을 즐기는 커플 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 熊本 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 참여율 (할인 정보에 대한 즉각적인 관심), 정보 공유 / 이 콘텐츠의 강점: 매우 구체적인 할인율과 날짜 정보를 제공하여 실질적인 도움을 줄 수 있으며, '최대 70% OFF'라는 강력한 혜택을 강조함.",
-      "image": {
-        "keyword": "Japan travel discount, Kumamoto ryokan booking, Kyushu travel support, Hotel sale Japan, Travel deals October",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Kumamoto-ryokan-booking,-Kyushu-travel-support,-Hotel-sale-Japan,-Travel-deals-October",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Kumamoto%20ryokan%20booking,%20Kyushu%20travel%20support,%20Hotel%20sale%20Japan,%20Travel%20deals%20October/"
-      }
-    },
-    {
-      "id": "plan_99628686",
-      "created_at": "2026-10-15T01:28:30.199510",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "エアトリ、鹿児島県の「九州ふっこう応援割」本日12時予約スタート。航空券＋宿泊が最大60％オフに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148196.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 규슈 지역 여행 시 최대 60% 할인 혜택을 받을 수 있는 절호의 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✈️규슈 최대 60% 할인!",
-        "cards": [
-          {
-            "title": "九州ふっこう応援割",
-            "content": "일본 규슈 지역 여행 지원 사업 '큐슈 부흥 응원 할인'이 시작됩니다. 10월 15일 12시부터 鹿児島현(가고시마현) 예약 접수가 시작됩니다.",
-            "alt_text": "일본 규슈 지역 여행 지원 사업 '큐슈 부흥 응원 할인' 시작 안내"
-          },
-          {
-            "title": "항공권+숙박",
-            "content": "이 지원 사업을 통해 항공권과 숙박을 함께 예약할 경우, 최대 60%까지 할인 혜택을 받을 수 있습니다. 여행 경비를 크게 절약할 기회입니다.",
-            "alt_text": "항공권과 숙박 동시 예약 시 최대 60% 할인 혜택 이미지"
-          },
-          {
-            "title": "예약 시작",
-            "content": "鹿児島県(가고시마현) 대상 예약은 10월 15일 12시(현지 시간 기준)부터 시작됩니다. 인기 상품은 조기 마감될 수 있으니 서두르세요.",
-            "alt_text": "10월 15일 12시 가고시마현 예약 시작 안내"
-          },
-          {
-            "title": "여행 계획",
-            "content": "가고시마 외 다른 규슈 지역의 할인 정보도 곧 발표될 예정입니다. 일본 규슈 여행을 계획 중이라면 주목해 주세요.",
-            "alt_text": "다른 규슈 지역 할인 정보 발표 예정 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "예약 오픈 시간에 맞춰 미리 에어트립(エアトリ) 웹사이트를 확인하고, 원하는 항공권과 숙소를 찜해두면 빠르게 예약할 수 있습니다. 결제 수단도 미리 준비해두세요.",
-            "alt_text": "예약 오픈 시간 전 미리 준비하는 꿀팁 이미지"
-          }
-        ],
-        "caption": "✈️일본 규슈 여행 예정이라면 주목!✈️\n\n'큐슈 부흥 응원 할인' 사업으로 10월 15일 12시부터 鹿児島현(가고시마현) 예약이 시작됩니다!\n\n항공권+숙박을 함께 예약하면 최대 60% 할인 혜택까지! 🤩\n\n여행 경비를 절약할 절호의 찬스를 놓치지 마세요! 😉\n\n#일본여행 #규슈여행 #가고시마여행 #큐슈 #일본할인 #여행꿀팁 #여행정보 #플라잉재팬 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#가고시마",
-          "#큐슈부흥응원할인",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#해외여행",
-          "#할인정보",
-          "#여행팁",
-          "#일본축제",
-          "#일본쇼핑",
-          "#항공권특가"
-        ],
-        "alt_texts": [
-          "일본 규슈 지역 여행 지원 사업 '큐슈 부흥 응원 할인' 시작 안내",
-          "항공권과 숙박 동시 예약 시 최대 60% 할인 혜택 이미지",
-          "10월 15일 12시 가고시마현 예약 시작 안내",
-          "다른 규슈 지역 할인 정보 발표 예정 안내",
-          "예약 오픈 시간 전 미리 준비하는 꿀팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시~8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 문의, 예약 정보 공유 / 이 콘텐츠의 강점: 파격적인 할인율, 실질적인 경비 절감 정보 제공",
-      "image": {
-        "keyword": "Japan Kyushu travel discount",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount",
-        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount/"
       }
     }
   ]
