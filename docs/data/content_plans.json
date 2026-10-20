@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-20T01:50:18.208136",
+  "last_updated": "2026-10-20T04:38:33.044183",
   "plans": [
+    {
+      "id": "plan_56f81e85",
+      "created_at": "2026-10-20T04:38:31.043977",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALカード、TOICAへのチャージをマイル積算対象外に",
+        "url": "https://www.traicy.com/posts/20261020377840/",
+        "date": "Mon, 19 Oct 2026 22:15:56 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 카드 마일리지 적립 꿀팁! TOICA 충전 시 꼭 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL카드 TOICA 충전 마일 적립 변경",
+        "cards": [
+          {
+            "title": "JAL카드 혜택 변경",
+            "content": "JAL 카드 이용 시 TOICA(도카) 충전 금액에 대한 쇼핑 마일리지 적립이 2023년 10월 청구분부터 제외됩니다.",
+            "alt_text": "JAL 카드 로고와 TOICA 카드 이미지"
+          },
+          {
+            "title": "대상 카드 확인",
+            "content": "JAL・Visa 카드, JAL・Mastercard, JAL 아메리칸・에스프레스 카드가 해당됩니다. 정확한 대상 카드 목록은 JAL 카드 공식 홈페이지를 참고하세요.",
+            "alt_text": "다양한 JAL 카드 종류 이미지"
+          },
+          {
+            "title": "마일리지 적립 제외",
+            "content": "기존에는 TOICA 충전 시에도 마일리지가 적립되었으나, 앞으로는 적립 대상에서 제외되니 유의해야 합니다.",
+            "alt_text": "마일리지 적립이 제외됨을 나타내는 X 표시 이미지"
+          },
+          {
+            "title": "TOICA 활용 팁",
+            "content": "TOICA는 일본 전역에서 사용 가능한 교통카드 겸 전자화폐입니다. 충전 시 마일리지 적립은 불가하지만, 편리하게 대중교통 및 상점 이용이 가능합니다.",
+            "alt_text": "TOICA 카드를 사용하는 모습 이미지"
+          },
+          {
+            "title": "현명한 카드 사용",
+            "content": "JAL 카드를 주로 사용하신다면, TOICA 충전 외 다른 쇼핑이나 결제 시 마일리지 적립 혜택을 꼼꼼히 챙기세요.",
+            "alt_text": "JAL 카드로 결제하는 모습 이미지"
+          }
+        ],
+        "caption": "✈️JAL 카드 이용자 주목! 2023년 10월부터 TOICA 충전 시 마일리지 적립이 중단됩니다! 😭\n\n✅ 10월 청구분부터 JAL 카드 TOICA 충전 금액은 쇼핑 마일리지 적립 대상에서 제외!\n✅ JAL・Visa, JAL・Mastercard, JAL 아메리칸・에스프레스 카드 해당\n\nTOICA는 편리하지만, 이제 충전으로 마일리지 쌓기는 어렵겠네요. 😥\nJAL 카드 이용 시, 다른 결제 혜택을 꼼꼼히 챙기세요! 👍\n\n#일본여행 #플라잉재팬 #JAL카드 #TOICA #마일리지 #일본교통카드",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL카드",
+          "#TOICA",
+          "#마일리지",
+          "#일본교통카드",
+          "#일본여행정보",
+          "#해외여행",
+          "#여행꿀팁",
+          "#일본생활",
+          "#여행스타그램",
+          "#해외생활",
+          "#일본",
+          "#항공권",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "JAL 카드 로고와 TOICA 카드 이미지",
+          "다양한 JAL 카드 종류 이미지",
+          "마일리지 적립이 제외됨을 나타내는 X 표시 이미지",
+          "TOICA 카드를 사용하는 모습 이미지",
+          "JAL 카드로 결제하는 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: JAL 카드를 소지하고 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 정보 습득 및 유용한 정보 공유 / 이 콘텐츠의 강점: 일본 여행에 필수적인 교통카드 및 항공사 카드 혜택 변경 정보를 신속하고 정확하게 제공",
+      "image": {
+        "keyword": "JAL Card, TOICA, Japan transportation card, mileage, travel information",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-Card,-TOICA,-Japan-transportation-card,-mileage,-travel-information",
+        "pexels_url": "https://www.pexels.com/search/JAL%20Card,%20TOICA,%20Japan%20transportation%20card,%20mileage,%20travel%20information/"
+      }
+    },
+    {
+      "id": "plan_b3534c9e",
+      "created_at": "2026-10-20T04:38:06.137358",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "今週末の「東京湾大華火祭」は晴海線・台場線・一般道で交通規制。周辺の歩道も通行止め。有楽町線は打ち上げ前後に臨時ダイヤ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2149578.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄만 불꽃축제 기간, 교통 통제 및 열차 임시 다이어 확인하고 편하게 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "🎆 도쿄만 불꽃축제 교통 통제! 🎆",
+        "cards": [
+          {
+            "title": "교통 통제 구간",
+            "content": "10월 24일 개최되는 '도쿄만 대불꽃축제'로 인해 晴海埠頭(하루미 부두) 주변의 고속도로와 일반 도로에서 교통 통제가 실시됩니다. 행사 당일 주변 도로 이용 시 참고하세요.",
+            "alt_text": "도쿄만 대불꽃축제 행사 장소 주변 도로 교통 통제 안내"
+          },
+          {
+            "title": "보도 통제",
+            "content": "행사 장소 주변의 보도 역시 통제될 예정입니다. 불꽃축제를 관람하러 가실 경우, 보행로 이용 시에도 주의가 필요하며 통제 구간을 미리 확인하는 것이 좋습니다.",
+            "alt_text": "행사 장소 주변 보도 통제 안내"
+          },
+          {
+            "title": "유라쿠초선 임시 다이어",
+            "content": "유라쿠초선 지하철은 불꽃 발사 전후로 임시 다이어가 운영될 예정입니다. 평소와 다른 운행 간격 및 시간표를 확인하시어 이동에 차질이 없도록 준비하세요.",
+            "alt_text": "유라쿠초선 지하철 임시 다이어 안내"
+          },
+          {
+            "title": "여행 전 필수 확인!",
+            "content": "도쿄만 대불꽃축제는 많은 인파가 몰리는 인기 행사입니다. 행사 당일 교통 상황은 매우 혼잡할 것으로 예상되니, 대중교통 이용 시 운행 정보를 미리 확인하시는 것이 필수입니다.",
+            "alt_text": "도쿄만 불꽃축제 행사 정보 및 교통 안내"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "교통 통제 및 임시 다이어를 미리 숙지하고, 행사 시작 시간보다 여유 있게 출발하시는 것을 추천합니다. 편안하고 안전한 불꽃축제 관람을 위해 미리 대비하세요!",
+            "alt_text": "도쿄만 불꽃축제 관람 꿀팁 및 주의사항 안내"
+          }
+        ],
+        "caption": "🔥 도쿄만 대불꽃축제 D-DAY! 🔥\n\n10월 24일 열리는 도쿄만 대불꽃축제! 🎆\n행사 당일 晴海埠頭(하루미 부두) 주변 도로 및 보도 통제가 실시됩니다.\n유라쿠초선은 불꽃 발사 전후 임시 다이어가 운영되니, 꼭 미리 확인하세요!\n\n혼잡 예상되니 여유로운 출발 필수! 🚗💨\n\n#도쿄만대불꽃축제 #도쿄불꽃축제 #일본축제 #도쿄여행 #교통정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄",
+          "#일본축제",
+          "#도쿄만대불꽃축제",
+          "#불꽃축제",
+          "#교통정보",
+          "#지하철",
+          "#대중교통",
+          "#여행꿀팁",
+          "#일본정보",
+          "#여행준비",
+          "#해외여행",
+          "#일본소식"
+        ],
+        "alt_texts": [
+          "도쿄만 대불꽃축제 행사 장소 주변 도로 교통 통제 안내",
+          "행사 장소 주변 보도 통제 안내",
+          "유라쿠초선 지하철 임시 다이어 안내",
+          "도쿄만 불꽃축제 행사 정보 및 교통 안내",
+          "도쿄만 불꽃축제 관람 꿀팁 및 주의사항 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄만 대불꽃축제 방문 예정인 한국인 여행자 / 최적 게시 시간: 행사 2~3일 전 오후 6시~8시 / 기대 반응: 정보 유용성, 실질적인 도움에 대한 긍정적 반응 / 이 콘텐츠의 강점: 실제 여행 시 겪을 수 있는 교통 불편을 미리 해결해주는 구체적인 정보 제공",
+      "image": {
+        "keyword": "Tokyo Bay Grand Fireworks Festival traffic control",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay-Grand-Fireworks-Festival-traffic-control",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay%20Grand%20Fireworks%20Festival%20traffic%20control/"
+      }
+    },
     {
       "id": "plan_12519d02",
       "created_at": "2026-10-20T01:50:16.207969",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen, Japan train, Nozomi, Mizuho, Japan travel, Bullet train, Train ticket price increase",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-Japan-train,-Nozomi,-Mizuho,-Japan-travel,-Bullet-train,-Train-ticket-price-increase",
         "pexels_url": "https://www.pexels.com/search/Shinkansen,%20Japan%20train,%20Nozomi,%20Mizuho,%20Japan%20travel,%20Bullet%20train,%20Train%20ticket%20price%20increase/"
-      }
-    },
-    {
-      "id": "plan_a16d9f7c",
-      "created_at": "2026-10-17T01:19:38.354822",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「なにわ淀川花火大会」交通規制は16時ごろ～。十三・塚本駅、うめきた周辺の通行止め渋滞に注意",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148521.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최대 불꽃축제 중 하나인 나니와 요도가와 불꽃축제 교통 통제 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🎆오사카 8/4 불꽃축제 교통 통제 🚨",
-        "cards": [
-          {
-            "title": "교통 통제 시간",
-            "content": "제38회 나니와 요도가와 불꽃축제 개최로 인해 8월 4일 16시부터 23시까지 교통 통제가 실시됩니다. 일부 구간은 13시부터 통제될 예정입니다.",
-            "alt_text": "교통 통제 시작 시간을 알리는 이미지"
-          },
-          {
-            "title": "주요 통제 지역",
-            "content": "특히 주소(十三)역, 츠카모토(塚本)역 및 우메키타(うめきた) 주변 지역의 통행이 제한됩니다. 혼잡이 예상되니 미리 확인하세요.",
-            "alt_text": "교통 통제 구역 지도 이미지"
-          },
-          {
-            "title": "대중교통 이용 팁",
-            "content": "축제 당일에는 대중교통 이용객이 몰릴 수 있습니다. JR, 지하철 등 대중교통 이용 시 평소보다 여유를 가지고 이동하는 것을 추천합니다.",
-            "alt_text": "전철을 이용하는 사람들의 모습 이미지"
-          },
-          {
-            "title": "우회 경로 확인",
-            "content": "차량 이용 시 통제 구간을 피해 우회해야 합니다. 사전에 통제 구간 및 우회 경로를 파악하여 이동 계획을 세우는 것이 중요합니다.",
-            "alt_text": "우회 경로를 안내하는 표지판 이미지"
-          },
-          {
-            "title": "안전 및 주의사항",
-            "content": "축제 당일 인파가 많으므로 소지품 관리에 유의하시고, 안내 요원의 지시에 따라 안전하게 축제를 즐기시기 바랍니다.",
-            "alt_text": "불꽃축제를 즐기는 사람들의 모습 이미지"
-          }
-        ],
-        "caption": "🎆오사카 8월 4일! 나니와 요도가와 불꽃축제 보러 가시나요? 🎉\n\n당일 16시부터 주요 구간 교통 통제가 시작되니, 여행 계획에 꼭 참고하세요! 🚗💨\n\n특히 주소, 츠카모토역 및 우메키타 주변 통제 예정이니, 대중교통 이용 시 여유롭게 출발하는 것을 추천합니다. 🚇\n\n✨ 안전하고 즐거운 불꽃축제 관람되세요! ✨\n\n#오사카불꽃축제 #나니와요도가와불꽃축제 #일본교통정보 #오사카여행 #일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#일본축제",
-          "#불꽃축제",
-          "#나니와요도가와불꽃축제",
-          "#오사카교통",
-          "#일본교통",
-          "#여행정보",
-          "#일본소식",
-          "#해외여행",
-          "#여행꿀팁",
-          "#오사카",
-          "#일본",
-          "#8월여행"
-        ],
-        "alt_texts": [
-          "교통 통제 시작 시간을 알리는 이미지",
-          "교통 통제 구역 지도 이미지",
-          "전철을 이용하는 사람들의 모습 이미지",
-          "우회 경로를 안내하는 표지판 이미지",
-          "불꽃축제를 즐기는 사람들의 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 방문 예정인 한국인 여행자 / 최적 게시 시간: 여행 전날 또는 당일 오전 9시 / 기대 반응: 정보성 콘텐츠에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 실제 여행에 필수적인 교통 통제 정보와 구체적인 시간, 장소를 명확하게 제시",
-      "image": {
-        "keyword": "Osaka fireworks festival traffic control",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-fireworks-festival-traffic-control",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20fireworks%20festival%20traffic%20control/"
-      }
-    },
-    {
-      "id": "plan_f90d506d",
-      "created_at": "2026-10-17T01:19:33.009619",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東海、次期新幹線車両「S0系」投入を発表。2029年7月に営業運転開始、グリーン車を大幅刷新",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148855.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2029년 신칸센 S0계 등장! 더욱 편안하고 쾌적한 일본 여행을 미리 준비하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚄 2029년 신칸센 S0계 등장! 🚅",
-        "cards": [
-          {
-            "title": "차세대 신칸센!",
-            "content": "JR東海에서 동해/산요 신칸센의 차세대 차량 'S0계' 투입을 발표했습니다. N700S 이후 9년 만의 풀 모델 체인지입니다.",
-            "alt_text": "신칸센 S0계 예상 디자인 이미지"
-          },
-          {
-            "title": "운행 시작은?",
-            "content": "2029년 7월부터 영업 운행을 시작할 예정입니다. 앞으로 5년 후, 더욱 달라질 일본 여행을 기대해주세요!",
-            "alt_text": "신칸센 운행 시작 날짜 표시 이미지"
-          },
-          {
-            "title": "그린차 대변신!",
-            "content": "이번 S0계는 특히 그린차(특실)를 대폭적으로 개량할 것으로 알려졌습니다. 한층 업그레이드된 편안함을 선사할 예정입니다.",
-            "alt_text": "신칸센 그린차 내부 예상 이미지"
-          },
-          {
-            "title": "미리 준비하세요!",
-            "content": "2029년 이후 일본 여행을 계획하신다면, S0계 신칸센 탑승을 고려해보세요. 더욱 쾌적한 이동이 가능할 것입니다.",
-            "alt_text": "일본 신칸센 노선도 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "신칸센 예약은 미리 할수록 원하는 좌석을 확보하기 좋습니다. 특히 S0계 운행이 시작되면 인기가 많을 것으로 예상되니, 여행 계획 시 참고하세요!",
-            "alt_text": "신칸센 예약 팁 이미지"
-          }
-        ],
-        "caption": "✨ 2029년 7월, 일본 신칸센이 새롭게 태어납니다! ✨\nJR東海에서 차세대 신칸센 차량 'S0계'의 투입을 발표했어요. 2029년 7월부터 동해/산요 신칸센에서 만나볼 수 있습니다. 🚄\n\n특히 그린차가 대폭 개량된다고 하니, 더욱 편안하고 쾌적한 일본 여행이 가능해질 거예요. 🤩\n미리 알아두고 2029년 이후 일본 여행 계획에 참고해보세요! ✈️\n\n#일본여행 #플라잉재팬 #신칸센 #S0계 #일본교통 #여행준비 #일본신칸센",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#S0계",
-          "#일본교통",
-          "#여행준비",
-          "#일본신칸센",
-          "#JR",
-          "#일본여행팁",
-          "#일본정보",
-          "#여행스타그램",
-          "#일본",
-          "#동해신칸센",
-          "#산요신칸센",
-          "#여행계획"
-        ],
-        "alt_texts": [
-          "신칸센 S0계 예상 디자인 이미지",
-          "신칸센 운행 시작 날짜 표시 이미지",
-          "신칸센 그린차 내부 예상 이미지",
-          "일본 신칸센 노선도 이미지",
-          "신칸센 예약 팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 2040대 한국인 / 최적 게시 시간: 평일 저녁 7시~9시, 주말 오후 2시~4시 / 기대 반응: 신규 교통 정보에 대한 관심, 미래 여행 계획 반영 / 이 콘텐츠의 강점: 구체적인 출시 시기와 차량 정보, 여행 계획에 실질적인 도움 제공",
-      "image": {
-        "keyword": "Shinkansen S0 series, Japan bullet train, next generation train, JR Central, Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-S0-series,-Japan-bullet-train,-next-generation-train,-JR-Central,-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20S0%20series,%20Japan%20bullet%20train,%20next%20generation%20train,%20JR%20Central,%20Japan%20travel/"
       }
     }
   ]
