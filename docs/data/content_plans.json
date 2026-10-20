@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-19T04:28:05.829850",
+  "last_updated": "2026-10-20T01:50:18.208136",
   "plans": [
+    {
+      "id": "plan_12519d02",
+      "created_at": "2026-10-20T01:50:16.207969",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "リゾナーレ熱海、宿泊者限定の冬季イベント「花火クリスマス」。花火玉キャンドルホルダー作りや点灯式に参加",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2149430.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울 한정! 일본 온천 리조트에서 즐기는 특별한 불꽃 축제!"
+      },
+      "content": {
+        "thumbnail_title": "✨열정 ♨️불꽃 크리스마스✨",
+        "cards": [
+          {
+            "title": "겨울 한정 이벤트",
+            "content": "별장지 리조트 '리조나레 아타미'에서 12월 1일부터 25일까지 '불꽃 크리스마스' 이벤트를 개최합니다. 숙박객만 참여 가능한 특별한 겨울 축제입니다.",
+            "alt_text": "리조나레 아타미 호텔 외관 전경"
+          },
+          {
+            "title": "직접 만드는 즐거움",
+            "content": "이벤트 기간 동안 '불꽃 구슬 캔들 홀더 만들기' 체험에 참여할 수 있습니다. 나만의 특별한 기념품을 만들어보세요.",
+            "alt_text": "불꽃 구슬 캔들 홀더 만들기 체험 모습"
+          },
+          {
+            "title": "화려한 점등식",
+            "content": "매일 저녁 진행되는 점등식에서는 아름다운 불꽃들이 겨울밤을 수놓습니다. 로맨틱한 분위기를 만끽할 수 있습니다.",
+            "alt_text": "불꽃 크리스마스 점등식 풍경"
+          },
+          {
+            "title": "아타미 온천",
+            "content": "이벤트와 함께 아름다운 해변 도시 아타미의 온천을 즐길 수 있습니다. 겨울철 특별한 휴가를 계획해보세요.",
+            "alt_text": "아타미 해변과 온천 리조트 전경"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "이벤트는 숙박객 전용이므로, 참여를 원하시면 반드시 리조나레 아타미 숙박 예약을 미리 하셔야 합니다. 자세한 일정은 호텔 공식 홈페이지를 확인하세요.",
+            "alt_text": "리조나레 아타미 호텔 예약 정보 확인 안내"
+          }
+        ],
+        "caption": "🇯🇵 겨울 일본 여행, 특별한 추억을 만들고 싶다면? ♨️ \n\n별장지 리조트 '리조나레 아타미'에서 12월 1일부터 25일까지 '불꽃 크리스마스' 이벤트를 개최합니다! ✨\n\n숙박객만 참여 가능한 '불꽃 구슬 캔들 홀더 만들기' 체험과 화려한 점등식으로 잊지 못할 겨울밤을 선사할 거예요. 🎄\n\n온천과 함께 즐기는 겨울 로맨스, 지금 바로 예약하세요! 💖\n\n#리조나레아타미 #불꽃크리스마스 #아타미온천 #일본겨울여행 #겨울이벤트 #일본숙소 #온천여행 #료칸추천 #플라잉재팬 #일본여행정보 #여행스타그램 #겨울축제 #크리스마스여행 #일본온천 #힐링여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#리조나레아타미",
+          "#불꽃크리스마스",
+          "#아타미온천",
+          "#일본겨울여행",
+          "#겨울이벤트",
+          "#일본숙소",
+          "#온천여행",
+          "#료칸추천",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#겨울축제",
+          "#크리스마스여행",
+          "#일본온천"
+        ],
+        "alt_texts": [
+          "리조나레 아타미 호텔 외관 전경",
+          "불꽃 구슬 캔들 홀더 만들기 체험 모습",
+          "불꽃 크리스마스 점등식 풍경",
+          "아타미 해변과 온천 리조트 전경",
+          "리조나레 아타미 호텔 예약 정보 확인 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 겨울 시즌 일본 온천 여행을 계획 중인 2040 한국인 커플 및 가족 / 최적 게시 시간: 평일 오후 6시~9시, 주말 오전 10시~12시 / 기대 반응: 높은 관심과 예약 문의 증가, 겨울 시즌 이벤트 관련 정보 공유 활발 / 이 콘텐츠의 강점: 독특한 겨울 이벤트와 온천을 결합하여 특별한 여행 경험 제공, 시즌성 강한 정보 제공",
+      "image": {
+        "keyword": "Risonare Atami, fireworks, Christmas, winter event, Japan, hot spring resort, candle making",
+        "unsplash_url": "https://unsplash.com/s/photos/Risonare-Atami,-fireworks,-Christmas,-winter-event,-Japan,-hot-spring-resort,-candle-making",
+        "pexels_url": "https://www.pexels.com/search/Risonare%20Atami,%20fireworks,%20Christmas,%20winter%20event,%20Japan,%20hot%20spring%20resort,%20candle%20making/"
+      }
+    },
+    {
+      "id": "plan_76cad3f1",
+      "created_at": "2026-10-20T01:50:10.631981",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ファミマ「スヌーピー」グッズ本日発売。“アメリカンダイナー”なホットドッグチャームやポテトバッグ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2149433.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "편의점 덕후들 주목! 스누피 신상 굿즈가 10월 20일 출시됩니다!"
+      },
+      "content": {
+        "thumbnail_title": "💖스누피 신상 굿즈💖",
+        "cards": [
+          {
+            "title": "스누피 굿즈 출시!",
+            "content": "10월 20일, 아메리칸 다이너 테마의 스누피 굿즈 3종이 일본 패밀리마트에서 출시됩니다.",
+            "alt_text": "아메리칸 다이너 테마의 스누피 굿즈 이미지"
+          },
+          {
+            "title": "핫도그 굿즈",
+            "content": "귀여운 핫도그 모양의 참과 앙증맞은 감자튀김 가방까지!",
+            "alt_text": "스누피 핫도그 모양 참 이미지"
+          },
+          {
+            "title": "다양한 굿즈",
+            "content": "총 3가지 종류의 굿즈가 발매될 예정이니, 취향에 맞는 상품을 골라보세요.",
+            "alt_text": "다양한 스누피 굿즈 일러스트"
+          },
+          {
+            "title": "패밀리마트",
+            "content": "일본 전역 패밀리마트에서 만나볼 수 있습니다. (점포별 취급 상품 상이)",
+            "alt_text": "패밀리마트 로고 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "여행 중 깜짝 선물이나 기념품으로 딱! 한정 수량일 수 있으니 서둘러 방문하세요.",
+            "alt_text": "일본 패밀리마트 매장 내부 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 코스! 패밀리마트에서 스누피 신상 굿즈를 만나보세요!💖 10월 20일, 아메리칸 다이너 테마의 귀여운 핫도그 참과 감자튀김 가방 등 3가지 굿즈가 출시됩니다. ✈️여행 중 득템 찬스! 놓치지 마세요! #일본여행 #패밀리마트 #스누피 #굿즈 #득템찬스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#패밀리마트",
+          "#스누피",
+          "#일본쇼핑",
+          "#일본굿즈",
+          "#편의점",
+          "#일본편의점",
+          "#여행필수템",
+          "#여행스타그램",
+          "#일본여행정보",
+          "#해외여행",
+          "#여행",
+          "#쇼핑",
+          "#기념품"
+        ],
+        "alt_texts": [
+          "아메리칸 다이너 테마의 스누피 굿즈 이미지",
+          "스누피 핫도그 모양 참 이미지",
+          "다양한 스누피 굿즈 일러스트",
+          "패밀리마트 로고 이미지",
+          "일본 패밀리마트 매장 내부 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 스누피 팬, 일본 편의점 쇼핑을 즐기는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 스누피 굿즈 구매 희망 댓글 / 이 콘텐츠의 강점: 최신 출시 정보, 실용적인 쇼핑 정보, 높은 팬덤의 캐릭터 활용",
+      "image": {
+        "keyword": "snoopy, family mart, american diner, hot dog charm, potato bag, japan convenience store, merchandise release",
+        "unsplash_url": "https://unsplash.com/s/photos/snoopy,-family-mart,-american-diner,-hot-dog-charm,-potato-bag,-japan-convenience-store,-merchandise-release",
+        "pexels_url": "https://www.pexels.com/search/snoopy,%20family%20mart,%20american%20diner,%20hot%20dog%20charm,%20potato%20bag,%20japan%20convenience%20store,%20merchandise%20release/"
+      }
+    },
     {
       "id": "plan_d7c242db",
       "created_at": "2026-10-19T04:28:03.829679",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen S0 series, Japan bullet train, next generation train, JR Central, Japan travel",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-S0-series,-Japan-bullet-train,-next-generation-train,-JR-Central,-Japan-travel",
         "pexels_url": "https://www.pexels.com/search/Shinkansen%20S0%20series,%20Japan%20bullet%20train,%20next%20generation%20train,%20JR%20Central,%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_ac074cbf",
-      "created_at": "2026-10-16T04:20:06.724353",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "北陸道、5つの料金所をETC専用化。11～12月に金沢森本IC・加賀IC・金沢東IC・小杉IC・白山IC",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148527.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 북부 고속도로 이용 시 미리 알아두면 좋은 ETC 전용화 정보!"
-      },
-      "content": {
-        "thumbnail_title": "北陸道 톨게이트 ETC만 톨게이트 🛣️",
-        "cards": [
-          {
-            "title": "ETC 전용화",
-            "content": "11월~12월 중 북부 고속도로 5곳의 톨게이트가 ETC 전용으로 전환됩니다.",
-            "alt_text": "북부 고속도로 톨게이트 안내 이미지"
-          },
-          {
-            "title": "해당 구간",
-            "content": "금沢森本IC, 加賀IC, 金沢東IC, 小杉IC, 白山IC가 해당됩니다.",
-            "alt_text": "일본 북부 고속도로 지도에 해당 구간 표시"
-          },
-          {
-            "title": "전환 시기",
-            "content": "11월과 12월에 걸쳐 순차적으로 변경될 예정입니다.",
-            "alt_text": "달력 이미지에 11월, 12월 표시"
-          },
-          {
-            "title": "ETC 미소지 시",
-            "content": "ETC 카드가 없거나 장치에 문제가 있을 경우 통행이 불가능합니다.",
-            "alt_text": "ETC 카드 이미지와 X 표시"
-          },
-          {
-            "title": "이용 팁",
-            "content": "일본 북부 지역 여행 시, 특히 렌터카 이용 예정이라면 ETC 장착 및 카드 유무를 꼭 확인하세요!",
-            "alt_text": "렌터카와 ETC 카드 들고 있는 모습"
-          }
-        ],
-        "caption": "일본 북부 고속도로 이용 예정이라면 주목! 📢\n11월~12월, 북부 고속도로 5개 톨게이트가 ETC 전용으로 바뀝니다.\n금沢森本IC, 加賀IC, 金沢東IC, 小杉IC, 白山IC 구간이 해당되니, 렌터카 이용 시 ETC 카드와 장치 상태를 미리 점검하세요! 🚗💨\n\n#일본여행 #일본렌터카 #북부고속도로 #ETC #교통정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#일본렌터카",
-          "#북부고속도로",
-          "#ETC",
-          "#일본드라이브",
-          "#여행꿀팁",
-          "#일본정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#자유여행",
-          "#여행준비",
-          "#일본여행팁"
-        ],
-        "alt_texts": [
-          "북부 고속도로 톨게이트 안내 이미지",
-          "일본 북부 고속도로 지도에 해당 구간 표시",
-          "달력 이미지에 11월, 12월 표시",
-          "ETC 카드 이미지와 X 표시",
-          "렌터카와 ETC 카드 들고 있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 북부 지역 렌터카 이용 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 정보 습득 및 공유 / 이 콘텐츠의 강점: 실질적인 운전 정보 제공",
-      "image": {
-        "keyword": "japan highway ETC lane",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-highway-ETC-lane",
-        "pexels_url": "https://www.pexels.com/search/japan%20highway%20ETC%20lane/"
-      }
-    },
-    {
-      "id": "plan_5aaf0207",
-      "created_at": "2026-10-16T04:20:00.763482",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、国内線航空券タイムセール。羽田～福岡/長崎/熊本は片道1万1000円～、12～3月搭乗分",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148705.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 국내선 특가로 일본 알뜰 여행 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "ANA 초특가 ✈️ 1만1천원부터!",
-        "cards": [
-          {
-            "title": "ANA 타임세일",
-            "content": "ANA가 국내선 항공권 타임세일을 10월 16일 0시부터 22일 23시 59분까지 진행합니다. ✈️",
-            "alt_text": "ANA 항공권 타임세일 배너 이미지"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "타임세일 대상 탑승 기간은 2024년 12월 1일부터 2025년 3월 27일까지입니다. 🗓️",
-            "alt_text": "달력에 12월 1일부터 3월 27일까지 표시된 이미지"
-          },
-          {
-            "title": "주요 노선 특가",
-            "content": "도쿄(하네다) 출발 후쿠오카/나가사키/구마모토행 편도 항공권이 11,000엔부터 시작합니다. 💴",
-            "alt_text": "일본 지도에 후쿠오카, 나가사키, 구마모토 지역 표시 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "연말연시 및 겨울 시즌 일본 여행을 계획 중이라면 이번 기회를 꼭 잡으세요! 🎁",
-            "alt_text": "겨울 느낌의 일본 풍경 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 노선은 조기 마감될 수 있으니, 관심 있다면 세일 시작 시간에 맞춰 바로 확인하는 것을 추천해요! ⏰",
-            "alt_text": "알람 시계 이미지"
-          }
-        ],
-        "caption": "ANA 국내선 특가 항공권 타임세일 소식! ✈️\n\n10월 16일부터 22일까지 진행되는 이번 세일 기간 동안, 12월 1일부터 내년 3월 27일까지 탑승 가능한 항공권을 파격적인 가격에 만나보세요!\n\n특히 도쿄(하네다) 출발 후쿠오카, 나가사키, 구마모토행 노선은 편도 11,000엔부터 시작한다고 해요. 💴\n\n연말연시나 겨울 시즌 일본 여행을 저렴하게 계획할 수 있는 절호의 찬스! 놓치지 말고 flyingjapan과 함께 알뜰하게 떠나요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#항공권특가",
-          "#일본항공권",
-          "#ANA타임세일",
-          "#일본알뜰여행",
-          "#후쿠오카여행",
-          "#나가사키여행",
-          "#구마모토여행",
-          "#도쿄여행",
-          "#겨울여행",
-          "#연말여행",
-          "#여행꿀팁",
-          "#항공권할인"
-        ],
-        "alt_texts": [
-          "ANA 항공권 타임세일 배너 이미지",
-          "달력에 12월 1일부터 3월 27일까지 표시된 이미지",
-          "일본 지도에 후쿠오카, 나가사키, 구마모토 지역 표시 이미지",
-          "겨울 느낌의 일본 풍경 이미지",
-          "알람 시계 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 저렴하게 계획하고 싶은 20-30대 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 항공권 특가 정보에 대한 높은 관심과 공유 / 이 콘텐츠의 강점: 구체적인 가격, 기간, 노선 정보를 포함하여 실질적인 여행 계획에 바로 적용 가능한 정보 제공",
-      "image": {
-        "keyword": "ANA domestic flight sale, Japan travel, discount airline tickets, Tokyo to Fukuoka, winter travel deals",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-domestic-flight-sale,-Japan-travel,-discount-airline-tickets,-Tokyo-to-Fukuoka,-winter-travel-deals",
-        "pexels_url": "https://www.pexels.com/search/ANA%20domestic%20flight%20sale,%20Japan%20travel,%20discount%20airline%20tickets,%20Tokyo%20to%20Fukuoka,%20winter%20travel%20deals/"
       }
     }
   ]
