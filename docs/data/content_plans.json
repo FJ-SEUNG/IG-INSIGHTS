@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-21T04:31:04.728139",
+  "last_updated": "2026-10-22T01:31:57.034321",
   "plans": [
+    {
+      "id": "plan_966b0ba2",
+      "created_at": "2026-10-22T01:31:55.034156",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "富士急ハイランド隣接ホテルに「すみっコぐらしルーム」2室オープン。たぴおか探しのミッションで限定カードキープレゼント",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2149963.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후지큐 하이랜드 여행 시 꼭 가봐야 할 '스밋코구라시' 테마 객실 오픈!"
+      },
+      "content": {
+        "thumbnail_title": "스밋코구라시 룸 OPEN! 🌟",
+        "cards": [
+          {
+            "title": "신규 테마룸",
+            "content": "후지큐 하이랜드 옆 '하이랜드 리조트 호텔 & 스파'에 '스밋코구라시' 테마 객실 2개가 11월 28일 오픈합니다. 객실에는 귀여운 스밋코구라시 캐릭터들로 꾸며져 특별한 경험을 선사합니다.",
+            "alt_text": "스밋코구라시 테마 객실 내부 이미지"
+          },
+          {
+            "title": "예약 시작일",
+            "content": "객실 예약은 10월 28일 오후 12시부터 공식 홈페이지에서 시작됩니다. 인기 테마 객실이니 서둘러 예약하세요!",
+            "alt_text": "컴퓨터 화면으로 호텔 예약 페이지를 보고 있는 손 이미지"
+          },
+          {
+            "title": "특별 미션",
+            "content": "객실 내에서 '타피오카 찾기' 미션을 완료하면, 오직 이 객실에서만 얻을 수 있는 한정 카드 키를 선물로 증정합니다. 잊지 못할 추억을 만들어 보세요.",
+            "alt_text": "스밋코구라시 캐릭터와 카드 키 이미지"
+          },
+          {
+            "title": "후지큐 하이랜드",
+            "content": "일본 최대 규모의 놀이공원인 후지큐 하이랜드는 짜릿한 어트랙션과 함께 후지산의 아름다운 전망을 자랑합니다. 스밋코구라시 테마룸과 함께 완벽한 여행을 계획해 보세요.",
+            "alt_text": "후지큐 하이랜드 전경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "스밋코구라시 팬이라면 이번 기회를 놓치지 마세요! 객실 예약 전, 공식 홈페이지에서 객실 사진과 상세 정보를 미리 확인하는 것을 추천합니다. 11월 28일 이후 방문 예정이라면 꼭 참고하세요.",
+            "alt_text": "스밋코구라시 캐릭터가 그려진 굿즈 이미지"
+          }
+        ],
+        "caption": "후지큐 하이랜드 여행 계획 중이신가요? 🤩\n귀여운 스밋코구라시 테마 객실이 11월 28일 오픈합니다! 🧸\n10월 28일 오후 12시부터 예약 시작이니 서둘러주세요!\n객실 내 특별 미션으로 한정 카드 키도 받을 수 있다는 사실! ✨\n#스밋코구라시 #후지큐하이랜드 #일본숙소 #테마객실",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스밋코구라시",
+          "#후지큐하이랜드",
+          "#일본숙소",
+          "#테마객실",
+          "#일본호텔",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#일본어린이",
+          "#아이와일본여행",
+          "#일본테마파크",
+          "#일본여행정보",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "스밋코구라시 테마 객실 내부 이미지",
+          "컴퓨터 화면으로 호텔 예약 페이지를 보고 있는 손 이미지",
+          "스밋코구라시 캐릭터와 카드 키 이미지",
+          "후지큐 하이랜드 전경 이미지",
+          "스밋코구라시 캐릭터가 그려진 굿즈 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 후지큐 하이랜드 방문 예정인 가족 여행객, 스밋코구라시 팬 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 예약 관심도, 정보 공유 및 저장 / 이 콘텐츠의 강점: 최신 오픈 정보, 한정판 굿즈 제공, 특정 연령층의 높은 관심 유도",
+      "image": {
+        "keyword": "Sumikko Gurashi themed hotel room, Fujikyu Highland Resort Hotel & Spa, Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Sumikko-Gurashi-themed-hotel-room,-Fujikyu-Highland-Resort-Hotel-&-Spa,-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/Sumikko%20Gurashi%20themed%20hotel%20room,%20Fujikyu%20Highland%20Resort%20Hotel%20&%20Spa,%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_08d7b210",
+      "created_at": "2026-10-22T01:31:50.057746",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "京都・河原町でグローバル旗艦店「ユニクロ 京都」を11月6日リニューアル。リバティ限定商品や京都ゆかりの刺繍も",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2149982.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토에서 유니클로 쇼핑 찬스! 리뉴얼 오픈 소식 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨유니클로 교토✨ 리뉴얼 오픈!",
+        "cards": [
+          {
+            "title": "리뉴얼 오픈!",
+            "content": "글로벌 플래그십 스토어 '유니클로 교토'가 11월 6일, 새롭게 리뉴얼 오픈합니다.",
+            "alt_text": "유니클로 교토 매장 외관 이미지"
+          },
+          {
+            "title": "위치 확인!",
+            "content": "교토부 교토시 나카교구 가와라마치도리 산조사루루 다이코쿠초 58 미나 교토 B1층~3층에서 만나요.",
+            "alt_text": "교토 시내 지도에 유니클로 교토 위치 표시"
+          },
+          {
+            "title": "한정 상품!",
+            "content": "리버티 한정 상품과 교토를 테마로 한 특별한 자수가 포함된 상품들을 만나볼 수 있어요.",
+            "alt_text": "리버티 패턴 의류와 교토 테마 자수 이미지"
+          },
+          {
+            "title": "쇼핑 찬스!",
+            "content": "교토 여행 중 꼭 들러야 할 쇼핑 스팟, 유니클로에서 특별한 아이템을 득템하세요!",
+            "alt_text": "다양한 유니클로 상품이 진열된 매장 내부 이미지"
+          },
+          {
+            "title": "방문 팁!",
+            "content": "새로운 유니클로 교토에서만 만날 수 있는 한정 상품들을 놓치지 마세요. 오픈 첫날은 사람이 많을 수 있으니 참고하세요!",
+            "alt_text": "쇼핑백을 들고 즐거워하는 여행객 이미지"
+          }
+        ],
+        "caption": "🇯🇵 교토 여행 필수 코스! 유니클로 교토가 11월 6일, 글로벌 플래그십 스토어로 새롭게 리뉴얼 오픈했어요!\n\n✨ 리버티 한정 상품과 교토 테마 자수 상품까지! ✨\n\n교토 여행 중 특별한 쇼핑을 원한다면 놓치지 마세요!\n\n#일본여행 #교토 #유니클로 #쇼핑 #리뉴얼오픈 #교토쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토",
+          "#유니클로",
+          "#유니클로교토",
+          "#일본쇼핑",
+          "#교토여행",
+          "#여행꿀팁",
+          "#쇼핑정보",
+          "#일본신상",
+          "#해외여행",
+          "#가을여행",
+          "#겨울여행",
+          "#여행준비",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "유니클로 교토 매장 외관 이미지",
+          "교토 시내 지도에 유니클로 교토 위치 표시",
+          "리버티 패턴 의류와 교토 테마 자수 이미지",
+          "다양한 유니클로 상품이 진열된 매장 내부 이미지",
+          "쇼핑백을 들고 즐거워하는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 교토 여행 예정인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 습득 및 공유, 쇼핑 계획 반영 / 이 콘텐츠의 강점: 시기적절한 신규 매장 오픈 정보, 한정 상품에 대한 기대감 고조",
+      "image": {
+        "keyword": "Uniqlo Kyoto flagship store renovation opening, Kyoto shopping, Liberty limited edition, embroidered goods",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Kyoto-flagship-store-renovation-opening,-Kyoto-shopping,-Liberty-limited-edition,-embroidered-goods",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Kyoto%20flagship%20store%20renovation%20opening,%20Kyoto%20shopping,%20Liberty%20limited%20edition,%20embroidered%20goods/"
+      }
+    },
     {
       "id": "plan_8f397f01",
       "created_at": "2026-10-21T04:31:02.727938",
@@ -923,160 +1077,6 @@
         "keyword": "ANA Chiikawa Jet, Haneda Airport departure, Japanese popular character airplane",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-Chiikawa-Jet,-Haneda-Airport-departure,-Japanese-popular-character-airplane",
         "pexels_url": "https://www.pexels.com/search/ANA%20Chiikawa%20Jet,%20Haneda%20Airport%20departure,%20Japanese%20popular%20character%20airplane/"
-      }
-    },
-    {
-      "id": "plan_ed6600f4",
-      "created_at": "2026-10-18T04:18:27.136962",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "キャセイパシフィック航空、日本路線を最大週157往復運航　冬スケジュール計画",
-        "url": "https://www.traicy.com/posts/20261017383160/",
-        "date": "Sat, 17 Oct 2026 03:45:08 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 시즌 일본 항공편 증편 정보, 미리 준비하면 알뜰하게!"
-      },
-      "content": {
-        "thumbnail_title": "✈️겨울 일본행 157편 증편!",
-        "cards": [
-          {
-            "title": "캐세이패시픽",
-            "content": "겨울 스케줄 기간, 캐세이패시픽이 일본 노선을 주 최대 157회 운항합니다. 겨울 시즌 일본 여행 계획이라면 주목하세요!",
-            "alt_text": "캐세이패시픽 항공기 이미지"
-          },
-          {
-            "title": "주요 노선",
-            "content": "도쿄(나리타)·오사카(간사이)↔홍콩 노선은 매일 5회, 후쿠오카↔홍콩 노선은 매주 17회 운항됩니다.",
-            "alt_text": "일본 주요 도시 지도 이미지"
-          },
-          {
-            "title": "추가 노선",
-            "content": "도쿄(하네다)·나고야(주부)↔홍콩 노선은 매일 2회 운항합니다. 놓치지 마세요!",
-            "alt_text": "항공기 운항 노선도 이미지"
-          },
-          {
-            "title": "인천/김포",
-            "content": "아직 미정인 인천/김포 출발 노선 정보도 곧 업데이트될 예정이니, 계속 플라잉재팬을 지켜봐 주세요!",
-            "alt_text": "인천 국제공항 전경 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "겨울 시즌 항공권은 미리 예약할수록 저렴합니다. 노선별 운항 횟수를 확인하고 최적의 항공권을 찾아보세요!",
-            "alt_text": "달력과 비행기 아이콘 이미지"
-          }
-        ],
-        "caption": "✈️겨울 시즌 일본 항공편 대폭 증편 소식! 캐세이패시픽이 겨울 스케줄 기간, 일본 노선을 주 최대 157회 운항합니다.\n\n✨도쿄(나리타)·오사카(간사이)↔홍콩: 매일 5회\n✨후쿠오카↔홍콩: 매주 17회\n✨도쿄(하네다)·나고야(주부)↔홍콩: 매일 2회\n\n인천/김포 출발 노선도 곧 업데이트 예정이니, 겨울 일본 여행 계획은 플라잉재팬과 함께 꼼꼼하게 세워보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공권",
-          "#캐세이패시픽",
-          "#겨울일본여행",
-          "#일본항공",
-          "#도쿄여행",
-          "#오사카여행",
-          "#후쿠오카여행",
-          "#나고야여행",
-          "#일본여행준비",
-          "#항공권특가",
-          "#여행정보",
-          "#일본",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "캐세이패시픽 항공기 이미지",
-          "일본 주요 도시 지도 이미지",
-          "항공기 운항 노선도 이미지",
-          "인천 국제공항 전경 이미지",
-          "달력과 비행기 아이콘 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 겨울 시즌 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 항공권 정보에 대한 높은 관심 및 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 운항 횟수와 노선 정보 제공으로 실질적인 도움 제공",
-      "image": {
-        "keyword": "Cathay Pacific, Japan route, winter schedule",
-        "unsplash_url": "https://unsplash.com/s/photos/Cathay-Pacific,-Japan-route,-winter-schedule",
-        "pexels_url": "https://www.pexels.com/search/Cathay%20Pacific,%20Japan%20route,%20winter%20schedule/"
-      }
-    },
-    {
-      "id": "plan_4509beb3",
-      "created_at": "2026-10-18T04:18:22.085993",
-      "category": "breaking",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JAL、羽田空港T1南ウイングのファーストクラス・JGC専用カウンターをリニューアルオープン",
-        "url": "https://www.traicy.com/posts/20261017385027/",
-        "date": "Sat, 17 Oct 2026 09:15:36 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행, JAL 이용 시 놓치면 안 될 공항 카운터 리뉴얼 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ JAL 하네다 공항 T1 카운터 리뉴얼!",
-        "cards": [
-          {
-            "title": "JAL 카운터 리뉴얼",
-            "content": "일본항공(JAL)이 하네다 공항 제1터미널 남쪽 윙의 퍼스트 클래스와 JGC 전용 카운터가 2023년 10월 15일부로 새롭게 오픈했습니다. 여행의 시작을 더욱 편안하게 즐겨보세요.",
-            "alt_text": "JAL 하네다 공항 제1터미널 남쪽 윙의 퍼스트 클래스 및 JGC 전용 카운터 리뉴얼 오픈"
-          },
-          {
-            "title": "이용 대상",
-            "content": "이번 리뉴얼은 JAL 퍼스트 클래스 탑승객과 JAL 글로벌 클럽(JGC) 회원분들을 대상으로 합니다. 해당되시는 분들은 더욱 빠르고 편리한 출국 수속을 경험하실 수 있습니다.",
-            "alt_text": "JAL 퍼스트 클래스 탑승객 및 JAL 글로벌 클럽(JGC) 회원 대상"
-          },
-          {
-            "title": "공사 기간",
-            "content": "리뉴얼 공사 기간 동안에도 기존 카운터는 폐쇄되지 않고 운영되었습니다. 따라서 이용에 불편함 없이 새롭게 단장된 카운터를 이용하실 수 있습니다.",
-            "alt_text": "공사 중에도 기존 카운터는 계속 운영됨"
-          },
-          {
-            "title": "하네다 공항",
-            "content": "하네다 공항은 도쿄 시내와 접근성이 뛰어나 일본 여행을 시작하기에 매우 편리한 공항입니다. JAL을 이용하신다면 리뉴얼된 카운터를 통해 더욱 쾌적한 경험을 기대할 수 있습니다.",
-            "alt_text": "도쿄 시내 접근성이 좋은 하네다 공항"
-          },
-          {
-            "title": "꿀팁",
-            "content": "JAL 퍼스트 클래스 또는 JGC 회원이라면, 하네다 공항 도착 후 리뉴얼된 전용 카운터를 먼저 방문하여 여유롭게 출국 준비를 하시는 것을 추천합니다. 시간 절약은 물론, 편안한 여행의 시작이 될 거예요!",
-            "alt_text": "JAL 퍼스트 클래스/JGC 회원, 리뉴얼 카운터 이용 팁"
-          }
-        ],
-        "caption": "✈️ JAL 이용객 주목! 하네다 공항 T1 퍼스트 클래스 & JGC 전용 카운터가 10월 15일부로 새롭게 오픈했어요! 🤩\n\n기존 카운터 폐쇄 없이 공사를 진행해서 이용에 불편함이 없었답니다. JAL 퍼스트 클래스 또는 JGC 회원이라면, 더욱 빠르고 쾌적하게 출국 수속을 마치고 편안한 여행을 시작하세요! ✨\n\n일본 여행, 더욱 스마트하게 준비하는 @flyingjapan 과 함께하세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#하네다공항",
-          "#도쿄여행",
-          "#공항정보",
-          "#여행꿀팁",
-          "#JGC",
-          "#퍼스트클래스",
-          "#일본출장",
-          "#여행준비",
-          "#공항카운터",
-          "#일본",
-          "#항공사"
-        ],
-        "alt_texts": [
-          "JAL 하네다 공항 제1터미널 남쪽 윙의 퍼스트 클래스 및 JGC 전용 카운터 리뉴얼 오픈",
-          "JAL 퍼스트 클래스 탑승객 및 JAL 글로벌 클럽(JGC) 회원 대상",
-          "공사 중에도 기존 카운터는 계속 운영됨",
-          "도쿄 시내 접근성이 좋은 하네다 공항",
-          "JAL 퍼스트 클래스/JGC 회원, 리뉴얼 카운터 이용 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 이용 예정인 한국인 여행객 (특히 비즈니스/퍼스트 클래스, JGC 회원) / 최적 게시 시간: 평일 오전 9-11시 또는 오후 6-8시 / 기대 반응: 정보 습득 및 공감, JAL 이용 시 참고 / 이 콘텐츠의 강점: 구체적인 날짜와 장소 명시, 이용 대상 명확화, 실제 여행객에게 직접적인 도움 제공",
-      "image": {
-        "keyword": "JAL Haneda Airport Terminal 1 South Wing First Class JGC exclusive counter renovation",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Haneda-Airport-Terminal-1-South-Wing-First-Class-JGC-exclusive-counter-renovation",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Haneda%20Airport%20Terminal%201%20South%20Wing%20First%20Class%20JGC%20exclusive%20counter%20renovation/"
       }
     }
   ]
