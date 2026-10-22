@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-22T01:31:57.034321",
+  "last_updated": "2026-10-22T04:29:43.975051",
   "plans": [
+    {
+      "id": "plan_b594964b",
+      "created_at": "2026-10-22T04:29:41.974893",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "免税品の不正転売を徹底防止へ。出国時に返金する新免税制度「リファンド方式」11月1日スタート",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150250.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 면세 쇼핑, 이제 출국 시 환급받으세요!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵 11/1부터 일본 면세 쇼핑 방식 변경!",
+        "cards": [
+          {
+            "title": "새 면세 제도",
+            "content": "2023년 11월 1일부터 일본 전역에 새로운 면세 제도 '리펀드 방식'이 도입됩니다. 기존에는 면세점에서 바로 할인받는 방식이었지만, 이제는 물품 구매 후 출국 시 세관에서 환급받는 방식으로 변경됩니다.",
+            "alt_text": "일본 면세점 쇼핑 영수증 이미지"
+          },
+          {
+            "title": "환급 절차",
+            "content": "면세점에서 물품 구매 시, 여권 제시 후 '소비세 면제' 또는 '리펀드' 절차를 진행합니다. 출국 시 공항 세관에 구매한 물품과 영수증을 제출하면 소비세를 돌려받을 수 있습니다.",
+            "alt_text": "일본 공항 세관에서 환급받는 모습 이미지"
+          },
+          {
+            "title": "쇼핑객 영향",
+            "content": "이 제도는 면세품의 부정 전매를 막기 위해 도입되었습니다. 여행객은 면세 혜택을 받기 위해 구매한 물품을 반드시 소지하고 출국해야 합니다. 일부 면세점에서는 추가적인 서류 작업이 필요할 수 있습니다.",
+            "alt_text": "여권을 들고 면세 쇼핑하는 사람 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "면세품을 위탁 수하물로 부치기 전에 세관 신고를 완료해야 합니다. 기내 반입 물품은 출국 심사 후 면세 구역에서 신고 및 환급이 가능합니다. 구매한 물품의 총액은 5,000엔 이상이어야 합니다.",
+            "alt_text": "일본 면세점 영수증과 여권 이미지"
+          },
+          {
+            "title": "미리 확인!",
+            "content": "자신이 이용할 면세점의 구체적인 환급 절차와 필요 서류를 미리 확인하는 것이 좋습니다. 특히, 여러 면세점에서 구매했을 경우 각 영수증을 잘 챙겨야 합니다.",
+            "alt_text": "일본 면세점 안내 표지판 이미지"
+          }
+        ],
+        "caption": "🇯🇵 11월 1일부터 일본 면세 쇼핑 방식이 달라져요!\n\n기존 면세점 즉시 할인 방식에서, 출국 시 공항에서 소비세를 환급받는 '리펀드 방식'으로 변경됩니다.\n\n✅ 면세품 구매 후 출국 시 세관에 물품 및 영수증 제출\n✅ 부정 전매 방지 목적, 구매 물품 소지 필수\n✅ 총 구매액 5,000엔 이상일 경우 적용\n\n일본 여행 계획 중이라면 꼭 알아두세요! ✈️\n\n#일본여행 #일본쇼핑 #면세쇼핑 #리펀드방식 #일본면세 #여행꿀팁 #플라잉재팬 #일본정보 #쇼핑정보 #해외여행 #여행스타그램 #일본생활 #일본소식 #여행준비 #필수정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#면세쇼핑",
+          "#리펀드방식",
+          "#일본면세",
+          "#여행꿀팁",
+          "#일본정보",
+          "#쇼핑정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본생활",
+          "#일본소식",
+          "#여행준비",
+          "#필수정보"
+        ],
+        "alt_texts": [
+          "일본 면세점 쇼핑 영수증 이미지",
+          "일본 공항 세관에서 환급받는 모습 이미지",
+          "여권을 들고 면세 쇼핑하는 사람 이미지",
+          "일본 면세점 영수증과 여권 이미지",
+          "일본 면세점 안내 표지판 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 정보 유용성, 신속성, 댓글 문의 / 이 콘텐츠의 강점: 최신 정책 변경 사항을 구체적인 절차와 함께 안내하여 실질적인 도움 제공",
+      "image": {
+        "keyword": "Japan duty-free refund system change",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-duty-free-refund-system-change",
+        "pexels_url": "https://www.pexels.com/search/Japan%20duty-free%20refund%20system%20change/"
+      }
+    },
+    {
+      "id": "plan_ca10882c",
+      "created_at": "2026-10-22T04:29:36.060324",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "星野リゾート、2027年は福井・嬉野・飛鳥と新規開業続く。「旅客税の値上げで増えた予算は国内観光にも充てるべき」と星野代表",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150287.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년 일본 여행 계획에 꼭 필요한 신규 호텔 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✈️2027년 일본 신규 호텔 3곳 OPEN!",
+        "cards": [
+          {
+            "title": "후쿠이 료칸",
+            "content": "2027년, 일본 후쿠이현에 새로운 호시노 리조트 료칸이 개장합니다. 일본 전통 온천 경험을 기대해도 좋습니다.",
+            "alt_text": "일본 후쿠이현의 아름다운 자연 풍경"
+          },
+          {
+            "title": "우레시노 온천",
+            "content": "사계절 아름다운 우레시노 온천 지역에도 새로운 호시노 리조트 시설이 2027년 문을 엽니다. 온천과 함께 힐링하세요.",
+            "alt_text": "김이 모락모락 나는 일본 온천"
+          },
+          {
+            "title": "아스카 지역",
+            "content": "고대 일본의 역사를 간직한 아스카 지역에도 2027년 신규 호시노 리조트가 선보입니다. 역사 탐방과 함께 특별한 숙박을 경험하세요.",
+            "alt_text": "일본 아스카 지역의 고풍스러운 유적지"
+          },
+          {
+            "title": "새로운 숙박 경험",
+            "content": "호시노 리조트의 새로운 3곳은 일본의 자연과 문화를 깊이 느낄 수 있는 특별한 숙박 경험을 제공할 예정입니다.",
+            "alt_text": "현대적이고 편안한 객실 내부 모습"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "2027년 일본 여행을 계획 중이라면, 이 새로운 숙소들의 오픈 소식을 꼭 기억하세요! 미리 예약하면 좋은 좌석을 확보할 수 있습니다.",
+            "alt_text": "일본 지도를 보며 여행 계획을 세우는 모습"
+          }
+        ],
+        "caption": "🇯🇵 2027년, 일본 여행이 더욱 풍성해집니다! \n호시노 리조트가 후쿠이, 우레시노, 아스카 지역에 총 3곳의 신규 시설을 오픈할 예정입니다. \n일본의 아름다운 자연과 깊은 역사를 만끽할 수 있는 새로운 숙소에서 잊지 못할 추억을 만들어 보세요. \n2027년 일본 여행 계획, 지금부터 시작해 보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본신규호텔",
+          "#호시노리조트",
+          "#후쿠이",
+          "#우레시노",
+          "#아스카",
+          "#일본숙소",
+          "#2027년일본여행",
+          "#일본온천",
+          "#일본료칸",
+          "#일본자유여행",
+          "#일본호텔",
+          "#여행정보",
+          "#일본여행준비"
+        ],
+        "alt_texts": [
+          "일본 후쿠이현의 아름다운 자연 풍경",
+          "김이 모락모락 나는 일본 온천",
+          "일본 아스카 지역의 고풍스러운 유적지",
+          "현대적이고 편안한 객실 내부 모습",
+          "일본 지도를 보며 여행 계획을 세우는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 2027년 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 높은 관심 및 정보 저장 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 지역 정보 제공",
+      "image": {
+        "keyword": "Japan new hotel opening, Hoshino Resorts, Fukui, Ureshino, Asuka, Japanese onsen, ryokan, travel planning",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-new-hotel-opening,-Hoshino-Resorts,-Fukui,-Ureshino,-Asuka,-Japanese-onsen,-ryokan,-travel-planning",
+        "pexels_url": "https://www.pexels.com/search/Japan%20new%20hotel%20opening,%20Hoshino%20Resorts,%20Fukui,%20Ureshino,%20Asuka,%20Japanese%20onsen,%20ryokan,%20travel%20planning/"
+      }
+    },
     {
       "id": "plan_966b0ba2",
       "created_at": "2026-10-22T01:31:55.034156",
@@ -923,160 +1077,6 @@
         "keyword": "Suica penguin OJICO collaboration sweatshirt hoodie Tokyo station Mitaka station Ueno Ecute limited edition merchandise",
         "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-OJICO-collaboration-sweatshirt-hoodie-Tokyo-station-Mitaka-station-Ueno-Ecute-limited-edition-merchandise",
         "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20OJICO%20collaboration%20sweatshirt%20hoodie%20Tokyo%20station%20Mitaka%20station%20Ueno%20Ecute%20limited%20edition%20merchandise/"
-      }
-    },
-    {
-      "id": "plan_d4d7347a",
-      "created_at": "2026-10-19T01:16:24.582875",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ニセコアンヌプリ国際スキー場至近に「Rakuten STAY ニセコ」開業。54平米の定員6名、打たせ湯付きシステムバス完備",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2148996.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 일본 여행, 니세코의 신축 숙소에서 특별한 추억 만들기!"
-      },
-      "content": {
-        "thumbnail_title": "❄️니세코 신상 숙소 오픈!❄️",
-        "cards": [
-          {
-            "title": "니세코 신규 오픈",
-            "content": "홋카이도 니세코에 'Rakuten STAY 니세코'가 10월 15일 문을 열었습니다. 니세코 안누푸리 국제 스키장과 매우 가깝습니다.",
-            "alt_text": "니세코 안누푸리 국제 스키장 전경"
-          },
-          {
-            "title": "객실 정보",
-            "content": "54제곱미터 넓이에 최대 6명까지 수용 가능한 객실입니다. 가족이나 친구들과 함께 편안하게 머물 수 있습니다.",
-            "alt_text": "넓고 깔끔한 객실 내부 모습"
-          },
-          {
-            "title": "욕실 편의시설",
-            "content": "물줄기가 위에서 떨어지는 듯한 느낌을 주는 '타세유(打たせ湯)'가 포함된 시스템 욕조가 완비되어 있습니다.",
-            "alt_text": "고급스러운 시스템 욕조 이미지"
-          },
-          {
-            "title": "위치",
-            "content": "주소는 홋카이도 虻田군 니세코초 소가 480-32입니다. 겨울 스포츠를 즐기기에 최적의 위치입니다.",
-            "alt_text": "니세코 지역 지도 표시"
-          },
-          {
-            "title": "예약 꿀팁",
-            "content": "겨울 성수기에는 예약이 빠르게 마감될 수 있으니, 미리 예약하시는 것을 추천합니다. 스키 시즌권과 함께 예약하면 더욱 좋습니다.",
-            "alt_text": "스키 장비와 눈 쌓인 풍경"
-          }
-        ],
-        "caption": "❄️홋카이도 니세코의 겨울을 만끽할 시간!❄️\n\n니세코 안누푸리 국제 스키장 바로 앞에 'Rakuten STAY 니세코'가 10월 15일 오픈했습니다. 최대 6명까지 묵을 수 있는 54㎡ 넓은 객실에, 특별한 '타세유'가 있는 시스템 욕조까지 갖춰져 있어 편안한 휴식을 보장해요.\n\n겨울 니세코 여행 계획 중이라면, 스키와 온천을 동시에 즐길 수 있는 이곳을 눈여겨보세요! 🏂♨️\n\n지금 바로 예약하고 잊지 못할 겨울 추억을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#니세코",
-          "#홋카이도",
-          "#일본숙소",
-          "#신축숙소",
-          "#겨울여행",
-          "#스키여행",
-          "#온천여행",
-          "#일본온천",
-          "#일본스키",
-          "#홋카이도여행",
-          "#니세코여행",
-          "#가족여행",
-          "#우정여행"
-        ],
-        "alt_texts": [
-          "니세코 안누푸리 국제 스키장 전경",
-          "넓고 깔끔한 객실 내부 모습",
-          "고급스러운 시스템 욕조 이미지",
-          "니세코 지역 지도 표시",
-          "스키 장비와 눈 쌓인 풍경"
-        ]
-      },
-      "marketer_analysis": "타겟: 겨울 시즌 일본 홋카이도 니세코 지역 방문 예정인 한국인 여행자 (스키, 온천, 신축 숙소 선호)\n최적 게시 시간: 오후 7시 ~ 9시 (여행 계획을 세우는 저녁 시간대)\n기대 반응: 숙소 정보에 대한 문의 증가, 예약 전환율 상승\n이 콘텐츠의 강점: 최신 오픈 정보, 구체적인 객실 및 편의시설 정보 제공, 겨울 시즌 여행의 매력 어필",
-      "image": {
-        "keyword": "Niseko, Japan, ski resort, new hotel, Hokkaido, winter travel, onsen, family room, modern interior",
-        "unsplash_url": "https://unsplash.com/s/photos/Niseko,-Japan,-ski-resort,-new-hotel,-Hokkaido,-winter-travel,-onsen,-family-room,-modern-interior",
-        "pexels_url": "https://www.pexels.com/search/Niseko,%20Japan,%20ski%20resort,%20new%20hotel,%20Hokkaido,%20winter%20travel,%20onsen,%20family%20room,%20modern%20interior/"
-      }
-    },
-    {
-      "id": "plan_c8749ee8",
-      "created_at": "2026-10-19T01:16:19.175192",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA「ちいかわジェット」羽田空港から出発！　ファンたちが初便お見送り、今後の運航路線は？",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149094.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "인기 캐릭터 '치이카와'와 함께하는 특별한 일본 여행!"
-      },
-      "content": {
-        "thumbnail_title": "✈️치이카와 제트 뜬다!",
-        "cards": [
-          {
-            "title": "운항 시작!",
-            "content": "ANA가 인기 캐릭터 '치이카와'와 협업한 특별 디자인 항공기, '치이카와 제트'의 첫 비행을 10월 19일에 시작했어요.",
-            "alt_text": "ANA의 치이카와 제트 항공기 이미지"
-          },
-          {
-            "title": "특별한 만남",
-            "content": "하네다 공항에서 팬들의 뜨거운 환영 속에 첫 비행을 마쳤습니다. 귀여운 캐릭터 디자인으로 여행의 설렘을 더할 거예요.",
-            "alt_text": "하네다 공항에서 치이카와 제트를 환영하는 팬들"
-          },
-          {
-            "title": "운항 노선은?",
-            "content": "현재 공개된 정보에 따르면, '치이카와 제트'는 도쿄 하네다 공항을 출발하여 다양한 국내선 노선을 운항할 예정입니다.",
-            "alt_text": "치이카와 제트가 운항할 예정인 일본 지도"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "정확한 운항 스케줄과 노선은 ANA 공식 홈페이지에서 확인 가능하며, 팬이라면 꼭 한번 경험해 볼 만한 특별한 기회입니다.",
-            "alt_text": "ANA 공식 홈페이지에서 치이카와 제트 정보 확인하는 모습"
-          },
-          {
-            "title": "팁!",
-            "content": "특별 항공기 탑승은 예약이 조기 마감될 수 있으니, 여행 계획 시 미리 확인하고 예매하는 것이 좋습니다. 기념품 샵도 놓치지 마세요!",
-            "alt_text": "치이카와 제트 기념품 이미지"
-          }
-        ],
-        "caption": "🇯🇵 ANA '치이카와 제트'가 드디어 날아올랐어요! ✈️\n10월 19일, 하네다 공항에서 첫 비행을 시작한 특별 디자인 항공기!\n귀여운 치이카와 캐릭터와 함께하는 특별한 일본 여행, 상상만 해도 설레지 않나요?\n현재 국내선 노선 위주로 운항 예정이며, 자세한 스케줄은 ANA 공식 홈페이지에서 확인하세요!\n\n#일본여행 #ANA #치이카와 #특별한경험 #일본항공",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#치이카와",
-          "#치이카와제트",
-          "#일본항공",
-          "#특별한여행",
-          "#여행스타그램",
-          "#일본",
-          "#일본이벤트",
-          "#캐릭터항공기",
-          "#하네다공항",
-          "#여행정보",
-          "#일본국내선",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "ANA의 치이카와 제트 항공기 이미지",
-          "하네다 공항에서 치이카와 제트를 환영하는 팬들",
-          "치이카와 제트가 운항할 예정인 일본 지도",
-          "ANA 공식 홈페이지에서 치이카와 제트 정보 확인하는 모습",
-          "치이카와 제트 기념품 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인, 치이카와 팬 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 실제 탑승 문의 / 이 콘텐츠의 강점: 최신 항공 정보와 인기 캐릭터 결합, 희소성 강조",
-      "image": {
-        "keyword": "ANA Chiikawa Jet, Haneda Airport departure, Japanese popular character airplane",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-Chiikawa-Jet,-Haneda-Airport-departure,-Japanese-popular-character-airplane",
-        "pexels_url": "https://www.pexels.com/search/ANA%20Chiikawa%20Jet,%20Haneda%20Airport%20departure,%20Japanese%20popular%20character%20airplane/"
       }
     }
   ]
