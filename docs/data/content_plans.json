@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-23T01:31:15.645712",
+  "last_updated": "2026-10-23T04:35:09.706092",
   "plans": [
+    {
+      "id": "plan_12551757",
+      "created_at": "2026-10-23T04:35:07.705914",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "10月のANAにキュン！、国内旅行2万2000円・海外15万円の割引クーポン配布。ANA Mallは全商品5倍マイル付与",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150664.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA 항공권 할인 찬스! 10월 일본 여행 계획 중이라면 꼭 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ANA 10월 특가 찬스!✈️",
+        "cards": [
+          {
+            "title": "10월 'ANA에 큥!'",
+            "content": "ANA가 10월 한정으로 'ANA에 큥!' 캠페인을 진행해요. 10월 29일 진행될 내용이 일부 공개되었답니다.",
+            "alt_text": "ANA 항공기 이미지"
+          },
+          {
+            "title": "국내선/해외선 할인",
+            "content": "이번 캠페인을 통해 국내선은 2만 2천원, 해외선은 15만원 할인 쿠폰을 받을 수 있어요.",
+            "alt_text": "할인 쿠폰 이미지"
+          },
+          {
+            "title": "ANA Mall 혜택",
+            "content": "ANA Mall에서는 전 상품 5배 마일리지 적립 혜택까지 제공됩니다.",
+            "alt_text": "ANA Mall 로고 이미지"
+          },
+          {
+            "title": "할인 쿠폰 사용",
+            "content": "할인 쿠폰은 10월 29일 당일에 사용 가능하며, 특정 조건이 있을 수 있으니 상세 내용을 확인해야 해요.",
+            "alt_text": "달력 이미지"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "일본 여행을 계획 중이라면 ANA 공식 홈페이지에서 'ANA에 큥!' 캠페인 상세 내용을 꼭 확인하고, 원하는 날짜에 맞는 할인 쿠폰을 놓치지 마세요! 조기 소진될 수 있으니 서둘러야 해요.",
+            "alt_text": "여행 가방 이미지"
+          }
+        ],
+        "caption": "✈️ ANA 10월 특별 할인 찬스! ✈️\n일본 여행 준비 중이시라면 주목!\n10월 29일 'ANA에 큥!' 캠페인에서\n국내선 2만 2천원, 해외선 15만원 할인 쿠폰을 받을 수 있어요!\nANA Mall에서는 5배 마일리지 적립 혜택까지!\n\n지금 바로 ANA 공식 홈페이지에서 상세 내용을 확인하고 할인 혜택을 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#ANA항공",
+          "#일본항공권",
+          "#항공권할인",
+          "#ANA에큥",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#여행꿀팁",
+          "#가을여행",
+          "#일본",
+          "#여행",
+          "#할인정보",
+          "#ANAMall"
+        ],
+        "alt_texts": [
+          "ANA 항공기 이미지",
+          "할인 쿠폰 이미지",
+          "ANA Mall 로고 이미지",
+          "달력 이미지",
+          "여행 가방 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 할인 정보에 대한 높은 관심 및 문의 / 이 콘텐츠의 강점: 시기적절한 항공권 할인 정보 제공으로 즉각적인 여행 계획 유도",
+      "image": {
+        "keyword": "ANA airplane discount coupon Japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane-discount-coupon-Japan-travel",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airplane%20discount%20coupon%20Japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_a9f1f8d2",
+      "created_at": "2026-10-23T04:35:02.369471",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ルクア大阪の新館に「ちいかわパークストア」11月24日開業。店内イメージと取り扱い商品を先行公開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150694.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 여행 필수 코스! 인기 캐릭터 '치이카와' 팝업 스토어 오픈 정보"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 신상✨ 치이카와 파크 오픈!",
+        "cards": [
+          {
+            "title": "오픈일",
+            "content": "JR 오사카역 직결 루쿠아 오사카 신관 'LUCUA SOUTH' 11층에 '치이카와 파크 스토어'가 2023년 11월 24일 오픈합니다.",
+            "alt_text": "치이카와 파크 스토어 오픈 안내"
+          },
+          {
+            "title": "위치",
+            "content": "주소는 오사카부 오사카시 기타구 우메다 3-1-1이며, JR 오사카역에서 바로 연결되어 접근성이 매우 좋습니다.",
+            "alt_text": "오사카 루쿠아 사우스 위치"
+          },
+          {
+            "title": "주요 상품",
+            "content": "다양한 치이카와 캐릭터 상품을 만날 수 있으며, 일부 상품은 선행 공개되어 기대감을 높이고 있습니다.",
+            "alt_text": "치이카와 캐릭터 상품 이미지"
+          },
+          {
+            "title": "쇼핑 찬스",
+            "content": "일본 한정 상품이나 특별 기획 상품을 득템할 수 있는 기회, 놓치지 마세요!",
+            "alt_text": "일본 쇼핑 아이템"
+          },
+          {
+            "title": "꿀팁",
+            "content": "오픈 초기에는 많은 인파가 몰릴 수 있으니, 방문 전 영업시간 및 혼잡도를 미리 확인하는 것이 좋습니다.",
+            "alt_text": "여행 팁 아이콘"
+          }
+        ],
+        "caption": "💖 오사카 여행 필수 코스 등장! 💖\nJR 오사카역 직결 루쿠아 오사카 신관에 인기 캐릭터 '치이카와 파크 스토어'가 11월 24일 오픈합니다! 🤩\n다양한 치이카와 굿즈를 만나볼 수 있는 절호의 찬스! 🛍️\n오사카 방문 예정이라면 꼭 들러보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #오사카여행 #치이카와 #루쿠아오사카 #일본쇼핑 #오사카쇼핑 #캐릭터샵 #일본신상 #여행정보 #일본자유여행 #여행스타그램 #오사카가볼만한곳 #일본덕후 #치이카와파크스토어",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#치이카와",
+          "#루쿠아오사카",
+          "#일본쇼핑",
+          "#오사카쇼핑",
+          "#캐릭터샵",
+          "#일본신상",
+          "#여행정보",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#오사카가볼만한곳",
+          "#일본덕후",
+          "#치이카와파크스토어"
+        ],
+        "alt_texts": [
+          "치이카와 파크 스토어 오픈 안내",
+          "오사카 루쿠아 사우스 위치",
+          "치이카와 캐릭터 상품 이미지",
+          "일본 쇼핑 아이템",
+          "여행 팁 아이콘"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 방문 예약 문의 / 이 콘텐츠의 강점: 최신 오픈 정보, 인기 캐릭터 활용, 쇼핑 팁 제공",
+      "image": {
+        "keyword": "Chiikawa Park Store Osaka",
+        "unsplash_url": "https://unsplash.com/s/photos/Chiikawa-Park-Store-Osaka",
+        "pexels_url": "https://www.pexels.com/search/Chiikawa%20Park%20Store%20Osaka/"
+      }
+    },
     {
       "id": "plan_8b23afdc",
       "created_at": "2026-10-23T01:31:13.645529",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Bay Grand Fireworks Festival traffic control",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay-Grand-Fireworks-Festival-traffic-control",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay%20Grand%20Fireworks%20Festival%20traffic%20control/"
-      }
-    },
-    {
-      "id": "plan_12519d02",
-      "created_at": "2026-10-20T01:50:16.207969",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "リゾナーレ熱海、宿泊者限定の冬季イベント「花火クリスマス」。花火玉キャンドルホルダー作りや点灯式に参加",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149430.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 한정! 일본 온천 리조트에서 즐기는 특별한 불꽃 축제!"
-      },
-      "content": {
-        "thumbnail_title": "✨열정 ♨️불꽃 크리스마스✨",
-        "cards": [
-          {
-            "title": "겨울 한정 이벤트",
-            "content": "별장지 리조트 '리조나레 아타미'에서 12월 1일부터 25일까지 '불꽃 크리스마스' 이벤트를 개최합니다. 숙박객만 참여 가능한 특별한 겨울 축제입니다.",
-            "alt_text": "리조나레 아타미 호텔 외관 전경"
-          },
-          {
-            "title": "직접 만드는 즐거움",
-            "content": "이벤트 기간 동안 '불꽃 구슬 캔들 홀더 만들기' 체험에 참여할 수 있습니다. 나만의 특별한 기념품을 만들어보세요.",
-            "alt_text": "불꽃 구슬 캔들 홀더 만들기 체험 모습"
-          },
-          {
-            "title": "화려한 점등식",
-            "content": "매일 저녁 진행되는 점등식에서는 아름다운 불꽃들이 겨울밤을 수놓습니다. 로맨틱한 분위기를 만끽할 수 있습니다.",
-            "alt_text": "불꽃 크리스마스 점등식 풍경"
-          },
-          {
-            "title": "아타미 온천",
-            "content": "이벤트와 함께 아름다운 해변 도시 아타미의 온천을 즐길 수 있습니다. 겨울철 특별한 휴가를 계획해보세요.",
-            "alt_text": "아타미 해변과 온천 리조트 전경"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "이벤트는 숙박객 전용이므로, 참여를 원하시면 반드시 리조나레 아타미 숙박 예약을 미리 하셔야 합니다. 자세한 일정은 호텔 공식 홈페이지를 확인하세요.",
-            "alt_text": "리조나레 아타미 호텔 예약 정보 확인 안내"
-          }
-        ],
-        "caption": "🇯🇵 겨울 일본 여행, 특별한 추억을 만들고 싶다면? ♨️ \n\n별장지 리조트 '리조나레 아타미'에서 12월 1일부터 25일까지 '불꽃 크리스마스' 이벤트를 개최합니다! ✨\n\n숙박객만 참여 가능한 '불꽃 구슬 캔들 홀더 만들기' 체험과 화려한 점등식으로 잊지 못할 겨울밤을 선사할 거예요. 🎄\n\n온천과 함께 즐기는 겨울 로맨스, 지금 바로 예약하세요! 💖\n\n#리조나레아타미 #불꽃크리스마스 #아타미온천 #일본겨울여행 #겨울이벤트 #일본숙소 #온천여행 #료칸추천 #플라잉재팬 #일본여행정보 #여행스타그램 #겨울축제 #크리스마스여행 #일본온천 #힐링여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#리조나레아타미",
-          "#불꽃크리스마스",
-          "#아타미온천",
-          "#일본겨울여행",
-          "#겨울이벤트",
-          "#일본숙소",
-          "#온천여행",
-          "#료칸추천",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#겨울축제",
-          "#크리스마스여행",
-          "#일본온천"
-        ],
-        "alt_texts": [
-          "리조나레 아타미 호텔 외관 전경",
-          "불꽃 구슬 캔들 홀더 만들기 체험 모습",
-          "불꽃 크리스마스 점등식 풍경",
-          "아타미 해변과 온천 리조트 전경",
-          "리조나레 아타미 호텔 예약 정보 확인 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 겨울 시즌 일본 온천 여행을 계획 중인 2040 한국인 커플 및 가족 / 최적 게시 시간: 평일 오후 6시~9시, 주말 오전 10시~12시 / 기대 반응: 높은 관심과 예약 문의 증가, 겨울 시즌 이벤트 관련 정보 공유 활발 / 이 콘텐츠의 강점: 독특한 겨울 이벤트와 온천을 결합하여 특별한 여행 경험 제공, 시즌성 강한 정보 제공",
-      "image": {
-        "keyword": "Risonare Atami, fireworks, Christmas, winter event, Japan, hot spring resort, candle making",
-        "unsplash_url": "https://unsplash.com/s/photos/Risonare-Atami,-fireworks,-Christmas,-winter-event,-Japan,-hot-spring-resort,-candle-making",
-        "pexels_url": "https://www.pexels.com/search/Risonare%20Atami,%20fireworks,%20Christmas,%20winter%20event,%20Japan,%20hot%20spring%20resort,%20candle%20making/"
-      }
-    },
-    {
-      "id": "plan_76cad3f1",
-      "created_at": "2026-10-20T01:50:10.631981",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ファミマ「スヌーピー」グッズ本日発売。“アメリカンダイナー”なホットドッグチャームやポテトバッグ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149433.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "편의점 덕후들 주목! 스누피 신상 굿즈가 10월 20일 출시됩니다!"
-      },
-      "content": {
-        "thumbnail_title": "💖스누피 신상 굿즈💖",
-        "cards": [
-          {
-            "title": "스누피 굿즈 출시!",
-            "content": "10월 20일, 아메리칸 다이너 테마의 스누피 굿즈 3종이 일본 패밀리마트에서 출시됩니다.",
-            "alt_text": "아메리칸 다이너 테마의 스누피 굿즈 이미지"
-          },
-          {
-            "title": "핫도그 굿즈",
-            "content": "귀여운 핫도그 모양의 참과 앙증맞은 감자튀김 가방까지!",
-            "alt_text": "스누피 핫도그 모양 참 이미지"
-          },
-          {
-            "title": "다양한 굿즈",
-            "content": "총 3가지 종류의 굿즈가 발매될 예정이니, 취향에 맞는 상품을 골라보세요.",
-            "alt_text": "다양한 스누피 굿즈 일러스트"
-          },
-          {
-            "title": "패밀리마트",
-            "content": "일본 전역 패밀리마트에서 만나볼 수 있습니다. (점포별 취급 상품 상이)",
-            "alt_text": "패밀리마트 로고 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "여행 중 깜짝 선물이나 기념품으로 딱! 한정 수량일 수 있으니 서둘러 방문하세요.",
-            "alt_text": "일본 패밀리마트 매장 내부 이미지"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수 코스! 패밀리마트에서 스누피 신상 굿즈를 만나보세요!💖 10월 20일, 아메리칸 다이너 테마의 귀여운 핫도그 참과 감자튀김 가방 등 3가지 굿즈가 출시됩니다. ✈️여행 중 득템 찬스! 놓치지 마세요! #일본여행 #패밀리마트 #스누피 #굿즈 #득템찬스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#패밀리마트",
-          "#스누피",
-          "#일본쇼핑",
-          "#일본굿즈",
-          "#편의점",
-          "#일본편의점",
-          "#여행필수템",
-          "#여행스타그램",
-          "#일본여행정보",
-          "#해외여행",
-          "#여행",
-          "#쇼핑",
-          "#기념품"
-        ],
-        "alt_texts": [
-          "아메리칸 다이너 테마의 스누피 굿즈 이미지",
-          "스누피 핫도그 모양 참 이미지",
-          "다양한 스누피 굿즈 일러스트",
-          "패밀리마트 로고 이미지",
-          "일본 패밀리마트 매장 내부 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 스누피 팬, 일본 편의점 쇼핑을 즐기는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 스누피 굿즈 구매 희망 댓글 / 이 콘텐츠의 강점: 최신 출시 정보, 실용적인 쇼핑 정보, 높은 팬덤의 캐릭터 활용",
-      "image": {
-        "keyword": "snoopy, family mart, american diner, hot dog charm, potato bag, japan convenience store, merchandise release",
-        "unsplash_url": "https://unsplash.com/s/photos/snoopy,-family-mart,-american-diner,-hot-dog-charm,-potato-bag,-japan-convenience-store,-merchandise-release",
-        "pexels_url": "https://www.pexels.com/search/snoopy,%20family%20mart,%20american%20diner,%20hot%20dog%20charm,%20potato%20bag,%20japan%20convenience%20store,%20merchandise%20release/"
       }
     }
   ]
