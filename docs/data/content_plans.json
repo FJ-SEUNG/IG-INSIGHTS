@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-22T04:29:43.975051",
+  "last_updated": "2026-10-23T01:31:15.645712",
   "plans": [
+    {
+      "id": "plan_8b23afdc",
+      "created_at": "2026-10-23T01:31:13.645529",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「第47回小牧市民まつり」でディズニースペシャルパレード。朝9時から交通規制、特別仕様ダッフィーバスも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150520.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 캐릭터와 함께하는 일본 소도시 축제, 특별한 추억 만들기!"
+      },
+      "content": {
+        "thumbnail_title": "💖디즈니가 온다! 10/25 아이치 코마키 축제✨",
+        "cards": [
+          {
+            "title": "디즈니 스페셜 퍼레이드",
+            "content": "10월 25일, 아이치현 코마키시에서 열리는 '제47회 코마키 시민 축제'에서 도쿄 디즈니리조트 스페셜 퍼레이드가 펼쳐집니다. 잊지 못할 디즈니 캐릭터들을 만날 수 있어요!",
+            "alt_text": "밝은 표정의 미키마우스와 친구들이 퍼레이드 차량 위에서 손을 흔들고 있는 모습"
+          },
+          {
+            "title": "특별한 교통 통제",
+            "content": "퍼레이드를 위해 당일 오전 9시부터 코마키시 일부 지역에서 교통 통제가 실시됩니다. 방문 계획이 있다면 미리 교통 상황을 확인하고 우회로를 숙지하는 것이 좋습니다.",
+            "alt_text": "교통 통제 표지판과 경찰관이 차량 통제를 안내하는 모습"
+          },
+          {
+            "title": "스페셜 덕키 버스",
+            "content": "축제 현장에서는 특별 사양의 '덕키 버스'도 만날 수 있습니다. 디즈니 팬이라면 놓칠 수 없는 특별한 포토존이 될 거예요!",
+            "alt_text": "귀여운 덕키 캐릭터로 꾸며진 버스가 도로를 달리고 있는 모습"
+          },
+          {
+            "title": "코마키 시민 축제",
+            "content": "디즈니 퍼레이드 외에도 코마키 시민 축제는 전통적인 무사 행렬 등 다채로운 볼거리를 제공합니다. 일본의 지역 축제를 경험할 좋은 기회입니다.",
+            "alt_text": "전통 복장을 한 사람들이 무사 행렬을 하며 거리를 행진하는 모습"
+          },
+          {
+            "title": "꿀팁 & 주의사항",
+            "content": "퍼레이드 관람을 위해서는 이른 아침부터 자리를 잡는 것이 유리합니다. 또한, 행사 당일 교통 체증이 예상되니 대중교통 이용을 추천하며, 날씨에 대비한 준비물(우산, 편안한 신발 등)을 챙기는 것이 좋습니다.",
+            "alt_text": "축제 현장에서 사람들이 삼각대를 설치하고 퍼레이드를 기다리는 모습"
+          }
+        ],
+        "caption": "💖일본 여행 중 특별한 추억을 만들고 싶다면? 10월 25일, 아이치현 코마키시에서 열리는 '제47회 코마키 시민 축제'를 주목해주세요! ✨\n\n도쿄 디즈니리조트 스페셜 퍼레이드가 펼쳐지며, 귀여운 덕키 버스도 만날 수 있답니다! 🚌\n\n오전 9시부터 교통 통제가 있으니 방문 시 참고하시고, 일본 소도시의 따뜻한 축제 분위기를 만끽해보세요! 🌸\n\n#일본여행 #아이치현 #코마키시 #디즈니퍼레이드 #일본축제 #가을여행 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#아이치현",
+          "#코마키시",
+          "#코마키시민축제",
+          "#디즈니",
+          "#디즈니퍼레이드",
+          "#일본축제",
+          "#가을여행",
+          "#여행정보",
+          "#해외여행",
+          "#일본소도시",
+          "#여행스타그램",
+          "#디즈니덕후",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "밝은 표정의 미키마우스와 친구들이 퍼레이드 차량 위에서 손을 흔들고 있는 모습",
+          "교통 통제 표지판과 경찰관이 차량 통제를 안내하는 모습",
+          "귀여운 덕키 캐릭터로 꾸며진 버스가 도로를 달리고 있는 모습",
+          "전통 복장을 한 사람들이 무사 행렬을 하며 거리를 행진하는 모습",
+          "축제 현장에서 사람들이 삼각대를 설치하고 퍼레이드를 기다리는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 소도시 여행을 선호하거나 디즈니를 좋아하는 한국인 여행자 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 높은 관심과 공유, 축제 방문 계획 문의 / 이 콘텐츠의 강점: 일본 내 유명 캐릭터와 지역 축제를 결합하여 희소성과 흥미 유발",
+      "image": {
+        "keyword": "Disney parade, Komaki city festival, Aichi prefecture, Japan autumn festival, Special Duffy bus",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-parade,-Komaki-city-festival,-Aichi-prefecture,-Japan-autumn-festival,-Special-Duffy-bus",
+        "pexels_url": "https://www.pexels.com/search/Disney%20parade,%20Komaki%20city%20festival,%20Aichi%20prefecture,%20Japan%20autumn%20festival,%20Special%20Duffy%20bus/"
+      }
+    },
+    {
+      "id": "plan_548afeb5",
+      "created_at": "2026-10-23T01:31:08.030060",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "エレコム、4in1モバイルバッテリー「EC-C68LBK」。折りたたみ式ACプラグ、一体型Type-Cケーブル、Qi2ワイヤレス充電、USBポート2系統を集約",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150524.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템! 충전 걱정 끝내는 4 in 1 모바일 배터리 출시! ⚡️"
+      },
+      "content": {
+        "thumbnail_title": "일본 여행 필수템 🚀",
+        "cards": [
+          {
+            "title": "4 in 1 기능",
+            "content": "접이식 AC 플러그, 일체형 C타입 케이블, Qi2 무선 충전, USB 포트 2개를 모두 갖춘 만능 모바일 배터리입니다.",
+            "alt_text": "다기능 모바일 배터리 이미지"
+          },
+          {
+            "title": "출시 임박!",
+            "content": "일본 전자제품 브랜드 엘레콤에서 10월 하순에 출시 예정입니다. 여행 준비물 리스트에 꼭 추가하세요!",
+            "alt_text": "제품 출시 날짜 정보 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "정가는 미정이나, 엘레콤 공식 직판 가격은 9,890엔입니다. 환율 고려해서 미리 준비하면 좋아요.",
+            "alt_text": "제품 가격 정보 이미지"
+          },
+          {
+            "title": "여행 필수템",
+            "content": "보조 배터리, 충전기, 케이블 등 여러 개를 챙길 필요 없이 이 제품 하나로 모두 해결 가능합니다.",
+            "alt_text": "다양한 충전기 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 여행 중 스마트폰, 태블릿, 이어폰 등 다양한 기기를 동시에 충전해야 할 때 유용합니다. 무선 충전 기능으로 더욱 편리하게 사용하세요!",
+            "alt_text": "여행 중 기기 충전 이미지"
+          }
+        ],
+        "caption": "일본 여행 준비물, 아직도 이것저것 챙기시나요? 🤔\n\n엘레콤에서 출시하는 4 in 1 모바일 배터리 하나로 충전 걱정 끝! 🚀\n\n✨ 접이식 AC 플러그\n✨ 일체형 C타입 케이블\n✨ Qi2 무선 충전\n✨ USB 포트 2개\n\n10월 하순 출시 예정, 가격은 9,890엔(직판가)입니다! 🇯🇵\n\n지금 바로 일본 여행 필수템으로 찜콩하세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본필수템",
+          "#모바일배터리",
+          "#충전기",
+          "#일본전자제품",
+          "#여행준비물",
+          "#일본쇼핑",
+          "#여행꿀팁",
+          "#엘레콤",
+          "#일본직구",
+          "#해외여행",
+          "#일본어디까지가봤니",
+          "#여행스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "다기능 모바일 배터리 이미지",
+          "제품 출시 날짜 정보 이미지",
+          "제품 가격 정보 이미지",
+          "다양한 충전기 이미지",
+          "여행 중 기기 충전 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 앞둔 한국인 관광객 / 최적 게시 시간: 평일 저녁 7-9시, 주말 낮 1-3시 / 기대 반응: 정보 공유 및 구매 문의 / 이 콘텐츠의 강점: 실질적인 여행 필수품 정보 제공, 최신 출시 제품 정보",
+      "image": {
+        "keyword": "4 in 1 mobile battery, Japan travel essential, Elecom charger, wireless charging, USB ports, travel gadget",
+        "unsplash_url": "https://unsplash.com/s/photos/4-in-1-mobile-battery,-Japan-travel-essential,-Elecom-charger,-wireless-charging,-USB-ports,-travel-gadget",
+        "pexels_url": "https://www.pexels.com/search/4%20in%201%20mobile%20battery,%20Japan%20travel%20essential,%20Elecom%20charger,%20wireless%20charging,%20USB%20ports,%20travel%20gadget/"
+      }
+    },
     {
       "id": "plan_b594964b",
       "created_at": "2026-10-22T04:29:41.974893",
@@ -923,160 +1077,6 @@
         "keyword": "snoopy, family mart, american diner, hot dog charm, potato bag, japan convenience store, merchandise release",
         "unsplash_url": "https://unsplash.com/s/photos/snoopy,-family-mart,-american-diner,-hot-dog-charm,-potato-bag,-japan-convenience-store,-merchandise-release",
         "pexels_url": "https://www.pexels.com/search/snoopy,%20family%20mart,%20american%20diner,%20hot%20dog%20charm,%20potato%20bag,%20japan%20convenience%20store,%20merchandise%20release/"
-      }
-    },
-    {
-      "id": "plan_d7c242db",
-      "created_at": "2026-10-19T04:28:03.829679",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "全品10％オフ「無印良品週間」2026秋の開催決定！　スタッフが買ってよかった商品リスト公開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149184.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템, 무인양품 전품 10% 할인 기회 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵무인양품 10% 할인 꿀팁!",
-        "cards": [
-          {
-            "title": "무인양품 할인",
-            "content": "일본 전역 무인양품 매장에서 '무인양품 주간'이 10월 23일부터 11월 3일까지 진행됩니다. 앱 회원이라면 전 품목 10% 할인 혜택을 받을 수 있어요. 온라인 스토어는 11월 4일 오전 10시까지 혜택이 적용됩니다.",
-            "alt_text": "무인양품 매장 전경"
-          },
-          {
-            "title": "할인 기간",
-            "content": "이번 '무인양품 주간'은 2026년 가을에 개최됩니다. 정확한 날짜는 10월 23일부터 11월 3일까지이며, 온라인 스토어 마감 시간까지 잊지 마세요!",
-            "alt_text": "달력에 표시된 할인 기간"
-          },
-          {
-            "title": "앱 회원 혜택",
-            "content": "10% 할인 혜택은 무인양품 앱 회원에게만 제공됩니다. 미리 앱을 설치하고 회원가입을 해두시면 쇼핑 시 간편하게 할인받을 수 있습니다.",
-            "alt_text": "스마트폰으로 무인양품 앱 실행 중인 모습"
-          },
-          {
-            "title": "쇼핑 리스트",
-            "content": "무인양품 직원들이 직접 추천하는 '사길 잘했다' 상품 리스트도 공개될 예정이니, 어떤 상품을 구매하면 좋을지 미리 참고해보세요!",
-            "alt_text": "무인양품 쇼핑백과 다양한 상품들"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "여행 전 무인양품 일본 공식 앱을 미리 다운로드 받아두세요! 회원가입은 물론, 현재 진행 중인 행사 정보나 추천 상품 목록을 미리 확인하면 알찬 쇼핑이 가능합니다.",
-            "alt_text": "쇼핑 목록을 작성하는 손"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수 코스! 무인양품에서 역대급 할인 찬스를 잡으세요! \n\n2026년 가을, 10월 23일부터 11월 3일까지 진행되는 '무인양품 주간'을 놓치지 마세요! \n\n✅ 앱 회원 대상 전 품목 10% 할인!\n✅ 온라인 스토어는 11월 4일 오전 10시까지!\n\n여행 전 무인양품 앱 설치는 필수!\n#일본여행 #무인양품 #무인양품주간 #일본쇼핑 #쇼핑정보 #여행꿀팁 #플라잉재팬 #일본여행꿀팁 #할인정보 #일본쇼핑리스트 #가성비템 #일본여행준비 #2026가을 #일본쇼핑찬스 #여행스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#무인양품",
-          "#무인양품주간",
-          "#일본쇼핑",
-          "#쇼핑정보",
-          "#여행꿀팁",
-          "#일본여행꿀팁",
-          "#할인정보",
-          "#일본쇼핑리스트",
-          "#가성비템",
-          "#일본여행준비",
-          "#2026가을",
-          "#일본쇼핑찬스",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "무인양품 매장 전경",
-          "달력에 표시된 할인 기간",
-          "스마트폰으로 무인양품 앱 실행 중인 모습",
-          "무인양품 쇼핑백과 다양한 상품들",
-          "쇼핑 목록을 작성하는 손"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 구체적인 할인 기간 및 혜택 명시, 실질적인 쇼핑 정보 제공",
-      "image": {
-        "keyword": "MUJI Japan, MUJI store sale, Japan shopping discount, autumn sale Japan, travel shopping tips, MUJI app member",
-        "unsplash_url": "https://unsplash.com/s/photos/MUJI-Japan,-MUJI-store-sale,-Japan-shopping-discount,-autumn-sale-Japan,-travel-shopping-tips,-MUJI-app-member",
-        "pexels_url": "https://www.pexels.com/search/MUJI%20Japan,%20MUJI%20store%20sale,%20Japan%20shopping%20discount,%20autumn%20sale%20Japan,%20travel%20shopping%20tips,%20MUJI%20app%20member/"
-      }
-    },
-    {
-      "id": "plan_dc444134",
-      "created_at": "2026-10-19T04:27:58.496762",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Suicaのペンギン×OJICO、スウェットとパーカ発売。東京駅、三鷹駅、エキュート上野で順次先行販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149222.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 'Suica의 펭귄'과 'OJICO'의 만남! 도쿄, 미타카, 우에노에서 특별한 스웨트셔츠와 후드티를 만나보세요! 🐧✨"
-      },
-      "content": {
-        "thumbnail_title": "Suica펭귄 🐧X OJICO 콜라보! 👕",
-        "cards": [
-          {
-            "title": "콜라보 상품",
-            "content": "JR동일본의 인기 캐릭터 'Suica의 펭귄'과 패션 브랜드 'OJICO'가 만났어요! 특별한 스웨트셔츠와 후드티를 한정 판매합니다.",
-            "alt_text": "Suica의 펭귄과 OJICO 로고가 함께 있는 콜라보 상품 이미지"
-          },
-          {
-            "title": "도쿄역 기간 한정",
-            "content": "10월 16일부터 11월 5일까지 JR 도쿄역 '동륜의 광장'에서 선행 판매가 진행돼요.",
-            "alt_text": "도쿄역 동륜의 광장 이미지"
-          },
-          {
-            "title": "미타카역 판매",
-            "content": "11월 4일부터 11월 17일까지는 JR 미타카역에서도 만나볼 수 있습니다.",
-            "alt_text": "미타카역 이미지"
-          },
-          {
-            "title": "우에노 에큐트",
-            "content": "11월 9일부터 11월 29일까지는 에큐트 우에노에서 마지막으로 판매될 예정이에요.",
-            "alt_text": "에큐트 우에노 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "귀여운 펭귄 캐릭터와 OJICO의 감각적인 디자인이 만난 특별한 굿즈! 여행 기념품으로도 제격이에요. 판매 기간과 장소를 꼭 확인하세요!",
-            "alt_text": "Suica의 펭귄 캐릭터가 후드티를 입고 있는 귀여운 일러스트"
-          }
-        ],
-        "caption": "귀여운 'Suica의 펭귄' 🐧과 'OJICO'의 특별한 콜라보! 👕 도쿄, 미타카, 우에노에서 한정 스웨트셔츠와 후드티를 만나보세요! ✨\n\n📍 도쿄역: 10/16 ~ 11/5\n📍 미타카역: 11/4 ~ 11/17\n📍 에큐트 우에노: 11/9 ~ 11/29\n\n여행 중 특별한 기념품을 찾는다면 절대 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica의펭귄",
-          "#OJICO",
-          "#도쿄여행",
-          "#미타카",
-          "#우에노",
-          "#에큐트우에노",
-          "#도쿄역",
-          "#한정판",
-          "#콜라보",
-          "#일본쇼핑",
-          "#여행기념품",
-          "#패션굿즈",
-          "#일본굿즈"
-        ],
-        "alt_texts": [
-          "Suica의 펭귄과 OJICO 로고가 함께 있는 콜라보 상품 이미지",
-          "도쿄역 동륜의 광장 이미지",
-          "미타카역 이미지",
-          "에큐트 우에노 이미지",
-          "Suica의 펭귄 캐릭터가 후드티를 입고 있는 귀여운 일러스트"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 귀여운 굿즈나 패션 아이템에 관심 있는 20-30대 한국인 여행자 / 최적 게시 시간: 오후 6-9시 (퇴근 후 또는 저녁 식사 시간) / 기대 반응: 상품 구매 문의, 방문 인증샷 공유, 친구 태그 / 이 콘텐츠의 강점: 귀여운 캐릭터와 한정판이라는 희소성, 구체적인 판매처 및 기간 정보 제공",
-      "image": {
-        "keyword": "Suica penguin OJICO collaboration sweatshirt hoodie Tokyo station Mitaka station Ueno Ecute limited edition merchandise",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-OJICO-collaboration-sweatshirt-hoodie-Tokyo-station-Mitaka-station-Ueno-Ecute-limited-edition-merchandise",
-        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20OJICO%20collaboration%20sweatshirt%20hoodie%20Tokyo%20station%20Mitaka%20station%20Ueno%20Ecute%20limited%20edition%20merchandise/"
       }
     }
   ]
