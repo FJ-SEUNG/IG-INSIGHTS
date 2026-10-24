@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-23T04:35:09.706092",
+  "last_updated": "2026-10-24T01:34:58.093881",
   "plans": [
+    {
+      "id": "plan_2aaadf2b",
+      "created_at": "2026-10-24T01:34:56.093720",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "梅田ロフト跡地に「ニトリ 梅田茶屋町店」10月30日開業。世界最大の旗艦店、家具/アパレル/ガジェットなど全8フロア",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150723.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 여행 필수 코스! 일본 최대 규모 니토리 플래그십 스토어가 드디어 문을 엽니다!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 쇼핑 성지 오픈!✨",
+        "cards": [
+          {
+            "title": "오사카 최대 니토리",
+            "content": "10월 30일, 오사카 우메다 차야마치에 일본 최대 규모의 니토리 플래그십 스토어가 오픈합니다. 총 8개 층으로 구성되어 있어 역대급 규모를 자랑합니다.",
+            "alt_text": "새롭게 오픈하는 니토리 우메다 차야마치점 외관"
+          },
+          {
+            "title": "다양한 상품 구비",
+            "content": "가구, 의류, 가전제품, 잡화 등 니토리의 모든 상품 라인을 한눈에 만나볼 수 있습니다. 일본 현지에서만 구매 가능한 특별한 아이템들도 기대해 보세요!",
+            "alt_text": "니토리 매장 내부의 다양한 상품 진열 모습"
+          },
+          {
+            "title": "운영 시간 확인",
+            "content": "매일 오전 10시부터 오후 9시까지 운영됩니다. 오사카 여행 중 쇼핑 계획을 세우신다면 운영 시간을 꼭 확인하세요.",
+            "alt_text": "니토리 매장 운영 시간 안내 표지판"
+          },
+          {
+            "title": "위치 정보",
+            "content": "오사카부 오사카시 기타구 차야마초 16-7에 위치하고 있습니다. 우메다역에서 도보로 접근 가능하며, 쇼핑 후 주변 관광지 방문에도 편리합니다.",
+            "alt_text": "니토리 우메다 차야마치점 상세 주소 정보"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "방문 전 니토리 일본 공식 홈페이지에서 원하는 상품을 미리 확인하고 방문하면 효율적인 쇼핑이 가능합니다. 특히 한국에서 구하기 어려운 디자인의 상품들을 찾아보세요!",
+            "alt_text": "스마트폰으로 니토리 앱을 확인하는 모습"
+          }
+        ],
+        "caption": "✈️오사카 여행 필수 코스 등장!✈️\n\n10월 30일, 오사카 우메다에 일본 최대 규모의 니토리 플래그십 스토어가 드디어 문을 엽니다!\n\n총 8개 층에 가구, 의류, 가전, 잡화까지 없는 게 없는 이곳에서 득템 찬스를 놓치지 마세요! 🛍️\n\n📍위치: 오사카부 오사카시 기타구 차야마초 16-7\n⏰운영 시간: 10:00 - 21:00\n\n#오사카여행 #일본쇼핑 #니토리 #우메다 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카쇼핑",
+          "#니토리",
+          "#우메다",
+          "#일본직구",
+          "#여행정보",
+          "#일본신상",
+          "#쇼핑",
+          "#일본생활",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#니토리신상"
+        ],
+        "alt_texts": [
+          "새롭게 오픈하는 니토리 우메다 차야마치점 외관",
+          "니토리 매장 내부의 다양한 상품 진열 모습",
+          "니토리 매장 운영 시간 안내 표지판",
+          "니토리 우메다 차야마치점 상세 주소 정보",
+          "스마트폰으로 니토리 앱을 확인하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 20-40대 한국인 관광객 / 최적 게시 시간: 평일 오후 5-7시, 주말 오후 1-3시 / 기대 반응: 높은 관심과 공유, 오사카 여행 계획 수정 문의 / 이 콘텐츠의 강점: 오사카 신규 랜드마크 정보, 쇼핑 욕구 자극, 구체적인 정보 제공",
+      "image": {
+        "keyword": "Nitori Umeda Chayamachi, Osaka shopping, Japan flagship store, new opening, home goods, fashion, electronics, travel guide",
+        "unsplash_url": "https://unsplash.com/s/photos/Nitori-Umeda-Chayamachi,-Osaka-shopping,-Japan-flagship-store,-new-opening,-home-goods,-fashion,-electronics,-travel-guide",
+        "pexels_url": "https://www.pexels.com/search/Nitori%20Umeda%20Chayamachi,%20Osaka%20shopping,%20Japan%20flagship%20store,%20new%20opening,%20home%20goods,%20fashion,%20electronics,%20travel%20guide/"
+      }
+    },
+    {
+      "id": "plan_2d2eb2e0",
+      "created_at": "2026-10-24T01:34:49.764129",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "明日24日の「東京湾大華火祭」で首都高の出入口閉鎖や一般道・歩道の通行止め。有楽町線・りんかい線は増発の臨時ダイヤ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2150691.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 열리는 대규모 불꽃축제! 교통 통제 정보 미리 확인하고 편안한 여행 즐기세요."
+      },
+      "content": {
+        "thumbnail_title": "🔥도쿄 불꽃축제 교통 통제🔥",
+        "cards": [
+          {
+            "title": "불꽃축제 개최",
+            "content": "10월 24일, 도쿄만에서 '도쿄만 대화낙제'가 개최됩니다. 화려한 불꽃놀이를 즐길 수 있는 절호의 기회입니다.",
+            "alt_text": "화려한 불꽃이 밤하늘을 수놓는 모습"
+          },
+          {
+            "title": "교통 통제 구간",
+            "content": "축제 당일, 행사 장소인 하루미 부두 주변의 수도고속도로 출입구가 폐쇄됩니다. 일반 도로와 보행로도 통제될 예정이니 참고하세요.",
+            "alt_text": "교통 통제 안내 표지판"
+          },
+          {
+            "title": "대중교통 증편",
+            "content": "유라쿠초선과 린카이선은 축제 기간 동안 임시 증편 운행됩니다. 대중교통 이용 시 참고하시면 편리합니다.",
+            "alt_text": "지하철 열차 내부 모습"
+          },
+          {
+            "title": "운전 시 유의사항",
+            "content": "자가용 이용 시, 행사 장소 주변의 교통 통제 구간을 반드시 확인하시고 우회 경로를 미리 파악해두는 것이 좋습니다.",
+            "alt_text": "자동차 운전자가 네비게이션을 보고 있는 모습"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "교통 통제로 인해 평소보다 이동 시간이 길어질 수 있습니다. 여유로운 일정 계획과 함께 대중교통 이용을 추천하며, 미리미리 정보를 확인하세요!",
+            "alt_text": "여행 가방을 들고 있는 사람의 발"
+          }
+        ],
+        "caption": "🔥10월 24일 도쿄만 대화낙제 개최!🔥\n화려한 불꽃놀이를 즐길 수 있는 기회지만, 행사 당일에는 교통 통제가 실시됩니다. 🚨수도고속도로 출입구 폐쇄 및 일반도로/보행로 통제🚨가 있으니, 자가용 이용자는 우회 경로를 미리 확인하시고, 대중교통 이용 시에는 유라쿠초선, 린카이선의 임시 증편 정보를 참고하세요! ✈️편안하고 안전한 도쿄 여행을 위해 꼭 확인하세요!✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄",
+          "#도쿄불꽃축제",
+          "#도쿄만대화낙제",
+          "#교통정보",
+          "#일본교통",
+          "#여행정보",
+          "#일본축제",
+          "#10월여행",
+          "#도쿄가볼만한곳",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#안전여행"
+        ],
+        "alt_texts": [
+          "화려한 불꽃이 밤하늘을 수놓는 모습",
+          "교통 통제 안내 표지판",
+          "지하철 열차 내부 모습",
+          "자동차 운전자가 네비게이션을 보고 있는 모습",
+          "여행 가방을 들고 있는 사람의 발"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 한국인 관광객 / 최적 게시 시간: 여행 출발 1~3일 전 오후 7시 / 기대 반응: 교통 통제 정보를 미리 파악하여 여행 계획에 반영, 안전하고 편리한 여행에 대한 기대감 증폭 / 이 콘텐츠의 강점: 실제 여행에 직결되는 구체적인 교통 통제 정보와 대중교통 이용 팁 제공",
+      "image": {
+        "keyword": "Tokyo Bay Fireworks Festival traffic control",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay-Fireworks-Festival-traffic-control",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay%20Fireworks%20Festival%20traffic%20control/"
+      }
+    },
     {
       "id": "plan_12551757",
       "created_at": "2026-10-23T04:35:07.705914",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disneyland, JILL STUART Beauty, Cinderella collaboration, limited edition, beauty items, mirror, pouch, hand cream, November 19, 2023",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland,-JILL-STUART-Beauty,-Cinderella-collaboration,-limited-edition,-beauty-items,-mirror,-pouch,-hand-cream,-November-19,-2023",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland,%20JILL%20STUART%20Beauty,%20Cinderella%20collaboration,%20limited%20edition,%20beauty%20items,%20mirror,%20pouch,%20hand%20cream,%20November%2019,%202023/"
-      }
-    },
-    {
-      "id": "plan_56f81e85",
-      "created_at": "2026-10-20T04:38:31.043977",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALカード、TOICAへのチャージをマイル積算対象外に",
-        "url": "https://www.traicy.com/posts/20261020377840/",
-        "date": "Mon, 19 Oct 2026 22:15:56 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 카드 마일리지 적립 꿀팁! TOICA 충전 시 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL카드 TOICA 충전 마일 적립 변경",
-        "cards": [
-          {
-            "title": "JAL카드 혜택 변경",
-            "content": "JAL 카드 이용 시 TOICA(도카) 충전 금액에 대한 쇼핑 마일리지 적립이 2023년 10월 청구분부터 제외됩니다.",
-            "alt_text": "JAL 카드 로고와 TOICA 카드 이미지"
-          },
-          {
-            "title": "대상 카드 확인",
-            "content": "JAL・Visa 카드, JAL・Mastercard, JAL 아메리칸・에스프레스 카드가 해당됩니다. 정확한 대상 카드 목록은 JAL 카드 공식 홈페이지를 참고하세요.",
-            "alt_text": "다양한 JAL 카드 종류 이미지"
-          },
-          {
-            "title": "마일리지 적립 제외",
-            "content": "기존에는 TOICA 충전 시에도 마일리지가 적립되었으나, 앞으로는 적립 대상에서 제외되니 유의해야 합니다.",
-            "alt_text": "마일리지 적립이 제외됨을 나타내는 X 표시 이미지"
-          },
-          {
-            "title": "TOICA 활용 팁",
-            "content": "TOICA는 일본 전역에서 사용 가능한 교통카드 겸 전자화폐입니다. 충전 시 마일리지 적립은 불가하지만, 편리하게 대중교통 및 상점 이용이 가능합니다.",
-            "alt_text": "TOICA 카드를 사용하는 모습 이미지"
-          },
-          {
-            "title": "현명한 카드 사용",
-            "content": "JAL 카드를 주로 사용하신다면, TOICA 충전 외 다른 쇼핑이나 결제 시 마일리지 적립 혜택을 꼼꼼히 챙기세요.",
-            "alt_text": "JAL 카드로 결제하는 모습 이미지"
-          }
-        ],
-        "caption": "✈️JAL 카드 이용자 주목! 2023년 10월부터 TOICA 충전 시 마일리지 적립이 중단됩니다! 😭\n\n✅ 10월 청구분부터 JAL 카드 TOICA 충전 금액은 쇼핑 마일리지 적립 대상에서 제외!\n✅ JAL・Visa, JAL・Mastercard, JAL 아메리칸・에스프레스 카드 해당\n\nTOICA는 편리하지만, 이제 충전으로 마일리지 쌓기는 어렵겠네요. 😥\nJAL 카드 이용 시, 다른 결제 혜택을 꼼꼼히 챙기세요! 👍\n\n#일본여행 #플라잉재팬 #JAL카드 #TOICA #마일리지 #일본교통카드",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL카드",
-          "#TOICA",
-          "#마일리지",
-          "#일본교통카드",
-          "#일본여행정보",
-          "#해외여행",
-          "#여행꿀팁",
-          "#일본생활",
-          "#여행스타그램",
-          "#해외생활",
-          "#일본",
-          "#항공권",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "JAL 카드 로고와 TOICA 카드 이미지",
-          "다양한 JAL 카드 종류 이미지",
-          "마일리지 적립이 제외됨을 나타내는 X 표시 이미지",
-          "TOICA 카드를 사용하는 모습 이미지",
-          "JAL 카드로 결제하는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: JAL 카드를 소지하고 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 정보 습득 및 유용한 정보 공유 / 이 콘텐츠의 강점: 일본 여행에 필수적인 교통카드 및 항공사 카드 혜택 변경 정보를 신속하고 정확하게 제공",
-      "image": {
-        "keyword": "JAL Card, TOICA, Japan transportation card, mileage, travel information",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-Card,-TOICA,-Japan-transportation-card,-mileage,-travel-information",
-        "pexels_url": "https://www.pexels.com/search/JAL%20Card,%20TOICA,%20Japan%20transportation%20card,%20mileage,%20travel%20information/"
-      }
-    },
-    {
-      "id": "plan_b3534c9e",
-      "created_at": "2026-10-20T04:38:06.137358",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "今週末の「東京湾大華火祭」は晴海線・台場線・一般道で交通規制。周辺の歩道も通行止め。有楽町線は打ち上げ前後に臨時ダイヤ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149578.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄만 불꽃축제 기간, 교통 통제 및 열차 임시 다이어 확인하고 편하게 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "🎆 도쿄만 불꽃축제 교통 통제! 🎆",
-        "cards": [
-          {
-            "title": "교통 통제 구간",
-            "content": "10월 24일 개최되는 '도쿄만 대불꽃축제'로 인해 晴海埠頭(하루미 부두) 주변의 고속도로와 일반 도로에서 교통 통제가 실시됩니다. 행사 당일 주변 도로 이용 시 참고하세요.",
-            "alt_text": "도쿄만 대불꽃축제 행사 장소 주변 도로 교통 통제 안내"
-          },
-          {
-            "title": "보도 통제",
-            "content": "행사 장소 주변의 보도 역시 통제될 예정입니다. 불꽃축제를 관람하러 가실 경우, 보행로 이용 시에도 주의가 필요하며 통제 구간을 미리 확인하는 것이 좋습니다.",
-            "alt_text": "행사 장소 주변 보도 통제 안내"
-          },
-          {
-            "title": "유라쿠초선 임시 다이어",
-            "content": "유라쿠초선 지하철은 불꽃 발사 전후로 임시 다이어가 운영될 예정입니다. 평소와 다른 운행 간격 및 시간표를 확인하시어 이동에 차질이 없도록 준비하세요.",
-            "alt_text": "유라쿠초선 지하철 임시 다이어 안내"
-          },
-          {
-            "title": "여행 전 필수 확인!",
-            "content": "도쿄만 대불꽃축제는 많은 인파가 몰리는 인기 행사입니다. 행사 당일 교통 상황은 매우 혼잡할 것으로 예상되니, 대중교통 이용 시 운행 정보를 미리 확인하시는 것이 필수입니다.",
-            "alt_text": "도쿄만 불꽃축제 행사 정보 및 교통 안내"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "교통 통제 및 임시 다이어를 미리 숙지하고, 행사 시작 시간보다 여유 있게 출발하시는 것을 추천합니다. 편안하고 안전한 불꽃축제 관람을 위해 미리 대비하세요!",
-            "alt_text": "도쿄만 불꽃축제 관람 꿀팁 및 주의사항 안내"
-          }
-        ],
-        "caption": "🔥 도쿄만 대불꽃축제 D-DAY! 🔥\n\n10월 24일 열리는 도쿄만 대불꽃축제! 🎆\n행사 당일 晴海埠頭(하루미 부두) 주변 도로 및 보도 통제가 실시됩니다.\n유라쿠초선은 불꽃 발사 전후 임시 다이어가 운영되니, 꼭 미리 확인하세요!\n\n혼잡 예상되니 여유로운 출발 필수! 🚗💨\n\n#도쿄만대불꽃축제 #도쿄불꽃축제 #일본축제 #도쿄여행 #교통정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄",
-          "#일본축제",
-          "#도쿄만대불꽃축제",
-          "#불꽃축제",
-          "#교통정보",
-          "#지하철",
-          "#대중교통",
-          "#여행꿀팁",
-          "#일본정보",
-          "#여행준비",
-          "#해외여행",
-          "#일본소식"
-        ],
-        "alt_texts": [
-          "도쿄만 대불꽃축제 행사 장소 주변 도로 교통 통제 안내",
-          "행사 장소 주변 보도 통제 안내",
-          "유라쿠초선 지하철 임시 다이어 안내",
-          "도쿄만 불꽃축제 행사 정보 및 교통 안내",
-          "도쿄만 불꽃축제 관람 꿀팁 및 주의사항 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄만 대불꽃축제 방문 예정인 한국인 여행자 / 최적 게시 시간: 행사 2~3일 전 오후 6시~8시 / 기대 반응: 정보 유용성, 실질적인 도움에 대한 긍정적 반응 / 이 콘텐츠의 강점: 실제 여행 시 겪을 수 있는 교통 불편을 미리 해결해주는 구체적인 정보 제공",
-      "image": {
-        "keyword": "Tokyo Bay Grand Fireworks Festival traffic control",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay-Grand-Fireworks-Festival-traffic-control",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay%20Grand%20Fireworks%20Festival%20traffic%20control/"
       }
     }
   ]
