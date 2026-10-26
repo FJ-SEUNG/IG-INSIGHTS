@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-25T04:28:45.631020",
+  "last_updated": "2026-10-26T01:09:56.943529",
   "plans": [
+    {
+      "id": "plan_c5d54a14",
+      "created_at": "2026-10-26T01:09:54.943374",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】JALふるさとアンバサダーのおもてなしと巡る「SL冬の湿原号」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2149196.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 항공사가 지역 활성화를 위해 지역 주민들과 함께하는 특별한 이벤트 정보를 알려드립니다!"
+      },
+      "content": {
+        "thumbnail_title": "JAL과 함께하는 특별한 열차 여행 🚂",
+        "cards": [
+          {
+            "title": "JAL 지역 활성화",
+            "content": "JAL은 지역 활성화를 위해 'JALふるさとプロジェクト'를 지속적으로 진행 중입니다. 2020년 8월에는 객실 승무원이 직접 지역에 이주하여 활동하는 'JALふるさとアンバサダー'를 발족했습니다.",
+            "alt_text": "JAL 객실 승무원이 지역 주민들과 함께 하는 모습"
+          },
+          {
+            "title": "응원대 활동",
+            "content": "2020년 12월에는 탑승 중에도 지역 활성화에 참여하는 'JALふるさと応援隊'도 임명되었습니다. 이들은 지역에 대한 애정을 바탕으로 활동합니다.",
+            "alt_text": "JAL 객실 승무원이 지역 특산품을 소개하는 모습"
+          },
+          {
+            "title": "지역 특화 상품",
+            "content": "객실 승무원으로서 쌓은 경험을 살려 지역 특화 상품 개발 및 지역 과제 해결에 기여하는 것을 목표로 합니다.",
+            "alt_text": "지역 특산품으로 만든 상품 이미지"
+          },
+          {
+            "title": "SL 겨울 습원호",
+            "content": "이번 소식은 'SL 겨울 습원호'와 함께하는 JAL 지역 대사들의 환대 및 지역 사랑에 대한 이야기입니다. (구체적인 운행 정보는 뉴스에 포함되지 않음)",
+            "alt_text": "SL 겨울 습원호 열차 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "JAL 항공 이용 시, 이러한 지역 활성화 프로그램에 대한 정보를 미리 알아보고 참여하면 더욱 특별한 일본 여행을 즐길 수 있습니다. 자세한 참여 방법은 JAL 공식 채널을 확인하세요.",
+            "alt_text": "JAL 항공권과 일본 지도 이미지"
+          }
+        ],
+        "caption": "🇯🇵 JAL이 지역 주민들과 함께 만들어가는 특별한 여행! \n'JALふるさとアンバサダー'와 'JALふるさと応援隊'가 지역 활성화를 위해 펼치는 다채로운 활동을 소개합니다. \n지역 특화 상품 개발부터 지역 과제 해결까지! \n'SL 겨울 습원호'와 함께하는 이벤트는 일본 여행에 특별한 추억을 더해줄 거예요. \nJAL 항공 이용 시, 이 특별한 프로그램에 대한 정보를 미리 확인하고 더욱 풍성한 일본 여행을 계획해보세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#지역활성화",
+          "#일본이벤트",
+          "#일본축제",
+          "#특별한여행",
+          "#일본정보",
+          "#여행팁",
+          "#항공사소식",
+          "#일본스타그램",
+          "#여행스타그램",
+          "#일본문화",
+          "#JALアンバサダー"
+        ],
+        "alt_texts": [
+          "JAL 객실 승무원이 지역 주민들과 함께 하는 모습",
+          "JAL 객실 승무원이 지역 특산품을 소개하는 모습",
+          "지역 특산품으로 만든 상품 이미지",
+          "SL 겨울 습원호 열차 이미지",
+          "JAL 항공권과 일본 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: JAL 항공 이용 시 특별한 경험에 대한 기대감, 정보 공유 및 저장 / 이 콘텐츠의 강점: 항공사 차원에서 진행되는 특별한 지역 연계 프로그램 소개로 차별화된 정보 제공",
+      "image": {
+        "keyword": "JAL, Japan local revitalization, special train event, cabin crew",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-local-revitalization,-special-train-event,-cabin-crew",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20local%20revitalization,%20special%20train%20event,%20cabin%20crew/"
+      }
+    },
+    {
+      "id": "plan_2f258c24",
+      "created_at": "2026-10-26T01:09:49.593071",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「コンフォートホテルERA金沢東口」2027年1月25日開業。駅徒歩4分に107室、加賀・能登のおかずを集めた朝食ビュッフェ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2149752.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2027년 오픈! 가나자와 새로운 숙소 정보 미리 체크하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨2027년 가나자와 신상호텔✨",
+        "cards": [
+          {
+            "title": "신규 호텔 오픈!",
+            "content": "2027년 1월 25일, 가나자와역 도보 4분 거리에 '컴포트 호텔 ERA 가나자와 히가시구치'가 오픈합니다. 총 107개의 객실을 갖춘 새로운 숙소가 될 예정입니다.",
+            "alt_text": "컴포트 호텔 ERA 가나자와 히가시구치 외관 이미지"
+          },
+          {
+            "title": "가나자와역 4분 거리",
+            "content": "교통이 편리한 가나자와역에서 단 4분 거리에 위치하여 여행 시작과 마무리를 더욱 편안하게 할 수 있습니다. 짐이 많아도 걱정 없어요!",
+            "alt_text": "가나자와역에서 호텔까지 도보 이동 경로 이미지"
+          },
+          {
+            "title": "가나자와 & 노토 조식",
+            "content": "가나자와와 노토 지역의 특색을 살린 다채로운 반찬으로 구성된 조식 뷔페를 즐길 수 있습니다. 일본 현지 음식을 맛보고 싶다면 놓치지 마세요!",
+            "alt_text": "신선한 재료로 준비된 조식 뷔페 음식 이미지"
+          },
+          {
+            "title": "예약 오픈!",
+            "content": "10월 19일부터 호텔 공식 웹사이트 및 주요 숙박 예약 사이트에서 예약이 가능합니다. 오픈 초기 서둘러 예약하면 좋은 객실을 선점할 수 있어요!",
+            "alt_text": "호텔 예약 웹사이트 화면 캡처 이미지"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "2027년 오픈 예정이므로, 지금부터 가나자와 여행 계획을 세우시는 분들은 이 신규 호텔을 눈여겨보세요! 새로운 숙소에서 특별한 추억을 만들 수 있을 거예요.",
+            "alt_text": "가나자와 여행 계획을 세우는 사람 이미지"
+          }
+        ],
+        "caption": "🇯🇵 2027년 1월 25일, 가나자와에 새로운 숙소가 오픈합니다! ✨\n\n가나자와역에서 도보 4분 거리에 위치한 '컴포트 호텔 ERA 가나자와 히가시구치'는 총 107개의 객실과 지역 특색을 살린 조식 뷔페를 제공할 예정입니다.\n\n10월 19일부터 예약이 시작되니, 2027년 가나자와 여행을 계획 중이라면 미리 체크해보세요! ✈️\n\n#컴포트호텔 #가나자와여행 #일본신상호텔 #호텔예약 #2027년오픈",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#가나자와",
+          "#가나자와여행",
+          "#일본숙소",
+          "#신상호텔",
+          "#호텔추천",
+          "#컴포트호텔",
+          "#2027년여행",
+          "#여행준비",
+          "#일본자유여행",
+          "#가나자와맛집",
+          "#일본생활",
+          "#여행정보",
+          "#일본숙박"
+        ],
+        "alt_texts": [
+          "컴포트 호텔 ERA 가나자와 히가시구치 외관 이미지",
+          "가나자와역에서 호텔까지 도보 이동 경로 이미지",
+          "신선한 재료로 준비된 조식 뷔페 음식 이미지",
+          "호텔 예약 웹사이트 화면 캡처 이미지",
+          "가나자와 여행 계획을 세우는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 2027년 가나자와 여행 예정인 한국인 여행객 / 최적 게시 시간: 저녁 7시~9시 / 기대 반응: 신규 정보에 대한 관심 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 오픈일, 위치, 예약 시기 등 실질적인 정보 제공",
+      "image": {
+        "keyword": "Comfort Hotel ERA Kanazawa Higashiguchi, Kanazawa Station, Japanese breakfast buffet, Hotel booking website, Kanazawa travel planning",
+        "unsplash_url": "https://unsplash.com/s/photos/Comfort-Hotel-ERA-Kanazawa-Higashiguchi,-Kanazawa-Station,-Japanese-breakfast-buffet,-Hotel-booking-website,-Kanazawa-travel-planning",
+        "pexels_url": "https://www.pexels.com/search/Comfort%20Hotel%20ERA%20Kanazawa%20Higashiguchi,%20Kanazawa%20Station,%20Japanese%20breakfast%20buffet,%20Hotel%20booking%20website,%20Kanazawa%20travel%20planning/"
+      }
+    },
     {
       "id": "plan_cf0bbf01",
       "created_at": "2026-10-25T04:28:43.630829",
@@ -923,160 +1077,6 @@
         "keyword": "4 in 1 mobile battery, Japan travel essential, Elecom charger, wireless charging, USB ports, travel gadget",
         "unsplash_url": "https://unsplash.com/s/photos/4-in-1-mobile-battery,-Japan-travel-essential,-Elecom-charger,-wireless-charging,-USB-ports,-travel-gadget",
         "pexels_url": "https://www.pexels.com/search/4%20in%201%20mobile%20battery,%20Japan%20travel%20essential,%20Elecom%20charger,%20wireless%20charging,%20USB%20ports,%20travel%20gadget/"
-      }
-    },
-    {
-      "id": "plan_b594964b",
-      "created_at": "2026-10-22T04:29:41.974893",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "免税品の不正転売を徹底防止へ。出国時に返金する新免税制度「リファンド方式」11月1日スタート",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2150250.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 면세 쇼핑, 이제 출국 시 환급받으세요!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 11/1부터 일본 면세 쇼핑 방식 변경!",
-        "cards": [
-          {
-            "title": "새 면세 제도",
-            "content": "2023년 11월 1일부터 일본 전역에 새로운 면세 제도 '리펀드 방식'이 도입됩니다. 기존에는 면세점에서 바로 할인받는 방식이었지만, 이제는 물품 구매 후 출국 시 세관에서 환급받는 방식으로 변경됩니다.",
-            "alt_text": "일본 면세점 쇼핑 영수증 이미지"
-          },
-          {
-            "title": "환급 절차",
-            "content": "면세점에서 물품 구매 시, 여권 제시 후 '소비세 면제' 또는 '리펀드' 절차를 진행합니다. 출국 시 공항 세관에 구매한 물품과 영수증을 제출하면 소비세를 돌려받을 수 있습니다.",
-            "alt_text": "일본 공항 세관에서 환급받는 모습 이미지"
-          },
-          {
-            "title": "쇼핑객 영향",
-            "content": "이 제도는 면세품의 부정 전매를 막기 위해 도입되었습니다. 여행객은 면세 혜택을 받기 위해 구매한 물품을 반드시 소지하고 출국해야 합니다. 일부 면세점에서는 추가적인 서류 작업이 필요할 수 있습니다.",
-            "alt_text": "여권을 들고 면세 쇼핑하는 사람 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "면세품을 위탁 수하물로 부치기 전에 세관 신고를 완료해야 합니다. 기내 반입 물품은 출국 심사 후 면세 구역에서 신고 및 환급이 가능합니다. 구매한 물품의 총액은 5,000엔 이상이어야 합니다.",
-            "alt_text": "일본 면세점 영수증과 여권 이미지"
-          },
-          {
-            "title": "미리 확인!",
-            "content": "자신이 이용할 면세점의 구체적인 환급 절차와 필요 서류를 미리 확인하는 것이 좋습니다. 특히, 여러 면세점에서 구매했을 경우 각 영수증을 잘 챙겨야 합니다.",
-            "alt_text": "일본 면세점 안내 표지판 이미지"
-          }
-        ],
-        "caption": "🇯🇵 11월 1일부터 일본 면세 쇼핑 방식이 달라져요!\n\n기존 면세점 즉시 할인 방식에서, 출국 시 공항에서 소비세를 환급받는 '리펀드 방식'으로 변경됩니다.\n\n✅ 면세품 구매 후 출국 시 세관에 물품 및 영수증 제출\n✅ 부정 전매 방지 목적, 구매 물품 소지 필수\n✅ 총 구매액 5,000엔 이상일 경우 적용\n\n일본 여행 계획 중이라면 꼭 알아두세요! ✈️\n\n#일본여행 #일본쇼핑 #면세쇼핑 #리펀드방식 #일본면세 #여행꿀팁 #플라잉재팬 #일본정보 #쇼핑정보 #해외여행 #여행스타그램 #일본생활 #일본소식 #여행준비 #필수정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#면세쇼핑",
-          "#리펀드방식",
-          "#일본면세",
-          "#여행꿀팁",
-          "#일본정보",
-          "#쇼핑정보",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본생활",
-          "#일본소식",
-          "#여행준비",
-          "#필수정보"
-        ],
-        "alt_texts": [
-          "일본 면세점 쇼핑 영수증 이미지",
-          "일본 공항 세관에서 환급받는 모습 이미지",
-          "여권을 들고 면세 쇼핑하는 사람 이미지",
-          "일본 면세점 영수증과 여권 이미지",
-          "일본 면세점 안내 표지판 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 정보 유용성, 신속성, 댓글 문의 / 이 콘텐츠의 강점: 최신 정책 변경 사항을 구체적인 절차와 함께 안내하여 실질적인 도움 제공",
-      "image": {
-        "keyword": "Japan duty-free refund system change",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-duty-free-refund-system-change",
-        "pexels_url": "https://www.pexels.com/search/Japan%20duty-free%20refund%20system%20change/"
-      }
-    },
-    {
-      "id": "plan_ca10882c",
-      "created_at": "2026-10-22T04:29:36.060324",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "星野リゾート、2027年は福井・嬉野・飛鳥と新規開業続く。「旅客税の値上げで増えた予算は国内観光にも充てるべき」と星野代表",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2150287.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2027년 일본 여행 계획에 꼭 필요한 신규 호텔 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️2027년 일본 신규 호텔 3곳 OPEN!",
-        "cards": [
-          {
-            "title": "후쿠이 료칸",
-            "content": "2027년, 일본 후쿠이현에 새로운 호시노 리조트 료칸이 개장합니다. 일본 전통 온천 경험을 기대해도 좋습니다.",
-            "alt_text": "일본 후쿠이현의 아름다운 자연 풍경"
-          },
-          {
-            "title": "우레시노 온천",
-            "content": "사계절 아름다운 우레시노 온천 지역에도 새로운 호시노 리조트 시설이 2027년 문을 엽니다. 온천과 함께 힐링하세요.",
-            "alt_text": "김이 모락모락 나는 일본 온천"
-          },
-          {
-            "title": "아스카 지역",
-            "content": "고대 일본의 역사를 간직한 아스카 지역에도 2027년 신규 호시노 리조트가 선보입니다. 역사 탐방과 함께 특별한 숙박을 경험하세요.",
-            "alt_text": "일본 아스카 지역의 고풍스러운 유적지"
-          },
-          {
-            "title": "새로운 숙박 경험",
-            "content": "호시노 리조트의 새로운 3곳은 일본의 자연과 문화를 깊이 느낄 수 있는 특별한 숙박 경험을 제공할 예정입니다.",
-            "alt_text": "현대적이고 편안한 객실 내부 모습"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "2027년 일본 여행을 계획 중이라면, 이 새로운 숙소들의 오픈 소식을 꼭 기억하세요! 미리 예약하면 좋은 좌석을 확보할 수 있습니다.",
-            "alt_text": "일본 지도를 보며 여행 계획을 세우는 모습"
-          }
-        ],
-        "caption": "🇯🇵 2027년, 일본 여행이 더욱 풍성해집니다! \n호시노 리조트가 후쿠이, 우레시노, 아스카 지역에 총 3곳의 신규 시설을 오픈할 예정입니다. \n일본의 아름다운 자연과 깊은 역사를 만끽할 수 있는 새로운 숙소에서 잊지 못할 추억을 만들어 보세요. \n2027년 일본 여행 계획, 지금부터 시작해 보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본신규호텔",
-          "#호시노리조트",
-          "#후쿠이",
-          "#우레시노",
-          "#아스카",
-          "#일본숙소",
-          "#2027년일본여행",
-          "#일본온천",
-          "#일본료칸",
-          "#일본자유여행",
-          "#일본호텔",
-          "#여행정보",
-          "#일본여행준비"
-        ],
-        "alt_texts": [
-          "일본 후쿠이현의 아름다운 자연 풍경",
-          "김이 모락모락 나는 일본 온천",
-          "일본 아스카 지역의 고풍스러운 유적지",
-          "현대적이고 편안한 객실 내부 모습",
-          "일본 지도를 보며 여행 계획을 세우는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 2027년 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 높은 관심 및 정보 저장 / 이 콘텐츠의 강점: 최신 오픈 정보와 구체적인 지역 정보 제공",
-      "image": {
-        "keyword": "Japan new hotel opening, Hoshino Resorts, Fukui, Ureshino, Asuka, Japanese onsen, ryokan, travel planning",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-new-hotel-opening,-Hoshino-Resorts,-Fukui,-Ureshino,-Asuka,-Japanese-onsen,-ryokan,-travel-planning",
-        "pexels_url": "https://www.pexels.com/search/Japan%20new%20hotel%20opening,%20Hoshino%20Resorts,%20Fukui,%20Ureshino,%20Asuka,%20Japanese%20onsen,%20ryokan,%20travel%20planning/"
       }
     }
   ]
