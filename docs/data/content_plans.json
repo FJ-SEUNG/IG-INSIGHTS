@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-26T04:32:16.499287",
+  "last_updated": "2026-10-27T02:04:54.998498",
   "plans": [
+    {
+      "id": "plan_c9a821f6",
+      "created_at": "2026-10-27T02:04:52.998325",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーのお正月限定グッズ発表。和服ミッキーに「こひつじのダニー」のぬいぐるみ、もこもこきんちゃく",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2151287.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 디즈니 방문 예정이라면 절대 놓칠 수 없는 한정판 굿즈 소식!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 신년 굿즈 OPEN!✨",
+        "cards": [
+          {
+            "title": "신년 굿즈 출시!",
+            "content": "도쿄 디즈니리조트에서 2024년 신년을 맞아 특별한 한정판 굿즈를 12월 1일부터 발매합니다.",
+            "alt_text": "도쿄 디즈니리조트의 신년 한정판 굿즈 출시 안내 이미지"
+          },
+          {
+            "title": "귀여운 캐릭터 상품",
+            "content": "이번 신년 굿즈에는 귀여운 기모노를 입은 미키 마우스와 '꼬마 양 대니' 인형 등 다채로운 상품들이 준비되어 있습니다.",
+            "alt_text": "기모노를 입은 미키 마우스 인형 이미지"
+          },
+          {
+            "title": "복슬복슬 파우치",
+            "content": "특히 복슬복슬한 소재의 巾着(킨착쿠, 주머니) 파우치는 실용성과 귀여움을 동시에 갖춰 인기가 예상됩니다.",
+            "alt_text": "복슬복슬한 소재의 킨착쿠(주머니) 파우치 이미지"
+          },
+          {
+            "title": "특별한 기념품",
+            "content": "일본 여행 중 디즈니를 방문할 계획이라면, 새해의 행운을 담은 한정판 굿즈로 특별한 추억을 만들어보세요.",
+            "alt_text": "다양한 디즈니 신년 한정판 굿즈 모음 이미지"
+          },
+          {
+            "title": "방문 전 확인 필수!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 방문 전 디즈니 공식 홈페이지를 통해 재고 현황을 확인하는 것이 좋습니다.",
+            "alt_text": "디즈니 스토어 매장 내부 모습 이미지"
+          }
+        ],
+        "caption": "🎍 도쿄 디즈니리조트, 2024년 신년 맞이 한정판 굿즈 공개! 🎍\n\n12월 1일부터 만나볼 수 있는 이번 굿즈 컬렉션에는 기모노 미키, 꼬마 양 대니 인형, 복슬복슬 파우치 등 놓칠 수 없는 아이템들이 가득해요.\n\n일본 여행 중 디즈니 방문 예정이라면, 특별한 기념품으로 꼭 챙겨가세요! ✨\n\n#디즈니랜드 #디즈니씨 #신년굿즈 #일본여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니신년",
+          "#디즈니굿즈",
+          "#한정판",
+          "#미키마우스",
+          "#꼬마양대니",
+          "#여행필수템",
+          "#일본쇼핑",
+          "#도쿄여행",
+          "#여행정보",
+          "#인스타여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니리조트의 신년 한정판 굿즈 출시 안내 이미지",
+          "기모노를 입은 미키 마우스 인형 이미지",
+          "복슬복슬한 소재의 킨착쿠(주머니) 파우치 이미지",
+          "다양한 디즈니 신년 한정판 굿즈 모음 이미지",
+          "디즈니 스토어 매장 내부 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5~7시 / 기대 반응: 정보 공유 및 구매 욕구 자극, 디즈니 방문 계획 업데이트 / 이 콘텐츠의 강점: 시기적절한 한정판 굿즈 정보 제공으로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Tokyo Disney Resort New Year limited goods, kimono Mickey, Danny plush toy, drawstring pouch",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disney-Resort-New-Year-limited-goods,-kimono-Mickey,-Danny-plush-toy,-drawstring-pouch",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disney%20Resort%20New%20Year%20limited%20goods,%20kimono%20Mickey,%20Danny%20plush%20toy,%20drawstring%20pouch/"
+      }
+    },
+    {
+      "id": "plan_3d1ba62d",
+      "created_at": "2026-10-27T02:04:46.456850",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "旧横浜郵船ビルの「ザ マリタイムホテル 横浜ベイ」1月30日開業。世界の港イメージした全50室、国内初Nike Strengthジム導入",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2151295.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 요코하마에 새롭게 문을 여는 이색적인 호텔 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨요코하마 뉴 호텔 오픈✨",
+        "cards": [
+          {
+            "title": "호텔명",
+            "content": "요코하마에 '더 마리타임 호텔 요코하마 베이'가 2027년 1월 30일 오픈합니다.",
+            "alt_text": "요코하마의 항구 도시 풍경"
+          },
+          {
+            "title": "객실 컨셉",
+            "content": "전 세계 항구를 테마로 한 50개의 독특한 객실이 준비되어 있습니다.",
+            "alt_text": "세계 각국의 항구 이미지"
+          },
+          {
+            "title": "특별 시설",
+            "content": "일본 최초로 나이키 스트렝스 짐이 도입되어 특별한 운동 경험을 제공합니다.",
+            "alt_text": "최신식 헬스장 내부 모습"
+          },
+          {
+            "title": "위치",
+            "content": "가나가와현 요코하마시 나카구 해안통 3-9-1에 위치하며, 항구 근처에서 편리한 접근성을 자랑합니다.",
+            "alt_text": "호텔 외관 및 주변 지도"
+          },
+          {
+            "title": "예약",
+            "content": "현재 숙박 예약 접수가 시작되었으니, 특별한 경험을 원한다면 서둘러 예약하세요!",
+            "alt_text": "예약 페이지 화면"
+          }
+        ],
+        "caption": "🇯🇵 요코하마 여행 예정이라면 주목! 2027년 1월 30일, '더 마리타임 호텔 요코하마 베이'가 드디어 문을 엽니다. 🚢 전 세계 항구를 모티브로 한 50개의 객실과 일본 최초 '나이키 스트렝스 짐'까지! 헬스도 놓칠 수 없는 여행객에게 강력 추천해요. 지금 바로 예약하세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#요코하마",
+          "#요코하마호텔",
+          "#일본신상호텔",
+          "#요코하마여행",
+          "#일본숙소",
+          "#호텔추천",
+          "#해외여행",
+          "#여행정보",
+          "#일본가볼만한곳",
+          "#요코하마관광",
+          "#새로운호텔",
+          "#일본호텔",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "요코하마의 항구 도시 풍경",
+          "세계 각국의 항구 이미지",
+          "최신식 헬스장 내부 모습",
+          "호텔 외관 및 주변 지도",
+          "예약 페이지 화면"
+        ]
+      },
+      "marketer_analysis": "타겟: 요코하마 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 20:00 - 22:00 / 기대 반응: 새로운 숙소 정보에 대한 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 신규 오픈 호텔 정보로 희소성이 높고, 독특한 컨셉과 시설이 매력 포인트.",
+      "image": {
+        "keyword": "Yokohama bay hotel new opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-bay-hotel-new-opening",
+        "pexels_url": "https://www.pexels.com/search/Yokohama%20bay%20hotel%20new%20opening/"
+      }
+    },
     {
       "id": "plan_4394983e",
       "created_at": "2026-10-26T04:32:14.499125",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Bay Fireworks Festival traffic control",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Bay-Fireworks-Festival-traffic-control",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Bay%20Fireworks%20Festival%20traffic%20control/"
-      }
-    },
-    {
-      "id": "plan_12551757",
-      "created_at": "2026-10-23T04:35:07.705914",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "10月のANAにキュン！、国内旅行2万2000円・海外15万円の割引クーポン配布。ANA Mallは全商品5倍マイル付与",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2150664.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 항공권 할인 찬스! 10월 일본 여행 계획 중이라면 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 10월 특가 찬스!✈️",
-        "cards": [
-          {
-            "title": "10월 'ANA에 큥!'",
-            "content": "ANA가 10월 한정으로 'ANA에 큥!' 캠페인을 진행해요. 10월 29일 진행될 내용이 일부 공개되었답니다.",
-            "alt_text": "ANA 항공기 이미지"
-          },
-          {
-            "title": "국내선/해외선 할인",
-            "content": "이번 캠페인을 통해 국내선은 2만 2천원, 해외선은 15만원 할인 쿠폰을 받을 수 있어요.",
-            "alt_text": "할인 쿠폰 이미지"
-          },
-          {
-            "title": "ANA Mall 혜택",
-            "content": "ANA Mall에서는 전 상품 5배 마일리지 적립 혜택까지 제공됩니다.",
-            "alt_text": "ANA Mall 로고 이미지"
-          },
-          {
-            "title": "할인 쿠폰 사용",
-            "content": "할인 쿠폰은 10월 29일 당일에 사용 가능하며, 특정 조건이 있을 수 있으니 상세 내용을 확인해야 해요.",
-            "alt_text": "달력 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "일본 여행을 계획 중이라면 ANA 공식 홈페이지에서 'ANA에 큥!' 캠페인 상세 내용을 꼭 확인하고, 원하는 날짜에 맞는 할인 쿠폰을 놓치지 마세요! 조기 소진될 수 있으니 서둘러야 해요.",
-            "alt_text": "여행 가방 이미지"
-          }
-        ],
-        "caption": "✈️ ANA 10월 특별 할인 찬스! ✈️\n일본 여행 준비 중이시라면 주목!\n10월 29일 'ANA에 큥!' 캠페인에서\n국내선 2만 2천원, 해외선 15만원 할인 쿠폰을 받을 수 있어요!\nANA Mall에서는 5배 마일리지 적립 혜택까지!\n\n지금 바로 ANA 공식 홈페이지에서 상세 내용을 확인하고 할인 혜택을 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#ANA항공",
-          "#일본항공권",
-          "#항공권할인",
-          "#ANA에큥",
-          "#일본여행정보",
-          "#여행스타그램",
-          "#여행꿀팁",
-          "#가을여행",
-          "#일본",
-          "#여행",
-          "#할인정보",
-          "#ANAMall"
-        ],
-        "alt_texts": [
-          "ANA 항공기 이미지",
-          "할인 쿠폰 이미지",
-          "ANA Mall 로고 이미지",
-          "달력 이미지",
-          "여행 가방 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 할인 정보에 대한 높은 관심 및 문의 / 이 콘텐츠의 강점: 시기적절한 항공권 할인 정보 제공으로 즉각적인 여행 계획 유도",
-      "image": {
-        "keyword": "ANA airplane discount coupon Japan travel",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airplane-discount-coupon-Japan-travel",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airplane%20discount%20coupon%20Japan%20travel/"
-      }
-    },
-    {
-      "id": "plan_a9f1f8d2",
-      "created_at": "2026-10-23T04:35:02.369471",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ルクア大阪の新館に「ちいかわパークストア」11月24日開業。店内イメージと取り扱い商品を先行公開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2150694.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 여행 필수 코스! 인기 캐릭터 '치이카와' 팝업 스토어 오픈 정보"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 신상✨ 치이카와 파크 오픈!",
-        "cards": [
-          {
-            "title": "오픈일",
-            "content": "JR 오사카역 직결 루쿠아 오사카 신관 'LUCUA SOUTH' 11층에 '치이카와 파크 스토어'가 2023년 11월 24일 오픈합니다.",
-            "alt_text": "치이카와 파크 스토어 오픈 안내"
-          },
-          {
-            "title": "위치",
-            "content": "주소는 오사카부 오사카시 기타구 우메다 3-1-1이며, JR 오사카역에서 바로 연결되어 접근성이 매우 좋습니다.",
-            "alt_text": "오사카 루쿠아 사우스 위치"
-          },
-          {
-            "title": "주요 상품",
-            "content": "다양한 치이카와 캐릭터 상품을 만날 수 있으며, 일부 상품은 선행 공개되어 기대감을 높이고 있습니다.",
-            "alt_text": "치이카와 캐릭터 상품 이미지"
-          },
-          {
-            "title": "쇼핑 찬스",
-            "content": "일본 한정 상품이나 특별 기획 상품을 득템할 수 있는 기회, 놓치지 마세요!",
-            "alt_text": "일본 쇼핑 아이템"
-          },
-          {
-            "title": "꿀팁",
-            "content": "오픈 초기에는 많은 인파가 몰릴 수 있으니, 방문 전 영업시간 및 혼잡도를 미리 확인하는 것이 좋습니다.",
-            "alt_text": "여행 팁 아이콘"
-          }
-        ],
-        "caption": "💖 오사카 여행 필수 코스 등장! 💖\nJR 오사카역 직결 루쿠아 오사카 신관에 인기 캐릭터 '치이카와 파크 스토어'가 11월 24일 오픈합니다! 🤩\n다양한 치이카와 굿즈를 만나볼 수 있는 절호의 찬스! 🛍️\n오사카 방문 예정이라면 꼭 들러보세요! 🇯🇵\n\n#일본여행 #플라잉재팬 #오사카여행 #치이카와 #루쿠아오사카 #일본쇼핑 #오사카쇼핑 #캐릭터샵 #일본신상 #여행정보 #일본자유여행 #여행스타그램 #오사카가볼만한곳 #일본덕후 #치이카와파크스토어",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#치이카와",
-          "#루쿠아오사카",
-          "#일본쇼핑",
-          "#오사카쇼핑",
-          "#캐릭터샵",
-          "#일본신상",
-          "#여행정보",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#오사카가볼만한곳",
-          "#일본덕후",
-          "#치이카와파크스토어"
-        ],
-        "alt_texts": [
-          "치이카와 파크 스토어 오픈 안내",
-          "오사카 루쿠아 사우스 위치",
-          "치이카와 캐릭터 상품 이미지",
-          "일본 쇼핑 아이템",
-          "여행 팁 아이콘"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 공유, 방문 예약 문의 / 이 콘텐츠의 강점: 최신 오픈 정보, 인기 캐릭터 활용, 쇼핑 팁 제공",
-      "image": {
-        "keyword": "Chiikawa Park Store Osaka",
-        "unsplash_url": "https://unsplash.com/s/photos/Chiikawa-Park-Store-Osaka",
-        "pexels_url": "https://www.pexels.com/search/Chiikawa%20Park%20Store%20Osaka/"
       }
     }
   ]
