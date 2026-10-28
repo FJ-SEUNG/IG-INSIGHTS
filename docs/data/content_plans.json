@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-28T02:14:41.847160",
+  "last_updated": "2026-10-28T05:25:44.224408",
   "plans": [
+    {
+      "id": "plan_b5969731",
+      "created_at": "2026-10-28T05:25:42.224231",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ジェイトリップ、熊本の「九州ふっこう応援割」まもなく発売。福岡ほか2県も予約再開、JAL航空券＋宿泊が最大60％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2151809.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 경비 확 줄이는 꿀팁! 최대 60% 할인 찬스를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "일본 여행 최대 60% 할인! ✈️",
+        "cards": [
+          {
+            "title": "九州ふっこう応援割",
+            "content": "일본 규슈 지역 여행 지원 캠페인 '큐슈 부흥 응원 할인'이 곧 시작됩니다. JAL 항공권과 숙박을 묶어 파격적인 할인 혜택을 제공합니다.",
+            "alt_text": "큐슈 지역 지도와 함께 할인 혜택을 알리는 이미지"
+          },
+          {
+            "title": "최대 60% 할인",
+            "content": "구마모토와 가고시마 지역은 최대 60% 할인, 그 외 5개 현은 최대 50% 할인을 받을 수 있습니다. 알뜰한 일본 여행을 계획해보세요!",
+            "alt_text": "할인율을 강조하는 숫자 '60%' 이미지"
+          },
+          {
+            "title": "JAL 항공권+숙박",
+            "content": "할인은 JAL 항공권과 숙박을 함께 예약하는 전용 플랜에 적용됩니다. 일본 현지 여행사 J-TRIP에서 예약 가능합니다.",
+            "alt_text": "JAL 항공기 날개와 함께 호텔 이미지가 보이는 콜라주"
+          },
+          {
+            "title": "예약 재개",
+            "content": "후쿠오카를 포함한 2개 현도 예약이 재개되었습니다. 인기 있는 지역은 조기 마감될 수 있으니 서둘러 예약하세요.",
+            "alt_text": "달력 이미지와 함께 '예약 가능' 표시"
+          },
+          {
+            "title": "여행 팁",
+            "content": "할인 적용 조건 및 상세 내용은 J-TRIP 공식 채널을 통해 확인하시고, 큐슈 지역의 숨겨진 매력을 저렴하게 즐겨보세요!",
+            "alt_text": "여행 가방과 함께 할인 쿠폰 이미지를 든 손"
+          }
+        ],
+        "caption": "✈️ 일본 여행 계획 중이신가요? ✈️\n\n일본 규슈 지역 여행 지원 캠페인 '큐슈 부흥 응원 할인'이 곧 시작됩니다! \n\nJAL 항공권과 숙박을 묶어 예약하면 최대 60% 할인 혜택을 받을 수 있다는 사실! 😲\n\n구마모토, 가고시마는 최대 60%, 후쿠오카를 포함한 다른 지역도 최대 50% 할인! 💰\n\n알뜰하게 일본 여행을 즐길 절호의 기회, 놓치지 마세요! \n\n#일본여행 #큐슈여행 #규슈부흥응원할인 #JAL항공권 #일본숙소 #여행할인 #일본여행꿀팁 #플라잉재팬 #일본정부지원 #가성비여행 #일본여행정보 #여행스타그램 #일본자유여행 #일본여행준비 #해외여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#큐슈여행",
+          "#규슈부흥응원할인",
+          "#JAL항공권",
+          "#일본숙소",
+          "#여행할인",
+          "#일본여행꿀팁",
+          "#일본정부지원",
+          "#가성비여행",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "큐슈 지역 지도와 함께 할인 혜택을 알리는 이미지",
+          "할인율을 강조하는 숫자 '60%' 이미지",
+          "JAL 항공기 날개와 함께 호텔 이미지가 보이는 콜라주",
+          "달력 이미지와 함께 '예약 가능' 표시",
+          "여행 가방과 함께 할인 쿠폰 이미지를 든 손"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 규슈 지역 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시 ~ 9시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 할인율과 구체적인 할인 내용을 명확하게 제시하여 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japan travel discount, Kyushu, JAL, accommodation, airplane, coupon, save money, travel plan, limited offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Kyushu,-JAL,-accommodation,-airplane,-coupon,-save-money,-travel-plan,-limited-offer",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Kyushu,%20JAL,%20accommodation,%20airplane,%20coupon,%20save%20money,%20travel%20plan,%20limited%20offer/"
+      }
+    },
+    {
+      "id": "plan_18cf0dda",
+      "created_at": "2026-10-28T05:25:35.730559",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、伊東・熱海発の特急「踊り子」がJRE POINTでおトクに乗れる。平日の上り列車限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2151808.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "특급 열차 '오도리코'를 JRE POINT로 저렴하게 이용할 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "JR포인트로 🚄 오도리코 할인!",
+        "cards": [
+          {
+            "title": "할인 대상",
+            "content": "JR 동일본에서 특급 '오도리코' 열차의 평일 상행선 열차에 대해 JRE POINT를 사용하면 할인 혜택을 제공합니다. 이 캠페인은 11월 2일부터 30일까지 진행됩니다.",
+            "alt_text": "특급 오도리코 열차 내부 모습"
+          },
+          {
+            "title": "이용 방법",
+            "content": "JRE POINT를 사용하여 해당 기간 동안 평일 상행선 '오도리코' 열차 티켓을 구매하면 할인된 가격으로 이용할 수 있습니다. 평일에 이토 또는 아타미에서 출발하는 열차에 해당됩니다.",
+            "alt_text": "JRE POINT 앱 화면 캡처"
+          },
+          {
+            "title": "기간 확인",
+            "content": "이번 프로모션은 2023년 11월 2일부터 11월 30일까지 한 달간 진행되니, 여행 계획 시 참고하세요.",
+            "alt_text": "달력에 표시된 11월"
+          },
+          {
+            "title": "노선 정보",
+            "content": "이 프로모션은 이토(伊東) 및 아타미(熱海)에서 출발하는 '오도리코' 열차의 상행선에 적용됩니다. 도쿄 방면으로 이동 시 유용합니다.",
+            "alt_text": "일본 지도에 표시된 이토, 아타미, 도쿄"
+          },
+          {
+            "title": "꿀팁",
+            "content": "JRE POINT가 있다면 평일 도쿄 근교 여행 시 '오도리코' 열차를 더욱 알뜰하게 이용할 수 있습니다. 미리 JRE POINT 계정을 확인하고 준비하는 것이 좋습니다.",
+            "alt_text": "JRE POINT 로고"
+          }
+        ],
+        "caption": "✨JR 동일본 특급 '오도리코' JRE POINT 할인 찬스!✨\n\n11월 2일부터 30일까지, 평일 상행선 열차를 JRE POINT로 더욱 저렴하게 이용하세요!\n이토, 아타미 출발 시 도쿄까지 편안하게 이동할 수 있는 기회입니다. 🚄\n\n여행 계획에 꼭 참고하셔서 알뜰한 일본 여행 되세요! 😉\n\n#일본여행 #플라잉재팬 #JR동일본 #특급오도리코 #JREPOINT #일본교통 #열차여행 #일본할인 #도쿄근교 #이토 #아타미 #일본여행팁 #가을여행 #교통정보 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#특급오도리코",
+          "#JREPOINT",
+          "#일본교통",
+          "#열차여행",
+          "#일본할인",
+          "#도쿄근교",
+          "#이토",
+          "#아타미",
+          "#일본여행팁",
+          "#가을여행",
+          "#교통정보",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "특급 오도리코 열차 내부 모습",
+          "JRE POINT 앱 화면 캡처",
+          "달력에 표시된 11월",
+          "일본 지도에 표시된 이토, 아타미, 도쿄",
+          "JRE POINT 로고"
+        ]
+      },
+      "marketer_analysis": "타겟: 11월 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 정보 탐색 시간) / 기대 반응: 정보 유용성에 대한 긍정적인 반응, 할인 정보 공유 및 질문 / 이 콘텐츠의 강점: 구체적인 할인 정보, 기간, 대상 열차 명시로 실질적인 도움 제공",
+      "image": {
+        "keyword": "Limited express train Odoriko, JRE POINT discount, Ito, Atami, Tokyo",
+        "unsplash_url": "https://unsplash.com/s/photos/Limited-express-train-Odoriko,-JRE-POINT-discount,-Ito,-Atami,-Tokyo",
+        "pexels_url": "https://www.pexels.com/search/Limited%20express%20train%20Odoriko,%20JRE%20POINT%20discount,%20Ito,%20Atami,%20Tokyo/"
+      }
+    },
     {
       "id": "plan_c042cbf0",
       "created_at": "2026-10-28T02:14:39.846960",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo, French restaurant, Keio Plaza Hotel, Shinjuku, fine dining, cityscape view, new opening",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo,-French-restaurant,-Keio-Plaza-Hotel,-Shinjuku,-fine-dining,-cityscape-view,-new-opening",
         "pexels_url": "https://www.pexels.com/search/Tokyo,%20French%20restaurant,%20Keio%20Plaza%20Hotel,%20Shinjuku,%20fine%20dining,%20cityscape%20view,%20new%20opening/"
-      }
-    },
-    {
-      "id": "plan_0a8ec997",
-      "created_at": "2026-10-25T01:10:23.279520",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ダブルツリーbyヒルトン沖縄北谷リゾート、ラプンツェルの原典から着想を得たランチ＆スイーツビュッフェ　2027年1月11日まで",
-        "url": "https://www.traicy.com/posts/20261025379343/",
-        "date": "Sun, 25 Oct 2026 00:15:20 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "라푼젤 테마 디저트 뷔페, 2027년까지 즐길 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "✨라푼젤 디저트 뷔페✨",
-        "cards": [
-          {
-            "title": "기간 한정!",
-            "content": "더블트리 by 힐튼 오키나와 차탄 리조트에서 '백은의 탑의 공주 ~황금 머리카락의 기억~' 뷔페를 2027년 1월 11일까지 개최해요.",
-            "alt_text": "더블트리 by 힐튼 오키나와 차탄 리조트 전경"
-          },
-          {
-            "title": "특별 테마",
-            "content": "동화 '라푼젤'의 원작에서 영감을 받은 특별한 런치 & 스위츠 뷔페랍니다.",
-            "alt_text": "라푼젤 테마의 화려한 디저트"
-          },
-          {
-            "title": "운영 요일",
-            "content": "매주 토요일, 일요일, 그리고 월요일에만 운영되니 방문 전 꼭 확인하세요!",
-            "alt_text": "달력에 표시된 토, 일, 월"
-          },
-          {
-            "title": "오키나와에서!",
-            "content": "오키나와 차탄 지역에서 펼쳐지는 동화 같은 디저트 경험을 놓치지 마세요.",
-            "alt_text": "오키나와 해변 풍경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 있는 뷔페이니만큼, 방문 전 예약 가능 여부를 확인하고 가는 것을 추천해요!",
-            "alt_text": "스마트폰으로 예약하는 모습"
-          }
-        ],
-        "caption": "동화 속 주인공이 된 듯한 특별한 경험! 💖\n오키나와에서 라푼젤 테마의 런치 & 스위츠 뷔페를 2027년 1월 11일까지 즐길 수 있어요.\n토, 일, 월요일에만 운영되니 여행 계획에 참고하세요! 👑\n#오키나와여행 #디저트뷔페 #라푼젤 #힐튼호텔 #일본여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오키나와",
-          "#오키나와여행",
-          "#오키나와맛집",
-          "#오키나와카페",
-          "#일본호텔",
-          "#힐튼호텔",
-          "#차탄",
-          "#디저트뷔페",
-          "#라푼젤",
-          "#기간한정",
-          "#여행정보",
-          "#일본자유여행",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "더블트리 by 힐튼 오키나와 차탄 리조트 전경",
-          "라푼젤 테마의 화려한 디저트",
-          "달력에 표시된 토, 일, 월",
-          "오키나와 해변 풍경",
-          "스마트폰으로 예약하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 오키나와 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 높은 공유율 및 저장율, 댓글 문의 증가 / 이 콘텐츠의 강점: 독특한 테마와 긴 운영 기간으로 희소성 및 매력 강조",
-      "image": {
-        "keyword": "Rapunzel themed dessert buffet, Okinawa, Hilton Hotel Chatan Resort, fairytale, limited time offer",
-        "unsplash_url": "https://unsplash.com/s/photos/Rapunzel-themed-dessert-buffet,-Okinawa,-Hilton-Hotel-Chatan-Resort,-fairytale,-limited-time-offer",
-        "pexels_url": "https://www.pexels.com/search/Rapunzel%20themed%20dessert%20buffet,%20Okinawa,%20Hilton%20Hotel%20Chatan%20Resort,%20fairytale,%20limited%20time%20offer/"
-      }
-    },
-    {
-      "id": "plan_14178172",
-      "created_at": "2026-10-25T01:10:18.561242",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】函館駅「復刻鰊みがき弁当」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2150511.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "추억의 맛, 하코다테역 명물 '복각 니싱 미가키 벤토'로 떠나는 특별한 미식 여행!"
-      },
-      "content": {
-        "thumbnail_title": "💖추억의 맛! 하코다테역 벤토💖",
-        "cards": [
-          {
-            "title": "하코다테역 벤토",
-            "content": "하코다테역에서 특별한 '복각 니싱 미가키 벤토'를 만나보세요. 1960년대 규슈와 홋카이도를 잇던 청函 연락선 시절의 향수를 그대로 담았습니다.",
-            "alt_text": "하코다테역 복각 니싱 미가키 벤토 이미지"
-          },
-          {
-            "title": "복각 메뉴",
-            "content": "당시 그대로의 맛을 재현한 니싱(청어)과 쌀밥의 조화가 일품입니다. 홋카이도 여행의 시작을 알리는 특별한 식사가 될 거예요.",
-            "alt_text": "벤토 속 니싱(청어) 요리 이미지"
-          },
-          {
-            "title": "기차 여행의 추억",
-            "content": "연락선 부두와 직결되었던 하코다테역에서 기차에 오르던 옛 추억을 떠올리게 합니다. 홋카이도 여행의 낭만을 더해보세요.",
-            "alt_text": "기차와 벤토를 함께 찍은 이미지"
-          },
-          {
-            "title": "여행의 시작",
-            "content": "이 벤토와 함께 기차에 올라 홋카이도 관광을 즐겼던 수많은 사람들의 이야기가 담겨 있습니다. 특별한 미식 경험을 놓치지 마세요.",
-            "alt_text": "기차 창밖 풍경과 벤토 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "하코다테역 내 에키벤 판매점에서 구매 가능하며, 한정 수량으로 판매될 수 있으니 여행 계획 시 참고하세요.",
-            "alt_text": "하코다테역 에키벤 판매점 이미지"
-          }
-        ],
-        "caption": "🚄 추억 소환! 하코다테역 한정 '복각 니싱 미가키 벤토' 💖\n1960년대 홋카이도 여행의 낭만을 담은 특별한 에키벤을 만나보세요!\n기차 안에서 즐기는 특별한 미식 경험, 놓치지 마세요! 👇\n\n#일본여행 #하코다테 #에키벤 #미식여행 #홋카이도",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하코다테",
-          "#홋카이도",
-          "#일본기차여행",
-          "#에키벤",
-          "#일본음식",
-          "#일본맛집",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#감성여행",
-          "#추억여행",
-          "#일본가볼만한곳",
-          "#현지인추천",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "하코다테역 복각 니싱 미가키 벤토 이미지",
-          "벤토 속 니싱(청어) 요리 이미지",
-          "기차와 벤토를 함께 찍은 이미지",
-          "기차 창밖 풍경과 벤토 이미지",
-          "하코다테역 에키벤 판매점 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 하코다테를 방문하는 한국인 여행자, 레트로 감성과 특별한 미식 경험을 추구하는 여행자 / 최적 게시 시간: 여행 준비 기간인 주말 오후 / 기대 반응: '이거 꼭 먹어봐야겠다!'는 반응, 공유 및 저장 / 이 콘텐츠의 강점: 향수를 자극하는 스토리텔링과 구체적인 상품 정보 결합",
-      "image": {
-        "keyword": "Hakodate station bento, Japanese train lunch box, Nissin (herring) bento, Retro Japanese food, Hokkaido travel food",
-        "unsplash_url": "https://unsplash.com/s/photos/Hakodate-station-bento,-Japanese-train-lunch-box,-Nissin-(herring)-bento,-Retro-Japanese-food,-Hokkaido-travel-food",
-        "pexels_url": "https://www.pexels.com/search/Hakodate%20station%20bento,%20Japanese%20train%20lunch%20box,%20Nissin%20(herring)%20bento,%20Retro%20Japanese%20food,%20Hokkaido%20travel%20food/"
       }
     }
   ]
