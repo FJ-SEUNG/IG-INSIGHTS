@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-27T04:50:31.972718",
+  "last_updated": "2026-10-28T02:14:41.847160",
   "plans": [
+    {
+      "id": "plan_c042cbf0",
+      "created_at": "2026-10-28T02:14:39.846960",
+      "category": "tips",
+      "priority": "low",
+      "status": "new",
+      "source": {
+        "title": "本日発売「ツバメノート文具缶」。レトロなケースにハサミやマステ、ぷにぷにシールなど8点入り",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2151680.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "하",
+        "appeal": "일본 감성 가득한 레트로 문구 굿즈 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✨츠바메노트 문구캔 출시!",
+        "cards": [
+          {
+            "title": "신상 문구캔",
+            "content": "일본의 유명한 '츠바메노트'에서 레트로 감성 가득한 문구캔을 출시했어요. 10월 28일에 발매되었으며, 가격은 2,980엔입니다.",
+            "alt_text": "레트로 디자인의 츠바메노트 문구캔 이미지"
+          },
+          {
+            "title": "구성품 확인",
+            "content": "문구캔 안에는 하사미(가위), 마스킹 테이프, ぷにぷに(말랑말랑) 스티커 등 총 8가지 실용적인 문구류가 포함되어 있습니다.",
+            "alt_text": "문구캔 안에 들어있는 다양한 문구류 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "일본 내 서점 및 온라인 쇼핑몰에서 구매 가능하며, 여행 중 기념품으로 구매하기 좋아요.",
+            "alt_text": "일본 서점에서 판매 중인 문구캔 이미지"
+          },
+          {
+            "title": "레트로 감성",
+            "content": "추억을 자극하는 복고풍 디자인으로, 문구류 수집을 좋아하는 분들에게는 놓칠 수 없는 아이템이 될 거예요.",
+            "alt_text": "빈티지 스타일의 츠바메노트 문구캔 상세 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "한국으로 가져와서 다이어리 꾸미기나 선물용으로 활용하기 좋아요. 한정 수량일 수 있으니 서둘러 확인하세요!",
+            "alt_text": "문구캔으로 꾸민 다이어리 이미지"
+          }
+        ],
+        "caption": "일본 여행 중 특별한 기념품을 찾고 있다면 주목! 💖 츠바메노트에서 출시된 레트로 감성 문구캔을 소개합니다. 10월 28일 출시된 이 문구캔은 2,980엔이며, 가위, 마스킹 테이프, 말랑한 스티커 등 총 8가지 구성품으로 알차게 채워져 있어요. 일본 서점 및 온라인에서 구매 가능하며, 여행의 추억을 담아오기 딱 좋답니다. ✈️\n\n#일본여행 #플라잉재팬 #츠바메노트 #문구덕후 #일본쇼핑 #기념품 #레트로감성 #다이어리꾸미기 #일본기념품 #문구캔 #일본여행준비 #도쿄쇼핑 #오사카쇼핑 #일본직구 #여행필수템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#츠바메노트",
+          "#문구덕후",
+          "#일본쇼핑",
+          "#기념품",
+          "#레트로감성",
+          "#다이어리꾸미기",
+          "#일본기념품",
+          "#문구캔",
+          "#일본여행준비",
+          "#도쿄쇼핑",
+          "#오사카쇼핑",
+          "#일본직구",
+          "#여행필수템"
+        ],
+        "alt_texts": [
+          "레트로 디자인의 츠바메노트 문구캔 이미지",
+          "문구캔 안에 들어있는 다양한 문구류 이미지",
+          "일본 서점에서 판매 중인 문구캔 이미지",
+          "빈티지 스타일의 츠바메노트 문구캔 상세 이미지",
+          "문구캔으로 꾸민 다이어리 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 준비 중이거나 일본 현지에서 쇼핑을 즐기는 20-40대 여성 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오후 2시-4시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 한국에서 구하기 어려운 한정판 굿즈 정보, 실용성과 감성 모두 갖춘 아이템 소개",
+      "image": {
+        "keyword": "tsubame note stationery can, retro japanese stationery, japanese souvenir, stationery collection, japan travel shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/tsubame-note-stationery-can,-retro-japanese-stationery,-japanese-souvenir,-stationery-collection,-japan-travel-shopping",
+        "pexels_url": "https://www.pexels.com/search/tsubame%20note%20stationery%20can,%20retro%20japanese%20stationery,%20japanese%20souvenir,%20stationery%20collection,%20japan%20travel%20shopping/"
+      }
+    },
+    {
+      "id": "plan_e74f094e",
+      "created_at": "2026-10-28T02:14:33.884479",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本びゅう「ブラックフライデーセール」第1弾。往復新幹線セットの東北温泉/函館グルメ旅/サフィール踊り子で行く南伊豆ほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2151693.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JR동일본, 블랙프라이데이 세일로 알찬 일본 여행 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨JR동일본 블랙프라이데이 세일✨",
+        "cards": [
+          {
+            "title": "블랙프라이데이 세일",
+            "content": "JR동일본이 4회에 걸쳐 블랙프라이데이 세일을 진행합니다. 일본 국내 여행 상품 예약 사이트 '일본의 여행, 철도의 여행'과 열차+숙박 세트 예약 '뷰 여행'에서 특별 할인가로 만나보세요.",
+            "alt_text": "JR동일본 블랙프라이데이 세일 로고"
+          },
+          {
+            "title": "온천 & 미식 여행",
+            "content": "이번 세일에서는 도호쿠 온천 여행, 하코다테 미식 여행 등 다양한 테마의 상품을 선보입니다. 왕복 신칸센 세트 상품으로 더욱 편리하게 여행을 계획할 수 있습니다.",
+            "alt_text": "도호쿠 지역 온천 풍경"
+          },
+          {
+            "title": "사피르 오도리코",
+            "content": "남이즈로 떠나는 '사피르 오도리코' 열차 여행 상품도 준비되어 있습니다. 아름다운 해안선을 따라 펼쳐지는 풍경을 만끽하며 특별한 추억을 만들어보세요.",
+            "alt_text": "사피르 오도리코 열차"
+          },
+          {
+            "title": "여행 계획 팁",
+            "content": "세일 기간 동안 JR동일본의 다양한 여행 상품을 활용하면 합리적인 가격으로 일본의 매력을 만끽할 수 있습니다. 공식 예약 사이트에서 자세한 상품 정보를 확인하세요.",
+            "alt_text": "여행 계획을 세우는 사람"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "세일은 총 4기에 걸쳐 진행되므로, 원하는 날짜와 상품을 미리 확인하고 예약하는 것이 좋습니다. JR동일본의 특별한 혜택을 놓치지 마세요!",
+            "alt_text": "달력에 표시된 세일 기간"
+          }
+        ],
+        "caption": "🚄 JR동일본 블랙프라이데이 세일 시작! 💖\n\n일본 여행을 계획 중이라면 주목! JR동일본이 특별한 블랙프라이데이 세일을 진행합니다. 🤩\n\n✅ 왕복 신칸센 + 숙박 세트 상품!\n✅ 도호쿠 온천, 하코다테 미식, 남이즈 사피르 오도리코 등 테마별 여행!\n✅ 4기에 걸쳐 진행되니 원하는 상품 미리 찜하기!\n\n합리적인 가격으로 알찬 일본 여행을 떠날 기회, 놓치지 마세요! ✨\n\n#일본여행 #JR동일본 #블랙프라이데이 #일본할인 #일본여행팁 #여행정보 #일본철도 #신칸센 #온천여행 #미식여행 #사피르오도리코 #일본자유여행 #여행스타그램 #플라잉재팬 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#블랙프라이데이",
+          "#일본할인",
+          "#일본여행팁",
+          "#여행정보",
+          "#일본철도",
+          "#신칸센",
+          "#온천여행",
+          "#미식여행",
+          "#사피르오도리코",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "JR동일본 블랙프라이데이 세일 로고",
+          "도호쿠 지역 온천 풍경",
+          "사피르 오도리코 열차",
+          "여행 계획을 세우는 사람",
+          "달력에 표시된 세일 기간"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 세일 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 혜택 제공, 구체적인 상품 테마 제시",
+      "image": {
+        "keyword": "JR East Black Friday Sale Japan Train Tour",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-East-Black-Friday-Sale-Japan-Train-Tour",
+        "pexels_url": "https://www.pexels.com/search/JR%20East%20Black%20Friday%20Sale%20Japan%20Train%20Tour/"
+      }
+    },
     {
       "id": "plan_ce71d195",
       "created_at": "2026-10-27T04:50:29.972560",
@@ -923,160 +1077,6 @@
         "keyword": "Hakodate station bento, Japanese train lunch box, Nissin (herring) bento, Retro Japanese food, Hokkaido travel food",
         "unsplash_url": "https://unsplash.com/s/photos/Hakodate-station-bento,-Japanese-train-lunch-box,-Nissin-(herring)-bento,-Retro-Japanese-food,-Hokkaido-travel-food",
         "pexels_url": "https://www.pexels.com/search/Hakodate%20station%20bento,%20Japanese%20train%20lunch%20box,%20Nissin%20(herring)%20bento,%20Retro%20Japanese%20food,%20Hokkaido%20travel%20food/"
-      }
-    },
-    {
-      "id": "plan_f868e0dc",
-      "created_at": "2026-10-24T04:24:53.987317",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジェットスター、片道3690円～「スーパースターセール」本日開始。深夜早朝便の利用で京成スカイライナーがお得に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2150649.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 시 꼭 필요한 저렴한 항공권 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ 3690엔부터! 특가 득템 찬스!",
-        "cards": [
-          {
-            "title": "초특가 찬스!",
-            "content": "일본 전역 16개 노선, 아시아 5개 노선 대상 '슈퍼스타 세일'이 시작됐어요! ✈️\n편도 3,690엔부터 시작하는 놀라운 가격으로 일본 여행을 계획해보세요.",
-            "alt_text": "행복해하는 사람이 비행기를 바라보고 있는 모습"
-          },
-          {
-            "title": "세일 기간 확인!",
-            "content": "이번 슈퍼스타 세일은 10월 26일까지 진행됩니다. 🗓️\n놓치기 전에 서둘러서 저렴한 항공권을 확보하세요!",
-            "alt_text": "달력에 표시된 10월 26일"
-          },
-          {
-            "title": "야간/새벽편 꿀팁!",
-            "content": "심야/새벽 시간대 항공편을 이용하면 더욱 저렴하게 예약할 수 있어요. 🌙\n추가로, 게이세이 스카이라이너 할인 혜택도 받을 수 있다는 사실!",
-            "alt_text": "밤하늘에 떠 있는 비행기"
-          },
-          {
-            "title": "어떤 노선이?",
-            "content": "이번 세일은 일본 국내선 16개 노선과 아시아 5개 노선을 대상으로 합니다. 🌏\n어디로 떠날지 고민이라면 지금 바로 확인해보세요!",
-            "alt_text": "일본 지도와 여러 나라를 연결하는 화살표"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "저렴한 가격으로 일본 여행을 떠날 수 있는 절호의 기회! 🤩\n항공권 가격 비교는 필수, 서둘러 예약하고 알찬 일본 여행을 즐기세요!",
-            "alt_text": "환하게 웃으며 비행기 티켓을 들고 있는 사람"
-          }
-        ],
-        "caption": "🚨긴급! 일본 여행 필수 정보🚨\n\n✈️ 제트스타 '슈퍼스타 세일' 오늘 시작! ✈️\n\n편도 3,690엔부터 시작하는 역대급 특가 찬스!\n일본 국내선 16개, 아시아 5개 노선이 대상이며 10월 26일까지 진행됩니다. 🗓️\n\n심야/새벽편 이용 시 게이세이 스카이라이너 할인 혜택까지! 🚇\n\n지금 바로 제트스타 앱/홈페이지에서 최저가 항공권을 득템하세요! 🤩\n\n#일본여행 #플라잉재팬 #제트스타 #특가항공권 #일본항공권 #가성비여행 #알뜰여행 #여행정보 #항공권할인 #일본가자 #여행스타그램 #인천공항 #김포공항 #나리타공항 #간사이공항",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#제트스타",
-          "#특가항공권",
-          "#일본항공권",
-          "#가성비여행",
-          "#알뜰여행",
-          "#여행정보",
-          "#항공권할인",
-          "#일본가자",
-          "#여행스타그램",
-          "#인천공항",
-          "#김포공항",
-          "#나리타공항",
-          "#간사이공항"
-        ],
-        "alt_texts": [
-          "행복해하는 사람이 비행기를 바라보고 있는 모습",
-          "달력에 표시된 10월 26일",
-          "밤하늘에 떠 있는 비행기",
-          "일본 지도와 여러 나라를 연결하는 화살표",
-          "환하게 웃으며 비행기 티켓을 들고 있는 사람"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5시 - 7시 (퇴근 후 여행 계획 세우는 시간) / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 실제적인 금전 혜택을 제공하는 구체적인 정보",
-      "image": {
-        "keyword": "jetstar, sale, cheap flights, japan travel, discount ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/jetstar,-sale,-cheap-flights,-japan-travel,-discount-ticket",
-        "pexels_url": "https://www.pexels.com/search/jetstar,%20sale,%20cheap%20flights,%20japan%20travel,%20discount%20ticket/"
-      }
-    },
-    {
-      "id": "plan_663712b7",
-      "created_at": "2026-10-24T04:24:47.639895",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "山手線や中央・総武など首都圏6路線で2026年大晦日に終夜運転。犬吠埼・河口湖の初日の出向け臨時列車も",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2150711.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2026년 새해 첫날, 일본에서 특별한 일출을 맞이하고 싶다면 주목!"
-      },
-      "content": {
-        "thumbnail_title": "🎍2026년 새해 첫차 운행!🎍",
-        "cards": [
-          {
-            "title": "새해 첫차 운행",
-            "content": "JR동일본, 2026년 12월 31일 대명절에 도쿄 수도권 6개 노선에서 심야 임시 열차를 운행합니다. 2026년 12월 31일 밤부터 2027년 1월 1일 새벽까지 운행 예정입니다.",
-            "alt_text": "JR동일본 열차 운행 안내 그래픽"
-          },
-          {
-            "title": "주요 운행 노선",
-            "content": "야마노테선, 주오선, 소부선 등 6개 노선에서 운행됩니다. 정확한 운행 구간 및 시간표는 추후 발표될 예정이니, JR동일본 공식 발표를 꼭 확인해주세요.",
-            "alt_text": "도쿄 수도권 노선도 그래픽"
-          },
-          {
-            "title": "특별한 일출 명소",
-            "content": "이와 함께, 2026년 새해 첫날 아침에는 이누보사키(犬吠埼)와 가와구치코(河口湖)에서 해돋이를 감상할 수 있도록 임시 열차도 운행될 예정입니다. 새해 첫 일출을 특별한 장소에서 맞이하세요!",
-            "alt_text": "이누보사키 등대와 해돋이 풍경 사진"
-          },
-          {
-            "title": "연말연시 계획",
-            "content": "2026년 연말연시 일본 여행을 계획 중이라면, 이 정보를 활용하여 새해 첫날 특별한 경험을 만들어보세요. 새해 첫차를 타고 특별한 장소로 이동하는 것도 좋은 추억이 될 것입니다.",
-            "alt_text": "일본 전통 새해 인사 이미지"
-          },
-          {
-            "title": "꿀팁 & 주의사항",
-            "content": "임시 열차는 많은 인파가 몰릴 수 있으니, 미리 티켓 예매 정보를 확인하고 서둘러 준비하는 것이 좋습니다. 또한, 운행 시간 변동 가능성이 있으니 출발 전 반드시 최신 정보를 확인하세요.",
-            "alt_text": "여행객이 열차를 기다리는 모습"
-          }
-        ],
-        "caption": "🎍2026년 새해, 일본에서 특별한 일출을 맞이하고 싶다면 주목!🎍\nJR동일본이 2026년 12월 31일 대명절에 도쿄 수도권 6개 노선에서 심야 임시 열차를 운행합니다. 🌅이누보사키, 가와구치코 등 해돋이 명소로 가는 임시 열차도 운행 예정!\n연말연시 일본 여행 계획 중이라면, 이 특별한 기회를 놓치지 마세요! ✨\n#새해첫차 #일본일출 #연말연시여행 #JR동일본 #도쿄여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#JR동일본",
-          "#새해여행",
-          "#2026년",
-          "#새해첫날",
-          "#도쿄여행",
-          "#일출명소",
-          "#이누보사키",
-          "#가와구치코",
-          "#일본축제",
-          "#여행꿀팁",
-          "#연말여행",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "JR동일본 열차 운행 안내 그래픽",
-          "도쿄 수도권 노선도 그래픽",
-          "이누보사키 등대와 해돋이 풍경 사진",
-          "일본 전통 새해 인사 이미지",
-          "여행객이 열차를 기다리는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 2026년 연말연시 일본 여행을 계획하는 한국인 여행객 / 최적 게시 시간: 여행 계획 시즌인 10월~12월 중, 오후 2시~4시 / 기대 반응: '정보 유용하다', '꼭 가봐야겠다'는 댓글 및 저장 / 이 콘텐츠의 강점: 새해 첫날 특별한 경험을 제공하는 구체적인 교통 정보",
-      "image": {
-        "keyword": "japan new year train, tokyo new year sunrise, jr east limited express, inubosaki lighthouse sunrise, kawaguchiko sunrise",
-        "unsplash_url": "https://unsplash.com/s/photos/japan-new-year-train,-tokyo-new-year-sunrise,-jr-east-limited-express,-inubosaki-lighthouse-sunrise,-kawaguchiko-sunrise",
-        "pexels_url": "https://www.pexels.com/search/japan%20new%20year%20train,%20tokyo%20new%20year%20sunrise,%20jr%20east%20limited%20express,%20inubosaki%20lighthouse%20sunrise,%20kawaguchiko%20sunrise/"
       }
     }
   ]
