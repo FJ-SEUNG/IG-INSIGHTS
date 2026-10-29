@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-28T05:25:44.224408",
+  "last_updated": "2026-10-29T02:27:07.623198",
   "plans": [
+    {
+      "id": "plan_1abe47bb",
+      "created_at": "2026-10-29T02:27:05.622959",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "29歳以下は入浴料300円、東京都と浴場組合が「若者向け銭湯体験キャンペーン」開始",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152053.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄에서 특별한 힐링! 29세 이하라면 300엔으로 銭湯(센토) 체험 가능! ♨️"
+      },
+      "content": {
+        "thumbnail_title": "도쿄 ♨️ 29세 이하 300엔! 銭湯 체험",
+        "cards": [
+          {
+            "title": "캠페인 시작!",
+            "content": "도쿄도와 도쿄 공중목욕탕업 생활위생동업조합이 '젊은층 대상 銭湯 체험 캠페인'을 11월 4일부터 시작했어요. 🛁",
+            "alt_text": "도쿄 銭湯 체험 캠페인 시작을 알리는 이미지"
+          },
+          {
+            "title": "특별 할인",
+            "content": "만 29세 이하 한국인 여행자라면, 도쿄의 銭湯을 단돈 300엔에 이용할 수 있습니다. 💸",
+            "alt_text": "29세 이하 300엔 銭湯 이용권 이미지"
+          },
+          {
+            "title": "테마는 '湯る活'",
+            "content": "디지털 피로에 지친 젊은 세대를 위해 '＃湯る活しよ'를 테마로, 도쿄 銭湯을 새로운 힐링 공간으로 제안합니다. 🌿",
+            "alt_text": "湯る活(유루카츠) 테마를 나타내는 힐링 이미지"
+          },
+          {
+            "title": "도쿄 銭湯 찾기",
+            "content": "캠페인 참여 銭湯은 도쿄도 공중목욕탕업 생활위생동업조합 웹사이트 등에서 확인 가능해요. (※현재는 11월 4일 이후 정보 확인 필요)",
+            "alt_text": "도쿄 銭湯 지도 또는 목록 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "일본 현지 문화를 직접 체험하며 특별한 추억을 만들 절호의 기회! 잊지 말고 꼭 참여해보세요. 📸",
+            "alt_text": "일본 銭湯에서 즐거운 시간을 보내는 젊은 여행자 이미지"
+          }
+        ],
+        "caption": "도쿄 여행 중 특별한 힐링을 원한다면? ♨️\n11월 4일부터 시작되는 '젊은층 대상 銭湯 체험 캠페인'을 주목하세요!\n만 29세 이하 한국인 여행자는 단돈 300엔으로 일본 전통 銭湯을 경험할 수 있습니다. 🛁\n디지털 피로를 풀고 '＃湯る活しよ' 테마로 힐링하세요! 🌿\n\n#도쿄여행 #일본온천 #센토 #도쿄가볼만한곳 #일본문화체험 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄센토",
+          "#일본온천",
+          "#銭湯",
+          "#도쿄가볼만한곳",
+          "#일본여행꿀팁",
+          "#일본문화",
+          "#젊음할인",
+          "#도쿄체험",
+          "#힐링여행",
+          "#여행정보",
+          "#일본축제",
+          "#11월여행"
+        ],
+        "alt_texts": [
+          "도쿄 銭湯 체험 캠페인 시작을 알리는 이미지",
+          "29세 이하 300엔 銭湯 이용권 이미지",
+          "湯る活(유루카츠) 테마를 나타내는 힐링 이미지",
+          "도쿄 銭湯 지도 또는 목록 이미지",
+          "일본 銭湯에서 즐거운 시간을 보내는 젊은 여행자 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 20대 후반 이하 한국인 일본 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심 및 정보 공유 / 이 콘텐츠의 강점: 파격적인 할인율과 특별한 체험 정보 제공",
+      "image": {
+        "keyword": "Tokyo sento, Japanese public bath, discount for young people, travel to Japan, cultural experience",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-sento,-Japanese-public-bath,-discount-for-young-people,-travel-to-Japan,-cultural-experience",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20sento,%20Japanese%20public%20bath,%20discount%20for%20young%20people,%20travel%20to%20Japan,%20cultural%20experience/"
+      }
+    },
+    {
+      "id": "plan_7c633dda",
+      "created_at": "2026-10-29T02:26:59.921336",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、温泉宿が毎日最大30％オフ「秋冬SALE」。レンタカー最大半額、テーマパーク入場チケットもお得に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152055.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 준비 중이라면 놓치면 후회할 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "🍣 10월 29일 꿀딜 찬스!",
+        "cards": [
+          {
+            "title": "온천 숙소 ♨️",
+            "content": "10월 29일 10시부터 11월 19일 9시 59분까지! 楽天 트래블에서 최대 30% 할인된 가격으로 온천 숙소를 예약할 수 있어요.",
+            "alt_text": "따뜻한 김이 나는 일본 온천 숙소 전경"
+          },
+          {
+            "title": "렌터카 🚗",
+            "content": "일본 현지에서 편리하게 이동할 수 있는 렌터카도 최대 반값 할인! 가을 단풍 여행이나 근교 여행 시 유용해요.",
+            "alt_text": "일본 도로를 달리는 렌터카 모습"
+          },
+          {
+            "title": "테마파크 🎢",
+            "content": "일본 인기 테마파크 입장권도 할인된 가격으로 구매 가능! 디즈니랜드, 유니버설 스튜디오 재팬 등에서 신나는 시간을 보내세요.",
+            "alt_text": "화려한 퍼레이드가 펼쳐지는 일본 테마파크"
+          },
+          {
+            "title": "할인 기간 📅",
+            "content": "놓치기 아까운 이번 '楽天 트래블 가을/겨울 세일'은 10월 29일 오전 10시부터 11월 19일 오전 9시 59분까지 진행됩니다.",
+            "alt_text": "달력에 표시된 할인 기간"
+          },
+          {
+            "title": "놓치지 마세요! ✨",
+            "content": "세일 기간 동안 인기 숙소와 액티비티는 빠르게 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천해요!",
+            "alt_text": "손으로 '최고'를 표시하는 모습"
+          }
+        ],
+        "caption": "일본 여행 필수템! 🍁 楽天 트래블 '가을/겨울 세일'이 곧 시작됩니다! \n\n온천 숙소 최대 30% 할인부터 렌터카 반값, 테마파크 티켓 할인까지! \n\n10월 29일 오전 10시부터 11월 19일 오전 9시 59분까지 딱 3주간 진행되니, 일본 가을/겨울 여행 계획 있다면 절대 놓치지 마세요! ✈️ \n\n지금 바로 楽天 트래블에서 역대급 할인 찬스를 잡아보세요! 👇",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#온천여행",
+          "#일본렌터카",
+          "#일본테마파크",
+          "#일본할인",
+          "#楽天트래블",
+          "#일본여행준비",
+          "#가을여행",
+          "#겨울여행",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#해외여행",
+          "#일본쇼핑"
+        ],
+        "alt_texts": [
+          "따뜻한 김이 나는 일본 온천 숙소 전경",
+          "일본 도로를 달리는 렌터카 모습",
+          "화려한 퍼레이드가 펼쳐지는 일본 테마파크",
+          "달력에 표시된 할인 기간",
+          "손으로 '최고'를 표시하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가을/겨울 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 20시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 클릭률 및 저장률, 댓글 문의 / 이 콘텐츠의 강점: 역대급 할인 정보로 즉각적인 행동 유도 가능, 구체적인 할인율 및 기간 명시",
+      "image": {
+        "keyword": "japanese onsen ryokan discount sale",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-onsen-ryokan-discount-sale",
+        "pexels_url": "https://www.pexels.com/search/japanese%20onsen%20ryokan%20discount%20sale/"
+      }
+    },
     {
       "id": "plan_b5969731",
       "created_at": "2026-10-28T05:25:42.224231",
@@ -923,160 +1077,6 @@
         "keyword": "Comfort Hotel ERA Kanazawa Higashiguchi, Kanazawa Station, Japanese breakfast buffet, Hotel booking website, Kanazawa travel planning",
         "unsplash_url": "https://unsplash.com/s/photos/Comfort-Hotel-ERA-Kanazawa-Higashiguchi,-Kanazawa-Station,-Japanese-breakfast-buffet,-Hotel-booking-website,-Kanazawa-travel-planning",
         "pexels_url": "https://www.pexels.com/search/Comfort%20Hotel%20ERA%20Kanazawa%20Higashiguchi,%20Kanazawa%20Station,%20Japanese%20breakfast%20buffet,%20Hotel%20booking%20website,%20Kanazawa%20travel%20planning/"
-      }
-    },
-    {
-      "id": "plan_cf0bbf01",
-      "created_at": "2026-10-25T04:28:43.630829",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "アスコット、「シタディーンノース新宿東京」を10月28日開業",
-        "url": "https://www.traicy.com/posts/20261025378942/",
-        "date": "Sat, 24 Oct 2026 22:15:13 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 신주쿠에 새로운 숙소가 10월 28일 오픈 예정! 여행 계획에 참고하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨10/28 오픈! 신주쿠 새 숙소✨",
-        "cards": [
-          {
-            "title": "숙소명",
-            "content": "시타딘 노스 신주쿠 도쿄 (Citadines North Shinjuku Tokyo)",
-            "alt_text": "새로운 호텔 '시타딘 노스 신주쿠 도쿄' 외관 이미지"
-          },
-          {
-            "title": "오픈일",
-            "content": "2023년 10월 28일",
-            "alt_text": "달력에 10월 28일이 표시된 이미지"
-          },
-          {
-            "title": "총 객실 수",
-            "content": "총 179실 (호텔 객실 106실 + 서비스 레지던스 73실)",
-            "alt_text": "다양한 크기의 객실을 나타내는 아이콘 이미지"
-          },
-          {
-            "title": "객실 타입",
-            "content": "스튜디오 타입(25㎡), 1베드룸 프리미어, 패밀리룸 등",
-            "alt_text": "침대와 소파가 있는 깔끔한 객실 내부 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "신주쿠역에서 가까워 교통이 편리하며, 레지던스 타입은 취사가 가능해 장기 투숙객에게도 유용할 수 있습니다.",
-            "alt_text": "신주쿠역 주변 지도 이미지"
-          }
-        ],
-        "caption": "✈️ 도쿄 여행 계획 중이신가요? ✈️\n\n10월 28일, 신주쿠에 새로운 숙소가 오픈합니다!\n\n'시타딘 노스 신주쿠 도쿄'는 총 179개의 객실을 갖추고 있으며, 호텔 객실과 함께 취사가 가능한 서비스 레지던스도 마련되어 있어요.\n\n신주쿠역에서 가까워 쇼핑과 관광을 즐기기에도 최적의 위치! 🤩\n\n새로운 숙소에서 편안하고 즐거운 도쿄 여행을 만들어보세요!\n\n#일본여행 #도쿄여행 #신주쿠숙소 #새로운호텔 #10월개장 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#도쿄여행",
-          "#신주쿠",
-          "#시타딘노스신주쿠도쿄",
-          "#일본신축호텔",
-          "#도쿄숙소추천",
-          "#여행정보",
-          "#10월여행",
-          "#가을여행",
-          "#일본숙소",
-          "#도쿄",
-          "#여행스타그램",
-          "#플라잉재팬",
-          "#일본가볼만한곳",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "새로운 호텔 '시타딘 노스 신주쿠 도쿄' 외관 이미지",
-          "달력에 10월 28일이 표시된 이미지",
-          "다양한 크기의 객실을 나타내는 아이콘 이미지",
-          "침대와 소파가 있는 깔끔한 객실 내부 이미지",
-          "신주쿠역 주변 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 10월 말~11월 도쿄 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 6시~8시 / 기대 반응: 숙소 정보에 대한 관심 및 문의 증가 / 이 콘텐츠의 강점: 시기적절한 신규 숙소 오픈 정보 제공으로 여행 계획에 실질적인 도움",
-      "image": {
-        "keyword": "Citadines North Shinjuku Tokyo hotel exterior, Shinjuku Station map, hotel room interior",
-        "unsplash_url": "https://unsplash.com/s/photos/Citadines-North-Shinjuku-Tokyo-hotel-exterior,-Shinjuku-Station-map,-hotel-room-interior",
-        "pexels_url": "https://www.pexels.com/search/Citadines%20North%20Shinjuku%20Tokyo%20hotel%20exterior,%20Shinjuku%20Station%20map,%20hotel%20room%20interior/"
-      }
-    },
-    {
-      "id": "plan_ee0a2f46",
-      "created_at": "2026-10-25T04:28:38.933571",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "京王プラザホテル、フレンチレストラン「メイユール」を10月23日開業",
-        "url": "https://www.traicy.com/posts/20261025379247/",
-        "date": "Sat, 24 Oct 2026 23:15:17 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 신주쿠 호텔에서 즐기는 특별한 프랑스 요리!"
-      },
-      "content": {
-        "thumbnail_title": "🗼도쿄 신상 프렌치 레스토랑 오픈!🇫🇷",
-        "cards": [
-          {
-            "title": "신상 프렌치 레스토랑",
-            "content": "도쿄 신주쿠에 위치한 게이오 플라자 호텔 본관 44층에 새로운 프렌치 레스토랑 '메이유르'가 10월 23일에 문을 열었습니다.",
-            "alt_text": "게이오 플라자 호텔 외관 전경"
-          },
-          {
-            "title": "특별한 식사 경험",
-            "content": "이곳은 '누구나 편안하게 머물 수 있는 광장 속 특별한 장소'를 컨셉으로, 일본의 감성과 프랑스 요리 기법을 결합한 독창적인 요리를 선보입니다.",
-            "alt_text": "레스토랑 내부의 고급스러운 식탁 세팅"
-          },
-          {
-            "title": "탁 트인 전망",
-            "content": "44층 높이에서 도쿄 시내를 한눈에 내려다보며 로맨틱하고 잊지 못할 식사를 즐길 수 있습니다.",
-            "alt_text": "레스토랑 창밖으로 보이는 도쿄 시내 야경"
-          },
-          {
-            "title": "메인 다이닝",
-            "content": "메인 다이닝에서는 동서양의 조화를 이룬 특별한 프렌치 코스를 경험할 수 있으며, 최고의 재료와 섬세한 조리법으로 완성됩니다.",
-            "alt_text": "정성스럽게 플레이팅된 프렌치 요리 사진"
-          },
-          {
-            "title": "예약 꿀팁",
-            "content": "인기가 많을 것으로 예상되니, 방문 전 호텔 공식 웹사이트나 전화로 미리 예약하시는 것을 추천합니다. 특별한 날, 소중한 사람과 방문하기 좋습니다.",
-            "alt_text": "예약 관련 안내 문구가 있는 이미지"
-          }
-        ],
-        "caption": "✨도쿄 신주쿠에서 만나는 특별한 미식 경험!✨\n\n게이오 플라자 호텔 44층에 새롭게 오픈한 프렌치 레스토랑 '메이유르'에서 일본 감성과 프랑스 요리가 만나 탄생한 특별한 요리를 맛보세요!\n\n탁 트인 도쿄 전망과 함께 잊지 못할 추억을 만들 수 있습니다. 🍽️💖\n\n지금 바로 예약하고 특별한 식사를 즐겨보세요! 👇\n\n#일본여행 #도쿄여행 #신주쿠맛집 #프렌치레스토랑 #호텔레스토랑 #게이오플라자호텔 #메이유르 #도쿄맛집 #여행정보 #플라잉재팬 #도쿄신상 #미식여행 #일본맛집 #가볼만한곳 #도쿄데이트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#신주쿠맛집",
-          "#프렌치레스토랑",
-          "#호텔레스토랑",
-          "#게이오플라자호텔",
-          "#메이유르",
-          "#도쿄맛집",
-          "#여행정보",
-          "#도쿄신상",
-          "#미식여행",
-          "#일본맛집",
-          "#가볼만한곳",
-          "#도쿄데이트"
-        ],
-        "alt_texts": [
-          "게이오 플라자 호텔 외관 전경",
-          "레스토랑 내부의 고급스러운 식탁 세팅",
-          "레스토랑 창밖으로 보이는 도쿄 시내 야경",
-          "정성스럽게 플레이팅된 프렌치 요리 사진",
-          "예약 관련 안내 문구가 있는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 여행 중 고급스러운 식사 경험을 원하는 20-40대 한국인 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 신규 오픈 정보, 고급스러운 경험, 구체적인 위치 및 오픈일 명시",
-      "image": {
-        "keyword": "Tokyo, French restaurant, Keio Plaza Hotel, Shinjuku, fine dining, cityscape view, new opening",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo,-French-restaurant,-Keio-Plaza-Hotel,-Shinjuku,-fine-dining,-cityscape-view,-new-opening",
-        "pexels_url": "https://www.pexels.com/search/Tokyo,%20French%20restaurant,%20Keio%20Plaza%20Hotel,%20Shinjuku,%20fine%20dining,%20cityscape%20view,%20new%20opening/"
       }
     }
   ]
