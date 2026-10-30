@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-29T05:34:51.940208",
+  "last_updated": "2026-10-30T02:36:37.394130",
   "plans": [
+    {
+      "id": "plan_08da8c87",
+      "created_at": "2026-10-30T02:36:35.393991",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "いよいよ明日から「Suicaのペンギン」ファン感謝イベント。上野駅では始発から整理券を配布、フォトスポットも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152406.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여운 'Suica의 펭귄'을 만날 수 있는 특별한 기회!"
+      },
+      "content": {
+        "thumbnail_title": "Suica 펭귄 🐧 팬 감사 이벤트!",
+        "cards": [
+          {
+            "title": "이벤트 개최",
+            "content": "Suica 25주년 기념 'Suica의 펭귄' 팬 감사 이벤트가 상륙합니다! 귀여운 펭귄 캐릭터를 직접 만날 수 있는 절호의 찬스예요.",
+            "alt_text": "Suica 펭귄 캐릭터 이미지"
+          },
+          {
+            "title": "기간 및 시간",
+            "content": "10월 30일부터 11월 4일까지 매일 오전 10시부터 오후 6시 30분까지 진행됩니다. (마지막 날은 6시까지)",
+            "alt_text": "이벤트 기간 달력 표시"
+          },
+          {
+            "title": "장소",
+            "content": "JR 우에노역 중앙 개찰구 밖 그랜드 콘코스에서 열립니다. 오사카가 아닌 도쿄에서 열리는 점 유의하세요!",
+            "alt_text": "JR 우에노역 지도 표시"
+          },
+          {
+            "title": "이벤트 내용",
+            "content": "현장에서는 포토 스팟이 마련되어 있으며, 10월 30일 첫날에는 오전 10시부터 선착순으로 정리권을 배포합니다.",
+            "alt_text": "포토 스팟 안내 이미지"
+          },
+          {
+            "title": "알아두면 좋은 꿀팁",
+            "content": "정리권은 한정 수량이니 서두르세요! 특히 첫날 방문 예정이라면 첫차부터 역에 도착해야 여유롭게 참여할 수 있습니다.",
+            "alt_text": "서두르는 사람들의 실루엣 이미지"
+          }
+        ],
+        "caption": "JR 우에노역에서 'Suica의 펭귄' 팬 감사 이벤트가 열려요! 🐧✨ 10월 30일 ~ 11월 4일까지 귀여운 펭귄과 함께 특별한 추억을 만들어 보세요. 첫날 방문 시 정리권 배포 예정이니 서둘러 주세요! 🏃‍♀️💨 #Suica펭귄 #우에노역 #일본이벤트 #도쿄여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#우에노역",
+          "#Suica펭귄",
+          "#일본이벤트",
+          "#JR동일본",
+          "#도쿄가볼만한곳",
+          "#일본축제",
+          "#여행꿀팁",
+          "#일본정보",
+          "#가을여행",
+          "#주말여행",
+          "#여행스타그램",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 캐릭터 이미지",
+          "이벤트 기간 달력 표시",
+          "JR 우에노역 지도 표시",
+          "포토 스팟 안내 이미지",
+          "서두르는 사람들의 실루엣 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 여행 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 참여율, 이벤트 방문 인증샷 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터를 활용한 높은 시각적 매력과 구체적인 방문 정보 제공",
+      "image": {
+        "keyword": "Suica penguin event Ueno Station",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-event-Ueno-Station",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20event%20Ueno%20Station/"
+      }
+    },
+    {
+      "id": "plan_2dd5b3cd",
+      "created_at": "2026-10-30T02:36:28.820376",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ドン・キホーテで「ゴリラの銭湯セット」発売。足裏ぐりぐり刺激サンダル/ボディタオル/メッシュバッグ入り",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152240.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 돈키호테에서만 만날 수 있는 독특한 '고릴라 銭湯(센토) 세트' 출시!"
+      },
+      "content": {
+        "thumbnail_title": "돈키호테 🛁 고릴라 銭湯 세트!",
+        "cards": [
+          {
+            "title": "신상 출시!",
+            "content": "일본에서만 만날 수 있는 '고릴라 銭湯(센토) 세트'가 11월 3일부터 돈키호테 등에서 선행 판매 시작!",
+            "alt_text": "돈키호테에서 판매하는 고릴라 銭湯 세트 이미지"
+          },
+          {
+            "title": "구성품은?",
+            "content": "발바닥 자극 샌들, 바디 타월, 메쉬 백까지! 독특한 디자인으로 여행의 재미를 더해줄 아이템.",
+            "alt_text": "고릴라 銭湯 세트의 구성품 상세 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 5,499엔. 부담 없는 가격으로 특별한 기념품을 득템할 기회!",
+            "alt_text": "고릴라 銭湯 세트 가격 정보 표시 이미지"
+          },
+          {
+            "title": "구매 가능 매장",
+            "content": "전국의 돈키호테, 아피타, 피아고 등에서 구매 가능. 일본 여행 중 꼭 들러보세요!",
+            "alt_text": "돈키호테 매장 외관 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "개성 넘치는 디자인으로 선물용으로도 GOOD! 현지에서만 구할 수 있으니 서두르세요!",
+            "alt_text": "일본 돈키호테 매장 내부 쇼핑하는 사람 이미지"
+          }
+        ],
+        "caption": "일본 여행 기념품, 뭐 살지 고민이라면? 🤩 돈키호테에서만 만날 수 있는 '고릴라 銭湯 세트'가 11월 3일부터 발매됩니다! 🛁 발바닥 쿨링 샌들, 바디 타월, 메쉬 백까지! 독특한 디자인으로 여행의 재미를 더해보세요! 🇯🇵\n\n#돈키호테 #일본쇼핑 #센토세트 #고릴라 #일본기념품 #여행필수템 #돈키호테쇼핑 #일본여행꿀팁 #현지템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#돈키호테",
+          "#일본쇼핑",
+          "#센토세트",
+          "#고릴라",
+          "#일본기념품",
+          "#여행필수템",
+          "#돈키호테쇼핑",
+          "#일본여행꿀팁",
+          "#현지템",
+          "#일본생활",
+          "#일본직구",
+          "#일본한정",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "돈키호테에서 판매하는 고릴라 銭湯 세트 이미지",
+          "고릴라 銭湯 세트의 구성품 상세 이미지",
+          "고릴라 銭湯 세트 가격 정보 표시 이미지",
+          "돈키호테 매장 외관 이미지",
+          "일본 돈키호테 매장 내부 쇼핑하는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6시-8시 / 기대 반응: '신기하다', '사고 싶다' 등 구매 욕구 자극 / 이 콘텐츠의 강점: 일본 현지에서만 구할 수 있는 독특하고 재미있는 아이템 소개",
+      "image": {
+        "keyword": "Don Quijote, Gorilla bath set, Japan souvenir, unique bath items, Japanese shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Don-Quijote,-Gorilla-bath-set,-Japan-souvenir,-unique-bath-items,-Japanese-shopping",
+        "pexels_url": "https://www.pexels.com/search/Don%20Quijote,%20Gorilla%20bath%20set,%20Japan%20souvenir,%20unique%20bath%20items,%20Japanese%20shopping/"
+      }
+    },
     {
       "id": "plan_1abe47bb",
       "created_at": "2026-10-29T02:27:05.622959",
@@ -923,160 +1077,6 @@
         "keyword": "Japan winter hotel discount, Ryokan sale, Jalan special week coupon, Japanese onsen travel deal",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-winter-hotel-discount,-Ryokan-sale,-Jalan-special-week-coupon,-Japanese-onsen-travel-deal",
         "pexels_url": "https://www.pexels.com/search/Japan%20winter%20hotel%20discount,%20Ryokan%20sale,%20Jalan%20special%20week%20coupon,%20Japanese%20onsen%20travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_c5d54a14",
-      "created_at": "2026-10-26T01:09:54.943374",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】JALふるさとアンバサダーのおもてなしと巡る「SL冬の湿原号」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2149196.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL 항공사가 지역 활성화를 위해 지역 주민들과 함께하는 특별한 이벤트 정보를 알려드립니다!"
-      },
-      "content": {
-        "thumbnail_title": "JAL과 함께하는 특별한 열차 여행 🚂",
-        "cards": [
-          {
-            "title": "JAL 지역 활성화",
-            "content": "JAL은 지역 활성화를 위해 'JALふるさとプロジェクト'를 지속적으로 진행 중입니다. 2020년 8월에는 객실 승무원이 직접 지역에 이주하여 활동하는 'JALふるさとアンバサダー'를 발족했습니다.",
-            "alt_text": "JAL 객실 승무원이 지역 주민들과 함께 하는 모습"
-          },
-          {
-            "title": "응원대 활동",
-            "content": "2020년 12월에는 탑승 중에도 지역 활성화에 참여하는 'JALふるさと応援隊'도 임명되었습니다. 이들은 지역에 대한 애정을 바탕으로 활동합니다.",
-            "alt_text": "JAL 객실 승무원이 지역 특산품을 소개하는 모습"
-          },
-          {
-            "title": "지역 특화 상품",
-            "content": "객실 승무원으로서 쌓은 경험을 살려 지역 특화 상품 개발 및 지역 과제 해결에 기여하는 것을 목표로 합니다.",
-            "alt_text": "지역 특산품으로 만든 상품 이미지"
-          },
-          {
-            "title": "SL 겨울 습원호",
-            "content": "이번 소식은 'SL 겨울 습원호'와 함께하는 JAL 지역 대사들의 환대 및 지역 사랑에 대한 이야기입니다. (구체적인 운행 정보는 뉴스에 포함되지 않음)",
-            "alt_text": "SL 겨울 습원호 열차 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "JAL 항공 이용 시, 이러한 지역 활성화 프로그램에 대한 정보를 미리 알아보고 참여하면 더욱 특별한 일본 여행을 즐길 수 있습니다. 자세한 참여 방법은 JAL 공식 채널을 확인하세요.",
-            "alt_text": "JAL 항공권과 일본 지도 이미지"
-          }
-        ],
-        "caption": "🇯🇵 JAL이 지역 주민들과 함께 만들어가는 특별한 여행! \n'JALふるさとアンバサダー'와 'JALふるさと応援隊'가 지역 활성화를 위해 펼치는 다채로운 활동을 소개합니다. \n지역 특화 상품 개발부터 지역 과제 해결까지! \n'SL 겨울 습원호'와 함께하는 이벤트는 일본 여행에 특별한 추억을 더해줄 거예요. \nJAL 항공 이용 시, 이 특별한 프로그램에 대한 정보를 미리 확인하고 더욱 풍성한 일본 여행을 계획해보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#지역활성화",
-          "#일본이벤트",
-          "#일본축제",
-          "#특별한여행",
-          "#일본정보",
-          "#여행팁",
-          "#항공사소식",
-          "#일본스타그램",
-          "#여행스타그램",
-          "#일본문화",
-          "#JALアンバサダー"
-        ],
-        "alt_texts": [
-          "JAL 객실 승무원이 지역 주민들과 함께 하는 모습",
-          "JAL 객실 승무원이 지역 특산품을 소개하는 모습",
-          "지역 특산품으로 만든 상품 이미지",
-          "SL 겨울 습원호 열차 이미지",
-          "JAL 항공권과 일본 지도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: JAL 항공 이용 시 특별한 경험에 대한 기대감, 정보 공유 및 저장 / 이 콘텐츠의 강점: 항공사 차원에서 진행되는 특별한 지역 연계 프로그램 소개로 차별화된 정보 제공",
-      "image": {
-        "keyword": "JAL, Japan local revitalization, special train event, cabin crew",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-local-revitalization,-special-train-event,-cabin-crew",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20local%20revitalization,%20special%20train%20event,%20cabin%20crew/"
-      }
-    },
-    {
-      "id": "plan_2f258c24",
-      "created_at": "2026-10-26T01:09:49.593071",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「コンフォートホテルERA金沢東口」2027年1月25日開業。駅徒歩4分に107室、加賀・能登のおかずを集めた朝食ビュッフェ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2149752.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2027년 오픈! 가나자와 새로운 숙소 정보 미리 체크하세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨2027년 가나자와 신상호텔✨",
-        "cards": [
-          {
-            "title": "신규 호텔 오픈!",
-            "content": "2027년 1월 25일, 가나자와역 도보 4분 거리에 '컴포트 호텔 ERA 가나자와 히가시구치'가 오픈합니다. 총 107개의 객실을 갖춘 새로운 숙소가 될 예정입니다.",
-            "alt_text": "컴포트 호텔 ERA 가나자와 히가시구치 외관 이미지"
-          },
-          {
-            "title": "가나자와역 4분 거리",
-            "content": "교통이 편리한 가나자와역에서 단 4분 거리에 위치하여 여행 시작과 마무리를 더욱 편안하게 할 수 있습니다. 짐이 많아도 걱정 없어요!",
-            "alt_text": "가나자와역에서 호텔까지 도보 이동 경로 이미지"
-          },
-          {
-            "title": "가나자와 & 노토 조식",
-            "content": "가나자와와 노토 지역의 특색을 살린 다채로운 반찬으로 구성된 조식 뷔페를 즐길 수 있습니다. 일본 현지 음식을 맛보고 싶다면 놓치지 마세요!",
-            "alt_text": "신선한 재료로 준비된 조식 뷔페 음식 이미지"
-          },
-          {
-            "title": "예약 오픈!",
-            "content": "10월 19일부터 호텔 공식 웹사이트 및 주요 숙박 예약 사이트에서 예약이 가능합니다. 오픈 초기 서둘러 예약하면 좋은 객실을 선점할 수 있어요!",
-            "alt_text": "호텔 예약 웹사이트 화면 캡처 이미지"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "2027년 오픈 예정이므로, 지금부터 가나자와 여행 계획을 세우시는 분들은 이 신규 호텔을 눈여겨보세요! 새로운 숙소에서 특별한 추억을 만들 수 있을 거예요.",
-            "alt_text": "가나자와 여행 계획을 세우는 사람 이미지"
-          }
-        ],
-        "caption": "🇯🇵 2027년 1월 25일, 가나자와에 새로운 숙소가 오픈합니다! ✨\n\n가나자와역에서 도보 4분 거리에 위치한 '컴포트 호텔 ERA 가나자와 히가시구치'는 총 107개의 객실과 지역 특색을 살린 조식 뷔페를 제공할 예정입니다.\n\n10월 19일부터 예약이 시작되니, 2027년 가나자와 여행을 계획 중이라면 미리 체크해보세요! ✈️\n\n#컴포트호텔 #가나자와여행 #일본신상호텔 #호텔예약 #2027년오픈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#가나자와",
-          "#가나자와여행",
-          "#일본숙소",
-          "#신상호텔",
-          "#호텔추천",
-          "#컴포트호텔",
-          "#2027년여행",
-          "#여행준비",
-          "#일본자유여행",
-          "#가나자와맛집",
-          "#일본생활",
-          "#여행정보",
-          "#일본숙박"
-        ],
-        "alt_texts": [
-          "컴포트 호텔 ERA 가나자와 히가시구치 외관 이미지",
-          "가나자와역에서 호텔까지 도보 이동 경로 이미지",
-          "신선한 재료로 준비된 조식 뷔페 음식 이미지",
-          "호텔 예약 웹사이트 화면 캡처 이미지",
-          "가나자와 여행 계획을 세우는 사람 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 2027년 가나자와 여행 예정인 한국인 여행객 / 최적 게시 시간: 저녁 7시~9시 / 기대 반응: 신규 정보에 대한 관심 및 예약 문의 / 이 콘텐츠의 강점: 구체적인 오픈일, 위치, 예약 시기 등 실질적인 정보 제공",
-      "image": {
-        "keyword": "Comfort Hotel ERA Kanazawa Higashiguchi, Kanazawa Station, Japanese breakfast buffet, Hotel booking website, Kanazawa travel planning",
-        "unsplash_url": "https://unsplash.com/s/photos/Comfort-Hotel-ERA-Kanazawa-Higashiguchi,-Kanazawa-Station,-Japanese-breakfast-buffet,-Hotel-booking-website,-Kanazawa-travel-planning",
-        "pexels_url": "https://www.pexels.com/search/Comfort%20Hotel%20ERA%20Kanazawa%20Higashiguchi,%20Kanazawa%20Station,%20Japanese%20breakfast%20buffet,%20Hotel%20booking%20website,%20Kanazawa%20travel%20planning/"
       }
     }
   ]
