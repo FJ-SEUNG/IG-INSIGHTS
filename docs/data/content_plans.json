@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-31T02:23:05.713316",
+  "last_updated": "2026-10-31T05:22:47.719960",
   "plans": [
+    {
+      "id": "plan_30df6827",
+      "created_at": "2026-10-31T05:22:45.719724",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ドン・キホーテ、「驚ブラックフライデー」セール品公開。美容家電やゲーム、旅行用品も特価に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152751.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 쇼핑 필수 코스, 돈키호테 역대급 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💰돈키호테 역대급 할인!🛍️",
+        "cards": [
+          {
+            "title": "블랙프라이데이",
+            "content": "돈키호테에서 11월 13일부터 29일까지 '경이로운 블랙프라이데이' 세일을 진행합니다! 놓치면 후회할 특가 상품들을 만나보세요.",
+            "alt_text": "돈키호테 매장 전경"
+          },
+          {
+            "title": "할인 품목",
+            "content": "이번 행사에서는 뷰티 가전, 게임, 여행 용품 등 다양한 카테고리의 인기 상품들을 파격적인 할인가로 만나볼 수 있습니다.",
+            "alt_text": "다양한 쇼핑 품목 이미지"
+          },
+          {
+            "title": "플라잉 세일",
+            "content": "본격적인 세일 시작 전인 10월 30일부터는 가전, 자동차 용품, 장난감 등 일부 상품을 먼저 할인 판매하는 '플라잉 세일'도 진행되었습니다.",
+            "alt_text": "상품 진열대 이미지"
+          },
+          {
+            "title": "福袋 (복주머니)",
+            "content": "주방용품 및 생활 잡화 코너에서는 알찬 구성의 '福袋(복주머니)'도 준비되어 있어 알뜰 쇼핑을 돕습니다.",
+            "alt_text": "복주머니 상품 이미지"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 방문 전 돈키호테 공식 홈페이지에서 세일 상품 리스트를 미리 확인하고 방문하는 것을 추천합니다.",
+            "alt_text": "쇼핑 바구니 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 코스, 돈키호테에서 역대급 쇼핑 찬스를 잡으세요! 🇯🇵✨ 11월 13일부터 29일까지 진행되는 '경이로운 블랙프라이데이' 세일에서 뷰티 가전, 게임, 여행 용품 등 다양한 상품을 파격적인 할인가로 만나볼 수 있습니다. 놓치면 후회할 기회, 지금 바로 돈키호테로 달려가세요! 🛒💨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#돈키호테",
+          "#돈키호테쇼핑",
+          "#일본쇼핑",
+          "#블랙프라이데이",
+          "#일본할인",
+          "#여행준비",
+          "#일본필수템",
+          "#일본여행꿀팁",
+          "#쇼핑스타그램",
+          "#가성비쇼핑",
+          "#일본생활",
+          "#여행스타그램",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "돈키호테 매장 전경",
+          "다양한 쇼핑 품목 이미지",
+          "상품 진열대 이미지",
+          "복주머니 상품 이미지",
+          "쇼핑 바구니 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-4시 / 기대 반응: 높은 관심과 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 시기적절한 쇼핑 정보, 구체적인 할인 기간 및 품목 제시",
+      "image": {
+        "keyword": "Don Quijote, Black Friday sale, Japan shopping, travel essentials, beauty gadgets, games, lucky bag",
+        "unsplash_url": "https://unsplash.com/s/photos/Don-Quijote,-Black-Friday-sale,-Japan-shopping,-travel-essentials,-beauty-gadgets,-games,-lucky-bag",
+        "pexels_url": "https://www.pexels.com/search/Don%20Quijote,%20Black%20Friday%20sale,%20Japan%20shopping,%20travel%20essentials,%20beauty%20gadgets,%20games,%20lucky%20bag/"
+      }
+    },
+    {
+      "id": "plan_65927678",
+      "created_at": "2026-10-31T05:22:41.016414",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ほぼ日×Suicaのペンギン、オンライン受注販売は週明け11月2日から。ひきだしポーチ/とことこシール/手帳カバーほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152775.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수품 'Suica'와 '호보니치'의 만남! 한정판 굿즈 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "Suica펭귄 💖 호보니치 한정판!",
+        "cards": [
+          {
+            "title": "온라인 예약 시작",
+            "content": "호보니치와 Suica 펭귄이 만난 스페셜 굿즈가 온라인으로 판매됩니다. 11월 2일(월)부터 예약 주문을 시작하니 서둘러주세요!",
+            "alt_text": "Suica 펭귄과 호보니치 콜라보 굿즈 온라인 예약 시작 안내"
+          },
+          {
+            "title": "판매 상품",
+            "content": "이번 콜라보에서는 '호보니치 테초'의 인기 상품인 '히키다시 파우치', '토코토코씰', '수첩 커버' 등이 포함됩니다. Suica 펭귄 디자인으로 특별함을 더했습니다.",
+            "alt_text": "히키다시 파우치, 토코토코씰, 수첩 커버 등 다양한 콜라보 상품 이미지"
+          },
+          {
+            "title": "판매처",
+            "content": "이 굿즈들은 원래 JR 도쿄역 그랑스타 한정으로 판매되었으나, 이번에는 'GRANSTA MALL' 공식 온라인 샵에서 예약 주문으로 만나볼 수 있습니다.",
+            "alt_text": "GRANSTA MALL 온라인 샵 로고 및 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "일본 여행 중 Suica 카드를 사용하시는 분들이라면 더욱 반가울 아이템! 여행 기념품으로도, 실용적인 아이템으로도 최고입니다.",
+            "alt_text": "Suica 카드와 콜라보 굿즈를 함께 보여주는 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "온라인 예약 판매이므로, 품절 가능성이 있습니다. 관심 있는 상품은 미리 확인하시고 예약 시작 시간에 맞춰 주문하시는 것을 추천합니다.",
+            "alt_text": "품절 주의 문구와 함께 콜라보 굿즈 이미지"
+          }
+        ],
+        "caption": "🚄 일본 여행 필수템 Suica 펭귄과 감성 노트 호보니치의 만남! 💖\n\n11월 2일(월)부터 Suica 펭귄 디자인의 호보니치 굿즈 온라인 예약 판매가 시작됩니다! 🐧✨\n\nJR 도쿄역 그랑스타 한정판으로 사랑받았던 ‘히키다시 파우치’, ‘토코토코씰’, ‘수첩 커버’ 등을 ‘GRANSTA MALL’ 온라인 샵에서 만나보세요.\n\n일본 여행 기념품으로도, 소장용으로도 완벽한 특별한 굿즈를 놓치지 마세요! 😉\n\n#일본여행 #호보니치 #Suica펭귄 #한정판굿즈 #일본쇼핑",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#호보니치",
+          "#Suica펭귄",
+          "#일본한정판",
+          "#일본굿즈",
+          "#도쿄여행",
+          "#기념품",
+          "#여행준비",
+          "#여행스타그램",
+          "#일본쇼핑리스트",
+          "#호보니치테초",
+          "#Suica",
+          "#GRANSTAMALL"
+        ],
+        "alt_texts": [
+          "Suica 펭귄과 호보니치 콜라보 굿즈 온라인 예약 시작 안내",
+          "히키다시 파우치, 토코토코씰, 수첩 커버 등 다양한 콜라보 상품 이미지",
+          "GRANSTA MALL 온라인 샵 로고 및 이미지",
+          "Suica 카드와 콜라보 굿즈를 함께 보여주는 이미지",
+          "품절 주의 문구와 함께 콜라보 굿즈 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 일본 여행 중 실질적으로 구매 가능한 인기 캐릭터 콜라보 한정판 굿즈 정보",
+      "image": {
+        "keyword": "Hobonichi Suica Penguin collaboration goods online pre-order",
+        "unsplash_url": "https://unsplash.com/s/photos/Hobonichi-Suica-Penguin-collaboration-goods-online-pre-order",
+        "pexels_url": "https://www.pexels.com/search/Hobonichi%20Suica%20Penguin%20collaboration%20goods%20online%20pre-order/"
+      }
+    },
     {
       "id": "plan_9828f254",
       "created_at": "2026-10-31T02:23:03.713124",
@@ -923,160 +1077,6 @@
         "keyword": "JR East Black Friday Sale Japan Train Tour",
         "unsplash_url": "https://unsplash.com/s/photos/JR-East-Black-Friday-Sale-Japan-Train-Tour",
         "pexels_url": "https://www.pexels.com/search/JR%20East%20Black%20Friday%20Sale%20Japan%20Train%20Tour/"
-      }
-    },
-    {
-      "id": "plan_ce71d195",
-      "created_at": "2026-10-27T04:50:29.972560",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "レスポートサック×PEANUTS、スヌーピーの顔と耳を立体的にデザインしたトートバッグなど全28型",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2151454.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "스누피 덕후 심쿵! 2026년 겨울, 레스포삭에서 만나는 특별한 만남!"
-      },
-      "content": {
-        "thumbnail_title": "💖스누피 X 레스포삭💖",
-        "cards": [
-          {
-            "title": "콜라보 출시!",
-            "content": "레스포삭과 피너츠가 만나 2026년 겨울 컬렉션을 선보입니다. 스누피 얼굴과 귀를 입체적으로 디자인한 토트백 등 총 28가지 신상 아이템을 만나보세요!",
-            "alt_text": "레스포삭과 피너츠가 협업한 2026년 겨울 컬렉션의 대표 상품인 스누피 얼굴과 귀가 입체적으로 디자인된 토트백 이미지"
-          },
-          {
-            "title": "2026년 10월 28일 발매",
-            "content": "가장 먼저 신상 소식을 접하고 싶다면 2026년 10월 28일을 주목해주세요! 따끈따끈한 신상 컬렉션이 출시됩니다.",
-            "alt_text": "2026년 10월 28일이라는 날짜가 강조된 캘린더 이미지"
-          },
-          {
-            "title": "어디서 구매할까?",
-            "content": "일본 전국의 레스포삭 매장과 공식 온라인 스토어, 그리고 다양한 EC 스토어에서 구매 가능합니다. 여행 중 방문할 매장을 미리 확인해보세요!",
-            "alt_text": "일본 지도 위에 레스포삭 매장 위치를 표시하는 아이콘 이미지"
-          },
-          {
-            "title": "스누피 마니아 필수템!",
-            "content": "귀여운 스누피 디자인으로 여행 가방부터 데일리 백까지 다양하게 활용할 수 있는 아이템들로 구성될 예정입니다. 놓치지 마세요!",
-            "alt_text": "다양한 스누피 디자인의 레스포삭 가방들을 보여주는 콜라주 이미지"
-          },
-          {
-            "title": "구매 꿀팁",
-            "content": "출시 당일에는 인기 상품이 빠르게 품절될 수 있으니, 원하는 상품이 있다면 오픈 시간에 맞춰 방문하거나 온라인 구매를 서두르는 것이 좋습니다.",
-            "alt_text": "빠르게 움직이는 사람들의 모습을 담은 이미지"
-          }
-        ],
-        "caption": "✈️ 스누피 덕후들 주목! ✈️\n\n2026년 10월 28일, 레스포삭과 피너츠가 만난 특별한 겨울 컬렉션이 출시됩니다! 💖\n\n스누피 얼굴과 귀를 입체적으로 디자인한 토트백을 포함한 총 28가지 신상 아이템을 일본 전국의 레스포삭 매장과 온라인 스토어에서 만나보세요! 🛍️\n\n여행 계획에 귀여운 스누피 아이템을 추가해보는 건 어떨까요?\n\n#레스포삭 #피너츠 #스누피 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#레스포삭",
-          "#피너츠",
-          "#스누피",
-          "#일본쇼핑",
-          "#일본쇼핑리스트",
-          "#일본한정",
-          "#2026겨울컬렉션",
-          "#여행준비",
-          "#일본직구",
-          "#여행스타그램",
-          "#스누피굿즈",
-          "#캐릭터샵",
-          "#인싸템"
-        ],
-        "alt_texts": [
-          "레스포삭과 피너츠가 협업한 2026년 겨울 컬렉션의 대표 상품인 스누피 얼굴과 귀가 입체적으로 디자인된 토트백 이미지",
-          "2026년 10월 28일이라는 날짜가 강조된 캘린더 이미지",
-          "일본 지도 위에 레스포삭 매장 위치를 표시하는 아이콘 이미지",
-          "다양한 스누피 디자인의 레스포삭 가방들을 보여주는 콜라주 이미지",
-          "빠르게 움직이는 사람들의 모습을 담은 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 스누피 캐릭터를 좋아하는 20-40대 여성 여행객 / 최적 게시 시간: 오후 1시~3시 (점심시간 이후) 또는 저녁 7시~9시 (퇴근 후) / 기대 반응: 높은 관심과 공유, 구매 문의 / 이 콘텐츠의 강점: 인기 캐릭터와의 콜라보레이션, 구체적인 출시일 및 판매처 정보 제공",
-      "image": {
-        "keyword": "Peanuts x LeSportsac collaboration, Snoopy tote bag, 2026 Winter Collection, Japan shopping, limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Peanuts-x-LeSportsac-collaboration,-Snoopy-tote-bag,-2026-Winter-Collection,-Japan-shopping,-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Peanuts%20x%20LeSportsac%20collaboration,%20Snoopy%20tote%20bag,%202026%20Winter%20Collection,%20Japan%20shopping,%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_cff6710d",
-      "created_at": "2026-10-27T04:50:24.503290",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡空港の新ランドマーク名称は「TABISIA（タビジア）」。日本最大級アジアンフードフロアに初上陸含む44店舗",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2151470.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후쿠오카 공항에 2027년 여름, 일본 최대 규모의 아시안 푸드 존이 문을 열어요! 🍜✈️"
-      },
-      "content": {
-        "thumbnail_title": "✈️후쿠오카 공항 새 랜드마크! 🍜",
-        "cards": [
-          {
-            "title": "새 이름은 '타비시아'",
-            "content": "후쿠오카 공항의 새로운 복합 시설 명칭이 'TABISIA(타비시아)'로 확정되었습니다. 2027년 여름 그랜드 오픈 예정입니다.",
-            "alt_text": "후쿠오카 공항 새로운 복합 시설 'TABISIA' 명칭 표지판"
-          },
-          {
-            "title": "일본 최대 아시안 푸드 존",
-            "content": "타비시아에는 일본 최대 규모의 아시안 푸드 플로어가 들어설 예정입니다. 다양한 동남아시아 음식들을 한곳에서 즐길 수 있습니다.",
-            "alt_text": "다양한 아시안 음식 사진 모음"
-          },
-          {
-            "title": "44개 신규 매장 입점",
-            "content": "총 44개의 매장이 타비시아에 입점하며, 일부 매장은 일본에 처음으로 상륙하는 곳도 포함될 예정입니다.",
-            "alt_text": "각종 음식점 간판들이 즐비한 모습"
-          },
-          {
-            "title": "2027년 여름 오픈!",
-            "content": "여행의 즐거움을 더할 후쿠오카 공항의 새로운 명소, 타비시아는 2027년 여름에 만나보실 수 있습니다.",
-            "alt_text": "2027년 여름 오픈 예정임을 알리는 달력 이미지"
-          },
-          {
-            "title": "미리 계획하세요!",
-            "content": "2027년 여름 후쿠오카 여행을 계획하신다면, 새롭게 개장하는 타비시아에서 특별한 미식 경험을 놓치지 마세요. 공항 이동 및 식사 계획에 참고하세요!",
-            "alt_text": "여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "✨후쿠오카 공항이 확 달라져요!✨\n\n2027년 여름, 후쿠오카 공항에 새로운 랜드마크 'TABISIA(타비시아)'가 문을 엽니다! ✈️\n\n일본 최대 규모의 아시안 푸드 존과 44개의 신규 매장이 여러분을 기다릴 예정인데요. 🍜🍣\n\n2027년 여름 후쿠오카 여행 계획 중이시라면, 새롭게 탄생할 타비시아에서 잊지 못할 미식 경험을 꼭 즐겨보세요! 😋\n\n#후쿠오카여행 #일본여행 #후쿠오카공항 #타비시아 #일본맛집 #일본쇼핑 #해외여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카",
-          "#후쿠오카여행",
-          "#후쿠오카공항",
-          "#타비시아",
-          "#일본신상",
-          "#일본맛집",
-          "#일본쇼핑",
-          "#아시안푸드",
-          "#여행정보",
-          "#2027년",
-          "#일본국내선",
-          "#일본국제선",
-          "#여행계획"
-        ],
-        "alt_texts": [
-          "후쿠오카 공항 새로운 복합 시설 'TABISIA' 명칭 표지판",
-          "다양한 아시안 음식 사진 모음",
-          "각종 음식점 간판들이 즐비한 모습",
-          "2027년 여름 오픈 예정임을 알리는 달력 이미지",
-          "여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 (특히 후쿠오카 방문 예정자) / 최적 게시 시간: 여행 계획을 많이 세우는 주말 오후 또는 저녁 / 기대 반응: 후쿠오카 공항 이용 편의 증진에 대한 기대감, 새로운 맛집에 대한 관심 증가 / 이 콘텐츠의 강점: 구체적인 오픈 시기와 규모를 명시하여 실질적인 여행 계획에 도움이 되는 정보 제공",
-      "image": {
-        "keyword": "Fukuoka Airport TABISIA Asian food floor opening 2027 summer",
-        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Airport-TABISIA-Asian-food-floor-opening-2027-summer",
-        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Airport%20TABISIA%20Asian%20food%20floor%20opening%202027%20summer/"
       }
     }
   ]
