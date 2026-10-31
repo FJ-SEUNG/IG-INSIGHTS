@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-30T05:35:15.482516",
+  "last_updated": "2026-10-31T02:23:05.713316",
   "plans": [
+    {
+      "id": "plan_9828f254",
+      "created_at": "2026-10-31T02:23:03.713124",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、梅田限定「ミャクミャク」Tシャツ＆バッグ本日発売。スタンプや刺繍でオリジナルも作れる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152794.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 유니클로에서만 만날 수 있는 특별한 '미야쿠미야쿠' 콜라보 아이템 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 한정! 미야쿠미야쿠 UTme!✨",
+        "cards": [
+          {
+            "title": "오사카 한정 UTme!",
+            "content": "유니클로 오사카 우메다점에서만 만날 수 있는 '미야쿠미야쿠' 콜라보 T셔츠와 가방이 10월 30일에 출시되었습니다.",
+            "alt_text": "유니클로 오사카 우메다점 매장 전경"
+          },
+          {
+            "title": "오픈 1주년 기념",
+            "content": "글로벌 플래그십 스토어 'UNIQLO UMEDA'의 오픈 1주년을 기념하여 특별히 제작된 한정판 아이템입니다.",
+            "alt_text": "UNIQLO UMEDA 매장 입구"
+          },
+          {
+            "title": "나만의 특별함",
+            "content": "UTme! 서비스를 통해 스탬프나 자수로 나만의 개성을 담은 '미야쿠미야쿠' 아이템을 직접 만들 수 있습니다.",
+            "alt_text": "UTme! 서비스로 커스터마이징하는 모습"
+          },
+          {
+            "title": "매장 정보",
+            "content": "매장은 오사카부 오사카시 기타구 오오후카마치 1번지 1호 LINKS UMEDA 1, 2층에 위치하고 있습니다.",
+            "alt_text": "LINKS UMEDA 건물 외관"
+          },
+          {
+            "title": "쇼핑 꿀팁",
+            "content": "오사카 여행 중 특별한 기념품을 찾고 있다면, 유니클로 우메다점에서만 구매 가능한 '미야쿠미야쿠' 콜라보 아이템을 놓치지 마세요!",
+            "alt_text": "다양한 디자인의 '미야쿠미야쿠' 콜라보 상품 이미지"
+          }
+        ],
+        "caption": "🇯🇵 오사카 여행 필수 쇼핑템 등장! 🇯🇵\n\n유니클로 오사카 우메다점에서만 만날 수 있는 '미야쿠미야쿠' 한정 UTme! 콜라보 티셔츠와 가방이 출시되었어요! 🤩\n\n오픈 1주년을 기념하여 특별 제작된 이번 콜라보 상품은 스탬프나 자수로 나만의 개성을 더할 수 있다는 점이 매력 포인트! ✨\n\n오사카 여행 중 특별한 기념품을 찾고 있다면, 지금 바로 유니클로 우메다점으로 달려가 보세요! 🏃‍♀️💨\n\n#일본여행 #오사카여행 #유니클로 #UTme #미야쿠미야쿠 #오사카쇼핑 #한정판 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#유니클로",
+          "#UTme",
+          "#미야쿠미야쿠",
+          "#오사카쇼핑",
+          "#한정판",
+          "#일본쇼핑",
+          "#여행정보",
+          "#여행스타그램",
+          "#오사카",
+          "#일본",
+          "#쇼핑",
+          "#일본한정"
+        ],
+        "alt_texts": [
+          "유니클로 오사카 우메다점 매장 전경",
+          "UNIQLO UMEDA 매장 입구",
+          "UTme! 서비스로 커스터마이징하는 모습",
+          "LINKS UMEDA 건물 외관",
+          "다양한 디자인의 '미야쿠미야쿠' 콜라보 상품 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 3시~5시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 오사카에서만 구매 가능한 희소성, 개인 맞춤 제작 가능성 어필",
+      "image": {
+        "keyword": "Uniqlo Umeda, Miyakumiya, UTme!, Osaka collaboration, limited edition T-shirt, custom bag",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Umeda,-Miyakumiya,-UTme!,-Osaka-collaboration,-limited-edition-T-shirt,-custom-bag",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Umeda,%20Miyakumiya,%20UTme!,%20Osaka%20collaboration,%20limited%20edition%20T-shirt,%20custom%20bag/"
+      }
+    },
+    {
+      "id": "plan_0ec601fc",
+      "created_at": "2026-10-31T02:22:58.704584",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡「大たまごっち展」チケット抽選販売が本日スタート。限定シャカシャカ巾着付きも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152766.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "추억의 다마고치, 한정판 굿즈까지! 후쿠오카에서 열리는 특별 전시 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨후쿠오카 다마고치 전시✨",
+        "cards": [
+          {
+            "title": "전시 정보",
+            "content": "30주년 기념 '대다마고치전'이 후쿠오카에서 개최됩니다. 12월 29일부터 31일까지, 그리고 주말 및 공휴일 입장권은 추첨제로 판매 중입니다.",
+            "alt_text": "후쿠오카에서 열리는 '대다마고치전' 전시 안내"
+          },
+          {
+            "title": "추첨 판매 시작!",
+            "content": "오늘 10월 31일 오전 10시부터, 인기 날짜(12/29~31, 주말/공휴일) 티켓 추첨 판매가 시작되었습니다. 서둘러 신청하세요!",
+            "alt_text": "다마고치 전시 티켓 추첨 판매 시작 알림"
+          },
+          {
+            "title": "한정판 굿즈",
+            "content": "추첨 판매 티켓 구매 시, 특별 제작된 '샤카샤카 츳키' 굿즈를 증정합니다. 소장 가치 높은 한정판 굿즈를 득템할 기회!",
+            "alt_text": "다마고치 전시 한정판 굿즈 '샤카샤카 츳키' 이미지"
+          },
+          {
+            "title": "후쿠오카 여행",
+            "content": "연말 후쿠오카 여행 계획 중이라면, 이 전시를 일정에 추가해보세요. 어릴 적 추억 소환은 물론, 특별한 기념품까지 챙길 수 있습니다.",
+            "alt_text": "후쿠오카 시내 풍경과 다마고치 전시를 연상시키는 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "추첨제 티켓은 인기 날짜일수록 경쟁률이 높으니, 원하는 날짜를 신중하게 선택하세요. 자세한 신청 방법은 공식 정보를 확인하는 것이 좋습니다.",
+            "alt_text": "다마고치 전시 티켓 구매 꿀팁 안내"
+          }
+        ],
+        "caption": "💖어른이들 취향 저격! 후쿠오카에서 '대다마고치전'이 열립니다!💖\n\n어릴 적 추억을 소환할 다마고치 전시! 12월 29일부터 31일, 그리고 주말/공휴일 입장권은 오늘(10/31) 오전 10시부터 추첨 판매 시작했어요!\n\n✨한정판 '샤카샤카 츳키' 굿즈도 놓치지 마세요!✨\n\n후쿠오카 여행 계획 중이라면, 잊지 말고 꼭 참여해보세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카여행",
+          "#다마고치",
+          "#대다마고치전",
+          "#일본전시",
+          "#후쿠오카",
+          "#여행꿀팁",
+          "#연말여행",
+          "#굿즈",
+          "#한정판",
+          "#추억",
+          "#일본축제",
+          "#여행스타그램",
+          "#후쿠오카가볼만한곳"
+        ],
+        "alt_texts": [
+          "후쿠오카에서 열리는 '대다마고치전' 전시 안내",
+          "다마고치 전시 티켓 추첨 판매 시작 알림",
+          "다마고치 전시 한정판 굿즈 '샤카샤카 츳키' 이미지",
+          "후쿠오카 시내 풍경과 다마고치 전시를 연상시키는 이미지",
+          "다마고치 전시 티켓 구매 꿀팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 90년대생 한국인 여행객, 키덜트족 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 전시 정보에 대한 높은 관심, 티켓 구매 희망 댓글 / 이 콘텐츠의 강점: 추억을 자극하는 아이템과 한정판 굿즈 정보로 즉각적인 흥미 유발",
+      "image": {
+        "keyword": "Tamagotchi exhibition Fukuoka Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-exhibition-Fukuoka-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tamagotchi%20exhibition%20Fukuoka%20Japan/"
+      }
+    },
     {
       "id": "plan_1cba1e23",
       "created_at": "2026-10-30T05:35:13.482315",
@@ -923,160 +1077,6 @@
         "keyword": "Fukuoka Airport TABISIA Asian food floor opening 2027 summer",
         "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Airport-TABISIA-Asian-food-floor-opening-2027-summer",
         "pexels_url": "https://www.pexels.com/search/Fukuoka%20Airport%20TABISIA%20Asian%20food%20floor%20opening%202027%20summer/"
-      }
-    },
-    {
-      "id": "plan_c9a821f6",
-      "created_at": "2026-10-27T02:04:52.998325",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーのお正月限定グッズ発表。和服ミッキーに「こひつじのダニー」のぬいぐるみ、もこもこきんちゃく",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2151287.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 디즈니 방문 예정이라면 절대 놓칠 수 없는 한정판 굿즈 소식!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 신년 굿즈 OPEN!✨",
-        "cards": [
-          {
-            "title": "신년 굿즈 출시!",
-            "content": "도쿄 디즈니리조트에서 2024년 신년을 맞아 특별한 한정판 굿즈를 12월 1일부터 발매합니다.",
-            "alt_text": "도쿄 디즈니리조트의 신년 한정판 굿즈 출시 안내 이미지"
-          },
-          {
-            "title": "귀여운 캐릭터 상품",
-            "content": "이번 신년 굿즈에는 귀여운 기모노를 입은 미키 마우스와 '꼬마 양 대니' 인형 등 다채로운 상품들이 준비되어 있습니다.",
-            "alt_text": "기모노를 입은 미키 마우스 인형 이미지"
-          },
-          {
-            "title": "복슬복슬 파우치",
-            "content": "특히 복슬복슬한 소재의 巾着(킨착쿠, 주머니) 파우치는 실용성과 귀여움을 동시에 갖춰 인기가 예상됩니다.",
-            "alt_text": "복슬복슬한 소재의 킨착쿠(주머니) 파우치 이미지"
-          },
-          {
-            "title": "특별한 기념품",
-            "content": "일본 여행 중 디즈니를 방문할 계획이라면, 새해의 행운을 담은 한정판 굿즈로 특별한 추억을 만들어보세요.",
-            "alt_text": "다양한 디즈니 신년 한정판 굿즈 모음 이미지"
-          },
-          {
-            "title": "방문 전 확인 필수!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 방문 전 디즈니 공식 홈페이지를 통해 재고 현황을 확인하는 것이 좋습니다.",
-            "alt_text": "디즈니 스토어 매장 내부 모습 이미지"
-          }
-        ],
-        "caption": "🎍 도쿄 디즈니리조트, 2024년 신년 맞이 한정판 굿즈 공개! 🎍\n\n12월 1일부터 만나볼 수 있는 이번 굿즈 컬렉션에는 기모노 미키, 꼬마 양 대니 인형, 복슬복슬 파우치 등 놓칠 수 없는 아이템들이 가득해요.\n\n일본 여행 중 디즈니 방문 예정이라면, 특별한 기념품으로 꼭 챙겨가세요! ✨\n\n#디즈니랜드 #디즈니씨 #신년굿즈 #일본여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니신년",
-          "#디즈니굿즈",
-          "#한정판",
-          "#미키마우스",
-          "#꼬마양대니",
-          "#여행필수템",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#여행정보",
-          "#인스타여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니리조트의 신년 한정판 굿즈 출시 안내 이미지",
-          "기모노를 입은 미키 마우스 인형 이미지",
-          "복슬복슬한 소재의 킨착쿠(주머니) 파우치 이미지",
-          "다양한 디즈니 신년 한정판 굿즈 모음 이미지",
-          "디즈니 스토어 매장 내부 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5~7시 / 기대 반응: 정보 공유 및 구매 욕구 자극, 디즈니 방문 계획 업데이트 / 이 콘텐츠의 강점: 시기적절한 한정판 굿즈 정보 제공으로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Tokyo Disney Resort New Year limited goods, kimono Mickey, Danny plush toy, drawstring pouch",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disney-Resort-New-Year-limited-goods,-kimono-Mickey,-Danny-plush-toy,-drawstring-pouch",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disney%20Resort%20New%20Year%20limited%20goods,%20kimono%20Mickey,%20Danny%20plush%20toy,%20drawstring%20pouch/"
-      }
-    },
-    {
-      "id": "plan_3d1ba62d",
-      "created_at": "2026-10-27T02:04:46.456850",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "旧横浜郵船ビルの「ザ マリタイムホテル 横浜ベイ」1月30日開業。世界の港イメージした全50室、国内初Nike Strengthジム導入",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2151295.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 요코하마에 새롭게 문을 여는 이색적인 호텔 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨요코하마 뉴 호텔 오픈✨",
-        "cards": [
-          {
-            "title": "호텔명",
-            "content": "요코하마에 '더 마리타임 호텔 요코하마 베이'가 2027년 1월 30일 오픈합니다.",
-            "alt_text": "요코하마의 항구 도시 풍경"
-          },
-          {
-            "title": "객실 컨셉",
-            "content": "전 세계 항구를 테마로 한 50개의 독특한 객실이 준비되어 있습니다.",
-            "alt_text": "세계 각국의 항구 이미지"
-          },
-          {
-            "title": "특별 시설",
-            "content": "일본 최초로 나이키 스트렝스 짐이 도입되어 특별한 운동 경험을 제공합니다.",
-            "alt_text": "최신식 헬스장 내부 모습"
-          },
-          {
-            "title": "위치",
-            "content": "가나가와현 요코하마시 나카구 해안통 3-9-1에 위치하며, 항구 근처에서 편리한 접근성을 자랑합니다.",
-            "alt_text": "호텔 외관 및 주변 지도"
-          },
-          {
-            "title": "예약",
-            "content": "현재 숙박 예약 접수가 시작되었으니, 특별한 경험을 원한다면 서둘러 예약하세요!",
-            "alt_text": "예약 페이지 화면"
-          }
-        ],
-        "caption": "🇯🇵 요코하마 여행 예정이라면 주목! 2027년 1월 30일, '더 마리타임 호텔 요코하마 베이'가 드디어 문을 엽니다. 🚢 전 세계 항구를 모티브로 한 50개의 객실과 일본 최초 '나이키 스트렝스 짐'까지! 헬스도 놓칠 수 없는 여행객에게 강력 추천해요. 지금 바로 예약하세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#요코하마",
-          "#요코하마호텔",
-          "#일본신상호텔",
-          "#요코하마여행",
-          "#일본숙소",
-          "#호텔추천",
-          "#해외여행",
-          "#여행정보",
-          "#일본가볼만한곳",
-          "#요코하마관광",
-          "#새로운호텔",
-          "#일본호텔",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "요코하마의 항구 도시 풍경",
-          "세계 각국의 항구 이미지",
-          "최신식 헬스장 내부 모습",
-          "호텔 외관 및 주변 지도",
-          "예약 페이지 화면"
-        ]
-      },
-      "marketer_analysis": "타겟: 요코하마 여행을 계획 중인 한국인 여행객 / 최적 게시 시간: 20:00 - 22:00 / 기대 반응: 새로운 숙소 정보에 대한 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 신규 오픈 호텔 정보로 희소성이 높고, 독특한 컨셉과 시설이 매력 포인트.",
-      "image": {
-        "keyword": "Yokohama bay hotel new opening",
-        "unsplash_url": "https://unsplash.com/s/photos/Yokohama-bay-hotel-new-opening",
-        "pexels_url": "https://www.pexels.com/search/Yokohama%20bay%20hotel%20new%20opening/"
       }
     }
   ]
