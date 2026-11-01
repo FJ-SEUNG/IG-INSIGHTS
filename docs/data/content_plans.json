@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-10-31T05:22:47.719960",
+  "last_updated": "2026-11-01T02:14:02.059873",
   "plans": [
+    {
+      "id": "plan_10ed26b7",
+      "created_at": "2026-11-01T02:14:00.059708",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニー・プレミアアクセスの来園前購入について「統合報告書」で改めて言及。2027年度導入予定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152737.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니랜드, 미리 티켓 사면 대기 시간 확 줄여줘요!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니, 미리 예약 찬스!✨",
+        "cards": [
+          {
+            "title": "사전 구매 도입",
+            "content": "도쿄 디즈니리조트가 유료 서비스 '디즈니 프리미어 액세스'의 사전 구매 도입을 준비하고 있습니다. 2027년 3월부터 단계적으로 적용될 예정입니다.",
+            "alt_text": "도쿄 디즈니랜드 성 앞에서 웃고 있는 커플"
+          },
+          {
+            "title": "대기 시간 단축",
+            "content": "여행 전에 미리 구매하면 인기 어트랙션의 대기 시간을 획기적으로 줄일 수 있습니다. 복잡한 줄 서기 대신 여유로운 여행이 가능해져요.",
+            "alt_text": "놀이기구 대기 줄이 짧아진 모습"
+          },
+          {
+            "title": "2027년 도입",
+            "content": "2027년 3월기 결산 자료에 따르면, 2027년도 내에 사전 구매 서비스 도입을 목표로 하고 있습니다. 정확한 날짜는 추후 공지될 예정입니다.",
+            "alt_text": "달력에 2027년 3월 표시"
+          },
+          {
+            "title": "이용 팁",
+            "content": "여행 계획 시, 디즈니 프리미어 액세스 사전 구매 여부를 확인하세요. 특히 인기 어트랙션은 미리 구매하는 것이 좋습니다.",
+            "alt_text": "스마트폰으로 티켓 구매하는 손"
+          },
+          {
+            "title": "알아두면 좋아요",
+            "content": "사전 구매 도입 시, 서비스 이용 방법 및 가격 정보는 공식 홈페이지를 통해 확인하는 것이 가장 정확합니다. 발 빠르게 업데이트 소식을 전해드릴게요!",
+            "alt_text": "도쿄 디즈니랜드 지도"
+          }
+        ],
+        "caption": "일본 여행 중 도쿄 디즈니랜드 방문 계획이라면 주목! 🚨\n\n인기 어트랙션 기다리는 시간, 이제 안녕~ 👋\n\n도쿄 디즈니리조트가 '디즈니 프리미어 액세스' 사전 구매를 2027년 3월부터 도입할 예정이에요! 🥳\n\n미리 티켓 구매하고 대기 시간 줄여서 더 알차고 여유롭게 디즈니를 즐겨보세요! ✨\n\n#도쿄디즈니랜드 #디즈니프리미어액세스 #일본여행꿀팁 #도쿄여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니프리미어액세스",
+          "#일본여행준비",
+          "#여행정보",
+          "#일본어트랙션",
+          "#도쿄여행",
+          "#2027년",
+          "#여행꿀팁",
+          "#대기시간단축",
+          "#디즈니랜드",
+          "#디즈니",
+          "#일본정보"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 성 앞에서 웃고 있는 커플",
+          "놀이기구 대기 줄이 짧아진 모습",
+          "달력에 2027년 3월 표시",
+          "스마트폰으로 티켓 구매하는 손",
+          "도쿄 디즈니랜드 지도"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 7시 (여행 계획 세우는 저녁 시간) / 기대 반응: 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 구체적인 도입 연도와 함께 실질적인 여행 편의 증진 정보 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland Premier Access pre-purchase announcement",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Premier-Access-pre-purchase-announcement",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Premier%20Access%20pre-purchase%20announcement/"
+      }
+    },
+    {
+      "id": "plan_592606e2",
+      "created_at": "2026-11-01T02:13:54.298073",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【車中泊の拠点 RVパークを訪ねる】「ナニもない」がセールスポイント。静岡市の山中にできたばかりのRVパークに泊まってみた RVパークごほうびリゾート",
+        "url": "https://travel.watch.impress.co.jp/docs/series/rvpark/2152777.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 알짜배기 RV 숙소 정보, 지금 바로 공개!"
+      },
+      "content": {
+        "thumbnail_title": "🚗일본 RV 파크 오픈!✨",
+        "cards": [
+          {
+            "title": "신규 RV 파크 오픈!",
+            "content": "일본 시즈오카시에 2023년 9월 26일 따끈따끈한 신규 RV 파크 '고호비 리조트'가 오픈했습니다. 🏞️",
+            "alt_text": "새롭게 오픈한 일본 시즈오카 RV 파크 외관"
+          },
+          {
+            "title": "접근성 최고!",
+            "content": "신토메이 고속도로 시즈오카 SA 스마트 IC에서 산 쪽으로 약 20분 거리에 위치해 있어 접근성이 뛰어납니다. 🚗💨",
+            "alt_text": "RV 파크로 향하는 도로 풍경"
+          },
+          {
+            "title": "나니모나이의 매력",
+            "content": "'아무것도 없다'는 점이 오히려 매력 포인트! 자연 속에서 조용하고 편안한 휴식을 즐길 수 있어요. 😌",
+            "alt_text": "RV 파크 주변의 아름다운 자연 풍경"
+          },
+          {
+            "title": "RV 파크 정보",
+            "content": "주소: 시즈오카현 시즈오카시 아오이구 사카노우에 624-2. RV 차량을 위한 최적의 숙소입니다. 🏡",
+            "alt_text": "RV 파크 시설 안내 표지판"
+          },
+          {
+            "title": "여행 꿀팁!",
+            "content": "차량 여행 시 새로운 거점지로 활용하기 딱 좋아요! 자연 속에서 힐링하며 일본 여행을 더욱 특별하게 만들어보세요. 🌿",
+            "alt_text": "RV 차량이 주차된 RV 파크 전경"
+          }
+        ],
+        "caption": "일본 여행, 이제 RV로 즐겨보세요! 🚗✨ 시즈오카에 새로 오픈한 'RV 파크 고호비 리조트'는 자연 속에서 진정한 휴식을 선사합니다. 🏞️ 아름다운 풍경과 함께 특별한 추억을 만들어보세요! #일본RV여행 #시즈오카여행 #RV파크",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본RV",
+          "#RV파크",
+          "#일본숙소",
+          "#시즈오카",
+          "#시즈오카여행",
+          "#일본자연",
+          "#차박",
+          "#일본차박",
+          "#여행정보",
+          "#새로운여행",
+          "#힐링여행",
+          "#일본가볼만한곳",
+          "#RV고호비리조트"
+        ],
+        "alt_texts": [
+          "새롭게 오픈한 일본 시즈오카 RV 파크 외관",
+          "RV 파크로 향하는 도로 풍경",
+          "RV 파크 주변의 아름다운 자연 풍경",
+          "RV 파크 시설 안내 표지판",
+          "RV 차량이 주차된 RV 파크 전경"
+        ]
+      },
+      "marketer_analysis": "타겟: 캠핑카/RV를 이용하거나 관심 있는 한국인 일본 여행자 / 최적 게시 시간: 평일 오전 10시~12시 / 기대 반응: 새로운 숙박 형태에 대한 호기심, 정보 공유 / 이 콘텐츠의 강점: 희소성 있는 RV 파크 정보, 구체적인 위치 및 오픈 정보 제공",
+      "image": {
+        "keyword": "Japan RV park, Shizuoka nature, RV camping",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-RV-park,-Shizuoka-nature,-RV-camping",
+        "pexels_url": "https://www.pexels.com/search/Japan%20RV%20park,%20Shizuoka%20nature,%20RV%20camping/"
+      }
+    },
     {
       "id": "plan_30df6827",
       "created_at": "2026-10-31T05:22:45.719724",
@@ -923,160 +1077,6 @@
         "keyword": "Limited express train Odoriko, JRE POINT discount, Ito, Atami, Tokyo",
         "unsplash_url": "https://unsplash.com/s/photos/Limited-express-train-Odoriko,-JRE-POINT-discount,-Ito,-Atami,-Tokyo",
         "pexels_url": "https://www.pexels.com/search/Limited%20express%20train%20Odoriko,%20JRE%20POINT%20discount,%20Ito,%20Atami,%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_c042cbf0",
-      "created_at": "2026-10-28T02:14:39.846960",
-      "category": "tips",
-      "priority": "low",
-      "status": "new",
-      "source": {
-        "title": "本日発売「ツバメノート文具缶」。レトロなケースにハサミやマステ、ぷにぷにシールなど8点入り",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2151680.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "하",
-        "appeal": "일본 감성 가득한 레트로 문구 굿즈 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✨츠바메노트 문구캔 출시!",
-        "cards": [
-          {
-            "title": "신상 문구캔",
-            "content": "일본의 유명한 '츠바메노트'에서 레트로 감성 가득한 문구캔을 출시했어요. 10월 28일에 발매되었으며, 가격은 2,980엔입니다.",
-            "alt_text": "레트로 디자인의 츠바메노트 문구캔 이미지"
-          },
-          {
-            "title": "구성품 확인",
-            "content": "문구캔 안에는 하사미(가위), 마스킹 테이프, ぷにぷに(말랑말랑) 스티커 등 총 8가지 실용적인 문구류가 포함되어 있습니다.",
-            "alt_text": "문구캔 안에 들어있는 다양한 문구류 이미지"
-          },
-          {
-            "title": "구매처",
-            "content": "일본 내 서점 및 온라인 쇼핑몰에서 구매 가능하며, 여행 중 기념품으로 구매하기 좋아요.",
-            "alt_text": "일본 서점에서 판매 중인 문구캔 이미지"
-          },
-          {
-            "title": "레트로 감성",
-            "content": "추억을 자극하는 복고풍 디자인으로, 문구류 수집을 좋아하는 분들에게는 놓칠 수 없는 아이템이 될 거예요.",
-            "alt_text": "빈티지 스타일의 츠바메노트 문구캔 상세 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "한국으로 가져와서 다이어리 꾸미기나 선물용으로 활용하기 좋아요. 한정 수량일 수 있으니 서둘러 확인하세요!",
-            "alt_text": "문구캔으로 꾸민 다이어리 이미지"
-          }
-        ],
-        "caption": "일본 여행 중 특별한 기념품을 찾고 있다면 주목! 💖 츠바메노트에서 출시된 레트로 감성 문구캔을 소개합니다. 10월 28일 출시된 이 문구캔은 2,980엔이며, 가위, 마스킹 테이프, 말랑한 스티커 등 총 8가지 구성품으로 알차게 채워져 있어요. 일본 서점 및 온라인에서 구매 가능하며, 여행의 추억을 담아오기 딱 좋답니다. ✈️\n\n#일본여행 #플라잉재팬 #츠바메노트 #문구덕후 #일본쇼핑 #기념품 #레트로감성 #다이어리꾸미기 #일본기념품 #문구캔 #일본여행준비 #도쿄쇼핑 #오사카쇼핑 #일본직구 #여행필수템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#츠바메노트",
-          "#문구덕후",
-          "#일본쇼핑",
-          "#기념품",
-          "#레트로감성",
-          "#다이어리꾸미기",
-          "#일본기념품",
-          "#문구캔",
-          "#일본여행준비",
-          "#도쿄쇼핑",
-          "#오사카쇼핑",
-          "#일본직구",
-          "#여행필수템"
-        ],
-        "alt_texts": [
-          "레트로 디자인의 츠바메노트 문구캔 이미지",
-          "문구캔 안에 들어있는 다양한 문구류 이미지",
-          "일본 서점에서 판매 중인 문구캔 이미지",
-          "빈티지 스타일의 츠바메노트 문구캔 상세 이미지",
-          "문구캔으로 꾸민 다이어리 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 준비 중이거나 일본 현지에서 쇼핑을 즐기는 20-40대 여성 / 최적 게시 시간: 평일 오후 6시-8시, 주말 오후 2시-4시 / 기대 반응: 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 한국에서 구하기 어려운 한정판 굿즈 정보, 실용성과 감성 모두 갖춘 아이템 소개",
-      "image": {
-        "keyword": "tsubame note stationery can, retro japanese stationery, japanese souvenir, stationery collection, japan travel shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/tsubame-note-stationery-can,-retro-japanese-stationery,-japanese-souvenir,-stationery-collection,-japan-travel-shopping",
-        "pexels_url": "https://www.pexels.com/search/tsubame%20note%20stationery%20can,%20retro%20japanese%20stationery,%20japanese%20souvenir,%20stationery%20collection,%20japan%20travel%20shopping/"
-      }
-    },
-    {
-      "id": "plan_e74f094e",
-      "created_at": "2026-10-28T02:14:33.884479",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本びゅう「ブラックフライデーセール」第1弾。往復新幹線セットの東北温泉/函館グルメ旅/サフィール踊り子で行く南伊豆ほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2151693.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JR동일본, 블랙프라이데이 세일로 알찬 일본 여행 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨JR동일본 블랙프라이데이 세일✨",
-        "cards": [
-          {
-            "title": "블랙프라이데이 세일",
-            "content": "JR동일본이 4회에 걸쳐 블랙프라이데이 세일을 진행합니다. 일본 국내 여행 상품 예약 사이트 '일본의 여행, 철도의 여행'과 열차+숙박 세트 예약 '뷰 여행'에서 특별 할인가로 만나보세요.",
-            "alt_text": "JR동일본 블랙프라이데이 세일 로고"
-          },
-          {
-            "title": "온천 & 미식 여행",
-            "content": "이번 세일에서는 도호쿠 온천 여행, 하코다테 미식 여행 등 다양한 테마의 상품을 선보입니다. 왕복 신칸센 세트 상품으로 더욱 편리하게 여행을 계획할 수 있습니다.",
-            "alt_text": "도호쿠 지역 온천 풍경"
-          },
-          {
-            "title": "사피르 오도리코",
-            "content": "남이즈로 떠나는 '사피르 오도리코' 열차 여행 상품도 준비되어 있습니다. 아름다운 해안선을 따라 펼쳐지는 풍경을 만끽하며 특별한 추억을 만들어보세요.",
-            "alt_text": "사피르 오도리코 열차"
-          },
-          {
-            "title": "여행 계획 팁",
-            "content": "세일 기간 동안 JR동일본의 다양한 여행 상품을 활용하면 합리적인 가격으로 일본의 매력을 만끽할 수 있습니다. 공식 예약 사이트에서 자세한 상품 정보를 확인하세요.",
-            "alt_text": "여행 계획을 세우는 사람"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "세일은 총 4기에 걸쳐 진행되므로, 원하는 날짜와 상품을 미리 확인하고 예약하는 것이 좋습니다. JR동일본의 특별한 혜택을 놓치지 마세요!",
-            "alt_text": "달력에 표시된 세일 기간"
-          }
-        ],
-        "caption": "🚄 JR동일본 블랙프라이데이 세일 시작! 💖\n\n일본 여행을 계획 중이라면 주목! JR동일본이 특별한 블랙프라이데이 세일을 진행합니다. 🤩\n\n✅ 왕복 신칸센 + 숙박 세트 상품!\n✅ 도호쿠 온천, 하코다테 미식, 남이즈 사피르 오도리코 등 테마별 여행!\n✅ 4기에 걸쳐 진행되니 원하는 상품 미리 찜하기!\n\n합리적인 가격으로 알찬 일본 여행을 떠날 기회, 놓치지 마세요! ✨\n\n#일본여행 #JR동일본 #블랙프라이데이 #일본할인 #일본여행팁 #여행정보 #일본철도 #신칸센 #온천여행 #미식여행 #사피르오도리코 #일본자유여행 #여행스타그램 #플라잉재팬 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR동일본",
-          "#블랙프라이데이",
-          "#일본할인",
-          "#일본여행팁",
-          "#여행정보",
-          "#일본철도",
-          "#신칸센",
-          "#온천여행",
-          "#미식여행",
-          "#사피르오도리코",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "JR동일본 블랙프라이데이 세일 로고",
-          "도호쿠 지역 온천 풍경",
-          "사피르 오도리코 열차",
-          "여행 계획을 세우는 사람",
-          "달력에 표시된 세일 기간"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 세일 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 여행 경비 절감 혜택 제공, 구체적인 상품 테마 제시",
-      "image": {
-        "keyword": "JR East Black Friday Sale Japan Train Tour",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-East-Black-Friday-Sale-Japan-Train-Tour",
-        "pexels_url": "https://www.pexels.com/search/JR%20East%20Black%20Friday%20Sale%20Japan%20Train%20Tour/"
       }
     }
   ]
