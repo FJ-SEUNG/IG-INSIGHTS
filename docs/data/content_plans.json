@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-01T05:49:39.899114",
+  "last_updated": "2026-11-02T02:31:18.558477",
   "plans": [
+    {
+      "id": "plan_17d554e7",
+      "created_at": "2026-11-02T02:31:16.558291",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東海「EX旅先予約 秋冬の大セール」で観光施設やグルメパスが10％オフに。横浜エジプト展/ハルカス展望台/京都の寺院巡りほか",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152926.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 인기 관광지 및 맛집을 10% 할인받고 즐길 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✨일본 여행 10% 할인 찬스!✨",
+        "cards": [
+          {
+            "title": "할인 기간",
+            "content": "JR東海 'EX旅先予約 秋冬の大セール'가 12월 24일까지 진행됩니다. 동해 신칸센 연선 인기 관광 시설 및 맛집을 10% 할인된 가격으로 이용하세요!",
+            "alt_text": "할인 기간을 나타내는 달력 이미지"
+          },
+          {
+            "title": "주요 할인 대상",
+            "content": "요코하마 이집트전, 하루카스 300 전망대, 교토 사찰 순례 등 일본 전역의 다양한 관광 명소가 할인 대상입니다. 놓치면 후회할 인기 스팟들을 특별한 가격으로 만나보세요!",
+            "alt_text": "일본의 다양한 관광 명소 사진 콜라주"
+          },
+          {
+            "title": "할인 방법",
+            "content": "JR東海 'EX旅先予約'를 통해 예약하시면 자동으로 할인이 적용됩니다. 복잡한 절차 없이 간편하게 할인 혜택을 누릴 수 있습니다.",
+            "alt_text": "스마트폰으로 예약하는 모습"
+          },
+          {
+            "title": "여행 계획 꿀팁",
+            "content": "이번 세일 기간을 활용하여 평소 가고 싶었던 일본 여행지를 계획해 보세요. 교통비와 관광지 입장료를 절약하여 더욱 풍성한 여행을 만들 수 있습니다.",
+            "alt_text": "일본 지도 위에 다양한 아이콘이 표시된 이미지"
+          },
+          {
+            "title": "주의사항",
+            "content": "할인 대상 시설 및 상품은 조기 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것이 좋습니다. 자세한 내용은 JR東海 웹사이트를 참고하세요.",
+            "alt_text": "주의 표시 아이콘과 함께 '서두르세요!' 문구가 적힌 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수 정보! 🇯🇵\nJR東海의 'EX旅先予約 秋冬の大セール'로 인기 관광지 & 맛집을 10% 할인받으세요! 🤩\n요코하마 이집트전, 하루카스 300 전망대, 교토 사찰 순례 등 다양한 명소가 포함되어 있어요.\n12월 24일까지 진행되니, 지금 바로 예약하고 알뜰하게 일본 여행 즐겨봐요! ✨\n\n#일본여행 #플라잉재팬 #일본할인 #JR도카이 #EX旅先予約 #일본관광 #일본맛집 #일본여행정보 #여행꿀팁 #가성비여행 #겨울여행 #일본축제 #일본쇼핑 #여행스타그램 #여행에미치다",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본할인",
+          "#JR도카이",
+          "#EX旅先予約",
+          "#일본관광",
+          "#일본맛집",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#가성비여행",
+          "#겨울여행",
+          "#일본축제",
+          "#일본쇼핑",
+          "#여행스타그램",
+          "#여행에미치다"
+        ],
+        "alt_texts": [
+          "할인 기간을 나타내는 달력 이미지",
+          "일본의 다양한 관광 명소 사진 콜라주",
+          "스마트폰으로 예약하는 모습",
+          "일본 지도 위에 다양한 아이콘이 표시된 이미지",
+          "주의 표시 아이콘과 함께 '서두르세요!' 문구가 적힌 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 클릭률 및 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공으로 즉각적인 여행 계획 유도",
+      "image": {
+        "keyword": "Japan travel discount, Tokyo sightseeing, Osaka attraction, Kyoto temple, Shinkansen ticket offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-discount,-Tokyo-sightseeing,-Osaka-attraction,-Kyoto-temple,-Shinkansen-ticket-offer",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20discount,%20Tokyo%20sightseeing,%20Osaka%20attraction,%20Kyoto%20temple,%20Shinkansen%20ticket%20offer/"
+      }
+    },
+    {
+      "id": "plan_7745cc47",
+      "created_at": "2026-11-02T02:31:11.300360",
+      "category": "breaking",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "今週末は「土浦の花火」交通規制。国道6号出入口閉鎖や駅周辺通行止め、イオンモール土浦は全館休業",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2152929.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "올가을 일본 여행, 놓치면 후회할 茨城(이바라키) 츠치우라 불꽃축제 정보 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "🎆츠치우라 불꽃축제 D-DAY!🔥",
+        "cards": [
+          {
+            "title": "축제 정보",
+            "content": "매년 11월 7일, 茨城県(이바라키현) 츠치우라에서 열리는 '제95회 츠치우라 전국 불꽃 경기대회'가 코앞으로 다가왔어요! 일본을 대표하는 불꽃 축제 중 하나로, 화려한 불꽃 향연을 만끽할 수 있습니다.",
+            "alt_text": "츠치우라 전국 불꽃 경기대회 포스터 이미지"
+          },
+          {
+            "title": "교통 통제",
+            "content": "축제 당일인 11월 7일, 불꽃놀이 장소인 사쿠라가와 강변(가쿠엔 오하시 부근)을 중심으로 대규모 교통 통제가 실시됩니다. 특히 국도 6호선 진출입로 폐쇄 및 역 주변 도로 통행이 제한되니, 이동 계획 시 반드시 확인하세요.",
+            "alt_text": "교통 통제 안내 지도 이미지"
+          },
+          {
+            "title": "주변 시설",
+            "content": "교통 통제로 인해 이온몰 츠치우라점은 축제 당일 전관 휴업합니다. 쇼핑이나 식사를 계획하셨다면 다른 날짜를 이용하거나 다른 장소를 알아보시는 것이 좋겠어요.",
+            "alt_text": "이온몰 츠치우라점 휴업 안내 이미지"
+          },
+          {
+            "title": "대중교통",
+            "content": "대중교통 이용 시에도 혼잡이 예상됩니다. 츠치우라역 주변으로 통행이 제한되는 구역이 있으니, 축제 장소까지 이동하는 경로를 미리 파악하고 여유 있게 출발하세요.",
+            "alt_text": "츠치우라역 주변 교통 안내 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "교통 통제 및 혼잡을 피해 축제를 즐기려면, 축제 시작 시간보다 넉넉하게 일찍 도착하는 것을 추천해요. 주변 교통 상황을 실시간으로 확인하며 이동하는 것도 좋은 방법입니다.",
+            "alt_text": "불꽃축제를 즐기는 사람들의 모습 이미지"
+          }
+        ],
+        "caption": "일본 茨城(이바라키) 츠치우라에서 열리는 전국 불꽃 경기대회가 11월 7일 개최됩니다! 🎆✨ 하지만 축제 당일, 교통 통제로 인해 국도 6호선 진출입로 폐쇄 및 역 주변 도로 통행이 제한되니 꼭 미리 확인하세요. 이온몰 츠치우라점은 전관 휴업 예정이니 참고하시고요! 🚗➡️🚇\n\n#츠치우라불꽃축제 #이바라키여행 #일본불꽃축제 #일본축제 #11월여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#츠치우라불꽃축제",
+          "#이바라키",
+          "#일본축제",
+          "#불꽃놀이",
+          "#일본교통정보",
+          "#여행꿀팁",
+          "#일본이벤트",
+          "#가을여행",
+          "#여행스타그램",
+          "#일본정보",
+          "#해외여행",
+          "#여행준비",
+          "#축제"
+        ],
+        "alt_texts": [
+          "츠치우라 전국 불꽃 경기대회 포스터 이미지",
+          "교통 통제 안내 지도 이미지",
+          "이온몰 츠치우라점 휴업 안내 이미지",
+          "츠치우라역 주변 교통 안내 이미지",
+          "불꽃축제를 즐기는 사람들의 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 11월 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 교통 통제 정보에 대한 높은 관심과 문의 / 이 콘텐츠의 강점: 구체적인 날짜, 장소, 교통 통제 정보를 제공하여 실질적인 여행 계획 도움",
+      "image": {
+        "keyword": "Tsuchiura fireworks festival, Ibaraki, Japan, traffic control, event information",
+        "unsplash_url": "https://unsplash.com/s/photos/Tsuchiura-fireworks-festival,-Ibaraki,-Japan,-traffic-control,-event-information",
+        "pexels_url": "https://www.pexels.com/search/Tsuchiura%20fireworks%20festival,%20Ibaraki,%20Japan,%20traffic%20control,%20event%20information/"
+      }
+    },
     {
       "id": "plan_842ef71a",
       "created_at": "2026-11-01T05:49:37.898896",
@@ -923,160 +1077,6 @@
         "keyword": "Don Quijote, Gorilla bath set, Japan souvenir, unique bath items, Japanese shopping",
         "unsplash_url": "https://unsplash.com/s/photos/Don-Quijote,-Gorilla-bath-set,-Japan-souvenir,-unique-bath-items,-Japanese-shopping",
         "pexels_url": "https://www.pexels.com/search/Don%20Quijote,%20Gorilla%20bath%20set,%20Japan%20souvenir,%20unique%20bath%20items,%20Japanese%20shopping/"
-      }
-    },
-    {
-      "id": "plan_1abe47bb",
-      "created_at": "2026-10-29T02:27:05.622959",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "29歳以下は入浴料300円、東京都と浴場組合が「若者向け銭湯体験キャンペーン」開始",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152053.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄에서 특별한 힐링! 29세 이하라면 300엔으로 銭湯(센토) 체험 가능! ♨️"
-      },
-      "content": {
-        "thumbnail_title": "도쿄 ♨️ 29세 이하 300엔! 銭湯 체험",
-        "cards": [
-          {
-            "title": "캠페인 시작!",
-            "content": "도쿄도와 도쿄 공중목욕탕업 생활위생동업조합이 '젊은층 대상 銭湯 체험 캠페인'을 11월 4일부터 시작했어요. 🛁",
-            "alt_text": "도쿄 銭湯 체험 캠페인 시작을 알리는 이미지"
-          },
-          {
-            "title": "특별 할인",
-            "content": "만 29세 이하 한국인 여행자라면, 도쿄의 銭湯을 단돈 300엔에 이용할 수 있습니다. 💸",
-            "alt_text": "29세 이하 300엔 銭湯 이용권 이미지"
-          },
-          {
-            "title": "테마는 '湯る活'",
-            "content": "디지털 피로에 지친 젊은 세대를 위해 '＃湯る活しよ'를 테마로, 도쿄 銭湯을 새로운 힐링 공간으로 제안합니다. 🌿",
-            "alt_text": "湯る活(유루카츠) 테마를 나타내는 힐링 이미지"
-          },
-          {
-            "title": "도쿄 銭湯 찾기",
-            "content": "캠페인 참여 銭湯은 도쿄도 공중목욕탕업 생활위생동업조합 웹사이트 등에서 확인 가능해요. (※현재는 11월 4일 이후 정보 확인 필요)",
-            "alt_text": "도쿄 銭湯 지도 또는 목록 이미지"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "일본 현지 문화를 직접 체험하며 특별한 추억을 만들 절호의 기회! 잊지 말고 꼭 참여해보세요. 📸",
-            "alt_text": "일본 銭湯에서 즐거운 시간을 보내는 젊은 여행자 이미지"
-          }
-        ],
-        "caption": "도쿄 여행 중 특별한 힐링을 원한다면? ♨️\n11월 4일부터 시작되는 '젊은층 대상 銭湯 체험 캠페인'을 주목하세요!\n만 29세 이하 한국인 여행자는 단돈 300엔으로 일본 전통 銭湯을 경험할 수 있습니다. 🛁\n디지털 피로를 풀고 '＃湯る活しよ' 테마로 힐링하세요! 🌿\n\n#도쿄여행 #일본온천 #센토 #도쿄가볼만한곳 #일본문화체험 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄센토",
-          "#일본온천",
-          "#銭湯",
-          "#도쿄가볼만한곳",
-          "#일본여행꿀팁",
-          "#일본문화",
-          "#젊음할인",
-          "#도쿄체험",
-          "#힐링여행",
-          "#여행정보",
-          "#일본축제",
-          "#11월여행"
-        ],
-        "alt_texts": [
-          "도쿄 銭湯 체험 캠페인 시작을 알리는 이미지",
-          "29세 이하 300엔 銭湯 이용권 이미지",
-          "湯る活(유루카츠) 테마를 나타내는 힐링 이미지",
-          "도쿄 銭湯 지도 또는 목록 이미지",
-          "일본 銭湯에서 즐거운 시간을 보내는 젊은 여행자 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 20대 후반 이하 한국인 일본 여행객 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심 및 정보 공유 / 이 콘텐츠의 강점: 파격적인 할인율과 특별한 체험 정보 제공",
-      "image": {
-        "keyword": "Tokyo sento, Japanese public bath, discount for young people, travel to Japan, cultural experience",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-sento,-Japanese-public-bath,-discount-for-young-people,-travel-to-Japan,-cultural-experience",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20sento,%20Japanese%20public%20bath,%20discount%20for%20young%20people,%20travel%20to%20Japan,%20cultural%20experience/"
-      }
-    },
-    {
-      "id": "plan_7c633dda",
-      "created_at": "2026-10-29T02:26:59.921336",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、温泉宿が毎日最大30％オフ「秋冬SALE」。レンタカー最大半額、テーマパーク入場チケットもお得に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152055.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 준비 중이라면 놓치면 후회할 역대급 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "🍣 10월 29일 꿀딜 찬스!",
-        "cards": [
-          {
-            "title": "온천 숙소 ♨️",
-            "content": "10월 29일 10시부터 11월 19일 9시 59분까지! 楽天 트래블에서 최대 30% 할인된 가격으로 온천 숙소를 예약할 수 있어요.",
-            "alt_text": "따뜻한 김이 나는 일본 온천 숙소 전경"
-          },
-          {
-            "title": "렌터카 🚗",
-            "content": "일본 현지에서 편리하게 이동할 수 있는 렌터카도 최대 반값 할인! 가을 단풍 여행이나 근교 여행 시 유용해요.",
-            "alt_text": "일본 도로를 달리는 렌터카 모습"
-          },
-          {
-            "title": "테마파크 🎢",
-            "content": "일본 인기 테마파크 입장권도 할인된 가격으로 구매 가능! 디즈니랜드, 유니버설 스튜디오 재팬 등에서 신나는 시간을 보내세요.",
-            "alt_text": "화려한 퍼레이드가 펼쳐지는 일본 테마파크"
-          },
-          {
-            "title": "할인 기간 📅",
-            "content": "놓치기 아까운 이번 '楽天 트래블 가을/겨울 세일'은 10월 29일 오전 10시부터 11월 19일 오전 9시 59분까지 진행됩니다.",
-            "alt_text": "달력에 표시된 할인 기간"
-          },
-          {
-            "title": "놓치지 마세요! ✨",
-            "content": "세일 기간 동안 인기 숙소와 액티비티는 빠르게 마감될 수 있으니, 여행 계획이 있다면 서둘러 예약하는 것을 추천해요!",
-            "alt_text": "손으로 '최고'를 표시하는 모습"
-          }
-        ],
-        "caption": "일본 여행 필수템! 🍁 楽天 트래블 '가을/겨울 세일'이 곧 시작됩니다! \n\n온천 숙소 최대 30% 할인부터 렌터카 반값, 테마파크 티켓 할인까지! \n\n10월 29일 오전 10시부터 11월 19일 오전 9시 59분까지 딱 3주간 진행되니, 일본 가을/겨울 여행 계획 있다면 절대 놓치지 마세요! ✈️ \n\n지금 바로 楽天 트래블에서 역대급 할인 찬스를 잡아보세요! 👇",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#온천여행",
-          "#일본렌터카",
-          "#일본테마파크",
-          "#일본할인",
-          "#楽天트래블",
-          "#일본여행준비",
-          "#가을여행",
-          "#겨울여행",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#해외여행",
-          "#일본쇼핑"
-        ],
-        "alt_texts": [
-          "따뜻한 김이 나는 일본 온천 숙소 전경",
-          "일본 도로를 달리는 렌터카 모습",
-          "화려한 퍼레이드가 펼쳐지는 일본 테마파크",
-          "달력에 표시된 할인 기간",
-          "손으로 '최고'를 표시하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 가을/겨울 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 20시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 클릭률 및 저장률, 댓글 문의 / 이 콘텐츠의 강점: 역대급 할인 정보로 즉각적인 행동 유도 가능, 구체적인 할인율 및 기간 명시",
-      "image": {
-        "keyword": "japanese onsen ryokan discount sale",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-onsen-ryokan-discount-sale",
-        "pexels_url": "https://www.pexels.com/search/japanese%20onsen%20ryokan%20discount%20sale/"
       }
     }
   ]
