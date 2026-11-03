@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-02T05:49:46.713765",
+  "last_updated": "2026-11-03T03:56:07.389090",
   "plans": [
+    {
+      "id": "plan_17b7bab9",
+      "created_at": "2026-11-03T03:56:05.388929",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニークリスマス、会期前日にプレビュー公演。エンターテイメントプログラムを中心に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2153168.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니랜드의 겨울왕국 같은 크리스마스 축제 미리 만나기!"
+      },
+      "content": {
+        "thumbnail_title": "🎄도쿄 디즈니 크리스마스 🎄",
+        "cards": [
+          {
+            "title": "크리스마스 시작!",
+            "content": "도쿄 디즈니랜드에서 11월 11일부터 '디즈니 크리스마스'가 시작됩니다. 11월 10일에는 사전 공개 공연도 열릴 예정이에요.",
+            "alt_text": "도쿄 디즈니랜드 캐슬 야경"
+          },
+          {
+            "title": "엔터테인먼트 집중",
+            "content": "이번 크리스마스 시즌에는 환상적인 엔터테인먼트 프로그램에 집중할 예정입니다. 잊지 못할 겨울 추억을 만들어 보세요!",
+            "alt_text": "디즈니 캐릭터들이 등장하는 퍼레이드 장면"
+          },
+          {
+            "title": "미리 보는 감동",
+            "content": "본격적인 이벤트 시작 하루 전인 11월 10일에는 특별한 사전 공개 공연이 진행됩니다. 놓치지 마세요!",
+            "alt_text": "공연을 기다리는 관객들의 모습"
+          },
+          {
+            "title": "겨울 시즌 만끽",
+            "content": "크리스마스 분위기를 한껏 느낄 수 있는 다양한 장식과 이벤트가 준비되어 있어요. 도쿄 디즈니랜드에서 특별한 겨울을 만끽하세요!",
+            "alt_text": "크리스마스 장식으로 꾸며진 도쿄 디즈니랜드 거리"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "인기 시즌이니만큼 미리 티켓을 예매하고, 공연 시간을 확인하여 효율적으로 일정을 계획하는 것이 좋습니다. 11월 10일 사전 공연 티켓 정보도 미리 확인하세요!",
+            "alt_text": "티켓을 들고 환하게 웃는 여행객"
+          }
+        ],
+        "caption": "✨ 도쿄 디즈니랜드에서 펼쳐지는 꿈같은 크리스마스! ✨\n11월 11일부터 시작되는 '디즈니 크리스마스' 시즌을 미리 만나보세요!\n11월 10일에는 특별한 사전 공개 공연도 진행됩니다.\n환상적인 엔터테인먼트와 함께 잊지 못할 겨울 추억을 만들어가세요!\n\n지금 바로 도쿄 디즈니랜드 크리스마스 계획 세워볼까요? 🎅🏻",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니크리스마스",
+          "#도쿄여행",
+          "#일본자유여행",
+          "#일본축제",
+          "#겨울여행",
+          "#디즈니랜드",
+          "#크리스마스",
+          "#일본가볼만한곳",
+          "#여행정보",
+          "#해외여행",
+          "#도쿄",
+          "#디즈니"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 캐슬 야경",
+          "디즈니 캐릭터들이 등장하는 퍼레이드 장면",
+          "공연을 기다리는 관객들의 모습",
+          "크리스마스 장식으로 꾸며진 도쿄 디즈니랜드 거리",
+          "티켓을 들고 환하게 웃는 여행객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 디즈니랜드를 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 높은 관심과 참여 (공연 정보, 티켓 구매 문의 등) / 이 콘텐츠의 강점: 최신 이벤트 정보와 구체적인 날짜를 제공하여 실질적인 여행 계획 수립에 도움",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas event, entertainment program preview, festive decorations, winter season",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-event,-entertainment-program-preview,-festive-decorations,-winter-season",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20event,%20entertainment%20program%20preview,%20festive%20decorations,%20winter%20season/"
+      }
+    },
+    {
+      "id": "plan_985c05f1",
+      "created_at": "2026-11-03T03:56:00.612559",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "焼津グランドホテル、1泊2食ビュッフェが最大30％オフ。富士山と駿河湾を一望する温泉宿、地酒もオールインクルーシブ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2153164.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후지산과 바다를 보며 즐기는 30% 할인 뷔페 숙박!"
+      },
+      "content": {
+        "thumbnail_title": "♨️30% 할인! 후지산뷰 숙소♨️",
+        "cards": [
+          {
+            "title": "파격 할인!",
+            "content": "야이즈 그랜드 호텔에서 1박 2식 뷔페가 최대 30% 할인된 가격으로 제공됩니다. 楽天トラベル 秋冬SALE 기간 한정 혜택이니 서둘러 예약하세요!",
+            "alt_text": "할인 문구가 강조된 호텔 예약 페이지 이미지"
+          },
+          {
+            "title": "최대 30% 할인",
+            "content": "楽天トラベル에서 제공하는 쿠폰을 여러 개 중복 사용하면, 전국 대상 호텔 및 온천 숙소를 최대 30% 할인받을 수 있습니다. 11월 19일까지 진행됩니다.",
+            "alt_text": "쿠폰 중복 사용 가능한 楽天トラベル 앱 화면 이미지"
+          },
+          {
+            "title": "환상적인 뷰",
+            "content": "후지산과 스루가만을 한눈에 조망할 수 있는 아름다운 온천 숙소입니다. 객실과 온천에서 그림 같은 풍경을 감상하며 힐링하세요.",
+            "alt_text": "후지산과 바다가 보이는 호텔 객실 창문 이미지"
+          },
+          {
+            "title": "풍성한 뷔페",
+            "content": "신선한 현지 식재료를 활용한 다양한 요리를 맛볼 수 있는 뷔페가 포함되어 있습니다. 지역 특산물과 제철 음식을 즐겨보세요.",
+            "alt_text": "다양한 음식이 차려진 뷔페 식당 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "올인클루시브로 제공되는 지역 술을 포함하여 더욱 풍성한 식사를 즐길 수 있습니다. 11월 19일까지 진행되는 楽天トラベル 秋冬SALE를 활용하세요!",
+            "alt_text": "지역 술이 진열된 모습 또는 뷔페 음식 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 꿀팁!🇯🇵\n야이즈 그랜드 호텔에서 1박 2식 뷔페가 최대 30% 할인된 가격으로 제공된다는 소식!\n후지산과 스루가만을 바라보며 맛있는 뷔페와 지역 술까지 즐길 수 있는 절호의 기회!\n楽天トラベル 秋冬SALE 기간 한정 (11월 19일까지)이니 지금 바로 예약하세요!\n\n#일본숙소 #일본온천 #후지산뷰 #야이즈그랜드호텔 #楽天トラベル #일본할인 #겨울여행 #일본여행정보 #플라잉재팬 #여행꿀팁 #일본가족여행 #일본커플여행 #일본자유여행 #여행스타그램 #여행에미치다",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본온천",
+          "#후지산뷰",
+          "#야이즈그랜드호텔",
+          "#楽天トラベル",
+          "#일본할인",
+          "#겨울여행",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#일본가족여행",
+          "#일본커플여행",
+          "#일본자유여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "할인 문구가 강조된 호텔 예약 페이지 이미지",
+          "쿠폰 중복 사용 가능한 楽天トラベル 앱 화면 이미지",
+          "후지산과 바다가 보이는 호텔 객실 창문 이미지",
+          "다양한 음식이 차려진 뷔페 식당 이미지",
+          "지역 술이 진열된 모습 또는 뷔페 음식 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 겨울 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 금요일 오후 5시, 토요일 오후 2시 / 기대 반응: 예약 문의 증가, 할인 정보 공유 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 매력적인 숙소 특징 강조",
+      "image": {
+        "keyword": "hotel buffet discount fuji mountain view onsen japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/hotel-buffet-discount-fuji-mountain-view-onsen-japan-travel",
+        "pexels_url": "https://www.pexels.com/search/hotel%20buffet%20discount%20fuji%20mountain%20view%20onsen%20japan%20travel/"
+      }
+    },
     {
       "id": "plan_2f5cc723",
       "created_at": "2026-11-02T05:49:44.713598",
@@ -923,160 +1077,6 @@
         "keyword": "Tamagotchi exhibition Fukuoka Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-exhibition-Fukuoka-Japan",
         "pexels_url": "https://www.pexels.com/search/Tamagotchi%20exhibition%20Fukuoka%20Japan/"
-      }
-    },
-    {
-      "id": "plan_1cba1e23",
-      "created_at": "2026-10-30T05:35:13.482315",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーシー、25周年コスの「イマジニング・ザ・マジック」グッズ詳細発表。カメラ系アイテムが豊富、アートパネルは予約販売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152551.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 씨 25주년 기념 특별 굿즈, 놓치면 후회할 한정판 아이템!"
-      },
-      "content": {
-        "thumbnail_title": "💖디즈니 씨 25주년 굿즈💖",
-        "cards": [
-          {
-            "title": "굿즈 판매 시작!",
-            "content": "도쿄 디즈니 씨 25주년 기념 굿즈 '이매지닝 더 매직' 2탄이 12월 3일부터 판매됩니다. 25주년을 기념하는 특별한 디자인을 만나보세요!",
-            "alt_text": "도쿄 디즈니 씨 25주년 기념 굿즈 '이매지닝 더 매직' 2탄 판매 시작 안내 이미지"
-          },
-          {
-            "title": "특별한 테마",
-            "content": "이번 굿즈는 개장 25주년을 맞이한 도쿄 디즈니 씨의 아름다운 순간들을 담아냈습니다. 잊지 못할 추억을 기념할 아이템들로 가득합니다.",
-            "alt_text": "디즈니 씨 25주년 테마를 보여주는 이미지"
-          },
-          {
-            "title": "카메라 용품 주목!",
-            "content": "특히 이번 굿즈 라인업에는 카메라 관련 아이템이 다양하게 준비되어 있습니다. 소중한 여행의 순간을 더 특별하게 담아낼 수 있습니다.",
-            "alt_text": "다양한 카메라 용품 이미지"
-          },
-          {
-            "title": "아트 패널 예약 판매",
-            "content": "아름다운 디즈니 씨의 풍경을 담은 아트 패널은 예약 판매로 진행됩니다. 한정 수량일 수 있으니 서둘러 예약하세요!",
-            "alt_text": "아트 패널 이미지"
-          },
-          {
-            "title": "방문 전 확인!",
-            "content": "디즈니 씨 25주년 굿즈는 12월 3일부터 판매 시작됩니다. 방문 계획이 있다면 판매일을 꼭 확인하시고, 인기 상품은 조기 품절될 수 있으니 참고하세요!",
-            "alt_text": "디즈니 씨 방문 팁 안내 이미지"
-          }
-        ],
-        "caption": "✨도쿄 디즈니 씨 25주년 기념 굿즈, '이매지닝 더 매직' 2탄 출시!✨\n12월 3일부터 만날 수 있는 특별한 한정판 아이템들을 소개합니다.\n특히 카메라 용품과 아트 패널은 놓치지 마세요! 📸\n\n#디즈니씨 #도쿄디즈니씨 #디즈니랜드 #디즈니굿즈 #일본여행 #플라잉재팬 #도쿄여행 #여행스타그램 #디즈니25주년 #한정판굿즈 #여행정보 #일본쇼핑 #여행꿀팁 #디즈니덕후",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니씨",
-          "#디즈니씨25주년",
-          "#디즈니굿즈",
-          "#이매지닝더매직",
-          "#도쿄여행",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#디즈니랜드",
-          "#한정판",
-          "#여행꿀팁",
-          "#일본축제",
-          "#디즈니",
-          "#여행정보"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니 씨 25주년 기념 굿즈 '이매지닝 더 매직' 2탄 판매 시작 안내 이미지",
-          "디즈니 씨 25주년 테마를 보여주는 이미지",
-          "다양한 카메라 용품 이미지",
-          "아트 패널 이미지",
-          "디즈니 씨 방문 팁 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니 씨 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5시 ~ 7시 / 기대 반응: 굿즈 정보에 대한 높은 관심, 구매 욕구 자극 / 이 콘텐츠의 강점: 최신 정보, 구체적인 판매일 명시, 구매욕을 자극하는 매력적인 굿즈 소개",
-      "image": {
-        "keyword": "Tokyo DisneySea 25th anniversary merchandise, Imagining the Magic, limited edition, camera accessories, art panel, December 3rd release",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-merchandise,-Imagining-the-Magic,-limited-edition,-camera-accessories,-art-panel,-December-3rd-release",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20merchandise,%20Imagining%20the%20Magic,%20limited%20edition,%20camera%20accessories,%20art%20panel,%20December%203rd%20release/"
-      }
-    },
-    {
-      "id": "plan_90bafb8c",
-      "created_at": "2026-10-30T05:35:07.429661",
-      "category": "season",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストア、クリスマスカラーの新作グッズ発売。アナ雪短編モチーフのホリデーアイテムに注目",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152597.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 스토어 크리스마스 신상 굿즈, 놓치면 후회!"
-      },
-      "content": {
-        "thumbnail_title": "🎄디즈니 크리스마스 굿즈 OPEN🎄",
-        "cards": [
-          {
-            "title": "신상 굿즈 출시!",
-            "content": "디즈니 스토어에서 11월 6일부터 크리스마스 신상 굿즈가 발매됩니다. 연말 분위기를 물씬 느낄 수 있는 특별한 아이템들을 만나보세요!",
-            "alt_text": "디즈니 스토어 크리스마스 신상 굿즈 이미지"
-          },
-          {
-            "title": "얼리버드 찬스!",
-            "content": "도쿄 디즈니 플래그십 스토어, 도쿄 디즈니 리조트점, 디즈니 공식 온라인 스토어에서는 11월 3일부터 선행 판매를 시작합니다. 서둘러 방문하세요!",
-            "alt_text": "디즈니 스토어 선행 판매 안내 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "특히 '겨울왕국' 단편 애니메이션을 모티브로 한 홀리데이 아이템에 주목해주세요. 겨울왕국 팬이라면 절대 놓칠 수 없는 컬렉션입니다.",
-            "alt_text": "겨울왕국 테마 디즈니 크리스마스 굿즈 이미지"
-          },
-          {
-            "title": "크리스마스 선물로 딱!",
-            "content": "사랑하는 사람에게 특별한 크리스마스 선물을 하고 싶다면, 디즈니 스토어의 신상 굿즈가 정답입니다. 잊지 못할 추억을 선물하세요.",
-            "alt_text": "디즈니 크리스마스 굿즈 선물 이미지"
-          },
-          {
-            "title": "방문 전 확인!",
-            "content": "선행 판매 및 정식 발매일, 판매처를 미리 확인하여 방문 계획을 세우는 것이 좋습니다. 인기 상품은 조기 품절될 수 있으니 참고하세요.",
-            "alt_text": "디즈니 스토어 방문 팁 이미지"
-          }
-        ],
-        "caption": "🎄디즈니 스토어에서 역대급 크리스마스 굿즈가 쏟아져 나와요!🎄\n\n11월 6일부터 발매되는 크리스마스 신상 굿즈, 특히 '겨울왕국' 테마 아이템은 놓치면 후회각!\n\n11월 3일부터는 도쿄 디즈니 플래그십 스토어, 디즈니 리조트점, 공식 온라인 스토어에서 선행 판매도 시작되니 서둘러 방문하세요!\n\n올 크리스마스, 디즈니 굿즈로 특별한 추억을 만들어보세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#디즈니크리스마스",
-          "#겨울왕국",
-          "#도쿄여행",
-          "#일본쇼핑",
-          "#크리스마스굿즈",
-          "#도쿄디즈니",
-          "#일본한정",
-          "#여행정보",
-          "#쇼핑스타그램",
-          "#디즈니",
-          "#연말선물",
-          "#해외여행"
-        ],
-        "alt_texts": [
-          "디즈니 스토어 크리스마스 신상 굿즈 이미지",
-          "디즈니 스토어 선행 판매 안내 이미지",
-          "겨울왕국 테마 디즈니 크리스마스 굿즈 이미지",
-          "디즈니 크리스마스 굿즈 선물 이미지",
-          "디즈니 스토어 방문 팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중 디즈니 관련 상품에 관심 있는 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 댓글, 저장 수 / 이 콘텐츠의 강점: 최신 정보, 구체적인 날짜 및 장소 명시, 시즌성",
-      "image": {
-        "keyword": "Disney Store Christmas merchandise, Frozen holiday items, Tokyo Disney Flagship Store, early release dates",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Christmas-merchandise,-Frozen-holiday-items,-Tokyo-Disney-Flagship-Store,-early-release-dates",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Christmas%20merchandise,%20Frozen%20holiday%20items,%20Tokyo%20Disney%20Flagship%20Store,%20early%20release%20dates/"
       }
     }
   ]
