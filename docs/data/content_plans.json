@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-03T03:56:07.389090",
+  "last_updated": "2026-11-03T06:31:48.060493",
   "plans": [
+    {
+      "id": "plan_2b5a0cc4",
+      "created_at": "2026-11-03T06:31:46.060297",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "キャナルシティ・福岡ワシントンホテル、9月1日全面リニューアルオープン",
+        "url": "https://www.traicy.com/posts/20261103381376/",
+        "date": "Mon, 02 Nov 2026 22:15:39 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카 캐널시티 숙소, 9월 1일부터 완전 새롭게 태어나요!"
+      },
+      "content": {
+        "thumbnail_title": "✨후쿠오카 캐널시티 호텔 리뉴얼 오픈✨",
+        "cards": [
+          {
+            "title": "9월 1일 오픈",
+            "content": "후쿠오카 캐널시티 와싱톤 호텔이 9월 1일부로 전면 리뉴얼 오픈했습니다. 기존 시설을 새롭게 단장하여 더욱 쾌적한 투숙 환경을 제공합니다.",
+            "alt_text": "캐널시티 와싱톤 호텔 전면 리뉴얼 오픈 알림"
+          },
+          {
+            "title": "새로운 로비",
+            "content": "로비에는 하카타 기온 야마카사 아트워크와 나카스 포장마차를 모티브로 한 우드 소재가 배치되었습니다. 일본 전통과 현지 감성을 느낄 수 있는 공간으로 꾸며졌습니다.",
+            "alt_text": "리뉴얼된 호텔 로비의 야마카사 아트워크와 포장마차 모티브 디자인"
+          },
+          {
+            "title": "편리한 체크인",
+            "content": "셀프 체크인 시스템이 도입되어 더욱 빠르고 편리하게 체크인을 진행할 수 있습니다. 대기 시간을 줄여 여행의 피로를 덜어줍니다.",
+            "alt_text": "호텔 셀프 체크인 키오스크 이미지"
+          },
+          {
+            "title": "쇼핑 & 엔터테인먼트",
+            "content": "호텔은 캐널시티 내에 위치하여 쇼핑, 식사, 영화 등 다양한 엔터테인먼트 시설을 편리하게 이용할 수 있습니다. 후쿠오카 여행의 중심지입니다.",
+            "alt_text": "캐널시티 복합 쇼핑몰 전경"
+          },
+          {
+            "title": "꿀팁",
+            "content": "리뉴얼 오픈 기념 프로모션이 있을 수 있으니, 예약 전 호텔 공식 홈페이지를 확인해 보세요. 9월 이후 후쿠오카 여행 계획 시 고려해볼 만한 숙소입니다.",
+            "alt_text": "호텔 예약 웹사이트 화면 캡처 (예시)"
+          }
+        ],
+        "caption": "✈️ 후쿠오카 여행 필수 코스, 캐널시티! \n\n캐널시티 와싱톤 호텔이 9월 1일부로 전면 리뉴얼 오픈했어요! 🎉\n\n새롭게 단장한 로비에서 하카타의 정취를 느끼고, 편리한 셀프 체크인으로 여행 시간을 절약하세요! \n\n쇼핑, 맛집, 영화관까지 한곳에서 즐길 수 있는 최고의 위치! 💯\n\n후쿠오카 여행, 캐널시티 호텔에서 편안하게 보내세요! \n\n#일본여행 #후쿠오카여행 #캐널시티 #후쿠오카호텔 #일본숙소 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카여행",
+          "#캐널시티",
+          "#후쿠오카호텔",
+          "#일본숙소",
+          "#여행정보",
+          "#일본호텔",
+          "#후쿠오카",
+          "#여행팁",
+          "#일본숙박",
+          "#캐널시티호텔",
+          "#일본개별여행",
+          "#여행스타그램",
+          "#일본소식"
+        ],
+        "alt_texts": [
+          "캐널시티 와싱톤 호텔 전면 리뉴얼 오픈 알림",
+          "리뉴얼된 호텔 로비의 야마카사 아트워크와 포장마차 모티브 디자인",
+          "호텔 셀프 체크인 키오스크 이미지",
+          "캐널시티 복합 쇼핑몰 전경",
+          "호텔 예약 웹사이트 화면 캡처 (예시)"
+        ]
+      },
+      "marketer_analysis": "타겟: 20-40대 일본 후쿠오카 여행 예정 한국인 / 최적 게시 시간: 오후 6시 - 9시 / 기대 반응: 숙소 정보 업데이트에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 실시간 업데이트되는 최신 숙소 정보, 캐널시티라는 매력적인 위치, 편리한 시설 소개",
+      "image": {
+        "keyword": "Fukuoka Canal City Washington Hotel, renovation, lobby, art, Japanese style, self check-in, shopping mall",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Canal-City-Washington-Hotel,-renovation,-lobby,-art,-Japanese-style,-self-check-in,-shopping-mall",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Canal%20City%20Washington%20Hotel,%20renovation,%20lobby,%20art,%20Japanese%20style,%20self%20check-in,%20shopping%20mall/"
+      }
+    },
+    {
+      "id": "plan_0dfb6a59",
+      "created_at": "2026-11-03T06:31:40.544907",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "一休、「一休の日セール！人気宿スペシャル」を開催中　11月9日正午まで",
+        "url": "https://www.traicy.com/posts/20261103386672/",
+        "date": "Tue, 03 Nov 2026 00:15:01 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 인기 숙소 최대 50% 할인받고 알뜰하게 숙박하자!"
+      },
+      "content": {
+        "thumbnail_title": "🇯🇵인기숙소 50% 세일!",
+        "cards": [
+          {
+            "title": "일정 확인 필수!",
+            "content": "일본 인기 숙소 특가 세일이 11월 1일 정오부터 11월 9일 정오까지 진행돼요. 서둘러 예약하세요!",
+            "alt_text": "달력에 표시된 11월 1일부터 9일까지의 날짜"
+          },
+          {
+            "title": "최대 50% 할인",
+            "content": "인기 숙소를 최대 50% 할인된 가격으로 만날 수 있는 절호의 기회! 1박 3,400엔부터 시작하는 특가도 있어요.",
+            "alt_text": "할인율이 표시된 호텔 숙박권 이미지"
+          },
+          {
+            "title": "즉시 포인트 사용",
+            "content": "일부 숙소는 즉시 포인트 사용 시 더욱 저렴하게 예약 가능해요. 예약 전 포인트 사용 혜택을 확인해보세요.",
+            "alt_text": "포인트가 적립되는 카드 이미지"
+          },
+          {
+            "title": "다양한 인기 숙소",
+            "content": "관음사 리브맥스 리조트 등 다양한 지역의 인기 숙소들이 이번 세일에 포함되었어요. 취향에 맞는 곳을 골라보세요.",
+            "alt_text": "다양한 스타일의 호텔 객실 내부 사진"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "이번 세일은 11월 9일 정오에 마감되니, 일본 여행 계획 중이라면 이 기회를 꼭 잡으세요!",
+            "alt_text": "시간이 얼마 남지 않았음을 알리는 시계 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수! 인기 숙소 최대 50% 할인 찬스! 🇯🇵\n11월 1일부터 9일 정오까지, 1박 3,400엔부터 시작하는 놀라운 가격으로 일본의 숨은 보석 같은 숙소를 예약하세요. 꿀 같은 휴가를 더욱 알차게 보낼 수 있는 절호의 기회! 지금 바로 확인해보세요! ✨\n\n#일본숙소 #일본여행 #일본호텔 #일본특가 #인기숙소 #여행세일 #플라잉재팬 #일본여행정보 #가을여행 #겨울여행 #일본할인 #여행꿀팁 #일본숙박 #놓치지마세요 #지금예약",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본숙소",
+          "#일본호텔",
+          "#일본특가",
+          "#인기숙소",
+          "#여행세일",
+          "#일본여행정보",
+          "#가을여행",
+          "#겨울여행",
+          "#일본할인",
+          "#여행꿀팁",
+          "#일본숙박",
+          "#지금예약",
+          "#알뜰여행"
+        ],
+        "alt_texts": [
+          "달력에 표시된 11월 1일부터 9일까지의 날짜",
+          "할인율이 표시된 호텔 숙박권 이미지",
+          "포인트가 적립되는 카드 이미지",
+          "다양한 스타일의 호텔 객실 내부 사진",
+          "시간이 얼마 남지 않았음을 알리는 시계 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시 - 9시 / 기대 반응: 높은 예약 전환율, 정보 공유 확산 / 이 콘텐츠의 강점: 즉각적인 할인 혜택 정보 제공으로 구매 욕구 자극",
+      "image": {
+        "keyword": "japanese hotel discount sale",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-hotel-discount-sale",
+        "pexels_url": "https://www.pexels.com/search/japanese%20hotel%20discount%20sale/"
+      }
+    },
     {
       "id": "plan_17b7bab9",
       "created_at": "2026-11-03T03:56:05.388929",
@@ -923,160 +1077,6 @@
         "keyword": "Hobonichi Suica Penguin collaboration goods online pre-order",
         "unsplash_url": "https://unsplash.com/s/photos/Hobonichi-Suica-Penguin-collaboration-goods-online-pre-order",
         "pexels_url": "https://www.pexels.com/search/Hobonichi%20Suica%20Penguin%20collaboration%20goods%20online%20pre-order/"
-      }
-    },
-    {
-      "id": "plan_9828f254",
-      "created_at": "2026-10-31T02:23:03.713124",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、梅田限定「ミャクミャク」Tシャツ＆バッグ本日発売。スタンプや刺繍でオリジナルも作れる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152794.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "오사카 유니클로에서만 만날 수 있는 특별한 '미야쿠미야쿠' 콜라보 아이템 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✨오사카 한정! 미야쿠미야쿠 UTme!✨",
-        "cards": [
-          {
-            "title": "오사카 한정 UTme!",
-            "content": "유니클로 오사카 우메다점에서만 만날 수 있는 '미야쿠미야쿠' 콜라보 T셔츠와 가방이 10월 30일에 출시되었습니다.",
-            "alt_text": "유니클로 오사카 우메다점 매장 전경"
-          },
-          {
-            "title": "오픈 1주년 기념",
-            "content": "글로벌 플래그십 스토어 'UNIQLO UMEDA'의 오픈 1주년을 기념하여 특별히 제작된 한정판 아이템입니다.",
-            "alt_text": "UNIQLO UMEDA 매장 입구"
-          },
-          {
-            "title": "나만의 특별함",
-            "content": "UTme! 서비스를 통해 스탬프나 자수로 나만의 개성을 담은 '미야쿠미야쿠' 아이템을 직접 만들 수 있습니다.",
-            "alt_text": "UTme! 서비스로 커스터마이징하는 모습"
-          },
-          {
-            "title": "매장 정보",
-            "content": "매장은 오사카부 오사카시 기타구 오오후카마치 1번지 1호 LINKS UMEDA 1, 2층에 위치하고 있습니다.",
-            "alt_text": "LINKS UMEDA 건물 외관"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "오사카 여행 중 특별한 기념품을 찾고 있다면, 유니클로 우메다점에서만 구매 가능한 '미야쿠미야쿠' 콜라보 아이템을 놓치지 마세요!",
-            "alt_text": "다양한 디자인의 '미야쿠미야쿠' 콜라보 상품 이미지"
-          }
-        ],
-        "caption": "🇯🇵 오사카 여행 필수 쇼핑템 등장! 🇯🇵\n\n유니클로 오사카 우메다점에서만 만날 수 있는 '미야쿠미야쿠' 한정 UTme! 콜라보 티셔츠와 가방이 출시되었어요! 🤩\n\n오픈 1주년을 기념하여 특별 제작된 이번 콜라보 상품은 스탬프나 자수로 나만의 개성을 더할 수 있다는 점이 매력 포인트! ✨\n\n오사카 여행 중 특별한 기념품을 찾고 있다면, 지금 바로 유니클로 우메다점으로 달려가 보세요! 🏃‍♀️💨\n\n#일본여행 #오사카여행 #유니클로 #UTme #미야쿠미야쿠 #오사카쇼핑 #한정판 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#유니클로",
-          "#UTme",
-          "#미야쿠미야쿠",
-          "#오사카쇼핑",
-          "#한정판",
-          "#일본쇼핑",
-          "#여행정보",
-          "#여행스타그램",
-          "#오사카",
-          "#일본",
-          "#쇼핑",
-          "#일본한정"
-        ],
-        "alt_texts": [
-          "유니클로 오사카 우메다점 매장 전경",
-          "UNIQLO UMEDA 매장 입구",
-          "UTme! 서비스로 커스터마이징하는 모습",
-          "LINKS UMEDA 건물 외관",
-          "다양한 디자인의 '미야쿠미야쿠' 콜라보 상품 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 3시~5시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 오사카에서만 구매 가능한 희소성, 개인 맞춤 제작 가능성 어필",
-      "image": {
-        "keyword": "Uniqlo Umeda, Miyakumiya, UTme!, Osaka collaboration, limited edition T-shirt, custom bag",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo-Umeda,-Miyakumiya,-UTme!,-Osaka-collaboration,-limited-edition-T-shirt,-custom-bag",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo%20Umeda,%20Miyakumiya,%20UTme!,%20Osaka%20collaboration,%20limited%20edition%20T-shirt,%20custom%20bag/"
-      }
-    },
-    {
-      "id": "plan_0ec601fc",
-      "created_at": "2026-10-31T02:22:58.704584",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡「大たまごっち展」チケット抽選販売が本日スタート。限定シャカシャカ巾着付きも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152766.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "추억의 다마고치, 한정판 굿즈까지! 후쿠오카에서 열리는 특별 전시 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨후쿠오카 다마고치 전시✨",
-        "cards": [
-          {
-            "title": "전시 정보",
-            "content": "30주년 기념 '대다마고치전'이 후쿠오카에서 개최됩니다. 12월 29일부터 31일까지, 그리고 주말 및 공휴일 입장권은 추첨제로 판매 중입니다.",
-            "alt_text": "후쿠오카에서 열리는 '대다마고치전' 전시 안내"
-          },
-          {
-            "title": "추첨 판매 시작!",
-            "content": "오늘 10월 31일 오전 10시부터, 인기 날짜(12/29~31, 주말/공휴일) 티켓 추첨 판매가 시작되었습니다. 서둘러 신청하세요!",
-            "alt_text": "다마고치 전시 티켓 추첨 판매 시작 알림"
-          },
-          {
-            "title": "한정판 굿즈",
-            "content": "추첨 판매 티켓 구매 시, 특별 제작된 '샤카샤카 츳키' 굿즈를 증정합니다. 소장 가치 높은 한정판 굿즈를 득템할 기회!",
-            "alt_text": "다마고치 전시 한정판 굿즈 '샤카샤카 츳키' 이미지"
-          },
-          {
-            "title": "후쿠오카 여행",
-            "content": "연말 후쿠오카 여행 계획 중이라면, 이 전시를 일정에 추가해보세요. 어릴 적 추억 소환은 물론, 특별한 기념품까지 챙길 수 있습니다.",
-            "alt_text": "후쿠오카 시내 풍경과 다마고치 전시를 연상시키는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "추첨제 티켓은 인기 날짜일수록 경쟁률이 높으니, 원하는 날짜를 신중하게 선택하세요. 자세한 신청 방법은 공식 정보를 확인하는 것이 좋습니다.",
-            "alt_text": "다마고치 전시 티켓 구매 꿀팁 안내"
-          }
-        ],
-        "caption": "💖어른이들 취향 저격! 후쿠오카에서 '대다마고치전'이 열립니다!💖\n\n어릴 적 추억을 소환할 다마고치 전시! 12월 29일부터 31일, 그리고 주말/공휴일 입장권은 오늘(10/31) 오전 10시부터 추첨 판매 시작했어요!\n\n✨한정판 '샤카샤카 츳키' 굿즈도 놓치지 마세요!✨\n\n후쿠오카 여행 계획 중이라면, 잊지 말고 꼭 참여해보세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카여행",
-          "#다마고치",
-          "#대다마고치전",
-          "#일본전시",
-          "#후쿠오카",
-          "#여행꿀팁",
-          "#연말여행",
-          "#굿즈",
-          "#한정판",
-          "#추억",
-          "#일본축제",
-          "#여행스타그램",
-          "#후쿠오카가볼만한곳"
-        ],
-        "alt_texts": [
-          "후쿠오카에서 열리는 '대다마고치전' 전시 안내",
-          "다마고치 전시 티켓 추첨 판매 시작 알림",
-          "다마고치 전시 한정판 굿즈 '샤카샤카 츳키' 이미지",
-          "후쿠오카 시내 풍경과 다마고치 전시를 연상시키는 이미지",
-          "다마고치 전시 티켓 구매 꿀팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 90년대생 한국인 여행객, 키덜트족 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 전시 정보에 대한 높은 관심, 티켓 구매 희망 댓글 / 이 콘텐츠의 강점: 추억을 자극하는 아이템과 한정판 굿즈 정보로 즉각적인 흥미 유발",
-      "image": {
-        "keyword": "Tamagotchi exhibition Fukuoka Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-exhibition-Fukuoka-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tamagotchi%20exhibition%20Fukuoka%20Japan/"
       }
     }
   ]
