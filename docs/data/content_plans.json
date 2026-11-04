@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-04T03:00:41.680112",
+  "last_updated": "2026-11-04T06:01:22.193514",
   "plans": [
+    {
+      "id": "plan_0f0986e6",
+      "created_at": "2026-11-04T06:01:20.193327",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本びゅう「ブラックフライデーセール」第2・3弾。寝台特急「サンライズ出雲」冬ツアーなど最大5000円引き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2153503.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템! JR 열차 특가 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚄 JR 동일본 최대 5000엔 할인!",
+        "cards": [
+          {
+            "title": "블랙프라이데이",
+            "content": "JR 동일본이 최대 5000엔 할인하는 블랙프라이데이 세일을 진행해요. 2차, 3차 세일이 순차적으로 오픈될 예정입니다.",
+            "alt_text": "JR 동일본 블랙프라이데이 세일 배너 이미지"
+          },
+          {
+            "title": "선라이즈 특급",
+            "content": "인기 침대 특급 '선라이즈 출운' 겨울 투어 상품도 이번 세일 대상에 포함됩니다. 특별한 경험을 저렴하게 즐길 기회입니다.",
+            "alt_text": "선라이즈 출운 침대 특급 열차 이미지"
+          },
+          {
+            "title": "예약 사이트",
+            "content": "이번 세일은 '일본의 여행, 철도의 여행' 국내 투어 예약 사이트와 '뷰 트래블' 열차+숙박 세트 예약 사이트에서 진행됩니다.",
+            "alt_text": "JR 동일본 예약 사이트 로고 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "총 4회에 걸쳐 진행되는 이번 세일 기간 동안 다양한 상품을 최대 5000엔까지 할인받을 수 있습니다.",
+            "alt_text": "할인율 표시 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획 중이시라면 JR 동일본의 블랙프라이데이 세일 기간을 활용해보세요. 미리 예약하면 더 좋은 좌석과 상품을 확보할 수 있습니다.",
+            "alt_text": "여행 계획 세우는 사람 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수 정보! 🚄 JR 동일본이 블랙프라이데이 기념 최대 5000엔 할인 세일을 진행합니다. 인기 침대 특급 '선라이즈 출운' 겨울 투어 상품까지 포함되어 있으니, 알찬 일본 여행을 계획하고 있다면 이번 기회를 놓치지 마세요! 자세한 내용은 '일본의 여행, 철도의 여행' 및 '뷰 트래블'에서 확인하세요. 🇯🇵 #일본여행 #JR동일본 #블랙프라이데이 #선라이즈출운 #여행할인",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR동일본",
+          "#블랙프라이데이",
+          "#일본기차여행",
+          "#선라이즈출운",
+          "#일본교통",
+          "#여행정보",
+          "#일본할인",
+          "#가성비여행",
+          "#일본철도",
+          "#겨울여행",
+          "#일본투어",
+          "#여행스타그램",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "JR 동일본 블랙프라이데이 세일 배너 이미지",
+          "선라이즈 출운 침대 특급 열차 이미지",
+          "JR 동일본 예약 사이트 로고 이미지",
+          "할인율 표시 이미지",
+          "여행 계획 세우는 사람 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 계획 중인 한국인 여행객 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: 할인 정보에 대한 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 인기 상품 언급으로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "JR East Black Friday Sale, Sunrise Izumo, Japan train travel discount",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-East-Black-Friday-Sale,-Sunrise-Izumo,-Japan-train-travel-discount",
+        "pexels_url": "https://www.pexels.com/search/JR%20East%20Black%20Friday%20Sale,%20Sunrise%20Izumo,%20Japan%20train%20travel%20discount/"
+      }
+    },
+    {
+      "id": "plan_c4106dde",
+      "created_at": "2026-11-04T06:01:14.779877",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ららぽーとTOKYO-BAY」北館II期エリア2028年夏開業へ。全600店舗に拡大",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2153521.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2028년 여름, 도쿄베이 라라포트 쇼핑 천국 오픈 예정! 🛍️"
+      },
+      "content": {
+        "thumbnail_title": "✨2028년 여름 오픈! 도쿄베이 라라포트✨",
+        "cards": [
+          {
+            "title": "라라포트 TOKYO-BAY",
+            "content": "치바현에 위치한 '미츠이 쇼핑파크 라라포트 TOKYO-BAY'가 2028년 여름, 북관 II기 구역을 새롭게 선보입니다.",
+            "alt_text": "라라포트 TOKYO-BAY 외관 이미지"
+          },
+          {
+            "title": "총 600개 매장 확대",
+            "content": "기존 I기 구역에 이어 II기 구역까지 완공되면 총 600개의 다양한 매장이 입점하여 쇼핑 경험을 극대화할 예정입니다.",
+            "alt_text": "다양한 쇼핑몰 매장 진열 이미지"
+          },
+          {
+            "title": "단계별 공사 진행",
+            "content": "I기 구역은 2025년 10월에 이미 오픈했으며, 이번 II기 구역은 2028년 여름 완공을 목표로 하고 있습니다.",
+            "alt_text": "쇼핑몰 건설 현장 이미지"
+          },
+          {
+            "title": "새로운 쇼핑 명소",
+            "content": "쇼핑, 다이닝, 엔터테인먼트까지 모두 즐길 수 있는 복합 쇼핑 공간으로 재탄생할 것으로 기대됩니다.",
+            "alt_text": "쇼핑몰 내부 사람들이 즐기는 모습 이미지"
+          },
+          {
+            "title": "여행 계획 Tip!",
+            "content": "2028년 여름 이후 도쿄 여행을 계획 중이라면, 최신 쇼핑 트렌드를 만끽할 수 있는 새로운 라라포트 방문을 추천합니다!",
+            "alt_text": "여행 가방과 지도 이미지"
+          }
+        ],
+        "caption": "일본 쇼핑 리스트 업데이트 필수! 🤩\n\n2028년 여름, 치바현 '라라포트 TOKYO-BAY'가 북관 II기 구역 오픈과 함께 총 600개 매장의 거대한 쇼핑 천국으로 변신합니다! 🛍️✨\n\n2025년 10월 I기 구역 오픈에 이어, 2028년 여름 완공 예정인 II기 구역까지!\n\n새로운 쇼핑 명소에서 최신 트렌드를 놓치지 마세요! 😉\n\n#일본여행 #플라잉재팬 #도쿄여행 #치바여행 #라라포트 #쇼핑 #쇼핑몰 #일본쇼핑 #여행정보 #2028년 #새로운오픈 #쇼핑천국 #여행준비 #꿀팁 #해외여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#치바여행",
+          "#라라포트",
+          "#쇼핑",
+          "#쇼핑몰",
+          "#일본쇼핑",
+          "#여행정보",
+          "#2028년",
+          "#새로운오픈",
+          "#쇼핑천국",
+          "#여행준비",
+          "#꿀팁",
+          "#해외여행"
+        ],
+        "alt_texts": [
+          "라라포트 TOKYO-BAY 외관 이미지",
+          "다양한 쇼핑몰 매장 진열 이미지",
+          "쇼핑몰 건설 현장 이미지",
+          "쇼핑몰 내부 사람들이 즐기는 모습 이미지",
+          "여행 가방과 지도 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 쇼핑을 즐기는 20-40대 한국인 여행자 / 최적 게시 시간: 화요일/목요일 18-20시 / 기대 반응: 정보 공유 및 기대감 표현 / 이 콘텐츠의 강점: 미래의 쇼핑 명소에 대한 기대감 조성 및 구체적인 오픈 시점 정보 제공",
+      "image": {
+        "keyword": "lalaport tokyo bay, shopping mall, japan shopping, new opening, future travel",
+        "unsplash_url": "https://unsplash.com/s/photos/lalaport-tokyo-bay,-shopping-mall,-japan-shopping,-new-opening,-future-travel",
+        "pexels_url": "https://www.pexels.com/search/lalaport%20tokyo%20bay,%20shopping%20mall,%20japan%20shopping,%20new%20opening,%20future%20travel/"
+      }
+    },
     {
       "id": "plan_286fd93c",
       "created_at": "2026-11-04T03:00:39.679909",
@@ -923,160 +1077,6 @@
         "keyword": "Japan Kyushu travel discount, Nagasaki Miyazaki accommodation flight deal, Jalan travel support coupon",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-travel-discount,-Nagasaki-Miyazaki-accommodation-flight-deal,-Jalan-travel-support-coupon",
         "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20travel%20discount,%20Nagasaki%20Miyazaki%20accommodation%20flight%20deal,%20Jalan%20travel%20support%20coupon/"
-      }
-    },
-    {
-      "id": "plan_10ed26b7",
-      "created_at": "2026-11-01T02:14:00.059708",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニー・プレミアアクセスの来園前購入について「統合報告書」で改めて言及。2027年度導入予定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152737.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니랜드, 미리 티켓 사면 대기 시간 확 줄여줘요!"
-      },
-      "content": {
-        "thumbnail_title": "✨도쿄 디즈니, 미리 예약 찬스!✨",
-        "cards": [
-          {
-            "title": "사전 구매 도입",
-            "content": "도쿄 디즈니리조트가 유료 서비스 '디즈니 프리미어 액세스'의 사전 구매 도입을 준비하고 있습니다. 2027년 3월부터 단계적으로 적용될 예정입니다.",
-            "alt_text": "도쿄 디즈니랜드 성 앞에서 웃고 있는 커플"
-          },
-          {
-            "title": "대기 시간 단축",
-            "content": "여행 전에 미리 구매하면 인기 어트랙션의 대기 시간을 획기적으로 줄일 수 있습니다. 복잡한 줄 서기 대신 여유로운 여행이 가능해져요.",
-            "alt_text": "놀이기구 대기 줄이 짧아진 모습"
-          },
-          {
-            "title": "2027년 도입",
-            "content": "2027년 3월기 결산 자료에 따르면, 2027년도 내에 사전 구매 서비스 도입을 목표로 하고 있습니다. 정확한 날짜는 추후 공지될 예정입니다.",
-            "alt_text": "달력에 2027년 3월 표시"
-          },
-          {
-            "title": "이용 팁",
-            "content": "여행 계획 시, 디즈니 프리미어 액세스 사전 구매 여부를 확인하세요. 특히 인기 어트랙션은 미리 구매하는 것이 좋습니다.",
-            "alt_text": "스마트폰으로 티켓 구매하는 손"
-          },
-          {
-            "title": "알아두면 좋아요",
-            "content": "사전 구매 도입 시, 서비스 이용 방법 및 가격 정보는 공식 홈페이지를 통해 확인하는 것이 가장 정확합니다. 발 빠르게 업데이트 소식을 전해드릴게요!",
-            "alt_text": "도쿄 디즈니랜드 지도"
-          }
-        ],
-        "caption": "일본 여행 중 도쿄 디즈니랜드 방문 계획이라면 주목! 🚨\n\n인기 어트랙션 기다리는 시간, 이제 안녕~ 👋\n\n도쿄 디즈니리조트가 '디즈니 프리미어 액세스' 사전 구매를 2027년 3월부터 도입할 예정이에요! 🥳\n\n미리 티켓 구매하고 대기 시간 줄여서 더 알차고 여유롭게 디즈니를 즐겨보세요! ✨\n\n#도쿄디즈니랜드 #디즈니프리미어액세스 #일본여행꿀팁 #도쿄여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니프리미어액세스",
-          "#일본여행준비",
-          "#여행정보",
-          "#일본어트랙션",
-          "#도쿄여행",
-          "#2027년",
-          "#여행꿀팁",
-          "#대기시간단축",
-          "#디즈니랜드",
-          "#디즈니",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 성 앞에서 웃고 있는 커플",
-          "놀이기구 대기 줄이 짧아진 모습",
-          "달력에 2027년 3월 표시",
-          "스마트폰으로 티켓 구매하는 손",
-          "도쿄 디즈니랜드 지도"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 7시 (여행 계획 세우는 저녁 시간) / 기대 반응: 정보 공유 및 문의 증가 / 이 콘텐츠의 강점: 구체적인 도입 연도와 함께 실질적인 여행 편의 증진 정보 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland Premier Access pre-purchase announcement",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Premier-Access-pre-purchase-announcement",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Premier%20Access%20pre-purchase%20announcement/"
-      }
-    },
-    {
-      "id": "plan_592606e2",
-      "created_at": "2026-11-01T02:13:54.298073",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【車中泊の拠点 RVパークを訪ねる】「ナニもない」がセールスポイント。静岡市の山中にできたばかりのRVパークに泊まってみた RVパークごほうびリゾート",
-        "url": "https://travel.watch.impress.co.jp/docs/series/rvpark/2152777.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 알짜배기 RV 숙소 정보, 지금 바로 공개!"
-      },
-      "content": {
-        "thumbnail_title": "🚗일본 RV 파크 오픈!✨",
-        "cards": [
-          {
-            "title": "신규 RV 파크 오픈!",
-            "content": "일본 시즈오카시에 2023년 9월 26일 따끈따끈한 신규 RV 파크 '고호비 리조트'가 오픈했습니다. 🏞️",
-            "alt_text": "새롭게 오픈한 일본 시즈오카 RV 파크 외관"
-          },
-          {
-            "title": "접근성 최고!",
-            "content": "신토메이 고속도로 시즈오카 SA 스마트 IC에서 산 쪽으로 약 20분 거리에 위치해 있어 접근성이 뛰어납니다. 🚗💨",
-            "alt_text": "RV 파크로 향하는 도로 풍경"
-          },
-          {
-            "title": "나니모나이의 매력",
-            "content": "'아무것도 없다'는 점이 오히려 매력 포인트! 자연 속에서 조용하고 편안한 휴식을 즐길 수 있어요. 😌",
-            "alt_text": "RV 파크 주변의 아름다운 자연 풍경"
-          },
-          {
-            "title": "RV 파크 정보",
-            "content": "주소: 시즈오카현 시즈오카시 아오이구 사카노우에 624-2. RV 차량을 위한 최적의 숙소입니다. 🏡",
-            "alt_text": "RV 파크 시설 안내 표지판"
-          },
-          {
-            "title": "여행 꿀팁!",
-            "content": "차량 여행 시 새로운 거점지로 활용하기 딱 좋아요! 자연 속에서 힐링하며 일본 여행을 더욱 특별하게 만들어보세요. 🌿",
-            "alt_text": "RV 차량이 주차된 RV 파크 전경"
-          }
-        ],
-        "caption": "일본 여행, 이제 RV로 즐겨보세요! 🚗✨ 시즈오카에 새로 오픈한 'RV 파크 고호비 리조트'는 자연 속에서 진정한 휴식을 선사합니다. 🏞️ 아름다운 풍경과 함께 특별한 추억을 만들어보세요! #일본RV여행 #시즈오카여행 #RV파크",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본RV",
-          "#RV파크",
-          "#일본숙소",
-          "#시즈오카",
-          "#시즈오카여행",
-          "#일본자연",
-          "#차박",
-          "#일본차박",
-          "#여행정보",
-          "#새로운여행",
-          "#힐링여행",
-          "#일본가볼만한곳",
-          "#RV고호비리조트"
-        ],
-        "alt_texts": [
-          "새롭게 오픈한 일본 시즈오카 RV 파크 외관",
-          "RV 파크로 향하는 도로 풍경",
-          "RV 파크 주변의 아름다운 자연 풍경",
-          "RV 파크 시설 안내 표지판",
-          "RV 차량이 주차된 RV 파크 전경"
-        ]
-      },
-      "marketer_analysis": "타겟: 캠핑카/RV를 이용하거나 관심 있는 한국인 일본 여행자 / 최적 게시 시간: 평일 오전 10시~12시 / 기대 반응: 새로운 숙박 형태에 대한 호기심, 정보 공유 / 이 콘텐츠의 강점: 희소성 있는 RV 파크 정보, 구체적인 위치 및 오픈 정보 제공",
-      "image": {
-        "keyword": "Japan RV park, Shizuoka nature, RV camping",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-RV-park,-Shizuoka-nature,-RV-camping",
-        "pexels_url": "https://www.pexels.com/search/Japan%20RV%20park,%20Shizuoka%20nature,%20RV%20camping/"
       }
     }
   ]
