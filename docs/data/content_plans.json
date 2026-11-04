@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-03T06:31:48.060493",
+  "last_updated": "2026-11-04T03:00:41.680112",
   "plans": [
+    {
+      "id": "plan_286fd93c",
+      "created_at": "2026-11-04T03:00:39.679909",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "商船三井さんふらわあ、大洗～苫小牧航路で冬割。運賃10％オフ、乗用車航送代5％オフ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2153130.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울철 일본 북쪽으로 가는 뱃길, 10% 할인받고 편하게 즐기세요!"
+      },
+      "content": {
+        "thumbnail_title": "🚢 겨울 뱃길 10% 할인! 🚢",
+        "cards": [
+          {
+            "title": "겨울 할인 시작!",
+            "content": "상선미츠이 페리가 '산후와아 겨울 할인'을 12월 7일부터 2027년 1월 31일까지 운영해요. 인터넷 예약 한정 혜택입니다.",
+            "alt_text": "겨울 할인 안내 문구"
+          },
+          {
+            "title": "할인 대상 노선",
+            "content": "오오라이(大洗) ~ 삿포로(苫小牧) 항로가 대상이며, '산후와아 삿포로', '후라노', '캄이', '피리카' 총 4척이 운항합니다.",
+            "alt_text": "페리 항로 지도"
+          },
+          {
+            "title": "운임 10% 할인",
+            "content": "승객 운임이 10% 할인됩니다. 겨울철 홋카이도로 향하는 뱃길을 저렴하게 이용할 기회입니다.",
+            "alt_text": "할인율 표시"
+          },
+          {
+            "title": "차량 운송도 할인",
+            "content": "승용차를 싣고 가는 운송료도 5% 할인됩니다. 홋카이도에서 차량을 이용할 계획이라면 놓치지 마세요!",
+            "alt_text": "차량 선적 안내"
+          },
+          {
+            "title": "예약 꿀팁!",
+            "content": "반드시 '인터넷 예약'을 통해서만 할인이 적용되니, 예약 시 꼭 확인하세요. 겨울철 홋카이도 여행 계획에 참고하세요!",
+            "alt_text": "인터넷 예약 화면 예시"
+          }
+        ],
+        "caption": "🚢 겨울 홋카이도 여행, 뱃길로 떠나요! 🚢\n\n상선미츠이 페리가 오오라이 ~ 삿포로 항로 이용객을 위해 '산후와아 겨울 할인'을 진행합니다.\n\n✅ 운임 10% 할인\n✅ 차량 운송료 5% 할인 (승용차 한정)\n\n🗓️ 기간: 2023년 12월 7일 ~ 2027년 1월 31일 출항편\n\n🌟 인터넷 예약 한정 혜택이니, 예약 시 꼭 확인하세요!\n\n#일본여행 #홋카이도여행 #페리할인 #겨울여행 #오오라이 #삿포로 #상선미츠이 #산후와아 #일본교통 #여행정보 #할인정보 #겨울할인 #여행꿀팁 #플라잉재팬 #일본알짜정보",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#홋카이도여행",
+          "#페리할인",
+          "#겨울여행",
+          "#오오라이",
+          "#삿포로",
+          "#상선미츠이",
+          "#산후와아",
+          "#일본교통",
+          "#여행정보",
+          "#할인정보",
+          "#겨울할인",
+          "#여행꿀팁",
+          "#일본알짜정보"
+        ],
+        "alt_texts": [
+          "겨울 할인 안내 문구",
+          "페리 항로 지도",
+          "할인율 표시",
+          "차량 선적 안내",
+          "인터넷 예약 화면 예시"
+        ]
+      },
+      "marketer_analysis": "타겟: 홋카이도 겨울 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 할인 정보를 활용한 실질적인 여행 계획 수립, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율, 대상 노선, 기간 명시로 즉각적인 활용 가능",
+      "image": {
+        "keyword": "ferry discount japan winter hokkaido",
+        "unsplash_url": "https://unsplash.com/s/photos/ferry-discount-japan-winter-hokkaido",
+        "pexels_url": "https://www.pexels.com/search/ferry%20discount%20japan%20winter%20hokkaido/"
+      }
+    },
+    {
+      "id": "plan_bff48643",
+      "created_at": "2026-11-04T03:00:24.171131",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 鬼怒川観光ホテル、1泊2食が最大30％オフ。首都圏から一番近い「三つ星バイキング」の宿、カニや黒毛和牛も食べ放題",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2153234.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울 일본 온천 여행, 최대 30% 할인 찬스를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "♨️일본 온천 30% 할인!",
+        "cards": [
+          {
+            "title": "겨울 특가 찬스",
+            "content": "오에도 온천 이야기 프리미엄 키누가와 관광 호텔에서 1박 2식 특가 프로모션을 진행합니다. 최대 30% 할인된 가격으로 예약 가능해요.",
+            "alt_text": "겨울 온천 호텔 할인 프로모션 안내"
+          },
+          {
+            "title": "할인 방법",
+            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 가을/겨울 세일'을 통해 쿠폰을 여러 장 중복 적용하면 할인을 받을 수 있습니다. 세일 기간은 11월 19일까지입니다.",
+            "alt_text": "라쿠텐 트래블 세일 기간 및 할인 혜택 안내"
+          },
+          {
+            "title": "미식 경험",
+            "content": "수도권에서 가장 가까운 '별 3개 뷔페'를 자랑하는 이곳에서는 신선한 게와 흑우 와규를 무제한으로 즐길 수 있습니다. 풍성한 식사를 기대하세요.",
+            "alt_text": "호텔 뷔페에서 제공되는 신선한 게와 흑우 와규"
+          },
+          {
+            "title": "호텔 정보",
+            "content": "오에도 온천 이야기 프리미엄 키누가와 관광 호텔은 훌륭한 뷔페와 온천 시설을 갖추고 있어 겨울철 휴양지로 제격입니다. 1박 2식 포함 혜택을 누려보세요.",
+            "alt_text": "겨울 온천 호텔의 편안한 객실과 시설"
+          },
+          {
+            "title": "꿀팁",
+            "content": "겨울철 일본 온천 여행을 계획 중이라면, 지금 바로 라쿠텐 트래블에서 할인 혜택을 확인해보세요. 선착순 마감될 수 있으니 서두르는 것이 좋습니다.",
+            "alt_text": "일본 온천 여행 계획 시 할인 팁 안내"
+          }
+        ],
+        "caption": "♨️ 겨울 일본 온천 여행, 놓치면 후회할 역대급 할인 정보! ♨️\n\n오에도 온천 이야기 프리미엄 키누가와 관광 호텔에서 1박 2식 포함 최대 30% 할인 프로모션을 진행합니다! 🦀🥩\n\n라쿠텐 트래블 가을/겨울 세일 기간 (11월 19일까지)에 쿠폰 중복 적용으로 알뜰하게 예약하세요.\n\n지금 바로 확인하고 따뜻하고 맛있는 겨울 일본 온천 여행을 계획해보세요! 👇\n\n#일본여행 #플라잉재팬 #일본온천 #겨울여행 #일본숙소 #오에도온천 #키누가와 #라쿠텐트래블 #할인정보 #여행꿀팁 #일본자유여행 #가성비여행 #온천여행 #일본호텔 #겨울휴가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#겨울여행",
+          "#일본숙소",
+          "#오에도온천",
+          "#키누가와",
+          "#라쿠텐트래블",
+          "#할인정보",
+          "#여행꿀팁",
+          "#일본자유여행",
+          "#가성비여행",
+          "#온천여행",
+          "#일본호텔",
+          "#겨울휴가"
+        ],
+        "alt_texts": [
+          "겨울 온천 호텔 할인 프로모션 안내",
+          "라쿠텐 트래블 세일 기간 및 할인 혜택 안내",
+          "호텔 뷔페에서 제공되는 신선한 게와 흑우 와규",
+          "겨울 온천 호텔의 편안한 객실과 시설",
+          "일본 온천 여행 계획 시 할인 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 겨울철 일본 온천 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 높은 예약 전환율, 할인 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 매력적인 미식 경험 강조",
+      "image": {
+        "keyword": "japanese hot spring hotel discount, winter travel japan, onsen buffet, kinugawa onsen, rakuten travel sale",
+        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-hotel-discount,-winter-travel-japan,-onsen-buffet,-kinugawa-onsen,-rakuten-travel-sale",
+        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20hotel%20discount,%20winter%20travel%20japan,%20onsen%20buffet,%20kinugawa%20onsen,%20rakuten%20travel%20sale/"
+      }
+    },
     {
       "id": "plan_2b5a0cc4",
       "created_at": "2026-11-03T06:31:46.060297",
@@ -923,160 +1077,6 @@
         "keyword": "Japan RV park, Shizuoka nature, RV camping",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-RV-park,-Shizuoka-nature,-RV-camping",
         "pexels_url": "https://www.pexels.com/search/Japan%20RV%20park,%20Shizuoka%20nature,%20RV%20camping/"
-      }
-    },
-    {
-      "id": "plan_30df6827",
-      "created_at": "2026-10-31T05:22:45.719724",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ドン・キホーテ、「驚ブラックフライデー」セール品公開。美容家電やゲーム、旅行用品も特価に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152751.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 쇼핑 필수 코스, 돈키호테 역대급 할인 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "💰돈키호테 역대급 할인!🛍️",
-        "cards": [
-          {
-            "title": "블랙프라이데이",
-            "content": "돈키호테에서 11월 13일부터 29일까지 '경이로운 블랙프라이데이' 세일을 진행합니다! 놓치면 후회할 특가 상품들을 만나보세요.",
-            "alt_text": "돈키호테 매장 전경"
-          },
-          {
-            "title": "할인 품목",
-            "content": "이번 행사에서는 뷰티 가전, 게임, 여행 용품 등 다양한 카테고리의 인기 상품들을 파격적인 할인가로 만나볼 수 있습니다.",
-            "alt_text": "다양한 쇼핑 품목 이미지"
-          },
-          {
-            "title": "플라잉 세일",
-            "content": "본격적인 세일 시작 전인 10월 30일부터는 가전, 자동차 용품, 장난감 등 일부 상품을 먼저 할인 판매하는 '플라잉 세일'도 진행되었습니다.",
-            "alt_text": "상품 진열대 이미지"
-          },
-          {
-            "title": "福袋 (복주머니)",
-            "content": "주방용품 및 생활 잡화 코너에서는 알찬 구성의 '福袋(복주머니)'도 준비되어 있어 알뜰 쇼핑을 돕습니다.",
-            "alt_text": "복주머니 상품 이미지"
-          },
-          {
-            "title": "쇼핑 꿀팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 방문 전 돈키호테 공식 홈페이지에서 세일 상품 리스트를 미리 확인하고 방문하는 것을 추천합니다.",
-            "alt_text": "쇼핑 바구니 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 코스, 돈키호테에서 역대급 쇼핑 찬스를 잡으세요! 🇯🇵✨ 11월 13일부터 29일까지 진행되는 '경이로운 블랙프라이데이' 세일에서 뷰티 가전, 게임, 여행 용품 등 다양한 상품을 파격적인 할인가로 만나볼 수 있습니다. 놓치면 후회할 기회, 지금 바로 돈키호테로 달려가세요! 🛒💨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#돈키호테",
-          "#돈키호테쇼핑",
-          "#일본쇼핑",
-          "#블랙프라이데이",
-          "#일본할인",
-          "#여행준비",
-          "#일본필수템",
-          "#일본여행꿀팁",
-          "#쇼핑스타그램",
-          "#가성비쇼핑",
-          "#일본생활",
-          "#여행스타그램",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "돈키호테 매장 전경",
-          "다양한 쇼핑 품목 이미지",
-          "상품 진열대 이미지",
-          "복주머니 상품 이미지",
-          "쇼핑 바구니 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-4시 / 기대 반응: 높은 관심과 구매 욕구 자극, 정보 공유 및 저장 / 이 콘텐츠의 강점: 시기적절한 쇼핑 정보, 구체적인 할인 기간 및 품목 제시",
-      "image": {
-        "keyword": "Don Quijote, Black Friday sale, Japan shopping, travel essentials, beauty gadgets, games, lucky bag",
-        "unsplash_url": "https://unsplash.com/s/photos/Don-Quijote,-Black-Friday-sale,-Japan-shopping,-travel-essentials,-beauty-gadgets,-games,-lucky-bag",
-        "pexels_url": "https://www.pexels.com/search/Don%20Quijote,%20Black%20Friday%20sale,%20Japan%20shopping,%20travel%20essentials,%20beauty%20gadgets,%20games,%20lucky%20bag/"
-      }
-    },
-    {
-      "id": "plan_65927678",
-      "created_at": "2026-10-31T05:22:41.016414",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ほぼ日×Suicaのペンギン、オンライン受注販売は週明け11月2日から。ひきだしポーチ/とことこシール/手帳カバーほか",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2152775.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수품 'Suica'와 '호보니치'의 만남! 한정판 굿즈 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "Suica펭귄 💖 호보니치 한정판!",
-        "cards": [
-          {
-            "title": "온라인 예약 시작",
-            "content": "호보니치와 Suica 펭귄이 만난 스페셜 굿즈가 온라인으로 판매됩니다. 11월 2일(월)부터 예약 주문을 시작하니 서둘러주세요!",
-            "alt_text": "Suica 펭귄과 호보니치 콜라보 굿즈 온라인 예약 시작 안내"
-          },
-          {
-            "title": "판매 상품",
-            "content": "이번 콜라보에서는 '호보니치 테초'의 인기 상품인 '히키다시 파우치', '토코토코씰', '수첩 커버' 등이 포함됩니다. Suica 펭귄 디자인으로 특별함을 더했습니다.",
-            "alt_text": "히키다시 파우치, 토코토코씰, 수첩 커버 등 다양한 콜라보 상품 이미지"
-          },
-          {
-            "title": "판매처",
-            "content": "이 굿즈들은 원래 JR 도쿄역 그랑스타 한정으로 판매되었으나, 이번에는 'GRANSTA MALL' 공식 온라인 샵에서 예약 주문으로 만나볼 수 있습니다.",
-            "alt_text": "GRANSTA MALL 온라인 샵 로고 및 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "일본 여행 중 Suica 카드를 사용하시는 분들이라면 더욱 반가울 아이템! 여행 기념품으로도, 실용적인 아이템으로도 최고입니다.",
-            "alt_text": "Suica 카드와 콜라보 굿즈를 함께 보여주는 이미지"
-          },
-          {
-            "title": "주의사항",
-            "content": "온라인 예약 판매이므로, 품절 가능성이 있습니다. 관심 있는 상품은 미리 확인하시고 예약 시작 시간에 맞춰 주문하시는 것을 추천합니다.",
-            "alt_text": "품절 주의 문구와 함께 콜라보 굿즈 이미지"
-          }
-        ],
-        "caption": "🚄 일본 여행 필수템 Suica 펭귄과 감성 노트 호보니치의 만남! 💖\n\n11월 2일(월)부터 Suica 펭귄 디자인의 호보니치 굿즈 온라인 예약 판매가 시작됩니다! 🐧✨\n\nJR 도쿄역 그랑스타 한정판으로 사랑받았던 ‘히키다시 파우치’, ‘토코토코씰’, ‘수첩 커버’ 등을 ‘GRANSTA MALL’ 온라인 샵에서 만나보세요.\n\n일본 여행 기념품으로도, 소장용으로도 완벽한 특별한 굿즈를 놓치지 마세요! 😉\n\n#일본여행 #호보니치 #Suica펭귄 #한정판굿즈 #일본쇼핑",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본쇼핑",
-          "#호보니치",
-          "#Suica펭귄",
-          "#일본한정판",
-          "#일본굿즈",
-          "#도쿄여행",
-          "#기념품",
-          "#여행준비",
-          "#여행스타그램",
-          "#일본쇼핑리스트",
-          "#호보니치테초",
-          "#Suica",
-          "#GRANSTAMALL"
-        ],
-        "alt_texts": [
-          "Suica 펭귄과 호보니치 콜라보 굿즈 온라인 예약 시작 안내",
-          "히키다시 파우치, 토코토코씰, 수첩 커버 등 다양한 콜라보 상품 이미지",
-          "GRANSTA MALL 온라인 샵 로고 및 이미지",
-          "Suica 카드와 콜라보 굿즈를 함께 보여주는 이미지",
-          "품절 주의 문구와 함께 콜라보 굿즈 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 저녁 7-9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 일본 여행 중 실질적으로 구매 가능한 인기 캐릭터 콜라보 한정판 굿즈 정보",
-      "image": {
-        "keyword": "Hobonichi Suica Penguin collaboration goods online pre-order",
-        "unsplash_url": "https://unsplash.com/s/photos/Hobonichi-Suica-Penguin-collaboration-goods-online-pre-order",
-        "pexels_url": "https://www.pexels.com/search/Hobonichi%20Suica%20Penguin%20collaboration%20goods%20online%20pre-order/"
       }
     }
   ]
