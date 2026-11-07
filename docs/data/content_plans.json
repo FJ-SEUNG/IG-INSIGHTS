@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-06T06:23:54.041952",
+  "last_updated": "2026-11-07T02:47:40.104785",
   "plans": [
+    {
+      "id": "plan_aa7c0d1d",
+      "created_at": "2026-11-07T02:47:38.104610",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社「一生に一度は行きたい温泉120選」。絶景風呂から秘湯まで、日本各地の“至高の温泉”をガイド",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2154513.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 전역의 숨겨진 온천 명소 120곳을 한눈에!"
+      },
+      "content": {
+        "thumbnail_title": "♨️인생 온천 120선♨️",
+        "cards": [
+          {
+            "title": "신간 출간!",
+            "content": "보물섬사에서 '평생 한 번은 가고 싶은 온천 120선'을 11월 5일에 발매했어요. 🇯🇵",
+            "alt_text": "일본 온천 가이드북 표지"
+          },
+          {
+            "title": "다양한 온천",
+            "content": "일본 전역의 절경 온천부터 숨겨진 비탕까지, 놓치면 후회할 최고의 온천들을 엄선했답니다.",
+            "alt_text": "아름다운 노천 온천 풍경"
+          },
+          {
+            "title": "책 정보",
+            "content": "A4 사이즈, 112페이지 구성이며 가격은 1210엔이에요. 서점 및 온라인에서 구매 가능합니다.",
+            "alt_text": "온천 가이드북 상세 정보"
+          },
+          {
+            "title": "여행 계획 UP!",
+            "content": "일본 여행 시 꼭 가봐야 할 온천 리스트를 미리 확인하고 나만의 특별한 온천 여행 계획을 세워보세요. 🗺️",
+            "alt_text": "지도 위에 표시된 일본 온천 지역"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "가고 싶은 온천이 있다면 미리 예약하는 것이 좋아요. 특히 유명한 곳은 서둘러야 합니다! 🤫",
+            "alt_text": "온천 예약 확인하는 모습"
+          }
+        ],
+        "caption": "일본 여행의 꽃, 온천! ♨️ 보물섬사에서 새롭게 발매된 '평생 한 번은 가고 싶은 온천 120선'으로 최고의 온천 여행을 계획해보세요. 🇯🇵 절경부터 비탕까지, 당신의 인생 온천을 찾아 떠날 시간! 지금 바로 확인하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본온천",
+          "#온천여행",
+          "#일본가이드북",
+          "#일본여행정보",
+          "#인생온천",
+          "#보물섬사",
+          "#일본자유여행",
+          "#온천추천",
+          "#일본필수코스",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#일본생활"
+        ],
+        "alt_texts": [
+          "일본 온천 가이드북 표지",
+          "아름다운 노천 온천 풍경",
+          "온천 가이드북 상세 정보",
+          "지도 위에 표시된 일본 온천 지역",
+          "온천 예약 확인하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 10시 / 기대 반응: 온천 여행에 대한 관심 증가, 정보 공유 및 질문 / 이 콘텐츠의 강점: 한국인이 선호하는 '온천' 테마와 구체적인 정보 제공으로 즉각적인 여행 계획 반영 가능",
+      "image": {
+        "keyword": "japan onsen guide book, hot spring, japan travel",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-onsen-guide-book,-hot-spring,-japan-travel",
+        "pexels_url": "https://www.pexels.com/search/japan%20onsen%20guide%20book,%20hot%20spring,%20japan%20travel/"
+      }
+    },
+    {
+      "id": "plan_bdc7c1ce",
+      "created_at": "2026-11-07T02:47:32.942707",
+      "category": "season",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【若林直樹のトラベルフォトギャラリー】嵯峨野トロッコ列車（京都府）",
+        "url": "https://travel.watch.impress.co.jp/docs/series/wakabayashi/2154291.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을 단풍 시즌, 교토 필수 코스 嵯峨野 토롯코 열차 정보 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "🍁교토 단풍 명소🍁",
+        "cards": [
+          {
+            "title": "토롯코 열차",
+            "content": "1991년 개통된 嵯峨野 토롯코 열차는 JR 산인선의 폐선 구간을 활용한 관광 열차입니다. 아름다운 자연 경관을 감상하며 특별한 추억을 만들 수 있습니다.",
+            "alt_text": "단풍으로 물든 숲을 달리는 嵯峨野 토롯코 열차"
+          },
+          {
+            "title": "운행 정보",
+            "content": "매년 3월 1일부터 12월 29일까지 운행하며, 매주 수요일은 휴무입니다. (공휴일인 경우 운행)  총 4개 역(사가역, 아라시야마역, 호즈강 역, 가메오카역)을 왕복 운행합니다.",
+            "alt_text": "嵯峨野 토롯코 열차 노선도"
+          },
+          {
+            "title": "티켓 정보",
+            "content": "편도 요금은 성인 880엔, 어린이 440엔입니다.  인기 노선인 1호칸(오픈형)은 사전 예약이 필수이며, JR 사가노 센토 역에서 구매 가능합니다.",
+            "alt_text": "嵯峨野 토롯코 열차 티켓"
+          },
+          {
+            "title": "단풍 시즌",
+            "content": "11월 말에 방문하면 아름다운 단풍을 만끽할 수 있습니다.  올해 단풍 절정 시기를 확인하고 방문 계획을 세워보세요!",
+            "alt_text": "붉게 물든 단풍과 함께 달리는 토롯코 열차"
+          },
+          {
+            "title": "꿀팁",
+            "content": "열차에서 내려 가메오카역에서 뱃놀이(호즈가와 뱃놀이)를 즐기거나, JR 사가노 라인으로 돌아오는 것도 좋은 방법입니다.  날씨 변화에 대비하여 따뜻한 옷차림은 필수입니다.",
+            "alt_text": "호즈강 뱃놀이를 즐기는 사람들"
+          }
+        ],
+        "caption": "🇯🇵일본 가을 여행 필수 코스! 교토 嵯峨野 토롯코 열차 🍁\n\nJR 산인선 폐선 구간을 활용해 1991년부터 운행 시작한 낭만 가득 관광 열차! \n\n✅ 운행 기간: 3/1 ~ 12/29 (수요일 휴무)\n✅ 티켓: 성인 880엔 / 어린이 440엔 (1호칸 사전 예약 필수!)\n✅ 단풍 절정: 11월 말 예상 🍂\n\n교토 여행, 嵯峨野 토롯코 열차 타고 인생샷 남기세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#嵯峨野トロッコ列車",
+          "#일본단풍",
+          "#교토단풍",
+          "#일본가을여행",
+          "#일본기차여행",
+          "#일본관광",
+          "#일본자유여행",
+          "#교토가볼만한곳",
+          "#여행정보",
+          "#일본철도",
+          "#여행스타그램",
+          "#버킷리스트"
+        ],
+        "alt_texts": [
+          "단풍으로 물든 숲을 달리는 嵯峨野 토롯코 열차",
+          "嵯峨野 토롯코 열차 노선도",
+          "嵯峨野 토롯코 열차 티켓",
+          "붉게 물든 단풍과 함께 달리는 토롯코 열차",
+          "호즈강 뱃놀이를 즐기는 사람들"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가을 여행 계획 중인 2040 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유, 저장, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 단풍 시즌 정보와 함께 구체적인 운행/티켓 정보를 제공하여 실질적인 여행 계획에 도움.",
+      "image": {
+        "keyword": "Sagano Romantic Train, Kyoto, autumn foliage, Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Sagano-Romantic-Train,-Kyoto,-autumn-foliage,-Japan",
+        "pexels_url": "https://www.pexels.com/search/Sagano%20Romantic%20Train,%20Kyoto,%20autumn%20foliage,%20Japan/"
+      }
+    },
     {
       "id": "plan_dfb64e50",
       "created_at": "2026-11-06T06:23:52.041766",
@@ -923,160 +1077,6 @@
         "keyword": "japanese hot spring hotel discount, winter travel japan, onsen buffet, kinugawa onsen, rakuten travel sale",
         "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-hotel-discount,-winter-travel-japan,-onsen-buffet,-kinugawa-onsen,-rakuten-travel-sale",
         "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20hotel%20discount,%20winter%20travel%20japan,%20onsen%20buffet,%20kinugawa%20onsen,%20rakuten%20travel%20sale/"
-      }
-    },
-    {
-      "id": "plan_2b5a0cc4",
-      "created_at": "2026-11-03T06:31:46.060297",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "キャナルシティ・福岡ワシントンホテル、9月1日全面リニューアルオープン",
-        "url": "https://www.traicy.com/posts/20261103381376/",
-        "date": "Mon, 02 Nov 2026 22:15:39 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후쿠오카 캐널시티 숙소, 9월 1일부터 완전 새롭게 태어나요!"
-      },
-      "content": {
-        "thumbnail_title": "✨후쿠오카 캐널시티 호텔 리뉴얼 오픈✨",
-        "cards": [
-          {
-            "title": "9월 1일 오픈",
-            "content": "후쿠오카 캐널시티 와싱톤 호텔이 9월 1일부로 전면 리뉴얼 오픈했습니다. 기존 시설을 새롭게 단장하여 더욱 쾌적한 투숙 환경을 제공합니다.",
-            "alt_text": "캐널시티 와싱톤 호텔 전면 리뉴얼 오픈 알림"
-          },
-          {
-            "title": "새로운 로비",
-            "content": "로비에는 하카타 기온 야마카사 아트워크와 나카스 포장마차를 모티브로 한 우드 소재가 배치되었습니다. 일본 전통과 현지 감성을 느낄 수 있는 공간으로 꾸며졌습니다.",
-            "alt_text": "리뉴얼된 호텔 로비의 야마카사 아트워크와 포장마차 모티브 디자인"
-          },
-          {
-            "title": "편리한 체크인",
-            "content": "셀프 체크인 시스템이 도입되어 더욱 빠르고 편리하게 체크인을 진행할 수 있습니다. 대기 시간을 줄여 여행의 피로를 덜어줍니다.",
-            "alt_text": "호텔 셀프 체크인 키오스크 이미지"
-          },
-          {
-            "title": "쇼핑 & 엔터테인먼트",
-            "content": "호텔은 캐널시티 내에 위치하여 쇼핑, 식사, 영화 등 다양한 엔터테인먼트 시설을 편리하게 이용할 수 있습니다. 후쿠오카 여행의 중심지입니다.",
-            "alt_text": "캐널시티 복합 쇼핑몰 전경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "리뉴얼 오픈 기념 프로모션이 있을 수 있으니, 예약 전 호텔 공식 홈페이지를 확인해 보세요. 9월 이후 후쿠오카 여행 계획 시 고려해볼 만한 숙소입니다.",
-            "alt_text": "호텔 예약 웹사이트 화면 캡처 (예시)"
-          }
-        ],
-        "caption": "✈️ 후쿠오카 여행 필수 코스, 캐널시티! \n\n캐널시티 와싱톤 호텔이 9월 1일부로 전면 리뉴얼 오픈했어요! 🎉\n\n새롭게 단장한 로비에서 하카타의 정취를 느끼고, 편리한 셀프 체크인으로 여행 시간을 절약하세요! \n\n쇼핑, 맛집, 영화관까지 한곳에서 즐길 수 있는 최고의 위치! 💯\n\n후쿠오카 여행, 캐널시티 호텔에서 편안하게 보내세요! \n\n#일본여행 #후쿠오카여행 #캐널시티 #후쿠오카호텔 #일본숙소 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카여행",
-          "#캐널시티",
-          "#후쿠오카호텔",
-          "#일본숙소",
-          "#여행정보",
-          "#일본호텔",
-          "#후쿠오카",
-          "#여행팁",
-          "#일본숙박",
-          "#캐널시티호텔",
-          "#일본개별여행",
-          "#여행스타그램",
-          "#일본소식"
-        ],
-        "alt_texts": [
-          "캐널시티 와싱톤 호텔 전면 리뉴얼 오픈 알림",
-          "리뉴얼된 호텔 로비의 야마카사 아트워크와 포장마차 모티브 디자인",
-          "호텔 셀프 체크인 키오스크 이미지",
-          "캐널시티 복합 쇼핑몰 전경",
-          "호텔 예약 웹사이트 화면 캡처 (예시)"
-        ]
-      },
-      "marketer_analysis": "타겟: 20-40대 일본 후쿠오카 여행 예정 한국인 / 최적 게시 시간: 오후 6시 - 9시 / 기대 반응: 숙소 정보 업데이트에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 실시간 업데이트되는 최신 숙소 정보, 캐널시티라는 매력적인 위치, 편리한 시설 소개",
-      "image": {
-        "keyword": "Fukuoka Canal City Washington Hotel, renovation, lobby, art, Japanese style, self check-in, shopping mall",
-        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka-Canal-City-Washington-Hotel,-renovation,-lobby,-art,-Japanese-style,-self-check-in,-shopping-mall",
-        "pexels_url": "https://www.pexels.com/search/Fukuoka%20Canal%20City%20Washington%20Hotel,%20renovation,%20lobby,%20art,%20Japanese%20style,%20self%20check-in,%20shopping%20mall/"
-      }
-    },
-    {
-      "id": "plan_0dfb6a59",
-      "created_at": "2026-11-03T06:31:40.544907",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "一休、「一休の日セール！人気宿スペシャル」を開催中　11月9日正午まで",
-        "url": "https://www.traicy.com/posts/20261103386672/",
-        "date": "Tue, 03 Nov 2026 00:15:01 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 인기 숙소 최대 50% 할인받고 알뜰하게 숙박하자!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵인기숙소 50% 세일!",
-        "cards": [
-          {
-            "title": "일정 확인 필수!",
-            "content": "일본 인기 숙소 특가 세일이 11월 1일 정오부터 11월 9일 정오까지 진행돼요. 서둘러 예약하세요!",
-            "alt_text": "달력에 표시된 11월 1일부터 9일까지의 날짜"
-          },
-          {
-            "title": "최대 50% 할인",
-            "content": "인기 숙소를 최대 50% 할인된 가격으로 만날 수 있는 절호의 기회! 1박 3,400엔부터 시작하는 특가도 있어요.",
-            "alt_text": "할인율이 표시된 호텔 숙박권 이미지"
-          },
-          {
-            "title": "즉시 포인트 사용",
-            "content": "일부 숙소는 즉시 포인트 사용 시 더욱 저렴하게 예약 가능해요. 예약 전 포인트 사용 혜택을 확인해보세요.",
-            "alt_text": "포인트가 적립되는 카드 이미지"
-          },
-          {
-            "title": "다양한 인기 숙소",
-            "content": "관음사 리브맥스 리조트 등 다양한 지역의 인기 숙소들이 이번 세일에 포함되었어요. 취향에 맞는 곳을 골라보세요.",
-            "alt_text": "다양한 스타일의 호텔 객실 내부 사진"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "이번 세일은 11월 9일 정오에 마감되니, 일본 여행 계획 중이라면 이 기회를 꼭 잡으세요!",
-            "alt_text": "시간이 얼마 남지 않았음을 알리는 시계 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수! 인기 숙소 최대 50% 할인 찬스! 🇯🇵\n11월 1일부터 9일 정오까지, 1박 3,400엔부터 시작하는 놀라운 가격으로 일본의 숨은 보석 같은 숙소를 예약하세요. 꿀 같은 휴가를 더욱 알차게 보낼 수 있는 절호의 기회! 지금 바로 확인해보세요! ✨\n\n#일본숙소 #일본여행 #일본호텔 #일본특가 #인기숙소 #여행세일 #플라잉재팬 #일본여행정보 #가을여행 #겨울여행 #일본할인 #여행꿀팁 #일본숙박 #놓치지마세요 #지금예약",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#일본호텔",
-          "#일본특가",
-          "#인기숙소",
-          "#여행세일",
-          "#일본여행정보",
-          "#가을여행",
-          "#겨울여행",
-          "#일본할인",
-          "#여행꿀팁",
-          "#일본숙박",
-          "#지금예약",
-          "#알뜰여행"
-        ],
-        "alt_texts": [
-          "달력에 표시된 11월 1일부터 9일까지의 날짜",
-          "할인율이 표시된 호텔 숙박권 이미지",
-          "포인트가 적립되는 카드 이미지",
-          "다양한 스타일의 호텔 객실 내부 사진",
-          "시간이 얼마 남지 않았음을 알리는 시계 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시 - 9시 / 기대 반응: 높은 예약 전환율, 정보 공유 확산 / 이 콘텐츠의 강점: 즉각적인 할인 혜택 정보 제공으로 구매 욕구 자극",
-      "image": {
-        "keyword": "japanese hotel discount sale",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-hotel-discount-sale",
-        "pexels_url": "https://www.pexels.com/search/japanese%20hotel%20discount%20sale/"
       }
     }
   ]
