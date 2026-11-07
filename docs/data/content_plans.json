@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-07T02:47:40.104785",
+  "last_updated": "2026-11-07T05:47:25.910995",
   "plans": [
+    {
+      "id": "plan_415671ab",
+      "created_at": "2026-11-07T05:47:23.910843",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京～羽田が直行18分「羽田空港アクセス線」トンネル工事いよいよスタート！　地中40mまで掘り進む巨大マシン「はるとん」の拠点を見てきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2154544.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 여행 필수! 하네다 공항 접근성 대폭 개선 예정!"
+      },
+      "content": {
+        "thumbnail_title": "✈️하네다 직통 18분! 🚄",
+        "cards": [
+          {
+            "title": "신규 노선",
+            "content": "JR동일본이 '하네다 공항 액세스선' 시ールド 터널 공사를 시작했습니다. 도쿄 화물 터미널 옆에서 시작하여 하네다 공항까지 약 5.0km 구간입니다.",
+            "alt_text": "하네다 공항 액세스선 공사가 시작되는 시드 머신의 기점부입니다."
+          },
+          {
+            "title": "공사 구간",
+            "content": "도쿄 측 약 2.3km는 JR동일본이, 하네다 공항 측 약 2.4km는 국토교통성 간토지방정비국이 담당하여 건설됩니다.",
+            "alt_text": "하네다 공항 액세스선 공사 구간을 나타내는 지도입니다."
+          },
+          {
+            "title": "터널 방식",
+            "content": "시드 머신을 이용해 양쪽에서 터널을 굴착하며, 케이힌 운하 아래 지하 40m 지점에서 연결될 예정입니다.",
+            "alt_text": "지하 40m 깊이에서 터널이 연결되는 모습을 상상하는 일러스트입니다."
+          },
+          {
+            "title": "개통 예정",
+            "content": "2031년도 개통을 목표로 하고 있으며, 개통 시 도쿄에서 하네다 공항까지 소요 시간이 획기적으로 단축될 전망입니다.",
+            "alt_text": "2031년 개통 예정임을 알리는 캘린더 이미지입니다."
+          },
+          {
+            "title": "꿀팁",
+            "content": "개통 전까지는 기존 교통편을 이용해야 하지만, 2031년 이후 도쿄 근교 여행 시 하네다 공항 이용이 더욱 편리해질 것입니다. 미리 알아두면 좋아요!",
+            "alt_text": "여행 가방을 들고 공항으로 향하는 사람의 뒷모습입니다."
+          }
+        ],
+        "caption": "✨도쿄 여행 필수 정보 업데이트!✨\n\nJR동일본에서 '하네다 공항 액세스선' 건설을 공식 시작했습니다! 🚀\n\n✅ 도쿄~하네다 직통 18분 목표!\n✅ 2031년도 개통 예정!\n✅ 지하 40m에서 연결되는 최신 공법!\n\n개통하면 하네다 공항 이용이 훨씬 편리해지겠죠? ✈️ 도쿄 여행 계획에 참고하세요!\n\n#일본여행 #도쿄여행 #하네다공항 #JR패스 #일본교통 #도쿄신규노선 #여행정보 #플라잉재팬 #일본신축 #2031년개통 #도쿄근교 #여행준비 #일본스타그램 #해외여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#하네다공항",
+          "#일본교통",
+          "#도쿄신규노선",
+          "#여행정보",
+          "#일본스타그램",
+          "#해외여행",
+          "#일본",
+          "#도쿄",
+          "#여행",
+          "#일본철도",
+          "#공항",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "하네다 공항 액세스선 공사가 시작되는 시드 머신의 기점부입니다.",
+          "하네다 공항 액세스선 공사 구간을 나타내는 지도입니다.",
+          "지하 40m 깊이에서 터널이 연결되는 모습을 상상하는 일러스트입니다.",
+          "2031년 개통 예정임을 알리는 캘린더 이미지입니다.",
+          "여행 가방을 들고 공항으로 향하는 사람의 뒷모습입니다."
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오전 9시~11시 / 기대 반응: '와 진짜 빨라지겠다!', '개통하면 꼭 이용해야지!' 등 기대감 표현 / 이 콘텐츠의 강점: 구체적인 개통 시점과 예상 소요 시간을 명시하여 실질적인 정보 제공",
+      "image": {
+        "keyword": "Haneda Airport access line construction, Tokyo transportation, Japan railway project, underground tunnel construction",
+        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport-access-line-construction,-Tokyo-transportation,-Japan-railway-project,-underground-tunnel-construction",
+        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport%20access%20line%20construction,%20Tokyo%20transportation,%20Japan%20railway%20project,%20underground%20tunnel%20construction/"
+      }
+    },
+    {
+      "id": "plan_8c5b1f94",
+      "created_at": "2026-11-07T05:47:17.018988",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】世界自然遺産登録5周年記念オリジナルフライトタグ、空港売店でも販売開始！　「シマの宝」を未来へつなぐ思いを込めて",
+        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2153751.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 JAL 항공사, 지역 활성화 위한 특별 굿즈 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL, 특별한 굿즈 출시!",
+        "cards": [
+          {
+            "title": "JAL 지역 활성화",
+            "content": "일본항공(JAL)이 지역 활성화를 위해 'JALふるさとアンバサダー'와 'JALふるさと応援隊'를 운영하고 있습니다. 객실 승무원들이 직접 지역에 이주하거나 지역 활동에 참여하며 사업을 펼치고 있습니다.",
+            "alt_text": "JAL 승무원이 지역 주민과 함께 활동하는 모습"
+          },
+          {
+            "title": "오키나와 세계자연유산",
+            "content": "이번에 출시된 굿즈는 오키나와 세계자연유산 등록 5주년을 기념하는 특별한 의미를 담고 있습니다. '시마(섬)의 보물'을 미래로 연결하자는 메시지를 담았습니다.",
+            "alt_text": "오키나와 세계자연유산으로 지정된 지역의 아름다운 풍경"
+          },
+          {
+            "title": "오리지널 플라이트 태그",
+            "content": "기념으로 제작된 오리지널 플라이트 태그는 JAL의 지역 활성화 노력과 오키나와의 아름다움을 담아낸 특별한 기념품입니다.",
+            "alt_text": "JAL 오리지널 플라이트 태그 디자인 이미지"
+          },
+          {
+            "title": "공항 판매 시작!",
+            "content": "이 특별한 플라이트 태그는 현재 공항 판매점에서 만나볼 수 있습니다. JAL 이용객이라면 놓치지 마세요!",
+            "alt_text": "일본 공항 면세점 또는 기념품 판매점 내부 모습"
+          },
+          {
+            "title": "구매 팁",
+            "content": "여행 중 JAL 항공편을 이용하신다면, 공항 내 JAL 관련 판매점을 꼭 확인해보세요. 일본 지역의 매력을 담은 특별한 기념품을 득템할 기회입니다!",
+            "alt_text": "여행객이 공항에서 기념품을 고르는 모습"
+          }
+        ],
+        "caption": "✈️ 일본 JAL 항공사가 지역 활성화를 위해 특별한 굿즈를 출시했어요! \n\n✨ 오키나와 세계자연유산 등록 5주년을 기념하는 오리지널 플라이트 태그를 만나보세요. \n\n🌟 '시마(섬)의 보물'을 미래로 잇는 아름다운 메시지를 담았습니다. \n\n📍 현재 공항 판매점에서 구매 가능! \n\n#일본여행 #JAL #플라잉재팬 #오키나와 #세계자연유산 #굿즈 #여행기념품 #일본항공 #지역활성화 #일본쇼핑 #여행정보 #플라이트태그 #여행팁 #특별한선물 #일본여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#오키나와",
+          "#세계자연유산",
+          "#기념품",
+          "#여행굿즈",
+          "#일본쇼핑",
+          "#지역활성화",
+          "#특별한여행",
+          "#여행스타그램",
+          "#일본여행정보",
+          "#여행팁",
+          "#플라이트태그"
+        ],
+        "alt_texts": [
+          "JAL 승무원이 지역 주민과 함께 활동하는 모습",
+          "오키나와 세계자연유산으로 지정된 지역의 아름다운 풍경",
+          "JAL 오리지널 플라이트 태그 디자인 이미지",
+          "일본 공항 면세점 또는 기념품 판매점 내부 모습",
+          "여행객이 공항에서 기념품을 고르는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: JAL 이용객 및 기념품에 관심 있는 여행객의 높은 관심 / 이 콘텐츠의 강점: JAL의 지역 활성화 노력이라는 신선한 정보와 실물 굿즈 정보를 결합하여 흥미 유발",
+      "image": {
+        "keyword": "JAL, Okinawa, World Heritage, Flight Tag, Airport Souvenir Shop",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Okinawa,-World-Heritage,-Flight-Tag,-Airport-Souvenir-Shop",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Okinawa,%20World%20Heritage,%20Flight%20Tag,%20Airport%20Souvenir%20Shop/"
+      }
+    },
     {
       "id": "plan_aa7c0d1d",
       "created_at": "2026-11-07T02:47:38.104610",
@@ -923,160 +1077,6 @@
         "keyword": "lalaport tokyo bay, shopping mall, japan shopping, new opening, future travel",
         "unsplash_url": "https://unsplash.com/s/photos/lalaport-tokyo-bay,-shopping-mall,-japan-shopping,-new-opening,-future-travel",
         "pexels_url": "https://www.pexels.com/search/lalaport%20tokyo%20bay,%20shopping%20mall,%20japan%20shopping,%20new%20opening,%20future%20travel/"
-      }
-    },
-    {
-      "id": "plan_286fd93c",
-      "created_at": "2026-11-04T03:00:39.679909",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "商船三井さんふらわあ、大洗～苫小牧航路で冬割。運賃10％オフ、乗用車航送代5％オフ",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2153130.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울철 일본 북쪽으로 가는 뱃길, 10% 할인받고 편하게 즐기세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚢 겨울 뱃길 10% 할인! 🚢",
-        "cards": [
-          {
-            "title": "겨울 할인 시작!",
-            "content": "상선미츠이 페리가 '산후와아 겨울 할인'을 12월 7일부터 2027년 1월 31일까지 운영해요. 인터넷 예약 한정 혜택입니다.",
-            "alt_text": "겨울 할인 안내 문구"
-          },
-          {
-            "title": "할인 대상 노선",
-            "content": "오오라이(大洗) ~ 삿포로(苫小牧) 항로가 대상이며, '산후와아 삿포로', '후라노', '캄이', '피리카' 총 4척이 운항합니다.",
-            "alt_text": "페리 항로 지도"
-          },
-          {
-            "title": "운임 10% 할인",
-            "content": "승객 운임이 10% 할인됩니다. 겨울철 홋카이도로 향하는 뱃길을 저렴하게 이용할 기회입니다.",
-            "alt_text": "할인율 표시"
-          },
-          {
-            "title": "차량 운송도 할인",
-            "content": "승용차를 싣고 가는 운송료도 5% 할인됩니다. 홋카이도에서 차량을 이용할 계획이라면 놓치지 마세요!",
-            "alt_text": "차량 선적 안내"
-          },
-          {
-            "title": "예약 꿀팁!",
-            "content": "반드시 '인터넷 예약'을 통해서만 할인이 적용되니, 예약 시 꼭 확인하세요. 겨울철 홋카이도 여행 계획에 참고하세요!",
-            "alt_text": "인터넷 예약 화면 예시"
-          }
-        ],
-        "caption": "🚢 겨울 홋카이도 여행, 뱃길로 떠나요! 🚢\n\n상선미츠이 페리가 오오라이 ~ 삿포로 항로 이용객을 위해 '산후와아 겨울 할인'을 진행합니다.\n\n✅ 운임 10% 할인\n✅ 차량 운송료 5% 할인 (승용차 한정)\n\n🗓️ 기간: 2023년 12월 7일 ~ 2027년 1월 31일 출항편\n\n🌟 인터넷 예약 한정 혜택이니, 예약 시 꼭 확인하세요!\n\n#일본여행 #홋카이도여행 #페리할인 #겨울여행 #오오라이 #삿포로 #상선미츠이 #산후와아 #일본교통 #여행정보 #할인정보 #겨울할인 #여행꿀팁 #플라잉재팬 #일본알짜정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도여행",
-          "#페리할인",
-          "#겨울여행",
-          "#오오라이",
-          "#삿포로",
-          "#상선미츠이",
-          "#산후와아",
-          "#일본교통",
-          "#여행정보",
-          "#할인정보",
-          "#겨울할인",
-          "#여행꿀팁",
-          "#일본알짜정보"
-        ],
-        "alt_texts": [
-          "겨울 할인 안내 문구",
-          "페리 항로 지도",
-          "할인율 표시",
-          "차량 선적 안내",
-          "인터넷 예약 화면 예시"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 겨울 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 할인 정보를 활용한 실질적인 여행 계획 수립, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 할인율, 대상 노선, 기간 명시로 즉각적인 활용 가능",
-      "image": {
-        "keyword": "ferry discount japan winter hokkaido",
-        "unsplash_url": "https://unsplash.com/s/photos/ferry-discount-japan-winter-hokkaido",
-        "pexels_url": "https://www.pexels.com/search/ferry%20discount%20japan%20winter%20hokkaido/"
-      }
-    },
-    {
-      "id": "plan_bff48643",
-      "created_at": "2026-11-04T03:00:24.171131",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "大江戸温泉物語Premium 鬼怒川観光ホテル、1泊2食が最大30％オフ。首都圏から一番近い「三つ星バイキング」の宿、カニや黒毛和牛も食べ放題",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2153234.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 일본 온천 여행, 최대 30% 할인 찬스를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "♨️일본 온천 30% 할인!",
-        "cards": [
-          {
-            "title": "겨울 특가 찬스",
-            "content": "오에도 온천 이야기 프리미엄 키누가와 관광 호텔에서 1박 2식 특가 프로모션을 진행합니다. 최대 30% 할인된 가격으로 예약 가능해요.",
-            "alt_text": "겨울 온천 호텔 할인 프로모션 안내"
-          },
-          {
-            "title": "할인 방법",
-            "content": "라쿠텐 트래블에서 진행하는 '라쿠텐 트래블 가을/겨울 세일'을 통해 쿠폰을 여러 장 중복 적용하면 할인을 받을 수 있습니다. 세일 기간은 11월 19일까지입니다.",
-            "alt_text": "라쿠텐 트래블 세일 기간 및 할인 혜택 안내"
-          },
-          {
-            "title": "미식 경험",
-            "content": "수도권에서 가장 가까운 '별 3개 뷔페'를 자랑하는 이곳에서는 신선한 게와 흑우 와규를 무제한으로 즐길 수 있습니다. 풍성한 식사를 기대하세요.",
-            "alt_text": "호텔 뷔페에서 제공되는 신선한 게와 흑우 와규"
-          },
-          {
-            "title": "호텔 정보",
-            "content": "오에도 온천 이야기 프리미엄 키누가와 관광 호텔은 훌륭한 뷔페와 온천 시설을 갖추고 있어 겨울철 휴양지로 제격입니다. 1박 2식 포함 혜택을 누려보세요.",
-            "alt_text": "겨울 온천 호텔의 편안한 객실과 시설"
-          },
-          {
-            "title": "꿀팁",
-            "content": "겨울철 일본 온천 여행을 계획 중이라면, 지금 바로 라쿠텐 트래블에서 할인 혜택을 확인해보세요. 선착순 마감될 수 있으니 서두르는 것이 좋습니다.",
-            "alt_text": "일본 온천 여행 계획 시 할인 팁 안내"
-          }
-        ],
-        "caption": "♨️ 겨울 일본 온천 여행, 놓치면 후회할 역대급 할인 정보! ♨️\n\n오에도 온천 이야기 프리미엄 키누가와 관광 호텔에서 1박 2식 포함 최대 30% 할인 프로모션을 진행합니다! 🦀🥩\n\n라쿠텐 트래블 가을/겨울 세일 기간 (11월 19일까지)에 쿠폰 중복 적용으로 알뜰하게 예약하세요.\n\n지금 바로 확인하고 따뜻하고 맛있는 겨울 일본 온천 여행을 계획해보세요! 👇\n\n#일본여행 #플라잉재팬 #일본온천 #겨울여행 #일본숙소 #오에도온천 #키누가와 #라쿠텐트래블 #할인정보 #여행꿀팁 #일본자유여행 #가성비여행 #온천여행 #일본호텔 #겨울휴가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본온천",
-          "#겨울여행",
-          "#일본숙소",
-          "#오에도온천",
-          "#키누가와",
-          "#라쿠텐트래블",
-          "#할인정보",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#가성비여행",
-          "#온천여행",
-          "#일본호텔",
-          "#겨울휴가"
-        ],
-        "alt_texts": [
-          "겨울 온천 호텔 할인 프로모션 안내",
-          "라쿠텐 트래블 세일 기간 및 할인 혜택 안내",
-          "호텔 뷔페에서 제공되는 신선한 게와 흑우 와규",
-          "겨울 온천 호텔의 편안한 객실과 시설",
-          "일본 온천 여행 계획 시 할인 팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 겨울철 일본 온천 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 2-4시 / 기대 반응: 높은 예약 전환율, 할인 정보 공유 및 저장 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 매력적인 미식 경험 강조",
-      "image": {
-        "keyword": "japanese hot spring hotel discount, winter travel japan, onsen buffet, kinugawa onsen, rakuten travel sale",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-hot-spring-hotel-discount,-winter-travel-japan,-onsen-buffet,-kinugawa-onsen,-rakuten-travel-sale",
-        "pexels_url": "https://www.pexels.com/search/japanese%20hot%20spring%20hotel%20discount,%20winter%20travel%20japan,%20onsen%20buffet,%20kinugawa%20onsen,%20rakuten%20travel%20sale/"
       }
     }
   ]
