@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-08T02:29:40.980519",
+  "last_updated": "2026-11-08T05:50:32.513728",
   "plans": [
+    {
+      "id": "plan_89942a69",
+      "created_at": "2026-11-08T05:50:30.513535",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本旅行、「タイムセール」を開催中　11月18日まで",
+        "url": "https://www.traicy.com/posts/20261107387171/",
+        "date": "Sat, 07 Nov 2026 08:16:46 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 상품 최대 50% 할인 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 여행 50% 타임세일 꿀딜!",
+        "cards": [
+          {
+            "title": "타임세일 기간",
+            "content": "일본 여행의 '기간 한정! 타임세일'이 11월 4일부터 11월 18일까지 진행돼요. 서둘러야 득템 가능!",
+            "alt_text": "시계와 달력 아이콘"
+          },
+          {
+            "title": "할인 대상",
+            "content": "숙박 플랜, JR/신칸센+호텔 팩, 비행기+호텔 팩까지 모두 포함됩니다. 알찬 여행 계획 세우세요!",
+            "alt_text": "항공권, 기차, 호텔 아이콘"
+          },
+          {
+            "title": "가격 혜택",
+            "content": "예시로 2인 1실 료칸이 최대 50% 할인된 가격으로 제공될 수 있어요. (정확한 할인율은 상품별 상이)",
+            "alt_text": "할인율 50% 스티커"
+          },
+          {
+            "title": "추천 숙소",
+            "content": "나라 지역 '피아자 호텔 나라' 등 다양한 지역의 호텔이 대상입니다. 여행지에 맞춰 최적의 숙소를 찾아보세요!",
+            "alt_text": "호텔 건물 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "파격적인 할인율로 인기 있는 상품은 조기 마감될 수 있으니, 관심 있는 상품은 미리 확인하고 예약하는 센스!",
+            "alt_text": "놓치면 후회! 문구"
+          }
+        ],
+        "caption": "일본 여행 준비 중이라면 주목! ✨\n일본 여행에서 '기간 한정 타임세일'을 11월 4일부터 11월 18일까지 진행해요!\n숙박, JR/신칸센+호텔, 항공+호텔 팩까지 최대 50% 할인 혜택을 누릴 수 있는 절호의 찬스! ✈️🚄\n지금 바로 특별한 가격으로 일본 여행을 계획해보세요! 🇯🇵\n\n✅ 예약 문의는 @flyingjapan DM 또는 프로필 링크 클릭!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본여행특가",
+          "#일본호텔",
+          "#일본항공권",
+          "#일본교통",
+          "#JR패스",
+          "#신칸센",
+          "#일본숙소",
+          "#일본쇼핑",
+          "#일본자유여행",
+          "#일본여행꿀팁",
+          "#타임세일",
+          "#여행스타그램",
+          "#일본가볼만한곳"
+        ],
+        "alt_texts": [
+          "시계와 달력 아이콘",
+          "항공권, 기차, 호텔 아이콘",
+          "할인율 50% 스티커",
+          "호텔 건물 이미지",
+          "놓치면 후회! 문구"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5시-7시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 높은 클릭률 및 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 할인율과 명확한 기간 정보로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "Japan travel sale, limited time offer, discount, airplane, train, hotel, travel package",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-limited-time-offer,-discount,-airplane,-train,-hotel,-travel-package",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20limited%20time%20offer,%20discount,%20airplane,%20train,%20hotel,%20travel%20package/"
+      }
+    },
+    {
+      "id": "plan_af59a470",
+      "created_at": "2026-11-08T05:50:25.008490",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ピーチ、国内線カウンターのデザイン刷新が全14空港で完了　手荷物タグ発行機も拡大",
+        "url": "https://www.traicy.com/posts/20261107387189/",
+        "date": "Sat, 07 Nov 2026 10:15:59 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "피치 항공 이용 시 놓치지 말아야 할 최신 공항 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✈️피치 공항 카운터 싹 바뀜!",
+        "cards": [
+          {
+            "title": "전체 14개 공항",
+            "content": "피치 항공 국내선 체크인 카운터 디자인이 전 14개 공항에서 새롭게 단장했습니다. 2023년 11월 6일 미야자키 공항을 마지막으로 모든 공항의 리뉴얼이 완료되었습니다.",
+            "alt_text": "일본 국내선 공항 체크인 카운터 전경"
+          },
+          {
+            "title": "새로운 브랜딩",
+            "content": "이번 리뉴얼은 피치 항공 창립 15주년을 기념하는 브랜드 리뉴얼의 일환으로 진행되었습니다. 더욱 깔끔하고 통일된 디자인으로 공항 이용 경험을 향상시킬 예정입니다.",
+            "alt_text": "피치 항공 로고와 함께 디자인된 체크인 카운터"
+          },
+          {
+            "title": "수하물 태그 발급기",
+            "content": "새로운 카운터 디자인과 함께 수하물 태그 발급기도 확대 설치되었습니다. 더욱 편리하게 셀프 서비스를 이용할 수 있게 되었습니다.",
+            "alt_text": "셀프 수하물 태그 발급기 이미지"
+          },
+          {
+            "title": "일본 내 모든 노선",
+            "content": "이번 변경 사항은 피치 항공의 일본 국내선 모든 노선에 적용됩니다. 일본 내에서 피치 항공을 이용하신다면 달라진 공항 환경을 만나보실 수 있습니다.",
+            "alt_text": "일본 지도 위에 표시된 피치 항공 노선"
+          },
+          {
+            "title": "이용 꿀팁",
+            "content": "새롭게 단장된 카운터와 수하물 태그 발급기를 이용하시면 더욱 빠르고 편리하게 체크인을 완료하실 수 있습니다. 변경된 디자인을 미리 확인하고 여유로운 여행을 준비하세요!",
+            "alt_text": "여행 가방을 들고 체크인 카운터로 향하는 승객"
+          }
+        ],
+        "caption": "✈️ 일본 여행 필수 체크! 피치 항공 공항 카운터가 새롭게 바뀌었어요!\n\n창립 15주년을 맞아 피치 항공이 일본 전역 14개 공항의 국내선 체크인 카운터 디자인을 전면 리뉴얼했습니다.\n\n11월 6일 미야자키 공항을 마지막으로 모든 공항에서 새로운 모습으로 여러분을 맞이합니다.\n\n더욱 편리해진 수하물 태그 발급기도 확대 설치되었으니, 일본 내 피치 항공 이용 시 꼭 참고하세요!\n\n#플라잉재팬 #일본여행 #피치항공 #공항정보 #일본국내선",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#피치항공",
+          "#일본공항",
+          "#공항정보",
+          "#일본국내선",
+          "#여행꿀팁",
+          "#체크인",
+          "#수하물",
+          "#일본여행준비",
+          "#항공권",
+          "#여행스타그램",
+          "#일본",
+          "#여행",
+          "#꿀팁"
+        ],
+        "alt_texts": [
+          "일본 국내선 공항 체크인 카운터 전경",
+          "피치 항공 로고와 함께 디자인된 체크인 카운터",
+          "셀프 수하물 태그 발급기 이미지",
+          "일본 지도 위에 표시된 피치 항공 노선",
+          "여행 가방을 들고 체크인 카운터로 향하는 승객"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인, 특히 피치 항공 이용 예정자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오전 10-12시 / 기대 반응: 정보 습득, 여행 계획에 도움, 공감 / 이 콘텐츠의 강점: 최신 공항 이용 정보 제공, 구체적인 공항 및 서비스 정보 포함, 실질적인 도움 제공",
+      "image": {
+        "keyword": "Peach Airlines, airport check-in counter, Japan domestic flight, new design, baggage tag dispenser",
+        "unsplash_url": "https://unsplash.com/s/photos/Peach-Airlines,-airport-check-in-counter,-Japan-domestic-flight,-new-design,-baggage-tag-dispenser",
+        "pexels_url": "https://www.pexels.com/search/Peach%20Airlines,%20airport%20check-in%20counter,%20Japan%20domestic%20flight,%20new%20design,%20baggage%20tag%20dispenser/"
+      }
+    },
     {
       "id": "plan_dea08882",
       "created_at": "2026-11-08T02:29:38.980344",
@@ -923,160 +1077,6 @@
         "keyword": "JR Kyushu train stationery, AEON Kyushu, retro Japanese stationery, limited edition souvenir",
         "unsplash_url": "https://unsplash.com/s/photos/JR-Kyushu-train-stationery,-AEON-Kyushu,-retro-Japanese-stationery,-limited-edition-souvenir",
         "pexels_url": "https://www.pexels.com/search/JR%20Kyushu%20train%20stationery,%20AEON%20Kyushu,%20retro%20Japanese%20stationery,%20limited%20edition%20souvenir/"
-      }
-    },
-    {
-      "id": "plan_5103d746",
-      "created_at": "2026-11-05T03:29:55.809720",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "今日から年末年始の新幹線のぞみ「EX早特☆期間限定セール！」。東京～新大阪2920円引き/広島4960円引き",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2153827.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "연말연시 일본 신칸센, 최대 4,960엔까지 할인받고 떠나세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨신칸센 4960엔 할인!✨",
-        "cards": [
-          {
-            "title": "할인 시작!",
-            "content": "JR東海, JR서일본이 연말연시 기간에 신칸센 '노조미' 보통차 지정석 할인 판매를 시작했어요. 11월 5일부터 진행됩니다.",
-            "alt_text": "신칸센 할인 행사 시작 알림"
-          },
-          {
-            "title": "할인율 확인",
-            "content": "도쿄-신오사카 구간은 최대 2,920엔, 히로시마 구간은 무려 4,960엔까지 할인받을 수 있어요. 연말연시 일본 여행 경비를 절약할 절호의 찬스!",
-            "alt_text": "도쿄-신오사카, 히로시마 신칸센 할인 금액 정보"
-          },
-          {
-            "title": "대상 노선",
-            "content": "동해도산요 신칸센 '노조미' 보통차 지정석이 할인 대상이에요. 이 기회를 놓치지 마세요!",
-            "alt_text": "할인 대상인 동해도산요 신칸센 노조미 열차"
-          },
-          {
-            "title": "기간 확인",
-            "content": "할인 행사는 11월 5일부터 시작되며, 연말연시 기간 동안 진행되니 서둘러 예약하세요!",
-            "alt_text": "신칸센 할인 행사 기간 안내"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "연말연시 일본은 항공권, 숙소, 교통편 모두 예약이 필수! 서둘러 예약하고 할인 혜택도 챙기세요. EX 예약 사이트에서 확인 가능합니다.",
-            "alt_text": "일본 여행 연말연시 예약 팁"
-          }
-        ],
-        "caption": "✈️ 연말연시 일본 여행 계획 중이신가요? ✈️\n\nJR東海, JR서일본이 동해도산요 신칸센 '노조미' 보통차 지정석을 대상으로 역대급 할인 행사를 진행합니다! 🤩\n\n✅ 도쿄-신오사카: 최대 2,920엔 할인!\n✅ 히로시마: 최대 4,960엔 할인!\n\n11월 5일부터 시작되는 이번 할인, 늦기 전에 예약하고 알뜰하게 일본 여행 즐기세요! 🚄\n\n#일본여행 #신칸센 #노조미 #JR할인 #연말연시 #일본교통 #여행꿀팁 #플라잉재팬 #일본여행준비 #할인정보 #가성비여행 #여행스타그램 #일본행 #여행 #일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#노조미",
-          "#JR",
-          "#일본교통",
-          "#연말연시",
-          "#여행꿀팁",
-          "#할인정보",
-          "#일본여행준비",
-          "#가성비여행",
-          "#여행스타그램",
-          "#일본",
-          "#일본여행정보",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "신칸센 할인 행사 시작 알림",
-          "도쿄-신오사카, 히로시마 신칸센 할인 금액 정보",
-          "할인 대상인 동해도산요 신칸센 노조미 열차",
-          "신칸센 할인 행사 기간 안내",
-          "일본 여행 연말연시 예약 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획하는 한국인 여행자 / 최적 게시 시간: 오후 8시 (여행 정보 탐색 시간) / 기대 반응: 높은 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 명확한 할인 금액 제시, 시의성 높은 정보",
-      "image": {
-        "keyword": "Shinkansen discount, Japan winter travel, bullet train sale",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-discount,-Japan-winter-travel,-bullet-train-sale",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen%20discount,%20Japan%20winter%20travel,%20bullet%20train%20sale/"
-      }
-    },
-    {
-      "id": "plan_6a2b57e3",
-      "created_at": "2026-11-05T03:29:51.172185",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "紀ノ国屋「Suicaのペンギン」マスコットバッグ、今夜20時からオンライン販売開始。全3色どれにする？",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2153843.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 'Suica의 펭귄' 마스코트 백, 놓치면 후회! 🐧✨"
-      },
-      "content": {
-        "thumbnail_title": "Suica 펭귄 가방 👜",
-        "cards": [
-          {
-            "title": "온라인 판매",
-            "content": "11월 5일 저녁 8시부터 공식 온라인 스토어에서 판매 시작! ⏰",
-            "alt_text": "Suica 펭귄 마스코트 백 온라인 판매 개시를 알리는 이미지"
-          },
-          {
-            "title": "매장 판매",
-            "content": "전국 매장에서는 11월 6일부터 구매 가능해요. 🛍️",
-            "alt_text": "Suica 펭귄 마스코트 백을 매장에서 판매하는 모습"
-          },
-          {
-            "title": "가격",
-            "content": "한 개당 3,300엔으로 만나볼 수 있습니다. 💰",
-            "alt_text": "Suica 펭귄 마스코트 백의 가격 정보"
-          },
-          {
-            "title": "색상",
-            "content": "인기 만점! 그린, 레드, 네이비 3가지 색상으로 출시됩니다. 💚❤️💙",
-            "alt_text": "Suica 펭귄 마스코트 백 3가지 색상 전시 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "한정 수량으로 빠르게 품절될 수 있으니, 원하는 색상이 있다면 서둘러 구매하세요! 🏃‍♀️",
-            "alt_text": "Suica 펭귄 마스코트 백을 구매하려는 사람들의 모습"
-          }
-        ],
-        "caption": "일본 여행 필수템 예약! 🐧✨ 귀여운 'Suica의 펭귄' 마스코트 백이 11월 5일 저녁 8시부터 온라인 판매를 시작합니다! ⏰ \n\n총 3가지 색상 (그린, 레드, 네이비)으로 출시되며 가격은 3,300엔이에요. 💰 \n\n매장에서는 11월 6일부터 구매 가능하니, 일본 여행 중이라면 꼭 득템하세요! \n\n#플라잉재팬 에서 가장 빠르게 소식 전해드릴게요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica펭귄",
-          "#마스코트백",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#일본한정",
-          "#여행준비",
-          "#쇼핑리스트",
-          "#일본굿즈",
-          "#여행꿀팁",
-          "#일본생활",
-          "#인기템",
-          "#득템찬스",
-          "#여행에미치다"
-        ],
-        "alt_texts": [
-          "Suica 펭귄 마스코트 백 온라인 판매 개시를 알리는 이미지",
-          "Suica 펭귄 마스코트 백을 매장에서 판매하는 모습",
-          "Suica 펭귄 마스코트 백의 가격 정보",
-          "Suica 펭귄 마스코트 백 3가지 색상 전시 이미지",
-          "Suica 펭귄 마스코트 백을 구매하려는 사람들의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 저녁 8시 (온라인 판매 시작 시간과 일치) / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 귀여운 캐릭터 상품으로 즉각적인 구매 욕구 자극, 구체적인 판매 정보 제공",
-      "image": {
-        "keyword": "Suica penguin mascot bag, limited edition, Japan shopping, cute bag, travel accessory",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-mascot-bag,-limited-edition,-Japan-shopping,-cute-bag,-travel-accessory",
-        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20mascot%20bag,%20limited%20edition,%20Japan%20shopping,%20cute%20bag,%20travel%20accessory/"
       }
     }
   ]
