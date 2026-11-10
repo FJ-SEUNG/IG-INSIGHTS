@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-09T06:03:11.624799",
+  "last_updated": "2026-11-10T04:37:52.313925",
   "plans": [
+    {
+      "id": "plan_f11ec14b",
+      "created_at": "2026-11-10T04:37:50.313764",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーリゾートライン、クリスマス車両に乗車してきた！　天井の夜空デザインに注目",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2154983.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니랜드 가는 길, 크리스마스 분위기 제대로 느끼고 싶다면 놓치지 마세요! 🎄"
+      },
+      "content": {
+        "thumbnail_title": "🎄디즈니 크리스마스 라이너 탑승!✨",
+        "cards": [
+          {
+            "title": "운행 기간",
+            "content": "디즈니 크리스마스 라이너는 11월 11일부터 12월 25일까지 운행됩니다. 특별한 크리스마스 분위기를 만끽할 수 있는 절호의 기회!",
+            "alt_text": "크리스마스 장식이 된 디즈니 리조트 라인 열차 외부 이미지"
+          },
+          {
+            "title": "특별한 디자인",
+            "content": "열차 내부는 밤하늘을 담은 디자인으로 꾸며져 있어, 마치 별빛 속을 달리는 듯한 황홀함을 선사합니다.",
+            "alt_text": "디즈니 크리스마스 라이너 열차 내부 천장 별빛 디자인 이미지"
+          },
+          {
+            "title": "탑승 경험",
+            "content": "한정 기간 운행되는 특별 차량에 미리 탑승해본 후기를 생생하게 전달해 드립니다. 설레는 마음으로 디즈니랜드로 향하는 발걸음!",
+            "alt_text": "열차 안에서 창밖을 바라보는 승객의 뒷모습 이미지"
+          },
+          {
+            "title": "이동의 즐거움",
+            "content": "도쿄 디즈니랜드, 디즈니 씨로 가는 가장 설레는 방법! 크리스마스 분위기를 미리 느껴보세요.",
+            "alt_text": "디즈니 리조트 라인 역 플랫폼 이미지"
+          },
+          {
+            "title": "필수 정보",
+            "content": "크리스마스 시즌 한정으로 운행되니, 여행 계획 시 운행 기간을 꼭 확인하세요. 특별한 추억을 만들 수 있습니다.",
+            "alt_text": "디즈니 크리스마스 라이너 열차 내부 좌석 이미지"
+          }
+        ],
+        "caption": "✨일본 여행 중 디즈니랜드 갈 예정이라면 주목!✨\n\n11월 11일부터 12월 25일까지 딱! 한정 운행되는 '디즈니 크리스마스 라이너'를 소개합니다. 🎄\n\n열차 천장에 수놓아진 밤하늘 디자인은 정말 황홀 그 자체! 🌌\n\n특별한 크리스마스 분위기를 미리 느끼며 디즈니랜드로 가는 길, 잊지 못할 추억을 만들어 보세요!\n\n#디즈니크리스마스라이너 #도쿄디즈니랜드 #디즈니씨 #일본여행정보 #크리스마스여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니씨",
+          "#디즈니리조트라인",
+          "#크리스마스여행",
+          "#일본크리스마스",
+          "#도쿄여행",
+          "#일본교통",
+          "#여행꿀팁",
+          "#디즈니",
+          "#여행스타그램",
+          "#일본소식",
+          "#한정운행",
+          "#겨울여행"
+        ],
+        "alt_texts": [
+          "크리스마스 장식이 된 디즈니 리조트 라인 열차 외부 이미지",
+          "디즈니 크리스마스 라이너 열차 내부 천장 별빛 디자인 이미지",
+          "열차 안에서 창밖을 바라보는 승객의 뒷모습 이미지",
+          "디즈니 리조트 라인 역 플랫폼 이미지",
+          "디즈니 크리스마스 라이너 열차 내부 좌석 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드/디즈니 씨 방문 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 정보 공유, 디즈니랜드 방문 계획 업데이트 / 이 콘텐츠의 강점: 시기적절한 한정 정보, 디즈니랜드라는 매력적인 소재, 크리스마스 분위기라는 감성 포인트",
+      "image": {
+        "keyword": "Disney Christmas Liner, Tokyo Disney Resort Line, Christmas train, Japan travel, Tokyo travel, Christmas decorations",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-Christmas-Liner,-Tokyo-Disney-Resort-Line,-Christmas-train,-Japan-travel,-Tokyo-travel,-Christmas-decorations",
+        "pexels_url": "https://www.pexels.com/search/Disney%20Christmas%20Liner,%20Tokyo%20Disney%20Resort%20Line,%20Christmas%20train,%20Japan%20travel,%20Tokyo%20travel,%20Christmas%20decorations/"
+      }
+    },
+    {
+      "id": "plan_9d7d28df",
+      "created_at": "2026-11-10T04:37:43.503827",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニークリスマス「リルリンリン」グッズ売り場を見てきた！　ランダムグッズも撮り下ろしで紹介",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2154987.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니랜드에서 펼쳐지는 역대급 크리스마스 축제, 놓치면 후회할 '릴린린' 굿즈와 이벤트 정보 총정리!"
+      },
+      "content": {
+        "thumbnail_title": "🎄도쿄 디즈니 크리스마스 🎄",
+        "cards": [
+          {
+            "title": "기간 확인!",
+            "content": "도쿄 디즈니리조트에서 '디즈니 크리스마스'가 11월 11일부터 12월 25일까지 개최됩니다. 잊지 말고 기간 안에 방문하세요!",
+            "alt_text": "도쿄 디즈니랜드 크리스마스 축제 기간 안내"
+          },
+          {
+            "title": "'릴린린' 굿즈 출시!",
+            "content": "매년 큰 사랑을 받는 크리스마스 요정 '릴린린' 굿즈가 11월 10일에 선공개되었습니다. 축제 분위기를 한껏 느낄 수 있는 다양한 상품을 만나보세요.",
+            "alt_text": "크리스마스 요정 '릴린린' 굿즈 이미지"
+          },
+          {
+            "title": "랜덤 굿즈도!",
+            "content": "랜덤 상품도 준비되어 있어 어떤 굿즈를 받게 될지 기대하는 재미가 있습니다. 어떤 귀여운 릴린린을 득템하게 될까요?",
+            "alt_text": "랜덤 릴린린 굿즈 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "특별한 크리스마스 시즌에만 만날 수 있는 릴린린 굿즈와 함께 잊지 못할 추억을 만들어 보세요. 디즈니랜드의 아름다운 크리스마스 분위기를 만끽할 수 있습니다.",
+            "alt_text": "디즈니랜드 크리스마스 장식 이미지"
+          },
+          {
+            "title": "방문 팁!",
+            "content": "인기 굿즈는 조기 품절될 수 있으니, 원하는 상품이 있다면 개장 시간에 맞춰 방문하는 것을 추천합니다. 방문 전 공식 홈페이지에서 상세 정보를 확인하세요.",
+            "alt_text": "디즈니랜드 방문객 이미지"
+          }
+        ],
+        "caption": "🎄도쿄 디즈니리조트에서 펼쳐지는 황홀한 크리스마스! 🎄\n\n11월 11일부터 12월 25일까지 열리는 '디즈니 크리스마스'에서 귀여운 '릴린린' 굿즈를 만나보세요! 🎁\n\n11월 10일 선공개된 릴린린 굿즈와 함께 특별한 추억을 만들어보세요. 랜덤 굿즈는 득템하는 재미까지! ✨\n\n지금 바로 도쿄 디즈니리조트에서 꿈같은 크리스마스를 경험하세요! 💖\n\n#도쿄디즈니랜드 #디즈니크리스마스 #릴린린 #일본여행 #플라잉재팬 #도쿄여행 #크리스마스 #디즈니굿즈 #일본여행정보 #여행스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니크리스마스",
+          "#릴린린",
+          "#도쿄여행",
+          "#크리스마스",
+          "#디즈니굿즈",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#일본가볼만한곳",
+          "#도쿄",
+          "#디즈니",
+          "#겨울여행",
+          "#일본축제"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 크리스마스 축제 기간 안내",
+          "크리스마스 요정 '릴린린' 굿즈 이미지",
+          "랜덤 릴린린 굿즈 이미지",
+          "디즈니랜드 크리스마스 장식 이미지",
+          "디즈니랜드 방문객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 디즈니랜드 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 시즌 정보와 구체적인 상품 정보 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas, Ril Ril Rin goods, Christmas event Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas,-Ril-Ril-Rin-goods,-Christmas-event-Japan",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas,%20Ril%20Ril%20Rin%20goods,%20Christmas%20event%20Japan/"
+      }
+    },
     {
       "id": "plan_1c9de2a4",
       "created_at": "2026-11-09T06:03:09.624596",
@@ -923,160 +1077,6 @@
         "keyword": "Sagano Romantic Train, Kyoto, autumn foliage, Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Sagano-Romantic-Train,-Kyoto,-autumn-foliage,-Japan",
         "pexels_url": "https://www.pexels.com/search/Sagano%20Romantic%20Train,%20Kyoto,%20autumn%20foliage,%20Japan/"
-      }
-    },
-    {
-      "id": "plan_dfb64e50",
-      "created_at": "2026-11-06T06:23:52.041766",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「三井ガーデンホテル京都五条」、2027年3月20日開業",
-        "url": "https://www.traicy.com/posts/20261106384622/",
-        "date": "Thu, 05 Nov 2026 21:15:31 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2027년 새롭게 오픈하는 교토의 신상 호텔 정보, 미리 알아보고 계획하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵 2027년 교토 신상 호텔 오픈! ✨",
-        "cards": [
-          {
-            "title": "교토 신상 호텔",
-            "content": "2027년 3월 20일, 교토에 '미쓰이 가든 호텔 교토 고조'가 새롭게 문을 엽니다. 총 9층 규모로 지어질 예정입니다.",
-            "alt_text": "새롭게 오픈할 미쓰이 가든 호텔 교토 고조 조감도"
-          },
-          {
-            "title": "객실 정보",
-            "content": "스탠다드 퀸 24개, 슈페리어 퀸 24개, 슈페리어 트윈 94개 등 총 142개의 객실이 준비될 예정입니다. 다양한 타입의 객실 선택이 가능합니다.",
-            "alt_text": "호텔 객실 내부 이미지 (예시)"
-          },
-          {
-            "title": "위치 팁",
-            "content": "교토 고조역 근처에 위치할 것으로 예상되어, 교토 시내 및 근교 이동이 편리할 것으로 보입니다.",
-            "alt_text": "교토 지도에 호텔 위치 표시 (예시)"
-          },
-          {
-            "title": "미리 계획하기",
-            "content": "2027년 오픈 예정이므로, 2~3년 후 교토 여행을 계획하시는 분들에게는 좋은 선택지가 될 수 있습니다.",
-            "alt_text": "달력에 2027년 3월 20일 표시"
-          },
-          {
-            "title": "꿀팁",
-            "content": "오픈 시기에 맞춰 얼리버드 예약 프로모션 등을 활용하면 더욱 합리적인 가격으로 이용할 수 있을 거예요. 오픈 소식은 계속 업데이트될 예정입니다!",
-            "alt_text": "호텔 예약 사이트 화면 (예시)"
-          }
-        ],
-        "caption": "🇯🇵 2027년 3월 20일, 교토에 새로운 호텔이 생긴다는 소식! ✨\n\n'미쓰이 가든 호텔 교토 고조'가 지하 1층, 지상 9층 규모로 오픈 예정이에요.\n\n총 142개의 다양한 객실이 준비된다고 하니, 2~3년 후 교토 여행을 계획 중이시라면 눈여겨보세요! ✈️\n\n#일본여행 #교토여행 #신상호텔 #미쓰이가든호텔 #2027년개장 #교토숙소 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#교토신상호텔",
-          "#미쓰이가든호텔",
-          "#2027년개장",
-          "#교토숙소",
-          "#일본숙소",
-          "#여행계획",
-          "#미리알아보기",
-          "#일본호텔",
-          "#여행정보",
-          "#일본소식",
-          "#교토",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "새롭게 오픈할 미쓰이 가든 호텔 교토 고조 조감도",
-          "호텔 객실 내부 이미지 (예시)",
-          "교토 지도에 호텔 위치 표시 (예시)",
-          "달력에 2027년 3월 20일 표시",
-          "호텔 예약 사이트 화면 (예시)"
-        ]
-      },
-      "marketer_analysis": "타겟: 2~3년 후 일본 여행 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시-9시 / 기대 반응: 정보 공유 및 저장, 댓글 문의 / 이 콘텐츠의 강점: 아직 생소하지만 미래의 여행 계획에 도움이 되는 선제적인 정보 제공",
-      "image": {
-        "keyword": "Mitsui Garden Hotel Kyoto Gojo, new hotel opening, Kyoto Japan, travel planning, future travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Mitsui-Garden-Hotel-Kyoto-Gojo,-new-hotel-opening,-Kyoto-Japan,-travel-planning,-future-travel",
-        "pexels_url": "https://www.pexels.com/search/Mitsui%20Garden%20Hotel%20Kyoto%20Gojo,%20new%20hotel%20opening,%20Kyoto%20Japan,%20travel%20planning,%20future%20travel/"
-      }
-    },
-    {
-      "id": "plan_8aaa4662",
-      "created_at": "2026-11-06T06:23:41.103702",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "日本RV協会、新たに23か所の車中泊施設を認定。琵琶湖すぐ近く「RVパーク レイクサイドヤード」やコンビニ併設型など",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2154362.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서 자유로운 캠핑카 여행을 계획하는 한국 여행자에게 유용한 최신 정보!"
-      },
-      "content": {
-        "thumbnail_title": "🇯🇵일본 신규 차박 성지 23곳 오픈!",
-        "cards": [
-          {
-            "title": "신규 RV파크 23곳",
-            "content": "일본RV협회에서 새롭게 23곳의 'RV파크'를 차박 시설로 추가 인증했습니다. 이제 일본 전역에서 더욱 편리하게 차박을 즐길 수 있게 되었어요.",
-            "alt_text": "일본RV협회 로고와 함께 'RV파크'라고 적힌 표지판 이미지"
-          },
-          {
-            "title": "비와코 호수 인접",
-            "content": "특히 이번에 인증된 곳 중에는 아름다운 비와코 호수 바로 근처에 위치한 'RV파크 레익사이드야드'도 포함되어 있습니다. 멋진 풍경 속 차박을 경험해보세요.",
-            "alt_text": "비와코 호수의 아름다운 풍경과 캠핑카가 함께 있는 모습"
-          },
-          {
-            "title": "편의점 연계 시설",
-            "content": "편의점과 함께 운영되는 차박 시설도 새로 생겨 더욱 편리하게 이용 가능합니다. 식료품 구매나 간단한 식사를 해결하기 용이해요.",
-            "alt_text": "캠핑카 옆에 편의점이 함께 있는 모습"
-          },
-          {
-            "title": "전국 확대",
-            "content": "이번 인증으로 일본 전역에 더욱 다양한 차박 시설이 마련되었습니다. 여행 계획 시 RV파크 정보를 미리 확인해보세요.",
-            "alt_text": "일본 지도를 표시하고 여러 RV파크 위치를 나타내는 아이콘들"
-          },
-          {
-            "title": "캠핑카 여행 꿀팁",
-            "content": "캠핑카 여행 시에는 예약 필수! RV파크 웹사이트에서 상세 정보와 예약 방법을 꼭 확인하세요. 쓰레기 처리 규정도 미리 숙지하면 좋아요.",
-            "alt_text": "캠핑카 내부 모습과 함께 '예약 필수!' 문구가 적힌 이미지"
-          }
-        ],
-        "caption": "일본에서 캠핑카 여행, 꿈만 꾸셨나요? 🤩\n일본RV협회가 새롭게 23곳의 'RV파크'를 차박 시설로 추가 인증했어요!\n아름다운 비와코 호수 근처 'RV파크 레익사이드야드'와 편의점 연계 시설까지!\n일본 전역에서 더욱 편리하고 자유로운 캠핑카 여행을 즐겨보세요! 🚐💨\n\n#일본차박 #RV파크 #캠핑카여행 #일본여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본차박",
-          "#RV파크",
-          "#캠핑카여행",
-          "#일본캠핑",
-          "#일본자유여행",
-          "#일본숙소",
-          "#일본여행준비",
-          "#일본여행팁",
-          "#일본RV",
-          "#비와코호수",
-          "#차박성지",
-          "#일본여행정보",
-          "#일본생활"
-        ],
-        "alt_texts": [
-          "일본RV협회 로고와 함께 'RV파크'라고 적힌 표지판 이미지",
-          "비와코 호수의 아름다운 풍경과 캠핑카가 함께 있는 모습",
-          "캠핑카 옆에 편의점이 함께 있는 모습",
-          "일본 지도를 표시하고 여러 RV파크 위치를 나타내는 아이콘들",
-          "캠핑카 내부 모습과 함께 '예약 필수!' 문구가 적힌 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 캠핑카 렌트 혹은 소유 후 일본 여행을 계획하는 2040 한국 여행객 / 최적 게시 시간: 평일 오후 5시~7시 / 기대 반응: 정보 공유 및 저장, 캠핑카 렌트 문의 증가 / 이 콘텐츠의 강점: 최신 업데이트된 실용 정보, 일본 내에서 자유로운 이동 및 숙박 해결책 제시",
-      "image": {
-        "keyword": "Japan RV park, camping car, lakeside, convenience store, new facility",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-RV-park,-camping-car,-lakeside,-convenience-store,-new-facility",
-        "pexels_url": "https://www.pexels.com/search/Japan%20RV%20park,%20camping%20car,%20lakeside,%20convenience%20store,%20new%20facility/"
       }
     }
   ]
