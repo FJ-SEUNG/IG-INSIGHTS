@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-11T02:46:45.425865",
+  "last_updated": "2026-11-11T05:57:15.602502",
   "plans": [
+    {
+      "id": "plan_cc46493b",
+      "created_at": "2026-11-11T05:57:13.602350",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ローソン限定“ひつじスヌーピー”超ミニ財布。薄型でお札・カード・小銭も入る、箔押しが上品なブラック/ブラウン",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155475.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "귀여움 끝판왕! 스누피 미니 지갑, 2027년 양띠 에디션으로 일본 로손에서만 만나요!"
+      },
+      "content": {
+        "thumbnail_title": "💖로손 한정 스누피 지갑💖",
+        "cards": [
+          {
+            "title": "신상 지갑 출시!",
+            "content": "2027년 양띠 해를 맞아 스누피 특별 디자인 미니 지갑이 출시됩니다. 🐑",
+            "alt_text": "양띠 해 스누피 디자인 미니 지갑 이미지"
+          },
+          {
+            "title": "가격 및 색상",
+            "content": "블랙과 브라운 두 가지 색상으로 출시되며, 가격은 각 3,080엔입니다.",
+            "alt_text": "블랙과 브라운 색상의 스누피 미니 지갑 이미지"
+          },
+          {
+            "title": "구매처는?",
+            "content": "일본 로손(LAWSON) 및 HMV&BOOKS online에서만 독점 판매됩니다. 일반 서점에서는 구매할 수 없습니다.",
+            "alt_text": "로손 편의점 매장 이미지"
+          },
+          {
+            "title": "기능성 UP!",
+            "content": "얇고 컴팩트한 디자인으로 지폐, 카드, 동전까지 수납 가능하며, 고급스러운 금박 장식이 포인트입니다.",
+            "alt_text": "스누피 미니 지갑 내부 수납 공간 이미지"
+          },
+          {
+            "title": "출시일 놓치지 마세요!",
+            "content": "2024년 11월 28일에 발매 예정이니, 일본 여행 계획 중이시라면 꼭 기억해두세요!",
+            "alt_text": "달력에 11월 28일이 표시된 이미지"
+          }
+        ],
+        "caption": "일본 여행 필수템 예약! 💖 2027년 양띠 에디션으로 돌아온 스누피 미니 지갑이 로손 한정으로 출시됩니다! 🐑 3,080엔으로 블랙, 브라운 두 가지 색상에 지폐, 카드, 동전까지 넉넉하게 수납 가능해요. 11월 28일 발매! 일본 여행 가시는 분들, 로손에서 꼭 득템하세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#로손",
+          "#스누피",
+          "#일본쇼핑",
+          "#한정판",
+          "#여행필수템",
+          "#일본편의점",
+          "#2027년",
+          "#양띠",
+          "#미니지갑",
+          "#HMV",
+          "#득템찬스",
+          "#일본굿즈",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "양띠 해 스누피 디자인 미니 지갑 이미지",
+          "블랙과 브라운 색상의 스누피 미니 지갑 이미지",
+          "로손 편의점 매장 이미지",
+          "스누피 미니 지갑 내부 수납 공간 이미지",
+          "달력에 11월 28일이 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 구매 욕구 자극, 정보 공유 활발 / 이 콘텐츠의 강점: 귀여운 캐릭터와 실용성을 갖춘 한정판 아이템으로 즉각적인 관심 유발",
+      "image": {
+        "keyword": "Snoopy mini wallet, Lawson limited, Japan shopping, 2027 Year of the Sheep, Cute wallet",
+        "unsplash_url": "https://unsplash.com/s/photos/Snoopy-mini-wallet,-Lawson-limited,-Japan-shopping,-2027-Year-of-the-Sheep,-Cute-wallet",
+        "pexels_url": "https://www.pexels.com/search/Snoopy%20mini%20wallet,%20Lawson%20limited,%20Japan%20shopping,%202027%20Year%20of%20the%20Sheep,%20Cute%20wallet/"
+      }
+    },
+    {
+      "id": "plan_73141284",
+      "created_at": "2026-11-11T05:57:08.739369",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東海ツアーズ、新幹線＋ホテルがお得な「BLACK FRIDAY SALE」。LINE連携の先行セール開始、連泊割も新登場",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155468.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "신칸센+호텔 특가로 일본 여행 준비 끝!"
+      },
+      "content": {
+        "thumbnail_title": "🚄블프 찬스! 신칸센+호텔 특가🔥",
+        "cards": [
+          {
+            "title": "블프 세일",
+            "content": "JR東海ツアーズ에서 신칸센과 호텔을 묶은 'EX旅パック' 블랙 프라이데이 세일을 11월 13일 13시부터 30일 20시까지 진행합니다.",
+            "alt_text": "JR東海ツアーズ 블랙 프라이데이 세일 안내 배너"
+          },
+          {
+            "title": "선행 세일",
+            "content": "LINE 공식 계정 연동 고객 대상 선행 세일은 11월 11일부터 13일 12시 59분까지 진행되니 서둘러 참여하세요.",
+            "alt_text": "LINE 연동 고객 대상 선행 세일 안내"
+          },
+          {
+            "title": "새로운 혜택",
+            "content": "이번 블랙 프라이데이 세일에는 연박 시 추가 할인 혜택을 제공하는 '연박 할인'도 새롭게 추가되었습니다.",
+            "alt_text": "연박 할인 혜택 안내"
+          },
+          {
+            "title": "상품 구성",
+            "content": "신칸센 왕복 티켓과 함께 다양한 지역의 호텔 중 원하는 곳을 선택할 수 있는 알찬 구성입니다.",
+            "alt_text": "신칸센 티켓과 호텔 선택 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 계획 중이라면 이번 기회를 놓치지 마세요! 미리 LINE 계정을 연동해두면 더욱 빠르게 혜택을 받을 수 있습니다.",
+            "alt_text": "여행 계획 중인 사람들을 위한 꿀팁 안내"
+          }
+        ],
+        "caption": "일본 여행 준비 중이라면 주목! 📢\nJR東海ツアーズ에서 신칸센과 호텔을 묶어 파격적인 가격으로 제공하는 '블랙 프라이데이 세일'을 진행합니다! 🚄🏨\n\n11월 13일 13시부터 30일 20시까지 진행되며, LINE 연동 고객은 11월 11일부터 선행 참여 가능해요. 🤫\n\n이번 세일에는 연박 시 추가 할인 혜택까지! 💯\n최적의 가격으로 일본 여행을 계획할 절호의 찬스, 놓치지 마세요! ✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#신칸센",
+          "#일본호텔",
+          "#블랙프라이데이",
+          "#JR",
+          "#여행특가",
+          "#일본교통",
+          "#일본숙소",
+          "#여행스타그램",
+          "#가을여행",
+          "#겨울여행",
+          "#일본여행준비",
+          "#가성비여행",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "JR東海ツアーズ 블랙 프라이데이 세일 안내 배너",
+          "LINE 연동 고객 대상 선행 세일 안내",
+          "연박 할인 혜택 안내",
+          "신칸센 티켓과 호텔 선택 이미지",
+          "여행 계획 중인 사람들을 위한 꿀팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 클릭률 및 문의 / 이 콘텐츠의 강점: 명확한 할인 정보와 기간, 선행 세일 혜택 강조",
+      "image": {
+        "keyword": "Shinkansen, hotel package, Black Friday sale, Japan travel, JR Tokai Tours",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-hotel-package,-Black-Friday-sale,-Japan-travel,-JR-Tokai-Tours",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20hotel%20package,%20Black%20Friday%20sale,%20Japan%20travel,%20JR%20Tokai%20Tours/"
+      }
+    },
     {
       "id": "plan_dd89e7e8",
       "created_at": "2026-11-11T02:46:43.425728",
@@ -923,160 +1077,6 @@
         "keyword": "Peach Airlines, airport check-in counter, Japan domestic flight, new design, baggage tag dispenser",
         "unsplash_url": "https://unsplash.com/s/photos/Peach-Airlines,-airport-check-in-counter,-Japan-domestic-flight,-new-design,-baggage-tag-dispenser",
         "pexels_url": "https://www.pexels.com/search/Peach%20Airlines,%20airport%20check-in%20counter,%20Japan%20domestic%20flight,%20new%20design,%20baggage%20tag%20dispenser/"
-      }
-    },
-    {
-      "id": "plan_dea08882",
-      "created_at": "2026-11-08T02:29:38.980344",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ザ・リッツ・カールトン東京、11月20日〜25日に全館休業",
-        "url": "https://www.traicy.com/posts/20261108387260/",
-        "date": "Sat, 07 Nov 2026 23:15:19 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 최고급 호텔, 리츠칼튼 도쿄 전관 휴업! 여행 계획에 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚨리츠칼튼 도쿄 11/20~25 휴업🚨",
-        "cards": [
-          {
-            "title": "전관 휴업",
-            "content": "명성 높은 리츠칼튼 도쿄가 11월 20일 오후 2시부터 25일 정오까지 전관 휴업합니다. 🏨",
-            "alt_text": "리츠칼튼 도쿄 건물 전경"
-          },
-          {
-            "title": "휴업 사유",
-            "content": "이는 건물 내 설비 강화 공사로 인한 전관 정전 때문입니다. 🛠️",
-            "alt_text": "공사 관련 경고 표지판"
-          },
-          {
-            "title": "이용 제한",
-            "content": "11월 20일 당일 투숙객은 체크아웃 후, 스파와 레스토랑/바는 오후 4시에 영업을 종료합니다. ⏳",
-            "alt_text": "호텔 레스토랑 내부 모습"
-          },
-          {
-            "title": "여행 계획 필수",
-            "content": "해당 기간 동안 도쿄 방문 예정이거나 리츠칼튼 도쿄 이용 계획이 있다면, 반드시 일정을 재확인하세요! 🗓️",
-            "alt_text": "달력에 표시된 날짜"
-          },
-          {
-            "title": "대체 숙소",
-            "content": "이 기간에 도쿄 숙소가 필요하다면, 주변 다른 호텔이나 숙소 정보를 미리 알아보는 것을 추천합니다. 💯",
-            "alt_text": "다양한 호텔 로고 모음"
-          }
-        ],
-        "caption": "🚨긴급 공지🚨 도쿄 최고급 호텔, 리츠칼튼 도쿄가 11월 20일 오후 2시부터 25일 정오까지 전관 휴업합니다. 😱\n\n설비 강화 공사로 인한 전관 정전 때문이라고 하네요.\n\n해당 기간 도쿄 여행 계획 중이시라면, 꼭! 꼭! 일정 확인하시고 다른 숙소도 미리 알아보세요! ✈️\n\n#일본여행 #도쿄여행 #리츠칼튼도쿄 #긴급공지 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#도쿄여행",
-          "#리츠칼튼도쿄",
-          "#긴급공지",
-          "#여행정보",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#도쿄숙소",
-          "#호텔휴업",
-          "#여행필수",
-          "#11월여행",
-          "#일본소식",
-          "#안전여행",
-          "#여행꿀팁",
-          "#일본스타그램"
-        ],
-        "alt_texts": [
-          "리츠칼튼 도쿄 건물 전경",
-          "공사 관련 경고 표지판",
-          "호텔 레스토랑 내부 모습",
-          "달력에 표시된 날짜",
-          "다양한 호텔 로고 모음"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 방문 예정인 한국인 여행자 / 최적 게시 시간: 평일 저녁 8시~10시 / 기대 반응: 정보 확인 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 긴급하고 실질적인 정보 제공으로 여행 계획 변경에 도움",
-      "image": {
-        "keyword": "The Ritz-Carlton Tokyo, building, closure, announcement, calendar, hotel, Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/The-Ritz-Carlton-Tokyo,-building,-closure,-announcement,-calendar,-hotel,-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/The%20Ritz-Carlton%20Tokyo,%20building,%20closure,%20announcement,%20calendar,%20hotel,%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_93ac7d63",
-      "created_at": "2026-11-08T02:29:31.508429",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京へ走る通勤電車、2か月も不通！　ピンチの内房線を救った「鉄道代行バス」「高速バス」の奮闘を振り返る",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2154606.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "예상치 못한 일본 교통망 문제 발생! 대체 교통편 정보 꼭 확인하세요!"
-      },
-      "content": {
-        "thumbnail_title": "🚨일본 내 철도 2개월 운휴🚨",
-        "cards": [
-          {
-            "title": "갑작스러운 운휴",
-            "content": "일본 내 특정 노선(내방선)이 2개월간 운휴에 들어갔어요. 이 노선은 도쿄 방면 통근 열차로 하루 약 5.3만 명이 이용하는 주요 노선입니다.",
-            "alt_text": "열차 운휴 안내 표지판"
-          },
-          {
-            "title": "대체 교통편",
-            "content": "운휴 기간 동안 '철도 대체 버스'와 '고속 버스'가 운행되어 승객들의 불편을 최소화하고 있어요. 이 버스들이 내방선을 대체하여 운행 중입니다.",
-            "alt_text": "대체 버스 정류장 모습"
-          },
-          {
-            "title": "이용객 현황",
-            "content": "이 노선은 통근객뿐만 아니라 고등학생들의 통학, 그리고 남부 보소 지방으로 가는 관광객들도 많이 이용하는 곳이에요.",
-            "alt_text": "버스에 탑승하는 다양한 연령대의 사람들"
-          },
-          {
-            "title": "여행 시 유의사항",
-            "content": "만약 이 지역을 방문할 계획이 있다면, 해당 노선 이용 전에 반드시 대체 교통편 정보를 미리 확인하고 이동 계획을 세우는 것이 중요해요.",
-            "alt_text": "여행 계획을 세우는 여행객"
-          },
-          {
-            "title": "플라잉재팬 꿀팁",
-            "content": "일본 여행 중 예기치 못한 교통편 운휴 소식을 접했을 땐, 당황하지 마시고 현지 안내 방송이나 역무원에게 문의하거나, 저희 @flyingjapan 계정에서 최신 정보를 확인하세요!",
-            "alt_text": "스마트폰으로 정보를 검색하는 모습"
-          }
-        ],
-        "caption": "⚠️일본 여행 중이라면 꼭 알아두세요!⚠️\n\n일본 내 주요 노선(내방선)이 2개월간 운휴에 들어간다는 소식이에요. 이 노선은 하루 약 5.3만 명이 이용하는 만큼, 많은 여행객분들에게 영향을 줄 수 있습니다.\n\n✅ 현재 '철도 대체 버스'와 '고속 버스'가 운행 중이지만, 혹시 이 지역 방문 예정이라면 이동 전에 반드시 대체 교통편 정보를 미리 확인하시고, 여유로운 이동 계획을 세우시길 바랍니다! ✈️\n\n#일본여행 #일본교통 #플라잉재팬 #일본소식 #교통정보 #여행필수 #일본정보 #여행준비 #일본스타그램 #여행스타그램 #일본교통정보 #내방선 #철도대체버스 #고속버스 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#일본소식",
-          "#교통정보",
-          "#여행필수",
-          "#일본정보",
-          "#여행준비",
-          "#일본스타그램",
-          "#여행스타그램",
-          "#일본교통정보",
-          "#내방선",
-          "#철도대체버스",
-          "#고속버스",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "열차 운휴 안내 표지판",
-          "대체 버스 정류장 모습",
-          "버스에 탑승하는 다양한 연령대의 사람들",
-          "여행 계획을 세우는 여행객",
-          "스마트폰으로 정보를 검색하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 오후 3시-6시 (여행 계획 세우는 시간) / 기대 반응: 정보 공유, 댓글 문의 / 이 콘텐츠의 강점: 예상치 못한 운휴 소식으로 긴급성 확보, 실질적인 대체 교통편 정보 제공",
-      "image": {
-        "keyword": "Japan train disruption, replacement bus service, transportation information",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-train-disruption,-replacement-bus-service,-transportation-information",
-        "pexels_url": "https://www.pexels.com/search/Japan%20train%20disruption,%20replacement%20bus%20service,%20transportation%20information/"
       }
     }
   ]
