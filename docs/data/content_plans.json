@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-10T07:04:53.002026",
+  "last_updated": "2026-11-11T02:46:45.425865",
   "plans": [
+    {
+      "id": "plan_dd89e7e8",
+      "created_at": "2026-11-11T02:46:43.425728",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ディズニー・クリスマス」ランドの昼パレード、ちょっとレアな雨バージョンを見てきた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155281.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니랜드 크리스마스 한정 퍼레이드를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 크리스마스 퍼레이드✨",
+        "cards": [
+          {
+            "title": "크리스마스 기간",
+            "content": "도쿄 디즈니랜드의 '디즈니 크리스마스'는 11월 11일부터 12월 25일까지 진행됩니다. 🎄",
+            "alt_text": "도쿄 디즈니랜드 크리스마스 장식이 된 모습"
+          },
+          {
+            "title": "퍼레이드 명칭",
+            "content": "낮 퍼레이드 '토이즈 원더러스 크리스마스!'가 펼쳐집니다. 🎶",
+            "alt_text": "디즈니 캐릭터들이 퍼레이드에 참여하는 모습"
+          },
+          {
+            "title": "날씨 변수",
+            "content": "악천후 시에는 퍼레이드 대신 캐릭터 그리팅으로 대체될 수 있습니다. ☔️",
+            "alt_text": "비가 오는 날씨에 우산을 쓴 디즈니 캐릭터"
+          },
+          {
+            "title": "특별한 경험",
+            "content": "이번 퍼레이드는 조금 더 특별한 '비 버전'도 볼 수 있는 기회입니다. 🎁",
+            "alt_text": "비가 오는 날씨에 맞춰 특별한 의상을 입은 디즈니 캐릭터"
+          },
+          {
+            "title": "방문 팁",
+            "content": "방문 전 공식 홈페이지에서 퍼레이드 및 날씨 정보를 꼭 확인하세요! 🗓️",
+            "alt_text": "스마트폰으로 도쿄 디즈니랜드 홈페이지를 확인하는 모습"
+          }
+        ],
+        "caption": "🎄도쿄 디즈니랜드에서 펼쳐지는 황홀한 크리스마스! 🎄\n11월 11일부터 12월 25일까지, '디즈니 크리스마스' 기간 동안 특별한 낮 퍼레이드 '토이즈 원더러스 크리스마스!'를 만나보세요. 🎶\n날씨에 따라 퍼레이드 대신 캐릭터 그리팅으로 변경될 수 있으니, 방문 전 꼭! 공식 정보를 확인하는 센스! 잊지 마세요! ✨\n#일본여행 #도쿄여행 #디즈니랜드 #크리스마스 #퍼레이드",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니랜드",
+          "#디즈니크리스마스",
+          "#토이즈원더러스크리스마스",
+          "#겨울여행",
+          "#일본크리스마스",
+          "#도쿄",
+          "#디즈니",
+          "#퍼레이드",
+          "#여행정보",
+          "#특별한경험",
+          "#일본축제",
+          "#연말여행",
+          "#놀이공원"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니랜드 크리스마스 장식이 된 모습",
+          "디즈니 캐릭터들이 퍼레이드에 참여하는 모습",
+          "비가 오는 날씨에 우산을 쓴 디즈니 캐릭터",
+          "비가 오는 날씨에 맞춰 특별한 의상을 입은 디즈니 캐릭터",
+          "스마트폰으로 도쿄 디즈니랜드 홈페이지를 확인하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문할 한국인 여행자 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 참여율 (좋아요, 저장, 공유) / 이 콘텐츠의 강점: 시즌성, 즉시성, 구체적인 정보 제공",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas parade, Disney Christmas event, Toys Wondrous Christmas parade, Tokyo winter festival",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-parade,-Disney-Christmas-event,-Toys-Wondrous-Christmas-parade,-Tokyo-winter-festival",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20parade,%20Disney%20Christmas%20event,%20Toys%20Wondrous%20Christmas%20parade,%20Tokyo%20winter%20festival/"
+      }
+    },
+    {
+      "id": "plan_34ebb4a6",
+      "created_at": "2026-11-11T02:46:39.214779",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ミッキーとサンタが夢の共演。ディズニーシーのハーバーショー、クリスマスver.の見どころをお届け",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155295.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 덕후라면 절대 놓칠 수 없는 도쿄 디즈니랜드 연말 특별 이벤트!"
+      },
+      "content": {
+        "thumbnail_title": "🎄디즈니 크리스마스✨",
+        "cards": [
+          {
+            "title": "이벤트 기간",
+            "content": "도쿄 디즈니리조트에서 2023년 11월 11일부터 12월 25일까지 '디즈니 크리스마스' 한정 이벤트를 진행해요.",
+            "alt_text": "크리스마스 분위기의 디즈니랜드 성"
+          },
+          {
+            "title": "디즈니씨 특별공연",
+            "content": "도쿄 디즈니씨에서는 개막에 앞서 '디즈니 크리스마스 그레이팅' 특별 공연을 미리 공개했어요. 미키와 산타의 꿈같은 만남을 볼 수 있습니다.",
+            "alt_text": "미키마우스와 산타클로스가 함께 있는 모습"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "한정 기간 동안만 만날 수 있는 특별한 크리스마스 테마의 퍼레이드와 장식들이 가득할 예정입니다.",
+            "alt_text": "화려한 크리스마스 테마의 퍼레이드 차량"
+          },
+          {
+            "title": "디즈니랜드 & 씨",
+            "content": "도쿄 디즈니랜드와 도쿄 디즈니씨 두 곳 모두에서 크리스마스 분위기를 만끽할 수 있어요.",
+            "alt_text": "디즈니랜드와 디즈니씨 입구"
+          },
+          {
+            "title": "예매 꿀팁",
+            "content": "인기 이벤트인 만큼 티켓은 조기 매진될 수 있어요! 여행 계획이 있다면 서둘러 미리 예매하는 것을 추천합니다.",
+            "alt_text": "디즈니랜드 티켓 이미지"
+          }
+        ],
+        "caption": "✨도쿄 디즈니리조트에서 펼쳐지는 꿈같은 크리스마스!✨\n11월 11일부터 12월 25일까지 열리는 '디즈니 크리스마스' 이벤트를 놓치지 마세요!\n미키와 산타의 특별한 만남을 디즈니씨에서 직접 확인해 보세요.\n한정 기간 특별 공연과 화려한 장식으로 잊지 못할 추억을 만들어 보세요!\n\n지금 바로 일본 여행 계획에 추가하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#도쿄디즈니랜드",
+          "#도쿄디즈니씨",
+          "#디즈니크리스마스",
+          "#겨울여행",
+          "#일본가볼만한곳",
+          "#도쿄여행",
+          "#여행스타그램",
+          "#디즈니",
+          "#크리스마스",
+          "#일본축제",
+          "#플라잉재팬",
+          "#여행정보",
+          "#일본",
+          "#도쿄"
+        ],
+        "alt_texts": [
+          "크리스마스 분위기의 디즈니랜드 성",
+          "미키마우스와 산타클로스가 함께 있는 모습",
+          "화려한 크리스마스 테마의 퍼레이드 차량",
+          "디즈니랜드와 디즈니씨 입구",
+          "디즈니랜드 티켓 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니리조트 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 참여율 (댓글, 저장), 디즈니 관련 콘텐츠에 대한 관심도가 높음 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 기간 명시, 디즈니 팬들의 흥미 유발",
+      "image": {
+        "keyword": "Tokyo Disneyland Christmas Parade Mickey Santa",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-Parade-Mickey-Santa",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20Parade%20Mickey%20Santa/"
+      }
+    },
     {
       "id": "plan_afb5f590",
       "created_at": "2026-11-10T07:04:51.001889",
@@ -923,160 +1077,6 @@
         "keyword": "Japan train disruption, replacement bus service, transportation information",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-train-disruption,-replacement-bus-service,-transportation-information",
         "pexels_url": "https://www.pexels.com/search/Japan%20train%20disruption,%20replacement%20bus%20service,%20transportation%20information/"
-      }
-    },
-    {
-      "id": "plan_415671ab",
-      "created_at": "2026-11-07T05:47:23.910843",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京～羽田が直行18分「羽田空港アクセス線」トンネル工事いよいよスタート！　地中40mまで掘り進む巨大マシン「はるとん」の拠点を見てきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2154544.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄 여행 필수! 하네다 공항 접근성 대폭 개선 예정!"
-      },
-      "content": {
-        "thumbnail_title": "✈️하네다 직통 18분! 🚄",
-        "cards": [
-          {
-            "title": "신규 노선",
-            "content": "JR동일본이 '하네다 공항 액세스선' 시ールド 터널 공사를 시작했습니다. 도쿄 화물 터미널 옆에서 시작하여 하네다 공항까지 약 5.0km 구간입니다.",
-            "alt_text": "하네다 공항 액세스선 공사가 시작되는 시드 머신의 기점부입니다."
-          },
-          {
-            "title": "공사 구간",
-            "content": "도쿄 측 약 2.3km는 JR동일본이, 하네다 공항 측 약 2.4km는 국토교통성 간토지방정비국이 담당하여 건설됩니다.",
-            "alt_text": "하네다 공항 액세스선 공사 구간을 나타내는 지도입니다."
-          },
-          {
-            "title": "터널 방식",
-            "content": "시드 머신을 이용해 양쪽에서 터널을 굴착하며, 케이힌 운하 아래 지하 40m 지점에서 연결될 예정입니다.",
-            "alt_text": "지하 40m 깊이에서 터널이 연결되는 모습을 상상하는 일러스트입니다."
-          },
-          {
-            "title": "개통 예정",
-            "content": "2031년도 개통을 목표로 하고 있으며, 개통 시 도쿄에서 하네다 공항까지 소요 시간이 획기적으로 단축될 전망입니다.",
-            "alt_text": "2031년 개통 예정임을 알리는 캘린더 이미지입니다."
-          },
-          {
-            "title": "꿀팁",
-            "content": "개통 전까지는 기존 교통편을 이용해야 하지만, 2031년 이후 도쿄 근교 여행 시 하네다 공항 이용이 더욱 편리해질 것입니다. 미리 알아두면 좋아요!",
-            "alt_text": "여행 가방을 들고 공항으로 향하는 사람의 뒷모습입니다."
-          }
-        ],
-        "caption": "✨도쿄 여행 필수 정보 업데이트!✨\n\nJR동일본에서 '하네다 공항 액세스선' 건설을 공식 시작했습니다! 🚀\n\n✅ 도쿄~하네다 직통 18분 목표!\n✅ 2031년도 개통 예정!\n✅ 지하 40m에서 연결되는 최신 공법!\n\n개통하면 하네다 공항 이용이 훨씬 편리해지겠죠? ✈️ 도쿄 여행 계획에 참고하세요!\n\n#일본여행 #도쿄여행 #하네다공항 #JR패스 #일본교통 #도쿄신규노선 #여행정보 #플라잉재팬 #일본신축 #2031년개통 #도쿄근교 #여행준비 #일본스타그램 #해외여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#하네다공항",
-          "#일본교통",
-          "#도쿄신규노선",
-          "#여행정보",
-          "#일본스타그램",
-          "#해외여행",
-          "#일본",
-          "#도쿄",
-          "#여행",
-          "#일본철도",
-          "#공항",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "하네다 공항 액세스선 공사가 시작되는 시드 머신의 기점부입니다.",
-          "하네다 공항 액세스선 공사 구간을 나타내는 지도입니다.",
-          "지하 40m 깊이에서 터널이 연결되는 모습을 상상하는 일러스트입니다.",
-          "2031년 개통 예정임을 알리는 캘린더 이미지입니다.",
-          "여행 가방을 들고 공항으로 향하는 사람의 뒷모습입니다."
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 방문 예정인 한국인 여행객 / 최적 게시 시간: 평일 오전 9시~11시 / 기대 반응: '와 진짜 빨라지겠다!', '개통하면 꼭 이용해야지!' 등 기대감 표현 / 이 콘텐츠의 강점: 구체적인 개통 시점과 예상 소요 시간을 명시하여 실질적인 정보 제공",
-      "image": {
-        "keyword": "Haneda Airport access line construction, Tokyo transportation, Japan railway project, underground tunnel construction",
-        "unsplash_url": "https://unsplash.com/s/photos/Haneda-Airport-access-line-construction,-Tokyo-transportation,-Japan-railway-project,-underground-tunnel-construction",
-        "pexels_url": "https://www.pexels.com/search/Haneda%20Airport%20access%20line%20construction,%20Tokyo%20transportation,%20Japan%20railway%20project,%20underground%20tunnel%20construction/"
-      }
-    },
-    {
-      "id": "plan_8c5b1f94",
-      "created_at": "2026-11-07T05:47:17.018988",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】世界自然遺産登録5周年記念オリジナルフライトタグ、空港売店でも販売開始！　「シマの宝」を未来へつなぐ思いを込めて",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2153751.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 JAL 항공사, 지역 활성화 위한 특별 굿즈 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL, 특별한 굿즈 출시!",
-        "cards": [
-          {
-            "title": "JAL 지역 활성화",
-            "content": "일본항공(JAL)이 지역 활성화를 위해 'JALふるさとアンバサダー'와 'JALふるさと応援隊'를 운영하고 있습니다. 객실 승무원들이 직접 지역에 이주하거나 지역 활동에 참여하며 사업을 펼치고 있습니다.",
-            "alt_text": "JAL 승무원이 지역 주민과 함께 활동하는 모습"
-          },
-          {
-            "title": "오키나와 세계자연유산",
-            "content": "이번에 출시된 굿즈는 오키나와 세계자연유산 등록 5주년을 기념하는 특별한 의미를 담고 있습니다. '시마(섬)의 보물'을 미래로 연결하자는 메시지를 담았습니다.",
-            "alt_text": "오키나와 세계자연유산으로 지정된 지역의 아름다운 풍경"
-          },
-          {
-            "title": "오리지널 플라이트 태그",
-            "content": "기념으로 제작된 오리지널 플라이트 태그는 JAL의 지역 활성화 노력과 오키나와의 아름다움을 담아낸 특별한 기념품입니다.",
-            "alt_text": "JAL 오리지널 플라이트 태그 디자인 이미지"
-          },
-          {
-            "title": "공항 판매 시작!",
-            "content": "이 특별한 플라이트 태그는 현재 공항 판매점에서 만나볼 수 있습니다. JAL 이용객이라면 놓치지 마세요!",
-            "alt_text": "일본 공항 면세점 또는 기념품 판매점 내부 모습"
-          },
-          {
-            "title": "구매 팁",
-            "content": "여행 중 JAL 항공편을 이용하신다면, 공항 내 JAL 관련 판매점을 꼭 확인해보세요. 일본 지역의 매력을 담은 특별한 기념품을 득템할 기회입니다!",
-            "alt_text": "여행객이 공항에서 기념품을 고르는 모습"
-          }
-        ],
-        "caption": "✈️ 일본 JAL 항공사가 지역 활성화를 위해 특별한 굿즈를 출시했어요! \n\n✨ 오키나와 세계자연유산 등록 5주년을 기념하는 오리지널 플라이트 태그를 만나보세요. \n\n🌟 '시마(섬)의 보물'을 미래로 잇는 아름다운 메시지를 담았습니다. \n\n📍 현재 공항 판매점에서 구매 가능! \n\n#일본여행 #JAL #플라잉재팬 #오키나와 #세계자연유산 #굿즈 #여행기념품 #일본항공 #지역활성화 #일본쇼핑 #여행정보 #플라이트태그 #여행팁 #특별한선물 #일본여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#오키나와",
-          "#세계자연유산",
-          "#기념품",
-          "#여행굿즈",
-          "#일본쇼핑",
-          "#지역활성화",
-          "#특별한여행",
-          "#여행스타그램",
-          "#일본여행정보",
-          "#여행팁",
-          "#플라이트태그"
-        ],
-        "alt_texts": [
-          "JAL 승무원이 지역 주민과 함께 활동하는 모습",
-          "오키나와 세계자연유산으로 지정된 지역의 아름다운 풍경",
-          "JAL 오리지널 플라이트 태그 디자인 이미지",
-          "일본 공항 면세점 또는 기념품 판매점 내부 모습",
-          "여행객이 공항에서 기념품을 고르는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 오후 7시 ~ 9시 / 기대 반응: JAL 이용객 및 기념품에 관심 있는 여행객의 높은 관심 / 이 콘텐츠의 강점: JAL의 지역 활성화 노력이라는 신선한 정보와 실물 굿즈 정보를 결합하여 흥미 유발",
-      "image": {
-        "keyword": "JAL, Okinawa, World Heritage, Flight Tag, Airport Souvenir Shop",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Okinawa,-World-Heritage,-Flight-Tag,-Airport-Souvenir-Shop",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Okinawa,%20World%20Heritage,%20Flight%20Tag,%20Airport%20Souvenir%20Shop/"
       }
     }
   ]
