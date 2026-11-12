@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-11T05:57:15.602502",
+  "last_updated": "2026-11-12T03:48:33.268072",
   "plans": [
+    {
+      "id": "plan_84cd011c",
+      "created_at": "2026-11-12T03:48:31.267901",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "日本一のイルミネーションが16年ぶりに進化。長崎・ハウステンボスで、ヨーロッパのクリスマスを楽しんできた",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155683.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 최고의 일루미네이션이 16년 만에 진화! 나가사키 하우스텐보스에서 유럽 크리스마스를 만끽하세요! 🎄✨"
+      },
+      "content": {
+        "thumbnail_title": "하우스텐보스 🌟 역대급 일루미네이션!",
+        "cards": [
+          {
+            "title": "역대급 일루미네이션",
+            "content": "13년 연속 일본 1위를 자랑하는 하우스텐보스 일루미네이션이 16년 만에 '더 스타라이트 밀리언'으로 새롭게 태어났습니다. 11월 6일부터 역대 최대 규모로 펼쳐집니다.",
+            "alt_text": "화려하게 빛나는 하우스텐보스 일루미네이션 야경"
+          },
+          {
+            "title": "크리스마스 이벤트",
+            "content": "새로운 일루미네이션과 함께 역대 최대 규모의 크리스마스 이벤트 '유러피안 홀리 크리스마스'도 동시 개최됩니다. 유럽의 낭만적인 크리스마스를 경험할 수 있어요.",
+            "alt_text": "유럽풍 크리스마스 장식으로 꾸며진 하우스텐보스 거리"
+          },
+          {
+            "title": "방문 시기",
+            "content": "일루미네이션과 크리스마스 이벤트는 11월 6일부터 시작됩니다. 연말연시 특별한 추억을 만들고 싶다면 지금부터 계획해보세요!",
+            "alt_text": "크리스마스 시즌 하우스텐보스 이벤트 안내 배너"
+          },
+          {
+            "title": "주요 즐길거리",
+            "content": "화려한 빛의 향연과 함께 다양한 포토존, 라이브 공연, 크리스마스 마켓 등 풍성한 즐길 거리가 준비되어 있습니다. 온 가족이 함께 즐기기 좋아요.",
+            "alt_text": "하우스텐보스에서 즐길 수 있는 다양한 액티비티 모습"
+          },
+          {
+            "title": "꿀팁",
+            "content": "겨울 시즌 하우스텐보스는 춥기 때문에 따뜻한 옷차림은 필수! 야간 개장 시간과 특별 이벤트 정보를 미리 확인하면 더욱 알찬 여행이 가능합니다. 🧣",
+            "alt_text": "추운 날씨에 따뜻하게 입은 여행객이 하우스텐보스를 즐기는 모습"
+          }
+        ],
+        "caption": "일본 최고의 일루미네이션 명소, 나가사키 하우스텐보스가 16년 만에 역대급으로 진화했습니다! 🤩 11월 6일부터 시작되는 '더 스타라이트 밀리언'과 '유러피안 홀리 크리스마스' 이벤트로 잊지 못할 겨울 추억을 만들어보세요. 🎄✨ 낭만적인 유럽풍 크리스마스를 일본에서 만끽할 기회, 놓치지 마세요! ✈️\n\n#하우스텐보스 #나가사키여행 #일본크리스마스 #일루미네이션 #겨울여행 #일본여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#하우스텐보스",
+          "#나가사키",
+          "#일본일루미네이션",
+          "#일본크리스마스",
+          "#겨울여행",
+          "#일본여행준비",
+          "#일본여행꿀팁",
+          "#일본축제",
+          "#해외여행",
+          "#여행정보",
+          "#감성여행",
+          "#일본가볼만한곳",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "화려하게 빛나는 하우스텐보스 일루미네이션 야경",
+          "유럽풍 크리스마스 장식으로 꾸며진 하우스텐보스 거리",
+          "크리스마스 시즌 하우스텐보스 이벤트 안내 배너",
+          "하우스텐보스에서 즐길 수 있는 다양한 액티비티 모습",
+          "추운 날씨에 따뜻하게 입은 여행객이 하우스텐보스를 즐기는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 겨울 여행을 계획 중인 20-40대 커플 및 가족 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 여행 계획에 대한 질문 / 이 콘텐츠의 강점: 최신 이벤트 정보, 시각적 매력이 뛰어난 장소, 겨울 시즌에 특화된 콘텐츠",
+      "image": {
+        "keyword": "Huis Ten Bosch, illumination, Christmas, Nagasaki, Japan winter travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Huis-Ten-Bosch,-illumination,-Christmas,-Nagasaki,-Japan-winter-travel",
+        "pexels_url": "https://www.pexels.com/search/Huis%20Ten%20Bosch,%20illumination,%20Christmas,%20Nagasaki,%20Japan%20winter%20travel/"
+      }
+    },
+    {
+      "id": "plan_7a610564",
+      "created_at": "2026-11-12T03:48:26.269659",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "スプリング・ジャパン、新ロゴ・新塗装の機体をお披露目！　「日本の春を連れてきて、お客さまも笑顔にしてくれる」デザインに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155696.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "스프링 재팬, 새로운 얼굴로 한국 여행객 맞이 준비!"
+      },
+      "content": {
+        "thumbnail_title": "✈️스프링 재팬 신규 도색 공개!",
+        "cards": [
+          {
+            "title": "새 로고 공개",
+            "content": "스프링 재팬이 10월 26일 브랜드 리뉴얼과 함께 새로운 로고 디자인을 발표했습니다.",
+            "alt_text": "스프링 재팬 새 로고 디자인 발표 이미지"
+          },
+          {
+            "title": "신규 도색 공개",
+            "content": "11월 11일, 새 로고를 적용한 도색 기체가 언론에 공개되었습니다. '일본의 봄을 가져다주고 승객을 웃게 하는' 디자인입니다.",
+            "alt_text": "스프링 재팬 신규 도색 항공기 공개 이미지"
+          },
+          {
+            "title": "항공편 이용 팁",
+            "content": "스프링 재팬은 일본 국내선 및 국제선을 운항하며, 특히 한국-일본 노선에 강점을 가지고 있습니다.",
+            "alt_text": "스프링 재팬 항공기 운항 노선 안내 이미지"
+          },
+          {
+            "title": "여행 준비",
+            "content": "새로운 모습으로 단장한 스프링 재팬 항공편으로 더욱 즐거운 일본 여행을 계획해 보세요.",
+            "alt_text": "일본 여행 계획 중인 커플 이미지"
+          },
+          {
+            "title": "이용 시 참고",
+            "content": "새로운 도색 적용으로 실제 운항 항공기 정보는 출발 전 확인하는 것이 좋습니다. 공식 웹사이트를 참고하세요.",
+            "alt_text": "항공권 예매 화면 이미지"
+          }
+        ],
+        "caption": "✈️ 스프링 재팬, 새로운 로고와 도색 공개! ✨\n일본의 봄을 담은 듯한 아름다운 디자인으로 한국 여행객들을 맞이할 준비를 마쳤습니다.\n새로운 모습의 스프링 재팬과 함께 설레는 일본 여행을 떠나보세요! 🌸\n\n#스프링재팬 #일본항공 #항공사소식",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스프링재팬",
+          "#일본항공",
+          "#항공사",
+          "#일본가는길",
+          "#여행정보",
+          "#일본",
+          "#여행스타그램",
+          "#일본항공사",
+          "#새로운시작",
+          "#여행준비",
+          "#항공권",
+          "#일본여행꿀팁",
+          "#여행에미치다"
+        ],
+        "alt_texts": [
+          "스프링 재팬 새 로고 디자인 발표 이미지",
+          "스프링 재팬 신규 도색 항공기 공개 이미지",
+          "스프링 재팬 항공기 운항 노선 안내 이미지",
+          "일본 여행 계획 중인 커플 이미지",
+          "항공권 예매 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 화요일/목요일 19-21시 / 기대 반응: 신규 항공사 소식에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 한국 여행객에게 직접적인 영향을 주는 항공사 소식, 구체적인 날짜 정보 포함",
+      "image": {
+        "keyword": "Spring Japan new livery, Japanese airline, travel to Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Spring-Japan-new-livery,-Japanese-airline,-travel-to-Japan",
+        "pexels_url": "https://www.pexels.com/search/Spring%20Japan%20new%20livery,%20Japanese%20airline,%20travel%20to%20Japan/"
+      }
+    },
     {
       "id": "plan_cc46493b",
       "created_at": "2026-11-11T05:57:13.602350",
@@ -923,160 +1077,6 @@
         "keyword": "Winnie the Pooh Christmas tree Haneda Airport Terminal 1",
         "unsplash_url": "https://unsplash.com/s/photos/Winnie-the-Pooh-Christmas-tree-Haneda-Airport-Terminal-1",
         "pexels_url": "https://www.pexels.com/search/Winnie%20the%20Pooh%20Christmas%20tree%20Haneda%20Airport%20Terminal%201/"
-      }
-    },
-    {
-      "id": "plan_89942a69",
-      "created_at": "2026-11-08T05:50:30.513535",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "日本旅行、「タイムセール」を開催中　11月18日まで",
-        "url": "https://www.traicy.com/posts/20261107387171/",
-        "date": "Sat, 07 Nov 2026 08:16:46 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 상품 최대 50% 할인 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 여행 50% 타임세일 꿀딜!",
-        "cards": [
-          {
-            "title": "타임세일 기간",
-            "content": "일본 여행의 '기간 한정! 타임세일'이 11월 4일부터 11월 18일까지 진행돼요. 서둘러야 득템 가능!",
-            "alt_text": "시계와 달력 아이콘"
-          },
-          {
-            "title": "할인 대상",
-            "content": "숙박 플랜, JR/신칸센+호텔 팩, 비행기+호텔 팩까지 모두 포함됩니다. 알찬 여행 계획 세우세요!",
-            "alt_text": "항공권, 기차, 호텔 아이콘"
-          },
-          {
-            "title": "가격 혜택",
-            "content": "예시로 2인 1실 료칸이 최대 50% 할인된 가격으로 제공될 수 있어요. (정확한 할인율은 상품별 상이)",
-            "alt_text": "할인율 50% 스티커"
-          },
-          {
-            "title": "추천 숙소",
-            "content": "나라 지역 '피아자 호텔 나라' 등 다양한 지역의 호텔이 대상입니다. 여행지에 맞춰 최적의 숙소를 찾아보세요!",
-            "alt_text": "호텔 건물 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "파격적인 할인율로 인기 있는 상품은 조기 마감될 수 있으니, 관심 있는 상품은 미리 확인하고 예약하는 센스!",
-            "alt_text": "놓치면 후회! 문구"
-          }
-        ],
-        "caption": "일본 여행 준비 중이라면 주목! ✨\n일본 여행에서 '기간 한정 타임세일'을 11월 4일부터 11월 18일까지 진행해요!\n숙박, JR/신칸센+호텔, 항공+호텔 팩까지 최대 50% 할인 혜택을 누릴 수 있는 절호의 찬스! ✈️🚄\n지금 바로 특별한 가격으로 일본 여행을 계획해보세요! 🇯🇵\n\n✅ 예약 문의는 @flyingjapan DM 또는 프로필 링크 클릭!",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본여행특가",
-          "#일본호텔",
-          "#일본항공권",
-          "#일본교통",
-          "#JR패스",
-          "#신칸센",
-          "#일본숙소",
-          "#일본쇼핑",
-          "#일본자유여행",
-          "#일본여행꿀팁",
-          "#타임세일",
-          "#여행스타그램",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "시계와 달력 아이콘",
-          "항공권, 기차, 호텔 아이콘",
-          "할인율 50% 스티커",
-          "호텔 건물 이미지",
-          "놓치면 후회! 문구"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 5시-7시 (퇴근 후 및 저녁 식사 시간) / 기대 반응: 높은 클릭률 및 예약 문의 증가 / 이 콘텐츠의 강점: 파격적인 할인율과 명확한 기간 정보로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "Japan travel sale, limited time offer, discount, airplane, train, hotel, travel package",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-limited-time-offer,-discount,-airplane,-train,-hotel,-travel-package",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20limited%20time%20offer,%20discount,%20airplane,%20train,%20hotel,%20travel%20package/"
-      }
-    },
-    {
-      "id": "plan_af59a470",
-      "created_at": "2026-11-08T05:50:25.008490",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ピーチ、国内線カウンターのデザイン刷新が全14空港で完了　手荷物タグ発行機も拡大",
-        "url": "https://www.traicy.com/posts/20261107387189/",
-        "date": "Sat, 07 Nov 2026 10:15:59 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "피치 항공 이용 시 놓치지 말아야 할 최신 공항 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✈️피치 공항 카운터 싹 바뀜!",
-        "cards": [
-          {
-            "title": "전체 14개 공항",
-            "content": "피치 항공 국내선 체크인 카운터 디자인이 전 14개 공항에서 새롭게 단장했습니다. 2023년 11월 6일 미야자키 공항을 마지막으로 모든 공항의 리뉴얼이 완료되었습니다.",
-            "alt_text": "일본 국내선 공항 체크인 카운터 전경"
-          },
-          {
-            "title": "새로운 브랜딩",
-            "content": "이번 리뉴얼은 피치 항공 창립 15주년을 기념하는 브랜드 리뉴얼의 일환으로 진행되었습니다. 더욱 깔끔하고 통일된 디자인으로 공항 이용 경험을 향상시킬 예정입니다.",
-            "alt_text": "피치 항공 로고와 함께 디자인된 체크인 카운터"
-          },
-          {
-            "title": "수하물 태그 발급기",
-            "content": "새로운 카운터 디자인과 함께 수하물 태그 발급기도 확대 설치되었습니다. 더욱 편리하게 셀프 서비스를 이용할 수 있게 되었습니다.",
-            "alt_text": "셀프 수하물 태그 발급기 이미지"
-          },
-          {
-            "title": "일본 내 모든 노선",
-            "content": "이번 변경 사항은 피치 항공의 일본 국내선 모든 노선에 적용됩니다. 일본 내에서 피치 항공을 이용하신다면 달라진 공항 환경을 만나보실 수 있습니다.",
-            "alt_text": "일본 지도 위에 표시된 피치 항공 노선"
-          },
-          {
-            "title": "이용 꿀팁",
-            "content": "새롭게 단장된 카운터와 수하물 태그 발급기를 이용하시면 더욱 빠르고 편리하게 체크인을 완료하실 수 있습니다. 변경된 디자인을 미리 확인하고 여유로운 여행을 준비하세요!",
-            "alt_text": "여행 가방을 들고 체크인 카운터로 향하는 승객"
-          }
-        ],
-        "caption": "✈️ 일본 여행 필수 체크! 피치 항공 공항 카운터가 새롭게 바뀌었어요!\n\n창립 15주년을 맞아 피치 항공이 일본 전역 14개 공항의 국내선 체크인 카운터 디자인을 전면 리뉴얼했습니다.\n\n11월 6일 미야자키 공항을 마지막으로 모든 공항에서 새로운 모습으로 여러분을 맞이합니다.\n\n더욱 편리해진 수하물 태그 발급기도 확대 설치되었으니, 일본 내 피치 항공 이용 시 꼭 참고하세요!\n\n#플라잉재팬 #일본여행 #피치항공 #공항정보 #일본국내선",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#피치항공",
-          "#일본공항",
-          "#공항정보",
-          "#일본국내선",
-          "#여행꿀팁",
-          "#체크인",
-          "#수하물",
-          "#일본여행준비",
-          "#항공권",
-          "#여행스타그램",
-          "#일본",
-          "#여행",
-          "#꿀팁"
-        ],
-        "alt_texts": [
-          "일본 국내선 공항 체크인 카운터 전경",
-          "피치 항공 로고와 함께 디자인된 체크인 카운터",
-          "셀프 수하물 태그 발급기 이미지",
-          "일본 지도 위에 표시된 피치 항공 노선",
-          "여행 가방을 들고 체크인 카운터로 향하는 승객"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인, 특히 피치 항공 이용 예정자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오전 10-12시 / 기대 반응: 정보 습득, 여행 계획에 도움, 공감 / 이 콘텐츠의 강점: 최신 공항 이용 정보 제공, 구체적인 공항 및 서비스 정보 포함, 실질적인 도움 제공",
-      "image": {
-        "keyword": "Peach Airlines, airport check-in counter, Japan domestic flight, new design, baggage tag dispenser",
-        "unsplash_url": "https://unsplash.com/s/photos/Peach-Airlines,-airport-check-in-counter,-Japan-domestic-flight,-new-design,-baggage-tag-dispenser",
-        "pexels_url": "https://www.pexels.com/search/Peach%20Airlines,%20airport%20check-in%20counter,%20Japan%20domestic%20flight,%20new%20design,%20baggage%20tag%20dispenser/"
       }
     }
   ]
