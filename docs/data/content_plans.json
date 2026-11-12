@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-12T03:48:33.268072",
+  "last_updated": "2026-11-12T06:59:32.617751",
   "plans": [
+    {
+      "id": "plan_e6be0cfc",
+      "created_at": "2026-11-12T06:59:30.617590",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "WILLER、高速バスが最大48％オフ「ブラックフライデー」11月18日から。ディズニー/USJ/富士急のチケット・宿泊セットもお得に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155560.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 시 꼭 필요한 교통비 절약 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 버스 최대 48% 할인!✈️",
+        "cards": [
+          {
+            "title": "블랙프라이데이",
+            "content": "일본 최대 고속버스 예약 사이트 'WILLER TRAVEL'에서 블랙프라이데이 세일을 진행합니다. 11월 18일 12시부터 12월 2일 12시까지 진행됩니다.",
+            "alt_text": "블랙프라이데이 세일 배너"
+          },
+          {
+            "title": "할인율",
+            "content": "세일 기간 동안 고속버스를 최대 48% 할인된 가격으로 이용할 수 있습니다. 겨울철 일본 여행 계획 중이라면 놓치지 마세요!",
+            "alt_text": "할인율 표시"
+          },
+          {
+            "title": "티켓/숙박 세트",
+            "content": "인기 테마파크(디즈니, USJ, 후지큐) 티켓과 숙박이 포함된 세트 상품도 할인된 가격으로 만나볼 수 있습니다.",
+            "alt_text": "테마파크 티켓과 숙박 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "'WILLER TRAVEL' 웹사이트에서 직접 예약 가능하며, 한국어 지원은 되지 않으니 번역기 사용을 권장합니다.",
+            "alt_text": "웹사이트 예약 화면"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 일정을 미리 확정하고, 세일 시작 시간에 맞춰 예약하면 원하는 좌석과 상품을 더 좋은 가격으로 확보할 수 있습니다. 서둘러 예약하세요!",
+            "alt_text": "달력과 시계 이미지"
+          }
+        ],
+        "caption": "일본 겨울 여행 필수템! ✈️ WILLER TRAVEL 블랙프라이데이 세일 놓치지 마세요! ✈️\n\n최대 48% 할인된 가격으로 일본 고속버스를 이용하고, 인기 테마파크 티켓+숙박 세트도 알뜰하게 득템하세요!\n\n✅ 기간: 11월 18일 12시 ~ 12월 2일 12시\n\n지금 바로 'WILLER TRAVEL'에서 예약하고 알찬 일본 여행 준비하세요! 🇯🇵✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본교통",
+          "#일본버스",
+          "#WILLERTRAVEL",
+          "#블랙프라이데이",
+          "#일본할인",
+          "#일본여행꿀팁",
+          "#여행준비",
+          "#일본자유여행",
+          "#겨울여행",
+          "#일본",
+          "#할인정보",
+          "#가성비여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "블랙프라이데이 세일 배너",
+          "할인율 표시",
+          "테마파크 티켓과 숙박 이미지",
+          "웹사이트 예약 화면",
+          "달력과 시계 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 겨울 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 높은 관심 및 예약 문의 / 이 콘텐츠의 강점: 실질적인 교통비 절약 정보와 구체적인 할인율 제공",
+      "image": {
+        "keyword": "japan bus discount, black friday sale, winter travel japan, willer travel",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-bus-discount,-black-friday-sale,-winter-travel-japan,-willer-travel",
+        "pexels_url": "https://www.pexels.com/search/japan%20bus%20discount,%20black%20friday%20sale,%20winter%20travel%20japan,%20willer%20travel/"
+      }
+    },
+    {
+      "id": "plan_855fea75",
+      "created_at": "2026-11-12T06:59:25.707933",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大江戸温泉物語Premium 伊東ホテルニュー岡部、1泊2食が最大30％オフ。伊豆の名湯に浸かり、金目鯛＆あわびも食べ放題",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2155618.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 온천 숙소 최대 30% 할인! 겨울 여행 준비는 지금이 기회!"
+      },
+      "content": {
+        "thumbnail_title": "♨️겨울 일본 온천 30% 할인!",
+        "cards": [
+          {
+            "title": "겨울 특가 찬스!",
+            "content": "일본 라쿠텐 트래블에서 겨울 시즌 특별 할인 프로모션을 진행 중입니다. 11월 19일까지 진행되며, 대상 호텔 및 온천 숙소를 최대 30% 할인된 가격으로 예약할 수 있습니다.",
+            "alt_text": "일본 라쿠텐 트래블 겨울 할인 프로모션 배너"
+          },
+          {
+            "title": "이즈 명물 맛보기!",
+            "content": "이번 프로모션에 참여하는 '오에도 온천 이야기 프리미엄 이토 호텔 뉴 오카베'에서는 1박 2식 포함 상품을 최대 30% 할인합니다. 이즈의 온천과 함께 금눈돔, 전복 등 해산물 뷔페를 즐길 수 있습니다.",
+            "alt_text": "호텔 뷔페에서 제공되는 금눈돔과 전복 요리"
+          },
+          {
+            "title": "쿠폰 활용 꿀팁!",
+            "content": "여러 개의 쿠폰을 중복으로 사용하여 할인율을 높일 수 있습니다. 지금 바로 라쿠텐 트래블에서 제공되는 쿠폰을 확인하고 겨울 여행 계획을 세워보세요.",
+            "alt_text": "스마트폰으로 라쿠텐 트래블 앱에서 쿠폰을 확인하는 모습"
+          },
+          {
+            "title": "겨울 온천 여행!",
+            "content": "따뜻한 온천에서 피로를 풀고 맛있는 현지 음식을 즐길 수 있는 절호의 기회입니다. 11월 19일까지 진행되니 서둘러 예약하세요!",
+            "alt_text": "눈이 내리는 풍경 속에서 따뜻한 김이 피어나는 일본 온천"
+          },
+          {
+            "title": "예약 전 확인!",
+            "content": "할인율 및 적용 조건은 숙소별로 상이할 수 있습니다. 예약 전 반드시 프로모션 상세 내용을 꼼꼼히 확인하시기 바랍니다.",
+            "alt_text": "예약 페이지에서 할인율과 조건을 확인하는 화면"
+          }
+        ],
+        "caption": "♨️ 겨울 일본 여행, 온천 숙소 특가 찬스! ♨️\n\n일본 라쿠텐 트래블에서 겨울 시즌 특별 할인 프로모션이 시작되었어요! 11월 19일까지 진행되는 이번 행사에서는 대상 호텔 및 온천 숙소를 최대 30% 할인된 가격으로 만나볼 수 있답니다. 특히 '이토 호텔 뉴 오카베'에서는 1박 2식 포함 상품을 할인하며, 금눈돔 & 전복 뷔페까지 즐길 수 있다는 사실! 🤩\n\n여러 쿠폰을 중복 사용하면 할인율을 더 높일 수 있으니, 지금 바로 라쿠텐 트래블에서 겨울 온천 여행 계획을 세워보세요! ✈️\n\n#일본여행 #겨울여행 #온천여행 #일본숙소 #라쿠텐트래블 #할인정보 #이토온천 #겨울할인 #여행꿀팁 #해외여행 #일본자유여행 #여행스타그램 #플라잉재팬 #여행예약 #일본온천",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#겨울여행",
+          "#온천여행",
+          "#일본숙소",
+          "#라쿠텐트래블",
+          "#할인정보",
+          "#이토온천",
+          "#겨울할인",
+          "#여행꿀팁",
+          "#해외여행",
+          "#일본자유여행",
+          "#여행스타그램",
+          "#여행예약",
+          "#일본온천"
+        ],
+        "alt_texts": [
+          "일본 라쿠텐 트래블 겨울 할인 프로모션 배너",
+          "호텔 뷔페에서 제공되는 금눈돔과 전복 요리",
+          "스마트폰으로 라쿠텐 트래블 앱에서 쿠폰을 확인하는 모습",
+          "눈이 내리는 풍경 속에서 따뜻한 김이 피어나는 일본 온천",
+          "예약 페이지에서 할인율과 조건을 확인하는 화면"
+        ]
+      },
+      "marketer_analysis": "타겟: 겨울 시즌 일본 온천 여행을 계획하는 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6-8시, 주말 오후 1-3시 / 기대 반응: 높은 예약 전환율, 정보 공유 및 저장 / 이 콘텐츠의 강점: 즉각적인 할인 혜택 정보, 구체적인 숙소 및 프로모션 내용 제시",
+      "image": {
+        "keyword": "japan winter onsen hotel discount offer",
+        "unsplash_url": "https://unsplash.com/s/photos/japan-winter-onsen-hotel-discount-offer",
+        "pexels_url": "https://www.pexels.com/search/japan%20winter%20onsen%20hotel%20discount%20offer/"
+      }
+    },
     {
       "id": "plan_84cd011c",
       "created_at": "2026-11-12T03:48:31.267901",
@@ -923,160 +1077,6 @@
         "keyword": "JAL lounge ice cream, Japanese airport dessert, premium vanilla salt ice cream, travel souvenir Japan",
         "unsplash_url": "https://unsplash.com/s/photos/JAL-lounge-ice-cream,-Japanese-airport-dessert,-premium-vanilla-salt-ice-cream,-travel-souvenir-Japan",
         "pexels_url": "https://www.pexels.com/search/JAL%20lounge%20ice%20cream,%20Japanese%20airport%20dessert,%20premium%20vanilla%20salt%20ice%20cream,%20travel%20souvenir%20Japan/"
-      }
-    },
-    {
-      "id": "plan_e570d0f9",
-      "created_at": "2026-11-09T02:39:54.622141",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "セブンで今日発売「白菜リラックマ」と「牡蠣コリラックマ」ぬいぐるみポーチ。お鍋コンビがチャームに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2154468.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여운 리락쿠마 굿즈로 일본 편의점 쇼핑 욕구 UP! 💖"
-      },
-      "content": {
-        "thumbnail_title": "일본 세븐일레븐 🚨 신상!",
-        "cards": [
-          {
-            "title": "오늘의 신상!",
-            "content": "11월 9일, 일본 세븐일레븐에서 '백채 리락쿠마'와 '굴 코리락쿠마' ぬいぐるみ 파우치가 출시되었어요. 🐻",
-            "alt_text": "세븐일레븐 진열대에 놓인 귀여운 리락쿠마와 코리락쿠마 ぬいぐるみ 파우치 사진"
-          },
-          {
-            "title": "가격 정보",
-            "content": "각 3,300엔에 구매 가능해요. 💰 귀여운 냄비 컨셉의 참 장식이 포인트랍니다!",
-            "alt_text": "리락쿠마 ぬいぐるみ 파우치에 달린 굴 모양 참 장식 클로즈업 사진"
-          },
-          {
-            "title": "일본 편의점 쇼핑",
-            "content": "일본 여행 중 세븐일레븐에 들를 예정이라면 놓치지 마세요! 🛍️ 한정판 굿즈는 빠르게 품절될 수 있어요.",
-            "alt_text": "일본 세븐일레븐 매장 내부 전경 사진"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "여행 기념품으로도, 나를 위한 선물로도 딱! 🎁 귀여운 굿즈로 여행의 즐거움을 더해보세요.",
-            "alt_text": "리락쿠마 ぬいぐるみ 파우치를 들고 환하게 웃고 있는 여성 사진"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기 상품은 오픈 시간에 맞춰 방문하는 것을 추천해요. 🏃‍♀️ 세븐일레븐 앱을 통해 재고 확인도 가능할 수 있어요.",
-            "alt_text": "세븐일레븐 로고와 함께 '인기 상품'이라는 문구가 적힌 이미지"
-          }
-        ],
-        "caption": "일본 세븐일레븐에 귀여운 신상이 찾아왔어요! 🐻💖 11월 9일 출시된 '백채 리락쿠마'와 '굴 코리락쿠마' ぬいぐるみ 파우치! 각 3,300엔으로 여행 기념품으로도 딱이에요. 🛍️\n\n일본 여행 중 세븐일레븐 방문 예정이라면 꼭 득템하세요! 🎁\n\n#일본세븐일레븐 #리락쿠마 #코리락쿠마 #일본쇼핑 #편의점신상 #일본여행꿀팁 #여행스타그램 #플라잉재팬 #세븐일레븐한정판 #귀여운굿즈 #일본여행준비 #여행기념품 #인기템 #쇼핑스타그램 #일본쇼핑리스트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본세븐일레븐",
-          "#리락쿠마",
-          "#코리락쿠마",
-          "#일본쇼핑",
-          "#편의점신상",
-          "#일본여행꿀팁",
-          "#여행스타그램",
-          "#세븐일레븐한정판",
-          "#귀여운굿즈",
-          "#일본여행준비",
-          "#여행기념품",
-          "#인기템",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "세븐일레븐 진열대에 놓인 귀여운 리락쿠마와 코리락쿠마 ぬいぐるみ 파우치 사진",
-          "리락쿠마 ぬいぐるみ 파우치에 달린 굴 모양 참 장식 클로즈업 사진",
-          "일본 세븐일레븐 매장 내부 전경 사진",
-          "리락쿠마 ぬいぐるみ 파우치를 들고 환하게 웃고 있는 여성 사진",
-          "세븐일레븐 로고와 함께 '인기 상품'이라는 문구가 적힌 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 오후 7시 - 9시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 최신 출시 정보와 귀여운 캐릭터를 활용한 높은 주목도",
-      "image": {
-        "keyword": "Rilakkuma Korilakkuma Seven Eleven Japan plush pouch limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Rilakkuma-Korilakkuma-Seven-Eleven-Japan-plush-pouch-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Rilakkuma%20Korilakkuma%20Seven%20Eleven%20Japan%20plush%20pouch%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_27db0bb9",
-      "created_at": "2026-11-09T02:39:49.234006",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "羽田空港1タミに「くまのプーさん」クリスマスツリー登場。原作デビュー100周年をお祝い",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2154519.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행의 시작, 하네다 공항에서 만나는 특별한 크리스마스!"
-      },
-      "content": {
-        "thumbnail_title": "🎄하네다 공항 1터미널 🎄",
-        "cards": [
-          {
-            "title": "푸우 크리스마스",
-            "content": "디즈니 스토어에서 준비한 '곰돌이 푸' 원작 데뷔 100주년 기념 크리스마스 트리! 2023년 12월 25일까지 만날 수 있어요.",
-            "alt_text": "하네다 공항 1터미널 2층 마켓플레이스에 설치된 곰돌이 푸 크리스마스 트리"
-          },
-          {
-            "title": "장소 확인",
-            "content": "트리는 하네다 공항 제1터미널 2층 마켓플레이스에 설치되어 있어요. 입국/출국 전 인증샷 필수!",
-            "alt_text": "하네다 공항 1터미널 2층 마켓플레이스 안내 표지판"
-          },
-          {
-            "title": "특별한 추억",
-            "content": "겨울 시즌 한정으로 운영되는 특별한 포토존! 일본 여행의 설렘을 더해줄 거예요.",
-            "alt_text": "크리스마스 트리 앞에서 사진 찍는 여행객들"
-          },
-          {
-            "title": "푸우 굿즈?",
-            "content": "디즈니 스토어 팝업이 함께 진행될 수도 있으니, 푸우 팬이라면 놓치지 마세요!",
-            "alt_text": "다양한 곰돌이 푸 캐릭터 상품 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "사람이 많을 수 있으니, 여유로운 시간대에 방문하는 것을 추천해요. 공항 이동 시 시간 계산 넉넉하게 하세요!",
-            "alt_text": "크리스마스 트리 앞에서 여유롭게 사진 찍는 모습"
-          }
-        ],
-        "caption": "✈️ 일본 여행 시작은 하네다 공항에서! ✈️\n\n2023년 12월 25일까지 하네다 공항 제1터미널 2층 마켓플레이스에서 '곰돌이 푸' 원작 데뷔 100주년 기념 크리스마스 트리를 만날 수 있어요! 🎄\n\n여행의 설렘을 더할 특별한 포토존, 놓치지 마세요! 📸\n\n#일본여행 #하네다공항 #크리스마스트리 #곰돌이푸 #겨울여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하네다공항",
-          "#도쿄여행",
-          "#크리스마스",
-          "#곰돌이푸",
-          "#겨울여행",
-          "#일본크리스마스",
-          "#여행정보",
-          "#공항스타그램",
-          "#여행꿀팁",
-          "#일본자유여행",
-          "#도쿄",
-          "#연말",
-          "#인증샷"
-        ],
-        "alt_texts": [
-          "하네다 공항 1터미널 2층 마켓플레이스에 설치된 곰돌이 푸 크리스마스 트리",
-          "하네다 공항 1터미널 2층 마켓플레이스 안내 표지판",
-          "크리스마스 트리 앞에서 사진 찍는 여행객들",
-          "다양한 곰돌이 푸 캐릭터 상품 이미지",
-          "크리스마스 트리 앞에서 여유롭게 사진 찍는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 도쿄 하네다 공항으로 입국하는 한국인 여행자 / 최적 게시 시간: 오후 7시-9시 (퇴근 후 인스타그램 탐색 시간) / 기대 반응: 공항 도착 전/후 방문 인증샷 공유, 여행 설렘 증폭 / 이 콘텐츠의 강점: 시기성 높은 이벤트 정보, 한국인이 좋아하는 캐릭터 활용, 공항이라는 특정 장소 정보 제공",
-      "image": {
-        "keyword": "Winnie the Pooh Christmas tree Haneda Airport Terminal 1",
-        "unsplash_url": "https://unsplash.com/s/photos/Winnie-the-Pooh-Christmas-tree-Haneda-Airport-Terminal-1",
-        "pexels_url": "https://www.pexels.com/search/Winnie%20the%20Pooh%20Christmas%20tree%20Haneda%20Airport%20Terminal%201/"
       }
     }
   ]
