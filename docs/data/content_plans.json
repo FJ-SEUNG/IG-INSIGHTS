@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-12T06:59:32.617751",
+  "last_updated": "2026-11-13T03:25:09.237011",
   "plans": [
+    {
+      "id": "plan_3e76b39c",
+      "created_at": "2026-11-13T03:25:07.236842",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ユニクロ、感謝祭初日に「木村屋總本店のあんぱん」店頭で先着配布。冬のお出かけアイテム特価の7日間はじまる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156087.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "겨울 일본 여행 필수템 득템 찬스! 유니클로 감사제 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "유니클로 감사제 🎁",
+        "cards": [
+          {
+            "title": "감사제 기간",
+            "content": "유니클로 감사제가 11월 20일부터 26일까지 7일간 전국 매장 및 온라인 스토어에서 진행됩니다. 겨울철 필수 의류를 특별 할인가로 만나보세요!",
+            "alt_text": "유니클로 감사제 행사 기간 안내"
+          },
+          {
+            "title": "안성맞춤 혜택",
+            "content": "겨울철 따뜻하게 보낼 수 있는 다양한 아우터, 니트, 플리스 등 의류를 파격적인 할인가로 구매할 수 있는 절호의 기회입니다.",
+            "alt_text": "겨울 의류 할인 혜택 이미지"
+          },
+          {
+            "title": "선착순 선물",
+            "content": "감사제 첫날인 11월 20일에는 매장에서 선착순으로 '키무라야 총본점의 앙팡'을 증정하는 이벤트도 진행됩니다. 따뜻한 앙팡과 함께 쇼핑을 즐겨보세요!",
+            "alt_text": "키무라야 총본점 앙팡 이미지"
+          },
+          {
+            "title": "온라인 스토어",
+            "content": "매장 방문이 어렵다면 유니클로 온라인 스토어를 통해 편리하게 쇼핑하실 수 있습니다. 7일간의 감사제를 놓치지 마세요!",
+            "alt_text": "유니클로 온라인 스토어 접속 안내"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 상품이 있다면 행사 시작 시간에 맞춰 방문하거나 온라인 스토어를 미리 확인하는 것이 좋습니다.",
+            "alt_text": "쇼핑 팁 안내 이미지"
+          }
+        ],
+        "caption": "🇯🇵 겨울 일본 여행 필수템 득템 찬스! 🇯🇵\n\n유니클로 감사제가 11월 20일부터 26일까지 7일간 전국 매장 및 온라인 스토어에서 진행됩니다! 🥳\n\n따뜻한 겨울 의류를 특별 할인가로 만날 수 있는 절호의 기회! 첫날 선착순 앙팡 증정 이벤트도 놓치지 마세요 🎁\n\n이번 감사제 기간, 미리 준비해서 알찬 쇼핑 즐기세요! ✨\n\n#일본여행 #플라잉재팬 #유니클로 #유니클로감사제 #일본쇼핑 #겨울여행 #쇼핑찬스 #할인정보 #일본직구 #일본생활 #도쿄여행 #오사카여행 #여행꿀팁 #득템찬스 #겨울필수템",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#유니클로감사제",
+          "#일본쇼핑",
+          "#겨울여행",
+          "#쇼핑찬스",
+          "#할인정보",
+          "#일본직구",
+          "#일본생활",
+          "#도쿄여행",
+          "#오사카여행",
+          "#여행꿀팁",
+          "#득템찬스",
+          "#겨울필수템"
+        ],
+        "alt_texts": [
+          "유니클로 감사제 행사 기간 안내",
+          "겨울 의류 할인 혜택 이미지",
+          "키무라야 총본점 앙팡 이미지",
+          "유니클로 온라인 스토어 접속 안내",
+          "쇼핑 팁 안내 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 구매 의욕 고취 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 실질적인 쇼핑 팁 제공",
+      "image": {
+        "keyword": "Uniqlo, Japan, Winter Sale, Limited Offer, Bread, Shopping",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Japan,-Winter-Sale,-Limited-Offer,-Bread,-Shopping",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Japan,%20Winter%20Sale,%20Limited%20Offer,%20Bread,%20Shopping/"
+      }
+    },
+    {
+      "id": "plan_e5d233e8",
+      "created_at": "2026-11-13T03:25:01.439106",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【週末駅弁】東京駅「秋のおべんとう～栗おこわ」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2155876.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "가을 시즌 한정! 도쿄역에서 만나는 특별한 일본식 도시락 '추억의 밤' 🌰"
+      },
+      "content": {
+        "thumbnail_title": "🍁도쿄역 가을 한정 도시락🍁",
+        "cards": [
+          {
+            "title": "가을 한정 도시락",
+            "content": "일본의 유명 백화점 '니혼바시 다이마스'에서 선보이는 가을 한정 도시락 '추억의 밤 ~밤 오코와~'를 소개합니다. 10월부터 판매되는 이 도시락은 가을의 정취를 담은 특별한 메뉴입니다.",
+            "alt_text": "밤 오코와 도시락의 먹음직스러운 모습"
+          },
+          {
+            "title": "주요 메뉴",
+            "content": "도시락 안에는 가을 제철 식재료인 밤과 은행을 활용한 밥과 다양한 곁들임 반찬이 정갈하게 담겨 있습니다. 짙은 밤의 풍미와 은은한 은행의 향이 가을을 느끼게 해줍니다.",
+            "alt_text": "도시락 속 밤과 은행이 돋보이는 모습"
+          },
+          {
+            "title": "패키지 디자인",
+            "content": "도시락 패키지에는 밤과 은행을 형상화한 감성적인 일러스트가 그려져 있어, 개봉 전부터 기대감을 높입니다. 선물용으로도 손색없는 아름다운 디자인입니다.",
+            "alt_text": "가을 일러스트가 그려진 도시락 패키지"
+          },
+          {
+            "title": "판매 장소",
+            "content": "이 특별한 가을 한정 도시락은 도쿄역의 '에키벤' 코너에서 구매하실 수 있습니다. 여행 중 간단하면서도 특별한 식사를 즐기고 싶다면 놓치지 마세요.",
+            "alt_text": "도쿄역 에키벤 판매 코너 전경"
+          },
+          {
+            "title": "꿀팁",
+            "content": "가을 시즌에 도쿄역을 방문하신다면, 이 한정 도시락을 꼭 맛보세요. 기간 한정으로 판매되니 서둘러 구매하시는 것을 추천합니다. 여행의 즐거움을 더해줄 특별한 경험이 될 것입니다.",
+            "alt_text": "가을 분위기가 물씬 풍기는 도시락"
+          }
+        ],
+        "caption": "🇯🇵 도쿄역에서 만나는 가을의 맛! 🌰\n일본의 유명 백화점 '니혼바시 다이마스'가 선보이는 가을 한정 도시락 '추억의 밤 ~밤 오코와~'를 소개합니다.\n밤과 은행 등 제철 식재료로 가득 채워진 특별한 메뉴를 도쿄역에서 만나보세요!\n가을 시즌 한정 판매이니, 도쿄 여행 중이라면 꼭 맛보세요! 🍁\n\n#일본여행 #도쿄여행 #도쿄역 #에키벤 #가을한정 #일본음식 #먹스타그램",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄역",
+          "#에키벤",
+          "#일본도시락",
+          "#가을여행",
+          "#가을만끽",
+          "#일본음식",
+          "#먹스타그램",
+          "#여행스타그램",
+          "#일본맛집",
+          "#일본가볼만한곳",
+          "#한정메뉴",
+          "#도쿄맛집"
+        ],
+        "alt_texts": [
+          "밤 오코와 도시락의 먹음직스러운 모습",
+          "도시락 속 밤과 은행이 돋보이는 모습",
+          "가을 일러스트가 그려진 도시락 패키지",
+          "도쿄역 에키벤 판매 코너 전경",
+          "가을 분위기가 물씬 풍기는 도시락"
+        ]
+      },
+      "marketer_analysis": "타겟: 가을 시즌 일본 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 3시 ~ 5시 (점심 식사 후 또는 저녁 식사 계획 시) / 기대 반응: 높은 관심과 구매 의사, '꼭 먹어봐야 할 음식'으로 인식 / 이 콘텐츠의 강점: 시즌 한정, 지역 명소(도쿄역) 연계, 구체적인 메뉴 정보 제공",
+      "image": {
+        "keyword": "Tokyo Station autumn bento, Japanese chestnut rice bento, limited edition bento, seasonal Japanese food, delicious bento",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-autumn-bento,-Japanese-chestnut-rice-bento,-limited-edition-bento,-seasonal-Japanese-food,-delicious-bento",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20autumn%20bento,%20Japanese%20chestnut%20rice%20bento,%20limited%20edition%20bento,%20seasonal%20Japanese%20food,%20delicious%20bento/"
+      }
+    },
     {
       "id": "plan_e6be0cfc",
       "created_at": "2026-11-12T06:59:30.617590",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disneyland Christmas, Ril Ril Rin goods, Christmas event Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas,-Ril-Ril-Rin-goods,-Christmas-event-Japan",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas,%20Ril%20Ril%20Rin%20goods,%20Christmas%20event%20Japan/"
-      }
-    },
-    {
-      "id": "plan_1c9de2a4",
-      "created_at": "2026-11-09T06:03:09.624596",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "楽天トラベル、「九州ふっこう応援割」を11月9日午前10時販売再開　宮崎県対象",
-        "url": "https://www.traicy.com/posts/20261108386998/",
-        "date": "Sun, 08 Nov 2026 03:25:07 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 지원금으로 알뜰하게 규슈 여행 떠나요!"
-      },
-      "content": {
-        "thumbnail_title": "✨규슈 여행 지원금 재개!✨",
-        "cards": [
-          {
-            "title": "九州ふっこう応援割",
-            "content": "일본 정부가 지원하는 '규슈 부흥 응원 할인'이 11월 9일 오전 10시부터 재개됩니다.",
-            "alt_text": "규슈 지역 지도와 할인 혜택을 상징하는 이미지"
-          },
-          {
-            "title": "대상 지역",
-            "content": "이번 할인 재개는 특히 '미야자키현'을 대상으로 합니다. 미야자키 여행 계획 중이라면 놓치지 마세요!",
-            "alt_text": "미야자키현의 유명 관광지 이미지"
-          },
-          {
-            "title": "포함 상품",
-            "content": "숙박 단독 예약 상품과 항공권+숙박이 결합된 '다이내믹 패키지' 상품 모두 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "항공권과 호텔을 묶은 패키지 상품 이미지"
-          },
-          {
-            "title": "예약 시점",
-            "content": "판매는 11월 9일 오전 10시부터 시작되니, 원하는 날짜와 상품을 미리 알아두는 것이 좋습니다.",
-            "alt_text": "달력에 11월 9일이 표시된 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인 폭이 크니, 료칸이나 고급 호텔 숙박 시에도 큰 절약 효과를 기대할 수 있습니다. 서둘러 예약하세요!",
-            "alt_text": "할인율을 나타내는 퍼센트 기호 이미지"
-          }
-        ],
-        "caption": "🇯🇵 규슈 여행 꿈꾸셨다면 주목! 🇯🇵\n\n일본 '규슈 부흥 응원 할인'이 11월 9일 오전 10시부터 미야자키현을 중심으로 다시 시작됩니다! ✈️\n\n숙박 단품은 물론, 항공권+숙박 다이내믹 패키지까지 모두 할인 대상! 🤩\n\n알뜰하게 규슈 여행을 즐길 절호의 찬스, 지금 바로 준비해보세요! ✍️",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#규슈여행",
-          "#미야자키",
-          "#규슈부흥응원할인",
-          "#일본여행꿀팁",
-          "#일본숙소",
-          "#일본항공권",
-          "#여행지원금",
-          "#가성비여행",
-          "#일본할인",
-          "#여행정보",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "규슈 지역 지도와 할인 혜택을 상징하는 이미지",
-          "미야자키현의 유명 관광지 이미지",
-          "항공권과 호텔을 묶은 패키지 상품 이미지",
-          "달력에 11월 9일이 표시된 이미지",
-          "할인율을 나타내는 퍼센트 기호 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 규슈 지역 여행을 계획 중인 2040 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공으로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Kyushu travel discount, Japan tourism support, Miyazaki travel package, Rakuten Travel deal",
-        "unsplash_url": "https://unsplash.com/s/photos/Kyushu-travel-discount,-Japan-tourism-support,-Miyazaki-travel-package,-Rakuten-Travel-deal",
-        "pexels_url": "https://www.pexels.com/search/Kyushu%20travel%20discount,%20Japan%20tourism%20support,%20Miyazaki%20travel%20package,%20Rakuten%20Travel%20deal/"
-      }
-    },
-    {
-      "id": "plan_2a2f6cab",
-      "created_at": "2026-11-09T06:03:02.838242",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALUX、国際線ファーストクラスラウンジ提供の塩バニラアイスを一般発売",
-        "url": "https://www.traicy.com/posts/20261108386807/",
-        "date": "Sun, 08 Nov 2026 12:48:06 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 공항 라운지 한정 메뉴를 이제 집에서도 즐길 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 라운지 아이스크림, 드디어 출시!🍦",
-        "cards": [
-          {
-            "title": "JAL 라운지 아이스크림",
-            "content": "일본항공(JAL) 국제선 퍼스트 클래스 라운지에서 제공되던 'JAL SELECTION 염바닐라 아이스크림'이 드디어 일반 판매됩니다. 3월 1일부터 5월 31일까지 한정 제공되었던 인기 메뉴를 다시 만날 기회입니다.",
-            "alt_text": "JAL 국제선 퍼스트 클래스 라운지 내부 사진"
-          },
-          {
-            "title": "출시일 및 판매처",
-            "content": "JALUX에서 11월 2일부터 'JAL SELECTION 염바닐라 아이스크림'을 정식 출시했습니다. 일본 현지 편의점 및 소매점에서 구매 가능합니다.",
-            "alt_text": "아이스크림 판매점 진열대 사진"
-          },
-          {
-            "title": "특별한 맛",
-            "content": "신선한 국산 우유를 사용한 부드러운 바닐라 맛에 짭짤한 소금의 조화가 일품입니다. 라운지에서만 맛볼 수 있었던 프리미엄 디저트를 경험해 보세요.",
-            "alt_text": "아이스크림 클로즈업 사진"
-          },
-          {
-            "title": "여행의 추억",
-            "content": "일본 여행 중 JAL 퍼스트 클래스 라운지를 이용했던 분들에게는 특별한 추억을 되살릴 수 있는 기회입니다. 귀국 후에도 그 맛을 다시 느껴보세요.",
-            "alt_text": "비행기 창밖 풍경 사진"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 여행 계획 중이시라면, 여행 기념품으로도 손색없는 이 아이스크림을 꼭 맛보세요! 현지에서만 구매 가능하니 놓치지 마세요.",
-            "alt_text": "쇼핑백에 담긴 아이스크림 사진"
-          }
-        ],
-        "caption": "✈️JAL 퍼스트 클래스 라운지 인기 메뉴, 'JAL SELECTION 염바닐라 아이스크림'이 드디어 일반 판매 시작!🍦\n\n3월 1일부터 5월 31일까지 라운지에서만 맛볼 수 있었던 프리미엄 디저트를 이제 집에서도 즐길 수 있어요.\n\n신선한 국산 우유와 소금의 완벽한 조화! 😋\n\n일본 여행의 특별한 추억을 다시 한번, 혹은 새로운 기념품으로 어떠세요?\n\n#일본여행 #플라잉재팬 #JAL #JALUX #라운지아이스크림 #염바닐라 #일본디저트 #여행기념품 #일본쇼핑 #공항정보 #일본항공 #퍼스트클래스 #한정판 #이색체험 #여행꿀팁",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#JALUX",
-          "#라운지아이스크림",
-          "#염바닐라",
-          "#일본디저트",
-          "#여행기념품",
-          "#일본쇼핑",
-          "#공항정보",
-          "#일본항공",
-          "#퍼스트클래스",
-          "#한정판",
-          "#이색체험",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "JAL 국제선 퍼스트 클래스 라운지 내부 사진",
-          "아이스크림 판매점 진열대 사진",
-          "아이스크림 클로즈업 사진",
-          "비행기 창밖 풍경 사진",
-          "쇼핑백에 담긴 아이스크림 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 다녀온 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 7시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 구매 욕구 자극, 라운지 경험 공유, 여행 추억 소환 / 이 콘텐츠의 강점: 일본 현지에서만 경험 가능했던 특별한 제품의 일반 판매 소식으로 희소성과 정보성을 갖춤",
-      "image": {
-        "keyword": "JAL lounge ice cream, Japanese airport dessert, premium vanilla salt ice cream, travel souvenir Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL-lounge-ice-cream,-Japanese-airport-dessert,-premium-vanilla-salt-ice-cream,-travel-souvenir-Japan",
-        "pexels_url": "https://www.pexels.com/search/JAL%20lounge%20ice%20cream,%20Japanese%20airport%20dessert,%20premium%20vanilla%20salt%20ice%20cream,%20travel%20souvenir%20Japan/"
       }
     }
   ]
