@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-14T03:15:03.951639",
+  "last_updated": "2026-11-14T06:05:18.753415",
   "plans": [
+    {
+      "id": "plan_ec5ded24",
+      "created_at": "2026-11-14T06:05:16.753301",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALunLun BLACK FLYDAY 2026開催。航空券＋宿泊が最大5万円引き、JAL Mallでマイルが最大13倍になるキャンペーンなど",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156317.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 필수템! JAL 역대급 할인 찬스 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 역대급 할인 찬스!",
+        "cards": [
+          {
+            "title": "블랙 프라이데이",
+            "content": "JAL이 2026년 11월 17일부터 30일까지 'JALunLun BLACK FLYDAY 2026'을 개최합니다. 항공권, 숙박, 쇼핑 등 다양한 상품을 최대 5만 엔 할인된 가격으로 만나보세요.",
+            "alt_text": "JAL 블랙 프라이데이 행사 안내 이미지"
+          },
+          {
+            "title": "마일리지 혜택",
+            "content": "JAL Mall에서는 행사 기간 동안 마일리지가 최대 13배까지 적립되는 특별 프로모션을 진행합니다. 쇼핑도 하고 마일리지도 쌓는 절호의 기회입니다.",
+            "alt_text": "JAL Mall 마일리지 적립 혜택 안내 이미지"
+          },
+          {
+            "title": "할인 대상",
+            "content": "항공권과 호텔을 묶은 패키지 상품을 포함하여 JAL에서 제공하는 다양한 여행 상품에 할인이 적용됩니다. 일본 여행 계획 중이라면 지금이 기회입니다.",
+            "alt_text": "JAL 할인 적용 상품 안내 이미지"
+          },
+          {
+            "title": "이벤트 기간",
+            "content": "놓치면 후회할 역대급 할인 행사는 2026년 11월 17일부터 30일까지 진행됩니다. 정확한 일정을 확인하시고 미리 준비하세요.",
+            "alt_text": "JAL 할인 행사 기간 안내 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 상품은 조기 마감될 수 있으니, 행사 시작일에 맞춰 JAL 공식 홈페이지를 방문하여 원하는 상품을 빠르게 득템하세요!",
+            "alt_text": "JAL 할인 상품 구매 팁 안내 이미지"
+          }
+        ],
+        "caption": "✈️JAL 블랙 프라이데이 역대급 할인 찬스!✈️\n\n일본 여행 준비 중이라면 주목! JAL에서 2026년 11월 17일부터 30일까지 'JALunLun BLACK FLYDAY 2026'을 개최합니다.\n\n✅ 항공권 + 숙박 최대 5만 엔 할인!\n✅ JAL Mall 마일리지 최대 13배 적립!\n\n지금 바로 JAL 공식 홈페이지에서 혜택을 확인하고 알찬 일본 여행 계획 세우세요! 🇯🇵\n\n#JAL #일본여행 #블랙프라이데이 #항공권할인 #숙박할인 #마일리지 #일본쇼핑 #여행스타그램 #일본항공권 #해외여행 #여행꿀팁 #플라잉재팬 #여행정보 #할인정보 #2026년여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#블랙프라이데이",
+          "#일본항공권",
+          "#항공권할인",
+          "#숙박할인",
+          "#JALMall",
+          "#마일리지",
+          "#일본쇼핑",
+          "#여행스타그램",
+          "#여행꿀팁",
+          "#해외여행",
+          "#일본정보",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "JAL 블랙 프라이데이 행사 안내 이미지",
+          "JAL Mall 마일리지 적립 혜택 안내 이미지",
+          "JAL 할인 적용 상품 안내 이미지",
+          "JAL 할인 행사 기간 안내 이미지",
+          "JAL 할인 상품 구매 팁 안내 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 높은 클릭률 및 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공, 항공사 공식 프로모션 활용",
+      "image": {
+        "keyword": "JAL, Black Friday, Japan travel, flight discount, hotel package, mileage campaign",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Black-Friday,-Japan-travel,-flight-discount,-hotel-package,-mileage-campaign",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Black%20Friday,%20Japan%20travel,%20flight%20discount,%20hotel%20package,%20mileage%20campaign/"
+      }
+    },
+    {
+      "id": "plan_02cdfed9",
+      "created_at": "2026-11-14T06:05:11.703617",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "新幹線のぞみ、年末年始「お子さま連れ車両」設定。12月25日～1月5日に過去最多140本",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156402.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연말연시 일본 여행 시 아이 동반 가족에게 꼭 필요한 신칸센 정보!"
+      },
+      "content": {
+        "thumbnail_title": "✨아이 동반 신칸센 꿀팁✨",
+        "cards": [
+          {
+            "title": "어린이 동반석",
+            "content": "JR 도카이는 연말연시 도카이도 신칸센 '노조미' 호에 '어린이 동반석'을 운영합니다. 2024년 12월 25일부터 2025년 1월 5일까지 이용 가능합니다.",
+            "alt_text": "신칸센 좌석에 아이와 부모가 함께 앉아 있는 모습"
+          },
+          {
+            "title": "운행 편수",
+            "content": "연말연시 기간 동안 총 140편의 '노조미' 호 열차가 '어린이 동반석'을 포함하여 운행됩니다. 이는 역대 최다 편수입니다.",
+            "alt_text": "신칸센이 여러 대 나란히 서 있는 모습"
+          },
+          {
+            "title": "운행 구간",
+            "content": "해당 서비스는 도쿄와 신오사카 구간을 운행하는 '노조미' 호 신칸센에 적용됩니다.",
+            "alt_text": "도쿄와 신오사카를 잇는 신칸센 노선 지도"
+          },
+          {
+            "title": "이용 대상",
+            "content": "어린이를 동반하는 가족 여행객이 더욱 편안하게 신칸센을 이용할 수 있도록 마련된 특별 좌석입니다.",
+            "alt_text": "가족이 웃으며 신칸센 좌석에 앉아 있는 모습"
+          },
+          {
+            "title": "예약 팁",
+            "content": "연말연시 기간 동안 인기가 많을 것으로 예상되니, 미리 예매하는 것을 추천합니다. '어린이 동반석'은 별도 지정이 필요할 수 있습니다.",
+            "alt_text": "신칸센 티켓을 손에 들고 있는 모습"
+          }
+        ],
+        "caption": "✨연말연시 일본 가족 여행 필수 정보!✨\n\n어린이 동반 여행객을 위한 신칸센 '어린이 동반석'이 12월 25일부터 1월 5일까지 운영됩니다! 👨‍👩‍👧‍👦\n총 140편의 '노조미' 호에서 이용 가능하며, 도쿄-신오사카 구간에서 편리하게 이동하세요.\n역대 최다 편수 운행이니 미리 예약하는 센스! 잊지 마세요!\n\n#일본가족여행 #신칸센 #어린이동반석 #연말연시일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본신칸센",
+          "#어린이동반석",
+          "#일본가족여행",
+          "#연말연시",
+          "#도쿄",
+          "#신오사카",
+          "#일본교통",
+          "#여행꿀팁",
+          "#JR",
+          "#노조미",
+          "#일본자유여행",
+          "#여행정보",
+          "#겨울일본여행"
+        ],
+        "alt_texts": [
+          "신칸센 좌석에 아이와 부모가 함께 앉아 있는 모습",
+          "신칸센이 여러 대 나란히 서 있는 모습",
+          "도쿄와 신오사카를 잇는 신칸센 노선 지도",
+          "가족이 웃으며 신칸센 좌석에 앉아 있는 모습",
+          "신칸센 티켓을 손에 들고 있는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 어린이 동반 가족 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보성 높은 콘텐츠에 대한 높은 저장 및 공유율 / 이 콘텐츠의 강점: 시기적절한 정보와 타겟 맞춤형 혜택 강조",
+      "image": {
+        "keyword": "Shinkansen, family, children, reserved seat, Japan, travel, winter, holiday, Tokyo, Osaka, JR Tokai, Nozomi",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-family,-children,-reserved-seat,-Japan,-travel,-winter,-holiday,-Tokyo,-Osaka,-JR-Tokai,-Nozomi",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20family,%20children,%20reserved%20seat,%20Japan,%20travel,%20winter,%20holiday,%20Tokyo,%20Osaka,%20JR%20Tokai,%20Nozomi/"
+      }
+    },
     {
       "id": "plan_75d5bd59",
       "created_at": "2026-11-14T03:15:01.951469",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen, hotel package, Black Friday sale, Japan travel, JR Tokai Tours",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-hotel-package,-Black-Friday-sale,-Japan-travel,-JR-Tokai-Tours",
         "pexels_url": "https://www.pexels.com/search/Shinkansen,%20hotel%20package,%20Black%20Friday%20sale,%20Japan%20travel,%20JR%20Tokai%20Tours/"
-      }
-    },
-    {
-      "id": "plan_dd89e7e8",
-      "created_at": "2026-11-11T02:46:43.425728",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ディズニー・クリスマス」ランドの昼パレード、ちょっとレアな雨バージョンを見てきた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155281.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니랜드 크리스마스 한정 퍼레이드를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 크리스마스 퍼레이드✨",
-        "cards": [
-          {
-            "title": "크리스마스 기간",
-            "content": "도쿄 디즈니랜드의 '디즈니 크리스마스'는 11월 11일부터 12월 25일까지 진행됩니다. 🎄",
-            "alt_text": "도쿄 디즈니랜드 크리스마스 장식이 된 모습"
-          },
-          {
-            "title": "퍼레이드 명칭",
-            "content": "낮 퍼레이드 '토이즈 원더러스 크리스마스!'가 펼쳐집니다. 🎶",
-            "alt_text": "디즈니 캐릭터들이 퍼레이드에 참여하는 모습"
-          },
-          {
-            "title": "날씨 변수",
-            "content": "악천후 시에는 퍼레이드 대신 캐릭터 그리팅으로 대체될 수 있습니다. ☔️",
-            "alt_text": "비가 오는 날씨에 우산을 쓴 디즈니 캐릭터"
-          },
-          {
-            "title": "특별한 경험",
-            "content": "이번 퍼레이드는 조금 더 특별한 '비 버전'도 볼 수 있는 기회입니다. 🎁",
-            "alt_text": "비가 오는 날씨에 맞춰 특별한 의상을 입은 디즈니 캐릭터"
-          },
-          {
-            "title": "방문 팁",
-            "content": "방문 전 공식 홈페이지에서 퍼레이드 및 날씨 정보를 꼭 확인하세요! 🗓️",
-            "alt_text": "스마트폰으로 도쿄 디즈니랜드 홈페이지를 확인하는 모습"
-          }
-        ],
-        "caption": "🎄도쿄 디즈니랜드에서 펼쳐지는 황홀한 크리스마스! 🎄\n11월 11일부터 12월 25일까지, '디즈니 크리스마스' 기간 동안 특별한 낮 퍼레이드 '토이즈 원더러스 크리스마스!'를 만나보세요. 🎶\n날씨에 따라 퍼레이드 대신 캐릭터 그리팅으로 변경될 수 있으니, 방문 전 꼭! 공식 정보를 확인하는 센스! 잊지 마세요! ✨\n#일본여행 #도쿄여행 #디즈니랜드 #크리스마스 #퍼레이드",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니크리스마스",
-          "#토이즈원더러스크리스마스",
-          "#겨울여행",
-          "#일본크리스마스",
-          "#도쿄",
-          "#디즈니",
-          "#퍼레이드",
-          "#여행정보",
-          "#특별한경험",
-          "#일본축제",
-          "#연말여행",
-          "#놀이공원"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니랜드 크리스마스 장식이 된 모습",
-          "디즈니 캐릭터들이 퍼레이드에 참여하는 모습",
-          "비가 오는 날씨에 우산을 쓴 디즈니 캐릭터",
-          "비가 오는 날씨에 맞춰 특별한 의상을 입은 디즈니 캐릭터",
-          "스마트폰으로 도쿄 디즈니랜드 홈페이지를 확인하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니랜드를 방문할 한국인 여행자 / 최적 게시 시간: 오후 5-7시 / 기대 반응: 높은 참여율 (좋아요, 저장, 공유) / 이 콘텐츠의 강점: 시즌성, 즉시성, 구체적인 정보 제공",
-      "image": {
-        "keyword": "Tokyo Disneyland Christmas parade, Disney Christmas event, Toys Wondrous Christmas parade, Tokyo winter festival",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-parade,-Disney-Christmas-event,-Toys-Wondrous-Christmas-parade,-Tokyo-winter-festival",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20parade,%20Disney%20Christmas%20event,%20Toys%20Wondrous%20Christmas%20parade,%20Tokyo%20winter%20festival/"
-      }
-    },
-    {
-      "id": "plan_34ebb4a6",
-      "created_at": "2026-11-11T02:46:39.214779",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ミッキーとサンタが夢の共演。ディズニーシーのハーバーショー、クリスマスver.の見どころをお届け",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155295.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "디즈니 덕후라면 절대 놓칠 수 없는 도쿄 디즈니랜드 연말 특별 이벤트!"
-      },
-      "content": {
-        "thumbnail_title": "🎄디즈니 크리스마스✨",
-        "cards": [
-          {
-            "title": "이벤트 기간",
-            "content": "도쿄 디즈니리조트에서 2023년 11월 11일부터 12월 25일까지 '디즈니 크리스마스' 한정 이벤트를 진행해요.",
-            "alt_text": "크리스마스 분위기의 디즈니랜드 성"
-          },
-          {
-            "title": "디즈니씨 특별공연",
-            "content": "도쿄 디즈니씨에서는 개막에 앞서 '디즈니 크리스마스 그레이팅' 특별 공연을 미리 공개했어요. 미키와 산타의 꿈같은 만남을 볼 수 있습니다.",
-            "alt_text": "미키마우스와 산타클로스가 함께 있는 모습"
-          },
-          {
-            "title": "놓치면 후회!",
-            "content": "한정 기간 동안만 만날 수 있는 특별한 크리스마스 테마의 퍼레이드와 장식들이 가득할 예정입니다.",
-            "alt_text": "화려한 크리스마스 테마의 퍼레이드 차량"
-          },
-          {
-            "title": "디즈니랜드 & 씨",
-            "content": "도쿄 디즈니랜드와 도쿄 디즈니씨 두 곳 모두에서 크리스마스 분위기를 만끽할 수 있어요.",
-            "alt_text": "디즈니랜드와 디즈니씨 입구"
-          },
-          {
-            "title": "예매 꿀팁",
-            "content": "인기 이벤트인 만큼 티켓은 조기 매진될 수 있어요! 여행 계획이 있다면 서둘러 미리 예매하는 것을 추천합니다.",
-            "alt_text": "디즈니랜드 티켓 이미지"
-          }
-        ],
-        "caption": "✨도쿄 디즈니리조트에서 펼쳐지는 꿈같은 크리스마스!✨\n11월 11일부터 12월 25일까지 열리는 '디즈니 크리스마스' 이벤트를 놓치지 마세요!\n미키와 산타의 특별한 만남을 디즈니씨에서 직접 확인해 보세요.\n한정 기간 특별 공연과 화려한 장식으로 잊지 못할 추억을 만들어 보세요!\n\n지금 바로 일본 여행 계획에 추가하세요! ✈️",
-        "hashtags": [
-          "#일본여행",
-          "#도쿄디즈니랜드",
-          "#도쿄디즈니씨",
-          "#디즈니크리스마스",
-          "#겨울여행",
-          "#일본가볼만한곳",
-          "#도쿄여행",
-          "#여행스타그램",
-          "#디즈니",
-          "#크리스마스",
-          "#일본축제",
-          "#플라잉재팬",
-          "#여행정보",
-          "#일본",
-          "#도쿄"
-        ],
-        "alt_texts": [
-          "크리스마스 분위기의 디즈니랜드 성",
-          "미키마우스와 산타클로스가 함께 있는 모습",
-          "화려한 크리스마스 테마의 퍼레이드 차량",
-          "디즈니랜드와 디즈니씨 입구",
-          "디즈니랜드 티켓 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄 디즈니리조트 방문 예정인 20-30대 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 높은 참여율 (댓글, 저장), 디즈니 관련 콘텐츠에 대한 관심도가 높음 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 기간 명시, 디즈니 팬들의 흥미 유발",
-      "image": {
-        "keyword": "Tokyo Disneyland Christmas Parade Mickey Santa",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-Parade-Mickey-Santa",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20Parade%20Mickey%20Santa/"
       }
     }
   ]
