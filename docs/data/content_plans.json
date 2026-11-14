@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-13T06:25:37.890256",
+  "last_updated": "2026-11-14T03:15:03.951639",
   "plans": [
+    {
+      "id": "plan_75d5bd59",
+      "created_at": "2026-11-14T03:15:01.951469",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】イケフェス大阪2026連動企画「水上から眺める！中之島・名建築ガイドクルーズ」",
+        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2154969.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL이 오사카 지역 활성화를 위해 선보이는 특별한 크루즈 투어!"
+      },
+      "content": {
+        "thumbnail_title": "✨JAL 오사카 특별 크루즈✨",
+        "cards": [
+          {
+            "title": "이케페스 연동",
+            "content": "2026년 오사카 '이케페스'와 연계된 특별 기획입니다. 오사카의 매력을 재발견하는 기회가 될 거예요.",
+            "alt_text": "오사카 시내 전경과 함께 JAL 로고가 보이는 이미지"
+          },
+          {
+            "title": "중之島 크루즈",
+            "content": "중之島 지역의 아름다운 건축물들을 물 위에서 감상하는 특별한 크루즈입니다. 낮과 밤 모두 다른 매력을 느낄 수 있습니다.",
+            "alt_text": "오사카 중之島 지역의 아름다운 건축물이 강을 따라 늘어선 모습"
+          },
+          {
+            "title": "JAL 지역 활성화",
+            "content": "JAL 객실 승무원들이 지역에 이주하여 지역 활성화에 기여하는 'JALふるさとアンバサダー' 프로그램의 일환입니다.",
+            "alt_text": "JAL 객실 승무원들이 지역 주민들과 함께 활동하는 모습"
+          },
+          {
+            "title": "상품 개발 및 해결",
+            "content": "객실 승무원으로서 쌓은 경험을 바탕으로 지역 상품 개발 및 문제 해결에 힘쓰고 있습니다.",
+            "alt_text": "지역 특산품과 JAL 승무원이 함께 있는 사진"
+          },
+          {
+            "title": "참여 방법",
+            "content": "크루즈 예약 및 상세 정보는 JAL 공식 채널을 통해 확인 가능하며, 2026년 이케페스 기간에 맞춰 진행될 예정입니다.",
+            "alt_text": "JAL 웹사이트 및 관련 행사 정보가 담긴 스크린샷"
+          }
+        ],
+        "caption": "🇯🇵 JAL이 선보이는 오사카 특별 크루즈! 2026년 '이케페스'와 연계된 이번 행사는 오사카 중之島의 명건축물을 물 위에서 감상할 수 있는 특별한 경험을 선사합니다. JAL의 지역 활성화 프로젝트의 일환으로, 승무원들이 직접 지역 발전에 힘쓰는 모습을 볼 수 있어요! 🚢\n\n오사카 여행을 더욱 특별하게 만들 절호의 기회! 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#JAL",
+          "#일본크루즈",
+          "#중之島",
+          "#오사카명소",
+          "#이케페스2026",
+          "#일본항공",
+          "#일본정보",
+          "#여행정보",
+          "#여행스타그램",
+          "#일본",
+          "#오사카",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "오사카 시내 전경과 함께 JAL 로고가 보이는 이미지",
+          "오사카 중之島 지역의 아름다운 건축물이 강을 따라 늘어선 모습",
+          "JAL 객실 승무원들이 지역 주민들과 함께 활동하는 모습",
+          "지역 특산품과 JAL 승무원이 함께 있는 사진",
+          "JAL 웹사이트 및 관련 행사 정보가 담긴 스크린샷"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행 예정인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: '오사카에서 이런 것도 할 수 있네!'라는 놀라움과 관심 / 이 콘텐츠의 강점: JAL이라는 신뢰도 높은 항공사의 지역 특화 이벤트로, 흔치 않은 특별한 경험을 제공한다는 점",
+      "image": {
+        "keyword": "Osaka Nakanoshima architecture cruise JAL",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Nakanoshima-architecture-cruise-JAL",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20Nakanoshima%20architecture%20cruise%20JAL/"
+      }
+    },
+    {
+      "id": "plan_651aba35",
+      "created_at": "2026-11-14T03:14:56.254030",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「るるぶ 美しい図書館とくつろぎのブックカフェ 首都圏」。個性派から建築美、流行のラウンジや一晩中浸れるブックホテルも収録",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156434.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본의 숨겨진 보물, 아름다운 도서관과 북카페 완벽 가이드!"
+      },
+      "content": {
+        "thumbnail_title": "📚 도쿄 근교 힐링! ✨",
+        "cards": [
+          {
+            "title": "신간 출시!",
+            "content": "JTB 퍼블리싱에서 'るるぶ 美しい図書館とくつろぎのブックカフェ 首都圏'을 11월 16일에 발매합니다. 총 112페이지로 구성되어 있습니다.",
+            "alt_text": "책 표지가 보이는 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "이 책의 가격은 1430엔이며, 전국 서점 및 온라인 서점에서 구매 가능합니다. 합리적인 가격으로 알찬 정보를 얻을 수 있습니다.",
+            "alt_text": "책과 함께 놓인 동전 이미지"
+          },
+          {
+            "title": "주요 내용",
+            "content": "도쿄 수도권의 개성 넘치는 도서관, 건축미가 돋보이는 곳, 트렌디한 라운지, 그리고 밤새 머물 수 있는 북호텔까지 다채로운 공간을 소개합니다.",
+            "alt_text": "아름다운 도서관 내부 사진"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "단순한 책 읽는 공간을 넘어, 특별한 경험을 선사할 일본의 숨겨진 명소들을 만나보세요. 조용하고 아늑한 시간을 보내고 싶은 여행객에게 안성맞춤입니다.",
+            "alt_text": "편안한 의자에 앉아 책을 읽는 사람 사진"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "이번 책을 참고하여 도쿄 근교에서 나만의 특별한 북캉스를 계획해보세요! 조용하고 여유로운 시간을 통해 여행의 피로를 풀 수 있습니다.",
+            "alt_text": "창밖 풍경이 보이는 아늑한 카페 내부 사진"
+          }
+        ],
+        "caption": "✨ 일본 여행 중 조용하고 특별한 시간을 보내고 싶다면? ✨\n\nJTB 퍼블리싱에서 11월 16일, 수도권의 아름다운 도서관과 매력적인 북카페를 소개하는 신간 'るるぶ 美しい図書館とくつろぎのブックカフェ 首都圏'을 발매합니다! 📚\n\n개성 넘치는 건축미부터 편안한 라운지, 심지어 밤샘 독서가 가능한 북호텔까지! 1430엔의 합리적인 가격으로 일본의 숨겨진 힐링 스팟을 발견하세요. 🤫\n\n이번 여행, 책과 함께 여유로운 북캉스를 즐겨보는 건 어떠세요? ☕️\n\n#일본여행 #도쿄근교 #북카페 #도서관 #힐링여행 #플라잉재팬 #여행정보 #신간소개 #일본문화 #책추천 #일본카페 #조용한여행 #여행꿀팁 #일본가볼만한곳 #북캉스",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄근교",
+          "#북카페",
+          "#도서관",
+          "#힐링여행",
+          "#여행정보",
+          "#신간소개",
+          "#일본문화",
+          "#책추천",
+          "#일본카페",
+          "#조용한여행",
+          "#여행꿀팁",
+          "#일본가볼만한곳",
+          "#북캉스"
+        ],
+        "alt_texts": [
+          "책 표지가 보이는 이미지",
+          "책과 함께 놓인 동전 이미지",
+          "아름다운 도서관 내부 사진",
+          "편안한 의자에 앉아 책을 읽는 사람 사진",
+          "창밖 풍경이 보이는 아늑한 카페 내부 사진"
+        ]
+      },
+      "marketer_analysis": "타겟: 조용하고 감성적인 여행을 선호하는 20-40대 여성 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 도서 정보 및 방문 장소에 대한 높은 관심, 저장 및 공유 증가 / 이 콘텐츠의 강점: 실용적인 여행 정보와 감성적인 테마의 결합, 한국인이 잘 모르는 일본의 새로운 매력 소개",
+      "image": {
+        "keyword": "beautiful library, cozy bookstore cafe, Tokyo hidden gems, Japan travel book, relaxing atmosphere",
+        "unsplash_url": "https://unsplash.com/s/photos/beautiful-library,-cozy-bookstore-cafe,-Tokyo-hidden-gems,-Japan-travel-book,-relaxing-atmosphere",
+        "pexels_url": "https://www.pexels.com/search/beautiful%20library,%20cozy%20bookstore%20cafe,%20Tokyo%20hidden%20gems,%20Japan%20travel%20book,%20relaxing%20atmosphere/"
+      }
+    },
     {
       "id": "plan_2ae4de09",
       "created_at": "2026-11-13T06:25:35.890115",
@@ -923,160 +1077,6 @@
         "keyword": "Tokyo Disneyland Christmas Parade Mickey Santa",
         "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-Parade-Mickey-Santa",
         "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20Parade%20Mickey%20Santa/"
-      }
-    },
-    {
-      "id": "plan_afb5f590",
-      "created_at": "2026-11-10T07:04:51.001889",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニー「リルリンリン」グッズまとめ。カチューシャ/ぬいぐるみ/ランダムチャームなど、売り場撮り下ろしで紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2154987.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니랜드에서만 만날 수 있는 크리스마스 한정 굿즈 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨디즈니 크리스마스 굿즈✨",
-        "cards": [
-          {
-            "title": "릴린린 굿즈",
-            "content": "도쿄 디즈니랜드에서 11월 10일부터 '릴린린' 크리스마스 굿즈를 판매해요. 크리스마스 시즌인 11월 11일부터 12월 25일까지 특별한 경험을 선사할 예정입니다.",
-            "alt_text": "귀여운 크리스마스 요정 '릴린린' 캐릭터가 그려진 굿즈 이미지"
-          },
-          {
-            "title": "인기 아이템",
-            "content": "매년 큰 인기를 얻는 '릴린린' 굿즈는 카츄샤, ぬいぐるみ, 랜덤 참 등 다양하게 출시됩니다. 특별한 추억을 만들고 싶다면 놓치지 마세요!",
-            "alt_text": "다양한 종류의 릴린린 굿즈 (카츄샤, ぬいぐるみ, 참 등) 사진"
-          },
-          {
-            "title": "판매 기간",
-            "content": "크리스마스 이벤트는 11월 11일부터 12월 25일까지 진행됩니다. 굿즈는 이벤트 시작 전인 11월 10일부터 구매 가능해요.",
-            "alt_text": "크리스마스 시즌 디즈니랜드 풍경 이미지"
-          },
-          {
-            "title": "놓치지 마세요",
-            "content": "한정판 굿즈는 조기 품절될 수 있으니, 방문 계획이 있다면 서둘러 구매하는 것을 추천합니다.",
-            "alt_text": "굿즈를 구매하려는 사람들의 줄 서 있는 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "디즈니 리조트 앱을 통해 굿즈 재고를 미리 확인하거나, 온라인 구매가 가능한지 알아보세요. 인기 상품은 빠르게 품절될 수 있어요!",
-            "alt_text": "스마트폰으로 디즈니 리조트 앱을 보고 있는 모습"
-          }
-        ],
-        "caption": "🎄도쿄 디즈니랜드에서 만나는 겨울왕국!🎄\n\n11월 10일부터 '릴린린' 크리스마스 굿즈가 발매되었어요! 🎅\n\n인기 카츄샤, ぬいぐるみ, 랜덤 참 등 다양한 굿즈를 만나보세요!\n\n✨11월 11일 ~ 12월 25일, 특별한 크리스마스 시즌을 놓치지 마세요!✨\n\n#일본여행 #도쿄디즈니랜드 #디즈니크리스마스 #릴린린",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니랜드",
-          "#디즈니랜드",
-          "#디즈니",
-          "#크리스마스",
-          "#릴린린",
-          "#디즈니굿즈",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#일본",
-          "#여행",
-          "#여행스타그램",
-          "#해외여행",
-          "#디즈니크리스마스"
-        ],
-        "alt_texts": [
-          "귀여운 크리스마스 요정 '릴린린' 캐릭터가 그려진 굿즈 이미지",
-          "다양한 종류의 릴린린 굿즈 (카츄샤, ぬいぐるみ, 참 등) 사진",
-          "크리스마스 시즌 디즈니랜드 풍경 이미지",
-          "굿즈를 구매하려는 사람들의 줄 서 있는 모습",
-          "스마트폰으로 디즈니 리조트 앱을 보고 있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 디즈니랜드 방문 예정인 20-30대 한국인 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 굿즈 정보 공유 및 방문 인증샷 기대 / 이 콘텐츠의 강점: 시즌성 강한 한정판 굿즈 정보로 즉각적인 관심 유도",
-      "image": {
-        "keyword": "Tokyo Disneyland Christmas Rilrilin goods",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-Rilrilin-goods",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20Rilrilin%20goods/"
-      }
-    },
-    {
-      "id": "plan_4dc58c70",
-      "created_at": "2026-11-10T07:04:45.433576",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニー・クリスマスグッズまとめ。ランドの大型ショップで実物を見てきた！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155057.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "놓치면 후회! 일본 디즈니랜드 크리스마스 한정 굿즈 대공개! 🎄✨"
-      },
-      "content": {
-        "thumbnail_title": "🎄디즈니 크리스마스 굿즈!✨",
-        "cards": [
-          {
-            "title": "크리스마스 이벤트",
-            "content": "도쿄 디즈니리조트에서 11월 11일부터 12월 25일까지 '디즈니・크리스마스'가 개최됩니다.",
-            "alt_text": "도쿄 디즈니리조트의 크리스마스 이벤트 포스터"
-          },
-          {
-            "title": "굿즈 출시일",
-            "content": "크리스마스를 즐기는 미키 마우스와 친구들을 디자인한 한정 굿즈가 11월 10일부터 발매 시작했어요.",
-            "alt_text": "디즈니 크리스마스 굿즈 이미지"
-          },
-          {
-            "title": "주요 상품",
-            "content": "랜드 내 대형 샵에서 직접 실물을 보고 구매할 수 있는 다양한 크리스마스 시즌 상품들을 만나보세요.",
-            "alt_text": "디즈니랜드 샵 내부 모습"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "크리스마스 시즌은 11월 11일부터 12월 25일까지 진행되니, 기간 내 방문 계획 세워보세요!",
-            "alt_text": "크리스마스 장식이 된 디즈니랜드 풍경"
-          },
-          {
-            "title": "방문 팁",
-            "content": "인기 굿즈는 조기 품절될 수 있으니, 원하는 상품이 있다면 오픈 시간에 맞춰 방문하는 것을 추천해요!",
-            "alt_text": "크리스마스 굿즈를 구매하는 사람들"
-          }
-        ],
-        "caption": "일본 여행 중이라면 꼭 들러야 할 도쿄 디즈니리조트! 🎄 11월 10일부터 발매된 크리스마스 한정 굿즈들을 소개합니다. 🎅🏻 귀여운 미키와 친구들이 디자인한 시즌 상품들로 특별한 추억을 만들어보세요! 🎁 기간: 11/11 ~ 12/25 #디즈니크리스마스 #일본여행 #도쿄디즈니랜드 #한정판굿즈",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄디즈니리조트",
-          "#디즈니크리스마스",
-          "#디즈니굿즈",
-          "#크리스마스",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#도쿄여행",
-          "#인스타여행",
-          "#여행정보",
-          "#일본자유여행",
-          "#크리스마스준비",
-          "#미키마우스",
-          "#여행필수템"
-        ],
-        "alt_texts": [
-          "도쿄 디즈니리조트의 크리스마스 이벤트 포스터",
-          "디즈니 크리스마스 굿즈 이미지",
-          "디즈니랜드 샵 내부 모습",
-          "크리스마스 장식이 된 디즈니랜드 풍경",
-          "크리스마스 굿즈를 구매하는 사람들"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 한국인 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 관심과 공유, 실제 방문 계획으로 이어질 가능성 높음 / 이 콘텐츠의 강점: 시기적절한 시즌 정보, 구체적인 날짜 및 이벤트 내용 포함",
-      "image": {
-        "keyword": "Tokyo Disneyland Christmas goods, Mickey Mouse holiday merchandise, Japan travel, Christmas event Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Disneyland-Christmas-goods,-Mickey-Mouse-holiday-merchandise,-Japan-travel,-Christmas-event-Japan",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Disneyland%20Christmas%20goods,%20Mickey%20Mouse%20holiday%20merchandise,%20Japan%20travel,%20Christmas%20event%20Japan/"
       }
     }
   ]
