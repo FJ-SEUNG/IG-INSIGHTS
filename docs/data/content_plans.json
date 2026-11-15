@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-15T02:39:21.295877",
+  "last_updated": "2026-11-15T06:11:54.410709",
   "plans": [
+    {
+      "id": "plan_8bc49bd0",
+      "created_at": "2026-11-15T06:11:52.410547",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "NEWT、ブラックフライデーセールを開催　韓国行きが19,800円からなど",
+        "url": "https://www.traicy.com/posts/20261114387967/",
+        "date": "Sat, 14 Nov 2026 14:19:08 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행을 저렴하게 갈 수 있는 역대급 세일 소식!"
+      },
+      "content": {
+        "thumbnail_title": "💸 역대급! 일본행 19,800엔부터! ✈️",
+        "cards": [
+          {
+            "title": "블랙프라이데이",
+            "content": "여행 예약 서비스 'NEWT'에서 11월 14일부터 28일까지 블랙프라이데이 세일을 진행해요. 한국, 대만, 하와이, 세부, 싱가포르, 호주행 투어가 대상이에요.",
+            "alt_text": "블랙프라이데이 세일 배너 이미지"
+          },
+          {
+            "title": "초특가 상품",
+            "content": "특히 한국행 투어가 19,800엔부터 시작하는 파격적인 가격으로 나왔어요. 평소보다 훨씬 저렴하게 일본 여행을 계획할 절호의 기회입니다.",
+            "alt_text": "할인율이 강조된 여행 상품 이미지"
+          },
+          {
+            "title": "선착순 한정",
+            "content": "본격적인 세일은 선착순으로 진행되니, 관심 있는 분들은 서둘러야 해요. 마감 전에 빠르게 확인해 보세요!",
+            "alt_text": "시간 카운트다운 또는 '선착순 마감' 텍스트 이미지"
+          },
+          {
+            "title": "세일 기간",
+            "content": "세일 기간은 11월 14일부터 11월 28일까지로, 약 2주간 진행돼요. 미리 일정을 확인하고 준비하면 좋아요.",
+            "alt_text": "달력에 세일 기간이 표시된 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "인기 노선은 조기 마감될 수 있으니, 원하는 날짜와 상품이 있다면 바로 예약하는 것을 추천해요. 꼼꼼하게 비교해보고 최저가로 득템하세요!",
+            "alt_text": "여행 가방과 할인 쿠폰 이미지를 활용한 꿀팁 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신 분들 주목! ✈️\n'NEWT'에서 블랙프라이데이 세일 역대급 할인을 진행해요!\n한국행 투어가 무려 19,800엔부터 시작! 💸\n11월 14일부터 28일까지, 선착순 마감이니 서둘러 득템하세요!\n\n#일본여행 #블랙프라이데이 #여행특가 #항공권할인 #일본가자 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#블랙프라이데이",
+          "#여행세일",
+          "#일본항공권",
+          "#해외여행",
+          "#가성비여행",
+          "#일본여행준비",
+          "#여행꿀팁",
+          "#일본",
+          "#여행스타그램",
+          "#초특가",
+          "#세일정보",
+          "#현지할인",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "블랙프라이데이 세일 배너 이미지",
+          "할인율이 강조된 여행 상품 이미지",
+          "시간 카운트다운 또는 '선착순 마감' 텍스트 이미지",
+          "달력에 세일 기간이 표시된 이미지",
+          "여행 가방과 할인 쿠폰 이미지를 활용한 꿀팁 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 저렴하게 가고 싶은 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보와 명확한 기간 명시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japan travel sale, Black Friday deal, cheap flights to Japan, travel discount, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-Black-Friday-deal,-cheap-flights-to-Japan,-travel-discount,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20Black%20Friday%20deal,%20cheap%20flights%20to%20Japan,%20travel%20discount,%20limited%20time%20offer/"
+      }
+    },
+    {
+      "id": "plan_56fe8adf",
+      "created_at": "2026-11-15T06:11:46.707988",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA、航空機客席シートカバー生地の限定バッグやジャケット発売",
+        "url": "https://www.traicy.com/posts/20261115387220/",
+        "date": "Sun, 15 Nov 2026 01:15:40 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "ANA항공에서 폐기되는 항공기 부품으로 만든 특별한 패션 아이템 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ANA 업사이클링✨",
+        "cards": [
+          {
+            "title": "특별한 만남",
+            "content": "ANA항공이 폐기되는 항공기 부품과 사용되지 않은 좌석 시트 커버 원단을 활용해 만든 한정판 패션 상품을 선보입니다. '2ND RUNWAY PROJECT'의 첫 번째 컬렉션으로, 11월 5일 정오부터 판매를 시작했어요.",
+            "alt_text": "ANA항공에서 판매하는 업사이클링 패션 아이템 이미지"
+          },
+          {
+            "title": "지속가능한 패션",
+            "content": "이번 프로젝트는 환경을 생각하는 지속가능한 패션을 실천하는 좋은 예시입니다. 버려질 수 있는 자원을 재활용하여 독특하고 가치 있는 제품으로 재탄생시켰어요.",
+            "alt_text": "환경 보호 메시지를 담은 이미지"
+          },
+          {
+            "title": "한정판 굿즈",
+            "content": "이번 컬렉션에서는 가방과 재킷 등 다양한 패션 아이템을 만나볼 수 있습니다. 항공기의 흔적을 담은 특별한 디자인으로 소장 가치가 높을 것으로 예상됩니다.",
+            "alt_text": "ANA항공 업사이클링 재킷 이미지"
+          },
+          {
+            "title": "나만의 기념품",
+            "content": "일본 여행 중 특별한 기념품을 찾고 있다면, ANA항공의 업사이클링 컬렉션이 좋은 선택이 될 수 있습니다. 항공 여행의 추억을 담은 특별한 아이템을 득템하세요!",
+            "alt_text": "여행 기념품으로 좋은 가방 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "구매를 원하시는 분들은 ANA항공 공식 판매 채널을 통해 확인해보세요. 한정 수량으로 조기 품절될 수 있으니 서두르시는 것이 좋습니다.",
+            "alt_text": "쇼핑백 이미지"
+          }
+        ],
+        "caption": "✈️ ANA항공에서 특별한 업사이클링 컬렉션을 선보입니다! ✨\n폐기되는 항공기 부품과 새것이나 다름없는 좌석 시트 커버 원단을 활용하여 가방, 재킷 등을 제작했어요.\n환경을 생각하는 지속가능한 패션을 실천하는 특별한 기회!\n나만의 특별한 일본 여행 기념품으로도 추천해요. 💖\n\n#일본여행 #플라잉재팬 #ANA항공 #업사이클링 #지속가능한패션 #한정판 #여행기념품 #항공굿즈 #일본쇼핑 #환경보호 #특별한선물 #ANA #2NDRUNWAY",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA항공",
+          "#업사이클링",
+          "#지속가능한패션",
+          "#한정판",
+          "#여행기념품",
+          "#항공굿즈",
+          "#일본쇼핑",
+          "#환경보호",
+          "#특별한선물",
+          "#ANA",
+          "#2NDRUNWAY",
+          "#여행정보",
+          "#일본"
+        ],
+        "alt_texts": [
+          "ANA항공에서 판매하는 업사이클링 패션 아이템 이미지",
+          "환경 보호 메시지를 담은 이미지",
+          "ANA항공 업사이클링 재킷 이미지",
+          "여행 기념품으로 좋은 가방 이미지",
+          "쇼핑백 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: ANA항공 이용 예정이거나 항공 굿즈에 관심 있는 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 7시 / 기대 반응: 특별한 상품에 대한 호기심, 구매 욕구 자극 / 이 콘텐츠의 강점: 환경적인 메시지와 희소성 있는 상품 정보를 결합하여 흥미 유발",
+      "image": {
+        "keyword": "ANA airlines upcycled fashion bag jacket sustainable eco-friendly travel souvenir limited edition",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-airlines-upcycled-fashion-bag-jacket-sustainable-eco-friendly-travel-souvenir-limited-edition",
+        "pexels_url": "https://www.pexels.com/search/ANA%20airlines%20upcycled%20fashion%20bag%20jacket%20sustainable%20eco-friendly%20travel%20souvenir%20limited%20edition/"
+      }
+    },
     {
       "id": "plan_5404bc46",
       "created_at": "2026-11-15T02:39:19.295705",
@@ -923,160 +1077,6 @@
         "keyword": "japan winter onsen hotel discount offer",
         "unsplash_url": "https://unsplash.com/s/photos/japan-winter-onsen-hotel-discount-offer",
         "pexels_url": "https://www.pexels.com/search/japan%20winter%20onsen%20hotel%20discount%20offer/"
-      }
-    },
-    {
-      "id": "plan_84cd011c",
-      "created_at": "2026-11-12T03:48:31.267901",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "日本一のイルミネーションが16年ぶりに進化。長崎・ハウステンボスで、ヨーロッパのクリスマスを楽しんできた",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155683.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 최고의 일루미네이션이 16년 만에 진화! 나가사키 하우스텐보스에서 유럽 크리스마스를 만끽하세요! 🎄✨"
-      },
-      "content": {
-        "thumbnail_title": "하우스텐보스 🌟 역대급 일루미네이션!",
-        "cards": [
-          {
-            "title": "역대급 일루미네이션",
-            "content": "13년 연속 일본 1위를 자랑하는 하우스텐보스 일루미네이션이 16년 만에 '더 스타라이트 밀리언'으로 새롭게 태어났습니다. 11월 6일부터 역대 최대 규모로 펼쳐집니다.",
-            "alt_text": "화려하게 빛나는 하우스텐보스 일루미네이션 야경"
-          },
-          {
-            "title": "크리스마스 이벤트",
-            "content": "새로운 일루미네이션과 함께 역대 최대 규모의 크리스마스 이벤트 '유러피안 홀리 크리스마스'도 동시 개최됩니다. 유럽의 낭만적인 크리스마스를 경험할 수 있어요.",
-            "alt_text": "유럽풍 크리스마스 장식으로 꾸며진 하우스텐보스 거리"
-          },
-          {
-            "title": "방문 시기",
-            "content": "일루미네이션과 크리스마스 이벤트는 11월 6일부터 시작됩니다. 연말연시 특별한 추억을 만들고 싶다면 지금부터 계획해보세요!",
-            "alt_text": "크리스마스 시즌 하우스텐보스 이벤트 안내 배너"
-          },
-          {
-            "title": "주요 즐길거리",
-            "content": "화려한 빛의 향연과 함께 다양한 포토존, 라이브 공연, 크리스마스 마켓 등 풍성한 즐길 거리가 준비되어 있습니다. 온 가족이 함께 즐기기 좋아요.",
-            "alt_text": "하우스텐보스에서 즐길 수 있는 다양한 액티비티 모습"
-          },
-          {
-            "title": "꿀팁",
-            "content": "겨울 시즌 하우스텐보스는 춥기 때문에 따뜻한 옷차림은 필수! 야간 개장 시간과 특별 이벤트 정보를 미리 확인하면 더욱 알찬 여행이 가능합니다. 🧣",
-            "alt_text": "추운 날씨에 따뜻하게 입은 여행객이 하우스텐보스를 즐기는 모습"
-          }
-        ],
-        "caption": "일본 최고의 일루미네이션 명소, 나가사키 하우스텐보스가 16년 만에 역대급으로 진화했습니다! 🤩 11월 6일부터 시작되는 '더 스타라이트 밀리언'과 '유러피안 홀리 크리스마스' 이벤트로 잊지 못할 겨울 추억을 만들어보세요. 🎄✨ 낭만적인 유럽풍 크리스마스를 일본에서 만끽할 기회, 놓치지 마세요! ✈️\n\n#하우스텐보스 #나가사키여행 #일본크리스마스 #일루미네이션 #겨울여행 #일본여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#하우스텐보스",
-          "#나가사키",
-          "#일본일루미네이션",
-          "#일본크리스마스",
-          "#겨울여행",
-          "#일본여행준비",
-          "#일본여행꿀팁",
-          "#일본축제",
-          "#해외여행",
-          "#여행정보",
-          "#감성여행",
-          "#일본가볼만한곳",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "화려하게 빛나는 하우스텐보스 일루미네이션 야경",
-          "유럽풍 크리스마스 장식으로 꾸며진 하우스텐보스 거리",
-          "크리스마스 시즌 하우스텐보스 이벤트 안내 배너",
-          "하우스텐보스에서 즐길 수 있는 다양한 액티비티 모습",
-          "추운 날씨에 따뜻하게 입은 여행객이 하우스텐보스를 즐기는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 겨울 여행을 계획 중인 20-40대 커플 및 가족 / 최적 게시 시간: 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 공유, 여행 계획에 대한 질문 / 이 콘텐츠의 강점: 최신 이벤트 정보, 시각적 매력이 뛰어난 장소, 겨울 시즌에 특화된 콘텐츠",
-      "image": {
-        "keyword": "Huis Ten Bosch, illumination, Christmas, Nagasaki, Japan winter travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Huis-Ten-Bosch,-illumination,-Christmas,-Nagasaki,-Japan-winter-travel",
-        "pexels_url": "https://www.pexels.com/search/Huis%20Ten%20Bosch,%20illumination,%20Christmas,%20Nagasaki,%20Japan%20winter%20travel/"
-      }
-    },
-    {
-      "id": "plan_7a610564",
-      "created_at": "2026-11-12T03:48:26.269659",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "スプリング・ジャパン、新ロゴ・新塗装の機体をお披露目！　「日本の春を連れてきて、お客さまも笑顔にしてくれる」デザインに",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155696.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "스프링 재팬, 새로운 얼굴로 한국 여행객 맞이 준비!"
-      },
-      "content": {
-        "thumbnail_title": "✈️스프링 재팬 신규 도색 공개!",
-        "cards": [
-          {
-            "title": "새 로고 공개",
-            "content": "스프링 재팬이 10월 26일 브랜드 리뉴얼과 함께 새로운 로고 디자인을 발표했습니다.",
-            "alt_text": "스프링 재팬 새 로고 디자인 발표 이미지"
-          },
-          {
-            "title": "신규 도색 공개",
-            "content": "11월 11일, 새 로고를 적용한 도색 기체가 언론에 공개되었습니다. '일본의 봄을 가져다주고 승객을 웃게 하는' 디자인입니다.",
-            "alt_text": "스프링 재팬 신규 도색 항공기 공개 이미지"
-          },
-          {
-            "title": "항공편 이용 팁",
-            "content": "스프링 재팬은 일본 국내선 및 국제선을 운항하며, 특히 한국-일본 노선에 강점을 가지고 있습니다.",
-            "alt_text": "스프링 재팬 항공기 운항 노선 안내 이미지"
-          },
-          {
-            "title": "여행 준비",
-            "content": "새로운 모습으로 단장한 스프링 재팬 항공편으로 더욱 즐거운 일본 여행을 계획해 보세요.",
-            "alt_text": "일본 여행 계획 중인 커플 이미지"
-          },
-          {
-            "title": "이용 시 참고",
-            "content": "새로운 도색 적용으로 실제 운항 항공기 정보는 출발 전 확인하는 것이 좋습니다. 공식 웹사이트를 참고하세요.",
-            "alt_text": "항공권 예매 화면 이미지"
-          }
-        ],
-        "caption": "✈️ 스프링 재팬, 새로운 로고와 도색 공개! ✨\n일본의 봄을 담은 듯한 아름다운 디자인으로 한국 여행객들을 맞이할 준비를 마쳤습니다.\n새로운 모습의 스프링 재팬과 함께 설레는 일본 여행을 떠나보세요! 🌸\n\n#스프링재팬 #일본항공 #항공사소식",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#스프링재팬",
-          "#일본항공",
-          "#항공사",
-          "#일본가는길",
-          "#여행정보",
-          "#일본",
-          "#여행스타그램",
-          "#일본항공사",
-          "#새로운시작",
-          "#여행준비",
-          "#항공권",
-          "#일본여행꿀팁",
-          "#여행에미치다"
-        ],
-        "alt_texts": [
-          "스프링 재팬 새 로고 디자인 발표 이미지",
-          "스프링 재팬 신규 도색 항공기 공개 이미지",
-          "스프링 재팬 항공기 운항 노선 안내 이미지",
-          "일본 여행 계획 중인 커플 이미지",
-          "항공권 예매 화면 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 화요일/목요일 19-21시 / 기대 반응: 신규 항공사 소식에 대한 관심, 예약 문의 증가 / 이 콘텐츠의 강점: 한국 여행객에게 직접적인 영향을 주는 항공사 소식, 구체적인 날짜 정보 포함",
-      "image": {
-        "keyword": "Spring Japan new livery, Japanese airline, travel to Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Spring-Japan-new-livery,-Japanese-airline,-travel-to-Japan",
-        "pexels_url": "https://www.pexels.com/search/Spring%20Japan%20new%20livery,%20Japanese%20airline,%20travel%20to%20Japan/"
       }
     }
   ]
