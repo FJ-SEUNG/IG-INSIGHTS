@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-14T06:05:18.753415",
+  "last_updated": "2026-11-15T02:39:21.295877",
   "plans": [
+    {
+      "id": "plan_5404bc46",
+      "created_at": "2026-11-15T02:39:19.295705",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "富士急ハイランド「サンエックス」屋内アトラクションを開業前に体験してきた。招待状を届けると記念撮影が楽しめる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156332.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후지큐 하이랜드에 산리오 캐릭터와 함께하는 새로운 실내 어트랙션이 11월 14일에 오픈해요!"
+      },
+      "content": {
+        "thumbnail_title": "후지큐 산리오 어트랙션 OPEN!🎢",
+        "cards": [
+          {
+            "title": "신규 어트랙션",
+            "content": "후지큐 하이랜드에서 'San-X Paradise Secret Party!'라는 이름의 새로운 실내 워크스루 어트랙션을 11월 14일에 오픈합니다.",
+            "alt_text": "새로운 산리오 테마의 실내 어트랙션 입구 이미지"
+          },
+          {
+            "title": "체험 가능",
+            "content": "오픈 전에 먼저 체험해 볼 수 있는 기회가 있었으며, 초대장을 받으면 기념 촬영도 가능했습니다.",
+            "alt_text": "어트랙션 내부에서 캐릭터와 함께 기념 촬영하는 모습"
+          },
+          {
+            "title": "실내형!",
+            "content": "날씨에 상관없이 즐길 수 있는 실내 어트랙션으로, 아이들과 함께 방문하기에도 좋습니다.",
+            "alt_text": "다양한 산리오 캐릭터 테마로 꾸며진 실내 공간"
+          },
+          {
+            "title": "도쿄 근교",
+            "content": "도쿄에서 당일치기 또는 1박 2일 여행으로 방문하기 좋은 후지큐 하이랜드에서 특별한 추억을 만들어 보세요.",
+            "alt_text": "후지큐 하이랜드 전경과 후지산이 보이는 풍경"
+          },
+          {
+            "title": "방문 팁",
+            "content": "오픈 직후에는 사람이 많을 수 있으니, 방문 전에 공식 홈페이지에서 운영 시간 및 예약 정보를 미리 확인하는 것을 추천합니다.",
+            "alt_text": "방문객들이 줄 서서 기다리는 모습 또는 안내 표지판"
+          }
+        ],
+        "caption": "후지큐 하이랜드에 산리오 친구들과 함께하는 신나는 실내 어트랙션이 11월 14일에 문을 열어요! 🥳\n\n'San-X Paradise Secret Party!'에서 귀여운 캐릭터들과 함께 잊지 못할 추억을 만들어 보세요.\n\n✅ 오픈일: 11월 14일\n✅ 장소: 후지큐 하이랜드\n\n지금 바로 11월 일본 여행 계획에 추가하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후지큐하이랜드",
+          "#산리오",
+          "#산리오어트랙션",
+          "#일본신상",
+          "#일본놀거리",
+          "#도쿄근교",
+          "#가족여행",
+          "#일본자유여행",
+          "#11월일본여행",
+          "#신규개장",
+          "#여행정보",
+          "#일본테마파크",
+          "#실내어트랙션"
+        ],
+        "alt_texts": [
+          "새로운 산리오 테마의 실내 어트랙션 입구 이미지",
+          "어트랙션 내부에서 캐릭터와 함께 기념 촬영하는 모습",
+          "다양한 산리오 캐릭터 테마로 꾸며진 실내 공간",
+          "후지큐 하이랜드 전경과 후지산이 보이는 풍경",
+          "방문객들이 줄 서서 기다리는 모습 또는 안내 표지판"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 가족 여행객, 산리오 팬 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 높은 관심과 예약 문의 증가 / 이 콘텐츠의 강점: 최신 오픈 정보와 상세한 내용 제공, 가족 단위 여행객에게 매력적인 테마",
+      "image": {
+        "keyword": "Fuji-Q Highland Sanrio indoor attraction opening",
+        "unsplash_url": "https://unsplash.com/s/photos/Fuji-Q-Highland-Sanrio-indoor-attraction-opening",
+        "pexels_url": "https://www.pexels.com/search/Fuji-Q%20Highland%20Sanrio%20indoor%20attraction%20opening/"
+      }
+    },
+    {
+      "id": "plan_8dcbc3a2",
+      "created_at": "2026-11-15T02:39:14.946357",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーアンバサダーホテルに「アベンジャーズ／ドゥームズデイ」メニュー登場。ダークなグリーンが決め手のドリンク",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156371.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "디즈니 팬이라면 놓칠 수 없는 어벤져스 콜라보! 한정 메뉴로 특별한 추억 만들기!"
+      },
+      "content": {
+        "thumbnail_title": "✨도쿄 디즈니 💖 어벤져스 한정 메뉴!",
+        "cards": [
+          {
+            "title": "콜라보 기간",
+            "content": "디즈니 앰버서더 호텔에서 영화 '어벤져스: 둠즈데이' 일본 개봉 기념 스페셜 메뉴를 2024년 12월 1일부터 2027년 1월 11일까지 선보입니다.",
+            "alt_text": "디즈니 앰버서더 호텔 외관 이미지"
+          },
+          {
+            "title": "메뉴 특징",
+            "content": "이번 스페셜 메뉴는 '어벤져스: 둠즈데이'의 다크한 분위기를 담아낸 것이 특징입니다. 특히 짙은 녹색이 돋보이는 음료가 시선을 사로잡습니다.",
+            "alt_text": "어벤져스 테마의 음료 이미지"
+          },
+          {
+            "title": "호텔 정보",
+            "content": "디즈니 앰버서더 호텔은 도쿄 디즈니랜드 리조트에 위치하고 있으며, 테마파크와 연결되어 편리한 접근성을 자랑합니다.",
+            "alt_text": "디즈니 앰버서더 호텔 내부 객실 이미지"
+          },
+          {
+            "title": "예약 팁",
+            "content": "인기 메뉴는 조기 소진될 수 있으니, 방문 전 호텔 웹사이트에서 메뉴 확인 및 레스토랑 예약 가능 여부를 확인하는 것이 좋습니다.",
+            "alt_text": "호텔 레스토랑 예약 웹사이트 화면 캡처 이미지"
+          },
+          {
+            "title": "추가 꿀팁",
+            "content": "메뉴와 함께 호텔 곳곳에 마련된 어벤져스 테마 포토존에서 특별한 기념 사진을 남겨보세요. 잊지 못할 추억이 될 거예요!",
+            "alt_text": "어벤져스 테마 포토존 이미지"
+          }
+        ],
+        "caption": "💖도쿄 디즈니 앰버서더 호텔에서 펼쳐지는 어벤져스 월드! 🎬\n영화 '어벤져스: 둠즈데이' 개봉 기념으로 특별한 한정 메뉴가 2024년 12월 1일부터 2027년 1월 11일까지 선보입니다!\n다크한 분위기를 담은 비주얼과 맛으로 잊지 못할 경험을 선사할 거예요.\n디즈니 팬이라면 절대 놓치지 마세요! 😉\n\n✨ 지금 바로 도쿄 디즈니 앰버서더 호텔에서의 특별한 순간을 계획해보세요!",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#디즈니랜드",
+          "#디즈니",
+          "#디즈니랜드도쿄",
+          "#디즈니호텔",
+          "#앰버서더호텔",
+          "#어벤져스",
+          "#어벤져스둠즈데이",
+          "#일본한정",
+          "#일본맛집",
+          "#테마파크",
+          "#도쿄",
+          "#여행정보"
+        ],
+        "alt_texts": [
+          "디즈니 앰버서더 호텔 외관 이미지",
+          "어벤져스 테마의 음료 이미지",
+          "디즈니 앰버서더 호텔 내부 객실 이미지",
+          "호텔 레스토랑 예약 웹사이트 화면 캡처 이미지",
+          "어벤져스 테마 포토존 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 디즈니 및 마블 팬, 도쿄 여행 예정자 / 최적 게시 시간: 평일 저녁 7시 ~ 9시 / 기대 반응: 높은 관심과 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 구체적인 기간과 장소, 시즈널리티가 명확한 특별 이벤트 정보",
+      "image": {
+        "keyword": "Disney Ambassador Hotel, Avengers Doomomsday, special menu, Tokyo Disneyland, limited time offer",
+        "unsplash_url": "https://unsplash.com/s/photos/Disney-Ambassador-Hotel,-Avengers-Doomomsday,-special-menu,-Tokyo-Disneyland,-limited-time-offer",
+        "pexels_url": "https://www.pexels.com/search/Disney%20Ambassador%20Hotel,%20Avengers%20Doomomsday,%20special%20menu,%20Tokyo%20Disneyland,%20limited%20time%20offer/"
+      }
+    },
     {
       "id": "plan_ec5ded24",
       "created_at": "2026-11-14T06:05:16.753301",
@@ -923,160 +1077,6 @@
         "keyword": "Spring Japan new livery, Japanese airline, travel to Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Spring-Japan-new-livery,-Japanese-airline,-travel-to-Japan",
         "pexels_url": "https://www.pexels.com/search/Spring%20Japan%20new%20livery,%20Japanese%20airline,%20travel%20to%20Japan/"
-      }
-    },
-    {
-      "id": "plan_cc46493b",
-      "created_at": "2026-11-11T05:57:13.602350",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ローソン限定“ひつじスヌーピー”超ミニ財布。薄型でお札・カード・小銭も入る、箔押しが上品なブラック/ブラウン",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155475.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "귀여움 끝판왕! 스누피 미니 지갑, 2027년 양띠 에디션으로 일본 로손에서만 만나요!"
-      },
-      "content": {
-        "thumbnail_title": "💖로손 한정 스누피 지갑💖",
-        "cards": [
-          {
-            "title": "신상 지갑 출시!",
-            "content": "2027년 양띠 해를 맞아 스누피 특별 디자인 미니 지갑이 출시됩니다. 🐑",
-            "alt_text": "양띠 해 스누피 디자인 미니 지갑 이미지"
-          },
-          {
-            "title": "가격 및 색상",
-            "content": "블랙과 브라운 두 가지 색상으로 출시되며, 가격은 각 3,080엔입니다.",
-            "alt_text": "블랙과 브라운 색상의 스누피 미니 지갑 이미지"
-          },
-          {
-            "title": "구매처는?",
-            "content": "일본 로손(LAWSON) 및 HMV&BOOKS online에서만 독점 판매됩니다. 일반 서점에서는 구매할 수 없습니다.",
-            "alt_text": "로손 편의점 매장 이미지"
-          },
-          {
-            "title": "기능성 UP!",
-            "content": "얇고 컴팩트한 디자인으로 지폐, 카드, 동전까지 수납 가능하며, 고급스러운 금박 장식이 포인트입니다.",
-            "alt_text": "스누피 미니 지갑 내부 수납 공간 이미지"
-          },
-          {
-            "title": "출시일 놓치지 마세요!",
-            "content": "2024년 11월 28일에 발매 예정이니, 일본 여행 계획 중이시라면 꼭 기억해두세요!",
-            "alt_text": "달력에 11월 28일이 표시된 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수템 예약! 💖 2027년 양띠 에디션으로 돌아온 스누피 미니 지갑이 로손 한정으로 출시됩니다! 🐑 3,080엔으로 블랙, 브라운 두 가지 색상에 지폐, 카드, 동전까지 넉넉하게 수납 가능해요. 11월 28일 발매! 일본 여행 가시는 분들, 로손에서 꼭 득템하세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#로손",
-          "#스누피",
-          "#일본쇼핑",
-          "#한정판",
-          "#여행필수템",
-          "#일본편의점",
-          "#2027년",
-          "#양띠",
-          "#미니지갑",
-          "#HMV",
-          "#득템찬스",
-          "#일본굿즈",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "양띠 해 스누피 디자인 미니 지갑 이미지",
-          "블랙과 브라운 색상의 스누피 미니 지갑 이미지",
-          "로손 편의점 매장 이미지",
-          "스누피 미니 지갑 내부 수납 공간 이미지",
-          "달력에 11월 28일이 표시된 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 구매 욕구 자극, 정보 공유 활발 / 이 콘텐츠의 강점: 귀여운 캐릭터와 실용성을 갖춘 한정판 아이템으로 즉각적인 관심 유발",
-      "image": {
-        "keyword": "Snoopy mini wallet, Lawson limited, Japan shopping, 2027 Year of the Sheep, Cute wallet",
-        "unsplash_url": "https://unsplash.com/s/photos/Snoopy-mini-wallet,-Lawson-limited,-Japan-shopping,-2027-Year-of-the-Sheep,-Cute-wallet",
-        "pexels_url": "https://www.pexels.com/search/Snoopy%20mini%20wallet,%20Lawson%20limited,%20Japan%20shopping,%202027%20Year%20of%20the%20Sheep,%20Cute%20wallet/"
-      }
-    },
-    {
-      "id": "plan_73141284",
-      "created_at": "2026-11-11T05:57:08.739369",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東海ツアーズ、新幹線＋ホテルがお得な「BLACK FRIDAY SALE」。LINE連携の先行セール開始、連泊割も新登場",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2155468.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "신칸센+호텔 특가로 일본 여행 준비 끝!"
-      },
-      "content": {
-        "thumbnail_title": "🚄블프 찬스! 신칸센+호텔 특가🔥",
-        "cards": [
-          {
-            "title": "블프 세일",
-            "content": "JR東海ツアーズ에서 신칸센과 호텔을 묶은 'EX旅パック' 블랙 프라이데이 세일을 11월 13일 13시부터 30일 20시까지 진행합니다.",
-            "alt_text": "JR東海ツアーズ 블랙 프라이데이 세일 안내 배너"
-          },
-          {
-            "title": "선행 세일",
-            "content": "LINE 공식 계정 연동 고객 대상 선행 세일은 11월 11일부터 13일 12시 59분까지 진행되니 서둘러 참여하세요.",
-            "alt_text": "LINE 연동 고객 대상 선행 세일 안내"
-          },
-          {
-            "title": "새로운 혜택",
-            "content": "이번 블랙 프라이데이 세일에는 연박 시 추가 할인 혜택을 제공하는 '연박 할인'도 새롭게 추가되었습니다.",
-            "alt_text": "연박 할인 혜택 안내"
-          },
-          {
-            "title": "상품 구성",
-            "content": "신칸센 왕복 티켓과 함께 다양한 지역의 호텔 중 원하는 곳을 선택할 수 있는 알찬 구성입니다.",
-            "alt_text": "신칸센 티켓과 호텔 선택 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "여행 계획 중이라면 이번 기회를 놓치지 마세요! 미리 LINE 계정을 연동해두면 더욱 빠르게 혜택을 받을 수 있습니다.",
-            "alt_text": "여행 계획 중인 사람들을 위한 꿀팁 안내"
-          }
-        ],
-        "caption": "일본 여행 준비 중이라면 주목! 📢\nJR東海ツアーズ에서 신칸센과 호텔을 묶어 파격적인 가격으로 제공하는 '블랙 프라이데이 세일'을 진행합니다! 🚄🏨\n\n11월 13일 13시부터 30일 20시까지 진행되며, LINE 연동 고객은 11월 11일부터 선행 참여 가능해요. 🤫\n\n이번 세일에는 연박 시 추가 할인 혜택까지! 💯\n최적의 가격으로 일본 여행을 계획할 절호의 찬스, 놓치지 마세요! ✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#신칸센",
-          "#일본호텔",
-          "#블랙프라이데이",
-          "#JR",
-          "#여행특가",
-          "#일본교통",
-          "#일본숙소",
-          "#여행스타그램",
-          "#가을여행",
-          "#겨울여행",
-          "#일본여행준비",
-          "#가성비여행",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "JR東海ツアーズ 블랙 프라이데이 세일 안내 배너",
-          "LINE 연동 고객 대상 선행 세일 안내",
-          "연박 할인 혜택 안내",
-          "신칸센 티켓과 호텔 선택 이미지",
-          "여행 계획 중인 사람들을 위한 꿀팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 클릭률 및 문의 / 이 콘텐츠의 강점: 명확한 할인 정보와 기간, 선행 세일 혜택 강조",
-      "image": {
-        "keyword": "Shinkansen, hotel package, Black Friday sale, Japan travel, JR Tokai Tours",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-hotel-package,-Black-Friday-sale,-Japan-travel,-JR-Tokai-Tours",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20hotel%20package,%20Black%20Friday%20sale,%20Japan%20travel,%20JR%20Tokai%20Tours/"
       }
     }
   ]
