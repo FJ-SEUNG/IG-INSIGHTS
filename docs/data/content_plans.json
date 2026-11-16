@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-16T02:43:47.578592",
+  "last_updated": "2026-11-16T06:09:57.017947",
   "plans": [
+    {
+      "id": "plan_0ce60dd9",
+      "created_at": "2026-11-16T06:09:55.017791",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東急、「ツギツギ」の宿泊・航空連携が規制のサンドボックス制度に認定",
+        "url": "https://www.traicy.com/posts/20261116388048/",
+        "date": "Mon, 16 Nov 2026 00:15:38 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "숙박과 항공권 결합! 도큐 '츠기츠기' 혜택 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️숙박+항공권 결합 꿀팁!",
+        "cards": [
+          {
+            "title": "츠기츠기 혜택",
+            "content": "도큐에서 새롭게 선보이는 '츠기츠기' 서비스가 숙박과 항공권 연계에 대한 실증 계획을 발표했습니다. 이 서비스는 정액제로 운영될 예정입니다.",
+            "alt_text": "도큐 츠기츠기 서비스 로고"
+          },
+          {
+            "title": "규제 샌드박스",
+            "content": "해당 계획은 일본 정부의 '규제 샌드박스 제도' 승인을 받아, 혁신적인 서비스 도입을 위한 발판을 마련했습니다. 이는 관광객에게 더 나은 경험을 제공할 것으로 기대됩니다.",
+            "alt_text": "일본 규제 샌드박스 제도 관련 이미지"
+          },
+          {
+            "title": "실증 계획",
+            "content": "숙박과 항공권 연계를 통해 여행 계획의 편의성을 높이고, 새로운 형태의 여행 상품 개발 가능성을 모색합니다. 구체적인 서비스 내용은 추후 공개될 예정입니다.",
+            "alt_text": "여행 계획 중인 사람 이미지"
+          },
+          {
+            "title": "기대 효과",
+            "content": "이를 통해 한국인 여행자들은 일본 내에서 더욱 편리하고 합리적인 가격으로 숙박과 항공권을 동시에 예약할 수 있게 될 것으로 보입니다.",
+            "alt_text": "일본 지도와 항공기 이미지"
+          },
+          {
+            "title": "기대 포인트",
+            "content": "정액제 숙박과 항공권 연계 상품 출시를 기대하며, 언제 발표될지 주목해 보세요! 자세한 내용은 도큐 공식 발표를 기다려야 합니다.",
+            "alt_text": "기대감을 나타내는 이모티콘 이미지"
+          }
+        ],
+        "caption": "일본 여행 계획 중이신가요? ✈️ 도큐에서 새롭게 선보이는 '츠기츠기' 서비스가 숙박과 항공권 연계에 대한 실증 계획을 발표했어요! 🎉\n\n규제 샌드박스 제도를 통해 승인받은 이 서비스는 앞으로 더욱 편리하고 합리적인 일본 여행을 가능하게 할 것으로 기대됩니다. 🤩\n\n정액제 숙박과 항공권 연계 상품, 어떤 혜택이 기다릴지 벌써부터 궁금하네요! 👀\n\n#일본여행 #플라잉재팬 #도큐 #츠기츠기 #일본숙박 #일본항공권 #여행꿀팁 #일본여행준비 #규제샌드박스 #여행정보 #여행스타그램 #일본자유여행 #새로운여행",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도큐",
+          "#츠기츠기",
+          "#일본숙박",
+          "#일본항공권",
+          "#여행꿀팁",
+          "#일본여행준비",
+          "#규제샌드박스",
+          "#여행정보",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#새로운여행",
+          "#일본",
+          "#여행"
+        ],
+        "alt_texts": [
+          "도큐 츠기츠기 서비스 로고",
+          "일본 규제 샌드박스 제도 관련 이미지",
+          "여행 계획 중인 사람 이미지",
+          "일본 지도와 항공기 이미지",
+          "기대감을 나타내는 이모티콘 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 서비스 출시 시점에 대한 기대감, 정보 공유 활발 / 이 콘텐츠의 강점: 혁신적인 신규 서비스 정보를 가장 먼저 제공하여 주목도 높음",
+      "image": {
+        "keyword": "Japan travel, accommodation and flight package, Tokyu TsugiTsugi, regulatory sandbox",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-accommodation-and-flight-package,-Tokyu-TsugiTsugi,-regulatory-sandbox",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20accommodation%20and%20flight%20package,%20Tokyu%20TsugiTsugi,%20regulatory%20sandbox/"
+      }
+    },
+    {
+      "id": "plan_fb4c3e49",
+      "created_at": "2026-11-16T06:09:47.955497",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「パペットスンスンストア」渋谷ヒカリエ内覧レポート。ストア限定を含む100点以上のグッズ売り場を撮り下ろしで紹介",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156686.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본에서만 만날 수 있는 캐릭터 팝업 스토어 오픈 소식!"
+      },
+      "content": {
+        "thumbnail_title": "스밋코구라시 팝업 스토어 OPEN!✨",
+        "cards": [
+          {
+            "title": "신규 팝업 스토어",
+            "content": "인기 캐릭터 '파펫 스スン'의 첫 상설 매장이 도쿄 시부야 히카리에와 오사카 우메다에 오픈했어요. 2024년 7월 19일 오픈 예정입니다.",
+            "alt_text": "파펫 스スン 팝업 스토어 입구 이미지"
+          },
+          {
+            "title": "100개 이상 굿즈",
+            "content": "매장 한정 굿즈를 포함하여 100가지 이상의 다양한 파펫 스スン 관련 상품을 만날 수 있어요. 캐릭터별 굿즈를 꼼꼼히 살펴보세요!",
+            "alt_text": "팝업 스토어 내부 굿즈 진열대 이미지"
+          },
+          {
+            "title": "시부야 히카리에",
+            "content": "도쿄 시부야 히카리에 6층에서 열리는 이번 팝업 스토어는 쇼핑과 식사를 한 번에 즐길 수 있는 시부야 중심부에 위치해 접근성이 좋아요.",
+            "alt_text": "시부야 히카리에 건물 외관 이미지"
+          },
+          {
+            "title": "오사카 우메다",
+            "content": "오사카에서는 우메다역 근처에서 팝업 스토어가 열릴 예정이니, 오사카 여행 시 방문 계획을 세워보세요. 정확한 위치는 추후 공개됩니다.",
+            "alt_text": "오사카 우메다 지역 이미지"
+          },
+          {
+            "title": "방문 꿀팁",
+            "content": "오픈 초기에는 사람이 몰릴 수 있으니, 평일 오전에 방문하는 것을 추천해요. 좋아하는 캐릭터 굿즈를 놓치지 않도록 미리 위시리스트를 만들어 가세요!",
+            "alt_text": "파펫 스スン 캐릭터 굿즈 모음 이미지"
+          }
+        ],
+        "caption": "📢 일본 여행 필수 코스! 인기 캐릭터 '파펫 스スン'의 첫 상설 매장이 도쿄 시부야와 오사카 우메다에 오픈해요! ✨ 100가지 이상의 한정 굿즈와 함께 특별한 추억을 만들어 보세요. 💖\n\n📍 도쿄: 시부야 히카리에 6층 (7월 19일 오픈)\n📍 오사카: 우메다 (추후 공개)\n\n#파펫스スン #일본팝업스토어 #도쿄여행 #오사카여행 #시부야 #우메다 #캐릭터굿즈 #일본쇼핑 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#파펫스スン",
+          "#일본팝업스토어",
+          "#도쿄여행",
+          "#오사카여행",
+          "#시부야",
+          "#우메다",
+          "#캐릭터굿즈",
+          "#일본쇼핑",
+          "#여행정보",
+          "#일본한정",
+          "#여행스타그램",
+          "#해외여행",
+          "#굿즈샵"
+        ],
+        "alt_texts": [
+          "파펫 스スン 팝업 스토어 입구 이미지",
+          "팝업 스토어 내부 굿즈 진열대 이미지",
+          "시부야 히카리에 건물 외관 이미지",
+          "오사카 우메다 지역 이미지",
+          "파펫 스スン 캐릭터 굿즈 모음 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 주중 오후 5-7시 / 기대 반응: 높은 관심과 정보 공유, 방문 계획 수립 / 이 콘텐츠의 강점: 한국인이 좋아하는 캐릭터 팝업 스토어 오픈 소식으로 즉각적인 흥미 유발 및 구체적인 정보 제공",
+      "image": {
+        "keyword": "Puppet SunSun store, Shibuya Hikarie, Osaka Umeda, character goods, Japan pop-up store",
+        "unsplash_url": "https://unsplash.com/s/photos/Puppet-SunSun-store,-Shibuya-Hikarie,-Osaka-Umeda,-character-goods,-Japan-pop-up-store",
+        "pexels_url": "https://www.pexels.com/search/Puppet%20SunSun%20store,%20Shibuya%20Hikarie,%20Osaka%20Umeda,%20character%20goods,%20Japan%20pop-up%20store/"
+      }
+    },
     {
       "id": "plan_83fb1a6d",
       "created_at": "2026-11-16T02:43:45.578416",
@@ -923,160 +1077,6 @@
         "keyword": "ANA airlines, Japan domestic flight, sale, discount, travel, airplane ticket, Tokyo, Sapporo, Fukuoka",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-airlines,-Japan-domestic-flight,-sale,-discount,-travel,-airplane-ticket,-Tokyo,-Sapporo,-Fukuoka",
         "pexels_url": "https://www.pexels.com/search/ANA%20airlines,%20Japan%20domestic%20flight,%20sale,%20discount,%20travel,%20airplane%20ticket,%20Tokyo,%20Sapporo,%20Fukuoka/"
-      }
-    },
-    {
-      "id": "plan_3e76b39c",
-      "created_at": "2026-11-13T03:25:07.236842",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ユニクロ、感謝祭初日に「木村屋總本店のあんぱん」店頭で先着配布。冬のお出かけアイテム特価の7日間はじまる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156087.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "겨울 일본 여행 필수템 득템 찬스! 유니클로 감사제 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "유니클로 감사제 🎁",
-        "cards": [
-          {
-            "title": "감사제 기간",
-            "content": "유니클로 감사제가 11월 20일부터 26일까지 7일간 전국 매장 및 온라인 스토어에서 진행됩니다. 겨울철 필수 의류를 특별 할인가로 만나보세요!",
-            "alt_text": "유니클로 감사제 행사 기간 안내"
-          },
-          {
-            "title": "안성맞춤 혜택",
-            "content": "겨울철 따뜻하게 보낼 수 있는 다양한 아우터, 니트, 플리스 등 의류를 파격적인 할인가로 구매할 수 있는 절호의 기회입니다.",
-            "alt_text": "겨울 의류 할인 혜택 이미지"
-          },
-          {
-            "title": "선착순 선물",
-            "content": "감사제 첫날인 11월 20일에는 매장에서 선착순으로 '키무라야 총본점의 앙팡'을 증정하는 이벤트도 진행됩니다. 따뜻한 앙팡과 함께 쇼핑을 즐겨보세요!",
-            "alt_text": "키무라야 총본점 앙팡 이미지"
-          },
-          {
-            "title": "온라인 스토어",
-            "content": "매장 방문이 어렵다면 유니클로 온라인 스토어를 통해 편리하게 쇼핑하실 수 있습니다. 7일간의 감사제를 놓치지 마세요!",
-            "alt_text": "유니클로 온라인 스토어 접속 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 상품은 조기 품절될 수 있으니, 원하는 상품이 있다면 행사 시작 시간에 맞춰 방문하거나 온라인 스토어를 미리 확인하는 것이 좋습니다.",
-            "alt_text": "쇼핑 팁 안내 이미지"
-          }
-        ],
-        "caption": "🇯🇵 겨울 일본 여행 필수템 득템 찬스! 🇯🇵\n\n유니클로 감사제가 11월 20일부터 26일까지 7일간 전국 매장 및 온라인 스토어에서 진행됩니다! 🥳\n\n따뜻한 겨울 의류를 특별 할인가로 만날 수 있는 절호의 기회! 첫날 선착순 앙팡 증정 이벤트도 놓치지 마세요 🎁\n\n이번 감사제 기간, 미리 준비해서 알찬 쇼핑 즐기세요! ✨\n\n#일본여행 #플라잉재팬 #유니클로 #유니클로감사제 #일본쇼핑 #겨울여행 #쇼핑찬스 #할인정보 #일본직구 #일본생활 #도쿄여행 #오사카여행 #여행꿀팁 #득템찬스 #겨울필수템",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#유니클로감사제",
-          "#일본쇼핑",
-          "#겨울여행",
-          "#쇼핑찬스",
-          "#할인정보",
-          "#일본직구",
-          "#일본생활",
-          "#도쿄여행",
-          "#오사카여행",
-          "#여행꿀팁",
-          "#득템찬스",
-          "#겨울필수템"
-        ],
-        "alt_texts": [
-          "유니클로 감사제 행사 기간 안내",
-          "겨울 의류 할인 혜택 이미지",
-          "키무라야 총본점 앙팡 이미지",
-          "유니클로 온라인 스토어 접속 안내",
-          "쇼핑 팁 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6-8시 / 기대 반응: 정보 공유 및 구매 의욕 고취 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 실질적인 쇼핑 팁 제공",
-      "image": {
-        "keyword": "Uniqlo, Japan, Winter Sale, Limited Offer, Bread, Shopping",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Japan,-Winter-Sale,-Limited-Offer,-Bread,-Shopping",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Japan,%20Winter%20Sale,%20Limited%20Offer,%20Bread,%20Shopping/"
-      }
-    },
-    {
-      "id": "plan_e5d233e8",
-      "created_at": "2026-11-13T03:25:01.439106",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【週末駅弁】東京駅「秋のおべんとう～栗おこわ」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2155876.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "가을 시즌 한정! 도쿄역에서 만나는 특별한 일본식 도시락 '추억의 밤' 🌰"
-      },
-      "content": {
-        "thumbnail_title": "🍁도쿄역 가을 한정 도시락🍁",
-        "cards": [
-          {
-            "title": "가을 한정 도시락",
-            "content": "일본의 유명 백화점 '니혼바시 다이마스'에서 선보이는 가을 한정 도시락 '추억의 밤 ~밤 오코와~'를 소개합니다. 10월부터 판매되는 이 도시락은 가을의 정취를 담은 특별한 메뉴입니다.",
-            "alt_text": "밤 오코와 도시락의 먹음직스러운 모습"
-          },
-          {
-            "title": "주요 메뉴",
-            "content": "도시락 안에는 가을 제철 식재료인 밤과 은행을 활용한 밥과 다양한 곁들임 반찬이 정갈하게 담겨 있습니다. 짙은 밤의 풍미와 은은한 은행의 향이 가을을 느끼게 해줍니다.",
-            "alt_text": "도시락 속 밤과 은행이 돋보이는 모습"
-          },
-          {
-            "title": "패키지 디자인",
-            "content": "도시락 패키지에는 밤과 은행을 형상화한 감성적인 일러스트가 그려져 있어, 개봉 전부터 기대감을 높입니다. 선물용으로도 손색없는 아름다운 디자인입니다.",
-            "alt_text": "가을 일러스트가 그려진 도시락 패키지"
-          },
-          {
-            "title": "판매 장소",
-            "content": "이 특별한 가을 한정 도시락은 도쿄역의 '에키벤' 코너에서 구매하실 수 있습니다. 여행 중 간단하면서도 특별한 식사를 즐기고 싶다면 놓치지 마세요.",
-            "alt_text": "도쿄역 에키벤 판매 코너 전경"
-          },
-          {
-            "title": "꿀팁",
-            "content": "가을 시즌에 도쿄역을 방문하신다면, 이 한정 도시락을 꼭 맛보세요. 기간 한정으로 판매되니 서둘러 구매하시는 것을 추천합니다. 여행의 즐거움을 더해줄 특별한 경험이 될 것입니다.",
-            "alt_text": "가을 분위기가 물씬 풍기는 도시락"
-          }
-        ],
-        "caption": "🇯🇵 도쿄역에서 만나는 가을의 맛! 🌰\n일본의 유명 백화점 '니혼바시 다이마스'가 선보이는 가을 한정 도시락 '추억의 밤 ~밤 오코와~'를 소개합니다.\n밤과 은행 등 제철 식재료로 가득 채워진 특별한 메뉴를 도쿄역에서 만나보세요!\n가을 시즌 한정 판매이니, 도쿄 여행 중이라면 꼭 맛보세요! 🍁\n\n#일본여행 #도쿄여행 #도쿄역 #에키벤 #가을한정 #일본음식 #먹스타그램",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#도쿄역",
-          "#에키벤",
-          "#일본도시락",
-          "#가을여행",
-          "#가을만끽",
-          "#일본음식",
-          "#먹스타그램",
-          "#여행스타그램",
-          "#일본맛집",
-          "#일본가볼만한곳",
-          "#한정메뉴",
-          "#도쿄맛집"
-        ],
-        "alt_texts": [
-          "밤 오코와 도시락의 먹음직스러운 모습",
-          "도시락 속 밤과 은행이 돋보이는 모습",
-          "가을 일러스트가 그려진 도시락 패키지",
-          "도쿄역 에키벤 판매 코너 전경",
-          "가을 분위기가 물씬 풍기는 도시락"
-        ]
-      },
-      "marketer_analysis": "타겟: 가을 시즌 일본 여행을 계획 중인 한국인 관광객 / 최적 게시 시간: 오후 3시 ~ 5시 (점심 식사 후 또는 저녁 식사 계획 시) / 기대 반응: 높은 관심과 구매 의사, '꼭 먹어봐야 할 음식'으로 인식 / 이 콘텐츠의 강점: 시즌 한정, 지역 명소(도쿄역) 연계, 구체적인 메뉴 정보 제공",
-      "image": {
-        "keyword": "Tokyo Station autumn bento, Japanese chestnut rice bento, limited edition bento, seasonal Japanese food, delicious bento",
-        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-autumn-bento,-Japanese-chestnut-rice-bento,-limited-edition-bento,-seasonal-Japanese-food,-delicious-bento",
-        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20autumn%20bento,%20Japanese%20chestnut%20rice%20bento,%20limited%20edition%20bento,%20seasonal%20Japanese%20food,%20delicious%20bento/"
       }
     }
   ]
