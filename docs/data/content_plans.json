@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-16T06:09:57.017947",
+  "last_updated": "2026-11-17T05:05:05.337959",
   "plans": [
+    {
+      "id": "plan_f972672c",
+      "created_at": "2026-11-17T05:05:03.337785",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JALのブラックフライデー、本日スタート！　羽田～伊丹線9460円から、航空券＋宿泊が最大5万円引き、JAL Mallでマイルが最大13倍",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156975.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "JAL 블랙프라이데이 역대급 할인 찬스! 놓치면 후회할 거예요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL 블랙프라이데이 역대급 할인!✈️",
+        "cards": [
+          {
+            "title": "블랙프라이데이 시작!",
+            "content": "JAL의 역대급 블랙프라이데이 세일 'JALunLun BLACK FLYDAY 2026'이 오늘 시작했어요! ✈️",
+            "alt_text": "JAL 항공기 이미지"
+          },
+          {
+            "title": "파격 특가 항공권",
+            "content": "지금 바로 예약하면 하네다~이타미 노선을 단 9,460엔부터 구매 가능! ✨",
+            "alt_text": "항공권 가격표 이미지"
+          },
+          {
+            "title": "숙박+항공권 할인",
+            "content": "항공권과 숙박을 함께 예약하면 최대 50,000엔 할인 혜택까지! 🏨",
+            "alt_text": "호텔과 항공권 결합 이미지"
+          },
+          {
+            "title": "JAL Mall 혜택",
+            "content": "JAL Mall에서는 마일이 최대 13배 적립되는 특별한 기회도 놓치지 마세요! 🛍️",
+            "alt_text": "쇼핑백과 마일리지 아이콘 이미지"
+          },
+          {
+            "title": "놓치면 후회!",
+            "content": "세일 기간은 11월 17일 0시부터 30일 23시 59분까지! 서둘러 예약하세요! ⏳",
+            "alt_text": "시계와 달력 이미지"
+          }
+        ],
+        "caption": "🚨JAL 블랙프라이데이 역대급 세일 시작!🚨\n\n일본 여행 준비 중이라면 이번 기회 절대 놓치지 마세요! ✈️\n\n✈️ 하네다-이타미 노선 9,460엔부터!\n🏨 항공권+숙박 최대 50,000엔 할인!\n🛍️ JAL Mall 마일 최대 13배 적립!\n\n✨ 11/17 ~ 11/30까지, 지금 바로 예약하세요! ✨\n\n#일본여행 #JAL #블랙프라이데이 #항공권할인 #여행스타그램 #일본항공권 #플라잉재팬 #JALunLunBLACKFLYDAY2026 #여행특가 #일본자유여행 #여행정보 #할인정보 #일본쇼핑 #가성비여행 #놓치면후회",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#블랙프라이데이",
+          "#항공권할인",
+          "#여행스타그램",
+          "#일본항공권",
+          "#JALunLunBLACKFLYDAY2026",
+          "#여행특가",
+          "#일본자유여행",
+          "#여행정보",
+          "#할인정보",
+          "#일본쇼핑",
+          "#가성비여행",
+          "#놓치면후회"
+        ],
+        "alt_texts": [
+          "JAL 항공기 이미지",
+          "항공권 가격표 이미지",
+          "호텔과 항공권 결합 이미지",
+          "쇼핑백과 마일리지 아이콘 이미지",
+          "시계와 달력 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 오후 6시 ~ 9시 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 파격적인 할인율과 구체적인 혜택 제공으로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "JAL airplane, Black Friday sale Japan, Japan flight ticket discount, travel deals Japan, JAL Mall",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL-airplane,-Black-Friday-sale-Japan,-Japan-flight-ticket-discount,-travel-deals-Japan,-JAL-Mall",
+        "pexels_url": "https://www.pexels.com/search/JAL%20airplane,%20Black%20Friday%20sale%20Japan,%20Japan%20flight%20ticket%20discount,%20travel%20deals%20Japan,%20JAL%20Mall/"
+      }
+    },
+    {
+      "id": "plan_a938b852",
+      "created_at": "2026-11-17T05:04:58.306907",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ディズニーストア、最大40％オフのブラックフライデーセール。“ブラック”なキャラアイテムが対象に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156987.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 디즈니 스토어 역대급 할인 찬스! 최대 40% OFF 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니 스토어 40% OFF!✨",
+        "cards": [
+          {
+            "title": "블랙 프라이데이",
+            "content": "일본 디즈니 스토어에서 블랙 프라이데이 세일이 시작됩니다! 최대 40% 할인 혜택을 놓치지 마세요.",
+            "alt_text": "일본 디즈니 스토어 간판 이미지"
+          },
+          {
+            "title": "할인 기간",
+            "content": "매장에서는 11월 20일부터 11월 30일까지, 공식 온라인 스토어에서는 11월 20일부터 12월 1일까지 진행됩니다.",
+            "alt_text": "할인 기간을 나타내는 캘린더 이미지"
+          },
+          {
+            "title": "할인 대상",
+            "content": "특히 '블랙' 컨셉의 캐릭터 상품들이 할인 대상입니다. 인기 상품은 조기 품절될 수 있습니다.",
+            "alt_text": "블랙 컨셉 디즈니 캐릭터 상품 이미지"
+          },
+          {
+            "title": "온라인/오프라인",
+            "content": "일본 전국의 디즈니 스토어 매장과 공식 온라인 스토어에서 동시에 진행되니 편리한 방법으로 쇼핑하세요.",
+            "alt_text": "디즈니 스토어 매장 내부와 온라인 스토어 화면 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "여행 일정 중 할인 기간을 꼭 확인하고 방문하세요! 온라인 스토어는 한국에서 접속 가능할 수 있습니다. (확인 필요)",
+            "alt_text": "쇼핑백과 할인 태그 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수 쇼핑 찬스!🇯🇵\n디즈니 스토어 블랙 프라이데이 세일이 시작됩니다! 최대 40% 할인된 가격으로 귀여운 디즈니 굿즈를 득템하세요! ✨\n\n✅ 기간: 11/20 ~ 11/30 (매장), 11/20 ~ 12/01 (온라인)\n✅ 할인 대상: 블랙 컨셉 캐릭터 상품\n\n여행 중이라면 꼭 들러보세요! 🛍️\n#일본여행 #플라잉재팬 #디즈니스토어 #블랙프라이데이 #일본쇼핑 #디즈니굿즈 #여행정보 #할인정보 #일본자유여행 #해외여행 #쇼핑찬스 #득템 #디즈니",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#디즈니스토어",
+          "#블랙프라이데이",
+          "#일본쇼핑",
+          "#디즈니굿즈",
+          "#여행정보",
+          "#할인정보",
+          "#일본자유여행",
+          "#해외여행",
+          "#쇼핑찬스",
+          "#득템",
+          "#디즈니",
+          "#일본디즈니스토어",
+          "#여행팁"
+        ],
+        "alt_texts": [
+          "일본 디즈니 스토어 간판 이미지",
+          "할인 기간을 나타내는 캘린더 이미지",
+          "블랙 컨셉 디즈니 캐릭터 상품 이미지",
+          "디즈니 스토어 매장 내부와 온라인 스토어 화면 이미지",
+          "쇼핑백과 할인 태그 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성 / 최적 게시 시간: 평일 오후 6시-8시 / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 시기적절한 할인 정보와 매력적인 할인율",
+      "image": {
+        "keyword": "disney store japan black friday sale discount",
+        "unsplash_url": "https://unsplash.com/s/photos/disney-store-japan-black-friday-sale-discount",
+        "pexels_url": "https://www.pexels.com/search/disney%20store%20japan%20black%20friday%20sale%20discount/"
+      }
+    },
     {
       "id": "plan_0ce60dd9",
       "created_at": "2026-11-16T06:09:55.017791",
@@ -923,160 +1077,6 @@
         "keyword": "beautiful library, cozy bookstore cafe, Tokyo hidden gems, Japan travel book, relaxing atmosphere",
         "unsplash_url": "https://unsplash.com/s/photos/beautiful-library,-cozy-bookstore-cafe,-Tokyo-hidden-gems,-Japan-travel-book,-relaxing-atmosphere",
         "pexels_url": "https://www.pexels.com/search/beautiful%20library,%20cozy%20bookstore%20cafe,%20Tokyo%20hidden%20gems,%20Japan%20travel%20book,%20relaxing%20atmosphere/"
-      }
-    },
-    {
-      "id": "plan_2ae4de09",
-      "created_at": "2026-11-13T06:25:35.890115",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ディズニーストア、真っ白プーさんやミッキーの「WHITE WINTER 2026」。ぬいぐるみ/セーター/手袋など",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156268.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 디즈니 스토어에서만 만날 수 있는 겨울 한정템! ❄️"
-      },
-      "content": {
-        "thumbnail_title": "디즈니 스토어 겨울 한정템 ⛄️",
-        "cards": [
-          {
-            "title": "컬렉션 출시일",
-            "content": "디즈니 스토어 'WHITE WINTER 2026' 컬렉션이 11월 20일에 발매됩니다. 겨울 테마의 귀여운 신상품들을 만나보세요!",
-            "alt_text": "화이트 윈터 컬렉션 발매일 안내"
-          },
-          {
-            "title": "선행 판매",
-            "content": "도쿄 디즈니랜드, 디즈니 스토어 플래그십 도쿄, 공식 온라인 스토어에서는 11월 17일부터 미리 구매 가능합니다. 서둘러 득템하세요!",
-            "alt_text": "디즈니 스토어 선행 판매 정보"
-          },
-          {
-            "title": "주요 상품",
-            "content": "새하얀 푸우 인형과 미키 마우스 상품을 포함하여, 겨울 분위기를 물씬 풍기는 다양한 굿즈들이 준비되어 있습니다. 🧸",
-            "alt_text": "화이트 윈터 컬렉션 상품 예시"
-          },
-          {
-            "title": "이벤트 정보",
-            "content": "겨울 시즌을 맞아 특별히 기획된 컬렉션으로, 한정 수량으로 판매될 예정이니 놓치지 마세요!",
-            "alt_text": "겨울 시즌 한정 상품 안내"
-          },
-          {
-            "title": "쇼핑 팁",
-            "content": "일본 여행 중 디즈니 스토어 방문 계획이 있다면, 이 컬렉션 정보를 꼭 기억해두세요! 선물용으로도 최고랍니다. 🎁",
-            "alt_text": "일본 디즈니 스토어 쇼핑 팁"
-          }
-        ],
-        "caption": "일본 디즈니 스토어에서만 만나는 특별한 겨울! ❄️\n\n'WHITE WINTER 2026' 컬렉션이 11월 20일 정식 출시됩니다.\n\n✅ 선행 판매: 11월 17일부터 (플래그십 도쿄, 온라인 스토어)\n✅ 화이트 푸우, 미키 인형 등 겨울 감성 가득!\n\n일본 여행 중 디즈니 스토어 방문 예정이라면, 이 한정판 컬렉션 꼭 챙기세요! 🧸\n\n#일본여행 #디즈니스토어 #겨울여행 #한정판",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#디즈니스토어",
-          "#일본쇼핑",
-          "#도쿄여행",
-          "#오사카여행",
-          "#겨울여행",
-          "#한정판",
-          "#디즈니굿즈",
-          "#푸우",
-          "#미키마우스",
-          "#여행정보",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "화이트 윈터 컬렉션 발매일 안내",
-          "디즈니 스토어 선행 판매 정보",
-          "화이트 윈터 컬렉션 상품 예시",
-          "겨울 시즌 한정 상품 안내",
-          "일본 디즈니 스토어 쇼핑 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 20-30대 여성 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 관심과 구매 의사 / 이 콘텐츠의 강점: 시기적절한 시즌 한정 정보, 한국인이 좋아하는 디즈니 캐릭터 활용",
-      "image": {
-        "keyword": "Disney Store Japan, White Winter 2026, Winnie the Pooh, Mickey Mouse, winter collection, limited edition goods",
-        "unsplash_url": "https://unsplash.com/s/photos/Disney-Store-Japan,-White-Winter-2026,-Winnie-the-Pooh,-Mickey-Mouse,-winter-collection,-limited-edition-goods",
-        "pexels_url": "https://www.pexels.com/search/Disney%20Store%20Japan,%20White%20Winter%202026,%20Winnie%20the%20Pooh,%20Mickey%20Mouse,%20winter%20collection,%20limited%20edition%20goods/"
-      }
-    },
-    {
-      "id": "plan_842a04e4",
-      "created_at": "2026-11-13T06:25:30.885865",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、国内線タイムセール開始。1～3月搭乗分、羽田～伊丹9130円～/新千歳1万450円～/福岡1万1000円～",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156273.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA 국내선 초특가 찬스! 일본 여행 경비 확 줄이기!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 역대급 타임세일!✈️",
-        "cards": [
-          {
-            "title": "타임세일 기간",
-            "content": "ANA 국내선 항공권 타임세일이 11월 19일 23시 59분까지 진행됩니다. 놓치지 마세요!",
-            "alt_text": "ANA 항공권 타임세일 종료 임박 안내"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "2027년 1월 4일부터 3월 27일까지 탑승하는 항공권이 대상입니다. 봄 시즌 여행 계획에 딱!",
-            "alt_text": "2027년 1월~3월 탑승 가능한 항공권 정보"
-          },
-          {
-            "title": "주요 노선 특가",
-            "content": "하네다-이타미 9,130원부터, 신치토세 10,450원부터, 후쿠오카 11,000원부터 구매 가능합니다.",
-            "alt_text": "ANA 국내선 특가 노선 및 가격 정보"
-          },
-          {
-            "title": "구매 방법",
-            "content": "본 프로모션은 ANA 공식 웹사이트에서만 단독으로 판매됩니다. 지금 바로 접속하세요!",
-            "alt_text": "ANA 공식 웹사이트에서만 구매 가능하다는 안내"
-          },
-          {
-            "title": "꿀팁",
-            "content": "가장 저렴한 요금은 조기 소진될 수 있으니, 원하는 날짜가 있다면 서둘러 예약하는 것이 좋습니다. 2027년 봄 여행도 미리 준비하세요!",
-            "alt_text": "ANA 항공권 얼리버드 예약 팁"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? ✈️ ANA에서 역대급 국내선 타임세일을 진행합니다!\n\n2027년 1월 4일부터 3월 27일까지 탑승 가능한 항공권을 파격적인 가격에 만나보세요.\n\n✨하네다-이타미 9,130원~\n✨신치토세 10,450원~\n✨후쿠오카 11,000원~\n\nANA 공식 홈페이지에서만 구매 가능하며, 11월 19일 23:59까지만 진행됩니다. 서둘러 예약하고 알찬 일본 여행 준비하세요! 🇯🇵\n\n#일본여행 #ANA #항공권특가 #일본항공권 #타임세일 #여행준비 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA",
-          "#일본항공권",
-          "#항공권특가",
-          "#타임세일",
-          "#일본여행준비",
-          "#2027년여행",
-          "#일본국내선",
-          "#가성비여행",
-          "#여행스타그램",
-          "#일본",
-          "#여행정보",
-          "#할인정보",
-          "#놓치면후회"
-        ],
-        "alt_texts": [
-          "ANA 항공권 타임세일 종료 임박 안내",
-          "2027년 1월~3월 탑승 가능한 항공권 정보",
-          "ANA 국내선 특가 노선 및 가격 정보",
-          "ANA 공식 웹사이트에서만 구매 가능하다는 안내",
-          "ANA 항공권 얼리버드 예약 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-5시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보와 명확한 구매 방법 제시, 여행 계획에 직접적인 도움 제공",
-      "image": {
-        "keyword": "ANA airlines, Japan domestic flight, sale, discount, travel, airplane ticket, Tokyo, Sapporo, Fukuoka",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airlines,-Japan-domestic-flight,-sale,-discount,-travel,-airplane-ticket,-Tokyo,-Sapporo,-Fukuoka",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airlines,%20Japan%20domestic%20flight,%20sale,%20discount,%20travel,%20airplane%20ticket,%20Tokyo,%20Sapporo,%20Fukuoka/"
       }
     }
   ]
