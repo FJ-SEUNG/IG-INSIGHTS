@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-17T05:05:05.337959",
+  "last_updated": "2026-11-17T07:44:35.563931",
   "plans": [
+    {
+      "id": "plan_3effc705",
+      "created_at": "2026-11-17T07:44:33.563808",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「ユニクロ感謝祭」ヒートテックインナーや暖パンが今季初の1000円引き。防寒アイテムのセール品目を先行公開",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156886.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 필수 쇼핑템, 유니클로 역대급 할인 찬스를 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "🔥유니클로 역대급 할인🔥",
+        "cards": [
+          {
+            "title": "✨감사제 시작!",
+            "content": "일본 전역 유니클로 매장 및 온라인 스토어에서 11월 20일부터 26일까지 7일간 '유니클로 감사제'가 열립니다.",
+            "alt_text": "유니클로 감사제 행사 시작을 알리는 이미지"
+          },
+          {
+            "title": "🧥히트텍 1000엔↓",
+            "content": "이번 감사제에서 히트텍 이너와 따뜻한 바지가 올 시즌 최초로 1000엔 할인된 가격으로 판매됩니다.",
+            "alt_text": "할인 대상인 히트텍 이너와 따뜻한 바지 이미지"
+          },
+          {
+            "title": "🗓️기간 확인!",
+            "content": "놓치기 아까운 할인 혜택은 11월 20일부터 26일까지, 단 7일간만 제공됩니다. 서둘러 준비하세요!",
+            "alt_text": "행사 기간을 명시한 캘린더 이미지"
+          },
+          {
+            "title": "🛍️쇼핑 리스트 UP!",
+            "content": "여행 중 필수템인 방한 의류를 저렴하게 구매할 수 있는 절호의 기회입니다. 미리 세일 품목을 확인해보세요.",
+            "alt_text": "다양한 유니클로 의류 상품 이미지"
+          },
+          {
+            "title": "💡꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 오픈 시간에 맞춰 방문하거나 온라인 스토어를 활용하는 것을 추천합니다.",
+            "alt_text": "쇼핑을 즐기는 사람들의 모습 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수템 득템 찬스!🇯🇵\n유니클로 감사제가 11월 20일부터 26일까지 7일간 열립니다.\n히트텍 이너, 따뜻한 바지 등 겨울 필수템을 1000엔 할인된 가격으로 만나보세요!\n여행 경비를 절약할 수 있는 절호의 기회, 절대 놓치지 마세요!\n\n#유니클로감사제 #일본쇼핑 #겨울여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#유니클로",
+          "#유니클로감사제",
+          "#일본쇼핑",
+          "#겨울여행",
+          "#방한용품",
+          "#할인정보",
+          "#여행필수템",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본생활",
+          "#쇼핑스타그램",
+          "#득템찬스"
+        ],
+        "alt_texts": [
+          "유니클로 감사제 행사 시작을 알리는 이미지",
+          "할인 대상인 히트텍 이너와 따뜻한 바지 이미지",
+          "행사 기간을 명시한 캘린더 이미지",
+          "다양한 유니클로 의류 상품 이미지",
+          "쇼핑을 즐기는 사람들의 모습 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장), 쇼핑 정보 공유 / 이 콘텐츠의 강점: 실질적인 쇼핑 정보, 명확한 할인 내용 및 기간 제시",
+      "image": {
+        "keyword": "Uniqlo, Japan, Sale, Winter clothes, Discount, Shopping, Travel",
+        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Japan,-Sale,-Winter-clothes,-Discount,-Shopping,-Travel",
+        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Japan,%20Sale,%20Winter%20clothes,%20Discount,%20Shopping,%20Travel/"
+      }
+    },
+    {
+      "id": "plan_64c215cd",
+      "created_at": "2026-11-17T07:44:27.789684",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Yahoo!トラベル、航空券＋宿泊がお得な「ヤフーパック ブラックフライデー」。JAL/ANA便クーポン、PayPayポイント最大10％付与など",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2157053.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "블랙프라이데이 시즌, JAL/ANA 항공권과 숙박을 최대 10% 할인받는 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️JAL/ANA 10% 할인 찬스!",
+        "cards": [
+          {
+            "title": "야후팩 블랙프라이데이",
+            "content": "일본 여행 시 유용한 '야후팩' 블랙프라이데이 세일이 시작됩니다. 항공권과 숙박을 함께 예약하면 특별 할인을 받을 수 있어요.",
+            "alt_text": "블랙프라이데이 세일 배너 이미지"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "JAL 또는 ANA 항공권과 숙박을 묶어 예약 시, 최대 10% 상당의 PayPay 포인트가 부여됩니다. 해당 프로모션은 11월 16일 12시부터 12월 1일 11시 59분까지 진행됩니다.",
+            "alt_text": "PayPay 포인트 적립 이미지"
+          },
+          {
+            "title": "여행 기간",
+            "content": "이번 세일 기간 동안 예약 가능한 여행 출발일은 2024년 11월 17일부터 2025년 5월 31일까지입니다. 봄 시즌 일본 여행 계획 중이라면 눈여겨보세요!",
+            "alt_text": "달력에 표시된 여행 기간 이미지"
+          },
+          {
+            "title": "예약 방법",
+            "content": "Yahoo!トラベル (야후 트래블) 웹사이트에서 '야후팩' 상품을 검색하여 예약할 수 있습니다. 한국에서 접속 시 VPN 등 별도 설정이 필요할 수 있습니다.",
+            "alt_text": "야후 트래블 웹사이트 예약 화면 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "항공권과 숙박을 동시에 예약하면 더욱 저렴하게 일본 여행을 즐길 수 있는 절호의 기회입니다. 서둘러서 원하는 날짜와 숙소를 확보하세요!",
+            "alt_text": "성공적인 예약 완료를 축하하는 이미지"
+          }
+        ],
+        "caption": "✈️ JAL/ANA 항공권+숙박 최대 10% 할인 찬스! ✈️\n\n일본 여행 계획 중이신가요? 야후 트래블에서 진행하는 블랙프라이데이 세일을 놓치지 마세요!\n\n✅ 항공권+숙박 묶음 예약 시 최대 10% PayPay 포인트 적립\n✅ 예약 기간: 11/16 ~ 12/1\n✅ 출발 가능 기간: 11/17 ~ 2025/5/31\n\n이 기회를 통해 더욱 알뜰하게 일본 여행을 즐겨보세요! 🇯🇵✨",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본항공권",
+          "#JAL",
+          "#ANA",
+          "#야후트래블",
+          "#블랙프라이데이",
+          "#일본숙소",
+          "#여행특가",
+          "#할인정보",
+          "#일본자유여행",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "블랙프라이데이 세일 배너 이미지",
+          "PayPay 포인트 적립 이미지",
+          "달력에 표시된 여행 기간 이미지",
+          "야후 트래블 웹사이트 예약 화면 이미지",
+          "성공적인 예약 완료를 축하하는 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 프로모션 정보에 대한 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 할인 혜택과 구체적인 예약/출발 기간 제시로 즉각적인 여행 계획에 도움",
+      "image": {
+        "keyword": "Japan travel, Black Friday sale, JAL, ANA, hotel booking, discount, PayPay points, travel deals, flight tickets",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-Black-Friday-sale,-JAL,-ANA,-hotel-booking,-discount,-PayPay-points,-travel-deals,-flight-tickets",
+        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20Black%20Friday%20sale,%20JAL,%20ANA,%20hotel%20booking,%20discount,%20PayPay%20points,%20travel%20deals,%20flight%20tickets/"
+      }
+    },
     {
       "id": "plan_f972672c",
       "created_at": "2026-11-17T05:05:03.337785",
@@ -923,160 +1077,6 @@
         "keyword": "Shinkansen, family, children, reserved seat, Japan, travel, winter, holiday, Tokyo, Osaka, JR Tokai, Nozomi",
         "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-family,-children,-reserved-seat,-Japan,-travel,-winter,-holiday,-Tokyo,-Osaka,-JR-Tokai,-Nozomi",
         "pexels_url": "https://www.pexels.com/search/Shinkansen,%20family,%20children,%20reserved%20seat,%20Japan,%20travel,%20winter,%20holiday,%20Tokyo,%20Osaka,%20JR%20Tokai,%20Nozomi/"
-      }
-    },
-    {
-      "id": "plan_75d5bd59",
-      "created_at": "2026-11-14T03:15:01.951469",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】イケフェス大阪2026連動企画「水上から眺める！中之島・名建築ガイドクルーズ」",
-        "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2154969.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "JAL이 오사카 지역 활성화를 위해 선보이는 특별한 크루즈 투어!"
-      },
-      "content": {
-        "thumbnail_title": "✨JAL 오사카 특별 크루즈✨",
-        "cards": [
-          {
-            "title": "이케페스 연동",
-            "content": "2026년 오사카 '이케페스'와 연계된 특별 기획입니다. 오사카의 매력을 재발견하는 기회가 될 거예요.",
-            "alt_text": "오사카 시내 전경과 함께 JAL 로고가 보이는 이미지"
-          },
-          {
-            "title": "중之島 크루즈",
-            "content": "중之島 지역의 아름다운 건축물들을 물 위에서 감상하는 특별한 크루즈입니다. 낮과 밤 모두 다른 매력을 느낄 수 있습니다.",
-            "alt_text": "오사카 중之島 지역의 아름다운 건축물이 강을 따라 늘어선 모습"
-          },
-          {
-            "title": "JAL 지역 활성화",
-            "content": "JAL 객실 승무원들이 지역에 이주하여 지역 활성화에 기여하는 'JALふるさとアンバサダー' 프로그램의 일환입니다.",
-            "alt_text": "JAL 객실 승무원들이 지역 주민들과 함께 활동하는 모습"
-          },
-          {
-            "title": "상품 개발 및 해결",
-            "content": "객실 승무원으로서 쌓은 경험을 바탕으로 지역 상품 개발 및 문제 해결에 힘쓰고 있습니다.",
-            "alt_text": "지역 특산품과 JAL 승무원이 함께 있는 사진"
-          },
-          {
-            "title": "참여 방법",
-            "content": "크루즈 예약 및 상세 정보는 JAL 공식 채널을 통해 확인 가능하며, 2026년 이케페스 기간에 맞춰 진행될 예정입니다.",
-            "alt_text": "JAL 웹사이트 및 관련 행사 정보가 담긴 스크린샷"
-          }
-        ],
-        "caption": "🇯🇵 JAL이 선보이는 오사카 특별 크루즈! 2026년 '이케페스'와 연계된 이번 행사는 오사카 중之島의 명건축물을 물 위에서 감상할 수 있는 특별한 경험을 선사합니다. JAL의 지역 활성화 프로젝트의 일환으로, 승무원들이 직접 지역 발전에 힘쓰는 모습을 볼 수 있어요! 🚢\n\n오사카 여행을 더욱 특별하게 만들 절호의 기회! 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#오사카여행",
-          "#JAL",
-          "#일본크루즈",
-          "#중之島",
-          "#오사카명소",
-          "#이케페스2026",
-          "#일본항공",
-          "#일본정보",
-          "#여행정보",
-          "#여행스타그램",
-          "#일본",
-          "#오사카",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "오사카 시내 전경과 함께 JAL 로고가 보이는 이미지",
-          "오사카 중之島 지역의 아름다운 건축물이 강을 따라 늘어선 모습",
-          "JAL 객실 승무원들이 지역 주민들과 함께 활동하는 모습",
-          "지역 특산품과 JAL 승무원이 함께 있는 사진",
-          "JAL 웹사이트 및 관련 행사 정보가 담긴 스크린샷"
-        ]
-      },
-      "marketer_analysis": "타겟: 오사카 여행 예정인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: '오사카에서 이런 것도 할 수 있네!'라는 놀라움과 관심 / 이 콘텐츠의 강점: JAL이라는 신뢰도 높은 항공사의 지역 특화 이벤트로, 흔치 않은 특별한 경험을 제공한다는 점",
-      "image": {
-        "keyword": "Osaka Nakanoshima architecture cruise JAL",
-        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Nakanoshima-architecture-cruise-JAL",
-        "pexels_url": "https://www.pexels.com/search/Osaka%20Nakanoshima%20architecture%20cruise%20JAL/"
-      }
-    },
-    {
-      "id": "plan_651aba35",
-      "created_at": "2026-11-14T03:14:56.254030",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「るるぶ 美しい図書館とくつろぎのブックカフェ 首都圏」。個性派から建築美、流行のラウンジや一晩中浸れるブックホテルも収録",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156434.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본의 숨겨진 보물, 아름다운 도서관과 북카페 완벽 가이드!"
-      },
-      "content": {
-        "thumbnail_title": "📚 도쿄 근교 힐링! ✨",
-        "cards": [
-          {
-            "title": "신간 출시!",
-            "content": "JTB 퍼블리싱에서 'るるぶ 美しい図書館とくつろぎのブックカフェ 首都圏'을 11월 16일에 발매합니다. 총 112페이지로 구성되어 있습니다.",
-            "alt_text": "책 표지가 보이는 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "이 책의 가격은 1430엔이며, 전국 서점 및 온라인 서점에서 구매 가능합니다. 합리적인 가격으로 알찬 정보를 얻을 수 있습니다.",
-            "alt_text": "책과 함께 놓인 동전 이미지"
-          },
-          {
-            "title": "주요 내용",
-            "content": "도쿄 수도권의 개성 넘치는 도서관, 건축미가 돋보이는 곳, 트렌디한 라운지, 그리고 밤새 머물 수 있는 북호텔까지 다채로운 공간을 소개합니다.",
-            "alt_text": "아름다운 도서관 내부 사진"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "단순한 책 읽는 공간을 넘어, 특별한 경험을 선사할 일본의 숨겨진 명소들을 만나보세요. 조용하고 아늑한 시간을 보내고 싶은 여행객에게 안성맞춤입니다.",
-            "alt_text": "편안한 의자에 앉아 책을 읽는 사람 사진"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "이번 책을 참고하여 도쿄 근교에서 나만의 특별한 북캉스를 계획해보세요! 조용하고 여유로운 시간을 통해 여행의 피로를 풀 수 있습니다.",
-            "alt_text": "창밖 풍경이 보이는 아늑한 카페 내부 사진"
-          }
-        ],
-        "caption": "✨ 일본 여행 중 조용하고 특별한 시간을 보내고 싶다면? ✨\n\nJTB 퍼블리싱에서 11월 16일, 수도권의 아름다운 도서관과 매력적인 북카페를 소개하는 신간 'るるぶ 美しい図書館とくつろぎのブックカフェ 首都圏'을 발매합니다! 📚\n\n개성 넘치는 건축미부터 편안한 라운지, 심지어 밤샘 독서가 가능한 북호텔까지! 1430엔의 합리적인 가격으로 일본의 숨겨진 힐링 스팟을 발견하세요. 🤫\n\n이번 여행, 책과 함께 여유로운 북캉스를 즐겨보는 건 어떠세요? ☕️\n\n#일본여행 #도쿄근교 #북카페 #도서관 #힐링여행 #플라잉재팬 #여행정보 #신간소개 #일본문화 #책추천 #일본카페 #조용한여행 #여행꿀팁 #일본가볼만한곳 #북캉스",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄근교",
-          "#북카페",
-          "#도서관",
-          "#힐링여행",
-          "#여행정보",
-          "#신간소개",
-          "#일본문화",
-          "#책추천",
-          "#일본카페",
-          "#조용한여행",
-          "#여행꿀팁",
-          "#일본가볼만한곳",
-          "#북캉스"
-        ],
-        "alt_texts": [
-          "책 표지가 보이는 이미지",
-          "책과 함께 놓인 동전 이미지",
-          "아름다운 도서관 내부 사진",
-          "편안한 의자에 앉아 책을 읽는 사람 사진",
-          "창밖 풍경이 보이는 아늑한 카페 내부 사진"
-        ]
-      },
-      "marketer_analysis": "타겟: 조용하고 감성적인 여행을 선호하는 20-40대 여성 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 도서 정보 및 방문 장소에 대한 높은 관심, 저장 및 공유 증가 / 이 콘텐츠의 강점: 실용적인 여행 정보와 감성적인 테마의 결합, 한국인이 잘 모르는 일본의 새로운 매력 소개",
-      "image": {
-        "keyword": "beautiful library, cozy bookstore cafe, Tokyo hidden gems, Japan travel book, relaxing atmosphere",
-        "unsplash_url": "https://unsplash.com/s/photos/beautiful-library,-cozy-bookstore-cafe,-Tokyo-hidden-gems,-Japan-travel-book,-relaxing-atmosphere",
-        "pexels_url": "https://www.pexels.com/search/beautiful%20library,%20cozy%20bookstore%20cafe,%20Tokyo%20hidden%20gems,%20Japan%20travel%20book,%20relaxing%20atmosphere/"
       }
     }
   ]
