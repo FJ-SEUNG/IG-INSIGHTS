@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-17T07:44:35.563931",
+  "last_updated": "2026-11-18T04:19:51.240539",
   "plans": [
+    {
+      "id": "plan_14a0b3bd",
+      "created_at": "2026-11-18T04:19:49.240385",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "一度の遠征で複数の絶景を巡る「ニッポン鉄道絶景攻略ガイド」本日発売。全国36路線のロケ地を厳選",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2157286.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "숨겨진 일본의 아름다운 철도 풍경을 알차게 즐길 수 있는 가이드북 출시!"
+      },
+      "content": {
+        "thumbnail_title": "🚂 일본 철도 절경 완전 정복! 🚄",
+        "cards": [
+          {
+            "title": "신간 출시!",
+            "content": "일본 전역 36개 노선의 숨겨진 철도 풍경 명소를 엄선한 '니뽄 철도 절경 공략 가이드'가 11월 18일에 발매되었습니다.",
+            "alt_text": "일본 철도 풍경을 담은 책 표지 이미지"
+          },
+          {
+            "title": "가이드북 정보",
+            "content": "B5 변형판, 160페이지로 구성되어 있으며 가격은 2,500엔입니다.",
+            "alt_text": "책의 상세 정보를 보여주는 이미지"
+          },
+          {
+            "title": "절경 스팟 가득",
+            "content": "한 번의 원정으로 여러 절경을 만날 수 있도록 최적의 로케이션 정보를 담았습니다.",
+            "alt_text": "다양한 일본의 철도 풍경 사진 모음"
+          },
+          {
+            "title": "여행 계획 UP!",
+            "content": "일본 기차 여행을 계획 중이라면 이 가이드북으로 특별한 추억을 만들어보세요.",
+            "alt_text": "기차 창밖으로 보이는 아름다운 일본 풍경 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "가이드북을 활용하여 일반적인 관광 코스 외에 자신만의 특별한 철도 여행 루트를 계획해보세요. 숨겨진 보석 같은 장소를 발견할 수 있습니다!",
+            "alt_text": "지도 위에 표시된 철도 노선 이미지"
+          }
+        ],
+        "caption": "일본의 아름다운 풍경을 기차 타고 만끽하고 싶다면? 🚂✨\n\n'니뽄 철도 절경 공략 가이드'가 11월 18일에 발매되었어요! 📚\n전국 36개 노선의 숨겨진 절경 스팟을 엄선한 이 책으로\n특별한 일본 기차 여행을 계획해보세요! 🚄\n\n지금 바로 서점에서 만나보세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본철도",
+          "#철도여행",
+          "#일본절경",
+          "#일본가이드북",
+          "#일본여행준비",
+          "#일본자유여행",
+          "#기차여행",
+          "#일본신간",
+          "#여행스타그램",
+          "#일본풍경",
+          "#숨은명소",
+          "#여행정보",
+          "#일본"
+        ],
+        "alt_texts": [
+          "일본 철도 풍경을 담은 책 표지 이미지",
+          "책의 상세 정보를 보여주는 이미지",
+          "다양한 일본의 철도 풍경 사진 모음",
+          "기차 창밖으로 보이는 아름다운 일본 풍경 이미지",
+          "지도 위에 표시된 철도 노선 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 기차 여행에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 공유 및 여행 계획에 대한 기대감 상승 / 이 콘텐츠의 강점: 실용적인 여행 정보 제공, 새로운 여행 테마 제시",
+      "image": {
+        "keyword": "Japanese train, scenic view, travel guide book, Japan rail, landscape",
+        "unsplash_url": "https://unsplash.com/s/photos/Japanese-train,-scenic-view,-travel-guide-book,-Japan-rail,-landscape",
+        "pexels_url": "https://www.pexels.com/search/Japanese%20train,%20scenic%20view,%20travel%20guide%20book,%20Japan%20rail,%20landscape/"
+      }
+    },
+    {
+      "id": "plan_7a312ca6",
+      "created_at": "2026-11-18T04:19:44.394702",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "駅から3分、開業したばかりの「コートヤード・バイ・マリオット京都駅」に泊まってみた。新幹線食堂車の懐かしいビーフカレーがビュッフェに！",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2157418.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "교토역 바로 앞에 새로 생긴 마리오뜨 호텔! 신칸센 이용객이라면 최고의 위치, 특별한 메뉴도 기대돼요."
+      },
+      "content": {
+        "thumbnail_title": "✨교토역 초역세권✨ 신상 호텔 오픈!",
+        "cards": [
+          {
+            "title": "마리오뜨 교토역",
+            "content": "JR 교토역 남쪽 8번 출구에서 도보 3분 거리에 'コートヤード・バイ・マリオット京都駅'이 11월 16일 새로 문을 열었어요. 총 270개의 객실을 갖춘 신축 호텔입니다.",
+            "alt_text": "교토역 전경과 호텔 외관 이미지"
+          },
+          {
+            "title": "최적의 위치",
+            "content": "교토역과 바로 연결되어 신칸센, JR, 지하철 등 대중교통 이용이 편리해요. 짐이 많거나 이동이 잦은 여행객에게 최고의 선택이 될 거예요.",
+            "alt_text": "교토역 플랫폼과 호텔 입구 연결 이미지"
+          },
+          {
+            "title": "특별한 조식",
+            "content": "호텔 뷔페에서는 과거 신칸센 식당차에서 인기 있었던 비프 카레를 맛볼 수 있다고 해요. 교토 여행의 특별한 추억을 더해줄 메뉴입니다.",
+            "alt_text": "뷔페 음식 사진, 특히 비프 카레 강조"
+          },
+          {
+            "title": "새로운 경험",
+            "content": "마리오뜨 브랜드 특유의 편안함과 서비스를 기대할 수 있어요. 개업 초기인 만큼 깔끔하고 쾌적한 환경에서 머물 수 있습니다.",
+            "alt_text": "호텔 로비 또는 객실 내부 이미지"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "개업 초기에는 프로모션이나 할인 혜택이 있을 수 있으니, 예약 전에 호텔 공식 홈페이지나 예약 사이트를 꼭 확인해보세요. 발 빠르게 예약하면 좋은 가격에 이용 가능합니다.",
+            "alt_text": "달력과 할인 태그 이미지"
+          }
+        ],
+        "caption": "🚄 교토 여행 필수 코스! 🚄\n\n교토역 바로 앞에 'コートヤード・バイ・マリオット京都駅'이 11월 16일 오픈했어요!\n\n✅ JR 교토역 남쪽 8번 출구 도보 3분 거리\n✅ 총 270개 객실 보유\n✅ 신칸센 식당차 비프 카레 뷔페 제공\n\n교토역 이용이 잦은 여행자라면 최고의 위치! 🤩\n\n#교토여행 #교토신상호텔 #마리오뜨교토 #일본숙소 #교토숙소 #일본여행꿀팁 #교토역",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#교토여행",
+          "#교토숙소",
+          "#일본신상호텔",
+          "#마리오뜨교토",
+          "#교토역",
+          "#일본숙소추천",
+          "#교토가볼만한곳",
+          "#일본자유여행",
+          "#여행정보",
+          "#교토",
+          "#일본",
+          "#해외여행",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "교토역 전경과 호텔 외관 이미지",
+          "교토역 플랫폼과 호텔 입구 연결 이미지",
+          "뷔페 음식 사진, 특히 비프 카레 강조",
+          "호텔 로비 또는 객실 내부 이미지",
+          "달력과 할인 태그 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 교토 여행 예정인 2040 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 공유 및 저장, 숙소 예약 문의 / 이 콘텐츠의 강점: 신규 오픈 호텔 정보, 역세권이라는 명확한 장점, 특별한 메뉴 언급",
+      "image": {
+        "keyword": "Courtyard by Marriott Kyoto Station, Kyoto Station, Japan hotel, new hotel opening, Japanese curry buffet",
+        "unsplash_url": "https://unsplash.com/s/photos/Courtyard-by-Marriott-Kyoto-Station,-Kyoto-Station,-Japan-hotel,-new-hotel-opening,-Japanese-curry-buffet",
+        "pexels_url": "https://www.pexels.com/search/Courtyard%20by%20Marriott%20Kyoto%20Station,%20Kyoto%20Station,%20Japan%20hotel,%20new%20hotel%20opening,%20Japanese%20curry%20buffet/"
+      }
+    },
     {
       "id": "plan_3effc705",
       "created_at": "2026-11-17T07:44:33.563808",
@@ -923,160 +1077,6 @@
         "keyword": "Disney Ambassador Hotel, Avengers Doomomsday, special menu, Tokyo Disneyland, limited time offer",
         "unsplash_url": "https://unsplash.com/s/photos/Disney-Ambassador-Hotel,-Avengers-Doomomsday,-special-menu,-Tokyo-Disneyland,-limited-time-offer",
         "pexels_url": "https://www.pexels.com/search/Disney%20Ambassador%20Hotel,%20Avengers%20Doomomsday,%20special%20menu,%20Tokyo%20Disneyland,%20limited%20time%20offer/"
-      }
-    },
-    {
-      "id": "plan_ec5ded24",
-      "created_at": "2026-11-14T06:05:16.753301",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JALunLun BLACK FLYDAY 2026開催。航空券＋宿泊が最大5万円引き、JAL Mallでマイルが最大13倍になるキャンペーンなど",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156317.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 필수템! JAL 역대급 할인 찬스 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL 역대급 할인 찬스!",
-        "cards": [
-          {
-            "title": "블랙 프라이데이",
-            "content": "JAL이 2026년 11월 17일부터 30일까지 'JALunLun BLACK FLYDAY 2026'을 개최합니다. 항공권, 숙박, 쇼핑 등 다양한 상품을 최대 5만 엔 할인된 가격으로 만나보세요.",
-            "alt_text": "JAL 블랙 프라이데이 행사 안내 이미지"
-          },
-          {
-            "title": "마일리지 혜택",
-            "content": "JAL Mall에서는 행사 기간 동안 마일리지가 최대 13배까지 적립되는 특별 프로모션을 진행합니다. 쇼핑도 하고 마일리지도 쌓는 절호의 기회입니다.",
-            "alt_text": "JAL Mall 마일리지 적립 혜택 안내 이미지"
-          },
-          {
-            "title": "할인 대상",
-            "content": "항공권과 호텔을 묶은 패키지 상품을 포함하여 JAL에서 제공하는 다양한 여행 상품에 할인이 적용됩니다. 일본 여행 계획 중이라면 지금이 기회입니다.",
-            "alt_text": "JAL 할인 적용 상품 안내 이미지"
-          },
-          {
-            "title": "이벤트 기간",
-            "content": "놓치면 후회할 역대급 할인 행사는 2026년 11월 17일부터 30일까지 진행됩니다. 정확한 일정을 확인하시고 미리 준비하세요.",
-            "alt_text": "JAL 할인 행사 기간 안내 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 상품은 조기 마감될 수 있으니, 행사 시작일에 맞춰 JAL 공식 홈페이지를 방문하여 원하는 상품을 빠르게 득템하세요!",
-            "alt_text": "JAL 할인 상품 구매 팁 안내 이미지"
-          }
-        ],
-        "caption": "✈️JAL 블랙 프라이데이 역대급 할인 찬스!✈️\n\n일본 여행 준비 중이라면 주목! JAL에서 2026년 11월 17일부터 30일까지 'JALunLun BLACK FLYDAY 2026'을 개최합니다.\n\n✅ 항공권 + 숙박 최대 5만 엔 할인!\n✅ JAL Mall 마일리지 최대 13배 적립!\n\n지금 바로 JAL 공식 홈페이지에서 혜택을 확인하고 알찬 일본 여행 계획 세우세요! 🇯🇵\n\n#JAL #일본여행 #블랙프라이데이 #항공권할인 #숙박할인 #마일리지 #일본쇼핑 #여행스타그램 #일본항공권 #해외여행 #여행꿀팁 #플라잉재팬 #여행정보 #할인정보 #2026년여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#블랙프라이데이",
-          "#일본항공권",
-          "#항공권할인",
-          "#숙박할인",
-          "#JALMall",
-          "#마일리지",
-          "#일본쇼핑",
-          "#여행스타그램",
-          "#여행꿀팁",
-          "#해외여행",
-          "#일본정보",
-          "#할인정보"
-        ],
-        "alt_texts": [
-          "JAL 블랙 프라이데이 행사 안내 이미지",
-          "JAL Mall 마일리지 적립 혜택 안내 이미지",
-          "JAL 할인 적용 상품 안내 이미지",
-          "JAL 할인 행사 기간 안내 이미지",
-          "JAL 할인 상품 구매 팁 안내 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 8-10시 / 기대 반응: 높은 클릭률 및 공유, 예약 문의 증가 / 이 콘텐츠의 강점: 실질적인 할인 정보 제공, 항공사 공식 프로모션 활용",
-      "image": {
-        "keyword": "JAL, Black Friday, Japan travel, flight discount, hotel package, mileage campaign",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Black-Friday,-Japan-travel,-flight-discount,-hotel-package,-mileage-campaign",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Black%20Friday,%20Japan%20travel,%20flight%20discount,%20hotel%20package,%20mileage%20campaign/"
-      }
-    },
-    {
-      "id": "plan_02cdfed9",
-      "created_at": "2026-11-14T06:05:11.703617",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "新幹線のぞみ、年末年始「お子さま連れ車両」設定。12月25日～1月5日に過去最多140本",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156402.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "연말연시 일본 여행 시 아이 동반 가족에게 꼭 필요한 신칸센 정보!"
-      },
-      "content": {
-        "thumbnail_title": "✨아이 동반 신칸센 꿀팁✨",
-        "cards": [
-          {
-            "title": "어린이 동반석",
-            "content": "JR 도카이는 연말연시 도카이도 신칸센 '노조미' 호에 '어린이 동반석'을 운영합니다. 2024년 12월 25일부터 2025년 1월 5일까지 이용 가능합니다.",
-            "alt_text": "신칸센 좌석에 아이와 부모가 함께 앉아 있는 모습"
-          },
-          {
-            "title": "운행 편수",
-            "content": "연말연시 기간 동안 총 140편의 '노조미' 호 열차가 '어린이 동반석'을 포함하여 운행됩니다. 이는 역대 최다 편수입니다.",
-            "alt_text": "신칸센이 여러 대 나란히 서 있는 모습"
-          },
-          {
-            "title": "운행 구간",
-            "content": "해당 서비스는 도쿄와 신오사카 구간을 운행하는 '노조미' 호 신칸센에 적용됩니다.",
-            "alt_text": "도쿄와 신오사카를 잇는 신칸센 노선 지도"
-          },
-          {
-            "title": "이용 대상",
-            "content": "어린이를 동반하는 가족 여행객이 더욱 편안하게 신칸센을 이용할 수 있도록 마련된 특별 좌석입니다.",
-            "alt_text": "가족이 웃으며 신칸센 좌석에 앉아 있는 모습"
-          },
-          {
-            "title": "예약 팁",
-            "content": "연말연시 기간 동안 인기가 많을 것으로 예상되니, 미리 예매하는 것을 추천합니다. '어린이 동반석'은 별도 지정이 필요할 수 있습니다.",
-            "alt_text": "신칸센 티켓을 손에 들고 있는 모습"
-          }
-        ],
-        "caption": "✨연말연시 일본 가족 여행 필수 정보!✨\n\n어린이 동반 여행객을 위한 신칸센 '어린이 동반석'이 12월 25일부터 1월 5일까지 운영됩니다! 👨‍👩‍👧‍👦\n총 140편의 '노조미' 호에서 이용 가능하며, 도쿄-신오사카 구간에서 편리하게 이동하세요.\n역대 최다 편수 운행이니 미리 예약하는 센스! 잊지 마세요!\n\n#일본가족여행 #신칸센 #어린이동반석 #연말연시일본여행 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본신칸센",
-          "#어린이동반석",
-          "#일본가족여행",
-          "#연말연시",
-          "#도쿄",
-          "#신오사카",
-          "#일본교통",
-          "#여행꿀팁",
-          "#JR",
-          "#노조미",
-          "#일본자유여행",
-          "#여행정보",
-          "#겨울일본여행"
-        ],
-        "alt_texts": [
-          "신칸센 좌석에 아이와 부모가 함께 앉아 있는 모습",
-          "신칸센이 여러 대 나란히 서 있는 모습",
-          "도쿄와 신오사카를 잇는 신칸센 노선 지도",
-          "가족이 웃으며 신칸센 좌석에 앉아 있는 모습",
-          "신칸센 티켓을 손에 들고 있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 어린이 동반 가족 여행객 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보성 높은 콘텐츠에 대한 높은 저장 및 공유율 / 이 콘텐츠의 강점: 시기적절한 정보와 타겟 맞춤형 혜택 강조",
-      "image": {
-        "keyword": "Shinkansen, family, children, reserved seat, Japan, travel, winter, holiday, Tokyo, Osaka, JR Tokai, Nozomi",
-        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen,-family,-children,-reserved-seat,-Japan,-travel,-winter,-holiday,-Tokyo,-Osaka,-JR-Tokai,-Nozomi",
-        "pexels_url": "https://www.pexels.com/search/Shinkansen,%20family,%20children,%20reserved%20seat,%20Japan,%20travel,%20winter,%20holiday,%20Tokyo,%20Osaka,%20JR%20Tokai,%20Nozomi/"
       }
     }
   ]
