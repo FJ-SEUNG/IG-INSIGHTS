@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-18T07:10:08.001719",
+  "last_updated": "2026-11-19T04:11:54.676344",
   "plans": [
+    {
+      "id": "plan_cf4ccb37",
+      "created_at": "2026-11-19T04:11:52.676166",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「Suicaのペンギンと旅するマルチWAYバッグ」本日発売。インナーポーチとパスケース付属、オンラインストア限定",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156499.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "여행 필수템! 귀여운 'Suica 펭귄' 멀티웨이 백 출시!"
+      },
+      "content": {
+        "thumbnail_title": "Suica 펭귄 가방 👜",
+        "cards": [
+          {
+            "title": "오늘 12시 출시!",
+            "content": "JR 동일본 공식 굿즈, 'Suica 펭귄과 여행하는 멀티웨이 백'이 오늘(11월 19일) 오후 12시에 출시됩니다.",
+            "alt_text": "Suica 펭귄 멀티웨이 백 출시 안내"
+          },
+          {
+            "title": "가격 및 수량",
+            "content": "가격은 35,000엔이며, 첫 생산 수량은 2가지 색상 총 500개 한정입니다.",
+            "alt_text": "Suica 펭귄 멀티웨이 백 가격 및 수량 정보"
+          },
+          {
+            "title": "구성품",
+            "content": "이너 파우치와 패스 케이스가 포함되어 있어 실용성을 더했습니다.",
+            "alt_text": "Suica 펭귄 멀티웨이 백 구성품 안내"
+          },
+          {
+            "title": "구매처",
+            "content": "온라인 스토어 'GRANSTA MALL'에서만 단독 판매됩니다. (오프라인 매장 미판매)",
+            "alt_text": "Suica 펭귄 멀티웨이 백 구매처 안내"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "일본 여행 필수템으로 주목받는 'Suica 펭귄' 가방! 여행 중 소지품을 깔끔하게 정리하고 싶다면 놓치지 마세요.",
+            "alt_text": "여행 중 Suica 펭귄 가방 활용 팁"
+          }
+        ],
+        "caption": "✨JR 동일본 공식 굿즈✨\n귀여운 'Suica 펭귄'과 함께 떠나는 멀티웨이 백이 오늘(11월 19일) 오후 12시부터 온라인 스토어에서 한정 판매됩니다! 🐧👜\n\n가격 35,000엔, 2가지 색상 총 500개 한정 수량이니 서둘러 GET 하세요!\n여행 중 소지품을 효율적으로 보관할 수 있는 이너 파우치와 패스 케이스까지 포함되어 있답니다. ✈️\n\n#일본여행 #플라잉재팬 #Suica펭귄 #일본굿즈 #한정판 #여행가방 #필수템 #쇼핑정보 #일본쇼핑 #JR동일본 #GRANSTAMALL #멀티웨이백 #여행준비 #일본여행준비 #이벤트",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica펭귄",
+          "#일본굿즈",
+          "#한정판",
+          "#여행가방",
+          "#필수템",
+          "#쇼핑정보",
+          "#일본쇼핑",
+          "#JR동일본",
+          "#GRANSTAMALL",
+          "#멀티웨이백",
+          "#여행준비",
+          "#일본여행준비",
+          "#이벤트"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 멀티웨이 백 출시 안내",
+          "Suica 펭귄 멀티웨이 백 가격 및 수량 정보",
+          "Suica 펭귄 멀티웨이 백 구성품 안내",
+          "Suica 펭귄 멀티웨이 백 구매처 안내",
+          "여행 중 Suica 펭귄 가방 활용 팁"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 구매 관심 및 정보 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터 상품의 희소성과 실용성을 동시에 어필",
+      "image": {
+        "keyword": "Suica Penguin multi-way bag, Japan travel goods, limited edition accessory",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-multi-way-bag,-Japan-travel-goods,-limited-edition-accessory",
+        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20multi-way%20bag,%20Japan%20travel%20goods,%20limited%20edition%20accessory/"
+      }
+    },
+    {
+      "id": "plan_f5855b34",
+      "created_at": "2026-11-19T04:11:47.407507",
+      "category": "tips",
+      "priority": "medium",
+      "status": "new",
+      "source": {
+        "title": "本日発売「リトルミイ」レジカゴサイズの大容量バッグ。ムーミンたちの巾着カバーで目隠しできる",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156500.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "중",
+        "appeal": "무인양품st 감성의 리틀미이 빅토트백, 일본 여행 시 유용템 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨리틀미이 빅토트백 출시!",
+        "cards": [
+          {
+            "title": "신상 빅토트백",
+            "content": "宝島社에서 'MOOMIN たっぷり入る！ レジカゴサイズのBIGトートバッグ BOOK'을 11월 19일에 출시했어요. 리틀미이 디자인으로 눈길을 사로잡네요!",
+            "alt_text": "리틀미이 디자인의 큼직한 토트백 이미지"
+          },
+          {
+            "title": "레지카고 사이즈",
+            "content": "일본 마트에서 장 볼 때 유용한 레지카고 사이즈랍니다. 넉넉한 수납공간으로 여행 중 쇼핑 아이템 보관에 딱이에요.",
+            "alt_text": "마트 카트에 딱 맞는 토트백 크기 시연 이미지"
+          },
+          {
+            "title": "무인양품st 디자인",
+            "content": "무민 캐릭터와 함께, 심플하면서도 감성적인 디자인이라 데일리로 들고 다니기에도 좋아요. 일본 여행 기념품으로도 제격!",
+            "alt_text": "감성적인 리틀미이 토트백 코디 이미지"
+          },
+          {
+            "title": "가격 정보",
+            "content": "가격은 4,389엔입니다. 서점 및 온라인 쇼핑몰에서 구매 가능하니, 일본 여행 중 득템 기회를 놓치지 마세요!",
+            "alt_text": "토트백 가격표와 구매처 아이콘 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 편의점이나 마트에서 장 볼 때, 이 빅토트백 하나면 튼튼하고 예쁘게 다 담아올 수 있어요. 짐 늘리기 싫은 분들께 강추!",
+            "alt_text": "마트에서 빅토트백에 물건을 담는 모습"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수템 예감! 리틀미이 빅토트백 출시 소식!\n\n11월 19일, 宝島社에서 'MOOMIN たっぷり入る！ レジカゴサイズのBIGトートバッグ BOOK'이 발매되었습니다.\n\n마트 장바구니 사이즈라 일본 마트 쇼핑 시 정말 유용할 거예요! 넉넉한 수납공간과 귀여운 리틀미이 디자인으로 여행 중 짐 보관은 물론, 기념품 쇼핑템 담기에도 딱이랍니다.\n\n가격은 4,389엔! 서점 및 온라인에서 구매 가능해요. 일본 여행 가시는 분들, 득템 찬스 놓치지 마세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#리틀미이",
+          "#무민",
+          "#일본쇼핑",
+          "#일본마트",
+          "#일본기념품",
+          "#일본여행준비",
+          "#일본장바구니",
+          "#일본서점",
+          "#일본득템",
+          "#여행필수템",
+          "#일본생활",
+          "#여행스타그램",
+          "#쇼핑스타그램"
+        ],
+        "alt_texts": [
+          "리틀미이 디자인의 큼직한 토트백 이미지",
+          "마트 카트에 딱 맞는 토트백 크기 시연 이미지",
+          "감성적인 리틀미이 토트백 코디 이미지",
+          "토트백 가격표와 구매처 아이콘 이미지",
+          "마트에서 빅토트백에 물건을 담는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 여성 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: '귀엽다', '여행 가서 사야겠다', '정보 감사해요' 등의 댓글 및 저장 / 이 콘텐츠의 강점: 실용성과 귀여움을 겸비한 아이템으로, 일본 여행 중 실제 활용도가 높아 공감대 형성 및 구매 욕구 자극",
+      "image": {
+        "keyword": "Little My tote bag, Moomin shopping bag, Japanese convenience store shopping, Japan souvenir, travel essential",
+        "unsplash_url": "https://unsplash.com/s/photos/Little-My-tote-bag,-Moomin-shopping-bag,-Japanese-convenience-store-shopping,-Japan-souvenir,-travel-essential",
+        "pexels_url": "https://www.pexels.com/search/Little%20My%20tote%20bag,%20Moomin%20shopping%20bag,%20Japanese%20convenience%20store%20shopping,%20Japan%20souvenir,%20travel%20essential/"
+      }
+    },
     {
       "id": "plan_e4edcc00",
       "created_at": "2026-11-18T07:10:06.001550",
@@ -923,160 +1077,6 @@
         "keyword": "universal travel adapter, usb fast charger, japan outlet, travel essentials, portable charger, travel gadget",
         "unsplash_url": "https://unsplash.com/s/photos/universal-travel-adapter,-usb-fast-charger,-japan-outlet,-travel-essentials,-portable-charger,-travel-gadget",
         "pexels_url": "https://www.pexels.com/search/universal%20travel%20adapter,%20usb%20fast%20charger,%20japan%20outlet,%20travel%20essentials,%20portable%20charger,%20travel%20gadget/"
-      }
-    },
-    {
-      "id": "plan_8bc49bd0",
-      "created_at": "2026-11-15T06:11:52.410547",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "NEWT、ブラックフライデーセールを開催　韓国行きが19,800円からなど",
-        "url": "https://www.traicy.com/posts/20261114387967/",
-        "date": "Sat, 14 Nov 2026 14:19:08 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행을 저렴하게 갈 수 있는 역대급 세일 소식!"
-      },
-      "content": {
-        "thumbnail_title": "💸 역대급! 일본행 19,800엔부터! ✈️",
-        "cards": [
-          {
-            "title": "블랙프라이데이",
-            "content": "여행 예약 서비스 'NEWT'에서 11월 14일부터 28일까지 블랙프라이데이 세일을 진행해요. 한국, 대만, 하와이, 세부, 싱가포르, 호주행 투어가 대상이에요.",
-            "alt_text": "블랙프라이데이 세일 배너 이미지"
-          },
-          {
-            "title": "초특가 상품",
-            "content": "특히 한국행 투어가 19,800엔부터 시작하는 파격적인 가격으로 나왔어요. 평소보다 훨씬 저렴하게 일본 여행을 계획할 절호의 기회입니다.",
-            "alt_text": "할인율이 강조된 여행 상품 이미지"
-          },
-          {
-            "title": "선착순 한정",
-            "content": "본격적인 세일은 선착순으로 진행되니, 관심 있는 분들은 서둘러야 해요. 마감 전에 빠르게 확인해 보세요!",
-            "alt_text": "시간 카운트다운 또는 '선착순 마감' 텍스트 이미지"
-          },
-          {
-            "title": "세일 기간",
-            "content": "세일 기간은 11월 14일부터 11월 28일까지로, 약 2주간 진행돼요. 미리 일정을 확인하고 준비하면 좋아요.",
-            "alt_text": "달력에 세일 기간이 표시된 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "인기 노선은 조기 마감될 수 있으니, 원하는 날짜와 상품이 있다면 바로 예약하는 것을 추천해요. 꼼꼼하게 비교해보고 최저가로 득템하세요!",
-            "alt_text": "여행 가방과 할인 쿠폰 이미지를 활용한 꿀팁 이미지"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신 분들 주목! ✈️\n'NEWT'에서 블랙프라이데이 세일 역대급 할인을 진행해요!\n한국행 투어가 무려 19,800엔부터 시작! 💸\n11월 14일부터 28일까지, 선착순 마감이니 서둘러 득템하세요!\n\n#일본여행 #블랙프라이데이 #여행특가 #항공권할인 #일본가자 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#블랙프라이데이",
-          "#여행세일",
-          "#일본항공권",
-          "#해외여행",
-          "#가성비여행",
-          "#일본여행준비",
-          "#여행꿀팁",
-          "#일본",
-          "#여행스타그램",
-          "#초특가",
-          "#세일정보",
-          "#현지할인",
-          "#일본자유여행"
-        ],
-        "alt_texts": [
-          "블랙프라이데이 세일 배너 이미지",
-          "할인율이 강조된 여행 상품 이미지",
-          "시간 카운트다운 또는 '선착순 마감' 텍스트 이미지",
-          "달력에 세일 기간이 표시된 이미지",
-          "여행 가방과 할인 쿠폰 이미지를 활용한 꿀팁 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 저렴하게 가고 싶은 20-40대 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 높은 클릭률 및 예약 문의 / 이 콘텐츠의 강점: 파격적인 가격 정보와 명확한 기간 명시로 즉각적인 행동 유도",
-      "image": {
-        "keyword": "Japan travel sale, Black Friday deal, cheap flights to Japan, travel discount, limited time offer",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel-sale,-Black-Friday-deal,-cheap-flights-to-Japan,-travel-discount,-limited-time-offer",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel%20sale,%20Black%20Friday%20deal,%20cheap%20flights%20to%20Japan,%20travel%20discount,%20limited%20time%20offer/"
-      }
-    },
-    {
-      "id": "plan_56fe8adf",
-      "created_at": "2026-11-15T06:11:46.707988",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ANA、航空機客席シートカバー生地の限定バッグやジャケット発売",
-        "url": "https://www.traicy.com/posts/20261115387220/",
-        "date": "Sun, 15 Nov 2026 01:15:40 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "ANA항공에서 폐기되는 항공기 부품으로 만든 특별한 패션 아이템 출시!"
-      },
-      "content": {
-        "thumbnail_title": "✈️ANA 업사이클링✨",
-        "cards": [
-          {
-            "title": "특별한 만남",
-            "content": "ANA항공이 폐기되는 항공기 부품과 사용되지 않은 좌석 시트 커버 원단을 활용해 만든 한정판 패션 상품을 선보입니다. '2ND RUNWAY PROJECT'의 첫 번째 컬렉션으로, 11월 5일 정오부터 판매를 시작했어요.",
-            "alt_text": "ANA항공에서 판매하는 업사이클링 패션 아이템 이미지"
-          },
-          {
-            "title": "지속가능한 패션",
-            "content": "이번 프로젝트는 환경을 생각하는 지속가능한 패션을 실천하는 좋은 예시입니다. 버려질 수 있는 자원을 재활용하여 독특하고 가치 있는 제품으로 재탄생시켰어요.",
-            "alt_text": "환경 보호 메시지를 담은 이미지"
-          },
-          {
-            "title": "한정판 굿즈",
-            "content": "이번 컬렉션에서는 가방과 재킷 등 다양한 패션 아이템을 만나볼 수 있습니다. 항공기의 흔적을 담은 특별한 디자인으로 소장 가치가 높을 것으로 예상됩니다.",
-            "alt_text": "ANA항공 업사이클링 재킷 이미지"
-          },
-          {
-            "title": "나만의 기념품",
-            "content": "일본 여행 중 특별한 기념품을 찾고 있다면, ANA항공의 업사이클링 컬렉션이 좋은 선택이 될 수 있습니다. 항공 여행의 추억을 담은 특별한 아이템을 득템하세요!",
-            "alt_text": "여행 기념품으로 좋은 가방 이미지"
-          },
-          {
-            "title": "구매 팁",
-            "content": "구매를 원하시는 분들은 ANA항공 공식 판매 채널을 통해 확인해보세요. 한정 수량으로 조기 품절될 수 있으니 서두르시는 것이 좋습니다.",
-            "alt_text": "쇼핑백 이미지"
-          }
-        ],
-        "caption": "✈️ ANA항공에서 특별한 업사이클링 컬렉션을 선보입니다! ✨\n폐기되는 항공기 부품과 새것이나 다름없는 좌석 시트 커버 원단을 활용하여 가방, 재킷 등을 제작했어요.\n환경을 생각하는 지속가능한 패션을 실천하는 특별한 기회!\n나만의 특별한 일본 여행 기념품으로도 추천해요. 💖\n\n#일본여행 #플라잉재팬 #ANA항공 #업사이클링 #지속가능한패션 #한정판 #여행기념품 #항공굿즈 #일본쇼핑 #환경보호 #특별한선물 #ANA #2NDRUNWAY",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#ANA항공",
-          "#업사이클링",
-          "#지속가능한패션",
-          "#한정판",
-          "#여행기념품",
-          "#항공굿즈",
-          "#일본쇼핑",
-          "#환경보호",
-          "#특별한선물",
-          "#ANA",
-          "#2NDRUNWAY",
-          "#여행정보",
-          "#일본"
-        ],
-        "alt_texts": [
-          "ANA항공에서 판매하는 업사이클링 패션 아이템 이미지",
-          "환경 보호 메시지를 담은 이미지",
-          "ANA항공 업사이클링 재킷 이미지",
-          "여행 기념품으로 좋은 가방 이미지",
-          "쇼핑백 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: ANA항공 이용 예정이거나 항공 굿즈에 관심 있는 한국인 여행객 / 최적 게시 시간: 오후 5시 ~ 7시 / 기대 반응: 특별한 상품에 대한 호기심, 구매 욕구 자극 / 이 콘텐츠의 강점: 환경적인 메시지와 희소성 있는 상품 정보를 결합하여 흥미 유발",
-      "image": {
-        "keyword": "ANA airlines upcycled fashion bag jacket sustainable eco-friendly travel souvenir limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/ANA-airlines-upcycled-fashion-bag-jacket-sustainable-eco-friendly-travel-souvenir-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/ANA%20airlines%20upcycled%20fashion%20bag%20jacket%20sustainable%20eco-friendly%20travel%20souvenir%20limited%20edition/"
       }
     }
   ]
