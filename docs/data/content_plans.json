@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-19T07:11:41.840094",
+  "last_updated": "2026-11-20T03:58:53.721254",
   "plans": [
+    {
+      "id": "plan_6ea26b70",
+      "created_at": "2026-11-20T03:58:51.721074",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ヒョウ柄のミャクミャク付き「マイドオオキニ缶」本日販売スタート。大丸松坂屋オンラインにて",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158038.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2025 오사카 엑스포 공식 굿즈, 한정판 쿠키와 귀여운 캐릭터 피규어 세트!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 엑스포 굿즈✨",
+        "cards": [
+          {
+            "title": "엑스포 공식 굿즈",
+            "content": "2025 오사카 엑스포 공식 라이선스 상품 'OSAKA O/MAKE CAN'이 출시되었어요. 엑스포 분위기를 미리 느낄 수 있는 특별한 굿즈랍니다.",
+            "alt_text": "2025 오사카 엑스포 공식 라이선스 상품 'OSAKA O/MAKE CAN' 패키지 이미지"
+          },
+          {
+            "title": "구성품 확인!",
+            "content": "이 굿즈 안에는 사르르 녹는 식감의 포르보론 쿠키 12개와 귀여운 미야크미야크 피규어 1개가 포함되어 있어요. 맛있는 쿠키와 함께 엑스포 마스코트를 소장하세요!",
+            "alt_text": "OSAKA O/MAKE CAN에 포함된 포르보론 쿠키와 미야크미야크 피규어 클로즈업 이미지"
+          },
+          {
+            "title": "가격과 판매처",
+            "content": "가격은 2,700엔이며, 현재 다이마루 마츠자카야 온라인 스토어에서 판매 중입니다. 오사카 여행 계획 중이라면 놓치지 마세요!",
+            "alt_text": "OSAKA O/MAKE CAN 가격 정보와 판매처 안내 텍스트 이미지"
+          },
+          {
+            "title": "태양노탑 양과자점",
+            "content": "이 굿즈는 '태양노탑 양과자점(TNT MARKET)'에서 제작했습니다. 맛있는 쿠키와 함께 독특한 디자인의 굿즈를 선보이는 곳이에요.",
+            "alt_text": "태양노탑 양과자점(TNT MARKET) 로고 또는 대표 이미지"
+          },
+          {
+            "title": "구매 팁!",
+            "content": "온라인 판매 외에 현지 판매 여부는 아직 미확인이므로, 구매를 원하시면 온라인 스토어를 먼저 확인해 보세요. 한정 수량일 수 있으니 서두르는 것이 좋습니다!",
+            "alt_text": "온라인 구매 팁과 서두르라는 메시지를 담은 이미지"
+          }
+        ],
+        "caption": "✨2025 오사카 엑스포 공식 굿즈 출시!✨\n\n오사카 여행을 더욱 특별하게 만들어 줄 'OSAKA O/MAKE CAN'이 드디어 공개되었어요!\n\n사르르 녹는 포르보론 쿠키 12개와 귀여운 미야크미야크 피규어 1개 구성으로, 가격은 2,700엔이에요.\n\n현재 다이마루 마츠자카야 온라인 스토어에서 구매 가능하며, 한정 수량으로 조기 품절될 수 있으니 서둘러 득템하세요! 🇯🇵✈️\n\n#오사카여행 #엑스포굿즈 #한정판 #일본여행 #플라잉재팬 #OSAKA",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카",
+          "#엑스포2025",
+          "#오사카엑스포",
+          "#일본굿즈",
+          "#한정판",
+          "#여행선물",
+          "#일본쇼핑",
+          "#쿠키",
+          "#피규어",
+          "#여행정보",
+          "#일본직구",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "2025 오사카 엑스포 공식 라이선스 상품 'OSAKA O/MAKE CAN' 패키지 이미지",
+          "OSAKA O/MAKE CAN에 포함된 포르보론 쿠키와 미야크미야크 피규어 클로즈업 이미지",
+          "OSAKA O/MAKE CAN 가격 정보와 판매처 안내 텍스트 이미지",
+          "태양노탑 양과자점(TNT MARKET) 로고 또는 대표 이미지",
+          "온라인 구매 팁과 서두르라는 메시지를 담은 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 2025 오사카 엑스포에 관심 있거나 오사카 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 6시 ~ 8시 / 기대 반응: 높은 관심과 구매 문의, 정보 공유 / 이 콘텐츠의 강점: 2025년 대형 이벤트 관련 공식 굿즈라는 희소성과 귀여운 캐릭터, 맛있는 쿠키라는 매력적인 구성.",
+      "image": {
+        "keyword": "Osaka Expo official merchandise, cute character figure, Japanese cookies, limited edition gift, travel souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/Osaka-Expo-official-merchandise,-cute-character-figure,-Japanese-cookies,-limited-edition-gift,-travel-souvenir",
+        "pexels_url": "https://www.pexels.com/search/Osaka%20Expo%20official%20merchandise,%20cute%20character%20figure,%20Japanese%20cookies,%20limited%20edition%20gift,%20travel%20souvenir/"
+      }
+    },
+    {
+      "id": "plan_634751c5",
+      "created_at": "2026-11-20T03:58:46.038455",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ANA「ポケモンジェット 青」12月12日就航。初便は羽田～能登線、「ポケモン空港」で記念イベントも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158133.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "포켓몬 덕후라면 놓칠 수 없는 ANA 특별 도색 항공기! 12월 12일 첫 취항 기념 이벤트까지!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ ANA 포켓몬 비행기 뜬다! ✈️",
+        "cards": [
+          {
+            "title": "포켓몬 비행기",
+            "content": "ANA가 포켓몬 30주년 기념 특별 도색기 '포켓몬젯 푸른색'을 12월 12일 국내선 정기편으로 취항합니다.",
+            "alt_text": "ANA 포켓몬젯 푸른색 항공기 이미지"
+          },
+          {
+            "title": "첫 비행 노선",
+            "content": "첫 비행편은 12월 12일 하네다 공항에서 출발하여 노토 공항으로 향하는 노선으로 운항됩니다.",
+            "alt_text": "하네다 공항 출발, 노토 공항 도착 노선도"
+          },
+          {
+            "title": "특별 이벤트",
+            "content": "'포켓몬 공항'으로 불리는 곳에서 첫 취항을 기념하는 특별 이벤트가 진행될 예정입니다.",
+            "alt_text": "포켓몬 테마의 공항 이벤트 현장 사진"
+          },
+          {
+            "title": "탑승 기회",
+            "content": "포켓몬 팬이라면 특별한 비행 경험을 놓치지 마세요! 자세한 운항 스케줄은 ANA 홈페이지를 확인하세요.",
+            "alt_text": "항공기 창문 밖으로 보이는 풍경"
+          },
+          {
+            "title": "포인트 팁",
+            "content": "이 특별 도색기는 한정 기간 운항될 예정이니, 여행 계획 시 참고하시고 미리 예약하는 것을 추천합니다.",
+            "alt_text": "항공권 예약 페이지 이미지"
+          }
+        ],
+        "caption": "✈️ ANA에서 포켓몬 30주년 기념 특별 도색기 '포켓몬젯 푸른색'을 선보입니다! 12월 12일 하네다-노토 노선 첫 취항! ✈️\n\n'포켓몬 공항'에서 기념 이벤트도 진행된다니, 포켓몬 팬이라면 절대 놓칠 수 없겠죠? 🤩\n\n특별한 비행 경험을 원한다면 이번 기회를 꼭 잡으세요! ✨\n\n#포켓몬 #ANA #일본항공 #특별도색기 #일본여행준비 #인천공항 #김포공항 #하네다공항 #여행스타그램 #포켓몬스터 #제주항공 #티웨이항공 #에어서울 #이스타항공 #진에어",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#ANA",
+          "#포켓몬젯",
+          "#포켓몬스터",
+          "#특별도색기",
+          "#일본항공",
+          "#하네다공항",
+          "#노토공항",
+          "#일본여행정보",
+          "#여행꿀팁",
+          "#항공권",
+          "#비행기",
+          "#일본여행계획",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "ANA 포켓몬젯 푸른색 항공기 이미지",
+          "하네다 공항 출발, 노토 공항 도착 노선도",
+          "포켓몬 테마의 공항 이벤트 현장 사진",
+          "항공기 창문 밖으로 보이는 풍경",
+          "항공권 예약 페이지 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 포켓몬 팬, 특별한 경험을 추구하는 한국인 일본 여행객 / 최적 게시 시간: 오후 1시 ~ 3시 (점심시간 이후) / 기대 반응: 높은 관심과 공유, 이벤트 참여 문의 / 이 콘텐츠의 강점: 희소성 있는 특별 이벤트 정보, 강력한 팬덤을 가진 포켓몬 활용",
+      "image": {
+        "keyword": "ANA Pokemon Jet Blue, Japan travel, airplane, special livery, event",
+        "unsplash_url": "https://unsplash.com/s/photos/ANA-Pokemon-Jet-Blue,-Japan-travel,-airplane,-special-livery,-event",
+        "pexels_url": "https://www.pexels.com/search/ANA%20Pokemon%20Jet%20Blue,%20Japan%20travel,%20airplane,%20special%20livery,%20event/"
+      }
+    },
     {
       "id": "plan_fde6acd2",
       "created_at": "2026-11-19T07:11:39.839908",
@@ -923,160 +1077,6 @@
         "keyword": "disney store japan black friday sale discount",
         "unsplash_url": "https://unsplash.com/s/photos/disney-store-japan-black-friday-sale-discount",
         "pexels_url": "https://www.pexels.com/search/disney%20store%20japan%20black%20friday%20sale%20discount/"
-      }
-    },
-    {
-      "id": "plan_0ce60dd9",
-      "created_at": "2026-11-16T06:09:55.017791",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東急、「ツギツギ」の宿泊・航空連携が規制のサンドボックス制度に認定",
-        "url": "https://www.traicy.com/posts/20261116388048/",
-        "date": "Mon, 16 Nov 2026 00:15:38 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "숙박과 항공권 결합! 도큐 '츠기츠기' 혜택 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️숙박+항공권 결합 꿀팁!",
-        "cards": [
-          {
-            "title": "츠기츠기 혜택",
-            "content": "도큐에서 새롭게 선보이는 '츠기츠기' 서비스가 숙박과 항공권 연계에 대한 실증 계획을 발표했습니다. 이 서비스는 정액제로 운영될 예정입니다.",
-            "alt_text": "도큐 츠기츠기 서비스 로고"
-          },
-          {
-            "title": "규제 샌드박스",
-            "content": "해당 계획은 일본 정부의 '규제 샌드박스 제도' 승인을 받아, 혁신적인 서비스 도입을 위한 발판을 마련했습니다. 이는 관광객에게 더 나은 경험을 제공할 것으로 기대됩니다.",
-            "alt_text": "일본 규제 샌드박스 제도 관련 이미지"
-          },
-          {
-            "title": "실증 계획",
-            "content": "숙박과 항공권 연계를 통해 여행 계획의 편의성을 높이고, 새로운 형태의 여행 상품 개발 가능성을 모색합니다. 구체적인 서비스 내용은 추후 공개될 예정입니다.",
-            "alt_text": "여행 계획 중인 사람 이미지"
-          },
-          {
-            "title": "기대 효과",
-            "content": "이를 통해 한국인 여행자들은 일본 내에서 더욱 편리하고 합리적인 가격으로 숙박과 항공권을 동시에 예약할 수 있게 될 것으로 보입니다.",
-            "alt_text": "일본 지도와 항공기 이미지"
-          },
-          {
-            "title": "기대 포인트",
-            "content": "정액제 숙박과 항공권 연계 상품 출시를 기대하며, 언제 발표될지 주목해 보세요! 자세한 내용은 도큐 공식 발표를 기다려야 합니다.",
-            "alt_text": "기대감을 나타내는 이모티콘 이미지"
-          }
-        ],
-        "caption": "일본 여행 계획 중이신가요? ✈️ 도큐에서 새롭게 선보이는 '츠기츠기' 서비스가 숙박과 항공권 연계에 대한 실증 계획을 발표했어요! 🎉\n\n규제 샌드박스 제도를 통해 승인받은 이 서비스는 앞으로 더욱 편리하고 합리적인 일본 여행을 가능하게 할 것으로 기대됩니다. 🤩\n\n정액제 숙박과 항공권 연계 상품, 어떤 혜택이 기다릴지 벌써부터 궁금하네요! 👀\n\n#일본여행 #플라잉재팬 #도큐 #츠기츠기 #일본숙박 #일본항공권 #여행꿀팁 #일본여행준비 #규제샌드박스 #여행정보 #여행스타그램 #일본자유여행 #새로운여행",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도큐",
-          "#츠기츠기",
-          "#일본숙박",
-          "#일본항공권",
-          "#여행꿀팁",
-          "#일본여행준비",
-          "#규제샌드박스",
-          "#여행정보",
-          "#여행스타그램",
-          "#일본자유여행",
-          "#새로운여행",
-          "#일본",
-          "#여행"
-        ],
-        "alt_texts": [
-          "도큐 츠기츠기 서비스 로고",
-          "일본 규제 샌드박스 제도 관련 이미지",
-          "여행 계획 중인 사람 이미지",
-          "일본 지도와 항공기 이미지",
-          "기대감을 나타내는 이모티콘 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7~9시 / 기대 반응: 서비스 출시 시점에 대한 기대감, 정보 공유 활발 / 이 콘텐츠의 강점: 혁신적인 신규 서비스 정보를 가장 먼저 제공하여 주목도 높음",
-      "image": {
-        "keyword": "Japan travel, accommodation and flight package, Tokyu TsugiTsugi, regulatory sandbox",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-accommodation-and-flight-package,-Tokyu-TsugiTsugi,-regulatory-sandbox",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20accommodation%20and%20flight%20package,%20Tokyu%20TsugiTsugi,%20regulatory%20sandbox/"
-      }
-    },
-    {
-      "id": "plan_fb4c3e49",
-      "created_at": "2026-11-16T06:09:47.955497",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「パペットスンスンストア」渋谷ヒカリエ内覧レポート。ストア限定を含む100点以上のグッズ売り場を撮り下ろしで紹介",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156686.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본에서만 만날 수 있는 캐릭터 팝업 스토어 오픈 소식!"
-      },
-      "content": {
-        "thumbnail_title": "스밋코구라시 팝업 스토어 OPEN!✨",
-        "cards": [
-          {
-            "title": "신규 팝업 스토어",
-            "content": "인기 캐릭터 '파펫 스スン'의 첫 상설 매장이 도쿄 시부야 히카리에와 오사카 우메다에 오픈했어요. 2024년 7월 19일 오픈 예정입니다.",
-            "alt_text": "파펫 스スン 팝업 스토어 입구 이미지"
-          },
-          {
-            "title": "100개 이상 굿즈",
-            "content": "매장 한정 굿즈를 포함하여 100가지 이상의 다양한 파펫 스スン 관련 상품을 만날 수 있어요. 캐릭터별 굿즈를 꼼꼼히 살펴보세요!",
-            "alt_text": "팝업 스토어 내부 굿즈 진열대 이미지"
-          },
-          {
-            "title": "시부야 히카리에",
-            "content": "도쿄 시부야 히카리에 6층에서 열리는 이번 팝업 스토어는 쇼핑과 식사를 한 번에 즐길 수 있는 시부야 중심부에 위치해 접근성이 좋아요.",
-            "alt_text": "시부야 히카리에 건물 외관 이미지"
-          },
-          {
-            "title": "오사카 우메다",
-            "content": "오사카에서는 우메다역 근처에서 팝업 스토어가 열릴 예정이니, 오사카 여행 시 방문 계획을 세워보세요. 정확한 위치는 추후 공개됩니다.",
-            "alt_text": "오사카 우메다 지역 이미지"
-          },
-          {
-            "title": "방문 꿀팁",
-            "content": "오픈 초기에는 사람이 몰릴 수 있으니, 평일 오전에 방문하는 것을 추천해요. 좋아하는 캐릭터 굿즈를 놓치지 않도록 미리 위시리스트를 만들어 가세요!",
-            "alt_text": "파펫 스スン 캐릭터 굿즈 모음 이미지"
-          }
-        ],
-        "caption": "📢 일본 여행 필수 코스! 인기 캐릭터 '파펫 스スン'의 첫 상설 매장이 도쿄 시부야와 오사카 우메다에 오픈해요! ✨ 100가지 이상의 한정 굿즈와 함께 특별한 추억을 만들어 보세요. 💖\n\n📍 도쿄: 시부야 히카리에 6층 (7월 19일 오픈)\n📍 오사카: 우메다 (추후 공개)\n\n#파펫스スン #일본팝업스토어 #도쿄여행 #오사카여행 #시부야 #우메다 #캐릭터굿즈 #일본쇼핑 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#파펫스スン",
-          "#일본팝업스토어",
-          "#도쿄여행",
-          "#오사카여행",
-          "#시부야",
-          "#우메다",
-          "#캐릭터굿즈",
-          "#일본쇼핑",
-          "#여행정보",
-          "#일본한정",
-          "#여행스타그램",
-          "#해외여행",
-          "#굿즈샵"
-        ],
-        "alt_texts": [
-          "파펫 스スン 팝업 스토어 입구 이미지",
-          "팝업 스토어 내부 굿즈 진열대 이미지",
-          "시부야 히카리에 건물 외관 이미지",
-          "오사카 우메다 지역 이미지",
-          "파펫 스スン 캐릭터 굿즈 모음 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2030 한국인 / 최적 게시 시간: 주중 오후 5-7시 / 기대 반응: 높은 관심과 정보 공유, 방문 계획 수립 / 이 콘텐츠의 강점: 한국인이 좋아하는 캐릭터 팝업 스토어 오픈 소식으로 즉각적인 흥미 유발 및 구체적인 정보 제공",
-      "image": {
-        "keyword": "Puppet SunSun store, Shibuya Hikarie, Osaka Umeda, character goods, Japan pop-up store",
-        "unsplash_url": "https://unsplash.com/s/photos/Puppet-SunSun-store,-Shibuya-Hikarie,-Osaka-Umeda,-character-goods,-Japan-pop-up-store",
-        "pexels_url": "https://www.pexels.com/search/Puppet%20SunSun%20store,%20Shibuya%20Hikarie,%20Osaka%20Umeda,%20character%20goods,%20Japan%20pop-up%20store/"
       }
     }
   ]
