@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-20T06:59:34.534476",
+  "last_updated": "2026-11-21T03:58:30.601910",
   "plans": [
+    {
+      "id": "plan_6363a04f",
+      "created_at": "2026-11-21T03:58:28.601786",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "福岡「大たまごっち展」チケット先着販売が本日10時スタート。限定グッズ「シャカシャカ巾着」付きも",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2156506.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "후쿠오카에서만 만날 수 있는 특별한 '다마고치' 전시!"
+      },
+      "content": {
+        "thumbnail_title": "🥚후쿠오카 다마고치 전시 오픈!🥚",
+        "cards": [
+          {
+            "title": "전시 티켓 오픈!",
+            "content": "후쿠오카에서 열리는 '30주년 기념 다마고치 전시' 티켓 선착순 판매가 오늘 11월 21일 오전 10시부터 시작됩니다.",
+            "alt_text": "다마고치 전시 티켓 판매 시작 알림"
+          },
+          {
+            "title": "한정 굿즈 증정",
+            "content": "선착순 판매 티켓 구매자에게는 '샤카샤카 츳카' 한정 굿즈가 증정될 예정입니다. 놓치지 마세요!",
+            "alt_text": "다마고치 전시 한정 굿즈 이미지"
+          },
+          {
+            "title": "30주년 기념 전시",
+            "content": "다마고치 탄생 30주년을 기념하여 열리는 이번 전시는 다마고치의 역사를 한눈에 볼 수 있는 특별한 기회입니다.",
+            "alt_text": "다마고치 30주년 기념 전시 소개"
+          },
+          {
+            "title": "후쿠오카에서 만나요",
+            "content": "일본 여행 중 후쿠오카에 계신다면, 특별한 추억을 만들 수 있는 다마고치 전시를 꼭 방문해보세요.",
+            "alt_text": "후쿠오카 시내 전경 이미지"
+          },
+          {
+            "title": "예매 팁!",
+            "content": "인기 전시인만큼 티켓이 빠르게 매진될 수 있습니다. 판매 시작 시간인 오전 10시에 맞춰 바로 예매하는 것을 추천합니다.",
+            "alt_text": "다마고치 전시 예매 팁 안내"
+          }
+        ],
+        "caption": "✨후쿠오카 여행 필수 코스 등장!✨\n\n30주년 기념 '대 다마고치 전시' 티켓 선착순 판매가 오늘 11월 21일 오전 10시부터 시작됩니다! 🥚\n\n한정판 '샤카샤카 츳카' 굿즈까지 받을 수 있는 절호의 찬스!\n\n다마고치의 추억을 소환하고 싶다면, 지금 바로 후쿠오카로 떠나세요! ✈️\n\n#일본여행 #후쿠오카여행 #다마고치 #한정굿즈 #여행정보 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카",
+          "#후쿠오카여행",
+          "#다마고치",
+          "#다마고치전시",
+          "#일본전시",
+          "#여행스타그램",
+          "#일본쇼핑",
+          "#일본핫플",
+          "#여행꿀팁",
+          "#일본축제",
+          "# Kyushu",
+          "#Fukuoka",
+          "#Tamagotchi"
+        ],
+        "alt_texts": [
+          "다마고치 전시 티켓 판매 시작 알림",
+          "다마고치 전시 한정 굿즈 이미지",
+          "다마고치 30주년 기념 전시 소개",
+          "후쿠오카 시내 전경 이미지",
+          "다마고치 전시 예매 팁 안내"
+        ]
+      },
+      "marketer_analysis": "타겟: 후쿠오카 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심과 구매 전환율, 전시 방문 인증샷 확산 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 한정판 굿즈라는 희소성 강조, 타겟층의 향수를 자극하는 아이템",
+      "image": {
+        "keyword": "Tamagotchi exhibition Fukuoka Japan, limited edition goods, ticket sale start",
+        "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-exhibition-Fukuoka-Japan,-limited-edition-goods,-ticket-sale-start",
+        "pexels_url": "https://www.pexels.com/search/Tamagotchi%20exhibition%20Fukuoka%20Japan,%20limited%20edition%20goods,%20ticket%20sale%20start/"
+      }
+    },
+    {
+      "id": "plan_9d90f5ac",
+      "created_at": "2026-11-21T03:58:23.371376",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "Suicaのペンギン感謝祭「ARIGATO Suica Market」は今日から3日間！　東京駅で2つのポップアップストア",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158288.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역에서 열리는 Suica 펜귄 감사제! 놓치면 후회할 3일간의 특별 이벤트!"
+      },
+      "content": {
+        "thumbnail_title": "Suica 펜귄 감사제 🐧",
+        "cards": [
+          {
+            "title": "감사제 개최!",
+            "content": "JR 도쿄역에서 'ARIGATO Suica Market' 감사제가 11월 21일부터 23일까지 3일간 열립니다. 오전 9시부터 오후 8시까지 운영됩니다.",
+            "alt_text": "도쿄역에서 열리는 Suica 펜귄 감사제 팝업 스토어 전경"
+          },
+          {
+            "title": "Suica 펜귄 졸업!",
+            "content": "이번 행사는 JR 동일본 그룹의 Suica 펜귄 졸업 기획 'Penguin Years'의 일환으로 마련되었습니다. 특별한 추억을 만들 기회입니다.",
+            "alt_text": "Suica 펜귄 캐릭터 일러스트"
+          },
+          {
+            "title": "2개의 팝업 스토어",
+            "content": "도쿄역 내 2곳의 팝업 스토어에서 다양한 이벤트와 상품을 만나볼 수 있습니다. 방문 전 위치를 확인하세요.",
+            "alt_text": "도쿄역 팝업 스토어 안내 지도"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "11월 21일, 22일, 23일 단 3일간만 진행되니, 도쿄 여행 중이라면 꼭 방문해보세요! 늦으면 후회할지도 몰라요.",
+            "alt_text": "시계와 함께 표시된 감사제 날짜"
+          },
+          {
+            "title": "여행 꿀팁",
+            "content": "행사 기간 동안 도쿄역 주변 관광 및 쇼핑 계획을 세우면 더욱 알찬 여행이 될 수 있습니다. Suica 카드 소지자라면 더욱 특별한 경험을 할 수 있을지도 모릅니다.",
+            "alt_text": "도쿄역 주변 지도와 관광 명소 표시"
+          }
+        ],
+        "caption": "✨Suica 펜귄의 특별한 감사제, 도쿄역에서 열려요!✨\n\n11월 21일부터 23일까지 단 3일간, JR 도쿄역에서 'ARIGATO Suica Market'이 개최됩니다. 🐧 Suica 펜귄의 졸업 기획으로 마련된 이번 행사에서 두 개의 팝업 스토어를 만나보세요!\n\n⏰ 운영 시간: 오전 9시 ~ 오후 8시\n\n도쿄 여행 중이라면 절대 놓치지 마세요! 💖\n\n#일본여행 #도쿄여행 #Suica #Suica펜귄 #도쿄역 #팝업스토어 #감사제 #일본이벤트 #여행정보 #JR동일본 #도쿄 #일본 #놀거리 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#Suica",
+          "#Suica펜귄",
+          "#도쿄역",
+          "#팝업스토어",
+          "#감사제",
+          "#일본이벤트",
+          "#여행정보",
+          "#JR동일본",
+          "#도쿄",
+          "#일본",
+          "#놀거리",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "도쿄역에서 열리는 Suica 펜귄 감사제 팝업 스토어 전경",
+          "Suica 펜귄 캐릭터 일러스트",
+          "도쿄역 팝업 스토어 안내 지도",
+          "시계와 함께 표시된 감사제 날짜",
+          "도쿄역 주변 지도와 관광 명소 표시"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄를 방문하는 한국인 여행자 / 최적 게시 시간: 여행 전날 또는 여행 당일 오전 9시~11시 / 기대 반응: 이벤트 참여 독려, 도쿄역 방문 욕구 증진 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 날짜 및 시간 명시",
+      "image": {
+        "keyword": "Suica Penguin Thanksgiving Festival Tokyo Station",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-Thanksgiving-Festival-Tokyo-Station",
+        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20Thanksgiving%20Festival%20Tokyo%20Station/"
+      }
+    },
     {
       "id": "plan_27faf87b",
       "created_at": "2026-11-20T06:59:32.534295",
@@ -923,160 +1077,6 @@
         "keyword": "Courtyard by Marriott Kyoto Station, Kyoto Station, Japan hotel, new hotel opening, Japanese curry buffet",
         "unsplash_url": "https://unsplash.com/s/photos/Courtyard-by-Marriott-Kyoto-Station,-Kyoto-Station,-Japan-hotel,-new-hotel-opening,-Japanese-curry-buffet",
         "pexels_url": "https://www.pexels.com/search/Courtyard%20by%20Marriott%20Kyoto%20Station,%20Kyoto%20Station,%20Japan%20hotel,%20new%20hotel%20opening,%20Japanese%20curry%20buffet/"
-      }
-    },
-    {
-      "id": "plan_3effc705",
-      "created_at": "2026-11-17T07:44:33.563808",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「ユニクロ感謝祭」ヒートテックインナーや暖パンが今季初の1000円引き。防寒アイテムのセール品目を先行公開",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156886.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 필수 쇼핑템, 유니클로 역대급 할인 찬스를 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "🔥유니클로 역대급 할인🔥",
-        "cards": [
-          {
-            "title": "✨감사제 시작!",
-            "content": "일본 전역 유니클로 매장 및 온라인 스토어에서 11월 20일부터 26일까지 7일간 '유니클로 감사제'가 열립니다.",
-            "alt_text": "유니클로 감사제 행사 시작을 알리는 이미지"
-          },
-          {
-            "title": "🧥히트텍 1000엔↓",
-            "content": "이번 감사제에서 히트텍 이너와 따뜻한 바지가 올 시즌 최초로 1000엔 할인된 가격으로 판매됩니다.",
-            "alt_text": "할인 대상인 히트텍 이너와 따뜻한 바지 이미지"
-          },
-          {
-            "title": "🗓️기간 확인!",
-            "content": "놓치기 아까운 할인 혜택은 11월 20일부터 26일까지, 단 7일간만 제공됩니다. 서둘러 준비하세요!",
-            "alt_text": "행사 기간을 명시한 캘린더 이미지"
-          },
-          {
-            "title": "🛍️쇼핑 리스트 UP!",
-            "content": "여행 중 필수템인 방한 의류를 저렴하게 구매할 수 있는 절호의 기회입니다. 미리 세일 품목을 확인해보세요.",
-            "alt_text": "다양한 유니클로 의류 상품 이미지"
-          },
-          {
-            "title": "💡꿀팁!",
-            "content": "인기 상품은 조기 품절될 수 있으니, 오픈 시간에 맞춰 방문하거나 온라인 스토어를 활용하는 것을 추천합니다.",
-            "alt_text": "쇼핑을 즐기는 사람들의 모습 이미지"
-          }
-        ],
-        "caption": "🇯🇵일본 여행 필수템 득템 찬스!🇯🇵\n유니클로 감사제가 11월 20일부터 26일까지 7일간 열립니다.\n히트텍 이너, 따뜻한 바지 등 겨울 필수템을 1000엔 할인된 가격으로 만나보세요!\n여행 경비를 절약할 수 있는 절호의 기회, 절대 놓치지 마세요!\n\n#유니클로감사제 #일본쇼핑 #겨울여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#유니클로",
-          "#유니클로감사제",
-          "#일본쇼핑",
-          "#겨울여행",
-          "#방한용품",
-          "#할인정보",
-          "#여행필수템",
-          "#일본자유여행",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본생활",
-          "#쇼핑스타그램",
-          "#득템찬스"
-        ],
-        "alt_texts": [
-          "유니클로 감사제 행사 시작을 알리는 이미지",
-          "할인 대상인 히트텍 이너와 따뜻한 바지 이미지",
-          "행사 기간을 명시한 캘린더 이미지",
-          "다양한 유니클로 의류 상품 이미지",
-          "쇼핑을 즐기는 사람들의 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 참여율 (좋아요, 댓글, 저장), 쇼핑 정보 공유 / 이 콘텐츠의 강점: 실질적인 쇼핑 정보, 명확한 할인 내용 및 기간 제시",
-      "image": {
-        "keyword": "Uniqlo, Japan, Sale, Winter clothes, Discount, Shopping, Travel",
-        "unsplash_url": "https://unsplash.com/s/photos/Uniqlo,-Japan,-Sale,-Winter-clothes,-Discount,-Shopping,-Travel",
-        "pexels_url": "https://www.pexels.com/search/Uniqlo,%20Japan,%20Sale,%20Winter%20clothes,%20Discount,%20Shopping,%20Travel/"
-      }
-    },
-    {
-      "id": "plan_64c215cd",
-      "created_at": "2026-11-17T07:44:27.789684",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Yahoo!トラベル、航空券＋宿泊がお得な「ヤフーパック ブラックフライデー」。JAL/ANA便クーポン、PayPayポイント最大10％付与など",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157053.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "블랙프라이데이 시즌, JAL/ANA 항공권과 숙박을 최대 10% 할인받는 기회!"
-      },
-      "content": {
-        "thumbnail_title": "✈️JAL/ANA 10% 할인 찬스!",
-        "cards": [
-          {
-            "title": "야후팩 블랙프라이데이",
-            "content": "일본 여행 시 유용한 '야후팩' 블랙프라이데이 세일이 시작됩니다. 항공권과 숙박을 함께 예약하면 특별 할인을 받을 수 있어요.",
-            "alt_text": "블랙프라이데이 세일 배너 이미지"
-          },
-          {
-            "title": "할인 혜택",
-            "content": "JAL 또는 ANA 항공권과 숙박을 묶어 예약 시, 최대 10% 상당의 PayPay 포인트가 부여됩니다. 해당 프로모션은 11월 16일 12시부터 12월 1일 11시 59분까지 진행됩니다.",
-            "alt_text": "PayPay 포인트 적립 이미지"
-          },
-          {
-            "title": "여행 기간",
-            "content": "이번 세일 기간 동안 예약 가능한 여행 출발일은 2024년 11월 17일부터 2025년 5월 31일까지입니다. 봄 시즌 일본 여행 계획 중이라면 눈여겨보세요!",
-            "alt_text": "달력에 표시된 여행 기간 이미지"
-          },
-          {
-            "title": "예약 방법",
-            "content": "Yahoo!トラベル (야후 트래블) 웹사이트에서 '야후팩' 상품을 검색하여 예약할 수 있습니다. 한국에서 접속 시 VPN 등 별도 설정이 필요할 수 있습니다.",
-            "alt_text": "야후 트래블 웹사이트 예약 화면 이미지"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "항공권과 숙박을 동시에 예약하면 더욱 저렴하게 일본 여행을 즐길 수 있는 절호의 기회입니다. 서둘러서 원하는 날짜와 숙소를 확보하세요!",
-            "alt_text": "성공적인 예약 완료를 축하하는 이미지"
-          }
-        ],
-        "caption": "✈️ JAL/ANA 항공권+숙박 최대 10% 할인 찬스! ✈️\n\n일본 여행 계획 중이신가요? 야후 트래블에서 진행하는 블랙프라이데이 세일을 놓치지 마세요!\n\n✅ 항공권+숙박 묶음 예약 시 최대 10% PayPay 포인트 적립\n✅ 예약 기간: 11/16 ~ 12/1\n✅ 출발 가능 기간: 11/17 ~ 2025/5/31\n\n이 기회를 통해 더욱 알뜰하게 일본 여행을 즐겨보세요! 🇯🇵✨",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본항공권",
-          "#JAL",
-          "#ANA",
-          "#야후트래블",
-          "#블랙프라이데이",
-          "#일본숙소",
-          "#여행특가",
-          "#할인정보",
-          "#일본자유여행",
-          "#해외여행",
-          "#여행스타그램",
-          "#일본",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "블랙프라이데이 세일 배너 이미지",
-          "PayPay 포인트 적립 이미지",
-          "달력에 표시된 여행 기간 이미지",
-          "야후 트래블 웹사이트 예약 화면 이미지",
-          "성공적인 예약 완료를 축하하는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 1-3시 / 기대 반응: 프로모션 정보에 대한 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 실질적인 할인 혜택과 구체적인 예약/출발 기간 제시로 즉각적인 여행 계획에 도움",
-      "image": {
-        "keyword": "Japan travel, Black Friday sale, JAL, ANA, hotel booking, discount, PayPay points, travel deals, flight tickets",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-travel,-Black-Friday-sale,-JAL,-ANA,-hotel-booking,-discount,-PayPay-points,-travel-deals,-flight-tickets",
-        "pexels_url": "https://www.pexels.com/search/Japan%20travel,%20Black%20Friday%20sale,%20JAL,%20ANA,%20hotel%20booking,%20discount,%20PayPay%20points,%20travel%20deals,%20flight%20tickets/"
       }
     }
   ]
