@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-21T03:58:30.601910",
+  "last_updated": "2026-11-21T06:54:58.286827",
   "plans": [
+    {
+      "id": "plan_b91c6a3b",
+      "created_at": "2026-11-21T06:54:56.286640",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "おむすび処 ほんのり屋、Suicaのペンギンアクリルキーホルダー再び。交通系電子マネー1500円以上購入で",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158287.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 꿀템 득템 찬스! 인기 캐릭터 굿즈 증정 이벤트 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "Suica 펭귄 굿즈 🎁",
+        "cards": [
+          {
+            "title": "한정판 굿즈!",
+            "content": "일본 JR동일본에서 운영하는 '오무스비도코로 혼노리야'에서 Suica 펭귄 아크릴 키홀더를 증정하는 캠페인을 진행해요. 11월 24일부터 시작되며, 수량 한정으로 조기 소진될 수 있습니다.",
+            "alt_text": "Suica 펭귄 아크릴 키홀더 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "해당 매장에서 교통계 전자화폐로 1500엔 이상 구매 시 키홀더를 받을 수 있어요. 맛있는 오무스비도 즐기고 귀여운 굿즈도 득템할 기회랍니다!",
+            "alt_text": "오무스비도코로 혼노리야 매장 전경"
+          },
+          {
+            "title": "언제까지?",
+            "content": "캠페인 기간은 11월 24일부터 시작되며, 재고가 소진될 때까지 진행됩니다. 서둘러 방문하시는 것이 좋겠죠?",
+            "alt_text": "캠페인 시작 날짜 표시 이미지"
+          },
+          {
+            "title": "어디서?",
+            "content": "'오무스비도코로 혼노리야' 매장에서 진행됩니다. 일본 여행 중 맛있는 식사와 함께 특별한 기념품을 얻어갈 수 있는 절호의 찬스예요!",
+            "alt_text": "오무스비도코로 혼노리야 메뉴 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "여행 중 교통비 결제 시 교통계 전자화폐를 활용하면 편리하고, 이번 캠페인처럼 예상치 못한 굿즈 득템 찬스까지 얻을 수 있어요! 잊지 말고 1500엔 이상 구매하세요!",
+            "alt_text": "교통계 전자화폐 로고 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 중 득템 찬스! 🇯🇵\nJR동일본 '오무스비도코로 혼노리야'에서 인기 'Suica 펭귄 아크릴 키홀더' 증정 캠페인을 진행합니다! 🐧✨\n\n✅ 기간: 11월 24일 ~ (수량 한정, 소진 시 종료)\n✅ 참여 방법: 교통계 전자화폐로 1500엔 이상 구매\n\n맛있는 오무스비도 즐기고, 귀여운 한정판 굿즈도 득템하세요! 💖\n\n#일본여행 #플라잉재팬 #Suica펭귄 #일본굿즈 #한정판 #이벤트 #일본쇼핑 #여행정보 #일본여행팁 #도쿄여행 #오사카여행 #여행스타그램 #일본편의점 #일본맛집",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica펭귄",
+          "#일본굿즈",
+          "#한정판",
+          "#이벤트",
+          "#일본쇼핑",
+          "#여행정보",
+          "#일본여행팁",
+          "#도쿄여행",
+          "#오사카여행",
+          "#여행스타그램",
+          "#일본편의점",
+          "#일본맛집",
+          "#교통계전자화폐"
+        ],
+        "alt_texts": [
+          "Suica 펭귄 아크릴 키홀더 이미지",
+          "오무스비도코로 혼노리야 매장 전경",
+          "캠페인 시작 날짜 표시 이미지",
+          "오무스비도코로 혼노리야 메뉴 이미지",
+          "교통계 전자화폐 로고 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 중인 20-30대 한국인 여행객 / 최적 게시 시간: 오후 6-9시 / 기대 반응: 정보 공유 및 댓글 문의 / 이 콘텐츠의 강점: 실질적인 혜택 제공, 귀여운 캐릭터 활용으로 인한 관심 유발",
+      "image": {
+        "keyword": "Suica penguin acrylic keychain, Onigiri Dokoro Honnoriya, Japan travel gift, limited edition Japan merchandise, Tokyo souvenir",
+        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin-acrylic-keychain,-Onigiri-Dokoro-Honnoriya,-Japan-travel-gift,-limited-edition-Japan-merchandise,-Tokyo-souvenir",
+        "pexels_url": "https://www.pexels.com/search/Suica%20penguin%20acrylic%20keychain,%20Onigiri%20Dokoro%20Honnoriya,%20Japan%20travel%20gift,%20limited%20edition%20Japan%20merchandise,%20Tokyo%20souvenir/"
+      }
+    },
+    {
+      "id": "plan_6786310a",
+      "created_at": "2026-11-21T06:54:50.964916",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "「北陸・関西チケットレス」はじめての利用で最大1万ポイント当たる。北陸新幹線×特急サンダーバードがセットでお得",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158292.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "북쪽과 서쪽을 잇는 신칸센과 특급열차 조합, 첫 이용 시 최대 1만 포인트 증정!"
+      },
+      "content": {
+        "thumbnail_title": "JR 서일본 꿀팁! 💯",
+        "cards": [
+          {
+            "title": "이용 꿀팁!",
+            "content": "JR 서일본에서 '첫 북륙·간사이 티켓리스 이용 캠페인'을 실시합니다. 북륙 신칸센과 특급 선더버드를 함께 이용하면 최대 1만 포인트를 받을 수 있어요.",
+            "alt_text": "JR 열차 표와 포인트 아이콘"
+          },
+          {
+            "title": "혜택 상세",
+            "content": "캠페인 기간 내에 처음으로 티켓리스 서비스를 이용하는 고객에게 포인트가 제공됩니다. 자세한 내용은 JR 서일본 공식 홈페이지를 확인해주세요.",
+            "alt_text": "포인트 적립 안내 이미지"
+          },
+          {
+            "title": "이용 구간",
+            "content": "이 캠페인은 북륙 신칸센과 특급 선더버드 열차를 포함하며, 북쪽 지역과 간사이 지역을 편리하게 여행할 수 있도록 설계되었습니다.",
+            "alt_text": "일본 지도와 열차 노선 표시"
+          },
+          {
+            "title": "티켓리스 장점",
+            "content": "티켓리스 서비스는 별도 티켓 발권 없이 스마트폰 앱 등을 통해 간편하게 승하차할 수 있어 더욱 편리한 여행을 지원합니다.",
+            "alt_text": "스마트폰으로 열차표 확인하는 모습"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "여행 계획 중이라면 이 기회를 활용하여 교통비를 절약하고 포인트 혜택까지 챙기세요! 캠페인 종료일은 별도 확인이 필요합니다.",
+            "alt_text": "여행 가방과 할인 태그"
+          }
+        ],
+        "caption": "JR 서일본에서 역대급 혜택이 쏟아진다! 🚄✨\n\n'첫 북륙·간사이 티켓리스 이용 캠페인'으로 북륙 신칸센과 특급 선더버드 조합을 특별한 가격으로 만나보세요. 첫 이용 시 최대 1만 포인트까지 적립 가능! 💯\n\n티켓 발권 없이 간편하게 이용하고, 교통비도 아끼는 똑똑한 일본 여행 팁!\n\n지금 바로 JR 서일본 홈페이지에서 자세한 내용을 확인하고, 잊지 말고 혜택 챙기세요! 😉",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JR서일본",
+          "#북륙신칸센",
+          "#특급선더버드",
+          "#일본교통",
+          "#일본여행팁",
+          "#여행포인트",
+          "#일본여행준비",
+          "#간사이여행",
+          "#북륙여행",
+          "#티켓리스",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#일본할인"
+        ],
+        "alt_texts": [
+          "JR 열차 표와 포인트 아이콘",
+          "포인트 적립 안내 이미지",
+          "일본 지도와 열차 노선 표시",
+          "스마트폰으로 열차표 확인하는 모습",
+          "여행 가방과 할인 태그"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 북륙 및 간사이 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 여행 계획이 활발한 주말 오후 3-5시 / 기대 반응: 정보 공유 및 캠페인 참여 문의 증가 / 이 콘텐츠의 강점: 실질적인 교통비 절감 혜택과 편리한 이용 방법을 명확하게 제시",
+      "image": {
+        "keyword": "JR West Japan, Hokuriku Shinkansen, Limited Express Thunderbird, ticketless service, travel points, campaign promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/JR-West-Japan,-Hokuriku-Shinkansen,-Limited-Express-Thunderbird,-ticketless-service,-travel-points,-campaign-promotion",
+        "pexels_url": "https://www.pexels.com/search/JR%20West%20Japan,%20Hokuriku%20Shinkansen,%20Limited%20Express%20Thunderbird,%20ticketless%20service,%20travel%20points,%20campaign%20promotion/"
+      }
+    },
     {
       "id": "plan_6363a04f",
       "created_at": "2026-11-21T03:58:28.601786",
@@ -923,160 +1077,6 @@
         "keyword": "Detective Conan exhibition Yokohama 30th anniversary",
         "unsplash_url": "https://unsplash.com/s/photos/Detective-Conan-exhibition-Yokohama-30th-anniversary",
         "pexels_url": "https://www.pexels.com/search/Detective%20Conan%20exhibition%20Yokohama%2030th%20anniversary/"
-      }
-    },
-    {
-      "id": "plan_14a0b3bd",
-      "created_at": "2026-11-18T04:19:49.240385",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "一度の遠征で複数の絶景を巡る「ニッポン鉄道絶景攻略ガイド」本日発売。全国36路線のロケ地を厳選",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157286.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "숨겨진 일본의 아름다운 철도 풍경을 알차게 즐길 수 있는 가이드북 출시!"
-      },
-      "content": {
-        "thumbnail_title": "🚂 일본 철도 절경 완전 정복! 🚄",
-        "cards": [
-          {
-            "title": "신간 출시!",
-            "content": "일본 전역 36개 노선의 숨겨진 철도 풍경 명소를 엄선한 '니뽄 철도 절경 공략 가이드'가 11월 18일에 발매되었습니다.",
-            "alt_text": "일본 철도 풍경을 담은 책 표지 이미지"
-          },
-          {
-            "title": "가이드북 정보",
-            "content": "B5 변형판, 160페이지로 구성되어 있으며 가격은 2,500엔입니다.",
-            "alt_text": "책의 상세 정보를 보여주는 이미지"
-          },
-          {
-            "title": "절경 스팟 가득",
-            "content": "한 번의 원정으로 여러 절경을 만날 수 있도록 최적의 로케이션 정보를 담았습니다.",
-            "alt_text": "다양한 일본의 철도 풍경 사진 모음"
-          },
-          {
-            "title": "여행 계획 UP!",
-            "content": "일본 기차 여행을 계획 중이라면 이 가이드북으로 특별한 추억을 만들어보세요.",
-            "alt_text": "기차 창밖으로 보이는 아름다운 일본 풍경 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "가이드북을 활용하여 일반적인 관광 코스 외에 자신만의 특별한 철도 여행 루트를 계획해보세요. 숨겨진 보석 같은 장소를 발견할 수 있습니다!",
-            "alt_text": "지도 위에 표시된 철도 노선 이미지"
-          }
-        ],
-        "caption": "일본의 아름다운 풍경을 기차 타고 만끽하고 싶다면? 🚂✨\n\n'니뽄 철도 절경 공략 가이드'가 11월 18일에 발매되었어요! 📚\n전국 36개 노선의 숨겨진 절경 스팟을 엄선한 이 책으로\n특별한 일본 기차 여행을 계획해보세요! 🚄\n\n지금 바로 서점에서 만나보세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본철도",
-          "#철도여행",
-          "#일본절경",
-          "#일본가이드북",
-          "#일본여행준비",
-          "#일본자유여행",
-          "#기차여행",
-          "#일본신간",
-          "#여행스타그램",
-          "#일본풍경",
-          "#숨은명소",
-          "#여행정보",
-          "#일본"
-        ],
-        "alt_texts": [
-          "일본 철도 풍경을 담은 책 표지 이미지",
-          "책의 상세 정보를 보여주는 이미지",
-          "다양한 일본의 철도 풍경 사진 모음",
-          "기차 창밖으로 보이는 아름다운 일본 풍경 이미지",
-          "지도 위에 표시된 철도 노선 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 기차 여행에 관심 있는 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 정보 공유 및 여행 계획에 대한 기대감 상승 / 이 콘텐츠의 강점: 실용적인 여행 정보 제공, 새로운 여행 테마 제시",
-      "image": {
-        "keyword": "Japanese train, scenic view, travel guide book, Japan rail, landscape",
-        "unsplash_url": "https://unsplash.com/s/photos/Japanese-train,-scenic-view,-travel-guide-book,-Japan-rail,-landscape",
-        "pexels_url": "https://www.pexels.com/search/Japanese%20train,%20scenic%20view,%20travel%20guide%20book,%20Japan%20rail,%20landscape/"
-      }
-    },
-    {
-      "id": "plan_7a312ca6",
-      "created_at": "2026-11-18T04:19:44.394702",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "駅から3分、開業したばかりの「コートヤード・バイ・マリオット京都駅」に泊まってみた。新幹線食堂車の懐かしいビーフカレーがビュッフェに！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157418.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "교토역 바로 앞에 새로 생긴 마리오뜨 호텔! 신칸센 이용객이라면 최고의 위치, 특별한 메뉴도 기대돼요."
-      },
-      "content": {
-        "thumbnail_title": "✨교토역 초역세권✨ 신상 호텔 오픈!",
-        "cards": [
-          {
-            "title": "마리오뜨 교토역",
-            "content": "JR 교토역 남쪽 8번 출구에서 도보 3분 거리에 'コートヤード・バイ・マリオット京都駅'이 11월 16일 새로 문을 열었어요. 총 270개의 객실을 갖춘 신축 호텔입니다.",
-            "alt_text": "교토역 전경과 호텔 외관 이미지"
-          },
-          {
-            "title": "최적의 위치",
-            "content": "교토역과 바로 연결되어 신칸센, JR, 지하철 등 대중교통 이용이 편리해요. 짐이 많거나 이동이 잦은 여행객에게 최고의 선택이 될 거예요.",
-            "alt_text": "교토역 플랫폼과 호텔 입구 연결 이미지"
-          },
-          {
-            "title": "특별한 조식",
-            "content": "호텔 뷔페에서는 과거 신칸센 식당차에서 인기 있었던 비프 카레를 맛볼 수 있다고 해요. 교토 여행의 특별한 추억을 더해줄 메뉴입니다.",
-            "alt_text": "뷔페 음식 사진, 특히 비프 카레 강조"
-          },
-          {
-            "title": "새로운 경험",
-            "content": "마리오뜨 브랜드 특유의 편안함과 서비스를 기대할 수 있어요. 개업 초기인 만큼 깔끔하고 쾌적한 환경에서 머물 수 있습니다.",
-            "alt_text": "호텔 로비 또는 객실 내부 이미지"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "개업 초기에는 프로모션이나 할인 혜택이 있을 수 있으니, 예약 전에 호텔 공식 홈페이지나 예약 사이트를 꼭 확인해보세요. 발 빠르게 예약하면 좋은 가격에 이용 가능합니다.",
-            "alt_text": "달력과 할인 태그 이미지"
-          }
-        ],
-        "caption": "🚄 교토 여행 필수 코스! 🚄\n\n교토역 바로 앞에 'コートヤード・バイ・マリオット京都駅'이 11월 16일 오픈했어요!\n\n✅ JR 교토역 남쪽 8번 출구 도보 3분 거리\n✅ 총 270개 객실 보유\n✅ 신칸센 식당차 비프 카레 뷔페 제공\n\n교토역 이용이 잦은 여행자라면 최고의 위치! 🤩\n\n#교토여행 #교토신상호텔 #마리오뜨교토 #일본숙소 #교토숙소 #일본여행꿀팁 #교토역",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#교토여행",
-          "#교토숙소",
-          "#일본신상호텔",
-          "#마리오뜨교토",
-          "#교토역",
-          "#일본숙소추천",
-          "#교토가볼만한곳",
-          "#일본자유여행",
-          "#여행정보",
-          "#교토",
-          "#일본",
-          "#해외여행",
-          "#여행스타그램"
-        ],
-        "alt_texts": [
-          "교토역 전경과 호텔 외관 이미지",
-          "교토역 플랫폼과 호텔 입구 연결 이미지",
-          "뷔페 음식 사진, 특히 비프 카레 강조",
-          "호텔 로비 또는 객실 내부 이미지",
-          "달력과 할인 태그 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 교토 여행 예정인 2040 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 공유 및 저장, 숙소 예약 문의 / 이 콘텐츠의 강점: 신규 오픈 호텔 정보, 역세권이라는 명확한 장점, 특별한 메뉴 언급",
-      "image": {
-        "keyword": "Courtyard by Marriott Kyoto Station, Kyoto Station, Japan hotel, new hotel opening, Japanese curry buffet",
-        "unsplash_url": "https://unsplash.com/s/photos/Courtyard-by-Marriott-Kyoto-Station,-Kyoto-Station,-Japan-hotel,-new-hotel-opening,-Japanese-curry-buffet",
-        "pexels_url": "https://www.pexels.com/search/Courtyard%20by%20Marriott%20Kyoto%20Station,%20Kyoto%20Station,%20Japan%20hotel,%20new%20hotel%20opening,%20Japanese%20curry%20buffet/"
       }
     }
   ]
