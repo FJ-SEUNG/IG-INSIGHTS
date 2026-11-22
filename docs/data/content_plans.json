@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-22T03:10:02.629050",
+  "last_updated": "2026-11-22T06:31:24.831973",
   "plans": [
+    {
+      "id": "plan_bc2fb17d",
+      "created_at": "2026-11-22T06:31:22.831831",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "国交省、成田空港の機能強化に伴う施設変更を許可　誘導路とエプロンを新設",
+        "url": "https://www.traicy.com/posts/20261121388860/",
+        "date": "Sat, 21 Nov 2026 03:35:15 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "성남공항 기능 강화로 더욱 편리해지는 일본 여행!"
+      },
+      "content": {
+        "thumbnail_title": "✈️성남공항 확장! 🛫",
+        "cards": [
+          {
+            "title": "성남공항 변화",
+            "content": "성남국제공항의 기능 강화 작업이 국토교통부의 허가를 받았습니다. 이에 따라 공항 시설에 대한 변경이 이루어집니다.",
+            "alt_text": "성남공항의 새로운 시설 계획을 보여주는 이미지"
+          },
+          {
+            "title": "새 유도로 신설",
+            "content": "총 길이 7,044미터, 폭 23미터의 새로운 유도로가 신설될 예정입니다. 이를 통해 항공기 이동이 더욱 원활해질 것으로 기대됩니다.",
+            "alt_text": "새롭게 건설될 유도로의 조감도"
+          },
+          {
+            "title": "넓어진 에이프런",
+            "content": "총 면적 82만 3,664 제곱미터에 달하는 광대한 에이프런(주기장)이 새롭게 조성됩니다. 항공기 주차 및 정비 공간이 확대됩니다.",
+            "alt_text": "넓어진 에이프런의 모습을 상상하는 이미지"
+          },
+          {
+            "title": "기대 효과",
+            "content": "이번 기능 강화는 성남공항의 항공기 처리 능력을 향상시켜, 향후 일본 여행 시 더욱 빠르고 편리한 이동을 가능하게 할 것입니다.",
+            "alt_text": "공항 이용객들이 편리하게 이동하는 모습"
+          },
+          {
+            "title": "여행 팁",
+            "content": "새로운 시설 완공 시점은 202X년 예정입니다. 공항 이용 계획 시 참고하시면 더욱 여유로운 여행을 즐기실 수 있습니다.",
+            "alt_text": "여행 일정을 계획하는 모습"
+          }
+        ],
+        "caption": "✈️ 성남공항, 기능 강화 허가받아 더욱 편리해진다!\n\n성남국제공항의 기능 강화 사업이 국토교통부 허가를 통과했어요! \n\n✅ 길이 7,044m, 폭 23m 신규 유도로 신설\n✅ 면적 82만 3,664㎡ 규모의 에이프런(주기장) 확장\n\n이를 통해 항공기 운항 효율성이 높아져, 일본 여행 시 더욱 빠르고 쾌적한 이용이 가능해질 것으로 기대됩니다. 202X년 완공 예정이니, 앞으로의 변화를 기대하며 일본 여행 계획 세워보세요! 😉\n\n#일본여행 #성남공항 #공항정보 #여행꿀팁 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#성남공항",
+          "#공항정보",
+          "#여행꿀팁",
+          "#플라잉재팬",
+          "#일본항공",
+          "#해외여행",
+          "#여행준비",
+          "#일본",
+          "#여행스타그램",
+          "#안전여행",
+          "#여행계획",
+          "#항공정보",
+          "#일본소식",
+          "#여행이슈"
+        ],
+        "alt_texts": [
+          "성남공항의 새로운 시설 계획을 보여주는 이미지",
+          "새롭게 건설될 유도로의 조감도",
+          "넓어진 에이프런의 모습을 상상하는 이미지",
+          "공항 이용객들이 편리하게 이동하는 모습",
+          "여행 일정을 계획하는 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 공항 이용 편의성에 대한 기대감, 여행 계획 반영 / 이 콘텐츠의 강점: 일본 여행의 핵심 관문인 공항의 실질적인 변화 정보를 제공하여 여행 계획에 직접적인 도움을 줌.",
+      "image": {
+        "keyword": "Narita Airport expansion, new taxiway, apron construction, aviation infrastructure, travel convenience",
+        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-expansion,-new-taxiway,-apron-construction,-aviation-infrastructure,-travel-convenience",
+        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20expansion,%20new%20taxiway,%20apron%20construction,%20aviation%20infrastructure,%20travel%20convenience/"
+      }
+    },
+    {
+      "id": "plan_13994563",
+      "created_at": "2026-11-22T06:31:17.576533",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "トリニティ航空、ブラックフライデーで国際線を最大20％割引　11月30日まで",
+        "url": "https://www.traicy.com/posts/20261121388886/",
+        "date": "Sat, 21 Nov 2026 08:31:14 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본행 국제선 최대 20% 할인 찬스! 놓치지 마세요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본행 최대 20% 할인!",
+        "cards": [
+          {
+            "title": "블랙프라이데이",
+            "content": "트리니티 항공에서 '블랙프라이데이 쿠폰'을 11월 20일부터 30일까지 배포합니다. 이 기간 동안 일본 출발 국제선 항공권을 할인받으세요.",
+            "alt_text": "블랙프라이데이 할인 쿠폰 이미지"
+          },
+          {
+            "title": "할인율",
+            "content": "일본 출발 한국, 중국, 홍콩, 베트남, 인도네시아, 프랑스, 이탈리아, 스페인, 호주, 캐나다 노선에 대해 4%에서 최대 20%까지 할인 혜택을 제공합니다.",
+            "alt_text": "항공권 할인율 표시 이미지"
+          },
+          {
+            "title": "적용 노선",
+            "content": "특히 한국행 노선도 할인 대상에 포함되어 있어, 일본 여행을 계획 중인 한국 여행객들에게 좋은 기회가 될 수 있습니다.",
+            "alt_text": "일본-한국 노선 지도 이미지"
+          },
+          {
+            "title": "탑승 기간",
+            "content": "쿠폰은 11월 20일부터 30일까지 배포되며, 해당 기간 동안 예약하는 항공권에 적용됩니다. 정확한 탑승 기간은 항공사 문의가 필요합니다.",
+            "alt_text": "달력에 표시된 할인 기간 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "할인 쿠폰은 한정 수량이므로 서둘러 예약하는 것이 좋습니다. 예약 시 쿠폰 코드 적용을 잊지 마세요!",
+            "alt_text": "서두르는 사람을 형상화한 이미지"
+          }
+        ],
+        "caption": "✈️ 일본 여행 계획 중이신가요? 트리니티 항공에서 블랙프라이데이를 맞아 최대 20% 할인 쿠폰을 배포합니다! ✈️\n\n📍 기간: 11월 20일 ~ 11월 30일\n📍 할인율: 최대 20%\n📍 대상 노선: 일본 출발 한국, 중국, 홍콩, 베트남, 인도네시아, 프랑스, 이탈리아, 스페인, 호주, 캐나다\n\n놓치면 후회할 역대급 할인! 지금 바로 확인하고 알뜰하게 일본 여행 준비하세요! 🇯🇵\n\n#일본여행 #항공권할인 #블랙프라이데이 #트리니티항공 #일본항공권 #여행꿀팁 #여행정보 #플라잉재팬 #해외여행 #저가항공 #할인정보 #여행스타그램 #일본 #가성비여행 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#블랙프라이데이",
+          "#항공권할인",
+          "#트리니티항공",
+          "#일본항공권",
+          "#여행꿀팁",
+          "#여행정보",
+          "#해외여행",
+          "#저가항공",
+          "#할인정보",
+          "#여행스타그램",
+          "#일본",
+          "#가성비여행",
+          "#여행준비"
+        ],
+        "alt_texts": [
+          "블랙프라이데이 할인 쿠폰 이미지",
+          "항공권 할인율 표시 이미지",
+          "일본-한국 노선 지도 이미지",
+          "달력에 표시된 할인 기간 이미지",
+          "서두르는 사람을 형상화한 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 실질적인 할인 정보와 명확한 적용 대상, 시기적절한 프로모션",
+      "image": {
+        "keyword": "airplane, discount, Black Friday, Japan, Korea, travel, coupon",
+        "unsplash_url": "https://unsplash.com/s/photos/airplane,-discount,-Black-Friday,-Japan,-Korea,-travel,-coupon",
+        "pexels_url": "https://www.pexels.com/search/airplane,%20discount,%20Black%20Friday,%20Japan,%20Korea,%20travel,%20coupon/"
+      }
+    },
     {
       "id": "plan_e8b62a3c",
       "created_at": "2026-11-22T03:10:00.628851",
@@ -923,160 +1077,6 @@
         "keyword": "JR West, A Seat, Shinkaisoku, Osaka, Japan train, comfortable travel",
         "unsplash_url": "https://unsplash.com/s/photos/JR-West,-A-Seat,-Shinkaisoku,-Osaka,-Japan-train,-comfortable-travel",
         "pexels_url": "https://www.pexels.com/search/JR%20West,%20A%20Seat,%20Shinkaisoku,%20Osaka,%20Japan%20train,%20comfortable%20travel/"
-      }
-    },
-    {
-      "id": "plan_cf4ccb37",
-      "created_at": "2026-11-19T04:11:52.676166",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「Suicaのペンギンと旅するマルチWAYバッグ」本日発売。インナーポーチとパスケース付属、オンラインストア限定",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156499.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "여행 필수템! 귀여운 'Suica 펭귄' 멀티웨이 백 출시!"
-      },
-      "content": {
-        "thumbnail_title": "Suica 펭귄 가방 👜",
-        "cards": [
-          {
-            "title": "오늘 12시 출시!",
-            "content": "JR 동일본 공식 굿즈, 'Suica 펭귄과 여행하는 멀티웨이 백'이 오늘(11월 19일) 오후 12시에 출시됩니다.",
-            "alt_text": "Suica 펭귄 멀티웨이 백 출시 안내"
-          },
-          {
-            "title": "가격 및 수량",
-            "content": "가격은 35,000엔이며, 첫 생산 수량은 2가지 색상 총 500개 한정입니다.",
-            "alt_text": "Suica 펭귄 멀티웨이 백 가격 및 수량 정보"
-          },
-          {
-            "title": "구성품",
-            "content": "이너 파우치와 패스 케이스가 포함되어 있어 실용성을 더했습니다.",
-            "alt_text": "Suica 펭귄 멀티웨이 백 구성품 안내"
-          },
-          {
-            "title": "구매처",
-            "content": "온라인 스토어 'GRANSTA MALL'에서만 단독 판매됩니다. (오프라인 매장 미판매)",
-            "alt_text": "Suica 펭귄 멀티웨이 백 구매처 안내"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "일본 여행 필수템으로 주목받는 'Suica 펭귄' 가방! 여행 중 소지품을 깔끔하게 정리하고 싶다면 놓치지 마세요.",
-            "alt_text": "여행 중 Suica 펭귄 가방 활용 팁"
-          }
-        ],
-        "caption": "✨JR 동일본 공식 굿즈✨\n귀여운 'Suica 펭귄'과 함께 떠나는 멀티웨이 백이 오늘(11월 19일) 오후 12시부터 온라인 스토어에서 한정 판매됩니다! 🐧👜\n\n가격 35,000엔, 2가지 색상 총 500개 한정 수량이니 서둘러 GET 하세요!\n여행 중 소지품을 효율적으로 보관할 수 있는 이너 파우치와 패스 케이스까지 포함되어 있답니다. ✈️\n\n#일본여행 #플라잉재팬 #Suica펭귄 #일본굿즈 #한정판 #여행가방 #필수템 #쇼핑정보 #일본쇼핑 #JR동일본 #GRANSTAMALL #멀티웨이백 #여행준비 #일본여행준비 #이벤트",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica펭귄",
-          "#일본굿즈",
-          "#한정판",
-          "#여행가방",
-          "#필수템",
-          "#쇼핑정보",
-          "#일본쇼핑",
-          "#JR동일본",
-          "#GRANSTAMALL",
-          "#멀티웨이백",
-          "#여행준비",
-          "#일본여행준비",
-          "#이벤트"
-        ],
-        "alt_texts": [
-          "Suica 펭귄 멀티웨이 백 출시 안내",
-          "Suica 펭귄 멀티웨이 백 가격 및 수량 정보",
-          "Suica 펭귄 멀티웨이 백 구성품 안내",
-          "Suica 펭귄 멀티웨이 백 구매처 안내",
-          "여행 중 Suica 펭귄 가방 활용 팁"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 6시 - 8시 / 기대 반응: 높은 구매 관심 및 정보 공유 / 이 콘텐츠의 강점: 귀여운 캐릭터 상품의 희소성과 실용성을 동시에 어필",
-      "image": {
-        "keyword": "Suica Penguin multi-way bag, Japan travel goods, limited edition accessory",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-multi-way-bag,-Japan-travel-goods,-limited-edition-accessory",
-        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20multi-way%20bag,%20Japan%20travel%20goods,%20limited%20edition%20accessory/"
-      }
-    },
-    {
-      "id": "plan_f5855b34",
-      "created_at": "2026-11-19T04:11:47.407507",
-      "category": "tips",
-      "priority": "medium",
-      "status": "new",
-      "source": {
-        "title": "本日発売「リトルミイ」レジカゴサイズの大容量バッグ。ムーミンたちの巾着カバーで目隠しできる",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156500.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "중",
-        "appeal": "무인양품st 감성의 리틀미이 빅토트백, 일본 여행 시 유용템 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "✨리틀미이 빅토트백 출시!",
-        "cards": [
-          {
-            "title": "신상 빅토트백",
-            "content": "宝島社에서 'MOOMIN たっぷり入る！ レジカゴサイズのBIGトートバッグ BOOK'을 11월 19일에 출시했어요. 리틀미이 디자인으로 눈길을 사로잡네요!",
-            "alt_text": "리틀미이 디자인의 큼직한 토트백 이미지"
-          },
-          {
-            "title": "레지카고 사이즈",
-            "content": "일본 마트에서 장 볼 때 유용한 레지카고 사이즈랍니다. 넉넉한 수납공간으로 여행 중 쇼핑 아이템 보관에 딱이에요.",
-            "alt_text": "마트 카트에 딱 맞는 토트백 크기 시연 이미지"
-          },
-          {
-            "title": "무인양품st 디자인",
-            "content": "무민 캐릭터와 함께, 심플하면서도 감성적인 디자인이라 데일리로 들고 다니기에도 좋아요. 일본 여행 기념품으로도 제격!",
-            "alt_text": "감성적인 리틀미이 토트백 코디 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "가격은 4,389엔입니다. 서점 및 온라인 쇼핑몰에서 구매 가능하니, 일본 여행 중 득템 기회를 놓치지 마세요!",
-            "alt_text": "토트백 가격표와 구매처 아이콘 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "일본 편의점이나 마트에서 장 볼 때, 이 빅토트백 하나면 튼튼하고 예쁘게 다 담아올 수 있어요. 짐 늘리기 싫은 분들께 강추!",
-            "alt_text": "마트에서 빅토트백에 물건을 담는 모습"
-          }
-        ],
-        "caption": "🇯🇵 일본 여행 필수템 예감! 리틀미이 빅토트백 출시 소식!\n\n11월 19일, 宝島社에서 'MOOMIN たっぷり入る！ レジカゴサイズのBIGトートバッグ BOOK'이 발매되었습니다.\n\n마트 장바구니 사이즈라 일본 마트 쇼핑 시 정말 유용할 거예요! 넉넉한 수납공간과 귀여운 리틀미이 디자인으로 여행 중 짐 보관은 물론, 기념품 쇼핑템 담기에도 딱이랍니다.\n\n가격은 4,389엔! 서점 및 온라인에서 구매 가능해요. 일본 여행 가시는 분들, 득템 찬스 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#리틀미이",
-          "#무민",
-          "#일본쇼핑",
-          "#일본마트",
-          "#일본기념품",
-          "#일본여행준비",
-          "#일본장바구니",
-          "#일본서점",
-          "#일본득템",
-          "#여행필수템",
-          "#일본생활",
-          "#여행스타그램",
-          "#쇼핑스타그램"
-        ],
-        "alt_texts": [
-          "리틀미이 디자인의 큼직한 토트백 이미지",
-          "마트 카트에 딱 맞는 토트백 크기 시연 이미지",
-          "감성적인 리틀미이 토트백 코디 이미지",
-          "토트백 가격표와 구매처 아이콘 이미지",
-          "마트에서 빅토트백에 물건을 담는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 20-40대 여성 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: '귀엽다', '여행 가서 사야겠다', '정보 감사해요' 등의 댓글 및 저장 / 이 콘텐츠의 강점: 실용성과 귀여움을 겸비한 아이템으로, 일본 여행 중 실제 활용도가 높아 공감대 형성 및 구매 욕구 자극",
-      "image": {
-        "keyword": "Little My tote bag, Moomin shopping bag, Japanese convenience store shopping, Japan souvenir, travel essential",
-        "unsplash_url": "https://unsplash.com/s/photos/Little-My-tote-bag,-Moomin-shopping-bag,-Japanese-convenience-store-shopping,-Japan-souvenir,-travel-essential",
-        "pexels_url": "https://www.pexels.com/search/Little%20My%20tote%20bag,%20Moomin%20shopping%20bag,%20Japanese%20convenience%20store%20shopping,%20Japan%20souvenir,%20travel%20essential/"
       }
     }
   ]
