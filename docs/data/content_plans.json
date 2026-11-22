@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-21T06:54:58.286827",
+  "last_updated": "2026-11-22T03:10:02.629050",
   "plans": [
+    {
+      "id": "plan_e8b62a3c",
+      "created_at": "2026-11-22T03:10:00.628851",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "IHGホテルズ＆リゾーツ、「サイバーセール」開催　最大30％オフ",
+        "url": "https://www.traicy.com/posts/20261121389055/",
+        "date": "Sat, 21 Nov 2026 13:46:44 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 계획 중이라면 놓치면 후회할 역대급 호텔 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 호텔 최대 30% 할인!",
+        "cards": [
+          {
+            "title": "✨ IHG 사이버 세일",
+            "content": "IHG 호텔에서 역대급 '사이버 세일'을 진행합니다. 11월 17일부터 12월 3일까지 예약 가능하며, 아시아 태평양 지역 IHG 호텔 대상입니다.",
+            "alt_text": "IHG 호텔 로고와 사이버 세일 문구가 적힌 이미지"
+          },
+          {
+            "title": "🏨 회원 30% 할인",
+            "content": "IHG 원 리워즈 회원이라면 베스트 플렉서블 요금에서 무려 30% 할인받을 수 있습니다. 지금 바로 회원 가입하고 할인 혜택을 누리세요!",
+            "alt_text": "호텔 객실 내부 사진과 30% 할인 배너"
+          },
+          {
+            "title": "🏨 비회원 20% 할인",
+            "content": "IHG 원 리워즈 회원이 아니더라도 걱정 마세요! 회원 외 고객에게는 20% 할인 혜택이 제공됩니다. 망설이지 말고 지금 예약하세요.",
+            "alt_text": "호텔 로비 사진과 20% 할인 배너"
+          },
+          {
+            "title": "🗓️ 예약 기간 확인",
+            "content": "할인 혜택은 11월 17일부터 12월 3일까지 진행되는 '사이버 세일' 기간 동안에만 적용됩니다. 이 기간을 놓치지 마세요!",
+            "alt_text": "달력에 11월 17일과 12월 3일이 표시된 이미지"
+          },
+          {
+            "title": "💡 꿀팁",
+            "content": "일본 내 여러 도시의 IHG 계열 호텔을 저렴하게 이용할 기회입니다. 여행 계획 중이라면 이 기간을 활용해 숙박비를 절약해 보세요!",
+            "alt_text": "일본 지도와 여러 도시의 호텔 아이콘이 표시된 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 중이거나 계획 중이신가요? IHG 호텔에서 역대급 '사이버 세일'이 시작되었습니다! \n\n✨ 11월 17일 ~ 12월 3일 예약 시, \n✅ IHG 회원 30% 할인 \n✅ 비회원 20% 할인\n\n아시아 태평양 지역 IHG 호텔을 최대 30% 저렴하게 예약할 수 있는 절호의 찬스! 지금 바로 예약하고 숙박비 절약하세요! ✈️",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#IHG호텔",
+          "#일본호텔",
+          "#호텔할인",
+          "#사이버세일",
+          "#일본숙소",
+          "#여행정보",
+          "#해외여행",
+          "#일본자유여행",
+          "#가성비여행",
+          "#일본가볼만한곳",
+          "#호텔예약",
+          "#여행꿀팁",
+          "#일본"
+        ],
+        "alt_texts": [
+          "IHG 호텔 로고와 사이버 세일 문구가 적힌 이미지",
+          "호텔 객실 내부 사진과 30% 할인 배너",
+          "호텔 로비 사진과 20% 할인 배너",
+          "달력에 11월 17일과 12월 3일이 표시된 이미지",
+          "일본 지도와 여러 도시의 호텔 아이콘이 표시된 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 현재 일본에 체류 중인 한국인 여행자 / 최적 게시 시간: 오후 6시 ~ 8시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보와 명확한 기간 제시로 즉각적인 행동 유도",
+      "image": {
+        "keyword": "Japan hotel sale, IHG hotel discount, Cyber sale Japan, Travel deals Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-hotel-sale,-IHG-hotel-discount,-Cyber-sale-Japan,-Travel-deals-Japan",
+        "pexels_url": "https://www.pexels.com/search/Japan%20hotel%20sale,%20IHG%20hotel%20discount,%20Cyber%20sale%20Japan,%20Travel%20deals%20Japan/"
+      }
+    },
+    {
+      "id": "plan_f7bff478",
+      "created_at": "2026-11-22T03:09:55.318049",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "国交省、成田空港C滑走路のための施設変更を許可。新しい誘導路・駐機場は2034年12月31日完成へ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158270.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "2034년까지 완공되는 나리타 공항 C 활주로, 미리 알아두면 여행 계획에 도움 될 거예요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️나리타 공항 C 활주로 건설 확정!",
+        "cards": [
+          {
+            "title": "C 활주로 건설",
+            "content": "나리타 공항 기능 강화 일환으로 C 활주로 건설이 드디어 허가되었습니다. 2034년 12월 31일 완공 예정입니다.",
+            "alt_text": "나리타 공항 C 활주로 건설 예정 조감도"
+          },
+          {
+            "title": "공항 기능 강화",
+            "content": "새로운 유도로와 주기장이 신설되어 향후 더 많은 항공편 운항이 가능해질 것으로 예상됩니다.",
+            "alt_text": "새로운 유도로 건설 모습"
+          },
+          {
+            "title": "여행 영향",
+            "content": "완공 후 나리타 공항 이용객 편의 증진 및 항공 스케줄 유연성 증가가 기대됩니다.",
+            "alt_text": "나리타 공항 이용객 모습"
+          },
+          {
+            "title": "향후 전망",
+            "content": "장기적으로는 항공 수요 증가에 대비하고 국제적인 허브 공항으로서의 경쟁력을 높일 것으로 보입니다.",
+            "alt_text": "나리타 공항 전경"
+          },
+          {
+            "title": "알아두면 꿀팁",
+            "content": "여행 계획 시 나리타 공항의 변화를 염두에 두면 더욱 여유로운 여행을 즐길 수 있습니다. 완공 시점의 공항 정보도 미리 확인해보세요!",
+            "alt_text": "여행 계획 중인 사람 모습"
+          }
+        ],
+        "caption": "✈️나리타 공항 C 활주로 건설 확정! 2034년 12월 31일 완공 예정으로, 향후 나리타 공항 이용이 더욱 편리해질 전망입니다. 🛫\n\n새로운 유도로와 주기장 신설로 항공편 스케줄 유연성이 높아지고, 장기적으로는 국제 허브 공항으로서의 경쟁력 강화가 기대됩니다.\n\n미래의 나리타 공항을 미리 알고 여행 계획을 세워보세요! 😉\n\n#나리타공항 #일본여행 #공항정보 #플라잉재팬 #일본항공 #여행꿀팁 #일본입국 #여행준비 #동경여행 #일본소식 #여행스타그램 #인천공항 #김포공항 #간사이공항 #후쿠오카공항",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#나리타공항",
+          "#일본공항",
+          "#도쿄여행",
+          "#일본교통",
+          "#여행정보",
+          "#일본입국",
+          "#여행준비",
+          "#일본소식",
+          "#항공정보",
+          "#해외여행",
+          "#여행스타그램",
+          "#일본",
+          "#공항건설"
+        ],
+        "alt_texts": [
+          "나리타 공항 C 활주로 건설 예정 조감도",
+          "새로운 유도로 건설 모습",
+          "나리타 공항 이용객 모습",
+          "나리타 공항 전경",
+          "여행 계획 중인 사람 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 정보성 콘텐츠에 대한 관심 및 저장 / 이 콘텐츠의 강점: 미래의 공항 변화에 대한 선제적 정보 제공으로 여행 계획에 실질적인 도움",
+      "image": {
+        "keyword": "Narita Airport runway construction",
+        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-runway-construction",
+        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20runway%20construction/"
+      }
+    },
     {
       "id": "plan_b91c6a3b",
       "created_at": "2026-11-21T06:54:56.286640",
@@ -923,160 +1077,6 @@
         "keyword": "Little My tote bag, Moomin shopping bag, Japanese convenience store shopping, Japan souvenir, travel essential",
         "unsplash_url": "https://unsplash.com/s/photos/Little-My-tote-bag,-Moomin-shopping-bag,-Japanese-convenience-store-shopping,-Japan-souvenir,-travel-essential",
         "pexels_url": "https://www.pexels.com/search/Little%20My%20tote%20bag,%20Moomin%20shopping%20bag,%20Japanese%20convenience%20store%20shopping,%20Japan%20souvenir,%20travel%20essential/"
-      }
-    },
-    {
-      "id": "plan_e4edcc00",
-      "created_at": "2026-11-18T07:10:06.001550",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Suica新キャラクター、投票結果は本日発表。25周年の節目に「Suicaのペンギン」の後継者が決まる！",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157288.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "25년 만에 탄생하는 새로운 Suica 마스코트, 과연 누가 될까요? 🐧✨"
-      },
-      "content": {
-        "thumbnail_title": "Suica 새 마스코트 공개! 🤩",
-        "cards": [
-          {
-            "title": "Suica 25주년!",
-            "content": "2001년 서비스 시작 후 25주년을 맞이하는 Suica! 이를 기념하여 새로운 얼굴을 공개합니다.",
-            "alt_text": "Suica 25주년 기념 로고"
-          },
-          {
-            "title": "새로운 마스코트 탄생!",
-            "content": "9월에 진행된 일반 투표에서 가장 많은 표를 얻은 디자인이 새로운 Suica의 마스코트로 선정됩니다.",
-            "alt_text": "Suica 마스코트 투표 관련 이미지"
-          },
-          {
-            "title": "투표 결과 발표!",
-            "content": "새로운 Suica 마스코트의 주인공은 바로 오늘, 11월 18일에 발표됩니다! 두근두근!",
-            "alt_text": "발표 날짜를 강조하는 이미지"
-          },
-          {
-            "title": "앞으로의 Suica",
-            "content": "새로운 마스코트와 함께 더욱 발전할 Suica 서비스! 일본 여행 시 필수템인 Suica의 변화를 기대해주세요.",
-            "alt_text": "Suica 카드 이미지"
-          },
-          {
-            "title": "여행 꿀팁!",
-            "content": "일본 여행 전, 최신 Suica 정보와 함께 교통 카드 충전 및 사용법을 미리 알아두면 더욱 편리한 여행을 즐길 수 있습니다. ✈️",
-            "alt_text": "여행 가방과 Suica 카드를 함께 보여주는 이미지"
-          }
-        ],
-        "caption": "✨ Suica 25주년 기념! 새로운 마스코트 드디어 공개! ✨\n\n2001년부터 우리 곁을 지켜온 Suica가 25주년을 맞이했습니다! 🥳\n오늘, 11월 18일! 9월 투표 결과에 따라 새로운 Suica의 얼굴이 결정됩니다. 과연 어떤 귀여운 캐릭터가 탄생할까요?\n\n새로운 마스코트와 함께 더욱 편리해질 Suica!\n일본 여행 필수템 Suica, 미리 준비하고 즐거운 여행 되세요! 💖\n\n#일본여행 #플라잉재팬 #Suica #교통카드 #일본교통 #여행정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica",
-          "#Suica펜귄",
-          "#일본교통",
-          "#일본카드",
-          "#여행준비",
-          "#일본생활",
-          "#동경",
-          "#오사카",
-          "#일본소식",
-          "#여행꿀팁",
-          "#일본정보",
-          "#JR동일본",
-          "#일본마스코트"
-        ],
-        "alt_texts": [
-          "Suica 25주년 기념 로고",
-          "Suica 마스코트 투표 관련 이미지",
-          "발표 날짜를 강조하는 이미지",
-          "Suica 카드 이미지",
-          "여행 가방과 Suica 카드를 함께 보여주는 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 정보 습득 및 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 이슈, 실용적인 정보, 흥미 유발",
-      "image": {
-        "keyword": "Suica penguin, new mascot, Japan transportation card, 25th anniversary, Tokyo",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-penguin,-new-mascot,-Japan-transportation-card,-25th-anniversary,-Tokyo",
-        "pexels_url": "https://www.pexels.com/search/Suica%20penguin,%20new%20mascot,%20Japan%20transportation%20card,%2025th%20anniversary,%20Tokyo/"
-      }
-    },
-    {
-      "id": "plan_3c8a63ab",
-      "created_at": "2026-11-18T07:10:00.706188",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "アニメ30周年「名探偵コナン」展、パワーアップした横浜会場の歩き方。服部平次ファンが解説します",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157254.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "코난 팬이라면 절대 놓칠 수 없는 30주년 기념 특별 전시!"
-      },
-      "content": {
-        "thumbnail_title": "명탐정 코난 30주년 전시 in 요코하마! 🕵️‍♀️",
-        "cards": [
-          {
-            "title": "30주년 기념 전시",
-            "content": "TV 애니메이션 '명탐정 코난'이 2026년 1월, 방송 30주년을 맞이합니다! 이를 기념하여 '방송 30주년 기념 TV 애니메이션 '명탐정 코난' 전시'가 개최됩니다.",
-            "alt_text": "명탐정 코난 30주년 기념 전시 로고"
-          },
-          {
-            "title": "파워업된 요코하마",
-            "content": "이번 전시는 특히 파워업된 요코하마 회장에서 열리며, 팬들이 더욱 즐길 수 있도록 다양한 콘텐츠가 준비될 예정입니다. 자세한 내용은 추후 공개됩니다.",
-            "alt_text": "요코하마 차이나타운 풍경"
-          },
-          {
-            "title": "전시 상세 정보",
-            "content": "전시 장소는 요코하마이며, 정확한 개최 기간 및 입장료, 티켓 예매 방법 등은 추후 발표될 예정입니다. 코난 팬이라면 놓치지 마세요!",
-            "alt_text": "명탐정 코난 캐릭터 이미지"
-          },
-          {
-            "title": "볼거리 미리보기",
-            "content": "단순 전시를 넘어, 코난의 세계관을 생생하게 체험할 수 있는 특별한 공간들이 마련될 것으로 기대됩니다. 특히 옷타 헤이지 팬이라면 더욱 주목해주세요!",
-            "alt_text": "명탐정 코난 애니메이션 장면"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "요코하마는 도쿄에서 당일치기 여행이 가능하며, 전시 관람 전후로 차이나타운 맛집 탐방이나 미나토미라이 산책을 함께 즐기기 좋습니다. 전시회 티켓은 사전 예매를 추천합니다.",
-            "alt_text": "요코하마 미나토미라이 야경"
-          }
-        ],
-        "caption": "명탐정 코난 팬들 주목! 🕵️‍♀️ 2026년 1월, 방송 30주년을 기념하는 특별 전시가 파워업된 요코하마에서 개최됩니다! 코난의 세계를 직접 체험할 수 있는 절호의 기회! 자세한 정보는 추후 공개되니, 지금부터 여행 계획 세워보세요! ✈️\n\n#명탐정코난 #코난전시 #일본여행 #요코하마 #2026년",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#명탐정코난",
-          "#코난",
-          "#명탐정코난전시",
-          "#요코하마",
-          "#일본이벤트",
-          "#일본축제",
-          "#여행정보",
-          "#해외여행",
-          "#애니메이션",
-          "#일본문화",
-          "#여행스타그램",
-          "#코난덕후",
-          "#2026년여행"
-        ],
-        "alt_texts": [
-          "명탐정 코난 30주년 기념 전시 로고",
-          "요코하마 차이나타운 풍경",
-          "명탐정 코난 캐릭터 이미지",
-          "명탐정 코난 애니메이션 장면",
-          "요코하마 미나토미라이 야경"
-        ]
-      },
-      "marketer_analysis": "타겟: 명탐정 코난 팬층 및 일본 애니메이션에 관심 있는 한국인 여행자 / 최적 게시 시간: 평일 저녁 7시~9시 / 기대 반응: 정보 공유 및 기대감 표현, 전시 티켓 오픈 시 재확산 / 이 콘텐츠의 강점: 특정 팬덤을 공략하는 명확한 주제와 구체적인 정보 제공 (30주년, 요코하마, 2026년 1월)",
-      "image": {
-        "keyword": "Detective Conan exhibition Yokohama 30th anniversary",
-        "unsplash_url": "https://unsplash.com/s/photos/Detective-Conan-exhibition-Yokohama-30th-anniversary",
-        "pexels_url": "https://www.pexels.com/search/Detective%20Conan%20exhibition%20Yokohama%2030th%20anniversary/"
       }
     }
   ]
