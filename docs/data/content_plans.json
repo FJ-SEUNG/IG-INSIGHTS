@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-22T06:31:24.831973",
+  "last_updated": "2026-11-23T03:43:52.573940",
   "plans": [
+    {
+      "id": "plan_8923a2ec",
+      "created_at": "2026-11-23T03:43:50.573792",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ジャルパック、海外ダイナミックパッケージで「BLACK FLYDAY タイムセール」を実施中　最大5万円割引",
+        "url": "https://www.traicy.com/posts/20261122389128/",
+        "date": "Sun, 22 Nov 2026 13:43:11 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 최대 5만원 할인받고 알차게 떠나요!"
+      },
+      "content": {
+        "thumbnail_title": "✈️일본 여행 5만원 할인 찬스!",
+        "cards": [
+          {
+            "title": "타임 세일",
+            "content": "JAL 해외 다이나믹 패키지에서 '블랙 플라이데이 타임 세일'을 진행 중입니다. 11월 17일부터 30일까지 진행되며, 1인당 최대 50,000엔 할인 쿠폰을 제공합니다.",
+            "alt_text": "블랙 프라이데이 타임 세일 배너 이미지"
+          },
+          {
+            "title": "할인 금액",
+            "content": "여행 경비 및 출발 시기에 따라 15,000엔부터 최대 50,000엔까지 다양한 할인 혜택을 받을 수 있습니다.",
+            "alt_text": "할인 금액별 안내 이미지"
+          },
+          {
+            "title": "대상 상품",
+            "content": "이번 프로모션은 JAL 해외 다이나믹 패키지 상품에 적용됩니다. 일본 포함 다양한 해외 여행지를 예약할 때 활용 가능합니다.",
+            "alt_text": "JAL 다이나믹 패키지 상품 목록 이미지"
+          },
+          {
+            "title": "예약 기간",
+            "content": "할인 쿠폰을 받을 수 있는 예약 기간은 2023년 11월 17일부터 11월 30일까지입니다. 서둘러 예약하세요!",
+            "alt_text": "달력에 11월 17일과 30일이 표시된 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "지금 바로 JAL 다이나믹 패키지 홈페이지에서 프로모션 내용을 확인하고, 원하는 일본 여행 상품을 최저가로 예약해보세요! 늦기 전에 서두르세요!",
+            "alt_text": "여행 계획을 세우는 사람의 모습"
+          }
+        ],
+        "caption": "✈️ 일본 여행 계획 중이신가요? JAL 다이나믹 패키지에서 최대 50,000엔 할인받을 수 있는 블랙 플라이데이 타임 세일이 시작되었습니다! 🤩\n\n✅ 기간: 11월 17일 ~ 11월 30일\n✅ 할인: 1인 최대 50,000엔 (상품별 상이)\n\n지금 바로 JAL 홈페이지에서 확인하고 알찬 일본 여행 준비하세요! 🇯🇵\n\n#일본여행 #JAL #항공권할인 #블랙프라이데이 #여행특가",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#JAL",
+          "#일본항공",
+          "#항공권특가",
+          "#일본항공권",
+          "#여행할인",
+          "#블랙프라이데이",
+          "#타임세일",
+          "#일본자유여행",
+          "#일본여행준비",
+          "#가성비여행",
+          "#여행스타그램",
+          "#해외여행",
+          "#JAL패키지"
+        ],
+        "alt_texts": [
+          "블랙 프라이데이 타임 세일 배너 이미지",
+          "할인 금액별 안내 이미지",
+          "JAL 다이나믹 패키지 상품 목록 이미지",
+          "달력에 11월 17일과 30일이 표시된 이미지",
+          "여행 계획을 세우는 사람의 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 할인 정보에 대한 관심 및 JAL 홈페이지 방문 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 기간 명시로 즉각적인 구매 욕구 자극",
+      "image": {
+        "keyword": "JAL, Japan travel, discount, Black Friday, sale, airplane ticket",
+        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-travel,-discount,-Black-Friday,-sale,-airplane-ticket",
+        "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20travel,%20discount,%20Black%20Friday,%20sale,%20airplane%20ticket/"
+      }
+    },
+    {
+      "id": "plan_0896f516",
+      "created_at": "2026-11-23T03:43:45.776443",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "JR東日本、「崩壊：スターレイル」とタイアップ　モバイルSuica限定カードフェイス提供",
+        "url": "https://www.traicy.com/posts/20261123389119/",
+        "date": "Sun, 22 Nov 2026 23:15:19 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 여행 중 교통카드 활용 꿀팁! 인기 게임과 콜라보한 특별한 Suica 카드 페이스를 잡아라!"
+      },
+      "content": {
+        "thumbnail_title": "✨崩壊:スターレイル x Suica✨",
+        "cards": [
+          {
+            "title": "콜라보 소식!",
+            "content": "JR동일본이 인기 게임 '붕괴: 스타레일'과 특별한 제휴를 맺었습니다. 지금 바로 확인해보세요!",
+            "alt_text": "붕괴: 스타레일 캐릭터와 JR동일본 로고가 함께 있는 이미지"
+          },
+          {
+            "title": "기간 한정 혜택",
+            "content": "이벤트는 2023년 11월 23일부터 2023년 12월 21일까지 진행됩니다. 놓치지 마세요!",
+            "alt_text": "달력에 11월 23일과 12월 21일이 표시된 이미지"
+          },
+          {
+            "title": "모바일 Suica",
+            "content": "오직 모바일 Suica 사용자만을 위한 특별한 카드 페이스를 선물합니다.",
+            "alt_text": "스마트폰 화면에 보이는 모바일 Suica 앱 이미지"
+          },
+          {
+            "title": "참여 방법",
+            "content": "이벤트 참여는 전용 페이지를 통해 가능합니다. 자세한 내용은 공식 발표를 확인하세요.",
+            "alt_text": "웹사이트 링크 또는 QR코드를 보여주는 이미지"
+          },
+          {
+            "title": "교통카드 꿀팁",
+            "content": "일본 여행 필수템인 Suica! 이번 기회에 특별한 디자인으로 여행의 추억을 더해보세요. JR 동일본 지역에서 유용하게 사용할 수 있습니다.",
+            "alt_text": "Suica 카드를 들고 있는 여행객의 손 이미지"
+          }
+        ],
+        "caption": "🇯🇵 붕괴: 스타레일 팬 주목! 🇯🇵\nJR동일본과 인기 게임 '붕괴: 스타레일'이 만났어요! 🤩\n\n11월 23일부터 12월 21일까지, 모바일 Suica 사용자에게 특별한 카드 페이스를 선물하는 캠페인을 진행합니다. 🎁\n\n일본 여행 중이라면 이 특별한 기회를 놓치지 마세요! ✨\n\n#일본여행 #플라잉재팬 #Suica #붕괴스타레일 #교통카드 #일본교통 #한정판 #여행꿀팁 #JR동일본 #모바일Suica #이벤트 #일본정보 #여행스타그램 #여행준비 #일본생활",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#Suica",
+          "#붕괴스타레일",
+          "#일본교통",
+          "#모바일Suica",
+          "#JR동일본",
+          "#여행꿀팁",
+          "#일본정보",
+          "#한정판",
+          "#이벤트",
+          "#여행스타그램",
+          "#여행준비",
+          "#일본생활",
+          "#일본카드"
+        ],
+        "alt_texts": [
+          "붕괴: 스타레일 캐릭터와 JR동일본 로고가 함께 있는 이미지",
+          "달력에 11월 23일과 12월 21일이 표시된 이미지",
+          "스마트폰 화면에 보이는 모바일 Suica 앱 이미지",
+          "웹사이트 링크 또는 QR코드를 보여주는 이미지",
+          "Suica 카드를 들고 있는 여행객의 손 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 붕괴: 스타레일 팬 또는 일본 여행 예정자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 참여율과 공유 / 이 콘텐츠의 강점: 인기 게임과의 콜라보로 인한 높은 화제성 및 실질적인 교통카드 혜택 제공",
+      "image": {
+        "keyword": "Genshin Impact, Suica card, JR East, collaboration, limited edition, mobile payment, travel Japan",
+        "unsplash_url": "https://unsplash.com/s/photos/Genshin-Impact,-Suica-card,-JR-East,-collaboration,-limited-edition,-mobile-payment,-travel-Japan",
+        "pexels_url": "https://www.pexels.com/search/Genshin%20Impact,%20Suica%20card,%20JR%20East,%20collaboration,%20limited%20edition,%20mobile%20payment,%20travel%20Japan/"
+      }
+    },
     {
       "id": "plan_bc2fb17d",
       "created_at": "2026-11-22T06:31:22.831831",
@@ -923,160 +1077,6 @@
         "keyword": "ANA Pokemon Jet Blue, Japan travel, airplane, special livery, event",
         "unsplash_url": "https://unsplash.com/s/photos/ANA-Pokemon-Jet-Blue,-Japan-travel,-airplane,-special-livery,-event",
         "pexels_url": "https://www.pexels.com/search/ANA%20Pokemon%20Jet%20Blue,%20Japan%20travel,%20airplane,%20special%20livery,%20event/"
-      }
-    },
-    {
-      "id": "plan_fde6acd2",
-      "created_at": "2026-11-19T07:11:39.839908",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "東京駅でSuicaのペンギン感謝祭「ARIGATO Suica Market」。ポップアップストアで描き下ろし絵柄の新アイテム",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157466.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역에서 열리는 특별한 굿즈 마켓! 스이카 펭귄 팬이라면 놓칠 수 없어요!"
-      },
-      "content": {
-        "thumbnail_title": "🐧도쿄역 스이카 펭귄 마켓🐧",
-        "cards": [
-          {
-            "title": "감사제 개최!",
-            "content": "JR동일본이 스이카 펭귄 졸업 기획의 일환으로 'ARIGATO Suica Market'을 개최합니다. 도쿄역에서 스이카 펭귄을 만날 기회!",
-            "alt_text": "도쿄역에서 열리는 스이카 펭귄 감사제 안내 현수막"
-          },
-          {
-            "title": "기간 확인!",
-            "content": "행사 기간은 11월 21일부터 23일까지이며, 매일 오전 9시부터 오후 8시까지 운영됩니다. 짧은 기간이니 서둘러 방문하세요!",
-            "alt_text": "스이카 펭귄 감사제 행사 기간 및 시간 안내"
-          },
-          {
-            "title": "신상 굿즈 득템!",
-            "content": "이번 마켓에서는 스이카 펭귄의描き下ろし(새로 그린) 그림으로 제작된 신규 아이템들을 만나볼 수 있습니다. 특별한 기념품이 될 거예요!",
-            "alt_text": "스이카 펭귄 감사제에서 판매될 신규 굿즈 이미지"
-          },
-          {
-            "title": "도쿄역에서 만나요",
-            "content": "장소는 바로 도쿄역입니다. 일본 여행 중 도쿄역에 들르신다면 꼭 방문하여 스이카 펭귄의 매력을 느껴보세요!",
-            "alt_text": "도쿄역 전경 사진"
-          },
-          {
-            "title": "꿀팁!",
-            "content": "인기가 많을 것으로 예상되니, 오픈 시간에 맞춰 방문하는 것을 추천합니다. 한정판 굿즈는 조기 소진될 수 있으니 참고하세요!",
-            "alt_text": "방문객이 굿즈를 구매하고 있는 모습"
-          }
-        ],
-        "caption": "🐧 도쿄역에서 스이카 펭귄을 만나요!🐧\n\nJR동일본이 준비한 'ARIGATO Suica Market'이 11월 21일부터 23일까지 도쿄역에서 열립니다!\n\n스이카 펭귄의 졸업 기획의 일환으로, 특별히 그려진 신규 아이템들을 만날 수 있는 기회!\n\n여행 중 도쿄역에 들를 예정이라면, 놓치지 마세요! 💖\n\n#일본여행 #도쿄여행 #스이카펭귄 #도쿄역 #일본이벤트 #한정굿즈 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#스이카펭귄",
-          "#도쿄역",
-          "#일본이벤트",
-          "#한정굿즈",
-          "#여행정보",
-          "#일본쇼핑",
-          "#JR동일본",
-          "#도쿄가볼만한곳",
-          "#여행꿀팁",
-          "#일본축제",
-          "#굿즈샵",
-          "#캐릭터굿즈"
-        ],
-        "alt_texts": [
-          "도쿄역에서 열리는 스이카 펭귄 감사제 안내 현수막",
-          "스이카 펭귄 감사제 행사 기간 및 시간 안내",
-          "스이카 펭귄 감사제에서 판매될 신규 굿즈 이미지",
-          "도쿄역 전경 사진",
-          "방문객이 굿즈를 구매하고 있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 스이카 펭귄 캐릭터 팬, 도쿄 여행 예정자 / 최적 게시 시간: 오후 3시 ~ 6시 / 기대 반응: 높은 관심과 정보 공유 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보와 구체적인 방문 정보 제공",
-      "image": {
-        "keyword": "Suica Penguin, Tokyo Station, event, merchandise, limited edition",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin,-Tokyo-Station,-event,-merchandise,-limited-edition",
-        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin,%20Tokyo%20Station,%20event,%20merchandise,%20limited%20edition/"
-      }
-    },
-    {
-      "id": "plan_c7ca86df",
-      "created_at": "2026-11-19T07:11:34.596112",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR西日本、2027年春「Aシート」車両増発。通勤時間帯の大阪方面を中心に乗車機会が3倍に",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2157611.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "2027년부터 오사카행 신쾌속 A시트 좌석이 3배 늘어나 더 편안하게 여행할 수 있어요!"
-      },
-      "content": {
-        "thumbnail_title": "✨A시트 3배 증편!✨",
-        "cards": [
-          {
-            "title": "A시트 3배 증편!",
-            "content": "2027년 봄, JR 서일본에서 신쾌속 'A시트' 차량을 5편 추가 투입합니다. 오사카 방면으로 이동 시 A시트 탑승 기회가 약 3배 늘어나요.",
-            "alt_text": "JR 서일본 신쾌속 A시트 열차 이미지"
-          },
-          {
-            "title": "더 편한 좌석",
-            "content": "A시트는 유료 지정석 서비스로, 쾌적한 좌석에서 편안하게 이동할 수 있습니다. 특히 출퇴근 시간대에 더 많은 기회가 제공될 예정입니다.",
-            "alt_text": "A시트 내부 좌석 이미지"
-          },
-          {
-            "title": "언제부터?",
-            "content": "2027년 봄부터 변경되는 내용이니, 미리 알아두시면 2027년 이후 일본 여행 계획에 큰 도움이 될 거예요.",
-            "alt_text": "2027년 봄 날짜 표시 이미지"
-          },
-          {
-            "title": "이용 팁",
-            "content": "A시트는 유료 서비스이므로, 일반 좌석보다 추가 요금이 발생합니다. 미리 좌석을 예약하면 원하는 시간에 편안하게 이용할 수 있습니다.",
-            "alt_text": "A시트 예약 방법 안내 이미지"
-          },
-          {
-            "title": "알아두면 좋은 점",
-            "content": "이번 증편은 주로 오사카 방면 통근 시간대를 중심으로 이루어집니다. 다른 노선이나 시간대 이용 시에는 기존과 동일할 수 있으니 확인이 필요합니다.",
-            "alt_text": "일본 철도 노선도 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 정보! 🇯🇵 2027년 봄부터 오사카 방면 신쾌속 'A시트' 좌석이 3배 늘어납니다! 🚆 더 편안하고 쾌적한 일본 여행을 계획해보세요. 💖\n\n#일본여행 #JR서일본 #A시트 #일본교통 #여행꿀팁 #플라잉재팬 #일본기차 #신쾌속 #오사카여행 #2027년 #교통정보 #여행준비 #일본소식 #여행스타그램 #일본정보",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본교통",
-          "#JR서일본",
-          "#A시트",
-          "#일본기차",
-          "#신쾌속",
-          "#오사카여행",
-          "#여행꿀팁",
-          "#2027년",
-          "#여행준비",
-          "#일본소식",
-          "#교통정보",
-          "#여행스타그램",
-          "#일본정보"
-        ],
-        "alt_texts": [
-          "JR 서일본 신쾌속 A시트 열차 이미지",
-          "A시트 내부 좌석 이미지",
-          "2027년 봄 날짜 표시 이미지",
-          "A시트 예약 방법 안내 이미지",
-          "일본 철도 노선도 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 2040 한국인 / 최적 게시 시간: 오후 5시~7시 / 기대 반응: 정보 공유 및 저장, 2027년 이후 여행 계획에 대한 기대감 / 이 콘텐츠의 강점: 실질적인 교통 정보로 여행 편의성 증대, 미래 정보 제공으로 계획 단계부터 도움",
-      "image": {
-        "keyword": "JR West, A Seat, Shinkaisoku, Osaka, Japan train, comfortable travel",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-West,-A-Seat,-Shinkaisoku,-Osaka,-Japan-train,-comfortable-travel",
-        "pexels_url": "https://www.pexels.com/search/JR%20West,%20A%20Seat,%20Shinkaisoku,%20Osaka,%20Japan%20train,%20comfortable%20travel/"
       }
     }
   ]
