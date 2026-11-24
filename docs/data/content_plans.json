@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-24T06:57:53.344404",
+  "last_updated": "2026-11-24T09:42:20.190023",
   "plans": [
+    {
+      "id": "plan_fa742faf",
+      "created_at": "2026-11-24T09:42:18.189853",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "大阪の温泉テーマパーク「空庭温泉」で入館料最大43.2％オフのブラック風呂デー。平日/休日/岩盤浴セット券も対象",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158726.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "오사카 여행 시 놓칠 수 없는 할인 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✨오사카 온천 43% 할인!✨",
+        "cards": [
+          {
+            "title": "블랙風呂デー",
+            "content": "오사카의 인기 온천 테마파크 '소라니와 온천'에서 11월 30일까지 '블랙風呂デー' 특별 할인을 진행해요. 최대 43.2%까지 입관료 할인을 받을 수 있답니다.",
+            "alt_text": "오사카 소라니와 온천 입구 사진"
+          },
+          {
+            "title": "할인 대상",
+            "content": "평일, 주말, 암반욕 세트권까지 모두 할인 대상에 포함되어 더욱 알차게 즐길 수 있어요. 2026년 11월 30일까지 진행되니 여행 계획에 참고하세요!",
+            "alt_text": "할인 혜택을 나타내는 이미지"
+          },
+          {
+            "title": "소라니와 온천",
+            "content": "일본 최대 규모의 온천 테마파크로, 다양한 테마의 온천과 사우나, 휴게 공간을 갖추고 있어요. 족욕탕과 야외 정원도 즐길 수 있답니다.",
+            "alt_text": "소라니와 온천 내부 시설 사진"
+          },
+          {
+            "title": "위치 정보",
+            "content": "오사카항 근처에 위치해 있어 접근성이 좋아요. 오사카 시내 관광 후 피로를 풀기에도 안성맞춤이에요.",
+            "alt_text": "소라니와 온천 지도 이미지"
+          },
+          {
+            "title": "꿀팁!",
+            "content": "할인 혜택을 받기 위해선 '블랙風呂デー' 기간임을 확인하고 방문하는 것이 중요해요. 미리 예약하면 더욱 편리하게 이용 가능해요.",
+            "alt_text": "할인 쿠폰 이미지"
+          }
+        ],
+        "caption": "🇯🇵 오사카 여행 중이라면 주목! 🇯🇵\n\n오사카의 핫플레이스 '소라니와 온천'에서 최대 43.2% 할인받고 힐링하세요! ✨\n\n✔️ 기간: ~2026년 11월 30일까지\n✔️ 대상: 입관료, 암반욕 세트권 (평일/주말 모두)\n\n오사카 여행의 피로를 싹 풀어줄 절호의 기회, 놓치지 마세요! 😉\n\n#소라니와온천 #오사카온천 #일본온천 #오사카여행 #일본여행 #여행할인 #블랙風呂デー #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#오사카여행",
+          "#오사카온천",
+          "#소라니와온천",
+          "#일본온천",
+          "#여행꿀팁",
+          "#일본할인",
+          "#오사카",
+          "#일본여행정보",
+          "#여행스타그램",
+          "#해외여행",
+          "#일본",
+          "#여행",
+          "#할인정보"
+        ],
+        "alt_texts": [
+          "오사카 소라니와 온천 입구 사진",
+          "할인 혜택을 나타내는 이미지",
+          "소라니와 온천 내부 시설 사진",
+          "소라니와 온천 지도 이미지",
+          "할인 쿠폰 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 오사카 여행을 계획 중인 20-40대 한국인 여행객 / 최적 게시 시간: 오후 6시 ~ 9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 할인 정보에 대한 높은 관심과 공유, 오사카 여행 계획에 직접적인 도움 제공 / 이 콘텐츠의 강점: 구체적인 할인율과 기간 명시, 오사카 여행객에게 실질적인 혜택 제공",
+      "image": {
+        "keyword": "Soraniwa Onsen Osaka discount",
+        "unsplash_url": "https://unsplash.com/s/photos/Soraniwa-Onsen-Osaka-discount",
+        "pexels_url": "https://www.pexels.com/search/Soraniwa%20Onsen%20Osaka%20discount/"
+      }
+    },
+    {
+      "id": "plan_62912dfb",
+      "created_at": "2026-11-24T09:42:12.883407",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "エアトリ、福岡県の「九州ふっこう応援割」11月26日昼に予約再開。航空券＋宿泊が最大50％オフに",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2158746.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 후쿠오카 여행 시 최대 50% 할인받을 수 있는 절호의 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✈️후쿠오카 50% 할인찬스!",
+        "cards": [
+          {
+            "title": "예약 재개",
+            "content": "일본 후쿠오카현의 '규슈 부흥 응원 할인' 예약 접수가 11월 26일 오후 1시부터 재개됩니다. 항공권과 숙박을 묶어 최대 50% 할인받을 수 있는 기회입니다.",
+            "alt_text": "일본 후쿠오카 여행 할인 정보 안내"
+          },
+          {
+            "title": "할인 혜택",
+            "content": "이번 '규슈 부흥 응원 할인'은 규슈 지역 관광 활성화를 위해 마련된 프로모션입니다. 후쿠오카현을 포함한 규슈 전역에서 숙박 및 교통편 할인 혜택을 제공합니다.",
+            "alt_text": "규슈 지역 관광 활성화 할인 혜택"
+          },
+          {
+            "title": "예약 시점",
+            "content": "지난번 조기 마감되었던 만큼, 이번 예약 재개 시점을 놓치지 않도록 주의해야 합니다. 11월 26일 오후 1시 정각에 맞춰 예약 사이트에 접속하는 것이 좋습니다.",
+            "alt_text": "할인 프로모션 예약 재개 시점 안내"
+          },
+          {
+            "title": "여행 계획",
+            "content": "겨울 후쿠오카 여행을 계획하고 있다면 이번 할인을 적극 활용해 보세요. 저렴한 비용으로 맛있는 음식과 다양한 볼거리를 즐길 수 있습니다.",
+            "alt_text": "겨울 후쿠오카 여행 계획 세우기"
+          },
+          {
+            "title": "꿀팁",
+            "content": "할인 혜택은 한정 수량이므로 서둘러 예약하는 것이 중요합니다. 또한, 항공권과 숙박을 함께 예약할 때 더 큰 할인율이 적용될 수 있으니 꼼꼼히 비교해 보세요.",
+            "alt_text": "일본 여행 할인 꿀팁 및 주의사항"
+          }
+        ],
+        "caption": "✈️ 규슈 부흥 응원 할인, 후쿠오카 편 예약 재개! ✈️\n\n일본 후쿠오카 여행을 준비 중인 분들 주목! 🙌\n\n'규슈 부흥 응원 할인' 프로모션이 11월 26일 오후 1시부터 다시 시작됩니다! 🤩\n\n이번 기회에 항공권+숙박을 묶어 최대 50% 할인받고 알찬 후쿠오카 여행을 즐겨보세요! 💸\n\n놓치면 후회할 절호의 찬스, 지금 바로 예약 준비하세요! 👇\n\n#후쿠오카여행 #규슈여행 #일본여행 #여행할인 #항공권할인 #숙박할인 #일본관광 #여행꿀팁 #플라잉재팬 #해외여행 #여행스타그램 #여행정보 #할인정보 #겨울여행 #규슈부흥응원할인",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#후쿠오카여행",
+          "#규슈여행",
+          "#일본여행정보",
+          "#여행할인",
+          "#항공권할인",
+          "#숙박할인",
+          "#겨울여행",
+          "#여행스타그램",
+          "#여행꿀팁",
+          "#규슈부흥응원할인",
+          "#일본교통",
+          "#일본숙소",
+          "#일본자유여행"
+        ],
+        "alt_texts": [
+          "일본 후쿠오카 여행 할인 정보 안내",
+          "규슈 지역 관광 활성화 할인 혜택",
+          "할인 프로모션 예약 재개 시점 안내",
+          "겨울 후쿠오카 여행 계획 세우기",
+          "일본 여행 할인 꿀팁 및 주의사항"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 후쿠오카 여행을 계획 중인 20-40대 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심 및 예약 문의 폭증 / 이 콘텐츠의 강점: 즉각적인 여행 경비 절감 효과를 제시하여 높은 클릭률과 참여 유도",
+      "image": {
+        "keyword": "Fukuoka, Japan, discount coupon, travel, airplane ticket, hotel, save money, limited time offer, travel promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/Fukuoka,-Japan,-discount-coupon,-travel,-airplane-ticket,-hotel,-save-money,-limited-time-offer,-travel-promotion",
+        "pexels_url": "https://www.pexels.com/search/Fukuoka,%20Japan,%20discount%20coupon,%20travel,%20airplane%20ticket,%20hotel,%20save%20money,%20limited%20time%20offer,%20travel%20promotion/"
+      }
+    },
     {
       "id": "plan_e8788473",
       "created_at": "2026-11-24T06:57:51.344232",
@@ -923,160 +1077,6 @@
         "keyword": "JR West Japan, Hokuriku Shinkansen, Limited Express Thunderbird, ticketless service, travel points, campaign promotion",
         "unsplash_url": "https://unsplash.com/s/photos/JR-West-Japan,-Hokuriku-Shinkansen,-Limited-Express-Thunderbird,-ticketless-service,-travel-points,-campaign-promotion",
         "pexels_url": "https://www.pexels.com/search/JR%20West%20Japan,%20Hokuriku%20Shinkansen,%20Limited%20Express%20Thunderbird,%20ticketless%20service,%20travel%20points,%20campaign%20promotion/"
-      }
-    },
-    {
-      "id": "plan_6363a04f",
-      "created_at": "2026-11-21T03:58:28.601786",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "福岡「大たまごっち展」チケット先着販売が本日10時スタート。限定グッズ「シャカシャカ巾着」付きも",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2156506.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "후쿠오카에서만 만날 수 있는 특별한 '다마고치' 전시!"
-      },
-      "content": {
-        "thumbnail_title": "🥚후쿠오카 다마고치 전시 오픈!🥚",
-        "cards": [
-          {
-            "title": "전시 티켓 오픈!",
-            "content": "후쿠오카에서 열리는 '30주년 기념 다마고치 전시' 티켓 선착순 판매가 오늘 11월 21일 오전 10시부터 시작됩니다.",
-            "alt_text": "다마고치 전시 티켓 판매 시작 알림"
-          },
-          {
-            "title": "한정 굿즈 증정",
-            "content": "선착순 판매 티켓 구매자에게는 '샤카샤카 츳카' 한정 굿즈가 증정될 예정입니다. 놓치지 마세요!",
-            "alt_text": "다마고치 전시 한정 굿즈 이미지"
-          },
-          {
-            "title": "30주년 기념 전시",
-            "content": "다마고치 탄생 30주년을 기념하여 열리는 이번 전시는 다마고치의 역사를 한눈에 볼 수 있는 특별한 기회입니다.",
-            "alt_text": "다마고치 30주년 기념 전시 소개"
-          },
-          {
-            "title": "후쿠오카에서 만나요",
-            "content": "일본 여행 중 후쿠오카에 계신다면, 특별한 추억을 만들 수 있는 다마고치 전시를 꼭 방문해보세요.",
-            "alt_text": "후쿠오카 시내 전경 이미지"
-          },
-          {
-            "title": "예매 팁!",
-            "content": "인기 전시인만큼 티켓이 빠르게 매진될 수 있습니다. 판매 시작 시간인 오전 10시에 맞춰 바로 예매하는 것을 추천합니다.",
-            "alt_text": "다마고치 전시 예매 팁 안내"
-          }
-        ],
-        "caption": "✨후쿠오카 여행 필수 코스 등장!✨\n\n30주년 기념 '대 다마고치 전시' 티켓 선착순 판매가 오늘 11월 21일 오전 10시부터 시작됩니다! 🥚\n\n한정판 '샤카샤카 츳카' 굿즈까지 받을 수 있는 절호의 찬스!\n\n다마고치의 추억을 소환하고 싶다면, 지금 바로 후쿠오카로 떠나세요! ✈️\n\n#일본여행 #후쿠오카여행 #다마고치 #한정굿즈 #여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#후쿠오카",
-          "#후쿠오카여행",
-          "#다마고치",
-          "#다마고치전시",
-          "#일본전시",
-          "#여행스타그램",
-          "#일본쇼핑",
-          "#일본핫플",
-          "#여행꿀팁",
-          "#일본축제",
-          "# Kyushu",
-          "#Fukuoka",
-          "#Tamagotchi"
-        ],
-        "alt_texts": [
-          "다마고치 전시 티켓 판매 시작 알림",
-          "다마고치 전시 한정 굿즈 이미지",
-          "다마고치 30주년 기념 전시 소개",
-          "후쿠오카 시내 전경 이미지",
-          "다마고치 전시 예매 팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 후쿠오카 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 오후 6시~8시 / 기대 반응: 높은 관심과 구매 전환율, 전시 방문 인증샷 확산 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 한정판 굿즈라는 희소성 강조, 타겟층의 향수를 자극하는 아이템",
-      "image": {
-        "keyword": "Tamagotchi exhibition Fukuoka Japan, limited edition goods, ticket sale start",
-        "unsplash_url": "https://unsplash.com/s/photos/Tamagotchi-exhibition-Fukuoka-Japan,-limited-edition-goods,-ticket-sale-start",
-        "pexels_url": "https://www.pexels.com/search/Tamagotchi%20exhibition%20Fukuoka%20Japan,%20limited%20edition%20goods,%20ticket%20sale%20start/"
-      }
-    },
-    {
-      "id": "plan_9d90f5ac",
-      "created_at": "2026-11-21T03:58:23.371376",
-      "category": "event",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "Suicaのペンギン感謝祭「ARIGATO Suica Market」は今日から3日間！　東京駅で2つのポップアップストア",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2158288.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "도쿄역에서 열리는 Suica 펜귄 감사제! 놓치면 후회할 3일간의 특별 이벤트!"
-      },
-      "content": {
-        "thumbnail_title": "Suica 펜귄 감사제 🐧",
-        "cards": [
-          {
-            "title": "감사제 개최!",
-            "content": "JR 도쿄역에서 'ARIGATO Suica Market' 감사제가 11월 21일부터 23일까지 3일간 열립니다. 오전 9시부터 오후 8시까지 운영됩니다.",
-            "alt_text": "도쿄역에서 열리는 Suica 펜귄 감사제 팝업 스토어 전경"
-          },
-          {
-            "title": "Suica 펜귄 졸업!",
-            "content": "이번 행사는 JR 동일본 그룹의 Suica 펜귄 졸업 기획 'Penguin Years'의 일환으로 마련되었습니다. 특별한 추억을 만들 기회입니다.",
-            "alt_text": "Suica 펜귄 캐릭터 일러스트"
-          },
-          {
-            "title": "2개의 팝업 스토어",
-            "content": "도쿄역 내 2곳의 팝업 스토어에서 다양한 이벤트와 상품을 만나볼 수 있습니다. 방문 전 위치를 확인하세요.",
-            "alt_text": "도쿄역 팝업 스토어 안내 지도"
-          },
-          {
-            "title": "놓치지 마세요!",
-            "content": "11월 21일, 22일, 23일 단 3일간만 진행되니, 도쿄 여행 중이라면 꼭 방문해보세요! 늦으면 후회할지도 몰라요.",
-            "alt_text": "시계와 함께 표시된 감사제 날짜"
-          },
-          {
-            "title": "여행 꿀팁",
-            "content": "행사 기간 동안 도쿄역 주변 관광 및 쇼핑 계획을 세우면 더욱 알찬 여행이 될 수 있습니다. Suica 카드 소지자라면 더욱 특별한 경험을 할 수 있을지도 모릅니다.",
-            "alt_text": "도쿄역 주변 지도와 관광 명소 표시"
-          }
-        ],
-        "caption": "✨Suica 펜귄의 특별한 감사제, 도쿄역에서 열려요!✨\n\n11월 21일부터 23일까지 단 3일간, JR 도쿄역에서 'ARIGATO Suica Market'이 개최됩니다. 🐧 Suica 펜귄의 졸업 기획으로 마련된 이번 행사에서 두 개의 팝업 스토어를 만나보세요!\n\n⏰ 운영 시간: 오전 9시 ~ 오후 8시\n\n도쿄 여행 중이라면 절대 놓치지 마세요! 💖\n\n#일본여행 #도쿄여행 #Suica #Suica펜귄 #도쿄역 #팝업스토어 #감사제 #일본이벤트 #여행정보 #JR동일본 #도쿄 #일본 #놀거리 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#도쿄여행",
-          "#Suica",
-          "#Suica펜귄",
-          "#도쿄역",
-          "#팝업스토어",
-          "#감사제",
-          "#일본이벤트",
-          "#여행정보",
-          "#JR동일본",
-          "#도쿄",
-          "#일본",
-          "#놀거리",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "도쿄역에서 열리는 Suica 펜귄 감사제 팝업 스토어 전경",
-          "Suica 펜귄 캐릭터 일러스트",
-          "도쿄역 팝업 스토어 안내 지도",
-          "시계와 함께 표시된 감사제 날짜",
-          "도쿄역 주변 지도와 관광 명소 표시"
-        ]
-      },
-      "marketer_analysis": "타겟: 도쿄를 방문하는 한국인 여행자 / 최적 게시 시간: 여행 전날 또는 여행 당일 오전 9시~11시 / 기대 반응: 이벤트 참여 독려, 도쿄역 방문 욕구 증진 / 이 콘텐츠의 강점: 시기적절한 이벤트 정보, 구체적인 날짜 및 시간 명시",
-      "image": {
-        "keyword": "Suica Penguin Thanksgiving Festival Tokyo Station",
-        "unsplash_url": "https://unsplash.com/s/photos/Suica-Penguin-Thanksgiving-Festival-Tokyo-Station",
-        "pexels_url": "https://www.pexels.com/search/Suica%20Penguin%20Thanksgiving%20Festival%20Tokyo%20Station/"
       }
     }
   ]
