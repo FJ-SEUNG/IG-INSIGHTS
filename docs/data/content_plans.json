@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-25T08:16:10.277609",
+  "last_updated": "2026-11-26T05:03:23.025850",
   "plans": [
+    {
+      "id": "plan_9eaf7564",
+      "created_at": "2026-11-26T05:03:21.025683",
+      "category": "tips",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "PEANUTS Cafe、毎年人気の「LUCKY BAG」2027年も発売決定。トートバッグ、ポーチなど計9点入り",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159293.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "피너츠 팬이라면 놓칠 수 없는 2027년 럭키백! 귀여운 굿즈와 함께 일본 여행 추억을 만들어보세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨2027 피너츠 럭키백✨",
+        "cards": [
+          {
+            "title": "2027 럭키백",
+            "content": "매년 인기 폭발! 2027년에도 피너츠 카페의 '럭키백'이 돌아옵니다. 올해는 어떤 귀여운 굿즈들이 기다릴까요?",
+            "alt_text": "피너츠 카페 2027 럭키백 출시 안내 이미지"
+          },
+          {
+            "title": "구성품",
+            "content": "2만 엔 상당의 피너츠 굿즈와 음료 쿠폰이 포함된 '2027 LUCKY BAG 베이직'으로 구성됩니다. 총 9가지의 알찬 구성!",
+            "alt_text": "럭키백에 포함될 피너츠 굿즈 이미지"
+          },
+          {
+            "title": "토트백 색상",
+            "content": "인기 만점 토트백은 에스프레소와 카페오레, 두 가지 색상 중 선택 가능합니다.",
+            "alt_text": "에스프레소 색상 토트백 이미지"
+          },
+          {
+            "title": "가격",
+            "content": "럭키백의 가격은 각 12,100엔입니다. 2만 엔 상당의 굿즈를 합리적인 가격에 만나보세요!",
+            "alt_text": "카페오레 색상 토트백 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "전국의 'PEANUTS Cafe'와 'PEANUTS Cafe 온라인 샵'에서 구매 가능합니다. 놓치기 전에 서둘러 주세요!",
+            "alt_text": "피너츠 카페 매장 전경 이미지"
+          }
+        ],
+        "caption": "💖2027년에도 피너츠와 함께!💖\n매년 뜨거운 사랑을 받는 피너츠 카페의 '2027 럭키백' 출시 소식!✨\n2만 엔 상당의 굿즈와 음료 쿠폰까지, 총 9가지 아이템으로 구성된 럭키백을 12,100엔에 만나보세요.\n에스프레소, 카페오레 두 가지 색상의 토트백 중 마음에 드는 것으로 픽! ☕️\n전국 피너츠 카페 및 온라인 샵에서 구매 가능하니, 일본 여행 계획에 꼭 추가하세요!\n\n#피너츠카페 #스누피 #럭키백 #일본한정 #피너츠굿즈 #여행준비 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#피너츠카페",
+          "#스누피",
+          "#럭키백",
+          "#일본한정",
+          "#피너츠굿즈",
+          "#일본쇼핑",
+          "#도쿄여행",
+          "#오사카여행",
+          "#여행정보",
+          "#일본카페",
+          "#2027럭키백",
+          "#득템찬스",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "피너츠 카페 2027 럭키백 출시 안내 이미지",
+          "럭키백에 포함될 피너츠 굿즈 이미지",
+          "에스프레소 색상 토트백 이미지",
+          "카페오레 색상 토트백 이미지",
+          "피너츠 카페 매장 전경 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-30대 여성, 스누피/피너츠 팬 / 최적 게시 시간: 평일 저녁 7-9시, 주말 오후 2-4시 / 기대 반응: 높은 관심과 구매 문의, 스누피 팬 커뮤니티 확산 / 이 콘텐츠의 강점: 높은 인지도의 캐릭터, 시즌성, 한정판이라는 희소성, 구체적인 가격 및 구성 정보 제공",
+      "image": {
+        "keyword": "PEANUTS Cafe LUCKY BAG 2027, Snoopy merchandise, Japanese cafe, limited edition bag, espresso tote bag, cafe au lait tote bag",
+        "unsplash_url": "https://unsplash.com/s/photos/PEANUTS-Cafe-LUCKY-BAG-2027,-Snoopy-merchandise,-Japanese-cafe,-limited-edition-bag,-espresso-tote-bag,-cafe-au-lait-tote-bag",
+        "pexels_url": "https://www.pexels.com/search/PEANUTS%20Cafe%20LUCKY%20BAG%202027,%20Snoopy%20merchandise,%20Japanese%20cafe,%20limited%20edition%20bag,%20espresso%20tote%20bag,%20cafe%20au%20lait%20tote%20bag/"
+      }
+    },
+    {
+      "id": "plan_d7eea2de",
+      "created_at": "2026-11-26T05:03:15.349815",
+      "category": "hotplace",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京ディズニーシー、ブランケットやトートバッグなど、ショー鑑賞に役立つ25周年グッズ新登場。「イマジニング・ザ・マジック」第3弾",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159465.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄 디즈니씨 25주년 기념, 놓치면 후회할 한정판 굿즈 출시!"
+      },
+      "content": {
+        "thumbnail_title": "✨디즈니씨 25주년 굿즈 OPEN✨",
+        "cards": [
+          {
+            "title": "25주년 굿즈",
+            "content": "도쿄 디즈니씨 25주년 테마 '이매지닝 더 매직' 세 번째 시리즈가 2027년 1월 12일부터 판매됩니다.",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 굿즈 이미지"
+          },
+          {
+            "title": "포토그래퍼 작품",
+            "content": "이번 굿즈는 사진작가 아사다 마사시의 신작 사진 작품을 활용하여 특별함을 더했습니다.",
+            "alt_text": "사진작가 아사다 마사시 작품이 담긴 굿즈 이미지"
+          },
+          {
+            "title": "주요 상품",
+            "content": "쇼 관람 시 유용한 담요, 토트백 등 다양한 굿즈가 출시될 예정입니다. 자세한 상품 라인업은 추후 공개됩니다.",
+            "alt_text": "담요와 토트백 등 굿즈 이미지"
+          },
+          {
+            "title": "구매 팁",
+            "content": "인기 상품은 조기 품절될 수 있으니, 방문 계획이 있다면 출시일에 맞춰 서둘러 구매하시는 것을 추천합니다.",
+            "alt_text": "디즈니씨 굿즈 구매를 서두르는 사람 이미지"
+          },
+          {
+            "title": "방문 준비",
+            "content": "2027년 1월 12일 이후 도쿄 디즈니씨 방문 예정이라면, 25주년 굿즈 쇼핑 리스트를 미리 준비해 보세요!",
+            "alt_text": "도쿄 디즈니씨 25주년 기념 행사 안내 이미지"
+          }
+        ],
+        "caption": "💖도쿄 디즈니씨 25주년 기념! 💖\n특별한 '이매지닝 더 매직' 3탄 굿즈가 2027년 1월 12일부터 발매됩니다.\n사진작가 아사다 마사시의 감성적인 작품이 담긴 담요, 토트백 등!\n놓치면 후회할 한정판 굿즈, 여행 계획에 꼭 추가하세요!\n\n#디즈니씨 #도쿄여행 #일본여행 #디즈니굿즈 #25주년",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄디즈니씨",
+          "#디즈니씨25주년",
+          "#디즈니굿즈",
+          "#이매지닝더매직",
+          "#도쿄여행준비",
+          "#일본여행정보",
+          "#한정판굿즈",
+          "#여행스타그램",
+          "#도쿄",
+          "#일본",
+          "#여행필수템",
+          "#2027년여행",
+          "#일본쇼핑"
+        ],
+        "alt_texts": [
+          "도쿄 디즈니씨 25주년 기념 굿즈 이미지",
+          "사진작가 아사다 마사시 작품이 담긴 굿즈 이미지",
+          "담요와 토트백 등 굿즈 이미지",
+          "디즈니씨 굿즈 구매를 서두르는 사람 이미지",
+          "도쿄 디즈니씨 25주년 기념 행사 안내 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 도쿄 디즈니씨 방문 예정인 한국인 여행객 / 최적 게시 시간: 오후 7시 ~ 9시 (여행 정보 탐색 시간) / 기대 반응: 높은 관심과 공유, 굿즈 구매 문의 / 이 콘텐츠의 강점: 구체적인 출시일과 상품 종류 언급으로 실질적인 정보 제공",
+      "image": {
+        "keyword": "Tokyo DisneySea 25th anniversary merchandise, Imagining the Magic, blanket, tote bag, Masashi Asada",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-DisneySea-25th-anniversary-merchandise,-Imagining-the-Magic,-blanket,-tote-bag,-Masashi-Asada",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20DisneySea%2025th%20anniversary%20merchandise,%20Imagining%20the%20Magic,%20blanket,%20tote%20bag,%20Masashi%20Asada/"
+      }
+    },
     {
       "id": "plan_a408fce0",
       "created_at": "2026-11-25T08:16:08.277437",
@@ -923,160 +1077,6 @@
         "keyword": "Genshin Impact, Suica card, JR East, collaboration, limited edition, mobile payment, travel Japan",
         "unsplash_url": "https://unsplash.com/s/photos/Genshin-Impact,-Suica-card,-JR-East,-collaboration,-limited-edition,-mobile-payment,-travel-Japan",
         "pexels_url": "https://www.pexels.com/search/Genshin%20Impact,%20Suica%20card,%20JR%20East,%20collaboration,%20limited%20edition,%20mobile%20payment,%20travel%20Japan/"
-      }
-    },
-    {
-      "id": "plan_bc2fb17d",
-      "created_at": "2026-11-22T06:31:22.831831",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "国交省、成田空港の機能強化に伴う施設変更を許可　誘導路とエプロンを新設",
-        "url": "https://www.traicy.com/posts/20261121388860/",
-        "date": "Sat, 21 Nov 2026 03:35:15 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "성남공항 기능 강화로 더욱 편리해지는 일본 여행!"
-      },
-      "content": {
-        "thumbnail_title": "✈️성남공항 확장! 🛫",
-        "cards": [
-          {
-            "title": "성남공항 변화",
-            "content": "성남국제공항의 기능 강화 작업이 국토교통부의 허가를 받았습니다. 이에 따라 공항 시설에 대한 변경이 이루어집니다.",
-            "alt_text": "성남공항의 새로운 시설 계획을 보여주는 이미지"
-          },
-          {
-            "title": "새 유도로 신설",
-            "content": "총 길이 7,044미터, 폭 23미터의 새로운 유도로가 신설될 예정입니다. 이를 통해 항공기 이동이 더욱 원활해질 것으로 기대됩니다.",
-            "alt_text": "새롭게 건설될 유도로의 조감도"
-          },
-          {
-            "title": "넓어진 에이프런",
-            "content": "총 면적 82만 3,664 제곱미터에 달하는 광대한 에이프런(주기장)이 새롭게 조성됩니다. 항공기 주차 및 정비 공간이 확대됩니다.",
-            "alt_text": "넓어진 에이프런의 모습을 상상하는 이미지"
-          },
-          {
-            "title": "기대 효과",
-            "content": "이번 기능 강화는 성남공항의 항공기 처리 능력을 향상시켜, 향후 일본 여행 시 더욱 빠르고 편리한 이동을 가능하게 할 것입니다.",
-            "alt_text": "공항 이용객들이 편리하게 이동하는 모습"
-          },
-          {
-            "title": "여행 팁",
-            "content": "새로운 시설 완공 시점은 202X년 예정입니다. 공항 이용 계획 시 참고하시면 더욱 여유로운 여행을 즐기실 수 있습니다.",
-            "alt_text": "여행 일정을 계획하는 모습"
-          }
-        ],
-        "caption": "✈️ 성남공항, 기능 강화 허가받아 더욱 편리해진다!\n\n성남국제공항의 기능 강화 사업이 국토교통부 허가를 통과했어요! \n\n✅ 길이 7,044m, 폭 23m 신규 유도로 신설\n✅ 면적 82만 3,664㎡ 규모의 에이프런(주기장) 확장\n\n이를 통해 항공기 운항 효율성이 높아져, 일본 여행 시 더욱 빠르고 쾌적한 이용이 가능해질 것으로 기대됩니다. 202X년 완공 예정이니, 앞으로의 변화를 기대하며 일본 여행 계획 세워보세요! 😉\n\n#일본여행 #성남공항 #공항정보 #여행꿀팁 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#성남공항",
-          "#공항정보",
-          "#여행꿀팁",
-          "#플라잉재팬",
-          "#일본항공",
-          "#해외여행",
-          "#여행준비",
-          "#일본",
-          "#여행스타그램",
-          "#안전여행",
-          "#여행계획",
-          "#항공정보",
-          "#일본소식",
-          "#여행이슈"
-        ],
-        "alt_texts": [
-          "성남공항의 새로운 시설 계획을 보여주는 이미지",
-          "새롭게 건설될 유도로의 조감도",
-          "넓어진 에이프런의 모습을 상상하는 이미지",
-          "공항 이용객들이 편리하게 이동하는 모습",
-          "여행 일정을 계획하는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 예정인 한국인 여행객 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 공항 이용 편의성에 대한 기대감, 여행 계획 반영 / 이 콘텐츠의 강점: 일본 여행의 핵심 관문인 공항의 실질적인 변화 정보를 제공하여 여행 계획에 직접적인 도움을 줌.",
-      "image": {
-        "keyword": "Narita Airport expansion, new taxiway, apron construction, aviation infrastructure, travel convenience",
-        "unsplash_url": "https://unsplash.com/s/photos/Narita-Airport-expansion,-new-taxiway,-apron-construction,-aviation-infrastructure,-travel-convenience",
-        "pexels_url": "https://www.pexels.com/search/Narita%20Airport%20expansion,%20new%20taxiway,%20apron%20construction,%20aviation%20infrastructure,%20travel%20convenience/"
-      }
-    },
-    {
-      "id": "plan_13994563",
-      "created_at": "2026-11-22T06:31:17.576533",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "トリニティ航空、ブラックフライデーで国際線を最大20％割引　11月30日まで",
-        "url": "https://www.traicy.com/posts/20261121388886/",
-        "date": "Sat, 21 Nov 2026 08:31:14 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본행 국제선 최대 20% 할인 찬스! 놓치지 마세요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본행 최대 20% 할인!",
-        "cards": [
-          {
-            "title": "블랙프라이데이",
-            "content": "트리니티 항공에서 '블랙프라이데이 쿠폰'을 11월 20일부터 30일까지 배포합니다. 이 기간 동안 일본 출발 국제선 항공권을 할인받으세요.",
-            "alt_text": "블랙프라이데이 할인 쿠폰 이미지"
-          },
-          {
-            "title": "할인율",
-            "content": "일본 출발 한국, 중국, 홍콩, 베트남, 인도네시아, 프랑스, 이탈리아, 스페인, 호주, 캐나다 노선에 대해 4%에서 최대 20%까지 할인 혜택을 제공합니다.",
-            "alt_text": "항공권 할인율 표시 이미지"
-          },
-          {
-            "title": "적용 노선",
-            "content": "특히 한국행 노선도 할인 대상에 포함되어 있어, 일본 여행을 계획 중인 한국 여행객들에게 좋은 기회가 될 수 있습니다.",
-            "alt_text": "일본-한국 노선 지도 이미지"
-          },
-          {
-            "title": "탑승 기간",
-            "content": "쿠폰은 11월 20일부터 30일까지 배포되며, 해당 기간 동안 예약하는 항공권에 적용됩니다. 정확한 탑승 기간은 항공사 문의가 필요합니다.",
-            "alt_text": "달력에 표시된 할인 기간 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "할인 쿠폰은 한정 수량이므로 서둘러 예약하는 것이 좋습니다. 예약 시 쿠폰 코드 적용을 잊지 마세요!",
-            "alt_text": "서두르는 사람을 형상화한 이미지"
-          }
-        ],
-        "caption": "✈️ 일본 여행 계획 중이신가요? 트리니티 항공에서 블랙프라이데이를 맞아 최대 20% 할인 쿠폰을 배포합니다! ✈️\n\n📍 기간: 11월 20일 ~ 11월 30일\n📍 할인율: 최대 20%\n📍 대상 노선: 일본 출발 한국, 중국, 홍콩, 베트남, 인도네시아, 프랑스, 이탈리아, 스페인, 호주, 캐나다\n\n놓치면 후회할 역대급 할인! 지금 바로 확인하고 알뜰하게 일본 여행 준비하세요! 🇯🇵\n\n#일본여행 #항공권할인 #블랙프라이데이 #트리니티항공 #일본항공권 #여행꿀팁 #여행정보 #플라잉재팬 #해외여행 #저가항공 #할인정보 #여행스타그램 #일본 #가성비여행 #여행준비",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#블랙프라이데이",
-          "#항공권할인",
-          "#트리니티항공",
-          "#일본항공권",
-          "#여행꿀팁",
-          "#여행정보",
-          "#해외여행",
-          "#저가항공",
-          "#할인정보",
-          "#여행스타그램",
-          "#일본",
-          "#가성비여행",
-          "#여행준비"
-        ],
-        "alt_texts": [
-          "블랙프라이데이 할인 쿠폰 이미지",
-          "항공권 할인율 표시 이미지",
-          "일본-한국 노선 지도 이미지",
-          "달력에 표시된 할인 기간 이미지",
-          "서두르는 사람을 형상화한 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 클릭률 및 예약 전환 / 이 콘텐츠의 강점: 실질적인 할인 정보와 명확한 적용 대상, 시기적절한 프로모션",
-      "image": {
-        "keyword": "airplane, discount, Black Friday, Japan, Korea, travel, coupon",
-        "unsplash_url": "https://unsplash.com/s/photos/airplane,-discount,-Black-Friday,-Japan,-Korea,-travel,-coupon",
-        "pexels_url": "https://www.pexels.com/search/airplane,%20discount,%20Black%20Friday,%20Japan,%20Korea,%20travel,%20coupon/"
       }
     }
   ]
