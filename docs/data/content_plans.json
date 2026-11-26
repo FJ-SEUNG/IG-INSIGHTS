@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-26T05:03:23.025850",
+  "last_updated": "2026-11-26T08:01:41.291323",
   "plans": [
+    {
+      "id": "plan_cc3136a4",
+      "created_at": "2026-11-26T08:01:39.291180",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社「スヌーピー」75周年パフバッグが半額に！　巾着/トート/リュックの3WAY、軽くてボリューミーなお出かけサイズ",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159533.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "스누피 75주년 기념 한정판 가방, 지금 50% 할인 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💖스누피 75주년 득템 찬스!💖",
+        "cards": [
+          {
+            "title": "반값 할인!",
+            "content": "宝島社에서 스누피 75주년 기념 3WAY 패프백을 50% 할인된 가격인 1920엔에 판매 중입니다. (정상가 3839엔)",
+            "alt_text": "스누피 3WAY 패프백 할인 정보"
+          },
+          {
+            "title": "기간 한정",
+            "content": "블랙프라이데이 세일의 일환으로 진행되며, 할인 기간은 12월 11일 오전 11시까지입니다.",
+            "alt_text": "할인 기간 표시"
+          },
+          {
+            "title": "3WAY 활용",
+            "content": "이번 한정판은 巾着(주머니), 토트백, 백팩으로 3가지 스타일로 연출 가능한 실용적인 디자인입니다.",
+            "alt_text": "스누피 가방 3가지 스타일"
+          },
+          {
+            "title": "가볍고 넉넉",
+            "content": "가볍지만 넉넉한 수납 공간을 자랑하며, 외출 시 필요한 소지품을 충분히 담을 수 있습니다.",
+            "alt_text": "스누피 가방 수납력"
+          },
+          {
+            "title": "구매는 여기서!",
+            "content": "宝島社 공식 EC 사이트인 宝島チャンネル에서 구매 가능합니다. 지금 바로 확인해보세요!",
+            "alt_text": "구매처 정보"
+          }
+        ],
+        "caption": "🇯🇵 스누피 팬 주목! 🇯🇵\n스누피 75주년 기념 3WAY 패프백이 50% 할인된 가격으로 나왔어요!\n\n✨ 1920엔 (정상가 3839엔)\n✨ 12월 11일 오전 11시까지!\n✨ 巾着, 토트, 백팩 3가지 스타일!\n\n가볍고 넉넉한 수납으로 여행 필수템으로 딱! 💖\n宝島社 공식 EC 사이트에서 절찬 판매 중이니 서둘러 득템하세요!\n\n#일본여행 #플라잉재팬 #스누피 #득템찬스 #일본쇼핑 #한정판 #할인정보 #여행준비",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#스누피",
+          "#스누피가방",
+          "#일본쇼핑",
+          "#쇼핑찬스",
+          "#일본직구",
+          "#여행필수템",
+          "#할인정보",
+          "#한정판",
+          "#宝島社",
+          "#블랙프라이데이",
+          "#일본여행준비",
+          "#스누피75주년",
+          "#일본여행꿀팁"
+        ],
+        "alt_texts": [
+          "스누피 3WAY 패프백 할인 정보",
+          "할인 기간 표시",
+          "스누피 가방 3가지 스타일",
+          "스누피 가방 수납력",
+          "구매처 정보"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 오후 7-9시 / 기대 반응: 높은 참여율 (구매 문의, 정보 공유) / 이 콘텐츠의 강점: 강력한 할인율, 인기 캐릭터와의 콜라보, 실용적인 아이템",
+      "image": {
+        "keyword": "snoopy 75th anniversary 3way puff bag half price japan",
+        "unsplash_url": "https://unsplash.com/s/photos/snoopy-75th-anniversary-3way-puff-bag-half-price-japan",
+        "pexels_url": "https://www.pexels.com/search/snoopy%2075th%20anniversary%203way%20puff%20bag%20half%20price%20japan/"
+      }
+    },
+    {
+      "id": "plan_b41ccca3",
+      "created_at": "2026-11-26T08:01:29.933676",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "年末年始に夜行新幹線「東海道ルミエールエクスプレス」運行。東京～新大阪の上下2本、新たに1人席とグループ席すみ分け",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159562.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "연말연시 특별 야간 신칸센 운행! 도쿄-신오사카 이동 시간을 아껴주는 꿀팁!"
+      },
+      "content": {
+        "thumbnail_title": "✨연말연시 야간 신칸센✨",
+        "cards": [
+          {
+            "title": "특별 열차 운행",
+            "content": "연말연시 기간, 도쿄-신오사카 구간에 특별 야간 신칸센 '도카이도 루미에르 익스프레스'가 운행됩니다. 밤에 출발하여 다음 날 아침 도착하는 특별 편성입니다.",
+            "alt_text": "도카이도 신칸센 야간 열차 운행 안내"
+          },
+          {
+            "title": "운행 구간 및 편수",
+            "content": "도쿄 출발 신오사카행 1편, 신오사카 출발 도쿄행 1편, 총 상하행 2편이 운행될 예정입니다.",
+            "alt_text": "도쿄, 신오사카 간 신칸센 운행 노선도"
+          },
+          {
+            "title": "좌석 구분",
+            "content": "이번 특별 열차는 1인석과 그룹석으로 좌석이 구분되어 운영될 예정입니다. 여행 스타일에 맞춰 좌석 선택이 가능합니다.",
+            "alt_text": "신칸센 좌석 종류 안내 (1인석, 그룹석)"
+          },
+          {
+            "title": "이전 운행 이력",
+            "content": "지난 8월, 도쿄발 신오사카행 1일 한정으로 처음 선보였으며, 이번이 3번째 운행입니다. JR 도카이 투어즈의 전용 여행 상품으로 판매됩니다.",
+            "alt_text": "과거 특별 신칸센 운행 모습"
+          },
+          {
+            "title": "이용 팁",
+            "content": "연말연시 이동 시간을 절약하고 싶다면 이 특별 열차를 활용해보세요! 다만, JR 도카이 투어즈 전용 상품으로 일반 티켓 구매와는 다를 수 있으니 상세 정보를 확인하는 것이 좋습니다.",
+            "alt_text": "야간 신칸센 이용객 모습"
+          }
+        ],
+        "caption": "✈️ 한국에서 일본으로 오시는 분들 주목! ✈️\n\n연말연시, 도쿄-신오사카 이동 시 시간을 절약할 수 있는 특별한 신칸센이 운행됩니다!\n\n✨ '도카이도 루미에르 익스프레스' ✨\n밤에 출발해 다음 날 아침 도착하는 야간 신칸센으로, 상하행 각 1편씩 총 2편이 운행됩니다.\n\n✅ 1인석 & 그룹석 구분 운영!\n✅ 이동 시간 단축으로 알찬 여행 가능!\n\n연말연시 일본 여행 계획 중이라면, 이 특별 열차 정보를 꼭 참고하세요! 🚄💨\n\n#일본여행 #도쿄 #신오사카 #신칸센 #교통정보 #연말연시 #꿀팁 #플라잉재팬 #일본교통",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄",
+          "#신오사카",
+          "#신칸센",
+          "#일본교통",
+          "#연말연시",
+          "#특별열차",
+          "#일본자유여행",
+          "#여행꿀팁",
+          "#일본여행정보",
+          "#도쿄여행",
+          "#오사카여행",
+          "#일본",
+          "#여행스타그램"
+        ],
+        "alt_texts": [
+          "도카이도 신칸센 야간 열차 운행 안내",
+          "도쿄, 신오사카 간 신칸센 운행 노선도",
+          "신칸센 좌석 종류 안내 (1인석, 그룹석)",
+          "과거 특별 신칸센 운행 모습",
+          "야간 신칸센 이용객 모습"
+        ]
+      },
+      "marketer_analysis": "타겟: 연말연시 일본 여행 예정인 한국인 여행자 / 최적 게시 시간: 평일 오후 5-7시 / 기대 반응: 정보 획득 및 공유, 여행 계획에 반영 / 이 콘텐츠의 강점: 시의성 있는 교통 정보, 이동 시간 절약이라는 명확한 이점 제시",
+      "image": {
+        "keyword": "Shinkansen night train, Tokyo to Osaka, Japan travel, JR東海, special express, limited express, travel tips, year-end, New Year",
+        "unsplash_url": "https://unsplash.com/s/photos/Shinkansen-night-train,-Tokyo-to-Osaka,-Japan-travel,-JR東海,-special-express,-limited-express,-travel-tips,-year-end,-New-Year",
+        "pexels_url": "https://www.pexels.com/search/Shinkansen%20night%20train,%20Tokyo%20to%20Osaka,%20Japan%20travel,%20JR東海,%20special%20express,%20limited%20express,%20travel%20tips,%20year-end,%20New%20Year/"
+      }
+    },
     {
       "id": "plan_9eaf7564",
       "created_at": "2026-11-26T05:03:21.025683",
@@ -923,160 +1077,6 @@
         "keyword": "Japan hotel cybersecurity attack warning",
         "unsplash_url": "https://unsplash.com/s/photos/Japan-hotel-cybersecurity-attack-warning",
         "pexels_url": "https://www.pexels.com/search/Japan%20hotel%20cybersecurity%20attack%20warning/"
-      }
-    },
-    {
-      "id": "plan_8923a2ec",
-      "created_at": "2026-11-23T03:43:50.573792",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "ジャルパック、海外ダイナミックパッケージで「BLACK FLYDAY タイムセール」を実施中　最大5万円割引",
-        "url": "https://www.traicy.com/posts/20261122389128/",
-        "date": "Sun, 22 Nov 2026 13:43:11 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 최대 5만원 할인받고 알차게 떠나요!"
-      },
-      "content": {
-        "thumbnail_title": "✈️일본 여행 5만원 할인 찬스!",
-        "cards": [
-          {
-            "title": "타임 세일",
-            "content": "JAL 해외 다이나믹 패키지에서 '블랙 플라이데이 타임 세일'을 진행 중입니다. 11월 17일부터 30일까지 진행되며, 1인당 최대 50,000엔 할인 쿠폰을 제공합니다.",
-            "alt_text": "블랙 프라이데이 타임 세일 배너 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "여행 경비 및 출발 시기에 따라 15,000엔부터 최대 50,000엔까지 다양한 할인 혜택을 받을 수 있습니다.",
-            "alt_text": "할인 금액별 안내 이미지"
-          },
-          {
-            "title": "대상 상품",
-            "content": "이번 프로모션은 JAL 해외 다이나믹 패키지 상품에 적용됩니다. 일본 포함 다양한 해외 여행지를 예약할 때 활용 가능합니다.",
-            "alt_text": "JAL 다이나믹 패키지 상품 목록 이미지"
-          },
-          {
-            "title": "예약 기간",
-            "content": "할인 쿠폰을 받을 수 있는 예약 기간은 2023년 11월 17일부터 11월 30일까지입니다. 서둘러 예약하세요!",
-            "alt_text": "달력에 11월 17일과 30일이 표시된 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "지금 바로 JAL 다이나믹 패키지 홈페이지에서 프로모션 내용을 확인하고, 원하는 일본 여행 상품을 최저가로 예약해보세요! 늦기 전에 서두르세요!",
-            "alt_text": "여행 계획을 세우는 사람의 모습"
-          }
-        ],
-        "caption": "✈️ 일본 여행 계획 중이신가요? JAL 다이나믹 패키지에서 최대 50,000엔 할인받을 수 있는 블랙 플라이데이 타임 세일이 시작되었습니다! 🤩\n\n✅ 기간: 11월 17일 ~ 11월 30일\n✅ 할인: 1인 최대 50,000엔 (상품별 상이)\n\n지금 바로 JAL 홈페이지에서 확인하고 알찬 일본 여행 준비하세요! 🇯🇵\n\n#일본여행 #JAL #항공권할인 #블랙프라이데이 #여행특가",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JAL",
-          "#일본항공",
-          "#항공권특가",
-          "#일본항공권",
-          "#여행할인",
-          "#블랙프라이데이",
-          "#타임세일",
-          "#일본자유여행",
-          "#일본여행준비",
-          "#가성비여행",
-          "#여행스타그램",
-          "#해외여행",
-          "#JAL패키지"
-        ],
-        "alt_texts": [
-          "블랙 프라이데이 타임 세일 배너 이미지",
-          "할인 금액별 안내 이미지",
-          "JAL 다이나믹 패키지 상품 목록 이미지",
-          "달력에 11월 17일과 30일이 표시된 이미지",
-          "여행 계획을 세우는 사람의 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 한국인 / 최적 게시 시간: 오후 6시-9시 (퇴근 후 여행 정보 탐색 시간) / 기대 반응: 할인 정보에 대한 관심 및 JAL 홈페이지 방문 증가 / 이 콘텐츠의 강점: 구체적인 할인 금액과 기간 명시로 즉각적인 구매 욕구 자극",
-      "image": {
-        "keyword": "JAL, Japan travel, discount, Black Friday, sale, airplane ticket",
-        "unsplash_url": "https://unsplash.com/s/photos/JAL,-Japan-travel,-discount,-Black-Friday,-sale,-airplane-ticket",
-        "pexels_url": "https://www.pexels.com/search/JAL,%20Japan%20travel,%20discount,%20Black%20Friday,%20sale,%20airplane%20ticket/"
-      }
-    },
-    {
-      "id": "plan_0896f516",
-      "created_at": "2026-11-23T03:43:45.776443",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "JR東日本、「崩壊：スターレイル」とタイアップ　モバイルSuica限定カードフェイス提供",
-        "url": "https://www.traicy.com/posts/20261123389119/",
-        "date": "Sun, 22 Nov 2026 23:15:19 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 여행 중 교통카드 활용 꿀팁! 인기 게임과 콜라보한 특별한 Suica 카드 페이스를 잡아라!"
-      },
-      "content": {
-        "thumbnail_title": "✨崩壊:スターレイル x Suica✨",
-        "cards": [
-          {
-            "title": "콜라보 소식!",
-            "content": "JR동일본이 인기 게임 '붕괴: 스타레일'과 특별한 제휴를 맺었습니다. 지금 바로 확인해보세요!",
-            "alt_text": "붕괴: 스타레일 캐릭터와 JR동일본 로고가 함께 있는 이미지"
-          },
-          {
-            "title": "기간 한정 혜택",
-            "content": "이벤트는 2023년 11월 23일부터 2023년 12월 21일까지 진행됩니다. 놓치지 마세요!",
-            "alt_text": "달력에 11월 23일과 12월 21일이 표시된 이미지"
-          },
-          {
-            "title": "모바일 Suica",
-            "content": "오직 모바일 Suica 사용자만을 위한 특별한 카드 페이스를 선물합니다.",
-            "alt_text": "스마트폰 화면에 보이는 모바일 Suica 앱 이미지"
-          },
-          {
-            "title": "참여 방법",
-            "content": "이벤트 참여는 전용 페이지를 통해 가능합니다. 자세한 내용은 공식 발표를 확인하세요.",
-            "alt_text": "웹사이트 링크 또는 QR코드를 보여주는 이미지"
-          },
-          {
-            "title": "교통카드 꿀팁",
-            "content": "일본 여행 필수템인 Suica! 이번 기회에 특별한 디자인으로 여행의 추억을 더해보세요. JR 동일본 지역에서 유용하게 사용할 수 있습니다.",
-            "alt_text": "Suica 카드를 들고 있는 여행객의 손 이미지"
-          }
-        ],
-        "caption": "🇯🇵 붕괴: 스타레일 팬 주목! 🇯🇵\nJR동일본과 인기 게임 '붕괴: 스타레일'이 만났어요! 🤩\n\n11월 23일부터 12월 21일까지, 모바일 Suica 사용자에게 특별한 카드 페이스를 선물하는 캠페인을 진행합니다. 🎁\n\n일본 여행 중이라면 이 특별한 기회를 놓치지 마세요! ✨\n\n#일본여행 #플라잉재팬 #Suica #붕괴스타레일 #교통카드 #일본교통 #한정판 #여행꿀팁 #JR동일본 #모바일Suica #이벤트 #일본정보 #여행스타그램 #여행준비 #일본생활",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#Suica",
-          "#붕괴스타레일",
-          "#일본교통",
-          "#모바일Suica",
-          "#JR동일본",
-          "#여행꿀팁",
-          "#일본정보",
-          "#한정판",
-          "#이벤트",
-          "#여행스타그램",
-          "#여행준비",
-          "#일본생활",
-          "#일본카드"
-        ],
-        "alt_texts": [
-          "붕괴: 스타레일 캐릭터와 JR동일본 로고가 함께 있는 이미지",
-          "달력에 11월 23일과 12월 21일이 표시된 이미지",
-          "스마트폰 화면에 보이는 모바일 Suica 앱 이미지",
-          "웹사이트 링크 또는 QR코드를 보여주는 이미지",
-          "Suica 카드를 들고 있는 여행객의 손 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 붕괴: 스타레일 팬 또는 일본 여행 예정자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 높은 참여율과 공유 / 이 콘텐츠의 강점: 인기 게임과의 콜라보로 인한 높은 화제성 및 실질적인 교통카드 혜택 제공",
-      "image": {
-        "keyword": "Genshin Impact, Suica card, JR East, collaboration, limited edition, mobile payment, travel Japan",
-        "unsplash_url": "https://unsplash.com/s/photos/Genshin-Impact,-Suica-card,-JR-East,-collaboration,-limited-edition,-mobile-payment,-travel-Japan",
-        "pexels_url": "https://www.pexels.com/search/Genshin%20Impact,%20Suica%20card,%20JR%20East,%20collaboration,%20limited%20edition,%20mobile%20payment,%20travel%20Japan/"
       }
     }
   ]
