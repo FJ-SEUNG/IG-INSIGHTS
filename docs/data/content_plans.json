@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-26T08:01:41.291323",
+  "last_updated": "2026-11-27T05:03:05.044022",
   "plans": [
+    {
+      "id": "plan_ae95af5e",
+      "created_at": "2026-11-27T05:03:03.043825",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "東京駅手土産スイーツ2026新作ランキング。グランスタ限定ココリスガレット/じゃがボルダ龍宮のり味/電車グミッツェル缶など上位に",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159741.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "도쿄역에서만 맛볼 수 있는 2026년 신상 기념품, 지금 바로 확인하세요!"
+      },
+      "content": {
+        "thumbnail_title": "✨2026 도쿄역 한정 스위츠 TOP10✨",
+        "cards": [
+          {
+            "title": "2026 신상 공개!",
+            "content": "JR 도쿄역 에키나카 '그란스타 도쿄'에서 2026년 신상 기념품 스위츠 판매량 TOP10을 발표했어요. 놓치면 후회할 역대급 신상들을 만나보세요!",
+            "alt_text": "도쿄역 그란스타 내부의 다양한 스위츠 진열 모습"
+          },
+          {
+            "title": "코코리스 가렛트",
+            "content": "1위는 '코코리스 가렛트'가 차지했습니다. 도쿄역에서만 구매 가능하며, 독특한 모양과 맛으로 큰 인기를 얻고 있어요. 선물용으로 강력 추천!",
+            "alt_text": "코코리스 가렛트 스위츠 이미지"
+          },
+          {
+            "title": "じゃがボルダ 龍宮",
+            "content": "2위는 'じゃがボルダ 龍宮(용궁) 맛'입니다. 감자 스낵으로, 독특한 풍미를 자랑하며 선물하기 좋은 패키지로 출시되었습니다.",
+            "alt_text": "じゃがボルダ 龍宮 스낵 이미지"
+          },
+          {
+            "title": "전차 구미",
+            "content": "3위는 '전차 구미츠젤 캔'입니다. 귀여운 전차 모양의 젤리로, 특별한 캔에 담겨 있어 아이들은 물론 어른들에게도 인기 만점이에요.",
+            "alt_text": "전차 구미츠젤 캔 이미지"
+          },
+          {
+            "title": "구매 꿀팁!",
+            "content": "인기 상품은 조기 품절될 수 있으니, 방문 전 미리 확인하거나 오픈 시간에 맞춰 방문하는 것을 추천해요. 도쿄역 방문 시 꼭 챙겨야 할 필수 쇼핑 리스트!",
+            "alt_text": "쇼핑백을 들고 즐거워하는 여행객 이미지"
+          }
+        ],
+        "caption": "🇯🇵2026년 도쿄역 신상 스위츠 랭킹 공개!🇯🇵\n\n도쿄 여행 필수 코스, 도쿄역에서만 만날 수 있는 2026년 신상 기념품 스위츠 TOP10을 공개합니다! 🥇1위 코코리스 가렛트, 🥈2위 じゃがボルダ 龍宮 맛, 🥉3위 전차 구미츠젤 캔 등 놓치면 후회할 역대급 신상들을 지금 바로 확인하세요!\n\n✨도쿄역 방문 시 꼭 챙겨야 할 쇼핑 리스트!✨\n\n#도쿄여행 #도쿄역 #일본기념품 #도쿄쇼핑 #일본과자 #한정판",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#도쿄여행",
+          "#도쿄역",
+          "#도쿄역기념품",
+          "#일본쇼핑",
+          "#도쿄쇼핑",
+          "#일본과자",
+          "#한정판",
+          "#2026신상",
+          "#여행정보",
+          "#일본디저트",
+          "#기념품추천",
+          "#여행꿀팁",
+          "#플라잉재팬추천"
+        ],
+        "alt_texts": [
+          "도쿄역 그란스타 내부의 다양한 스위츠 진열 모습",
+          "코코리스 가렛트 스위츠 이미지",
+          "じゃがボルダ 龍宮 스낵 이미지",
+          "전차 구미츠젤 캔 이미지",
+          "쇼핑백을 들고 즐거워하는 여행객 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 도쿄 여행을 계획 중인 2040 한국인 관광객 / 최적 게시 시간: 오후 7시 (퇴근 후 정보 탐색 시간) / 기대 반응: 높은 관심과 공유, 댓글 문의 / 이 콘텐츠의 강점: 최신 정보, 구체적인 순위와 상품명 제시, 선물용으로 적합한 아이템 소개",
+      "image": {
+        "keyword": "Tokyo Station souvenir sweets ranking 2026 new products",
+        "unsplash_url": "https://unsplash.com/s/photos/Tokyo-Station-souvenir-sweets-ranking-2026-new-products",
+        "pexels_url": "https://www.pexels.com/search/Tokyo%20Station%20souvenir%20sweets%20ranking%202026%20new%20products/"
+      }
+    },
+    {
+      "id": "plan_fc6178fa",
+      "created_at": "2026-11-27T05:02:57.032361",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "ハローキティ×北欧デザインのミニショルダーが半額に！　いちご/花柄の2種展開、ソフトな撥水生地で500mLボトルも入る",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159867.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "인기 캐릭터 '키티' 굿즈, 블랙프라이데이 반값 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "💖키티 가방 반값 득템!💖",
+        "cards": [
+          {
+            "title": "득템 찬스!",
+            "content": "인기 캐릭터 '헬로키티'와 북유럽 감성 '키피스'가 만난 미니 숄더백을 50% 할인된 가격에 구매할 수 있어요. 정가 5610엔에서 2805엔으로 할인된답니다.",
+            "alt_text": "헬로키티와 키피스 콜라보 미니 숄더백 상품 이미지"
+          },
+          {
+            "title": "할인 기간",
+            "content": "이 특별한 할인 행사는 12월 11일 오전 11시까지 진행됩니다. 놓치기 전에 서둘러 구매하세요!",
+            "alt_text": "할인 기간을 나타내는 캘린더 이미지"
+          },
+          {
+            "title": "디자인 2가지",
+            "content": "딸기 패턴과 꽃무늬, 두 가지 사랑스러운 디자인으로 출시되었어요. 취향에 맞게 선택해보세요.",
+            "alt_text": "두 가지 디자인의 헬로키티 미니 숄더백 상품 이미지"
+          },
+          {
+            "title": "실용성 UP",
+            "content": "부드러운 발수 원단으로 제작되어 가볍게 오염을 닦아낼 수 있으며, 500ml 생수병도 넉넉하게 수납 가능해요.",
+            "alt_text": "숄더백에 500ml 생수병이 들어가는 모습 이미지"
+          },
+          {
+            "title": "구매처",
+            "content": "일본 공식 EC 사이트 '보물섬 채널'에서만 구매 가능해요. 일본 여행 중이라면 꼭 확인해보세요!",
+            "alt_text": "일본 온라인 쇼핑몰 화면 이미지"
+          }
+        ],
+        "caption": "🇯🇵일본 여행 필수템 득템 찬스!🇯🇵\n\n인기 캐릭터 '헬로키티'와 북유럽 디자인 '키피스'가 만난 미니 숄더백이 블랙프라이데이 세일로 50% 할인 중이에요!💖\n\n✨딸기/꽃무늬 2가지 디자인\n✨부드러운 발수 원단, 500ml 생수병 수납 가능\n✨정가 5610엔 -> 2805엔!\n✨할인 기간: ~12월 11일 11시까지\n\n일본 공식 EC 사이트 '보물섬 채널'에서만 구매 가능하니, 일본 여행 계획 중이라면 꼭 득템하세요!✈️\n\n#일본여행 #플라잉재팬 #헬로키티 #키피스 #일본쇼핑 #블랙프라이데이 #득템찬스 #일본직구 #캐릭터굿즈 #여행준비 #일본쇼핑리스트 #키티가방 #할인정보 #일본여행꿀팁 #해외직구",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#헬로키티",
+          "#키피스",
+          "#일본쇼핑",
+          "#블랙프라이데이",
+          "#득템찬스",
+          "#일본직구",
+          "#캐릭터굿즈",
+          "#여행준비",
+          "#일본쇼핑리스트",
+          "#키티가방",
+          "#할인정보",
+          "#일본여행꿀팁",
+          "#해외직구"
+        ],
+        "alt_texts": [
+          "헬로키티와 키피스 콜라보 미니 숄더백 상품 이미지",
+          "할인 기간을 나타내는 캘린더 이미지",
+          "두 가지 디자인의 헬로키티 미니 숄더백 상품 이미지",
+          "숄더백에 500ml 생수병이 들어가는 모습 이미지",
+          "일본 온라인 쇼핑몰 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중인 20-40대 여성 / 최적 게시 시간: 평일 오후 6-8시 / 기대 반응: 높은 관심과 구매 문의 / 이 콘텐츠의 강점: 인기 캐릭터와 파격적인 할인율, 실용적인 정보 제공",
+      "image": {
+        "keyword": "Hello Kitty kippis mini shoulder bag, Japan shopping, Black Friday sale",
+        "unsplash_url": "https://unsplash.com/s/photos/Hello-Kitty-kippis-mini-shoulder-bag,-Japan-shopping,-Black-Friday-sale",
+        "pexels_url": "https://www.pexels.com/search/Hello%20Kitty%20kippis%20mini%20shoulder%20bag,%20Japan%20shopping,%20Black%20Friday%20sale/"
+      }
+    },
     {
       "id": "plan_cc3136a4",
       "created_at": "2026-11-26T08:01:39.291180",
@@ -923,160 +1077,6 @@
         "keyword": "JR Tokai winter unlimited ride pass, Japan winter travel, Shinkansen reservation benefit, Japanese train pass, Chubu region travel",
         "unsplash_url": "https://unsplash.com/s/photos/JR-Tokai-winter-unlimited-ride-pass,-Japan-winter-travel,-Shinkansen-reservation-benefit,-Japanese-train-pass,-Chubu-region-travel",
         "pexels_url": "https://www.pexels.com/search/JR%20Tokai%20winter%20unlimited%20ride%20pass,%20Japan%20winter%20travel,%20Shinkansen%20reservation%20benefit,%20Japanese%20train%20pass,%20Chubu%20region%20travel/"
-      }
-    },
-    {
-      "id": "plan_33628f73",
-      "created_at": "2026-11-23T07:21:20.020106",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "セブン-イレブン、対象のチキン2個で50円引き！　骨付きの「スペシャルななチキ」も対象",
-        "url": "https://gourmet.watch.impress.co.jp/docs/news/2158500.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 편의점 치킨 2개 사면 50엔 할인! 놓칠 수 없는 기회! 🍗"
-      },
-      "content": {
-        "thumbnail_title": "일본 편의점 치킨 50엔 할인! 🍗",
-        "cards": [
-          {
-            "title": "할인 기간",
-            "content": "세븐일레븐에서 대상 치킨을 2개 구매하면 50엔 할인해주는 행사를 12월 4일부터 10일까지 7일간 진행합니다.",
-            "alt_text": "할인 행사 기간을 안내하는 달력 이미지"
-          },
-          {
-            "title": "할인 대상",
-            "content": "할인 대상 품목에는 뼈 있는 '스페셜 나나치킨'도 포함됩니다. 어떤 치킨을 골라도 50엔 할인을 받을 수 있습니다.",
-            "alt_text": "다양한 종류의 세븐일레븐 치킨 이미지"
-          },
-          {
-            "title": "할인 금액",
-            "content": "2개 구매 시 50엔 할인! 평소 좋아하던 치킨을 더 저렴하게 즐길 수 있는 좋은 기회입니다.",
-            "alt_text": "50엔 할인 스티커가 붙은 치킨 이미지"
-          },
-          {
-            "title": "행사 점포",
-            "content": "일본 전국의 세븐일레븐 점포에서 진행됩니다. 여행 중 편의점을 발견하면 꼭 들러보세요!",
-            "alt_text": "일본 세븐일레븐 편의점 외관 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "치킨과 함께 따뜻한 음료나 맥주를 곁들이면 더욱 완벽한 일본 편의점 식사를 즐길 수 있습니다. 잊지 말고 챙기세요!",
-            "alt_text": "치킨과 음료수를 함께 즐기는 모습 이미지"
-          }
-        ],
-        "caption": "일본 여행 필수 코스! 🇯🇵 세븐일레븐에서 치킨 2개 사면 50엔 할인받으세요! 🍗\n\n12월 4일(월)부터 10일(일)까지 단 7일간 진행되는 역대급 할인 찬스! 🤩\n\n여행 중 출출할 때, 맥주 안주로도 딱인 일본 편의점 치킨을 더 저렴하게 즐길 기회! 놓치지 마세요! 😉",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본편의점",
-          "#세븐일레븐",
-          "#일본치킨",
-          "#편의점할인",
-          "#일본음식",
-          "#일본먹방",
-          "#일본여행팁",
-          "#일본쇼핑",
-          "#나나치킨",
-          "#해외여행",
-          "#여행정보",
-          "#일본자유여행",
-          "#세븐일레븐추천"
-        ],
-        "alt_texts": [
-          "할인 행사 기간을 안내하는 달력 이미지",
-          "다양한 종류의 세븐일레븐 치킨 이미지",
-          "50엔 할인 스티커가 붙은 치킨 이미지",
-          "일본 세븐일레븐 편의점 외관 이미지",
-          "치킨과 음료수를 함께 즐기는 모습 이미지"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행 중인 20-40대 한국인 여행자 / 최적 게시 시간: 오후 5-7시 (저녁 식사 시간대) / 기대 반응: 정보 공유 및 저장, 구매 욕구 자극 / 이 콘텐츠의 강점: 구체적인 할인 정보와 기간 명시, 한국인이 선호하는 편의점 간식 정보",
-      "image": {
-        "keyword": "japanese convenience store chicken discount",
-        "unsplash_url": "https://unsplash.com/s/photos/japanese-convenience-store-chicken-discount",
-        "pexels_url": "https://www.pexels.com/search/japanese%20convenience%20store%20chicken%20discount/"
-      }
-    },
-    {
-      "id": "plan_c5ef6490",
-      "created_at": "2026-11-23T07:21:13.226546",
-      "category": "hotplace",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "京王電鉄、京王プレッソインのランサムウェア攻撃で18億円減収　12月にも予約受付再開へ",
-        "url": "https://www.traicy.com/posts/20261122389090/",
-        "date": "Sun, 22 Nov 2026 10:00:06 +0000"
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "일본 숙소 예약 시 꼭 확인해야 할 긴급 상황 발생! 🚨"
-      },
-      "content": {
-        "thumbnail_title": "⚠️일본 숙소 예약 주의보⚠️",
-        "cards": [
-          {
-            "title": "호텔 시스템 마비",
-            "content": "일본 유명 호텔 체인 '게이오 플레소 인'이 랜섬웨어 공격으로 신규 예약 접수를 중단했습니다. 이로 인해 18억 엔의 숙박 수입이 감소할 것으로 예상됩니다.",
-            "alt_text": "컴퓨터 화면에 경고 메시지가 표시된 모습"
-          },
-          {
-            "title": "예약 중단 기간",
-            "content": "현재(10월 기준) 신규 예약 접수가 중단된 상태이며, 10월 호텔 가동률은 약 30% 수준에 머물렀습니다. 11월에도 상황이 크게 개선되지 않을 것으로 보입니다.",
-            "alt_text": "달력에 '예약 불가' 표시가 된 모습"
-          },
-          {
-            "title": "예약 재개 예정",
-            "content": "다행히 12월부터는 예약 접수가 재개될 예정이라고 합니다. 하지만 아직 정확한 재개 날짜는 발표되지 않았으니, 여행 계획 시 참고하시기 바랍니다.",
-            "alt_text": "달력에 '예약 가능' 표시가 된 모습"
-          },
-          {
-            "title": "대체 숙소 고려",
-            "content": "만약 해당 호텔 체인 이용을 계획하셨다면, 예약 재개 시점까지 기다리거나 다른 숙소를 알아보는 것이 안전합니다.",
-            "alt_text": "지도 앱에서 여러 숙소 옵션을 보여주는 모습"
-          },
-          {
-            "title": "여행 팁",
-            "content": "일본 여행 시 숙소 예약은 최소 2~3개월 전에 완료하는 것이 좋으며, 예약 후에도 호텔 측의 공식 발표를 주기적으로 확인하는 습관을 들이세요.",
-            "alt_text": "여행 가방과 여권, 숙소 예약 확인증을 들고 있는 모습"
-          }
-        ],
-        "caption": "일본 여행 준비 중이신가요? 🇯🇵\n\n⚠️긴급 공지⚠️\n일본의 유명 호텔 체인 '게이오 플레소 인'이 랜섬웨어 공격으로 신규 예약 접수를 중단했습니다.\n\n현재 10월, 11월 예약이 불가하며, 12월부터 예약이 재개될 예정이지만 아직 정확한 날짜는 미정입니다.\n\n만약 해당 호텔을 예약하셨거나 계획 중이셨다면, 반드시 호텔 측의 공식 발표를 확인하시고 대체 숙소를 알아보시는 것을 추천합니다! ✈️\n\n#일본숙소 #일본호텔 #게이오플레소인 #긴급공지 #일본여행정보 #플라잉재팬",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#일본숙소",
-          "#일본호텔",
-          "#게이오플레소인",
-          "#긴급공지",
-          "#여행정보",
-          "#일본여행준비",
-          "#여행팁",
-          "#숙소예약",
-          "#일본자유여행",
-          "#여행스타그램",
-          "#일본",
-          "#해외여행",
-          "#안전여행"
-        ],
-        "alt_texts": [
-          "컴퓨터 화면에 경고 메시지가 표시된 모습",
-          "달력에 '예약 불가' 표시가 된 모습",
-          "달력에 '예약 가능' 표시가 된 모습",
-          "지도 앱에서 여러 숙소 옵션을 보여주는 모습",
-          "여행 가방과 여권, 숙소 예약 확인증을 들고 있는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 일본 여행을 계획 중인 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 숙소 예약 관련 주의 환기 및 정보 공유 / 이 콘텐츠의 강점: 최신 발생한 숙소 관련 이슈로 즉각적인 정보 제공 및 필수적인 주의사항 강조",
-      "image": {
-        "keyword": "Japan hotel cybersecurity attack warning",
-        "unsplash_url": "https://unsplash.com/s/photos/Japan-hotel-cybersecurity-attack-warning",
-        "pexels_url": "https://www.pexels.com/search/Japan%20hotel%20cybersecurity%20attack%20warning/"
       }
     }
   ]
