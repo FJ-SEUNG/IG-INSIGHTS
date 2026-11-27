@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-11-27T05:03:05.044022",
+  "last_updated": "2026-11-27T08:07:30.869918",
   "plans": [
+    {
+      "id": "plan_75d469dc",
+      "created_at": "2026-11-27T08:07:28.869728",
+      "category": "transport",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "楽天トラベル、「九州ふっこう応援割」を11月27日販売再開　福岡・佐賀・長崎県対象",
+        "url": "https://www.traicy.com/posts/20261127389564/",
+        "date": "Fri, 27 Nov 2026 00:45:29 +0000"
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "일본 큐슈 지역 여행 시 최대 70% 할인받을 수 있는 절호의 기회!"
+      },
+      "content": {
+        "thumbnail_title": "✈️ 큐슈 여행 70% 할인 찬스!",
+        "cards": [
+          {
+            "title": "할인 재개!",
+            "content": "일본 큐슈 지역 여행 지원 '큐슈 후코오 응원 할인'이 11월 27일부터 재개됩니다.",
+            "alt_text": "일본 큐슈 지역 지도"
+          },
+          {
+            "title": "판매 시작 시간",
+            "content": "후쿠오카현은 11월 27일 오전 10시, 사가현은 정오, 나가사키현은 오후 2시에 판매가 시작됩니다.",
+            "alt_text": "시계 이미지"
+          },
+          {
+            "title": "할인 대상",
+            "content": "숙박 단독 상품 및 항공권+숙박 세트 상품에 할인이 적용됩니다. (최대 70%)",
+            "alt_text": "여행 상품 이미지"
+          },
+          {
+            "title": "주요 지역",
+            "content": "이번 할인 프로모션은 후쿠오카, 사가, 나가사키현을 대상으로 합니다.",
+            "alt_text": "후쿠오카, 사가, 나가사키현 랜드마크 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "한정 수량으로 빠르게 소진될 수 있으니, 관심 있으신 분들은 판매 시작 시간을 꼭 확인하세요!",
+            "alt_text": "알림 벨 이미지"
+          }
+        ],
+        "caption": "일본 큐슈 여행 예정이신가요? ✈️ 11월 27일부터 楽天トラベル에서 '큐슈 후코오 응원 할인'이 재개됩니다! 최대 70%까지 할인받을 수 있는 기회이니, 후쿠오카, 사가, 나가사키현 여행 계획 있으신 분들은 꼭 확인하세요! 😉\n\n#큐슈여행 #일본할인 #여행꿀팁",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#큐슈여행",
+          "#일본할인",
+          "#여행정보",
+          "#후쿠오카",
+          "#사가",
+          "#나가사키",
+          "#료칸",
+          "#호텔",
+          "#항공권",
+          "#여행스타그램",
+          "#일본자유여행",
+          "#일본가볼만한곳",
+          "#여행꿀팁"
+        ],
+        "alt_texts": [
+          "일본 큐슈 지역 지도",
+          "시계 이미지",
+          "여행 상품 이미지",
+          "후쿠오카, 사가, 나가사키현 랜드마크 이미지",
+          "알림 벨 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 큐슈 지역 여행 예정인 한국인 여행자 / 최적 게시 시간: 오후 6시~9시 / 기대 반응: 높은 관심과 예약 문의 / 이 콘텐츠의 강점: 실질적인 할인 정보로 즉각적인 여행 계획 변경 유도 가능",
+      "image": {
+        "keyword": "Japan Kyushu discount travel promotion",
+        "unsplash_url": "https://unsplash.com/s/photos/Japan-Kyushu-discount-travel-promotion",
+        "pexels_url": "https://www.pexels.com/search/Japan%20Kyushu%20discount%20travel%20promotion/"
+      }
+    },
+    {
+      "id": "plan_953aecd9",
+      "created_at": "2026-11-27T08:07:20.199433",
+      "category": "event",
+      "priority": "high",
+      "status": "new",
+      "source": {
+        "title": "宝島社「ムーミン公式ファンブック」が50％オフに！　80周年限定リトルミイのBIGトートバッグ付き",
+        "url": "https://travel.watch.impress.co.jp/docs/news/2159958.html",
+        "date": ""
+      },
+      "relevance": {
+        "interest": "상",
+        "appeal": "무려 50% 할인! 무민 80주년 한정판 굿즈 득템 찬스!"
+      },
+      "content": {
+        "thumbnail_title": "✨무민 80주년 굿즈 50% 할인!✨",
+        "cards": [
+          {
+            "title": "역대급 할인!",
+            "content": "일본에서 무민 80주년 기념 공식 팬북을 놀라운 50% 할인 가격에 만나보세요! 1645엔 (정가 3289엔)에 득템할 수 있는 기회입니다.",
+            "alt_text": "반값 할인 중인 무민 공식 팬북 이미지"
+          },
+          {
+            "title": "한정판 토트백",
+            "content": "이번 팬북에는 80주년 기념 리틀 미이 빅 토트백이 포함되어 있어요. 실용성까지 갖춘 특별한 굿즈입니다.",
+            "alt_text": "리틀 미이 빅 토트백 이미지"
+          },
+          {
+            "title": "놓치지 마세요!",
+            "content": "이 특별한 블랙 프라이데이 세일은 12월 11일 오전 11시까지 진행됩니다. 서둘러 구매하세요!",
+            "alt_text": "할인 종료 날짜를 강조하는 이미지"
+          },
+          {
+            "title": "구매처 안내",
+            "content": "일본 현지 서점 또는 宝島チャンネル (타카라지마 채널) 공식 EC 사이트에서 구매 가능합니다. (일본 내 배송만 가능할 수 있습니다)",
+            "alt_text": "온라인 구매처를 나타내는 이미지"
+          },
+          {
+            "title": "꿀팁",
+            "content": "일본 여행 중이라면 현지 서점을 방문하거나, 일본 내 주소가 있다면 온라인으로 주문하여 숙소로 배송받는 방법을 고려해 보세요. 친구에게 부탁하는 것도 방법!",
+            "alt_text": "일본 서점 내부 또는 온라인 쇼핑 화면 이미지"
+          }
+        ],
+        "caption": "🇯🇵 일본 여행 필수템 득템 찬스! 🇯🇵\n무려 50% 할인된 가격으로 무민 80주년 기념 공식 팬북과 한정판 리틀 미이 빅 토트백을 만날 수 있어요! 🤩\n\n✨가격: 1645엔 (정가 3289엔)\n✨기간: ~12월 11일 11시까지\n\n일본 여행 중이라면 꼭 챙겨야 할 꿀템! 놓치지 마세요! 😉\n\n#무민 #리틀미이 #일본쇼핑 #블랙프라이데이 #일본여행 #플라잉재팬",
+        "hashtags": [
+          "#일본여행",
+          "#플라잉재팬",
+          "#일본쇼핑",
+          "#무민",
+          "#리틀미이",
+          "#일본굿즈",
+          "#블랙프라이데이",
+          "#일본직구",
+          "#일본여행꿀팁",
+          "#여행준비",
+          "#여행스타그램",
+          "#일본생활",
+          "#득템찬스",
+          "#할인정보",
+          "#일본한정"
+        ],
+        "alt_texts": [
+          "반값 할인 중인 무민 공식 팬북 이미지",
+          "리틀 미이 빅 토트백 이미지",
+          "할인 종료 날짜를 강조하는 이미지",
+          "온라인 구매처를 나타내는 이미지",
+          "일본 서점 내부 또는 온라인 쇼핑 화면 이미지"
+        ]
+      },
+      "marketer_analysis": "타겟: 일본 여행을 계획 중이거나 일본에 체류 중인 20-40대 한국인 / 최적 게시 시간: 평일 오후 5-7시, 주말 오후 2-4시 / 기대 반응: 높은 클릭률 및 공유율, 구매 문의 증가 / 이 콘텐츠의 강점: 명확한 할인율과 한정판 굿즈라는 매력적인 요소, 구체적인 구매 정보 제공",
+      "image": {
+        "keyword": "Moomin official fanbook Little My big tote bag 50% off sale Japan exclusive",
+        "unsplash_url": "https://unsplash.com/s/photos/Moomin-official-fanbook-Little-My-big-tote-bag-50%-off-sale-Japan-exclusive",
+        "pexels_url": "https://www.pexels.com/search/Moomin%20official%20fanbook%20Little%20My%20big%20tote%20bag%2050%%20off%20sale%20Japan%20exclusive/"
+      }
+    },
     {
       "id": "plan_ae95af5e",
       "created_at": "2026-11-27T05:03:03.043825",
@@ -923,160 +1077,6 @@
         "keyword": "Fukuoka, Japan, discount coupon, travel, airplane ticket, hotel, save money, limited time offer, travel promotion",
         "unsplash_url": "https://unsplash.com/s/photos/Fukuoka,-Japan,-discount-coupon,-travel,-airplane-ticket,-hotel,-save-money,-limited-time-offer,-travel-promotion",
         "pexels_url": "https://www.pexels.com/search/Fukuoka,%20Japan,%20discount%20coupon,%20travel,%20airplane%20ticket,%20hotel,%20save%20money,%20limited%20time%20offer,%20travel%20promotion/"
-      }
-    },
-    {
-      "id": "plan_e8788473",
-      "created_at": "2026-11-24T06:57:51.344232",
-      "category": "tips",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "北海道銘菓「生ノースマン」に冬季限定チョコレート。500層の薄パイにチョコ生クリームとチョコチップ、12月1日発売",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2158749.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "홋카이도 한정! 겨울에만 맛볼 수 있는 특별한 초콜릿 생 노스맨!"
-      },
-      "content": {
-        "thumbnail_title": "홋카이도 겨울 한정 🍫",
-        "cards": [
-          {
-            "title": "겨울 한정 출시",
-            "content": "홋카이도의 인기 디저트 '생 노스맨'에 겨울 한정 초콜릿 맛이 새로 나왔어요! 12월 1일부터 맛볼 수 있습니다.",
-            "alt_text": "겨울 한정 '생 노스맨 チョコレート'가 출시된다는 안내 이미지"
-          },
-          {
-            "title": "특별한 맛",
-            "content": "500겹의 얇은 파이 안에 부드러운 초콜릿 생크림과 달콤한 초콜릿 칩이 가득 들어있어요. 특별한 겨울 디저트를 경험해보세요.",
-            "alt_text": "생 노스맨 초콜릿 맛의 단면을 보여주는 이미지"
-          },
-          {
-            "title": "가격 정보",
-            "content": "4개입 세트 가격은 1,580엔입니다. 선물용으로도, 혼자 즐기기에도 좋아요.",
-            "alt_text": "생 노스맨 4개입 세트 가격 정보가 담긴 이미지"
-          },
-          {
-            "title": "판매 기간",
-            "content": "2023년 12월 1일부터 2027년 2월 말까지 기간 한정으로 판매될 예정이에요.",
-            "alt_text": "생 노스맨 초콜릿 맛의 판매 기간을 안내하는 이미지"
-          },
-          {
-            "title": "꿀팁",
-            "content": "홋카이도 여행 계획 중이라면 이 기간을 꼭 기억해두세요! 현지에서만 맛볼 수 있는 특별한 디저트이니 놓치지 마세요.",
-            "alt_text": "홋카이도 겨울 풍경과 함께 생 노스맨을 즐기는 모습"
-          }
-        ],
-        "caption": "홋카이도 겨울 한정 ☃️ '생 노스맨 チョコレート' 출시! \n\n500겹 파이와 진한 초콜릿 생크림, 초코칩의 환상 조합! \n\n✅ 출시일: 12월 1일\n✅ 가격: 4개입 1,580엔\n✅ 판매 기간: 12월 1일 ~ 2027년 2월 말\n\n홋카이도 여행 필수 코스, 겨울에만 만날 수 있는 특별한 디저트를 놓치지 마세요!\n\n#생노스맨 #홋카이도여행 #겨울한정 #일본디저트 #홋카이도맛집",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#홋카이도",
-          "#홋카이도여행",
-          "#일본디저트",
-          "#겨울여행",
-          "#한정판",
-          "#생노스맨",
-          "#삿포로",
-          "#오타루",
-          "#여행정보",
-          "#일본과자",
-          "#디저트맛집",
-          "#겨울한정",
-          "#여행꿀팁"
-        ],
-        "alt_texts": [
-          "겨울 한정 '생 노스맨 チョコレート'가 출시된다는 안내 이미지",
-          "생 노스맨 초콜릿 맛의 단면을 보여주는 이미지",
-          "생 노스맨 4개입 세트 가격 정보가 담긴 이미지",
-          "생 노스맨 초콜릿 맛의 판매 기간을 안내하는 이미지",
-          "홋카이도 겨울 풍경과 함께 생 노스맨을 즐기는 모습"
-        ]
-      },
-      "marketer_analysis": "타겟: 홋카이도 여행 예정인 2030 한국인 여행자 / 최적 게시 시간: 평일 저녁 7-9시 / 기대 반응: 정보 공유 및 저장, 여행 계획 반영 / 이 콘텐츠의 강점: 시기적절한 한정판 정보, 구체적인 가격 및 기간 명시",
-      "image": {
-        "keyword": "Hokkaido winter limited edition Nama Northman chocolate",
-        "unsplash_url": "https://unsplash.com/s/photos/Hokkaido-winter-limited-edition-Nama-Northman-chocolate",
-        "pexels_url": "https://www.pexels.com/search/Hokkaido%20winter%20limited%20edition%20Nama%20Northman%20chocolate/"
-      }
-    },
-    {
-      "id": "plan_7f23035a",
-      "created_at": "2026-11-24T06:57:46.271984",
-      "category": "transport",
-      "priority": "high",
-      "status": "new",
-      "source": {
-        "title": "「JR東海☆冬の乗り放題きっぷ」2026年も発売決定。年末年始も使える、新幹線の予約者限定で在来線がお得",
-        "url": "https://travel.watch.impress.co.jp/docs/news/2158752.html",
-        "date": ""
-      },
-      "relevance": {
-        "interest": "상",
-        "appeal": "연말연시 일본 여행, 신칸센 포함 JR 도카이 무제한 탑승권 득템 찬스!"
-      },
-      "content": {
-        "thumbnail_title": "JR東海 겨울 무제한 탑승권 2026년도 발매! 🚄",
-        "cards": [
-          {
-            "title": "2026년도 발매 확정!",
-            "content": "JR 도카이의 인기 상품 'JR 도카이☆겨울의 乗放題きっぷ'가 2026년에도 어김없이 돌아옵니다. 연말연시 일본 여행을 계획 중이라면 주목하세요!",
-            "alt_text": "JR 도카이 겨울 무제한 탑승권 2026년도 발매 확정 안내"
-          },
-          {
-            "title": "판매 및 이용 기간",
-            "content": "티켓 판매는 2025년 11월 27일부터 2026년 1월 11일까지 진행됩니다. 이용 기간은 2025년 12월 12일부터 2026년 1월 12일까지로, 연말연시 기간을 포함합니다.",
-            "alt_text": "JR 도카이 겨울 무제한 탑승권 판매 및 이용 기간 안내"
-          },
-          {
-            "title": "신칸센 예약자 한정 혜택",
-            "content": "이 티켓은 신칸센 예약자를 대상으로 하며, 신칸센을 제외한 JR 도카이 관내의 재래선 열차를 무제한으로 이용할 수 있는 특별한 혜택을 제공합니다.",
-            "alt_text": "JR 도카이 겨울 무제한 탑승권 신칸센 예약자 한정 혜택 안내"
-          },
-          {
-            "title": "JR 도카이 노선 무제한!",
-            "content": "나고야, 시즈오카, 하마마츠 등 JR 도카이 관내의 다양한 지역을 자유롭게 여행할 수 있습니다. 겨울 시즌 한정으로 JR 도카이 지역을 알차게 둘러보세요.",
-            "alt_text": "JR 도카이 겨울 무제한 탑승권 이용 가능 지역 안내"
-          },
-          {
-            "title": "알찬 일본 여행 팁!",
-            "content": "티켓 구매 전 JR 도카이 공식 홈페이지에서 정확한 이용 조건과 노선 범위를 반드시 확인하세요. 신칸센 예약 후 티켓을 구매하면 더욱 알찬 여행이 가능합니다.",
-            "alt_text": "JR 도카이 겨울 무제한 탑승권 구매 및 이용 꿀팁 안내"
-          }
-        ],
-        "caption": "✨2026년도 JR 도카이 겨울 무제한 탑승권 발매 확정!✨\n연말연시 일본 여행, 신칸센 예약하고 JR 도카이 재래선 무제한 탑승하세요! 🚄\n\n✅ 판매 기간: 2025년 11월 27일 ~ 2026년 1월 11일\n✅ 이용 기간: 2025년 12월 12일 ~ 2026년 1월 12일\n\nJR 도카이 지역을 자유롭게 여행할 수 있는 절호의 기회! 놓치지 마세요! 😉\n\n#일본여행 #JR패스 #JR도카이 #겨울여행 #일본교통 #무제한탑승 #나고야여행 #시즈오카여행 #하마마츠여행 #연말여행 #신년여행 #일본자유여행 #여행정보 #플라잉재팬 #겨울일본",
-        "hashtags": [
-          "#일본여행",
-          "#플라잉재팬",
-          "#JR패스",
-          "#JR도카이",
-          "#겨울여행",
-          "#일본교통",
-          "#무제한탑승",
-          "#나고야여행",
-          "#시즈오카여행",
-          "#하마마츠여행",
-          "#연말여행",
-          "#신년여행",
-          "#일본자유여행",
-          "#여행정보",
-          "#일본가볼만한곳"
-        ],
-        "alt_texts": [
-          "JR 도카이 겨울 무제한 탑승권 2026년도 발매 확정 안내",
-          "JR 도카이 겨울 무제한 탑승권 판매 및 이용 기간 안내",
-          "JR 도카이 겨울 무제한 탑승권 신칸센 예약자 한정 혜택 안내",
-          "JR 도카이 겨울 무제한 탑승권 이용 가능 지역 안내",
-          "JR 도카이 겨울 무제한 탑승권 구매 및 이용 꿀팁 안내"
-        ]
-      },
-      "marketer_analysis": "타겟: 연말연시 일본 여행을 계획 중인 2030 한국인 여행자 / 최적 게시 시간: 화요일, 목요일 오후 6시 ~ 8시 / 기대 반응: 티켓 정보에 대한 높은 관심과 문의, 실제 구매로 이어질 가능성 높음 / 이 콘텐츠의 강점: 시기적절한 정보 제공, 구체적인 날짜와 혜택 명시, 한국인 여행자에게 실질적인 도움 제공",
-      "image": {
-        "keyword": "JR Tokai winter unlimited ride pass, Japan winter travel, Shinkansen reservation benefit, Japanese train pass, Chubu region travel",
-        "unsplash_url": "https://unsplash.com/s/photos/JR-Tokai-winter-unlimited-ride-pass,-Japan-winter-travel,-Shinkansen-reservation-benefit,-Japanese-train-pass,-Chubu-region-travel",
-        "pexels_url": "https://www.pexels.com/search/JR%20Tokai%20winter%20unlimited%20ride%20pass,%20Japan%20winter%20travel,%20Shinkansen%20reservation%20benefit,%20Japanese%20train%20pass,%20Chubu%20region%20travel/"
       }
     }
   ]
